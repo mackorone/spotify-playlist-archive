@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 122221,
+  "num_followers": 122391,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHrgAAAAAAB+wx5PhQcO3fyfSyaFJbSG",
+  "snapshot_id": "aHwxgAAAAAAUFCsY+5eYL3a68PQLFbg9",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moi",
-        "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
+        "name": "Grandma Calls The Boy Bad News (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/2yH6KW9z9oDdAJ8b8wcEfI"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 174693,
-      "name": "Moi",
-      "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
+      "duration_ms": 206731,
+      "name": "Grandma Calls The Boy Bad News - From F1\u00ae The Movie",
+      "url": "https://open.spotify.com/track/5VWBztPOLe4D00pV01lXcF"
     },
     {
       "added_at": null,
@@ -255,22 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandma Calls The Boy Bad News (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/2yH6KW9z9oDdAJ8b8wcEfI"
+        "name": "Moi",
+        "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         },
         {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 206731,
-      "name": "Grandma Calls The Boy Bad News - From F1\u00ae The Movie",
-      "url": "https://open.spotify.com/track/5VWBztPOLe4D00pV01lXcF"
+      "duration_ms": 174693,
+      "name": "Moi",
+      "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
     },
     {
       "added_at": null,

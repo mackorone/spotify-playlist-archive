@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels\. Cover: DC3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,225,146 likes - 205 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,114 likes - 205 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

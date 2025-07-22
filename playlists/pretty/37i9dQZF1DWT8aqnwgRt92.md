@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,546,733 likes - 85 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,546,766 likes - 85 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 78 | [ACTION！](https://open.spotify.com/track/7ydifkUbDQAUlwyUayJHSE) | [八木海莉⚡️電音遊戯](https://open.spotify.com/artist/2h1lM3SKLPHkSNRv27obta), [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [ACTION！](https://open.spotify.com/album/12m09y4BvJMQPJzggEPLMq) | 3:10 |
 | 79 | [Merry Go Round](https://open.spotify.com/track/0HnfzXEfDRfJWeGAZ26w8a) | [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Merry Go Round](https://open.spotify.com/album/0B9YQiT8rHaDAzU0yguJaa) | 3:26 |
 | 80 | [灯火](https://open.spotify.com/track/52yZji1fkuUScDNuezg2G0) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [灯火](https://open.spotify.com/album/3uz7kZnobQe7o7KEStivTg) | 3:30 |
-| 81 | [サファイア](https://open.spotify.com/track/20UtEXIq1dMKtQdcgwo98Z) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [サファイア](https://open.spotify.com/album/3jkYKg3YqXcIObLjQHGxIG) | 3:48 |
+| 81 | [喧騒 feat\. Aile The Shota](https://open.spotify.com/track/5vB3ShBQUxBZsNlHch2mCI) | [椎乃味醂](https://open.spotify.com/artist/0It67rh1sbAlCG80VXJVrk), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [喧騒 feat\. Aile The Shota](https://open.spotify.com/album/6etaXLGCkosiDOahDRMJC8) | 3:00 |
 | 82 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 |
 | 83 | [Suffer](https://open.spotify.com/track/3wBJ9ZwrL74MC4IjfUwrBb) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suffer](https://open.spotify.com/album/4wdkJEh3CqOjgNx9FW5JDn) | 2:19 |
 | 84 | [Performer](https://open.spotify.com/track/49zR9JtOWS2XfPxEIwjZVa) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Performer](https://open.spotify.com/album/64PVMNrQQbg9juLQGEM7lu) | 2:49 |
 | 85 | [愛愛愛愛愛](https://open.spotify.com/track/3y32ms6zJt4Vk0WahkIKfV) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [愛愛愛愛愛](https://open.spotify.com/album/79gKv3bY7WhGf7lbrOhqYr) | 3:01 |
 
-Snapshot ID: `aHphjwAAAAArXXjPJnCMSjLROi59BsVI`
+Snapshot ID: `aH5QvgAAAADMS0HPGb/E48xZJUW9bTBo`

@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-408 songs - 23 hr 35 min
+409 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [Nyper mig i armen](https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Nyper mig i armen](https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09) | 3:15 | 2024-08-15 | 2025-04-04 |
 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 | 2024-08-22 | 2025-02-10 |
 | [Nöd och lust](https://open.spotify.com/track/3HhGWw77PZRn7k4YMku96d) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Nöd och lust](https://open.spotify.com/album/6Y7RhVGnwyJxpTgKIGeNYP) | 2:51 | 2025-06-05 |  |
-| [Om igen](https://open.spotify.com/track/6tx6iWDAZP2iZjnXxY07Tq) | [Sannex](https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8) | [Om igen](https://open.spotify.com/album/1CVTxlicj7olEclcGV7HUD) | 3:01 | 2025-04-24 |  |
+| [Om igen](https://open.spotify.com/track/6tx6iWDAZP2iZjnXxY07Tq) | [Sannex](https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8) | [Om igen](https://open.spotify.com/album/1CVTxlicj7olEclcGV7HUD) | 3:01 | 2025-04-24 | 2025-07-22 |
 | [Once In A Lifetime](https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Once In A Lifetime](https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT) | 1:57 | 2024-12-05 | 2025-05-16 |
 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 | 2024-08-22 | 2025-04-11 |
 | [One More Tequila](https://open.spotify.com/track/0OSl43WoCuCd0CMrZJ28Tm) | [Northlake Shivers](https://open.spotify.com/artist/7sJkU4O3no0nJO7X29gnUb) | [One More Tequila](https://open.spotify.com/album/3uSdcCX368aTFIG8gbrISG) | 3:00 | 2024-11-07 | 2025-01-10 |
@@ -411,6 +411,7 @@
 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 | 2024-06-27 | 2025-04-11 |
 | [You](https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX) | [Sofi Bonde](https://open.spotify.com/artist/5bj7t0m3RGAPVDNG7EaOj6) | [You](https://open.spotify.com/album/76TbBcDjb01oZbMENx4ck9) | 3:44 | 2024-08-22 | 2024-10-13 |
 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 | 2024-10-24 | 2025-05-02 |
+| [You´ve Already Won](https://open.spotify.com/track/1e3N0rkz3eG9fiMauj9Y4S) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Little Human](https://open.spotify.com/album/5Hh92QEAAnv8dU71AAVm1M) | 5:30 | 2025-07-17 |  |
 | [Zoe](https://open.spotify.com/track/4ZuXd4UOTvZcnxnK7HK0dz) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Zoe](https://open.spotify.com/album/10BtiylTakTRu7lTKhMJQ9) | 3:11 | 2025-01-09 | 2025-02-26 |
 | [Älskade vän](https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh) | [Uno Svenningsson](https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR) | [Älskade vän](https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw) | 3:19 | 2025-05-29 |  |
 | [Änglarna](https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5) | [Jonas Lundqvist](https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7) | [Änglarna](https://open.spotify.com/album/0l0GsGyhoZn8yCgmXOVbhR) | 3:40 | 2024-08-22 | 2024-10-11 |

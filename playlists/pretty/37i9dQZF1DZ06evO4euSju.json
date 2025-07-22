@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHrgAAAAAABiZ1QDpgD60EXnDdtlsKB8",
+  "snapshot_id": "aHwxgAAAAAB1wjS9OqkE915DXZO5Az3E",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 284104,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/2BIbQW7IHxJhE6J8i5PM9V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 238588,
       "name": "Black Flamingo",
       "url": "https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 284104,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2BIbQW7IHxJhE6J8i5PM9V"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 247170,
-      "name": "Mirror Talk",
-      "url": "https://open.spotify.com/track/5FXNdpyVlUObWx7jLDor5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
       },
@@ -347,38 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 252314,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Earth Is A Black Hole",
-        "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 206149,
-      "name": "New Emotion",
-      "url": "https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dazed",
         "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
       },
@@ -388,25 +340,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 246325,
-      "name": "Outside of Love",
-      "url": "https://open.spotify.com/track/3pjKdEZS8xho0ywMko6NpS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chrome Neon Jesus",
-        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 232785,
-      "name": "Supermachine",
-      "url": "https://open.spotify.com/track/6NNi9MBDthHTDFFaaYpDA9"
+      "duration_ms": 247170,
+      "name": "Mirror Talk",
+      "url": "https://open.spotify.com/track/5FXNdpyVlUObWx7jLDor5s"
     },
     {
       "added_at": null,
@@ -427,6 +363,70 @@
       "duration_ms": 194252,
       "name": "Humbug",
       "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Earth Is A Black Hole",
+        "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 206149,
+      "name": "New Emotion",
+      "url": "https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 232785,
+      "name": "Supermachine",
+      "url": "https://open.spotify.com/track/6NNi9MBDthHTDFFaaYpDA9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 246325,
+      "name": "Outside of Love",
+      "url": "https://open.spotify.com/track/3pjKdEZS8xho0ywMko6NpS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
       "added_at": null,

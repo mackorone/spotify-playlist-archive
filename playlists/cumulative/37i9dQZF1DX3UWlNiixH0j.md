@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Age Factory
 
-2,535 songs - 6 day 14 hr 14 min
+2,536 songs - 6 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Bibi](https://open.spotify.com/track/2a0jla6CzHQSm5QAyj6aP2) | [BAUKHA](https://open.spotify.com/artist/7MIbS9ds7J2A9rLEaIYLRK) | [Bibi](https://open.spotify.com/album/6RTHSt3mVGwyYlc2Q37vNl) | 4:34 | 2023-11-23 | 2023-11-29 |
 | [Bicycle](https://open.spotify.com/track/4X4Zm9TYHMN7mFaQtnRrXt) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Bicycle](https://open.spotify.com/album/1pNtvTDPYsE2ctu1roiejj) | 2:51 | 2023-06-21 | 2023-06-28 |
 | [Bicycle](https://open.spotify.com/track/4fJPOJLLB1nkpXe1LZfK4Q) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Bicycle](https://open.spotify.com/album/6cSE4mh7DxjjcSyy7iGtgs) | 2:51 | 2023-06-20 | 2023-06-22 |
-| [Big Dream](https://open.spotify.com/track/1g29K9UhQ3xsD0L0Uqs0Vg) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Big Dream](https://open.spotify.com/album/4ePrPnI99poUnIWyTeJMBL) | 5:26 | 2025-04-22 | 2025-07-16 |
+| [Big Dream](https://open.spotify.com/track/1g29K9UhQ3xsD0L0Uqs0Vg) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Big Dream](https://open.spotify.com/album/4ePrPnI99poUnIWyTeJMBL) | 5:26 | 2025-04-22 |  |
 | [BIGLOVE](https://open.spotify.com/track/5q5DpwaeE6qAv1TyF0D5D8) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BIGLOVE](https://open.spotify.com/album/30vJnOO8ywQhgOUyTjX5GJ) | 2:50 | 2023-10-31 | 2023-12-10 |
 | [bit down](https://open.spotify.com/track/31VoBooxFfYM9m2MHegcsv) | [life crown](https://open.spotify.com/artist/1GucUlQZCS6eETrQwUsg6m) | [bit down](https://open.spotify.com/album/0aZnC1fyY8SJlx41rnzBdE) | 3:29 | 2024-05-28 | 2024-06-05 |
 | [Black or White?](https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Black or White?](https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q) | 3:34 | 2024-06-11 | 2024-09-18 |
@@ -214,7 +214,7 @@
 | [California](https://open.spotify.com/track/2Ep3exZuRp72Jyqd9Lbvdi) | [SPECIAL OTHERS ACOUSTIC](https://open.spotify.com/artist/1evtrDEm844KI8zqxp2Rp2) | [California](https://open.spotify.com/album/6GeqIVcHiWZnwdwjBsP72w) | 5:52 | 2024-05-28 | 2024-06-05 |
 | [Call me](https://open.spotify.com/track/1yU0p61KLPg36rMKbDT5TE) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Call me](https://open.spotify.com/album/4Sa87grU9iP961pLuFc0qL) | 4:05 | 2023-04-11 | 2023-06-11 |
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2023-01-12 | 2023-01-18 |
-| [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 | 2025-06-03 |  |
+| [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 | 2025-06-03 | 2025-07-22 |
 | [Can We Talk](https://open.spotify.com/track/4FqWPNuNGjLwDnhXlLm1yA) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [Can We Talk](https://open.spotify.com/album/45Bac2vSakpdzirVVWM82Q) | 3:35 | 2025-04-08 | 2025-05-07 |
 | [Candy \(Flashback\)](https://open.spotify.com/track/2pJ0He1anjlfESMrPLwHWv) | [Acidclank](https://open.spotify.com/artist/5F0j8hQsmTuCkgIkb0beLc) | [Candy \(Flashback\)](https://open.spotify.com/album/070X5WUhS7znCajGiJ7kMU) | 3:14 | 2024-05-07 | 2024-05-22 |
 | [Can’t Get Over Myself \- feat\. Zuma.](https://open.spotify.com/track/2BQhm7S8FL2B1bdq0IlRKo) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Zuma.](https://open.spotify.com/artist/5njJbzFJ6lY7tq7ZiuFZX5) | [Can’t Get Over Myself \(feat\. Zuma.\)](https://open.spotify.com/album/3R5j05cIiE1DmVu2DwYjai) | 3:20 | 2023-04-18 | 2023-06-14 |
@@ -1978,6 +1978,7 @@
 | [ファンデーションの前に](https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [ファンデーションの前に](https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS) | 2:49 | 2024-03-19 | 2024-09-02 |
 | [ブランクスペース](https://open.spotify.com/track/7AwCp788ZT1c8Uz1wWXPNJ) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Extended Vol.1](https://open.spotify.com/album/4czXp8EeAmeeJtyZPUI93L) | 3:30 | 2024-09-03 | 2024-11-01 |
 | [ブランコ・スカイライン](https://open.spotify.com/track/5MPXRyl6XgVG59Q1EOtO9r) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix) | [ブランコ・スカイライン](https://open.spotify.com/album/5bvWNyUOLIoSUbPKaVivIZ) | 3:46 | 2025-03-25 | 2025-04-02 |
+| [ブルーと踊って](https://open.spotify.com/track/4SzKPPrrFSebHA5RmbVN7d) | [UWANOSORA](https://open.spotify.com/artist/5cyWYZjbXR0b9yY7HztDFI) | [ブルーと踊って](https://open.spotify.com/album/2OR5lg8Fxhs6EZRpkHL5Dp) | 4:00 | 2025-07-15 |  |
 | [ブルーライト](https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [ブルーライト](https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu) | 3:55 | 2023-04-04 | 2024-12-05 |
 | [プライベート・スーパースター](https://open.spotify.com/track/2aLn6ReK9CXMQzuF35Jkuc) | [ゆっきゅん](https://open.spotify.com/artist/5Y9FO0DbxGApgPFNh4HBNA), [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [プライベート・スーパースター](https://open.spotify.com/album/07f52PdvuHZqW4Oy0ka2AB) | 4:59 | 2024-08-13 | 2024-09-18 |
 | [プラットフォーム \| platform](https://open.spotify.com/track/3Pzl2ZLXlfcdytRfXuQPFZ) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [合歓る \- walls](https://open.spotify.com/album/0tkktCcSWh0qpzrfqmR1Ye) | 5:18 | 2025-02-04 | 2025-07-09 |
@@ -2392,7 +2393,7 @@
 | [王墓](https://open.spotify.com/track/4jfsKNlHaOB8yOJnmYByyX) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [王墓](https://open.spotify.com/album/38h1IyAAmHKyOgAtDJ1vQv) | 2:50 | 2023-03-28 | 2023-04-05 |
 | [琥珀](https://open.spotify.com/track/1zJvY385AAxY6xRfe8Zxci) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [琥珀](https://open.spotify.com/album/6v0lKNwsubljn75IXQRvhe) | 4:03 | 2023-06-06 | 2023-06-08 |
 | [琥珀](https://open.spotify.com/track/2cyLtPHD0SwHjYJGvD7z2V) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [TIME](https://open.spotify.com/album/6uEPUNxIJkdZ6AGSKhywHB) | 4:11 | 2024-03-12 | 2024-04-09 |
-| [瓶](https://open.spotify.com/track/3Oqt3V0HOEUQWeTkzX5sF5) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [瓶](https://open.spotify.com/album/2PxrwxSTPmPH3K8gSgsJRB) | 2:02 | 2025-07-08 |  |
+| [瓶](https://open.spotify.com/track/3Oqt3V0HOEUQWeTkzX5sF5) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [瓶](https://open.spotify.com/album/2PxrwxSTPmPH3K8gSgsJRB) | 2:02 | 2025-07-08 | 2025-07-22 |
 | [生く](https://open.spotify.com/track/62odN5DUwqgl90v48BGVtL) | [石田史奈](https://open.spotify.com/artist/5tvM8ES5Ooma1OEqKE1QkH) | [生く](https://open.spotify.com/album/01q4O27PG64F9YwVkyBdVU) | 4:13 | 2025-03-11 | 2025-03-19 |
 | [生活](https://open.spotify.com/track/2GlvyUJN2SE6DEW2IMPg94) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活](https://open.spotify.com/album/2XktYRaoQiQ0z2V2AmTBlP) | 5:13 | 2024-05-17 | 2024-07-03 |
 | [生活 \- re\-recording](https://open.spotify.com/track/0cqnVkquugRkIAcFPsk2DG) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [生活 \(re\-recording\)](https://open.spotify.com/album/5ToRSlA1uamWEJC382q0G5) | 4:12 | 2024-12-24 | 2025-01-12 |

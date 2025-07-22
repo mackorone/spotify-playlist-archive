@@ -15637,6 +15637,24 @@
     },
     {
       "album": {
+        "name": "Snowy Summer",
+        "url": "https://open.spotify.com/album/7eM9aYuP3VOnxRAPz9aGuN"
+      },
+      "artists": [
+        {
+          "name": "CLOSE YOUR EYES",
+          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177013,
+      "name": "Snowy Summer",
+      "url": "https://open.spotify.com/track/54zyXasoWKZAYt43c8GQvd"
+    },
+    {
+      "album": {
         "name": "Star To A Young Culture",
         "url": "https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR"
       },
@@ -16548,7 +16566,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 192040,
       "name": "Summer Was You",
       "url": "https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1"

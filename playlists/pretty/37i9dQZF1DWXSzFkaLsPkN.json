@@ -1,6 +1,6 @@
 {
   "description": "Hindi hai, Indie hai! Cover- Madhur Sharma & Aanchal Tyagi \n",
-  "num_followers": 130719,
+  "num_followers": 130743,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2025-07-18 12:59:55",
       "album": {
+        "name": "nadaaniyan",
+        "url": "https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "nadaaniyan",
+      "url": "https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3"
+    },
+    {
+      "added_at": "2025-07-18 12:59:55",
+      "album": {
         "name": "Mismatched: Season 2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 197763,
       "name": "Kho Gaye",
       "url": "https://open.spotify.com/track/2QophXhN2Ls2URfoPmiviC"
-    },
-    {
-      "added_at": "2025-07-18 12:59:55",
-      "album": {
-        "name": "nadaaniyan",
-        "url": "https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy"
-      },
-      "artists": [
-        {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "nadaaniyan",
-      "url": "https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3"
     },
     {
       "added_at": "2025-07-18 12:59:55",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-07-18 12:59:55",
       "album": {
-        "name": "Shaan",
-        "url": "https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W"
-      },
-      "artists": [
-        {
-          "name": "Salman Elahi",
-          "url": "https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT"
-        }
-      ],
-      "duration_ms": 225391,
-      "name": "Pahadon Mein",
-      "url": "https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO"
-    },
-    {
-      "added_at": "2025-07-18 12:59:55",
-      "album": {
         "name": "Saawariya",
         "url": "https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 122240,
       "name": "Saawariya",
       "url": "https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0"
+    },
+    {
+      "added_at": "2025-07-18 12:59:55",
+      "album": {
+        "name": "Shaan",
+        "url": "https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W"
+      },
+      "artists": [
+        {
+          "name": "Salman Elahi",
+          "url": "https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT"
+        }
+      ],
+      "duration_ms": 225391,
+      "name": "Pahadon Mein",
+      "url": "https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO"
     },
     {
       "added_at": "2025-07-18 12:59:55",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-07-18 12:59:55",
       "album": {
-        "name": "Lage Nahi Man",
-        "url": "https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR"
-      },
-      "artists": [
-        {
-          "name": "Vismay Patel",
-          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
-        }
-      ],
-      "duration_ms": 191770,
-      "name": "Lage Nahi Man",
-      "url": "https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy"
-    },
-    {
-      "added_at": "2025-07-18 12:59:55",
-      "album": {
         "name": "Doorie",
         "url": "https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 233826,
       "name": "Doorie",
       "url": "https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g"
+    },
+    {
+      "added_at": "2025-07-18 12:59:55",
+      "album": {
+        "name": "Lage Nahi Man",
+        "url": "https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR"
+      },
+      "artists": [
+        {
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
+        }
+      ],
+      "duration_ms": 191770,
+      "name": "Lage Nahi Man",
+      "url": "https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy"
     },
     {
       "added_at": "2025-07-18 12:59:55",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-07-18 12:59:55",
       "album": {
+        "name": "Khabar",
+        "url": "https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq"
+      },
+      "artists": [
+        {
+          "name": "Twin Strings",
+          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
+        }
+      ],
+      "duration_ms": 218636,
+      "name": "Khabar",
+      "url": "https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH"
+    },
+    {
+      "added_at": "2025-07-18 12:59:55",
+      "album": {
         "name": "Udd Chala",
         "url": "https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2025-07-18 12:59:55",
       "album": {
-        "name": "Khabar",
-        "url": "https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq"
+        "name": "Udta Parinda",
+        "url": "https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T"
       },
       "artists": [
         {
-          "name": "Twin Strings",
-          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
         }
       ],
-      "duration_ms": 218636,
-      "name": "Khabar",
-      "url": "https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH"
+      "duration_ms": 178000,
+      "name": "Udta Parinda",
+      "url": "https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb"
     },
     {
       "added_at": "2025-07-18 12:59:55",
@@ -1171,22 +1187,6 @@
       "duration_ms": 156680,
       "name": "Enna Sona",
       "url": "https://open.spotify.com/track/3FZBGD1Dosgw8hsTtrDmTn"
-    },
-    {
-      "added_at": "2025-07-18 12:59:55",
-      "album": {
-        "name": "Udta Parinda",
-        "url": "https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T"
-      },
-      "artists": [
-        {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Udta Parinda",
-      "url": "https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb"
     },
     {
       "added_at": "2025-07-18 12:59:55",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-07-18 12:59:55",
       "album": {
-        "name": "Maan Jao",
-        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
-      },
-      "artists": [
-        {
-          "name": "Utsavi Jha",
-          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "Maan Jao",
-      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
-    },
-    {
-      "added_at": "2025-07-18 12:59:55",
-      "album": {
         "name": "Kaisi Jadugari",
         "url": "https://open.spotify.com/album/157Zl2ubrkwXp4w73P1uhL"
       },
@@ -1259,22 +1243,18 @@
     {
       "added_at": "2025-07-18 12:59:55",
       "album": {
-        "name": "Jaadugari",
-        "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
+        "name": "Maan Jao",
+        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
       },
       "artists": [
         {
-          "name": "maahi",
-          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
-        },
-        {
-          "name": "Shayra Apoorva",
-          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
         }
       ],
-      "duration_ms": 153882,
-      "name": "Jaadugari",
-      "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
+      "duration_ms": 154616,
+      "name": "Maan Jao",
+      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
     },
     {
       "added_at": "2025-07-18 12:59:55",
@@ -1291,6 +1271,26 @@
       "duration_ms": 156107,
       "name": "Badra Bahara",
       "url": "https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed"
+    },
+    {
+      "added_at": "2025-07-18 12:59:55",
+      "album": {
+        "name": "Jaadugari",
+        "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "Jaadugari",
+      "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
     },
     {
       "added_at": "2025-07-18 12:59:55",
@@ -1651,6 +1651,30 @@
     {
       "added_at": "2025-07-18 12:59:55",
       "album": {
+        "name": "Barsan",
+        "url": "https://open.spotify.com/album/534o0vBS7PLabpbbj5ZnGu"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        }
+      ],
+      "duration_ms": 179777,
+      "name": "Barsan",
+      "url": "https://open.spotify.com/track/6jg2EEDFePBZNr19lHNSR8"
+    },
+    {
+      "added_at": "2025-07-18 12:59:55",
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/56gT7wKR7wzbq7w3l5gU7F"
       },
@@ -1667,26 +1691,6 @@
       "duration_ms": 197850,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0wj0UQuHJ8K3hxoTsAavnk"
-    },
-    {
-      "added_at": "2025-07-18 12:59:55",
-      "album": {
-        "name": "Saanware Aijaiyo",
-        "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
-      },
-      "artists": [
-        {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        },
-        {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
-        }
-      ],
-      "duration_ms": 234713,
-      "name": "Saanware Aijaiyo",
-      "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
     },
     {
       "added_at": "2025-07-18 12:59:55",
@@ -1719,26 +1723,22 @@
     {
       "added_at": "2025-07-18 12:59:55",
       "album": {
-        "name": "Barsan",
-        "url": "https://open.spotify.com/album/534o0vBS7PLabpbbj5ZnGu"
+        "name": "Saanware Aijaiyo",
+        "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
       },
       "artists": [
         {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
         },
         {
-          "name": "Nakul Chugh",
-          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
-        },
-        {
-          "name": "Alok Ranjan Srivastava",
-          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
         }
       ],
-      "duration_ms": 179777,
-      "name": "Barsan",
-      "url": "https://open.spotify.com/track/6jg2EEDFePBZNr19lHNSR8"
+      "duration_ms": 234713,
+      "name": "Saanware Aijaiyo",
+      "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
     },
     {
       "added_at": "2025-07-18 12:59:55",
@@ -1779,6 +1779,26 @@
     {
       "added_at": "2025-07-18 12:59:55",
       "album": {
+        "name": "Rootho Na",
+        "url": "https://open.spotify.com/album/7hqFafe5aIpab9Tx78q5mn"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        },
+        {
+          "name": "Raghav Kaushik",
+          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
+        }
+      ],
+      "duration_ms": 230322,
+      "name": "Rootho Na",
+      "url": "https://open.spotify.com/track/3iianNzrInP4BTd6NYCq3g"
+    },
+    {
+      "added_at": "2025-07-18 12:59:55",
+      "album": {
         "name": "Piya",
         "url": "https://open.spotify.com/album/2x9Kp1gmqxqSWcDAgopyRK"
       },
@@ -1799,26 +1819,6 @@
       "duration_ms": 141715,
       "name": "Piya",
       "url": "https://open.spotify.com/track/5iacz50wp5ncLjr8w9ZZ5T"
-    },
-    {
-      "added_at": "2025-07-18 12:59:55",
-      "album": {
-        "name": "Rootho Na",
-        "url": "https://open.spotify.com/album/7hqFafe5aIpab9Tx78q5mn"
-      },
-      "artists": [
-        {
-          "name": "Akanksha Bhandari",
-          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
-        },
-        {
-          "name": "Raghav Kaushik",
-          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
-        }
-      ],
-      "duration_ms": 230322,
-      "name": "Rootho Na",
-      "url": "https://open.spotify.com/track/3iianNzrInP4BTd6NYCq3g"
     },
     {
       "added_at": "2025-07-18 12:59:55",

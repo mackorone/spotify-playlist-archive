@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-662 songs - 1 day 14 hr 36 min
+663 songs - 1 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [I Won't Share You \- 2011 Remaster](https://open.spotify.com/track/3kLE2Jsxeb3W2bhx82bPlb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 2:53 | 2024-10-26 | 2024-11-14 |
 | [I'd Rather You Leave Me](https://open.spotify.com/track/7loaQK9Jd9RVYVj3iN4Xms) | [The Choir](https://open.spotify.com/artist/1CBHzR63n8JTqYNiGwgeqO) | [I'd Rather You Leave Me](https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls) | 2:02 | 2024-01-05 | 2024-03-10 |
 | [I'm Really Flagging \(or I Trusted U\)](https://open.spotify.com/track/52RQcaMJ3DdN3Uyfs4a19r) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e), [Ben Vince](https://open.spotify.com/artist/2EWVX9WDwCaDHdsoTFWSPV) | [Belly Up](https://open.spotify.com/album/0ONmkhgJogbSp5Y76aNIfa) | 3:02 | 2025-05-19 | 2025-07-04 |
+| [I'm So Happy I Can't Stop Crying](https://open.spotify.com/track/5sU3gFFE3K28cWgC8NfERu) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Mercury Falling](https://open.spotify.com/album/1Z4RIxVodiz0V9x8veQ9Rr) | 3:57 | 2025-07-22 |  |
 | [I'm So Serious](https://open.spotify.com/track/6JKbThcH863nxdmTtzbCLr) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [I'm So Serious](https://open.spotify.com/album/5m2uYclmYUb6UScDXXfosC) | 3:42 | 2024-09-10 | 2024-11-14 |
 | [I'm Sorry I Left Him To Bleed](https://open.spotify.com/track/7AwMd4z4jV8p5A791fxD7A) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 2:47 | 2024-05-18 | 2024-07-12 |
 | [I'm the Sky](https://open.spotify.com/track/5RZakBALQyiqL1dG5VMmzH) | [Norma Tanega](https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP) | [Walkin' My Cat Named Dog](https://open.spotify.com/album/0unsYxXMMsYMQB0epWjPu0) | 2:25 | 2024-05-23 | 2024-05-25 |

@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Kendimden Hallice
 
-355 songs - 20 hr 40 min
+356 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [İHA](https://open.spotify.com/track/3jq9ZLIFmIxkUjst5tsoWZ) | [İyi Kötü Kararsız](https://open.spotify.com/artist/705xyJp74H8bHswYgl1rGc) | [İHA](https://open.spotify.com/album/0TSPoF8c1UlAJ1Y1VlYIbh) | 2:40 | 2025-05-22 | 2025-06-17 |
 | [İhtarname](https://open.spotify.com/track/3ZL5pQZrqyOyKxC1ZaRiga) | [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI) | [Nem Kaldı?](https://open.spotify.com/album/0YWcNUgijbCza1sd9x7BID) | 3:56 | 2024-10-22 | 2024-11-08 |
 | [İki Dünya Arasında](https://open.spotify.com/track/1PoJYlGRtQCmZuG0WwaAxT) | [Demir Demirkan](https://open.spotify.com/artist/0ONcicRZwAgDDZyeWrLia3) | [İki Dünya Arasında](https://open.spotify.com/album/4uTi3d0X70HzgpBcsozmia) | 2:02 | 2025-04-10 | 2025-04-25 |
+| [İki Yol \- 2025 Remastered Edition](https://open.spotify.com/track/4mQI1X8h1DjUZ7HcnTK39S) | [mavisakal](https://open.spotify.com/artist/7jdDY1STf0v9hTldYOqGJV) | [Kan Kokusu \(2025 Remastered Edition\)](https://open.spotify.com/album/0KSLZeQadAOruRCRGnXSh9) | 7:05 | 2025-07-21 |  |
 | [İkimizden Biri](https://open.spotify.com/track/7M9KPD0b04Z1rxJNGERuAe) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [İkimizden Biri](https://open.spotify.com/album/1IcZEk9LPUkJIHomBVTXNX) | 3:47 | 2024-06-28 | 2025-01-31 |
 | [İleri](https://open.spotify.com/track/1dsVlDr3aHdYYsH3XWBOIp) | [Yaşlı Amca](https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp) | [İleri](https://open.spotify.com/album/7mlUMr8dKwPr6PzCuBvDpA) | 2:56 | 2024-07-18 | 2024-08-16 |
 | [İlk Yara](https://open.spotify.com/track/267vTkPToJDQ1fNM0p4Yby) | [Onur Özdemir](https://open.spotify.com/artist/60uO9kaHKuwJKg5X8JBkrC) | [İlk Yara](https://open.spotify.com/album/0LmX0bOdpLjKYfQEy3DbKu) | 5:22 | 2025-03-13 | 2025-04-11 |
@@ -302,7 +303,7 @@
 | [Yaktığım Son Sigaram](https://open.spotify.com/track/6dJtWbqBG2OqW5LA5CLBef) | [Baturalp](https://open.spotify.com/artist/2B5MD2M0PLg4BhVBgqkTAQ) | [Yaktığım Son Sigaram](https://open.spotify.com/album/4EwSoJf8bhRd0eXmVccI7e) | 3:15 | 2025-06-19 |  |
 | [yalan mıydık?](https://open.spotify.com/track/6pzIROAkobpmE7OZTbCVXc) | [Öge471](https://open.spotify.com/artist/0aS9UPqODEOPZaUT0cWYMw), [Konuya Fransız](https://open.spotify.com/artist/2qyTHYcgc74oHaow97ZKhx) | [yalan mıydık?](https://open.spotify.com/album/2o3YPg0lFVCZPVf6wEDW7N) | 2:44 | 2025-01-02 | 2025-01-24 |
 | [Yalnız Başıma](https://open.spotify.com/track/3wtDFP78wHU97syjTq31KA) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO) | [Yalnız Başıma](https://open.spotify.com/album/6mN4pOHKOwy7cSPbJcVRnG) | 4:07 | 2024-06-28 | 2025-03-07 |
-| [Yalnızlar Rıhtımı](https://open.spotify.com/track/4ll8726NS3mjec8hEkTwKe) | [Evrencan Gündüz](https://open.spotify.com/artist/6rxgxAlUPT4sDElRZeVec6) | [Yalnızlar Rıhtımı](https://open.spotify.com/album/4TgJGmpLIbVQES3ebEcPRi) | 2:34 | 2025-01-23 |  |
+| [Yalnızlar Rıhtımı](https://open.spotify.com/track/4ll8726NS3mjec8hEkTwKe) | [Evrencan Gündüz](https://open.spotify.com/artist/6rxgxAlUPT4sDElRZeVec6) | [Yalnızlar Rıhtımı](https://open.spotify.com/album/4TgJGmpLIbVQES3ebEcPRi) | 2:34 | 2025-01-23 | 2025-07-22 |
 | [Yalnızlık Paylaşılmaz](https://open.spotify.com/track/4mkcIMzTAOzyZhmvMU2vKm) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Eski Köprünün Altında](https://open.spotify.com/album/33JifbYeK4vxnE2v11d1Xf) | 4:58 | 2024-10-22 | 2024-11-15 |
 | [Yalnızlıklar](https://open.spotify.com/track/3UiFJQiXHdiX5l9SpSPQZF) | [Keskin Band](https://open.spotify.com/artist/6KPsAUprTWqiFxb2YEQ0S7) | [Yalnızlıklar](https://open.spotify.com/album/4RsRvDcHuPG3Ilzk0wdQQc) | 2:21 | 2024-09-05 | 2024-10-11 |
 | [Yamaçlarında Uyusam](https://open.spotify.com/track/28k5FFJ9vEzQ2EGRm8Ydss) | [Eskitilmiş Yaz](https://open.spotify.com/artist/5jqUKWt4bZ92tx05YkDyou) | [Yamaçlarında Uyusam](https://open.spotify.com/album/2B8Ho8PsUpVkPioPIYmNgY) | 3:09 | 2024-10-03 | 2024-10-23 |

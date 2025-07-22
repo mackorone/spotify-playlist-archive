@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Thirumali
 
-373 songs - 19 hr 7 min
+374 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Ballaatha Jaathi](https://open.spotify.com/track/1LBSyVTSeYbgBzV7AznMsN) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Ballaatha Jaathi](https://open.spotify.com/album/2lVMOwZzF8iqaPbO83XScW) | 3:50 | 2024-03-26 | 2025-07-01 |
 | [BANDANA](https://open.spotify.com/track/2o7dxduoe3YXvuSyOFjROL) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [BANDANA](https://open.spotify.com/album/6LnrtNJONoihgwiKbZqJv0) | 2:13 | 2023-07-23 | 2024-04-19 |
 | [BANDANA](https://open.spotify.com/track/5n0H86Axz5rqTyv8ljXZ8X) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [BANDANA](https://open.spotify.com/album/4UiGCvmgCLtDvrCBheMLNR) | 2:13 | 2023-07-23 |  |
-| [Beast](https://open.spotify.com/track/7w2ZVADrOEzrh58MUojP0W) | [AK Hash](https://open.spotify.com/artist/4X0Ez8IAyMT3vPbwHENoF9), [Azer farzy](https://open.spotify.com/artist/1Ypyejd2CL9WwdQZaLIjeC) | [Beast](https://open.spotify.com/album/4nFj0Z4Crs1Lj4ZpptKQAY) | 2:53 | 2025-06-06 |  |
+| [Beast](https://open.spotify.com/track/7w2ZVADrOEzrh58MUojP0W) | [AK Hash](https://open.spotify.com/artist/4X0Ez8IAyMT3vPbwHENoF9), [Azer farzy](https://open.spotify.com/artist/1Ypyejd2CL9WwdQZaLIjeC) | [Beast](https://open.spotify.com/album/4nFj0Z4Crs1Lj4ZpptKQAY) | 2:53 | 2025-06-06 | 2025-07-22 |
 | [Bedak](https://open.spotify.com/track/4Uh1IJMMI1NxiNYT2JE5Vp) | [X\_SAAMBRO](https://open.spotify.com/artist/2G7khiorjSizxWGd4zorgr), [Baluccciiii](https://open.spotify.com/artist/7wOhPadZzkMCYcHo8GIpho) | [Bedak](https://open.spotify.com/album/6i6QceVCOLIaPRep4vHlmc) | 3:10 | 2025-04-16 | 2025-05-24 |
 | [Beevi](https://open.spotify.com/track/4JgRTf5gf9DtWFeeaOAZ5V) | [Rish NK](https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Beevi](https://open.spotify.com/album/3iNJIpyJQCMr2qC2vZ3d8X) | 2:59 | 2024-09-20 |  |
 | [BFJ](https://open.spotify.com/track/2t5t4EAwgA4z2ndS419ty8) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T), [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9) | [BFJ](https://open.spotify.com/album/0NVN9RofA5UtROCaosCk5G) | 2:03 | 2025-03-17 | 2025-04-29 |
@@ -264,6 +264,7 @@
 | [Panth](https://open.spotify.com/track/1rF58Eo5WYzBkBOG90TANz) | [BINS](https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX), [AjOopaan](https://open.spotify.com/artist/2Y145zR3OhtZPZtQoEqIJY) | [Panth](https://open.spotify.com/album/1qIl1f55pkRtMn4YAoKxJT) | 3:41 | 2025-03-21 | 2025-05-17 |
 | [PARATTA SONG](https://open.spotify.com/track/0ocgMbg427kQwsyjmKNTBe) | [BG BLACKGOAT](https://open.spotify.com/artist/4P6OHqlLgbb2JmlqMt3gQd) | [PARATTA SONG](https://open.spotify.com/album/1QcDIFDIzuJvCpJMA5TZBH) | 2:32 | 2025-06-25 | 2025-06-27 |
 | [Pathanam](https://open.spotify.com/track/7J1LLA1CxdLgP7wrM7slun) | [Ashbin](https://open.spotify.com/artist/28LkhTNiL3kC1wprEPgaQy), [Adz](https://open.spotify.com/artist/0jTYDTKvLDBHL8Fi3gYnFc) | [Ethir](https://open.spotify.com/album/3yhqspJcACvqD8hXXredEf) | 1:47 | 2025-02-03 | 2025-03-27 |
+| [Pathavi](https://open.spotify.com/track/5MEzlxLvDPc6gkJgJG9DNc) | [EK](https://open.spotify.com/artist/6tvycdUtKZqqVKPxek64gN) | [Pathavi](https://open.spotify.com/album/4KuHuibE09VLY5KwizbypZ) | 2:38 | 2025-07-21 |  |
 | [Pattom Signal](https://open.spotify.com/track/1061bDjOwCySYJhaFLKVAj) | [draeKo](https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq) | [Pattom Signal](https://open.spotify.com/album/1SJnEWxDS1X5sEE0VMjBwk) | 3:13 | 2025-06-20 |  |
 | [Pattuduthu Vannathum \(From "Kumari"\)](https://open.spotify.com/track/5m5Ns63z7A2QGSqL3QghqL) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Athul Narukara](https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR), [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sreehari](https://open.spotify.com/artist/7JoyE37sAJF5iZod0sNBhr) | [Pattuduthu Vannathum \(From "Kumari"\) \- Single](https://open.spotify.com/album/7FPwLr3yhBPyGrlBPpSWul) | 4:09 | 2022-11-04 | 2023-07-24 |
 | [Payye Payye Thinnanda](https://open.spotify.com/track/3TijOEnNGG9jKkNpt0a2WO) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Payye Payye Thinnanda](https://open.spotify.com/album/6jhnLuH31gqeu44mrFubf0) | 2:56 | 2024-04-15 | 2024-05-22 |

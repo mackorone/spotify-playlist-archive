@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Madrigal ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,335 likes - 120 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,350 likes - 120 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 119 | [Mi Amor](https://open.spotify.com/track/6pEnqd7YwL8hrwlsHOmJkc) | [ATA](https://open.spotify.com/artist/3euvM6X87XqZYFzYRXBdLS) | [Mi Amor](https://open.spotify.com/album/1zRIaiDCP84N3q4hnPxJZ8) | 2:20 |
 | 120 | [kaçış yok](https://open.spotify.com/track/72kjlHzN1eX3RlwgHUiafX) | [Ceyda Eser](https://open.spotify.com/artist/6WZ0RmDyAC4aDIxODsxvuy) | [kaçış yok](https://open.spotify.com/album/05MPgNpOsZRFybaW5L4TMw) | 4:04 |
 
-Snapshot ID: `aHpFbQAAAAChUljEzsMYs3G3meXPHJI4`
+Snapshot ID: `aH3uyQAAAABa8HayT78seaw3Fo159nPO`

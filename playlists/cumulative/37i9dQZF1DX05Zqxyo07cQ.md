@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-788 songs - 1 day 14 hr 17 min
+789 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Frosted Light](https://open.spotify.com/track/6oWqrdSeRc72l2xF19O2wg) | [Future Sky](https://open.spotify.com/artist/46ldV2C6sHsoBJcLwqyInL) | [Frosted Light](https://open.spotify.com/album/1Gy08glB1f0IxY9VMc63vN) | 2:51 | 2025-03-05 |  |
 | [Frozen waves](https://open.spotify.com/track/6RA2OBqaRhntWewbRaFkQQ) | [Furna](https://open.spotify.com/artist/2MtNVvbfAnblCOA9RXKfBx) | [Frozen waves](https://open.spotify.com/album/0nuSAQCegaaVpIslk2buc4) | 2:41 | 2024-03-06 | 2024-03-21 |
 | [Fulfilled](https://open.spotify.com/track/6MyMsRVJSk0lplNc2S1ib1) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Fulfilled](https://open.spotify.com/album/6oX4wwwqlA1hi4ELRlkOHV) | 2:59 | 2024-05-04 | 2025-01-23 |
+| [Galaxy Dream](https://open.spotify.com/track/4rt2bY3DXBxrYVIWnXdQ1I) | [Manuel Wall](https://open.spotify.com/artist/3RMH13VbjWYtpxwgAkF3cU) | [Galaxy Dream](https://open.spotify.com/album/3201S4iC4hthfy6I18VQcI) | 2:51 | 2025-07-17 |  |
 | [Ganymede](https://open.spotify.com/track/6gW7wl7Dbzvv4Az3RbolkD) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Ganymede](https://open.spotify.com/album/29sGh5uT3kHsrjPF7ASy89) | 2:32 | 2023-03-23 | 2024-04-06 |
 | [Garden Charm](https://open.spotify.com/track/6TkkTtMH7X4E8B4GDIYznl) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Garden Charm](https://open.spotify.com/album/6EglOGkaaosZN9Iw2UQhSz) | 3:16 | 2023-03-23 | 2024-04-06 |
 | [Gateway](https://open.spotify.com/track/6Js6EnpszmefcsVLQpai8R) | [Simon Sebastienne](https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG) | [Gateway](https://open.spotify.com/album/33d61WIwA3YlHAcW4sXVjl) | 2:51 | 2024-01-17 | 2024-11-13 |
@@ -616,7 +617,7 @@
 | [Sequoia](https://open.spotify.com/track/52uw4LhiFFnIHduoLVILMm) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Sequoia](https://open.spotify.com/album/4U2fDSXlwwWY8ZXsgej9S1) | 2:53 | 2023-03-23 | 2024-02-09 |
 | [Seraphic](https://open.spotify.com/track/1b7z2LtX0p9R1gNNY5RxtP) | [EMIKO](https://open.spotify.com/artist/6ucAqkMiK3gtdXjcBjwZNx) | [Seraphic](https://open.spotify.com/album/0Nr7f5qqSI60FvHddijltq) | 2:22 | 2025-04-23 |  |
 | [Serendipity](https://open.spotify.com/track/2y2u04LUbceXkEcUndxo1N) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Serendipity](https://open.spotify.com/album/2k8hJ2BSRrexuCqlDBGIMX) | 2:31 | 2024-08-02 | 2025-02-05 |
-| [Serenity](https://open.spotify.com/track/0mIZucxdkk7uAbQi06ZhA6) | [Erlah](https://open.spotify.com/artist/06tUglXC9xjsC8FN7m3gOP) | [Serenity](https://open.spotify.com/album/5Fmy9yXYD1Rm5HPLvtaxKf) | 2:31 | 2024-07-09 |  |
+| [Serenity](https://open.spotify.com/track/0mIZucxdkk7uAbQi06ZhA6) | [Erlah](https://open.spotify.com/artist/06tUglXC9xjsC8FN7m3gOP) | [Serenity](https://open.spotify.com/album/5Fmy9yXYD1Rm5HPLvtaxKf) | 2:31 | 2024-07-09 | 2025-07-22 |
 | [Serenium](https://open.spotify.com/track/6I1WmsOxCm5Qi6PooQPRq6) | [Atli Einarsdóttir](https://open.spotify.com/artist/213t12SUo7qH5ZsE6Uvz1a) | [Serenium](https://open.spotify.com/album/07BZGZpGqALYVVCpCgGpTu) | 2:22 | 2024-01-17 | 2024-07-19 |
 | [Sessiz Tepeler](https://open.spotify.com/track/7KmNEkS0sCpZPFBh2uqZu6) | [Cakir Vardar](https://open.spotify.com/artist/28bBNTIW2aR4EQKrkqpzF7) | [Sessiz Tepeler](https://open.spotify.com/album/4SF3qwneStFulFbf3kIlOP) | 2:50 | 2023-03-23 | 2024-02-09 |
 | [sharing a dream space](https://open.spotify.com/track/2esTtTW3FbBWDFjBMJpk6a) | [Subsequentialists](https://open.spotify.com/artist/3prP9cOIkx8WtNXQDmexGE) | [sharing a dream space](https://open.spotify.com/album/3QaKawZl7gHG0IbeZAYas0) | 2:27 | 2025-06-17 |  |

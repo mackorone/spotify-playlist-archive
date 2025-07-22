@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,264 songs - 2 day 20 hr 34 min
+1,265 songs - 2 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [Gravity](https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Gravity](https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP) | 4:45 | 2024-10-18 |  |
 | [Gravity \(feat\. Tyler Shaw\)](https://open.spotify.com/track/2cGoqq76QeKeL8H5MSXIlS) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [ORIGIN](https://open.spotify.com/album/3WNr0X7Ke2gbAALJe7OluG) | 3:03 | 2024-07-12 | 2024-09-08 |
 | [Grindhouse](https://open.spotify.com/track/7ewecejRd83t9kq8gJEuPS) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Grindhouse](https://open.spotify.com/album/2hmpO5xhgvo9EXM7JEUm5s) | 2:49 | 2024-11-22 | 2024-12-25 |
-| [Grove St\. Party](https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd) | [Proppa](https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Grove St\. Party](https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg) | 2:50 | 2025-06-13 |  |
+| [Grove St\. Party](https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd) | [Proppa](https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Grove St\. Party](https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg) | 2:50 | 2025-06-13 | 2025-07-22 |
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 |  |
 | [Guitar Track](https://open.spotify.com/track/2E7fPzGgt5GgGnaaPnBubm) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Guitar Track](https://open.spotify.com/album/60o0hLZmGjwphgQzPt5M50) | 4:29 | 2020-09-21\* | 2020-11-03 |
 | [Hallelujah](https://open.spotify.com/track/0S9KX56e4zQs11nKc6s9jK) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Hallelujah](https://open.spotify.com/album/1z6hriM2nP4PPxMftJnRSb) | 2:47 | 2022-03-11 | 2022-07-29 |
@@ -648,6 +648,7 @@
 | [Maths \- Cobra Effect Remix](https://open.spotify.com/track/6Xjz4oVlgYP6DVDCApfooV) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Cobra Effect](https://open.spotify.com/artist/1OQqnxsfFoETMEByBIQvHK) | [5 Years of mau5](https://open.spotify.com/album/7BPS2kgyzObOvy07j0lk06) | 4:43 | 2020-09-21\* | 2020-10-10 |
 | [Maximal Crazy \(Original Mix\)](https://open.spotify.com/track/7aT2HFws6awkUXdrBAtIqR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life \- Volume 2 Miami](https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc) | 4:29 | 2020-09-21\* | 2020-11-03 |
 | [Meet Again \- VIVID Remix](https://open.spotify.com/track/6Fa2ZuCZ6M7Wje5BFozAXb) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [ANVY](https://open.spotify.com/artist/1mgNVAgWBv1L9CvAocHTTD), [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1) | [Meet Again \(VIVID Remix\)](https://open.spotify.com/album/5a7R9UxGskWJ9fTz2P3Ji8) | 3:30 | 2020-09-21\* | 2021-01-23 |
+| [Melodia](https://open.spotify.com/track/0G6r9pghzSm8gGfgV64pHn) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Melodia](https://open.spotify.com/album/5ibwloBOv2GUuh8TKVllmL) | 3:03 | 2025-07-18 |  |
 | [Melodia](https://open.spotify.com/track/78dLyf8klcyrmgpwgmRQlE) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Melodia](https://open.spotify.com/album/4LntPSMGgRAOym8Yj684Gw) | 3:42 | 2024-10-04 | 2025-03-30 |
 | [Melody](https://open.spotify.com/track/1rSUNzMXSxspf02RRQ3p5m) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Melody](https://open.spotify.com/album/0Ntw26ASZDaNWzSY9KcFTt) | 2:33 | 2022-03-11 | 2022-07-29 |
 | [Memories \(feat\. Kid Cudi\) \- 2021 Remix](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Memories \(feat\. Kid Cudi\) \[2021 Remix\]](https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX) | 2:42 | 2022-03-11 | 2022-11-12 |

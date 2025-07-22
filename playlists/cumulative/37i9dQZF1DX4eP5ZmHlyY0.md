@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: NCT DREAM
 
-655 songs - 1 day 12 hr 17 min
+656 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Beat Loud](https://open.spotify.com/track/0WRnKTDzekbS2w3gSNEmBo) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [Beat Loud](https://open.spotify.com/album/4sbCLv9RdWQjdEVoRltRZD) | 2:52 | 2024-05-07 | 2024-05-22 |
 | [Beautiful Liar \-Japanese ver.\-](https://open.spotify.com/track/4J8jo4ThUNkd2eEIpgOJDe) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Beautiful Liar / GAMBLER \(JAPAN SPECIAL EDITION\)](https://open.spotify.com/album/3nLFvGjsAqr57295bnkWr2) | 3:03 | 2025-05-27 | 2025-07-07 |
 | [Beautiful Life](https://open.spotify.com/track/5qUSdQKKRxmfcEgLQsQINj) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Beautiful Mind](https://open.spotify.com/album/3kj5RMMwVvIvP0D9juqm8j) | 4:25 | 2025-03-24 | 2025-06-23 |
+| [Beautiful Strangers](https://open.spotify.com/track/6IYvOX6K6tbBmj00JRU5Rw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: TOGETHER](https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG) | 2:18 | 2025-07-22 |  |
 | [Because of You, I Shine \- Japanese Version](https://open.spotify.com/track/13syne8ZMO7QJbnJ7PIzyv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine \(Japanese Version\)](https://open.spotify.com/album/0Wp46PJlRjEfZyGmyNiwyN) | 3:46 | 2025-04-17 | 2025-07-09 |
 | [Believe in You](https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Believe in You](https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH) | 4:16 | 2024-07-09 | 2024-11-15 |
 | [Best Friend](https://open.spotify.com/track/6LiTEXFsVO0hbSnplg5HNO) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [Best Friend](https://open.spotify.com/album/6AD5IWv6dxm5JGo6D4lulH) | 3:17 | 2025-03-06 | 2025-03-18 |
@@ -483,7 +484,7 @@
 | [STARRY LOVE](https://open.spotify.com/track/6meVZwlQ5LdOCjxUy0ipQq) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [STARRY LOVE](https://open.spotify.com/album/27rELiARZxybADb2rbTEli) | 5:06 | 2024-01-16 | 2024-04-24 |
 | [Stars](https://open.spotify.com/track/1L9ON381JuyfpFmrrsSpt6) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Snowin’ \(Special Edition\)](https://open.spotify.com/album/3UKyosnPDUiTp3mj9bMCLM) | 3:20 | 2024-01-31 | 2024-02-07 |
 | [Steal a Kiss](https://open.spotify.com/track/6km0i4QxDevx8KsN1F3k0H) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [Just like 超特急](https://open.spotify.com/album/5vk1IqGTHZ5qJHaTcS8EU5) | 3:03 | 2024-04-16 | 2024-05-29 |
-| [Step by Step](https://open.spotify.com/track/1zLdLI3VhSChUB1vlA4GYG) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Step by Step](https://open.spotify.com/album/4YqxNq9s42iBQ30nQsLlJD) | 3:24 | 2025-05-26 |  |
+| [Step by Step](https://open.spotify.com/track/1zLdLI3VhSChUB1vlA4GYG) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Step by Step](https://open.spotify.com/album/4YqxNq9s42iBQ30nQsLlJD) | 3:24 | 2025-05-26 | 2025-07-22 |
 | [STEPPIN'](https://open.spotify.com/track/2zIBNnjKTQ0wpNW7369iQw) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [uNi](https://open.spotify.com/album/08xmveHVtLw1t4cb5fx02c) | 3:15 | 2025-03-25 | 2025-05-09 |
 | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/track/7kb6IV0z8Nd7vejSdAq0YN) | [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Stop The Rain \(TABLO X RM\)](https://open.spotify.com/album/0PXh6bcvZpbJfEzjCEgSvI) | 3:10 | 2025-05-02 | 2025-07-02 |
 | [Story](https://open.spotify.com/track/1G3QIdTjFO0DpLZlYwfqzx) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Story](https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX) | 2:26 | 2024-07-09 | 2024-10-16 |

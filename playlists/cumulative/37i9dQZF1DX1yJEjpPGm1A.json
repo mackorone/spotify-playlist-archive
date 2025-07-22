@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Daily confession",
+        "url": "https://open.spotify.com/album/1PD73S3rXG09xdi3XuquVb"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Daily confession",
+      "url": "https://open.spotify.com/track/0MJqWFARd7JwuYOIAhIX9V"
+    },
+    {
+      "album": {
         "name": "Reminiscence",
         "url": "https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn"
       },
@@ -854,6 +872,32 @@
       "duration_ms": 234903,
       "name": "Stay Here",
       "url": "https://open.spotify.com/track/16WWIrC9dcqRlSgJznivG4"
+    },
+    {
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/2wJ2i4UQ1Hjp1gqrTtMXgD"
+      },
+      "artists": [
+        {
+          "name": "Hanhae",
+          "url": "https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF"
+        },
+        {
+          "name": "Moon Se Yoon",
+          "url": "https://open.spotify.com/artist/0xD8ZN47ERtuZEbmCkwZ05"
+        },
+        {
+          "name": "As One",
+          "url": "https://open.spotify.com/artist/1MF797sg8WfxKRXELhlqtT"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220690,
+      "name": "Stay With Me (Feat. As One)",
+      "url": "https://open.spotify.com/track/2BU4hyW2QRikHfa7on9jMp"
     },
     {
       "album": {

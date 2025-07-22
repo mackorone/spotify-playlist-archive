@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-389 songs - 1 day 1 hr 34 min
+390 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Actually](https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 3:47 | 2023-05-19 | 2024-04-19 |
 | [Alfa](https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa](https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY) | 4:45 | 2022-06-20 | 2024-04-19 |
 | [Alfa \- Original Mix](https://open.spotify.com/track/1UabDxiLk78adOCYuQzhpu) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa EP](https://open.spotify.com/album/6nHbGBXnZxCP0PAq2Wt4rd) | 4:45 | 2021-07-24 | 2023-03-09 |
-| [Alive](https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Alive](https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW) | 3:50 | 2023-06-09 |  |
+| [Alive](https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Alive](https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW) | 3:50 | 2023-06-09 | 2025-07-22 |
 | [All Day](https://open.spotify.com/track/49S2zEVuoV3BcA2mdyowiA) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9), [Eren Cannata](https://open.spotify.com/artist/41RREi0dkr25wYIjgL6O69), [Aaron Janik](https://open.spotify.com/artist/29HcxjpgVWYBjERb3VGmmL) | [Made 4 U](https://open.spotify.com/album/7MtJoa3DKfwRls9963YtqX) | 3:06 | 2023-05-19 | 2023-05-27 |
 | [All for You](https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [All for You](https://open.spotify.com/album/7Ckd5Akndk0AC2HAhbQgdT) | 4:13 | 2024-02-02 |  |
 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 | 2023-05-19 |  |
@@ -314,6 +314,7 @@
 | [Sleepwalking](https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:45 | 2023-05-19 | 2024-04-19 |
 | [So Close Now](https://open.spotify.com/track/1P5WxDUWkG5xwgbnTn4i21) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [So Close Now](https://open.spotify.com/album/6FTDsy98nHodCOgQ8e2b3F) | 3:37 | 2021-07-24 | 2023-05-20 |
 | [So Flute \- Blackchild 2024 Remix](https://open.spotify.com/track/2VxLh90vYZi0BssOwGh71p) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n), [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [So Flute \(Blackchild 2024 Remix\)](https://open.spotify.com/album/1LU9yzRWwSMAEgx3ItqYss) | 5:52 | 2024-05-31 | 2024-08-26 |
+| [So High](https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Cruise Control](https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5) | 3:46 | 2025-07-18 |  |
 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 | 2024-07-26 |  |
 | [So Sweet](https://open.spotify.com/track/0UXqqOq4p6ycJXBBrOLjJ9) | [Thomaz Krauze](https://open.spotify.com/artist/2vYp24qYifgpdEUR2ebhDE) | [So Sweet](https://open.spotify.com/album/4fVj0O6kjlCv6eW3j6q4WG) | 6:22 | 2021-07-24 | 2023-05-20 |
 | [Some Nights](https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv) | [Class Fools](https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt) | [Some Nights](https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r) | 2:48 | 2023-09-25 | 2025-02-08 |

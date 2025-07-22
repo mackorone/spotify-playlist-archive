@@ -4,7 +4,7 @@
 
 > Tutte le migliori nuove uscite indie sono qui  🌻 Cover: SELMI e chiamamifaro
 
-696 songs - 1 day 11 hr 3 min
+697 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [tutto bene](https://open.spotify.com/track/5FHX6K2rDL2qMdph5Yi9al) | [nube](https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i) | [tutto bene](https://open.spotify.com/album/03E4tuUdOmu0EaXBpdQT10) | 2:44 | 2025-02-20 | 2025-04-04 |
 | [TUTTO DA RI\-FA\-RE](https://open.spotify.com/track/5O1l4RiyihOVRGFtbHl7yA) | [Bidi Blanca](https://open.spotify.com/artist/22sXLj1jMFiKtpValJKQ4Y), [Gamete](https://open.spotify.com/artist/739CbVQFJ5RyGCE46uIAWI) | [TUTTO DA RI\-FA\-RE](https://open.spotify.com/album/7rhBFU7QPJBqb3frCCnSyc) | 3:01 | 2025-01-09 | 2025-03-21 |
 | [Tutto In Fiamme](https://open.spotify.com/track/0iA4hfJKuhNheKxmMH8UJq) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Tutto In Fiamme](https://open.spotify.com/album/2tXeSauW32xR1aJod4jaQu) | 2:53 | 2025-07-17 |  |
+| [Tutto Ok](https://open.spotify.com/track/4helzThXvGjTwkBw8gE4dD) | [Matilde](https://open.spotify.com/artist/4jtEQ1a3CgU93C58hNjpeH) | [Tutto Ok](https://open.spotify.com/album/0Y4DXkvU661UTaMD8COHmc) | 2:22 | 2025-07-17 |  |
 | [tuttoaposto](https://open.spotify.com/track/651BJ5dPNUhbW8n4KXhDla) | [Avanzi](https://open.spotify.com/artist/6NK8YVU9oLmjQ9VpM3cM8J) | [tuttoaposto](https://open.spotify.com/album/5YHA9Jty2aXbaZDzY0arMA) | 3:03 | 2024-06-27 | 2024-07-05 |
 | [tuxtu](https://open.spotify.com/track/1ozRgtql9Q9bi3HCv3q7L2) | [Parrelle](https://open.spotify.com/artist/6AJOaOcW007r6QNjChDntx) | [tuxtu](https://open.spotify.com/album/1Hn3LEFxNGeKc4Y5ZJKoXu) | 2:44 | 2024-11-14 | 2025-01-24 |
 | [Twister](https://open.spotify.com/track/16Xda5G4a1fHzfkykc3wPN) | [Pietro Mio](https://open.spotify.com/artist/51kKYDRaem5nTYfN58QAqb) | [Twister](https://open.spotify.com/album/6YKLLXHEmO8RBdl1iNn9Wy) | 2:42 | 2025-04-10 | 2025-05-30 |

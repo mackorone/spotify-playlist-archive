@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,150 likes - 33 songs - 2 hr 14 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,151 likes - 34 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 31 | [West Of Samoa](https://open.spotify.com/track/6UtAZWcMKQdehuKLql1Xh8) | [Speedy West](https://open.spotify.com/artist/5O6DkdFuZFvISHeiYAQAVZ) | [Steel Guitar](https://open.spotify.com/album/5Gv5lcvdHr08tZDp80EKl7) | 2:33 |
 | 32 | [Real Thing](https://open.spotify.com/track/70oLoBhpHsNEDVLsMDlheU) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:18 |
 | 33 | [Louisiana](https://open.spotify.com/track/7dvpMd2PhxFzlpyp8Ru308) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 4:11 |
+| 34 | [I'm So Happy I Can't Stop Crying](https://open.spotify.com/track/5sU3gFFE3K28cWgC8NfERu) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Mercury Falling](https://open.spotify.com/album/1Z4RIxVodiz0V9x8veQ9Rr) | 3:57 |
 
-Snapshot ID: `AAAM1FeXygsIYzqSwWPkLHiKqPsJXD91`
+Snapshot ID: `AAAM1cJDtmZFOPIVQia40UqWocb8esBK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Onos & Khaya Mthethwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,184 likes - 101 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,200 likes - 101 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 48 | [At Your Feet](https://open.spotify.com/track/6HlQ2CM4IkILVOmZdHF9ze) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [At Your Feet](https://open.spotify.com/album/24CmhpGYuT39lPIwKw8LNv) | 2:28 |
 | 49 | [Onye Nwere Jesus](https://open.spotify.com/track/0pNKTx7bqXmJqnNU995iLC) | [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [Onye Nwere Jesus](https://open.spotify.com/album/428gdxIjTNMwArLwibsu69) | 5:10 |
 | 50 | [Let Your Glory Come](https://open.spotify.com/track/0zqdO3RxKrficq1bHxKD7u) | [SONOJ ONOJA](https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM) | [Let Your Glory Come](https://open.spotify.com/album/38LkdMD6mXYJc1cioyBfco) | 4:15 |
-| 51 | [Obara Jesus \(Protection\)](https://open.spotify.com/track/2cHWKGUVifOIEityfQKXYb) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb) | [Obara Jesus \(Protection\)](https://open.spotify.com/album/7JcXGDTbyHJKU3nnTx8W1n) | 2:50 |
+| 51 | [Obara Jesus \(Protection\)](https://open.spotify.com/track/2cHWKGUVifOIEityfQKXYb) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [YARB TRIBE](https://open.spotify.com/artist/0HjrZUriO6xTLd9GGiNKMA) | [Obara Jesus \(Protection\)](https://open.spotify.com/album/7JcXGDTbyHJKU3nnTx8W1n) | 2:50 |
 | 52 | [Izinto](https://open.spotify.com/track/6rxSBpVdlznmxuoSZhCObs) | [mashka](https://open.spotify.com/artist/5TW7STulWrwTaRCN9EBVbh) | [Lokollohang](https://open.spotify.com/album/16Kbg0yliilgW4RRL9wX9b) | 3:42 |
 | 53 | [Bia](https://open.spotify.com/track/2yisFUfKpP7NkIyCUXeuax) | [Nox Beatzz](https://open.spotify.com/artist/5VMpTqHowouHBUi2QEkA1t), [G2 Beatzz](https://open.spotify.com/artist/6hFrXtVCQmQrhLfJzUzmD3) | [Bia](https://open.spotify.com/album/3f3O15cNP07n46DRQaXgPb) | 4:15 |
 | 54 | [Eze Ebube](https://open.spotify.com/track/1CKvhZ1usYuj0CvZMvcWnj) | [GEMS](https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF) | [Eze Ebube](https://open.spotify.com/album/2Iz4gZeqcEuz5p5DdcZ4a3) | 7:06 |

@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-453 songs - 1 day 8 hr 26 min
+454 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Dragon Night](https://open.spotify.com/track/6x5LWmrBMf1zTZ77UkuEqu) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK) | 3:48 | 2022-09-20 | 2022-10-03 |
 | [DRIVE US CRAZY](https://open.spotify.com/track/75SsCHs3qM6mXEuHClkCT5) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [DRIVE US CRAZY](https://open.spotify.com/album/3RKqfMngxktugTGzWQ5Be7) | 4:05 | 2022-05-17 | 2022-06-17 |
 | [DRIVE US CRAZY](https://open.spotify.com/track/7vH37GEcPembG3vdUY3bHx) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 4:05 | 2024-01-23 | 2024-02-21 |
+| [Drive Your Heart \(TV Size\)](https://open.spotify.com/track/7AokOlITbCKxv2p3ZExBiX) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Drive Your Heart \(TV Size\)](https://open.spotify.com/album/3XkqWtH6yil19RyoOkKWfd) | 1:29 | 2025-07-21 |  |
 | [Easy come, Easy go!](https://open.spotify.com/track/34nuDpuPidmEdI59zskdnM) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 4:03 | 2022-06-23 | 2022-07-16 |
 | [Easy come, Easy go!](https://open.spotify.com/track/2ncCiJamFs0oPwadYHeLnB) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Easy come, Easy go!](https://open.spotify.com/album/4dWNEvBo7llubwmwiiXCDH) | 4:03 | 2022-05-17 | 2022-07-27 |
 | [Ether](https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 4:45 | 2024-11-28 |  |
@@ -266,7 +267,7 @@
 | [えがお・シング・あ・ソング](https://open.spotify.com/track/7tjr6flf3J84xAWMVioGPX) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [えがお・シング・あ・ソング](https://open.spotify.com/album/3Wv3E9CGqGqSCIf4Fpn6jf) | 4:09 | 2022-05-17 | 2022-07-22 |
 | [えがお･シング･あ･ソング](https://open.spotify.com/track/19ejmhBUzhgVoX8W9bMK8S) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと！](https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK) | 4:09 | 2022-09-20 | 2024-04-19 |
 | [おもいでイルミネーション](https://open.spotify.com/track/7qwcN9x7L6ZhkqstCXIpjK) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこ×にこ=ハイパースマイルパワー!](https://open.spotify.com/album/5UenLEIt08bBiAFzwL9Yk3) | 4:14 | 2022-06-23 | 2024-10-05 |
-| [かくれんぼ \- Cover](https://open.spotify.com/track/74KEa2YphxxbDhOOjCG7O8) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [かくれんぼ \(Cover\)](https://open.spotify.com/album/2sOL3Skidcw9TXJeM3chRi) | 4:58 | 2024-03-23 |  |
+| [かくれんぼ \- Cover](https://open.spotify.com/track/74KEa2YphxxbDhOOjCG7O8) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [かくれんぼ \(Cover\)](https://open.spotify.com/album/2sOL3Skidcw9TXJeM3chRi) | 4:58 | 2024-03-23 | 2025-07-22 |
 | [きゅ\~まい\*flower](https://open.spotify.com/track/659EbdMtrJVXdQN13bgVRt) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5) | 3:39 | 2022-08-30 | 2022-10-02 |
 | [きゅ〜まい\*flower](https://open.spotify.com/track/09VlBUV2bN1Hk8KtXD59HS) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [きゅ〜まい\*flower](https://open.spotify.com/album/0hHVUOsumXqR5YJ9ueTcgx) | 3:39 | 2022-06-23 | 2022-07-28 |
 | [きゅうくらりん \- Cover](https://open.spotify.com/track/5a1c3xsbunuS8ybfIdu1Io) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きゅうくらりん \(Cover\)](https://open.spotify.com/album/7696xeXqso99cXbV3CfgZV) | 3:34 | 2024-03-23 |  |

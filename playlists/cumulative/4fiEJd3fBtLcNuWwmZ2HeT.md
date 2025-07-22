@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-320 songs - 18 hr 11 min
+321 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [うそ鳴き](https://open.spotify.com/track/4Hal50XJ5qW9TtsFWvMlJU) | [心世紀](https://open.spotify.com/artist/3D7WfGrhPBUqfKQ4BAlOa6), [少女革命計画](https://open.spotify.com/artist/7gFHp9H8K8h4B9y7HkFC7N), [御莉姫](https://open.spotify.com/artist/0Ur3wB7R1lkydYPdwATVpe), [佳鏡院](https://open.spotify.com/artist/1ydUxA0KMdyroinaACZFsu), [硝子宮](https://open.spotify.com/artist/71B1IRtrf1zRRSUPOsxOLu) | [うそ鳴き](https://open.spotify.com/album/4VHIOjtivBozJgUHrJgxeo) | 3:16 | 2025-04-16 |  |
 | [うらみのワルツ \- 第一幕Mix](https://open.spotify.com/track/16nHgNk16haiFdhEpHZpWw) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第一幕](https://open.spotify.com/album/61LtVJlmKKinmd80gtNOry) | 4:12 | 2025-02-17 |  |
 | [おしゃかしゃま](https://open.spotify.com/track/39oAp7sfaU9PDaraVLD31O) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [アルトコロニーの定理](https://open.spotify.com/album/5L5EmTd2tdm70Yo0CYLIsg) | 3:48 | 2024-03-10 |  |
+| [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 | 2025-07-21 |  |
 | [おともだち](https://open.spotify.com/track/50eZvIHB0xLGufN0V6FGcF) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [おともだち](https://open.spotify.com/album/7zoaKknjImLwzHwzGMcsey) | 3:14 | 2024-07-08 |  |
 | [お勉強しといてよ](https://open.spotify.com/track/3sgJTMHqDwxfsBIMqvkXKE) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ぐされ](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr) | 4:39 | 2023-10-25 |  |
 | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/track/4wdZoFvA5zpxVglDuESYJ3) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/album/5qBYkswUPw3za9eO2C2Sev) | 4:40 | 2024-12-03 |  |

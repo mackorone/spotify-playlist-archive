@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 463487,
+  "num_followers": 463924,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2025-07-14 08:19:39",
       "album": {
+        "name": "Nova Bossa Nova",
+        "url": "https://open.spotify.com/album/7CgmxyKY28uY1Fgj01ZmMa"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Nova Bossa Nova",
+      "url": "https://open.spotify.com/track/68K8VaazzURRjLf84yaOA3"
+    },
+    {
+      "added_at": "2025-07-14 08:19:39",
+      "album": {
         "name": "Alvorada",
         "url": "https://open.spotify.com/album/0AAHmJXk4tvaE0e3jINJho"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 179853,
       "name": "Tarde em itapu\u00e3",
       "url": "https://open.spotify.com/track/1Qwzw8hbVa28uXYxHeamaT"
-    },
-    {
-      "added_at": "2025-07-14 08:19:39",
-      "album": {
-        "name": "Nova Bossa Nova",
-        "url": "https://open.spotify.com/album/7CgmxyKY28uY1Fgj01ZmMa"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Nova Bossa Nova",
-      "url": "https://open.spotify.com/track/68K8VaazzURRjLf84yaOA3"
     },
     {
       "added_at": "2025-07-14 08:19:39",

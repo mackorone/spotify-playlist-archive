@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 296088,
+  "num_followers": 296306,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHrgAAAAAADu/A4Ox7vrzTvfr721XN+6",
+  "snapshot_id": "aHwxgAAAAADVVqd3wgt3p74YDs+L1N9h",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where or When",
-        "url": "https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 203300,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 198000,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where or When",
+        "url": "https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 203300,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"
     },
     {
       "added_at": null,

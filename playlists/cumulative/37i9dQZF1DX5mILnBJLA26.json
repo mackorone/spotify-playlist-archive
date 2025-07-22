@@ -10791,6 +10791,48 @@
     },
     {
       "album": {
+        "name": "Gibela",
+        "url": "https://open.spotify.com/album/2BeBEMD1u0cFkYsgfS14Hu"
+      },
+      "artists": [
+        {
+          "name": "House Of ESAMA",
+          "url": "https://open.spotify.com/artist/1nml1m6E2S513qiBWhgsZQ"
+        },
+        {
+          "name": "MINOR & Choppa",
+          "url": "https://open.spotify.com/artist/0teWRhdFFzNpsg4jMP6jbk"
+        },
+        {
+          "name": "Jay Music",
+          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
+        },
+        {
+          "name": "Kozzi",
+          "url": "https://open.spotify.com/artist/1NSa5966spOarJZhtfqaq4"
+        },
+        {
+          "name": "Nation-365",
+          "url": "https://open.spotify.com/artist/7EtyNQtFW6fsD34PVJzXj0"
+        },
+        {
+          "name": "LRD\u00c8",
+          "url": "https://open.spotify.com/artist/6qyC3kiMPTR0E6F63qQYue"
+        },
+        {
+          "name": "iNdlovukazi N.a.s.s",
+          "url": "https://open.spotify.com/artist/6uMZaPb5EkhtjsapARkV3o"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404994,
+      "name": "Gibela",
+      "url": "https://open.spotify.com/track/3m8fmJWhgUvGOPpRE60OS8"
+    },
+    {
+      "album": {
         "name": "iNumba Numba",
         "url": "https://open.spotify.com/album/1spwM71EbFxAmrqiI8mEFx"
       },
@@ -21828,7 +21870,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 344159,
       "name": "Monate Fela (feat. Ego Slimflow, Khalil Harrison & Ceeka RSA)",
       "url": "https://open.spotify.com/track/53wK9V0e4QdBERCjeTTAec"

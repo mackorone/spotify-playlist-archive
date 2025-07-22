@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Bad Bunny, Artie 5ive, Travis Scott, Mida e VillaBanks, Ele A e Colapesce, Baby Gang con El Alfa e Omega, Maluma e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,990 likes - 85 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,012 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

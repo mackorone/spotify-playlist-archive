@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 67 | [Decide](https://open.spotify.com/track/0sMs2sqkf6MUXLGqSwa3Ga) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Decide](https://open.spotify.com/album/5fdIn271QSM8l7x1jTPgK4) | 3:45 |
 | 68 | [Warning Signs](https://open.spotify.com/track/1juJBkIktFwdxtixgzTkLP) | [Boilermakers](https://open.spotify.com/artist/3K4JXzoV9ykx3J2GQ382y7), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Warning Signs](https://open.spotify.com/album/0wSC8mngdOZrI66dkJJY0e) | 4:01 |
 | 69 | [Amnesia](https://open.spotify.com/track/47YhTrS1XxAwNc30dUQaAn) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Amnesia](https://open.spotify.com/album/6ZSrm89DwkJOknE3PZRo2d) | 3:20 |
-| 70 | [Sharing Is Caring](https://open.spotify.com/track/5GcXj0rDWSlLQIPktW5ADB) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 1:31 |
-| 71 | [Stir It Up](https://open.spotify.com/track/3pE7t5Ot2WtPgcNQKoZUHQ) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [Stir It Up](https://open.spotify.com/album/4BgiNsZY4M5YuBkIJrGjY4) | 3:21 |
+| 70 | [Stir It Up](https://open.spotify.com/track/3pE7t5Ot2WtPgcNQKoZUHQ) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [Stir It Up](https://open.spotify.com/album/4BgiNsZY4M5YuBkIJrGjY4) | 3:21 |
+| 71 | [Sharing Is Caring](https://open.spotify.com/track/5GcXj0rDWSlLQIPktW5ADB) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 1:31 |
 | 72 | [Deep Cut](https://open.spotify.com/track/1qbopOyKYNpwrpGu08ckk0) | [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6) | [Deep Cut](https://open.spotify.com/album/14UJfeRG1LCanJRLb7Blb2) | 3:25 |
 | 73 | [Smile](https://open.spotify.com/track/3LK7BfvGHtRCdd6DIQIpiC) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Smile](https://open.spotify.com/album/7t0yydFmDChmSPla4Yi3Hm) | 3:05 |
 | 74 | [Feel the Love](https://open.spotify.com/track/6luGjPoePdUnCzd0XIUN9j) | [Commandeur](https://open.spotify.com/artist/4iht8vH9H3ieMmxlAz26c0), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Feel the Love](https://open.spotify.com/album/4zpSThliGud7jxJ7TpPz4k) | 3:48 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 128 | [The Way](https://open.spotify.com/track/0SgHedjG1IsPlAva2zWopq) | [Floating Pyramids](https://open.spotify.com/artist/2BPViZh660ILdvYlHbEw6S) | [Floating Pyramids \- EP](https://open.spotify.com/album/6ordSfwAg1jnFE6dfTJ3vj) | 3:11 |
 | 129 | [Bye from Diver City](https://open.spotify.com/track/6Xcqc0mPY3hTysRngiyMd1) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:13 |
 
-Snapshot ID: `Ab3UEgAAAADeFX2ErTwBgPT44SVlb9Cw`
+Snapshot ID: `Ab3ZqAAAAAB/b/lu1QCFwDHKLEQ/xo5s`

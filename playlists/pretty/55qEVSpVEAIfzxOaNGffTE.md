@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/55qEVSpVEAIfzxOaNGffTE.md) - [plain]
 
 > <a href="https://lindemann.band">New Album &quot;F &amp; M&quot;</a>
 
-[Lindemann](https://open.spotify.com/user/f0b50l23esx6sbox1wxbfjvm6) - 25,453 likes - 29 songs - 1 hr 55 min
+[Lindemann](https://open.spotify.com/user/f0b50l23esx6sbox1wxbfjvm6) - 25,450 likes - 29 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

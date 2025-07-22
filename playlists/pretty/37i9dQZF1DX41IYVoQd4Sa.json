@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05e1\u05e3 \u05d0\u05d1\u05d9\u05d3\u05df",
-  "num_followers": 32226,
+  "num_followers": 32235,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -210,6 +210,18 @@
         {
           "name": "ECHO",
           "url": "https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW"
+        },
+        {
+          "name": "Guy Moses",
+          "url": "https://open.spotify.com/artist/1cZUAgTSmJr8mXjwN9mvlI"
+        },
+        {
+          "name": "Nitzan Eisenberg",
+          "url": "https://open.spotify.com/artist/4apB1JEe0qBaPVg7tqoVYx"
+        },
+        {
+          "name": "Orel",
+          "url": "https://open.spotify.com/artist/3acLKnjvEzfSUzi36SfU1K"
         }
       ],
       "duration_ms": 195818,
@@ -659,18 +671,22 @@
     {
       "added_at": "2025-07-17 21:00:18",
       "album": {
-        "name": "\u05d4\u05d3\u05dc\u05ea \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4",
-        "url": "https://open.spotify.com/album/73nXR3AC7KXy4kJae8zc4Y"
+        "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3"
       },
       "artists": [
         {
           "name": "Alon Eder",
           "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        },
+        {
+          "name": "\u05d1\u05d9\u05ea \u05d0\u05d1\u05d9 \u05d7\u05d9",
+          "url": "https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH"
         }
       ],
-      "duration_ms": 161000,
-      "name": "\u05d4\u05d3\u05dc\u05ea \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4",
-      "url": "https://open.spotify.com/track/6ZrFqIxeb5pGECv3Dgl8Rp"
+      "duration_ms": 159665,
+      "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV"
     },
     {
       "added_at": "2025-07-17 21:00:18",
@@ -743,22 +759,18 @@
     {
       "added_at": "2025-07-17 21:00:18",
       "album": {
-        "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3"
+        "name": "\u05d4\u05d3\u05dc\u05ea \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4",
+        "url": "https://open.spotify.com/album/73nXR3AC7KXy4kJae8zc4Y"
       },
       "artists": [
         {
           "name": "Alon Eder",
           "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        },
-        {
-          "name": "\u05d1\u05d9\u05ea \u05d0\u05d1\u05d9 \u05d7\u05d9",
-          "url": "https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH"
         }
       ],
-      "duration_ms": 159665,
-      "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV"
+      "duration_ms": 161000,
+      "name": "\u05d4\u05d3\u05dc\u05ea \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4",
+      "url": "https://open.spotify.com/track/6ZrFqIxeb5pGECv3Dgl8Rp"
     },
     {
       "added_at": "2025-07-17 21:00:18",

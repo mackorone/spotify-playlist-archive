@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Quevedo",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Yan Block",
   "name": "PEGAO",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 193917,
       "name": "3sum",
       "url": "https://open.spotify.com/track/0GNfBpW2HFxWn9t9G4qnJu"
@@ -6184,7 +6184,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 162000,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/4yMBRvsI4aFxlgwqYfzKco"
@@ -7936,6 +7936,28 @@
       "duration_ms": 210223,
       "name": "LA CYBER",
       "url": "https://open.spotify.com/track/7EaQ16Nq8bdc2A1CBOCwQU"
+    },
+    {
+      "album": {
+        "name": "LA DESPEDIDA (feat. DFZM)",
+        "url": "https://open.spotify.com/album/5Q6jQtvhJRhZIjyZZL3Ewg"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220969,
+      "name": "LA DESPEDIDA (feat. DFZM)",
+      "url": "https://open.spotify.com/track/0vvwDsXmQ03Zi2lDC3mChK"
     },
     {
       "album": {
@@ -9887,6 +9909,28 @@
     },
     {
       "album": {
+        "name": "Me Mareo",
+        "url": "https://open.spotify.com/album/4aS33VYowVrUJTMd8c5OXc"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168209,
+      "name": "Me Mareo",
+      "url": "https://open.spotify.com/track/0F1svfSx95E3qDBySn719G"
+    },
+    {
+      "album": {
         "name": "Me Miras",
         "url": "https://open.spotify.com/album/5ORqR3BNEP28CAOPWAVkEX"
       },
@@ -10528,7 +10572,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 219534,
       "name": "Muchoperro",
       "url": "https://open.spotify.com/track/0duM6rfxvpnpAALDHFmTFS"
@@ -16252,6 +16296,24 @@
       "duration_ms": 184276,
       "name": "Tuenti - Remix",
       "url": "https://open.spotify.com/track/1ZkIxbmM3ZUhn2OayBdwe5"
+    },
+    {
+      "album": {
+        "name": "TUMBAO",
+        "url": "https://open.spotify.com/album/2kjDXHbE7ztU2okqWtWQ7c"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166071,
+      "name": "TUMBAO",
+      "url": "https://open.spotify.com/track/5xKs7Penljlm4sfBeWe3NI"
     },
     {
       "album": {

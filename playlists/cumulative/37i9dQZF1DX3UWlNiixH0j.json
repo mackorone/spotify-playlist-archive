@@ -2714,7 +2714,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 326037,
       "name": "Big Dream",
       "url": "https://open.spotify.com/track/1g29K9UhQ3xsD0L0Uqs0Vg"
@@ -3876,7 +3876,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 210000,
       "name": "Can we do it again?",
       "url": "https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn"
@@ -37025,6 +37025,24 @@
     },
     {
       "album": {
+        "name": "\u30d6\u30eb\u30fc\u3068\u8e0a\u3063\u3066",
+        "url": "https://open.spotify.com/album/2OR5lg8Fxhs6EZRpkHL5Dp"
+      },
+      "artists": [
+        {
+          "name": "UWANOSORA",
+          "url": "https://open.spotify.com/artist/5cyWYZjbXR0b9yY7HztDFI"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240634,
+      "name": "\u30d6\u30eb\u30fc\u3068\u8e0a\u3063\u3066",
+      "url": "https://open.spotify.com/track/4SzKPPrrFSebHA5RmbVN7d"
+    },
+    {
+      "album": {
         "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu"
       },
@@ -44708,7 +44726,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 122540,
       "name": "\u74f6",
       "url": "https://open.spotify.com/track/3Oqt3V0HOEUQWeTkzX5sF5"

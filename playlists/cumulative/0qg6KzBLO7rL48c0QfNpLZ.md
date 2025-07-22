@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,161 songs - 2 day 3 hr 16 min
+1,162 songs - 2 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [Gone](https://open.spotify.com/track/4KQMJ2iLtRNtv7s2rSDMOg) | [Polyline](https://open.spotify.com/artist/6dEvYvzMFqS3ADtQ0hGsWc), [Phonic Youth](https://open.spotify.com/artist/19j2mxQkCDl6jNS9s6bf3D) | [Gone](https://open.spotify.com/album/6Akq8POXXtnSCqrl69v374) | 3:24 | 2024-01-19 | 2024-03-16 |
 | [Good Liar](https://open.spotify.com/track/2khM65nYgmAJaZUFxowBCu) | [Leo Chase](https://open.spotify.com/artist/72iXeoizXqiI2UK2Omdp4j) | [Good Liar](https://open.spotify.com/album/2puWp7kLgFD0cFKhAbXBHH) | 2:14 | 2025-03-21 | 2025-04-26 |
 | [Good Life \(feat\. Elderbrook\)](https://open.spotify.com/track/7FJVrTfU5eWPQowHttM4Rp) | [goodlife](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life \(feat\. Elderbrook\)](https://open.spotify.com/album/7CwDbwqPjE0Ik2c5C0MSAw) | 2:47 | 2023-11-21 | 2024-09-11 |
+| [Good Luck Forgetting](https://open.spotify.com/track/7fTJhKRrPgUj3na8947i9f) | [Eliine](https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Good Luck Forgetting](https://open.spotify.com/album/3G4VMYlnmwe8H0JX0trk5H) | 2:50 | 2025-07-21 |  |
 | [Good Time](https://open.spotify.com/track/2iTOI9jGOx3CvZXoMmG4TW) | [Ernar](https://open.spotify.com/artist/32KPoYZtDacGAVUE6MmhOK), [LoudNæss](https://open.spotify.com/artist/3oRaVv5ml3NIVotlPXVl9w) | [Good Time](https://open.spotify.com/album/09f9S6X3EI8yNrIdqJ1r7f) | 2:16 | 2024-12-27 | 2025-03-22 |
 | [Good To Go](https://open.spotify.com/track/5N70iqJHDPTll0GZgSuYf0) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [B Martin](https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Good To Go](https://open.spotify.com/album/4AfuWLlbhVrKN9XTo9jnvx) | 2:24 | 2024-08-08 | 2025-03-14 |
 | [Good Vibes](https://open.spotify.com/track/1MOR5ZUWhe7Re4o8ElTily) | [Leavs.](https://open.spotify.com/artist/01SFNHtdp2lGruKBXvujfp), [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L) | [Good Vibes](https://open.spotify.com/album/1msniyy1XRCEZWCbJzvGn7) | 2:10 | 2025-04-11 | 2025-06-07 |

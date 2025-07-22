@@ -11905,6 +11905,24 @@
     },
     {
       "album": {
+        "name": "Tutto Ok",
+        "url": "https://open.spotify.com/album/0Y4DXkvU661UTaMD8COHmc"
+      },
+      "artists": [
+        {
+          "name": "Matilde",
+          "url": "https://open.spotify.com/artist/4jtEQ1a3CgU93C58hNjpeH"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Tutto Ok",
+      "url": "https://open.spotify.com/track/4helzThXvGjTwkBw8gE4dD"
+    },
+    {
+      "album": {
         "name": "tuttoaposto",
         "url": "https://open.spotify.com/album/5YHA9Jty2aXbaZDzY0arMA"
       },

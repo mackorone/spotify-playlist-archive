@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 60597,
+  "num_followers": 60612,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHrgAAAAAADM8MvUSZXgnmhHUXBvuwPQ",
+  "snapshot_id": "aHwxgAAAAAC1wdlQJIUBMISOZCudPVdK",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proyecto A",
-        "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
+        "name": "Revelaciones de un Cholo (Explicit)",
+        "url": "https://open.spotify.com/album/6YDlFoq197LU4wmrDsuEsw"
       },
       "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 191750,
-      "name": "Buenas Vibras",
-      "url": "https://open.spotify.com/track/14ZjoQB3VZFISRZTjrVGhj"
+      "duration_ms": 236472,
+      "name": "Revelaciones de un Cholo",
+      "url": "https://open.spotify.com/track/072kXoaiQYWVbWOnCN6Qdg"
     },
     {
       "added_at": null,
@@ -555,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revelaciones de un Cholo (Explicit)",
-        "url": "https://open.spotify.com/album/6YDlFoq197LU4wmrDsuEsw"
+        "name": "Proyecto A",
+        "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
       },
       "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 236472,
-      "name": "Revelaciones de un Cholo",
-      "url": "https://open.spotify.com/track/072kXoaiQYWVbWOnCN6Qdg"
+      "duration_ms": 191750,
+      "name": "Buenas Vibras",
+      "url": "https://open.spotify.com/track/14ZjoQB3VZFISRZTjrVGhj"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3928000,
+  "num_followers": 3927847,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -899,30 +899,6 @@
     {
       "added_at": "2025-07-18 04:00:16",
       "album": {
-        "name": "One And Only",
-        "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
-      },
-      "artists": [
-        {
-          "name": "Reznik",
-          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
-        },
-        {
-          "name": "good guy mikesh",
-          "url": "https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        }
-      ],
-      "duration_ms": 222956,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
-    },
-    {
-      "added_at": "2025-07-18 04:00:16",
-      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/1dykSfMKD0vYaCH9Rp338Y"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 156137,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/4tvbTeU02dazZsXMS81ybB"
+    },
+    {
+      "added_at": "2025-07-18 04:00:16",
+      "album": {
+        "name": "One And Only",
+        "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
+      },
+      "artists": [
+        {
+          "name": "Reznik",
+          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
+        },
+        {
+          "name": "good guy mikesh",
+          "url": "https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "duration_ms": 222956,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
     },
     {
       "added_at": "2025-07-18 04:00:16",
@@ -971,18 +971,18 @@
     {
       "added_at": "2025-07-18 04:00:16",
       "album": {
-        "name": "Kids of the Sun",
-        "url": "https://open.spotify.com/album/5Zc30hxnYShaLQ9FcDQEgA"
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/2HDH1rLDAMMQlIuxpfbt4F"
       },
       "artists": [
         {
-          "name": "Alex Keeper",
-          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
         }
       ],
-      "duration_ms": 159685,
-      "name": "Kids of the Sun",
-      "url": "https://open.spotify.com/track/7j0LmNibEdZWB9KNOVZ9vP"
+      "duration_ms": 202997,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu"
     },
     {
       "added_at": "2025-07-18 04:00:16",
@@ -999,22 +999,6 @@
       "duration_ms": 275010,
       "name": "Rust",
       "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
-    },
-    {
-      "added_at": "2025-07-18 04:00:16",
-      "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/2HDH1rLDAMMQlIuxpfbt4F"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        }
-      ],
-      "duration_ms": 202997,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu"
     },
     {
       "added_at": "2025-07-18 04:00:16",
@@ -1039,22 +1023,18 @@
     {
       "added_at": "2025-07-18 04:00:16",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
+        "name": "Kids of the Sun",
+        "url": "https://open.spotify.com/album/5Zc30hxnYShaLQ9FcDQEgA"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+          "name": "Alex Keeper",
+          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
         }
       ],
-      "duration_ms": 219208,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
+      "duration_ms": 159685,
+      "name": "Kids of the Sun",
+      "url": "https://open.spotify.com/track/7j0LmNibEdZWB9KNOVZ9vP"
     },
     {
       "added_at": "2025-07-18 04:00:16",
@@ -1075,6 +1055,26 @@
       "duration_ms": 199160,
       "name": "Felt (feat. Henry Green)",
       "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
+    },
+    {
+      "added_at": "2025-07-18 04:00:16",
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 219208,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
     },
     {
       "added_at": "2025-07-18 04:00:16",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-07-18 04:00:16",
       "album": {
-        "name": "Maitri",
-        "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
-      },
-      "artists": [
-        {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Maitri",
-      "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
-    },
-    {
-      "added_at": "2025-07-18 04:00:16",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/1sF7sruZ4NXlCi4YKRZAka"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2025-07-18 04:00:16",
       "album": {
+        "name": "Maitri",
+        "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Maitri",
+      "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
+    },
+    {
+      "added_at": "2025-07-18 04:00:16",
+      "album": {
         "name": "Breeze",
         "url": "https://open.spotify.com/album/0udlUWkYUdtgKhg8x8DSM5"
       },
@@ -1527,26 +1527,6 @@
       "duration_ms": 158000,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/4Iz4rZPxjWYQCeVtksopKv"
-    },
-    {
-      "added_at": "2025-07-18 04:00:16",
-      "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/4egDJ1nzQU2SuFNkYaYMpe"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        },
-        {
-          "name": "Ren Ocean",
-          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
-        }
-      ],
-      "duration_ms": 199450,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
     },
     {
       "added_at": "2025-07-18 04:00:16",
@@ -1571,6 +1551,26 @@
     {
       "added_at": "2025-07-18 04:00:16",
       "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/4egDJ1nzQU2SuFNkYaYMpe"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        },
+        {
+          "name": "Ren Ocean",
+          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
+        }
+      ],
+      "duration_ms": 199450,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
+    },
+    {
+      "added_at": "2025-07-18 04:00:16",
+      "album": {
         "name": "Trying To See U",
         "url": "https://open.spotify.com/album/245bKseQZcRwdtFbyUtNlO"
       },
@@ -1583,26 +1583,6 @@
       "duration_ms": 181550,
       "name": "Trying To See U",
       "url": "https://open.spotify.com/track/585wU2R0TPuS2cgDWTrP7L"
-    },
-    {
-      "added_at": "2025-07-18 04:00:16",
-      "album": {
-        "name": "Another Touch",
-        "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 225301,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW"
     },
     {
       "added_at": "2025-07-18 04:00:16",
@@ -1631,18 +1611,42 @@
     {
       "added_at": "2025-07-18 04:00:16",
       "album": {
-        "name": "Lost Home / Solitude",
-        "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
+        "name": "Another Touch",
+        "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
       },
       "artists": [
         {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
         }
       ],
-      "duration_ms": 226115,
-      "name": "Lost Home",
-      "url": "https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy"
+      "duration_ms": 225301,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW"
+    },
+    {
+      "added_at": "2025-07-18 04:00:16",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3EqUaFhMPsAIE8WyBgtZsa"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 234492,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5jkzcYe3UjM7VyrlZyiXax"
     },
     {
       "added_at": "2025-07-18 04:00:16",
@@ -1659,6 +1663,22 @@
       "duration_ms": 252000,
       "name": "Dark In This Room",
       "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
+    },
+    {
+      "added_at": "2025-07-18 04:00:16",
+      "album": {
+        "name": "Lost Home / Solitude",
+        "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        }
+      ],
+      "duration_ms": 226115,
+      "name": "Lost Home",
+      "url": "https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy"
     },
     {
       "added_at": "2025-07-18 04:00:16",
@@ -1791,22 +1811,22 @@
     {
       "added_at": "2025-07-18 04:00:16",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3EqUaFhMPsAIE8WyBgtZsa"
+        "name": "Something Right",
+        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
         },
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Molly Moonwater",
+          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
         }
       ],
-      "duration_ms": 234492,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/5jkzcYe3UjM7VyrlZyiXax"
+      "duration_ms": 175040,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
     },
     {
       "added_at": "2025-07-18 04:00:16",
@@ -1847,26 +1867,6 @@
     {
       "added_at": "2025-07-18 04:00:16",
       "album": {
-        "name": "Something Right",
-        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
-      },
-      "artists": [
-        {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        },
-        {
-          "name": "Molly Moonwater",
-          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Something Right",
-      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
-    },
-    {
-      "added_at": "2025-07-18 04:00:16",
-      "album": {
         "name": "Polar Lights",
         "url": "https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2"
       },
@@ -1879,6 +1879,30 @@
       "duration_ms": 190819,
       "name": "Polar Lights",
       "url": "https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi"
+    },
+    {
+      "added_at": "2025-07-18 04:00:16",
+      "album": {
+        "name": "Flown",
+        "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "duration_ms": 235702,
+      "name": "Flown",
+      "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
     },
     {
       "added_at": "2025-07-18 04:00:16",
@@ -1899,22 +1923,6 @@
       "duration_ms": 278217,
       "name": "Iajo",
       "url": "https://open.spotify.com/track/6fWaPTrp9PnPwd9l3U3Keo"
-    },
-    {
-      "added_at": "2025-07-18 04:00:16",
-      "album": {
-        "name": "Postcards / All Access",
-        "url": "https://open.spotify.com/album/2ldKEjyuNyzWPhYmE7Pjrk"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Postcards",
-      "url": "https://open.spotify.com/track/68lz5UGhqfbGivPA6BCDWF"
     }
   ],
   "unique_name": "Chill Tracks",

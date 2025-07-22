@@ -4,7 +4,7 @@
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Sonny Fodera + Jazzy,  Above & Beyond, FISHER, & more!
 
-29,744 songs - 75 day 13 hr 13 min
+29,744 songs - 75 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24867,7 +24867,7 @@
 | [Take Me Away](https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Take Me Away](https://open.spotify.com/album/3w0ZKUzyBG3hkwvV3RcOAw) | 2:26 | 2024-08-02 | 2024-08-10 |
 | [Take Me Away](https://open.spotify.com/track/586FbXmRFXoW3Fw9VfTIow) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Take Me Away](https://open.spotify.com/album/6GmsxiC5tAcNZ30fjo3lo0) | 2:24 | 2022-02-11 | 2022-02-19 |
 | [Take Me Away](https://open.spotify.com/track/7DbGuIQ6VskqgwFqEvJg7j) | [Guau](https://open.spotify.com/artist/3B09YsVwUYEmbxDAHqJhvs) | [200](https://open.spotify.com/album/5OpGvnPD06NozoisVDcnbM) | 5:20 | 2021-09-18 | 2021-09-25 |
-| [Take Me Away](https://open.spotify.com/track/48p9jvjqbUQyb8GsNvTaJC) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Take Me Away](https://open.spotify.com/album/2yoPkKdnOSZGvBvSwjQdmB) | 2:20 | 2025-07-18 |  |
+| [Take Me Away](https://open.spotify.com/track/48p9jvjqbUQyb8GsNvTaJC) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [bankr](https://open.spotify.com/artist/1yeRfHskcp7ujLZNmabEpp) | [Take Me Away](https://open.spotify.com/album/2yoPkKdnOSZGvBvSwjQdmB) | 2:20 | 2025-07-18 |  |
 | [Take Me Away](https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Take Me Away](https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe) | 3:02 | 2022-02-25 | 2022-03-05 |
 | [Take Me Away](https://open.spotify.com/track/0DlNdprrhGx3tJ6UskY2Jm) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Take Me Away](https://open.spotify.com/album/2v0XkB32qCS3ZsPoBBK8ZF) | 4:13 | 2024-01-12 | 2024-01-20 |
 | [Take Me Away](https://open.spotify.com/track/0LDcW1jwOpYCqdDZbS1J6Y) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Take Me Away](https://open.spotify.com/album/5BvRuLqGxYWgLmSyBBeC5D) | 3:09 | 2024-04-12 | 2024-04-19 |
@@ -27229,7 +27229,7 @@
 | [Under The Light](https://open.spotify.com/track/4iVFYi7uE5LA4WeOB1Cf5u) | [MRTNI](https://open.spotify.com/artist/0O8F8VzYUlBBnMU1TdaaCa), [Soldera](https://open.spotify.com/artist/3jkWhyxck0vHfZV83khRLc), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Laau](https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX) | [Under The Light](https://open.spotify.com/album/2JLcYlYEnSiYh2G4amrNp0) | 4:20 | 2025-04-25 | 2025-05-03 |
 | [Under the Loquat Tree \(feat\. Goldmund\)](https://open.spotify.com/track/5IhVMVpcjSwHLPxA2MnRY6) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [Under the Loquat Tree \(feat\. Goldmund\)](https://open.spotify.com/album/0kEM9G28Aaw3Huhdl2IBiZ) | 4:00 | 2021-06-12 | 2021-06-19 |
 | [Under The Milky Way](https://open.spotify.com/track/5ebDvORrSlD3PlNE3q6f46) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Under The Milky Way](https://open.spotify.com/album/1U52Gzic4O5Z1x23YqTN9p) | 3:53 | 2022-09-02 | 2022-09-10 |
-| [Under The Ocean](https://open.spotify.com/track/4JQNvmZIDSG2xWL40txXNf) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Under The Ocean](https://open.spotify.com/album/4m2CIu8Pkh32Z2pgZD0Zli) | 5:49 | 2025-07-18 |  |
+| [Under The Ocean](https://open.spotify.com/track/4JQNvmZIDSG2xWL40txXNf) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Under The Ocean](https://open.spotify.com/album/4m2CIu8Pkh32Z2pgZD0Zli) | 5:13 | 2025-07-18 |  |
 | [Under the Sun](https://open.spotify.com/track/32v7oXsd2S8XcZoPGO488S) | [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Under the Sun EP](https://open.spotify.com/album/18UianFgcKByeelb2c1lWN) | 6:15 | 2022-08-26 | 2022-09-03 |
 | [Under The Sun](https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Under The Sun](https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z) | 3:28 | 2022-05-06 | 2022-05-14 |
 | [Under The Sun](https://open.spotify.com/track/5oizbXy6kKekqNucGO8quz) | [Jane Ryse](https://open.spotify.com/artist/1Su0WN8uWdWROMl1TjeRPq) | [Under The Sun EP](https://open.spotify.com/album/3XvDh4MZWUMRGXcESJiAz1) | 3:59 | 2024-03-15 | 2024-03-23 |

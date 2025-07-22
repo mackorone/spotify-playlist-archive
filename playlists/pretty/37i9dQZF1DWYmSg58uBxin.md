@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 
 > Soothing piano and strings to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,283 likes - 145 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,310 likes - 145 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,23 +24,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 | 14 | [Celene by Candlelight](https://open.spotify.com/track/0crEES24wZ8548FG2jZqLp) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Celene by Candlelight](https://open.spotify.com/album/0PUMpyMC0dPiOq6utAOdGs) | 2:28 |
 | 15 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 |
 | 16 | [Last Summer](https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Last Summer](https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v) | 2:20 |
-| 17 | [Homebound](https://open.spotify.com/track/7IcMrQoAG375c6vOPYvo8Z) | [Nora Vale](https://open.spotify.com/artist/0fPeAHb11dnVfKVXoUBYZE) | [Homebound](https://open.spotify.com/album/096aOFTAhHfunfw0Y3DjPz) | 2:06 |
-| 18 | [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 |
-| 19 | [Blue Hour](https://open.spotify.com/track/48P8vOmx5edtkwLqeTvqJn) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Blue Hour](https://open.spotify.com/album/0x3Xq6Lhchktl3cksHTRfm) | 2:24 |
-| 20 | [sérénade](https://open.spotify.com/track/4L2r0Em9lqGCDSbsxk4C1g) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [sérénade](https://open.spotify.com/album/5caaM4yQzP89GlNu2bDNQh) | 2:32 |
-| 21 | [Gentle Echoes](https://open.spotify.com/track/5jDgTThGe4uXCTYAA3r8VR) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Gentle Echoes](https://open.spotify.com/album/4C8mLv9Eb6sKKNHObI867q) | 2:04 |
+| 17 | [sérénade](https://open.spotify.com/track/4L2r0Em9lqGCDSbsxk4C1g) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [sérénade](https://open.spotify.com/album/5caaM4yQzP89GlNu2bDNQh) | 2:32 |
+| 18 | [Homebound](https://open.spotify.com/track/7IcMrQoAG375c6vOPYvo8Z) | [Nora Vale](https://open.spotify.com/artist/0fPeAHb11dnVfKVXoUBYZE) | [Homebound](https://open.spotify.com/album/096aOFTAhHfunfw0Y3DjPz) | 2:06 |
+| 19 | [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 |
+| 20 | [Blue Hour](https://open.spotify.com/track/48P8vOmx5edtkwLqeTvqJn) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Blue Hour](https://open.spotify.com/album/0x3Xq6Lhchktl3cksHTRfm) | 2:24 |
+| 21 | [Shimmer](https://open.spotify.com/track/0JJjOOXHvXcpr7okiNGOe5) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Shimmer](https://open.spotify.com/album/6V4uuBOhnY4XTZE6wr0vCk) | 2:31 |
 | 22 | [Soft Rain](https://open.spotify.com/track/3C1YOgC9O7ecXCnlkkQAVR) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Soft Rain](https://open.spotify.com/album/0hvw1dqFx2BgQ8GGtTbH5y) | 2:16 |
-| 23 | [Les Feuilles](https://open.spotify.com/track/7GamvubJKZr56GDh3NvV64) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Les Feuilles](https://open.spotify.com/album/6W1xpVfcNAVKOczSEVmsbN) | 2:18 |
-| 24 | [Shimmer](https://open.spotify.com/track/0JJjOOXHvXcpr7okiNGOe5) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Shimmer](https://open.spotify.com/album/6V4uuBOhnY4XTZE6wr0vCk) | 2:31 |
+| 23 | [Gentle Echoes](https://open.spotify.com/track/5jDgTThGe4uXCTYAA3r8VR) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Gentle Echoes](https://open.spotify.com/album/4C8mLv9Eb6sKKNHObI867q) | 2:04 |
+| 24 | [Les Feuilles](https://open.spotify.com/track/7GamvubJKZr56GDh3NvV64) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Les Feuilles](https://open.spotify.com/album/6W1xpVfcNAVKOczSEVmsbN) | 2:18 |
 | 25 | [Time Will Heal](https://open.spotify.com/track/0pmb6g76rV00adDf5xpLIJ) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Time Will Heal](https://open.spotify.com/album/2DrVkyMIctHhYWz0WU7Vfj) | 2:27 |
 | 26 | [Letters to the Wind](https://open.spotify.com/track/2xIOGocs3xntXBULxJw5iL) | [Joseph Fina](https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv) | [Letters to the Wind](https://open.spotify.com/album/2ao7v1AcoOvv8sEJ3vhncp) | 2:44 |
 | 27 | [Enigma](https://open.spotify.com/track/5Tp8RmoHqTihaZyFMBZ5jG) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Enigma](https://open.spotify.com/album/5FmIguu1Cg8ACToBY2Klfj) | 3:01 |
 | 28 | [Voicing the Past](https://open.spotify.com/track/2g5UwHtPHeBNfAVaAC7m4r) | [Adrien Mann](https://open.spotify.com/artist/5riMQUJqMiLZg8AcxvjVIf) | [Voicing the Past](https://open.spotify.com/album/1RjoMyc35IAbjMLnYuUoy7) | 2:23 |
-| 29 | [Sunny](https://open.spotify.com/track/4RZ1hx5zELZWryF84Hxyye) | [Daiku T](https://open.spotify.com/artist/24p9LXzvz3njcv7UOI9xU5) | [Sunny](https://open.spotify.com/album/46fZUZRfAlSTXQHc47u80I) | 2:00 |
-| 30 | [The Story Of Us](https://open.spotify.com/track/7A267W9bhgllo67qsZ3vDI) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [The Story Of Us](https://open.spotify.com/album/1P0lEHmdvRGT1VFVoNfee2) | 2:11 |
-| 31 | [Believe](https://open.spotify.com/track/3F58fYdt8S9jHUUPnziTpC) | [Pederosa Calafiori](https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq) | [Believe](https://open.spotify.com/album/5Q2CIcPYsX3hI0EpVMFXGb) | 2:36 |
-| 32 | [Now And Before](https://open.spotify.com/track/4tMEY0J6K9yqD87Soyghrk) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Now And Before](https://open.spotify.com/album/36YDYhgvnRFligfHWZbbIk) | 2:01 |
-| 33 | [Silver Moon](https://open.spotify.com/track/6ctSMybCtQT5a4BkdcpfHU) | [Fryken](https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf) | [Silver Moon](https://open.spotify.com/album/2prGAm4grMizINuJ6OR4MB) | 3:03 |
+| 29 | [Silver Moon](https://open.spotify.com/track/6ctSMybCtQT5a4BkdcpfHU) | [Fryken](https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf) | [Silver Moon](https://open.spotify.com/album/2prGAm4grMizINuJ6OR4MB) | 3:03 |
+| 30 | [Sunny](https://open.spotify.com/track/4RZ1hx5zELZWryF84Hxyye) | [Daiku T](https://open.spotify.com/artist/24p9LXzvz3njcv7UOI9xU5) | [Sunny](https://open.spotify.com/album/46fZUZRfAlSTXQHc47u80I) | 2:00 |
+| 31 | [The Story Of Us](https://open.spotify.com/track/7A267W9bhgllo67qsZ3vDI) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [The Story Of Us](https://open.spotify.com/album/1P0lEHmdvRGT1VFVoNfee2) | 2:11 |
+| 32 | [Believe](https://open.spotify.com/track/3F58fYdt8S9jHUUPnziTpC) | [Pederosa Calafiori](https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq) | [Believe](https://open.spotify.com/album/5Q2CIcPYsX3hI0EpVMFXGb) | 2:36 |
+| 33 | [Now And Before](https://open.spotify.com/track/4tMEY0J6K9yqD87Soyghrk) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Now And Before](https://open.spotify.com/album/36YDYhgvnRFligfHWZbbIk) | 2:01 |
 | 34 | [A Walk Along the Seine](https://open.spotify.com/track/5X1UIUwfELwhImAfkIGfMD) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [A Walk Along the Seine](https://open.spotify.com/album/6i64uiYslHoDvAmP9U2gLW) | 2:11 |
 | 35 | [Breeze](https://open.spotify.com/track/4bN96tqhMRF1WW6jeiLGPB) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Breeze](https://open.spotify.com/album/3Du1Oc0JUqb6lxFFEqGuT4) | 2:37 |
 | 36 | [Clive Road](https://open.spotify.com/track/57ZmoxcaETpnR4OrZ1SxRC) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Clive Road](https://open.spotify.com/album/2kPK2Pr9R6v6WO2Yy8VgBw) | 2:34 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 | 144 | [Mirer](https://open.spotify.com/track/4XrCdS8orGnh2045XBGp9d) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Mirer](https://open.spotify.com/album/0yRh0Ch35hLryT0VI6lNy9) | 4:00 |
 | 145 | [Delicately](https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Anna De Bruin](https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4) | [Delicately](https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85) | 2:03 |
 
-Snapshot ID: `aHpxbQAAAACB0u6mShptk7pujhH9bj8N`
+Snapshot ID: `aH414AAAAABOMYjpGl0Vd20DBy0nqpQU`

@@ -3625,6 +3625,24 @@
     },
     {
       "album": {
+        "name": "Rob A Bank",
+        "url": "https://open.spotify.com/album/41nGOWkY8pPu0z2PHw3F5t"
+      },
+      "artists": [
+        {
+          "name": "MAAPS",
+          "url": "https://open.spotify.com/artist/3Y93cY3JZhLEfBVf7HL6o6"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "Rob A Bank",
+      "url": "https://open.spotify.com/track/4QIEYK4yxE4btLGXGfML1i"
+    },
+    {
+      "album": {
         "name": "Rumor (Remixes)",
         "url": "https://open.spotify.com/album/0htPXn3wIk2tOAGxxMTLGK"
       },

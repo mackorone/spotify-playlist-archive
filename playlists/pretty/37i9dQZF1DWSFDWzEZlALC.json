@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: verifiziert",
-  "num_followers": 459231,
+  "num_followers": 459283,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHn2FAAAAADdrh25rrhOoU2fcx7erjGq",
+  "snapshot_id": "aH3xGAAAAACebtxtFKuJ4yyB5EoUJh6I",
   "tracks": [
     {
       "added_at": "2025-07-18 07:21:56",
@@ -23,22 +23,6 @@
       "duration_ms": 167118,
       "name": "blonded radio",
       "url": "https://open.spotify.com/track/3IOmPZ1vcncCHZKUTxKVFX"
-    },
-    {
-      "added_at": "2025-07-18 07:21:56",
-      "album": {
-        "name": "einszweidreivier",
-        "url": "https://open.spotify.com/album/7JXDU6SQb1i7K4mDDvPHOJ"
-      },
-      "artists": [
-        {
-          "name": "Aaron",
-          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
-        }
-      ],
-      "duration_ms": 138697,
-      "name": "einszweidreivier",
-      "url": "https://open.spotify.com/track/0wuyRLsJyS6a5dYhyEck49"
     },
     {
       "added_at": "2025-07-18 07:21:56",
@@ -75,50 +59,18 @@
     {
       "added_at": "2025-07-18 07:21:56",
       "album": {
-        "name": "Autopilot",
-        "url": "https://open.spotify.com/album/7kKmN36e3lVev0XRVpnJEW"
+        "name": "einszweidreivier",
+        "url": "https://open.spotify.com/album/7JXDU6SQb1i7K4mDDvPHOJ"
       },
       "artists": [
         {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
         }
       ],
-      "duration_ms": 147529,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/5cP6xOgTrbqzG8DNMTyG2x"
-    },
-    {
-      "added_at": "2025-07-18 07:21:56",
-      "album": {
-        "name": "2 Teile",
-        "url": "https://open.spotify.com/album/7Dp26d94eVaqz8uRWmjhqw"
-      },
-      "artists": [
-        {
-          "name": "ENNIO",
-          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
-        }
-      ],
-      "duration_ms": 177546,
-      "name": "2 Teile",
-      "url": "https://open.spotify.com/track/02xssYg4dSe6YUBzyPai4B"
-    },
-    {
-      "added_at": "2025-07-18 07:21:56",
-      "album": {
-        "name": "Sonne",
-        "url": "https://open.spotify.com/album/5w9aiyzX6MSTDwkZV0rJAL"
-      },
-      "artists": [
-        {
-          "name": "Elias",
-          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Sonne",
-      "url": "https://open.spotify.com/track/2iXznbTVkAvD6Q7EpaHcVl"
+      "duration_ms": 138697,
+      "name": "einszweidreivier",
+      "url": "https://open.spotify.com/track/0wuyRLsJyS6a5dYhyEck49"
     },
     {
       "added_at": "2025-07-18 07:21:56",
@@ -139,6 +91,70 @@
     {
       "added_at": "2025-07-18 07:21:56",
       "album": {
+        "name": "2 Teile",
+        "url": "https://open.spotify.com/album/7Dp26d94eVaqz8uRWmjhqw"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "2 Teile",
+      "url": "https://open.spotify.com/track/02xssYg4dSe6YUBzyPai4B"
+    },
+    {
+      "added_at": "2025-07-18 07:21:56",
+      "album": {
+        "name": "brennnessel",
+        "url": "https://open.spotify.com/album/7xJ2pjEv7jAdNiwYTCO2Nv"
+      },
+      "artists": [
+        {
+          "name": "georgustav",
+          "url": "https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "brennnessel",
+      "url": "https://open.spotify.com/track/5PLx5ek9KPIxOIzrxBZNd8"
+    },
+    {
+      "added_at": "2025-07-18 07:21:56",
+      "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/7kKmN36e3lVev0XRVpnJEW"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "duration_ms": 147529,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/5cP6xOgTrbqzG8DNMTyG2x"
+    },
+    {
+      "added_at": "2025-07-18 07:21:56",
+      "album": {
+        "name": "Sonne",
+        "url": "https://open.spotify.com/album/5w9aiyzX6MSTDwkZV0rJAL"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Sonne",
+      "url": "https://open.spotify.com/track/2iXznbTVkAvD6Q7EpaHcVl"
+    },
+    {
+      "added_at": "2025-07-18 07:21:56",
+      "album": {
         "name": "frieden",
         "url": "https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 165466,
       "name": "frieden",
       "url": "https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna"
-    },
-    {
-      "added_at": "2025-07-18 07:21:56",
-      "album": {
-        "name": "Manchmal",
-        "url": "https://open.spotify.com/album/7vqnXiRe6DXBdT6StAhicY"
-      },
-      "artists": [
-        {
-          "name": "elia",
-          "url": "https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I"
-        }
-      ],
-      "duration_ms": 169987,
-      "name": "Manchmal",
-      "url": "https://open.spotify.com/track/5EyaNjaGLRK56ZUqs49bGL"
     },
     {
       "added_at": "2025-07-18 07:21:56",
@@ -191,18 +191,18 @@
     {
       "added_at": "2025-07-18 07:21:56",
       "album": {
-        "name": "brennnessel",
-        "url": "https://open.spotify.com/album/7xJ2pjEv7jAdNiwYTCO2Nv"
+        "name": "Manchmal",
+        "url": "https://open.spotify.com/album/7vqnXiRe6DXBdT6StAhicY"
       },
       "artists": [
         {
-          "name": "georgustav",
-          "url": "https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo"
+          "name": "elia",
+          "url": "https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I"
         }
       ],
-      "duration_ms": 163400,
-      "name": "brennnessel",
-      "url": "https://open.spotify.com/track/5PLx5ek9KPIxOIzrxBZNd8"
+      "duration_ms": 169987,
+      "name": "Manchmal",
+      "url": "https://open.spotify.com/track/5EyaNjaGLRK56ZUqs49bGL"
     },
     {
       "added_at": "2025-07-18 07:21:56",

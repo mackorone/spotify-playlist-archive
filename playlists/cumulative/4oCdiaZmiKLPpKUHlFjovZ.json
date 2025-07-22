@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Great Day",
+        "url": "https://open.spotify.com/album/6p4H6WRMTy3Er71hZNkase"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156277,
+      "name": "Great Day",
+      "url": "https://open.spotify.com/track/7zGjLN0J7xotEWjri2cqb3"
+    },
+    {
+      "album": {
         "name": "Green Carpet",
         "url": "https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef"
       },

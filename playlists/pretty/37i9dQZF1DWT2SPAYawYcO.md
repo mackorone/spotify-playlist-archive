@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Ruel, Alex Warren, Flume, Emma Louise, FISHER, bbyclose, Zach Bryan, Gabriella Rose + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,875 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,892 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

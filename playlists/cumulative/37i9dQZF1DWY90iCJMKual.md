@@ -4,7 +4,7 @@
 
 > PH vibin' cover: Justin Vasquez
 
-362 songs - 19 hr 58 min
+363 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Sayo Lamang](https://open.spotify.com/track/5ZNNJZDFcgt3qG3m9XFRIt) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2) | [Sayo Lamang](https://open.spotify.com/album/4WGGdXbns7k4zkwIjxn66l) | 3:04 | 2024-03-22 | 2025-01-17 |
 | [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 | 2023-07-28 | 2024-03-09 |
 | [self talk](https://open.spotify.com/track/3h83G3DtJTNxYZrnvrEK2z) | [Annie Lux](https://open.spotify.com/artist/54vSGePBrdJojNSXh13DwN) | [self talk](https://open.spotify.com/album/0pXuT6nfO7jEPaG90OjBht) | 2:01 | 2022-10-12 | 2023-05-03 |
+| [Selfish](https://open.spotify.com/track/6ZTXLtZ9EBhji6rcowVW8s) | [kyleaux](https://open.spotify.com/artist/0CPN6hsvntQd2izYTDVO7M) | [Selfish](https://open.spotify.com/album/4Mud55B7qxmzQecqObcG6e) | 2:38 | 2025-07-21 |  |
 | [Shawty](https://open.spotify.com/track/0S7aR94L2NOJYDHWB97Yy6) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [Shawty](https://open.spotify.com/album/51qJ7XaO2Eh4DLIyS8SzZ0) | 3:07 | 2024-02-09 | 2025-01-17 |
 | [showbiz lang, sorry babe...](https://open.spotify.com/track/7ybvHpVseTzAMUKLczNlLL) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [Unotheone](https://open.spotify.com/artist/4MgsXfdEpHBkdGCSE6MIsc) | [bahay namin maliit lamang](https://open.spotify.com/album/5MgFxCKMfta2fQequyHHrt) | 2:55 | 2024-08-23 | 2025-03-22 |
 | [Sigurado](https://open.spotify.com/track/4RuwsMJHRsB4gIzLBnnjqo) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5) | [Sigurado](https://open.spotify.com/album/28TgQT58FujmQoZ796M4Ma) | 3:32 | 2023-08-16 | 2024-02-10 |

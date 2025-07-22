@@ -674,7 +674,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 143414,
       "name": "Alhaji",
       "url": "https://open.spotify.com/track/1fl2s61uhH6Ob4bU6f8TMT"
@@ -8990,7 +8990,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 179070,
       "name": "Ifineme",
       "url": "https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC"
@@ -15629,6 +15629,24 @@
     },
     {
       "album": {
+        "name": "Powerbank",
+        "url": "https://open.spotify.com/album/5EjZtGfczQ71RY2u88ajzj"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152347,
+      "name": "Powerbank",
+      "url": "https://open.spotify.com/track/2jqOvtJYWZbu2YaUdDYAXj"
+    },
+    {
+      "album": {
         "name": "PRAY",
         "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
       },
@@ -18014,7 +18032,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 156226,
       "name": "Taxi Driver",
       "url": "https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj"

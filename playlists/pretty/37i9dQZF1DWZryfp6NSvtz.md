@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Nine Inch Nails
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,945 likes - 120 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,992 likes - 120 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

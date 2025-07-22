@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,683 likes - 291 songs - 1 day 0 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,690 likes - 291 songs - 1 day 0 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 100 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 |
 | 101 | [It's Ok \(It's Not Ok\)](https://open.spotify.com/track/5I1pqWYuCCNZxmqCO2gGuu) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [It's Ok \(It's Not Ok\)](https://open.spotify.com/album/3vm61MRxePI3c1FiFuJxn0) | 3:06 |
 | 102 | [RIP Ralph](https://open.spotify.com/track/5TaDLSmcRrvr2hcptYJhwq) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [Easy Tiger EP](https://open.spotify.com/album/4ojbbroPnKNz6Paz9uewIH) | 5:17 |
-| 103 | [When Doves Cry](https://open.spotify.com/track/0yyASw4qqEeUjeHrnwGNbs) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx) | [Dove N Bass, Vol\. 1](https://open.spotify.com/album/0Xv0E3mBtQSrzliBJMFTZs) | 1:40 |
+| 103 | [When Doves Cry](https://open.spotify.com/track/0yyASw4qqEeUjeHrnwGNbs) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx) | [Dove N Bass \(Beat Tape\)](https://open.spotify.com/album/0Xv0E3mBtQSrzliBJMFTZs) | 1:40 |
 | 104 | [Fiorucci Made Me Hardcore](https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Fiorucci Made Me Hardcore](https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep) | 3:51 |
 | 105 | [Beam Me Up \- Prins Thomas Diskomiks \- Single Edit](https://open.spotify.com/track/63o8AFj8EjvyUvR8Ez01C5) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Beam Me Up \(Prins Thomas Diskomiks \- Single Edit\)](https://open.spotify.com/album/49dNYLSLbFUnguSK2XVqfl) | 5:00 |
 | 106 | [All Very Hush Hush](https://open.spotify.com/track/4uQWRd4rBrfAvLpB7Ko9lu) | [Mosca](https://open.spotify.com/artist/09w4rprrROhfc0yevxXCGg) | [All Very Hush Hush](https://open.spotify.com/album/0aiLVnRli26t5BibveAXXt) | 6:22 |

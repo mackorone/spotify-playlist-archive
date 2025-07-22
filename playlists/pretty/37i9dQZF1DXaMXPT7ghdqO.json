@@ -1,6 +1,6 @@
 {
   "description": "\u795d\u30fb\u7d50\u62105\u5468\u5e74\uff016\u4eba\u7d44\u30a8\u30f3\u30bf\u30e1\u30e6\u30cb\u30c3\u30c8\u3001\u3059\u3068\u3077\u308a\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 Music from Japanese entertainment group, Strawberry prince! \u00a9STPR Inc.",
-  "num_followers": 42146,
+  "num_followers": 42140,
   "original_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",
   "owner": {
     "name": "Spotify",
@@ -591,18 +591,22 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "\u30a2\u30a4\u30ed\u30cb",
-        "url": "https://open.spotify.com/album/24gjv9MJq3I9v1yrqT6QA1"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6dpKQlT4N6WPxyZwAePT5V"
       },
       "artists": [
         {
           "name": "\u3055\u3068\u307f",
           "url": "https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q"
+        },
+        {
+          "name": "\u3053\u308d\u3093",
+          "url": "https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ"
         }
       ],
-      "duration_ms": 250106,
-      "name": "\u30a2\u30a4\u30ed\u30cb",
-      "url": "https://open.spotify.com/track/160GI2uiGYENJbeh4hJIw7"
+      "duration_ms": 233520,
+      "name": "\u8d64\u9053\u30bb\u30cb\u30e7\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/7edbJjRIpLmD6kPz4VBgae"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -683,22 +687,18 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6dpKQlT4N6WPxyZwAePT5V"
+        "name": "\u30a2\u30a4\u30ed\u30cb",
+        "url": "https://open.spotify.com/album/24gjv9MJq3I9v1yrqT6QA1"
       },
       "artists": [
         {
           "name": "\u3055\u3068\u307f",
           "url": "https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q"
-        },
-        {
-          "name": "\u3053\u308d\u3093",
-          "url": "https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ"
         }
       ],
-      "duration_ms": 233520,
-      "name": "\u8d64\u9053\u30bb\u30cb\u30e7\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/7edbJjRIpLmD6kPz4VBgae"
+      "duration_ms": 250106,
+      "name": "\u30a2\u30a4\u30ed\u30cb",
+      "url": "https://open.spotify.com/track/160GI2uiGYENJbeh4hJIw7"
     },
     {
       "added_at": "2025-06-13 08:46:52",

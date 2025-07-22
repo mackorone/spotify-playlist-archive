@@ -79,6 +79,32 @@
     },
     {
       "album": {
+        "name": "Tiger 2025, Vol. 1",
+        "url": "https://open.spotify.com/album/7hN1njY6QpQSnkMWBYJfQ7"
+      },
+      "artists": [
+        {
+          "name": "Tiger",
+          "url": "https://open.spotify.com/artist/1Bvb9LcDqKiwwbUAVZMDtm"
+        },
+        {
+          "name": "Jang Dhillon",
+          "url": "https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq"
+        },
+        {
+          "name": "Beatcop",
+          "url": "https://open.spotify.com/artist/2sGUVwZqJzeySVgEw7KTaV"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180618,
+      "name": "9 Gant",
+      "url": "https://open.spotify.com/track/0RtpA2DyBIsCX07aoJLuRO"
+    },
+    {
+      "album": {
         "name": "9:45",
         "url": "https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR"
       },
@@ -516,7 +542,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 187636,
       "name": "Busy Getting Paid",
       "url": "https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR"
@@ -906,7 +932,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 168000,
       "name": "Gangland",
       "url": "https://open.spotify.com/track/1AGeDbAlIcoJN01bLkFN82"
@@ -1992,6 +2018,28 @@
       "duration_ms": 165581,
       "name": "Pyaar Tenu Karda Gabru (From \"Shubh Mangal Zyada Saavdhan\")",
       "url": "https://open.spotify.com/track/0OcVZqIer0LLu3K8sdU5Yb"
+    },
+    {
+      "album": {
+        "name": "Rafale Warga",
+        "url": "https://open.spotify.com/album/1zYnZIP8V2xHUEmqHcOhHn"
+      },
+      "artists": [
+        {
+          "name": "Pavitar Lassoi",
+          "url": "https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145054,
+      "name": "Rafale Warga",
+      "url": "https://open.spotify.com/track/5YxbzhuTwFZLvUBG0rHrEq"
     },
     {
       "album": {

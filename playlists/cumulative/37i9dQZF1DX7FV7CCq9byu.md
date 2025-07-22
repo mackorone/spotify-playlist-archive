@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,003 songs - 2 day 3 hr 0 min
+1,004 songs - 2 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Bäst](https://open.spotify.com/track/5EB1gR2BcPPAyhPNqz0SdM) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Bäst](https://open.spotify.com/album/4hko5sUAbQqs5jbhtp5oaz) | 2:36 | 2025-01-17 | 2025-02-21 |
 | [Bäst i världen](https://open.spotify.com/track/5j6yebA2Vw4P5nxezSkleJ) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Bäst i världen](https://open.spotify.com/album/0oDu7rtyiL89CyehBmsZ8C) | 3:11 | 2025-02-13 | 2025-03-28 |
 | [Bättre dar](https://open.spotify.com/track/3r500SBGbGkEDUCtBaN5rC) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Bättre dar](https://open.spotify.com/album/4d4bCgMBBzYLENfsMyHQYo) | 2:41 | 2024-11-14 | 2025-01-17 |
+| [California](https://open.spotify.com/track/6Fu81TIuJn4rYleNUctqOx) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [California](https://open.spotify.com/album/08Dvx4JDDAICQr0Vzeu0ve) | 2:16 | 2025-07-21 |  |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-21 | 2025-04-04 |
 | [Call me when you need me](https://open.spotify.com/track/5sJ7YLGwsOP7pmwGTz2Osu) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Call me when you need me](https://open.spotify.com/album/5DgDuWTZ8cFgfUsymQvD9P) | 3:14 | 2025-06-12 | 2025-07-18 |
 | [Call My Name](https://open.spotify.com/track/3zytAI32kYi10jOpO3Knuz) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Call My Name](https://open.spotify.com/album/5dhhR8JBWXHrIKpbY1UZRP) | 3:09 | 2025-04-10 | 2025-05-17 |

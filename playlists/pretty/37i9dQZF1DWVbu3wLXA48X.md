@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Blood Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,540 likes - 117 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,548 likes - 117 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

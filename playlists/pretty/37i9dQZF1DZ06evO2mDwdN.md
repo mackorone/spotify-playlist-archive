@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 
 > This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,661 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,660 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 42 | [Baby I'm Back](https://open.spotify.com/track/2sNdjfbx8icAt0iVfN7JZ1) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Philadelphia Soul](https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av) | 3:50 |
 | 43 | [If You Don't Know Christ by Now](https://open.spotify.com/track/6gXtxEee0iLH3Dug0WV81T) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [If You Don't Know Christ by Now](https://open.spotify.com/album/1NVw7iYkO1pJzTeKyqgp0Y) | 4:35 |
 | 44 | [The Intruders Medley Introduction \- Live](https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 1:29 |
-| 45 | [Go Away](https://open.spotify.com/track/1Q64Qh16VXUDPOyMNVFb71) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Cooler Than Ice: Arctic Records and the Rise of Philly Soul](https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv) | 3:02 |
+| 45 | [Today's Your Lucky Day](https://open.spotify.com/track/6EFETJ5VG2AhjGun4dHRD1) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Nikko](https://open.spotify.com/artist/17Zl7UZpsaofiXvKockxNY) | [Today's Your Lucky Day](https://open.spotify.com/album/6SjGljHh3CyDsl7q9TR1K1) | 6:23 |
 | 46 | [If You're Looking For Somebody To Love](https://open.spotify.com/track/1FgKj0vqkBPNn51KkGjbHc) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Philadelphia Soul](https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av) | 4:46 |
-| 47 | [Today's Your Lucky Day](https://open.spotify.com/track/6EFETJ5VG2AhjGun4dHRD1) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Nikko](https://open.spotify.com/artist/17Zl7UZpsaofiXvKockxNY) | [Today's Your Lucky Day](https://open.spotify.com/album/6SjGljHh3CyDsl7q9TR1K1) | 6:23 |
+| 47 | [Go Away](https://open.spotify.com/track/1Q64Qh16VXUDPOyMNVFb71) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Cooler Than Ice: Arctic Records and the Rise of Philly Soul](https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv) | 3:02 |
 | 48 | [A House Is Not A Home \- Live](https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 8:18 |
 | 49 | [Ain't No Stoppin' Us Now \- Rerecorded](https://open.spotify.com/track/4bPsYicJ4OoYjPGvuvfyLW) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol\. 2](https://open.spotify.com/album/4vkZVNXRRoJeOtpePA1Bep) | 3:45 |
-| 50 | [The Retribution Blues](https://open.spotify.com/track/02OKedr8l69kXLmhJDllTr) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Too Hot to Handle](https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz) | 2:27 |
+| 50 | [A Good Woman](https://open.spotify.com/track/0bFWedvdt4Ap92fkimGI5r) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Too Hot to Handle](https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz) | 2:13 |
 
-Snapshot ID: `aHrgAAAAAABlY5h/2DpIc5QJW/Wdy9Vc`
+Snapshot ID: `aHwxgAAAAACPbyZzgXd6Y1R8ARu+TY3k`

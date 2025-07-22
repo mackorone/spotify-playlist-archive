@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: The Charlatans
 
-353 songs - 22 hr 59 min
+354 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Dumb Guitar](https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Dumb Guitar](https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql) | 5:10 | 2024-06-14 | 2024-07-12 |
 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 | 2025-01-31 | 2025-06-07 |
 | [ECRP](https://open.spotify.com/track/7c6Mo690yENpxGVJzpimLl) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [ECRP](https://open.spotify.com/album/25Acx0aEZgajqNKiZXBJPj) | 3:56 | 2024-07-11 | 2024-09-07 |
+| [Either](https://open.spotify.com/track/2eXRgdwREO1B8jt5k2n2cW) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Either](https://open.spotify.com/album/7m0ZMDJ3lqepjUQJ2KpwsQ) | 3:10 | 2025-07-18 |  |
 | [Electra](https://open.spotify.com/track/4E9DGHAa0eUrz656VVNm5D) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Electra](https://open.spotify.com/album/5l4aX9riElSOn2e7Qw9lzf) | 3:30 | 2024-07-11 | 2024-08-15 |
 | [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 | 2024-11-15 | 2025-02-12 |
 | [Emily and Me](https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Emily and Me](https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY) | 4:12 | 2025-03-21 |  |
@@ -159,7 +160,7 @@
 | [Hold](https://open.spotify.com/track/7y9jNvL0e0jTu0yr4OJ7Yd) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Let All That We Imagine Be The Light](https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj) | 4:33 | 2025-07-18 | 2025-07-20 |
 | [Home](https://open.spotify.com/track/6e1LCVpjkOXQ65iZ7RRRyC) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Home](https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI) | 2:11 | 2025-07-18 |  |
 | [Honeycomb](https://open.spotify.com/track/0z8Z0sQiBgww2toWEf5A40) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Honeycomb](https://open.spotify.com/album/1bXymWHWPNubbjT9Pi2HBH) | 3:14 | 2025-03-21 | 2025-05-09 |
-| [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 | 2024-10-06 |  |
+| [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 | 2024-10-06 | 2025-07-22 |
 | [How We See The Light](https://open.spotify.com/track/17hKeNABYQ9dlM5ktscRrO) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [POPtical Illusion](https://open.spotify.com/album/4Y47DeNLz30h7AyLtGdqtT) | 4:45 | 2024-06-14 | 2024-07-14 |
 | [How We See The Light](https://open.spotify.com/track/4i2lt1nfGMH13ZB7sZylwu) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [How We See The Light](https://open.spotify.com/album/6xrZ6CmKzXvEpxqad5yR0f) | 4:45 | 2024-11-15 | 2025-03-01 |
 | [Hunt You Down](https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:32 | 2024-06-14 | 2024-07-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Contesto is officially here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,936 likes - 520 songs - 1 day 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,047 likes - 520 songs - 1 day 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 2 | [Positions](https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Positions](https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah) | 2:28 |
 | 3 | [Give It To Me 2025](https://open.spotify.com/track/2SXIxc92q42M6lMCfQ8hKL) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Give It To Me 2025](https://open.spotify.com/album/0tPiQFFUeHaHJ2FPOcPHcS) | 2:41 |
 | 4 | [Isaka \(6am\) Vanco Mix \- In Joburg](https://open.spotify.com/track/5ncLgVY26bAfHhUjTm7Sz4) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Isaka \(6am\) Vanco Mix \- In Joburg](https://open.spotify.com/album/2pSnEC7Cf4IhMSUrXPjrUN) | 3:24 |
-| 5 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 |
-| 6 | [FOR REAL](https://open.spotify.com/track/5yjCIVDZzRFEe9xOiKz6vU) | [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [FOR REAL](https://open.spotify.com/album/5NcX7tpr66Qkj9mILZm3kD) | 3:59 |
-| 7 | [Albi](https://open.spotify.com/track/16XLWurcZVM96mYBgtPz4s) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Albi](https://open.spotify.com/album/4t9pyaj3xcA1FCxX1GFRak) | 2:51 |
+| 5 | [FOR REAL](https://open.spotify.com/track/5yjCIVDZzRFEe9xOiKz6vU) | [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [FOR REAL](https://open.spotify.com/album/5NcX7tpr66Qkj9mILZm3kD) | 3:59 |
+| 6 | [Albi](https://open.spotify.com/track/16XLWurcZVM96mYBgtPz4s) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Albi](https://open.spotify.com/album/4t9pyaj3xcA1FCxX1GFRak) | 2:51 |
+| 7 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 |
 | 8 | [Body Language](https://open.spotify.com/track/31yljlcH1pEm4Dz85D1KGC) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Body Language](https://open.spotify.com/album/1PJEjRyI5FCOqFf6QbWnlf) | 2:59 |
 | 9 | [ZAAZAA \- GINO LE NOIR Remix](https://open.spotify.com/track/1eZ6XgUreA1SbIV0KPB5wE) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [GINO LE NOIR](https://open.spotify.com/artist/0t5ayWBqZtXuen7CssD4Iu) | [REMIX PACK](https://open.spotify.com/album/1r7s5anqKnYFUZDgHFyH38) | 4:12 |
 | 10 | [Right](https://open.spotify.com/track/5NaliF5YDYgIF0eToAuJBn) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Right](https://open.spotify.com/album/1FEooZjSxe1SytPZFR8xMW) | 3:06 |
@@ -529,4 +529,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 519 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 |
 | 520 | [The Light](https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [The Light](https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy) | 4:33 |
 
-Snapshot ID: `aHoJRgAAAAA0JjI9pWETOqTbB/JN/zpo`
+Snapshot ID: `aH4AyAAAAAB3edMQW+X8qWkTjNLjWg8d`

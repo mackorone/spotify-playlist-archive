@@ -1,6 +1,6 @@
 {
   "description": "Baby, it's cold outside \ud83c\udf81\ud83c\udf32 here's some EDM to keep warm!",
-  "num_followers": 75239,
+  "num_followers": 75236,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2025-01-07 21:50:29",
       "album": {
-        "name": "Jingle Bass (VIP)",
-        "url": "https://open.spotify.com/album/47UeINij7KuhaUlqRLRaD2"
-      },
-      "artists": [
-        {
-          "name": "ARIUS",
-          "url": "https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE"
-        },
-        {
-          "name": "Born I",
-          "url": "https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Jingle Bass - VIP",
-      "url": "https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ"
-    },
-    {
-      "added_at": "2025-01-07 21:50:29",
-      "album": {
         "name": "All I Want for Christmas",
         "url": "https://open.spotify.com/album/4FzL46RWqK3yEm5JTdyTq1"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 178560,
       "name": "All I Want for Christmas",
       "url": "https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu"
+    },
+    {
+      "added_at": "2025-01-07 21:50:29",
+      "album": {
+        "name": "Jingle Bass (VIP)",
+        "url": "https://open.spotify.com/album/47UeINij7KuhaUlqRLRaD2"
+      },
+      "artists": [
+        {
+          "name": "ARIUS",
+          "url": "https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE"
+        },
+        {
+          "name": "Born I",
+          "url": "https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Jingle Bass - VIP",
+      "url": "https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ"
     },
     {
       "added_at": "2025-01-07 21:50:29",

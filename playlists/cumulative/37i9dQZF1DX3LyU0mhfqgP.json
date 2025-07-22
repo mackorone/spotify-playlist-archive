@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Songs from LGBTQIA+ artists. Cover: Aiko",
+  "description": "Songs from LGBTQIA+ artists. Cover: Darin",
   "name": "GLOW",
   "tracks": [
     {
@@ -16639,6 +16639,24 @@
     },
     {
       "album": {
+        "name": "Mimosa",
+        "url": "https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192575,
+      "name": "Mimosa",
+      "url": "https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE"
+    },
+    {
+      "album": {
         "name": "Mini Pony",
         "url": "https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7"
       },
@@ -23670,7 +23688,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 163064,
       "name": "Sommarland",
       "url": "https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ"

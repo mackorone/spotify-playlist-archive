@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u6797\u4fca\u5091 (JJ Lin) x A-Lin",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u9673\u52e2\u5b89 (Andrew Tan)",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 201642,
       "name": "Jumping Machine (\u8df3\u697c\u673a)",
       "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl"
@@ -5753,6 +5753,24 @@
     },
     {
       "album": {
+        "name": "\u5927\u8c61\u7684\u846c\u79ae",
+        "url": "https://open.spotify.com/album/2VaSzGRdj1H7JnASGICKzp"
+      },
+      "artists": [
+        {
+          "name": "LaLa Hsu",
+          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293045,
+      "name": "\u5927\u8c61\u7684\u846c\u79ae (\u96fb\u5f71\u300a\u60e1\u610f\u300b\u7247\u5c3e\u66f2)",
+      "url": "https://open.spotify.com/track/1jOuI7mGDnuX4RTsEZeQaP"
+    },
+    {
+      "album": {
         "name": "\u5929\u4e0b",
         "url": "https://open.spotify.com/album/2jhnvk13zoeCfb74AvTyr2"
       },
@@ -9161,6 +9179,24 @@
     },
     {
       "album": {
+        "name": "\u6495\u88c2\u50b7",
+        "url": "https://open.spotify.com/album/2bFzNrslXFRgq21BC3MKox"
+      },
+      "artists": [
+        {
+          "name": "Andrew Tan",
+          "url": "https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208625,
+      "name": "\u6495\u88c2\u50b7",
+      "url": "https://open.spotify.com/track/1v9QN1wkQ0pYBDxTrKQLEa"
+    },
+    {
+      "album": {
         "name": "\u64b2\u6714",
         "url": "https://open.spotify.com/album/6PPxOkmdMh8H0mq2TXga0k"
       },
@@ -9248,6 +9284,24 @@
       "duration_ms": 233162,
       "name": "\u6578\u5230\u5341",
       "url": "https://open.spotify.com/track/73VL4sm5aHQWaWwZCEURsd"
+    },
+    {
+      "album": {
+        "name": "\u65e0\u53ef\u5948\u4f55",
+        "url": "https://open.spotify.com/album/5MiitjKqH4Am65F5AM2dkh"
+      },
+      "artists": [
+        {
+          "name": "\u627f\u6853",
+          "url": "https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209933,
+      "name": "\u65e0\u53ef\u5948\u4f55",
+      "url": "https://open.spotify.com/track/3QqCZHkhGKdJCdalzmDrwt"
     },
     {
       "album": {
@@ -11534,7 +11588,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 226541,
       "name": "\u751f\u65e5\u665a\u9910",
       "url": "https://open.spotify.com/track/30VXBKujwGZ8aQyh8W3Hkw"
@@ -12762,7 +12816,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 186725,
       "name": "\u82b1\u6591\u868a",
       "url": "https://open.spotify.com/track/6BPO5uXhmI2Qq04zGQuhuz"

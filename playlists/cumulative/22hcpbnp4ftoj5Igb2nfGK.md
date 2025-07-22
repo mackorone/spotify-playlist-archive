@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-110 songs - 6 hr 2 min
+111 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Space Hos](https://open.spotify.com/track/3VSnfhbaNKZzvmNQilWcZ6) | [DANGERDOOM](https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [THE MOUSE & THE MASK](https://open.spotify.com/album/6TgkNOiJxeSkVVbXV720B1) | 3:29 | 2025-03-04 |  |
 | [Spikes](https://open.spotify.com/track/11TpRtA1zMLeAPTLloNmG4) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Bottomless Pit](https://open.spotify.com/album/4dIPUQHheyH9e6ioplvNT2) | 3:05 | 2025-03-10 |  |
 | [Streaky](https://open.spotify.com/track/5Em5VCYT01SAjTDSdhEWEq) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Streaky](https://open.spotify.com/album/6LxzSJwhh6txfZCO5A1KM0) | 2:56 | 2025-03-11 |  |
+| [Sucka Free](https://open.spotify.com/track/7DIMKlmJ0CL6eROkbptoqi) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:41 | 2025-07-21 |  |
 | [Sunday \(feat\. Frank Ocean\)](https://open.spotify.com/track/0fAehaneUJdlSlWXYe1KZp) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 3:25 | 2025-02-05 |  |
 | [SUPERVILLAINZ](https://open.spotify.com/track/0S8DavMnMq2qL2DR5qt5Mf) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Kurious](https://open.spotify.com/artist/2eDE3plOEiudDd9q1Ev3IQ), [Mobonix](https://open.spotify.com/artist/6ZSpbt0cWK8EmgjCurjSu5), [Posdnous](https://open.spotify.com/artist/56wgxg5tOMNSd0I0nRoeuF), [Prince Paul](https://open.spotify.com/artist/7ajUo7DyiAOYvCndGLoJ1u), [Slug](https://open.spotify.com/artist/2RZjOVxms8TOu8FXCXdUuy) | [BORN LIKE THIS](https://open.spotify.com/album/2XfBjZ0ZwKMfwYJDX0JR1O) | 2:48 | 2025-05-31 |  |
 | [THAT'S THAT](https://open.spotify.com/track/2Vy16OMt19FH30uQNTFdLk) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [BORN LIKE THIS](https://open.spotify.com/album/2XfBjZ0ZwKMfwYJDX0JR1O) | 2:15 | 2025-01-13 |  |

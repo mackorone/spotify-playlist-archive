@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,317 likes - 78 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,333 likes - 78 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,23 +12,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 2 | [The Nature of Peace](https://open.spotify.com/track/4FTj02S8T1U4438yq4Vm0B) | [Ethereva](https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh) | [The Nature of Peace](https://open.spotify.com/album/6IkIeXHQSHFhwhwA6fBFzV) | 2:24 |
 | 3 | [Lost](https://open.spotify.com/track/3vVX3isRZBNkNm5MgGXlST) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Lost](https://open.spotify.com/album/7qh8ZeENbL9E9E0Ztsv2it) | 2:08 |
 | 4 | [Restep](https://open.spotify.com/track/4lSVgERyr2PEVuTfw67NOl) | [Montauk Season](https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H) | [Restep](https://open.spotify.com/album/50XEml8T1onTvYMVIgsKCg) | 1:46 |
-| 5 | [Quiet and Peaceful](https://open.spotify.com/track/5nigxScnQg8h5b5Wdfngks) | [Leone Adam](https://open.spotify.com/artist/3nerQSvPk6QCfNedqkTDKW) | [Quiet and Peaceful](https://open.spotify.com/album/46D0IP8tuyUqrtj51Whetp) | 2:12 |
-| 6 | [Automne Nordique](https://open.spotify.com/track/2ujxJqOusPaIhbeej7zaXv) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Automne Nordique](https://open.spotify.com/album/2CJKxKIUE2IxWHIAkVbQEo) | 1:57 |
-| 7 | [For a Moment](https://open.spotify.com/track/3LpE4XPSmS6PoyVbnPb1xh) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [For a Moment](https://open.spotify.com/album/6w8sZ0dY0c8lnkDpIKRCzq) | 2:25 |
+| 5 | [Automne Nordique](https://open.spotify.com/track/2ujxJqOusPaIhbeej7zaXv) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Automne Nordique](https://open.spotify.com/album/2CJKxKIUE2IxWHIAkVbQEo) | 1:57 |
+| 6 | [For a Moment](https://open.spotify.com/track/3LpE4XPSmS6PoyVbnPb1xh) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [For a Moment](https://open.spotify.com/album/6w8sZ0dY0c8lnkDpIKRCzq) | 2:25 |
+| 7 | [Quiet and Peaceful](https://open.spotify.com/track/5nigxScnQg8h5b5Wdfngks) | [Leone Adam](https://open.spotify.com/artist/3nerQSvPk6QCfNedqkTDKW) | [Quiet and Peaceful](https://open.spotify.com/album/46D0IP8tuyUqrtj51Whetp) | 2:12 |
 | 8 | [Verdicular](https://open.spotify.com/track/0Z1OMQ29VndIdWZ8UWGrak) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Verdicular](https://open.spotify.com/album/46dHHrOaAhDDxjPoL3lAay) | 2:19 |
-| 9 | [The Lighthouse](https://open.spotify.com/track/1SDfGb9Qeu3maDGDBxzQOT) | [Blue George](https://open.spotify.com/artist/3iXwpImyv9kqSfxcTtfou5) | [The Lighthouse](https://open.spotify.com/album/2dkf5WX3DGaTWbRAx34SX4) | 3:32 |
-| 10 | [Pale Aurora](https://open.spotify.com/track/0GcX7h88UC3OnQ1dFyQaLU) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Pale Aurora](https://open.spotify.com/album/25Rn3G4zzG5WHBBYglBh5c) | 2:38 |
-| 11 | [Rainy September](https://open.spotify.com/track/4GM77rxiIkWTWFvqumrQ5M) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Rainy September](https://open.spotify.com/album/2em2EC6sy6nbSluxJC5Elc) | 2:51 |
-| 12 | [Here Again](https://open.spotify.com/track/3bT9gF3tQRVutXoN68wd1B) | [Nathan Emanuel](https://open.spotify.com/artist/6ucJzjxkziOXA00hLW3fJV) | [Here Again](https://open.spotify.com/album/20XykNXkHhHIlmqg4pFzvi) | 3:46 |
-| 13 | [Physichromie](https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Physichromie](https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g) | 2:30 |
+| 9 | [Pale Aurora](https://open.spotify.com/track/0GcX7h88UC3OnQ1dFyQaLU) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Pale Aurora](https://open.spotify.com/album/25Rn3G4zzG5WHBBYglBh5c) | 2:38 |
+| 10 | [Physichromie](https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Physichromie](https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g) | 2:30 |
+| 11 | [The Lighthouse](https://open.spotify.com/track/1SDfGb9Qeu3maDGDBxzQOT) | [Blue George](https://open.spotify.com/artist/3iXwpImyv9kqSfxcTtfou5) | [The Lighthouse](https://open.spotify.com/album/2dkf5WX3DGaTWbRAx34SX4) | 3:32 |
+| 12 | [Rainy September](https://open.spotify.com/track/4GM77rxiIkWTWFvqumrQ5M) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Rainy September](https://open.spotify.com/album/2em2EC6sy6nbSluxJC5Elc) | 2:51 |
+| 13 | [Here Again](https://open.spotify.com/track/3bT9gF3tQRVutXoN68wd1B) | [Nathan Emanuel](https://open.spotify.com/artist/6ucJzjxkziOXA00hLW3fJV) | [Here Again](https://open.spotify.com/album/20XykNXkHhHIlmqg4pFzvi) | 3:46 |
 | 14 | [Vertigini](https://open.spotify.com/track/5FzjFbaz91mxF5WHM0xLGi) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Vertigini](https://open.spotify.com/album/1IfQvziChTayQGpZU6RCif) | 2:00 |
-| 15 | [Sunset From Beyond](https://open.spotify.com/track/3ds1T336lEcCzJw1CClUzQ) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Sunset From Beyond](https://open.spotify.com/album/2DVpfQiCiKQpVsZWHnentg) | 2:30 |
-| 16 | [Static](https://open.spotify.com/track/7oJF6jlP5RJQbUsLFbgOQm) | [Orphea Nyx](https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq) | [Static](https://open.spotify.com/album/0OwS7VG7Wku96N4qN9TgA7) | 2:01 |
+| 15 | [Static](https://open.spotify.com/track/7oJF6jlP5RJQbUsLFbgOQm) | [Orphea Nyx](https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq) | [Static](https://open.spotify.com/album/0OwS7VG7Wku96N4qN9TgA7) | 2:01 |
+| 16 | [Sunset From Beyond](https://open.spotify.com/track/3ds1T336lEcCzJw1CClUzQ) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Sunset From Beyond](https://open.spotify.com/album/2DVpfQiCiKQpVsZWHnentg) | 2:30 |
 | 17 | [Oceans of dreams](https://open.spotify.com/track/4nuOT2R4KCUKaSPxWYWr0b) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Oceans of dreams](https://open.spotify.com/album/1S28M9KkO2lyyzMroR4JDW) | 2:14 |
 | 18 | [Cloudscape](https://open.spotify.com/track/2jMHW6iPBdG4AbtvNGona5) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Cloudscape](https://open.spotify.com/album/5wwrR5aEmGMxemHKT9GnxS) | 2:31 |
-| 19 | [Neptuin](https://open.spotify.com/track/2p9xk4nz06Rr18dpLFk9dF) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Neptuin](https://open.spotify.com/album/0i3RcORiqZoArp2gPbjuyT) | 3:36 |
-| 20 | [Serene Reflections](https://open.spotify.com/track/0TT2Tzi8mEETCqYZ1ffiHh) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Serene Reflections](https://open.spotify.com/album/56qdyXFvkjg9Ja5YByyghv) | 3:09 |
-| 21 | [Cottagecore Dreams](https://open.spotify.com/track/04JKEOqqKWfxKTPYZBFitt) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Cottagecore Dreams](https://open.spotify.com/album/2GrcJ6jG657kaetg31rR4E) | 2:33 |
+| 19 | [Cottagecore Dreams](https://open.spotify.com/track/04JKEOqqKWfxKTPYZBFitt) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Cottagecore Dreams](https://open.spotify.com/album/2GrcJ6jG657kaetg31rR4E) | 2:33 |
+| 20 | [Neptuin](https://open.spotify.com/track/2p9xk4nz06Rr18dpLFk9dF) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Neptuin](https://open.spotify.com/album/0i3RcORiqZoArp2gPbjuyT) | 3:36 |
+| 21 | [Serene Reflections](https://open.spotify.com/track/0TT2Tzi8mEETCqYZ1ffiHh) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Serene Reflections](https://open.spotify.com/album/56qdyXFvkjg9Ja5YByyghv) | 3:09 |
 | 22 | [Knowledge](https://open.spotify.com/track/6o6JPYBKe7nQC9Nh44hwJ3) | [Margaret Kim](https://open.spotify.com/artist/42XwJber5D62lOo4FLWOLU) | [Knowledge](https://open.spotify.com/album/4clQ5SpoxZxlWWXqoP9RAY) | 2:45 |
 | 23 | [Un Pájaro Duerme](https://open.spotify.com/track/2lKxf3s07Pg2n11WKlI9DH) | [Barón](https://open.spotify.com/artist/4tuLEG7sEWU4B9at7TxSRa) | [Un Pájaro Duerme](https://open.spotify.com/album/0HYOM2ILFKf41vCMJRakDo) | 2:08 |
 | 24 | [Nouvel Agneau](https://open.spotify.com/track/2CTRsFkCzXEafseF4MLRN9) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Nouvel Agneau](https://open.spotify.com/album/2eJoenU9jJik7za0y7C02w) | 2:19 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 28 | [Water Drops](https://open.spotify.com/track/5837KEORGlanUg7OmwUyZ3) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Water Drops](https://open.spotify.com/album/3LAwOUJFJH3y0eb5okmWO2) | 2:18 |
 | 29 | [Pondering](https://open.spotify.com/track/0MeeXfDi0xt3n6dl3kv1yD) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Wispy Creek](https://open.spotify.com/album/7LO7dUplkR3EmY89udrLAA) | 2:31 |
 | 30 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 |
-| 31 | [Luna Suave](https://open.spotify.com/track/4LsOuKeeOPeDqeutXks3G4) | [Aurora Dorealis](https://open.spotify.com/artist/7wYrLm0nEcXs7QemCrhrgV) | [Luna Suave](https://open.spotify.com/album/5Z0dh3SCPHjLLJJPZ0fJdk) | 2:31 |
-| 32 | [Me Donner Un Essai](https://open.spotify.com/track/5BBfQHJVWKxlVEccsELxDI) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Me Donner Un Essai](https://open.spotify.com/album/3QxIGbmQmHIc8lYPETj6ue) | 1:57 |
-| 33 | [Nephology](https://open.spotify.com/track/2RXxXoJ6b42rQWpHrkIqRB) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Nephology](https://open.spotify.com/album/6TKRYgP9nOBCnfa2V8LKW8) | 2:25 |
+| 31 | [Me Donner Un Essai](https://open.spotify.com/track/5BBfQHJVWKxlVEccsELxDI) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Me Donner Un Essai](https://open.spotify.com/album/3QxIGbmQmHIc8lYPETj6ue) | 1:57 |
+| 32 | [Nephology](https://open.spotify.com/track/2RXxXoJ6b42rQWpHrkIqRB) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Nephology](https://open.spotify.com/album/6TKRYgP9nOBCnfa2V8LKW8) | 2:25 |
+| 33 | [Luna Suave](https://open.spotify.com/track/4LsOuKeeOPeDqeutXks3G4) | [Aurora Dorealis](https://open.spotify.com/artist/7wYrLm0nEcXs7QemCrhrgV) | [Luna Suave](https://open.spotify.com/album/5Z0dh3SCPHjLLJJPZ0fJdk) | 2:31 |
 | 34 | [Sophrosyne](https://open.spotify.com/track/4sI91Y8cdaaE1cq3ToIhQS) | [Vantrum Quai](https://open.spotify.com/artist/11Cyks3KuPJNfn5U7CIaha) | [Sophrosyne](https://open.spotify.com/album/07lOsQr3RVoTCYkkm9aQ45) | 2:43 |
 | 35 | [Märchenstunde](https://open.spotify.com/track/03gwRcFi99kLdGp2qIRmNW) | [Maximilian Faber](https://open.spotify.com/artist/00PcADvHA59mhcgFAREmfM) | [Märchenstunde](https://open.spotify.com/album/0ozeWYKxgTBBYtJRyhsKiw) | 2:46 |
 | 36 | [Homeward](https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Homeward](https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9) | 2:31 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 77 | [Peaceful Sleep](https://open.spotify.com/track/7bmZ6lmNpGRvVWDaQkeZAU) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 2:34 |
 | 78 | [The World Within Me](https://open.spotify.com/track/6E1jXkm4vHFnCL43vkXTuM) | [Ruth Watson](https://open.spotify.com/artist/0JdKHUcyeRLXadKsimgTD1) | [The World Within Me](https://open.spotify.com/album/1KhWIRmiIM565Pb5HyY5fj) | 2:10 |
 
-Snapshot ID: `aF0RkAAAAAB4DXHiMuqwo5kesyXv0yLK`
+Snapshot ID: `aH4yygAAAAASjYRq2a45jKoHAOzoLAwI`

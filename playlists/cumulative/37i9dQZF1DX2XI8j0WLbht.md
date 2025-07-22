@@ -2,9 +2,9 @@
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
+> una guitarra y mucho sentimiento para cantar\. Arath Herce en portada.
 
-227 songs - 14 hr 57 min
+228 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Mariquita, María](https://open.spotify.com/track/19vFUwhgotqh80npE8xFKO) | [Tonana](https://open.spotify.com/artist/6174y8dXW0u3e5i5Y1xo9g) | [Tonana](https://open.spotify.com/album/5oCRFr4Jio2bFZoRfpRtD7) | 3:49 | 2022-03-04 | 2024-06-01 |
 | [María](https://open.spotify.com/track/18T2uIJteJ7o1W8XLFRpaN) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:51 | 2025-05-30 |  |
 | [Mañana Sureña](https://open.spotify.com/track/5z5qmE6mS3PJ52Ld5psFhp) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mañana Sureña](https://open.spotify.com/album/7EYn7eWr2kmXcXgE1zOLzS) | 4:51 | 2022-03-04 | 2025-05-31 |
+| [Me Levanté de la Cama](https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Me Levanté de la Cama](https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc) | 3:02 | 2025-07-21 |  |
 | [Mejor Ya No Regreses](https://open.spotify.com/track/0uP6f0QwFO3fZVqKC0xNt5) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Mejor Ya No Regreses](https://open.spotify.com/album/3CPEBWb2qzy1DwwNAPlRBF) | 3:45 | 2025-01-10 | 2025-05-31 |
 | [Mezcal](https://open.spotify.com/track/0taw82ovKIdw6kIVdhhVWE) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3yRXQ2hZhMonFkkrNeK5sS) | 3:52 | 2023-03-03 | 2024-04-19 |
 | [Mezcal](https://open.spotify.com/track/0nY56BAHCxcX7XVrcUG9dA) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Fièvre](https://open.spotify.com/album/6Df5Ml1ZfUVn1vfJEMULyl) | 3:52 | 2022-03-04 | 2022-11-13 |
@@ -198,7 +199,7 @@
 | [Son del Chile Frito](https://open.spotify.com/track/1uPt8iweNKc5c6IhGlpiqX) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:35 | 2022-03-04 | 2025-05-31 |
 | [Son Tus Ojos Tranquilos](https://open.spotify.com/track/1nrTJhwBJcoxKdtyqSXUJl) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Mon de León](https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG), [Mixe Represent](https://open.spotify.com/artist/5qrOGN6UnfGEE9VgznHrBF) | [Son Tus Ojos Tranquilos](https://open.spotify.com/album/6aUP0uecjAjkY7kIZ0bpl2) | 4:56 | 2023-06-09 | 2025-05-31 |
 | [Soñar Contigo](https://open.spotify.com/track/0i1W9QxdJKLZjxbgBKYv82) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2u8JTAoZvB8ypIGy52V1AB) | 2:48 | 2025-05-30 |  |
-| [Still I Wake Up In The Morning Thinking Of You \- demo](https://open.spotify.com/track/2Hp8RvXk33BjydwgJrtb7X) | [Goma](https://open.spotify.com/artist/0DAsx2InZwMNTnfkd4GXa4) | [Happy\-fi Compilación Vol\. 2](https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE) | 4:01 | 2025-05-30 |  |
+| [Still I Wake Up In The Morning Thinking Of You \- demo](https://open.spotify.com/track/2Hp8RvXk33BjydwgJrtb7X) | [Goma](https://open.spotify.com/artist/0DAsx2InZwMNTnfkd4GXa4) | [Happy\-fi Compilación Vol\. 2](https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE) | 4:01 | 2025-05-30 | 2025-07-22 |
 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 | 2025-06-24 |  |
 | [Te Extraño De Un Extraño](https://open.spotify.com/track/6IS3wlL3HC1CjpClyTKfWM) | [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh), [Besasa](https://open.spotify.com/artist/7K3q9xfxjmU07gyu0MdFOS), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Te Extraño De Un Extraño](https://open.spotify.com/album/2IhqjrAZueaJpXA3eK4fdp) | 3:05 | 2025-05-30 |  |
 | [Te Guardo](https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:21 | 2022-03-04 |  |

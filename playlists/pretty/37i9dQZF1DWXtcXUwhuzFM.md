@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia william ja Jore & Zpoppa  monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,218 likes - 104 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,223 likes - 104 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 77 | [faceit](https://open.spotify.com/track/1wnXj9sHdn2b2YRBvBjHn9) | [pichu](https://open.spotify.com/artist/3fRx2T8SwYnhBidyK6Gsvj) | [faceit](https://open.spotify.com/album/186fXrDEady9OR9TgjDvlb) | 1:38 |
 | 78 | [One Last Kiss](https://open.spotify.com/track/60X32pWWzEYmCEgdxd3JW5) | [Alex Stonebay](https://open.spotify.com/artist/196dcuwJrobm0Rb6KYRFfw) | [One Last Kiss](https://open.spotify.com/album/6BPoBa8PCgqN5psFEAm71o) | 2:36 |
 | 79 | [Love Me Now](https://open.spotify.com/track/2vnMxYSg9rpcVVMn0GuCbT) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Love Me Now](https://open.spotify.com/album/6lDFF3DjGgw2BjFADgnOPo) | 2:58 |
-| 80 | [Take Me Away](https://open.spotify.com/track/48p9jvjqbUQyb8GsNvTaJC) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Take Me Away](https://open.spotify.com/album/2yoPkKdnOSZGvBvSwjQdmB) | 2:20 |
+| 80 | [Take Me Away](https://open.spotify.com/track/48p9jvjqbUQyb8GsNvTaJC) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [bankr](https://open.spotify.com/artist/1yeRfHskcp7ujLZNmabEpp) | [Take Me Away](https://open.spotify.com/album/2yoPkKdnOSZGvBvSwjQdmB) | 2:20 |
 | 81 | [Miracles](https://open.spotify.com/track/46msHqvFxtgCMWKheERe0j) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Miracles](https://open.spotify.com/album/7jhrONXACerTQrrqFZ7fp1) | 2:17 |
 | 82 | [Emilie's Song \- From the TV series "Tordyveln flyger i skymningen"](https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Emilie's Song \(From the TV series "Tordyveln flyger i skymningen"\)](https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd) | 4:24 |
 | 83 | [Ramona](https://open.spotify.com/track/4xCfoEDoc2lR5O5Q6bF6Kd) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/1JJmc71cvmsm31GbBRy4MA) | 2:46 |

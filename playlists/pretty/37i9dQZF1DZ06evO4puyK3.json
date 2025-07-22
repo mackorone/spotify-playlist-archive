@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHrgAAAAAAC/h/0/DPsbJssk+a91NMR0",
+  "snapshot_id": "aHwxgAAAAADniklN15ud2hdVg3L563EW",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Mais",
-        "url": "https://open.spotify.com/album/3uIKrxKeLH3JGgQE8QT87Z"
-      },
-      "artists": [
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 181429,
-      "name": "Nunca Mais",
-      "url": "https://open.spotify.com/track/11wZSKUFva32LAmMauyTYO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Olha Nos Olhos / Futuro Prometido / N\u00e3o Tem Perd\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/1tKje5JGchKFpu6xPdfgwR"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 401025,
       "name": "Me Olha Nos Olhos / Futuro Prometido / N\u00e3o Tem Perd\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3GZJc4YW0uIL9OA5kevKKu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Mais",
+        "url": "https://open.spotify.com/album/3uIKrxKeLH3JGgQE8QT87Z"
+      },
+      "artists": [
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 181429,
+      "name": "Nunca Mais",
+      "url": "https://open.spotify.com/track/11wZSKUFva32LAmMauyTYO"
     },
     {
       "added_at": null,

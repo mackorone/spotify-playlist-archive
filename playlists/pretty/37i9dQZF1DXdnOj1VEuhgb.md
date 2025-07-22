@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: UZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,970 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,395,040 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BACK IN BUSINESS](https://open.spotify.com/track/6HNVQfmmuHloobK46wgySz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [9](https://open.spotify.com/album/4Y85xXiGtuA1moIlx5JMZV) | 3:07 |
-| 2 | [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:30 |
-| 3 | [dubaiiiiii](https://open.spotify.com/track/4J49WukjRkDHgnqLdwRy8Z) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [dubaiiiiii](https://open.spotify.com/album/61m26yYILtyEmRYxCdLT8u) | 2:13 |
-| 4 | [IRA](https://open.spotify.com/track/03dPbR5FqdR81xtlx3YAiB) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [IRA](https://open.spotify.com/album/3tm0zCm646WU9A5hxjxMBc) | 3:13 |
-| 5 | [napıyosun mesela ?](https://open.spotify.com/track/4PA0CfHSeg5yYx7PCyGeMb) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 3:05 |
-| 6 | [EĞME BOYUN](https://open.spotify.com/track/2QDSRyIio26v05eRWuBSjS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [EĞME BOYUN](https://open.spotify.com/album/5TuSM8yyEhxMHqA8Oe5DSV) | 2:54 |
-| 7 | [YİNE Mİ SEN?](https://open.spotify.com/track/2RfB0CFymAMVBuzadf2Zsu) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED), [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [YİNE Mİ SEN?](https://open.spotify.com/album/1wmJAgO5AWZzXE3FPRB7Vb) | 2:37 |
-| 8 | [BURADA SOKAKLAR](https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [BURADA SOKAKLAR](https://open.spotify.com/album/3XJWLy10bubUmpdIuWP7m2) | 2:19 |
+| 2 | [BURADA SOKAKLAR](https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [BURADA SOKAKLAR](https://open.spotify.com/album/3XJWLy10bubUmpdIuWP7m2) | 2:19 |
+| 3 | [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:30 |
+| 4 | [dubaiiiiii](https://open.spotify.com/track/4J49WukjRkDHgnqLdwRy8Z) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [dubaiiiiii](https://open.spotify.com/album/61m26yYILtyEmRYxCdLT8u) | 2:13 |
+| 5 | [EĞME BOYUN](https://open.spotify.com/track/2QDSRyIio26v05eRWuBSjS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [EĞME BOYUN](https://open.spotify.com/album/5TuSM8yyEhxMHqA8Oe5DSV) | 2:54 |
+| 6 | [napıyosun mesela ?](https://open.spotify.com/track/4PA0CfHSeg5yYx7PCyGeMb) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 3:05 |
+| 7 | [IRA](https://open.spotify.com/track/03dPbR5FqdR81xtlx3YAiB) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [IRA](https://open.spotify.com/album/3tm0zCm646WU9A5hxjxMBc) | 3:13 |
+| 8 | [YİNE Mİ SEN?](https://open.spotify.com/track/2RfB0CFymAMVBuzadf2Zsu) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED), [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [YİNE Mİ SEN?](https://open.spotify.com/album/1wmJAgO5AWZzXE3FPRB7Vb) | 2:37 |
 | 9 | [Alabora](https://open.spotify.com/track/28DHxEk90GxPEvoD8nQM0J) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Alabora](https://open.spotify.com/album/6JyJ7VG4oO30d8PcUpsXZ0) | 3:08 |
 | 10 | [GÖZÜ PEK](https://open.spotify.com/track/3Ic3WNR8d0uDF5LRlDDSA7) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Groza](https://open.spotify.com/artist/3gddZ4PEy4Q7rC2dy2rJp7) | [GÖZÜ PEK](https://open.spotify.com/album/0bq1Op062cqUOgWJxX8gF6) | 2:10 |
 | 11 | [Yalnızsam Söyle](https://open.spotify.com/track/0fr47yyRHqpPb8mAeBf6Ej) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Kaos Parkı Fanzin](https://open.spotify.com/album/6A6WXYREFTkWcHK3F3i7vb) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
 | 50 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 |
 
-Snapshot ID: `aHlkXwAAAACpDPwrWRtI+V8khdEWRj0I`
+Snapshot ID: `aH5MTgAAAAB4Dfdbz31pOVLcWMbuqcZN`

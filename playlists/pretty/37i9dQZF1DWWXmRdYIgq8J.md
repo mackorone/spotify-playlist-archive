@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,211 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,229 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 11 | [Bread](https://open.spotify.com/track/5AGqmpRFDY5cD1LftIoa2X) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Bread](https://open.spotify.com/album/4Fz4hTJSQHTJmTozmkvCN5) | 3:47 |
 | 12 | [Free Like a Bird](https://open.spotify.com/track/4aaRKvMcByCxVtmssBvN4D) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Free Like a Bird](https://open.spotify.com/album/769e5weHHS4L5MWc8KhobY) | 2:57 |
 | 13 | [Ah Drinka](https://open.spotify.com/track/5wIyeEZbS6mufivybplOEw) | [Ravi B & Problem Child](https://open.spotify.com/artist/6cdpdaVlpkJculgkHz5WRE) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:25 |
-| 14 | [Chataniya](https://open.spotify.com/track/7wVx2fa8mMotK9FM6o9m6B) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Chataniya](https://open.spotify.com/album/66Zvn8tu5lGF34dWtcXFYU) | 3:45 |
-| 15 | [Ab Na Jaibe](https://open.spotify.com/track/42jxQLPSuH6OMrkDhPiWkE) | [Kanchan](https://open.spotify.com/artist/20LxVmOnMzPm716JTA7XKi) | [Ab Na Jaibe](https://open.spotify.com/album/2n5A0bEoYkn8q3wm6cc75q) | 3:42 |
+| 14 | [Ab Na Jaibe](https://open.spotify.com/track/42jxQLPSuH6OMrkDhPiWkE) | [Kanchan](https://open.spotify.com/artist/20LxVmOnMzPm716JTA7XKi) | [Ab Na Jaibe](https://open.spotify.com/album/2n5A0bEoYkn8q3wm6cc75q) | 3:42 |
+| 15 | [Chataniya](https://open.spotify.com/track/7wVx2fa8mMotK9FM6o9m6B) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Chataniya](https://open.spotify.com/album/66Zvn8tu5lGF34dWtcXFYU) | 3:45 |
 | 16 | [Prescription](https://open.spotify.com/track/4LKcY2x9F64lJmr3qeNhBm) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Soca Gold 2013](https://open.spotify.com/album/3P4NsDb4H3rL9YSiLoFuSS) | 3:31 |
 | 17 | [Ghungroo \(feat\. Ravi B\)](https://open.spotify.com/track/5sn0V3nw7iS42hrj2mQ0Sl) | [Nisha B](https://open.spotify.com/artist/6IajZXjeim787TECOi1vLR), [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Ghungroo \(feat\. Ravi B\)](https://open.spotify.com/album/1tWzdyvTgq5XXoN5KXJZxE) | 4:16 |
 | 18 | [Love You Again](https://open.spotify.com/track/1yH3Gb72AWXlTpJbbr4Amf) | [Ki & the Band](https://open.spotify.com/artist/0z79pZtEi1CkDICY4Q5ZxW) | [Love You Again](https://open.spotify.com/album/1yPhTWthx8zbzFfI9CxOmC) | 3:16 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 33 | [Nana & Nani](https://open.spotify.com/track/6KCWJcmmtYMjZMgi4kAiyD) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [The Ultimate Sundar Popo](https://open.spotify.com/album/4LIBROVNLxLDZo4s32GiEC) | 5:54 |
 | 34 | [Blessed](https://open.spotify.com/track/4VyDFKj5icaZCzXncBgDIE) | [Prince JP](https://open.spotify.com/artist/7aABRrarbHYwuDXabHm3l0) | [Blessed](https://open.spotify.com/album/0v4CzWYukhcYMp4GRCt5AZ) | 3:30 |
 | 35 | [This Gyal Claim](https://open.spotify.com/track/4tSEMmTIESmG5QmkvzIUlO) | [Shelly G](https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq) | [Chutney](https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS) | 3:31 |
-| 36 | [Ghunghat Gira Ke](https://open.spotify.com/track/1rrMTRjIFM1WagI90xACXm) | [Kem Chanlall](https://open.spotify.com/artist/02DRaDXadgSH5g0Zq1ZuWy) | [Ghunghat Gira Ke](https://open.spotify.com/album/37w3vdaNrfevzGU2rDnh1f) | 5:54 |
-| 37 | [I Had a Dream](https://open.spotify.com/track/1qBPnv40Y1PeNHGotuFdEE) | [Richard](https://open.spotify.com/artist/5O5pBb0lDnZFEhycNbIykZ) | [I Had a Dream](https://open.spotify.com/album/3W3PN2lVM0mQF5vgm250d2) | 3:47 |
+| 36 | [I Had a Dream](https://open.spotify.com/track/1qBPnv40Y1PeNHGotuFdEE) | [Richard](https://open.spotify.com/artist/5O5pBb0lDnZFEhycNbIykZ) | [I Had a Dream](https://open.spotify.com/album/3W3PN2lVM0mQF5vgm250d2) | 3:47 |
+| 37 | [Ghunghat Gira Ke](https://open.spotify.com/track/1rrMTRjIFM1WagI90xACXm) | [Kem Chanlall](https://open.spotify.com/artist/02DRaDXadgSH5g0Zq1ZuWy) | [Ghunghat Gira Ke](https://open.spotify.com/album/37w3vdaNrfevzGU2rDnh1f) | 5:54 |
 | 38 | [Caroni Gyul](https://open.spotify.com/track/5qhHMZXODYIWsQJwREJInM) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Dance Party King](https://open.spotify.com/album/6W01aEGIh0iNFZrbWPrj03) | 3:00 |
 | 39 | [Pussur Pussur](https://open.spotify.com/track/4Z75gf4OJbcvIActA0F2vG) | [Anand Yankaran](https://open.spotify.com/artist/4gYBhFoqhQl4FJrfnNAFoy) | [Elements of Chutney](https://open.spotify.com/album/4AcRATTPdmUgLptdLfouO8) | 5:43 |
 | 40 | [Loota La](https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV) | [Sonny Man](https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:02 |

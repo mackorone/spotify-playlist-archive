@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Rhineland, Laureline, The Wild Wind and more
+> With Laureline, The Wild Wind, Rhineland and more
 
 1,422 songs - 3 day 19 hr 12 min
 
@@ -175,7 +175,7 @@
 | [Blow My Cover](https://open.spotify.com/track/4NIUFVZMIbJ7D7XffrH45W) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Barcelona](https://open.spotify.com/album/0WzGrncoxuIaszd8cQ0afe) | 2:48 | 2022-06-24 | 2024-02-18 |
 | [Blue Eyes](https://open.spotify.com/track/17gfRTJU567pkXrZOVyvv6) | [John Kim](https://open.spotify.com/artist/7Bav1xOmJ2XxpnrTFCPaDl) | [Blue Eyes](https://open.spotify.com/album/4LWrXM3zrQpgoHCcXu6n6r) | 3:43 | 2022-03-09 | 2022-03-17 |
 | [Blue Eyes](https://open.spotify.com/track/3TTCQYeJxcDnFLLSxymClQ) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Blue Eyes](https://open.spotify.com/album/2kKU6f7kd8Pmt0554rz1iN) | 4:21 | 2022-05-27 | 2024-04-25 |
-| [Blue Eyes](https://open.spotify.com/track/6e6jrSoJq75MYe3jgCpY0C) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Late Night Radio](https://open.spotify.com/album/0vaf3vF3Y0yKj7EnBVlAYQ) | 4:21 | 2024-05-05 | 2025-07-21 |
+| [Blue Eyes](https://open.spotify.com/track/6e6jrSoJq75MYe3jgCpY0C) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Late Night Radio](https://open.spotify.com/album/0vaf3vF3Y0yKj7EnBVlAYQ) | 4:21 | 2024-05-05 |  |
 | [Blue Sky](https://open.spotify.com/track/4VnossxljgHBkVub5pVvGy) | [Hardcastle](https://open.spotify.com/artist/6L95H90mXRQPcFar4Q7tAm) | [Blue Sky](https://open.spotify.com/album/5ztqskMF3x7fKKWktXUDH7) | 2:39 | 2023-12-24 | 2024-01-02 |
 | [Blue Sky](https://open.spotify.com/track/5zhBI8cHr21Rq7tKfJz6C2) | [Hardcastle](https://open.spotify.com/artist/6L95H90mXRQPcFar4Q7tAm) | [Blue Sky](https://open.spotify.com/album/6lULHmHpYcAj8X8z1CS0lB) | 2:39 | 2022-10-15 | 2022-10-16 |
 | [Bluebird](https://open.spotify.com/track/3G1Zpxk5suXASMAYITJHXJ) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Safety](https://open.spotify.com/album/6tgbjRYSkt8AHTBwG4lP3u) | 4:52 | 2022-02-03 | 2022-02-04 |
@@ -484,7 +484,7 @@
 | [Get You Out](https://open.spotify.com/track/3fdSUF8i5E6rWIqBjNqJ6F) | [Antigon](https://open.spotify.com/artist/3YPPVZi2rGfFGvd0YS5nwA) | [Get You Out](https://open.spotify.com/album/4pCLAH44OAcqoMC0Pq26N4) | 3:12 | 2022-04-13 | 2022-04-14 |
 | [Ghost](https://open.spotify.com/track/1VYXQ5Zi9M9bhDOi91hcAu) | [By The Coast](https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm) | [Ghost](https://open.spotify.com/album/3d8K4PoodSlqGcQxq21s2x) | 4:10 | 2022-05-03 | 2022-05-04 |
 | [Ghost Hotel](https://open.spotify.com/track/2K3GO3EUiNtMEgvbBlU9MU) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6) | 3:39 | 2021-12-01\* | 2024-04-26 |
-| [Ghost Hotel](https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu) | 3:39 | 2024-04-27 |  |
+| [Ghost Hotel](https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu) | 3:39 | 2024-04-27 | 2025-07-22 |
 | [Ghosts of my Hometown](https://open.spotify.com/track/0pKYQ2U4RnhIKS2gz2KFi3) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Faint of Heart](https://open.spotify.com/album/3Sm362TyQy9CmZ1DVhmlYF) | 3:33 | 2021-12-07 | 2022-03-02 |
 | [Girl, Say](https://open.spotify.com/track/2YMVlnf2RsgVrQpi2g6KWI) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Girl, Say](https://open.spotify.com/album/56xuqlRm2ssGeFIwrsHCJY) | 4:02 | 2022-04-30 | 2024-04-15 |
 | [Girl, Say](https://open.spotify.com/track/4inpAv8q2lf5PNyUcGEgxf) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Girl, Say](https://open.spotify.com/album/6OULq1kw253Md9qTBy2f4W) | 4:02 | 2022-04-16 | 2022-04-17 |
@@ -648,7 +648,7 @@
 | [If I Knew](https://open.spotify.com/track/1RgNDx2dK2WsarU77Bxknd) | [Riley K](https://open.spotify.com/artist/05aewHKLM5GNxkDC7PMx3G) | [If I Knew](https://open.spotify.com/album/5g4F9n58YjZxVhSZRNuXdl) | 4:02 | 2022-06-01 | 2022-06-07 |
 | [If I Knew How to Hold You](https://open.spotify.com/track/4WBALtRcBYVL715MlpLYRl) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [If I Knew How to Hold You](https://open.spotify.com/album/5kH2mOnDtQNue89cP1Hmng) | 4:10 | 2022-10-10 | 2024-04-19 |
 | [If Only for Tonight](https://open.spotify.com/track/1eaTrBr0DNKGJzmhQsIbG0) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/48XpsbZn6EBi2qKKG0Fr0n) | 4:56 | 2021-12-20 | 2022-04-15 |
-| [If Only for Tonight](https://open.spotify.com/track/5Lp5x32wJQwBAOKiuv42At) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF) | 4:56 | 2022-05-01 | 2025-07-21 |
+| [If Only for Tonight](https://open.spotify.com/track/5Lp5x32wJQwBAOKiuv42At) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF) | 4:56 | 2022-05-01 |  |
 | [If Things Had Gone Our Way](https://open.spotify.com/track/0ABN7aU85x4zEkovoTTTlM) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Echo](https://open.spotify.com/album/2EPjdx6A66QkuM2UQYYIcK) | 3:27 | 2022-08-25 | 2024-02-11 |
 | [If You Stay](https://open.spotify.com/track/0t8YymdACBIQexYpQ5pBok) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H), [Tori Romo](https://open.spotify.com/artist/3uuKpwmr7SsX9lVp4AGG5x) | [Coffee In The Morning](https://open.spotify.com/album/7vuTgz3gupvBivoxgjVotW) | 4:21 | 2022-10-13 | 2023-02-25 |
 | [If You're Happy Now](https://open.spotify.com/track/2JJWg2GZAxJLwABftQtSbm) | [Peter Thomas](https://open.spotify.com/artist/2MhPVBzM72QjbQPhybKjyr) | [Attachment](https://open.spotify.com/album/1m6V8jXHsSMers3Ce137D2) | 3:33 | 2022-09-09 | 2022-09-10 |
@@ -1262,7 +1262,7 @@
 | [Threads](https://open.spotify.com/track/248ury5AowqTSeaTXaTrww) | [Ronan Nicholson](https://open.spotify.com/artist/1mChDkww3ZlblcLjICxUD8) | [Threads](https://open.spotify.com/album/6eoz0ZGocTwFQtpQpFmPWC) | 4:53 | 2022-08-25 | 2022-08-27 |
 | [Through Different Eyes](https://open.spotify.com/track/02iGnlfk9jnFM0rChVNQW3) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [Chapter Three](https://open.spotify.com/album/0xd7R8bVAPOV3b5dXuIgDe) | 5:57 | 2022-05-13 | 2022-06-27 |
 | [Through the Silence](https://open.spotify.com/track/3VNXOpwERQZHJso6P8oGJT) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Bad Kids](https://open.spotify.com/album/6P4hmXIL4XVjIA88K44Onl) | 3:48 | 2022-07-22 | 2022-07-23 |
-| [Through the Silence](https://open.spotify.com/track/40pt5JgG38qE0Z2Bqx51lf) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 3:48 | 2023-12-21 |  |
+| [Through the Silence](https://open.spotify.com/track/40pt5JgG38qE0Z2Bqx51lf) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 3:48 | 2023-12-21 | 2025-07-22 |
 | [Through Your Eyes](https://open.spotify.com/track/4nyjfCCS8Z4ff1tXaz3p4X) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC), [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Through Your Eyes](https://open.spotify.com/album/2vWd4ZZPo7axv0UgzyR8Qc) | 3:47 | 2022-04-26 | 2023-06-12 |
 | [Thumbs](https://open.spotify.com/track/0mRcrW5I1FIf7Ryv3KBcCr) | [Zander Hawley](https://open.spotify.com/artist/0lfHZCO5590Y3vuuNEXcwZ) | [Thumbs](https://open.spotify.com/album/4vlNZYQOuPR57SatL0VD54) | 4:33 | 2022-03-10 | 2022-10-16 |
 | [Tied Up](https://open.spotify.com/track/6igqKvhmEBT7HrK4mKFxY0) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Tied Up](https://open.spotify.com/album/48kI7Vh7DGvqJmcHRyYymD) | 3:36 | 2023-12-16 | 2024-04-16 |

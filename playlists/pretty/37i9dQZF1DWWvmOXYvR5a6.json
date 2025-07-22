@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: HAON(\uae40\ud558\uc628))(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 220502,
+  "num_followers": 220513,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -254,15 +254,11 @@
         {
           "name": "MARK",
           "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 186120,
-      "name": "Watching TV",
-      "url": "https://open.spotify.com/track/04eT5t3jBMa1NxTqgWoHtT"
+      "duration_ms": 225146,
+      "name": "Journey Mercies",
+      "url": "https://open.spotify.com/track/03HWY5ttImMemD11wWvxBi"
     },
     {
       "added_at": "2025-07-15 01:57:43",
@@ -358,11 +354,15 @@
         {
           "name": "MARK",
           "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 225146,
-      "name": "Journey Mercies",
-      "url": "https://open.spotify.com/track/03HWY5ttImMemD11wWvxBi"
+      "duration_ms": 186120,
+      "name": "Watching TV",
+      "url": "https://open.spotify.com/track/04eT5t3jBMa1NxTqgWoHtT"
     },
     {
       "added_at": "2025-07-15 01:57:43",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-07-15 01:57:43",
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2025-07-15 01:57:43",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 182346,
       "name": "Right Now (Feat. Crush)",
       "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
-    },
-    {
-      "added_at": "2025-07-15 01:57:43",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191220,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
     },
     {
       "added_at": "2025-07-15 01:57:43",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2025-07-15 01:57:43",
       "album": {
-        "name": "Double-sidedness",
-        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        },
-        {
-          "name": "BE'O (\ube44\uc624)",
-          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
-        }
-      ],
-      "duration_ms": 199064,
-      "name": "Deep Sea (Feat. BE'O)",
-      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
-    },
-    {
-      "added_at": "2025-07-15 01:57:43",
-      "album": {
         "name": "On the street",
         "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 209154,
       "name": "On the street (Feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+    },
+    {
+      "added_at": "2025-07-15 01:57:43",
+      "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "BE'O (\ube44\uc624)",
+          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
+        }
+      ],
+      "duration_ms": 199064,
+      "name": "Deep Sea (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
     },
     {
       "added_at": "2025-07-15 01:57:43",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2025-07-15 01:57:43",
       "album": {
-        "name": "HANDS",
-        "url": "https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jung Zi So",
-          "url": "https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Life Is A Movie (Feat. Jung Zi So)",
-      "url": "https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY"
-    },
-    {
-      "added_at": "2025-07-15 01:57:43",
-      "album": {
         "name": "TOYSTORY3",
         "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 180813,
       "name": "2AM (Feat. CAMO)",
       "url": "https://open.spotify.com/track/1C1quK9LCCHeUjrTONTH9C"
+    },
+    {
+      "added_at": "2025-07-15 01:57:43",
+      "album": {
+        "name": "HANDS",
+        "url": "https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jung Zi So",
+          "url": "https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Life Is A Movie (Feat. Jung Zi So)",
+      "url": "https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY"
     },
     {
       "added_at": "2025-07-15 01:57:43",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2025-07-15 01:57:43",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3tbIma0WBMW2aClgAwYfqA"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Trade",
+      "url": "https://open.spotify.com/track/2YpSa1Jtz5j2i0CuVzb0A2"
+    },
+    {
+      "added_at": "2025-07-15 01:57:43",
+      "album": {
         "name": "MBT",
         "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
       },
@@ -1511,42 +1527,6 @@
     {
       "added_at": "2025-07-15 01:57:43",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3tbIma0WBMW2aClgAwYfqA"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Trade",
-      "url": "https://open.spotify.com/track/2YpSa1Jtz5j2i0CuVzb0A2"
-    },
-    {
-      "added_at": "2025-07-15 01:57:43",
-      "album": {
-        "name": "House of Girls, Episode 3",
-        "url": "https://open.spotify.com/album/0ECVcFFArwRrajFkiN524D"
-      },
-      "artists": [
-        {
-          "name": "cyan",
-          "url": "https://open.spotify.com/artist/7909RijUN4OHQDLWadiWfI"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 163859,
-      "name": "Kiss Like This",
-      "url": "https://open.spotify.com/track/5I0IPEUldhAB9vd1waw3rF"
-    },
-    {
-      "added_at": "2025-07-15 01:57:43",
-      "album": {
         "name": "BAPPI",
         "url": "https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG"
       },
@@ -1583,6 +1563,26 @@
     {
       "added_at": "2025-07-15 01:57:43",
       "album": {
+        "name": "House of Girls, Episode 3",
+        "url": "https://open.spotify.com/album/0ECVcFFArwRrajFkiN524D"
+      },
+      "artists": [
+        {
+          "name": "cyan",
+          "url": "https://open.spotify.com/artist/7909RijUN4OHQDLWadiWfI"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 163859,
+      "name": "Kiss Like This",
+      "url": "https://open.spotify.com/track/5I0IPEUldhAB9vd1waw3rF"
+    },
+    {
+      "added_at": "2025-07-15 01:57:43",
+      "album": {
         "name": "1,2,3,4,5",
         "url": "https://open.spotify.com/album/7D6P8Uo19ayw8P4kqrCzjz"
       },
@@ -1595,26 +1595,6 @@
       "duration_ms": 182026,
       "name": "1,2,3,4,5",
       "url": "https://open.spotify.com/track/0b2uMH3ziqvmdPyyv02FA7"
-    },
-    {
-      "added_at": "2025-07-15 01:57:43",
-      "album": {
-        "name": "School Rapper4 Semi Final 2",
-        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
-      },
-      "artists": [
-        {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "PARADISE (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
     },
     {
       "added_at": "2025-07-15 01:57:43",
@@ -1639,6 +1619,26 @@
       "duration_ms": 234839,
       "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+    },
+    {
+      "added_at": "2025-07-15 01:57:43",
+      "album": {
+        "name": "School Rapper4 Semi Final 2",
+        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
+      },
+      "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "PARADISE (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
     },
     {
       "added_at": "2025-07-15 01:57:43",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2025-07-15 01:57:43",
       "album": {
-        "name": "senseS",
-        "url": "https://open.spotify.com/album/0lngMKgjFwq61YlgI8aQz0"
-      },
-      "artists": [
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi"
-        }
-      ],
-      "duration_ms": 142676,
-      "name": "Saucer",
-      "url": "https://open.spotify.com/track/3qEdjQXY4aqx4OQjbE8Waw"
-    },
-    {
-      "added_at": "2025-07-15 01:57:43",
-      "album": {
         "name": "Berry Loves My Mood",
         "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 210641,
       "name": "Misfits (Feat. MELOH, Kid Wine)",
       "url": "https://open.spotify.com/track/6W8HwARrdbtCNU8lupQD3J"
+    },
+    {
+      "added_at": "2025-07-15 01:57:43",
+      "album": {
+        "name": "senseS",
+        "url": "https://open.spotify.com/album/0lngMKgjFwq61YlgI8aQz0"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi"
+        }
+      ],
+      "duration_ms": 142676,
+      "name": "Saucer",
+      "url": "https://open.spotify.com/track/3qEdjQXY4aqx4OQjbE8Waw"
     },
     {
       "added_at": "2025-07-15 01:57:43",

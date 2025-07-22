@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 41 | [Enough for You](https://open.spotify.com/track/0P0RpIHj65B6caxXHbr64e) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Real\. Country\. Music.](https://open.spotify.com/album/6RDg3o9IvNHbgYkFXHCIIc) | 4:00 |
 | 42 | [Kiss the World Goodbye](https://open.spotify.com/track/6YFNxPeprxQVDUqAbqO7CS) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 3:00 |
 | 43 | [Josie](https://open.spotify.com/track/07rkOVz8p74BtEs1WWPLP8) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 3:11 |
-| 44 | [You Show Me Yours \(And I'll Show You Mine\)](https://open.spotify.com/track/3FFmyvfaI98xEVYhPyinKQ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Willie Nelson Sings Kristofferson](https://open.spotify.com/album/5PCDkwFxNl5dgQO24yPEbn) | 3:54 |
-| 45 | [Epitaph \(Black and Blue\)](https://open.spotify.com/track/4VB6c87xWGGEE77ezRYm2X) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 3:25 |
+| 44 | [Epitaph \(Black and Blue\)](https://open.spotify.com/track/4VB6c87xWGGEE77ezRYm2X) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 3:25 |
+| 45 | [You Show Me Yours \(And I'll Show You Mine\)](https://open.spotify.com/track/3FFmyvfaI98xEVYhPyinKQ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Willie Nelson Sings Kristofferson](https://open.spotify.com/album/5PCDkwFxNl5dgQO24yPEbn) | 3:54 |
 | 46 | [Somebody Nobody Knows](https://open.spotify.com/track/4CWwfDfiMfZjcIhOC7CywH) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 3:35 |
 | 47 | [Duvalier's Dream](https://open.spotify.com/track/18AMFmyINonaT125BWmUth) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 2:55 |
 | 48 | [I Believe That I Believe \- Demo](https://open.spotify.com/track/5FNUsw4nfbHS2KOcfyRV0s) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:41 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 105 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 106 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `Ab3UEgAAAABYDii8nEf1r5JV4mKoAITi`
+Snapshot ID: `Ab3ZsgAAAACVwK8+z5y7lCeaCvGW4XI8`

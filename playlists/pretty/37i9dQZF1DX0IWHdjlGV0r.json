@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Emis Killa",
-  "num_followers": 125945,
+  "num_followers": 125967,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,22 @@
     {
       "added_at": "2025-07-16 13:39:57",
       "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
         },
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Michelangelo",
-          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
         }
       ],
-      "duration_ms": 165216,
-      "name": "MONDAY (feat. Shiva & Michelangelo)",
-      "url": "https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq"
+      "duration_ms": 202600,
+      "name": "LEI (feat. Rondodasosa)",
+      "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
     },
     {
       "added_at": "2025-07-16 13:39:57",
@@ -887,22 +883,26 @@
     {
       "added_at": "2025-07-16 13:39:57",
       "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
       "artists": [
         {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         },
         {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Michelangelo",
+          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
         }
       ],
-      "duration_ms": 202600,
-      "name": "LEI (feat. Rondodasosa)",
-      "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
+      "duration_ms": 165216,
+      "name": "MONDAY (feat. Shiva & Michelangelo)",
+      "url": "https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq"
     },
     {
       "added_at": "2025-07-16 13:39:57",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-07-16 13:39:57",
       "album": {
-        "name": "Come Uccidere Un Usignolo",
-        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 206510,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
-    },
-    {
-      "added_at": "2025-07-16 13:39:57",
-      "album": {
         "name": "L'erba cattiva",
         "url": "https://open.spotify.com/album/2Dbxqy0O665QXENEoKc1oH"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 231655,
       "name": "Parole di ghiaccio",
       "url": "https://open.spotify.com/track/1mItEeAlTepKfWUOpu8h6b"
+    },
+    {
+      "added_at": "2025-07-16 13:39:57",
+      "album": {
+        "name": "Come Uccidere Un Usignolo",
+        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 206510,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
     },
     {
       "added_at": "2025-07-16 13:39:57",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2025-07-16 13:39:57",
       "album": {
-        "name": "F*ck Love",
-        "url": "https://open.spotify.com/album/27P8029lZ9dq9w3S9uwOLL"
-      },
-      "artists": [
-        {
-          "name": "Vale Pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        },
-        {
-          "name": "333 Mob",
-          "url": "https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0"
-        }
-      ],
-      "duration_ms": 203923,
-      "name": "F*ck Love",
-      "url": "https://open.spotify.com/track/7BZ5YmSnyfMzw3q9RI4MHk"
-    },
-    {
-      "added_at": "2025-07-16 13:39:57",
-      "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 181386,
       "name": "Bella",
       "url": "https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM"
+    },
+    {
+      "added_at": "2025-07-16 13:39:57",
+      "album": {
+        "name": "F*ck Love",
+        "url": "https://open.spotify.com/album/27P8029lZ9dq9w3S9uwOLL"
+      },
+      "artists": [
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "333 Mob",
+          "url": "https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0"
+        }
+      ],
+      "duration_ms": 203923,
+      "name": "F*ck Love",
+      "url": "https://open.spotify.com/track/7BZ5YmSnyfMzw3q9RI4MHk"
     },
     {
       "added_at": "2025-07-16 13:39:57",

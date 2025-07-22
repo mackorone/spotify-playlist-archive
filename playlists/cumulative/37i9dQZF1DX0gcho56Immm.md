@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Fade Evare
 
-139 songs - 7 hr 52 min
+140 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Green Edge](https://open.spotify.com/track/2VFnC7z1CCX0iWQZyAbOB9) | [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Montalvo](https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr) | 3:32 | 2025-03-13 |  |
 | [Guess It's Wrecked](https://open.spotify.com/track/1m8hRVS4d1naBsHNZDKV33) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e), [Olan Monk](https://open.spotify.com/artist/3BBWf8gJdcOI5EwrptKGSM) | [You Never End](https://open.spotify.com/album/06IJJi2iZOfJvHWFM8lRI9) | 2:09 | 2025-03-13 |  |
 | [Gums](https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [gums](https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa) | 3:38 | 2025-04-24 |  |
+| [HARDLY EVER SMILE\(without you\)](https://open.spotify.com/track/6dwCn6DV1Fbw46BC7VDZqp) | [POiSON GiRL FRiEND](https://open.spotify.com/artist/5Yur3Z4Wrte4GfVCAbxObl) | [MELTING MOMENT](https://open.spotify.com/album/6asP1OdgPUjc7fSTvZxnaM) | 6:54 | 2025-07-21 |  |
 | [Harsh Love](https://open.spotify.com/track/6kdHY97UbXDdxfExPF45su) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Close To The Knife](https://open.spotify.com/album/3av2n4bZhUwbSL54kdV0th) | 3:29 | 2025-05-29 |  |
 | [helix](https://open.spotify.com/track/4kQ9vp1V2Jj6Cdqx3bu00b) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [helix](https://open.spotify.com/album/7p4qDyU5g2cuiMCnai3jAK) | 4:15 | 2025-06-26 |  |
 | [hello hello](https://open.spotify.com/track/6xl7k4T3EJGtzrCom3hBVT) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [hello hello](https://open.spotify.com/album/4BbSqqhkKfNBEJaxAbC2av) | 2:06 | 2025-06-26 |  |

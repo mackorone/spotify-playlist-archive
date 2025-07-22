@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-873 songs - 1 day 20 hr 53 min
+874 songs - 1 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,6 +774,7 @@
 | [Things We Do For Love](https://open.spotify.com/track/6tSpsxkeWZ3YPfMt9rYmzb) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Things We Do For Love](https://open.spotify.com/album/5h6PbA2KotkWMkZgmwYTRI) | 4:16 | 2022-03-24 | 2022-04-21 |
 | [THINK ABOUT ME](https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [THINK ABOUT ME](https://open.spotify.com/album/6zd8CVcujUr4FRzDlUUNwx) | 3:24 | 2022-03-17 | 2022-07-29 |
 | [Think Of Us Kissing](https://open.spotify.com/track/2WYeR2DTeKfLNrhFSt8WWu) | [Hamish Hawk](https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8) | [Think Of Us Kissing](https://open.spotify.com/album/49YOsnWSDQdXxl6BZ0LxTL) | 3:37 | 2022-09-15 | 2022-09-29 |
+| [third degree](https://open.spotify.com/track/2tAvRoEE2g5IukKQlHhdvm) | [davvn](https://open.spotify.com/artist/1QF0qdoDTPGn3h3zl3YIpT) | [third degree](https://open.spotify.com/album/21DyQCFJhDNPIzX4HB79kH) | 3:08 | 2025-07-18 |  |
 | [Thirty Eight](https://open.spotify.com/track/1noZLHWZB15QEDBCHq8CdE) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Thirty Eight](https://open.spotify.com/album/6zxftKiTydsE5rK2AoXncr) | 3:45 | 2022-03-24 | 2022-04-15 |
 | [This Is Happening](https://open.spotify.com/track/1s7YBmmq9f3VjVXst1HMyq) | [4B2M](https://open.spotify.com/artist/6Evnxf4Als5zI3yYgtnoBV) | [This Is Happening](https://open.spotify.com/album/7gddn5LqvWrhL2nHNG32nm) | 2:55 | 2022-03-24 | 2022-04-07 |
 | [This is the Place](https://open.spotify.com/track/2HXWTuHE8NZgK7ZmCVBTHX) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [This is the Place](https://open.spotify.com/album/2rGhEawehqYozpPmAwjxr3) | 3:05 | 2022-03-24 | 2022-04-20 |
@@ -801,7 +802,7 @@
 | [Twinkle Twinkle](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 | 2022-06-23 | 2023-10-26 |
 | [Twinkle Twinkle](https://open.spotify.com/track/6290tINYizQ2bc3QF6p8gA) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Twinkle Twinkle](https://open.spotify.com/album/4PqwdolF10E6xogoo5OeKT) | 3:31 | 2022-03-24 | 2022-03-28 |
 | [Two Faces](https://open.spotify.com/track/3QFN0Ke11xofOBk8ceWq5d) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Two Faces](https://open.spotify.com/album/5zzPiSwhDRnnwmyIzaOX9s) | 2:41 | 2022-10-06 | 2022-10-15 |
-| [Two Friends](https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Two Friends](https://open.spotify.com/album/3AyO9wJl2IB3PRZSX2Mogs) | 3:06 | 2024-08-23 |  |
+| [Two Friends](https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Two Friends](https://open.spotify.com/album/3AyO9wJl2IB3PRZSX2Mogs) | 3:06 | 2024-08-23 | 2025-07-22 |
 | [u & the tin man](https://open.spotify.com/track/708gCdwN3T84CSvJN5qjIp) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u & the tin man](https://open.spotify.com/album/6v03FgC4opzoTpphB0JOIg) | 2:28 | 2024-04-19 | 2024-06-20 |
 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 | 2023-03-17 | 2024-01-18 |
 | [ugly](https://open.spotify.com/track/7b3zTnrvxQpkl0940SBF5W) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [ugly](https://open.spotify.com/album/7t6zzIar6ZEflGdgrUoAve) | 2:53 | 2023-03-24 | 2024-06-01 |

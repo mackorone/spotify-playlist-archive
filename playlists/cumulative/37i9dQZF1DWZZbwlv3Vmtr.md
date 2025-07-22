@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,050 songs - 1 day 16 hr 39 min
+1,051 songs - 1 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [It Was One Look Into Your Eyes](https://open.spotify.com/track/6SzTq1f5TBnJ0RE4QDw52J) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Love Letters to O](https://open.spotify.com/album/0dqq6Rhr6HDGozqx1EVxVC) | 2:54 | 2022-04-15 | 2025-07-10 |
 | [It's just a phase](https://open.spotify.com/track/1lbU8i2RPO0DKGWCzkjdDP) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [It's just a phase](https://open.spotify.com/album/2UbjJdAj76M4lMHp2m0ZAN) | 2:18 | 2023-01-13 |  |
 | [It's Real](https://open.spotify.com/track/43cvBPKTYdJESkGr9jqmOR) | [Suede Wallet](https://open.spotify.com/artist/2oTCWOKOMia5kg2jep7nKY), [mariussax](https://open.spotify.com/artist/5w7HPDu1t1FSCEfjEm3tKE) | [It's Real](https://open.spotify.com/album/0M6zhqqm3JwLaSr5Amkt55) | 2:30 | 2022-11-11 | 2025-07-10 |
+| [jamaica water](https://open.spotify.com/track/5jeuCbfP5AhszbtUcVHPqa) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [jamaica water](https://open.spotify.com/album/2t020FCabBHFBWwEVpuxWN) | 2:34 | 2025-07-18 |  |
 | [Jay](https://open.spotify.com/track/5GEJovN72R9nDWb4xUXk9o) | [Lukrembo](https://open.spotify.com/artist/2mvFGnu3tPO49WSrFZ4zVR) | [Jay](https://open.spotify.com/album/3Iu3hTlA1SEuWkPddLJxb1) | 2:39 | 2022-09-02 | 2023-09-22 |
 | [Jazz Tales](https://open.spotify.com/track/0TdUd1HFmecMdulJujFNi6) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Jazz Tales](https://open.spotify.com/album/5LUbxCPTmRYRkvD9IBtoSJ) | 2:29 | 2022-07-08 | 2022-09-24 |
 | [JazzRevelations](https://open.spotify.com/track/2bCtCoIk4C9vwblph83dru) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [JazzRevelations](https://open.spotify.com/album/25yJ7QmFtmYSzbtkH6YXKR) | 2:15 | 2024-08-30 |  |
@@ -676,7 +677,7 @@
 | [play\-doh](https://open.spotify.com/track/17NNZJQvS7WSwKLixBWnXF) | [heirloom](https://open.spotify.com/artist/3Q6Jurd5PQMm7Q52Xk6yuW) | [play\-doh](https://open.spotify.com/album/61RnxzvAnTu06yIDN8Kact) | 2:31 | 2025-05-06 | 2025-06-08 |
 | [Playing Games](https://open.spotify.com/track/146qfyDUejihj8VFaRoBEn) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Playing Games](https://open.spotify.com/album/13RxZdwcC88Ol3E1pyUO1o) | 2:00 | 2023-07-19 | 2024-12-06 |
 | [Pleasant Trip](https://open.spotify.com/track/4Noemyd2YfXLAXLUItJ7Fh) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Pleasant Trip](https://open.spotify.com/album/2slqsS4evjnu3OydgPOKja) | 2:19 | 2022-11-25 | 2025-07-01 |
-| [please](https://open.spotify.com/track/2S7E7PyoXa3ApIQRLrQ7Qc) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [please](https://open.spotify.com/album/2rFRBwaXxMbDHii6lkr7Dt) | 2:03 | 2023-12-22 |  |
+| [please](https://open.spotify.com/track/2S7E7PyoXa3ApIQRLrQ7Qc) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [please](https://open.spotify.com/album/2rFRBwaXxMbDHii6lkr7Dt) | 2:03 | 2023-12-22 | 2025-07-22 |
 | [Plump](https://open.spotify.com/track/6xCoZQNLgnJTYuOxbYlqC5) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Llama Drama](https://open.spotify.com/album/1JjljDOBIiFcWw7j3Qrxcw) | 2:09 | 2022-04-15 | 2025-06-14 |
 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 | 2022-04-15 | 2023-07-20 |
 | [Poolside](https://open.spotify.com/track/6CY364GXE5gEMnQch6KGF4) | [lost.mindd](https://open.spotify.com/artist/6MzDAmtVfhn4nnlAhE4Ewa) | [Poolside](https://open.spotify.com/album/7IERaPp1czfhKdTywV3OT2) | 2:22 | 2022-08-05 | 2022-10-14 |

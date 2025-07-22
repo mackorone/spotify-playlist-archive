@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randall King",
-  "num_followers": 408292,
+  "num_followers": 408278,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Start at the End",
-        "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
-      },
-      "artists": [
-        {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Start at the End",
-      "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
         "name": "Worry is a Sickness",
         "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 254836,
       "name": "Worry is a Sickness",
       "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
+        "name": "Start at the End",
+        "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Start at the End",
+      "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 218480,
-      "name": "The Little Things",
-      "url": "https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
         "name": "Here's To You. Here's To Me.",
         "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 182318,
       "name": "Tennessee Drinkin'",
       "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "The Little Things",
+      "url": "https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Three Drinks Behind",
-        "url": "https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W"
+        "name": "Outlaws and Mustangs",
+        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 219026,
-      "name": "Three Drinks Behind",
-      "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
+      "duration_ms": 240025,
+      "name": "Outlaws and Mustangs",
+      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Outlaws and Mustangs",
-        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
+        "name": "Three Drinks Behind",
+        "url": "https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 240025,
-      "name": "Outlaws and Mustangs",
-      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
+      "duration_ms": 219026,
+      "name": "Three Drinks Behind",
+      "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Whole Lotta Lubbock",
-        "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
-      },
-      "artists": [
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        }
-      ],
-      "duration_ms": 192651,
-      "name": "Whole Lotta Lubbock",
-      "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
         "name": "Till You",
         "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Starting Over Again",
-        "url": "https://open.spotify.com/album/0eKWH1z22oFzi2D8S3D13C"
+        "name": "Whole Lotta Lubbock",
+        "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
       },
       "artists": [
         {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
         }
       ],
-      "duration_ms": 179645,
-      "name": "Starting Over Again",
-      "url": "https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo"
+      "duration_ms": 192651,
+      "name": "Whole Lotta Lubbock",
+      "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
+        "name": "Starting Over Again",
+        "url": "https://open.spotify.com/album/0eKWH1z22oFzi2D8S3D13C"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 179613,
-      "name": "Starts in a Bar",
-      "url": "https://open.spotify.com/track/5Qpq6TsAObkMLfB7q1z4Qc"
+      "duration_ms": 179645,
+      "name": "Starting Over Again",
+      "url": "https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -1619,6 +1603,22 @@
       "duration_ms": 234360,
       "name": "jackson",
       "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Starts in a Bar",
+      "url": "https://open.spotify.com/track/5Qpq6TsAObkMLfB7q1z4Qc"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Green in Colorado",
-        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
+        "name": "Clover On The Hillside",
+        "url": "https://open.spotify.com/album/07lozbMVgjcKVQKhHkk976"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
         }
       ],
-      "duration_ms": 196833,
-      "name": "Green in Colorado",
-      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
+      "duration_ms": 141080,
+      "name": "Clover On The Hillside",
+      "url": "https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03"
     }
   ],
   "unique_name": "Texas Country Now",

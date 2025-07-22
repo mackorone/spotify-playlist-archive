@@ -4,7 +4,7 @@
 
 > Click into the feed to learn about what's going on in the world of Afro Adura\. Cover: <a href="spotify:artist:5c0lDrNyT2RnFhujZpPIas">Victor Thompson</a>
 
-4,977 songs - 10 day 12 hr 16 min
+4,979 songs - 10 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1227,6 +1227,7 @@
 | [DON'T THEY \(REMIX\) \[feat\. Normani\]](https://open.spotify.com/track/3u8becTPmigEyasAqCaO2Q) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DON'T THEY \(REMIX\) \[feat\. Normani\]](https://open.spotify.com/album/54Ju4fs7XOHyEfjnXxAabD) | 3:17 | 2022-06-10 | 2022-07-02 |
 | [Don't Wait Till It's Over](https://open.spotify.com/track/5v3m1QXyRnrZJH7n3US4z2) | [Damon DeGraff](https://open.spotify.com/artist/5C9OuKmKcdtOnQOIV48Nka), [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Don't Wait Till It's Over](https://open.spotify.com/album/4izAA7DVx8AeMOGTyPnboU) | 3:54 | 2025-07-11 |  |
 | [Don't You Love Me? \- A COLORS SHOW](https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Don't You Love Me? \- A COLORS SHOW](https://open.spotify.com/album/1WPY8kRB01objem7KdBwya) | 4:27 | 2024-08-31 | 2024-09-07 |
+| [Don't You Worry Baby](https://open.spotify.com/track/45mVT3DCE7AATXgESSdfee) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:58 | 2025-07-21 |  |
 | [Donkey](https://open.spotify.com/track/5yTDE6ccqwhkRLvLCjDB6K) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Justin Love](https://open.spotify.com/artist/2hb9qKOv4xtA7W3Nx0W5ZF) | [Donkey](https://open.spotify.com/album/7zcAR7RBs39HWcCcb6bHTY) | 1:13 | 2022-04-15 | 2022-04-29 |
 | [Donkey 2.0](https://open.spotify.com/track/2jJNGIZdjrxsgnSvFBfIU6) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Justin Love](https://open.spotify.com/artist/2hb9qKOv4xtA7W3Nx0W5ZF) | [Donkey 2.0](https://open.spotify.com/album/2VJwfKxmtn36dZhnDWNt54) | 2:59 | 2022-08-05 | 2022-08-27 |
 | [Dont Call Me Twin](https://open.spotify.com/track/3aJ4eDlQwc26G5oDg8rCW5) | [ICYTWAT](https://open.spotify.com/artist/6bVRNVg2f91pCAyKnrIOW0) | [G4ost 2](https://open.spotify.com/album/7xg2hqZuqwItr8hDEg8Avn) | 1:58 | 2023-01-20 | 2023-02-11 |
@@ -3608,6 +3609,7 @@
 | [Right, Wrong or Ready](https://open.spotify.com/track/5thf5fzKD3tBooHlbwML78) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Right, Wrong or Ready](https://open.spotify.com/album/4GzPDfegMPeM94iMsghfQn) | 5:21 | 2024-04-26 | 2024-06-01 |
 | [RING ISLAND](https://open.spotify.com/track/64qSlBMJdwZS9TTxgbG3Y9) | [Varnish La Piscine](https://open.spotify.com/artist/17o6H1EQGD90TQxJ4pErIU) | [RING ISLAND](https://open.spotify.com/album/6c5PEgYNOLFlme94sZXmip) | 3:13 | 2023-03-24 | 2023-04-15 |
 | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/track/7pFzbZz89oXVsRxhUvO7q2) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/album/6Op5Oqgnb443EjcHdAR5eY) | 3:06 | 2023-05-12 | 2023-08-05 |
+| [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-07-21 |  |
 | [Rio de Janeiro](https://open.spotify.com/track/42C59kIJ7scQ7IzKSQ5RJL) | [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Rio de Janeiro](https://open.spotify.com/album/0hmItXcDhIivljJeriWimi) | 2:47 | 2023-03-03 | 2023-03-25 |
 | [Rio Grande](https://open.spotify.com/track/2mqYYL6mGOyvmyhfwk9zmi) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Rio Grande](https://open.spotify.com/album/1KQNMs6pSnaIuyBVi3r0Gh) | 2:58 | 2024-04-26 | 2024-05-04 |
 | [Riot](https://open.spotify.com/track/3WjZJKJGwO4xNAbTXdy5jS) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Riot](https://open.spotify.com/album/6JzElRQ0MHpuZ4UrzH1Poc) | 2:24 | 2022-06-10 | 2022-06-25 |

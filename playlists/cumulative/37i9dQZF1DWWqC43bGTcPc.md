@@ -2,9 +2,9 @@
 
 ### [最Hit華語榜](https://open.spotify.com/playlist/37i9dQZF1DWWqC43bGTcPc)
 
-> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 林俊傑 \(JJ Lin\) x A\-Lin
+> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 陳勢安 \(Andrew Tan\)
 
-804 songs - 2 day 2 hr 20 min
+807 songs - 2 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [I Love You](https://open.spotify.com/track/0eVBnUk6ds8A1ZkQHHxMZp) | [Showmaîn](https://open.spotify.com/artist/3Z0hrO5NvALfcVK5hk79CJ), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [I Love You](https://open.spotify.com/album/2S8MJgR4qyqqnEyN1Bd36L) | 2:38 | 2024-05-13 | 2024-05-21 |
 | [ICE AND FIRE \- 「冰箱打开时」音乐特别企划](https://open.spotify.com/track/1P5Ty8Lugfcfj7WwITjWvg) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [ICE AND FIRE \(「冰箱打开时」音乐特别企划\)](https://open.spotify.com/album/5JFVly1VtCSgvgeceRLjd0) | 2:23 | 2024-04-29 | 2024-05-21 |
 | [Imperfect](https://open.spotify.com/track/5lcXPiIO1fCtzOMBoGkhaB) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Imperfect](https://open.spotify.com/album/4rWm1zOGERsr8AWZ5X8KNo) | 3:46 | 2024-10-14 | 2024-10-22 |
-| [Jumping Machine \(跳楼机\)](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [Jumping Machine \(跳楼机\)](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 | 2025-01-27 |  |
+| [Jumping Machine \(跳楼机\)](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [Jumping Machine \(跳楼机\)](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 | 2025-01-27 | 2025-07-22 |
 | [Jumping Machine跳楼机 \- with Tyson Yoshi](https://open.spotify.com/track/0R3Gc2vLh5XFSWeU1r6wYY) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J), [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [Jumping Machine跳樓機 \(with Tyson Yoshi\)](https://open.spotify.com/album/1cDrpSotPL2IRtKAe4xHkO) | 3:25 | 2025-06-23 |  |
 | [Just You and Me](https://open.spotify.com/track/2rQgwJUT8zzyJzOqpxbzme) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [Just You and Me](https://open.spotify.com/album/6Dmyr1ZYRGJ3F46F4hmJxy) | 4:01 | 2024-02-12 | 2024-02-20 |
 | [L!KE](https://open.spotify.com/track/1DAGzOx1hZTRyni4aC2yQU) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [L!KE](https://open.spotify.com/album/5Utl9VItJfJR4TIbI2XsRM) | 2:44 | 2024-10-14 | 2024-10-22 |
@@ -308,6 +308,7 @@
 | [夢魘](https://open.spotify.com/track/4pNaHi7WELI9Rh4xEbkTHy) | [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE) | [夢魘](https://open.spotify.com/album/5nYqCffTqtNdIVhmD14SFM) | 3:09 | 2024-12-30 | 2025-01-07 |
 | [大不了就這樣吧](https://open.spotify.com/track/3Tc1NBgkwcRdZuD9CIvaPR) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [大不了就這樣吧](https://open.spotify.com/album/2SH0dF7sehismF4jWYGTUE) | 4:28 | 2025-04-28 | 2025-06-03 |
 | [大舌頭](https://open.spotify.com/track/5mPYxP2cSh6tE5vMn5C1Qh) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb), [Lambert凌](https://open.spotify.com/artist/61u8FEElPIrXoGWzVldLnC) | [大舌頭](https://open.spotify.com/album/4rQGP8ka5aLh0TCs7iLWi6) | 2:53 | 2024-09-02 | 2024-09-10 |
+| [大象的葬禮 \(電影《惡意》片尾曲\)](https://open.spotify.com/track/1jOuI7mGDnuX4RTsEZeQaP) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [大象的葬禮](https://open.spotify.com/album/2VaSzGRdj1H7JnASGICKzp) | 4:53 | 2025-07-21 |  |
 | [天下](https://open.spotify.com/track/7vlCdxLVwaV6wBPFwcFXXK) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [天下](https://open.spotify.com/album/2jhnvk13zoeCfb74AvTyr2) | 3:25 | 2024-01-15 | 2024-02-06 |
 | [天空](https://open.spotify.com/track/7uZz8xyiFlmp5AWgo2q5Hb) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [海螺記](https://open.spotify.com/album/6f4m2xgk0N2mDM7dhUTI6j) | 2:38 | 2025-04-28 | 2025-05-06 |
 | [天蝎座](https://open.spotify.com/track/0eCWUAncmDeDVdSfVQK9o6) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [天蝎座](https://open.spotify.com/album/4Cgyd82DtpGeZqe97I2axO) | 3:24 | 2024-11-04 | 2024-11-12 |
@@ -490,11 +491,13 @@
 | [掠日 \(影集《塑膠花》主題曲\)](https://open.spotify.com/track/24Xhuu7n2Lh3YMmQLnd7on) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [掠日](https://open.spotify.com/album/337AQKbjqqxaKTEUBKbE2j) | 4:24 | 2024-07-15 | 2024-07-23 |
 | [接住你](https://open.spotify.com/track/4cCpt3dT86O3F7OgkK5n8o) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [接住你](https://open.spotify.com/album/6QQAuZsNxOMqwntwfrtb4c) | 5:09 | 2025-05-26 |  |
 | [摺痕 \(Imprint\)](https://open.spotify.com/track/5zhonW8YyuLmvFBjmlrFY6) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [摺痕 \(Imprint\)](https://open.spotify.com/album/6pOrwbhSJX359aJYKd6R18) | 4:50 | 2024-08-26 | 2024-09-03 |
+| [撕裂傷](https://open.spotify.com/track/1v9QN1wkQ0pYBDxTrKQLEa) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [撕裂傷](https://open.spotify.com/album/2bFzNrslXFRgq21BC3MKox) | 3:28 | 2025-07-21 |  |
 | [撲朔 \(影視劇《春色寄情人》主題曲\)](https://open.spotify.com/track/2Ao5ruf950xtQOTF64fNgj) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [撲朔](https://open.spotify.com/album/6PPxOkmdMh8H0mq2TXga0k) | 4:59 | 2024-04-29 | 2024-05-07 |
 | [收買妳的愛](https://open.spotify.com/track/3wY6Fzvfy2X9lKH0enENWy) | [小安](https://open.spotify.com/artist/12QGPbN0fnuIlyEKxUlVo3) | [收買妳的愛](https://open.spotify.com/album/2TzPsnRQ9bBVfZgqkuaqOU) | 4:30 | 2024-06-03 | 2024-06-11 |
 | [放把火, 燒了我](https://open.spotify.com/track/6A97JLkQ8dd85eVSvYoVUx) | [施語庭](https://open.spotify.com/artist/4IuEkOrNCePRLpRYVWbUql) | [放把火, 燒了我](https://open.spotify.com/album/6MRs0jnfcWh2KaUpwjdwxi) | 3:38 | 2025-01-06 | 2025-01-14 |
 | [敢有人愛我](https://open.spotify.com/track/04PZNwgkMetGudb7ahGhgB) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [敢有人愛我](https://open.spotify.com/album/1pvioUFUXg0wJFERmUZ8q6) | 3:06 | 2024-11-18 | 2024-12-24 |
 | [數到十](https://open.spotify.com/track/73VL4sm5aHQWaWwZCEURsd) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [數到十](https://open.spotify.com/album/3hraLuOIsylxL46mXfYZAe) | 3:53 | 2025-05-12 |  |
+| [无可奈何](https://open.spotify.com/track/3QqCZHkhGKdJCdalzmDrwt) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [无可奈何](https://open.spotify.com/album/5MiitjKqH4Am65F5AM2dkh) | 3:29 | 2025-07-21 |  |
 | [无需理由](https://open.spotify.com/track/3JfMI0k7SgLe8WkYW6JV31) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [會發光的人](https://open.spotify.com/album/1KOH3fF4BGX3l4r0v8nbdk) | 3:54 | 2024-11-04 | 2024-11-12 |
 | [既然世界（《TVBS 原創劇集 祕書俱樂部》插曲）](https://open.spotify.com/track/2YuhWOHfrNzp2CRwldHQM8) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs) | [既然世界（《TVBS 原創劇集 祕書俱樂部》插曲）](https://open.spotify.com/album/3dGH4MQuMQBd4V7izYmI5e) | 3:35 | 2024-12-02 | 2024-12-10 |
 | [日落](https://open.spotify.com/track/6PHyNPr7hwdYwiDnesWsyb) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [日落](https://open.spotify.com/album/7pTK57Zq3LQk1fUSpoO0HY) | 4:09 | 2025-01-20 | 2025-02-18 |
@@ -615,7 +618,7 @@
 | [甘巴爹！我愛你！](https://open.spotify.com/track/6aEIxmIambRvxYopHdbrHY) | [P!SCO](https://open.spotify.com/artist/5ucZzHHKydsmjyZJT9vOWe) | [雷霆之愛](https://open.spotify.com/album/0EOGDwHmt6Sv0USjC4VAdW) | 4:29 | 2024-06-24 | 2024-07-02 |
 | [生不帶來死不帶走 \(feat\. 剃刀蔣 RAZOR\)](https://open.spotify.com/track/4vcVKhTlMvkCh2acRuwlwY) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9), [剃刀蔣RAZOR](https://open.spotify.com/artist/6WlrawIgemztag2cKJRPji) | [生不帶來死不帶走 \(feat\. 剃刀蔣 RAZOR\)](https://open.spotify.com/album/3BJC1ho8duTsS48URzLxCM) | 3:03 | 2024-11-18 | 2024-11-26 |
 | [生命線 \- 電視劇《院長爸爸》片頭曲](https://open.spotify.com/track/3ZuyyfGJqx9qhWTVtdMCWz) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [生命線 \(電視劇《院長爸爸》片頭曲\)](https://open.spotify.com/album/1LKR2MjbBCC7oemVqEVcGv) | 3:30 | 2025-05-05 | 2025-05-13 |
-| [生日晚餐](https://open.spotify.com/track/30VXBKujwGZ8aQyh8W3Hkw) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [生日晚餐](https://open.spotify.com/album/6OAhRnrNviz9Bb2ZqBesU5) | 3:46 | 2025-06-23 |  |
+| [生日晚餐](https://open.spotify.com/track/30VXBKujwGZ8aQyh8W3Hkw) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [生日晚餐](https://open.spotify.com/album/6OAhRnrNviz9Bb2ZqBesU5) | 3:46 | 2025-06-23 | 2025-07-22 |
 | [男人啊](https://open.spotify.com/track/2eOxchn7qR1VjGFRJyQqK3) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [男人啊](https://open.spotify.com/album/4AkyfM5nQEQhrPMvsFKFrX) | 4:01 | 2024-05-20 | 2024-05-28 |
 | [留佇咱的血內底](https://open.spotify.com/track/7tI2vGni4yUk5lSMdY0PZn) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ), [Chunho](https://open.spotify.com/artist/1mq5glQO50pi57PdxXmTAP) | [留佇咱的血內底](https://open.spotify.com/album/3fPjnv84pWLuGz37fo5yAM) | 4:11 | 2025-03-03 | 2025-03-18 |
 | [留給我是你的不言而喻](https://open.spotify.com/track/2H4dfDOzd6C31S7o4kQxqR) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [《會唱歌的院子》郁可唯×梁翹柏](https://open.spotify.com/album/07WB57ikFhgJ1SXcCfsHDh) | 4:06 | 2024-09-02 | 2024-09-10 |
@@ -681,7 +684,7 @@
 | [芭樂冰芭樂碰](https://open.spotify.com/track/6LsDcvWFeNuItfcU1Gh6aX) | [TroutFresh](https://open.spotify.com/artist/78IEFKJN8gQgJM1WOvt2Tl) | [芭樂冰芭樂碰](https://open.spotify.com/album/1OMNlJXOR5yVd0EpjVcPzR) | 2:29 | 2024-08-19 | 2024-08-27 |
 | [花季](https://open.spotify.com/track/772rZdFrHPSxbh6cKAQpSS) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [花季](https://open.spotify.com/album/7wxYlok3FsErwuldwDfIRA) | 4:00 | 2025-04-21 |  |
 | [花季](https://open.spotify.com/track/4meqN8UgbPZsauQRBDMqtD) | [Who Cares 胡凱兒](https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW) | [花季](https://open.spotify.com/album/1LurLgBPoD45Myy5ml3vnn) | 4:11 | 2024-11-18 | 2024-11-26 |
-| [花斑蚊](https://open.spotify.com/track/6BPO5uXhmI2Qq04zGQuhuz) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [八方來財之江船入海 \(Stacks from All Sides：Fresh Off the Boat\)](https://open.spotify.com/album/4Jw2JJa6yqFTxLqau9Z3UN) | 3:06 | 2025-07-14 |  |
+| [花斑蚊](https://open.spotify.com/track/6BPO5uXhmI2Qq04zGQuhuz) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [八方來財之江船入海 \(Stacks from All Sides：Fresh Off the Boat\)](https://open.spotify.com/album/4Jw2JJa6yqFTxLqau9Z3UN) | 3:06 | 2025-07-14 | 2025-07-22 |
 | [花期不同](https://open.spotify.com/track/4hiZAk9b9j0WWFoYr9pyz0) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ), [劉哲宇](https://open.spotify.com/artist/7cV5hNg13Bs5rLemIOMDi9), [吳維榮](https://open.spotify.com/artist/7AFolkU9lKXmyhzr09MXlz), [鄭雪琪](https://open.spotify.com/artist/1dw3TMG4Wb2Rspq6mPVcbp), [朱芷薇](https://open.spotify.com/artist/10TJ9srdH9jXPCIjf07E6W), [賴詠薇](https://open.spotify.com/artist/2A4nxDB5Ryl02YTDKHReeP) | [花期不同](https://open.spotify.com/album/6d8sTzopF0s4xeknRrFGZV) | 4:09 | 2024-10-14 | 2024-10-22 |
 | [若月亮没来（若是月亮还没来）](https://open.spotify.com/track/414Mr8wR2m7fs2K0n8Bx3I) | [王宇宙Leto](https://open.spotify.com/artist/1llNL6f36GgpMrKnRCx0uK), [乔浚丞](https://open.spotify.com/artist/3JhHdQILs3D6Te4gSdyaA3) | [若月亮没来（若是月亮还没来）](https://open.spotify.com/album/2ouP14yNLuS1WWTVeQ1muW) | 2:53 | 2024-06-10 | 2025-02-18 |
 | [若重新來過](https://open.spotify.com/track/1cFXFLe6nmoZ2pqY9xoGXI) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [若重新來過](https://open.spotify.com/album/7yjz5zfYcksmjiYorofv2M) | 3:15 | 2024-06-03 | 2024-06-11 |

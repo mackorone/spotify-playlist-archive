@@ -354,7 +354,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 182507,
       "name": "ADIOS (feat. John Mackk)",
       "url": "https://open.spotify.com/track/0TfadK2HYomFcmNpLkAXkK"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 170293,
       "name": "B2A (belt 2 ass)",
       "url": "https://open.spotify.com/track/5I5riGGzguZODuaYlifUs9"
@@ -806,10 +806,28 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 240000,
       "name": "Before It's Too Late",
       "url": "https://open.spotify.com/track/3KZyt06EPdbV8mv5hAbGJj"
+    },
+    {
+      "album": {
+        "name": "Big Dumb",
+        "url": "https://open.spotify.com/album/02uXRICTVNujYsusm0LQIT"
+      },
+      "artists": [
+        {
+          "name": "Steel Beans",
+          "url": "https://open.spotify.com/artist/5oWONdpBAddO3mxZfYwiyh"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148373,
+      "name": "Big Dumb",
+      "url": "https://open.spotify.com/track/5FKBPPm9ygxRuzlQhZeVdp"
     },
     {
       "album": {
@@ -992,7 +1010,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 156721,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
@@ -1160,6 +1178,24 @@
       "duration_ms": 153103,
       "name": "Bread",
       "url": "https://open.spotify.com/track/5pmPXqsgYiI3OJiatlQM2F"
+    },
+    {
+      "album": {
+        "name": "Chrysalis",
+        "url": "https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB"
+      },
+      "artists": [
+        {
+          "name": "Borderline",
+          "url": "https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto"
     },
     {
       "album": {
@@ -1363,6 +1399,28 @@
     },
     {
       "album": {
+        "name": "Cartel Music",
+        "url": "https://open.spotify.com/album/2XCi8NHYQNLfS2MzAUiuEA"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225708,
+      "name": "Cartel Music",
+      "url": "https://open.spotify.com/track/1BQYoHVHCGNZulLyj7yIEP"
+    },
+    {
+      "album": {
         "name": "Case Dismissed",
         "url": "https://open.spotify.com/album/50VcqInrcl5ZBuJlKPOnjX"
       },
@@ -1486,7 +1544,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 201142,
       "name": "Cheat On You",
       "url": "https://open.spotify.com/track/5eEujB7GCM34vovJBGCU50"
@@ -1606,7 +1664,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 144207,
       "name": "CLOWN",
       "url": "https://open.spotify.com/track/6vnXQP1E6o5237ATLpVok2"
@@ -3205,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "Great Day",
+        "url": "https://open.spotify.com/album/6p4H6WRMTy3Er71hZNkase"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156277,
+      "name": "Great Day",
+      "url": "https://open.spotify.com/track/7zGjLN0J7xotEWjri2cqb3"
+    },
+    {
+      "album": {
         "name": "Green Carpet",
         "url": "https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef"
       },
@@ -3336,7 +3412,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 163555,
       "name": "Hayati",
       "url": "https://open.spotify.com/track/54HtI83PaBOeryGkTSMcWo"
@@ -3354,7 +3430,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 110455,
       "name": "HEADLOCK",
       "url": "https://open.spotify.com/track/1V5Pejj26T1HSoJG0UYcjN"
@@ -4016,7 +4092,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 168986,
       "name": "Intro",
       "url": "https://open.spotify.com/track/21uC5eFJ04gQsfArwCJEr0"
@@ -4544,7 +4620,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 146928,
       "name": "Lit Bitch Shit",
       "url": "https://open.spotify.com/track/11yC4PE507xsPTGuF3L0rL"
@@ -5071,6 +5147,24 @@
     },
     {
       "album": {
+        "name": "Michigander",
+        "url": "https://open.spotify.com/album/5eQFojsgPYDEmI9RRMXCy7"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215225,
+      "name": "Michigander",
+      "url": "https://open.spotify.com/track/4pCxraYjIRBL2y0scZQYzj"
+    },
+    {
+      "album": {
         "name": "Carbon",
         "url": "https://open.spotify.com/album/1Vju5A1U8srP9uV3RXkigs"
       },
@@ -5090,7 +5184,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 258876,
       "name": "Million Bags Sold (feat. OHGEESY)",
       "url": "https://open.spotify.com/track/4OX6q2Gy1BxxpjWn4wX1Qg"
@@ -5108,7 +5202,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 124918,
       "name": "Mind",
       "url": "https://open.spotify.com/track/1OekV80ySFNwfXFEk8oGlV"
@@ -5358,6 +5452,28 @@
       "duration_ms": 167833,
       "name": "NEVER FORGET",
       "url": "https://open.spotify.com/track/62CU1w9TV2VTKfpmgCBzTX"
+    },
+    {
+      "album": {
+        "name": "Newly",
+        "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177828,
+      "name": "Newly",
+      "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
     },
     {
       "album": {
@@ -5714,7 +5830,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 95147,
       "name": "OverTh!nking",
       "url": "https://open.spotify.com/track/0HhzQxtC4tF558LQINYrsK"
@@ -5740,7 +5856,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 134579,
       "name": "Pain Me (feat. Fireboy DML & Pheelz)",
       "url": "https://open.spotify.com/track/1uIl8ZVe1Hecp5KK54v43Q"
@@ -5780,7 +5896,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 185142,
       "name": "Pasadena",
       "url": "https://open.spotify.com/track/2CKc4I4n850Cy7H2lXRKJd"
@@ -5954,7 +6070,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 166286,
       "name": "Police",
       "url": "https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi"
@@ -6547,6 +6663,32 @@
     },
     {
       "album": {
+        "name": "RENO (ALL IN)",
+        "url": "https://open.spotify.com/album/6xx3OFM5pcN9orjxumOoKG"
+      },
+      "artists": [
+        {
+          "name": "Red Leather",
+          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        },
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232498,
+      "name": "SINS (with Sueco & WesGhost)",
+      "url": "https://open.spotify.com/track/4Uz0FQiuSILrxnDHRcoqun"
+    },
+    {
+      "album": {
         "name": "Like Mike",
         "url": "https://open.spotify.com/album/2TJvFyKAK2KvKFs55krL8D"
       },
@@ -6812,7 +6954,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 150173,
       "name": "Still Mackin",
       "url": "https://open.spotify.com/track/6XX4qMCPFOaYnQoDskW3My"
@@ -7208,7 +7350,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 194823,
       "name": "THE LAST TIME",
       "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
@@ -8036,7 +8178,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 253369,
       "name": "Who Do You See? (feat. HeyKujo, NandoSTL, Tietta & Hokage Simon)",
       "url": "https://open.spotify.com/track/7ahQ7mtei7C9jOSHv6RJVX"

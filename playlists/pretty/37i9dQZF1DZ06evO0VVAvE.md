@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,003 likes - 45 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,014 likes - 45 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 44 | [Basic](https://open.spotify.com/track/46d3smHJFMcz3RbANz19nS) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 4:38 |
 | 45 | [Give Me No Stress \(GMNS\)](https://open.spotify.com/track/2Kzc2qnO9wKvMoDuSHkL5W) | [Jayfred](https://open.spotify.com/artist/1bnbgn11Ow9KZiL0AYiA9R), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Give Me No Stress 2.0](https://open.spotify.com/album/49VGlMgyFKCHuqexCt480e) | 2:50 |
 
-Snapshot ID: `aHrgAAAAAAAiHSj+OLmsWHCyQH/2vPzT`
+Snapshot ID: `aHwxgAAAAACBT9EGiBm9RqOlFk5krtnh`

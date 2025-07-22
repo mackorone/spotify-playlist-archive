@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 521243,
+  "num_followers": 521338,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHrgAAAAAAAh7J10E7v7NL9n7UKSFXu3",
+  "snapshot_id": "aHwxgAAAAABLrdfdoK+s2PoSAFB/xQxC",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 352426,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n"
+      "duration_ms": 480706,
+      "name": "A Little Piece of Heaven",
+      "url": "https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 480706,
-      "name": "A Little Piece of Heaven",
-      "url": "https://open.spotify.com/track/1BLfQ6dPXmuDrFmbdfW7Jl"
+      "duration_ms": 352426,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds in the Rough",
-        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+        "name": "Sounding The Seventh Trumpet",
+        "url": "https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 285613,
-      "name": "Until the End",
-      "url": "https://open.spotify.com/track/5NJTJElk0ArSxQtYjA0rYR"
+      "duration_ms": 259800,
+      "name": "Warmness On The Soul",
+      "url": "https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounding The Seventh Trumpet",
-        "url": "https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q"
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 259800,
-      "name": "Warmness On The Soul",
-      "url": "https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ"
+      "duration_ms": 285613,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/5NJTJElk0ArSxQtYjA0rYR"
     },
     {
       "added_at": null,

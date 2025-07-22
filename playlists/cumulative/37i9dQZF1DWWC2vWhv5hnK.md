@@ -4,7 +4,7 @@
 
 > Enjoy music from "Kaiju No\. 8"! ©防衛隊第３部隊 ©松本直也／集英社
 
-109 songs - 11 hr 32 min
+111 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,11 +65,13 @@
 | [The Funeral](https://open.spotify.com/track/5Sq61mGiOGW0GxgnFNR1MF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/3Hthv2JVzYaWq0TyElU5lF) | 3:30 | 2024-03-13 | 2024-04-29 |
 | [Theme of Defense Force](https://open.spotify.com/track/0I6EpuPmnDx2sOtw1SVUVa) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Kaiju No\. 8 \(Music from the Original TV Series\) \-Pre Release\-](https://open.spotify.com/album/6BVYfacGIwCxVea0sdBWtc) | 0:43 | 2024-04-04 | 2024-04-19 |
 | [Theme of Kaiju No\. 8](https://open.spotify.com/track/3JjtWlEbP63uFl0U8lfuKE) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Kaiju No\. 8 \(Music from the Original TV Series\) \-Pre Release\-](https://open.spotify.com/album/6BVYfacGIwCxVea0sdBWtc) | 1:30 | 2024-04-04 | 2024-04-19 |
+| [Theme of NARUMI](https://open.spotify.com/track/2NIaUAGYQjHVBBpEQdC7EM) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [Original Soundtrack Vol\. 0 from "Kaiju No\. 8" 2nd](https://open.spotify.com/album/0Q0LHzqkgMdmzNdIbCmFwd) | 2:58 | 2025-07-21 |  |
 | [Tissues](https://open.spotify.com/track/2xlcFmrwMEOzhRFQtUG2cG) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/3Hthv2JVzYaWq0TyElU5lF) | 3:35 | 2024-03-13 | 2024-04-29 |
 | [TRANCE \- Polyclock etude \[Bricolage ii\]](https://open.spotify.com/track/7hnmW9Suqz45duFQxxoxp8) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [TRANCE](https://open.spotify.com/album/2u6e6dfDkTtTDmcFFHfY86) | 3:00 | 2024-03-13 | 2024-04-29 |
 | [TVアニメ「怪獣8号」カフカ＆レノ スペシャルメッセージ！](https://open.spotify.com/track/6wSfWLkJjXpHCUF7hB59iY) | [怪獣8号](https://open.spotify.com/artist/1QvSxr0HMAEsQP7yeClNDX) | [TVアニメ「怪獣8号」カフカ＆レノ スペシャルメッセージ！](https://open.spotify.com/album/5xTbBQ8SzY3QrpPpFVSJU1) | 1:01 | 2024-04-04 |  |
 | [Warcry](https://open.spotify.com/track/20jERmgNHzHsgMEod5krUg) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [THE KAIJU BAND](https://open.spotify.com/artist/7fKZU7edSQKr0OmV9LOhED), [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Warcry](https://open.spotify.com/album/3NzsiDe5i8vsyePy7Zq7Ci) | 2:11 | 2024-05-25 |  |
 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 | 2024-03-13 | 2024-04-29 |
+| [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 | 2025-07-21 |  |
 | [YUNGBLUDからのスペシャル・メッセージ！](https://open.spotify.com/track/7M7ziwV5ktvBdZi7ftP9KN) | [怪獣8号](https://open.spotify.com/artist/1QvSxr0HMAEsQP7yeClNDX) | [YUNGBLUDからのスペシャル・メッセージ！](https://open.spotify.com/album/0wQYA7kT0lYB5J2xIkOGco) | 0:18 | 2024-04-04 | 2025-04-04 |
 | [【第１期総集編①】MCカフカ役福西さん×レノ役加藤さん×保科役河西さん「亜白隊長の座は譲らへんぞ」](https://open.spotify.com/episode/6PK1IvqPkLkzise11Zlmv8) | [アニメ『怪獣8号』ポッドキャスト大討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣8号』ポッドキャスト大討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 55:14 | 2025-04-03 |  |
 | [ふたりの夢](https://open.spotify.com/track/4XIeSksRyenHjIsBeKGia3) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [「怪獣8号」オリジナル・サウンドトラック](https://open.spotify.com/album/4r7MuwiXbYJpPJT61bB5Pc) | 0:44 | 2024-06-25 |  |

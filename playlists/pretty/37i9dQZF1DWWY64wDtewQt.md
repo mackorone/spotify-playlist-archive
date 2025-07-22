@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,375,492 likes - 100 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,380,621 likes - 100 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 78 | [Faz de Chicote](https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0) | [Lyu](https://open.spotify.com/artist/56zHTpLLVZ6otn4eInVwJf), [ITALO SENA](https://open.spotify.com/artist/1YVpgYKow2RgW5ZDLmApGf), [DJ PBeats](https://open.spotify.com/artist/6tQDQivRhULyEMBCneS7f9), [VYRUS](https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f) | [Faz de Chicote](https://open.spotify.com/album/2cuIEt1nONL2bu9HnSXjVT) | 2:30 |
 | 79 | [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 |
 | 80 | [NUNCA MUDA?](https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H) | [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL) | [NUNCA MUDA?](https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2) | 1:21 |
-| 81 | [Montagem Lunar Celestia 1.0 \(SLOWED\)](https://open.spotify.com/track/7IVstMaDl2HaByG8JmR2yr) | [TOKYOPHILE](https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n) | [Montagem Lunar Celestia 1.0 \(SLOWED\)](https://open.spotify.com/album/5tod76GzFMGREffztRiLyJ) | 1:36 |
+| 81 | [Montagem Lunar Celestia 1.0 \(SLOWED\)](https://open.spotify.com/track/7IVstMaDl2HaByG8JmR2yr) | [TOKYOPHILE](https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n) | [Montagem Lunar Celestia 1.0 \(SLOWED\)](https://open.spotify.com/album/5tod76GzFMGREffztRiLyJ) | 1:37 |
 | 82 | [MONTAGEM RELACIONISTA JUDICIAL RKT \- Super Slowed](https://open.spotify.com/track/3MPNlK986yp4QOFBChLeEJ) | [DJ Raulipues](https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG), [DJ SILVER ZN](https://open.spotify.com/artist/5Tw17pvNrZXqQdR9mS2iwf), [DJ MZK 07](https://open.spotify.com/artist/1gmTz8LJrWE1de6mXsmOnT) | [MONTAGEM RELACIONISTA JUDICIAL RKT](https://open.spotify.com/album/3LU0DRjeMAUlGV4vGEyCdS) | 1:11 |
 | 83 | [Turu R9 \- Slowed](https://open.spotify.com/track/4aMdNP3vuboq7t8BPZ4rE1) | [DJ Ikeraus](https://open.spotify.com/artist/21zPGluD0MD68ctSgkuMXi), [MC FERNANDINHO FN](https://open.spotify.com/artist/5lfW7OqzTLDhvIcHFpxFDB) | [Turu R9](https://open.spotify.com/album/7cNqBJdXx8dgoXegihUPVN) | 1:18 |
 | 84 | [Sleepwalker](https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Ketamine Girl](https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2) | 3:32 |

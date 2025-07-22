@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Always Here",
+        "url": "https://open.spotify.com/album/5VxZmHbOyCDWCqNu1we5li"
+      },
+      "artists": [
+        {
+          "name": "HYUN JI",
+          "url": "https://open.spotify.com/artist/7GE6yEpYcaLM3nRJ2P4MXR"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192142,
+      "name": "Always Here",
+      "url": "https://open.spotify.com/track/1bpA1qiYGJC4APWStEK15Z"
+    },
+    {
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/1D0L4Yzg3kO2hiFwMwWHjk"
       },
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 211456,
       "name": "Free Giveaway",
       "url": "https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi"
@@ -1861,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Leaf",
+        "url": "https://open.spotify.com/album/36vf6NiaNlPAHiSseA1Ven"
+      },
+      "artists": [
+        {
+          "name": "JIYE",
+          "url": "https://open.spotify.com/artist/4JlouH5mKVum9f0eaQuUzC"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130106,
+      "name": "Leaf",
+      "url": "https://open.spotify.com/track/1mExGMmQduYmTwtPPvJcvL"
+    },
+    {
+      "album": {
         "name": "Leave like this",
         "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
       },
@@ -2042,6 +2078,24 @@
       "duration_ms": 236000,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/4SaKKiDTgFIJvoeG1mjlgf"
+    },
+    {
+      "album": {
+        "name": "love song",
+        "url": "https://open.spotify.com/album/41Y7higNhLOOYPWpZrwiBt"
+      },
+      "artists": [
+        {
+          "name": "Lee Yerin",
+          "url": "https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203658,
+      "name": "love song",
+      "url": "https://open.spotify.com/track/6LpIdLiPfHiags34QpERV6"
     },
     {
       "album": {
@@ -4014,7 +4068,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 265459,
       "name": "You don't have to say anything (I already know)",
       "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
@@ -4216,7 +4270,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 180638,
       "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
       "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"

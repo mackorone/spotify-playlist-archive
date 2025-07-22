@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 34906,
+  "num_followers": 34956,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHrgAAAAAACRBZXU/gvqZ+B1AxlQNquw",
+  "snapshot_id": "aHwxgAAAAADOQ/ZnUwLCj9w/87jkKs2+",
   "tracks": [
     {
       "added_at": null,
@@ -72,13 +72,21 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         },
         {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
         }
       ],
-      "duration_ms": 211756,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
+      "duration_ms": 248832,
+      "name": "99 (feat. Daecolm)",
+      "url": "https://open.spotify.com/track/5GkkuEEPtYguzhTdCpS8Ab"
     },
     {
       "added_at": null,
@@ -152,21 +160,13 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         },
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
         }
       ],
-      "duration_ms": 248832,
-      "name": "99 (feat. Daecolm)",
-      "url": "https://open.spotify.com/track/5GkkuEEPtYguzhTdCpS8Ab"
+      "duration_ms": 211756,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
     },
     {
       "added_at": null,
@@ -663,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rafat",
+        "url": "https://open.spotify.com/album/6nq4Mk4fA0JIlh8Kh1ZG8X"
+      },
+      "artists": [
+        {
+          "name": "Lyta",
+          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 120032,
+      "name": "Different Conversation Live 4",
+      "url": "https://open.spotify.com/track/1jPCWBlCOv5ltcQ9NvzoGJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On God",
         "url": "https://open.spotify.com/album/56Xxuu8DJEqE4Pl0UpevSn"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 175862,
       "name": "On God",
       "url": "https://open.spotify.com/track/5MK0laOw0gGrdzejgs2viA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rafat",
-        "url": "https://open.spotify.com/album/6nq4Mk4fA0JIlh8Kh1ZG8X"
-      },
-      "artists": [
-        {
-          "name": "Lyta",
-          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 120032,
-      "name": "Different Conversation Live 4",
-      "url": "https://open.spotify.com/track/1jPCWBlCOv5ltcQ9NvzoGJ"
     },
     {
       "added_at": null,

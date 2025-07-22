@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 
 > Floor fillers and big streamers of 2012.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,175 likes - 64 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,233 likes - 64 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 | 59 | [Inspector Norse](https://open.spotify.com/track/2pucDx5Wyz9uHCou4wntHa) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/68zh8sbZPMeJb7GnqomRJS) | 6:40 |
 | 60 | [Turn Up The Love](https://open.spotify.com/track/4HQ9gXAtONKs8NCM0MFUTu) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Cover Drive](https://open.spotify.com/artist/4jbcqKzc4Wuy6MivHhzPrP) | [Dirty Bass \(Spotify International Version\)](https://open.spotify.com/album/7L4wBF41PvzPCQbPoXNfPs) | 3:15 |
 | 61 | [Mammoth \- Radio Edit](https://open.spotify.com/track/1fG3qsNKRnbBji58Rb5SW8) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Mammoth](https://open.spotify.com/album/2NDNED2v0MRMcHsaMiAWWw) | 2:40 |
-| 62 | [Love Is All I Got](https://open.spotify.com/track/1LuFyappyEFGybt2qzLNDp) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Calamari Tuesday](https://open.spotify.com/album/0MxnDPoKo4ohNSdnuZpIxg) | 3:05 |
-| 63 | [Year of Summer \(feat\. Niels Geusebroek\) \- Radio Edit](https://open.spotify.com/track/1YT4DY3Xs9HdjBYa5PAwLu) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Year Of Summer \(feat\. Niels Geusebroek\)](https://open.spotify.com/album/1xqz1cQjTjKBxg2j14zE5U) | 2:54 |
+| 62 | [Year of Summer \(feat\. Niels Geusebroek\) \- Radio Edit](https://open.spotify.com/track/1YT4DY3Xs9HdjBYa5PAwLu) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Year Of Summer \(feat\. Niels Geusebroek\)](https://open.spotify.com/album/1xqz1cQjTjKBxg2j14zE5U) | 2:54 |
+| 63 | [Love Is All I Got](https://open.spotify.com/track/1LuFyappyEFGybt2qzLNDp) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Calamari Tuesday](https://open.spotify.com/album/0MxnDPoKo4ohNSdnuZpIxg) | 3:05 |
 | 64 | [Drinking from the Bottle \(feat\. Tinie Tempah\)](https://open.spotify.com/track/1oHxIPqJyvAYHy0PVrDU98) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 4:00 |
 
 Snapshot ID: `ZnL/HAAAAAACNGflBq0rSecu1cNJ8KBv`

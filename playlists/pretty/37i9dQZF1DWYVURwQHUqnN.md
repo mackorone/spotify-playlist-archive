@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Jul x GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,152,020 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,152,194 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 49 | [Encore](https://open.spotify.com/track/6PtEl8o29CKmas1A0EyEXj) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Encore](https://open.spotify.com/album/6QhAzOI61F4fVQjvNOSkvQ) | 2:16 |
 | 50 | [Static](https://open.spotify.com/track/69H71YZAGEHsCxjIyEsbng) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [LDDLF \(Part.1\)](https://open.spotify.com/album/4kDsECMvEy4yjdU4feK6XU) | 2:43 |
 
-Snapshot ID: `aHlyewAAAADyJyFKd3vqmLNtcy4VKUwk`
+Snapshot ID: `aH4N3QAAAAAks5guH9UfPQ6EybIRE119`

@@ -1765,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "Either",
+        "url": "https://open.spotify.com/album/7m0ZMDJ3lqepjUQJ2KpwsQ"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190630,
+      "name": "Either",
+      "url": "https://open.spotify.com/track/2eXRgdwREO1B8jt5k2n2cW"
+    },
+    {
+      "album": {
         "name": "Electra",
         "url": "https://open.spotify.com/album/5l4aX9riElSOn2e7Qw9lzf"
       },
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 279429,
       "name": "Hope",
       "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"

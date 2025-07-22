@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Claudia Bouvette",
-  "num_followers": 45586,
+  "num_followers": 45582,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -183,26 +183,6 @@
     {
       "added_at": "2025-07-18 04:00:26",
       "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp"
-    },
-    {
-      "added_at": "2025-07-18 04:00:26",
-      "album": {
         "name": "KAT (feat. La Rvfleuze)",
         "url": "https://open.spotify.com/album/3gol36dUqCHz90vFEUnTe8"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 149577,
       "name": "KAT (feat. La Rvfleuze)",
       "url": "https://open.spotify.com/track/4ccQmkote4B1zBjhk9sxFH"
+    },
+    {
+      "added_at": "2025-07-18 04:00:26",
+      "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp"
     },
     {
       "added_at": "2025-07-18 04:00:26",
@@ -523,6 +523,26 @@
     {
       "added_at": "2025-07-18 04:00:26",
       "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/5kC8331Mp6YWnB7oHQWtXL"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/5GU81R3iKvSHkBVQj1KzaV"
+    },
+    {
+      "added_at": "2025-07-18 04:00:26",
+      "album": {
         "name": "A TI",
         "url": "https://open.spotify.com/album/1ag9N6fc6EmxG7EPlasQl2"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 126191,
       "name": "Tout g\u00e2cher",
       "url": "https://open.spotify.com/track/2CvcJUV3IRsCZd59WOEgok"
-    },
-    {
-      "added_at": "2025-07-18 04:00:26",
-      "album": {
-        "name": "Corazon",
-        "url": "https://open.spotify.com/album/5kC8331Mp6YWnB7oHQWtXL"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/5GU81R3iKvSHkBVQj1KzaV"
     },
     {
       "added_at": "2025-07-18 04:00:26",
@@ -831,6 +831,38 @@
     {
       "added_at": "2025-07-18 04:00:26",
       "album": {
+        "name": "Extraordinaire",
+        "url": "https://open.spotify.com/album/3HUtRAjScaxmTU6X820v3H"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 165866,
+      "name": "Extraordinaire",
+      "url": "https://open.spotify.com/track/5EAX0NgJp50yTrI1WtqUFt"
+    },
+    {
+      "added_at": "2025-07-18 04:00:26",
+      "album": {
+        "name": "ton ventre",
+        "url": "https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV"
+      },
+      "artists": [
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "duration_ms": 175218,
+      "name": "ton ventre",
+      "url": "https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM"
+    },
+    {
+      "added_at": "2025-07-18 04:00:26",
+      "album": {
         "name": "FARA FARA GANG - BDLM EXTENSION",
         "url": "https://open.spotify.com/album/08Dg7XUvVPa8a2FA6lGcY7"
       },
@@ -875,38 +907,6 @@
     {
       "added_at": "2025-07-18 04:00:26",
       "album": {
-        "name": "Extraordinaire",
-        "url": "https://open.spotify.com/album/3HUtRAjScaxmTU6X820v3H"
-      },
-      "artists": [
-        {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 165866,
-      "name": "Extraordinaire",
-      "url": "https://open.spotify.com/track/5EAX0NgJp50yTrI1WtqUFt"
-    },
-    {
-      "added_at": "2025-07-18 04:00:26",
-      "album": {
-        "name": "ton ventre",
-        "url": "https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV"
-      },
-      "artists": [
-        {
-          "name": "disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        }
-      ],
-      "duration_ms": 175218,
-      "name": "ton ventre",
-      "url": "https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM"
-    },
-    {
-      "added_at": "2025-07-18 04:00:26",
-      "album": {
         "name": "Tant qu'on est toi et moi",
         "url": "https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T"
       },
@@ -923,18 +923,18 @@
     {
       "added_at": "2025-07-18 04:00:26",
       "album": {
-        "name": "Promets-le moi",
-        "url": "https://open.spotify.com/album/13PQIDhNGreKQSuzQeFkpX"
+        "name": "Ghali",
+        "url": "https://open.spotify.com/album/4DuoVUAMYxE0j5ENAOJGqd"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Wejdene",
+          "url": "https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk"
         }
       ],
-      "duration_ms": 163145,
-      "name": "Promets-le moi",
-      "url": "https://open.spotify.com/track/1R7yYdJULFqxC4L8PDXvRS"
+      "duration_ms": 190700,
+      "name": "Ghali",
+      "url": "https://open.spotify.com/track/7JRPmK4es5vDupP8H3xjRX"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

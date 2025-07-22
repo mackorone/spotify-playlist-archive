@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Just Married",
-  "num_followers": 63697,
+  "num_followers": 63701,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHnujwAAAAChjj3quUhaWXh8ZP9Yki2J",
+  "snapshot_id": "aH3dIQAAAAByuvN6mGqGRCFQNrzIjXMg",
   "tracks": [
     {
       "added_at": "2025-07-17 10:05:52",
@@ -101,6 +101,30 @@
       "url": "https://open.spotify.com/track/2YeK8AOFztFcfpCdMUnwFR"
     },
     {
+      "added_at": "2025-07-21 06:24:33",
+      "album": {
+        "name": "Ju Ju Junior (From \"Junior\")(Kannada)",
+        "url": "https://open.spotify.com/album/3MiQ50H7KwYbW270TUqGQt"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Pavan Bhat",
+          "url": "https://open.spotify.com/artist/5LrMAdiDw5Z1vv0J8Ik42T"
+        }
+      ],
+      "duration_ms": 195860,
+      "name": "Ju Ju Junior (From \"Junior\")(Kannada)",
+      "url": "https://open.spotify.com/track/0w08Cx8fInVigAzQrcG81T"
+    },
+    {
       "added_at": "2025-07-18 06:49:51",
       "album": {
         "name": "Kuberaa (Kannada)",
@@ -147,6 +171,30 @@
       "duration_ms": 227898,
       "name": "Arerere (From \"Jotheyagi Hithavagi\")",
       "url": "https://open.spotify.com/track/7rYS2SMnoBxTgjdYaPBGfd"
+    },
+    {
+      "added_at": "2025-07-21 06:22:56",
+      "album": {
+        "name": "Huli, Meke - Aata (From \"Hari Hara Veera Mallu\") [Kannada]",
+        "url": "https://open.spotify.com/album/71PtOfdMOV7XAnHgcv4Rji"
+      },
+      "artists": [
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Harika Narayan",
+          "url": "https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 177407,
+      "name": "Huli, Meke - Aata (From \"Hari Hara Veera Mallu\") [Kannada]",
+      "url": "https://open.spotify.com/track/0e6W5QGZK9vElL0sEiePgy"
     },
     {
       "added_at": "2025-07-17 10:31:16",
@@ -1037,26 +1085,6 @@
       "url": "https://open.spotify.com/track/1cgxPIfb6AfHbwvg91c8PT"
     },
     {
-      "added_at": "2025-05-26 06:03:31",
-      "album": {
-        "name": "Nam College Kalavidano (From \"College Kalaavida\")",
-        "url": "https://open.spotify.com/album/4QWaEzIOafOHqYQ9pUrG61"
-      },
-      "artists": [
-        {
-          "name": "Suraj Jois",
-          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
-        },
-        {
-          "name": "Sanjay Malavalli",
-          "url": "https://open.spotify.com/artist/1EOdakhpMogeWUoRiTN2ye"
-        }
-      ],
-      "duration_ms": 222174,
-      "name": "Nam College Kalavidano (From \"College Kalaavida\")",
-      "url": "https://open.spotify.com/track/6x8kncAWtnmlqGAYldMErd"
-    },
-    {
       "added_at": "2025-05-23 06:51:50",
       "album": {
         "name": "Asura Hananam (From \"Hari Hara Veera Mallu\") [Kannada]",
@@ -1219,26 +1247,6 @@
       "duration_ms": 213526,
       "name": "Hontaithu Hammeera (From \"College Kalaavida\")",
       "url": "https://open.spotify.com/track/1BxqsLUsJB8n7k6EFzJURt"
-    },
-    {
-      "added_at": "2025-04-16 07:37:42",
-      "album": {
-        "name": "Preethi Pajeethi (From\"Congratulations Brother\")",
-        "url": "https://open.spotify.com/album/4JVaU8mnEMBB8PMCbL8HhD"
-      },
-      "artists": [
-        {
-          "name": "Dhruva",
-          "url": "https://open.spotify.com/artist/2b2rmFqY10ifkVVnVsCpBB"
-        },
-        {
-          "name": "Rakshith Nag",
-          "url": "https://open.spotify.com/artist/52muDmn1S06OB3sF2byRXH"
-        }
-      ],
-      "duration_ms": 195620,
-      "name": "Preethi Pajeethi (From\"Congratulations Brother\")",
-      "url": "https://open.spotify.com/track/5NafTv0QZjZhcnf5GUNGhr"
     }
   ],
   "unique_name": "Latest Kannada",

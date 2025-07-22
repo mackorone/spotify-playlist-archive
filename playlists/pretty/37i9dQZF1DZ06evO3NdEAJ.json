@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 51063,
+  "num_followers": 51080,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHrgAAAAAACHPBMaS7ImIjPtbaicrLWs",
+  "snapshot_id": "aHwxgAAAAAAQEseLU/eCk0dBmIZ4t2s8",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/7J6dh2qFQuRPYinWwVj2Q9"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/7pFVbw3r0q4NEQ3RtpdG0A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Otro Canal",
         "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 228863,
       "name": "A Decir Verdad",
       "url": "https://open.spotify.com/track/6YYroAXcnuMR0PqfRkFTch"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/7J6dh2qFQuRPYinWwVj2Q9"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/7pFVbw3r0q4NEQ3RtpdG0A"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Te Am\u00e9",
-        "url": "https://open.spotify.com/album/2b6qnwUwY9qjrss0YucU1O"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 242606,
-      "name": "Cuando Te Am\u00e9",
-      "url": "https://open.spotify.com/track/6alHQAMsFdfVqKn7eO8nYF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/69uof5JlfcjKcxNewJVI9P"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 203466,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/7u9sBmRyQrKdewaT4YxHtm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Te Am\u00e9",
+        "url": "https://open.spotify.com/album/2b6qnwUwY9qjrss0YucU1O"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 242606,
+      "name": "Cuando Te Am\u00e9",
+      "url": "https://open.spotify.com/track/6alHQAMsFdfVqKn7eO8nYF"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chingo de Amor",
-        "url": "https://open.spotify.com/album/6glfaHT2lzjxA8YVxnDmDU"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 174645,
-      "name": "Chingo de Amor",
-      "url": "https://open.spotify.com/track/79A8I68DjHJWyIsPdxf5F2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Otro Canal",
         "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 194247,
       "name": "Basta",
       "url": "https://open.spotify.com/track/7G9Z2p9GUo86ssw05dRRYH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chingo de Amor",
+        "url": "https://open.spotify.com/album/6glfaHT2lzjxA8YVxnDmDU"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 174645,
+      "name": "Chingo de Amor",
+      "url": "https://open.spotify.com/track/79A8I68DjHJWyIsPdxf5F2"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retro & Hits",
-        "url": "https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 160568,
-      "name": "No Me Doy por Vencido",
-      "url": "https://open.spotify.com/track/0vtTt7I6lz39voTqajJ7qi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Novena Maravilla",
         "url": "https://open.spotify.com/album/6Tfu5rYl1kXCKtTdEKstfO"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 166314,
       "name": "La Novena Maravilla",
       "url": "https://open.spotify.com/track/2FCD94ziDenugcxQ3ROu3e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retro & Hits",
+        "url": "https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 160568,
+      "name": "No Me Doy por Vencido",
+      "url": "https://open.spotify.com/track/0vtTt7I6lz39voTqajJ7qi"
     },
     {
       "added_at": null,

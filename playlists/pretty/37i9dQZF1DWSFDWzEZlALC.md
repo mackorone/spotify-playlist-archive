@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: verifiziert
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,231 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,283 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [blonded radio](https://open.spotify.com/track/3IOmPZ1vcncCHZKUTxKVFX) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [blonded radio](https://open.spotify.com/album/1Ad5Lvdxh1Zt68BZZksIIp) | 2:47 |
-| 2 | [einszweidreivier](https://open.spotify.com/track/0wuyRLsJyS6a5dYhyEck49) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [einszweidreivier](https://open.spotify.com/album/7JXDU6SQb1i7K4mDDvPHOJ) | 2:18 |
-| 3 | [Bitte sei vorsichtig](https://open.spotify.com/track/20B2I2t11yceg5v6CSdF2C) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Bitte sei vorsichtig](https://open.spotify.com/album/2kTU5wPrLFTHoVP7Q1zP0C) | 2:36 |
-| 4 | [Capri Sonne](https://open.spotify.com/track/5biCRSNDhZvHSuLosdlJm5) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Capri Sonne](https://open.spotify.com/album/6Lc47SBTfL7P471YXTyD3s) | 3:12 |
-| 5 | [Autopilot](https://open.spotify.com/track/5cP6xOgTrbqzG8DNMTyG2x) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Autopilot](https://open.spotify.com/album/7kKmN36e3lVev0XRVpnJEW) | 2:27 |
+| 2 | [Bitte sei vorsichtig](https://open.spotify.com/track/20B2I2t11yceg5v6CSdF2C) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Bitte sei vorsichtig](https://open.spotify.com/album/2kTU5wPrLFTHoVP7Q1zP0C) | 2:36 |
+| 3 | [Capri Sonne](https://open.spotify.com/track/5biCRSNDhZvHSuLosdlJm5) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Capri Sonne](https://open.spotify.com/album/6Lc47SBTfL7P471YXTyD3s) | 3:12 |
+| 4 | [einszweidreivier](https://open.spotify.com/track/0wuyRLsJyS6a5dYhyEck49) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [einszweidreivier](https://open.spotify.com/album/7JXDU6SQb1i7K4mDDvPHOJ) | 2:18 |
+| 5 | [lieder für mich](https://open.spotify.com/track/3LNj4hrELd4NcX1C7NpaLB) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [lieder für mich](https://open.spotify.com/album/6rdmFRBVdS5wxFCgXuns2k) | 3:28 |
 | 6 | [2 Teile](https://open.spotify.com/track/02xssYg4dSe6YUBzyPai4B) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [2 Teile](https://open.spotify.com/album/7Dp26d94eVaqz8uRWmjhqw) | 2:57 |
-| 7 | [Sonne](https://open.spotify.com/track/2iXznbTVkAvD6Q7EpaHcVl) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Sonne](https://open.spotify.com/album/5w9aiyzX6MSTDwkZV0rJAL) | 3:03 |
-| 8 | [lieder für mich](https://open.spotify.com/track/3LNj4hrELd4NcX1C7NpaLB) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [lieder für mich](https://open.spotify.com/album/6rdmFRBVdS5wxFCgXuns2k) | 3:28 |
-| 9 | [frieden](https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [frieden](https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku) | 2:45 |
-| 10 | [Manchmal](https://open.spotify.com/track/5EyaNjaGLRK56ZUqs49bGL) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Manchmal](https://open.spotify.com/album/7vqnXiRe6DXBdT6StAhicY) | 2:49 |
+| 7 | [brennnessel](https://open.spotify.com/track/5PLx5ek9KPIxOIzrxBZNd8) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [brennnessel](https://open.spotify.com/album/7xJ2pjEv7jAdNiwYTCO2Nv) | 2:43 |
+| 8 | [Autopilot](https://open.spotify.com/track/5cP6xOgTrbqzG8DNMTyG2x) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Autopilot](https://open.spotify.com/album/7kKmN36e3lVev0XRVpnJEW) | 2:27 |
+| 9 | [Sonne](https://open.spotify.com/track/2iXznbTVkAvD6Q7EpaHcVl) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Sonne](https://open.spotify.com/album/5w9aiyzX6MSTDwkZV0rJAL) | 3:03 |
+| 10 | [frieden](https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [frieden](https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku) | 2:45 |
 | 11 | [Sommersprossenzeit](https://open.spotify.com/track/3oMztnovVLeOS9NArSklLi) | [Strob](https://open.spotify.com/artist/0JP5ABLaBXOg8HFsxUoPzC), [zuender](https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW) | [Sommersprossenzeit](https://open.spotify.com/album/3XWpVEUSWlrMYtTb5MoYxx) | 2:25 |
-| 12 | [brennnessel](https://open.spotify.com/track/5PLx5ek9KPIxOIzrxBZNd8) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [brennnessel](https://open.spotify.com/album/7xJ2pjEv7jAdNiwYTCO2Nv) | 2:43 |
+| 12 | [Manchmal](https://open.spotify.com/track/5EyaNjaGLRK56ZUqs49bGL) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Manchmal](https://open.spotify.com/album/7vqnXiRe6DXBdT6StAhicY) | 2:49 |
 | 13 | [Frei](https://open.spotify.com/track/4BguFKjpssDGdARiq5vVmn) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Frei](https://open.spotify.com/album/0Rm9O8tSZrjRwr4SAfYXOr) | 2:19 |
 | 14 | [17\. Juli 1989](https://open.spotify.com/track/6S0TLeKgZ34PLBF7vbFcJP) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [17\. Juli 1989](https://open.spotify.com/album/0ZHm7VYPpiBva4CVQyjPeH) | 3:31 |
 | 15 | [Einfach sein](https://open.spotify.com/track/79ZfFZxU80HL49D6QdoaAU) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Einfach sein](https://open.spotify.com/album/0309n4dzi1kqWpZwXEabae) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [mkgee](https://open.spotify.com/track/4CEfrOIldUMFo9RblPpM95) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [mkgee](https://open.spotify.com/album/7DlnVM0rPlJTCA6elSbKgY) | 2:54 |
 | 75 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 |
 
-Snapshot ID: `aHn2FAAAAADdrh25rrhOoU2fcx7erjGq`
+Snapshot ID: `aH3xGAAAAACebtxtFKuJ4yyB5EoUJh6I`

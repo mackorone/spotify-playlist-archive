@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Le\-one in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,044 likes - 71 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,089 likes - 71 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NU PARL, NU SENT, NU VEC](https://open.spotify.com/track/6FtNSMSavhz0jPx0CzwG3q) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 2:14 |
-| 2 | [KSFA](https://open.spotify.com/track/53Ggzk6QHzzsIeJnoOsDNk) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [KSFA](https://open.spotify.com/album/2Qvg9yZAXZVUY90QR9gWQ4) | 2:40 |
-| 3 | [YAMAL](https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [YAMAL](https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg) | 2:07 |
+| 1 | [YAMAL](https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [YAMAL](https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg) | 2:07 |
+| 2 | [NU PARL, NU SENT, NU VEC](https://open.spotify.com/track/6FtNSMSavhz0jPx0CzwG3q) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 2:14 |
+| 3 | [KSFA](https://open.spotify.com/track/53Ggzk6QHzzsIeJnoOsDNk) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [KSFA](https://open.spotify.com/album/2Qvg9yZAXZVUY90QR9gWQ4) | 2:40 |
 | 4 | [Ginevra \(feat\. Geolier\)](https://open.spotify.com/track/311m4sWQq8MZZROimkSGF7) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:48 |
 | 5 | [PEZZI DA NOVANTA \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Frezza\)](https://open.spotify.com/track/5wxGfq3mQTlvYpON9F2wSu) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [WE THE SQUAD Vol.2](https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE) | 3:14 |
 | 6 | [GOTTI](https://open.spotify.com/track/6rN2wG1mw83UckLIdaiVcm) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [GOTTI](https://open.spotify.com/album/79dt9XYgzco3QEoYukK5pg) | 2:17 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 70 | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn) | 2:57 |
 | 71 | [CHICANA](https://open.spotify.com/track/7pNEXv5vLbkuryfXJkexp4) | [Scissione](https://open.spotify.com/artist/3XDzXmZ07l0WjSNQ3jzokX), [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [CHICANA](https://open.spotify.com/album/6BAJM2BvhM12nECOsHnUSR) | 2:29 |
 
-Snapshot ID: `aHlytgAAAABTJY9WGREKTDsKJQ4x1CA0`
+Snapshot ID: `aH4YfwAAAADrgs8BcKQA/K+dp/7o2f+V`

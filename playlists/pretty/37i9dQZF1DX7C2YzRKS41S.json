@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 140734,
+  "num_followers": 140779,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-07-19 01:15:15",
       "album": {
+        "name": "When The Wind Blows (Private Sessions)",
+        "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 244393,
+      "name": "When The Wind Blows - Private Sessions",
+      "url": "https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT"
+    },
+    {
+      "added_at": "2025-07-19 01:15:15",
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
       },
@@ -355,18 +371,22 @@
     {
       "added_at": "2025-07-19 01:15:15",
       "album": {
-        "name": "When The Wind Blows (Private Sessions)",
-        "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
+        "name": "Miragem",
+        "url": "https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
         }
       ],
-      "duration_ms": 244393,
-      "name": "When The Wind Blows - Private Sessions",
-      "url": "https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT"
+      "duration_ms": 213351,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT"
     },
     {
       "added_at": "2025-07-19 01:15:15",
@@ -387,26 +407,6 @@
       "duration_ms": 258720,
       "name": "Ai de Mim",
       "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
-    },
-    {
-      "added_at": "2025-07-19 01:15:15",
-      "album": {
-        "name": "Miragem",
-        "url": "https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 213351,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT"
     },
     {
       "added_at": "2025-07-19 01:15:15",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-07-19 01:15:15",
       "album": {
-        "name": "Viver de Carinho",
-        "url": "https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 148396,
-      "name": "Viver de Carinho",
-      "url": "https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V"
-    },
-    {
-      "added_at": "2025-07-19 01:15:15",
-      "album": {
         "name": "Leve",
         "url": "https://open.spotify.com/album/1FnlISBProVpJR4idoV4Ag"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2025-07-19 01:15:15",
       "album": {
-        "name": "deixa que eu j\u00e1 vou",
-        "url": "https://open.spotify.com/album/744yL93oUhidi5dTt32T7z"
+        "name": "Viver de Carinho",
+        "url": "https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm"
       },
       "artists": [
         {
-          "name": "Sim\u00e3o",
-          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
         }
       ],
-      "duration_ms": 198292,
-      "name": "deixa que eu j\u00e1 vou",
-      "url": "https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo"
+      "duration_ms": 148396,
+      "name": "Viver de Carinho",
+      "url": "https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V"
     },
     {
       "added_at": "2025-07-19 01:15:15",
@@ -703,6 +687,22 @@
       "duration_ms": 317560,
       "name": "We Deserve To Dream",
       "url": "https://open.spotify.com/track/4uxap3PpnxFo7BeNcXtEnq"
+    },
+    {
+      "added_at": "2025-07-19 01:15:15",
+      "album": {
+        "name": "deixa que eu j\u00e1 vou",
+        "url": "https://open.spotify.com/album/744yL93oUhidi5dTt32T7z"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00e3o",
+          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
+        }
+      ],
+      "duration_ms": 198292,
+      "name": "deixa que eu j\u00e1 vou",
+      "url": "https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo"
     },
     {
       "added_at": "2025-07-19 01:15:15",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-07-19 01:15:15",
       "album": {
-        "name": "Banda do Mar",
-        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
-      },
-      "artists": [
-        {
-          "name": "Banda do Mar",
-          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Seja Como For",
-      "url": "https://open.spotify.com/track/15Ii7uBNwsXEGza3umIZBH"
-    },
-    {
-      "added_at": "2025-07-19 01:15:15",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 161430,
       "name": "Ventos do Norte",
       "url": "https://open.spotify.com/track/3gb0YLxvukLud99JAvymKw"
+    },
+    {
+      "added_at": "2025-07-19 01:15:15",
+      "album": {
+        "name": "Banda do Mar",
+        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
+      },
+      "artists": [
+        {
+          "name": "Banda do Mar",
+          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Seja Como For",
+      "url": "https://open.spotify.com/track/15Ii7uBNwsXEGza3umIZBH"
     },
     {
       "added_at": "2025-07-19 01:15:15",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-07-19 01:15:15",
       "album": {
+        "name": "Sol-Te",
+        "url": "https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6"
+      },
+      "artists": [
+        {
+          "name": "Suricato",
+          "url": "https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC"
+        }
+      ],
+      "duration_ms": 217767,
+      "name": "Um Tanto",
+      "url": "https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x"
+    },
+    {
+      "added_at": "2025-07-19 01:15:15",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 257521,
       "name": "KINTSUGI",
       "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
-    },
-    {
-      "added_at": "2025-07-19 01:15:15",
-      "album": {
-        "name": "Sol-Te",
-        "url": "https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6"
-      },
-      "artists": [
-        {
-          "name": "Suricato",
-          "url": "https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC"
-        }
-      ],
-      "duration_ms": 217767,
-      "name": "Um Tanto",
-      "url": "https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x"
     },
     {
       "added_at": "2025-07-19 01:15:15",

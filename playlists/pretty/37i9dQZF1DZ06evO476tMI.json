@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 628376,
+  "num_followers": 628421,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHrgAAAAAABAz6hAZg2BGYGZkFdsAoXn",
+  "snapshot_id": "aHwxgAAAAACqbJ009S1uOwPdBeCpboRP",
   "tracks": [
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Florida Orchestra",
-          "url": "https://open.spotify.com/artist/2ol0baiyjfNxqzzNhXTykx"
-        }
-      ],
-      "duration_ms": 134920,
-      "name": "The Star Spangled Banner (feat. The Florida Orchestra) - Live from Super Bowl XXV",
-      "url": "https://open.spotify.com/track/5qByPJHfbssZpbUzhgpDCG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Preacher's Wife",
         "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 296373,
       "name": "I Love The Lord (with Georgia Mass Choir)",
       "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Florida Orchestra",
+          "url": "https://open.spotify.com/artist/2ol0baiyjfNxqzzNhXTykx"
+        }
+      ],
+      "duration_ms": 134920,
+      "name": "The Star Spangled Banner (feat. The Florida Orchestra) - Live from Super Bowl XXV",
+      "url": "https://open.spotify.com/track/5qByPJHfbssZpbUzhgpDCG"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 312506,
-      "name": "Jesus Loves Me",
-      "url": "https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Your Baby Tonight",
         "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 289733,
       "name": "Lover for Life",
       "url": "https://open.spotify.com/track/2tYPx6gPuRDKOmoBZOGfNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 312506,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA"
     }
   ],
   "unique_name": "This Is Whitney Houston",

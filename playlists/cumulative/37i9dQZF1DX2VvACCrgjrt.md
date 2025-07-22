@@ -2,7 +2,7 @@
 
 ### [Nasty Bits](https://open.spotify.com/playlist/37i9dQZF1DX2VvACCrgjrt)
 
-> Real nasty house 🔥🔥 with SIDEPIECE + Bobby Shmurda
+> Real nasty house 🔥🔥 with Dillon Francis & Marten Hørger
 
 1,103 songs - 2 day 8 hr 14 min
 

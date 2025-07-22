@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: Aiko
+> Songs from LGBTQIA+ artists\. Cover: Darin
 
-1,554 songs - 3 day 12 hr 1 min
+1,555 songs - 3 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -889,6 +889,7 @@
 | [Midnight Voyage](https://open.spotify.com/track/2adNs6KDCDc0Dqe6U8QQ37) | [Goddé](https://open.spotify.com/artist/3LVgenFlXA1cABiQKcEAlv) | [Midnight Voyage](https://open.spotify.com/album/4jRZXqvWcYdPjVV4HivIUS) | 3:20 | 2023-06-01 | 2023-07-12 |
 | [Might](https://open.spotify.com/track/22TuYSlssJg05MtcMbGfkT) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw) | 4:20 | 2025-06-05 |  |
 | [Milkshake](https://open.spotify.com/track/1GCs3hjUGbMzN4peQHQK6h) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Milkshake](https://open.spotify.com/album/6NZ8uQgTG7RUThbZc89sDm) | 2:29 | 2023-01-24 | 2023-03-08 |
+| [Mimosa](https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Mimosa](https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp) | 3:12 | 2025-07-22 |  |
 | [Mini Pony](https://open.spotify.com/track/2GhTxFgt38iqze9F7uMghv) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Mini Pony](https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7) | 3:29 | 2025-06-05 |  |
 | [Minn hinsti dans](https://open.spotify.com/track/0HPKHvqbDAXEzh0d9pYwhN) | [Páll Óskar](https://open.spotify.com/artist/4YnmlfVdziLiqFQtQ4zTcq) | [Seif](https://open.spotify.com/album/211yyzUlXtvLMb80zKDoM6) | 3:00 | 2025-05-13 | 2025-05-20 |
 | [miss andry](https://open.spotify.com/track/7hjshmUQ2KM8FYXHWn9MiG) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [everyone has a breaking point](https://open.spotify.com/album/4P6oouog9L3TdAYcMjfa2z) | 4:23 | 2023-03-31 | 2023-04-14 |
@@ -1255,7 +1256,7 @@
 | [Something Familiar](https://open.spotify.com/track/0eS8TKIQfshmKIQJEnDLmt) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Something Familiar](https://open.spotify.com/album/76GSQCF9plMvW8qV0pGBXn) | 3:06 | 2023-08-08 | 2023-09-13 |
 | [Something To Say](https://open.spotify.com/track/5CznIqYyWcPBQ9YaIJtLLF) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [Something To Say](https://open.spotify.com/album/6CBY5J52PrxflhCEelKeBR) | 4:04 | 2021-12-17 | 2022-01-27 |
 | [Somewhere Only We Know](https://open.spotify.com/track/3O4HxUk3JbhY0nut3RFjaF) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Somewhere Only We Know](https://open.spotify.com/album/3SSjCIMccH0zOtznuS3hyU) | 2:29 | 2024-06-05 | 2024-06-13 |
-| [Sommarland](https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/7q9mqWT3bEfgLhGbpPSwjo) | 2:43 | 2025-07-08 |  |
+| [Sommarland](https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/7q9mqWT3bEfgLhGbpPSwjo) | 2:43 | 2025-07-08 | 2025-07-22 |
 | [Songs About It](https://open.spotify.com/track/26QgeLPqt5k8wtDyPkQjNZ) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Songs About It](https://open.spotify.com/album/3rYf5r2ZZzOuHzRlIXvuaW) | 3:40 | 2023-03-07 | 2023-04-01 |
 | [Sooner Or Later](https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sooner Or Later](https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt) | 3:20 | 2022-01-14 | 2022-10-08 |
 | [SOPHIEA](https://open.spotify.com/track/0E9S8XxSLVgkal2nWtueFU) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [SOPHIEA](https://open.spotify.com/album/5mjtx0vINeJ0LjXvzxgemi) | 3:36 | 2024-02-13 | 2024-04-10 |

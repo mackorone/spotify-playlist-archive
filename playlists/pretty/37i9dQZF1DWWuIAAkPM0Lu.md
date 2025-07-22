@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Anton Westerlin & Artigeardit, Alex Warren, ILMA og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,776 likes - 93 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,770 likes - 93 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 84 | [BRANDALARM](https://open.spotify.com/track/3XBhGNLRLUM3M4LcMVTo4I) | [Chukz](https://open.spotify.com/artist/37rvQBNRn9rUEgPDPdOlfC) | [BRANDALARM](https://open.spotify.com/album/1ktdSwZ3Gamwpv4pBEtPie) | 2:26 |
 | 85 | [Thierry Henry](https://open.spotify.com/track/5pqLT31JcC7kwjqIsq74D2) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [36](https://open.spotify.com/artist/7DGmBOT6629EbsQOqINEqJ) | [Thierry Henry](https://open.spotify.com/album/5LuSGdSF3GM7tFz9g2m7B3) | 3:05 |
 | 86 | [Mr Man](https://open.spotify.com/track/3cvd3AFbO5k5h58DFJjp1N) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Mr Man](https://open.spotify.com/album/2mg8HqzpcrYHC5rdhwoLn6) | 3:26 |
-| 87 | [Take Me Away](https://open.spotify.com/track/48p9jvjqbUQyb8GsNvTaJC) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Take Me Away](https://open.spotify.com/album/2yoPkKdnOSZGvBvSwjQdmB) | 2:20 |
+| 87 | [Take Me Away](https://open.spotify.com/track/48p9jvjqbUQyb8GsNvTaJC) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [bankr](https://open.spotify.com/artist/1yeRfHskcp7ujLZNmabEpp) | [Take Me Away](https://open.spotify.com/album/2yoPkKdnOSZGvBvSwjQdmB) | 2:20 |
 | 88 | [Fever](https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Fever](https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby) | 2:26 |
 | 89 | [My Little Ginger](https://open.spotify.com/track/5u13n1FMmKdf0EErfPdXXr) | [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl) | [Fragile Thing](https://open.spotify.com/album/3UmXlKtA5i7oE3xRIKsXmC) | 3:58 |
 | 90 | [second place](https://open.spotify.com/track/1fbOvCYi48oNtnUvTU3Khr) | [soki yue](https://open.spotify.com/artist/3pSvLi87jU6OWr1zk8lBj9) | [second place](https://open.spotify.com/album/5gYgcCmZo9BaWmvyW4ZX2k) | 2:45 |

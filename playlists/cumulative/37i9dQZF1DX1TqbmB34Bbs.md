@@ -2,9 +2,9 @@
 
 ### [K\`illin'](https://open.spotify.com/playlist/37i9dQZF1DX1TqbmB34Bbs)
 
-> Illest hardcore K\-hip hop tracks are here\. \(Cover: Loco\(로꼬\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
+> Illest hardcore K\-hip hop tracks are here\. \(Cover: Potty Monkey\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,277 songs - 2 day 22 hr 28 min
+1,278 songs - 2 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [BACK](https://open.spotify.com/track/1wNQyLr8PuBcWDXfyI71BK) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Demon Youth](https://open.spotify.com/album/4YPACcqstZ7TVAsuTB8yIF) | 2:45 | 2022-05-28 | 2022-07-19 |
 | [Back In My AREA \(Feat\. GGM LIL DRAGON, LIL GIMCHI, Skinny Brown, June One\)](https://open.spotify.com/track/6gdGqeQRDgmibHU9RH5ohZ) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [GGM LIL DRAGON](https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [June One](https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ) | [AAA](https://open.spotify.com/album/67HPDc7fjJfJyHggdcRlc5) | 3:35 | 2022-05-31 | 2022-07-26 |
 | [Back in my block \(feat\. Gwangil Jo\)](https://open.spotify.com/track/1hT7XTrcccEE7wELGcSqaL) | [Walo](https://open.spotify.com/artist/0pVr6piInuPIThw585LsJy), [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [ROOM RAPPER Part.3 Final](https://open.spotify.com/album/2pdcwHsziBZobQDSgufgRr) | 3:08 | 2022-06-09 | 2022-07-26 |
-| [Back In The Building \(feat\. Jeremy Que$t\)](https://open.spotify.com/track/3WO5JxekfIPCqgQ1aQLaAi) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7), [Jeremy Que$t](https://open.spotify.com/artist/33gA8ycF2yf6GpiJuqO5Fd) | [YAHO](https://open.spotify.com/album/4ptpkLWr3MMEe6pUQv0Xs8) | 1:53 | 2025-07-06 |  |
+| [Back In The Building \(feat\. Jeremy Que$t\)](https://open.spotify.com/track/3WO5JxekfIPCqgQ1aQLaAi) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7), [Jeremy Que$t](https://open.spotify.com/artist/33gA8ycF2yf6GpiJuqO5Fd) | [YAHO](https://open.spotify.com/album/4ptpkLWr3MMEe6pUQv0Xs8) | 1:53 | 2025-07-06 | 2025-07-22 |
 | [Back In The Day \(HipHop Version\) Feat\. Don Malik, Paloalto](https://open.spotify.com/track/5MEVEzmCN567LPdQSl6KM0) | [TOMNIg](https://open.spotify.com/artist/4QoS6NeKIfGcy60aUbaHmp), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [12 Years Of Digscvry](https://open.spotify.com/album/0yFUU0X7SKtBBBF0bHkrF3) | 4:02 | 2022-05-28 | 2022-07-02 |
 | [Back To The S₩AG \(Feat\. tendo\)](https://open.spotify.com/track/00luw2BDYAQ5ZTTIKpWJwG) | [Lil tachi](https://open.spotify.com/artist/4uqXu5Qybes6RYP8ThjoEV), [tendo](https://open.spotify.com/artist/2iZ9QJdHI20cVR8KYFgjeH) | [Back To The S₩AG](https://open.spotify.com/album/0CsSx7lxNOyRCt5lggStTb) | 3:25 | 2022-05-28 | 2022-07-18 |
 | [Backseat \(feat\. Nucksal\)](https://open.spotify.com/track/4hB9VjK7vPtzfalKV8c8GH) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [MONEY BREATH](https://open.spotify.com/album/6Yhynoz0adjSekgJunlYSG) | 2:41 | 2023-02-16 | 2023-03-14 |
@@ -690,6 +690,7 @@
 | [MOMMAE \(Feat\. Ugly Duck\)](https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [WORLDWIDE](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 3:24 | 2022-07-25 | 2024-04-19 |
 | [MOMMAE \(Feat\. Ugly Duck\)](https://open.spotify.com/track/3MuGoW19i72vekvJoeAIxl) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [MOMMAE](https://open.spotify.com/album/1kgzGqeJbY7gwiheabVk1L) | 3:24 | 2022-11-09 | 2022-11-14 |
 | [Monday \(Feat\. SUPERBEE\)](https://open.spotify.com/track/5KrEwNLlM75ef5507e2bQF) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Endless Summer](https://open.spotify.com/album/5VvtULvZkqDY7stRfnXLn1) | 3:25 | 2022-06-03 | 2022-07-28 |
+| [Money](https://open.spotify.com/track/51uEcwpso8JVNsterfnQKI) | [Potty Monkey](https://open.spotify.com/artist/4vy6l0BczucI2I2ax6tPhO), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Money](https://open.spotify.com/album/4i8guh1EyFKtyK7uhPgGPg) | 3:26 | 2025-07-22 |  |
 | [Money Bag](https://open.spotify.com/track/4GkgHODPGClQyzDEN4tTGO) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [Money Bag](https://open.spotify.com/album/0hDEcd0coq8QIe5FL736TV) | 3:08 | 2024-01-11 | 2024-05-15 |
 | [Money Breath](https://open.spotify.com/track/0Ot66GD4fruV3WmI58ZPkj) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j) | [MONEY BREATH](https://open.spotify.com/album/6Yhynoz0adjSekgJunlYSG) | 2:24 | 2023-02-16 | 2023-03-14 |
 | [MONEY GAME](https://open.spotify.com/track/3I0U0qLpokurgArQly7sk3) | [kaogaii](https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2) | [MONEY GAME](https://open.spotify.com/album/0SLApxKJwQWBvXdrtkBS4p) | 3:50 | 2022-06-03 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 56378,
+  "num_followers": 56442,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHrgAAAAAABvV6LfRq28Yc36AEV4DMab",
+  "snapshot_id": "aHwxgAAAAACb8L0nIFPpBbdXlFG4etKo",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Way Out Here",
+      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Broken Branches",
         "url": "https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 197280,
       "name": "Broken Branches (feat. John Anderson, Riley Green)",
       "url": "https://open.spotify.com/track/2lt1wErcai6RBy0VdO2NkZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Way Out Here",
-      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlaws Like Us",
+        "url": "https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Outlaws Like Us",
+      "url": "https://open.spotify.com/track/6vdkRkomwx3z7BR1W0AcO7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 181626,
       "name": "Huntin' Land (feat. Riley Green)",
       "url": "https://open.spotify.com/track/6rQvX1oNRAS3p3tyKJpTUl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlaws Like Us",
-        "url": "https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Outlaws Like Us",
-      "url": "https://open.spotify.com/track/6vdkRkomwx3z7BR1W0AcO7"
     },
     {
       "added_at": null,

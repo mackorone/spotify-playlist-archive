@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: chokecherry
 
-3,382 songs - 7 day 12 hr 50 min
+3,383 songs - 7 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -735,6 +735,7 @@
 | [Deny](https://open.spotify.com/track/55h7ImV4EfeWGKYiabiStm) | [youbet](https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI) | [Deny](https://open.spotify.com/album/0eisa7hrI7hnZWVY45HeRw) | 2:30 | 2025-01-17 | 2025-02-22 |
 | [Descartes](https://open.spotify.com/track/1VOBsB3ozaoQv3i6Uts3O1) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Descartes](https://open.spotify.com/album/048eF8cmJqqF36fEvJABBY) | 3:13 | 2025-06-27 |  |
 | [Desperate Pleasures](https://open.spotify.com/track/0J6diw85NmHInEP6yoEKGa) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Desperate Pleasures](https://open.spotify.com/album/5LtVukpZ1oP9d7wSakQEtq) | 3:55 | 2021-11-19 | 2022-02-12 |
+| [Destroy The Power](https://open.spotify.com/track/4s8upM2Zqw0vLDOPWzP6VK) | [Daron Malakian and Scars On Broadway](https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi) | [Addicted To The Violence](https://open.spotify.com/album/6CWO5GdXfUd6mjbDDD5Hln) | 3:56 | 2025-07-21 |  |
 | [Destroyer](https://open.spotify.com/track/2ULz1J5wmlCpHPkh25Sz4S) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [Destroyer](https://open.spotify.com/album/0iVXfI7KbWDPcenBT2PUyC) | 3:59 | 2023-06-16 | 2023-07-15 |
 | [Destructible](https://open.spotify.com/track/0NivMbrjxT9DZg9enQaOgJ) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Ashtray for Your Agony](https://open.spotify.com/album/1ojUDikUuQL9KS59XvI9WP) | 2:51 | 2021-12-10 | 2022-04-29 |
 | [Detonator](https://open.spotify.com/track/3vACnnbIMo2ctnBqkQwfvE) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Detonator / The Idea](https://open.spotify.com/album/6jjii9a1vVH3bzb5Gdctuy) | 3:04 | 2023-07-21 | 2023-09-16 |
@@ -2039,7 +2040,7 @@
 | [Nice to Know Ya](https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Nice to Know Ya](https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p) | 2:59 | 2025-01-24 | 2025-04-12 |
 | [Nice to Meet Ya](https://open.spotify.com/track/3NrwumYVOAsoOR35UXAEyp) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [OOEY GOOEY EP](https://open.spotify.com/album/38rQh7UWvtkXEIFXAtxfuO) | 3:12 | 2021-11-19 | 2021-12-24 |
 | [Nicer Guy](https://open.spotify.com/track/2RpMfwnGRr9AT4CzUslrc9) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Nicer Guy](https://open.spotify.com/album/6oTfqekRzxIktESoqB05IZ) | 2:44 | 2023-04-14 | 2023-05-27 |
-| [Night After Night](https://open.spotify.com/track/5zlseWJvr7Lyqj7VCLaj50) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Night After Night](https://open.spotify.com/album/7wl1RjvgKCI7NlkI7D21HT) | 4:15 | 2025-04-11 |  |
+| [Night After Night](https://open.spotify.com/track/5zlseWJvr7Lyqj7VCLaj50) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Night After Night](https://open.spotify.com/album/7wl1RjvgKCI7NlkI7D21HT) | 4:15 | 2025-04-11 | 2025-07-22 |
 | [Nightlife](https://open.spotify.com/track/6b2mRkThwyuVlw9IYW7aST) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Nightlife](https://open.spotify.com/album/4ZpE0RfPiMkohY2AHZoUHe) | 3:19 | 2023-03-24 | 2023-05-13 |
 | [Nightmare](https://open.spotify.com/track/0JyWZ4BrLIlvyJ5lt7HNM1) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Nightmare](https://open.spotify.com/album/7kmb7rf1uASmCbFe3YLfhV) | 3:29 | 2021-12-03 | 2022-02-26 |
 | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/track/3as5VuWv791EWn04JkrvtK) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/album/482FoQaZMMqfZrLl5rAJSC) | 2:52 | 2022-06-17 | 2022-07-16 |
@@ -3102,7 +3103,7 @@
 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 | 2022-07-15 | 2022-08-13 |
 | [twentytwentythree](https://open.spotify.com/track/31RBep2ROc1EgNWWfFEjV4) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [twentytwentythree](https://open.spotify.com/album/47DUR7v0OFB9fZlosLWxo1) | 2:12 | 2025-01-31 | 2025-02-15 |
 | [Two Kinds Of Trouble](https://open.spotify.com/track/0wUYmEDRdK185IVIIrtmjJ) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Death Of Randy Fitzsimmons](https://open.spotify.com/album/6agQKhrctciHD4QH7KufOS) | 2:44 | 2023-08-11 | 2023-09-16 |
-| [Typical Ways](https://open.spotify.com/track/6LXafqEcSO7Ud2aXJxjnTl) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Typical Ways](https://open.spotify.com/album/5Y14cixHokMWgW9SvXMcsX) | 2:38 | 2025-03-28 |  |
+| [Typical Ways](https://open.spotify.com/track/6LXafqEcSO7Ud2aXJxjnTl) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Typical Ways](https://open.spotify.com/album/5Y14cixHokMWgW9SvXMcsX) | 2:38 | 2025-03-28 | 2025-07-22 |
 | [U 2](https://open.spotify.com/track/25akoaDy47WRQSHccLHzMf) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [U 2](https://open.spotify.com/album/67hXDTDFQJQFnG9BXtnOLW) | 3:31 | 2022-05-20 | 2022-06-18 |
 | [u come near](https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [u come near](https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7) | 3:12 | 2023-12-08 | 2024-03-02 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 | 2024-05-24 | 2024-08-03 |

@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 311421,
+  "num_followers": 311431,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 148326,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "BURN THE WITCH",
         "url": "https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 175959,
       "name": "BURN THE WITCH",
       "url": "https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 148326,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "And They All Fall Down",
-        "url": "https://open.spotify.com/album/47ZajOVfTx4ybpStTat8mm"
-      },
-      "artists": [
-        {
-          "name": "Saint Agnes",
-          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
-        }
-      ],
-      "duration_ms": 140178,
-      "name": "And They All Fall Down",
-      "url": "https://open.spotify.com/track/4kfPFH4eobdyzyqEJd6sMo"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 262000,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "And They All Fall Down",
+        "url": "https://open.spotify.com/album/47ZajOVfTx4ybpStTat8mm"
+      },
+      "artists": [
+        {
+          "name": "Saint Agnes",
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+        }
+      ],
+      "duration_ms": 140178,
+      "name": "And They All Fall Down",
+      "url": "https://open.spotify.com/track/4kfPFH4eobdyzyqEJd6sMo"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Under The Skin",
-        "url": "https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Under The Skin",
-      "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Streetwise",
         "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 163720,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Under The Skin",
+        "url": "https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Under The Skin",
+      "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "Like I Say (I runaway)",
+        "url": "https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 177475,
+      "name": "Like I Say (I runaway)",
+      "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "THE BLOB",
         "url": "https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ"
       },
@@ -887,18 +903,18 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Like I Say (I runaway)",
-        "url": "https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx"
+        "name": "Cherry Picking",
+        "url": "https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8"
       },
       "artists": [
         {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+          "name": "poutyface",
+          "url": "https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f"
         }
       ],
-      "duration_ms": 177475,
-      "name": "Like I Say (I runaway)",
-      "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
+      "duration_ms": 150736,
+      "name": "Cherry Picking",
+      "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -919,18 +935,18 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Cherry Picking",
-        "url": "https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8"
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx"
       },
       "artists": [
         {
-          "name": "poutyface",
-          "url": "https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f"
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
         }
       ],
-      "duration_ms": 150736,
-      "name": "Cherry Picking",
-      "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
+      "duration_ms": 208586,
+      "name": "Coma",
+      "url": "https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -947,22 +963,6 @@
       "duration_ms": 198123,
       "name": "CULT CLASSIC",
       "url": "https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 208586,
-      "name": "Coma",
-      "url": "https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Afraid of Tomorrows",
-        "url": "https://open.spotify.com/album/2WjX0yaIGO8Yl9qnp4vm7G"
-      },
-      "artists": [
-        {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
-        }
-      ],
-      "duration_ms": 216105,
-      "name": "Stray",
-      "url": "https://open.spotify.com/track/2X7osutibLRVpphKnfHjz7"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "I Kill Everything",
         "url": "https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 216333,
       "name": "I Kill Everything",
       "url": "https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Afraid of Tomorrows",
+        "url": "https://open.spotify.com/album/2WjX0yaIGO8Yl9qnp4vm7G"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "duration_ms": 216105,
+      "name": "Stray",
+      "url": "https://open.spotify.com/track/2X7osutibLRVpphKnfHjz7"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
-      },
-      "artists": [
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 165510,
       "name": "Don't",
       "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Kills Me To Be Kind",
-        "url": "https://open.spotify.com/album/3czh2aXLBfbPOXpEgB9gJg"
-      },
-      "artists": [
-        {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
-        }
-      ],
-      "duration_ms": 280982,
-      "name": "Kills Me To Be Kind",
-      "url": "https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Jabberwocky",
         "url": "https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 192290,
       "name": "Jabberwocky",
       "url": "https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Kills Me To Be Kind",
+        "url": "https://open.spotify.com/album/3czh2aXLBfbPOXpEgB9gJg"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "duration_ms": 280982,
+      "name": "Kills Me To Be Kind",
+      "url": "https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "LASSO",
-        "url": "https://open.spotify.com/album/4jUoqzZSmKP9QFOC9DCQba"
-      },
-      "artists": [
-        {
-          "name": "VUKOVI",
-          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
-        }
-      ],
-      "duration_ms": 178357,
-      "name": "LASSO",
-      "url": "https://open.spotify.com/track/2loBPRmc29O9vNAQ5UD9kF"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 151240,
       "name": "Shock Value",
       "url": "https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "LASSO",
+        "url": "https://open.spotify.com/album/4jUoqzZSmKP9QFOC9DCQba"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "duration_ms": 178357,
+      "name": "LASSO",
+      "url": "https://open.spotify.com/track/2loBPRmc29O9vNAQ5UD9kF"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "dizzy spells",
-        "url": "https://open.spotify.com/album/2ZdFXmyVHTbVDKnlh3FGpV"
-      },
-      "artists": [
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "headspace",
-      "url": "https://open.spotify.com/track/54thSyOHsTvRy8UYoEct7Y"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "KILLJOY",
         "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 138944,
       "name": "What's The Point In Life",
       "url": "https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "dizzy spells",
+        "url": "https://open.spotify.com/album/2ZdFXmyVHTbVDKnlh3FGpV"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "headspace",
+      "url": "https://open.spotify.com/track/54thSyOHsTvRy8UYoEct7Y"
     },
     {
       "added_at": "2024-07-05 22:18:14",

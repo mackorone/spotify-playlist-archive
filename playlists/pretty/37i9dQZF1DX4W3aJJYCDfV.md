@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jim Legxacy, The Last Dinner Party, Alex Warren and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,601 likes - 122 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,617 likes - 122 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

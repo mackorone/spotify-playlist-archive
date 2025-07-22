@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 144016,
+  "num_followers": 144020,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,26 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
+        "name": "REMEMBER",
+        "url": "https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Tim Ayre",
+          "url": "https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL"
+        }
+      ],
+      "duration_ms": 219411,
+      "name": "REMEMBER",
+      "url": "https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq"
+    },
+    {
+      "added_at": "2025-06-03 14:00:19",
+      "album": {
         "name": "See In Color",
         "url": "https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 182099,
       "name": "All I Am",
       "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
-    },
-    {
-      "added_at": "2025-06-03 14:00:19",
-      "album": {
-        "name": "REMEMBER",
-        "url": "https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Tim Ayre",
-          "url": "https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL"
-        }
-      ],
-      "duration_ms": 219411,
-      "name": "REMEMBER",
-      "url": "https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq"
     },
     {
       "added_at": "2025-06-03 14:00:19",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
-        "name": "Don't Stop (Keep on Keepin on)",
-        "url": "https://open.spotify.com/album/5FABDvuNbOTzPG5QYluLwR"
-      },
-      "artists": [
-        {
-          "name": "Lemonade Baby",
-          "url": "https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs"
-        }
-      ],
-      "duration_ms": 190512,
-      "name": "Don't Stop (Keep on Keepin on)",
-      "url": "https://open.spotify.com/track/4tHUmch7vFkjucKR7tKy7E"
-    },
-    {
-      "added_at": "2025-06-03 14:00:19",
-      "album": {
         "name": "Supersonic",
         "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 169658,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
+    },
+    {
+      "added_at": "2025-06-03 14:00:19",
+      "album": {
+        "name": "Don't Stop (Keep on Keepin on)",
+        "url": "https://open.spotify.com/album/5FABDvuNbOTzPG5QYluLwR"
+      },
+      "artists": [
+        {
+          "name": "Lemonade Baby",
+          "url": "https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs"
+        }
+      ],
+      "duration_ms": 190512,
+      "name": "Don't Stop (Keep on Keepin on)",
+      "url": "https://open.spotify.com/track/4tHUmch7vFkjucKR7tKy7E"
     },
     {
       "added_at": "2025-06-03 14:00:19",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
-        "name": "Differences",
-        "url": "https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        },
-        {
-          "name": "The Aston Shuffle",
-          "url": "https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94"
-        }
-      ],
-      "duration_ms": 140806,
-      "name": "Differences",
-      "url": "https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw"
-    },
-    {
-      "added_at": "2025-06-03 14:00:19",
-      "album": {
         "name": "Spend It (feat. Circa Waves)",
         "url": "https://open.spotify.com/album/0tfrIsINRigH8WRsi4WJHJ"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 202858,
       "name": "Spend It (feat. Circa Waves)",
       "url": "https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e"
+    },
+    {
+      "added_at": "2025-06-03 14:00:19",
+      "album": {
+        "name": "Differences",
+        "url": "https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "The Aston Shuffle",
+          "url": "https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94"
+        }
+      ],
+      "duration_ms": 140806,
+      "name": "Differences",
+      "url": "https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw"
     },
     {
       "added_at": "2025-06-03 14:00:19",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
-        "name": "wish that i could (Memphis LK Remix)",
-        "url": "https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        },
-        {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
-        }
-      ],
-      "duration_ms": 181330,
-      "name": "wish that i could - Memphis LK Remix",
-      "url": "https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM"
-    },
-    {
-      "added_at": "2025-06-03 14:00:19",
-      "album": {
         "name": "Move Ya Body",
         "url": "https://open.spotify.com/album/0OzvqL4iqJa92nxgHs2mkN"
       },
@@ -1475,22 +1455,22 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
-        "name": "Cowgirl",
-        "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
+        "name": "wish that i could (Memphis LK Remix)",
+        "url": "https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3"
       },
       "artists": [
         {
-          "name": "Hnygrl",
-          "url": "https://open.spotify.com/artist/62sLcRLz3ZDWMLJaZcsfE5"
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
         },
         {
-          "name": "Vrdnyn",
-          "url": "https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y"
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
         }
       ],
-      "duration_ms": 145741,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
+      "duration_ms": 181330,
+      "name": "wish that i could - Memphis LK Remix",
+      "url": "https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM"
     },
     {
       "added_at": "2025-06-03 14:00:19",
@@ -1567,6 +1547,26 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
+      },
+      "artists": [
+        {
+          "name": "Hnygrl",
+          "url": "https://open.spotify.com/artist/62sLcRLz3ZDWMLJaZcsfE5"
+        },
+        {
+          "name": "Vrdnyn",
+          "url": "https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y"
+        }
+      ],
+      "duration_ms": 145741,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
+    },
+    {
+      "added_at": "2025-06-03 14:00:19",
+      "album": {
         "name": "All Dancing Under The Same Sky",
         "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
       },
@@ -1639,6 +1639,30 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
+        "name": "Turn Up The Sunshine (PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/0TJtS7EZReyGKsyXn08eOc"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 220593,
+      "name": "Turn Up The Sunshine - PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/3wR5OccDugBm5Od2NYcMaO"
+    },
+    {
+      "added_at": "2025-06-03 14:00:19",
+      "album": {
         "name": "Missing Piece (Sofi Tukker Remix)",
         "url": "https://open.spotify.com/album/3piH7eC3EJIlZg4CMi9m6M"
       },
@@ -1671,30 +1695,6 @@
       "duration_ms": 150117,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/73hu23f3N0BQkwQ4Kp5aiq"
-    },
-    {
-      "added_at": "2025-06-03 14:00:19",
-      "album": {
-        "name": "Turn Up The Sunshine (PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack)",
-        "url": "https://open.spotify.com/album/0TJtS7EZReyGKsyXn08eOc"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 220593,
-      "name": "Turn Up The Sunshine - PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack",
-      "url": "https://open.spotify.com/track/3wR5OccDugBm5Od2NYcMaO"
     },
     {
       "added_at": "2025-06-03 14:00:19",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
-        "name": "In The Sweetness of You",
-        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "21",
-      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
-    },
-    {
-      "added_at": "2025-06-03 14:00:19",
-      "album": {
         "name": "Beggin' You",
         "url": "https://open.spotify.com/album/12LYEydJLy7i3TlDLamRRC"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 215172,
       "name": "Beggin' You",
       "url": "https://open.spotify.com/track/110XNKlluGKyNDKlBle2XD"
+    },
+    {
+      "added_at": "2025-06-03 14:00:19",
+      "album": {
+        "name": "In The Sweetness of You",
+        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 233253,
+      "name": "21",
+      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
     },
     {
       "added_at": "2025-06-03 14:00:19",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
+        "name": "TOMMY",
+        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
+      },
+      "artists": [
+        {
+          "name": "WALKER.",
+          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
+        }
+      ],
+      "duration_ms": 212521,
+      "name": "TOMMY",
+      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
+    },
+    {
+      "added_at": "2025-06-03 14:00:19",
+      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 173793,
       "name": "Under The Milky Way - Leo Portela Remix",
       "url": "https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB"
-    },
-    {
-      "added_at": "2025-06-03 14:00:19",
-      "album": {
-        "name": "TOMMY",
-        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
-      },
-      "artists": [
-        {
-          "name": "WALKER.",
-          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
-        }
-      ],
-      "duration_ms": 212521,
-      "name": "TOMMY",
-      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
     }
   ],
   "unique_name": "Sunday Sessions",

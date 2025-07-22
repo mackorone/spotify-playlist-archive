@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs"
+      },
+      "artists": [
+        {
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318867,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ"
+    },
+    {
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/1zk01WEUn4lsTxjqkOIr5u"
       },

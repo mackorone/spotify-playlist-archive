@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,422 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,433 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 2 | [Makina](https://open.spotify.com/track/32j2p5cS0LKbQNigM6boyy) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [MOOTJEYEK](https://open.spotify.com/artist/4VxyE4jGlkGfceluWCWZvH) | [Makina](https://open.spotify.com/album/3FGfO500bnSkqX0r1bvqeZ) | 3:47 |
 | 3 | [Hasta La Vista](https://open.spotify.com/track/4hq8k7L1oqoq1exaiILryG) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Hasta La Vista](https://open.spotify.com/album/4QHamEnyPIDzpQmK37oWAV) | 3:02 |
 | 4 | [Ki Nrak](https://open.spotify.com/track/7lipPtLr62A4hzJXTL8JjJ) | [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Ki Nrak](https://open.spotify.com/album/1EB9roqeZTF7G9HzX7cqFM) | 2:48 |
-| 5 | [Mr.Beast](https://open.spotify.com/track/1BeNrqDTCQ0mPRp9zdyfUl) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Mr.Beast](https://open.spotify.com/album/3y3oOcdoAUVRfyVzGmYNUI) | 2:15 |
-| 6 | [Cop](https://open.spotify.com/track/1LrlGi0clbgSmgYwc9zkDh) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Cop](https://open.spotify.com/album/4cWdsPhA2c0nSUeFTVOSgp) | 3:29 |
+| 5 | [KIFKIF](https://open.spotify.com/track/0xh549bgXIg7Nc2zaWuWVi) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST), [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [KIFKIF](https://open.spotify.com/album/0QSmsWjL1SmRQ3P98tN0X1) | 3:16 |
+| 6 | [Mr.Beast](https://open.spotify.com/track/1BeNrqDTCQ0mPRp9zdyfUl) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Mr.Beast](https://open.spotify.com/album/3y3oOcdoAUVRfyVzGmYNUI) | 2:15 |
 | 7 | [Klem](https://open.spotify.com/track/5IjtjlAJVe6mFCKzhr0YKt) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa) | [Cotinga](https://open.spotify.com/album/5UAGPzp0t0DIczTuIPLCak) | 4:07 |
 | 8 | [Weld Ommi](https://open.spotify.com/track/04E5mcdB7gplezv6qqzCA8) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz), [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Weld Ommi](https://open.spotify.com/album/1Cu8XwQuQrp39qqStF8NH2) | 3:58 |
 | 9 | [Vision](https://open.spotify.com/track/6lv8cTrryrBTXlI8ur5cBS) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Vision](https://open.spotify.com/album/6iWH0XxDrU4ByDuguQXYIU) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 49 | [Hameda Hereb هارب](https://open.spotify.com/track/3LE2O2BQi6astoGXBKXe1V) | [Hameda Hereb](https://open.spotify.com/artist/1xnqi3G6wGYmgPXOA0fu1i) | [Hameda Hereb هارب](https://open.spotify.com/album/2HAqYpg8n9ovBZ2JehbxdZ) | 3:17 |
 | 50 | [Ti Amo](https://open.spotify.com/track/7a2d5nTzGM6SfQwMk6lzM3) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Ti Amo](https://open.spotify.com/album/0fNoucZFlVIsQhJiZYsL1p) | 3:00 |
 
-Snapshot ID: `aHAs4AAAAADCbAIuCqGw931PVqz0oL2F`
+Snapshot ID: `aH3zXgAAAACrE+dQPabM8VYrzcl+Ynon`

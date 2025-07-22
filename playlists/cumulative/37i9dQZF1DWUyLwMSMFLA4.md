@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-340 songs - 19 hr 49 min
+341 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Cosas del amor](https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8) | [Mario Luis con los Angeles Colombianos](https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:40 | 2025-06-10 |  |
 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-05-05 | 2025-06-11 |
 | [Cuando Me Enamoro](https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 2:54 | 2023-05-05 | 2024-04-19 |
-| [Culo Pa 2 Tangas](https://open.spotify.com/track/7G8ui29Y8betGzDM2d2Xvk) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Culo Pa 2 Tangas](https://open.spotify.com/album/6vA3jeLGv8Zixm640gPZVL) | 3:02 | 2025-06-27 |  |
+| [Culo Pa 2 Tangas](https://open.spotify.com/track/6eXYHqqR2hSP64zSX0yjwK) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [Alta Cumbia](https://open.spotify.com/album/4B0JuyHAhEuX5mTtNhRIav) | 3:02 | 2025-07-04 |  |
+| [Culo Pa 2 Tangas](https://open.spotify.com/track/7G8ui29Y8betGzDM2d2Xvk) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Culo Pa 2 Tangas](https://open.spotify.com/album/6vA3jeLGv8Zixm640gPZVL) | 3:02 | 2025-06-27 | 2025-07-22 |
 | [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 | 2023-05-05 | 2025-06-11 |
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Inolvidables](https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y) | 4:27 | 2025-06-27 |  |
 | [Darte Un Beso](https://open.spotify.com/track/2wYBn7U28mMYaW6VGXCagH) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Darte Un Beso](https://open.spotify.com/album/44VJAIvfoh1CV4vVMujqmI) | 2:58 | 2024-08-16 | 2025-04-12 |

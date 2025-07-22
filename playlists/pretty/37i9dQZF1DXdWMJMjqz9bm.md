@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: Joey Valence & Brae
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,309 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,324 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 17 | [Yacht](https://open.spotify.com/track/4BHwo6sEEYjtZyopn04gEJ) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Five Forever](https://open.spotify.com/album/0zBzGId66SwQWCsPJgNLY1) | 2:33 |
 | 18 | [This One's For Me](https://open.spotify.com/track/3wMJXZsHdcRRW5GuM0k4Rp) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [This One's For Me](https://open.spotify.com/album/4pWkaZGyFyeWLH1OGHmcj1) | 3:46 |
 | 19 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 |
-| 20 | [Pop Out](https://open.spotify.com/track/0WyO63CxKjKsTBMlTsb4CP) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH), [Drigo](https://open.spotify.com/artist/22SOlSw4QOrYYarJbS2VA6), [E Bleu](https://open.spotify.com/artist/5iFK29ta4wFeMTSqxc4CMt), [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 3:21 |
+| 20 | [Pop Out](https://open.spotify.com/track/0WyO63CxKjKsTBMlTsb4CP) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH), [Drigo](https://open.spotify.com/artist/22SOlSw4QOrYYarJbS2VA6), [E Bleu](https://open.spotify.com/artist/5iFK29ta4wFeMTSqxc4CMt), [Devan](https://open.spotify.com/artist/6VBXJo6OoJYv0to786oWjT), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 3:21 |
 | 21 | [Self\-Inflicted](https://open.spotify.com/track/3nG2tQJ7wFJ72mfrYifTLP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Self\-Inflicted](https://open.spotify.com/album/3tDWZZXcpKIKzX35WsqbVT) | 1:27 |
 | 22 | [Country Outta Me](https://open.spotify.com/track/6KCmQW5qMjRb3ca3n9cEtq) | [cieratherapper](https://open.spotify.com/artist/7kFzZsHkdwMd3lUUy5K9RD) | [Country Outta Me](https://open.spotify.com/album/1Vb8sULwu1RdRxEeXJ8nGI) | 2:32 |
 | 23 | [NO L's](https://open.spotify.com/track/17bCx9UXmnmts0ly7dO1y7) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [NO L's](https://open.spotify.com/album/56Vm1PikcYB6eZwgdDq6Ty) | 2:27 |

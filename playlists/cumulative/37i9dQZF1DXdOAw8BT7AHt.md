@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Shady Nasty
 
-508 songs - 1 day 1 hr 28 min
+509 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Accidental Doom](https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry) | [Pit Pony](https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j) | [Accidental Doom](https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr) | 4:13 | 2023-11-13 | 2024-01-19 |
 | [Ache](https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Ache](https://open.spotify.com/album/4c5GCTtE09FsMxnC2QKqYU) | 1:40 | 2023-03-20 | 2023-06-21 |
 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 | 2024-05-31 | 2025-02-08 |
-| [Active Trauma](https://open.spotify.com/track/4yMM6709W39opUprK6dL7Y) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Active Trauma](https://open.spotify.com/album/6fAIfp3qHFsTduCiJfHQMn) | 1:49 | 2025-05-08 |  |
+| [Active Trauma](https://open.spotify.com/track/4yMM6709W39opUprK6dL7Y) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Active Trauma](https://open.spotify.com/album/6fAIfp3qHFsTduCiJfHQMn) | 1:49 | 2025-05-08 | 2025-07-22 |
 | [Adore Adore Adore](https://open.spotify.com/track/44V3ZtDSkemI5Vgpr1bQdv) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk) | 2:37 | 2023-11-13 | 2024-01-08 |
 | [Adore Adore Adore](https://open.spotify.com/track/4UgkFdXpJD0fhw06BMk0bz) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 2:37 | 2023-11-13 | 2024-04-19 |
 | [Adore Adore Adore](https://open.spotify.com/track/7cbHLDW7Iir9IZKWgHJuuI) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Adore Adore Adore](https://open.spotify.com/album/0hNw5wk6iWSH4wnsCKEMfi) | 2:37 | 2023-06-08 | 2023-12-17 |
@@ -384,6 +384,7 @@
 | [Save Face Story](https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Slope](https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR) | [State Champs](https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v) | 3:19 | 2024-11-15 |  |
 | [Say Say](https://open.spotify.com/track/7DgCz491jAIlvfNKZGNWWG) | [Yur Mum](https://open.spotify.com/artist/0Y7bVJMoVMR9nipVBOiXRt) | [Say Say](https://open.spotify.com/album/4Z20AefouBkJ0dm60LXP3w) | 3:11 | 2023-06-20 | 2023-08-24 |
 | [Scrapbook](https://open.spotify.com/track/4Jz7wnOkNBozJVyiee2fM1) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Scrapbook](https://open.spotify.com/album/6HAW9bHXN7cFRP1NWMu7BK) | 4:15 | 2024-02-16 | 2024-06-15 |
+| [SCREWDRIVA](https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [TREK](https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ) | 3:02 | 2025-07-19 |  |
 | [Self\-determined](https://open.spotify.com/track/7c1bKD3B87FJZNUXGIDH8s) | [Face To Face](https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd) | [Self\-determined](https://open.spotify.com/album/6KGuKs29bBrtAipiL8uxXF) | 3:17 | 2024-10-10 | 2024-11-15 |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/34KYsYoTRXMU0MBcfBvJha) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE \(MC4D Remix\)](https://open.spotify.com/album/48OpJKI9yOfcynQX2mpkN3) | 2:37 | 2023-01-18 | 2023-04-17 |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:37 | 2023-03-03 | 2023-11-18 |

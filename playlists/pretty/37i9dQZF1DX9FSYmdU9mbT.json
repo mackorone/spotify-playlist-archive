@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1424691,
+  "num_followers": 1425021,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Lenine In Cit\u00e9 (Deluxe)",
-        "url": "https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI"
-      },
-      "artists": [
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        }
-      ],
-      "duration_ms": 231572,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Que Beleza",
         "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 208573,
       "name": "Que Beleza",
       "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Lenine In Cit\u00e9 (Deluxe)",
+        "url": "https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI"
+      },
+      "artists": [
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "duration_ms": 231572,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Unplugged (Ao vivo)",
-        "url": "https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 293053,
-      "name": "A Paz - Ao Vivo",
-      "url": "https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Mem\u00f3rias (2001) - Ao Vivo",
         "url": "https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 200820,
       "name": "Amor I Love You (feat. Arnaldo Antunes) - Ao Vivo",
       "url": "https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Unplugged (Ao vivo)",
+        "url": "https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 293053,
+      "name": "A Paz - Ao Vivo",
+      "url": "https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W"
     },
     {
       "added_at": "2025-05-30 05:19:13",

@@ -6,8 +6,24 @@
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAEOCfojt7TVNu2tJvknOacl4VqLXDA",
+  "snapshot_id": "AAAEOzKcIdCLCfhb4gZ4Hsk/IRTgpvBY",
   "tracks": [
+    {
+      "added_at": "2025-07-21 12:38:11",
+      "album": {
+        "name": "Another Long Night",
+        "url": "https://open.spotify.com/album/77Wq32ZkMnBgqLgJWL3zI6"
+      },
+      "artists": [
+        {
+          "name": "Sunny Suljic",
+          "url": "https://open.spotify.com/artist/3JcGZ9gszrHCHXC9wJtNko"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Another Long Night",
+      "url": "https://open.spotify.com/track/2bfeCwvgVYvBwLEvOqLmFB"
+    },
     {
       "added_at": "2025-07-18 15:13:26",
       "album": {

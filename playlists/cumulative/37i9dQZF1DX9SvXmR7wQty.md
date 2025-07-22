@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Claudia Bouvette
 
-3,414 songs - 7 day 12 hr 29 min
+3,415 songs - 7 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1142,6 +1142,7 @@
 | [Gentil Garçon](https://open.spotify.com/track/7DM7DHed6lj67JC08Gg5xp) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Gentil Garçon](https://open.spotify.com/album/4ivStYmGyNsbAC8ysETIwN) | 3:24 | 2025-02-21 | 2025-05-03 |
 | [Germaine](https://open.spotify.com/track/4E9kfRmJneiBQHLCLhQteQ) | [Pièce sur Pièce](https://open.spotify.com/artist/3qYKJEdlcaY29kCX0ADiUU) | [Germaine](https://open.spotify.com/album/6lzxAemcouPSmZeXLEjuut) | 3:11 | 2022-01-14 | 2022-01-22 |
 | [Get that Thang](https://open.spotify.com/track/0mgVIOwMXlEKfCZ7W3vtt9) | [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [Get that Thang](https://open.spotify.com/album/6b99vKjwOnTWLRHMuHsesG) | 1:52 | 2023-03-10 | 2023-03-18 |
+| [Ghali](https://open.spotify.com/track/7JRPmK4es5vDupP8H3xjRX) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Ghali](https://open.spotify.com/album/4DuoVUAMYxE0j5ENAOJGqd) | 3:10 | 2025-07-18 |  |
 | [Ghini](https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Ghini](https://open.spotify.com/album/5OXJX7joS4bXunacsHcTTu) | 2:29 | 2023-03-10 | 2023-03-25 |
 | [Giavonni](https://open.spotify.com/track/5QyYCHXF9UIvYueGutuevp) | [Bronswick](https://open.spotify.com/artist/4mPApT3WY8A04ZnQOS30BL) | [Giovanni](https://open.spotify.com/album/3fybYKj5wrxg4jdld0f8Ys) | 4:09 | 2022-03-25 | 2022-04-09 |
 | [Girl](https://open.spotify.com/track/1wQBI2DEYltF2XlKs07D7G) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Girl](https://open.spotify.com/album/1XDMRGqkkBwQYLgNKCGFlt) | 3:31 | 2022-10-14 | 2022-10-29 |
@@ -2541,7 +2542,7 @@
 | [Promesse](https://open.spotify.com/track/4IdC1RtoEQTZlWKK9VQ8A6) | [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Pas d'Accord !](https://open.spotify.com/album/3FmbPQ4RQOQOz2dZfLAw10) | 2:12 | 2023-03-10 | 2023-03-18 |
 | [Promesses brisées](https://open.spotify.com/track/4xPMN1DIracOlctKFcLKJ5) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Lion G](https://open.spotify.com/artist/2xtRj7qoU5qPbLNuQAaEex) | [Rap Queb Monuments](https://open.spotify.com/album/2pp3pSMIiaXswhgqfOp6I2) | 4:24 | 2022-09-02 | 2022-09-17 |
 | [Promets toujours](https://open.spotify.com/track/4a5VFLISa8vPLYrZQhHFta) | [Ludovick Bourgeois](https://open.spotify.com/artist/0cv8lN7deJS8xeHJqPf4Ay) | [Promets toujours](https://open.spotify.com/album/64zCH18RQDUIW9BBOTLpvw) | 3:07 | 2022-04-08 | 2022-04-23 |
-| [Promets\-le moi](https://open.spotify.com/track/1R7yYdJULFqxC4L8PDXvRS) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Promets\-le moi](https://open.spotify.com/album/13PQIDhNGreKQSuzQeFkpX) | 2:43 | 2025-04-25 |  |
+| [Promets\-le moi](https://open.spotify.com/track/1R7yYdJULFqxC4L8PDXvRS) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Promets\-le moi](https://open.spotify.com/album/13PQIDhNGreKQSuzQeFkpX) | 2:43 | 2025-04-25 | 2025-07-22 |
 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 | 2023-10-13 | 2023-12-16 |
 | [PROPULSER](https://open.spotify.com/track/0DgCbZonC1h3uryxzHIzgp) | [MagikFingerz](https://open.spotify.com/artist/30KTAH9eU8PBw5KkIeyUcY), [Flexx](https://open.spotify.com/artist/4ETbG8TrgE3bDUr4CfDcv1), [Nickendy Mix](https://open.spotify.com/artist/5TNJ0QitbaLTwzSdg0YouW), [Kap\-O](https://open.spotify.com/artist/3hQ6cxGN02eYiIG9biDbrW) | [PROPULSER](https://open.spotify.com/album/6RcXyhAp1ImiCF1cmqZzB6) | 3:32 | 2021-12-31 | 2022-01-22 |
 | [PROSECCO](https://open.spotify.com/track/72sH4ge8L9u9BwLzBwfxgP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [PROSECCO](https://open.spotify.com/album/6EqYEiZynSrDXKfPzpjBwQ) | 3:23 | 2024-12-13 | 2025-01-25 |

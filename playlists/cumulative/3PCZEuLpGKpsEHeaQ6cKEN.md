@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Joris Voorn
 
-1,504 songs - 3 day 8 hr 16 min
+1,505 songs - 3 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Emerald](https://open.spotify.com/track/78PLPhLQjRiX3SSjYBiASc) | [Lyke](https://open.spotify.com/artist/3lc4xDLsQnWnjhntJfykpF) | [Emerald](https://open.spotify.com/album/3EKOVl8p9GoZ9rKd59uOHk) | 2:41 | 2023-08-17 | 2024-01-19 |
 | [End Emotions](https://open.spotify.com/track/22C6AL8ItRIDKvEwlPuooQ) | [Kintar](https://open.spotify.com/artist/4WZgFtQLzzmubwRq44JOjT) | [End Emotions](https://open.spotify.com/album/3NWbFIpND2CHnfo6mBSGOL) | 4:09 | 2024-02-29 | 2024-08-31 |
 | [Endless Nights](https://open.spotify.com/track/1ZWyPPye3BUmtxwEOxQA9v) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Endless Nights](https://open.spotify.com/album/7zL1rbXjcjS8DRbIlSICTC) | 3:09 | 2024-06-20 | 2024-10-19 |
+| [Entusiasme \(Vallée De L’Armes\)](https://open.spotify.com/track/0kZIcCyIgs0KgJTmvN5imF) | [HABITAT](https://open.spotify.com/artist/7r25k57LP5UsSNSzVems6d) | [Entusiasme \(Vallée De L’Armes\)](https://open.spotify.com/album/6V2Y7OYLUYJX1s7b5uWohK) | 1:55 | 2025-07-21 |  |
 | [Erase Me](https://open.spotify.com/track/5JQMbfNKEs5s5HdtrV4QQz) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Armada Music \- ADE 2022](https://open.spotify.com/album/1jBe7xcFd9Z6plS4nGDyMs) | 4:03 | 2022-10-07 | 2022-11-18 |
 | [Erase Me](https://open.spotify.com/track/73CRQe51UEpa3B6ZG7QEsl) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Erase Me](https://open.spotify.com/album/2uWVzN9RsU8Wf1secl0sdX) | 4:03 | 2022-07-21 | 2023-06-26 |
 | [Erase Me](https://open.spotify.com/track/7kpP2WWFeXhe3Nvm78NOri) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Armada Music \- 20 Years](https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m) | 4:03 | 2023-06-24 | 2023-12-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Marstein!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,909 likes - 106 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,913 likes - 106 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 48 | [Ain't A Bad Life](https://open.spotify.com/track/0tKsXVJc0aqLQ2NYOIOTPt) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [About A Woman \(& A Good Ol' Boy\)](https://open.spotify.com/album/7vWt3Oe027TmVOxBBVKrIC) | 3:07 |
 | 49 | [BDA](https://open.spotify.com/track/1G9WHBrhfT2TGPNX9vkXdV) | [Zoe Lobos](https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA), [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [BDA](https://open.spotify.com/album/6GycVn3lcT3eeiTdnosK4Y) | 2:03 |
 | 50 | [Later Tonight](https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/05TVIc1IFYdlBur7QIqMBx) | 2:42 |
-| 51 | [Take Me Away](https://open.spotify.com/track/48p9jvjqbUQyb8GsNvTaJC) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Take Me Away](https://open.spotify.com/album/2yoPkKdnOSZGvBvSwjQdmB) | 2:20 |
+| 51 | [Take Me Away](https://open.spotify.com/track/48p9jvjqbUQyb8GsNvTaJC) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [bankr](https://open.spotify.com/artist/1yeRfHskcp7ujLZNmabEpp) | [Take Me Away](https://open.spotify.com/album/2yoPkKdnOSZGvBvSwjQdmB) | 2:20 |
 | 52 | [Ramt I Natten](https://open.spotify.com/track/4Kwwp0MxTDm3Qppvbr8ETg) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [Luqa Dhere](https://open.spotify.com/artist/5siqoZNodIfbCqL0POuRJa), [Akiba](https://open.spotify.com/artist/6345d96wPs1wcEtwVyJCv7) | [Ramt I Natten](https://open.spotify.com/album/4bs0E4fBxwGuuYbaRBoUVX) | 2:37 |
 | 53 | [Broken](https://open.spotify.com/track/0IWOPug8y9ht2L8oQqGjA8) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [SALT + LIGHT](https://open.spotify.com/album/2BctJ00mFldhrsOHMoz1h3) | 2:41 |
 | 54 | [Hello Kitty](https://open.spotify.com/track/15DKXUHhpdc8yVV10UUihM) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [My Island](https://open.spotify.com/album/6hPCjgkiYWt81n4qUmedX2) | 2:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto:  FADES.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,755 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,761 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 47 | [NO PUDE SALVARNOS](https://open.spotify.com/track/292HLgM3QgJNZbfZFDu3BY) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [NO PUDE SALVARNOS](https://open.spotify.com/album/2iCBgzJqgwhsDysYWrjFXO) | 3:33 |
 | 48 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
 | 49 | [Flow deskiciada](https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Flow deskiciada](https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z) | 2:42 |
-| 50 | [costa brava](https://open.spotify.com/track/7MmdTcUDVkk0TkD1ImJOVj) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [costa brava](https://open.spotify.com/album/3aH9pg37osLiuR4siGSLxJ) | 2:58 |
+| 50 | [Bollera](https://open.spotify.com/track/4xHXFX1nXCNGi6pRUKYkub) | [La Mare](https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja), [Roba Estesa](https://open.spotify.com/artist/3VzGOFrX7MDtLe2Wfndgjt), [Xerach](https://open.spotify.com/artist/22xGQrjGoc0Mx9erdz4KfW) | [Bollera](https://open.spotify.com/album/7DSL0AxTYtjZf3Y5yHaCIJ) | 2:42 |
 
 Snapshot ID: `aGRaewAAAACnjhYsIp2lSIWqtF6wCDbK`

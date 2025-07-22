@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,956 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,961 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 49 | [It Is Finished \- Live](https://open.spotify.com/track/6CAEUmlr6iQeJRqgJXkouf) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 5:27 |
 | 50 | [O Praise Him \(All This For A King\) \- Live](https://open.spotify.com/track/2EVF3pxll6FplxIUyXGZOd) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [The Best Of Passion \(So Far\) \[Live\]](https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc) | 5:25 |
 
-Snapshot ID: `aHrgAAAAAAAMcgDtlkvd62e3+WJeb9e7`
+Snapshot ID: `aHwxgAAAAABWSXeEGsWqodK9o2HHBpXB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,092 songs - 2 day 18 hr 57 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,096 songs - 2 day 19 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1089,7 +1089,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1079 | [Text Me](https://open.spotify.com/track/6foA8EHExHnZ6ZWJq8kHPE) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:26 |
 | 1080 | [I Wasn’t There](https://open.spotify.com/track/36GforftaCASOR8kBnhqN8) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:07 |
 | 1081 | [Maroon](https://open.spotify.com/track/4BzIyYvpCYzMW4Q8eF4fwq) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 3:29 |
-| 1082 | [Pop Out](https://open.spotify.com/track/0WyO63CxKjKsTBMlTsb4CP) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH), [Drigo](https://open.spotify.com/artist/22SOlSw4QOrYYarJbS2VA6), [E Bleu](https://open.spotify.com/artist/5iFK29ta4wFeMTSqxc4CMt), [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 3:21 |
+| 1082 | [Pop Out](https://open.spotify.com/track/0WyO63CxKjKsTBMlTsb4CP) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH), [Drigo](https://open.spotify.com/artist/22SOlSw4QOrYYarJbS2VA6), [E Bleu](https://open.spotify.com/artist/5iFK29ta4wFeMTSqxc4CMt), [Devan](https://open.spotify.com/artist/6VBXJo6OoJYv0to786oWjT), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 3:21 |
 | 1083 | [Girlfriend](https://open.spotify.com/track/2Duo98NryASEb3BAb08rQH) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Drigo](https://open.spotify.com/artist/22SOlSw4QOrYYarJbS2VA6), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Truly Young](https://open.spotify.com/artist/6Hqu0lCYGK2QO1vp4rwDMS) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 3:02 |
 | 1084 | [Abandon Me](https://open.spotify.com/track/6i9sZbG3fal2jsdprKKuJc) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:40 |
 | 1085 | [Red Light](https://open.spotify.com/track/1wKerz7AHHoue4sE3nGYl9) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 3:08 |
@@ -1100,5 +1100,9 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1090 | [Live Forever \- Remastered](https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:36 |
 | 1091 | [Grave](https://open.spotify.com/track/5iSdtklaHGhsLtWZDgFUiB) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Grave](https://open.spotify.com/album/1t4PKLoXYU9PSXdlSvzqq7) | 3:11 |
 | 1092 | [Champagne Supernova](https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 7:30 |
+| 1093 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
+| 1094 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
+| 1095 | [Don't You Worry Baby](https://open.spotify.com/track/45mVT3DCE7AATXgESSdfee) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:58 |
+| 1096 | [I'll Take Care of You](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:20 |
 
-Snapshot ID: `AAAJNbRTD36LMcmjqjf/uK3QzlmxpPuP`
+Snapshot ID: `AAAJOSxkTRqZ6916+eA/ff3VA1AnlX5N`

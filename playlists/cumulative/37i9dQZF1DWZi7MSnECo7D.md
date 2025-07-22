@@ -2,7 +2,7 @@
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: Mateus Fazeno Rock
+> Música brasileira fora da curva\. Foto: YMA
 
 787 songs - 1 day 20 hr 41 min
 

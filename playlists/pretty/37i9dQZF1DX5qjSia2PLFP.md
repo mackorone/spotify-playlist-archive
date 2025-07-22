@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:7IrBqZo6diq3hV3GpUhrs2">Jim Legxacy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,382 likes - 65 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,430 likes - 65 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

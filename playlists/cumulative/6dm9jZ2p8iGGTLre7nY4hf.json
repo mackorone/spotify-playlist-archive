@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Change of Plans",
+        "url": "https://open.spotify.com/album/761KOqmdU3EZgU8EFKydPk"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219353,
+      "name": "Any Way I Can",
+      "url": "https://open.spotify.com/track/3Zx5ReE3zp5uzLpTJ2KsvH"
+    },
+    {
+      "album": {
         "name": "A Grey Area",
         "url": "https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0"
       },
@@ -5356,6 +5374,42 @@
       "duration_ms": 295900,
       "name": "Organize - Organ version",
       "url": "https://open.spotify.com/track/5PFocctYP4Rmzfbp6QXdrN"
+    },
+    {
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/4D1YMmnqNvTbECWBuQYnBb"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/0yKsZ7zzBGlqcMGsYLHPnJ"
+    },
+    {
+      "album": {
+        "name": "Out Out",
+        "url": "https://open.spotify.com/album/30GZcYVobsvomiqsckwrmP"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161398,
+      "name": "Out Out",
+      "url": "https://open.spotify.com/track/6w0Hwp8B3HNmzhKiMzeWOf"
     },
     {
       "album": {

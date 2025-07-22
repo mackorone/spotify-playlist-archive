@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 798323,
+  "num_followers": 798403,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2025-07-18 13:27:54",
       "album": {
-        "name": "Chemtrails Over The Country Club",
-        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 271176,
-      "name": "Chemtrails Over The Country Club",
-      "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
-    },
-    {
-      "added_at": "2025-07-18 13:27:54",
-      "album": {
         "name": "Always Love featuring Hyunjin (Stray Kids)",
         "url": "https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 198472,
       "name": "Always Love featuring Hyunjin (Stray Kids)",
       "url": "https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS"
+    },
+    {
+      "added_at": "2025-07-18 13:27:54",
+      "album": {
+        "name": "Chemtrails Over The Country Club",
+        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 271176,
+      "name": "Chemtrails Over The Country Club",
+      "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
     },
     {
       "added_at": "2025-07-18 13:27:54",
@@ -191,6 +191,22 @@
     {
       "added_at": "2025-07-18 13:27:54",
       "album": {
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
+    },
+    {
+      "added_at": "2025-07-18 13:27:54",
+      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 191906,
       "name": "Banana Pancakes",
       "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM"
-    },
-    {
-      "added_at": "2025-07-18 13:27:54",
-      "album": {
-        "name": "Henry, come on",
-        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 311269,
-      "name": "Henry, come on",
-      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     },
     {
       "added_at": "2025-07-18 13:27:54",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-07-18 13:27:54",
       "album": {
-        "name": "Arm's Length",
-        "url": "https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Arm's Length",
-      "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
-    },
-    {
-      "added_at": "2025-07-18 13:27:54",
-      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 204973,
       "name": "Road Trippin'",
       "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
+    },
+    {
+      "added_at": "2025-07-18 13:27:54",
+      "album": {
+        "name": "Arm's Length",
+        "url": "https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
     },
     {
       "added_at": "2025-07-18 13:27:54",
@@ -763,8 +763,8 @@
     {
       "added_at": "2025-07-18 13:27:54",
       "album": {
-        "name": "Clover",
-        "url": "https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z"
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 210050,
-      "name": "Clover",
-      "url": "https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ"
+      "duration_ms": 219503,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
     },
     {
       "added_at": "2025-07-18 13:27:54",
@@ -879,8 +879,8 @@
     {
       "added_at": "2025-07-18 13:27:54",
       "album": {
-        "name": "Dog Eared",
-        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 219503,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
+      "duration_ms": 210050,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ"
     },
     {
       "added_at": "2025-07-18 13:27:54",
@@ -947,22 +947,18 @@
     {
       "added_at": "2025-07-18 13:27:54",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb"
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
       "artists": [
         {
-          "name": "alayna",
-          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
-        },
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 202800,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX"
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2025-07-18 13:27:54",
@@ -983,34 +979,22 @@
     {
       "added_at": "2025-07-18 13:27:54",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
-    },
-    {
-      "added_at": "2025-07-18 13:27:54",
-      "album": {
-        "name": "Mama's Boy",
-        "url": "https://open.spotify.com/album/3NVUYm7edVbzZoDGsusFg9"
-      },
-      "artists": [
+          "name": "alayna",
+          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
+        },
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
         }
       ],
-      "duration_ms": 196923,
-      "name": "Mama's Boy",
-      "url": "https://open.spotify.com/track/68ZvWR7hhZ6mHtzBknduf6"
+      "duration_ms": 202800,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX"
     },
     {
       "added_at": "2025-07-18 13:27:54",
@@ -1031,22 +1015,18 @@
     {
       "added_at": "2025-07-18 13:27:54",
       "album": {
-        "name": "I Found (with Freya Ridings)",
-        "url": "https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c"
+        "name": "Mama's Boy",
+        "url": "https://open.spotify.com/album/3NVUYm7edVbzZoDGsusFg9"
       },
       "artists": [
         {
-          "name": "Amber Run",
-          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
-        },
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 274725,
-      "name": "I Found (with Freya Ridings)",
-      "url": "https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa"
+      "duration_ms": 196923,
+      "name": "Mama's Boy",
+      "url": "https://open.spotify.com/track/68ZvWR7hhZ6mHtzBknduf6"
     },
     {
       "added_at": "2025-07-18 13:27:54",
@@ -1063,6 +1043,26 @@
       "duration_ms": 163324,
       "name": "Please Slow Down - Rubber Bridge Version",
       "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
+    },
+    {
+      "added_at": "2025-07-18 13:27:54",
+      "album": {
+        "name": "I Found (with Freya Ridings)",
+        "url": "https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        },
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 274725,
+      "name": "I Found (with Freya Ridings)",
+      "url": "https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa"
     },
     {
       "added_at": "2025-07-18 13:27:54",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-07-18 13:27:54",
       "album": {
-        "name": "\u00e0 deux",
-        "url": "https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1"
-      },
-      "artists": [
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 205808,
-      "name": "\u00e0 deux",
-      "url": "https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq"
-    },
-    {
-      "added_at": "2025-07-18 13:27:54",
-      "album": {
         "name": "Beautiful Thingz",
         "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 208031,
       "name": "Beautiful Thingz",
       "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
+    },
+    {
+      "added_at": "2025-07-18 13:27:54",
+      "album": {
+        "name": "\u00e0 deux",
+        "url": "https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "duration_ms": 205808,
+      "name": "\u00e0 deux",
+      "url": "https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq"
     },
     {
       "added_at": "2025-07-18 13:27:54",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-07-18 13:27:54",
       "album": {
-        "name": "Basement beds",
-        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 261219,
-      "name": "Basement beds",
-      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
-    },
-    {
-      "added_at": "2025-07-18 13:27:54",
-      "album": {
         "name": "Toujours des fleurs",
         "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
       },
@@ -1199,22 +1183,6 @@
     {
       "added_at": "2025-07-18 13:27:54",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/6Fdk1QSdUhNWnLeQ64ClZj"
-      },
-      "artists": [
-        {
-          "name": "Derik Fein",
-          "url": "https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i"
-        }
-      ],
-      "duration_ms": 155009,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/72y7LZzbvrFQJcsNELTtjE"
-    },
-    {
-      "added_at": "2025-07-18 13:27:54",
-      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
       },
@@ -1227,6 +1195,38 @@
       "duration_ms": 197136,
       "name": "Brown Eyes",
       "url": "https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m"
+    },
+    {
+      "added_at": "2025-07-18 13:27:54",
+      "album": {
+        "name": "Basement beds",
+        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 261219,
+      "name": "Basement beds",
+      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
+    },
+    {
+      "added_at": "2025-07-18 13:27:54",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/6Fdk1QSdUhNWnLeQ64ClZj"
+      },
+      "artists": [
+        {
+          "name": "Derik Fein",
+          "url": "https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i"
+        }
+      ],
+      "duration_ms": 155009,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/72y7LZzbvrFQJcsNELTtjE"
     },
     {
       "added_at": "2025-07-18 13:27:54",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-07-18 13:27:54",
       "album": {
-        "name": "Inland Ocean",
-        "url": "https://open.spotify.com/album/1gmOIMJ6gBk0IijoaQBFqC"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 294026,
-      "name": "Inland Ocean",
-      "url": "https://open.spotify.com/track/0Y6S6q1YUKcr9kWCnIVXDG"
-    },
-    {
-      "added_at": "2025-07-18 13:27:54",
-      "album": {
         "name": "Sonatine",
         "url": "https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 233666,
       "name": "Sonatine",
       "url": "https://open.spotify.com/track/0A0QXR6AT2UuhlrrLhDMn0"
+    },
+    {
+      "added_at": "2025-07-18 13:27:54",
+      "album": {
+        "name": "Inland Ocean",
+        "url": "https://open.spotify.com/album/1gmOIMJ6gBk0IijoaQBFqC"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 294026,
+      "name": "Inland Ocean",
+      "url": "https://open.spotify.com/track/0Y6S6q1YUKcr9kWCnIVXDG"
     },
     {
       "added_at": "2025-07-18 13:27:54",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2025-07-18 13:27:54",
       "album": {
+        "name": "Never Give Up (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5C7vifEyUfX7zUYtu1Qhng"
+      },
+      "artists": [
+        {
+          "name": "Puggy",
+          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+        }
+      ],
+      "duration_ms": 187863,
+      "name": "Never Give Up (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5KVhdxJkh4hABMvaJHLz5y"
+    },
+    {
+      "added_at": "2025-07-18 13:27:54",
+      "album": {
         "name": "Amiss",
         "url": "https://open.spotify.com/album/4kbW4wRsOzRNBzP9gwSyMz"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 203615,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"
-    },
-    {
-      "added_at": "2025-07-18 13:27:54",
-      "album": {
-        "name": "Never Give Up (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5C7vifEyUfX7zUYtu1Qhng"
-      },
-      "artists": [
-        {
-          "name": "Puggy",
-          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
-        }
-      ],
-      "duration_ms": 187863,
-      "name": "Never Give Up (Acoustic Version)",
-      "url": "https://open.spotify.com/track/5KVhdxJkh4hABMvaJHLz5y"
     },
     {
       "added_at": "2025-07-18 13:27:54",

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 10830,
+  "num_followers": 10833,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Thirsty",
+        "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 415133,
+      "name": "Never Would Have Made It",
+      "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "I Am...",
         "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 284000,
       "name": "Hate Me Now (feat. Diddy)",
       "url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Thirsty",
-        "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 415133,
-      "name": "Never Would Have Made It",
-      "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -479,22 +479,18 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "The Blueprint 3",
-        "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
+        "name": "A Moment In Time",
+        "url": "https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex"
       },
       "artists": [
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Swizz Beatz",
-          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
         }
       ],
-      "duration_ms": 256133,
-      "name": "On To The Next One",
-      "url": "https://open.spotify.com/track/4ljDnzzqwnRIynr1g55um4"
+      "duration_ms": 222960,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -519,18 +515,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "A Moment In Time",
-        "url": "https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex"
+        "name": "The Blueprint 3",
+        "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
       },
       "artists": [
         {
-          "name": "Beres Hammond",
-          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
         }
       ],
-      "duration_ms": 222960,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr"
+      "duration_ms": 256133,
+      "name": "On To The Next One",
+      "url": "https://open.spotify.com/track/4ljDnzzqwnRIynr1g55um4"
     },
     {
       "added_at": "2022-10-01 16:43:03",

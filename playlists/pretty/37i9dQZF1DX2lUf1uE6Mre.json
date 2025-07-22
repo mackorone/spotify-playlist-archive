@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Loredana",
-  "num_followers": 916831,
+  "num_followers": 916852,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -27,26 +27,6 @@
     {
       "added_at": "2025-07-17 22:01:28",
       "album": {
-        "name": "Capri Sun",
-        "url": "https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY"
-      },
-      "artists": [
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        }
-      ],
-      "duration_ms": 119244,
-      "name": "Capri Sun",
-      "url": "https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG"
-    },
-    {
-      "added_at": "2025-07-17 22:01:28",
-      "album": {
         "name": "Love all night",
         "url": "https://open.spotify.com/album/2U8inedtU0YX3Von3qAsiU"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 169160,
       "name": "Love all night",
       "url": "https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus"
+    },
+    {
+      "added_at": "2025-07-17 22:01:28",
+      "album": {
+        "name": "Capri Sun",
+        "url": "https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "duration_ms": 119244,
+      "name": "Capri Sun",
+      "url": "https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG"
     },
     {
       "added_at": "2025-07-17 22:01:28",
@@ -255,26 +255,6 @@
     {
       "added_at": "2025-07-17 22:01:28",
       "album": {
-        "name": "Summer Baby",
-        "url": "https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG"
-      },
-      "artists": [
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
-        },
-        {
-          "name": "The Underdog Project",
-          "url": "https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb"
-        }
-      ],
-      "duration_ms": 143276,
-      "name": "Summer Baby",
-      "url": "https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I"
-    },
-    {
-      "added_at": "2025-07-17 22:01:28",
-      "album": {
         "name": "Reggaeton",
         "url": "https://open.spotify.com/album/2IvWfJoEYFRNNNOdMqX7QE"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 150125,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/773uSnil7arBe7hEZJJf7p"
+    },
+    {
+      "added_at": "2025-07-17 22:01:28",
+      "album": {
+        "name": "Summer Baby",
+        "url": "https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        },
+        {
+          "name": "The Underdog Project",
+          "url": "https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb"
+        }
+      ],
+      "duration_ms": 143276,
+      "name": "Summer Baby",
+      "url": "https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I"
     },
     {
       "added_at": "2025-07-17 22:01:28",
@@ -647,6 +647,26 @@
     {
       "added_at": "2025-07-17 22:01:28",
       "album": {
+        "name": "Bei dir",
+        "url": "https://open.spotify.com/album/4bD5KUrBZ3baC2qzxwFUqk"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "Bei dir",
+      "url": "https://open.spotify.com/track/7MLMhnzLCxXCsoWeKUZns7"
+    },
+    {
+      "added_at": "2025-07-17 22:01:28",
+      "album": {
         "name": "Bounce!",
         "url": "https://open.spotify.com/album/5jEgmAXeWvaaoLkPsyL7cr"
       },
@@ -703,38 +723,26 @@
     {
       "added_at": "2025-07-17 22:01:28",
       "album": {
-        "name": "Bei dir",
-        "url": "https://open.spotify.com/album/4bD5KUrBZ3baC2qzxwFUqk"
+        "name": "Mi Amor 2.0",
+        "url": "https://open.spotify.com/album/39Nv2P1OgzFXkHBNPTcFBa"
       },
       "artists": [
         {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
         },
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Bei dir",
-      "url": "https://open.spotify.com/track/7MLMhnzLCxXCsoWeKUZns7"
-    },
-    {
-      "added_at": "2025-07-17 22:01:28",
-      "album": {
-        "name": "GOVA",
-        "url": "https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v"
-      },
-      "artists": [
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        },
         {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+          "name": "LJK",
+          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
         }
       ],
-      "duration_ms": 180062,
-      "name": "Juana auf Snapchat",
-      "url": "https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU"
+      "duration_ms": 211440,
+      "name": "Mi Amor 2.0",
+      "url": "https://open.spotify.com/track/2DJB7zAwaPRjy7GEu470jy"
     },
     {
       "added_at": "2025-07-17 22:01:28",
@@ -759,6 +767,22 @@
       "duration_ms": 127084,
       "name": "Jebiga",
       "url": "https://open.spotify.com/track/30tl9xkDBGoo8xlzsaRnA8"
+    },
+    {
+      "added_at": "2025-07-17 22:01:28",
+      "album": {
+        "name": "GOVA",
+        "url": "https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "Juana auf Snapchat",
+      "url": "https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU"
     },
     {
       "added_at": "2025-07-17 22:01:28",
@@ -795,6 +819,22 @@
     {
       "added_at": "2025-07-17 22:01:28",
       "album": {
+        "name": "Diadem",
+        "url": "https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "duration_ms": 164937,
+      "name": "Diadem",
+      "url": "https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy"
+    },
+    {
+      "added_at": "2025-07-17 22:01:28",
+      "album": {
         "name": "Junimond",
         "url": "https://open.spotify.com/album/5NsPGR69Y7ucREdsdmsrYs"
       },
@@ -827,42 +867,22 @@
     {
       "added_at": "2025-07-17 22:01:28",
       "album": {
-        "name": "Mi Amor 2.0",
-        "url": "https://open.spotify.com/album/39Nv2P1OgzFXkHBNPTcFBa"
+        "name": "MURAKAMI",
+        "url": "https://open.spotify.com/album/4NVsfiFwEXlewPFjMB8bjo"
       },
       "artists": [
         {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
         },
         {
-          "name": "Il Ghost",
-          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
-        },
-        {
-          "name": "LJK",
-          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
         }
       ],
-      "duration_ms": 211440,
-      "name": "Mi Amor 2.0",
-      "url": "https://open.spotify.com/track/2DJB7zAwaPRjy7GEu470jy"
-    },
-    {
-      "added_at": "2025-07-17 22:01:28",
-      "album": {
-        "name": "Diadem",
-        "url": "https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI"
-      },
-      "artists": [
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        }
-      ],
-      "duration_ms": 164937,
-      "name": "Diadem",
-      "url": "https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy"
+      "duration_ms": 138305,
+      "name": "MURAKAMI",
+      "url": "https://open.spotify.com/track/3gTLaJJbieHBrti47DXTUo"
     },
     {
       "added_at": "2025-07-17 22:01:28",
@@ -883,26 +903,6 @@
       "duration_ms": 117573,
       "name": "GUNSHOT",
       "url": "https://open.spotify.com/track/14PkTcqjxqsUk5pO9Cz74a"
-    },
-    {
-      "added_at": "2025-07-17 22:01:28",
-      "album": {
-        "name": "MURAKAMI",
-        "url": "https://open.spotify.com/album/4NVsfiFwEXlewPFjMB8bjo"
-      },
-      "artists": [
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
-        },
-        {
-          "name": "BILLA JOE",
-          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "MURAKAMI",
-      "url": "https://open.spotify.com/track/3gTLaJJbieHBrti47DXTUo"
     },
     {
       "added_at": "2025-07-17 22:01:28",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-07-17 22:01:28",
       "album": {
+        "name": "Zemer",
+        "url": "https://open.spotify.com/album/1ycMDahcVTL9gMDQG6Sr2I"
+      },
+      "artists": [
+        {
+          "name": "DANO",
+          "url": "https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr"
+        }
+      ],
+      "duration_ms": 134788,
+      "name": "Zemer",
+      "url": "https://open.spotify.com/track/1RC4uLbhnXE6bZUVXlJKky"
+    },
+    {
+      "added_at": "2025-07-17 22:01:28",
+      "album": {
         "name": "stop",
         "url": "https://open.spotify.com/album/6N1m34hNGak9xZiZBmKhLn"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 106739,
       "name": "stop",
       "url": "https://open.spotify.com/track/2qVPNSHjJeJVq4GaFiRb0r"
-    },
-    {
-      "added_at": "2025-07-17 22:01:28",
-      "album": {
-        "name": "Zemer",
-        "url": "https://open.spotify.com/album/1ycMDahcVTL9gMDQG6Sr2I"
-      },
-      "artists": [
-        {
-          "name": "DANO",
-          "url": "https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr"
-        }
-      ],
-      "duration_ms": 134788,
-      "name": "Zemer",
-      "url": "https://open.spotify.com/track/1RC4uLbhnXE6bZUVXlJKky"
     },
     {
       "added_at": "2025-07-17 22:01:28",
@@ -1095,6 +1095,26 @@
       "duration_ms": 188307,
       "name": "Scusa",
       "url": "https://open.spotify.com/track/1fcHxYGjq7l6C8ugKHgJa8"
+    },
+    {
+      "added_at": "2025-07-17 22:01:28",
+      "album": {
+        "name": "MS. FATTY",
+        "url": "https://open.spotify.com/album/1scwCDGBdMG4TXegKI3Htv"
+      },
+      "artists": [
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        },
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "duration_ms": 151464,
+      "name": "MS. FATTY",
+      "url": "https://open.spotify.com/track/76yQVPxMbxr1w1DxjZXx6c"
     },
     {
       "added_at": "2025-07-17 22:01:28",
@@ -1191,26 +1211,6 @@
     {
       "added_at": "2025-07-17 22:01:28",
       "album": {
-        "name": "Ay Ay Ay",
-        "url": "https://open.spotify.com/album/4NYJsOnxZuuLFEtAnl6NUB"
-      },
-      "artists": [
-        {
-          "name": "Erda",
-          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
-        },
-        {
-          "name": "Chiaraspureluv",
-          "url": "https://open.spotify.com/artist/5e8vt3hrE78mvyxNpvHiUb"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "Ay Ay Ay",
-      "url": "https://open.spotify.com/track/1fkl86FECSBykeUTbDJhwJ"
-    },
-    {
-      "added_at": "2025-07-17 22:01:28",
-      "album": {
         "name": "Coco Chanel",
         "url": "https://open.spotify.com/album/6VvTZ4a8LfO1ymHs8FdLHs"
       },
@@ -1227,6 +1227,26 @@
       "duration_ms": 143963,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/33w8uhoFjr7Y9FkzHDf94f"
+    },
+    {
+      "added_at": "2025-07-17 22:01:28",
+      "album": {
+        "name": "Ay Ay Ay",
+        "url": "https://open.spotify.com/album/4NYJsOnxZuuLFEtAnl6NUB"
+      },
+      "artists": [
+        {
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+        },
+        {
+          "name": "Chiaraspureluv",
+          "url": "https://open.spotify.com/artist/5e8vt3hrE78mvyxNpvHiUb"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "Ay Ay Ay",
+      "url": "https://open.spotify.com/track/1fkl86FECSBykeUTbDJhwJ"
     },
     {
       "added_at": "2025-07-17 22:01:28",
@@ -1251,26 +1271,6 @@
       "duration_ms": 125307,
       "name": "Bang",
       "url": "https://open.spotify.com/track/2v7mskZy5FYH2r993PoZIU"
-    },
-    {
-      "added_at": "2025-07-17 22:01:28",
-      "album": {
-        "name": "MS. FATTY",
-        "url": "https://open.spotify.com/album/1scwCDGBdMG4TXegKI3Htv"
-      },
-      "artists": [
-        {
-          "name": "Pajel",
-          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
-        },
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
-        }
-      ],
-      "duration_ms": 151464,
-      "name": "MS. FATTY",
-      "url": "https://open.spotify.com/track/76yQVPxMbxr1w1DxjZXx6c"
     },
     {
       "added_at": "2025-07-17 22:01:28",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-07-17 22:01:28",
       "album": {
-        "name": "Vespa",
-        "url": "https://open.spotify.com/album/6pUSfO8PGUDlUFWh8SMZJQ"
-      },
-      "artists": [
-        {
-          "name": "Erda",
-          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Vespa",
-      "url": "https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn"
-    },
-    {
-      "added_at": "2025-07-17 22:01:28",
-      "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/5LADJJTvJIoEXsv4Aa5kWd"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 151087,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/5k3I3hb3ouwr1ttrjxE13x"
+    },
+    {
+      "added_at": "2025-07-17 22:01:28",
+      "album": {
+        "name": "Vespa",
+        "url": "https://open.spotify.com/album/6pUSfO8PGUDlUFWh8SMZJQ"
+      },
+      "artists": [
+        {
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Vespa",
+      "url": "https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn"
     },
     {
       "added_at": "2025-07-17 22:01:28",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-07-17 22:01:28",
       "album": {
-        "name": "Augen auf mir",
-        "url": "https://open.spotify.com/album/5k3QdSAmho2Flk2xLYQbWv"
-      },
-      "artists": [
-        {
-          "name": "Erda",
-          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
-        }
-      ],
-      "duration_ms": 128086,
-      "name": "Augen auf mir",
-      "url": "https://open.spotify.com/track/1N8z59n95wvAv4069I6y7Y"
-    },
-    {
-      "added_at": "2025-07-17 22:01:28",
-      "album": {
         "name": "Temperatura",
         "url": "https://open.spotify.com/album/2mgO09x0ArB8EoprTK89Xk"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 134724,
       "name": "Temperatura",
       "url": "https://open.spotify.com/track/3CBPfbeWuAD1pM1IFHQ4Er"
+    },
+    {
+      "added_at": "2025-07-17 22:01:28",
+      "album": {
+        "name": "Augen auf mir",
+        "url": "https://open.spotify.com/album/5k3QdSAmho2Flk2xLYQbWv"
+      },
+      "artists": [
+        {
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+        }
+      ],
+      "duration_ms": 128086,
+      "name": "Augen auf mir",
+      "url": "https://open.spotify.com/track/1N8z59n95wvAv4069I6y7Y"
     },
     {
       "added_at": "2025-07-17 22:01:28",

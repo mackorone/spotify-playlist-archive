@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: Karri
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,924 likes - 180 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,020 likes - 180 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring, Ski Mask The Slump God, XXXTENTACION, Money Man &amp; Rio Da Yung Og.
 
-167 songs - 7 hr 23 min
+168 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Get Off](https://open.spotify.com/track/1Pk5l0MYcmMlFG5XS9VGsK) | [Pretty Brayah](https://open.spotify.com/artist/04T13CNEP9VzNd4jMNQrQb) | [Get Off](https://open.spotify.com/album/36osWrlEhL8GT8IwreDLEM) | 2:33 | 2023-09-28 | 2024-06-19 |
 | [Ghetto Boyz](https://open.spotify.com/track/1EH3nPHVZbWn2LTwxrp3j1) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Ghetto Boyz](https://open.spotify.com/album/40chibcpJl6iVoRkdKk4ql) | 2:13 | 2024-07-22 | 2024-09-24 |
 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 | 2025-07-07 |  |
+| [Great Day](https://open.spotify.com/track/7zGjLN0J7xotEWjri2cqb3) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Great Day](https://open.spotify.com/album/6p4H6WRMTy3Er71hZNkase) | 2:36 | 2025-07-21 |  |
 | [Green Carpet](https://open.spotify.com/track/4OYy7dfHbLKi4lvpzpzeRv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Green Carpet](https://open.spotify.com/album/7MZCu883H2Y7Br2K9Wd3Ef) | 2:13 | 2024-03-04 | 2024-06-19 |
 | [Had To](https://open.spotify.com/track/1ZHakZWwiAQbWEkoo0yu51) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Had To](https://open.spotify.com/album/1XOT3VRRCmVMbeUZc6195x) | 2:41 | 2025-02-11 |  |
 | [Hard To Handle](https://open.spotify.com/track/3N4LtsPwD5TikEeEIq1m9a) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Handle](https://open.spotify.com/album/1itz9psxuHakXi5iVap9Hr) | 3:35 | 2023-08-18 | 2024-05-21 |

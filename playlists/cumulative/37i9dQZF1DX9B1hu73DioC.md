@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-931 songs - 2 day 7 hr 19 min
+932 songs - 2 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Falling Down a Well](https://open.spotify.com/track/6y4eFBfaADWBdUMq4HlrOC) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl) | [Falling Down a Well / Born Without a Smile](https://open.spotify.com/album/2ad6OJI02AHDOXDCCdf9Sg) | 2:53 | 2025-03-12 | 2025-05-02 |
 | [Fantasy \(with Raveena\)](https://open.spotify.com/track/6g8cxooV9l2dluphzZyJDg) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Fantasy \(with Raveena\)](https://open.spotify.com/album/7dEJfJNC8FTuvu1fbnXedb) | 3:54 | 2025-03-28 | 2025-05-02 |
 | [Fast Lovers](https://open.spotify.com/track/2x66KY9ZtoZsMv4z6KgLkV) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Fast Lovers](https://open.spotify.com/album/5jx4Wd5TNwMvDfNCANHlHm) | 2:55 | 2020-10-05\* | 2020-10-06 |
-| [Favorite Kind of People](https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Favorite Kind of People](https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm) | 3:04 | 2024-11-15 |  |
+| [Favorite Kind of People](https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Favorite Kind of People](https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm) | 3:04 | 2024-11-15 | 2025-07-22 |
 | [Feels Like I'm Flying](https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru) | 2:35 | 2021-11-19 | 2022-04-21 |
 | [Ferris Wheel](https://open.spotify.com/track/0zX1fnVFXWE0zBSwoppHeg) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Alvah](https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y), [FENGSEL](https://open.spotify.com/artist/4KxviFeU2wjUOeMOICqJAq) | [Ferris Wheel](https://open.spotify.com/album/1voUvjiiXNLPjCB7XGzgri) | 3:05 | 2021-06-25 | 2022-06-22 |
 | [FIJI \(feat\. Cruza\)](https://open.spotify.com/track/6HubPIhCjRxkwR2zJa2ZLB) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT), [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [FIJI \(feat\. Cruza\)](https://open.spotify.com/album/7mue6v0O7LbOnUned27pzi) | 2:54 | 2024-08-07 | 2024-09-05 |
@@ -428,6 +428,7 @@
 | [I See It Now](https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Songs From A Thousand Frames Of Mind](https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS) | 3:27 | 2024-10-04 | 2024-12-18 |
 | [I Wasted You](https://open.spotify.com/track/7sQQC2vvWgKLoZEISvWXjd) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Press](https://open.spotify.com/album/1q8ASB9H9g8rI74YjKsdsw) | 3:42 | 2020-10-05\* | 2022-04-05 |
 | [I Won!](https://open.spotify.com/track/3KQDLIK3HZkPJg7HS0d7jx) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [I Won!](https://open.spotify.com/album/3j3lsfoCPCp93p1eUL1dbq) | 3:20 | 2021-06-25 | 2022-04-21 |
+| [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 | 2025-07-18 |  |
 | [I'll Be Good](https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Habits of My Heart](https://open.spotify.com/album/7c4oC2FhDzwu7XU7XRB4lZ) | 4:08 | 2021-03-14 | 2022-04-19 |
 | [I'm Probably Gonna Rock Your World](https://open.spotify.com/track/0Sceq3bQBTB70SJwAZm9Nu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Supermarket \(Soundtrack\)](https://open.spotify.com/album/7C5J8fG34IbOKe2pQPq9SU) | 2:31 | 2020-10-05\* | 2022-04-18 |
 | [I.L.T.S.](https://open.spotify.com/track/12TB5WLNviUpqLglb8yTXX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 3:29 | 2025-04-25 |  |

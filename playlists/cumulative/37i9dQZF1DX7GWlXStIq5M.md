@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Grag Queen
 
-1,011 songs - 2 day 2 hr 22 min
+1,012 songs - 2 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [Difícil De Esquecer](https://open.spotify.com/track/59gPzC6zAatOA6Rdjnve5q) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE) | [Difícil De Esquecer](https://open.spotify.com/album/4y85puLIpZ71bXlW5O7uKA) | 2:29 | 2023-06-23 | 2023-08-05 |
 | [Digdin](https://open.spotify.com/track/0XWVsGfQMBbvGDYddqP07n) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Fé Na Caminhada](https://open.spotify.com/album/41eYp9Mqs7dmd6Ad9ziR6F) | 2:39 | 2023-08-04 | 2023-10-14 |
 | [Dilema](https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Dilema](https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b) | 3:06 | 2025-07-04 |  |
-| [Dilemas da vida moderna](https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:28 | 2025-05-23 |  |
+| [Dilemas da vida moderna](https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:28 | 2025-05-23 | 2025-07-22 |
 | [Dinheiro \(L'argent\)](https://open.spotify.com/track/2wKXpKApMHqnpd3kn8X1f0) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Baby Sharon](https://open.spotify.com/artist/7lJc0gnVuuUx6XBpvg1ZpF) | [Dinheiro \(L'argent\)](https://open.spotify.com/album/58eoMKm3AAxw54irp5hQO8) | 2:25 | 2025-05-03 |  |
 | [Direitos Autorais](https://open.spotify.com/track/5Q1eeOx96R2xG6ErEZLKeo) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Direitos Autorais](https://open.spotify.com/album/3W3tNGlAHMISLuM6x8BbOa) | 2:28 | 2023-08-17 | 2023-09-09 |
 | [Disfarce](https://open.spotify.com/track/0trI4oy0dayuYLeZioJHQg) | [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Disfarce](https://open.spotify.com/album/2AWsgoxFjLB27lahfqvP5Y) | 2:56 | 2020-10-20 | 2022-07-29 |
@@ -840,6 +840,7 @@
 | [Seu Herói](https://open.spotify.com/track/2SYg5OXAYvCkpJUsImBsnc) | [Stefan Baby](https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Uma Nova História](https://open.spotify.com/album/1z7Wa5c7djeu9k157UPKlg) | 2:26 | 2025-06-20 |  |
 | [seu lugar](https://open.spotify.com/track/1jxrqBqYCtnutz4Ug0i8kf) | [Milla](https://open.spotify.com/artist/1IATW2PPpsnKIEIaDY5CvT) | [seu lugar](https://open.spotify.com/album/4BCqyrF00Xo2VJc7R50qiw) | 3:21 | 2023-02-14 | 2023-03-25 |
 | [Sexo, poder e arte](https://open.spotify.com/track/7tgRx0uRO64z0Zppg9BsCy) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [Sexo, poder e arte](https://open.spotify.com/album/0YrSJbs6AO5Qj8vKCqsqrt) | 4:32 | 2023-12-22 | 2024-03-09 |
+| [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 | 2025-07-21 |  |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2020-10-20 | 2023-02-15 |
 | [Sikatrizes](https://open.spotify.com/track/637kGZJZhh7MQ37lXkgJgi) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sikatrizes](https://open.spotify.com/album/4Aul6VilD9IqNuM93mc8ZR) | 3:15 | 2020-10-20 | 2022-07-29 |
 | [Sinais](https://open.spotify.com/track/4NBeR8EKpWMaBNHFvN8BYA) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sinais](https://open.spotify.com/album/35DzxwKI6e0mJBCmPxBUUE) | 3:47 | 2025-05-16 |  |

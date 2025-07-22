@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>sokodomo\(소코도모\)\)
 
-1,584 songs - 3 day 13 hr 15 min
+1,585 songs - 3 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,6 +896,7 @@
 | [Monet](https://open.spotify.com/track/2AIdJeRi6mlNXhJRdqlm0A) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 2:38 | 2023-07-18 | 2024-03-09 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2023-11-10 | 2024-06-05 |
 | [MONEY](https://open.spotify.com/track/7ifLrhXBoQ5MDFTRpIYkfA) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 2:48 | 2021-12-18 | 2022-07-07 |
+| [Money](https://open.spotify.com/track/51uEcwpso8JVNsterfnQKI) | [Potty Monkey](https://open.spotify.com/artist/4vy6l0BczucI2I2ax6tPhO), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Money](https://open.spotify.com/album/4i8guh1EyFKtyK7uhPgGPg) | 3:26 | 2025-07-21 |  |
 | [Money Bag](https://open.spotify.com/track/4GkgHODPGClQyzDEN4tTGO) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [Money Bag](https://open.spotify.com/album/0hDEcd0coq8QIe5FL736TV) | 3:08 | 2024-01-11 | 2024-05-03 |
 | [MONEY GAME](https://open.spotify.com/track/3I0U0qLpokurgArQly7sk3) | [kaogaii](https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2) | [MONEY GAME](https://open.spotify.com/album/0SLApxKJwQWBvXdrtkBS4p) | 3:50 | 2021-12-21 | 2022-06-04 |
 | [Money Making Song](https://open.spotify.com/track/1REGHoA013hs8m9tI9ZD7V) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Money Making Song](https://open.spotify.com/album/7b3oLj0h5q7I3gh1lK7Ti7) | 2:26 | 2024-08-08 | 2024-11-28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 51329,
+  "num_followers": 51342,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHrgAAAAAAAIgLK3hAwb1Go7/1hukjv2",
+  "snapshot_id": "aHwxgAAAAAAwD+48tMob51LaBEglG+9l",
   "tracks": [
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Camina Sin Mirar Atras",
+        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 168153,
+      "name": "Ense\u00f1ame a Olvidar",
+      "url": "https://open.spotify.com/track/55xhJyoY3cbUzQIZOtea7i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mayor de Edad",
         "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 194461,
       "name": "Mas Fuerte Que el Viento",
       "url": "https://open.spotify.com/track/4bjkGiCeqcs4mhUHWY7hNq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Camina Sin Mirar Atras",
-        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 168153,
-      "name": "Ense\u00f1ame a Olvidar",
-      "url": "https://open.spotify.com/track/55xhJyoY3cbUzQIZOtea7i"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 166840,
+      "name": "Chiquilla Te Quiero",
+      "url": "https://open.spotify.com/track/1qYiXj8TdD8AGdzUCCUXW4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mayor de Edad",
         "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 191796,
       "name": "Le Dire Que Me Gusta",
       "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "Chiquilla Te Quiero",
-      "url": "https://open.spotify.com/track/1qYiXj8TdD8AGdzUCCUXW4"
     }
   ],
   "unique_name": "This Is El Chapo De Sinaloa",

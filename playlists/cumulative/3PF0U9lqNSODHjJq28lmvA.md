@@ -4,7 +4,7 @@
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-3,092 songs - 7 day 20 hr 7 min
+3,093 songs - 7 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Angry Armadillo](https://open.spotify.com/track/48zIxdxmUv9tMG9z4Mh4Wg) | [Aces High Grassroots Band](https://open.spotify.com/artist/2v5UlYAoeF2x5XYTbZmIIX) | [Angry Armadillo](https://open.spotify.com/album/2ctlSiGUyz7ARoT2uxg1Gu) | 5:16 | 2024-12-20 | 2024-12-28 |
 | [Another Kind of Different](https://open.spotify.com/track/3jJqBhSLW0JWaJMDcAduuH) | [Solvind](https://open.spotify.com/artist/4XwwyUWfJ0ka29mvQIxL5X) | [Another Kind of Different](https://open.spotify.com/album/1NnhguV1PaIsI1OR8LR2aM) | 3:43 | 2023-06-30 | 2023-07-09 |
 | [Another Kind Of Love Song](https://open.spotify.com/track/0XPNczH8m6jct6afwHHNF1) | [Loretta Problem](https://open.spotify.com/artist/7JSsb7KtqmRuC5Cyicgot4) | [Another Kind Of Love Song](https://open.spotify.com/album/0Cj0u8KR0TmqNUex2ON5SR) | 3:58 | 2022-06-03 | 2022-06-11 |
+| [Another Long Night](https://open.spotify.com/track/2bfeCwvgVYvBwLEvOqLmFB) | [Sunny Suljic](https://open.spotify.com/artist/3JcGZ9gszrHCHXC9wJtNko) | [Another Long Night](https://open.spotify.com/album/77Wq32ZkMnBgqLgJWL3zI6) | 2:24 | 2025-07-21 |  |
 | [Another Perfect Day](https://open.spotify.com/track/26izbAaR5FcmdrEAWQpL57) | [The Habs Studio Orchestra](https://open.spotify.com/artist/0d2uFBUbxcA0JaQL32qkkR) | [The Video Store at the End of the World](https://open.spotify.com/album/2XpZUUyqva6yoFWEFB9vx5) | 3:26 | 2025-07-04 | 2025-07-12 |
 | [Another Simple Piece](https://open.spotify.com/track/4O7hpxDa2GM3NGd3MAx7uD) | [Philip Teale](https://open.spotify.com/artist/2LOJCmTE451qciJEBjGqqi) | [Another Simple Piece](https://open.spotify.com/album/0SEbGLy9orItBwf8Gr0hWI) | 9:42 | 2023-01-06 | 2023-01-14 |
 | [Antaa tulla vaan](https://open.spotify.com/track/5hwsZKWMcCns7E7OI8Rnbz) | [Nyrkkitappelu](https://open.spotify.com/artist/3iqfiMKG1Qp35bRjj03sb1) | [Antaa tulla vaan](https://open.spotify.com/album/7eJP71UvatQXxtsm6jYZIV) | 1:55 | 2022-11-04 | 2022-11-12 |

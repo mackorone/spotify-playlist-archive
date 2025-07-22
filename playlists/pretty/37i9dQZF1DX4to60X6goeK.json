@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: skantia",
-  "num_followers": 72066,
+  "num_followers": 72112,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/5VR6J9N4EqZHOnzs6lvGgU"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 221479,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/6eWgNJspumvHtUmx8pQlFM"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
         "name": "MHITR (Semi-Automatic) [feat. Eksman]",
         "url": "https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 174917,
       "name": "MHITR (Semi-Automatic) [feat. Eksman]",
       "url": "https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
-        "name": "Light It Up",
-        "url": "https://open.spotify.com/album/5VR6J9N4EqZHOnzs6lvGgU"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 221479,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/6eWgNJspumvHtUmx8pQlFM"
     },
     {
       "added_at": "2025-07-03 23:00:20",
@@ -723,26 +723,6 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
-        "name": "No Excuses (Hedex Remix)",
-        "url": "https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
-        }
-      ],
-      "duration_ms": 163907,
-      "name": "No Excuses - Hedex Remix",
-      "url": "https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
         "name": "PURPOSE",
         "url": "https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 167314,
       "name": "PURPOSE",
       "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
+        "name": "No Excuses (Hedex Remix)",
+        "url": "https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        }
+      ],
+      "duration_ms": 163907,
+      "name": "No Excuses - Hedex Remix",
+      "url": "https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21"
     },
     {
       "added_at": "2025-07-03 23:00:20",

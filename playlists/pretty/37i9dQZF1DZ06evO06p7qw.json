@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 181122,
+  "num_followers": 181173,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHrgAAAAAAAB7Vookzx3OJ8Ez67p4OCk",
+  "snapshot_id": "aHwxgAAAAAC76y9qsW4dsH5myQsG2qVr",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 MANOS 1 MUNDO",
-        "url": "https://open.spotify.com/album/4hMqeZaxdYC4GxMl5vzylA"
+        "name": "Este Momento",
+        "url": "https://open.spotify.com/album/1TcPnkUgx9IR4dUJgCTk0N"
       },
       "artists": [
         {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Nia Skyfer",
-          "url": "https://open.spotify.com/artist/3eZUOEIFA3hTKWNs6UbZwN"
         }
       ],
-      "duration_ms": 188000,
-      "name": "SOL",
-      "url": "https://open.spotify.com/track/087LHAM3Qh50ClhMjvtF0y"
+      "duration_ms": 206778,
+      "name": "Este Momento",
+      "url": "https://open.spotify.com/track/4E4IYliBvPWdrSmNMcuiRN"
     },
     {
       "added_at": null,
@@ -555,22 +551,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Este Momento",
-        "url": "https://open.spotify.com/album/1TcPnkUgx9IR4dUJgCTk0N"
+        "name": "2 MANOS 1 MUNDO",
+        "url": "https://open.spotify.com/album/4hMqeZaxdYC4GxMl5vzylA"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
         },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Nia Skyfer",
+          "url": "https://open.spotify.com/artist/3eZUOEIFA3hTKWNs6UbZwN"
         }
       ],
-      "duration_ms": 206778,
-      "name": "Este Momento",
-      "url": "https://open.spotify.com/track/4E4IYliBvPWdrSmNMcuiRN"
+      "duration_ms": 188000,
+      "name": "SOL",
+      "url": "https://open.spotify.com/track/087LHAM3Qh50ClhMjvtF0y"
     },
     {
       "added_at": null,

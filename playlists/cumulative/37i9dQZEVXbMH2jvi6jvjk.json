@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 305840,
       "name": "Amakhosi (feat. Zawadi Yamungu, Tshego AMG & Tribe Franko)",
       "url": "https://open.spotify.com/track/3x4lvuocEAP9cW1TpBWuSq"
@@ -14562,7 +14562,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 189553,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
@@ -17628,7 +17628,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -21290,7 +21290,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 424778,
       "name": "Imali Yami (feat. Nkosazana Daughter, Sykes, Lastborn & Shalom G)",
       "url": "https://open.spotify.com/track/29xI6JSkACan3bOkZw4Sr5"
@@ -28894,6 +28894,32 @@
       "duration_ms": 388965,
       "name": "Magumba",
       "url": "https://open.spotify.com/track/5MauyRe6luBkKg6mwAAfhH"
+    },
+    {
+      "album": {
+        "name": "Magumba",
+        "url": "https://open.spotify.com/album/422CwSOOoIXi5GYhnko581"
+      },
+      "artists": [
+        {
+          "name": "Khadeair",
+          "url": "https://open.spotify.com/artist/6RQHmMwcFO7oD4K06kcAiz"
+        },
+        {
+          "name": "PeeKay Mzee",
+          "url": "https://open.spotify.com/artist/3kjGJR4uVdVSidEHzw1Ebu"
+        },
+        {
+          "name": "Kaytah",
+          "url": "https://open.spotify.com/artist/7wWEcTTy43Tl3ASOCsTD2Y"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406321,
+      "name": "Magumba",
+      "url": "https://open.spotify.com/track/6sbHyHcH3bvY2qRfRTxOwE"
     },
     {
       "album": {
@@ -39526,7 +39552,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 307663,
       "name": "Romeo & Juliet",
       "url": "https://open.spotify.com/track/021iZJ1jjc6cZZ4sMXvcW9"
@@ -50662,7 +50688,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-22",
       "duration_ms": 284055,
       "name": "Uvume Kanjani?",
       "url": "https://open.spotify.com/track/1SBdVvoxfFvuO6BVY9WqnI"

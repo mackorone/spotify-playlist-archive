@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-649 songs - 1 day 4 hr 6 min
+651 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 | 2023-06-19 |  |
 | [Fratelli](https://open.spotify.com/track/0ptKkh5g9jnbLnNQjbpBTs) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Fratelli](https://open.spotify.com/album/24K76zbkZFeNYrF4rdMUmr) | 2:07 | 2022-04-22 | 2024-04-16 |
 | [From Above](https://open.spotify.com/track/5LIsR2QFLqxot9tX9huYwi) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Your Story](https://open.spotify.com/album/02mdAAH2cPIPnDCP8qgln2) | 1:46 | 2022-09-15 | 2023-07-19 |
+| [Frozen Flower](https://open.spotify.com/track/4WfY4hp9fBxqw4pVbiYoYb) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Frozen Flower](https://open.spotify.com/album/3gSPyAbHzv4UkOFHdkgKH9) | 3:21 | 2025-07-21 |  |
 | [Full Of Life](https://open.spotify.com/track/2YsCoCOAiyDziuyHATGgz6) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Full Of Life](https://open.spotify.com/album/4vFDgnDqr5AQNnc1kElFQU) | 2:08 | 2023-03-21 |  |
 | [Fusionnelle](https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr), [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Fusionnelle](https://open.spotify.com/album/0LrgpXNHILMtfOZ7ZLifTK) | 2:25 | 2022-04-22 | 2023-05-04 |
 | [Geniality](https://open.spotify.com/track/1vaLaizp9SS2AMyadBtwzL) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Geniality](https://open.spotify.com/album/4NOyOhpuk1kTV8LIXvMRwn) | 2:50 | 2022-04-22 | 2024-07-30 |
@@ -250,6 +251,7 @@
 | [In The Distant](https://open.spotify.com/track/5g3LiwdKsP3DCeXhzva5dY) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [In The Distant](https://open.spotify.com/album/56H0VNVYqT2QlG8FwjtHCH) | 2:33 | 2023-12-18 |  |
 | [In the meadow](https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [In the meadow](https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn) | 3:36 | 2022-04-22 | 2024-10-02 |
 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 | 2022-04-22 | 2024-02-14 |
+| [In The Valley](https://open.spotify.com/track/5tRuBjm0oCAtTvtGjMKe5v) | [Henri Mael](https://open.spotify.com/artist/5olHxtBnXQ3IO0oXnDE0bF) | [In The Valley](https://open.spotify.com/album/6rX6OaDoVMRzW31d0yjsJ7) | 2:38 | 2025-07-21 |  |
 | [In This Way](https://open.spotify.com/track/677mAMd1eOH1pltC797UYs) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [In This Way](https://open.spotify.com/album/45564XZTqbu06iq2McX47D) | 3:09 | 2022-04-22 | 2022-05-28 |
 | [In Those Years](https://open.spotify.com/track/1arB0eICekrhg2CAj2bGfR) | [Ray Hutchcraft](https://open.spotify.com/artist/1COhhQQfq4nVKDEBi3JU7R) | [In Those Years](https://open.spotify.com/album/2YLWbPKyE27RsWLdpTnht3) | 2:20 | 2022-11-14 | 2025-05-15 |
 | [Infinite](https://open.spotify.com/track/6FPMx8iE0KmRFecOqkk3td) | [Leo Mano](https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM) | [Infinite](https://open.spotify.com/album/2fpijf8Ci9JIaznRWSifT0) | 2:26 | 2023-01-26 |  |

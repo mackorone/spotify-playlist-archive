@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619 likes - 148 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 620 likes - 148 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 34 | [Finale \(Peace on Earth\) \- From "Lady and the Tramp"/Soundtrack Version](https://open.spotify.com/track/5dCKkEykQP1VyFBDn6jBkk) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Lady and the Tramp](https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk) | 0:31 |
 | 35 | [Midriff \(12\)](https://open.spotify.com/track/23NLaObSzSJAmhdhHuumEA) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Historically Speaking \- The Duke \(Remastered 2014\)](https://open.spotify.com/album/7muEOF7DUhMsvqAN0nwsJw) | 3:51 |
 | 36 | [Snibor](https://open.spotify.com/track/2F0rgoXIb1xx7tTWZBS3Cu) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 4:19 |
-| 37 | [Duke Ellington Medley \- Live](https://open.spotify.com/track/0SrJrHWV3abLD4h7KUONN2) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [The Classic Concert Live](https://open.spotify.com/album/0aGbP1QfJ6beGHdSLPyVXU) | 5:24 |
-| 38 | [Lotus Blossom](https://open.spotify.com/track/1n6WfVhvWfj6zhehLJh82q) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Billy and Friends](https://open.spotify.com/album/6KYDeR2jJDrmJW544RXEV2) | 3:06 |
+| 37 | [Lotus Blossom](https://open.spotify.com/track/1n6WfVhvWfj6zhehLJh82q) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Billy and Friends](https://open.spotify.com/album/6KYDeR2jJDrmJW544RXEV2) | 3:06 |
+| 38 | [Duke Ellington Medley \- Live](https://open.spotify.com/track/0SrJrHWV3abLD4h7KUONN2) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [The Classic Concert Live](https://open.spotify.com/album/0aGbP1QfJ6beGHdSLPyVXU) | 5:24 |
 | 39 | [U.M.M.G\. \(Upper Manhattan Medical Group\)](https://open.spotify.com/track/5nZ3cWYXLM6exMFCweubmL) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Lush Life: The Music of Billy Strayhorn](https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku) | 5:00 |
 | 40 | [Imagine My Frustration](https://open.spotify.com/track/1xyeSKAwSndIk52wwkRPms) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella At Duke's Place](https://open.spotify.com/album/1pznhTLv7PV8Lx9lqMJJ5I) | 4:51 |
 | 41 | [On the Wrong Side of the Railroad Tracks](https://open.spotify.com/track/3sEbCLAkVB1FmdXdJUverM) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Duke Elegant](https://open.spotify.com/album/32944vJtxt5vMbR8dAMViB) | 5:42 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 147 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 |
 | 148 | [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 |
 
-Snapshot ID: `Ab3UEgAAAADdiSoyWH27lpLVLzL1igqj`
+Snapshot ID: `Ab3ZigAAAADcO7lRo8FSa1dFAk+6SJR1`

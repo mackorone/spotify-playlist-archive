@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 228987,
+  "num_followers": 229109,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2025-07-04 13:19:05",
       "album": {
+        "name": "Recordando / Dudas (En Vivo)",
+        "url": "https://open.spotify.com/album/3cSt8iKh3bROdkyrcksFi8"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "Walter Encina",
+          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
+        }
+      ],
+      "duration_ms": 307375,
+      "name": "Recordando / Dudas - En Vivo",
+      "url": "https://open.spotify.com/track/0Eo5FcB5bHGjmisR8WtUQk"
+    },
+    {
+      "added_at": "2025-07-04 13:19:05",
+      "album": {
         "name": "Rambla De Montevideo",
         "url": "https://open.spotify.com/album/2FLqOZNLJdS9zT5L2iB41l"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 177845,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/2BV9cUhl5HVBpn6nUudnlT"
-    },
-    {
-      "added_at": "2025-07-04 13:19:05",
-      "album": {
-        "name": "Recordando / Dudas (En Vivo)",
-        "url": "https://open.spotify.com/album/3cSt8iKh3bROdkyrcksFi8"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        },
-        {
-          "name": "Walter Encina",
-          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
-        }
-      ],
-      "duration_ms": 307375,
-      "name": "Recordando / Dudas - En Vivo",
-      "url": "https://open.spotify.com/track/0Eo5FcB5bHGjmisR8WtUQk"
     },
     {
       "added_at": "2025-07-04 13:19:05",

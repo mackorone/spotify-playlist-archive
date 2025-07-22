@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Scotty McCreery, Zach Bryan with Gabriella Rose, Thomas Rhett with Jordan Davis and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,297 likes - 71 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,452 likes - 71 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

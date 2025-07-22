@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-410 songs - 1 day 16 hr 4 min
+411 songs - 1 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [My Head Is On Fire](https://open.spotify.com/track/22YNTCWbJaMbTw6SrnQuDp) | [Coyu](https://open.spotify.com/artist/5cKSSXjPNJJ6Fkm9sCMplh), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [La CouCou](https://open.spotify.com/artist/2nVcZDji102fL8qWzEuvvq) | [My Head Is On Fire](https://open.spotify.com/album/3JLozfpS3Ke2ty7QqrKAg3) | 6:34 | 2023-04-18 | 2023-10-16 |
 | [My Head Is On Fire](https://open.spotify.com/track/2Sjco3nua6ICpVbMdYJaDL) | [Coyu](https://open.spotify.com/artist/5cKSSXjPNJJ6Fkm9sCMplh), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [La CouCou](https://open.spotify.com/artist/2nVcZDji102fL8qWzEuvvq) | [My Head Is On Fire](https://open.spotify.com/album/5jHpFB3xo4oDo3BsQP9rK3) | 6:34 | 2023-10-06 | 2024-02-28 |
 | [N04](https://open.spotify.com/track/4eRRD7IAgepERtb9lg3RbH) | [Sato](https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD), [Satoshi Tomiie](https://open.spotify.com/artist/3TrAOZvW0MzZeKZRFnU7Ul) | [Blue, Black And Grey](https://open.spotify.com/album/08yr2guH6hVzoWT49bQ5d9) | 6:32 | 2023-02-13 | 2023-06-27 |
+| [No Boundaries](https://open.spotify.com/track/4Lpp6C7Au2zIGpNSirxLkK) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [No Boundaries](https://open.spotify.com/album/4VBbdwPSfqhBgsuvcLoHD5) | 5:13 | 2025-07-21 |  |
 | [No Reason](https://open.spotify.com/track/20myAKmdRFTg9MOZztDrSk) | [Vikthor](https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO) | [That Place](https://open.spotify.com/album/2MIbpmX7b8jQ0hvLAPFZwE) | 6:41 | 2024-12-06 |  |
 | [Nocturnal](https://open.spotify.com/track/2joi4vCVTScGH1p0xCHlDC) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \- EP](https://open.spotify.com/album/13n18iOU6x7D1gmEupfDF4) | 6:26 | 2023-02-13 | 2024-02-28 |
 | [Nocturnal \(Rebūke Edit\) \- Mixed](https://open.spotify.com/track/6r4gWTDPplDGEfqiYxuT0L) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [ASW is Live Mixed by Carl Cox \(DJ Mix\)](https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv) | 3:27 | 2024-04-29 | 2024-12-28 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 258641,
+  "num_followers": 258677,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 372733,
+      "name": "P\u00e9game Tu Vicio",
+      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Mi Pecadito",
         "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 372733,
-      "name": "P\u00e9game Tu Vicio",
-      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/4tuxS7kkwSZ3IGqJpuc2Kd"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "Qu\u00edteme La Inocencia",
+      "url": "https://open.spotify.com/track/6w7Ku2mTaB2NKg59Gx2lxA"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Mismo Error",
         "url": "https://open.spotify.com/album/0PwT45LwSSgOk93unwJGxz"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 199247,
       "name": "Mismo Error",
       "url": "https://open.spotify.com/track/0R2wIS2XiKpiSz9RubneBP"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/4tuxS7kkwSZ3IGqJpuc2Kd"
-      },
-      "artists": [
-        {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "Qu\u00edteme La Inocencia",
-      "url": "https://open.spotify.com/track/6w7Ku2mTaB2NKg59Gx2lxA"
     },
     {
       "added_at": "2024-08-23 04:59:00",

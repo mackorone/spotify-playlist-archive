@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring 1tbsp
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,883 likes - 159 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,879 likes - 159 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

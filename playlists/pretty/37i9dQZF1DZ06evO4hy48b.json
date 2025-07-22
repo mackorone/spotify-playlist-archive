@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 638,
+  "num_followers": 651,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHrgAAAAAAC6bSOnkl6stRD1emnXL28c",
+  "snapshot_id": "aHwxgAAAAAB7GJhNq5njVEu8+FoSuxUE",
   "tracks": [
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PO2054AZ (Vol.II)",
-        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "Hermosa Casualidad",
-      "url": "https://open.spotify.com/track/2vOZEv5okAIyL5KWlbTTi5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Foto Del DNI",
         "url": "https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 179653,
       "name": "Tu Foto Del DNI",
       "url": "https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PO2054AZ (Vol.II)",
+        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 203960,
+      "name": "Hermosa Casualidad",
+      "url": "https://open.spotify.com/track/2vOZEv5okAIyL5KWlbTTi5"
     },
     {
       "added_at": null,

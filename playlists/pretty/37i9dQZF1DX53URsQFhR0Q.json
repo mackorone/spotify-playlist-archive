@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 9295,
+  "num_followers": 9301,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,38 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
+      },
+      "artists": [
+        {
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+        }
+      ],
+      "duration_ms": 324440,
+      "name": "W' asue Me",
+      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+        }
+      ],
+      "duration_ms": 427226,
+      "name": "Wo Ntaban",
+      "url": "https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -195,38 +227,6 @@
       "duration_ms": 977893,
       "name": "Ghana Local Worship",
       "url": "https://open.spotify.com/track/3ckzZvKEnsIa9kWrXrQMlK"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
-      },
-      "artists": [
-        {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
-        }
-      ],
-      "duration_ms": 427226,
-      "name": "Wo Ntaban",
-      "url": "https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
-      },
-      "artists": [
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 324440,
-      "name": "W' asue Me",
-      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Akristofoo Adooso",
-        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
-      },
-      "artists": [
-        {
-          "name": "Hannah Marfo",
-          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
-        }
-      ],
-      "duration_ms": 307173,
-      "name": "Meda Wase",
-      "url": "https://open.spotify.com/track/70KR4uRhhDOjBYv8fK50SL"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "Ghana Gospel Classics, Vol. 1",
         "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 324179,
       "name": "Nyame Do Me",
       "url": "https://open.spotify.com/track/38phUOSqABmZbQwFVzQ1QZ"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Akristofoo Adooso",
+        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
+      },
+      "artists": [
+        {
+          "name": "Hannah Marfo",
+          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "Meda Wase",
+      "url": "https://open.spotify.com/track/70KR4uRhhDOjBYv8fK50SL"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Akristofoo Adooso",
-        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
-      },
-      "artists": [
-        {
-          "name": "Hannah Marfo",
-          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
-        }
-      ],
-      "duration_ms": 442409,
-      "name": "Akristofoo Adooso",
-      "url": "https://open.spotify.com/track/7E889Da9t6o7vx8HdaDryH"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "Ghana Gospel Classics, Vol. 1",
         "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 328855,
       "name": "Di Wo Hene",
       "url": "https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Akristofoo Adooso",
+        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
+      },
+      "artists": [
+        {
+          "name": "Hannah Marfo",
+          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
+        }
+      ],
+      "duration_ms": 442409,
+      "name": "Akristofoo Adooso",
+      "url": "https://open.spotify.com/track/7E889Da9t6o7vx8HdaDryH"
     },
     {
       "added_at": "2025-01-09 09:53:00",

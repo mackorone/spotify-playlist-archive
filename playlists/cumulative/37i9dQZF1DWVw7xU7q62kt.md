@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-577 songs - 1 day 1 hr 57 min
+578 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [Palmers \- Alfa Mist Remix](https://open.spotify.com/track/2YQL42b8wokw9j0Ty8rsmT) | [JSPHYNX](https://open.spotify.com/artist/3jy2pJyyUcddwipP6wqR8l), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Palmers / King Cobra \(Alfa Mist Remix, JSPHYNX Remix\)](https://open.spotify.com/album/4dbnO6XL2Y9VpFEM4X4KVi) | 3:29 | 2023-10-13 | 2024-08-24 |
 | [Panther Attack](https://open.spotify.com/track/0M9JsZCgApoA6GqEIwf6ah) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [Zephyr Avalon](https://open.spotify.com/artist/1zTFIyWUniB8SiSdcTLa9O), [George Silva](https://open.spotify.com/artist/7BpMl247jFhdq3CW1AtTsi) | [Panther Attack](https://open.spotify.com/album/1WPXMg2iktNcwH5OUpdy52) | 3:46 | 2024-01-26 | 2024-09-02 |
 | [parandrus](https://open.spotify.com/track/3ZGQDdB9ihULtXlwRnrzIP) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [parandrus](https://open.spotify.com/album/5C0MZpkOVSOzVetfNg5WGC) | 2:06 | 2025-05-09 | 2025-06-07 |
+| [Parc Mercier](https://open.spotify.com/track/4W35aBRFyjBsfxJg12iSxY) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Parc Mercier](https://open.spotify.com/album/0gq5Gp8HA0CkzEFn1w8By5) | 2:13 | 2025-07-18 |  |
 | [Parcels](https://open.spotify.com/track/3XH6VLP67eaWY8WE5zpcUW) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Parcels](https://open.spotify.com/album/60H62b6Ew5algY7SLyOMT9) | 1:46 | 2025-02-14 | 2025-05-28 |
 | [Perception](https://open.spotify.com/track/6I5ahEl9wBaSiruCxvpWCK) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Perception](https://open.spotify.com/album/5ux9uG1y42yFELCGh7VzvP) | 2:20 | 2025-01-10 |  |
 | [Picadilly](https://open.spotify.com/track/4GP63RpTwxOCnMq5ZVnKZR) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [Beto Braga](https://open.spotify.com/artist/3WTydG1gUdND4uShUQAB5h), [Raouf](https://open.spotify.com/artist/6nX2UIOy2F9Tt7uqp4wwvL) | [Picadilly](https://open.spotify.com/album/1aEsXse9pLtnHC0uJ9uONb) | 2:27 | 2024-06-04 | 2025-05-17 |
@@ -396,7 +397,7 @@
 | [Pour Nael](https://open.spotify.com/track/2XSXhEyZVnirHzWMFJW8yt) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Pour Nael](https://open.spotify.com/album/3o76poUJDP0TGLe8H3fkm5) | 2:53 | 2024-06-04 | 2025-05-10 |
 | [Preach](https://open.spotify.com/track/0VYu03bfbiC64BRYKaLCfJ) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D) | [Preach](https://open.spotify.com/album/6g9Da549OnQDFhaGGeVKwf) | 2:47 | 2025-05-16 |  |
 | [Pretrip](https://open.spotify.com/track/1dFNTrPWQd9mt1ZaGr9ZH1) | [ID Labs](https://open.spotify.com/artist/26oVoq5QZzsm9MGhOyT2tv) | [Nothing You Don’t Know](https://open.spotify.com/album/5VQCYupHULZGO2Ji7WyIst) | 2:24 | 2024-06-07 | 2025-05-17 |
-| [Profondeurs](https://open.spotify.com/track/0u7gu9IVPuIwZaY89I0dTF) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Profondeurs](https://open.spotify.com/album/3uV2Qo5LNX3oBf9Wl88DFK) | 2:09 | 2025-07-18 |  |
+| [Profondeurs](https://open.spotify.com/track/0u7gu9IVPuIwZaY89I0dTF) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Profondeurs](https://open.spotify.com/album/3uV2Qo5LNX3oBf9Wl88DFK) | 2:09 | 2025-07-18 | 2025-07-22 |
 | [PullUp](https://open.spotify.com/track/4L6lW4q3kYfPGPF5J8G3Cp) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [PullUp](https://open.spotify.com/album/1E6X5irCtk3YZ6VnRDaE6d) | 2:09 | 2024-08-23 | 2025-05-17 |
 | [Pure Souls](https://open.spotify.com/track/04BEKCNSXz4AKz3ky9JYuR) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe) | [Pure Souls](https://open.spotify.com/album/1ae2rnSlKkul1mpG8bo2X1) | 2:20 | 2024-10-11 |  |
 | [Radiant](https://open.spotify.com/track/5IFbLsAWhTGTvcxbDmBc3x) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Radiant](https://open.spotify.com/album/5u67NxPdoFshAfqbqApE3h) | 2:00 | 2025-05-09 | 2025-05-17 |

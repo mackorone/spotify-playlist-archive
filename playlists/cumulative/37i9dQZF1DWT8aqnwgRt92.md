@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,105 songs - 5 day 10 hr 22 min
+2,106 songs - 5 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1426,7 +1426,7 @@
 | [サイレントマイノリティー](https://open.spotify.com/track/2X0KAuaG6RCoa8C1A1DPmI) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」オープニングテーマ「サイレントマイノリティー」](https://open.spotify.com/album/5hK3alKl1ln4eAJtM3vN4u) | 3:38 | 2022-05-28 | 2022-07-06 |
 | [サインはB \- アイ Solo Ver.](https://open.spotify.com/track/3xFQL262WHl5XNigU4rgW0) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [アイ\(CV:高橋李依\)](https://open.spotify.com/artist/5TB17Dz2LxzznEW190lYs0) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.1\)](https://open.spotify.com/album/7d64mWymF8BzaGpIrSp0iS) | 3:33 | 2023-07-04 | 2023-07-06 |
 | [サッドマンズランド](https://open.spotify.com/track/7ioRJHFZ1aD7ZnmyLeJQJx) | [伊東健人](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [サッドマンズランド](https://open.spotify.com/album/3OIaGppkarhicPJMPsaYh9) | 3:30 | 2023-11-21 | 2023-11-23 |
-| [サファイア](https://open.spotify.com/track/20UtEXIq1dMKtQdcgwo98Z) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [サファイア](https://open.spotify.com/album/3jkYKg3YqXcIObLjQHGxIG) | 3:48 | 2025-07-08 |  |
+| [サファイア](https://open.spotify.com/track/20UtEXIq1dMKtQdcgwo98Z) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [サファイア](https://open.spotify.com/album/3jkYKg3YqXcIObLjQHGxIG) | 3:48 | 2025-07-08 | 2025-07-22 |
 | [サプライズ](https://open.spotify.com/track/0zStZ471xNYcNM4sh5hzIM) | [中島怜](https://open.spotify.com/artist/7pQmC6NNs7KvWfrYKmqPbo) | [TVアニメ「シュガーアップル・フェアリーテイル」第2クールオープニングテーマ サプライズ](https://open.spotify.com/album/1krpjY1aTPLATC48GhTm7C) | 4:25 | 2023-07-18 | 2023-07-20 |
 | [サマータイムゴースト](https://open.spotify.com/track/13RKaJCGLEPNoAcWn4j42R) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [サマータイムゴースト](https://open.spotify.com/album/7jEn46nEzzuVcfbiJ2Kd4h) | 3:09 | 2025-04-03 | 2025-07-09 |
 | [サムライハート\(Some Like It Hot!!\) \- New Version \-](https://open.spotify.com/track/4kAAFbY5pyUCgRtxxjysPM) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [サムライハート\(Some Like It Hot!!\) \-New Version\-](https://open.spotify.com/album/64UfMDi2h1SPbZH0Btb857) | 3:18 | 2023-06-08 | 2023-07-19 |
@@ -1738,6 +1738,7 @@
 | [君色のキセキ](https://open.spotify.com/track/5d10Tu1j69HhxAemyvALHH) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [君色のキセキ](https://open.spotify.com/album/3cWCtsZsIZCJDavXf45nqh) | 4:12 | 2024-04-10 | 2024-04-17 |
 | [呼び声](https://open.spotify.com/track/362V5cGtH6blUVswcu8AFR) | [丁](https://open.spotify.com/artist/2FBCBROCrxXD4tC6TmA8t4) | [呼び声](https://open.spotify.com/album/3km07cxiR89dB5dsb13q90) | 4:41 | 2024-04-18 | 2024-07-06 |
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-05-28 | 2022-07-27 |
+| [喧騒 feat\. Aile The Shota](https://open.spotify.com/track/5vB3ShBQUxBZsNlHch2mCI) | [椎乃味醂](https://open.spotify.com/artist/0It67rh1sbAlCG80VXJVrk), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [喧騒 feat\. Aile The Shota](https://open.spotify.com/album/6etaXLGCkosiDOahDRMJC8) | 3:00 | 2025-07-21 |  |
 | [嗚呼、我が浪漫の道よ](https://open.spotify.com/track/2lZfyjf1naSGWu4CPErpqb) | [PelleK](https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3) | [嗚呼、我が浪漫の道よ](https://open.spotify.com/album/0EtgVOllCh5y9boWZZIoBg) | 3:42 | 2022-05-28 | 2022-07-06 |
 | [嘘つき](https://open.spotify.com/track/0CaK41fIguCATIPHV2Yau1) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [嘘つき](https://open.spotify.com/album/2rfCdxN23vdebt3daHiK5X) | 3:37 | 2023-01-10 | 2023-01-12 |
 | [四角運命](https://open.spotify.com/track/004jQqW1CdYt5d6wZJX3Gn) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [四角運命](https://open.spotify.com/album/4z7WKUveJzhx19jG4G1EWK) | 3:40 | 2022-05-28 | 2022-07-27 |

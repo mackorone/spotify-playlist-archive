@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe?si=Ryxw\-idLS1mm6km64D6KHQ>Sinach</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,501 likes - 100 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,624 likes - 100 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: Mateus Fazeno Rock
+> Música brasileira fora da curva\. Foto: YMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,966 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,862 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Melô do Sossego](https://open.spotify.com/track/3oazTEgO9QZ0BAXNMbMbud) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5) | [Melô do Sossego](https://open.spotify.com/album/5qzdvVJmvb6gk05ftG0tB0) | 3:56 |
+| 1 | [2001](https://open.spotify.com/track/3uC5esYU8cTQ8ox8oSrsWV) | [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [2001](https://open.spotify.com/album/2hggsoOwknLbm71vQZUSwF) | 3:44 |
 | 2 | [Redenção \(Três Gatos e um Cachorro\)](https://open.spotify.com/track/52P75ZWt74UHLh5OFhWNUo) | [Lupe De Lupe](https://open.spotify.com/artist/6yz8H2Aks1bHaKNiHCutaR), [Renan Benini](https://open.spotify.com/artist/10gcx0ieH5QKHttxqRujeD), [Felipe Pacheco Ventura](https://open.spotify.com/artist/4wzBTy6pV1lVE7LJMuh36I) | [Redenção \(Três Gatos e um Cachorro\)](https://open.spotify.com/album/2U1lPahfqRqMwLF2y1VSCz) | 9:47 |
 | 3 | [Pra Não Falar Mal](https://open.spotify.com/track/2U6U5C7zDb2JcIZ07dYDM4) | [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Novo Mundo](https://open.spotify.com/album/09r9cPD6jEwgBmphifZ7TW) | 3:18 |
 | 4 | [Melhor Assim](https://open.spotify.com/track/6LasRNS5VpIoGLx8LmCXxM) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S) | [Y](https://open.spotify.com/album/7MLJDclnjQfoTzmAYzsebI) | 3:21 |
-| 5 | [Crochê](https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Crochê](https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK) | 3:37 |
-| 6 | [Amor Sintético](https://open.spotify.com/track/4MxJkhJ3Pvld6ZYlHAQ9ya) | [AQUINO](https://open.spotify.com/artist/36bs3UPyK4QNUJtyFvsBmu) | [Amor Sintético](https://open.spotify.com/album/3EabNCXQmD8BhyCrv8YZVB) | 2:48 |
-| 7 | [Brincos](https://open.spotify.com/track/09aOFoKFKVsNDilKuN374R) | [Marrakesh](https://open.spotify.com/artist/7eQKpZlY4A3fynoiLXIvjF) | [Marrakesh](https://open.spotify.com/album/3xeuU8oCeQ3Dn3gS43vaRI) | 3:18 |
-| 8 | [Estrago Que Me Faz](https://open.spotify.com/track/68dYqn4aJC5NbVZN2OPjXX) | [Submerso](https://open.spotify.com/artist/785QQNx8Y5ELrD9pG5iKSU) | [Estrago Que Me Faz](https://open.spotify.com/album/1SdswqVjoayoc82ayIfYa3) | 3:09 |
-| 9 | [Quando você sabe, você sabe...](https://open.spotify.com/track/5l11puxvF7Qp0HuSWkMWLF) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45), [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Quando você sabe, você sabe...](https://open.spotify.com/album/6680CGDaHuVF0NRTt5lxWS) | 2:59 |
-| 10 | [2001](https://open.spotify.com/track/3uC5esYU8cTQ8ox8oSrsWV) | [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [2001](https://open.spotify.com/album/2hggsoOwknLbm71vQZUSwF) | 3:44 |
+| 5 | [Melô do Sossego](https://open.spotify.com/track/3oazTEgO9QZ0BAXNMbMbud) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5) | [Melô do Sossego](https://open.spotify.com/album/5qzdvVJmvb6gk05ftG0tB0) | 3:56 |
+| 6 | [Crochê](https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Crochê](https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK) | 3:37 |
+| 7 | [Amor Sintético](https://open.spotify.com/track/4MxJkhJ3Pvld6ZYlHAQ9ya) | [AQUINO](https://open.spotify.com/artist/36bs3UPyK4QNUJtyFvsBmu) | [Amor Sintético](https://open.spotify.com/album/3EabNCXQmD8BhyCrv8YZVB) | 2:48 |
+| 8 | [Brincos](https://open.spotify.com/track/09aOFoKFKVsNDilKuN374R) | [Marrakesh](https://open.spotify.com/artist/7eQKpZlY4A3fynoiLXIvjF) | [Marrakesh](https://open.spotify.com/album/3xeuU8oCeQ3Dn3gS43vaRI) | 3:18 |
+| 9 | [Estrago Que Me Faz](https://open.spotify.com/track/68dYqn4aJC5NbVZN2OPjXX) | [Submerso](https://open.spotify.com/artist/785QQNx8Y5ELrD9pG5iKSU) | [Estrago Que Me Faz](https://open.spotify.com/album/1SdswqVjoayoc82ayIfYa3) | 3:09 |
+| 10 | [Quando você sabe, você sabe...](https://open.spotify.com/track/5l11puxvF7Qp0HuSWkMWLF) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45), [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Quando você sabe, você sabe...](https://open.spotify.com/album/6680CGDaHuVF0NRTt5lxWS) | 2:59 |
 | 11 | [Frio](https://open.spotify.com/track/3IE8Adpf5OpHUO5zWmXRhD) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5) | [Frio](https://open.spotify.com/album/23yV81YgWTvTJmI8XNYlTV) | 2:23 |
 | 12 | [Insustentável](https://open.spotify.com/track/62eBR7NYcCr1mxMv8CvQmE) | [A Olívia](https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg) | [Insustentável](https://open.spotify.com/album/6DDDx1Ev0BC2JiwgB43kYD) | 3:14 |
 | 13 | [Viu!?](https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf) | [Cyro Sampaio](https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g) | [Viu!?](https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM) | 3:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 79 | [Caco](https://open.spotify.com/track/0DhW5Qsf3PBbIz5EfG619L) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [Caco](https://open.spotify.com/album/2OBDrtPglyBYXsW7ss1WLk) | 3:06 |
 | 80 | [Parati](https://open.spotify.com/track/2e8onQDnzxYTUpm7GeSLyK) | [perdido](https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp) | [Parati](https://open.spotify.com/album/7LxlJQpwyK60sJOs09cieV) | 2:46 |
 
-Snapshot ID: `aHryiwAAAACcUsj+Zu5Am3LmnIj5Xwrv`
+Snapshot ID: `aH5GMAAAAAAD3Wj4XoK/27O8K/pAhNYU`

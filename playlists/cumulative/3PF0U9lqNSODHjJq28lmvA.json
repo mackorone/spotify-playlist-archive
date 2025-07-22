@@ -2569,6 +2569,24 @@
     },
     {
       "album": {
+        "name": "Another Long Night",
+        "url": "https://open.spotify.com/album/77Wq32ZkMnBgqLgJWL3zI6"
+      },
+      "artists": [
+        {
+          "name": "Sunny Suljic",
+          "url": "https://open.spotify.com/artist/3JcGZ9gszrHCHXC9wJtNko"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Another Long Night",
+      "url": "https://open.spotify.com/track/2bfeCwvgVYvBwLEvOqLmFB"
+    },
+    {
+      "album": {
         "name": "The Video Store at the End of the World",
         "url": "https://open.spotify.com/album/2XpZUUyqva6yoFWEFB9vx5"
       },
