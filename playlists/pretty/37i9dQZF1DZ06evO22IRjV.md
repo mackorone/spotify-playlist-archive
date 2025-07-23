@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,468 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,474 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,16 +19,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 9 | [Howling](https://open.spotify.com/track/1Iexk6Gy5GJLxeXD5fqf85) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Howling](https://open.spotify.com/album/67rn1nDTMSZY5mBI1QZQsf) | 4:21 |
 | 10 | [COLORS \-CODE GEASS OPENING MIX\-](https://open.spotify.com/track/6xUBXdVdzs50AvqARndD1A) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [COLORS](https://open.spotify.com/album/2eRkUeDSQpD0AuSUyR39nB) | 1:33 |
 | 11 | [Re:member](https://open.spotify.com/track/1hoQxGi3ujVYUzQDhXfvkN) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:19 |
-| 12 | [Alright!!!](https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Alright!!!](https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs) | 3:39 |
-| 13 | [CHA\-LA HEAD\-CHA\-LA](https://open.spotify.com/track/55OTFD2MPHvPZrHYxGrjbg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE MAX !!!](https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A) | 3:21 |
+| 12 | [CHA\-LA HEAD\-CHA\-LA](https://open.spotify.com/track/55OTFD2MPHvPZrHYxGrjbg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE MAX !!!](https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A) | 3:21 |
+| 13 | [Alright!!!](https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Alright!!!](https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs) | 3:39 |
 | 14 | [風ノ唄](https://open.spotify.com/track/5y8mKpDw0khxf6WMyJi14w) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:20 |
 | 15 | [CHEMY×STORY \- 『仮面ライダーガッチャード』主題歌](https://open.spotify.com/track/2sfmn9VSdWNiXUafcjtIYV) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [CHEMY×STORY （『仮面ライダーガッチャード』主題歌）](https://open.spotify.com/album/0VRObf1FyBuyFYmVMTRyUh) | 3:06 |
 | 16 | [THE FUTURE DAYBREAK \- \(映画 『仮面ライダーガッチャード ザ・フューチャー・デイブレイク』主題歌\)](https://open.spotify.com/track/7uHGpZqq9UN7g6U6lME03O) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [THE FUTURE DAYBREAK \(映画 『仮面ライダーガッチャード ザ・フューチャー・デイブレイク』主題歌\)](https://open.spotify.com/album/2pApDw9WgFXlwV7AD1qoNS) | 4:14 |
 | 17 | [GO!!! ～15th Anniversary ver.～](https://open.spotify.com/track/0MqEHknhIF88dJmcT3AXrI) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Fighting Dreamers](https://open.spotify.com/album/3zUIaK0fWvP24o9CVOCIvg) | 5:22 |
 | 18 | [BURN](https://open.spotify.com/track/2gUYrbCQ3kbtPr6Xcte7IB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:04 |
 | 19 | [ブレイブルー](https://open.spotify.com/track/5C3yntMb2Qi5i61c7VUUC4) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE MAX !!!](https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A) | 4:06 |
-| 20 | [Steppin' out](https://open.spotify.com/track/3B2sFt25j7ThJeJtsSaUw3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [＃10](https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW) | 4:12 |
-| 21 | [1/3の純情な感情](https://open.spotify.com/track/3TCMnZY6XV6xNBDRzl7fdm) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST](https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA) | 3:53 |
+| 20 | [1/3の純情な感情](https://open.spotify.com/track/3TCMnZY6XV6xNBDRzl7fdm) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST](https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA) | 3:53 |
+| 21 | [Steppin' out](https://open.spotify.com/track/3B2sFt25j7ThJeJtsSaUw3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [＃10](https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW) | 4:12 |
 | 22 | [虹の空](https://open.spotify.com/track/0KV8TzuV6OGspByLVpyYPS) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:06 |
 | 23 | [贈る言葉 \(single version\)](https://open.spotify.com/track/4MYNEFBZXSUViahKeSAVaa) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:12 |
 | 24 | [GOLD](https://open.spotify.com/track/7DeZ5S6wvmsRUq8qVCj4le) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GOLD](https://open.spotify.com/album/58Ehuw7hNz8w3dkj2RpQy4) | 3:35 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 30 | [メロス](https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [SPLASH!!!　〜遥かなる自主制作BEST〜](https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp) | 4:05 |
 | 31 | [GLORY DAYS](https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [26 a Go Go !!!](https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs) | 3:45 |
 | 32 | [LOVE & JUSTICE](https://open.spotify.com/track/5g8RurzBblZMTsM69wnyCv) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOVE & JUSTICE/超人](https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX) | 4:27 |
-| 33 | [DAYS 〜EUREKA OPENING MIX〜](https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DAYS](https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY) | 1:31 |
-| 34 | [Hey!!!](https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [BLACK & WHITE](https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF) | 3:42 |
-| 35 | [PENDULUM](https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [TRIBALYTHM](https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar) | 4:12 |
+| 33 | [PENDULUM](https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [TRIBALYTHM](https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar) | 4:12 |
+| 34 | [DAYS 〜EUREKA OPENING MIX〜](https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DAYS](https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY) | 1:31 |
+| 35 | [Hey!!!](https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [BLACK & WHITE](https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF) | 3:42 |
 | 36 | [INNOSENSE](https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [INNOSENSE Special Edition](https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV) | 4:02 |
 | 37 | [流星](https://open.spotify.com/track/1eTKBnh7Kczg3hggOcnf6v) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 4:16 |
 | 38 | [CALLING](https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:34 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 42 | [モメント](https://open.spotify.com/track/5wjYZIKLKUge6lFO89gUAU) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [モメント](https://open.spotify.com/album/4RTmbNBIQKliym9xSlGLlT) | 3:58 |
 | 43 | [愛愛愛に撃たれてバイバイバイ \-Album Mix\-](https://open.spotify.com/track/4GOH8KtqBnL5q2nGkWkbv4) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [26 a Go Go !!!](https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs) | 4:09 |
 | 44 | [LOST](https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOST](https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu) | 4:03 |
-| 45 | [I Don't Wanna Die in the Paradise](https://open.spotify.com/track/7v819dMrXP7Tge0CycW5GX) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [I Don't Wanna Die in the Paradise](https://open.spotify.com/album/5h4vAPIRjEEcZmmA3jiW1h) | 3:37 |
-| 46 | [Howling \-TV Size\-](https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Howling](https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL) | 1:31 |
-| 47 | [音色](https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [音色 / Break it down](https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm) | 4:38 |
-| 48 | [遥か彼方](https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 4:02 |
+| 45 | [遥か彼方](https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 4:02 |
+| 46 | [音色](https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [音色 / Break it down](https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm) | 4:38 |
+| 47 | [Howling \-TV Size\-](https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Howling](https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL) | 1:31 |
+| 48 | [I Don't Wanna Die in the Paradise](https://open.spotify.com/track/7v819dMrXP7Tge0CycW5GX) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [I Don't Wanna Die in the Paradise](https://open.spotify.com/album/5h4vAPIRjEEcZmmA3jiW1h) | 3:37 |
 | 49 | [COLORS \-New Mix\-](https://open.spotify.com/track/2yId85aVejyO6B22sjQSYj) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE \(Complete Edition\)](https://open.spotify.com/album/4PepWTYHniNNHAM5kbSk0Q) | 3:40 |
-| 50 | [O2](https://open.spotify.com/track/3OMBXsuVWujn3bPQXZgHvh) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [デイドリーム ビリーヴァー \(Complete Edition\)](https://open.spotify.com/album/0lyTVQuqKMhQDoedVeaxEW) | 3:59 |
+| 50 | [シルエット](https://open.spotify.com/track/6iWvPnegQ0KyaqgpTxmwGc) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 4:03 |
 
-Snapshot ID: `aHwxgAAAAAA87dsAwyg7Ye43Vh4Mpe5o`
+Snapshot ID: `aH2DAAAAAAClY/hgNIiCIE+0vm1Duq6y`

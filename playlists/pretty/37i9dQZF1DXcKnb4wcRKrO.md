@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,185 likes - 105 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,406 likes - 105 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

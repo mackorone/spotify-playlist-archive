@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,014 likes - 108 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,018 likes - 108 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 54 | [SAFE PLACE](https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:39 |
 | 55 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:15 |
 | 56 | [CROWN](https://open.spotify.com/track/4STskVkFJFtNbjuZmDe26C) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CROWN](https://open.spotify.com/album/0mRiqLvYIjafS4sKy4kAKW) | 2:35 |
-| 57 | [Immigrant](https://open.spotify.com/track/7xV2KiZcW7oUCUyYWzrxnC) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [IMMIGRANT](https://open.spotify.com/album/01OhPa84ZZEYBZl2Lvo4iZ) | 3:52 |
-| 58 | [Slow Down](https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:14 |
+| 57 | [Slow Down](https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:14 |
+| 58 | [Immigrant](https://open.spotify.com/track/7xV2KiZcW7oUCUyYWzrxnC) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [IMMIGRANT](https://open.spotify.com/album/01OhPa84ZZEYBZl2Lvo4iZ) | 3:52 |
 | 59 | [Gone \(with Bryson Tiller\)](https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:33 |
 | 60 | [FEELINGS ON SILENT \(feat\. Wale\)](https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:29 |
 | 61 | [Sneak](https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:59 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 81 | [Mean It](https://open.spotify.com/track/7B4XVwdxXFJ3yzz2BtJPmf) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Homicide](https://open.spotify.com/album/5MEbCYZLR7HGbZP45NrhrW) | 2:24 |
 | 82 | [Is There Someone New?](https://open.spotify.com/track/0994zyvjadFAqOkl5ak8Uo) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Jeremy](https://open.spotify.com/album/5X7h8P7D3blxtgexUNAyV3) | 2:32 |
 | 83 | [Rendezvous \(feat\. Leon Thomas\)](https://open.spotify.com/track/1c5h0GIyMexX7pMpc3hg1I) | [Kronic](https://open.spotify.com/artist/2V30V0HJG5k0FKh3Zd3UnH), [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce) | [Rendezvous \(feat\. Leon Thomas\)](https://open.spotify.com/album/7pOH9q0rAjdCKAXlWY9wnZ) | 3:28 |
-| 84 | [SOONER OR LATER \(feat\. Axlfolie\)](https://open.spotify.com/track/5FRwXERFravyWu3AoCHNsT) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Axlfolie](https://open.spotify.com/artist/0sIAaocqA1M3h5zegadwFx) | [MUTT](https://open.spotify.com/album/6gXOscJIR9wBb3OvNmeAGk) | 1:48 |
-| 85 | [CATCH A STRAY](https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 4:42 |
+| 84 | [CATCH A STRAY](https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 4:42 |
+| 85 | [SOONER OR LATER \(feat\. Axlfolie\)](https://open.spotify.com/track/5FRwXERFravyWu3AoCHNsT) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Axlfolie](https://open.spotify.com/artist/0sIAaocqA1M3h5zegadwFx) | [MUTT](https://open.spotify.com/album/6gXOscJIR9wBb3OvNmeAGk) | 1:48 |
 | 86 | [The Get Down](https://open.spotify.com/track/7jWGjydjIZSA1tsGtWW4mF) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases II \- EP](https://open.spotify.com/album/298YQLbdm8HlKXbh0uXKxN) | 3:29 |
 | 87 | [My Will](https://open.spotify.com/track/1JQQJiQRK3zmc1EXBLJOj1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:53 |
 | 88 | [Rich Shit](https://open.spotify.com/track/29uJqsQwlbLKA797fTo4hi) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Cheater](https://open.spotify.com/album/62lnNIiyfmRak3vHQL89zV) | 2:20 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 107 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 108 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `Ab3ZsgAAAABdaP7aPYfiV34OSo9vfB/2`
+Snapshot ID: `Ab3fNAAAAACaEJ+GJnpU8eT2FLMunN4Z`

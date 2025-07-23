@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Slaughter to Prevail
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,292 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,541 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Imdead](https://open.spotify.com/track/26aLMyO5qLNTHCHqioC3bn) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m), [Ronnie Radke](https://open.spotify.com/artist/6fZEAUcjlTdVh66xQodmth) | [GRIZZLY](https://open.spotify.com/album/6RIsDIL38i8Z0ftmRChVf2) | 3:49 |
 | 2 | [Hallelujah](https://open.spotify.com/track/3KA0M8SYVjkMZhTwnbqUqK) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Hallelujah](https://open.spotify.com/album/2MYRTNNu4oHVf6fx87Gm3S) | 4:13 |
-| 3 | [Heretic \(feat\. Kim Dracula\)](https://open.spotify.com/track/5Xa0Qdt8xFbjGKvJgb12nt) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Heretic \(feat\. Kim Dracula\)](https://open.spotify.com/album/6PxKrhxm8VXDWL1rFLfeAn) | 3:03 |
+| 3 | [Heretic \(feat\. Kim Dracula\)](https://open.spotify.com/track/5Xa0Qdt8xFbjGKvJgb12nt) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Heretic \(feat\. Kim Dracula\)](https://open.spotify.com/album/6PxKrhxm8VXDWL1rFLfeAn) | 3:03 |
 | 4 | [Rain](https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Rain](https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53) | 3:23 |
 | 5 | [It Only Gets Darker](https://open.spotify.com/track/1VRspIpapVgCmA3WwLbCd4) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [It Only Gets Darker](https://open.spotify.com/album/0Lb1q2XEatoB4ZKP8FtjQo) | 4:31 |
 | 6 | [Witness The End](https://open.spotify.com/track/6nUskXqES0NwMOzgdZf8u7) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx), [Chris Motionless](https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd) | [Witness The End](https://open.spotify.com/album/2a5Btl1VIyyCunyQ9aGzXk) | 4:08 |

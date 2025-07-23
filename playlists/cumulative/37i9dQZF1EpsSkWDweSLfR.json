@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 148781,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/6wAFvJPpTZVirBKGZ4EnMW"
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
@@ -4362,6 +4362,24 @@
       "duration_ms": 216442,
       "name": "number one girl",
       "url": "https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez"
+    },
+    {
+      "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170541,
+      "name": "obsessed",
+      "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
     },
     {
       "album": {
@@ -6135,6 +6153,24 @@
     },
     {
       "album": {
+        "name": ". (...)",
+        "url": "https://open.spotify.com/album/6xp0NBjMoWgRHKqYPG5Dl3"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158667,
+      "name": "TRASHMAN.",
+      "url": "https://open.spotify.com/track/0mWmT0CJAGJ76wunSU8KEY"
+    },
+    {
+      "album": {
         "name": "eternal sunshine deluxe: brighter days ahead",
         "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
       },
@@ -6456,7 +6492,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS"

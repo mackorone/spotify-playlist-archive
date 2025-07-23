@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,552 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,563 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 9 | [Old](https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:05 |
 | 10 | [ØUTSIDER](https://open.spotify.com/track/1geTeZEhjXmVZzaERpKp9r) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:56 |
 | 11 | [Now We Die](https://open.spotify.com/track/6IORbcZIZM3JiAE5eKH8v0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 7:10 |
-| 12 | [Iconoclast](https://open.spotify.com/track/2I0caLwd3Rc84Hr147WH6S) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc), [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Cancer Culture](https://open.spotify.com/album/1h4pyfLZgGi11i560BmZp0) | 4:49 |
-| 13 | [Hallowed Be Thy Name](https://open.spotify.com/track/6PIT9IUAnHFlQ78tj8rrSy) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 7:27 |
+| 12 | [Hallowed Be Thy Name](https://open.spotify.com/track/6PIT9IUAnHFlQ78tj8rrSy) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 7:27 |
+| 13 | [Iconoclast](https://open.spotify.com/track/2I0caLwd3Rc84Hr147WH6S) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc), [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Cancer Culture](https://open.spotify.com/album/1h4pyfLZgGi11i560BmZp0) | 4:49 |
 | 14 | [ATØMIC REVELATIØNS](https://open.spotify.com/track/0gGpw7LAY3cXiUfvppLkPg) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:41 |
 | 15 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 |
 | 16 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 30 | [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 |
 | 31 | [Bulldozer](https://open.spotify.com/track/6T5xfC1iWSXttGlq3rTtNo) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Supercharger](https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1) | 4:35 |
 | 32 | [Bastards](https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 5:04 |
-| 33 | [A Thousand Lies](https://open.spotify.com/track/2TAwcdw79s3T9LSp8UDQtQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 6:13 |
-| 34 | [Killers & Kings](https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 4:32 |
+| 33 | [Killers & Kings](https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 4:32 |
+| 34 | [A Thousand Lies](https://open.spotify.com/track/2TAwcdw79s3T9LSp8UDQtQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 6:13 |
 | 35 | [Beautiful Mourning](https://open.spotify.com/track/5Cs6AftcanvD6Ib7YJ1otT) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 4:46 |
 | 36 | [SLAUGHTER THE MARTYR](https://open.spotify.com/track/1pKNdeaS07seG0NANKcB8p) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 10:25 |
 | 37 | [Catharsis](https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 6:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 49 | [Silver](https://open.spotify.com/track/66AY5chQVzx7Icw6ObryJO) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:51 |
 | 50 | [The Rage to Overcome](https://open.spotify.com/track/4Xv2j9s22GodhZ12kUnOmW) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:46 |
 
-Snapshot ID: `aHwxgAAAAAAYO+d8GnR3cPo4m8cnV7e9`
+Snapshot ID: `aH2DAAAAAAAUa3rVhxuv4Gx4+Zyg0clC`

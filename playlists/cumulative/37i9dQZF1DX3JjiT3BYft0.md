@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-454 songs - 1 day 8 hr 28 min
+455 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Repaint](https://open.spotify.com/track/4ONakL7VOgMug2YNLLlg2i) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Repaint](https://open.spotify.com/album/0HBfHvwN912Vr7ggTW2PFP) | 3:53 | 2022-05-17 | 2022-07-28 |
 | [Returns](https://open.spotify.com/track/3V8PvJTL3QUenvsUHcNFj1) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3) | 5:23 | 2022-09-20 | 2024-04-19 |
 | [Returns](https://open.spotify.com/track/3U8CdxyJKZNYUrvC9NL1Xw) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Dreamers Go!/Returns](https://open.spotify.com/album/1G4nNcQeB7NO6eQs2uzPpx) | 5:24 | 2022-05-17 | 2022-07-27 |
-| [Reweave \(Cover\)](https://open.spotify.com/track/7j0LoiDsRptCUwZJ91a3MK) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Reweave \(Cover\)](https://open.spotify.com/album/0jIRwiginvcki1AaOU6ZXF) | 3:58 | 2025-03-20 |  |
+| [Reweave \(Cover\)](https://open.spotify.com/track/7j0LoiDsRptCUwZJ91a3MK) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Reweave \(Cover\)](https://open.spotify.com/album/0jIRwiginvcki1AaOU6ZXF) | 3:58 | 2025-03-20 | 2025-07-23 |
 | [RiNG A BELL](https://open.spotify.com/track/2xNrU2Ne7SZzjml72BSTtM) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:21 | 2024-03-23 | 2024-07-17 |
 | [Ringing Bloom](https://open.spotify.com/track/47lKHyMERKqbCwYVw4ytTz) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/47gXlcUI10HgzKjkEfe69o) | 5:34 | 2022-09-20 | 2024-04-19 |
 | [Ringing Bloom](https://open.spotify.com/track/3W7VUMkniIiLfPsc0fdLHW) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/2rkv0Q1Yn6raeCuk9U4ta5) | 5:34 | 2022-05-17 | 2022-07-23 |
@@ -432,6 +432,7 @@
 | [約束](https://open.spotify.com/track/0mMlO2uGxvX8Mr11RSB4y9) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 5:04 | 2023-05-30 | 2023-09-22 |
 | [約束](https://open.spotify.com/track/7rXA5MuwDku3tT0ABY7Amn) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [約束](https://open.spotify.com/album/6W6f8CRpWTlxPvbg3Too9b) | 5:04 | 2022-05-17 | 2022-07-03 |
 | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/track/5b4HxoXRgfmmS6ePsJGDG1) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/album/3L3axasHR5ytIza8pyrfiG) | 4:28 | 2024-01-04 | 2025-02-16 |
+| [紫炎 \(TV Size\)](https://open.spotify.com/track/3qQjhgLASMOO4Ob0UP6Xcj) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [紫炎 \(TV Size\)](https://open.spotify.com/album/35NE5pQn5tGdRysXKqKQNf) | 1:28 | 2025-07-22 |  |
 | [絆色のアンサンブル](https://open.spotify.com/track/1g8uyFFDuiYsgbDirSkB0R) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6), [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg), [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/6E9PhFn4SWpwlNSDJ4JDo1) | 5:12 | 2022-05-17 | 2022-07-26 |
 | [花園電気ギター!!!](https://open.spotify.com/track/5ycmMZBbaKAISsDxA4iCE7) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 3:17 | 2022-05-17 | 2025-05-28 |
 | [花園電気ギター！！！](https://open.spotify.com/track/0GRDxtvxmz51U425YzSQnn) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング　花園たえ「花園電気ギター！！！」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 3:19 | 2022-09-20 | 2024-04-19 |

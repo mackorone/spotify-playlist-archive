@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8322,
+  "num_followers": 8326,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAACnpsbEN8zVTvcz8D0s8Hx+",
+  "snapshot_id": "aH2DAAAAAACvYm6E+Sku5aHREAoJu2vy",
   "tracks": [
     {
       "added_at": null,
@@ -147,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Serious",
-        "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
-      },
-      "artists": [
-        {
-          "name": "J. Martins",
-          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 245626,
-      "name": "Good Or Bad (Oway)",
-      "url": "https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zero Panic, Vol. 2",
         "url": "https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 148140,
       "name": "Taku",
       "url": "https://open.spotify.com/track/63A8SVGGOBFB6OtmMEyBGv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Serious",
+        "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
+      },
+      "artists": [
+        {
+          "name": "J. Martins",
+          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 245626,
+      "name": "Good Or Bad (Oway)",
+      "url": "https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 249312,
-      "name": "Dem Mama",
-      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 220235,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 249312,
+      "name": "Dem Mama",
+      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Samankwe",
+        "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
+      },
+      "artists": [
+        {
+          "name": "HarrySong",
+          "url": "https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 212554,
+      "name": "Samankwe",
+      "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 231106,
       "name": "M.O.N.E.Y",
       "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Samankwe",
-        "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
-      },
-      "artists": [
-        {
-          "name": "HarrySong",
-          "url": "https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 212554,
-      "name": "Samankwe",
-      "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Iberibe",
-      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Win",
         "url": "https://open.spotify.com/album/0yGdqWIgFuRxC9Kw6F1H2C"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 223080,
       "name": "Win",
       "url": "https://open.spotify.com/track/4tsOVwq32CJnEMfNUkqCcA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Iberibe",
+      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
     },
     {
       "added_at": null,

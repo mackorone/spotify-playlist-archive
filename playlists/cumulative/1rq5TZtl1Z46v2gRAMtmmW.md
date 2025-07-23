@@ -4,7 +4,7 @@
 
 > 
 
-428 songs - 1 day 4 hr 27 min
+429 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Philip](https://open.spotify.com/track/41tqllNwBvxWR4uf7kEnQ1) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [Blind](https://open.spotify.com/album/6VUfuupSMlz8fQNEp1dO26) | 4:21 | 2022-03-11 | 2022-07-21 |
 | [PIÑATA](https://open.spotify.com/track/4ikBG94HHwxAjOKAJeKvbQ) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [PIÑATA](https://open.spotify.com/album/1PL3VNtkZ1PJrWSpibyRx6) | 2:50 | 2023-07-06 | 2023-07-26 |
 | [Plate](https://open.spotify.com/track/3vFG1ZcB68ACOdeY99aYIm) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Forever Forever](https://open.spotify.com/album/338Gexpd2aM74CJBGfcuDC) | 3:27 | 2023-03-17 | 2023-07-26 |
+| [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 | 2025-07-22 |  |
 | [Pluto \( a 2 \)](https://open.spotify.com/track/0cLufjoaDFrrLnNWH0fMvd) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [LXXXVIII](https://open.spotify.com/album/4jMtRqpTc30H2oEPDbnKC4) | 2:43 | 2023-11-03 | 2024-05-04 |
 | [pour up](https://open.spotify.com/track/2nFiKmoQFJGGYCZBYw18aY) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [DJ Nativesun](https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm) | [pour up](https://open.spotify.com/album/31E1hs0ugtNJTxgcnEhAx9) | 2:05 | 2022-06-02 | 2022-06-21 |
 | [Power \- Floorplan Remix \- Extended](https://open.spotify.com/track/4r4cj7swbafcn17Qhu5eb2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Power \(Floorplan Remix\)](https://open.spotify.com/album/7GcdVFM0oEkvAQqrP2LTHQ) | 6:05 | 2021-10-04 | 2022-06-15 |

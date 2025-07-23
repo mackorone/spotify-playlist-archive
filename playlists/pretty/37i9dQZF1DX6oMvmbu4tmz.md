@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 
 > De allerbeste songs van de 10's! Cover: Martin Garrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,803 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,808 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 | 25 | [Faded](https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:32 |
 | 26 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
 | 27 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Macklemore & Ryan Lewis](https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 |
-| 28 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 |
-| 29 | [Am I Wrong](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Black Star Elephant](https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3) | 4:05 |
+| 28 | [Am I Wrong](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Black Star Elephant](https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3) | 4:05 |
+| 29 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 |
 | 30 | [It Ain't Me \(with Selena Gomez\)](https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [It Ain't Me \(with Selena Gomez\)](https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC) | 3:40 |
 | 31 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 |
 | 32 | [Nevermind](https://open.spotify.com/track/63SevszngYpZOwf63o61K4) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Nevermind](https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch) | 2:36 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 | 86 | [Human](https://open.spotify.com/track/3erAiWBiKsbVG39cqCrsI0) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human](https://open.spotify.com/album/2Tjk7cYdH5s6dFhrmmRIw1) | 3:19 |
 | 87 | [Hello](https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:55 |
 | 88 | [Perfect Strangers](https://open.spotify.com/track/1CUVN2kn7mW5FjkqXTR2W1) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers](https://open.spotify.com/album/163nFrWkhj8FwiwJ11Gu93) | 3:16 |
-| 89 | [Treat You Better](https://open.spotify.com/track/76t5B0ttSAje5KHmQbv88t) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/0S9QJQiRmG9JYYfJfKqhDF) | 3:07 |
-| 90 | [Solo Dance](https://open.spotify.com/track/6HUnnBwYZqcED1eQztxMBN) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance](https://open.spotify.com/album/3BcNHuKlAm57APDcwh7LJq) | 2:54 |
+| 89 | [Solo Dance](https://open.spotify.com/track/6HUnnBwYZqcED1eQztxMBN) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance](https://open.spotify.com/album/3BcNHuKlAm57APDcwh7LJq) | 2:54 |
+| 90 | [Treat You Better](https://open.spotify.com/track/76t5B0ttSAje5KHmQbv88t) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/0S9QJQiRmG9JYYfJfKqhDF) | 3:07 |
 | 91 | [Little Lion Man](https://open.spotify.com/track/1QTixxvaGxwe6GF8PBwAve) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More \(Benelux Edition\)](https://open.spotify.com/album/4yHxYRTHNocJenKZ4gQndD) | 4:07 |
 | 92 | [High Hopes](https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Deluxe\)](https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj) | 3:50 |
 | 93 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
 | 94 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 |
 | 95 | [September Song](https://open.spotify.com/track/0FuTx2s3YH1ppmtiM6l0zI) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song](https://open.spotify.com/album/4PtHrEv5SyIVsdbMKi6Vkg) | 3:40 |
-| 96 | [Waves](https://open.spotify.com/track/2gGIhNmn8NaUr3LNofUIBZ) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Waves](https://open.spotify.com/album/1LZ2KaIsWc2hhCjfU72lwK) | 2:54 |
-| 97 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
+| 96 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
+| 97 | [Waves](https://open.spotify.com/track/2gGIhNmn8NaUr3LNofUIBZ) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Waves](https://open.spotify.com/album/1LZ2KaIsWc2hhCjfU72lwK) | 2:54 |
 | 98 | [Catch & Release \(Deepend remix\)](https://open.spotify.com/track/3NNqqioprPCnYcVtDn3wvS) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Catch & Release \(Deluxe Edition\)](https://open.spotify.com/album/1ujSRXhOZaq3QVbJ1gVkNl) | 3:16 |
-| 99 | [Somebody That I Used To Know](https://open.spotify.com/track/6UxSmGD3Ys7BIpbUpSERBM) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/6ZoZzRBB86PzA3ay5IetcS) | 4:05 |
-| 100 | [Home](https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T) | 4:28 |
+| 99 | [Home](https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T) | 4:28 |
+| 100 | [Somebody That I Used To Know](https://open.spotify.com/track/6UxSmGD3Ys7BIpbUpSERBM) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/6ZoZzRBB86PzA3ay5IetcS) | 4:05 |
 
 Snapshot ID: `aB0rPgAAAABqNpPyIV4oD2ZEdQ98vSZH`

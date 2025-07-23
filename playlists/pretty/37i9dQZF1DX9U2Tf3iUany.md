@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stevenvictor/">Steven Victor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,234 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,245 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 | 41 | [Spaceship](https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [GLC](https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7), [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 5:24 |
 | 42 | [All I Ever Wanted](https://open.spotify.com/track/4TqAoRSW8kOKfO4y5R0GLy) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Double Up](https://open.spotify.com/album/0DTOpcrISuUBmpHknsAJlW) | 4:02 |
 | 43 | [Best Friend \- Remix](https://open.spotify.com/track/1wI3UvluGGKUeFeVFsP9do) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [Best Friend \(Remix\)](https://open.spotify.com/album/27GrIQPCPtPyEUxONxAcRe) | 4:14 |
-| 44 | [I Got A Shot](https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:18 |
-| 45 | [Purple Reign](https://open.spotify.com/track/3E2i7xoT542yQ59bP2vBbF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 4:01 |
+| 44 | [Purple Reign](https://open.spotify.com/track/3E2i7xoT542yQ59bP2vBbF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 4:01 |
+| 45 | [I Got A Shot](https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:18 |
 | 46 | [Mojo So Dope](https://open.spotify.com/track/6hPSal3ragmfUt1I5mKZjn) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 3:30 |
 | 47 | [No Smoke](https://open.spotify.com/track/57IRaiAB4hBZu3gnNVZC0v) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy](https://open.spotify.com/album/278c24ae4JsSRpOEzlaghQ) | 2:40 |
 | 48 | [It's A Pity](https://open.spotify.com/track/0oWha7OKAqQwFZymfthIEV) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Gangsta Blues](https://open.spotify.com/album/08N10iDC2hOpj69QHaU1Dn) | 4:14 |

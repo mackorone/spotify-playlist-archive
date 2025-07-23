@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 
 > The biggest songs in Latin America in 2017\. Cover: Daddy Yankee & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,451 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,497 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 | 25 | [Mayores](https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:23 |
 | 26 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 |
 | 27 | [Tú Foto](https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:13 |
-| 28 | [Corazón \(feat\. Nego do Borel\)](https://open.spotify.com/track/5cepAtqnEQ6yVG6088zMMu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 3:04 |
+| 28 | [Perro Fiel \(feat\. Nicky Jam\)](https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:15 |
 | 29 | [El Amante](https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:39 |
-| 30 | [Perro Fiel \(feat\. Nicky Jam\)](https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:15 |
+| 30 | [Corazón \(feat\. Nego do Borel\)](https://open.spotify.com/track/5cepAtqnEQ6yVG6088zMMu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 3:04 |
 | 31 | [Solo](https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Solo](https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4) | 3:51 |
 | 32 | [SUBEME LA RADIO](https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [SUBEME LA RADIO \(feat\. Descemer Bueno & Zion & Lennox\)](https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG) | 3:27 |
 | 33 | [Síguelo Bailando](https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:46 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 | 42 | [Dembow](https://open.spotify.com/track/2EzRdhuoPyNJDlep7lnNf2) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dembow](https://open.spotify.com/album/5kpilAKnaFNV2DX5ewD7x7) | 3:35 |
 | 43 | [3 A.M.](https://open.spotify.com/track/0yyZN5ASdrYu0XYWFzfxUu) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [3 A.M.](https://open.spotify.com/album/6DAFWiPpok2nZEtjdSZO3X) | 3:03 |
 | 44 | [Sexto Sentido \(feat\. Bad Bunny\)](https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sexto Sentido \(feat\. Bad Bunny\)](https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV) | 3:47 |
-| 45 | [Que Va](https://open.spotify.com/track/6J1R5wtPXiHiwiPstOSI56) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Que Va](https://open.spotify.com/album/1mt3ZuNrHnd6gtRJhSy7Fn) | 3:58 |
-| 46 | [Tu No Metes Cabra](https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tu No Metes Cabra](https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w) | 2:50 |
+| 45 | [Tu No Metes Cabra](https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tu No Metes Cabra](https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w) | 2:50 |
+| 46 | [Que Va](https://open.spotify.com/track/6J1R5wtPXiHiwiPstOSI56) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Que Va](https://open.spotify.com/album/1mt3ZuNrHnd6gtRJhSy7Fn) | 3:58 |
 | 47 | [Por el Momento \(feat\. Plan B\)](https://open.spotify.com/track/1GZZELGFwWsi2oLE1v1eyQ) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:38 |
 | 48 | [Una Lady Como Tú](https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Una Lady Como Tú](https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew) | 3:33 |
 | 49 | [Hey DJ](https://open.spotify.com/track/1XgpK29CGGjZnxPYkiRbh4) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [CNCO](https://open.spotify.com/album/0YCyFUN3ihGbP2x9C09NF6) | 3:26 |
-| 50 | [SUTRA](https://open.spotify.com/track/0lTYnxJdC68v0oXd5xolxY) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:23 |
+| 50 | [Chambea](https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Chambea](https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw) | 3:12 |
 
 Snapshot ID: `ZpHVQwAAAADogJcbYKsaPoPE/QOD2ZY0`

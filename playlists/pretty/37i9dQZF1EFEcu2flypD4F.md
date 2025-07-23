@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,279 likes - 338 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,280 likes - 338 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,8 +236,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 226 | [Pictures](https://open.spotify.com/track/1qsw4CHZCaF7TcPPLGg07O) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Lady Croissant \(Live\)](https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H) | 3:37 |
 | 227 | [Kiss Me Once](https://open.spotify.com/track/02QVTlWdmSfDkDdOyPNewF) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kiss Me Once \(Special Edition\)](https://open.spotify.com/album/6RCOAR93Gi157qwW771xFG) | 3:17 |
 | 228 | [Beautiful Things Can Happen](https://open.spotify.com/track/7da0TNcFMyUE9a3UNzZ6BE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:50 |
-| 229 | [Dreaming](https://open.spotify.com/track/3wXFZOXzoole2NXH3orG8I) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [The Early Albums Collection 1957\-1963 \[Disc 4\]](https://open.spotify.com/album/56S5sGov4GPA5HDiih0id7) | 2:44 |
-| 230 | [Towards The Sun](https://open.spotify.com/track/56Jm8UQS5PD86xfKjanI3r) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:47 |
+| 229 | [Towards The Sun](https://open.spotify.com/track/56Jm8UQS5PD86xfKjanI3r) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:47 |
+| 230 | [Dreaming](https://open.spotify.com/track/3wXFZOXzoole2NXH3orG8I) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [The Early Albums Collection 1957\-1963 \[Disc 4\]](https://open.spotify.com/album/56S5sGov4GPA5HDiih0id7) | 2:44 |
 | 231 | [Music](https://open.spotify.com/track/4XCQTLPs84Ct8kzOQ6Wiqs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:58 |
 | 232 | [Play Dumb](https://open.spotify.com/track/1riVlpXulpdZ5jTGIKTQM0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:03 |
 | 233 | [The Church Of What's Happening Now](https://open.spotify.com/track/1NNoACP3CHq28jHGCq3o4w) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:27 |
@@ -277,9 +277,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 267 | [Healing Is Difficult](https://open.spotify.com/track/1L5HyFVKEBVhIix8jjsnCn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 5:24 |
 | 268 | [I'm Not Important to You](https://open.spotify.com/track/3gbadh6pdgrLspW6zDHq7E) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 6:08 |
 | 269 | [Best Day Ever](https://open.spotify.com/track/6XaTwM6s2IXD6btpRLVN2Z) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 3:58 |
-| 270 | [A l'infini](https://open.spotify.com/track/7oHVGXUDXt8BzyRUQl41nN) | [TAL](https://open.spotify.com/artist/6JLwyyc3LBwRXEODjugQ4D) | [A L'Infini](https://open.spotify.com/album/3qiBmE73Lu3J8BQwUQ6rig) | 3:28 |
+| 270 | [superbad](https://open.spotify.com/track/0eCKIQmFqczIWgTCE1kK0U) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Dear Joe,](https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI) | 3:02 |
 | 271 | [One Candle](https://open.spotify.com/track/6tUkav0vClfyCbucb0mUmJ) | [J\. Ralph](https://open.spotify.com/artist/2GPriNLwjGv7sjsgIex8Wv), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Racing Extinction \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tbo6edRmkeeST0qK7lsvb) | 4:03 |
-| 272 | [superbad](https://open.spotify.com/track/0eCKIQmFqczIWgTCE1kK0U) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Dear Joe,](https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI) | 3:02 |
+| 272 | [A l'infini](https://open.spotify.com/track/7oHVGXUDXt8BzyRUQl41nN) | [TAL](https://open.spotify.com/artist/6JLwyyc3LBwRXEODjugQ4D) | [A L'Infini](https://open.spotify.com/album/3qiBmE73Lu3J8BQwUQ6rig) | 3:28 |
 | 273 | [Der Meister grillt](https://open.spotify.com/track/2Q1kubblCZ0uWJyAfBLN23) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w) | [SpongeBob \- Der Meister grillt](https://open.spotify.com/album/51qkp1oYlVbW1XwFseNrYf) | 3:38 |
 | 274 | [ADHD](https://open.spotify.com/track/3VVE1ZkBoIgDhHHIPGQvQh) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:23 |
 | 275 | [Judge Me](https://open.spotify.com/track/66fhJHov6sAsZz7qCEJxDw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 4:15 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 337 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 338 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `Ab3ZsgAAAADWmm7ceL1V7Ea/H9glBl9+`
+Snapshot ID: `Ab3fNAAAAAD+nP8VbODF9KI/wx4MrQIT`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,437 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,455 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 28 | [Fool Me Once](https://open.spotify.com/track/2MGB1GwWIX0MZMvy5eGFOi) | [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [Fool Me Once](https://open.spotify.com/album/2KEKoEZzlzfhlkS4SkM3NX) | 3:53 |
 | 29 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
 | 30 | [Time Heals](https://open.spotify.com/track/3fVLvjQZZyZRiancZ6dzUv) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [This Feels Like An Interlude](https://open.spotify.com/album/2EVREJV515efDWzMrMbb7I) | 1:41 |
-| 31 | [Taxi Driver](https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Taxi Driver](https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh) | 2:36 |
-| 32 | [Loner](https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Loner](https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH) | 2:37 |
+| 31 | [Loner](https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Loner](https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH) | 2:37 |
+| 32 | [Taxi Driver](https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Taxi Driver](https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh) | 2:36 |
 | 33 | [i get it now \(freestyle\)](https://open.spotify.com/track/7CaTLkvYnOVQ2pTEogCAIn) | [Kenduu](https://open.spotify.com/artist/0Qp5PO8qwfBiMBOVnPVRtO) | [i get it now \(freestyle\)](https://open.spotify.com/album/5Y42gnsG8R13NuxWi3FcRL) | 2:52 |
 | 34 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 |
 | 35 | [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 |
 | 36 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 |
 | 37 | [understand](https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [understand](https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK) | 2:54 |
-| 38 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 |
-| 39 | [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 |
-| 40 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |
-| 41 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
+| 38 | [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 |
+| 39 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
+| 40 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 |
+| 41 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |
 | 42 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 |
 | 43 | [E PAIN ME](https://open.spotify.com/track/3JziUAJNdpilVeO0yf7ksf) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:03 |
 | 44 | [Cry \(shayo\) \(feat\. Lojay\)](https://open.spotify.com/track/7IK3W4llnnZsSxA9Dm8uhr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:48 |

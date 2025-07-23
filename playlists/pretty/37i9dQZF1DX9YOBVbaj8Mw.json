@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 17646,
+  "num_followers": 17644,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Live 2021",
+        "url": "https://open.spotify.com/album/13kknTdU4y2kcRci2KApiN"
+      },
+      "artists": [
+        {
+          "name": "TSA",
+          "url": "https://open.spotify.com/artist/1lf4FrrTMK1QsbXa4wrqZV"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Jestem g\u0142odny",
+      "url": "https://open.spotify.com/track/6qaBioF12imgy5o5uzfXMg"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "A statek p\u0142ynie",
         "url": "https://open.spotify.com/album/1FDmrBj9fm34SRd5F8qxlj"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 188187,
       "name": "Serbowie",
       "url": "https://open.spotify.com/track/6f4Z4mZA5XdO0DXZjoIxJc"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Live 2021",
-        "url": "https://open.spotify.com/album/13kknTdU4y2kcRci2KApiN"
-      },
-      "artists": [
-        {
-          "name": "TSA",
-          "url": "https://open.spotify.com/artist/1lf4FrrTMK1QsbXa4wrqZV"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "Jestem g\u0142odny",
-      "url": "https://open.spotify.com/track/6qaBioF12imgy5o5uzfXMg"
     },
     {
       "added_at": "2025-04-06 08:27:45",

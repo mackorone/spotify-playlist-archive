@@ -752,7 +752,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 179399,
       "name": "Bay\u0131l\u0131yorum Sana",
       "url": "https://open.spotify.com/track/3k2xuHNxGDtiuI6rEVd3CT"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 175190,
       "name": "En Ger\u00e7e\u011fi",
       "url": "https://open.spotify.com/track/2oroizq42YriYCkHhbh83Y"
@@ -2564,7 +2564,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 140867,
       "name": "G\u00fcl\u00fc Sevdim Dikeni Batt\u0131",
       "url": "https://open.spotify.com/track/2I72h0vAqdF0x3GSBs8t2N"
@@ -2828,7 +2828,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 179478,
       "name": "Iss\u0131z Duvarlar",
       "url": "https://open.spotify.com/track/1nSJoh7pPSHkMX8pXGE33H"
@@ -3562,7 +3562,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 229761,
       "name": "Max",
       "url": "https://open.spotify.com/track/7lRMajzI2xa34EQg2SKecS"
@@ -4652,6 +4652,24 @@
       "duration_ms": 149711,
       "name": "Snap",
       "url": "https://open.spotify.com/track/4EsRpVBBKiqOZ67DJj0QHF"
+    },
+    {
+      "album": {
+        "name": "Soka\u011f\u0131ndan Ge\u00e7mezdim",
+        "url": "https://open.spotify.com/album/4HgYFr8tGOZ2oZ7RGGpJlK"
+      },
+      "artists": [
+        {
+          "name": "Tan Ta\u015f\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238634,
+      "name": "Soka\u011f\u0131ndan Ge\u00e7mezdim",
+      "url": "https://open.spotify.com/track/0cfSvO87qn9LtYRpkxSfq4"
     },
     {
       "album": {

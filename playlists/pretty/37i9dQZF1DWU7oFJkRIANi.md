@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7oFJkRIANi.md) - [plain]
 
 > \#1 hits from the top of the Australian charts, featuring current \#1 Alex Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,287 likes - 65 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,281 likes - 65 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 47858,
+  "num_followers": 47861,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -311,18 +311,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Historia natural",
-        "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
+        "name": "Agujas en el pecho",
+        "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
       "artists": [
         {
-          "name": "Los Pira\u00f1as",
-          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Catalina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
         }
       ],
-      "duration_ms": 223488,
-      "name": "Todos tenemos hogar",
-      "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
+      "duration_ms": 320682,
+      "name": "Agujas en el pecho",
+      "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -343,6 +347,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Historia natural",
+        "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
+      },
+      "artists": [
+        {
+          "name": "Los Pira\u00f1as",
+          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
+        }
+      ],
+      "duration_ms": 223488,
+      "name": "Todos tenemos hogar",
+      "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Cuatro Tigres",
         "url": "https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 146680,
       "name": "La Danza de los Simpsons",
       "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Agujas en el pecho",
-        "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "Catalina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
-        }
-      ],
-      "duration_ms": 320682,
-      "name": "Agujas en el pecho",
-      "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
-        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
-      },
-      "artists": [
-        {
-          "name": "Los Beta 5",
-          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "El Bicho",
-      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "La Bomba",
         "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 134720,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
+        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
+      },
+      "artists": [
+        {
+          "name": "Los Beta 5",
+          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "El Bicho",
+      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Me Estoy Poniendo Viejo",
+        "url": "https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv"
+      },
+      "artists": [
+        {
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+        }
+      ],
+      "duration_ms": 234382,
+      "name": "Me Estoy Poniendo Viejo",
+      "url": "https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Cumbia Disco Energy",
         "url": "https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 237674,
       "name": "Cumbia Disco Energy",
       "url": "https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Me Estoy Poniendo Viejo",
-        "url": "https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv"
-      },
-      "artists": [
-        {
-          "name": "Los Esplifs",
-          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
-        }
-      ],
-      "duration_ms": 234382,
-      "name": "Me Estoy Poniendo Viejo",
-      "url": "https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Lalango",
-        "url": "https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg"
-      },
-      "artists": [
-        {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
-        }
-      ],
-      "duration_ms": 209371,
-      "name": "Republica Federal de Malphino",
-      "url": "https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Mi Gran Dolor",
         "url": "https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 254908,
       "name": "Mi Gran Dolor",
       "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Lalango",
+        "url": "https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 209371,
+      "name": "Republica Federal de Malphino",
+      "url": "https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Me Duele Tu Partida",
-        "url": "https://open.spotify.com/album/3rreqEAgQUOo9XYDvLOF6S"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 192474,
-      "name": "Me Duele Tu Partida",
-      "url": "https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Curandero",
         "url": "https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 160680,
       "name": "Paleta",
       "url": "https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Me Duele Tu Partida",
+        "url": "https://open.spotify.com/album/3rreqEAgQUOo9XYDvLOF6S"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 192474,
+      "name": "Me Duele Tu Partida",
+      "url": "https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
+      },
+      "artists": [
+        {
+          "name": "La Chamba",
+          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
+        }
+      ],
+      "duration_ms": 198469,
+      "name": "Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
         "url": "https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 216826,
       "name": "Lamento en la Selva - Remix",
       "url": "https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
-      },
-      "artists": [
-        {
-          "name": "La Chamba",
-          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
-        }
-      ],
-      "duration_ms": 198469,
-      "name": "Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Levante la Mano",
-        "url": "https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ"
+        "name": "Chica Psy",
+        "url": "https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE"
       },
       "artists": [
         {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+          "name": "Cadereira",
+          "url": "https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO"
         }
       ],
-      "duration_ms": 188817,
-      "name": "Voy de Aqu\u00ed Pa'all\u00e1",
-      "url": "https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ"
+      "duration_ms": 202302,
+      "name": "Chica Psy",
+      "url": "https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Chica Psy",
-        "url": "https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE"
+        "name": "Levante la Mano",
+        "url": "https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ"
       },
       "artists": [
         {
-          "name": "Cadereira",
-          "url": "https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO"
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
         }
       ],
-      "duration_ms": 202302,
-      "name": "Chica Psy",
-      "url": "https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3"
+      "duration_ms": 188817,
+      "name": "Voy de Aqu\u00ed Pa'all\u00e1",
+      "url": "https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Paganismo (Deluxe)",
-        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "Mambo Del Fierro Viejo",
-      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Sonido Yoryi",
         "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 280821,
       "name": "Sonido Yoryi",
       "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Paganismo (Deluxe)",
+        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "duration_ms": 189514,
+      "name": "Mambo Del Fierro Viejo",
+      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1707,22 +1707,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "STYNDOUDOU",
-        "url": "https://open.spotify.com/album/6E5slF7509nncsVdbD2mnt"
+        "name": "Virgen de Guadalupe",
+        "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
       },
       "artists": [
         {
-          "name": "King Doudou",
-          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
-        },
-        {
-          "name": "Styn",
-          "url": "https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd"
+          "name": "Los Pe\u00f1aloza",
+          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
         }
       ],
-      "duration_ms": 173362,
-      "name": "BADINERIE",
-      "url": "https://open.spotify.com/track/3EKddyjTGCYdQrcpOBitF0"
+      "duration_ms": 222214,
+      "name": "Virgen de Guadalupe",
+      "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
     }
   ],
   "unique_name": "TROPILOCO",

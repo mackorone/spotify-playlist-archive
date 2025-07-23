@@ -4,7 +4,7 @@
 
 > 日本のロック・シーンの中でも特異な進化と深化を続けるRADWIMPSのオール・タイム・ベスト。
 
-158 songs - 12 hr 54 min
+159 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [叫べ](https://open.spotify.com/track/101vZ1CG1NwwKpvLW5RPs4) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [アルトコロニーの定理](https://open.spotify.com/album/5L5EmTd2tdm70Yo0CYLIsg) | 4:53 | 2024-01-23 |  |
 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:42 | 2024-01-23 |  |
 | [告白](https://open.spotify.com/track/5vRrsna6LudhScpZiIvhiT) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [人間開花](https://open.spotify.com/album/4DzbZVGpyQ4zyqyAsQqDur) | 6:41 | 2024-01-23 |  |
+| [命題](https://open.spotify.com/track/4AOdoMJXt8cddiH1SzXlA0) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [命題](https://open.spotify.com/album/5bQIFv4iRJ6ZOEAFofNOjP) | 4:50 | 2025-07-22 |  |
 | [夏のせい](https://open.spotify.com/track/20sY6R3DYZffBG3o2HhGUK) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [FOREVER DAZE](https://open.spotify.com/album/1z0j3oxUKw4OgebZM5m2GD) | 5:43 | 2024-01-23 |  |
 | [夢灯籠](https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:11 | 2024-01-23 |  |
 | [夢番地](https://open.spotify.com/track/3OborUBAOYmOmu9kVyoMvr) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 4 ～おかずのごはん～](https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP) | 5:01 | 2023-07-03 |  |

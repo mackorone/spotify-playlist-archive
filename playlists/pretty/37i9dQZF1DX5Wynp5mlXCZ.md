@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Korolova & Artem Pivovarov
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,634 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,647 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 39 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 |
 | 40 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 |
 | 41 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 |
-| 42 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 |
-| 43 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
+| 42 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
+| 43 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 |
 | 44 | [RED FLAG.](https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [.](https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9) | 3:34 |
 | 45 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 |
 | 46 | [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 |
 | 47 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 |
-| 48 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
-| 49 | [Bird of Pray \- Eurovision 2025](https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Eurovision 2025\)](https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR) | 3:00 |
+| 48 | [Bird of Pray \- Eurovision 2025](https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Eurovision 2025\)](https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR) | 3:00 |
+| 49 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
 | 50 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 |
 | 51 | [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 |
 | 52 | [Voices](https://open.spotify.com/track/2qMDLvoWC6qZMjNhGc9V8j) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Voices](https://open.spotify.com/album/52Dzsy8FeJLPEsT3lqPZ2r) | 3:32 |
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 62 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
 | 63 | [Грушка](https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Грушка](https://open.spotify.com/album/387Yb2P64xMmoqQnGaYE6g) | 2:57 |
 | 64 | [Cry For You](https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Cry For You](https://open.spotify.com/album/1WFL9aoPtU670V9RBVqwl4) | 2:22 |
-| 65 | [Балкони](https://open.spotify.com/track/2lzFiA4s2GfjRFDomh8oYD) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Балкони](https://open.spotify.com/album/1Zkwp9SEuVoAqZb62NITZe) | 2:57 |
+| 65 | [Невже](https://open.spotify.com/track/1dRwGgYCwrpVX9qJMMfEvw) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Невже](https://open.spotify.com/album/5mUBIsjrd0LoeeVidf6JeI) | 3:01 |
 | 66 | [Додайте світла](https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Додайте світла](https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb) | 2:32 |
 | 67 | [Smoking Cherry](https://open.spotify.com/track/5hmQADC08TeCTQaeKhltnY) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [Smoking Cherry](https://open.spotify.com/album/7hMpzKT3n8J30U8aClUan8) | 4:40 |
-| 68 | [Невже](https://open.spotify.com/track/1dRwGgYCwrpVX9qJMMfEvw) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Невже](https://open.spotify.com/album/5mUBIsjrd0LoeeVidf6JeI) | 3:01 |
+| 68 | [Балкони](https://open.spotify.com/track/2lzFiA4s2GfjRFDomh8oYD) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Балкони](https://open.spotify.com/album/1Zkwp9SEuVoAqZb62NITZe) | 2:57 |
 | 69 | [Різні](https://open.spotify.com/track/41SjxgeszHB9sHIDF8uv0z) | [Quest Pistols](https://open.spotify.com/artist/18XhbB07IBOH5ZNPn97tf0) | [Різні](https://open.spotify.com/album/66H5dnzRkTXifMuwP4355H) | 3:14 |
 | 70 | [ВИМОЛИВ](https://open.spotify.com/track/50TDvOruXEGPPgyfn0jWck) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [Evgeny Khmara](https://open.spotify.com/artist/1zJK2aIQTlvLYcq7qrtUc3) | [ВИМОЛИВ](https://open.spotify.com/album/6eKUX8WOlayrj5zTWuZmRc) | 3:32 |
 

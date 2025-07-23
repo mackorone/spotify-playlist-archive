@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 172789,
+  "num_followers": 172800,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAAqiruciVJ0VEWNgPeR4vxK",
+  "snapshot_id": "aH2DAAAAAAByZ6Tdl3p85FDW6H6Vy73G",
   "tracks": [
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome To The Jungle",
-        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
-      },
-      "artists": [
-        {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Vamos Hacerlo",
-      "url": "https://open.spotify.com/track/4qZEe7OrbYFWUCFrnCOP0O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/6sId7HxwowQflyXaVS8PUZ"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 192650,
       "name": "Replay",
       "url": "https://open.spotify.com/track/1Khrw3Kue4yG8n3e8S1i1v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome To The Jungle",
+        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
+      },
+      "artists": [
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Vamos Hacerlo",
+      "url": "https://open.spotify.com/track/4qZEe7OrbYFWUCFrnCOP0O"
     },
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "La Calle Me Lo Pidio",
+      "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Le Clique: Vida Rockstar (X)",
         "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 254493,
       "name": "Porsche Carrera",
       "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quien Contra Mi",
-        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "La Calle Me Lo Pidio",
-      "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
       "duration_ms": 216424,
       "name": "Mamasota",
       "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
     },
     {
       "added_at": null,
@@ -907,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#Update",
-        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BORRACHO Y LOCO",
         "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 171800,
       "name": "BORRACHO Y LOCO",
       "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SINF\u00d3NICO (En Vivo)",
-        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 120101,
-      "name": "Noche De Entierro - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/229RHylF8KuiREpa3hY01H"
     },
     {
       "added_at": null,
@@ -995,6 +979,22 @@
       "duration_ms": 366613,
       "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SINF\u00d3NICO (En Vivo)",
+        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 120101,
+      "name": "Noche De Entierro - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/229RHylF8KuiREpa3hY01H"
     },
     {
       "added_at": null,
@@ -1143,26 +1143,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desperte Sin Ti (Remix)",
-        "url": "https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v"
+        "name": "LA MAYBACH",
+        "url": "https://open.spotify.com/album/1jz29Rm1NMO3xpeMotUgff"
       },
       "artists": [
         {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
         },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 319586,
-      "name": "Desperte Sin Ti - Remix",
-      "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
+      "duration_ms": 240778,
+      "name": "LA MAYBACH",
+      "url": "https://open.spotify.com/track/0kJAsLcG0lPlYTwGbCwcvt"
     }
   ],
   "unique_name": "This Is Yandel",

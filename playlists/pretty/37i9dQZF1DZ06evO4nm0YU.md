@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,895 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,942 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 46 | [El Malo](https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 4:02 |
 | 47 | [No Me Llores Más](https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 5:37 |
 | 48 | [Mentira](https://open.spotify.com/track/0sIS4B5SgYURmXGvYOZYKH) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:42 |
-| 49 | [Él Son](https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [¡Que Sentimiento!](https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo) | 6:06 |
-| 50 | [Dia De Ayer](https://open.spotify.com/track/2UmblzGZJ9L39cGBamLhgs) | [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Dia De Ayer](https://open.spotify.com/album/5CjN1hidT7zC2QhMy6gyfI) | 3:26 |
+| 49 | [Dia De Ayer](https://open.spotify.com/track/2UmblzGZJ9L39cGBamLhgs) | [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Dia De Ayer](https://open.spotify.com/album/5CjN1hidT7zC2QhMy6gyfI) | 3:26 |
+| 50 | [Él Son](https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [¡Que Sentimiento!](https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo) | 6:06 |
 
-Snapshot ID: `aHwxgAAAAACnvzZyIS0BnztlDnl59KZI`
+Snapshot ID: `aH2DAAAAAACLB/SDpWMJC2rusobIOKC3`

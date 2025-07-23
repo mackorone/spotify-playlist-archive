@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,235 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,323 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 67 | [Bridges](https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Nedja](https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN) | [Heart \- EP](https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP) | 3:01 |
 | 68 | [Ohh Baby](https://open.spotify.com/track/4P19q3dSHap2uHkqRsF4YS) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Space Drag](https://open.spotify.com/album/0IRRsRMpxLm9wkQyFtoSfx) | 5:08 |
 | 69 | [X\-Dream](https://open.spotify.com/track/76sVe0f6NIgZo690KZyEEd) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [X\-Dream](https://open.spotify.com/album/6BSiu2BYuTWsLO8EyXpmgV) | 4:21 |
-| 70 | [Been Such a Long Time \- Luke Alessi Remix](https://open.spotify.com/track/57G4GO2Q2VPiQZjSnWhPgg) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Been Such a Long Time \(Luke Alessi Remixes\)](https://open.spotify.com/album/1ygb2SakGO4F333VZEpkoo) | 4:41 |
-| 71 | [Of A Vessel](https://open.spotify.com/track/6H9EIZ81SWrwRTxwLcMgNz) | [Blank Gloss](https://open.spotify.com/artist/3ygskHdzS2MNz3ZsQfbkfB) | [Pop Ambient 2021](https://open.spotify.com/album/07YiA79O4x3dIVWAB5zhhJ) | 4:31 |
+| 70 | [Of A Vessel](https://open.spotify.com/track/6H9EIZ81SWrwRTxwLcMgNz) | [Blank Gloss](https://open.spotify.com/artist/3ygskHdzS2MNz3ZsQfbkfB) | [Pop Ambient 2021](https://open.spotify.com/album/07YiA79O4x3dIVWAB5zhhJ) | 4:31 |
+| 71 | [Been Such a Long Time \- Luke Alessi Remix](https://open.spotify.com/track/57G4GO2Q2VPiQZjSnWhPgg) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Been Such a Long Time \(Luke Alessi Remixes\)](https://open.spotify.com/album/1ygb2SakGO4F333VZEpkoo) | 4:41 |
 | 72 | [Lines](https://open.spotify.com/track/63qu72CjJpo4TWkg7fY54B) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Lines](https://open.spotify.com/album/3kdKeoPkQpKnchJDmuzuNn) | 4:26 |
 | 73 | [Thru U \(feat\. Bklava\)](https://open.spotify.com/track/4VQyqfE9UjTciUHqYeVl2R) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [I Feel You Feel](https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo) | 2:57 |
 | 74 | [Sun\_3hd](https://open.spotify.com/track/3SZNh86XYkpDumjfWaV1b0) | [Rein](https://open.spotify.com/artist/5RUjaQZcU0IX0ayjFQrQQt) | [Sun\_3hd](https://open.spotify.com/album/1h9XUarVfrkzHUk350s4K1) | 6:16 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 84 | [An Ending, a Beginning](https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Other Lights](https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb) | 2:08 |
 | 85 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
 | 86 | [Marilyn](https://open.spotify.com/track/5jJPcImQkogKdwsVS36zH7) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit) | 4:06 |
-| 87 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 |
-| 88 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 |
-| 89 | [Saw You for the First Time](https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 6:44 |
+| 87 | [Saw You for the First Time](https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 6:44 |
+| 88 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 |
+| 89 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 |
 | 90 | [I Will Make Room for You \- Four Tet Remix](https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [I Will Make Room for You \(Four Tet Remix\)](https://open.spotify.com/album/4Gm7PiDeS6TYPKy8iRjRiX) | 8:17 |
 | 91 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 |
 | 92 | [Way Ur Touchin Me](https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Save Me](https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk) | 4:59 |

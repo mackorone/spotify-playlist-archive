@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,888 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,898 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 34 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 |
 | 35 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 |
 | 36 | [Intrusive Thoughts](https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Intrusive Thoughts](https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk) | 3:21 |
-| 37 | [Wherever You Are](https://open.spotify.com/track/3BCFoto6dd5e5001q5YhqJ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Wherever You Are](https://open.spotify.com/album/1HgEAeacUjkt2NlLgOiSm9) | 4:10 |
-| 38 | [Hey](https://open.spotify.com/track/6XEQbfYGsJlrl5agnu5b1y) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Hey](https://open.spotify.com/album/4KC8c6iS6gLnXFZmQlpSEn) | 3:26 |
+| 37 | [Hey](https://open.spotify.com/track/6XEQbfYGsJlrl5agnu5b1y) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Hey](https://open.spotify.com/album/4KC8c6iS6gLnXFZmQlpSEn) | 3:26 |
+| 38 | [Wherever You Are](https://open.spotify.com/track/3BCFoto6dd5e5001q5YhqJ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Wherever You Are](https://open.spotify.com/album/1HgEAeacUjkt2NlLgOiSm9) | 4:10 |
 | 39 | [My World](https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [My World](https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV) | 3:23 |
 | 40 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 |
 | 41 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 45 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 |
 | 46 | [Breathe In, Breathe Out](https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Breathe In, Breathe Out](https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU) | 2:24 |
 | 47 | [Pieces](https://open.spotify.com/track/2TWTMmb5uHVuXEpXniIIhB) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Pieces](https://open.spotify.com/album/20udlOmp16aNccOj3iGupw) | 3:04 |
-| 48 | [KARAOKE](https://open.spotify.com/track/3uVQNkFMVS4BTxukzG35UR) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [KARAOKE](https://open.spotify.com/album/5wRNoI7QzBYp49j21ZwZX6) | 3:41 |
-| 49 | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE) | 3:44 |
+| 48 | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE) | 3:44 |
+| 49 | [KARAOKE](https://open.spotify.com/track/3uVQNkFMVS4BTxukzG35UR) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [KARAOKE](https://open.spotify.com/album/5wRNoI7QzBYp49j21ZwZX6) | 3:41 |
 | 50 | [Ready For Love](https://open.spotify.com/track/22P3JuYQGYQxD5jagzc9dC) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Ready For Love](https://open.spotify.com/album/5mhZIc8Il70byoez6HeoDG) | 3:19 |
 | 51 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 52 | [overthinking about you](https://open.spotify.com/track/3uxPJckvg3g5B686iNgqXU) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [overthinking about you](https://open.spotify.com/album/6HoiPGlbAGOrJRJ5ZRVnzn) | 3:16 |

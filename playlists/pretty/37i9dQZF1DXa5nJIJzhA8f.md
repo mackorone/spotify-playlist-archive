@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 
 > Meticulously selected by Spotify music experts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,035 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,807 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 16 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 |
 | 17 | [Nettles](https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Nettles](https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM) | 8:03 |
 | 18 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |
-| 19 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 |
-| 20 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 |
+| 19 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 |
+| 20 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 |
 | 21 | [WHIM WHAMIEE \(feat\. YKNIECE\)](https://open.spotify.com/track/177s589pGfNvcIX07n2Ecl) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [BOTH WAYS](https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN) | 2:21 |
 | 22 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
 | 23 | [IMPOSTOR](https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:37 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 46 | [When Will The Love Rain Down](https://open.spotify.com/track/5RZC6hR11cilAHjsNMu1gI) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [When Will The Love Rain Down](https://open.spotify.com/album/4W8Z1xjbtA2UsqrSHdOZ3d) | 5:43 |
 | 47 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
 | 48 | [Diva](https://open.spotify.com/track/0f5JzkjAfuxwDDDkcX2lrY) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Pirouette](https://open.spotify.com/album/3MAtJ9jJmvkBZTGUhAHupj) | 4:16 |
-| 49 | [Jaze, Caloncho \- pensé en ti \(Video Oficial\)](https://open.spotify.com/track/3h4XAYoCsPyjZr3kILJhj1) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Jaze, Caloncho \- pensé en ti \(Video Oficial\)](https://open.spotify.com/album/3yRouY1truteu49zGTeAYk) | 3:56 |
+| 49 | [pensé en ti \(feat\. Caloncho\)](https://open.spotify.com/track/3h4XAYoCsPyjZr3kILJhj1) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [pensé en ti \(feat\. Caloncho\)](https://open.spotify.com/album/3yRouY1truteu49zGTeAYk) | 3:56 |
 | 50 | [Sweet Danger](https://open.spotify.com/track/4EoOXgvAdjiRzL60dNaLls) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:40 |
 
 Snapshot ID: `aGV7MgAAAACkbYqrHfb8pFHN/S2A3B36`

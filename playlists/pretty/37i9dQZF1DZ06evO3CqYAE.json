@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 13141,
+  "num_followers": 13148,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAArWv9NQMnJn476LFUxJgoA",
+  "snapshot_id": "aH2DAAAAAABPQba7CXDp2PDMh+3j4wIr",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okemmuo (The Spirit of the Spirit)",
-        "url": "https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832"
+        "name": "When You Say A Thing",
+        "url": "https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY"
       },
       "artists": [
-        {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
-        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 354986,
-      "name": "Okemmuo (The Spirit of the Spirit)",
-      "url": "https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw"
+      "duration_ms": 239076,
+      "name": "When You Say A Thing",
+      "url": "https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc"
     },
     {
       "added_at": null,
@@ -427,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When You Say A Thing",
-        "url": "https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 239076,
-      "name": "When You Say A Thing",
-      "url": "https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Overwhelming Victory",
         "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 255553,
       "name": "From The Rising",
       "url": "https://open.spotify.com/track/5ds4VdSTfXXXFifcCGWYZe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Okemmuo (The Spirit of the Spirit)",
+        "url": "https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832"
+      },
+      "artists": [
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 354986,
+      "name": "Okemmuo (The Spirit of the Spirit)",
+      "url": "https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw"
     },
     {
       "added_at": null,

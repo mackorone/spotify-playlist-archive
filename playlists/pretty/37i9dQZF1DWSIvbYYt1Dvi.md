@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > jotapê príncipe do freestyle + emicida da rinha = AULAS abertas se inscreva já
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,166,423 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,166,297 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Leandro Roque](https://open.spotify.com/track/6CloyUaUDsg2gOp51hT9ao) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Até A Última Rima](https://open.spotify.com/album/0q7BnzgfpF9TiaYAN01K3E) | 4:35 |
 | 2 | [Se Eu Pudesse](https://open.spotify.com/track/0UnVcQR3YU6DDSZ4RCiimj) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [PATRONO](https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI) | 4:11 |
-| 3 | [KGL's](https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 4:18 |
+| 3 | [KGL's](https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 4:18 |
 | 4 | [GTA](https://open.spotify.com/track/4rq7f9LzEu2fqtkUj1anFX) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 3:22 |
 | 5 | [Cabana Terminal](https://open.spotify.com/track/46RASVE1jZ3bTavDxvnudx) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [ASSALTOS E BATIDAS](https://open.spotify.com/album/5ZCEu4tVlxt0PR0J4NJ0Ex) | 2:46 |
 | 6 | [JOÃO E MARIA](https://open.spotify.com/track/4eDI5VjIPzidWqwLEtjKlB) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 
 > This is Avril Lavigne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,933 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,991 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 38 | [The Best Damn Thing](https://open.spotify.com/track/7lmX3dD2Xy13Jo1oCTR4ot) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:09 |
 | 39 | [Bad Girl \(feat\. Marilyn Manson\)](https://open.spotify.com/track/1HiV8vDg7l9eKp6abjvA7P) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 2:54 |
 | 40 | [Take Me Away](https://open.spotify.com/track/4e8HF8QcD4HlfgRT6TGDlO) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 2:57 |
-| 41 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 |
-| 42 | [Everybody Hurts](https://open.spotify.com/track/57gIhFXdJ5M9JuNDcbpcEk) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:41 |
+| 41 | [Everybody Hurts](https://open.spotify.com/track/57gIhFXdJ5M9JuNDcbpcEk) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:41 |
+| 42 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 |
 | 43 | [Give You What You Like](https://open.spotify.com/track/3lRSfCNYx9XvJdCL2JcdVa) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 3:45 |
 | 44 | [Why](https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go \(20th Anniversary Edition\)](https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs) | 3:54 |
 | 45 | [Love Sux](https://open.spotify.com/track/0ML3PJ6f9lgj1B4FQo4kZB) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 49 | [Bad Reputation](https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 2:42 |
 | 50 | [Listen \(featuring Avril Lavigne\)](https://open.spotify.com/track/0GT5m0eIa0OATOECdQtcsk) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Ambitions](https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b) | 3:38 |
 
-Snapshot ID: `aHwxgAAAAAABCxyoBpwhEmtUXcshkSNV`
+Snapshot ID: `aH2DAAAAAADvWH7XVwdPRIuaps9eMC/P`

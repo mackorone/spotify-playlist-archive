@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 
 > This is $uicideboy$\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,203 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,322 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 49 | [Venom](https://open.spotify.com/track/4RYhSQFFlquCTb8XRMJgFU) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [KILL YOURSELF Part XIV: The Vulture Saga](https://open.spotify.com/album/4shih0Tkjmn2JWJHSHlF2s) | 2:03 |
 | 50 | [Now I'm Up to My Neck with Offers](https://open.spotify.com/track/5ClnW65Z82Mqu4QFwf69YU) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XX: The Infinity Saga](https://open.spotify.com/album/1sbKmnLvYSP6o6iPCjmCVd) | 2:47 |
 
-Snapshot ID: `aHwxgAAAAABrY6Itx5TdomxQsRWMAOa4`
+Snapshot ID: `aH2DAAAAAAAEuQI/gaVzg1NESda6UvEn`

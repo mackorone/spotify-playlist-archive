@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,373 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,380 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,14 +70,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 60 | [我會很愛妳](https://open.spotify.com/track/1zMfP7uJhoVAfgiaRfmXHT) | [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086) | [多出來的自由](https://open.spotify.com/album/5ODtcfQN1zzG3KuvyQTbKg) | 3:33 |
 | 61 | [做我的貓](https://open.spotify.com/track/51XbIeW3UFnpXuJu8gMwK5) | [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE) | [做我的貓](https://open.spotify.com/album/0KjE00V0E6lIsqCbsr7Ukv) | 3:54 |
 | 62 | [想和你](https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [想和你](https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry) | 3:03 |
-| 63 | [All Day](https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [All Day](https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU) | 3:26 |
-| 64 | [美丽的妳](https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF) | [美丽的妳](https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC) | 3:09 |
+| 63 | [美丽的妳](https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF) | [美丽的妳](https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC) | 3:09 |
+| 64 | [All Day](https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [All Day](https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU) | 3:26 |
 | 65 | [每一天都想见面](https://open.spotify.com/track/6xfJ2GBycSzHJUgr2Kw9Xc) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [每一天都想见面](https://open.spotify.com/album/5TH32PfNAAR304rtJaYN84) | 3:02 |
 | 66 | [fill me in love](https://open.spotify.com/track/4wE1y97uzWQTFrkFwKFuQ8) | [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO) | [fill me in love](https://open.spotify.com/album/0ZX1injt006uMBLj3rRaxj) | 2:55 |
 | 67 | [心動拍拍](https://open.spotify.com/track/7sUbenrBzw6retvleBHvUB) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [心動拍拍](https://open.spotify.com/album/3nOVvGkBF4wO5eBAFEscl7) | 3:06 |
 | 68 | [多想要給你我的愛](https://open.spotify.com/track/4nF5bO53yo6JWN0K9rrFZq) | [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [多想要給你我的愛](https://open.spotify.com/album/7sptJfmA71o8mztzZEz419) | 2:47 |
-| 69 | [小时光](https://open.spotify.com/track/6R3HSoob9oDK60aNFDkOtE) | [胡期皓](https://open.spotify.com/artist/7LWH3zy213l4E37464t1CO) | [小时光](https://open.spotify.com/album/4JNSZfS5N1L2eXSkanU0Cu) | 2:35 |
-| 70 | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/track/69AXIAN7Wni7y7LJaZVY6e) | [何曼婷](https://open.spotify.com/artist/6exBk0p2kZ6V9sDD1Y3gsF) | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/album/17J8RqYCYwucOeGmbj89EW) | 3:47 |
+| 69 | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/track/69AXIAN7Wni7y7LJaZVY6e) | [何曼婷](https://open.spotify.com/artist/6exBk0p2kZ6V9sDD1Y3gsF) | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/album/17J8RqYCYwucOeGmbj89EW) | 3:47 |
+| 70 | [小时光](https://open.spotify.com/track/6R3HSoob9oDK60aNFDkOtE) | [胡期皓](https://open.spotify.com/artist/7LWH3zy213l4E37464t1CO) | [小时光](https://open.spotify.com/album/4JNSZfS5N1L2eXSkanU0Cu) | 2:35 |
 | 71 | [什么跟什么有什么关系](https://open.spotify.com/track/2JGEft6dySYE0qGMKbMbf6) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y), [许光汉](https://open.spotify.com/artist/5YYRJB47PfTBqvb3tm2mwu) | [不完美人生指南](https://open.spotify.com/album/1wu8RmvWNBQN4vOQCq44KK) | 3:47 |
 | 72 | [口袋的溫度](https://open.spotify.com/track/3hOmv0Gx3765ag0utRymDO) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [渺小](https://open.spotify.com/album/0fq5u65BocUH3j9SgIsPUu) | 4:27 |
 | 73 | [我喜歡\(不,我愛\)](https://open.spotify.com/track/7lqtdXxC38KOrQ33SB5wVo) | [Yen\-J](https://open.spotify.com/artist/2GzmpDXimCEph6SAw4YdNi) | [謝謝你的美好](https://open.spotify.com/album/7l8wuAhY4aCPnc9ZmwxvSE) | 4:08 |

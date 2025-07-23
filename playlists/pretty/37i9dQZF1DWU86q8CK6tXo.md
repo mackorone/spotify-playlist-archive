@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,935 likes - 56 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,940 likes - 56 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 31 | [Expiration Dating](https://open.spotify.com/track/4RY8NabvRv6Y95x96asZbr) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Expiration Dating](https://open.spotify.com/album/6FFDFr43db7FFvrpOT6xAg) | 3:00 |
 | 32 | [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 |
 | 33 | [Rattlesnake Preacher](https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Rattlesnake Preacher](https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj) | 3:55 |
-| 34 | [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 |
-| 35 | [Snakeskin](https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Snakeskin](https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr) | 2:43 |
+| 34 | [Snakeskin](https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Snakeskin](https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr) | 2:43 |
+| 35 | [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 |
 | 36 | [Dancehall](https://open.spotify.com/track/3XcM7tSvGt8lHtmUkLibWU) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Dancehall](https://open.spotify.com/album/6ejhPZLlGjXOxUEu1GN9tm) | 2:42 |
 | 37 | [Chemical Reaction](https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Chemical Reaction](https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC) | 3:18 |
 | 38 | [hot shit](https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:55 |

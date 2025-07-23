@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 290236,
+  "num_followers": 290378,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,18 @@
     {
       "added_at": "2025-07-18 12:24:58",
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+        "name": "table for two",
+        "url": "https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
         }
       ],
-      "duration_ms": 149080,
-      "name": "O Pato",
-      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
+      "duration_ms": 111319,
+      "name": "table for two",
+      "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"
     },
     {
       "added_at": "2025-07-18 12:24:58",
@@ -119,6 +115,26 @@
     {
       "added_at": "2025-07-18 12:24:58",
       "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "duration_ms": 149080,
+      "name": "O Pato",
+      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
+    },
+    {
+      "added_at": "2025-07-18 12:24:58",
+      "album": {
         "name": "Balm in Gilead",
         "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 180493,
       "name": "The Moon Is Made of Gold",
       "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
-    },
-    {
-      "added_at": "2025-07-18 12:24:58",
-      "album": {
-        "name": "table for two",
-        "url": "https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 111319,
-      "name": "table for two",
-      "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"
     },
     {
       "added_at": "2025-07-18 12:24:58",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-07-18 12:24:58",
       "album": {
-        "name": "You Can't Lose with the Blues",
-        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
-      },
-      "artists": [
-        {
-          "name": "Lafayette Harris, Jr.",
-          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
-        }
-      ],
-      "duration_ms": 315586,
-      "name": "Wonder Why",
-      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
-    },
-    {
-      "added_at": "2025-07-18 12:24:58",
-      "album": {
         "name": "Twentysomething (Special Edition)",
         "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 250280,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
+    },
+    {
+      "added_at": "2025-07-18 12:24:58",
+      "album": {
+        "name": "You Can't Lose with the Blues",
+        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Harris, Jr.",
+          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
+        }
+      ],
+      "duration_ms": 315586,
+      "name": "Wonder Why",
+      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
     },
     {
       "added_at": "2025-07-18 12:24:58",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-07-18 12:24:58",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 260399,
-      "name": "Yes Sir, That's My Baby",
-      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
-    },
-    {
-      "added_at": "2025-07-18 12:24:58",
-      "album": {
         "name": "September in the Rain",
         "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 248862,
       "name": "September In The Rain",
       "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
+    },
+    {
+      "added_at": "2025-07-18 12:24:58",
+      "album": {
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 260399,
+      "name": "Yes Sir, That's My Baby",
+      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
     },
     {
       "added_at": "2025-07-18 12:24:58",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-07-18 12:24:58",
       "album": {
-        "name": "Singin' a Melody",
-        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
-      },
-      "artists": [
-        {
-          "name": "Paul Callander",
-          "url": "https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Singin' a Melody",
-      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
-    },
-    {
-      "added_at": "2025-07-18 12:24:58",
-      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 306133,
       "name": "It's Crazy",
       "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
+    },
+    {
+      "added_at": "2025-07-18 12:24:58",
+      "album": {
+        "name": "Singin' a Melody",
+        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
+      },
+      "artists": [
+        {
+          "name": "Paul Callander",
+          "url": "https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Singin' a Melody",
+      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
     },
     {
       "added_at": "2025-07-18 12:24:58",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-07-18 12:24:58",
       "album": {
-        "name": "The Modern Sound Of Betty Carter",
-        "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 116320,
-      "name": "Jazz (Ain't Nothin' But Soul)",
-      "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
-    },
-    {
-      "added_at": "2025-07-18 12:24:58",
-      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
         "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 152160,
       "name": "I Hear Music - Remastered",
       "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
+    },
+    {
+      "added_at": "2025-07-18 12:24:58",
+      "album": {
+        "name": "The Modern Sound Of Betty Carter",
+        "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 116320,
+      "name": "Jazz (Ain't Nothin' But Soul)",
+      "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
     },
     {
       "added_at": "2025-07-18 12:24:58",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-07-18 12:24:58",
       "album": {
-        "name": "Far Away Lands",
-        "url": "https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "A Dab Of This And That",
-      "url": "https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI"
-    },
-    {
-      "added_at": "2025-07-18 12:24:58",
-      "album": {
         "name": "Love for Sale",
         "url": "https://open.spotify.com/album/6NTUQBVx2PEfQKmrgrSDGe"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 331666,
       "name": "Love for Sale",
       "url": "https://open.spotify.com/track/1mtHnelufpUHbpXf5OEgBd"
+    },
+    {
+      "added_at": "2025-07-18 12:24:58",
+      "album": {
+        "name": "Far Away Lands",
+        "url": "https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "A Dab Of This And That",
+      "url": "https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI"
     },
     {
       "added_at": "2025-07-18 12:24:58",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-07-18 12:24:58",
       "album": {
-        "name": "I'm The Greatest Star",
-        "url": "https://open.spotify.com/album/3gOAdcPP8ict0JEsxdKyw1"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 158876,
-      "name": "I'm The Greatest Star",
-      "url": "https://open.spotify.com/track/4V06hk4ozch7R6pmHruhHk"
-    },
-    {
-      "added_at": "2025-07-18 12:24:58",
-      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/1KcIDuzLH70tG5qt2jYtt6"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 263444,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/4xMAglOTdaA3GVgP7iQLmd"
+    },
+    {
+      "added_at": "2025-07-18 12:24:58",
+      "album": {
+        "name": "I'm The Greatest Star",
+        "url": "https://open.spotify.com/album/3gOAdcPP8ict0JEsxdKyw1"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 158876,
+      "name": "I'm The Greatest Star",
+      "url": "https://open.spotify.com/track/4V06hk4ozch7R6pmHruhHk"
     },
     {
       "added_at": "2025-07-18 12:24:58",

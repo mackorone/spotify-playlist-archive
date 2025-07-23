@@ -4,7 +4,7 @@
 
 > This is Benson Boone\. The essential tracks, all in one playlist.
 
-32 songs - 1 hr 40 min
+33 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 | 2024-12-14 |  |
 | [Lovely Darling](https://open.spotify.com/track/7JQfzB0Idz7zXvTRnvqggu) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 2:52 | 2024-12-14 |  |
 | [Man In Me](https://open.spotify.com/track/4Pqli6waH1jw7y5DluZnBh) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:48 | 2025-06-22 |  |
-| [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 | 2025-05-25 |  |
+| [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 | 2025-05-25 | 2025-07-23 |
+| [Momma Song](https://open.spotify.com/track/2gIRXLzCOpyQScaXylxzmk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:17 | 2025-07-23 |  |
 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 | 2025-06-22 |  |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-27 |  |
 | [NIGHTS LIKE THESE](https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:52 | 2024-12-14 |  |
@@ -36,7 +37,7 @@
 | [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2024-12-14 |  |
 | [Take Me Home](https://open.spotify.com/track/0TO0JzcSvrR932muxU9I5O) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:01 | 2025-06-22 | 2025-07-08 |
 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 | 2024-12-14 |  |
-| [Wanted Man](https://open.spotify.com/track/3HBJNBuAHKhQXcQ8nnVvXX) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:55 | 2025-06-22 |  |
+| [Wanted Man](https://open.spotify.com/track/3HBJNBuAHKhQXcQ8nnVvXX) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:55 | 2025-06-22 | 2025-07-23 |
 | [What Was](https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [What Was](https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T) | 3:35 | 2024-12-14 |  |
 | [Work of Art](https://open.spotify.com/track/0CmN570l8ZwQpI70oV8Avg) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:49 | 2024-12-14 |  |
 | [Young American Heart](https://open.spotify.com/track/7gBoKtmVpD4QQ0AJHjpo5L) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:52 | 2025-07-08 |  |

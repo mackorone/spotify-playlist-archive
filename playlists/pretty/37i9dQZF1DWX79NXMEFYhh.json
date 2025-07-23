@@ -1,6 +1,6 @@
 {
   "description": "gusto ko lang naman ng kayakap ",
-  "num_followers": 893324,
+  "num_followers": 893331,
   "original_name": "cuddleweather",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-07-21 05:43:53",
       "album": {
+        "name": "A Piece of You",
+        "url": "https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Constantin",
+          "url": "https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r"
+        }
+      ],
+      "duration_ms": 237225,
+      "name": "A Piece of You",
+      "url": "https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe"
+    },
+    {
+      "added_at": "2025-07-21 05:43:53",
+      "album": {
         "name": "I Need You More Today",
         "url": "https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 233728,
       "name": "I Need You More Today",
       "url": "https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej"
-    },
-    {
-      "added_at": "2025-07-21 05:43:53",
-      "album": {
-        "name": "A Piece of You",
-        "url": "https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Constantin",
-          "url": "https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r"
-        }
-      ],
-      "duration_ms": 237225,
-      "name": "A Piece of You",
-      "url": "https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe"
     },
     {
       "added_at": "2025-07-21 05:43:53",

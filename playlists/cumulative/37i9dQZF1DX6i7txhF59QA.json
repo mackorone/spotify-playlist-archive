@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uae40\uc6a9\ube48)\nLet's party with cheerful Korean trot medley.",
+  "description": "\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc601\ud0c1)\nLet's party with cheerful Korean trot medley.",
   "name": "K-\ud2b8\ub86f \uc2a4\ud0c0 (K-Trot Stars)",
   "tracks": [
     {
@@ -7689,6 +7689,28 @@
     },
     {
       "album": {
+        "name": "Juicy Go (Duet with Kim Yonja)",
+        "url": "https://open.spotify.com/album/6buBgMl4YH6fLnbXnHogsp"
+      },
+      "artists": [
+        {
+          "name": "YOUNGTAK",
+          "url": "https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4"
+        },
+        {
+          "name": "KIM YONJA",
+          "url": "https://open.spotify.com/artist/5W5z8dxd1mi3fB8aHcv4MK"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Juicy Go (Duet with Kim Yonja)",
+      "url": "https://open.spotify.com/track/6IicnvlkFBPB2vYnzxpByc"
+    },
+    {
+      "album": {
         "name": "Best of Mr. Trot Preliminary",
         "url": "https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb"
       },
@@ -13542,7 +13564,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 145466,
       "name": "SuperSuper",
       "url": "https://open.spotify.com/track/5vT6Hu4tGG6MqwCchYmKwx"

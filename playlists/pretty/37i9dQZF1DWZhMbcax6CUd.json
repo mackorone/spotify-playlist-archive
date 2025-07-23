@@ -1,6 +1,6 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 68674,
+  "num_followers": 68686,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,26 @@
     {
       "added_at": "2025-07-01 11:03:35",
       "album": {
+        "name": "Ravel: Miroirs, Gaspard de la nuit, Pavane",
+        "url": "https://open.spotify.com/album/580qPYRAHWIOwBbhppHXyh"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Anna Vinnitskaya",
+          "url": "https://open.spotify.com/artist/6VqVuLtujJqd6FH8eQ9gyr"
+        }
+      ],
+      "duration_ms": 367946,
+      "name": "Miroirs: IV. Alborada del gracioso, M. 43",
+      "url": "https://open.spotify.com/track/74Nh6QlxHbsV02QkX4jvlM"
+    },
+    {
+      "added_at": "2025-07-01 11:03:35",
+      "album": {
         "name": "Ravel: Rapsodie espagnole; La Valse; Ma m\u00e8re l'oye; Valses nobles et sentimentales",
         "url": "https://open.spotify.com/album/07YqwWH5cIA0EHV9vGOHGH"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 127706,
       "name": "Valses nobles et sentimentales, M.61 - for Orchestra: 2. Assez lent",
       "url": "https://open.spotify.com/track/0tgvtn6OqCdqFCuHkiWBHP"
-    },
-    {
-      "added_at": "2025-07-01 11:03:35",
-      "album": {
-        "name": "Ravel: Miroirs, Gaspard de la nuit, Pavane",
-        "url": "https://open.spotify.com/album/580qPYRAHWIOwBbhppHXyh"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Anna Vinnitskaya",
-          "url": "https://open.spotify.com/artist/6VqVuLtujJqd6FH8eQ9gyr"
-        }
-      ],
-      "duration_ms": 367946,
-      "name": "Miroirs: IV. Alborada del gracioso, M. 43",
-      "url": "https://open.spotify.com/track/74Nh6QlxHbsV02QkX4jvlM"
     },
     {
       "added_at": "2025-07-01 11:03:35",
@@ -491,46 +491,6 @@
     {
       "added_at": "2025-07-01 11:03:35",
       "album": {
-        "name": "Ravel/Shostakovich: Piano Trios",
-        "url": "https://open.spotify.com/album/4G34Wz2qXxcFEeykkoNwfw"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Trio Mondrian",
-          "url": "https://open.spotify.com/artist/7JfdsihGqEcK3N3GOH6S0s"
-        }
-      ],
-      "duration_ms": 554386,
-      "name": "Piano trio in a minor: Mod\u00e9r\u00e9",
-      "url": "https://open.spotify.com/track/6RUyR6TnvuY1hLEizjHWtL"
-    },
-    {
-      "added_at": "2025-07-01 11:03:35",
-      "album": {
-        "name": "Ravel/Shostakovich: Piano Trios",
-        "url": "https://open.spotify.com/album/4G34Wz2qXxcFEeykkoNwfw"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Trio Mondrian",
-          "url": "https://open.spotify.com/artist/7JfdsihGqEcK3N3GOH6S0s"
-        }
-      ],
-      "duration_ms": 266266,
-      "name": "Piano trio in a minor: Pantoum (Assez Vif)",
-      "url": "https://open.spotify.com/track/7lkXt8wHRkHb4lvwQRZZVx"
-    },
-    {
-      "added_at": "2025-07-01 11:03:35",
-      "album": {
         "name": "Ravel: Daphnis et Chlo\u00e9",
         "url": "https://open.spotify.com/album/4ofcniYcKBLF6cQY1Dw8Z7"
       },
@@ -555,6 +515,46 @@
       "duration_ms": 476173,
       "name": "Daphnis et Chlo\u00e9, M. 57: I. Introduction et Danse Religieuse",
       "url": "https://open.spotify.com/track/3VKEZVixRO5GF92scMk2q0"
+    },
+    {
+      "added_at": "2025-07-01 11:03:35",
+      "album": {
+        "name": "Ravel/Shostakovich: Piano Trios",
+        "url": "https://open.spotify.com/album/4G34Wz2qXxcFEeykkoNwfw"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Trio Mondrian",
+          "url": "https://open.spotify.com/artist/7JfdsihGqEcK3N3GOH6S0s"
+        }
+      ],
+      "duration_ms": 266266,
+      "name": "Piano trio in a minor: Pantoum (Assez Vif)",
+      "url": "https://open.spotify.com/track/7lkXt8wHRkHb4lvwQRZZVx"
+    },
+    {
+      "added_at": "2025-07-01 11:03:35",
+      "album": {
+        "name": "Ravel/Shostakovich: Piano Trios",
+        "url": "https://open.spotify.com/album/4G34Wz2qXxcFEeykkoNwfw"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Trio Mondrian",
+          "url": "https://open.spotify.com/artist/7JfdsihGqEcK3N3GOH6S0s"
+        }
+      ],
+      "duration_ms": 554386,
+      "name": "Piano trio in a minor: Mod\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/6RUyR6TnvuY1hLEizjHWtL"
     },
     {
       "added_at": "2025-07-01 11:03:35",
@@ -667,26 +667,6 @@
     {
       "added_at": "2025-07-01 11:03:35",
       "album": {
-        "name": "Ravel: Fragments",
-        "url": "https://open.spotify.com/album/2dEZ88vUwYQVA8cv3UMeQk"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
-        }
-      ],
-      "duration_ms": 77600,
-      "name": "Ravel: Chanson de la mari\u00e9e",
-      "url": "https://open.spotify.com/track/6tdE3qCLXbRBiqRGiYwXLU"
-    },
-    {
-      "added_at": "2025-07-01 11:03:35",
-      "album": {
         "name": "Miroirs - Ravel Piano Works",
         "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 307000,
       "name": "Miroirs, M. 43: I. Noctuelles",
       "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
+    },
+    {
+      "added_at": "2025-07-01 11:03:35",
+      "album": {
+        "name": "Ravel: Fragments",
+        "url": "https://open.spotify.com/album/2dEZ88vUwYQVA8cv3UMeQk"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 77600,
+      "name": "Ravel: Chanson de la mari\u00e9e",
+      "url": "https://open.spotify.com/track/6tdE3qCLXbRBiqRGiYwXLU"
     },
     {
       "added_at": "2025-07-01 11:03:35",
@@ -811,26 +811,6 @@
     {
       "added_at": "2025-07-01 11:03:35",
       "album": {
-        "name": "Ravel: Int\u00e9grale de l'\u0153uvre pour piano",
-        "url": "https://open.spotify.com/album/1PGV2mCrXJKpNl7onDJ6Yx"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "S\u00e9r\u00e9nade Grotesque, M. 5",
-      "url": "https://open.spotify.com/track/0Fyohy2Xo5Q5Zii9hN7bms"
-    },
-    {
-      "added_at": "2025-07-01 11:03:35",
-      "album": {
         "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
         "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 611466,
       "name": "Gaspard de la Nuit, M. 55: 3. Scarbo - Live",
       "url": "https://open.spotify.com/track/2TWGl3huamXIEmBzHQAszr"
+    },
+    {
+      "added_at": "2025-07-01 11:03:35",
+      "album": {
+        "name": "Ravel: Int\u00e9grale de l'\u0153uvre pour piano",
+        "url": "https://open.spotify.com/album/1PGV2mCrXJKpNl7onDJ6Yx"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "S\u00e9r\u00e9nade Grotesque, M. 5",
+      "url": "https://open.spotify.com/track/0Fyohy2Xo5Q5Zii9hN7bms"
     },
     {
       "added_at": "2025-07-01 11:03:35",

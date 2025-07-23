@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Claudia Bouvette
 
-3,415 songs - 7 day 12 hr 32 min
+3,416 songs - 7 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2984,7 +2984,7 @@
 | [TANNANCE](https://open.spotify.com/track/2p74T4FWsclCtwapawzKns) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Micro](https://open.spotify.com/artist/6fIKBMQsifEPji0NkpoLml) | [438](https://open.spotify.com/album/3r1jlLQDGr9fcc0VVC2NT2) | 4:00 | 2023-12-01 | 2023-12-16 |
 | [Tant de choses](https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Tant de choses](https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU) | 3:24 | 2023-10-27 | 2023-12-10 |
 | [Tant pis](https://open.spotify.com/track/6EhRIJXwQGvRDKj2clUB7W) | [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa), [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Tant pis](https://open.spotify.com/album/09JkdiPaoHgon6JOvFEan7) | 3:54 | 2024-07-19 | 2024-07-27 |
-| [Tant qu'on est toi et moi](https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Tant qu'on est toi et moi](https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T) | 2:49 | 2025-05-09 |  |
+| [Tant qu'on est toi et moi](https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Tant qu'on est toi et moi](https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T) | 2:49 | 2025-05-09 | 2025-07-23 |
 | [Tant étrange](https://open.spotify.com/track/74Wo6oZdOV3pKsDWkNZEnm) | [Feathership](https://open.spotify.com/artist/7jyB6xDRAHOnJseX86s7lm), [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Tant étrange](https://open.spotify.com/album/0m1tCymjc64dSbhZysiRp2) | 3:29 | 2023-01-20 | 2023-01-28 |
 | [Tard dans la nuit](https://open.spotify.com/track/7CgZYRP3lA6S28F3plJ2bf) | [Mignon Bandit](https://open.spotify.com/artist/4iTJIo5yTKFlkHulNB6zUV) | [Tard dans la nuit](https://open.spotify.com/album/7jyeKRMIuT2413hbziPZur) | 2:07 | 2024-08-16 | 2024-08-24 |
 | [TARD LA NUIT](https://open.spotify.com/track/6hJDudsWTlCVESvgkQkqXg) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [DZ D’AMERIQUE](https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi) | 3:36 | 2024-06-28 | 2024-07-13 |
@@ -3353,6 +3353,7 @@
 | [Zaza](https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Weekend à Marseille](https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA) | 2:43 | 2023-12-08 | 2023-12-25 |
 | [Zen](https://open.spotify.com/track/5Mb0Te31hcc1koQ0jWZUwC) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Hypersensible \(Deluxe\)](https://open.spotify.com/album/1xhn6B8miBagIupKrNdirq) | 3:35 | 2024-01-26 | 2024-02-03 |
 | [Zoo](https://open.spotify.com/track/7qdSLZGhJSBjB0Ohr37Xt1) | [QCLTUR](https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Zoo](https://open.spotify.com/album/2LaE5HhyNSP5eGOswyxPxK) | 3:00 | 2024-09-20 | 2024-09-28 |
+| [Zota \(feat\. Tayc\)](https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Zota \(feat\. Tayc\)](https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V) | 2:22 | 2025-07-18 |  |
 | [Zoé sur la montagne](https://open.spotify.com/track/19jBx6s9LIxzRdccmlDUjD) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Zoé sur la montagne / Deuxième vie](https://open.spotify.com/album/4lVU7Rdk1wgzVutEbM3Vpx) | 2:53 | 2025-01-31 | 2025-02-08 |
 | [zzz](https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [zzz](https://open.spotify.com/album/6CiyzGH2UrOvYFhQqiyPTP) | 3:07 | 2023-04-07 | 2023-04-29 |
 | [Zénith](https://open.spotify.com/track/7waEJapWACgWkq3by4intP) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Zénith](https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r) | 2:36 | 2023-09-15 | 2023-11-04 |

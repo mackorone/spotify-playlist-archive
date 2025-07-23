@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,897 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,903 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 10 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 |
 | 11 | [我在紐約打電話給你](https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [我在紐約打電話給你](https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs) | 3:56 |
 | 12 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 |
-| 13 | [這條小魚在乎](https://open.spotify.com/track/6oakdtkmSLIvpurMVU0q5x) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [這條小魚在乎](https://open.spotify.com/album/0dpedZx4halLI4OQZLdj2j) | 4:31 |
-| 14 | [Miserable](https://open.spotify.com/track/2hRVNcJYwOHEXZJPMJUuEz) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Miserable](https://open.spotify.com/album/4207P6ZEsU5nqCCHRhBUcA) | 3:13 |
+| 13 | [Miserable](https://open.spotify.com/track/2hRVNcJYwOHEXZJPMJUuEz) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Miserable](https://open.spotify.com/album/4207P6ZEsU5nqCCHRhBUcA) | 3:13 |
+| 14 | [這條小魚在乎](https://open.spotify.com/track/6oakdtkmSLIvpurMVU0q5x) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [這條小魚在乎](https://open.spotify.com/album/0dpedZx4halLI4OQZLdj2j) | 4:31 |
 | 15 | [芬蘭距離](https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [《不夠善良的我們 : 戲劇音樂設計專輯》](https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC) | 5:49 |
-| 16 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:44 |
-| 17 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 |
+| 16 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 |
+| 17 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:44 |
 | 18 | [幾乎是愛情](https://open.spotify.com/track/2dbWZvUkVW7ahyIO7UYUxs) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [Almost 幾乎是愛情](https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O) | 4:13 |
 | 19 | [想自由](https://open.spotify.com/track/2fLoz0Qd1sgcHVkrBAzAHn) | [王安宇](https://open.spotify.com/artist/75CDjVdcyafrJRwNITgluf) | [想自由](https://open.spotify.com/album/0ThGbiZgtDmXPARkCXMTBV) | 4:28 |
 | 20 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |

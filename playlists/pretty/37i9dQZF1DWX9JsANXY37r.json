@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 122722,
+  "num_followers": 122732,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-07-11 05:44:01",
       "album": {
-        "name": "Late Nights & Heartbreak",
-        "url": "https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp"
-      },
-      "artists": [
-        {
-          "name": "Hannah Williams",
-          "url": "https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg"
-        },
-        {
-          "name": "The Affirmations",
-          "url": "https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Late Nights & Heartbreak",
-      "url": "https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v"
-    },
-    {
-      "added_at": "2025-07-11 05:44:01",
-      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
+    },
+    {
+      "added_at": "2025-07-11 05:44:01",
+      "album": {
+        "name": "Late Nights & Heartbreak",
+        "url": "https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp"
+      },
+      "artists": [
+        {
+          "name": "Hannah Williams",
+          "url": "https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg"
+        },
+        {
+          "name": "The Affirmations",
+          "url": "https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Late Nights & Heartbreak",
+      "url": "https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v"
     },
     {
       "added_at": "2025-07-11 05:44:01",
@@ -963,18 +963,22 @@
     {
       "added_at": "2025-07-11 05:44:01",
       "album": {
-        "name": "Blue Lights",
-        "url": "https://open.spotify.com/album/3AtIuMIhH7mWk5p2JwfJRJ"
+        "name": "el sur",
+        "url": "https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Tony Grox",
+          "url": "https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD"
         }
       ],
-      "duration_ms": 250454,
-      "name": "Blue Lights",
-      "url": "https://open.spotify.com/track/1cfs0qXoMWheM0s8Rq7jf0"
+      "duration_ms": 160695,
+      "name": "el sur",
+      "url": "https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM"
     },
     {
       "added_at": "2025-07-11 05:44:01",
@@ -995,22 +999,18 @@
     {
       "added_at": "2025-07-11 05:44:01",
       "album": {
-        "name": "el sur",
-        "url": "https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH"
+        "name": "Blue Lights",
+        "url": "https://open.spotify.com/album/3AtIuMIhH7mWk5p2JwfJRJ"
       },
       "artists": [
         {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "Tony Grox",
-          "url": "https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 160695,
-      "name": "el sur",
-      "url": "https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM"
+      "duration_ms": 250454,
+      "name": "Blue Lights",
+      "url": "https://open.spotify.com/track/1cfs0qXoMWheM0s8Rq7jf0"
     },
     {
       "added_at": "2025-07-11 05:44:01",

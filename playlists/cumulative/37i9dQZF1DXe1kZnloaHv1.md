@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-106 songs - 5 hr 40 min
+108 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Friday to Monday](https://open.spotify.com/track/4Krv5sqJVJ3jrSP15bC6mU) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Friday to Monday](https://open.spotify.com/album/7okamLcUdT1FpqHEW9231G) | 3:02 | 2023-11-09 |  |
 | [Go with the flow](https://open.spotify.com/track/2WlWB81gbLbqyF2NbCngfZ) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 3:32 | 2023-11-09 | 2024-04-19 |
 | [Go with the flow](https://open.spotify.com/track/5jUdSZQOgU1olKinXBb8eC) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:32 | 2024-04-17 |  |
+| [Going Under](https://open.spotify.com/track/6pmSjlslSDwvKrhm2eD49o) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:16 | 2025-07-23 |  |
 | [Gulping laziness](https://open.spotify.com/track/03Z63iglmQEP6XtIJ9DmNI) | [weather](https://open.spotify.com/artist/4F26Ae7GmQK9iqv4M7vJsr) | [Gulping laziness](https://open.spotify.com/album/7oHqgsdNXSol1p0H8jnCwj) | 1:53 | 2025-05-22 |  |
 | [Holiday](https://open.spotify.com/track/6EK23kYj5odyKUxLSXK3JS) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Holiday](https://open.spotify.com/album/3WXTRGYDn5wZ7viTikD0KD) | 3:58 | 2023-11-09 |  |
 | [Homebody](https://open.spotify.com/track/6N2d5ik13stTUx3aMLuKUH) | [6Allmy Sunshine](https://open.spotify.com/artist/554mb4DkPmrRGhpVz7o0Rr) | [Homebody](https://open.spotify.com/album/0hgcL8aqYqpe2EpWO5YwyF) | 3:44 | 2025-07-02 |  |
@@ -109,6 +110,7 @@
 | [나인데](https://open.spotify.com/track/03a3V3WdtWcNCvFr8S2i26) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [나인데](https://open.spotify.com/album/6EhGT1web7FrTH942QvH1B) | 2:41 | 2025-04-08 |  |
 | [내가 들었는데](https://open.spotify.com/track/5aZ1058WKY8rvEK9Bcrftg) | [TIKITIK](https://open.spotify.com/artist/4I5VHsJIkTdNbQNC2xkSEO) | [내가 들었는데](https://open.spotify.com/album/0OSQOFnrNebz3m98FQtQxD) | 1:18 | 2024-03-08 |  |
 | [놀래!](https://open.spotify.com/track/7i7UcFcEpbY3Ihzv1KZBi7) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Every DAY6 August](https://open.spotify.com/album/3ElTy5eVezQCNrgAbTii5m) | 3:16 | 2025-04-08 |  |
+| [똑같아](https://open.spotify.com/track/3QbF4n57Nhu59aYP8PASRv) | [성운](https://open.spotify.com/artist/3X3gXfx207dFNZcyE2zJvt) | [똑같아](https://open.spotify.com/album/3Yw4AW7NXkquOZS8tKVbdk) | 4:31 | 2025-07-23 |  |
 | [설명하기 귀찮은 밤](https://open.spotify.com/track/34NbLGushBGKom3ifJYNiP) | [Frankie Summer](https://open.spotify.com/artist/3uTI0eDlNwwnQKj2gnleTf) | [설명하기 귀찮은 밤](https://open.spotify.com/album/4rhYsEfByflKLrZwNxsRM9) | 4:27 | 2025-06-04 |  |
 | [원래 이래](https://open.spotify.com/track/01B3FayTL6QIffJ2dK5fHf) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [The Way I Am](https://open.spotify.com/album/6E1Qw5tiLmmIErOTfOfGiG) | 2:37 | 2025-04-08 |  |
 | [집에 가자](https://open.spotify.com/track/3X9sF773dNepwR2E08HWzJ) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Stairs](https://open.spotify.com/album/5NegqDbGVQWj9H4Nn6bh1k) | 3:53 | 2025-04-16 |  |

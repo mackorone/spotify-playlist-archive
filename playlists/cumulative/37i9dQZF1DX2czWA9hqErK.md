@@ -4,7 +4,7 @@
 
 > For lazy days and cosy nights
 
-895 songs - 2 day 1 hr 58 min
+896 songs - 2 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Dive](https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:20 | 2023-06-30 | 2025-02-28 |
 | [Do You Ever](https://open.spotify.com/track/0XkshYPtSxbm6Wg20tbC1r) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [I've Felt All These Things](https://open.spotify.com/album/56cFvP1hiife9I02fM3CIS) | 3:44 | 2022-03-25 | 2022-04-16 |
 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-05-31 | 2023-06-17 |
-| [Don't Fall Asleep](https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Don't Fall Asleep](https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu) | 4:29 | 2025-04-04 |  |
+| [Don't Fall Asleep](https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Don't Fall Asleep](https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu) | 4:29 | 2025-04-04 | 2025-07-23 |
 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 | 2025-03-24 |  |
 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-06-28 | 2025-03-28 |
 | [Don’t Try To Call Me](https://open.spotify.com/track/4RolLH7I3o3zzhMQRoJ6Ez) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Don’t Try To Call Me](https://open.spotify.com/album/7INrEhKWw4rUg0DyGrYPRG) | 2:33 | 2022-03-25 | 2022-07-14 |
@@ -378,6 +378,7 @@
 | [I hate myself in <3](https://open.spotify.com/track/0yweXXrfN9PGizKifL7A78) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7) | [I hate myself in <3](https://open.spotify.com/album/4Bq7ZqDJBsWZGsENcioZjX) | 3:56 | 2022-03-29 | 2022-04-20 |
 | [I Hate That It's True](https://open.spotify.com/track/6H4stZ1AHlYnKl9iii1bvF) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [I Hate That It's True](https://open.spotify.com/album/4Bx9UDgMFGH2hyqm9Gia4P) | 2:41 | 2025-05-02 |  |
 | [i hope i never fall in love](https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [i hope i never fall in love](https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz) | 3:36 | 2024-07-12 | 2024-09-18 |
+| [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 | 2025-05-22 |  |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-02-14 | 2022-10-28 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 3:21 | 2022-10-21 | 2023-09-13 |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/58pTPJPBjw1xL9OcLcQczU) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/6iiQFr91jK794wZRDMSXkp) | 3:47 | 2023-09-05 | 2024-06-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,766 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,795 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,26 +37,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 27 | [Resurrection Man](https://open.spotify.com/track/53xXTqz8QfadLsXbs411si) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:59 |
 | 28 | [Nevermore](https://open.spotify.com/track/0YHuruiHL4Vzna7jeOdfJt) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 4:35 |
 | 29 | [Desolation](https://open.spotify.com/track/7siSMBw1wFPPBNoBtXNzMb) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 3:54 |
-| 30 | [Dead Seeds](https://open.spotify.com/track/6pUIxt8QTqXrAr24oet0dW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:41 |
+| 30 | [Grace](https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:56 |
 | 31 | [Black Label](https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:52 |
-| 32 | [Vanishing](https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 4:48 |
-| 33 | [New Colossal Hate](https://open.spotify.com/track/1ILi61AsfqMfUvxWpoJiuc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:30 |
-| 34 | [Grace](https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:56 |
+| 32 | [New Colossal Hate](https://open.spotify.com/track/1ILi61AsfqMfUvxWpoJiuc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:30 |
+| 33 | [Vanishing](https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 4:48 |
+| 34 | [Dead Seeds](https://open.spotify.com/track/6pUIxt8QTqXrAr24oet0dW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:41 |
 | 35 | [As The Palaces Burn](https://open.spotify.com/track/2KjmnyVafBbq4VEnrJ5rra) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 2:24 |
-| 36 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
-| 37 | [Checkmate](https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:30 |
+| 36 | [Checkmate](https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:30 |
+| 37 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
 | 38 | [In Your Words](https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 5:24 |
 | 39 | [Grayscale](https://open.spotify.com/track/2Uyda5UuQnxkdYkECw3F8C) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:59 |
 | 40 | [For Your Malice](https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:43 |
 | 41 | [Gears](https://open.spotify.com/track/5GwPTFXjE3WLJevK6KLMyc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 3:55 |
 | 42 | [Broken Hands](https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:53 |
-| 43 | [To The Grave](https://open.spotify.com/track/6Q88Xw5D2syb9X5rZd3TLz) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:43 |
-| 44 | [Ghost Shaped People](https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God \(Deluxe Version\)](https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE) | 4:05 |
-| 45 | [Still Echoes](https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:22 |
+| 43 | [Ghost Shaped People](https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God \(Deluxe Version\)](https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE) | 4:05 |
+| 44 | [Still Echoes](https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:22 |
+| 45 | [To The Grave](https://open.spotify.com/track/6Q88Xw5D2syb9X5rZd3TLz) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:43 |
 | 46 | [Contractor](https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:22 |
 | 47 | [Purified](https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:10 |
 | 48 | [Reality Bath](https://open.spotify.com/track/0GwyDNEcUavoLYdK0oDDSI) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:32 |
 | 49 | [Embers \(feat\. Chino Moreno\)](https://open.spotify.com/track/4vIKoOznt2p6YhGSHzrksC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [VII: Sturm Und Drang \(Deluxe Edition\)](https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V) | 4:56 |
 | 50 | [Wake up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/track/4v3Iyw1DP578eRpoQPpcv9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/album/6BJrJlkffGEpipjY9OFq6t) | 3:43 |
 
-Snapshot ID: `aHwxgAAAAABEVKBUkCBUgtn82RvNhOzo`
+Snapshot ID: `aH2DAAAAAABGEwvqd22npypo6wl5kPeD`

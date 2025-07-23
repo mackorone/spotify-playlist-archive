@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,883 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,154 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 25 | [Clandestino](https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Clandestino](https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u) | 3:01 |
 | 26 | [All Night Long](https://open.spotify.com/track/1241XE9zZ2r4EmimoH9znZ) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 4:20 |
 | 27 | [Danza de Vision](https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:29 |
-| 28 | [Shinjuku Strut](https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Hustler's Lullaby](https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z) | 5:14 |
-| 29 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
+| 28 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
+| 29 | [Shinjuku Strut](https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Hustler's Lullaby](https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z) | 5:14 |
 | 30 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 |
 | 31 | [Carrossel Do Tempo](https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Carrossel Do Tempo](https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy) | 4:57 |
 | 32 | [Move on Up \- Live](https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Live at KEXP!](https://open.spotify.com/album/0xDJ4TpSMjLVXtl9VrpF69) | 5:00 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 64 | [Je Pense à Toi](https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Je pense à toi](https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz) | 4:32 |
 | 65 | [Aima](https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Hybridism](https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H) | 5:08 |
 | 66 | [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 |
-| 67 | [Play by Play](https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 4:06 |
-| 68 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 |
+| 67 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 |
+| 68 | [Play by Play](https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 4:06 |
 | 69 | [Agua, Arena, Sol y Viento](https://open.spotify.com/track/1djvsJfRULPkKeTumFfwgL) | [Mercuriana](https://open.spotify.com/artist/3x4gcgomtejtFbPKCrOPkf) | [Mercuriana Armonía Cósmica](https://open.spotify.com/album/28aucAGf2eQFNfSYGd3PlD) | 3:08 |
 | 70 | [Vámonos \- Vazlá Remix](https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Vazlá](https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV) | [Dj friendly](https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o) | 3:54 |
 

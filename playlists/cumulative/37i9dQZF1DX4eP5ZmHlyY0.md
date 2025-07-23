@@ -2,16 +2,16 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: NCT DREAM
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: TOMORROW X TOGETHER
 
-656 songs - 1 day 12 hr 19 min
+658 songs - 1 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+82 Pressin'](https://open.spotify.com/track/1gh9hWNAzDR46rn52uyoiV) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [+82 Pressin'](https://open.spotify.com/album/4BHK4cuYnptvcw0yOCzh8Y) | 3:22 | 2025-03-20 | 2025-04-07 |
 | [100!](https://open.spotify.com/track/2Zd5mKEDcw4I5ykv5ZQGyZ) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [PINK CRUSH](https://open.spotify.com/album/6w7J6E5wHhGDWPIVRaoAvl) | 3:13 | 2025-03-06 | 2025-04-07 |
 | [15分](https://open.spotify.com/track/0vlxTcz1kjz6GjudTYl8Ye) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [15分](https://open.spotify.com/album/75YVfifI9CEnG92jKPEr3j) | 4:24 | 2023-11-23 | 2024-01-10 |
-| [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 | 2025-04-07 |  |
+| [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 | 2025-04-07 | 2025-07-23 |
 | [1st SONG](https://open.spotify.com/track/1CEhK1YwRkkDNmDD90mJld) | [DOBERMAN INFINITY](https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5) | [1st SONG](https://open.spotify.com/album/2xVMZnRPnNuczI88IgVtnA) | 5:04 | 2024-06-25 | 2024-07-31 |
 | [1番星](https://open.spotify.com/track/0xNetekd6Pmws8beynMr7m) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [1番星](https://open.spotify.com/album/6N95femA9sg14zixSmaDfm) | 4:50 | 2024-12-24 | 2025-01-08 |
 | [24karats GOLD GENESIS](https://open.spotify.com/track/3DOBALd9w4fDZ122HzF7CC) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [24karats GOLD GENESIS](https://open.spotify.com/album/2um16q15odwpmhiAjf8pqi) | 4:17 | 2024-06-12 | 2024-07-10 |
@@ -95,7 +95,7 @@
 | [Calendar](https://open.spotify.com/track/4A0QbCROQJ6AdGc9SGyzxu) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Calendar](https://open.spotify.com/album/4B6DzQsVrjXtZmxYUlJ9SE) | 3:38 | 2023-12-19 | 2024-01-17 |
 | [Call Me](https://open.spotify.com/track/6lmEozWswCzaSr6SS3Klsq) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [FREQUENCY \- The 6th Mini Album](https://open.spotify.com/album/6PmkuHFyelDURr3QlbFY3K) | 3:40 | 2025-03-06 | 2025-04-05 |
 | [Candle](https://open.spotify.com/track/74lbuos2VK1VChqCTkaSx8) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [KAIRYU](https://open.spotify.com/artist/7HEUaKo6XaZ3UZtD9TuWi9), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [TYOISM Vol.1 \(Deluxe Edition\)](https://open.spotify.com/album/7J24SqIYUkolU56WoIOwTM) | 2:51 | 2025-04-29 | 2025-05-28 |
-| [Candy House](https://open.spotify.com/track/4w91Af7ajtaWaKBFEzs9eE) | [SW:C](https://open.spotify.com/artist/17kzjtrmZ96anZT250z1Nr) | [1st Single album : Sweet Day](https://open.spotify.com/album/5hcOx3fLiB7gc8DJvQ4DzJ) | 2:58 | 2025-04-21 |  |
+| [Candy House](https://open.spotify.com/track/4w91Af7ajtaWaKBFEzs9eE) | [SW:C](https://open.spotify.com/artist/17kzjtrmZ96anZT250z1Nr) | [1st Single album : Sweet Day](https://open.spotify.com/album/5hcOx3fLiB7gc8DJvQ4DzJ) | 2:58 | 2025-04-21 | 2025-07-23 |
 | [Candy Kiss](https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Candy Kiss](https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK) | 3:19 | 2023-11-23 | 2024-01-23 |
 | [Carnival](https://open.spotify.com/track/7yryiCDpzRsYvzWAAIlbgQ) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Carnival](https://open.spotify.com/album/1FHz66ulHiOaFPzAaV8S8q) | 2:49 | 2023-11-23 | 2024-03-06 |
 | [Carnival](https://open.spotify.com/track/0XeRC5Xrwgidq81yZ7vCdR) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [また夏に帰ろう](https://open.spotify.com/album/1RmfPrr9Wx4iqABjGk5cX1) | 3:39 | 2025-05-27 |  |
@@ -119,7 +119,7 @@
 | [Crazy Train](https://open.spotify.com/track/1AGdjPDvH8UKC5qZYbJRqQ) | [E'LAST](https://open.spotify.com/artist/0NztgA9b1KEJLjLVqMwd9y) | [5th Mini Album \[Versus\]](https://open.spotify.com/album/5lbhnH42gAEJ3vGaA38CdB) | 2:45 | 2025-05-08 | 2025-06-13 |
 | [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 | 2023-11-23 | 2024-06-12 |
 | [CyberHelix](https://open.spotify.com/track/5U4nj0Gt9A9dIMyBQPAH6Q) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [CyberHelix](https://open.spotify.com/album/39LkA12lKbHhlNkv87U9u2) | 3:59 | 2024-04-09 | 2024-05-08 |
-| [D\-DAY](https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Head over Heels, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df) | 3:11 | 2025-06-24 |  |
+| [D\-DAY](https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Head over Heels, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df) | 3:11 | 2025-06-24 | 2025-07-23 |
 | [DAM](https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [DAM](https://open.spotify.com/album/612lgzG3p1PYJCxZFFLztN) | 3:29 | 2025-03-06 | 2025-04-25 |
 | [Dangerous](https://open.spotify.com/track/5unyDrt3v3Yfo7hV20G7DI) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [LIKE INFINITE](https://open.spotify.com/album/4na98IiEj4lAFQS3NKQ5qk) | 3:00 | 2025-03-06 | 2025-04-21 |
 | [DARK MATTER](https://open.spotify.com/track/0JTMpgGCb3AYhFj5CT8C6V) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [FANTASTIC ROCKET](https://open.spotify.com/album/1lgDUdGBXBYYWS6MtyTFT6) | 3:11 | 2023-12-05 | 2024-01-03 |
@@ -169,7 +169,7 @@
 | [FAMOUS](https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 3:00 | 2025-07-15 |  |
 | [Fantasy \- JAPANESE ver.](https://open.spotify.com/track/4oL1T9BRj4DL4mLouGH70c) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [SHINE THE WAY](https://open.spotify.com/album/3bHMKYPbbyTq2SpaRWrjaN) | 4:09 | 2025-03-11 | 2025-03-19 |
 | [FINISH LINE 〜終わりと始まりの〜](https://open.spotify.com/track/2m6VpQEofMUC97aksfvEhu) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [FINISH LINE 〜終わりと始まりの〜](https://open.spotify.com/album/6rFtt1x6fhtrR79Thvrysz) | 2:55 | 2025-05-19 | 2025-06-02 |
-| [FiRE \(My Sweet Misery\)](https://open.spotify.com/track/0ChZD4dlA2s0IM3K92ccLR) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [FiRE \(My Sweet Misery\)](https://open.spotify.com/album/5SlMocqsiGk82i6bSZzz7I) | 3:15 | 2025-07-08 |  |
+| [FiRE \(My Sweet Misery\)](https://open.spotify.com/track/0ChZD4dlA2s0IM3K92ccLR) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [FiRE \(My Sweet Misery\)](https://open.spotify.com/album/5SlMocqsiGk82i6bSZzz7I) | 3:15 | 2025-07-08 | 2025-07-23 |
 | [FIRE feat\. SPRITE](https://open.spotify.com/track/2JS7GVyUaxLFFetF3YWfc8) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [FIRE feat\. SPRITE](https://open.spotify.com/album/0zysbDsgljdkU8cW7RYoen) | 3:51 | 2023-11-23 | 2024-02-14 |
 | [FIREWORK](https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : WE](https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC) | 3:08 | 2023-11-23 | 2024-04-10 |
 | [FIRST](https://open.spotify.com/track/6YlLUGKM1bsa3yioZHQ258) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [FIRST](https://open.spotify.com/album/1zcQeP14f6c0LuCRsMnil8) | 3:14 | 2024-09-03 | 2024-11-10 |
@@ -346,6 +346,7 @@
 | [Moving Pieces](https://open.spotify.com/track/7z5ntslVYEBFtunuEYA9e5) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Moving Pieces](https://open.spotify.com/album/4IeJCO4rFxksf0Wcxc0bmR) | 2:51 | 2023-11-23 | 2023-11-29 |
 | [Museum:0](https://open.spotify.com/track/7iXhqF9wwmi2wi5F6fvx5G) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [Museum:0](https://open.spotify.com/album/5ZW0izZ8SaXSlUTSqrBS41) | 3:21 | 2023-11-23 | 2024-01-10 |
 | [MY GENERATION](https://open.spotify.com/track/3iiTZRTBXpowrZpZXvmGJG) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [MY GENERATION](https://open.spotify.com/album/5Luh2bfSREqFZc54oFWZHY) | 3:09 | 2025-05-06 | 2025-06-04 |
+| [My Way](https://open.spotify.com/track/7lvSAzBLYQmIPCGJRRAnAu) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [My Way](https://open.spotify.com/album/2vS6xVVrQkhGrWWhwfrhTp) | 3:37 | 2025-07-22 |  |
 | [n \(number of cases\)](https://open.spotify.com/track/33nC9lajf4bWI12PooiOKF) | [NouerA](https://open.spotify.com/artist/4YsiijJHnCAjqS9cIXNoTI) | [n: number of cases](https://open.spotify.com/album/2TqBXeAVeC8lQ1ThQqjY4I) | 2:53 | 2025-06-28 |  |
 | [N.E.X.T.](https://open.spotify.com/track/345qiMdQHKT6V4S0AKK1TW) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [N.E.X.T.](https://open.spotify.com/album/3oF9aJrGYphxIZ2JYa6cHa) | 4:47 | 2023-12-26 | 2024-02-01 |
 | [NALLINA](https://open.spotify.com/track/2vgppmFop52JSbIr7N07SM) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [NALLINA](https://open.spotify.com/album/1qrqShmhuHKGgm17rKNOA0) | 2:42 | 2024-11-19 | 2025-03-26 |
@@ -646,6 +647,7 @@
 | [愛が通り過ぎた跡](https://open.spotify.com/track/6lYyAMPOD6XXVNrVyxakAL) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [愛が通り過ぎた跡](https://open.spotify.com/album/1IprJ7zbzRu4w0OhmBc14n) | 3:04 | 2025-07-13 |  |
 | [拝啓、俺たちへ](https://open.spotify.com/track/3qWHp0OmRVLJ1BumXjg03A) | [コムドット](https://open.spotify.com/artist/4gCWHDSag0akMnMVFlbErm) | [拝啓、俺たちへ](https://open.spotify.com/album/6Er1W865y2brlTGEaD5PeJ) | 3:41 | 2024-05-28 | 2024-06-13 |
 | [旅立ちの鐘](https://open.spotify.com/track/6eftqGjcyB4Mfs9MoM0tdw) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [旅立ちの鐘](https://open.spotify.com/album/1daK7g4CFGbGURS9fJktDX) | 4:41 | 2024-04-09 | 2024-04-24 |
+| [月の裏で会いましょう](https://open.spotify.com/track/0eRMZs55Zgf93wU7p3VVef) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [月の裏で会いましょう](https://open.spotify.com/album/6Aa8bNpdbYSaCpFcV5rpqE) | 4:52 | 2025-07-22 |  |
 | [東京](https://open.spotify.com/track/31xA4TPoXLmhcTlatMWZWm) | [林 和希](https://open.spotify.com/artist/2QT3HyGIWurcFoP3sbtK6E) | [東京](https://open.spotify.com/album/48eBSK3qJMk0VMbVZPQc7r) | 4:02 | 2024-02-20 | 2024-03-06 |
 | [気づいたことは](https://open.spotify.com/track/3DSXC1RcrIMu0wflYpquOo) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [気づいたことは](https://open.spotify.com/album/6iGhat3Icogv7JcJW9i3JE) | 3:22 | 2025-03-06 | 2025-04-07 |
 | [沈丁花](https://open.spotify.com/track/79TdseXlAiANFOTstIwejv) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [沈丁花](https://open.spotify.com/album/6oIaKTyZjmZS995rPf08jS) | 3:51 | 2023-11-23 | 2024-01-03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: \u5016\u7530\u4f86\u672a",
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: \u897f\u91ce\u30ab\u30ca",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -738,7 +738,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 229000,
       "name": "anointment",
       "url": "https://open.spotify.com/track/5oA1G5wko4qIZE3VokD3uC"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 369111,
       "name": "Bad Bitch \u7f8e\u5b66 Remix",
       "url": "https://open.spotify.com/track/2BHMUxVdjuK9zKPmocIX56"
@@ -3946,7 +3946,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 148089,
       "name": "Drop",
       "url": "https://open.spotify.com/track/0hhUYRTVgcq7oD4qVLDgR2"
@@ -4734,7 +4734,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 305624,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0ChPlMesA5QIk2bN9MS4Na"
@@ -7297,6 +7297,24 @@
     },
     {
       "album": {
+        "name": "iconoclasm",
+        "url": "https://open.spotify.com/album/0a5DWiA2nEcK4XnfDlEW6M"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290800,
+      "name": "iconoclasm",
+      "url": "https://open.spotify.com/track/4W7mp8YAVrS2Y6B997yVF0"
+    },
+    {
+      "album": {
         "name": "On This Planet",
         "url": "https://open.spotify.com/album/50jTBdULiq1mR4B8DG5m6e"
       },
@@ -8342,6 +8360,24 @@
       "duration_ms": 191105,
       "name": "Kura Kura",
       "url": "https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm"
+    },
+    {
+      "album": {
+        "name": "KURU KURU HARAJUKU",
+        "url": "https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP"
+      },
+      "artists": [
+        {
+          "name": "Kyary Pamyu Pamyu",
+          "url": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257820,
+      "name": "KURU KURU HARAJUKU",
+      "url": "https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD"
     },
     {
       "album": {
@@ -12731,6 +12767,24 @@
     },
     {
       "album": {
+        "name": "ONIGIRI HOUSE theme",
+        "url": "https://open.spotify.com/album/0bRNCdpCVCSOsmcKBaCnN8"
+      },
+      "artists": [
+        {
+          "name": "Negicco",
+          "url": "https://open.spotify.com/artist/4PoAqzGXLjpuYMmTRv24q6"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172292,
+      "name": "PRLNPLR!",
+      "url": "https://open.spotify.com/track/4AfstesiHWgjnaYIOewhVF"
+    },
+    {
+      "album": {
         "name": "I Hope It Lasts Forever",
         "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
       },
@@ -13348,6 +13402,24 @@
       "duration_ms": 291833,
       "name": "RIDE ON WEEKEND",
       "url": "https://open.spotify.com/track/1camFvxeIWoou6KQ5sZJHk"
+    },
+    {
+      "album": {
+        "name": "\u30cb\u30fc\u30cf\u30aa!!!!\u00d7\u30de\u30c0\u30e0\u30ed\u30b9",
+        "url": "https://open.spotify.com/album/1I9tLmlpmliwCVhPRBpxi5"
+      },
+      "artists": [
+        {
+          "name": "ni-hao!!!!",
+          "url": "https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98183,
+      "name": "Ride the LAVA",
+      "url": "https://open.spotify.com/track/1DI85Th3uFc5S9ICHtFHyB"
     },
     {
       "album": {
@@ -16324,7 +16396,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 148524,
       "name": "TIME (feat. MFS)",
       "url": "https://open.spotify.com/track/1JLgk1V5LbfxQKvnFXec4g"
@@ -18283,6 +18355,24 @@
     },
     {
       "album": {
+        "name": "WUNACOOL",
+        "url": "https://open.spotify.com/album/0b4PlIXcyEYqBBEei9Owoj"
+      },
+      "artists": [
+        {
+          "name": "e5",
+          "url": "https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167757,
+      "name": "WUNACOOL",
+      "url": "https://open.spotify.com/track/3csLkAFsCnj0zqCyNU2xqZ"
+    },
+    {
+      "album": {
         "name": "W\u25cfRK",
         "url": "https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB"
       },
@@ -19676,7 +19766,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 200333,
       "name": "\u305c\u3093\u3076\u30aa\u30fc\u30e9\u30a4\uff01",
       "url": "https://open.spotify.com/track/6aP9yP5rEdJsZerDTcu8dF"
@@ -21398,7 +21488,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 242163,
       "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/3SjRQkgA5VdldUK6WKy9O7"
@@ -21904,6 +21994,24 @@
       "duration_ms": 260066,
       "name": "\u30de\u30b6\u30fc\u30e9\u30f3\u30c9",
       "url": "https://open.spotify.com/track/5SZWCBRpEujCFwETNvfxzz"
+    },
+    {
+      "album": {
+        "name": "\u30de\u30b8\u30ab\u30eb\u30b9\u30bf\u30fc\u30b7\u30e3\u30a4\u30f3\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u2606",
+        "url": "https://open.spotify.com/album/4PTU9k1Iws0fagPE5U2zFe"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202399,
+      "name": "\u30de\u30b8\u30ab\u30eb\u30b9\u30bf\u30fc\u30b7\u30e3\u30a4\u30f3\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\u2606",
+      "url": "https://open.spotify.com/track/1vhpwJ29rrFJvTwExlakHC"
     },
     {
       "album": {
@@ -23472,6 +23580,24 @@
       "duration_ms": 180000,
       "name": "\u5b9f\u9a13\u4e2d",
       "url": "https://open.spotify.com/track/5ZQgJnXh6vJnQuNeriQrmj"
+    },
+    {
+      "album": {
+        "name": "\u5de1\u30eb\u30fc\u30d7",
+        "url": "https://open.spotify.com/album/1edhuNkoP27i5vOYM4qr35"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252146,
+      "name": "\u5de1\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/6p8xc2hx0ZXDyFe4CNxSMy"
     },
     {
       "album": {

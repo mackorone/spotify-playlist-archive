@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Adekunle Gold, Mr Eazi, Lojay, SPINALL  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,803 likes - 61 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,900 likes - 61 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 11 | [Yokozuna](https://open.spotify.com/track/1FK5NKZHwh7BQ5BG6IMKdA) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [UnitedMasters Presents: Most Likely](https://open.spotify.com/album/1ZjvJj8toyUxbU9YtoSRr4) | 1:56 |
 | 12 | [Melody](https://open.spotify.com/track/3DP8dlv6jF8rM7LfPeFw6z) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0), [Samsix](https://open.spotify.com/artist/3fG35Ihxc3Xdk5mEfn09OU) | [Melody](https://open.spotify.com/album/0DM9U41Cm8hV4P7Sza727e) | 2:40 |
 | 13 | [I Can Die Now](https://open.spotify.com/track/6uHFeKZwWzGyIXlLbKi9oz) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/6qvTtbsexSEvC5nq89Um2o) | 2:51 |
-| 14 | [My Shayla](https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Mbryo](https://open.spotify.com/artist/3x9zvETvpbvSM8xL0pxyDy), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [My Shayla](https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95) | 2:33 |
+| 14 | [My Shayla](https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Mbryo](https://open.spotify.com/artist/7ttqbMfcqUvZdc2aZDg3F3), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [My Shayla](https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95) | 2:33 |
 | 15 | [i2SABI](https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [444PLAY](https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT) | 2:34 |
 | 16 | [Banyathele](https://open.spotify.com/track/3u4SW3dGyuaGN6SQDLP19j) | [BlaQRhythm](https://open.spotify.com/artist/2o9225GgSICygCOxroILhb), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP) | [Banyathele](https://open.spotify.com/album/3G9vtKzP7IV7DiA8Dl2SNx) | 7:03 |
 | 17 | [All My Enemies Are Suffering](https://open.spotify.com/track/2KtuNqz9wE23Uy0VVS8izJ) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [All My Enemies Are Suffering](https://open.spotify.com/album/3hWcG5eyPdchM0oGNmTwqg) | 3:14 |

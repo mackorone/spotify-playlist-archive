@@ -4,7 +4,7 @@
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-235 songs - 13 hr 13 min
+236 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-10-12 | 2024-01-11 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-09 | 2024-11-28 |
 | [HOWLING](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:08 | 2024-11-15 | 2025-05-26 |
-| [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 | 2025-06-12 |  |
+| [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 | 2025-06-12 | 2025-07-23 |
 | [I JUST](https://open.spotify.com/track/0cNACzcjSwDWjMhv6FRnMX) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [I JUST](https://open.spotify.com/album/5B2wBwkumDXXbXOmjlJb3v) | 2:50 | 2025-05-01 | 2025-06-13 |
 | [I'm a mess](https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [X](https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e) | 4:11 | 2024-12-14 | 2025-01-14 |
 | [Imagining \(feat\. Amaarae\)](https://open.spotify.com/track/4H9yO3xQEpKHbLwF6n5ldj) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Hold The Girl \(Bonus Edition\)](https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb) | 3:40 | 2023-12-07 | 2024-04-13 |
@@ -103,6 +103,7 @@
 | [Lunar Eclipse](https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Lunar Eclipse](https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6) | 2:56 | 2023-11-16 | 2024-01-11 |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-07 | 2024-07-05 |
 | [Mama's Pie](https://open.spotify.com/track/6ykodFke0uF1y6RLQt0zzr) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Mama's Pie](https://open.spotify.com/album/0OKTVjdBXcxBkksj2tlztZ) | 3:45 | 2024-01-10 | 2024-01-19 |
+| [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-07-11 |  |
 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 | 2023-10-12 | 2024-04-19 |
 | [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 | 2024-01-25 | 2024-09-26 |
 | [meaning](https://open.spotify.com/track/23rFnCXBIlKpxuKSorAyeL) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meaning](https://open.spotify.com/album/1eNXkTH3nkNUcWbacD6zyW) | 3:44 | 2025-01-24 | 2025-02-21 |

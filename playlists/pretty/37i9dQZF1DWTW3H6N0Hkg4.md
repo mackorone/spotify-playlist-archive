@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 
 > Cumbias de antaño para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,791 likes - 125 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,907 likes - 125 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,21 +109,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 99 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
 | 100 | [Procura](https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Pa' Otro La 'o](https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar) | 4:32 |
 | 101 | [Una Ráfaga de Amor](https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:03 |
-| 102 | [El Diario De Un Borracho](https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [El Condor Legendario](https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG) | 4:26 |
-| 103 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 |
+| 102 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 |
+| 103 | [El Diario De Un Borracho](https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [El Condor Legendario](https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG) | 4:26 |
 | 104 | [Amor Sin Primavera](https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:52 |
 | 105 | [Llorar](https://open.spotify.com/track/6phWt5bRbTh96gjxZcnH4c) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Llorar](https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz) | 3:43 |
 | 106 | [Guaracha Sabrosona](https://open.spotify.com/track/1NF3HErcMkLOcyG5K1fGLL) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/2RmmHqe6EdibrcZfvRQkYk) | 3:39 |
 | 107 | [No Te Voy A Perdonar](https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Te Voy A Perdonar, Volumen 4](https://open.spotify.com/album/24V99ibPcTjI906jV1io1D) | 3:52 |
-| 108 | [Suavecito Suavecito](https://open.spotify.com/track/6Ysnd9T4uIhQesbWK672GF) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/5Tu2cp5aCSB61PVU8vtzw9) | 3:45 |
-| 109 | [Rumba Cha Cha](https://open.spotify.com/track/5OSUQtHDX5L0bW8MbLFlS7) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia](https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw) | 4:44 |
-| 110 | [Vida No Te Vayas](https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:48 |
-| 111 | [Te Vas](https://open.spotify.com/track/2aJuCPajaqOVaNjmgKGRhF) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/3odNjgXP8eMSz2g8n890mH) | 3:49 |
+| 108 | [Te Vas](https://open.spotify.com/track/2aJuCPajaqOVaNjmgKGRhF) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/3odNjgXP8eMSz2g8n890mH) | 3:49 |
+| 109 | [Suavecito Suavecito](https://open.spotify.com/track/6Ysnd9T4uIhQesbWK672GF) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/5Tu2cp5aCSB61PVU8vtzw9) | 3:45 |
+| 110 | [Rumba Cha Cha](https://open.spotify.com/track/5OSUQtHDX5L0bW8MbLFlS7) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia](https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw) | 4:44 |
+| 111 | [Vida No Te Vayas](https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:48 |
 | 112 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 |
-| 113 | [Pibe Cantina](https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 3:38 |
+| 113 | [Mix Juguito De Pina](https://open.spotify.com/track/68PWHpcmWTC92qoGADfOEG) | [Simba Musical](https://open.spotify.com/artist/2lxLwYbYnQZv7wkubtAq3J) | [Con Carino A Oaxaca](https://open.spotify.com/album/0IuDm4Z0RGNVsPZBDcNnUJ) | 5:54 |
 | 114 | [Amores Como el Nuestro](https://open.spotify.com/track/6z6aUQtuqZzq2tbyVwHO6n) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [corazon de papel](https://open.spotify.com/album/6BKIN0ZfJGzO4iBCoOsmu4) | 3:16 |
-| 115 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |
-| 116 | [Mix Juguito De Pina](https://open.spotify.com/track/68PWHpcmWTC92qoGADfOEG) | [Simba Musical](https://open.spotify.com/artist/2lxLwYbYnQZv7wkubtAq3J) | [Con Carino A Oaxaca](https://open.spotify.com/album/0IuDm4Z0RGNVsPZBDcNnUJ) | 5:54 |
+| 115 | [Pibe Cantina](https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 3:38 |
+| 116 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |
 | 117 | [Te Vas a Arrepentir](https://open.spotify.com/track/5Rb1YFwlxt1AgMaqbOpZzf) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/65Z4VN8ZKEYkqM6K2yNoRl) | 3:23 |
 | 118 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 |
 | 119 | [Mil Horas](https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Greatest Cumbia Classics Of Colombia, Vol\. 2](https://open.spotify.com/album/2zTSfpbKycKhOo3hwh8OEj) | 3:45 |

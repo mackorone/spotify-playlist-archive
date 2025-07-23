@@ -1001,6 +1001,28 @@
     },
     {
       "album": {
+        "name": "Gown",
+        "url": "https://open.spotify.com/album/76LdvzNH2xn7aBiohbRBrC"
+      },
+      "artists": [
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        },
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195999,
+      "name": "Gown",
+      "url": "https://open.spotify.com/track/7rRXZr2yNxk4HTIIdPfkRe"
+    },
+    {
+      "album": {
         "name": "Montalvo",
         "url": "https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr"
       },

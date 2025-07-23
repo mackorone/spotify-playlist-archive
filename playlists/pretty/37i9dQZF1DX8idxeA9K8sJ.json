@@ -1,6 +1,6 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana. Flans en portada.",
-  "num_followers": 1011730,
+  "num_followers": 1011982,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Recuerdos II",
         "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 233266,
       "name": "Lobo-hombre en Par\u00eds",
       "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
-      },
-      "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -361,22 +361,6 @@
       "url": "https://open.spotify.com/track/6rQiv59kQYiG8LqaSYDfWz"
     },
     {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Insoportablemente Bella",
-      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
-    },
-    {
       "added_at": "2022-07-14 16:00:40",
       "album": {
         "name": "Myriam Hernandez",
@@ -391,6 +375,22 @@
       "duration_ms": 216093,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/2yIUUOe7UVhvxQmaLVqRKr"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Insoportablemente Bella",
+      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Deseo Carnal",
-        "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Ni t\u00fa ni nadie",
-      "url": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Tierra De Nadie",
         "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 227600,
       "name": "Simplemente Amigos",
       "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Deseo Carnal",
+        "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Ni t\u00fa ni nadie",
+      "url": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -763,22 +763,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "El Angel Del Rock Vol. 2",
-        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
-      },
-      "artists": [
-        {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
-        }
-      ],
-      "duration_ms": 254826,
-      "name": "Sue\u00f1os Compartidos",
-      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 188106,
       "name": "A Esa",
       "url": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "El Angel Del Rock Vol. 2",
+        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "duration_ms": 254826,
+      "name": "Sue\u00f1os Compartidos",
+      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "MTV Unplugged: Con El Alma Desnuda",
-        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 298546,
-      "name": "La Chica De Humo - MTV Unplugged",
-      "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Parte De La Religion",
         "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 181600,
       "name": "No Voy en Tren",
       "url": "https://open.spotify.com/track/0rliTXrA8nLBuJcxDuueWU"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "MTV Unplugged: Con El Alma Desnuda",
+        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 298546,
+      "name": "La Chica De Humo - MTV Unplugged",
+      "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "Guitarras Blancas",
+      "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 201693,
       "name": "Eres",
       "url": "https://open.spotify.com/track/3KOqFaJbPoJohjoV29TjtB"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Guitarras Blancas",
-      "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Salamandra",
-        "url": "https://open.spotify.com/album/6hQut73nd7j8LseXocrFHF"
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "Miguel Gallardo",
+          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
         }
       ],
-      "duration_ms": 256200,
-      "name": "Aire soy",
-      "url": "https://open.spotify.com/track/1EDRDh387ZBbDZus6t1QxP"
+      "duration_ms": 179133,
+      "name": "Tu Amante o Tu Enemigo",
+      "url": "https://open.spotify.com/track/2xFcw6Oo4FsrO22fj1O8SA"
     }
   ],
   "unique_name": "Los 80 M\u00e9xico",

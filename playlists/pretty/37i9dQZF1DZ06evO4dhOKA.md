@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,016 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,021 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 34 | [En Mil Pedazos](https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 3:14 |
 | 35 | [A Punto de Marcharme](https://open.spotify.com/track/6Hz8Ai2vWn1xSeapeSr8Sm) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:45 |
 | 36 | [Me Regalo Contigo](https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Casita De Adobe](https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ) | 3:07 |
-| 37 | [El Corrido de Ramiro Quiroz](https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las + Tocadas](https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv) | 3:00 |
-| 38 | [Regalo Caro](https://open.spotify.com/track/4Vz4J7SjB34snVIJjjrVCB) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Corridos Bien Perrones](https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo) | 3:17 |
+| 37 | [Regalo Caro](https://open.spotify.com/track/4Vz4J7SjB34snVIJjjrVCB) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Corridos Bien Perrones](https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo) | 3:17 |
+| 38 | [El Corrido de Ramiro Quiroz](https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las + Tocadas](https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv) | 3:00 |
 | 39 | [De Nada Sirvió](https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:58 |
 | 40 | [La Casita De Adobe](https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Casita De Adobe](https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ) | 3:11 |
 | 41 | [La Carga Ladeada](https://open.spotify.com/track/1RhGBWA0En6KadlMY0a9rh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 49 | [Flor de Dalia](https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [15 Exitos Vol\. 1](https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt) | 2:43 |
 | 50 | [Mi Casa Nueva](https://open.spotify.com/track/7hurP5YckvI4lJaWPUdTHR) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Visión 20.20 Éxitos](https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1) | 2:41 |
 
-Snapshot ID: `aHwxgAAAAACRr+5PZ92g4+R3VrmOS4Ha`
+Snapshot ID: `aH2DAAAAAADjAYJqLm3mPHKdWjuZucI7`

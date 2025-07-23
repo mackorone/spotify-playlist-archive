@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 
 > This is Alabama Shakes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,243 likes - 19 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,273 likes - 19 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 | 18 | [You Ain't Alone](https://open.spotify.com/track/6ztmULOCCXDLtuixz29GYz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 4:44 |
 | 19 | [Guess Who](https://open.spotify.com/track/45JLSLXRMQJabYtPtSuBmV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:15 |
 
-Snapshot ID: `aHwxgAAAAACOZCsQxbfbfqExIIvec9KF`
+Snapshot ID: `aH2DAAAAAACahw4o+xTRmRHpYlsXI8+T`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,158 likes - 259 songs - 14 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,161 likes - 259 songs - 14 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,8 +209,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 199 | [Two Things Can Be True](https://open.spotify.com/track/38fBiZhAfXclw5avjMiu1b) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:45 |
 | 200 | [Truth](https://open.spotify.com/track/5aB3hpEAE1hDSQ2wZdrtsi) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:34 |
 | 201 | [Favorite Place](https://open.spotify.com/track/6yHD1ZssjUIMndAVpmESZ4) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 2:48 |
-| 202 | [Work Too Much](https://open.spotify.com/track/508FoYYfy1YjC6ZVUMctZJ) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:17 |
-| 203 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 |
+| 202 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 |
+| 203 | [Work Too Much](https://open.spotify.com/track/508FoYYfy1YjC6ZVUMctZJ) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:17 |
 | 204 | [Give In To You](https://open.spotify.com/track/3JXB1YiJIwGkTeGdgYVFWR) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:23 |
 | 205 | [Right Moves \(feat\. Keida & Shenseea\)](https://open.spotify.com/track/10EdIGnkizaN7v1uYljTd7) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Keida](https://open.spotify.com/artist/60W5voThnCKW5p1iH3KjQZ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 3:48 |
 | 206 | [Pessimist](https://open.spotify.com/track/5YAkSJQDoAPx0zGgo8vHU2) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:17 |
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 258 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
 | 259 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `Ab3ZsgAAAACiqV73eAKOmKnVB/8fuytE`
+Snapshot ID: `Ab3fSAAAAAAz9l1+pITc0+IO99daozsI`

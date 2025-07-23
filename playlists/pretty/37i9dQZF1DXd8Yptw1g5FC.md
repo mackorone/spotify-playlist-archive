@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Madrigal ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,350 likes - 120 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,363 likes - 120 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 42 | [TÜM ŞEHİR KUŞATMA ALTINDA](https://open.spotify.com/track/3syVHZ81jaLpPMblHw46F2) | [Abugat](https://open.spotify.com/artist/2KPINxWCVBb9yxO8xKtdFh) | [GİZLİ SERVİS](https://open.spotify.com/album/1GYpY4zTWxVS3VI5Xsf6a3) | 1:50 |
 | 43 | [Ahey](https://open.spotify.com/track/3KB6K6ZJ1hzN5Z4JMtzwrC) | [Karsu](https://open.spotify.com/artist/0rRu3Co1oQ6Ce3yz7btJzB) | [Ahey](https://open.spotify.com/album/0mGlBaR8LYC0ataMLNVuIw) | 2:27 |
 | 44 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 |
-| 45 | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
+| 45 | [You Can’t Run From Yourself \- From "Kaiju No\. 8"](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
 | 46 | [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 |
 | 47 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
 | 48 | [Yeni Bir Gün](https://open.spotify.com/track/3nlEB3ndiBWk5xrrR6rEGV) | [Mentra](https://open.spotify.com/artist/1HWXCqZWPw3od0gpFoLXpe) | [Yeni Bir Gün](https://open.spotify.com/album/3qDKXoNEBFSlBJwp44h4Gy) | 3:00 |

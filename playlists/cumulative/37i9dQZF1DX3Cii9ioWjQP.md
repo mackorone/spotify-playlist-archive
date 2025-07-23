@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: 소이에 \(soye\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-264 songs - 18 hr 32 min
+265 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,9 +176,10 @@
 | [Remember](https://open.spotify.com/track/76jnvd7nJdAfJfMLryTcGw) | [Music Destroyers](https://open.spotify.com/artist/5flL1TPdeAyGc5fb6Y8F6Y) | [Remember](https://open.spotify.com/album/421jqaV4XhjtV0X2qTcdes) | 3:19 | 2022-05-03 | 2022-05-19 |
 | [Rhythm of Hope \(Prod\. DPR CREAM\)](https://open.spotify.com/track/0337drC05b9vF1yD8gA66L) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Rum Pum Pum](https://open.spotify.com/album/4zx46DYfYzDszLAOVr95Au) | 3:47 | 2022-05-03 | 2023-02-08 |
 | [Rio](https://open.spotify.com/track/48lfomyBFdLCXfBpcZyhQt) | [최보미](https://open.spotify.com/artist/4reDRRPmtXBJbqblTeDtPh) | [Rio](https://open.spotify.com/album/5RPRCu9BcWck0FZcyHVIDK) | 3:33 | 2023-07-19 | 2024-11-07 |
+| [Romance.\. \(With Danny Koo\)](https://open.spotify.com/track/1Ia6U6HSebBO6GRZug2iNX) | [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2), [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [a Letter of Romance](https://open.spotify.com/album/6Ie9Ph66tRLid1J4e9jT9Q) | 3:23 | 2025-07-22 |  |
 | [romanticismo](https://open.spotify.com/track/3gTV9SaJxRUX9OvHh27pXR) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [romanticismo](https://open.spotify.com/album/0aLKEufTt9T5KaYn4UzoXg) | 3:32 | 2024-11-27 |  |
 | [rooftop story](https://open.spotify.com/track/7qDqkkAo9zPwAbTL0jvuLu) | [Song Hyukkyu](https://open.spotify.com/artist/2egNLLDYMhKXxFAgPOaxeq) | [Innocence of dawn](https://open.spotify.com/album/7oVjfpiung6nViuomF1YdL) | 3:40 | 2023-02-07 | 2024-11-07 |
-| [Roses and Pictures](https://open.spotify.com/track/2ZLUEHafxht1XPrpvXfPqk) | [이상아](https://open.spotify.com/artist/4tMWqFLIMTK1L9hiTLZqpJ) | [이상아의 재즈&피아노 Pt.2](https://open.spotify.com/album/3xsnHn0sZPPBagZ4uo17aQ) | 4:25 | 2024-09-19 |  |
+| [Roses and Pictures](https://open.spotify.com/track/2ZLUEHafxht1XPrpvXfPqk) | [이상아](https://open.spotify.com/artist/4tMWqFLIMTK1L9hiTLZqpJ) | [이상아의 재즈&피아노 Pt.2](https://open.spotify.com/album/3xsnHn0sZPPBagZ4uo17aQ) | 4:25 | 2024-09-19 | 2025-07-23 |
 | [Rum Pum Pum](https://open.spotify.com/track/2JaVEjpz0CVmO7lKP4MqL4) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Rum Pum Pum](https://open.spotify.com/album/4zx46DYfYzDszLAOVr95Au) | 5:06 | 2022-05-03 | 2023-02-08 |
 | [Sae jip da oh](https://open.spotify.com/track/1QOrJBxHzCW74wFYDh8rxe) | [Sarang You](https://open.spotify.com/artist/5TJNvnHYtvyrHdHZ7pwOXl) | [Sae jip da oh](https://open.spotify.com/album/1iCsSs6u5XMNKGMy8orm0J) | 5:03 | 2024-11-07 |  |
 | [Sag](https://open.spotify.com/track/0WT5exMmrq1biJR2cvJepO) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 4:21 | 2022-11-23 | 2024-11-07 |

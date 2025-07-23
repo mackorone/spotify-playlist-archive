@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,688 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,823 likes - 100 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 36 | [No jive](https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu) | [De\-Phazz](https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN) | [Hôtel Costes](https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8) | 4:24 |
 | 37 | [Hey Now](https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:27 |
 | 38 | [Rodney Yates](https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW) | [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL) | [Let's Get Killed](https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1) | 6:24 |
-| 39 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 |
+| 39 | [La femme d'argent](https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 7:06 |
 | 40 | [Cold Water Music](https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg) | [Aim](https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp) | [Cold Water Music](https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R) | 5:44 |
-| 41 | [La femme d'argent](https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 7:06 |
+| 41 | [Magic Love \- Radio Edit](https://open.spotify.com/track/01K42inuuCqOB731ugiQAd) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Magic Love \(Remixes\)](https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq) | 3:22 |
 | 42 | [Nova](https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Permutation](https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp) | 4:42 |
-| 43 | [Magic Love \- Radio Edit](https://open.spotify.com/track/01K42inuuCqOB731ugiQAd) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Magic Love \(Remixes\)](https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq) | 3:22 |
-| 44 | [Recurring](https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 5:06 |
+| 43 | [Recurring](https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 5:06 |
+| 44 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 |
 | 45 | [Bittersweet Faith](https://open.spotify.com/track/3mjQWntZaTIysjKdQZWlgG) | [Bitter:Sweet](https://open.spotify.com/artist/28bLlI81wfpcHUSUPgktlx) | [The Mating Game](https://open.spotify.com/album/17FDgwgmO3tD7X7qX6m7Sy) | 4:19 |
 | 46 | [Nothing Can Stop Us](https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:21 |
 | 47 | [That Girl](https://open.spotify.com/track/3YMaXtFpBiLRuZIiokJ9DR) | [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Breath From Another](https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S) | 4:40 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 81 | [Slip Into Something More Comfortable \- Stephen Hague 2016 Mix](https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4) | [Kinobe](https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy) | [Slip Into Something More Comfortable](https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu) | 4:47 |
 | 82 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 6:39 |
 | 83 | [Peacock Tail](https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:24 |
-| 84 | [Sunny Road](https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp) | 3:04 |
-| 85 | [Yes Baby Yes](https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf) | 5:00 |
+| 84 | [Yes Baby Yes](https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf) | 5:00 |
+| 85 | [Sunny Road](https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp) | 3:04 |
 | 86 | [Riders On the Storm](https://open.spotify.com/track/3tYOKwQBtYebD0XPbY2vQ6) | [Yonderboi](https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7) | [Shallow and Profound](https://open.spotify.com/album/0gvbUOhSJofzDL1DE9uWZq) | 4:19 |
 | 87 | [Just Chillin'](https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB1](https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh) | 2:14 |
 | 88 | [Flip Ya Lid](https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 5:24 |

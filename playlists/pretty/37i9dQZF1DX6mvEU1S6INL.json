@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1142224,
+  "num_followers": 1142295,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
+        "name": "Shake! Shake! Shake!",
+        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
+      },
+      "artists": [
+        {
+          "name": "Bronze Radio Return",
+          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
+        }
+      ],
+      "duration_ms": 163236,
+      "name": "Shake, Shake, Shake",
+      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
         "name": "Guru",
         "url": "https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR"
       },
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Shake! Shake! Shake!",
-        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
+        "name": "You Are All I See",
+        "url": "https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX"
       },
       "artists": [
         {
-          "name": "Bronze Radio Return",
-          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
+          "name": "Active Child",
+          "url": "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
         }
       ],
-      "duration_ms": 163236,
-      "name": "Shake, Shake, Shake",
-      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
+      "duration_ms": 321453,
+      "name": "Hanging On",
+      "url": "https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -1615,22 +1631,6 @@
       "duration_ms": 279693,
       "name": "Trembling hands",
       "url": "https://open.spotify.com/track/0P2xmlbhOoQd5LOztoe0yF"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
-        "name": "You Are All I See",
-        "url": "https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX"
-      },
-      "artists": [
-        {
-          "name": "Active Child",
-          "url": "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
-        }
-      ],
-      "duration_ms": 321453,
-      "name": "Hanging On",
-      "url": "https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob"
     }
   ],
   "unique_name": "You & Me",

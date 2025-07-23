@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLXUqefNM0i.md) - [plain]
 
 > Faye Webster invites us into her world\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,093 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,107 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

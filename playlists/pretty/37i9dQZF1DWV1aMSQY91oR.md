@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Young Nudy
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,923 likes - 48 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,940 likes - 48 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 8 | [Gifts](https://open.spotify.com/track/4mN1f3BBrROfAA4Ug8YC3L) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Gifts](https://open.spotify.com/album/2ig9FnoV1yDd3QhDKRwdgz) | 2:29 |
 | 9 | [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 |
 | 10 | [OH SHIT!!!](https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [OH SHIT!!!](https://open.spotify.com/album/5BQFPnz90fOR5PcWOZIQ1G) | 3:05 |
-| 11 | [Victory Lap Three](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 3:28 |
+| 11 | [Victory Lap Four](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 4:22 |
 | 12 | [Lose Control](https://open.spotify.com/track/44KyelrWIN0bQeYLM97Eip) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Lose Control](https://open.spotify.com/album/6DpAJt88ClQmcnVbFHuLVy) | 3:03 |
 | 13 | [Time Is Money](https://open.spotify.com/track/1LpK9StcJfXtw27mVPVesi) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Time is Money](https://open.spotify.com/album/5Rm5YSfhyfrQN8oRw2fwUC) | 3:17 |
 | 14 | [POLLASEEDS](https://open.spotify.com/track/6Agp42sciqRgkOFQU7ywm2) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [League of My Own](https://open.spotify.com/album/1mJw0jFqIigBKkjlD6SUxZ) | 2:53 |

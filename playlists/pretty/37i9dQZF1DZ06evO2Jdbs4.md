@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,847 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,857 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 34 | [Obsesión](https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:37 |
 | 35 | [Me Derrito \(feat\. Bobby Pulido\)](https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Los Ángeles Existen](https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs) | 2:50 |
 | 36 | [Separarnos \- En Vivo](https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:14 |
-| 37 | [Como Dos Extraños](https://open.spotify.com/track/6zpbZkfhTuywWpHcJVYOm5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Cazador](https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I) | 3:32 |
-| 38 | [La Soledad \(feat\. Monica Saldivar\)](https://open.spotify.com/track/6vZcycMT3468uKoSbXVJc9) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [LP Norteño](https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5), [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [La Soledad \(feat\. Monica Saldivar\)](https://open.spotify.com/album/1ZoVyyIvp3ZJwv3zW8wuHv) | 3:55 |
+| 37 | [La Soledad \(feat\. Monica Saldivar\)](https://open.spotify.com/track/6vZcycMT3468uKoSbXVJc9) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [LP Norteño](https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5), [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [La Soledad \(feat\. Monica Saldivar\)](https://open.spotify.com/album/1ZoVyyIvp3ZJwv3zW8wuHv) | 3:55 |
+| 38 | [Como Dos Extraños](https://open.spotify.com/track/6zpbZkfhTuywWpHcJVYOm5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Cazador](https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I) | 3:32 |
 | 39 | [Cindy Don't Know](https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:38 |
 | 40 | [Besos y Copas \- En Vivo](https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:07 |
 | 41 | [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 49 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:09 |
 | 50 | [¿Qué Hago Conmigo?](https://open.spotify.com/track/48k7uKHMKNmyCXvPzdhcvW) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Siempre Pensando en Ti](https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH) | 3:20 |
 
-Snapshot ID: `aHwxgAAAAAAMtc3bej/0cDqL1jZZYdfy`
+Snapshot ID: `aH2DAAAAAAA+ITr0z8cq/LHC6KYHcnNo`

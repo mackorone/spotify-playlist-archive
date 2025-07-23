@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,828 likes - 89 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,861 likes - 89 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 54 | [Soy débil Sr.](https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Soy débil Sr.](https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7) | 3:45 |
 | 55 | [Normal](https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Normal](https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c) | 4:27 |
 | 56 | [Uma Brasileira](https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Uma Brasileira](https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC) | 3:18 |
-| 57 | [Revolution Rock](https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Kevin Fingier](https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz) | [Rockin'](https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw) | 3:28 |
-| 58 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 |
+| 57 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 |
+| 58 | [Revolution Rock](https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Kevin Fingier](https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz) | [Rockin'](https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw) | 3:28 |
 | 59 | [Si no Regreso](https://open.spotify.com/track/45VdxLNKgVwkF9gVbKcPED) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Si no Regreso](https://open.spotify.com/album/4Ltcj9JgzrISmo2GXUjpwY) | 2:58 |
 | 60 | [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 |
 | 61 | [Diablito](https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:50 |

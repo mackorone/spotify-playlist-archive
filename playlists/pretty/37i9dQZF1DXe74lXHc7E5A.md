@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: JHus x Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,963 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,989 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 52 | [Shut Up](https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Shut Up](https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j) | 3:12 |
 | 53 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 |
 | 54 | [CORLEONE \(feat\. ODUMODUBLVCK & Steel Banglez\)](https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:49 |
-| 55 | [Out the Mud](https://open.spotify.com/track/0vFqhxaJg7WrNmMoHHxAAK) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Out the Mud](https://open.spotify.com/album/6Gj0e4m1LwALsd3iI8vI1q) | 2:26 |
-| 56 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |
+| 55 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |
+| 56 | [Out the Mud](https://open.spotify.com/track/0vFqhxaJg7WrNmMoHHxAAK) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Out the Mud](https://open.spotify.com/album/6Gj0e4m1LwALsd3iI8vI1q) | 2:26 |
 | 57 | [Automoto \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/2y9fqvlVSHGAMbCEizSKaZ) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Automoto \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/2dzMKs3gXrSCd1HNoRA92n) | 1:54 |
 | 58 | [Belly](https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Belly](https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo) | 2:56 |
 | 59 | [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 |
-| 60 | [ESCAPE PLAN](https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [ESCAPE PLAN](https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT) | 2:28 |
+| 60 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 
 Snapshot ID: `aHmOzAAAAAB91QxrtzHGBWvYA3cygSbH`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > Para bailar hasta el amanecer\. Foto: Campedrinos
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,502 likes - 105 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,547 likes - 105 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Vuelvas Más](https://open.spotify.com/track/383F4ADOx1fRbz6LVaEfm9) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Bipolar](https://open.spotify.com/album/5ZrvLttzeC8rj6VA8irWN6) | 2:54 |
 | 2 | [Cuidado Que Te Supero](https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP) | [Cuidado Que Te Supero](https://open.spotify.com/album/09u9HmOtRrrBHFhEaXzsZY) | 3:45 |
-| 3 | [ECO \- En Vivo Estadio Delmi](https://open.spotify.com/track/64wuY4vJtmvkA0a6GguQk2) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [ECO \(En Vivo Estadio Delmi\)](https://open.spotify.com/album/6LjBDbHR5tGa3jQ13GGqZG) | 4:02 |
+| 3 | [ECO \- En Vivo Estadio Delmi](https://open.spotify.com/track/64wuY4vJtmvkA0a6GguQk2) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [ECO \(En Vivo Estadio Delmi\)](https://open.spotify.com/album/6LjBDbHR5tGa3jQ13GGqZG) | 3:54 |
 | 4 | [Dueles](https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:09 |
 | 5 | [El Bailongo en Lo del Rengo](https://open.spotify.com/track/4JbQUJ6o0M80Q3GgvL87is) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 1:53 |
 | 6 | [Es Tan Grande Este Amor](https://open.spotify.com/track/6Z4uK6bVC2XjJKXjTUobhr) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Es Tan Grande Este Amor](https://open.spotify.com/album/2iLRaP3hBMDL0Q06VYzqkm) | 3:06 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 23 | [No me sale](https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [No me sale](https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB) | 3:28 |
 | 24 | [La Llama Que Baila](https://open.spotify.com/track/2m6x7oUG9zUtdPpqcwhHRW) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [La Llama Que Baila](https://open.spotify.com/album/2L9HQCa7QjweXkoolZdY6u) | 2:51 |
 | 25 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/0RseYmZD6vMtoc04LqkG95) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Tú Sí Sabes Quererme](https://open.spotify.com/album/1rEWtg5n3YqyFUHTGCqmNW) | 3:09 |
-| 26 | [ÁRBOL \- En Vivo Estadio Delmi](https://open.spotify.com/track/3KuC6QXvGGToJKMECUU04M) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [ÁRBOL \(En Vivo Estadio Delmi\)](https://open.spotify.com/album/7nEXOZiWZ4I1fokc7vTywb) | 3:50 |
+| 26 | [ÁRBOL \- En Vivo Estadio Delmi](https://open.spotify.com/track/3KuC6QXvGGToJKMECUU04M) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [ÁRBOL \(En Vivo Estadio Delmi\)](https://open.spotify.com/album/7nEXOZiWZ4I1fokc7vTywb) | 4:27 |
 | 27 | [Que Yo Te Amo](https://open.spotify.com/track/3qut159EmPY8wvP7b1wHCc) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq), [Alvaro Teruel](https://open.spotify.com/artist/0dCALQ1TpALyNQq6fOyvEn) | [Presente](https://open.spotify.com/album/4NpT9XBd4k7vJDteRA2ZxD) | 3:42 |
 | 28 | [La Vieja](https://open.spotify.com/track/4oejqv8BCJUzPVQqovgiZs) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Salta en Mi Sangre](https://open.spotify.com/album/19MVmmIUyeUqFFBV3b0A8s) | 2:07 |
 | 29 | [Por Tu Querer](https://open.spotify.com/track/6cyjG51eS5wNBClG2ggkPX) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Por Tu Querer](https://open.spotify.com/album/5DFw7CUGXg9RiMxU1NVGke) | 2:29 |

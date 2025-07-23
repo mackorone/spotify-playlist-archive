@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹  Francamente in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,188 likes - 101 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,190 likes - 101 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Mooi van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,708 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,749 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 18 | [Seizoenen](https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Seizoenen](https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0) | 3:07 |
 | 19 | [Wat Als Ik Wat Mis](https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ) | [Danilo Kuiters](https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu) | [Wat Als Ik Wat Mis](https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ) | 2:45 |
 | 20 | [Dag & Nacht](https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Dag & Nacht](https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau) | 2:42 |
-| 21 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 |
-| 22 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 |
+| 21 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 |
+| 22 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 |
 | 23 | [Toen Ik Je Zag](https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Beste Zangers 2024 \(Claude\)](https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7) | 3:36 |
 | 24 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 |
 | 25 | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > In This Moment are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,584,558 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,584,850 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Heretic \(feat\. Kim Dracula\)](https://open.spotify.com/track/5Xa0Qdt8xFbjGKvJgb12nt) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Heretic \(feat\. Kim Dracula\)](https://open.spotify.com/album/6PxKrhxm8VXDWL1rFLfeAn) | 3:03 |
+| 1 | [Heretic \(feat\. Kim Dracula\)](https://open.spotify.com/track/5Xa0Qdt8xFbjGKvJgb12nt) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Heretic \(feat\. Kim Dracula\)](https://open.spotify.com/album/6PxKrhxm8VXDWL1rFLfeAn) | 3:03 |
 | 2 | [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 |
 | 3 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 |
 | 4 | [Imdead](https://open.spotify.com/track/26aLMyO5qLNTHCHqioC3bn) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m), [Ronnie Radke](https://open.spotify.com/artist/6fZEAUcjlTdVh66xQodmth) | [GRIZZLY](https://open.spotify.com/album/6RIsDIL38i8Z0ftmRChVf2) | 3:49 |

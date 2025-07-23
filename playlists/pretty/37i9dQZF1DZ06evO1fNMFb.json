@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAADMfgwClrVyQaj0w192hQaD",
+  "snapshot_id": "aH2DAAAAAACoRslSUwMRFB+/HoiHUjfz",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gulzar",
-        "url": "https://open.spotify.com/album/6hN4c25T3ZWXjpjNjwW5iD"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "Subhi",
-          "url": "https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Gulzar",
-      "url": "https://open.spotify.com/track/0qkXvj4p0hZ3ETGl1r8ULV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/5WcW19kxIHNgvdDo5LySYO"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 163738,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/5xD5mG8uIsyxA73S0nP0Rh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gulzar",
+        "url": "https://open.spotify.com/album/6hN4c25T3ZWXjpjNjwW5iD"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "Subhi",
+          "url": "https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Gulzar",
+      "url": "https://open.spotify.com/track/0qkXvj4p0hZ3ETGl1r8ULV"
     },
     {
       "added_at": null,
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saanvarey",
-        "url": "https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5"
-      },
-      "artists": [
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 152926,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/22hfS6XgllEJyBcAX9s7BM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yellow Lights (Alex Grey Remix)",
         "url": "https://open.spotify.com/album/2ZPDOybfMgH1ylU1UHbtnk"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 170255,
       "name": "Yellow Lights - Alex Grey Remix",
       "url": "https://open.spotify.com/track/24j5At5CXjL9J0zKDDieIu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saanvarey",
+        "url": "https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 152926,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/22hfS6XgllEJyBcAX9s7BM"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confidence",
-        "url": "https://open.spotify.com/album/7edpuZuWYWgdotNqkesWMV"
+        "name": "Muscle Memory",
+        "url": "https://open.spotify.com/album/0Fl07QjsJOeWNP6E9NCGNm"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 147822,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/4QDB3SOGXUlLQrIhBHGSOw"
+      "duration_ms": 168979,
+      "name": "Muscle Memory",
+      "url": "https://open.spotify.com/track/7h9amwuFvQAqYZVaNHk6Gp"
     },
     {
       "added_at": null,
@@ -542,21 +542,17 @@
         {
           "name": "Mikey McCleary",
           "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
-        },
-        {
-          "name": "Zoe Siddharth",
-          "url": "https://open.spotify.com/artist/3793OfyIVRlmqcAPUfUTDa"
         }
       ],
-      "duration_ms": 191538,
-      "name": "Warning Signs",
-      "url": "https://open.spotify.com/track/1eLwmw8qLHaZQaJ0Rp3ySy"
+      "duration_ms": 134800,
+      "name": "Killin It",
+      "url": "https://open.spotify.com/track/41FPK2hUs2P4fXBkifGFlo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Muscle Memory",
-        "url": "https://open.spotify.com/album/0Fl07QjsJOeWNP6E9NCGNm"
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/7edpuZuWYWgdotNqkesWMV"
       },
       "artists": [
         {
@@ -564,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 168979,
-      "name": "Muscle Memory",
-      "url": "https://open.spotify.com/track/7h9amwuFvQAqYZVaNHk6Gp"
+      "duration_ms": 147822,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/4QDB3SOGXUlLQrIhBHGSOw"
     },
     {
       "added_at": null,
@@ -614,11 +610,15 @@
         {
           "name": "Mikey McCleary",
           "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
+        },
+        {
+          "name": "Zoe Siddharth",
+          "url": "https://open.spotify.com/artist/3793OfyIVRlmqcAPUfUTDa"
         }
       ],
-      "duration_ms": 134800,
-      "name": "Killin It",
-      "url": "https://open.spotify.com/track/41FPK2hUs2P4fXBkifGFlo"
+      "duration_ms": 191538,
+      "name": "Warning Signs",
+      "url": "https://open.spotify.com/track/1eLwmw8qLHaZQaJ0Rp3ySy"
     },
     {
       "added_at": null,
@@ -667,6 +667,66 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can I Be Ur Friend?",
+        "url": "https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 217699,
+      "name": "Can I Be Ur Friend?",
+      "url": "https://open.spotify.com/track/2enudDsKGps4ZGh8CVg4u0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/32cglmsdgH5ifnHmjRFsxZ"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "ALLISTER X",
+          "url": "https://open.spotify.com/artist/7MtnXOqqKmjUo4a6H5VY3g"
+        }
+      ],
+      "duration_ms": 145804,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/5oBpm5XEdVy2DouR4BB3RY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Four More Shots Please! Season 3 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC"
+      },
+      "artists": [
+        {
+          "name": "Parth Parekh",
+          "url": "https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb"
+        },
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "Mikey McCleary",
+          "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pick It Up",
         "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
       },
@@ -699,66 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Four More Shots Please! Season 3 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC"
-      },
-      "artists": [
-        {
-          "name": "Parth Parekh",
-          "url": "https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb"
-        },
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "Mikey McCleary",
-          "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/32cglmsdgH5ifnHmjRFsxZ"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "ALLISTER X",
-          "url": "https://open.spotify.com/artist/7MtnXOqqKmjUo4a6H5VY3g"
-        }
-      ],
-      "duration_ms": 145804,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/5oBpm5XEdVy2DouR4BB3RY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can I Be Ur Friend?",
-        "url": "https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 217699,
-      "name": "Can I Be Ur Friend?",
-      "url": "https://open.spotify.com/track/2enudDsKGps4ZGh8CVg4u0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking",
         "url": "https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY"
       },
@@ -771,78 +771,6 @@
       "duration_ms": 184080,
       "name": "Talking",
       "url": "https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pick It Up",
-        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 156686,
-      "name": "Get Together",
-      "url": "https://open.spotify.com/track/4koHShRkiVWXavKjkSyxXQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "King Of The Jungle",
-        "url": "https://open.spotify.com/album/1johgvxYoiec7sJ2fJfAkb"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "David Arkwright",
-          "url": "https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu"
-        }
-      ],
-      "duration_ms": 160434,
-      "name": "King Of The Jungle",
-      "url": "https://open.spotify.com/track/4wIf7JumiBvOO6ovqXd1oZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm a Nykaa Everyday (feat. Dee MC)",
-        "url": "https://open.spotify.com/album/5f6EBNOJfn5jSnUEw0Xdg1"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "Dee MC",
-          "url": "https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C"
-        }
-      ],
-      "duration_ms": 137952,
-      "name": "I'm a Nykaa Everyday (feat. Dee MC)",
-      "url": "https://open.spotify.com/track/64X0RV6OC43sZox3cZZuOD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "Jump To It",
-      "url": "https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs"
     },
     {
       "added_at": null,
@@ -872,9 +800,49 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 144557,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l"
+      "duration_ms": 156686,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/4koHShRkiVWXavKjkSyxXQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm a Nykaa Everyday (feat. Dee MC)",
+        "url": "https://open.spotify.com/album/5f6EBNOJfn5jSnUEw0Xdg1"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "Dee MC",
+          "url": "https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C"
+        }
+      ],
+      "duration_ms": 137952,
+      "name": "I'm a Nykaa Everyday (feat. Dee MC)",
+      "url": "https://open.spotify.com/track/64X0RV6OC43sZox3cZZuOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King Of The Jungle",
+        "url": "https://open.spotify.com/album/1johgvxYoiec7sJ2fJfAkb"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "David Arkwright",
+          "url": "https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu"
+        }
+      ],
+      "duration_ms": 160434,
+      "name": "King Of The Jungle",
+      "url": "https://open.spotify.com/track/4wIf7JumiBvOO6ovqXd1oZ"
     },
     {
       "added_at": null,
@@ -891,6 +859,38 @@
       "duration_ms": 165738,
       "name": "Fitness",
       "url": "https://open.spotify.com/track/7Hz9M33j7cRKqTtr0PRn0w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pick It Up",
+        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 144557,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "Jump To It",
+      "url": "https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs"
     },
     {
       "added_at": null,

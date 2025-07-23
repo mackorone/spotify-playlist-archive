@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > Nuevo sonido, misma actitud.<br/>📷 MARTTEIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,394 likes - 55 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,392 likes - 55 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

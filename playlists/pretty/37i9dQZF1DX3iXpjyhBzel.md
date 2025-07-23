@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Julliany Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,165,297 likes - 100 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,165,748 likes - 100 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 15 | [Tudo É Perda \- Ao Vivo](https://open.spotify.com/track/46w8kyLAUvD5fUGPLfXXH2) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Tudo É Perda \(Ao Vivo\)](https://open.spotify.com/album/2l9zvPbm9i9RHzlX6plTcd) | 8:38 |
 | 16 | [Único \- Live](https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Único \(Live\)](https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh) | 6:59 |
 | 17 | [Promessas \(Promises\) \- Ao Vivo](https://open.spotify.com/track/3KVF4VK0Kclakez9LCGYga) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Promessas \(Promises\) \[Ao Vivo\]](https://open.spotify.com/album/6Bm010xs1prbkP2bVbKPFj) | 5:47 |
-| 18 | [Lindo Momento \- Ao Vivo](https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Lindo Momento](https://open.spotify.com/album/1aVMRmkdrJe3UXprRvPZqV) | 14:53 |
+| 18 | [Eu e Minha Casa](https://open.spotify.com/track/0GD31r9na0U0TLJ3xO2Att) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Eu e Minha Casa](https://open.spotify.com/album/7lwYpvn2JNcPte6D5J2XhL) | 6:00 |
 | 19 | [Sublime \- Ao Vivo](https://open.spotify.com/track/0PEkKjD8bgssfDbKUzKQ21) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn) | [Meia Noite \(Ao Vivo\)](https://open.spotify.com/album/0jRjSI7vj4r16D1HeePfIa) | 7:25 |
 | 20 | [Eu Creio \(Believe For It\)](https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eu Creio \(Believe For It\)](https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG) | 6:23 |
 | 21 | [Aliança \(Ao Vivo\)](https://open.spotify.com/track/4cRSit9wzI1XfV0PB7GVSQ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 5:32 |
 | 22 | [O Medo Não Vai Me Parar \- Ao Vivo](https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Medo Não Vai Me Parar \(Ao Vivo\)](https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY) | 5:03 |
-| 23 | [Eu e Minha Casa](https://open.spotify.com/track/0GD31r9na0U0TLJ3xO2Att) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Eu e Minha Casa](https://open.spotify.com/album/7lwYpvn2JNcPte6D5J2XhL) | 6:00 |
+| 23 | [Lindo Momento \- Ao Vivo](https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Lindo Momento](https://open.spotify.com/album/1aVMRmkdrJe3UXprRvPZqV) | 14:53 |
 | 24 | [Eu Vou Fazer \- Ao Vivo](https://open.spotify.com/track/4xrPTTStNmUyjpuI5bVRxy) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Eu Vou Fazer \(Ao Vivo\)](https://open.spotify.com/album/5qgTVU2kTbNcDmm26KLT2r) | 4:36 |
 | 25 | [Avenida do Arrependimento](https://open.spotify.com/track/6gFSzsRAZOG9tRPcnWwkdT) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Avenida do Arrependimento](https://open.spotify.com/album/2ttxcuefm67xcXkS8JZLzs) | 6:30 |
 | 26 | [Toda Terra \- Ao Vivo](https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Toda Terra \(Ao Vivo\)](https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt) | 8:39 |

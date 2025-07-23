@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,385 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,510 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 8 | [Oro \(feat\. Sofiane Pamart\)](https://open.spotify.com/track/58ip4yjN2Ho65FQQ0hmJAc) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Oro \(feat\. Sofiane Pamart\)](https://open.spotify.com/album/4GGzMyM3MeJk4iFN3f4woK) | 2:45 |
 | 9 | [Lucky Star](https://open.spotify.com/track/2IMYd9xzr2jJ6GOpYcmJ7Q) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [Holseek](https://open.spotify.com/artist/6rtScDLmn7xeFY4F71v4e3), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Lucky Star](https://open.spotify.com/album/2LmebXVmdpNnCxnytWWhxM) | 2:30 |
 | 10 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 |
-| 11 | [Dans la ville endormie](https://open.spotify.com/track/3H2rcMJZqrlSUEdgitfCj1) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [MIQA](https://open.spotify.com/artist/7qx5u7qfrFrlPNReiyFcJq), [SKIO](https://open.spotify.com/artist/0AWOsB7u3ZGM1SklkJlL3o) | [Dans la ville endormie](https://open.spotify.com/album/6kWR6an9Q2geLPAMhDLiTn) | 3:34 |
+| 11 | [Dans la ville endormie \- Remix](https://open.spotify.com/track/3H2rcMJZqrlSUEdgitfCj1) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [MIQA](https://open.spotify.com/artist/7qx5u7qfrFrlPNReiyFcJq), [SKIO](https://open.spotify.com/artist/0AWOsB7u3ZGM1SklkJlL3o) | [Dans la ville endormie \(Remix\)](https://open.spotify.com/album/6kWR6an9Q2geLPAMhDLiTn) | 3:34 |
 | 12 | [Kalabancoro](https://open.spotify.com/track/3DidOh90QTm6XAnD40gyJv) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Kalabancoro](https://open.spotify.com/album/3EzEdhl8VSwHjUkVvlCAA6) | 3:06 |
 | 13 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
 | 14 | [Bate Forte](https://open.spotify.com/track/5JtgGyGIt2gthKjO8YI7Es) | [Sasson \(FR\)](https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa), [Barka](https://open.spotify.com/artist/7Fi2btFUsAr8bbZ1BzpIac) | [Bate Forte](https://open.spotify.com/album/0SrGCY80zvrjTLDUaPxIw2) | 3:52 |

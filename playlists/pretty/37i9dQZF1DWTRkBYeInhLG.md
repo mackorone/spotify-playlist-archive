@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,795 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,812 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 61 | [Kamulah Satu \- Satunya](https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The Best of Dewa 19](https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS) | 4:01 |
 | 62 | [Kecewa](https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:49 |
 | 63 | [Hebat](https://open.spotify.com/track/5LU1VpAAJJ5FqKfZdNpfIG) | [Tangga](https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J) | [Tangga](https://open.spotify.com/album/4mcheIZyWPzUgH2dig6RSB) | 3:54 |
-| 64 | [11 Januari](https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Peace, Love And Respect](https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I) | 3:32 |
-| 65 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
+| 64 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
+| 65 | [11 Januari](https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Peace, Love And Respect](https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I) | 3:32 |
 | 66 | [Evaluasi \(Reprise\)](https://open.spotify.com/track/6ZJ2PCDZVTPB392n3rkKzU) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Evaluasi \(Reprise\)](https://open.spotify.com/album/723Jl0tmQVzNuXbblsMkpF) | 3:13 |
 | 67 | [Teman Bahagia](https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Teman Bahagia](https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b) | 3:28 |
 | 68 | [Dia](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Dia](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 77 | [Ekspektasi](https://open.spotify.com/track/5DEur1IK5rtQx90C0DcHpz) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1), [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Ekspektasi](https://open.spotify.com/album/3MEdsfqraSQMApYPGNYv4M) | 4:59 |
 | 78 | [Bukan Cinta Biasa \- Dekade Version](https://open.spotify.com/track/6N4EZhQbBsDjwr2buY3TGk) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 3:38 |
 | 79 | [Sunggu Indah](https://open.spotify.com/track/16dSPNURystMsZIIWqNE6B) | [Andy Ambarita](https://open.spotify.com/artist/3D9NDcZAyhtQdEuDdqsAx6) | [Sunggu Indah](https://open.spotify.com/album/4lsEBUgBu0KSVLxlQw4OyP) | 5:38 |
-| 80 | [Sedang Sayang Sayangnya](https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Sedang Sayang Sayangnya](https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9) | 4:21 |
+| 80 | [Menunggu Kamu \- OST Jelita Sejuba](https://open.spotify.com/track/5LP6x0DRwi69MGAYen999y) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Menunggu Kamu \- OST Jelita Sejuba](https://open.spotify.com/album/44CfF0k71uyqaIuegQo34v) | 3:49 |
 
 Snapshot ID: `aHXMrgAAAACvU/k67mC3NirKLzwWLOq+`

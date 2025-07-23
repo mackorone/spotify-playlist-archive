@@ -4019,6 +4019,28 @@
     },
     {
       "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182401,
+      "name": "Big Poe (feat. Sk8brd)",
+      "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -5480,7 +5502,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 176190,
       "name": "B\u00f8rn Af Natten (Hola Bonita)",
       "url": "https://open.spotify.com/track/3ZNTae1ZOrSaURxMZAVFq6"
@@ -13730,7 +13752,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 193678,
       "name": "F\u00f8rste dag",
       "url": "https://open.spotify.com/track/1MriMVVs0upyrXtArsWep5"
@@ -13752,7 +13774,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 193678,
       "name": "F\u00f8rste dag",
       "url": "https://open.spotify.com/track/7sUvmhKZF9VVZLKXqTIp0x"
@@ -14440,7 +14462,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 162500,
       "name": "Go Masala (feat. Klamfyr, USSEL & NIKLAS)",
       "url": "https://open.spotify.com/track/6ugWrKsKjxSiKmbkTVQD8c"
@@ -35330,6 +35352,24 @@
       "duration_ms": 190992,
       "name": "St\u00e5 Op G\u00e5 Ned (Artigeardit, Barselona)",
       "url": "https://open.spotify.com/track/3ySVk3dhXh2NQcsjacqU0v"
+    },
+    {
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
       "album": {

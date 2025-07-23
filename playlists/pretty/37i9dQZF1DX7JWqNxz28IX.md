@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,282 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,286 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,18 +83,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 73 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 |
 | 74 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 |
 | 75 | [Lacrime di sale](https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Lacrime di sale](https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A) | 3:15 |
-| 76 | [Hasta la Muerte](https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Hasta la Muerte](https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0) | 2:00 |
-| 77 | [Sotto lo zero](https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Sotto lo zero](https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE) | 3:00 |
-| 78 | [SOLO](https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [SOLO](https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1) | 2:00 |
+| 76 | [Sotto lo zero](https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Sotto lo zero](https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE) | 3:00 |
+| 77 | [SOLO](https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [SOLO](https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1) | 2:00 |
+| 78 | [Hasta la Muerte](https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Hasta la Muerte](https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0) | 2:00 |
 | 79 | [Sedato e Deluso](https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Elan Rood](https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy) | [Sedato e Deluso](https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler) | 3:22 |
 | 80 | [ALESSIA](https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [CONFESSIONE](https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH) | 2:24 |
-| 81 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 |
-| 82 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 |
+| 81 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 |
+| 82 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 |
 | 83 | [Ci siamo fatti male](https://open.spotify.com/track/4G1z4u0k5vMzR5hty607W4) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ci siamo fatti male](https://open.spotify.com/album/4mBTQIqHmeNUVMLypukh58) | 2:50 |
 | 84 | [Backstage](https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Gemini](https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK) | 3:00 |
 | 85 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 |
-| 86 | [Ho perso il cuore,](https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [non sto bene, va bene così](https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN) | 1:53 |
-| 87 | [Atlantico](https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Atlantico](https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb) | 3:16 |
+| 86 | [Atlantico](https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Atlantico](https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb) | 3:16 |
+| 87 | [Ho perso il cuore,](https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [non sto bene, va bene così](https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN) | 1:53 |
 | 88 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 |
 | 89 | [L'effetto che mi fai](https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [L'effetto che mi fai](https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx) | 2:54 |
 | 90 | [Devil May Cry](https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt) | [Devil May Cry](https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA) | 2:28 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 97 | [Dimmi se sbaglio](https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT) | [Bada1](https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Dimmi se sbaglio](https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh) | 2:15 |
 | 98 | [Ricordi](https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Amor proprio](https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08) | 1:49 |
 | 99 | [Palude 4](https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1) | [Blue Virus](https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn) | [Palude 4](https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu) | 3:33 |
-| 100 | [l'effetto finisce](https://open.spotify.com/track/2RAEvL5pOV0l7G0wRrF3AI) | [azael](https://open.spotify.com/artist/0ka5NilkDyElonlI22xaJk), [Thrilljard](https://open.spotify.com/artist/1hU5tCFqrPp0suz17uIC2t) | [Live.Survive.Die \(LSD\)](https://open.spotify.com/album/2qnHfYuTAwnAIdKDqiyDlB) | 2:03 |
+| 100 | [1Respiro](https://open.spotify.com/track/6CZ1kdM8FnERWwoI2bf891) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Puoi chiamare se hai paura](https://open.spotify.com/album/70xMEfj93xmLgby2fZcfuw) | 2:50 |
 
 Snapshot ID: `aHTPhgAAAADgh3bqbu8l9GohI6+YhvTB`

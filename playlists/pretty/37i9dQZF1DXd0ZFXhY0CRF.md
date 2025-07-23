@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > The women whose music and influence rock our world\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,563 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,599 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 42 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
 | 43 | [Choreomania](https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:33 |
 | 44 | [I Want You \(Fever\)](https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY) | 3:37 |
-| 45 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
-| 46 | [EAT ME \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 3:00 |
+| 45 | [EAT ME \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 3:00 |
+| 46 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
 | 47 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 |
 | 48 | [<maybe> it's my fault](https://open.spotify.com/track/5qMq8ITRVuTwqd2pDL0gff) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:39 |
 | 49 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 |
@@ -77,14 +77,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 67 | [Boom Boom Back](https://open.spotify.com/track/06xvZS1bsWS421A1Jz88vU) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [VIVA HINDS](https://open.spotify.com/album/4XQwD29zcKWF5TUKjYACaN) | 3:24 |
 | 68 | [Take Your Aim](https://open.spotify.com/track/0rDq4W12BQzwKYYuYP0EIj) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [Take Your Aim](https://open.spotify.com/album/3ZYRmGFXWmTHDu08QRPuM0) | 3:20 |
 | 69 | [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 |
-| 70 | [There's No Future In Optimism](https://open.spotify.com/track/6cNr04UeJaxfRXPjxWOt6U) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [There's No Future In Optimism](https://open.spotify.com/album/3kw1Gtzo54hTyF50BgLbXY) | 3:20 |
-| 71 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
+| 70 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
+| 71 | [There's No Future In Optimism](https://open.spotify.com/track/6cNr04UeJaxfRXPjxWOt6U) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [There's No Future In Optimism](https://open.spotify.com/album/3kw1Gtzo54hTyF50BgLbXY) | 3:20 |
 | 72 | [Soprano](https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Soprano](https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S) | 2:13 |
 | 73 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 |
 | 74 | [My House \- feat\. Courtney LaPlante](https://open.spotify.com/track/7wSVu2ZvscLgaHbS5g5m6o) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [My House \(feat\. Courtney LaPlante\)](https://open.spotify.com/album/542T5OevZIJxjdzZs5eBUC) | 4:03 |
 | 75 | [Never Said \- 2018 Remaster](https://open.spotify.com/track/1iOJzlWm2p8NOFYVHGGgq1) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Exile In Guyville \(2018 Remaster\)](https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd) | 3:16 |
-| 76 | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ) | 2:18 |
-| 77 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
+| 76 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
+| 77 | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ) | 2:18 |
 | 78 | [Tiny Screens](https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Tiny Screens](https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p) | 2:58 |
 | 79 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 |
 | 80 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |

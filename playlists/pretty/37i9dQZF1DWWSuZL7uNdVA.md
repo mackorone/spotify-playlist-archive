@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > Feu! Chatterton au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,846 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,780 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

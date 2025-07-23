@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,476 likes - 70 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,499 likes - 70 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 25 | [My Friend](https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 5:00 |
 | 26 | [Missing \- Todd Terry Remix / Radio Edit](https://open.spotify.com/track/1IsvXZXAV9EBC4hBKW6yDN) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Like The Deserts Miss The Rain](https://open.spotify.com/album/3fZbJRKdX4TAoC43xo5kWK) | 3:55 |
 | 27 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
-| 28 | [It Feels So Good](https://open.spotify.com/track/4Y8q64VnhD0vFYy9g2WFpi) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [Hear My Cry](https://open.spotify.com/album/4LX27S3cszKEJW84BGa1Ff) | 4:00 |
-| 29 | [Chase the Sun](https://open.spotify.com/track/2mkBHN67xLpHrpqOuj79Yz) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4) | [Non Zero Sumness Plus One](https://open.spotify.com/album/4DcIgdBbqm0Fqhmh5RcoCD) | 3:53 |
+| 28 | [Chase the Sun](https://open.spotify.com/track/2mkBHN67xLpHrpqOuj79Yz) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4) | [Non Zero Sumness Plus One](https://open.spotify.com/album/4DcIgdBbqm0Fqhmh5RcoCD) | 3:53 |
+| 29 | [It Feels So Good](https://open.spotify.com/track/4Y8q64VnhD0vFYy9g2WFpi) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [Hear My Cry](https://open.spotify.com/album/4LX27S3cszKEJW84BGa1Ff) | 4:00 |
 | 30 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 |
 | 31 | [HALCYON + ON + ON](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 |
 | 32 | [Rapture \(feat.Nadia Ali\)](https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Poetica \(feat\. Nadia Ali\)](https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD) | 4:13 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 46 | [Love Generation \- Radio Edit](https://open.spotify.com/track/77gYpyxmd4b4VXw6qeuPJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Love Generation](https://open.spotify.com/album/2SPdbgwHd6pgrS9yawBB5t) | 3:24 |
 | 47 | [Another Chance](https://open.spotify.com/track/08fMRujpKhEDTanKN9l2ud) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [First Contact](https://open.spotify.com/album/6qu9ns8pdYAWJphzLszkny) | 7:32 |
 | 48 | [Baby](https://open.spotify.com/track/0wPfUQUkWcguy2iUH0BWOT) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 4:24 |
-| 49 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 |
-| 50 | [Angelica](https://open.spotify.com/track/5Rq2hPEd7UWN6i9tME54dj) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Between Darkness And Wonder](https://open.spotify.com/album/12xoI77eWPK0YfDNRMbEqW) | 3:40 |
-| 51 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 |
+| 49 | [Angelica](https://open.spotify.com/track/5Rq2hPEd7UWN6i9tME54dj) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Between Darkness And Wonder](https://open.spotify.com/album/12xoI77eWPK0YfDNRMbEqW) | 3:40 |
+| 50 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 |
+| 51 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 |
 | 52 | [Hold On](https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:26 |
 | 53 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
 | 54 | [Suntoucher](https://open.spotify.com/track/4OUvfa7eO5jvFMIMOU7MTb) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 6:31 |

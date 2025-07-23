@@ -175,6 +175,36 @@
     },
     {
       "album": {
+        "name": "Le Voix Du Siecle",
+        "url": "https://open.spotify.com/album/0H1PsPlrPBxHYAc1TPwxCV"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335026,
+      "name": "Bellini: Norma, Act 1: \"Casta diva\"",
+      "url": "https://open.spotify.com/track/15pfl9g6vOv08WBAisG3f6"
+    },
+    {
+      "album": {
         "name": "Maria Callas Sings Bellini",
         "url": "https://open.spotify.com/album/7LCvvDCTAmPwwQppFXmRRE"
       },
@@ -1268,7 +1298,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 339666,
       "name": "Norma (1997 Digital Remaster): Casta Diva",
       "url": "https://open.spotify.com/track/1pqGcNI8H5i3yySTNCrD7d"

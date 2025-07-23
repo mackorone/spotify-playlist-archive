@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,172 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,188 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 40 | [Wherever is Your Heart](https://open.spotify.com/track/1kiWXhS6AMJOtU4DPUh0mq) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:50 |
 | 41 | [Letter To The Past](https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:40 |
 | 42 | [Never Too Late](https://open.spotify.com/track/22Gzjt7PRJdAVz1tnJVYPZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 3:36 |
-| 43 | [Whatever You Do](https://open.spotify.com/track/1PnLCvelHE8KgGmVva5rcY) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:07 |
-| 44 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 |
+| 43 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 |
+| 44 | [Whatever You Do](https://open.spotify.com/track/1PnLCvelHE8KgGmVva5rcY) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:07 |
 | 45 | [Forever Young \- Live at Benaroya Hall, Seattle, WA \- November 2010](https://open.spotify.com/track/4o8k0A5ZB6WybwgCnn77ox) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Seattle Symphony Orchestra](https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb) | [Live At Benaroya Hall with The Seattle Symphony](https://open.spotify.com/album/7jKJ68WplsoCCnbpKUXiV8) | 4:46 |
 | 46 | [Little Richard’s Bible](https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o) | 2:59 |
 | 47 | [Angel From Montgomery](https://open.spotify.com/track/5cXqZHyuESB0haAwRm2SLV) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Cayamo Sessions At Sea](https://open.spotify.com/album/0yqCt53npFro8Zj47FXO0o) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [Hold On](https://open.spotify.com/track/2AmvFn1VALA0VM1toWubEN) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14), [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Hold On](https://open.spotify.com/album/5OF5fVkkIWWOvn2Xdat10i) | 3:29 |
 | 50 | [Old Soul](https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 5:45 |
 
-Snapshot ID: `aHwxgAAAAAC47m9AFfh6CXoWPS5QGDyr`
+Snapshot ID: `aH2DAAAAAACIfeugw92nCyP1+WpzI0nJ`

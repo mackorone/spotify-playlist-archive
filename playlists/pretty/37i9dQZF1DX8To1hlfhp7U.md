@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,983 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,998 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 38 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 |
 | 39 | [Sang Maar Gayi](https://open.spotify.com/track/4kKwMfSZyjiJyAPNWCDJed) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Sang Maar Gayi](https://open.spotify.com/album/6GXO46JpbsnaAAqw1VFmBo) | 2:58 |
 | 40 | [Nachan Nu Jee Karda \(From "Angrezi Medium"\)](https://open.spotify.com/track/2zQeAeH3q0K7U2AWEcVOsF) | [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Tigerstyle](https://open.spotify.com/artist/5DPXmKUA7F5ZKDNww9jWIS) | [Nachan Nu Jee Karda \(From "Angrezi Medium"\)](https://open.spotify.com/album/0GrVV09R7votIjQBpBLwLC) | 2:47 |
-| 41 | [She Don't Know \(From "She Don't Know"\)](https://open.spotify.com/track/23dCPIMivfUQwUPSeDSUPc) | [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [She Don't Know \(From "Blessed"\)](https://open.spotify.com/album/0vomvwmwqw7puUfnwVWjsf) | 3:23 |
-| 42 | [High Rated Gabru](https://open.spotify.com/track/60uVumQU74E83X5dbLHKhN) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Manj Musik](https://open.spotify.com/artist/7IVzXMMN7fFi7PXxPhXcAB) | [High Rated Gabru](https://open.spotify.com/album/6S1g0Jx3X8AWKopRZJsgBb) | 3:33 |
+| 41 | [High Rated Gabru](https://open.spotify.com/track/60uVumQU74E83X5dbLHKhN) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Manj Musik](https://open.spotify.com/artist/7IVzXMMN7fFi7PXxPhXcAB) | [High Rated Gabru](https://open.spotify.com/album/6S1g0Jx3X8AWKopRZJsgBb) | 3:33 |
+| 42 | [She Don't Know \(From "She Don't Know"\)](https://open.spotify.com/track/23dCPIMivfUQwUPSeDSUPc) | [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [She Don't Know \(From "Blessed"\)](https://open.spotify.com/album/0vomvwmwqw7puUfnwVWjsf) | 3:23 |
 | 43 | [Black & White](https://open.spotify.com/track/5wiSbeDm2p5yniuus7eH4J) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:46 |
 | 44 | [Lamberghini](https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini](https://open.spotify.com/artist/4aKee88VYIQpk7cOJGVwmO) | [Lamberghini \- Single](https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF) | 3:36 |
 | 45 | [Pyaar Tenu Karda Gabru \(From "Shubh Mangal Zyada Saavdhan"\)](https://open.spotify.com/track/0OcVZqIer0LLu3K8sdU5Yb) | [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Pyaar Tenu Karda Gabru \(From "Shubh Mangal Zyada Saavdhan"\)](https://open.spotify.com/album/4FSDkGEXFPKgmrnxHNvp2Y) | 2:45 |

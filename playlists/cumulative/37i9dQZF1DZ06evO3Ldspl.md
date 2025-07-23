@@ -4,13 +4,14 @@
 
 > This is Binomio de Oro\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 45 min
+81 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mano Dura](https://open.spotify.com/track/0NLKxo7am9HmdtjrndiKJL) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Mucha Calidad](https://open.spotify.com/album/2uW4TXsdJu4EmTVGaql57E) | 4:34 | 2022-12-16 |  |
 | [A Ritmo Cha Cun Cha](https://open.spotify.com/track/3k4G0p5ERmsX7kF0SyJ7fy) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Por Siempre](https://open.spotify.com/album/4gqisRMcza9F6WHiN2jtff) | 4:08 | 2022-12-16 |  |
 | [Acéptame Como Soy](https://open.spotify.com/track/4erN5dF9fvpx3r9NrE3rpT) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Somos El Vallenato](https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr) | 4:26 | 2025-02-28 |  |
+| [Amor, Amor](https://open.spotify.com/track/7JtAMIrJ5N5euvoJKtsWbr) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:17 | 2025-07-23 |  |
 | [Aquí Está Tu Enamorado](https://open.spotify.com/track/6JuInQ090qaSJaoDYbjqPA) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Fiesta Con El Binomio De Oro](https://open.spotify.com/album/76WWdL5GKIAP7OiSCCOeOy) | 4:27 | 2022-12-16 | 2023-12-14 |
 | [Añoranzas](https://open.spotify.com/track/1yOTHafP8PK3lcWrql9Ttq) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:10 | 2022-12-16 |  |
 | [Bonito el Amor](https://open.spotify.com/track/645SskqLGx37W032CtCu2b) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 4:22 | 2022-12-16 | 2024-03-02 |
@@ -34,7 +35,7 @@
 | [El Llanto de un Rey](https://open.spotify.com/track/1UO7KVq6QhNG5SxfwaLmyg) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 5:16 | 2022-12-16 |  |
 | [El Parrandón](https://open.spotify.com/track/4nuwqjZtTdml3gAVEIFPUp) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Somos El Vallenato](https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr) | 5:02 | 2022-12-16 |  |
 | [Enamorado Como Siempre](https://open.spotify.com/track/0pl5KdLqr8MSolKgtbuUvg) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Enamorado Como Siempre](https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z) | 3:32 | 2024-07-03 | 2025-03-18 |
-| [Enamorado De Ti](https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 5:11 | 2022-12-16 |  |
+| [Enamorado De Ti](https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 5:11 | 2022-12-16 | 2025-07-23 |
 | [Esa](https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Festival Vallenato](https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi) | 3:51 | 2022-12-16 |  |
 | [Estar Enamorado](https://open.spotify.com/track/6iFBpJWQqo8Vv9HV6No2Rf) | [Rafael Orozco](https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8), [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los 30 Mejores](https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS) | 5:17 | 2024-08-03 |  |
 | [Eterno Enamorado](https://open.spotify.com/track/21Sh1SFlSoMqE4evvJOnQl) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:26 | 2022-12-16 | 2025-07-17 |

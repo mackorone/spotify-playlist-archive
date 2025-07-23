@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechni si ženy z Česka a Slovenska na plný pecky! Cover: THERA
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,289 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,294 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

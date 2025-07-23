@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: La Polla.",
-  "num_followers": 112459,
+  "num_followers": 112464,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-07-17 15:45:51",
       "album": {
-        "name": "A Bocajarro + Sopla Sopla",
-        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
-      },
-      "artists": [
-        {
-          "name": "Tijuana in blue",
-          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
-        }
-      ],
-      "duration_ms": 289367,
-      "name": "Maki Navaja, El \u00daltimo Chorisso",
-      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
-    },
-    {
-      "added_at": "2025-07-17 15:45:51",
-      "album": {
         "name": "Ahora soy un punkarra",
         "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 144944,
       "name": "Ahora soy un punkarra",
       "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
+    },
+    {
+      "added_at": "2025-07-17 15:45:51",
+      "album": {
+        "name": "A Bocajarro + Sopla Sopla",
+        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
+      },
+      "artists": [
+        {
+          "name": "Tijuana in blue",
+          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
+        }
+      ],
+      "duration_ms": 289367,
+      "name": "Maki Navaja, El \u00daltimo Chorisso",
+      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
     },
     {
       "added_at": "2025-07-17 15:45:51",
@@ -831,38 +831,6 @@
     {
       "added_at": "2025-07-17 15:45:51",
       "album": {
-        "name": "Molestar",
-        "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 158074,
-      "name": "Molestar",
-      "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
-    },
-    {
-      "added_at": "2025-07-17 15:45:51",
-      "album": {
-        "name": "No Olvidamos, 3 de Marzo - Single",
-        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "No Olvidamos, 3 de Marzo",
-      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
-    },
-    {
-      "added_at": "2025-07-17 15:45:51",
-      "album": {
         "name": "Una y Nos Vamos (Versi\u00f3n 2024)",
         "url": "https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK"
       },
@@ -887,18 +855,34 @@
     {
       "added_at": "2025-07-17 15:45:51",
       "album": {
-        "name": "Punk Latino Vol. 1",
-        "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
+        "name": "No Olvidamos, 3 de Marzo - Single",
+        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
       },
       "artists": [
         {
-          "name": "La Polla",
-          "url": "https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J"
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
         }
       ],
-      "duration_ms": 266733,
-      "name": "Ellos Dicen Mierda (Live)",
-      "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
+      "duration_ms": 231593,
+      "name": "No Olvidamos, 3 de Marzo",
+      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
+    },
+    {
+      "added_at": "2025-07-17 15:45:51",
+      "album": {
+        "name": "Molestar",
+        "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 158074,
+      "name": "Molestar",
+      "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
     },
     {
       "added_at": "2025-07-17 15:45:51",
@@ -939,6 +923,22 @@
       "duration_ms": 142171,
       "name": "Blasfemia",
       "url": "https://open.spotify.com/track/133UobBv6GGvg39faYqIEf"
+    },
+    {
+      "added_at": "2025-07-17 15:45:51",
+      "album": {
+        "name": "Punk Latino Vol. 1",
+        "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
+      },
+      "artists": [
+        {
+          "name": "La Polla",
+          "url": "https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "Ellos Dicen Mierda (Live)",
+      "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
     },
     {
       "added_at": "2025-07-17 15:45:51",
@@ -987,18 +987,18 @@
     {
       "added_at": "2025-07-17 15:45:51",
       "album": {
-        "name": "Los Monstruos Existen de Verdad",
-        "url": "https://open.spotify.com/album/0h6GRyOM2KewgA4nIRWJQ8"
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
       "artists": [
         {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
         }
       ],
-      "duration_ms": 295565,
-      "name": "Los Monstruos Existen de Verdad",
-      "url": "https://open.spotify.com/track/6VHQ2vLiu7twSNzeHsOuFg"
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
     },
     {
       "added_at": "2025-07-17 15:45:51",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2025-07-17 15:45:51",
       "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+        "name": "Los Monstruos Existen de Verdad",
+        "url": "https://open.spotify.com/album/0h6GRyOM2KewgA4nIRWJQ8"
       },
       "artists": [
         {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
         }
       ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+      "duration_ms": 295565,
+      "name": "Los Monstruos Existen de Verdad",
+      "url": "https://open.spotify.com/track/6VHQ2vLiu7twSNzeHsOuFg"
     },
     {
       "added_at": "2025-07-17 15:45:51",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-07-17 15:45:51",
       "album": {
-        "name": "Amar Mata (Remasterizado 2024)",
-        "url": "https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP"
-      },
-      "artists": [
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
-        }
-      ],
-      "duration_ms": 184262,
-      "name": "Amar Mata - Remasterizado 2024",
-      "url": "https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu"
-    },
-    {
-      "added_at": "2025-07-17 15:45:51",
-      "album": {
         "name": "Asesinos",
         "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 176117,
       "name": "Asesinos",
       "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+    },
+    {
+      "added_at": "2025-07-17 15:45:51",
+      "album": {
+        "name": "Amar Mata (Remasterizado 2024)",
+        "url": "https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "duration_ms": 184262,
+      "name": "Amar Mata - Remasterizado 2024",
+      "url": "https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu"
     },
     {
       "added_at": "2025-07-17 15:45:51",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-07-17 15:45:51",
       "album": {
-        "name": "Millones de Ojos Brillantes",
-        "url": "https://open.spotify.com/album/2Je8h40FWv1MFpufjGOwjt"
-      },
-      "artists": [
-        {
-          "name": "V\u00f3mito",
-          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Millones de Ojos Brillantes",
-      "url": "https://open.spotify.com/track/4OXw1oU2FBVDD1T5GKIUb6"
-    },
-    {
-      "added_at": "2025-07-17 15:45:51",
-      "album": {
         "name": "Con Rabia, Con Ira",
         "url": "https://open.spotify.com/album/1hwEngSxBB59Rd3NohKLjS"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 220000,
       "name": "Con Rabia, Con Ira",
       "url": "https://open.spotify.com/track/01GNX1UmJQjyLEQOGcE4QS"
+    },
+    {
+      "added_at": "2025-07-17 15:45:51",
+      "album": {
+        "name": "Millones de Ojos Brillantes",
+        "url": "https://open.spotify.com/album/2Je8h40FWv1MFpufjGOwjt"
+      },
+      "artists": [
+        {
+          "name": "V\u00f3mito",
+          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Millones de Ojos Brillantes",
+      "url": "https://open.spotify.com/track/4OXw1oU2FBVDD1T5GKIUb6"
     },
     {
       "added_at": "2025-07-17 15:45:51",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-07-17 15:45:51",
       "album": {
-        "name": "Genocidio",
-        "url": "https://open.spotify.com/album/0pkJfaEvGSGgpU865gTXs7"
-      },
-      "artists": [
-        {
-          "name": "Azero",
-          "url": "https://open.spotify.com/artist/6WdJZBDLtj4C4TfttPfVBK"
-        }
-      ],
-      "duration_ms": 269426,
-      "name": "Genocidio",
-      "url": "https://open.spotify.com/track/14bdmFUfm8L5ynieJ1Efy1"
-    },
-    {
-      "added_at": "2025-07-17 15:45:51",
-      "album": {
         "name": "Nunca M\u00e1s",
         "url": "https://open.spotify.com/album/0Gqw1ocHw6eZCdQ8EoRzzS"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 158986,
       "name": "Nunca M\u00e1s",
       "url": "https://open.spotify.com/track/76GV55TWYohghcdNIutMVT"
+    },
+    {
+      "added_at": "2025-07-17 15:45:51",
+      "album": {
+        "name": "Genocidio",
+        "url": "https://open.spotify.com/album/0pkJfaEvGSGgpU865gTXs7"
+      },
+      "artists": [
+        {
+          "name": "Azero",
+          "url": "https://open.spotify.com/artist/6WdJZBDLtj4C4TfttPfVBK"
+        }
+      ],
+      "duration_ms": 269426,
+      "name": "Genocidio",
+      "url": "https://open.spotify.com/track/14bdmFUfm8L5ynieJ1Efy1"
     },
     {
       "added_at": "2025-07-17 15:45:51",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-07-17 15:45:51",
       "album": {
-        "name": "Preso",
-        "url": "https://open.spotify.com/album/6s0eUzUmgVhN4xkyUwk5F2"
-      },
-      "artists": [
-        {
-          "name": "En Vano",
-          "url": "https://open.spotify.com/artist/6D7YCAhBO7dD77ld8CkbDc"
-        }
-      ],
-      "duration_ms": 219834,
-      "name": "Preso",
-      "url": "https://open.spotify.com/track/5Kwgfdhm7ZG4F1KrRIdHMu"
-    },
-    {
-      "added_at": "2025-07-17 15:45:51",
-      "album": {
         "name": "\u00a1A Currar!",
         "url": "https://open.spotify.com/album/23MV6U6MYgY2APssyGgJCe"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2025-07-17 15:45:51",
       "album": {
-        "name": "Nada es Suficiente",
-        "url": "https://open.spotify.com/album/2NhOhtZPrHXlMrT38vMyvA"
+        "name": "Preso",
+        "url": "https://open.spotify.com/album/6s0eUzUmgVhN4xkyUwk5F2"
       },
       "artists": [
         {
-          "name": "V\u00f3mito",
-          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
+          "name": "En Vano",
+          "url": "https://open.spotify.com/artist/6D7YCAhBO7dD77ld8CkbDc"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Nada es Suficiente",
-      "url": "https://open.spotify.com/track/2rZmxb5wBFO7kxJ54IjqGL"
+      "duration_ms": 219834,
+      "name": "Preso",
+      "url": "https://open.spotify.com/track/5Kwgfdhm7ZG4F1KrRIdHMu"
     },
     {
       "added_at": "2025-07-17 15:45:51",
@@ -1379,6 +1363,22 @@
       "duration_ms": 155648,
       "name": "A Pecho Partido",
       "url": "https://open.spotify.com/track/2qN7AFqkwWR2Iznii0m3IZ"
+    },
+    {
+      "added_at": "2025-07-17 15:45:51",
+      "album": {
+        "name": "Nada es Suficiente",
+        "url": "https://open.spotify.com/album/2NhOhtZPrHXlMrT38vMyvA"
+      },
+      "artists": [
+        {
+          "name": "V\u00f3mito",
+          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Nada es Suficiente",
+      "url": "https://open.spotify.com/track/2rZmxb5wBFO7kxJ54IjqGL"
     },
     {
       "added_at": "2025-07-17 15:45:51",

@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 96636,
+  "num_followers": 96753,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,26 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 181606,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
         "name": "99 (feat. Daecolm)",
         "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 248832,
       "name": "99 (feat. Daecolm)",
       "url": "https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 181606,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -355,18 +355,18 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "WHY LOVE",
-        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 210000,
-      "name": "WHY LOVE",
-      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
+      "duration_ms": 172736,
+      "name": "Jies",
+      "url": "https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
+        "name": "WHY LOVE",
+        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "WHY LOVE",
+      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 174253,
       "name": "Bad Girl (feat. Asake)",
       "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 172736,
-      "name": "Jies",
-      "url": "https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "My Amigo",
-        "url": "https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 160043,
-      "name": "My Amigo",
-      "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
         "name": "Escaladizzy",
         "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 164745,
       "name": "Escaladizzy",
       "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "My Amigo",
+        "url": "https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 160043,
+      "name": "My Amigo",
+      "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -631,42 +631,6 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "Sweet",
-        "url": "https://open.spotify.com/album/08MZ91zt5s5BXOnsgVDmhm"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/2aisLWyo4vnIsh7yJHweaN"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
-        "name": "Your Type",
-        "url": "https://open.spotify.com/album/0JnOKecWNZfS56QQMYYp5k"
-      },
-      "artists": [
-        {
-          "name": "Guchi",
-          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Your Type",
-      "url": "https://open.spotify.com/track/11jGNXZHEsZfknf2fNUNXg"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
         "name": "Funds (feat. ODUMODUBLVCK & Chike)",
         "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
       },
@@ -687,6 +651,42 @@
       "duration_ms": 206948,
       "name": "Funds (feat. ODUMODUBLVCK & Chike)",
       "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "Your Type",
+        "url": "https://open.spotify.com/album/0JnOKecWNZfS56QQMYYp5k"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Your Type",
+      "url": "https://open.spotify.com/track/11jGNXZHEsZfknf2fNUNXg"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/08MZ91zt5s5BXOnsgVDmhm"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/2aisLWyo4vnIsh7yJHweaN"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 142758,
-      "name": "Most Wanted",
-      "url": "https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
         "name": "For Where?",
         "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 113454,
       "name": "For Where?",
       "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "Most Wanted",
+      "url": "https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq"
     },
     {
       "added_at": "2025-07-18 00:01:20",

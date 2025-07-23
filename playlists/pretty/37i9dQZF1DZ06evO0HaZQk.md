@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 
 > This is Natalia Lafourcade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,667 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,693 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 27 | [LA NIEBLA](https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:31 |
 | 28 | [Alma Mía \(feat\. Los Macorinos\)](https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 4:19 |
 | 29 | [Tú Me Acostumbraste \(feat\. Omara Portuondo & Los Macorinos\)](https://open.spotify.com/track/1rwrlXpk1XqdzHfCHKnJa1) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 3:08 |
-| 30 | [Remember Me \(Dúo\)](https://open.spotify.com/track/3pCgIUkmRHKydu9HE03QKY) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:44 |
-| 31 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3Riytw4egMe357gWrANdAr) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3) | 3:34 |
+| 30 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3Riytw4egMe357gWrANdAr) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3) | 3:34 |
+| 31 | [Remember Me \(Dúo\)](https://open.spotify.com/track/3pCgIUkmRHKydu9HE03QKY) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:44 |
 | 32 | [Mi Corazón](https://open.spotify.com/track/4WKwqrYOcAbUlmmVQjZo2U) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Película Muda, Pt\. 1](https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc) | 4:24 |
 | 33 | [Que la Vida Vale](https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Que la Vida Vale](https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J) | 3:10 |
 | 34 | [Caminar bonito](https://open.spotify.com/track/6YnvENj0TdekZctNH1LiFQ) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 49 | [Viviré para Ti \(feat\. Natalia Lafourcade\) \- Versión Acústica](https://open.spotify.com/track/7mPgkn14P7Ts2hB62XmgtT) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Amigos Invisibles, Acústico](https://open.spotify.com/album/0Q9wBe7VRzVzfZDw0oTZhG) | 3:56 |
 | 50 | [Lo Que Construimos](https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Lo Que Construimos](https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M) | 3:28 |
 
-Snapshot ID: `aHwxgAAAAAAwTOYjhj7K2kQpNN6J0MaF`
+Snapshot ID: `aH2DAAAAAAAOgKsuoy3+Rp7A/hplnAzs`

@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/which\-\_\_\_\_\_\_\-summer\-are\-you\-having">Check out our June newsletter!</a> Cover: After
 
-3,447 songs - 7 day 20 hr 2 min
+3,449 songs - 7 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2213,6 +2213,7 @@
 | [ONE IN A MILLION](https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:14 | 2022-04-15 | 2022-08-19 |
 | [One Of Those Days \(feat\. Lil Yachty & with 347aidan\)](https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [One Of Those Days \(feat\. Lil Yachty & with 347aidan\)](https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL) | 2:27 | 2023-02-22 | 2023-04-15 |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-10-13 | 2024-01-11 |
+| [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:42 | 2025-07-22 |  |
 | [One Trick Pony](https://open.spotify.com/track/12EVjWV5YBZ4kCLa1XQPnb) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [One Trick Pony](https://open.spotify.com/album/1KhofP4ipotqMjlrfpjDnk) | 3:00 | 2024-08-30 | 2025-01-18 |
 | [Online](https://open.spotify.com/track/4kGayPS8mNhWPZn65K7mJH) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Sideline Star](https://open.spotify.com/album/6EyXcFKu0dmDeGqw1ABxOm) | 2:47 | 2019-10-25 | 2019-11-14 |
 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 | 2022-05-31 | 2022-07-02 |
@@ -2728,6 +2729,7 @@
 | [Something in the way you move](https://open.spotify.com/track/6i4QWDj0FaZq0DNlzDOEBc) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Something in the way you move](https://open.spotify.com/album/4KiagNACvTlWB1tu0sONBK) | 4:59 | 2025-05-16 |  |
 | [Sometimes \- From "Fire Island"](https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Sometimes \(From "Fire Island"\)](https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE) | 3:03 | 2022-06-03 | 2022-06-16 |
 | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm) | 3:03 | 2020-07-31 | 2020-08-21 |
+| [Somewhere in Between](https://open.spotify.com/track/2eZqr5eoqJjV3RtQhzMEmz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Somewhere in Between](https://open.spotify.com/album/40qgvmv0umdBKkDBMdhlb2) | 3:23 | 2025-07-22 |  |
 | [Somewhere in the Universe](https://open.spotify.com/track/2sLAKUdiwa7Ik8XY2ow3DE) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I'm Sorry I'm Like This](https://open.spotify.com/album/1nOZaGSuVtIR43XewW6nEU) | 1:40 | 2022-12-22 | 2023-02-16 |
 | [Song Our Time Creates](https://open.spotify.com/track/0QG21CLtF87VwuNhpMIPs6) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [Song Our Time Creates](https://open.spotify.com/album/3V0eSYhvwllviRLZOVIYUM) | 3:34 | 2020-10-30 | 2020-12-23 |
 | [Sonshine](https://open.spotify.com/track/0dZpFYIK9h1Wwwq6VEcqQq) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Sonshine](https://open.spotify.com/album/4Xwyk1UnlDe8Mihp9UgED6) | 2:52 | 2019-07-30\* | 2019-10-11 |

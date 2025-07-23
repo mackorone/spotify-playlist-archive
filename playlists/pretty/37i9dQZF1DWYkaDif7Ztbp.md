@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: Kabza de Small
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,688,799 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,688,924 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 41 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 |
 | 42 | [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 |
 | 43 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/3eRaxLLhyYHKr8oiR6NeYI) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/7LKevxlgs3jILWLe8VQlmW) | 3:04 |
-| 44 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
+| 44 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
 | 45 | [Very Soon](https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Very Soon](https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc) | 2:17 |
 | 46 | [Katam \(feat\. Bien\)](https://open.spotify.com/track/4MGtTXaggDrYal3andtYxP) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Katam \(feat\. Bien\)](https://open.spotify.com/album/2yRuZcR1TDAY2oFyLs6vHf) | 4:05 |
 | 47 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 |

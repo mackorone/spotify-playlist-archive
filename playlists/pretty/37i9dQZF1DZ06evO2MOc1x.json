@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAADKj+zYAdT7+7zN0OnEMciE",
+  "snapshot_id": "aH2DAAAAAAD1ZCDeOm8p50lwqT0HhFcf",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Longing In Their Hearts",
-        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0gvmmdReQ6mZ9fVFiRaLOZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genius Loves Company",
         "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
       },
@@ -195,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Longing In Their Hearts",
+        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0gvmmdReQ6mZ9fVFiRaLOZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -211,42 +211,6 @@
       "duration_ms": 241493,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Call It Home, Vol. 1",
-        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 248080,
-      "name": "Call It Home",
-      "url": "https://open.spotify.com/track/4EN9iaFnuzHQRDZwNt8fpM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Longing In Their Hearts",
-        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Dimming Of The Day",
-      "url": "https://open.spotify.com/track/3g3ngs81nNMZn6kW1BA8Hs"
     },
     {
       "added_at": null,
@@ -295,6 +259,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Call It Home, Vol. 1",
+        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 248080,
+      "name": "Call It Home",
+      "url": "https://open.spotify.com/track/4EN9iaFnuzHQRDZwNt8fpM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Longing In Their Hearts",
+        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Dimming Of The Day",
+      "url": "https://open.spotify.com/track/3g3ngs81nNMZn6kW1BA8Hs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -307,22 +307,6 @@
       "duration_ms": 220880,
       "name": "Made Up Mind",
       "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Thing Called Love",
-      "url": "https://open.spotify.com/track/3g6lXYay6mqmtFmjzSYr66"
     },
     {
       "added_at": null,
@@ -343,6 +327,22 @@
       "duration_ms": 256665,
       "name": "Angel from Montgomery - Live",
       "url": "https://open.spotify.com/track/4iFaAIBihFXWZ4hiLLASWV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Thing Called Love",
+      "url": "https://open.spotify.com/track/3g6lXYay6mqmtFmjzSYr66"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 327760,
+      "name": "Right Down The Line",
+      "url": "https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 223133,
       "name": "You've Been in Love Too Long - 2008 Remaster",
       "url": "https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slipstream",
-        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 327760,
-      "name": "Right Down The Line",
-      "url": "https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 244560,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 165000,
       "name": "Louise - 2008 Remaster",
       "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 244560,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Papa Come Quick (Jody And Chico)",
-      "url": "https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 218960,
       "name": "I Will Not Be Broken",
       "url": "https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "Papa Come Quick (Jody And Chico)",
+      "url": "https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4"
     },
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        },
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 309040,
-      "name": "Live Wire",
-      "url": "https://open.spotify.com/track/39YLkuJY39HjEtw1dgdptd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
       },
@@ -827,6 +803,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 309040,
+      "name": "Live Wire",
+      "url": "https://open.spotify.com/track/39YLkuJY39HjEtw1dgdptd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best Of Bonnie Raitt On Capitol 1989-2003",
         "url": "https://open.spotify.com/album/1FV3yQh4QovuCGWqJuRdl4"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Since I Fell for You - 2008 Remaster",
-      "url": "https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Longing In Their Hearts",
         "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 221626,
       "name": "Love Sneakin' Up On You",
       "url": "https://open.spotify.com/track/5GzhOU3ABPksBqLdjortcG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Since I Fell for You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz"
     },
     {
       "added_at": null,

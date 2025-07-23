@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,610 likes - 44 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,806 likes - 44 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 43 | [La Mas Bonita De Todas](https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 3:29 |
 | 44 | [Te Vi Con Él](https://open.spotify.com/track/3pLvf1cD0QOQ6b8JaU6l4t) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Te Vi Con Él](https://open.spotify.com/album/54ZF7BXU10BXqefAZYaWUY) | 3:07 |
 
-Snapshot ID: `aHwxgAAAAAAKI4kyvyDTs70oMzixx0BY`
+Snapshot ID: `aH2DAAAAAAAJ43a7I+UssDQ8Dier2SXq`

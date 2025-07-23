@@ -722,6 +722,24 @@
     {
       "album": {
         "name": "Second Nature",
+        "url": "https://open.spotify.com/album/0SUfKH80GjuKbA5dTWSwkh"
+      },
+      "artists": [
+        {
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/08X9HjCRhcX6in0wiNXIsF"
+    },
+    {
+      "album": {
+        "name": "Second Nature",
         "url": "https://open.spotify.com/album/265qYIYPxwGIkeGPfuFFBU"
       },
       "artists": [
@@ -732,7 +750,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 200000,
       "name": "Float",
       "url": "https://open.spotify.com/track/3yrb5TaPw3RZLc1e7lxcjS"

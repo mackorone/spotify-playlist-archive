@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > Oualid on the cover of Habibi Gang Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,876 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,895 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 73 | [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 |
 | 74 | [Moutou Bsem](https://open.spotify.com/track/4xyMI0k4zyWXN8oNui3Xhg) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Moutou Bsem](https://open.spotify.com/album/6anhHh6CZ2YqX3d9Sz11BA) | 2:30 |
 | 75 | [Biba Lik](https://open.spotify.com/track/0xCCEI4yTTaaTI49eQjlc7) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Biba Lik](https://open.spotify.com/album/6rYWKDsT3UEg5dSRt2TeD4) | 2:06 |
-| 76 | [Triq Salama](https://open.spotify.com/track/4Z9koEpZf88mBXSoeV5aPO) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Triq Salama](https://open.spotify.com/album/3Z1THnQmX5vP8riVMtjDSp) | 2:22 |
-| 77 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 |
+| 76 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 |
+| 77 | [Triq Salama](https://open.spotify.com/track/4Z9koEpZf88mBXSoeV5aPO) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Triq Salama](https://open.spotify.com/album/3Z1THnQmX5vP8riVMtjDSp) | 2:22 |
 | 78 | [Amour De Ma Vie \(Nmout 3liek\)](https://open.spotify.com/track/6ot0Ttc1m1nw5z4Tipggk9) | [Roukss](https://open.spotify.com/artist/4L3YwGjW2Hq8Ar7LWCno0o) | [Amour De Ma Vie \(Nmout 3liek\)](https://open.spotify.com/album/0TaXS9dzvNl05NN9XdGCxV) | 2:00 |
 | 79 | [Lik Ou Lia](https://open.spotify.com/track/2snEwuyP4QCZC5y97R67hb) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Lik Ou Lia](https://open.spotify.com/album/5hYp2FUgUepi7Ekm7NKfI5) | 2:18 |
 | 80 | [Ma Beauté](https://open.spotify.com/track/5LUoVGfKb1eYwVvAIB1RxB) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Ma Beauté](https://open.spotify.com/album/20ADCU0OoQzdlPylKnGepx) | 3:01 |

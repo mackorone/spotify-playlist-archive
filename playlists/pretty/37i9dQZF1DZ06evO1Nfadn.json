@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 34193,
+  "num_followers": 34211,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAALQNn2fuC76Z5TRQIGiG+A",
+  "snapshot_id": "aH2DAAAAAAB4pg5joonteCHpUzgFRdTP",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Toro Pinto",
-        "url": "https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 211306,
-      "name": "El Toro Pinto",
-      "url": "https://open.spotify.com/track/1Bintm3VasQng30o97U9D3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exitos En Vivo",
         "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 162400,
       "name": "Los Hombres No Deben Llorar - Live Version",
       "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Toro Pinto",
+        "url": "https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 211306,
+      "name": "El Toro Pinto",
+      "url": "https://open.spotify.com/track/1Bintm3VasQng30o97U9D3"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 153093,
-      "name": "El Avestruz",
-      "url": "https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lagrimas De Sangre",
         "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 161560,
       "name": "Lagrimas de Sangre",
       "url": "https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153093,
+      "name": "El Avestruz",
+      "url": "https://open.spotify.com/track/2BY17snH63VMOiliE0wKdb"
     },
     {
       "added_at": null,

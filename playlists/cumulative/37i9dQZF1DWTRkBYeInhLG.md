@@ -4,7 +4,7 @@
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-216 songs - 14 hr 14 min
+217 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Menghapus Jejakmu](https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Rejoz The GROOVE](https://open.spotify.com/artist/1KRNLbbne7RT6ts0SK9lOv), [Rejoz](https://open.spotify.com/artist/3dvTOKbRcDZ1xQ1b4bN8F9) | [Menghapus Jejakmu](https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq) | 3:02 | 2023-07-06 |  |
 | [Menghujam Jantungku](https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [My Happy Life](https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe) | 3:33 | 2022-12-14 |  |
 | [Mentari](https://open.spotify.com/track/5eNHBdWLzOYb7POOkmWxBh) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Mentari](https://open.spotify.com/album/2LCBCG49sK8tSwX8RCLRwd) | 4:08 | 2023-06-23 | 2023-08-03 |
+| [Menunggu Kamu \- OST Jelita Sejuba](https://open.spotify.com/track/5LP6x0DRwi69MGAYen999y) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Menunggu Kamu \- OST Jelita Sejuba](https://open.spotify.com/album/44CfF0k71uyqaIuegQo34v) | 3:49 | 2025-06-16 |  |
 | [Mesin Waktu](https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Mesin Waktu](https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy) | 4:22 | 2022-12-14 |  |
 | [Muara](https://open.spotify.com/track/4lCtZZktwgQqzCoJxK3ZxR) | [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC) | [Muara](https://open.spotify.com/album/45nwYGZMMBIXEKl1SUzYMj) | 4:01 | 2025-05-06 | 2025-05-11 |
 | [Nanti Kita Seperti Ini](https://open.spotify.com/track/2NjbJR8y083mOV59255QSe) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Nanti Kita Seperti Ini](https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT) | 3:29 | 2023-01-09 |  |
@@ -168,7 +169,7 @@
 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 | 2022-12-14 |  |
 | [say you're done with me](https://open.spotify.com/track/3M3CQFX5Q9dEaauR5dMtku) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [say you're done with me](https://open.spotify.com/album/4fbZtfYUFeESZmfaifPXE0) | 3:49 | 2022-12-14 | 2023-05-02 |
 | [Seamin Tak Seiman](https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Seamin Tak Seiman](https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m) | 3:36 | 2022-12-14 |  |
-| [Sedang Sayang Sayangnya](https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Sedang Sayang Sayangnya](https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9) | 4:21 | 2024-03-05 |  |
+| [Sedang Sayang Sayangnya](https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Sedang Sayang Sayangnya](https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9) | 4:21 | 2024-03-05 | 2025-07-23 |
 | [see you in jakarta?](https://open.spotify.com/track/3UL4guoCQEfrO0lb3v6wNv) | [Rama Davis](https://open.spotify.com/artist/3gJlTdWX9gXe9YFY3qju8L), [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [see you in jakarta?](https://open.spotify.com/album/2J5Rhcq4QOsozrxIuDo6ut) | 3:53 | 2022-12-14 | 2023-02-24 |
 | [Selaras](https://open.spotify.com/track/61GiPHiUWi2f8mhN2AdBf0) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selaras](https://open.spotify.com/album/1qmWJzKCVXjkznYtZeG8jK) | 4:33 | 2022-12-14 | 2023-01-11 |
 | [Selaras](https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selaras](https://open.spotify.com/album/1b1QRGjDS4CHogOBBCLWOg) | 4:33 | 2023-03-22 | 2024-04-19 |

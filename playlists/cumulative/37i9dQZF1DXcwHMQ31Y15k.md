@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Masdddho
 
-495 songs - 1 day 17 hr 26 min
+496 songs - 1 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,6 +500,7 @@
 | [Wirang](https://open.spotify.com/track/1x7jcOKzJIEpN32MeXehf2) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Wirang](https://open.spotify.com/album/076N6F6y9xyGLgtjqh1tDd) | 5:17 | 2023-12-15 | 2024-07-27 |
 | [Wis Dadi Siji](https://open.spotify.com/track/3V4psN224kLrGMNQ6nPYW2) | [Yoga Pratama](https://open.spotify.com/artist/4xb4qXz0TEBMoQCARbOPV1), [Mayangsari](https://open.spotify.com/artist/3rFjxo9yivNNj7ARVjSAzQ), [ALIM MAHAKARYA](https://open.spotify.com/artist/2Nzt5yxDZ24I6byUHRgjGF) | [Wis Dadi Siji](https://open.spotify.com/album/2WRKywqxFsv91baqQwyhu7) | 4:53 | 2023-09-28 | 2024-02-09 |
 | [Wkwkwk](https://open.spotify.com/track/07AZnO1UhduzhZdiL7iZKo) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Wkwkwk](https://open.spotify.com/album/18Gtv8JfqAIwVwLuShicWm) | 4:03 | 2022-07-14 | 2022-07-22 |
+| [Wong Sepele](https://open.spotify.com/track/3UpBURXLePX1rVrH5RdndE) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Fauzi Haidi](https://open.spotify.com/artist/16GONCEkIfXCfSzgsuJBBJ) | [Wong Sepele](https://open.spotify.com/album/79fUg4zJxfJnrehgiN9DvT) | 4:34 | 2025-07-22 |  |
 | [Yang](https://open.spotify.com/track/3v7OoIuqKeR2cm1UraZAGn) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs) | [Yang](https://open.spotify.com/album/7fexpNRf6OG0n9MfL75j5y) | 4:34 | 2022-05-26 | 2022-11-14 |
 | [Yowes Modaro](https://open.spotify.com/track/1SRkMfpmXlfl0p3KPHpB3B) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Yowes Modaro](https://open.spotify.com/album/01bzVLH7VeX5g4h03DMMAW) | 4:52 | 2024-06-14 |  |
 | [Yowis! \- Koplo](https://open.spotify.com/track/6uatCDtgBGZM22PQ1HFhHb) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Yowis! \(Koplo\)](https://open.spotify.com/album/61f6QjZDfdn7o3T4ahIplo) | 4:46 | 2022-05-26 | 2022-09-16 |

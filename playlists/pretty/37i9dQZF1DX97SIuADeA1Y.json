@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 342561,
+  "num_followers": 342582,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Big Hoops",
         "url": "https://open.spotify.com/album/4tBx7yPE2YtUqXrLldEghH"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 139285,
       "name": "Big Hoops",
       "url": "https://open.spotify.com/track/29jqFjb8D3GvGjWcCnl4IJ"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -811,6 +811,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
+      },
+      "artists": [
+        {
+          "name": "Drive With Beats",
+          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
+        },
+        {
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Everybody Cries",
         "url": "https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu"
       },
@@ -831,22 +851,18 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Speed of Light",
-        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
+        "name": "She Wolf (Falling to Pieces)",
+        "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
       },
       "artists": [
         {
-          "name": "Drive With Beats",
-          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
-        },
-        {
-          "name": "Beachbag",
-          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+          "name": "YES YES",
+          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
         }
       ],
-      "duration_ms": 176347,
-      "name": "Speed of Light",
-      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
+      "duration_ms": 171028,
+      "name": "She Wolf (Falling to Pieces)",
+      "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -871,22 +887,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "She Wolf (Falling to Pieces)",
-        "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
-      },
-      "artists": [
-        {
-          "name": "YES YES",
-          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
-        }
-      ],
-      "duration_ms": 171028,
-      "name": "She Wolf (Falling to Pieces)",
-      "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U"
       },
@@ -899,26 +899,6 @@
       "duration_ms": 162580,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
-      },
-      "artists": [
-        {
-          "name": "Nora & Chris",
-          "url": "https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg"
-        },
-        {
-          "name": "Alex Martin",
-          "url": "https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -943,6 +923,26 @@
       "duration_ms": 156674,
       "name": "Darkroom",
       "url": "https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
+      },
+      "artists": [
+        {
+          "name": "Nora & Chris",
+          "url": "https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg"
+        },
+        {
+          "name": "Alex Martin",
+          "url": "https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1191,26 +1191,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Raindrops (feat. Jessica Chertock)",
-        "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
+        "name": "Heaven (feat. Sofia Quinn)",
+        "url": "https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg"
       },
       "artists": [
         {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
         },
         {
-          "name": "Stefy De Cicco",
-          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
         },
         {
-          "name": "Jessica Chertock",
-          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
+          "name": "Sofia Quinn",
+          "url": "https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q"
         }
       ],
-      "duration_ms": 166887,
-      "name": "Raindrops (feat. Jessica Chertock)",
-      "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
+      "duration_ms": 171000,
+      "name": "Heaven (feat. Sofia Quinn)",
+      "url": "https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl"
     }
   ],
   "unique_name": "SLAP!",

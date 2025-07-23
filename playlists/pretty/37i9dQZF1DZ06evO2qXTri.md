@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,320 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,332 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 28 | [The Storm Is Over Now](https://open.spotify.com/track/6blSODzePwJZwG8VS3i5nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [God's Property from Kirk Franklin's Nu Nation](https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E) | 5:46 |
 | 29 | [Sunday Morning](https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Restoration](https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H) | 4:01 |
 | 30 | [123 Victory](https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Losing My Religion](https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA) | 3:57 |
-| 31 | [Never Alone](https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hiding Place](https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw) | 3:34 |
-| 32 | [Silver and Gold \- Live](https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 4:52 |
+| 31 | [Silver and Gold \- Live](https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 4:52 |
+| 32 | [Never Alone](https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hiding Place](https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw) | 3:34 |
 | 33 | [Lose My Soul \- Afterparty Interlude](https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Portable Sounds \(With Bonus Remixes\)](https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl) | 6:15 |
 | 34 | [My Life, My Love, My All \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 6:22 |
 | 35 | [F.A.V.O.R](https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Finish Line / Drown \(feat\. T\-Pain, Kirk Franklin, Eryn Allen Kane & Noname\)](https://open.spotify.com/track/2AgnbuzvnfPvq1sAYNB4pj) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 6:46 |
 | 50 | [Again](https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 6:14 |
 
-Snapshot ID: `aHwxgAAAAAAjduPVJT+F4t3iKM4O5EO1`
+Snapshot ID: `aH2DAAAAAACt2QT8skEUtTfElgr6/Uhm`

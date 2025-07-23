@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 53616,
+  "num_followers": 53634,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-07-18 00:01:17",
       "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD"
+    },
+    {
+      "added_at": "2025-07-18 00:01:17",
+      "album": {
         "name": "Toma Toma",
         "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 168000,
       "name": "Toma Toma",
       "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
-    },
-    {
-      "added_at": "2025-07-18 00:01:17",
-      "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD"
     },
     {
       "added_at": "2025-07-18 00:01:17",

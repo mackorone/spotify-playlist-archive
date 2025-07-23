@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,662 likes - 61 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,695 likes - 61 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

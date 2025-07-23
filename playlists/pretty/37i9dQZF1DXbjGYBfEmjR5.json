@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 350679,
+  "num_followers": 350728,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Talk Of The Dancefloor",
+        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
+        }
+      ],
+      "duration_ms": 196997,
+      "name": "Anita",
+      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Cyber Love",
         "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
       },
@@ -707,26 +723,6 @@
       "duration_ms": 149508,
       "name": "The Way U Make Me Feel",
       "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Miki Matsubara Night Tempo Presents the Showa Groove",
-        "url": "https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "Miki Matsubara",
-          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
-        }
-      ],
-      "duration_ms": 238760,
-      "name": "Niito na Gogosanji - Night Tempo Showa Groove Mix",
-      "url": "https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -751,18 +747,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Talk Of The Dancefloor",
-        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
+        "name": "Miki Matsubara Night Tempo Presents the Showa Groove",
+        "url": "https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR"
       },
       "artists": [
         {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
         }
       ],
-      "duration_ms": 196997,
-      "name": "Anita",
-      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
+      "duration_ms": 238760,
+      "name": "Niito na Gogosanji - Night Tempo Showa Groove Mix",
+      "url": "https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "MOTORWAY",
+        "url": "https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ"
+      },
+      "artists": [
+        {
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+        }
+      ],
+      "duration_ms": 158518,
+      "name": "Facts",
+      "url": "https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
         "url": "https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 240004,
       "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
       "url": "https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "MOTORWAY",
-        "url": "https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ"
-      },
-      "artists": [
-        {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
-        }
-      ],
-      "duration_ms": 158518,
-      "name": "Facts",
-      "url": "https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "The Sweetest Dream",
-        "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
+        "name": "SAILORSATURDAYS",
+        "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
       },
       "artists": [
         {
-          "name": "Desired",
-          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
+          "name": "Kokonoku",
+          "url": "https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy"
         }
       ],
-      "duration_ms": 220055,
-      "name": "Eyes on Me",
-      "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
+      "duration_ms": 240000,
+      "name": "SAILORSATURDAYS",
+      "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "SAILORSATURDAYS",
-        "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
+        "name": "The Sweetest Dream",
+        "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
       },
       "artists": [
         {
-          "name": "Kokonoku",
-          "url": "https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy"
+          "name": "Desired",
+          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
         }
       ],
-      "duration_ms": 240000,
-      "name": "SAILORSATURDAYS",
-      "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
+      "duration_ms": 220055,
+      "name": "Eyes on Me",
+      "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "First Season",
+        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+        }
+      ],
+      "duration_ms": 295894,
+      "name": "First Season",
+      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Dance Tonite",
         "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 210731,
       "name": "Dance Tonite",
       "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "First Season",
-        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
-          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
-        }
-      ],
-      "duration_ms": 295894,
-      "name": "First Season",
-      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "SOUL MATES",
-        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
-      },
-      "artists": [
-        {
-          "name": "Javi That's Me",
-          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
-        }
-      ],
-      "duration_ms": 149028,
-      "name": "CHERRY BLOSSOMS",
-      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Saturn St.",
         "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 157500,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "SOUL MATES",
+        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
+      },
+      "artists": [
+        {
+          "name": "Javi That's Me",
+          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
+        }
+      ],
+      "duration_ms": 149028,
+      "name": "CHERRY BLOSSOMS",
+      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1559,22 +1559,6 @@
       "duration_ms": 163405,
       "name": "Exacta",
       "url": "https://open.spotify.com/track/05aRMsnObR7SdMQwxxJvHv"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "TIMERIDER 1983",
-        "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
-      },
-      "artists": [
-        {
-          "name": "Adrianwave",
-          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
-        }
-      ],
-      "duration_ms": 188642,
-      "name": "TIMERIDER 1983",
-      "url": "https://open.spotify.com/track/0oGEkRNd79fARgvmCKjbHU"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1615,6 +1599,22 @@
       "duration_ms": 456393,
       "name": "Disco Soul - Mr. Hoosteen's \"Disco's Revenge\" Mix",
       "url": "https://open.spotify.com/track/79V22C8lQvcYQMWtZgBzeo"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "TIMERIDER 1983",
+        "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
+      },
+      "artists": [
+        {
+          "name": "Adrianwave",
+          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
+        }
+      ],
+      "duration_ms": 188642,
+      "name": "TIMERIDER 1983",
+      "url": "https://open.spotify.com/track/0oGEkRNd79fARgvmCKjbHU"
     },
     {
       "added_at": "2023-07-18 02:21:29",

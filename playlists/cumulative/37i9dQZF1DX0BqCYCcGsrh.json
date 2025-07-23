@@ -2335,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "\u547d\u984c",
+        "url": "https://open.spotify.com/album/5bQIFv4iRJ6ZOEAFofNOjP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290592,
+      "name": "\u547d\u984c",
+      "url": "https://open.spotify.com/track/4AOdoMJXt8cddiH1SzXlA0"
+    },
+    {
+      "album": {
         "name": "FOREVER DAZE",
         "url": "https://open.spotify.com/album/1z0j3oxUKw4OgebZM5m2GD"
       },

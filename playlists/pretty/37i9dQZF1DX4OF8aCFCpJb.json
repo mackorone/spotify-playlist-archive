@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 70814,
+  "num_followers": 70818,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "H\u00f6g standard",
-        "url": "https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi"
-      },
-      "artists": [
-        {
-          "name": "Peps Blodsband",
-          "url": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "H\u00f6g standard",
-      "url": "https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Hei Sommer",
         "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
       },
@@ -311,8 +295,24 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Blacka Rasta",
-        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
+        "name": "H\u00f6g standard",
+        "url": "https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi"
+      },
+      "artists": [
+        {
+          "name": "Peps Blodsband",
+          "url": "https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "H\u00f6g standard",
+      "url": "https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Under samma himmel",
+        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 211573,
-      "name": "Sm\u00e5 svarta \u00e4nglar",
-      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
+      "duration_ms": 253977,
+      "name": "Under samma himmel",
+      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -403,8 +403,8 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Under samma himmel",
-        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
+        "name": "Blacka Rasta",
+        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 253977,
-      "name": "Under samma himmel",
-      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
+      "duration_ms": 211573,
+      "name": "Sm\u00e5 svarta \u00e4nglar",
+      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -755,18 +755,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Orginalo",
-        "url": "https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq"
+        "name": "Weh Dem A Gwaan",
+        "url": "https://open.spotify.com/album/5r1c91KAq5CpstvR7i6WA0"
       },
       "artists": [
         {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+          "name": "Kiihjano",
+          "url": "https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT"
+        },
+        {
+          "name": "Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Orginalo",
-      "url": "https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN"
+      "duration_ms": 200000,
+      "name": "Weh Dem A Gwaan",
+      "url": "https://open.spotify.com/track/02knQB6by79wVxI7eNgxJO"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -795,22 +799,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Weh Dem A Gwaan",
-        "url": "https://open.spotify.com/album/5r1c91KAq5CpstvR7i6WA0"
+        "name": "Orginalo",
+        "url": "https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq"
       },
       "artists": [
         {
-          "name": "Kiihjano",
-          "url": "https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT"
-        },
-        {
-          "name": "Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Weh Dem A Gwaan",
-      "url": "https://open.spotify.com/track/02knQB6by79wVxI7eNgxJO"
+      "duration_ms": 186666,
+      "name": "Orginalo",
+      "url": "https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN"
     },
     {
       "added_at": "2024-06-24 11:19:01",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Cancamusa en portada.",
-  "num_followers": 92225,
+  "num_followers": 92243,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-07-18 06:00:11",
       "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2025-07-18 06:00:11",
+      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
-    },
-    {
-      "added_at": "2025-07-18 06:00:11",
-      "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2025-07-18 06:00:11",

@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸   Johanne Rosen
 
-259 songs - 13 hr 15 min
+260 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Kender Du Følelsen](https://open.spotify.com/track/0cbtDG0OLxNccO5lSWtngT) | [Statisk](https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN) | [Trampoliner](https://open.spotify.com/album/2QvWHgcFu0ztbYoSxLU2d4) | 2:31 | 2024-06-27 | 2025-02-21 |
 | [kendt mig en uge](https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [kendt mig en uge](https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd) | 3:06 | 2025-03-21 |  |
 | [Klip Klap Sandaler](https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Kan Du Mærke Suset?](https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty) | 4:00 | 2024-10-10 |  |
-| [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 | 2025-01-23 |  |
+| [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 | 2025-01-23 | 2025-07-23 |
 | [Klubben \(i Klubben\) \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/2jlxBDCYsN3jdKqA7EviyG) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Klubben \(i Klubben\)](https://open.spotify.com/album/2yxOclgOPNKkEJ5rC5OQ1j) | 2:51 | 2024-06-27 | 2024-08-05 |
 | [Kom Jeg Lidt For Tæt På](https://open.spotify.com/track/2LX5B1o9HEewHqutr10e55) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [Kom Jeg Lidt For Tæt På](https://open.spotify.com/album/6DnlVV0aiAROgRYI3LZvfs) | 3:09 | 2025-03-27 | 2025-04-04 |
 | [Krystalklart Kaos](https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr \- Del 1](https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0) | 3:35 | 2024-10-10 | 2025-05-11 |
@@ -253,6 +253,7 @@
 | [Venter Kun På Dig](https://open.spotify.com/track/7y5aDrMQIYHnySJk84yyUZ) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Venter Kun På Dig](https://open.spotify.com/album/7sBpUWuaMauZvtzbgBzGnL) | 2:20 | 2025-06-05 |  |
 | [venter venter](https://open.spotify.com/track/3D0gL4WndIjNjETzEumRwZ) | [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [venter venter](https://open.spotify.com/album/1RHkIVr9rfmw4o3nLPurlJ) | 3:39 | 2025-05-29 | 2025-06-06 |
 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 | 2025-05-01 | 2025-07-04 |
+| [Vilde Øjne](https://open.spotify.com/track/5hJIRRLXYauzGrqKNXqxux) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Vilde Øjne](https://open.spotify.com/album/098k8y3O9JDDX8wigSekbS) | 3:10 | 2025-07-17 |  |
 | [Vinder Ikke Mere](https://open.spotify.com/track/6idRbzcrBLHQjCJmTSaqLC) | [Astrid Schick](https://open.spotify.com/artist/63MG9SvV2U3MTBcus237QI) | [Vinder Ikke Mere](https://open.spotify.com/album/2lmQ2oaFJjyjbJsock3zdw) | 3:06 | 2025-03-07 | 2025-03-22 |
 | [Vis Mig Alt](https://open.spotify.com/track/4pa7tAyNpiZShIWpn36rxW) | [Elias Kingo](https://open.spotify.com/artist/2H5Xin8lzK6OvxdijxC96E) | [Vis Mig Alt](https://open.spotify.com/album/7mhApSWZdkETIQzgufU85b) | 2:21 | 2025-06-19 | 2025-06-27 |
 | [Vissen Blomst](https://open.spotify.com/track/2XtZV6aSCGbzKXSqB9fn0S) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Vissen Blomst](https://open.spotify.com/album/1DCHDbwVFp86zxB6EnCptd) | 2:03 | 2025-05-29 | 2025-06-06 |

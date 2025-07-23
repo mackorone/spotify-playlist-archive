@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 83927,
+  "num_followers": 83931,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAABIqilz0kxcBCO3dZ/NP2Oz",
+  "snapshot_id": "aH2DAAAAAABXq55Z8ZONuw1KNxRRF11v",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 331933,
-      "name": "The Wretchedness Inside",
-      "url": "https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1"
+      "duration_ms": 289840,
+      "name": "Other Worlds",
+      "url": "https://open.spotify.com/track/1a2S3UQ4riSjBJUmuxBGo0"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 289840,
-      "name": "Other Worlds",
-      "url": "https://open.spotify.com/track/1a2S3UQ4riSjBJUmuxBGo0"
+      "duration_ms": 331933,
+      "name": "The Wretchedness Inside",
+      "url": "https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What The Dead Men Say",
-        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 340288,
-      "name": "Amongst The Shadows & The Stones",
-      "url": "https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shogun (Special Edition)",
         "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What The Dead Men Say",
+        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 340288,
+      "name": "Amongst The Shadows & The Stones",
+      "url": "https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Crusade",
         "url": "https://open.spotify.com/album/42MixogSAsobX5po649Y0j"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 243746,
       "name": "Anthem (We Are the Fire)",
       "url": "https://open.spotify.com/track/36ZvFmD6IuW1nawOBbpC8z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What The Dead Men Say",
-        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 204570,
-      "name": "Scattering The Ashes",
-      "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"
     },
     {
       "added_at": null,
@@ -715,6 +699,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "What The Dead Men Say",
+        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 204570,
+      "name": "Scattering The Ashes",
+      "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 226426,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call of Duty\u00ae: Black Ops 6 - Zombies \"The Tomb\" (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3xPKKfr1Llm3NU6sF7Zn7C"
       },
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silence in the Snow (Special Edition)",
-        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 226426,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
+      "duration_ms": 228040,
+      "name": "Inception of the End",
+      "url": "https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
       "duration_ms": 269853,
       "name": "Brave This Storm",
       "url": "https://open.spotify.com/track/0CdHnV4vaqNDKskubNQWLb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Waves (Special Edition)",
-        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Inception of the End",
-      "url": "https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G"
     },
     {
       "added_at": null,

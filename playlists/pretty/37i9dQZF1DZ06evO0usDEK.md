@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0usDEK.md) - [plain]
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,650 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,651 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0usDEK.md) - [plain]
 | 11 | [Will You Still Love Me Tomorrow](https://open.spotify.com/track/6n5647DTsQSR4llhBAqoUr) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 4:07 |
 | 12 | [Back Together Again \(feat\. Donny Hathaway\)](https://open.spotify.com/track/065o5Vhiq7Dx6JXF0e33S8) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:50 |
 | 13 | [If Ever I See You Again](https://open.spotify.com/track/39bhKSzFTN3eo7eRDDZgKC) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Roberta Flack](https://open.spotify.com/album/1YkxsrN4Jmp1jx6fE3MbAY) | 3:40 |
-| 14 | [Killing Me Softly With His Song \- 2006 Remaster](https://open.spotify.com/track/3WnyL57IzjD9nbSg293vTF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 4:47 |
-| 15 | [Mr\. Magic](https://open.spotify.com/track/64grNxhhW3VOIMPjkqw7R0) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 3:58 |
+| 14 | [Mr\. Magic](https://open.spotify.com/track/64grNxhhW3VOIMPjkqw7R0) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 3:58 |
+| 15 | [Killing Me Softly With His Song \- 2006 Remaster](https://open.spotify.com/track/3WnyL57IzjD9nbSg293vTF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 4:47 |
 | 16 | [Compared to What](https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 5:16 |
 | 17 | [Do What You Gotta Do](https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:09 |
-| 18 | [Now and Again \(feat\. Roberta Flack\)](https://open.spotify.com/track/5LWIG3DpOh0mRWGamXlN84) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Peculiar Situation](https://open.spotify.com/album/4N4cHRs7VQ0ugYGnzBv15s) | 4:34 |
-| 19 | [Some Gospel According to Matthew](https://open.spotify.com/track/21RqS0OzVhEFfKk5DQUSBE) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:36 |
+| 18 | [Some Gospel According to Matthew](https://open.spotify.com/track/21RqS0OzVhEFfKk5DQUSBE) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:36 |
+| 19 | [Now and Again \(feat\. Roberta Flack\)](https://open.spotify.com/track/5LWIG3DpOh0mRWGamXlN84) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Peculiar Situation](https://open.spotify.com/album/4N4cHRs7VQ0ugYGnzBv15s) | 4:34 |
 | 20 | [Hey, That's No Way to Say Goodbye](https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:08 |
 | 21 | [You Are My Heaven \(feat\. Donny Hathaway\)](https://open.spotify.com/track/5nM4eEn2NYvJFTvoIahTLn) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack Featuring Donny Hathaway](https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg) | 4:14 |
 | 22 | [No Tears \- In the End](https://open.spotify.com/track/1JQTXexqzRiUA2mVjGeem3) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0usDEK.md) - [plain]
 | 49 | [Ballad of the Sad Young Men](https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 7:00 |
 | 50 | [I'm the One](https://open.spotify.com/track/7pYNO8ICFBgPwqRQ7hSo2Q) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 4:05 |
 
-Snapshot ID: `aHwxgAAAAABq6WYsecIL069YwVowmQjh`
+Snapshot ID: `aH2DAAAAAADm1eXYiJmo4S6wWfOEF5/X`

@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-336 songs - 16 hr 19 min
+336 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [Utopia \(feat\. Yasmin Jane\)](https://open.spotify.com/track/0wEurOs0e5LEv44l6WCduj) | [Kisch](https://open.spotify.com/artist/5geAjOsxhftVd39yemf4r8), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Utopia \(feat\. Yasmin Jane\)](https://open.spotify.com/album/3EoGzBSb6nJxfUMgcmP4Zm) | 3:01 | 2025-05-02 |  |
 | [V I B R A T I O N \(w/ Shift K3Y\)](https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [V I B R A T I O N](https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r) | 2:49 | 2023-11-03 | 2024-12-07 |
 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-06-18 | 2025-07-19 |
-| [Victory Lap Three](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 3:28 | 2025-07-18 |  |
+| [Victory Lap Four](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 4:22 | 2025-07-18 |  |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-11-03 | 2024-04-27 |
 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-03-01 | 2024-06-01 |
 | [Wait So Long](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 | 2025-06-20 |  |

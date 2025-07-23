@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/rjbarrett/">RJ Barrett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,736 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,737 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 | 20 | [Handsome And Wealthy](https://open.spotify.com/track/2ZBnK2CGFK6jcagWrpyPzA) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:30 |
 | 21 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:56 |
 | 22 | [Check](https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Barter 6](https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e) | 3:50 |
-| 23 | [Commercial \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3tDqEKKUs6gf8zMvSuLyLA) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:34 |
-| 24 | [Believe Me](https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Believe Me](https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n) | 5:37 |
+| 23 | [Believe Me](https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Believe Me](https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n) | 5:37 |
+| 24 | [Commercial \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3tDqEKKUs6gf8zMvSuLyLA) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:34 |
 | 25 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 |
 | 26 | [Freddy Krueger \(feat\. Tee Grizzley\)](https://open.spotify.com/track/0hwkukpHcBJfGcIUxi1tK2) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Freddy Krueger \(feat\. Tee Grizzley\)](https://open.spotify.com/album/1RyJuFvHB1mIKGjynj533c) | 4:04 |
 | 27 | [Having Our Way \(feat\. Drake\)](https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:38 |

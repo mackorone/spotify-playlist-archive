@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,408 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,409 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 | 28 | [フラガール \-虹を\-](https://open.spotify.com/track/3gT4ZSs2oMp8aDFYlZaZy6) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Miho Teruya](https://open.spotify.com/artist/5rbx6VW8D4lpHU4J1wY0FB) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 3:38 |
 | 29 | [夢ごこち](https://open.spotify.com/track/4yXWTYHjx5nQBewBU41sfV) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [夢ごこち](https://open.spotify.com/album/0yGagLJQmG0aFNQdpgBFIs) | 4:31 |
 | 30 | [タッチ](https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ドラゴン](https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok) | 3:34 |
-| 31 | [Happy Day](https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj) | [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Time For Three](https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF) | 3:59 |
-| 32 | [Hotel California \(Duet with Jake Shimabukuro\)](https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [HandPicked](https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn) | 8:05 |
+| 31 | [Hotel California \(Duet with Jake Shimabukuro\)](https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [HandPicked](https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn) | 8:05 |
+| 32 | [Happy Day](https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj) | [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Time For Three](https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF) | 3:59 |
 | 33 | [143 \(Kelly's Song\)](https://open.spotify.com/track/1PEgEkILapXe8e33pkJv7u) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 4:26 |
 | 34 | [Oama](https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:59 |
 | 35 | [渚](https://open.spotify.com/track/27wzJWgo11uq4mTUGX2Eob) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nature Spirit](https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr) | 4:09 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 | 37 | [Boy Meets Girl](https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 3:20 |
 | 38 | [I'll Be There](https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 4:37 |
 | 39 | [フラガール](https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:44 |
-| 40 | [Bizarre Love Triangle](https://open.spotify.com/track/3pslJDAFDwUSOhLxvr7MPl) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [The Greatest Day](https://open.spotify.com/album/0NEElyt7JwoVWdJyKObGX2) | 4:19 |
-| 41 | [Sailin'](https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 5:39 |
-| 42 | [IN MY LIFE](https://open.spotify.com/track/3aBKiNFM1LHdl1zwoiu7ro) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nature Spirit](https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr) | 5:29 |
-| 43 | [エンジェル](https://open.spotify.com/track/1AsfyvfHnDdFbIA18Y1zIO) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:04 |
-| 44 | [グラデュエーション](https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 1:56 |
+| 40 | [Sailin'](https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 5:39 |
+| 41 | [Bizarre Love Triangle](https://open.spotify.com/track/3pslJDAFDwUSOhLxvr7MPl) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [The Greatest Day](https://open.spotify.com/album/0NEElyt7JwoVWdJyKObGX2) | 4:19 |
+| 42 | [グラデュエーション](https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 1:56 |
+| 43 | [IN MY LIFE](https://open.spotify.com/track/3aBKiNFM1LHdl1zwoiu7ro) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nature Spirit](https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr) | 5:29 |
+| 44 | [エンジェル](https://open.spotify.com/track/1AsfyvfHnDdFbIA18Y1zIO) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:04 |
 | 45 | [ハートビート \- リプリース](https://open.spotify.com/track/16sJhBAwKFfXO8HEjGsh6m) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ウォーキング・ダウン・レインヒル](https://open.spotify.com/album/5UouzqwCT3k6kOvAI3HtC6) | 2:44 |
-| 46 | [スロー・ダンス](https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:42 |
-| 47 | [Hi'ilawe](https://open.spotify.com/track/19wjOn6TbyIbW00NN7bLM6) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 2:30 |
+| 46 | [Hi'ilawe](https://open.spotify.com/track/19wjOn6TbyIbW00NN7bLM6) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 2:30 |
+| 47 | [スロー・ダンス](https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:42 |
 | 48 | [ホワイル・マイ・ギター・ジェントリー・ウィープス \- Solo](https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:06 |
 | 49 | [NADA SOUSOU\(LIVE\)](https://open.spotify.com/track/6LMieDT7PSjRmfkyMB1Wys) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live in Japan](https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL) | 3:52 |
-| 50 | [Ukulele Bros](https://open.spotify.com/track/4xbOzbF4ziyqyxLU4vOQzV) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 3:03 |
+| 50 | [Train Ride](https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:44 |
 
-Snapshot ID: `aHwxgAAAAACaPss3HzjiM0fJXotUCU5g`
+Snapshot ID: `aH2DAAAAAAA3b7TJWuXyMqRpzv8/3yhC`

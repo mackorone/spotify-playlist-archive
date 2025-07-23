@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPcvnOpPG3x.md) - [plain]
 
 > Run to the world of R&B and hip\-hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,319 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,341 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPcvnOpPG3x.md) - [plain]
 | 29 | [Come & Go \(with Marshmello\)](https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:25 |
 | 30 | [Too Good](https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:23 |
 | 31 | [Stay Schemin](https://open.spotify.com/track/0nq6sfr8z1R5KJ4XUk396e) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Stay Schemin](https://open.spotify.com/album/33bJwRLv35ynnhhFyj96hK) | 4:27 |
-| 32 | [Come Get Her](https://open.spotify.com/track/1Ser4X0TKttOvo8bgdytTP) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:32 |
-| 33 | [The Show Goes On](https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lasers](https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D) | 3:59 |
+| 32 | [The Show Goes On](https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lasers](https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D) | 3:59 |
+| 33 | [Come Get Her](https://open.spotify.com/track/1Ser4X0TKttOvo8bgdytTP) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:32 |
 | 34 | [Into Your Arms \(feat\. Ava Max\)](https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM) | [Witt Lowry](https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Into Your Arms \(feat\. Ava Max\)](https://open.spotify.com/album/0boA7GUGSxOMWwdnnTR0yI) | 3:06 |
 | 35 | [Party Up](https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:28 |
 | 36 | [Venom \- Music From The Motion Picture](https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:29 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPcvnOpPG3x.md) - [plain]
 | 42 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 |
 | 43 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/20BOju91NaEFK5Py4VJ2pp) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\) \[Remix EP\] \[Extended Edition\]](https://open.spotify.com/album/0DqDdZGSQkWQiE0TzBqeLA) | 2:35 |
 | 44 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 |
-| 45 | [Down On Me](https://open.spotify.com/track/0x3TibRgnSqzkcwrqBd4iX) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [All About You](https://open.spotify.com/album/3sGj0fBj5EJbewKgCWA1uD) | 3:48 |
-| 46 | [Crack A Bottle](https://open.spotify.com/track/4dK00wCxlqWEeN8BoM1BHT) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 4:57 |
-| 47 | [We Own It \(Fast & Furious\)](https://open.spotify.com/track/2OQJKTtrH482waGFmOfJni) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [B.O.A.T.S\. II \#METIME \(Deluxe\)](https://open.spotify.com/album/35KyVKa5AMTaOBxSzjSBbK) | 3:47 |
-| 48 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
-| 49 | [Who's That Girl?](https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 4:41 |
+| 45 | [Crack A Bottle](https://open.spotify.com/track/4dK00wCxlqWEeN8BoM1BHT) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 4:57 |
+| 46 | [We Own It \(Fast & Furious\)](https://open.spotify.com/track/2OQJKTtrH482waGFmOfJni) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [B.O.A.T.S\. II \#METIME \(Deluxe\)](https://open.spotify.com/album/35KyVKa5AMTaOBxSzjSBbK) | 3:47 |
+| 47 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
+| 48 | [Who's That Girl?](https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 4:41 |
+| 49 | [Down On Me](https://open.spotify.com/track/0x3TibRgnSqzkcwrqBd4iX) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [All About You](https://open.spotify.com/album/3sGj0fBj5EJbewKgCWA1uD) | 3:48 |
 | 50 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 |
 
 Snapshot ID: `Z5egRwAAAACKKjJatocdh3wru7C+2Fo8`

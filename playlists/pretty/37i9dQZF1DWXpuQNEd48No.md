@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: Devender Ahlawat
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,418 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,425 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 3 | [Knife Brows](https://open.spotify.com/track/5nIrIdLPPXeRMl8WXnnDv1) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [DNW Vol\. 1](https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1) | 2:55 |
 | 4 | [LIFESTYLE](https://open.spotify.com/track/0VxSoMKlai2TZVtHdhT9iC) | [Nawab Kamboj](https://open.spotify.com/artist/5vTPEHGXs91NRMy3vKwds7), [Mann](https://open.spotify.com/artist/5h2PjbCpvbSUtQ8Cby3GAh) | [LIFESTYLE](https://open.spotify.com/album/4McYqgTzzblYTmjSrFeut7) | 2:41 |
 | 5 | [Ghane Gande](https://open.spotify.com/track/1rWSLMe0neIBRZi15GgfY6) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Ghane Gande](https://open.spotify.com/album/5GghzJpDq0yvH3YE0jiAWJ) | 2:56 |
-| 6 | [Rana Rangers](https://open.spotify.com/track/52lYOtEB9ejoQvH4Etuvmy) | [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Rana Brass](https://open.spotify.com/artist/5ZzjJaWW89yvDv6cCiwYKK), [Duryodhan](https://open.spotify.com/artist/311HubrdsENDlyEJAzcNV4), [AFSR](https://open.spotify.com/artist/4dlDP4FvwwOO1UBgXyHVly) | [Rana Rangers](https://open.spotify.com/album/5HLSUYsdiFvqwUGzuR2F6I) | 2:18 |
+| 6 | [Rana Rangers](https://open.spotify.com/track/52lYOtEB9ejoQvH4Etuvmy) | [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Rana Brass](https://open.spotify.com/artist/5ZzjJaWW89yvDv6cCiwYKK), [Duryodhan](https://open.spotify.com/artist/311HubrdsENDlyEJAzcNV4), [AFSRMUSIC](https://open.spotify.com/artist/4782y51fIf7e1EGSxnfy35) | [Rana Rangers](https://open.spotify.com/album/5HLSUYsdiFvqwUGzuR2F6I) | 2:18 |
 | 7 | [Gaadi 150](https://open.spotify.com/track/0qNMptHdkQuZsWKxZ8rmW2) | [Vikram Sarkar](https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y), [THOUGHT](https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC) | [Gaadi 150](https://open.spotify.com/album/1Xp8PesszaBmk58MKYwgfy) | 2:34 |
 | 8 | [Milkman](https://open.spotify.com/track/3e8gxFA77GOcgKo0T4iZRc) | [Eshan Bhati](https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf) | [Milkman](https://open.spotify.com/album/75LSF5WMnKQ0xOezIqdxI3) | 3:18 |
 | 9 | [Albadi Hood](https://open.spotify.com/track/1pGcsZRZHbGodigDtfTgM1) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Prince Jamba](https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy), [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Albadi Hood](https://open.spotify.com/album/287jjIzNyGO25bcSTYJBYx) | 3:21 |

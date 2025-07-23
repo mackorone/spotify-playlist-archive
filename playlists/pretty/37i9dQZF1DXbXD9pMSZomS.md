@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,993 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,109 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 24 | [wandering](https://open.spotify.com/track/2WjG4e7q79njtAPGzW6tGb) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ), [limedisx.](https://open.spotify.com/artist/5NGCRjAltWbKLm8yD4RNRO) | [wandering](https://open.spotify.com/album/1wcy3owX9Vu3C9G0J4Gstl) | 3:16 |
 | 25 | [VERTIGO](https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX) | [Kronol](https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI) | [VERTIGO](https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56) | 3:53 |
 | 26 | [About Our Amore](https://open.spotify.com/track/5KcLeL5iMfETgyRHnSD9zF) | [KOKO.IT](https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC) | [About Our Amore](https://open.spotify.com/album/0jsv1TDKAKtpfHCIZitBkw) | 5:04 |
-| 27 | [It's in My Ears](https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4) | [Gallegos](https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF) | [It's in My Ears](https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2) | 4:05 |
-| 28 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 |
+| 27 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 |
+| 28 | [It's in My Ears](https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4) | [Gallegos](https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF) | [It's in My Ears](https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2) | 4:05 |
 | 29 | [Iced Coffee](https://open.spotify.com/track/6rxQMY5SxOpSO1neanphxY) | [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY), [Turi](https://open.spotify.com/artist/1oSMgnyRBHfOt26vBan09F) | [Iced Coffee](https://open.spotify.com/album/6TftWZf2uvREyJaKLlTL47) | 2:37 |
 | 30 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
 | 31 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 50 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
 | 51 | [I Knew It](https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS), [Latas](https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb) | [I Knew It](https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei) | 3:44 |
 | 52 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
-| 53 | [Holy](https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc) | [Becky Ford](https://open.spotify.com/artist/2fdp1Ko2rZBzo0tRGbR2Vs) | [Holy](https://open.spotify.com/album/1N0APiYtAhr8ZuwJJTv0l7) | 2:18 |
-| 54 | [Remember](https://open.spotify.com/track/1TwttAopOacjIhnuePJm3s) | [SI\-FI](https://open.spotify.com/artist/2IZuUOaBZX6lMmbRK1GLcv) | [Remember](https://open.spotify.com/album/5nfXfGq3r2FklAjuT34QIQ) | 4:36 |
+| 53 | [Remember](https://open.spotify.com/track/1TwttAopOacjIhnuePJm3s) | [SI\-FI](https://open.spotify.com/artist/2IZuUOaBZX6lMmbRK1GLcv) | [Remember](https://open.spotify.com/album/5nfXfGq3r2FklAjuT34QIQ) | 4:36 |
+| 54 | [Holy](https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc) | [Becky Ford](https://open.spotify.com/artist/2fdp1Ko2rZBzo0tRGbR2Vs) | [Holy](https://open.spotify.com/album/1N0APiYtAhr8ZuwJJTv0l7) | 2:18 |
 | 55 | [Lullaby](https://open.spotify.com/track/4YiAmotbXcIwFkDNRd2tQw) | [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Lullaby](https://open.spotify.com/album/7e0D7KQ2eReVxh23jN56an) | 3:41 |
 | 56 | [Endcliffe Park](https://open.spotify.com/track/4Uoy2ySRvBC1jnbj5FfusP) | [Al Zanders](https://open.spotify.com/artist/4udfBn2nJQ6bHoMrr2lKpz) | [Limb Valley](https://open.spotify.com/album/1cW1KQEfAhaDUk2MVlc2Gq) | 7:30 |
 | 57 | [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 |

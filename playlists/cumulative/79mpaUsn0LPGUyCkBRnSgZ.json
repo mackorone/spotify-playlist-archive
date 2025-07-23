@@ -4777,6 +4777,24 @@
     },
     {
       "album": {
+        "name": "Five Dice, All Threes",
+        "url": "https://open.spotify.com/album/7fA59NGyyUumdoTH3HmWav"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99573,
+      "name": "Five Dice",
+      "url": "https://open.spotify.com/track/76SgK36IT8kYyRhy16ErSN"
+    },
+    {
+      "album": {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
         "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
       },
@@ -7378,6 +7396,24 @@
       "duration_ms": 196506,
       "name": "Jumpscare",
       "url": "https://open.spotify.com/track/0zOmLh7zxmMIgJKU6Cfdlx"
+    },
+    {
+      "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232213,
+      "name": "June Guitar",
+      "url": "https://open.spotify.com/track/1leMmYw98725djni7wSYhq"
     },
     {
       "album": {
@@ -12681,6 +12717,28 @@
     },
     {
       "album": {
+        "name": "I Walked With You A Ways",
+        "url": "https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h"
+      },
+      "artists": [
+        {
+          "name": "Plains",
+          "url": "https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph"
+        },
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152186,
+      "name": "Summer Sun",
+      "url": "https://open.spotify.com/track/2palH1jCEezLsedTe5yk6m"
+    },
+    {
+      "album": {
         "name": "The Golden Morning Breaks",
         "url": "https://open.spotify.com/album/1p3Yw1LPlnabOnywMjsFvD"
       },
@@ -13312,7 +13370,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 240520,
       "name": "The Birds Don't Sing",
       "url": "https://open.spotify.com/track/6L3i4jdNnk0a9kMT3qIqTG"
@@ -14980,7 +15038,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 221893,
       "name": "We Got It For Cheap (Intro)",
       "url": "https://open.spotify.com/track/3YKR7Wglf9JvWg5O7xdA5g"

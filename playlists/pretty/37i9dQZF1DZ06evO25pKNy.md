@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,653 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,656 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,16 +38,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 28 | [Vivo En Los Angeles](https://open.spotify.com/track/3llJtYFMgm41fqcuaQi32S) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 3:26 |
 | 29 | [Andaba En Pausa](https://open.spotify.com/track/5fMmWArt0QdYewK6HKE4Tq) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Los DL Mar](https://open.spotify.com/artist/6mXXpIAnRDVzhPDludHYRf) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 3:11 |
 | 30 | [De Texas A California](https://open.spotify.com/track/3UbF0LvIMkKfU7y0EcupQ6) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:15 |
-| 31 | [6 Colores](https://open.spotify.com/track/74B8W79gWO3nswzkVE7vLi) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:47 |
-| 32 | [48th Piso](https://open.spotify.com/track/083KIBwzpA3SRjO3HyxFbH) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [48th Piso](https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj) | 2:02 |
+| 31 | [48th Piso](https://open.spotify.com/track/083KIBwzpA3SRjO3HyxFbH) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [48th Piso](https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj) | 2:02 |
+| 32 | [6 Colores](https://open.spotify.com/track/74B8W79gWO3nswzkVE7vLi) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:47 |
 | 33 | [De Botas O Gabanas](https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [De Botas O Gabanas](https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp) | 2:50 |
 | 34 | [Carta A Mi Familia](https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:51 |
-| 35 | [Cuando Me Faltaban](https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 2:56 |
-| 36 | [Mujer Paseada \- En Vivo](https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:03 |
+| 35 | [Mujer Paseada \- En Vivo](https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:03 |
+| 36 | [Cuando Me Faltaban](https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 2:56 |
 | 37 | [Willy Checks](https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:07 |
 | 38 | [La Casa De La Esquina](https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Casa De La Esquina](https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP) | 1:57 |
-| 39 | [Mundo Desgraciado](https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:36 |
-| 40 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:46 |
+| 39 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:46 |
+| 40 | [Mundo Desgraciado](https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:36 |
 | 41 | [Cuando Me Muera](https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:09 |
 | 42 | [Los 3 Del NM](https://open.spotify.com/track/3zufohszplV5IN3S7j6bTI) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 1:50 |
 | 43 | [Classroom Love](https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Classroom Love](https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 49 | [Recordando La Sierra](https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 3:02 |
 | 50 | [COMPTON](https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:45 |
 
-Snapshot ID: `aHwxgAAAAADSEp0oBpaYAW1txQOJ+kM3`
+Snapshot ID: `aH2DAAAAAAD38Os5EjAt/IEa5zZgERqb`

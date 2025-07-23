@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,106 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,121 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 21 | [Jingle Bell Rock](https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Rockin' Around The Christmas Tree / Jingle Bell Rock](https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN) | 2:23 |
 | 22 | [O Come, All Ye Faithful](https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Christmas Songs](https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW) | 2:59 |
 | 23 | [More Than Christmas](https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [More Than Christmas](https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6) | 3:33 |
-| 24 | [The First Noel \- 2004 Remaster](https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 2:41 |
-| 25 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
+| 24 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
+| 25 | [The First Noel \- 2004 Remaster](https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 2:41 |
 | 26 | [Baby, It’s Cold Outside](https://open.spotify.com/track/6CGdeRGSoKtrzFo5XSypid) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:13 |
 | 27 | [Auld Lang Syne](https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [Auld Lang Syne](https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y) | 4:22 |
 | 28 | [Christmas Is All Around](https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [we did a Christmas thing](https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K) | 2:39 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 33 | [Christmas Tree in the Window](https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Christmas Tree in the Window](https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES) | 4:24 |
 | 34 | [Hard Candy Christmas](https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Hard Candy Christmas](https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl) | 3:27 |
 | 35 | [Kid On Christmas](https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Kid On Christmas](https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW) | 4:05 |
-| 36 | [Santa Man](https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Santa Man / Hot Christmas](https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN) | 2:06 |
-| 37 | [Under the Mistletoe!](https://open.spotify.com/track/74YpSfHQSct8wznkHopETX) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ronnie Spector](https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj) | [Under the Mistletoe!](https://open.spotify.com/album/7JIwLbalAQ20uJEjbMf8aZ) | 2:42 |
+| 36 | [Under the Mistletoe!](https://open.spotify.com/track/74YpSfHQSct8wznkHopETX) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ronnie Spector](https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj) | [Under the Mistletoe!](https://open.spotify.com/album/7JIwLbalAQ20uJEjbMf8aZ) | 2:42 |
+| 37 | [Santa Man](https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Santa Man / Hot Christmas](https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN) | 2:06 |
 | 38 | [Christmas in Prison](https://open.spotify.com/track/6HsawLUXxIwjPjkxgYFUwx) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV), [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Christmas in Prison](https://open.spotify.com/album/6nkGgQ0pw4m3houhqn17rG) | 3:32 |
 | 39 | [Let It Snow](https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Let It Snow](https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh) | 2:16 |
 | 40 | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ) | 3:52 |

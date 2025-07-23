@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 174000,
       "name": "Astral Mist",
       "url": "https://open.spotify.com/track/6HFgHAnBdNf3iZVYwqFC4a"
@@ -5280,6 +5280,24 @@
       "duration_ms": 174000,
       "name": "Four Leaves",
       "url": "https://open.spotify.com/track/5Zx7niunyVM8pq7p3SNR5L"
+    },
+    {
+      "album": {
+        "name": "Fractured Light",
+        "url": "https://open.spotify.com/album/7bmv0zkZnBOII4kEnAJRCd"
+      },
+      "artists": [
+        {
+          "name": "Meloleon",
+          "url": "https://open.spotify.com/artist/0KB7j94GTdhFMPEEmBMGAI"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200991,
+      "name": "Fractured Light",
+      "url": "https://open.spotify.com/track/5blb4VAkKNX6wiPZia3ESb"
     },
     {
       "album": {

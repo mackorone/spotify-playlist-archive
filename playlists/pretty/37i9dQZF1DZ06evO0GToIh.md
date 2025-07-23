@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,393 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,490 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 6 | [Mi Primer Día Sin Ti](https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Primer Día Sin Ti](https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5) | 3:10 |
 | 7 | [Como En Los Viejos Tiempos](https://open.spotify.com/track/1jGuAHD9U2saBvxrbEendo) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 4:05 |
 | 8 | [Como Quieras Quiero](https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 |
-| 9 | [Raite Pa' Con Diosito](https://open.spotify.com/track/105guh7ejzfazbD4qCmZIo) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Raite Pa' Con Diosito](https://open.spotify.com/album/2GSto24T7Pw2rfsHBFjJYc) | 2:04 |
-| 10 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 |
+| 9 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 |
+| 10 | [Raite Pa' Con Diosito](https://open.spotify.com/track/105guh7ejzfazbD4qCmZIo) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Raite Pa' Con Diosito](https://open.spotify.com/album/2GSto24T7Pw2rfsHBFjJYc) | 2:04 |
 | 11 | [El Mikima](https://open.spotify.com/track/2CBfHu8O0jRDnJuUaQWVkg) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:36 |
 | 12 | [Consejos Gratis](https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:22 |
 | 13 | [MONEY EDITION](https://open.spotify.com/track/4z2QWSO49zzmLTNEBsdWDy) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Eden](https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 49 | [Nunca Deja De Llover](https://open.spotify.com/track/7DWjWBdsLX2c1m4l01rO2P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Lo Que Nos Faltó Decir](https://open.spotify.com/album/5LdhTgOjLoLxIR03KbN0RB) | 3:56 |
 | 50 | [Viejo](https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 3:01 |
 
-Snapshot ID: `aHwxgAAAAAAFQFEI5DhJ5rkY574MPp/f`
+Snapshot ID: `aH2DAAAAAADC8aL0X2Ik9XQ9Y5K3JfrD`

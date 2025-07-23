@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlr9ih12ddz.md) - [plain]
 
 > The 4th installment in the ZOMBIES franchise is here! Check out all the new music and watch the film on Disney Channel and Disney +
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,050 likes - 51 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,482 likes - 51 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

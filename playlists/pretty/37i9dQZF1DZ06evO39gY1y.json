@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 244869,
+  "num_followers": 244898,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAACNAAOC4X/OzFHV/Sda9pYM",
+  "snapshot_id": "aH2DAAAAAAC1Lgsi6s95RGN0ewc+A/JS",
   "tracks": [
     {
       "added_at": null,
@@ -643,18 +643,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ynlpa",
-        "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
+        "name": "M\u00e1scaras",
+        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
       },
       "artists": [
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
         }
       ],
-      "duration_ms": 183472,
-      "name": "Ynlpa",
-      "url": "https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf"
+      "duration_ms": 174230,
+      "name": "Me Toca Perder",
+      "url": "https://open.spotify.com/track/3Ggt6nM1vKeTM0sy2xnNm5"
     },
     {
       "added_at": null,
@@ -679,26 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1scaras",
-        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
+        "name": "Ynlpa",
+        "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
       },
       "artists": [
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
         }
       ],
-      "duration_ms": 174230,
-      "name": "Me Toca Perder",
-      "url": "https://open.spotify.com/track/3Ggt6nM1vKeTM0sy2xnNm5"
+      "duration_ms": 183472,
+      "name": "Ynlpa",
+      "url": "https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 280487,
-      "name": "Vamos a Dar el Roll",
-      "url": "https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 183000,
       "name": "No Se Sobrepase",
       "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 280487,
+      "name": "Vamos a Dar el Roll",
+      "url": "https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ"
     },
     {
       "added_at": null,

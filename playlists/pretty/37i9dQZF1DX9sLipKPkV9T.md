@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: יסמין מועלם
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,958 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,967 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

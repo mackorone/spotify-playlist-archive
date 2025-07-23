@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAADBGasAMnC8ewqUSMNfDuLC",
+  "snapshot_id": "aH2DAAAAAABhBQYzOovEnW/1L+51XBqO",
   "tracks": [
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 256872,
-      "name": "2Cor 5:7",
-      "url": "https://open.spotify.com/track/4nNg7C3FRkEseDHingWCqG"
+      "duration_ms": 304130,
+      "name": "I Will Worship",
+      "url": "https://open.spotify.com/track/1TUQfTS06a0sJXu89nUmqY"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 304130,
-      "name": "I Will Worship",
-      "url": "https://open.spotify.com/track/1TUQfTS06a0sJXu89nUmqY"
+      "duration_ms": 256872,
+      "name": "2Cor 5:7",
+      "url": "https://open.spotify.com/track/4nNg7C3FRkEseDHingWCqG"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
         "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
       },
@@ -603,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
       },
       "artists": [
         {
@@ -612,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 164155,
-      "name": "Na You",
-      "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
+      "duration_ms": 824408,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
     },
     {
       "added_at": null,
@@ -643,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
       "artists": [
         {
@@ -652,9 +668,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 824408,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
+      "duration_ms": 164155,
+      "name": "Na You",
+      "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
     },
     {
       "added_at": null,
@@ -671,22 +687,6 @@
       "duration_ms": 2461616,
       "name": "You are Lifted (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Halle",
-      "url": "https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy"
     },
     {
       "added_at": null,

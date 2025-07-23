@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,007 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,013 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 | 20 | [Burn](https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Burn](https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld) | 2:49 |
 | 21 | [LOSER](https://open.spotify.com/track/7AqUE5AY514dbzeOAfJRa0) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 4:03 |
 | 22 | [都会病](https://open.spotify.com/track/089B4v1zqzL8XA50dZLthy) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [都会病](https://open.spotify.com/album/1wnpmwE6gkJC9HCtHb2Mls) | 2:06 |
-| 23 | [絵画](https://open.spotify.com/track/5aOOHwpcSGL9gHc5dEv6wg) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [絵画 / こたえあわせ](https://open.spotify.com/album/2bvMqLZrtpJ3tLbOTLSzUJ) | 4:10 |
+| 23 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 24 | [硝子の線](https://open.spotify.com/track/1h8hSEfuhRy9fw7uFfFsD0) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [硝子の線](https://open.spotify.com/album/0n4ltZwQnNA4rVtnInnJPq) | 4:16 |
 | 25 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
 | 26 | [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 |
-| 27 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
+| 27 | [絵画](https://open.spotify.com/track/5aOOHwpcSGL9gHc5dEv6wg) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [絵画 / こたえあわせ](https://open.spotify.com/album/2bvMqLZrtpJ3tLbOTLSzUJ) | 4:10 |
 | 28 | [もう一度](https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [もう一度](https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey) | 4:10 |
 | 29 | [Beautiful World](https://open.spotify.com/track/6aOoUkiQ9rLweL8IkPBN0L) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [HEART STATION](https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L) | 5:17 |
 | 30 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 |
 | 31 | [Subtitle](https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy) | 5:05 |
 | 32 | [Soranji](https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/62yXiiuhWiIwgurRnXC16V) | 5:41 |
-| 33 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 |
-| 34 | [Curtain Call](https://open.spotify.com/track/3JzAKk0CpUlgzS1mPqzBwk) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2), [Taka](https://open.spotify.com/artist/3xYFPpQA4Hp8BTusV6um2e) | [HOPE](https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR) | 4:27 |
+| 33 | [Curtain Call](https://open.spotify.com/track/3JzAKk0CpUlgzS1mPqzBwk) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2), [Taka](https://open.spotify.com/artist/3xYFPpQA4Hp8BTusV6um2e) | [HOPE](https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR) | 4:27 |
+| 34 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 |
 | 35 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
 | 36 | [Love Someone](https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf) | 3:25 |
 | 37 | [ランデヴー](https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [誘拐 / ランデヴー](https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n) | 3:57 |

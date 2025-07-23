@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: HAIM
 
-2,155 songs - 4 day 18 hr 7 min
+2,156 songs - 4 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,7 +445,7 @@
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-28 | 2022-10-30 |
 | [Cream Shirt](https://open.spotify.com/track/0FeXe1ip5JvofSszofHYIQ) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Cream Shirt](https://open.spotify.com/album/0krr7Z6jLgFaj613S6ZNjK) | 2:43 | 2021-06-02 | 2022-01-06 |
 | [Creases](https://open.spotify.com/track/4ootnwx6kNm9jRd3hu0qRr) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Creases](https://open.spotify.com/album/6GX28PQPkjog77dchhS7dp) | 2:26 | 2021-03-01 | 2021-03-21 |
-| [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-05 | 2025-07-16 |
+| [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-05 |  |
 | [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-22 | 2023-09-30 |
 | [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 | 2025-07-04 |  |
 | [crowd](https://open.spotify.com/track/4b0Z35o4ScmuFPTFdmFMEs) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [crowd](https://open.spotify.com/album/5unb3zadaEdorA9NLtoim8) | 2:46 | 2020-10-16 | 2021-08-17 |
@@ -1020,7 +1020,7 @@
 | [Invisible Things](https://open.spotify.com/track/1ShHhJlzaLuoZbJ3aP4z0m) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:17 | 2020-10-20 | 2021-05-25 |
 | [IRL](https://open.spotify.com/track/5bm1adZmcKKwmZSnpfjCbn) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Weird Years \(Season 1\)](https://open.spotify.com/album/7zparkRx1Pfgdab0baixix) | 3:24 | 2021-01-17 | 2022-04-16 |
 | [Irrational](https://open.spotify.com/track/0HAsOUxDiYHKaQSoKKEN5z) | [Erthlings](https://open.spotify.com/artist/7l66fxCnEL8pBlzI5QwGBe) | [Irrational](https://open.spotify.com/album/1VmiJCAcmp4GS8rrKa6slF) | 3:23 | 2020-11-03 | 2021-01-15 |
-| [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-25 |  |
+| [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-25 | 2025-07-23 |
 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 | 2020-10-16 | 2021-06-03 |
 | [Islands](https://open.spotify.com/track/3qcX9BuZQtCEVokWikQHim) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Islands](https://open.spotify.com/album/6XeqbY4P8cno9Q46cPbVUP) | 3:53 | 2020-10-13\* | 2021-05-24 |
 | [It Could Be Me](https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [It Could Be Me](https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba) | 2:07 | 2022-12-09 | 2022-12-22 |
@@ -1431,6 +1431,7 @@
 | [Only Time Makes It Human](https://open.spotify.com/track/1VpkwLKRFjxIw2elI7m1Oz) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Only Time Makes It Human](https://open.spotify.com/album/2ajgq2MfGz9zFMdtjZ5r0M) | 3:24 | 2020-10-20 | 2021-06-01 |
 | [Only You](https://open.spotify.com/track/5147NKHUT2KvPhmQBp4PHp) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Only You](https://open.spotify.com/album/4mBg8H35g1bajfKDR0AlOy) | 3:29 | 2024-08-30 | 2024-09-07 |
 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 | 2023-09-29 | 2024-05-18 |
+| [Original](https://open.spotify.com/track/0yKsZ7zzBGlqcMGsYLHPnJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Original](https://open.spotify.com/album/4D1YMmnqNvTbECWBuQYnBb) | 3:15 | 2025-07-18 |  |
 | [Orpheus](https://open.spotify.com/track/3nDlV6GuRRKqT3nK3nSwtM) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Orpheus](https://open.spotify.com/album/10sEnr5iBhFt3WXYJEaKG1) | 3:37 | 2022-08-26 | 2022-10-13 |
 | [Orpheus](https://open.spotify.com/track/5jhplymMubt3XgOkEKfAJF) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Orpheus](https://open.spotify.com/album/6hyunqfV9PzG6N4SsPyYKF) | 3:37 | 2022-09-30 | 2023-07-29 |
 | [Otherside](https://open.spotify.com/track/4f76nMYcvzFX8gi9GnPcid) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Otherside](https://open.spotify.com/album/7Im56HLW1i84DkU4Zu2EZq) | 3:01 | 2020-11-13 | 2021-03-21 |
@@ -2143,7 +2144,7 @@
 | [You Got The Part](https://open.spotify.com/track/2wG3vRFT68jYXaXZ9kB6qM) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [You Got The Part](https://open.spotify.com/album/5rPdSuEALEZAj2DmyCneop) | 3:03 | 2021-10-13 | 2021-10-14 |
 | [You Keep Me Up At Night](https://open.spotify.com/track/0POOOfkVbM8suYFRWUkDQQ) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [You Keep Me Up At Night](https://open.spotify.com/album/3Tt8qHRIi8pRlMLISmVQE3) | 2:18 | 2024-09-13 | 2025-03-08 |
 | [You Make Me Feel So Good](https://open.spotify.com/track/6Km4fDR4J8KGxygCowUdfs) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [You Make Me Feel So Good](https://open.spotify.com/album/4Gz6ZJpblwIcONuElYTlPq) | 3:37 | 2023-03-25 | 2023-04-01 |
-| [You Owe Me](https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Two New Malcolm Todd Songs](https://open.spotify.com/album/2JNBq8nFR1FedwJbYnOF0E) | 3:40 | 2024-09-27 |  |
+| [You Owe Me](https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Two New Malcolm Todd Songs](https://open.spotify.com/album/2JNBq8nFR1FedwJbYnOF0E) | 3:40 | 2024-09-27 | 2025-07-23 |
 | [You Sad](https://open.spotify.com/track/7CCpHRIkmLUNGetpe4VQ5c) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol.2](https://open.spotify.com/album/7DoQVFuq50UZLWVTVzHGHq) | 2:37 | 2020-10-16 | 2022-04-13 |
 | [You Shaped Hole](https://open.spotify.com/track/6EDUMn3BJw6bI9JjigYZm1) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [You Shaped Hole](https://open.spotify.com/album/7J9wdRxHvteGjRbx5AWDWm) | 2:59 | 2021-10-14 | 2021-10-16 |
 | [you should probably just hang up](https://open.spotify.com/track/0CxMLWQt9MLF5w1oGBzT2w) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [you should probably just hang up](https://open.spotify.com/album/7Mzh8CBDrwcwCdkTEfBCsm) | 2:53 | 2020-10-20 | 2021-05-28 |

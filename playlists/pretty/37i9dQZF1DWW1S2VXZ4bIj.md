@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: Whal & Dolph
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,166 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,197 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 10 | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/track/6kUGR3mPqLwcnobMQA557r) | [Jigsaw Story](https://open.spotify.com/artist/42Q1POTb6v0GuRPQOk85rv), [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/album/6R6wGeqTE7snGX2qR0ckHs) | 3:33 |
 | 11 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
 | 12 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
-| 13 | [Moonlight \- From "เพียงเธอ Only You"](https://open.spotify.com/track/1RoQ4rXuqDcRRD317ZzIuO) | [Lingling Kwong](https://open.spotify.com/artist/2MDoLrxlC2suHAleZuhpOU) | [Moonlight \(From "เพียงเธอ Only You"\)](https://open.spotify.com/album/4WaXszEsesYEkI5EMUwKHF) | 3:49 |
+| 13 | [Moonlight \- From "เพียงเธอ Only You"](https://open.spotify.com/track/1RoQ4rXuqDcRRD317ZzIuO) | [หลิงหลิง คอง](https://open.spotify.com/artist/1St0LTo9RMbzZWv6hvBuh5) | [Moonlight \(From "เพียงเธอ Only You"\)](https://open.spotify.com/album/4WaXszEsesYEkI5EMUwKHF) | 3:49 |
 | 14 | [WHITE RABBIT](https://open.spotify.com/track/39VNot2WGk4Xj1ncP0Hj47) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [WHITE RABBIT](https://open.spotify.com/album/7BpPRBr9YRghxFoNpzEC61) | 2:42 |
 | 15 | [Bad B\*tch \(feat\. JIGSAW STORY\)](https://open.spotify.com/track/0zkUZQD8jdybN6shYhhRGM) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc), [Jigsaw Story](https://open.spotify.com/artist/42Q1POTb6v0GuRPQOk85rv) | [Bad B\*tch \(feat\. JIGSAW STORY\)](https://open.spotify.com/album/4opl7A2qgaxGdv5F4OljG5) | 3:40 |
 | 16 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |

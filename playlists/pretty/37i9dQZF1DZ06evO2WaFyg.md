@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,514 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,559 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 43 | [Chanel \(Go Get It\) \[feat\. Gunna & Lil Baby\]](https://open.spotify.com/track/0kCBorRrKZkSztd9m0QI3r) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Slime Language](https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf) | 3:21 |
 | 44 | [Sup Mate \(feat\. Future\)](https://open.spotify.com/track/0zNHMc1cGKe4MO5rtGtKRh) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:58 |
 | 45 | [Feel It](https://open.spotify.com/track/2BAmF6QyK5IYEOp1TFmt0u) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Beautiful Thugger Girls](https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt) | 3:56 |
-| 46 | [Mamacita \(feat\. Rich Homie Quan & Young Thug\)](https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 4:32 |
-| 47 | [Hookah](https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hookah](https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG) | 3:22 |
+| 46 | [Hookah](https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hookah](https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG) | 3:22 |
+| 47 | [Mamacita \(feat\. Rich Homie Quan & Young Thug\)](https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 4:32 |
 | 48 | [Jonesboro](https://open.spotify.com/track/4mRcWpEcBCXNzrapIH76R7) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 2:43 |
 | 49 | [Wyclef Jean](https://open.spotify.com/track/55OdqrG8WLmsYyY1jijD9b) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 3:56 |
 | 50 | [Raw \(Might Just\)](https://open.spotify.com/track/6YXOWhiHHnywkCNKJTdGNj) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 2](https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz) | 3:30 |
 
-Snapshot ID: `aHwxgAAAAADAEK1T+lUSbcGwOP5cpi1s`
+Snapshot ID: `aH2DAAAAAADn0hzJGqkGZEzBw5MOFvze`

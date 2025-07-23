@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-570 songs - 1 day 7 hr 57 min
+571 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [AGAR](https://open.spotify.com/track/3oJrOmQi8pmLKPbI5NiWPh) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Nimit Music Project](https://open.spotify.com/artist/4unntZnKf9o5luzeYkrg3o) | [AGAR](https://open.spotify.com/album/1VJFdL736uuogCAcw79TJS) | 3:16 | 2025-05-19 | 2025-06-06 |
 | [Aisa Lagey \- Reprise](https://open.spotify.com/track/6rKrjP0W8yNi24vigkhE0A) | [Ashutosh Phatak](https://open.spotify.com/artist/2oaX6xFkrTYxtMUi37YgRl), [Mandar Deshpande](https://open.spotify.com/artist/7Hx3f4bmmfn6Ra2wu0dG2c), [Niranjan Iyengar](https://open.spotify.com/artist/5YvkJtCfhsoiQ7TjFo1Z3i) | [Mumbai Diaries Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/7MpYTwWoGD32rJAmpObLRT) | 4:27 | 2023-10-04 | 2023-11-16 |
 | [Aise Kyun](https://open.spotify.com/track/2sT0eosuhBEkw8dz6qFxUo) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Mismatched: Season 1 \(Music from the Netflix Original Series\)](https://open.spotify.com/album/4UBpXkgzFj39NOcdfuQpxt) | 4:24 | 2023-12-14 |  |
-| [Aisha](https://open.spotify.com/track/4ViuaSTxQuuKH88uyuaAs3) | [Abhi Abhi](https://open.spotify.com/artist/636FbaY38o2XgzBNr1Rq8Z) | [Aisha](https://open.spotify.com/album/33bcVrQn7MMgXs3lNHkGdm) | 2:52 | 2025-04-11 |  |
+| [Aisha](https://open.spotify.com/track/4ViuaSTxQuuKH88uyuaAs3) | [Abhi Abhi](https://open.spotify.com/artist/636FbaY38o2XgzBNr1Rq8Z) | [Aisha](https://open.spotify.com/album/33bcVrQn7MMgXs3lNHkGdm) | 2:52 | 2025-04-11 | 2025-07-23 |
 | [Aisi Woh Baarish \- Unplugged](https://open.spotify.com/track/44kpn0NS3L96pzgQLdomld) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aisi Woh Baarish \- Unplugged](https://open.spotify.com/album/5F2EZBzekgTzGoFmwrT7p4) | 1:26 | 2024-07-19 | 2025-03-21 |
 | [Ajib Dastan Hai Yeh \(Unplugged\)](https://open.spotify.com/track/0hVBdbXj1YmOSOct1rz3R9) | [Ananya Dwivedi](https://open.spotify.com/artist/5ArT9aXN7G2UAXqaKc69vu) | [Ajib Dastan Hai Yeh \(Unplugged\) \- Single](https://open.spotify.com/album/2t1xnQ9YDu1awbshgKv8JU) | 3:00 | 2023-05-17 | 2023-06-03 |
 | [Ajnabi Yeh Raasta](https://open.spotify.com/track/4d8SLyEZhKw7baBkVjFjkH) | [Anirban Chakraborty](https://open.spotify.com/artist/1c2flyzOtTSyxcl2pK7kzX) | [Ajnabi Yeh Raasta](https://open.spotify.com/album/5OJTTjvF9vfT6jYM7rMH6z) | 4:22 | 2024-02-13 | 2024-03-12 |
@@ -458,6 +458,7 @@
 | [Sochu](https://open.spotify.com/track/651OglmdGFaRT2W47hx696) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Sochu](https://open.spotify.com/album/4fhXeH4ZHxUrOsndsziT1f) | 3:22 | 2024-02-20 | 2024-07-16 |
 | [Sorry](https://open.spotify.com/track/6S7bu8sgZUFpUwLYWOSKzj) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY) | [Sorry](https://open.spotify.com/album/1Ng2fXRfEI6IerCgiF5KNs) | 3:26 | 2024-11-27 | 2024-12-24 |
 | [Subah Ho Tumse](https://open.spotify.com/track/1jNa2Lt10Wbk7UrIL8NX4Q) | [Arjama B](https://open.spotify.com/artist/6Acn0Zzbjp4vmtxZgqetpy), [Shubham S](https://open.spotify.com/artist/3X279yEg4gaZ7DHunJZp5R) | [Subah Ho Tumse](https://open.spotify.com/album/5ULEZrp97201TZQVUajtoj) | 3:01 | 2024-11-22 | 2024-12-06 |
+| [Suljhe Na](https://open.spotify.com/track/1e9AJ9LyLB2oXjE7qMCq2g) | [Sagar Desai](https://open.spotify.com/artist/2GD7Jxc5ztOuLNsZIHBREJ), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [Rangeen \(Original Series Soundtrack\)](https://open.spotify.com/album/6UoKIcd7WhB83XcSGQhMXz) | 2:44 | 2025-07-22 |  |
 | [Suljhey](https://open.spotify.com/track/5XEkKMyjhpb5pKH04Z7p8v) | [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc) | [Suljhey](https://open.spotify.com/album/6Er0lHIv1tq0Hed9DYKgxF) | 3:17 | 2024-12-05 | 2025-01-07 |
 | [Suljhi Si Zindagi](https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Suljhi Si Zindagi](https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF) | 3:38 | 2023-12-26 | 2025-05-30 |
 | [Sun Le Zara](https://open.spotify.com/track/6n93IAPBFSIBlhuHI7ap0w) | [Risha](https://open.spotify.com/artist/6sHNlOXxxsUfrXBJTX7WTo), [Sayan](https://open.spotify.com/artist/5nrrnbBvjmao3RUBh8ceK2) | [Sun Le Zara](https://open.spotify.com/album/3qdKpFFJy2Hzq1FxWuocKJ) | 3:14 | 2025-05-30 | 2025-06-07 |

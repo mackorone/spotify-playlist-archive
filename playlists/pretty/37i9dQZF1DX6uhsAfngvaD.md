@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,643 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,688 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 51 | [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 |
 | 52 | [carry you on my broken wings](https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [baby’s out of luck again](https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX) | 3:05 |
 | 53 | [Little While](https://open.spotify.com/track/73B21p60Izq74AFwGNhzR7) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 4:38 |
-| 54 | [12 Blown Tires](https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Face Down In The Garden](https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq) | 4:12 |
-| 55 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 |
-| 56 | [There’s No Need](https://open.spotify.com/track/27gswQEl27hwpnwfiTyjN7) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 3:28 |
-| 57 | [nightingale](https://open.spotify.com/track/6ihhpKNXWZunLWGrctUMbq) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [all that heaven allows](https://open.spotify.com/album/3mbHTRafIT6ndcL37omlgI) | 3:35 |
-| 58 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 |
+| 54 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 |
+| 55 | [nightingale](https://open.spotify.com/track/6ihhpKNXWZunLWGrctUMbq) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [all that heaven allows](https://open.spotify.com/album/3mbHTRafIT6ndcL37omlgI) | 3:35 |
+| 56 | [12 Blown Tires](https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Face Down In The Garden](https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq) | 4:12 |
+| 57 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 |
+| 58 | [There’s No Need](https://open.spotify.com/track/27gswQEl27hwpnwfiTyjN7) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 3:28 |
 | 59 | [Back Into Your Arms](https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk) | [RINSE](https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Back Into Your Arms](https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO) | 4:23 |
 | 60 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
 | 61 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 64 | [rest up](https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [rest up](https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue) | 3:24 |
 | 65 | [Haunt You Still](https://open.spotify.com/track/7hLYnfqZ8IlIMxjdTkRFxO) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 4:02 |
 | 66 | [Driving in My Car](https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [George Clanton and Nick Hexum](https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7) | 3:37 |
-| 67 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
-| 68 | [Honeybee](https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeybee](https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK) | 2:49 |
+| 67 | [Honeybee](https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeybee](https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK) | 2:49 |
+| 68 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 69 | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V) | 3:53 |
 | 70 | [Beautiful World](https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Beautiful World](https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc) | 3:40 |
 | 71 | [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 73 | [How Can I Love? \- When I Can't Get Away from You](https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away from You\)](https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q) | 2:59 |
 | 74 | [Nadine](https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Heaven Sent \(Between Heavens B\-Sides\)](https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I) | 3:19 |
 | 75 | [Wry](https://open.spotify.com/track/4xwjpqfk8mHL36w1lsGcl2) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Wry](https://open.spotify.com/album/0CnWFjySZ8PqIo5S5OD7qC) | 3:00 |
-| 76 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 |
-| 77 | [Nothing Left To Lose](https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Lost In A Rush Of Emptiness](https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU) | 3:18 |
+| 76 | [Nothing Left To Lose](https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Lost In A Rush Of Emptiness](https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU) | 3:18 |
+| 77 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 |
 | 78 | [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 |
-| 79 | [If I Come Home](https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [If I Come Home](https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45) | 3:36 |
-| 80 | [Memoryboy](https://open.spotify.com/track/4IA2uyRfRPekvoFMq28Zv5) | [Sunken](https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs) | [10K](https://open.spotify.com/album/1ZxFEadir98g6i0K9adLim) | 3:21 |
+| 79 | [Memoryboy](https://open.spotify.com/track/4IA2uyRfRPekvoFMq28Zv5) | [Sunken](https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs) | [10K](https://open.spotify.com/album/1ZxFEadir98g6i0K9adLim) | 3:21 |
+| 80 | [If I Come Home](https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [If I Come Home](https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45) | 3:36 |
 
 Snapshot ID: `aBPtIAAAAAC6EW9Rqgf/dZciTPnXCEXi`

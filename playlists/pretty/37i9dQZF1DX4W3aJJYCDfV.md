@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jim Legxacy, The Last Dinner Party, Alex Warren and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,617 likes - 122 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,640 likes - 122 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 25 | [Turning Me On](https://open.spotify.com/track/6BsCBcs9Mcek0Bg2LgzsVr) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Turning Me On](https://open.spotify.com/album/0FfPRELBt3o766q99sVKW6) | 2:10 |
 | 26 | [Everything Anything](https://open.spotify.com/track/7xwNAdQd4CBZegpwoyCEZc) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Everything Anything](https://open.spotify.com/album/2zqeDLjSfDLw69sM9VPnsk) | 3:21 |
 | 27 | [Letting Go](https://open.spotify.com/track/4cliBLsKJiv3tno21brdKJ) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Bigger Than All Of Us](https://open.spotify.com/album/1yXsFzEZ5amp2ocSjGQhkm) | 3:19 |
-| 28 | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
+| 28 | [You Can’t Run From Yourself \- From "Kaiju No\. 8"](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
 | 29 | [Harley](https://open.spotify.com/track/35hgaNam8alvYUy7FHBAJl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Harley](https://open.spotify.com/album/4Yjouh8baN1M2FvKh9Nt6Z) | 2:41 |
 | 30 | [Why Is She Still Here?](https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Why Is She Still Here?](https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq) | 2:30 |
 | 31 | [Open Your Eyes](https://open.spotify.com/track/0Tk1bGsHNJWVgsw6nK3cIi) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Open Your Eyes](https://open.spotify.com/album/1S50W2WN9qp2nclzQuFaFE) | 4:19 |

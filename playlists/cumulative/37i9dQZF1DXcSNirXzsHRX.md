@@ -2,9 +2,9 @@
 
 ### [VOLUME DENMARK](https://open.spotify.com/playlist/37i9dQZF1DXcSNirXzsHRX)
 
-> Den bedste rock playliste i Danmark⚡️
+> Den bedste rock playliste i Danmark!
 
-155 songs - 10 hr 30 min
+156 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 | 2024-09-06 |  |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2024-09-13 | 2024-11-18 |
 | [Løvehjerte](https://open.spotify.com/track/24HH2cs7szm38vfsGNd5YQ) | [Afterlove](https://open.spotify.com/artist/4JzQX0UIGSB9qzGZEplQDm), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Copenhagen Closure](https://open.spotify.com/album/7p2GfOdG01dq0VK9kjYQvk) | 3:16 | 2025-03-20 | 2025-04-04 |
+| [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2025-07-22 |  |
 | [Mary On A Cross](https://open.spotify.com/track/0ch6Jw2wxUnudfmxNMB12U) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [\[MESSAGE FROM THE CLERGY\]](https://open.spotify.com/album/62s6qWya4Fdqvw7l6tZPxi) | 4:04 | 2024-09-06 | 2024-09-20 |
 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 | 2024-09-06 |  |
 | [Mountains & Valleys](https://open.spotify.com/track/6k6ZjGvqVaLtesozxg384u) | [Carpark North](https://open.spotify.com/artist/6v8pFbihIDnlV6freVYMmZ) | [AIR](https://open.spotify.com/album/4b7MVymy35wxWxAMPjPMaY) | 3:12 | 2025-04-03 | 2025-05-09 |
@@ -114,7 +115,7 @@
 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 | 2024-09-06 |  |
 | [Pour Some Sugar On Me \- Remastered 2017](https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 4:27 | 2024-09-06 |  |
 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 | 2025-05-22 | 2025-06-06 |
-| [Rock You Like a Hurricane \- 2015 \- Remaster](https://open.spotify.com/track/2fICdpdRotwfmGYzvs8Ngf) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting \(Deluxe Edition\)](https://open.spotify.com/album/14kTyafNZvlbn586zryGww) | 4:13 | 2024-09-06 |  |
+| [Rock You Like a Hurricane \- 2015 \- Remaster](https://open.spotify.com/track/2fICdpdRotwfmGYzvs8Ngf) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting \(Deluxe Edition\)](https://open.spotify.com/album/14kTyafNZvlbn586zryGww) | 4:13 | 2024-09-06 | 2025-07-23 |
 | [Rollin' \(Air Raid Vehicle\)](https://open.spotify.com/track/3IV4swNduIRunHREK80owz) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 3:33 | 2024-09-06 |  |
 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 | 2024-09-06 |  |
 | [San Quentin](https://open.spotify.com/track/2fDy68BuFDTa7UGVicym4Z) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb) | 3:31 | 2024-09-06 | 2024-09-14 |

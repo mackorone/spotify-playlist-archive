@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "A Way It Goes",
+        "url": "https://open.spotify.com/album/08b8v12BAQgkufaPLV4aHG"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284417,
+      "name": "A Way It Goes",
+      "url": "https://open.spotify.com/track/4NhEqHd97xOEusHuTFsU8x"
+    },
+    {
+      "album": {
         "name": "Abraham",
         "url": "https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF"
       },

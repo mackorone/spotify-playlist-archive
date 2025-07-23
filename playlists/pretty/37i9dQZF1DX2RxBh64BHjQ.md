@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2SJhf6rTOU53g8yBdAjPby">SoFaygo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,797,211 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,796,977 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 32 | [Feeeeeeeeel](https://open.spotify.com/track/5eSSmNIgjgzru9ONPvNNYf) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Feeeeeeeeel](https://open.spotify.com/album/4ETeS3fpSdrTBxSOims39G) | 2:13 |
 | 33 | [Cant Go Broke \- Remix](https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cant Go Broke \(Remix\)](https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg) | 1:47 |
 | 34 | [No Free Sauce](https://open.spotify.com/track/4TMNofYa2J5bLwHFEtU2Rs) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [No Guest List](https://open.spotify.com/album/2xTeGaKSGR9TG8JWjA4HOx) | 3:01 |
-| 35 | [WTHELLY](https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [WTHELLY](https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg) | 2:17 |
-| 36 | [Villainous Freestyle](https://open.spotify.com/track/6yqSbzeBZzsANKGBompjMX) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Villainous Freestyle](https://open.spotify.com/album/48h2Tlyquz569oCnSVmbkq) | 2:34 |
-| 37 | [Messiah \(Devil's Diss\)](https://open.spotify.com/track/2wgcsZWtqctDORc2eSoKNQ) | [NLE The Great](https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq) | [Messiah \(Devil's Diss\)](https://open.spotify.com/album/0dzpAuuzU6f7OWAcxTD1UX) | 4:44 |
-| 38 | [Take Her Down](https://open.spotify.com/track/6VKn4n4FoI0Ktx7M6eIh99) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Take Her Down](https://open.spotify.com/album/2W0MQtufPFPzM3m4GuRyzz) | 3:15 |
-| 39 | [ART \(feat\. Latto\)](https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [ART \(feat\. Latto\)](https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc) | 1:48 |
-| 40 | [Cowhide Boots](https://open.spotify.com/track/7uXq8InkgUyfZ4nMrXPPx4) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Mg Lil Bubba](https://open.spotify.com/artist/3agpFHXv6thiBv8b6epxI5) | [BALLER ACADEMY \(Deluxe\)](https://open.spotify.com/album/1udyYEKChJUfSJH6OBEs5j) | 3:04 |
-| 41 | [Innit](https://open.spotify.com/track/5MfuImDGMP0PnjREYTIIfm) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Innit](https://open.spotify.com/album/2UZnQIp5O5JaBpgBtQEvUN) | 2:47 |
-| 42 | [We On Dat](https://open.spotify.com/track/7lZAVKwXTXcxp2RPF1R2U6) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [We On Dat](https://open.spotify.com/album/4dpOOB97KCYfGTu14imfV2) | 2:52 |
-| 43 | [Strippers Lives Matter](https://open.spotify.com/track/5PQqmwiJwo6IEYVWSX0Vvz) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Let Me Fly \(Deluxe\)](https://open.spotify.com/album/16fOEIiwZ9ic2JIL7PI6u7) | 2:30 |
+| 35 | [MANNEQUIN](https://open.spotify.com/track/4BOZwlrJLGTPmePx9mM9pu) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [REST IN BASS](https://open.spotify.com/album/67A39lP2d2oyDkRukYYm4F) | 2:03 |
+| 36 | [WTHELLY](https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [WTHELLY](https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg) | 2:17 |
+| 37 | [Villainous Freestyle](https://open.spotify.com/track/6yqSbzeBZzsANKGBompjMX) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Villainous Freestyle](https://open.spotify.com/album/48h2Tlyquz569oCnSVmbkq) | 2:34 |
+| 38 | [Messiah \(Devil's Diss\)](https://open.spotify.com/track/2wgcsZWtqctDORc2eSoKNQ) | [NLE The Great](https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq) | [Messiah \(Devil's Diss\)](https://open.spotify.com/album/0dzpAuuzU6f7OWAcxTD1UX) | 4:44 |
+| 39 | [Take Her Down](https://open.spotify.com/track/6VKn4n4FoI0Ktx7M6eIh99) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Take Her Down](https://open.spotify.com/album/2W0MQtufPFPzM3m4GuRyzz) | 3:15 |
+| 40 | [ART \(feat\. Latto\)](https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [ART \(feat\. Latto\)](https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc) | 1:48 |
+| 41 | [Cowhide Boots](https://open.spotify.com/track/7uXq8InkgUyfZ4nMrXPPx4) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Mg Lil Bubba](https://open.spotify.com/artist/3agpFHXv6thiBv8b6epxI5) | [BALLER ACADEMY \(Deluxe\)](https://open.spotify.com/album/1udyYEKChJUfSJH6OBEs5j) | 3:04 |
+| 42 | [Innit](https://open.spotify.com/track/5MfuImDGMP0PnjREYTIIfm) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Innit](https://open.spotify.com/album/2UZnQIp5O5JaBpgBtQEvUN) | 2:47 |
+| 43 | [We On Dat](https://open.spotify.com/track/7lZAVKwXTXcxp2RPF1R2U6) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [We On Dat](https://open.spotify.com/album/4dpOOB97KCYfGTu14imfV2) | 2:52 |
 | 44 | [Kill Switch](https://open.spotify.com/track/0oPucnHSEaIcrjlWS2aGkb) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Sins Aloud](https://open.spotify.com/album/3YkbKUfTsOY3wPe9FYKRh8) | 2:13 |
 | 45 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |
 | 46 | [YUP AND I DO](https://open.spotify.com/track/6cA7DVYZYEYFKop72MRRRB) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [YUP AND I DO](https://open.spotify.com/album/7CgGavuS1DSvYXIbeqrq71) | 2:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Hannah Montana \(with NLE Choppa & DaBaby\)](https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:17 |
 | 100 | [Controversy 2 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/3nPI8WzSQWAhF0WjH8cnrH) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Crack Music 3](https://open.spotify.com/album/7GgMU6eXAkAJ1IJ9WcPVIo) | 2:00 |
 
-Snapshot ID: `aHnG3gAAAAAjYVzexWyxgxKQTaJAXgyh`
+Snapshot ID: `aH/08wAAAADRj2ZHNKWKCh5MY+hra8d2`

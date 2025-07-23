@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-341 songs - 16 hr 8 min
+342 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Flod](https://open.spotify.com/track/2WniKdcdwp2nsEz22BpsgM) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Flod](https://open.spotify.com/album/3X1AMeGSmFecsjCrPQasc5) | 2:42 | 2025-02-10 |  |
 | [Flowing Calm](https://open.spotify.com/track/3FDcmnPJY1V39k54Fy6FxN) | [Joseph Rain](https://open.spotify.com/artist/1YHhB4lSX141uoyd58WoUc) | [Flowing Calm](https://open.spotify.com/album/4JoqWgNsmJ4NUE13A4FDKS) | 2:28 | 2023-09-01 |  |
 | [Flowing Lines](https://open.spotify.com/track/1JHNvy3B6P6YDcVyNnGL7n) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Flowing Lines](https://open.spotify.com/album/6po1RmrxEF1GvBjCkVgPyO) | 2:35 | 2025-03-14 |  |
-| [Forest Bathing](https://open.spotify.com/track/7BoUZW0mqbznnmdkuekAIS) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Forest Bathing](https://open.spotify.com/album/3FXUXH9AxDpvYxfqvbc67q) | 3:03 | 2025-07-01 |  |
+| [Forest Bathing](https://open.spotify.com/track/7BoUZW0mqbznnmdkuekAIS) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Forest Bathing](https://open.spotify.com/album/3FXUXH9AxDpvYxfqvbc67q) | 3:03 | 2025-07-01 | 2025-07-23 |
 | [Forest Breath](https://open.spotify.com/track/4JHSk6ehy7ztovsUjZAxV9) | [Cerasifera](https://open.spotify.com/artist/6KiFF18YRCbYzhQl5XEY9k) | [Forest Breath](https://open.spotify.com/album/4SCtfrNF8SSagNIYk3b5B7) | 2:41 | 2025-03-14 | 2025-04-02 |
 | [Forest Breath](https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Forest Breath](https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt) | 3:12 | 2025-04-01 |  |
 | [Forest Channel](https://open.spotify.com/track/21kHvsjYwW7vE8yRJGCHGr) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Forest Channel](https://open.spotify.com/album/43XL6Q7IOeJkvX2gC1fwQx) | 2:37 | 2025-07-01 |  |
@@ -305,6 +305,7 @@
 | [Spiritual Sleep](https://open.spotify.com/track/3YuYnf5gPQPmzKW3UtEQ0M) | [Queens of the Dream World](https://open.spotify.com/artist/3CyLUmnwr7NReZg4Hm4EWz) | [Queen of Spiritual Sleep](https://open.spotify.com/album/3lkICAnE41Hj074kuJDeit) | 2:36 | 2023-01-24 | 2023-03-29 |
 | [Stillness](https://open.spotify.com/track/1V0xxtY4yJGo5sotrsR5Oq) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Stillness](https://open.spotify.com/album/0tHMoVyt7PcxXeJHdC3GHU) | 3:13 | 2023-01-24 | 2024-11-29 |
 | [Stillness](https://open.spotify.com/track/1x4OI6ufrImrBlO3DlEXWF) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Stillness](https://open.spotify.com/album/5mkclihPsbGFJBCEHWdU3K) | 3:08 | 2024-03-01 | 2025-04-30 |
+| [Stillness Blooming](https://open.spotify.com/track/65qpTz4zM5FBj1DfP30L2z) | [Harmonius Amicabel](https://open.spotify.com/artist/6vDWRDxbU6fMkbjwSW67gd) | [Stillness Blooming](https://open.spotify.com/album/2VJOTAe2P7zvN2HY1yr4S0) | 2:46 | 2025-07-22 |  |
 | [Stilte](https://open.spotify.com/track/7JmuwjQIrdufPz4y7hQyfF) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Stilte](https://open.spotify.com/album/06VoObxzlK0aRzVpHm8FBE) | 3:14 | 2023-03-28 | 2025-04-02 |
 | [Stream of Harmony](https://open.spotify.com/track/2vsrtWukHPNJq6T0rt38rk) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Stream of Harmony](https://open.spotify.com/album/76eHssQQ8jisSTZwuiqC0R) | 2:57 | 2024-04-01 |  |
 | [Summer Breeze](https://open.spotify.com/track/6WeBzOmaFwsWN4Svwg6p1F) | [Ambient Stream](https://open.spotify.com/artist/49wJGRXonVaTLd77rtGBYA) | [Summer Breeze](https://open.spotify.com/album/1j30XDwij7ZewdsszR43AJ) | 2:14 | 2023-01-24 | 2023-11-11 |

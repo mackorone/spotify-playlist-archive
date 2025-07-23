@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Martin Castillo en portada.",
-  "num_followers": 216427,
+  "num_followers": 216494,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -707,30 +707,6 @@
     {
       "added_at": "2025-07-04 06:00:12",
       "album": {
-        "name": "El R2",
-        "url": "https://open.spotify.com/album/6JRL0VebZ3cSQDrRPTCLBc"
-      },
-      "artists": [
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 152351,
-      "name": "EL R2",
-      "url": "https://open.spotify.com/track/1BoIMCJxuORlJeEr7Zlv0c"
-    },
-    {
-      "added_at": "2025-07-04 06:00:12",
-      "album": {
         "name": "Por Clave El Caiman",
         "url": "https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 259035,
       "name": "Me Dicen Pollito",
       "url": "https://open.spotify.com/track/4YyS1wqUv82TpRFPKfucl0"
+    },
+    {
+      "added_at": "2025-07-04 06:00:12",
+      "album": {
+        "name": "El R2",
+        "url": "https://open.spotify.com/album/6JRL0VebZ3cSQDrRPTCLBc"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 152351,
+      "name": "EL R2",
+      "url": "https://open.spotify.com/track/1BoIMCJxuORlJeEr7Zlv0c"
     },
     {
       "added_at": "2025-07-04 06:00:12",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-07-04 06:00:12",
       "album": {
-        "name": "Barbas Y Botas",
-        "url": "https://open.spotify.com/album/4xnyS1V1mrX8F2KejpGU1F"
-      },
-      "artists": [
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        },
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 209116,
-      "name": "Barbas Y Botas",
-      "url": "https://open.spotify.com/track/1gqus9p1wgFlpAoTcAP7ci"
-    },
-    {
-      "added_at": "2025-07-04 06:00:12",
-      "album": {
         "name": "El Nini",
         "url": "https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 271346,
       "name": "El Nini",
       "url": "https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4"
+    },
+    {
+      "added_at": "2025-07-04 06:00:12",
+      "album": {
+        "name": "Barbas Y Botas",
+        "url": "https://open.spotify.com/album/4xnyS1V1mrX8F2KejpGU1F"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 209116,
+      "name": "Barbas Y Botas",
+      "url": "https://open.spotify.com/track/1gqus9p1wgFlpAoTcAP7ci"
     },
     {
       "added_at": "2025-07-04 06:00:12",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-07-04 06:00:12",
       "album": {
-        "name": "La Posada Especial",
-        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Joven Bragado",
-      "url": "https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI"
-    },
-    {
-      "added_at": "2025-07-04 06:00:12",
-      "album": {
         "name": "De LM a GVE",
         "url": "https://open.spotify.com/album/4mt1JOASnU158hhph30M0l"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 151946,
       "name": "De LM a GVE",
       "url": "https://open.spotify.com/track/2qHfvwACkkNTFFPOyLPoma"
+    },
+    {
+      "added_at": "2025-07-04 06:00:12",
+      "album": {
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Joven Bragado",
+      "url": "https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI"
     },
     {
       "added_at": "2025-07-04 06:00:12",
@@ -1443,18 +1443,22 @@
     {
       "added_at": "2025-07-04 06:00:12",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX"
+        "name": "El Baleado",
+        "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
       },
       "artists": [
         {
-          "name": "La Cuatiza",
-          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 133250,
-      "name": "Mercedes",
-      "url": "https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT"
+      "duration_ms": 219264,
+      "name": "El Baleado",
+      "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
     },
     {
       "added_at": "2025-07-04 06:00:12",
@@ -1479,22 +1483,18 @@
     {
       "added_at": "2025-07-04 06:00:12",
       "album": {
-        "name": "El Baleado",
-        "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX"
       },
       "artists": [
         {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "La Cuatiza",
+          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
         }
       ],
-      "duration_ms": 219264,
-      "name": "El Baleado",
-      "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
+      "duration_ms": 133250,
+      "name": "Mercedes",
+      "url": "https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT"
     },
     {
       "added_at": "2025-07-04 06:00:12",

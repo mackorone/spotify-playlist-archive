@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>sokodomo\(소코도모\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,524 likes - 105 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,414 likes - 105 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

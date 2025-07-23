@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 282708,
+  "num_followers": 282878,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Moondance",
-        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "Into the Mystic - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Baby I'm-a Want You",
         "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 187000,
       "name": "Everything I Own",
       "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "Into the Mystic - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -927,22 +927,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Ambrosia",
-        "url": "https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI"
+        "name": "The Stranger",
+        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
       },
       "artists": [
         {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        },
-        {
-          "name": "Alan Parsons",
-          "url": "https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 256160,
-      "name": "Holdin' on to Yesterday",
-      "url": "https://open.spotify.com/track/5nFpF7jUbVnnDMXIu65aoh"
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -963,18 +959,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "The Stranger",
-        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
+        "name": "Ambrosia",
+        "url": "https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        },
+        {
+          "name": "Alan Parsons",
+          "url": "https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG"
         }
       ],
-      "duration_ms": 214240,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
+      "duration_ms": 256160,
+      "name": "Holdin' on to Yesterday",
+      "url": "https://open.spotify.com/track/5nFpF7jUbVnnDMXIu65aoh"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Turnstiles",
+        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Summer, Highland Falls",
+      "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Little River Band (Remastered 2022)",
         "url": "https://open.spotify.com/album/35j8cY91pzMYe02ZszvMyC"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 264893,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Turnstiles",
-        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Summer, Highland Falls",
-      "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
     },
     {
       "added_at": "2023-03-29 17:34:27",

@@ -6055,6 +6055,28 @@
     },
     {
       "album": {
+        "name": "Lotta Love",
+        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197624,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "album": {
         "name": "Lou's Tune",
         "url": "https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A"
       },
@@ -6340,7 +6362,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 242893,
       "name": "Lynchpin",
       "url": "https://open.spotify.com/track/3JqlzKVpYrUFgKuH6VQ9MP"
@@ -6376,7 +6398,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 193727,
       "name": "Madagascar",
       "url": "https://open.spotify.com/track/5S3qQPyFEezyWBFemwm1Yq"
@@ -8646,6 +8668,24 @@
       "duration_ms": 349026,
       "name": "S.O.L.",
       "url": "https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy"
+    },
+    {
+      "album": {
+        "name": "Los Belkings (Ayer y Hoy)",
+        "url": "https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie"
+      },
+      "artists": [
+        {
+          "name": "Los Belkings",
+          "url": "https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208213,
+      "name": "Sabor Dulce",
+      "url": "https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59"
     },
     {
       "album": {

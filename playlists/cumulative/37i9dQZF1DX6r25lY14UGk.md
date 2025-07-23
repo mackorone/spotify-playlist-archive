@@ -2,7 +2,7 @@
 
 ### [New Kids Music](https://open.spotify.com/playlist/37i9dQZF1DX6r25lY14UGk)
 
-> New releases for the kids\. Cover: Peppa Pig
+> New releases for the kids\. Cover: Blippi & Grover
 
 858 songs - 1 day 11 hr 37 min
 

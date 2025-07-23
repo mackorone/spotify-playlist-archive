@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,004 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,005 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 33 | [Go Out](https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Go Out](https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4) | 2:34 |
 | 34 | [Running Up That Hill](https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 3:08 |
 | 35 | [Sabada](https://open.spotify.com/track/6bDu7PiUOUuXrviwss6aJD) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Sabada](https://open.spotify.com/album/73JoE5TQ7DiMbRCrbKD7uD) | 3:45 |
-| 36 | [Overthinking](https://open.spotify.com/track/5yG8CqBL4jMnakBDOSoJYG) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Overthinking](https://open.spotify.com/album/39ZjTaQo6zaU0NZ6tHdDac) | 2:28 |
-| 37 | [beautiful day](https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [beautiful day](https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq) | 3:03 |
+| 36 | [beautiful day](https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [beautiful day](https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq) | 3:03 |
+| 37 | [Overthinking](https://open.spotify.com/track/5yG8CqBL4jMnakBDOSoJYG) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Overthinking](https://open.spotify.com/album/39ZjTaQo6zaU0NZ6tHdDac) | 2:28 |
 | 38 | [Mister Burns](https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Mister Burns](https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi) | 2:35 |
 | 39 | [cbb to b sad](https://open.spotify.com/track/56b4sQ1Sxi3ox5CoCmcp49) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [shame](https://open.spotify.com/album/5h31KRuPwb3EEgUW0b4k6l) | 4:28 |
 | 40 | [Sweet Melancholy](https://open.spotify.com/track/6pPQ49LVCxxxjxJArSvdxl) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Sweet Melancholy](https://open.spotify.com/album/3eR4Py7KIGQ0hsLtnFUYH8) | 2:58 |
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 43 | [Busy](https://open.spotify.com/track/2VG8dvyYnyj4WtzNIj2fOC) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Busy](https://open.spotify.com/album/68Saky2gc5DtvcQlRHKm1g) | 2:46 |
 | 44 | [Bleach](https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Bleach](https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L) | 3:29 |
 | 45 | [Casanova](https://open.spotify.com/track/3MvAbg1lc0SC7Qi1UOvrpg) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Casanova](https://open.spotify.com/album/696HC3UABKkKCfHnZGEhCs) | 2:35 |
-| 46 | [Kalif Onya](https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T) | [Al Pride](https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB) | [Kalif Onya](https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl) | 3:58 |
-| 47 | [Walking Like That](https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Walking Like That](https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh) | 2:29 |
+| 46 | [Walking Like That](https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Walking Like That](https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh) | 2:29 |
+| 47 | [Kalif Onya](https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T) | [Al Pride](https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB) | [Kalif Onya](https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl) | 3:58 |
 | 48 | [Heavy Objects](https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Heavy Objects](https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm) | 2:03 |
 | 49 | [Tides](https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Mirage Morning](https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ) | 2:42 |
-| 50 | [You Don't Know How to Drive](https://open.spotify.com/track/10eGximnbByN1OCjAS4IoZ) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [You Don't Know How to Drive](https://open.spotify.com/album/5Ul7nxr0KsPt4vde0Ue5zY) | 3:15 |
-| 51 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 |
-| 52 | [Like You](https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Like You](https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6) | 2:53 |
-| 53 | [Highness](https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3) | [Nosoyo](https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs) | [Highness](https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5) | 3:13 |
-| 54 | [Highroll](https://open.spotify.com/track/4eaXS4949afO8LgaF4rzZO) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Highroll](https://open.spotify.com/album/2Kaxgrdx5WnASCgyIRlII4) | 3:01 |
+| 50 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 |
+| 51 | [You Don't Know How to Drive](https://open.spotify.com/track/10eGximnbByN1OCjAS4IoZ) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [You Don't Know How to Drive](https://open.spotify.com/album/5Ul7nxr0KsPt4vde0Ue5zY) | 3:15 |
+| 52 | [Highroll](https://open.spotify.com/track/4eaXS4949afO8LgaF4rzZO) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Highroll](https://open.spotify.com/album/2Kaxgrdx5WnASCgyIRlII4) | 3:01 |
+| 53 | [Like You](https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Like You](https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6) | 2:53 |
+| 54 | [Highness](https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3) | [Nosoyo](https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs) | [Highness](https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5) | 3:13 |
 | 55 | [Mojito](https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Mojito](https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax) | 3:04 |
 | 56 | [Your Moment](https://open.spotify.com/track/5JAbCjlhaks42cZsR7iYlL) | [Hugo Hamlet](https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO), [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Your Moment](https://open.spotify.com/album/7xuuHSrc2f8oJlp5ndu2E2) | 3:24 |
 | 57 | [I Swear It's True](https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [I Swear It's True](https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va) | 3:55 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 71 | [make you feel](https://open.spotify.com/track/7tltcvB3SJcvxq7VCMMmp4) | [palffi](https://open.spotify.com/artist/4htu2hjJJSAVQ8lRpZ07PC) | [make you feel](https://open.spotify.com/album/33uld99180XHljxAhQiPNs) | 3:30 |
 | 72 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 |
 | 73 | [20 Something](https://open.spotify.com/track/3aFgacV2lQUD0RCJHjSN59) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [20 Something](https://open.spotify.com/album/5m4DmHtjFw8UTHKEvcD1qZ) | 4:03 |
-| 74 | [1969 \- Conrad](https://open.spotify.com/track/44Zr3vEQdmZWNheh9t2wfz) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [1969 \- Conrad](https://open.spotify.com/album/0FYK70LHC8oiKAlI71uu9V) | 2:38 |
-| 75 | [Into the Night](https://open.spotify.com/track/0u1x6HLqZ45r7ekn7mOkTE) | [Mink](https://open.spotify.com/artist/021q1fOEcfqxtlCtJs868v) | [Into the Night](https://open.spotify.com/album/2lvXZ9u0h6wI8vzZ8rdfac) | 2:51 |
+| 74 | [Into the Night](https://open.spotify.com/track/0u1x6HLqZ45r7ekn7mOkTE) | [Mink](https://open.spotify.com/artist/021q1fOEcfqxtlCtJs868v) | [Into the Night](https://open.spotify.com/album/2lvXZ9u0h6wI8vzZ8rdfac) | 2:51 |
+| 75 | [1969 \- Conrad](https://open.spotify.com/track/44Zr3vEQdmZWNheh9t2wfz) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [1969 \- Conrad](https://open.spotify.com/album/0FYK70LHC8oiKAlI71uu9V) | 2:38 |
 | 76 | [How 2 Dance](https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [How 2 Dance](https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp) | 2:43 |
 | 77 | [Non\-Breakable Space](https://open.spotify.com/track/47YQlBQsQv1CfHi1E1Lnq8) | [Small Fires](https://open.spotify.com/artist/6lcQgSJvV3dxRev56wMrbc) | [All This Noise](https://open.spotify.com/album/1s352S6claWIYeJ0bvwyrq) | 3:43 |
 | 78 | [Amsterdam](https://open.spotify.com/track/0NfRaEBCHoEmwNDrpmtGoP) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Amsterdam](https://open.spotify.com/album/43gKGAue0Die8iUBwnAG7W) | 3:25 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 97 | [Eau De Toilette](https://open.spotify.com/track/4Etr8WrFrZlzQK5C3B6cv8) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Eau De Toilette](https://open.spotify.com/album/0BuWLZMQGOwlLREjXWDbeR) | 2:48 |
 | 98 | [Open \(feat\. Cailin Russo\)](https://open.spotify.com/track/1P48tbboGkgiE6HPwguSOO) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [Open \(feat\. Cailin Russo\)](https://open.spotify.com/album/0oS7wSnaV0S4PUss03i6jF) | 3:32 |
 | 99 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 |
-| 100 | [What Were You Hoping to Find?](https://open.spotify.com/track/18q3MaOdhbwYq4j2RswgN7) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [What Were You Hoping to Find?](https://open.spotify.com/album/3Q5bDksRVfWytZluEMWajp) | 3:45 |
+| 100 | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/track/4DMDtsHojzFgAKbtFYKoJ9) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/album/5Q4MnV0Phqr0R5eEM78Ycr) | 3:44 |
 
 Snapshot ID: `aFmKPgAAAAAnSNz6ApOtISl83M7w//72`

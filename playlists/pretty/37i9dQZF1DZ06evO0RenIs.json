@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 96723,
+  "num_followers": 96726,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAABCbcwYxQ9gZH5vyXZo0JEV",
+  "snapshot_id": "aH2DAAAAAACEsohhn96omnJLUv5+pvbE",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Entertainment",
+      "url": "https://open.spotify.com/track/3kTVKRzfYb7zqz56thbKrj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Lasso",
+      "url": "https://open.spotify.com/track/3LENMSJJU0LLqcdVgf4JVW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Winter Solstice (Braxe + Falcon Remix)",
         "url": "https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz"
       },
@@ -159,38 +191,6 @@
       "duration_ms": 240156,
       "name": "Winter Solstice - Braxe + Falcon Remix",
       "url": "https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Lasso",
-      "url": "https://open.spotify.com/track/3LENMSJJU0LLqcdVgf4JVW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Entertainment",
-      "url": "https://open.spotify.com/track/3kTVKRzfYb7zqz56thbKrj"
     },
     {
       "added_at": null,

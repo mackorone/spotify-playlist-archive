@@ -4,7 +4,7 @@
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-94 songs - 5 hr 20 min
+95 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Feast](https://open.spotify.com/track/4SAvheoSWHW4oAJRsEQZlj) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Feast](https://open.spotify.com/album/5I66m64ybG92bPlUkJ5Q2b) | 2:28 | 2024-12-04 |  |
 | [Floods](https://open.spotify.com/track/2coR8cnby3QnwRR1eH9Lg0) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [7](https://open.spotify.com/album/60blq04fivxFDr2whVvM5r) | 4:03 | 2024-12-04 | 2025-05-20 |
 | [Get Down](https://open.spotify.com/track/3iiyx5CpyeeUmouLCMEf1w) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 3:39 | 2024-12-04 |  |
-| [Get Numb To It!](https://open.spotify.com/track/0ra240JuO5Hu2qgHnLl3FB) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 4:52 | 2024-12-04 |  |
+| [Get Numb To It!](https://open.spotify.com/track/0ra240JuO5Hu2qgHnLl3FB) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 4:52 | 2024-12-04 | 2025-07-23 |
 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 | 2024-12-04 |  |
 | [Giant's Despair](https://open.spotify.com/track/6ZM932VVT6gSgo2ATdtt4i) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 3:40 | 2024-12-04 |  |
 | [Heaven](https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Heaven](https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP) | 3:10 | 2024-12-04 |  |
@@ -64,6 +64,7 @@
 | [Me has invitado a bailar](https://open.spotify.com/track/3tMftGMXTPbQlmjh4FzXpZ) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [La Jauría](https://open.spotify.com/album/4cAjvCWbcfaDhuiJxew1Sw) | 3:12 | 2024-12-04 |  |
 | [Mood Ring](https://open.spotify.com/track/1GSTBJv8vb5zgiKtERUrf8) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 2:57 | 2024-12-04 |  |
 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 | 2024-12-04 |  |
+| [New High](https://open.spotify.com/track/48ZHyBju731LtrATqM3LhQ) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [New High](https://open.spotify.com/album/2YCEnnEB1dUwaLBvhfkK75) | 3:41 | 2024-12-04 |  |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-12-04 |  |
 | [Normal](https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Elige Tu Propia Aventura](https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X) | 2:30 | 2024-12-04 |  |
 | [Ode To Clio](https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Ode To Clio](https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP) | 3:17 | 2024-12-04 |  |

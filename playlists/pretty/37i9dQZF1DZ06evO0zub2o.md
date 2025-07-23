@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 
 > This is Pantera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,231 likes - 41 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,304 likes - 41 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 28 | [Cat Scratch Fever](https://open.spotify.com/track/0baZSyZzsKSigMmoDno6Uk) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 3:49 |
 | 29 | [13 Steps to Nowhere](https://open.spotify.com/track/5FnIQ4H58EixgtoQQoOBjg) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 3:37 |
 | 30 | [The Badge](https://open.spotify.com/track/3HO3nXKWRhvkibVvsONrle) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:54 |
-| 31 | [Uplift](https://open.spotify.com/track/2aVoFviZYOZ10L19Bc7zdd) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 3:45 |
+| 31 | [Hellbound](https://open.spotify.com/track/1OdavDKvGA15nLfSRqAIpp) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 2:40 |
 | 32 | [Immortally Insane](https://open.spotify.com/track/7icuG5KBzs7UEBd8WuDler) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 5:11 |
 | 33 | [War Nerve](https://open.spotify.com/track/5smduZ8tFJFfCOZAl0SenA) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:53 |
 | 34 | [Dom / Hollow \- Live](https://open.spotify.com/track/6DVxAei4u7nNrXbEs9XvNS) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 3:43 |
-| 35 | [Hellbound](https://open.spotify.com/track/1OdavDKvGA15nLfSRqAIpp) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 2:40 |
+| 35 | [Uplift](https://open.spotify.com/track/2aVoFviZYOZ10L19Bc7zdd) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 3:45 |
 | 36 | [Where You Come From \- 2003 Remaster](https://open.spotify.com/track/1PWEA4Uq0fuwHv7yILK0G4) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits](https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH) | 5:12 |
 | 37 | [Avoid the Light](https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 6:26 |
 | 38 | [I Can't Hide](https://open.spotify.com/track/2SHJINY5mfK79Ms7dACUBD) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 2:16 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 40 | [Hole in the Sky \- 2003 Remaster](https://open.spotify.com/track/2jjzYGxHwPUEajef0NbOw7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits](https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH) | 4:16 |
 | 41 | [Electric Funeral](https://open.spotify.com/track/1CkTBKxFfVb0foi1jL8D8g) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 5:53 |
 
-Snapshot ID: `aHwxgAAAAAAOJdh1wuZu34lSwSqNvMuv`
+Snapshot ID: `aH2DAAAAAACa2dUWoog/Oaox79GKOjg9`

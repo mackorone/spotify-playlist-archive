@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Alex Warren, Jessie Murph, Lauv, AURORA, aespa and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,158 likes - 94 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,162 likes - 94 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 13 | [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/track/3IglY1ukGerwdCA0FVWY2i) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JAY \(ENHYPEN\)](https://open.spotify.com/artist/1dxyDekkPqYVKpC7iW71zJ) | [LOVE INSANE \(Feat\. JAY of ENHYPEN\)](https://open.spotify.com/album/2U3VnUzhG6tRWT7ZrjOWQI) | 2:31 |
 | 14 | [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 |
 | 15 | [I Can Die Now](https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA) | 2:51 |
-| 16 | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
+| 16 | [You Can’t Run From Yourself \- From "Kaiju No\. 8"](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
 | 17 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 |
 | 18 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 |
 | 19 | [つづく](https://open.spotify.com/track/70ERCHbKifPcFyUhLJPpM2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [つづく](https://open.spotify.com/album/7va0bdMQ39GEglWhgMF2XE) | 4:05 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 52 | [Forever Ain't Long Enough](https://open.spotify.com/track/5bKXRRnFPZfKWP1iIzq0FV) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Night Diving \(The Cost of Growing Up\)](https://open.spotify.com/album/0iK9uLukiE9sSqJ7P58C4c) | 3:13 |
 | 53 | [Stepper](https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Stepper](https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO) | 3:16 |
 | 54 | [Dominoes](https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Dominoes](https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd) | 2:59 |
-| 55 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
+| 55 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
 | 56 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 |
 | 57 | [New Romantic \- English Version](https://open.spotify.com/track/2pX3BJ8Dth7FycBchBZPmh) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [New Romantic](https://open.spotify.com/album/0CTUBmq4C8SGei4uMG8TpY) | 2:55 |
 | 58 | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR) | 3:33 |

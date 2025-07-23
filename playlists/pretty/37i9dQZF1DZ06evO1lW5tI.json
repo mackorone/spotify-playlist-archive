@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 242190,
+  "num_followers": 242261,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAADXdcAj+hMZqX0+eieCTokQ",
+  "snapshot_id": "aH2DAAAAAAAa5KtVmrpfigjQKKnVToVx",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 124177,
-      "name": "Juegos y Nubes",
-      "url": "https://open.spotify.com/track/231a0JtwO0iYOeHsjbFVzI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Late Night Tales: Khruangbin",
         "url": "https://open.spotify.com/album/2pqebJQi4AP1zUFSHY561K"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 201917,
       "name": "Summer Madness - Exclusive Cover Version",
       "url": "https://open.spotify.com/track/5FpOcTfCOpPovAxnYcwrKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 124177,
+      "name": "Juegos y Nubes",
+      "url": "https://open.spotify.com/track/231a0JtwO0iYOeHsjbFVzI"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Infamous Bill",
-        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 163961,
-      "name": "The No.3",
-      "url": "https://open.spotify.com/track/4RTRdh9HzUPLEsqbdS6R9c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Universe Smiles Upon You",
         "url": "https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 298439,
       "name": "Mr. White",
       "url": "https://open.spotify.com/track/7pdfs3Tnc5tSg3z5jnInvQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Infamous Bill",
+        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 163961,
+      "name": "The No.3",
+      "url": "https://open.spotify.com/track/4RTRdh9HzUPLEsqbdS6R9c"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Infamous Bill",
-        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Master Of Life",
-      "url": "https://open.spotify.com/track/7yvwoYqlw8t1piF4spNPsV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Universe Smiles Upon You",
         "url": "https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX"
       },
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "The Infamous Bill",
+        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 260732,
-      "name": "Connaissais de Face",
-      "url": "https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW"
+      "duration_ms": 181224,
+      "name": "Master Of Life",
+      "url": "https://open.spotify.com/track/7yvwoYqlw8t1piF4spNPsV"
     },
     {
       "added_at": null,
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Infamous Bill",
-        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
       "artists": [
         {
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 221218,
-      "name": "The No.4",
-      "url": "https://open.spotify.com/track/4hqW5pzyGljsAP7S9wjq7T"
+      "duration_ms": 260732,
+      "name": "Connaissais de Face",
+      "url": "https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW"
     },
     {
       "added_at": null,
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "The Infamous Bill",
+        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 185165,
-      "name": "Father Bird, Mother Bird",
-      "url": "https://open.spotify.com/track/5AaqYl3nQu2ktZbXOIRGXp"
+      "duration_ms": 221218,
+      "name": "The No.4",
+      "url": "https://open.spotify.com/track/4hqW5pzyGljsAP7S9wjq7T"
     },
     {
       "added_at": null,
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU"
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 239030,
-      "name": "Khuda Bhi Aasman - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5lZX0cZpdT3Y10uJ3oR17s"
+      "duration_ms": 185165,
+      "name": "Father Bird, Mother Bird",
+      "url": "https://open.spotify.com/track/5AaqYl3nQu2ktZbXOIRGXp"
     },
     {
       "added_at": null,
@@ -675,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modern Love",
-        "url": "https://open.spotify.com/album/5oYObkUoxoZa52Z5FdzjPT"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU"
       },
       "artists": [
         {
@@ -684,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 308913,
-      "name": "Right",
-      "url": "https://open.spotify.com/track/3ezJklJWZRm6pWI3DQjW9e"
+      "duration_ms": 239030,
+      "name": "Khuda Bhi Aasman - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5lZX0cZpdT3Y10uJ3oR17s"
     },
     {
       "added_at": null,
@@ -707,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/5oYObkUoxoZa52Z5FdzjPT"
       },
       "artists": [
         {
@@ -716,9 +700,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 286997,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/7JbBwnIVC92yt9eXjQi1lZ"
+      "duration_ms": 308913,
+      "name": "Right",
+      "url": "https://open.spotify.com/track/3ezJklJWZRm6pWI3DQjW9e"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 301242,
       "name": "Diarabi",
       "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 286997,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/7JbBwnIVC92yt9eXjQi1lZ"
     }
   ],
   "unique_name": "This Is Khruangbin",

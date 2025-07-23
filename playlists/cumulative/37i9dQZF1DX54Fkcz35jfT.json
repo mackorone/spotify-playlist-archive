@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/ Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: Survive Said The Prophet",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/ Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: w.o.d.",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 180933,
       "name": "#WhiteTigerSquad2",
       "url": "https://open.spotify.com/track/2beWRbskZA4z5NSuMwcNSy"
@@ -1715,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7Abg2P4028HyB0Bi4XkyBH"
+      },
+      "artists": [
+        {
+          "name": "Nothing\u2019s Carved In Stone",
+          "url": "https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250293,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/5PhFbL3KH8Yky5pzIkTTs2"
+    },
+    {
+      "album": {
         "name": "Everything is all lies",
         "url": "https://open.spotify.com/album/5YIvr0nyy19d0iNOsAzoPX"
       },
@@ -2801,6 +2819,28 @@
     },
     {
       "album": {
+        "name": "Kon! Kon! (feat. Bloodywood)",
+        "url": "https://open.spotify.com/album/15RUsiYzHzWFxCZqKjnW4T"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Bloodywood",
+          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235127,
+      "name": "Kon! Kon! (feat. Bloodywood)",
+      "url": "https://open.spotify.com/track/7uCQ2yvHQxZtTrvdDLA1Cz"
+    },
+    {
+      "album": {
         "name": "Ghost Notes",
         "url": "https://open.spotify.com/album/6BdGedS0lcdybP3AZeF72v"
       },
@@ -3312,7 +3352,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 287288,
       "name": "Mayfly",
       "url": "https://open.spotify.com/track/0F97rI9eyqqVehbA68TZAJ"
@@ -3936,7 +3976,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 198286,
       "name": "OVERTAKE",
       "url": "https://open.spotify.com/track/4RsO95mjER1jBmQMYrMADn"
@@ -5201,6 +5241,24 @@
     },
     {
       "album": {
+        "name": "Sono nanika in my daze",
+        "url": "https://open.spotify.com/album/2DUMtRtFsfGvAPYCOGGa5j"
+      },
+      "artists": [
+        {
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308256,
+      "name": "Sono nanika in my daze",
+      "url": "https://open.spotify.com/track/4Z3y4fJl1IuWCejj32HDPZ"
+    },
+    {
+      "album": {
         "name": "Spicy Queen",
         "url": "https://open.spotify.com/album/6g6RUAmiCQbW9H8nq324XK"
       },
@@ -5968,6 +6026,24 @@
       "duration_ms": 271265,
       "name": "UNDER THE TREE - Full Length Ver.",
       "url": "https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq"
+    },
+    {
+      "album": {
+        "name": "grunge is dead. EP",
+        "url": "https://open.spotify.com/album/4DT9L2A2N0aFSriNHLCRd8"
+      },
+      "artists": [
+        {
+          "name": "w.o.d.",
+          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139400,
+      "name": "UNINSTALL",
+      "url": "https://open.spotify.com/track/2L0PMoyeQ6u5jKxcbJM5N8"
     },
     {
       "album": {
@@ -6970,7 +7046,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 208600,
       "name": "\u30e1\u30bf\u308a\uff01\uff01 (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/213nQotWKjNWnD92F6NWVx"

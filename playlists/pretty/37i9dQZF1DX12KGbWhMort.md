@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 
 > Dale play, y que el amor no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,965 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,976 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 37 | [Devuélveme El Corazón](https://open.spotify.com/track/7etlF1zMxJbiaeQrXYh0PY) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 4:03 |
 | 38 | [¿Dónde Están Corazón?](https://open.spotify.com/track/1mkZZjz0X8YexDWXlx7zmX) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Greatest Hits](https://open.spotify.com/album/3aoVX17mIukbwctlbu99zk) | 4:19 |
 | 39 | [Ojalá](https://open.spotify.com/track/75KrTLbcLWgCcldZGxZR12) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:38 |
-| 40 | [Inmortal](https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 4:16 |
-| 41 | [Dime Que No](https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 4:24 |
+| 40 | [Dime Que No](https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 4:24 |
+| 41 | [Inmortal](https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 4:16 |
 | 42 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 | 43 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
 | 44 | [Qué Bonito Es Querer](https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [La Cruz Del Mapa](https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa) | 4:30 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 54 | [Carita de Inocente](https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:11 |
 | 55 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 |
 | 56 | [Después De Ti](https://open.spotify.com/track/3QEWvj2NI5ybtUAVnwzmzF) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J) | [Buen Viaje](https://open.spotify.com/album/0rvJrsAmPLF7YnmpR5CMEi) | 4:12 |
-| 57 | [Aunque Ahora Estés Con El](https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta](https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR) | 3:34 |
-| 58 | [Te Voy A Amar](https://open.spotify.com/track/2pWBSBT4GLSqt4mb0dkokU) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Un Nuevo Sol \(Versión Standard\)](https://open.spotify.com/album/7McgebAgt9gSwYSdvPjqXQ) | 4:13 |
+| 57 | [Te Voy A Amar](https://open.spotify.com/track/2pWBSBT4GLSqt4mb0dkokU) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Un Nuevo Sol \(Versión Standard\)](https://open.spotify.com/album/7McgebAgt9gSwYSdvPjqXQ) | 4:13 |
+| 58 | [Aunque Ahora Estés Con El](https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta](https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR) | 3:34 |
 | 59 | [Penelope](https://open.spotify.com/track/7imPloXAqWjd1UdUdJEAXF) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Luna Nueva](https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA) | 5:19 |
 | 60 | [Contigo \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Radio la Colifata Presenta: El Canto del Loco](https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf) | 3:34 |
 | 61 | [Porque Aun Te Amo](https://open.spotify.com/track/4xXIrj1bhJP2X0x3WhAgqp) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Dispuesto A Amarte](https://open.spotify.com/album/2TjcppxUUfwFZ7H9XAxwfw) | 3:29 |

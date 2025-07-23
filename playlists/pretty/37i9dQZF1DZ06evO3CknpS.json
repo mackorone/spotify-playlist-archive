@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAABiRDqKQhSspwEzVocwyZrl",
+  "snapshot_id": "aH2DAAAAAACvf1qOGSnOFWJCZ6hzY4Hs",
   "tracks": [
     {
       "added_at": null,
@@ -552,8 +552,8 @@
       },
       "artists": [
         {
-          "name": "Mikhail Glinka",
-          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
         },
         {
           "name": "Clara Rockmore",
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 149800,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/0SC43N4foOI5OGSAHYrXve"
+      "duration_ms": 181240,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/5qtfc56Rrv5VFcrnr4ZiBK"
     },
     {
       "added_at": null,
@@ -612,8 +612,8 @@
       },
       "artists": [
         {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+          "name": "Mikhail Glinka",
+          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
         },
         {
           "name": "Clara Rockmore",
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 181240,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/5qtfc56Rrv5VFcrnr4ZiBK"
+      "duration_ms": 149800,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/0SC43N4foOI5OGSAHYrXve"
     },
     {
       "added_at": null,
@@ -656,6 +656,34 @@
       },
       "artists": [
         {
+          "name": "Robert Sherman",
+          "url": "https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR"
+        },
+        {
+          "name": "Leon Theremin",
+          "url": "https://open.spotify.com/artist/6R2npczj4YLuQLFjVyVmpq"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 530506,
+      "name": "WQXR Radio Broadcast, January 4, 1992: Commentary Interview, Part One",
+      "url": "https://open.spotify.com/track/0TYwPiGjGLn53ej0duLUcQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
           "name": "\u00c9douard Lalo",
           "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
         },
@@ -671,30 +699,6 @@
       "duration_ms": 392533,
       "name": "Symphonie Espagnole: Andante",
       "url": "https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9sar Franck",
-          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 537293,
-      "name": "Sonata for violin and piano: Allegro",
-      "url": "https://open.spotify.com/track/2JU9CepLNuxp0Agyyp3fFr"
     }
   ],
   "unique_name": "This Is Clara Rockmore",

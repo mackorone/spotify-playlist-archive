@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/7mi1AGiEnSHxEshIruGZEc?si=WX2kwGuyTvO2B3Nf\_xM5\-w">Kiddy Kat</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG?si=A3b7I7yBTzS4we7T0n6K6Q">Afamefuna</a>\. Artwork: Isu Kim.
 
 1,357 songs - 2 day 19 hr 55 min
 
@@ -1059,7 +1059,7 @@
 | [Senses](https://open.spotify.com/track/7uCNuwc2rTq6yoCbhqa6EN) | [Uloko](https://open.spotify.com/artist/1674s2psVcNDWPwXZ9x1ZP) | [Senses](https://open.spotify.com/album/4BAVwVuy6cTJaC371iThCH) | 2:45 | 2024-11-06 | 2024-12-05 |
 | [Sere \(feat\. Tega boi dc\)](https://open.spotify.com/track/0Kl55thn00rFid2leXTeo9) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere](https://open.spotify.com/album/1ANJrFdux0Uj3j89YlhhUh) | 2:10 | 2023-09-27 | 2023-10-26 |
 | [Service](https://open.spotify.com/track/23OzpJciOsxrB2oTrWQL3W) | [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [Service](https://open.spotify.com/album/6RxOYbrRvkRnBaRoEknEYy) | 2:29 | 2024-10-04 | 2024-11-07 |
-| [Serwaa Akoto](https://open.spotify.com/track/0eaLGnHVVYS97BjiuQDqgn) | [Sablar](https://open.spotify.com/artist/0do4yoWrGKWLS0qNjKG2uV) | [Serwaa Akoto](https://open.spotify.com/album/4HgVZVouszetQxLvi70iDW) | 2:50 | 2025-04-10 |  |
+| [Serwaa Akoto](https://open.spotify.com/track/0eaLGnHVVYS97BjiuQDqgn) | [Sablar](https://open.spotify.com/artist/0do4yoWrGKWLS0qNjKG2uV) | [Serwaa Akoto](https://open.spotify.com/album/4HgVZVouszetQxLvi70iDW) | 2:50 | 2025-04-10 | 2025-07-23 |
 | [Seven Up](https://open.spotify.com/track/5i3ReJpjTCjGyZuxzczMuc) | [Lelowhatsgood](https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch), [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv) | [Seven Up](https://open.spotify.com/album/6nWRHiyClMb8iVeCR01gBu) | 5:52 | 2024-06-04 | 2024-07-03 |
 | [SEX APPEAL](https://open.spotify.com/track/3zP864oEbAOOJm168btZfG) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv) | [SEX APPEAL](https://open.spotify.com/album/1wqYr4iyCkkYPKzLMIoPMM) | 2:58 | 2023-06-05 | 2023-06-28 |
 | [Shadow](https://open.spotify.com/track/3nRNBZWIeLWfXKvuLuyiWl) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Shadow](https://open.spotify.com/album/2cJLHEoYe1o1NkeexIWMRS) | 2:49 | 2023-02-22 | 2023-03-30 |

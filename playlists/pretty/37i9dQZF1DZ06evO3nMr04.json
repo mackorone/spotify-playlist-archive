@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1412738,
+  "num_followers": 1412809,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAA4k8vHGVyprUuyUoi82lnj",
+  "snapshot_id": "aH2DAAAAAAB5auifjnR9wg3AX3z1xNMb",
   "tracks": [
     {
       "added_at": null,
@@ -467,18 +467,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
       },
       "artists": [
         {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 221226,
-      "name": "Through The Wire",
-      "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
+      "duration_ms": 111477,
+      "name": "BURN",
+      "url": "https://open.spotify.com/track/7BPadP3q9qwMkho3IMPU99"
     },
     {
       "added_at": null,
@@ -519,26 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
       "artists": [
         {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 111477,
-      "name": "BURN",
-      "url": "https://open.spotify.com/track/7BPadP3q9qwMkho3IMPU99"
+      "duration_ms": 221226,
+      "name": "Through The Wire",
+      "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
     },
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/2IDoD2LUp7GsNKnIgRI5hx"
-      },
-      "artists": [
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 132666,
-      "name": "DAMN",
-      "url": "https://open.spotify.com/track/2lWqz0nVW5Z0awSqANtlof"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watch The Throne",
         "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
       },
@@ -691,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/2IDoD2LUp7GsNKnIgRI5hx"
+      },
+      "artists": [
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 132666,
+      "name": "DAMN",
+      "url": "https://open.spotify.com/track/2lWqz0nVW5Z0awSqANtlof"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Black Skinhead",
+      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Watch The Throne",
         "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 178213,
       "name": "Otis",
       "url": "https://open.spotify.com/track/14I61w6cyYUHiV2n28IYdP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Black Skinhead",
-      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
     },
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Recession",
-        "url": "https://open.spotify.com/album/06k3QI4XXhSrvAqTh8mAdE"
-      },
-      "artists": [
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 321293,
-      "name": "Put On",
-      "url": "https://open.spotify.com/track/3OePAyHePd68TTKmy2hjq0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hip Hop Is Dead (Expanded Edition)",
         "url": "https://open.spotify.com/album/7sHrPadM39466NY7DW3s4r"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 217826,
       "name": "Still Dreaming",
       "url": "https://open.spotify.com/track/72nLaDnt2dfxCA3ZAiEC2c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Recession",
+        "url": "https://open.spotify.com/album/06k3QI4XXhSrvAqTh8mAdE"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 321293,
+      "name": "Put On",
+      "url": "https://open.spotify.com/track/3OePAyHePd68TTKmy2hjq0"
     }
   ],
   "unique_name": "This Is Kanye West",

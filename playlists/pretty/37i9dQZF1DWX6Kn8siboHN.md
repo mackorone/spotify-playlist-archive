@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Ramón Ayala en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,241 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,794 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 42 | [Una Pagina Mas](https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:39 |
 | 43 | [Ayer La Vi Por La Calle](https://open.spotify.com/track/3QEtFSlIylEVy7pePLHNiE) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Maquinista](https://open.spotify.com/album/69lJRuexU5t09latWCcR2L) | 3:08 |
 | 44 | [Mi Amuleto Eres Tú](https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k) | [Mi Amuleto Eres Tu](https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp) | 3:30 |
-| 45 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
-| 46 | [La Troca Del Moño Negro](https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Tequilero](https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO) | 3:10 |
+| 45 | [La Troca Del Moño Negro](https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Tequilero](https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO) | 3:10 |
+| 46 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
 | 47 | [Un Viejo Amor](https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 |
 | 48 | [Aviéntame](https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Camino Equivocado](https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2) | 3:12 |
 | 49 | [Soy Todo Tuyo](https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Soy Todo Tuyo](https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx) | 3:07 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 77 | [Sólo una Patada](https://open.spotify.com/track/34x84kiFbL2pdwlGT8BYcd) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Casas de Madera](https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM) | 2:46 |
 | 78 | [Amigos Tuve Una Novia](https://open.spotify.com/track/3Q5URFgTK8gBA7EwsSlatW) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [30 Primeros Exitos](https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf) | 3:37 |
 | 79 | [Crei](https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:22 |
-| 80 | [Celos del Viento](https://open.spotify.com/track/2l7STJBQ626zUw7cK40ioX) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Celos del Viento y Corridos Impactantes](https://open.spotify.com/album/0taQnd9YyP7HL8nKc1buow) | 2:47 |
-| 81 | [Tu Delirio](https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Exitos De Oro](https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP) | 3:04 |
+| 80 | [Tu Delirio](https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Exitos De Oro](https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP) | 3:04 |
+| 81 | [Celos del Viento](https://open.spotify.com/track/2l7STJBQ626zUw7cK40ioX) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Celos del Viento y Corridos Impactantes](https://open.spotify.com/album/0taQnd9YyP7HL8nKc1buow) | 2:47 |
 | 82 | [Mi tesoro](https://open.spotify.com/track/7KHGecUR5KX9hPLnsIdo8q) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 exitazos](https://open.spotify.com/album/4sMQ7QkSpj49jqNBAoiAyp) | 2:59 |
 | 83 | [Amores Fingidos](https://open.spotify.com/track/2PYfmBDAfXilm300zaMTIC) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:59 |
 | 84 | [No Hay Problema](https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Te Sigo Amando](https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4) | 3:35 |

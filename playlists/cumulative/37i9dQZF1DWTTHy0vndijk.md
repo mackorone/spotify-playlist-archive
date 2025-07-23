@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: 퍼플키스 \(PURPLE KISS\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: OHMYGIRL\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-493 songs - 1 day 3 hr 1 min
+494 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-23 |  |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-11-29 |  |
 | [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-07-28 | 2022-08-13 |
-| [Season of Memories](https://open.spotify.com/track/7LFwi4RolcCPnVEXXXVfQP) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories](https://open.spotify.com/album/3UUFDXb07kihCozeRLTe5y) | 3:06 | 2025-01-06 |  |
+| [Season of Memories](https://open.spotify.com/track/7LFwi4RolcCPnVEXXXVfQP) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories](https://open.spotify.com/album/3UUFDXb07kihCozeRLTe5y) | 3:06 | 2025-01-06 | 2025-07-23 |
 | [Secret Garden](https://open.spotify.com/track/1yXJ8tsOEXXEVWhYKVf191) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 4:04 | 2021-11-29 | 2022-07-28 |
 | [Secret princess \(Secret Jouju x WOOAH\)](https://open.spotify.com/track/1eSOrGdKykbGYMBL0VIg0I) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Secret princess \(Secret Jouju x WOOAH\)](https://open.spotify.com/album/17tkwDkoi0rQ6udpLNzZO1) | 2:34 | 2024-05-03 | 2024-05-15 |
 | [SEMINA](https://open.spotify.com/track/0wVLIpc1C3nSwvKNtkPrq3) | [gugudan SEMINA](https://open.spotify.com/artist/794b07X4OdSxB97S6X3NaP) | [Semina](https://open.spotify.com/album/65sFFFCBlzpksWDFLKLbEu) | 3:07 | 2021-11-29 | 2022-07-28 |
@@ -460,6 +460,7 @@
 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 | 2023-02-14 | 2023-04-25 |
 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 | 2021-11-29 | 2024-09-16 |
 | [We, First](https://open.spotify.com/track/0y1LIecRU2h6RcMIQ4P5vt) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [WE, first](https://open.spotify.com/album/21dgcZBV7sIgFLS2ASogQ4) | 3:22 | 2021-11-29 | 2022-07-29 |
+| [Weather Diary](https://open.spotify.com/track/6wviWs78JSuGTNRtc7Dto3) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Weather Diary](https://open.spotify.com/album/5bOgWbYz7fo86vNSPmX0wL) | 3:04 | 2025-07-22 |  |
 | [Weekend](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Weekend](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) | 3:53 | 2021-11-29 | 2023-10-30 |
 | [What Are You Up To Today?](https://open.spotify.com/track/70PEnzFqWKtR1PgFfaL6w5) | [HELLOVENUS](https://open.spotify.com/artist/3TW9U1f93tpGBsEtCSf7JG) | [What Are You Up To Today?](https://open.spotify.com/album/7nRrjHOqwT70Oxm3kk6mrL) | 3:22 | 2022-01-26 | 2022-06-20 |
 | [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 | 2022-07-28 | 2024-04-19 |

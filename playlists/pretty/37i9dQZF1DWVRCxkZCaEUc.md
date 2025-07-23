@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVRCxkZCaEUc.md) - [plain]
 
 > windows down, elbows out & bass UP ⬆️ rap + r&b anthems for your commute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,826 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,834 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVRCxkZCaEUc.md) - [plain]
 | 66 | [I Got 5 On It](https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG) | [Luniz](https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x), [Michael Marshall](https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn) | [Operation Stackola](https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb) | 4:13 |
 | 67 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 |
 | 68 | [Juicy \- 2005 Remaster](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:02 |
-| 69 | [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 |
-| 70 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 |
-| 71 | [So Fresh, So Clean](https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:00 |
-| 72 | [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 |
-| 73 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:59 |
+| 69 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 |
+| 70 | [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 |
+| 71 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:59 |
+| 72 | [So Fresh, So Clean](https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:00 |
+| 73 | [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 |
 | 74 | [La Romana](https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 5:00 |
 | 75 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 |
 

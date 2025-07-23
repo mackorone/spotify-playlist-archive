@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,171 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,170 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 42 | [Preta D+](https://open.spotify.com/track/1RsXIRweHrvL1MqmxHgiKf) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 3:14 |
 | 43 | [Calma Preta](https://open.spotify.com/track/75igikg3xWQPFhHHVj3jdT) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:09 |
 | 44 | [Da Lama / Afrontamento](https://open.spotify.com/track/5uGkKEpWUYcHDhVgoi8JjJ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 6:26 |
-| 45 | [Vida de Atriz](https://open.spotify.com/track/5coH2g5lXFO4PxEARDHL7V) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 2:48 |
-| 46 | [Magenta](https://open.spotify.com/track/20jar3jBKUq0ojEgHDOD5A) | [Afroito](https://open.spotify.com/artist/1qw5CiJU0QdsGdCdjkC7ue), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [Mango02](https://open.spotify.com/album/7FJ2UdIC4mXIRlmoyERVxk) | 3:11 |
+| 45 | [Magenta](https://open.spotify.com/track/20jar3jBKUq0ojEgHDOD5A) | [Afroito](https://open.spotify.com/artist/1qw5CiJU0QdsGdCdjkC7ue), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [Mango02](https://open.spotify.com/album/7FJ2UdIC4mXIRlmoyERVxk) | 3:11 |
+| 46 | [Patrão](https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Patrão](https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7) | 3:38 |
 | 47 | [Asas](https://open.spotify.com/track/33gruk3ZuMKP1t2gHwgmBa) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:22 |
-| 48 | [Patrão](https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Patrão](https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7) | 3:38 |
+| 48 | [Vida de Atriz](https://open.spotify.com/track/5coH2g5lXFO4PxEARDHL7V) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 2:48 |
 | 49 | [Siento Por Ciento \- Remix](https://open.spotify.com/track/3F9jxW2QPwwlbcoV9AAixI) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Siento por Ciento \(Remix\)](https://open.spotify.com/album/1AqpgAjhy5ZK7KbTUmNZS4) | 3:27 |
-| 50 | [Sociedade de Consumo](https://open.spotify.com/track/0vuZHiLnCcFvbiX0wRpV4Y) | [Dö Mc](https://open.spotify.com/artist/3ZUnv9j8nKS09bTDzTuYVB), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Sociedade de Consumo](https://open.spotify.com/album/0rXFMbbeqgQ0rKeU1RTxa6) | 3:45 |
+| 50 | [Só Que Não](https://open.spotify.com/track/7EFR4kfHrCvY2ByCYpM1C9) | [Caio Nunez](https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Só Que Não](https://open.spotify.com/album/1suEAb1EoLAgbsIqlahCtF) | 3:07 |
 
-Snapshot ID: `aHwxgAAAAACJRiZyFZEHEnnE6vgRQMCU`
+Snapshot ID: `aH2DAAAAAABPV4C13IsZV9bihuTjpmYo`

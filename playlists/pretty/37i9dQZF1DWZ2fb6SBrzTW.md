@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,616 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,634 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 26 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 |
 | 27 | [Feel D Mood](https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN) | [Outsyd DJ](https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Outsyd Eddie](https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Feel D Mood](https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv) | 2:13 |
 | 28 | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg) | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4) | 3:37 |
-| 29 | [Toma Toma](https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Toma Toma](https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS) | 2:48 |
-| 30 | [DND](https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 2:46 |
+| 29 | [DND](https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 2:46 |
+| 30 | [Toma Toma](https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Toma Toma](https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS) | 2:48 |
 | 31 | [Casablanca](https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:31 |
 | 32 | [Metaverse](https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:59 |
 | 33 | [Twe Twe](https://open.spotify.com/track/2khv04F26pnJr4989Maowi) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Twe Twe](https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7) | 2:23 |

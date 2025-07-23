@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-12",
-  "description": "Den bedste rock playliste i Danmark\u26a1\ufe0f ",
+  "description": "Den bedste rock playliste i Danmark!",
   "name": "VOLUME DENMARK",
   "tracks": [
     {
@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
+    },
+    {
+      "album": {
         "name": "[MESSAGE FROM THE CLERGY]",
         "url": "https://open.spotify.com/album/62s6qWya4Fdqvw7l6tZPxi"
       },
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 253666,
       "name": "Rock You Like a Hurricane - 2015 - Remaster",
       "url": "https://open.spotify.com/track/2fICdpdRotwfmGYzvs8Ngf"

@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2466731,
+  "num_followers": 2467007,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,18 @@
     {
       "added_at": "2025-07-11 02:45:52",
       "album": {
-        "name": "Dilaw",
-        "url": "https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp"
+        "name": "Sa Wakas",
+        "url": "https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb"
       },
       "artists": [
         {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+          "name": "Sugarfree",
+          "url": "https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy"
         }
       ],
-      "duration_ms": 192380,
-      "name": "Dilaw",
-      "url": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW"
+      "duration_ms": 210426,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv"
     },
     {
       "added_at": "2025-07-11 02:45:52",
@@ -147,18 +147,18 @@
     {
       "added_at": "2025-07-11 02:45:52",
       "album": {
-        "name": "Sa Wakas",
-        "url": "https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb"
+        "name": "Dilaw",
+        "url": "https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp"
       },
       "artists": [
         {
-          "name": "Sugarfree",
-          "url": "https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy"
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
         }
       ],
-      "duration_ms": 210426,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv"
+      "duration_ms": 192380,
+      "name": "Dilaw",
+      "url": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW"
     },
     {
       "added_at": "2025-07-11 02:45:52",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-07-11 02:45:52",
       "album": {
-        "name": "Dito Sa'kin",
-        "url": "https://open.spotify.com/album/23xK9zJT0znRZLwhIw3pEQ"
-      },
-      "artists": [
-        {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
-        }
-      ],
-      "duration_ms": 330720,
-      "name": "Dito Sa'kin",
-      "url": "https://open.spotify.com/track/4g6QB9ktIdyEW5sIfcp71i"
-    },
-    {
-      "added_at": "2025-07-11 02:45:52",
-      "album": {
         "name": "Episode",
         "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 244800,
       "name": "Give Me Your Forever",
       "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
+    },
+    {
+      "added_at": "2025-07-11 02:45:52",
+      "album": {
+        "name": "Dito Sa'kin",
+        "url": "https://open.spotify.com/album/23xK9zJT0znRZLwhIw3pEQ"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "duration_ms": 330720,
+      "name": "Dito Sa'kin",
+      "url": "https://open.spotify.com/track/4g6QB9ktIdyEW5sIfcp71i"
     },
     {
       "added_at": "2025-07-11 02:45:52",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-07-11 02:45:52",
       "album": {
-        "name": "Kitchie Nadal",
-        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
-      },
-      "artists": [
-        {
-          "name": "Kitchie Nadal",
-          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
-        }
-      ],
-      "duration_ms": 249080,
-      "name": "Huwag Na Huwag Mong Sasabihin",
-      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
-    },
-    {
-      "added_at": "2025-07-11 02:45:52",
-      "album": {
         "name": "Destination XYZ",
         "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 326813,
       "name": "Magbalik",
       "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
+    },
+    {
+      "added_at": "2025-07-11 02:45:52",
+      "album": {
+        "name": "Kitchie Nadal",
+        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
+      },
+      "artists": [
+        {
+          "name": "Kitchie Nadal",
+          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
+        }
+      ],
+      "duration_ms": 249080,
+      "name": "Huwag Na Huwag Mong Sasabihin",
+      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
     },
     {
       "added_at": "2025-07-11 02:45:52",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-07-11 02:45:52",
       "album": {
-        "name": "Aya",
-        "url": "https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR"
-      },
-      "artists": [
-        {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
-        }
-      ],
-      "duration_ms": 230058,
-      "name": "Aya",
-      "url": "https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON"
-    },
-    {
-      "added_at": "2025-07-11 02:45:52",
-      "album": {
         "name": "Kitchie Nadal",
         "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 267680,
       "name": "Same Ground",
       "url": "https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6"
+    },
+    {
+      "added_at": "2025-07-11 02:45:52",
+      "album": {
+        "name": "Aya",
+        "url": "https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "duration_ms": 230058,
+      "name": "Aya",
+      "url": "https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON"
     },
     {
       "added_at": "2025-07-11 02:45:52",

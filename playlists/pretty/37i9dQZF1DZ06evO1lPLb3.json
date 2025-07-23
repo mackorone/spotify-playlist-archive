@@ -1,12 +1,12 @@
 {
   "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 55981,
+  "num_followers": 55993,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAAHJTpTovRFiDfKzCkQS7Tt",
+  "snapshot_id": "aH2DAAAAAACNz7JalshDp4PjMSjk6Lb6",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nabi (feat. Ohhyuk)",
         "url": "https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 232914,
       "name": "Nabi (feat. OHHYUK)",
       "url": "https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1+1=11",
-        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 190644,
-      "name": "1+1=11 - Edit",
-      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
     },
     {
       "added_at": null,

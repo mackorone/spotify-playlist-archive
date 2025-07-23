@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute AJULIACOSTA e mais mulheres incríveis no volume máximo! co\-curada por AJULIACOSTA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,849 likes - 46 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,840 likes - 46 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401 likes - 25 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 402 likes - 25 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,20 +18,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 8 | [emotional affair](https://open.spotify.com/track/4C0JASInf8x6Z9MNAmsQb7) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 3:01 |
 | 9 | [All the Things You'd Ruin](https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv) | 2:46 |
 | 10 | [Sideways \(feat\. Meg Smith\)](https://open.spotify.com/track/5XnHGjcnDMw0KWe4lJzqSD) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Nosebleeds: Encore](https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ) | 2:44 |
-| 11 | [Emotional Punching Bag](https://open.spotify.com/track/00mXO5pZSGrXQKyqkaI56b) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional punching bag](https://open.spotify.com/album/2h8fMB5OeSth65ZiJl4ixZ) | 2:56 |
+| 11 | [One Hit Wonder](https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22) | 3:20 |
 | 12 | [poltergeist](https://open.spotify.com/track/7nVvznvTle4wZBg6fN0GQr) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 2:33 |
-| 13 | [One Hit Wonder](https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22) | 3:20 |
+| 13 | [Emotional Punching Bag](https://open.spotify.com/track/00mXO5pZSGrXQKyqkaI56b) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional punching bag](https://open.spotify.com/album/2h8fMB5OeSth65ZiJl4ixZ) | 2:56 |
 | 14 | [...but i'd miss you too much!](https://open.spotify.com/track/76T8rvbzcIj4vquvc8y9YI) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/3vQxQx8nuRYjqUsImHbDmZ) | 2:58 |
 | 15 | [HRDCR](https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Oliver Price](https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg), [Thomas Greenwood](https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr) | [Pop Drama](https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5) | 3:40 |
 | 16 | [you fake your british accent](https://open.spotify.com/track/7BzOTBSCGMxwOQsrMPUC2W) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 3:08 |
 | 17 | [Cautiously Optimistic](https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD) | 2:25 |
-| 18 | [guitar center](https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [guitar center](https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0) | 3:07 |
-| 19 | [Cool 4 U](https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cool 4 U](https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7) | 2:19 |
+| 18 | [Cool 4 U](https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cool 4 U](https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7) | 2:19 |
+| 19 | [guitar center](https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [guitar center](https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0) | 3:07 |
 | 20 | [DO YOU LIKE ME?](https://open.spotify.com/track/6lxeT761ZTSkwaEDfQnc1F) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 2:57 |
 | 21 | [American in Paris](https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 2:44 |
-| 22 | [Why Do I Keep Playing It](https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx) | 2:45 |
-| 23 | [Who Not to Love](https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v) | 3:03 |
+| 22 | [Who Not to Love](https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v) | 3:03 |
+| 23 | [Why Do I Keep Playing It](https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx) | 2:45 |
 | 24 | [Joni](https://open.spotify.com/track/3TBCjahLhF8sNJWqoKj0zE) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 3:50 |
 | 25 | [Because of Me](https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 3:02 |
 
-Snapshot ID: `aHwxgAAAAAC/1reIHewtzED58/tNmGCH`
+Snapshot ID: `aH2DAAAAAAB+B+6X5R/9dXy8rK+WtUae`

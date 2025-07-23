@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,479 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,486 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 27 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 28 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 29 | [Melrose Place](https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:36 |
-| 30 | [Catalina](https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB) | [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Ghost Killer Track](https://open.spotify.com/artist/0pP39ryqTNnZqUeS7rCboX), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Catalina](https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN) | 2:53 |
+| 30 | [Catalina](https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB) | [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Catalina](https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN) | 2:53 |
 | 31 | [APPELLE TA COPINE](https://open.spotify.com/track/0fidOo48Icjrh6JztQ3cHb) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/5FWu2kqXOGLBVw7KjKhYzg) | 3:00 |
 | 32 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
 | 33 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
 | 50 | [Shamballa](https://open.spotify.com/track/6hl9Tc95QrqDk4Q3uWLHls) | [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P), [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg) | [Shamballa](https://open.spotify.com/album/5rKOmNx7sXSmXfjI2QKGjg) | 2:27 |
 
-Snapshot ID: `MBG0KAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MBMFqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

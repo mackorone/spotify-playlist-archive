@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,001 likes - 50 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,047 likes - 50 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 49 | [Digno \(Worthy\)](https://open.spotify.com/track/1G4YFaCFPPN4P0fZCzKYba) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0) | [Aleluya \(En La Tierra\)](https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH) | 6:18 |
 | 50 | [Grateful](https://open.spotify.com/track/4d2S4TnoA8QSTsV4jsStWK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 4:07 |
 
-Snapshot ID: `aHwxgAAAAAAi9MZ3i0JQyy9p+TG3dp9c`
+Snapshot ID: `aH2DAAAAAAC0ZYoEEdeSyRPa7t4Ei2H3`

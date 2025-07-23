@@ -4,7 +4,7 @@
 
 > When a heartbroken New Yorker moves to London hoping for a love story, she falls for an indie musician who's anything but the typical romantic hero\. Now streaming on Netflix.
 
-53 songs - 3 hr 20 min
+54 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [I Want To See The Bright Lights Tonight](https://open.spotify.com/track/3jd3nPQtwKS3HY6A8XpXx5) | [Richard & Linda Thompson](https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5) | [I Want To See The Bright Lights Tonight](https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt) | 3:09 | 2025-07-10 |  |
 | [In Spite of Ourselves](https://open.spotify.com/track/1pLGpvNjHWRa5byMjnEc7L) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg), [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Welfare Jazz](https://open.spotify.com/album/4j9nZJXO7p8YGkyxIauRjL) | 5:03 | 2025-07-10 |  |
 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 | 2025-07-10 |  |
+| [It's Too Late](https://open.spotify.com/track/6usgqZFMMu16OqOeEKq4p7) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4) | [It's Too Late](https://open.spotify.com/album/15zOsgWRV0MU63uzq9KoiB) | 3:10 | 2025-07-22 |  |
 | [Itty Bitty Piggy](https://open.spotify.com/track/0dZjYXCevulColOqDmX2c3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/48TYgcIUxzcZgRrUSmd1CP) | 4:06 | 2025-07-10 |  |
 | [London Bridge](https://open.spotify.com/track/7K2IeEefMiK8sDL8RBvXw2) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [The Dutchess](https://open.spotify.com/album/2knAf4wg8Gff8q1bXiXCTz) | 4:01 | 2025-07-10 |  |
 | [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 10:19 | 2025-07-10 |  |

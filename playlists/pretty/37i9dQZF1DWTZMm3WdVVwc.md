@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,992 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,990 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,19 +17,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 7 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 |
 | 8 | [Subtitle](https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy) | 5:05 |
 | 9 | [夜凪 \(feat\. にしな\)](https://open.spotify.com/track/4peHpL8DSQpDxblRCZEHbd) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [夜凪 \(feat\. にしな\)](https://open.spotify.com/album/4AAjWHXAFXvJ3bScDWyHaU) | 3:27 |
-| 10 | [WINTER WITHOUT YOU](https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WINTER WITHOUT YOU](https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM) | 4:03 |
+| 10 | [プレゼント](https://open.spotify.com/track/3qEFqbP7UiyJZx6g5C3LSd) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [プレゼント](https://open.spotify.com/album/7jf3rMyieGNYzn7iDGskLV) | 4:08 |
 | 11 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
-| 12 | [プレゼント](https://open.spotify.com/track/3qEFqbP7UiyJZx6g5C3LSd) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [プレゼント](https://open.spotify.com/album/7jf3rMyieGNYzn7iDGskLV) | 4:08 |
+| 12 | [silent](https://open.spotify.com/track/6c5k0VC9TBzlcKwtjpzFW2) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [silent](https://open.spotify.com/album/1zL4fVzGjGVuX6tMCUXUyg) | 5:08 |
 | 13 | [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 |
-| 14 | [silent](https://open.spotify.com/track/6c5k0VC9TBzlcKwtjpzFW2) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [silent](https://open.spotify.com/album/1zL4fVzGjGVuX6tMCUXUyg) | 5:08 |
+| 14 | [AlwayS](https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [AlwayS](https://open.spotify.com/album/3eIBSBfp00tC60r4udiZzH) | 4:20 |
 | 15 | [やさしい舞踏会](https://open.spotify.com/track/1DSxhNf742bhxJzfhDuygH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SCOPE](https://open.spotify.com/album/4argo68WyfT6dGHp2ETKpm) | 4:54 |
-| 16 | [IS THIS LOVE \(Piano Ver.\)](https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:36 |
+| 16 | [WINTER WITHOUT YOU](https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WINTER WITHOUT YOU](https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM) | 4:03 |
 | 17 | [ハツコイノウタ](https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ハツコイノウタ](https://open.spotify.com/album/4VtLZNRYHHAe7esWR5eD93) | 3:18 |
-| 18 | [AlwayS](https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [AlwayS](https://open.spotify.com/album/3eIBSBfp00tC60r4udiZzH) | 4:20 |
-| 19 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 |
-| 20 | [恋人じゃなくなった日](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [恋人じゃなくなった日](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) | 3:44 |
+| 18 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 |
+| 19 | [恋人じゃなくなった日](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [恋人じゃなくなった日](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) | 3:44 |
+| 20 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 |
 | 21 | [悪夢のような \- Acoustic](https://open.spotify.com/track/5UedywpBjrrvbhwDzjDAUn) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような \(NightTime Version\)](https://open.spotify.com/album/2ZLrpmJUMdbZZmmZpVY3hl) | 4:12 |
-| 22 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 |
+| 22 | [IS THIS LOVE \(Piano Ver.\)](https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:36 |
 | 23 | [独白](https://open.spotify.com/track/6KGVTqKatNlWRNBvkJl0px) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [独白](https://open.spotify.com/album/3bohD8rUa1U2O5zMVAfLHf) | 3:52 |
 | 24 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 |
 | 25 | [Slow time lover](https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Slow time lover](https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG) | 4:01 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 40 | [さすらい](https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [さすらい](https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2) | 3:26 |
 | 41 | [Focus](https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Focus](https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh) | 4:17 |
 | 42 | [まっ白](https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [そうかな](https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6) | 4:23 |
-| 43 | [snow moon](https://open.spotify.com/track/5lPqjvCzMvEA5vtvhnol0c) | [Ryosuke Yamada](https://open.spotify.com/artist/5fc4bs6XESpstwZCLCKA4q) | [snow moon](https://open.spotify.com/album/4USKwXE1Wmb5KqsJquxqgm) | 3:52 |
-| 44 | [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 |
-| 45 | [まっしろ](https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:57 |
+| 43 | [まっしろ](https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:57 |
+| 44 | [snow moon](https://open.spotify.com/track/5lPqjvCzMvEA5vtvhnol0c) | [Ryosuke Yamada](https://open.spotify.com/artist/5fc4bs6XESpstwZCLCKA4q) | [snow moon](https://open.spotify.com/album/4USKwXE1Wmb5KqsJquxqgm) | 3:52 |
+| 45 | [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 |
 | 46 | [honestly](https://open.spotify.com/track/7ntRuy1lDZsIXNeSNsuCkz) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 2:59 |
 | 47 | [メルト](https://open.spotify.com/track/1l3DyfCBMljhECA1oO2ySP) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [メルト](https://open.spotify.com/album/3ScJNa9OOkQYCVc3A6eg6P) | 2:43 |
 | 48 | [スノードーム](https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [スノードーム](https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV) | 3:18 |

@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 46 | [Eve, Psyche & the Bluebeard’s wife \(Rina Sawayama Remix\)](https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eve, Psyche & the Bluebeard’s wife \(Rina Sawayama Remix\)](https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh) | 2:54 |
 | 47 | [Latest Ghost \- Piano Version](https://open.spotify.com/track/2loDDNNlOt33AQqRDIZOtJ) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World \(Piano Versions\)](https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T) | 2:51 |
 | 48 | [NINETEEN](https://open.spotify.com/track/4TqQPf01wvMqpbjcVtaeNJ) | [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [NINETEEN](https://open.spotify.com/album/3UrgYfoyt36j4j1smNqwpb) | 3:03 |
-| 49 | [Priorities](https://open.spotify.com/track/74JMCtnIUVepy6Iz6FLqzx) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Priorities](https://open.spotify.com/album/2Jwz8d47Z1SjssxwYGMMEE) | 3:13 |
-| 50 | [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 |
+| 49 | [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 |
+| 50 | [Priorities](https://open.spotify.com/track/74JMCtnIUVepy6Iz6FLqzx) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Priorities](https://open.spotify.com/album/2Jwz8d47Z1SjssxwYGMMEE) | 3:13 |
 | 51 | [Sodom & Gomorrah](https://open.spotify.com/track/3x3kYVMHdqwConilMGjZzi) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 3:09 |
 | 52 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 |
 | 53 | [Send My Love To John](https://open.spotify.com/track/4ObFrK0MLVZyYaFHOyPbVa) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:25 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 111 | [Off\-World](https://open.spotify.com/track/7actzHWTsZYrimLJtDUGEC) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Off\-World](https://open.spotify.com/album/4ffjvDRam4xYWMy85hNtdb) | 3:40 |
 | 112 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `Ab3ZqAAAAABk8RlzowGmkbJbeE0YL5FS`
+Snapshot ID: `Ab3fSAAAAABLF10jzc07Id2/lLhYzGWH`

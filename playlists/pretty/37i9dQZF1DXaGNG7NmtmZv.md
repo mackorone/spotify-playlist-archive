@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,448 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,474 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 16 | [Sworn Enemy](https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [As Real As It Gets](https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv) | 3:36 |
 | 17 | [Wake the Dead](https://open.spotify.com/track/0Ux0LyZRoLFiXfyKZtt6IE) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Wake The Dead](https://open.spotify.com/album/12E474LltJ7NCZD2L2kvR0) | 3:17 |
 | 18 | [You Ignore Them All](https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Sound Of The Republic](https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm) | 3:32 |
-| 19 | [Let's Pretend](https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw) | [Life Of Agony](https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl) | [Ugly](https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc) | 3:58 |
-| 20 | [Take a Stand](https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 1:40 |
+| 19 | [Take a Stand](https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 1:40 |
+| 20 | [Let's Pretend](https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw) | [Life Of Agony](https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl) | [Ugly](https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc) | 3:58 |
 | 21 | [Total War](https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Neutralize the Threat](https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1) | 3:38 |
 | 22 | [Over the Years](https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Friendship Loyalty Commitment](https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I) | 2:05 |
 | 23 | [Get This Right!](https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Dedication](https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G) | 3:30 |

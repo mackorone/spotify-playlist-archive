@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd?si=\_S9SDVpeQaqDmtWHrGf99Q>Oncemore Six</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,941 likes - 105 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,968 likes - 105 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

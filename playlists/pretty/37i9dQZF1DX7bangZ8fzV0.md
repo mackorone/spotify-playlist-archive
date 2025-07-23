@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Rooksein
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,098 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,132 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 25 | [Wil Jy Bly](https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Wil Jy Bly](https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg) | 3:07 |
 | 26 | [Keeza](https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 2:58 |
 | 27 | [Carina](https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Carina](https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS) | 3:16 |
-| 28 | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR) | 2:44 |
-| 29 | [Haar Naam Is Afrikaans](https://open.spotify.com/track/55Y2k3TvlgniJdoZtcul0b) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Haar Naam Is Afrikaans](https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN) | 3:24 |
+| 28 | [Haar Naam Is Afrikaans](https://open.spotify.com/track/55Y2k3TvlgniJdoZtcul0b) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Haar Naam Is Afrikaans](https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN) | 3:24 |
+| 29 | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR) | 2:44 |
 | 30 | [Nykie](https://open.spotify.com/track/2kK8T5mbA5rJaC578CyKQ0) | [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Nykie](https://open.spotify.com/album/4L2oOZclkPXDTGIblnXyBw) | 3:19 |
 | 31 | [Boksemdais](https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Boksemdais](https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0) | 3:08 |
 | 32 | [Meisie wat kan Vasdans](https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Meisie wat kan Vasdans](https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec) | 3:19 |
-| 33 | [Pokkenvoes](https://open.spotify.com/track/78lVjTSJ5bY9zXbfOjTJHa) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Pokkenvoes](https://open.spotify.com/album/5S9QFkaG5NihdCwHqVCPw6) | 3:11 |
-| 34 | [Trek Hom Plat](https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Trek Hom Plat](https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd) | 2:52 |
+| 33 | [Liewe Jinne!](https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Liewe Jinne!](https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm) | 3:31 |
+| 34 | [Witblits](https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:07 |
 | 35 | [Flippen Nice](https://open.spotify.com/track/531VPEKC0P7nMGylnAmRb3) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Flippen Nice](https://open.spotify.com/album/3tkqXs6ODmuGr8EIWM5ZnU) | 3:27 |
-| 36 | [Witblits](https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:07 |
-| 37 | [Liewe Jinne!](https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Liewe Jinne!](https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm) | 3:31 |
+| 36 | [Trek Hom Plat](https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Trek Hom Plat](https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd) | 2:52 |
+| 37 | [Pokkenvoes](https://open.spotify.com/track/78lVjTSJ5bY9zXbfOjTJHa) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Pokkenvoes](https://open.spotify.com/album/5S9QFkaG5NihdCwHqVCPw6) | 3:11 |
 | 38 | [Ek Verstaan](https://open.spotify.com/track/4f1ejHkPawc7rqetNInHOA) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa), [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Ek Verstaan](https://open.spotify.com/album/1lgKA1jlBsN9OqDct5jzrI) | 2:44 |
 | 39 | [Iemand Soos Jy](https://open.spotify.com/track/298k3iGimVSsClUG9KolBF) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Klein Dingetjies](https://open.spotify.com/album/6Vr6vWjW8ZZOpqbDrDUSmI) | 2:57 |
 | 40 | [Liefde In 'n Loopdop](https://open.spotify.com/track/374VSOlTOiVF4L4KPXXVTs) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Liefde In 'n Loopdop](https://open.spotify.com/album/0pAUjxoPRLfUtYM6Uod8Pm) | 3:31 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 60 | [Die Afrikaner Maak So](https://open.spotify.com/track/64tRSmtHGKaCuoO1BljWKk) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Die Afrikaner Maak So](https://open.spotify.com/album/7iIDK5smB90lIAw0mEpOSS) | 2:59 |
 | 61 | [Net Myne](https://open.spotify.com/track/6PdtHsCB9kopQGKLcHjpwM) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Net Myne](https://open.spotify.com/album/5NALlrlbVlzuMcjLK29zR0) | 3:02 |
 | 62 | [Kan 'N Man](https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Kan 'N Man](https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV) | 2:49 |
-| 63 | [Dans Die Vlamme Dood](https://open.spotify.com/track/1rw7TMwVcioAaSbrHXPQjl) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Dans Die Vlamme Dood](https://open.spotify.com/album/5ZrGwrSdrxN36ySRx5ye76) | 2:53 |
-| 64 | [Lag](https://open.spotify.com/track/3R8GgzGMtJ27pDr6OcazYV) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Lag](https://open.spotify.com/album/2T2I88ZxUKKddoYiJhLd0k) | 3:03 |
+| 63 | [Lag](https://open.spotify.com/track/3R8GgzGMtJ27pDr6OcazYV) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Lag](https://open.spotify.com/album/2T2I88ZxUKKddoYiJhLd0k) | 3:03 |
+| 64 | [Dans Die Vlamme Dood](https://open.spotify.com/track/1rw7TMwVcioAaSbrHXPQjl) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Dans Die Vlamme Dood](https://open.spotify.com/album/5ZrGwrSdrxN36ySRx5ye76) | 2:53 |
 | 65 | [Boereworsgordyn](https://open.spotify.com/track/38R4Dldpw56RYWRN4lnz7q) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd), [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Boereworsgordyn](https://open.spotify.com/album/0bjsKbIPpx5Y49kQqtxBZV) | 3:16 |
 | 66 | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw) | 3:02 |
 | 67 | [Ek Hou Van](https://open.spotify.com/track/2d0BTAtkxkg31RSDojepYY) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Ek Hou Van](https://open.spotify.com/album/20qhnlZWxfQHIETLWlu6kD) | 3:12 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 74 | [Voete Jeuk](https://open.spotify.com/track/3L2TgLpX3Y9iW1Ltoen06W) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Voete Jeuk](https://open.spotify.com/album/4iOuNfztQDsLDilSnQPhT7) | 3:40 |
 | 75 | [Wynland](https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Wynland](https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS) | 2:41 |
 | 76 | [Memories Maak](https://open.spotify.com/track/3Iue15EbnjaD5dfgYCw7mf) | [Ariana Venus](https://open.spotify.com/artist/2NxHVU4CsjrwS2MIA0dupe) | [Memories Maak](https://open.spotify.com/album/28qOth6mq7ANU4Pgrb5KK9) | 3:36 |
-| 77 | [Asseblief](https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Asseblief](https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO) | 3:27 |
-| 78 | [Bosveld Dans](https://open.spotify.com/track/489YLHaA5sh1CD7awfMRTD) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Bosveld Dans](https://open.spotify.com/album/7K7LqdCep5KSEnpaRyYnA0) | 3:14 |
+| 77 | [Bosveld Dans](https://open.spotify.com/track/489YLHaA5sh1CD7awfMRTD) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Bosveld Dans](https://open.spotify.com/album/7K7LqdCep5KSEnpaRyYnA0) | 3:14 |
+| 78 | [Asseblief](https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Asseblief](https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO) | 3:27 |
 | 79 | [Deur Die Winters](https://open.spotify.com/track/5kYfjmKb8nUGeTS7YBAslO) | [Venter](https://open.spotify.com/artist/7AbHJtc16ssgYnjxLPj9mS) | [Deur Die Winters](https://open.spotify.com/album/7xbqMfdKNRSjGFzzF71uvZ) | 3:42 |
 | 80 | [Vlam In Die Wind](https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Vlam In Die Wind](https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8) | 3:25 |
 

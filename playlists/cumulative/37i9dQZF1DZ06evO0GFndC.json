@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "Pura Manzanita Vol. 4",
+        "url": "https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206208,
+      "name": "Creces",
+      "url": "https://open.spotify.com/track/7nSknXLSED07Hubig7HxvZ"
+    },
+    {
+      "album": {
         "name": "Pura Manzanita",
         "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
       },
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 171000,
       "name": "Problemas Mentales",
       "url": "https://open.spotify.com/track/56X29F9THJqhofWefcdvRk"

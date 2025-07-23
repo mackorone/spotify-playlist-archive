@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,306 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,420 likes - 75 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 14 | [Jaun Zuria](https://open.spotify.com/track/1L1Dm4HuSKhWzxnqbXHW7Z) | [Tartalo Music](https://open.spotify.com/artist/7bKo8Jgp76YNToFednF7kT) | [Jaun Zuria](https://open.spotify.com/album/6SgXHrTQdZSwkVg31WH409) | 2:29 |
 | 15 | [Runar](https://open.spotify.com/track/1ffeWPrcBEnQF28uPE1BX9) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Runar](https://open.spotify.com/album/4gkAmnywXdItmKEdP1E9IS) | 4:20 |
 | 16 | [Shaman of Chaos](https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS) | [OMNIA](https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS) | [Reflexions](https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR) | 4:11 |
-| 17 | [Shieldmaiden](https://open.spotify.com/track/3GMwtVxonfUVbd9DnAUqFP) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx), [Tuomas Holopainen](https://open.spotify.com/artist/4rpsPzapLwm5LJPZmmWhFI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [Shieldmaiden](https://open.spotify.com/album/2pEGtKClaD7eYWnzQgyWo2) | 3:15 |
-| 18 | [Fatherland](https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm](https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU) | 4:51 |
+| 17 | [Fatherland](https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm](https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU) | 4:51 |
+| 18 | [Shieldmaiden](https://open.spotify.com/track/3GMwtVxonfUVbd9DnAUqFP) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx), [Tuomas Holopainen](https://open.spotify.com/artist/4rpsPzapLwm5LJPZmmWhFI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [Shieldmaiden](https://open.spotify.com/album/2pEGtKClaD7eYWnzQgyWo2) | 3:15 |
 | 19 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
 | 20 | [Uhrikivi](https://open.spotify.com/track/7e0Ew73g1nb4SoHDtcL8W6) | [Noitakuningas](https://open.spotify.com/artist/0JaS8jTdFq6nZjckUz4JT6) | [Uhrikivi](https://open.spotify.com/album/0h6tZsu7w2pF3TEXsBKDxg) | 5:37 |
 | 21 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 |
 | 22 | [I Am](https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [A Frame of Mind](https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy) | 5:32 |
 | 23 | [Norupo](https://open.spotify.com/track/6HptVLMwjkTcwjDi4Tq6if) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Norupo](https://open.spotify.com/album/2dqDsdWvvKA1CDHcD3UwFc) | 4:17 |
-| 24 | [Der Himmel muss warten](https://open.spotify.com/track/0FRAUkJtl4bn92ySux8EEg) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [Der Himmel muss warten](https://open.spotify.com/album/43Q7gDUQETLoJmJLDa4LhF) | 2:23 |
+| 24 | [Blot](https://open.spotify.com/track/0YYZwCwlj4LVEsQxPPJJmf) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Blot](https://open.spotify.com/album/1ADhesMd0cTTjL8Vv44Idf) | 5:13 |
 | 25 | [Noidan Nousu](https://open.spotify.com/track/680HRsVF8FqjgHH9rtefsE) | [Kallomäki](https://open.spotify.com/artist/0KYKgrKx6gPLODjybxJpn9) | [Noidan Nousu](https://open.spotify.com/album/5mbI6EOtW4ft43ske1T8CG) | 3:51 |
-| 26 | [Blot](https://open.spotify.com/track/0YYZwCwlj4LVEsQxPPJJmf) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Blot](https://open.spotify.com/album/1ADhesMd0cTTjL8Vv44Idf) | 5:13 |
+| 26 | [Der Himmel muss warten](https://open.spotify.com/track/0FRAUkJtl4bn92ySux8EEg) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [Der Himmel muss warten](https://open.spotify.com/album/43Q7gDUQETLoJmJLDa4LhF) | 2:23 |
 | 27 | [I Riden Så](https://open.spotify.com/track/4Dsk2Fi9YdHzbtCpHUu4aV) | [Helisir](https://open.spotify.com/artist/06PE0H14KHqMtERxX1IBaw) | [Sårbare](https://open.spotify.com/album/5Cbr7HWU5I2llZxd6oFA1H) | 5:13 |
 | 28 | [L'appel Du Vide](https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Atoms Aligned, Coming Undone](https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e) | 7:44 |
 | 29 | [The Elm](https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Lunar Falls](https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3) | 3:30 |

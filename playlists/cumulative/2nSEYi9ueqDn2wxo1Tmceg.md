@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Hot Chip</a>
 
-1,431 songs - 4 day 1 hr 21 min
+1,432 songs - 4 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 | 2024-05-29 | 2024-07-18 |
 | [Hooked](https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hooked](https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ) | 2:41 | 2025-01-06 | 2025-01-16 |
 | [Hooked](https://open.spotify.com/track/5aE5l3VnjWDNpTFGd4pRO5) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [The Human Fear](https://open.spotify.com/album/7LbR1L8thzNldHceu3tj1a) | 2:41 | 2025-01-15 | 2025-02-27 |
+| [Hooked \- Joe Goddard Remix](https://open.spotify.com/track/3saYflaCHSKLsESoFLQZ8T) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Some Remixes of Hooked](https://open.spotify.com/album/3C7anheUQp6Ghz7lbC41oA) | 3:45 | 2025-07-22 |  |
 | [Hooked \- Live at Glasgow Barrowlands](https://open.spotify.com/track/3naPOrv5B1BZ5HBrpCpSg1) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Build It Up / Hooked Live](https://open.spotify.com/album/2MBfpe4qX08Q6bv0xhAVnO) | 4:02 | 2025-06-25 |  |
 | [Hop Bico](https://open.spotify.com/track/366cSjkLBWFLDxKRqFpioB) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [Yarın Yoksa](https://open.spotify.com/album/5l7ypUMco5BLsIYBjIYWay) | 2:47 | 2025-03-19 | 2025-04-24 |
 | [Horse and Rider](https://open.spotify.com/track/3MTAL84biLO6aTXOuSPVvC) | [Richard Dawson](https://open.spotify.com/artist/0VeQgI9lzgoOMszAOq0iml) | [The Ruby Cord](https://open.spotify.com/album/4QwVU6l2cdR646QdT6z66i) | 7:54 | 2022-11-18 | 2023-01-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Dato' Sri Siti Nurhaliza, Ade Govinda, Yonnyboii, Malique, aespa, NCT DREAM, NAKI, Fahimi, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,976 likes - 127 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,970 likes - 127 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 15 | [1965](https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:48 |
 | 16 | [DUMBO](https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:58 |
 | 17 | [MIAMI](https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MIAMI](https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la) | 3:01 |
-| 18 | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
+| 18 | [You Can’t Run From Yourself \- From "Kaiju No\. 8"](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
 | 19 | [Combust](https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Combust](https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3) | 2:18 |
 | 20 | [P Ramlee Saloma](https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [P Ramlee Saloma](https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN) | 3:18 |
 | 21 | [Tell me things](https://open.spotify.com/track/4TdFnu0csezJWNRCNLmu4W) | [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx), [Kuszanagi](https://open.spotify.com/artist/7G8U6CwUfY85f2PzV6rcTO) | [Tell me things](https://open.spotify.com/album/2R37BCTrHEFtz4Og18QW8e) | 2:20 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 62 | [因為你走過來](https://open.spotify.com/track/2OLp94hX626ZPbJWfmiIM8) | [Papaya Duck](https://open.spotify.com/artist/09uL1PjQRBf2t6HwcYLuPU), [啊飄](https://open.spotify.com/artist/5Nn2KsN0krn53NbG2P48fa) | [因為你走過來](https://open.spotify.com/album/23Yn1fD6aFJbsjocszVZSJ) | 3:42 |
 | 63 | [Alligator](https://open.spotify.com/track/6xZCTvGHffVbuUz8MkbuNG) | [Mischief at Midnight](https://open.spotify.com/artist/0i6dLUahkssH0RgFYXFnxP) | [Alligator](https://open.spotify.com/album/2UdpzXaj1RaHPRbquIyEeQ) | 4:17 |
 | 64 | [DR!P](https://open.spotify.com/track/5QJaEfphNcYAEGFGmkS3Rq) | [Danboy Studio](https://open.spotify.com/artist/28CBPsyK4uO1VfWeo6wk86) | [DR!P](https://open.spotify.com/album/0dy4xio2yL0fls5HU5J3OH) | 2:11 |
-| 65 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
+| 65 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
 | 66 | [Moonlight](https://open.spotify.com/track/3BZkqCUSLzozgQuvR5MW3q) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Moonlight](https://open.spotify.com/album/5zAYhgGJ1e3MopvwahvFQZ) | 2:33 |
 | 67 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 |
 | 68 | [Alone Together](https://open.spotify.com/track/6FdZ6ROBj0l3EpRW6NpCu0) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Top 5](https://open.spotify.com/album/08Qll2maWwJ3Siah405k7c) | 3:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Southern African gems across the decades\. Cover: <a href="https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ?si=hjrsvkP8TLO9Cs\-gba5VNQ">Oliver Mtukudzi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,084 likes - 60 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,134 likes - 60 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 5 | [Ngeke Ndiphinde](https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ) | [Jaziel Brothers](https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs) | [The Beginning](https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er) | 4:00 |
 | 6 | [Pluto \(Remember You\)](https://open.spotify.com/track/3rl0m4eV5brBp1ER1uHUhN) | [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [The 4th Tick \- A Clockumentary](https://open.spotify.com/album/466CzP9nhIV9C1rXd46oud) | 6:06 |
 | 7 | [Ngud' \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [DaKAR II](https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC) | 4:31 |
-| 8 | [Nomakanjani](https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:40 |
+| 8 | [Jika](https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:04 |
 | 9 | [Shanda](https://open.spotify.com/track/5gMXmupl6aqcuoVOtjsoTm) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ) | [Bvuma \(Tolerance\)](https://open.spotify.com/album/0UHeQnsB4uVnZjrh6Afses) | 7:37 |
-| 10 | [Jika](https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:04 |
+| 10 | [Nomakanjani](https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:40 |
 | 11 | [Loliwe](https://open.spotify.com/track/1y9bfiGVKNMLoN0XR54S4z) | [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq) | [Loliwe](https://open.spotify.com/album/7CLSR9UOYjRAQuDPxBckR0) | 4:32 |
 | 12 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |
 | 13 | [Nkalakatha](https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Nkalakatha](https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg) | 4:45 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 20 | [Kaptein](https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Uit Die Diepte Van My Hart](https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp) | 3:49 |
 | 21 | [Vuli Ndlela](https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 |
 | 22 | [Congratulate](https://open.spotify.com/track/4rpeguIp4kLV1uExPjQqjm) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 3:45 |
-| 23 | [Lengoma](https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH) | [DJ Sbu](https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq), [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq) | [Sound Revival](https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV) | 7:16 |
-| 24 | [Nomvula \(After the Rain\)](https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 4:43 |
+| 23 | [Nomvula \(After the Rain\)](https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 4:43 |
+| 24 | [Lengoma](https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH) | [DJ Sbu](https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq), [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq) | [Sound Revival](https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV) | 7:16 |
 | 25 | [Mambotjie \(feat\. 2Shot\)](https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [2 Shot](https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX) | [Halloween](https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF) | 4:22 |
 | 26 | [Indigo Girl](https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV) | [Watershed](https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW) | [In The Meantime](https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ) | 3:00 |
 | 27 | [Weekend Special](https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r) | [Brenda & The Big Dudes](https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 4:39 |

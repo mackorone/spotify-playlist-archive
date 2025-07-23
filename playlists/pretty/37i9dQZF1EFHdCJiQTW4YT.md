@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 67 | [Hey You](https://open.spotify.com/track/0vaiDuoXItlByGGDTA0Ere) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:07 |
 | 68 | [We'll Be Ok](https://open.spotify.com/track/5L25pF8uaJALK8iZY4NnHH) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Forget The World \(Deluxe\)](https://open.spotify.com/album/7G1441qDQeERZDyMipQPE8) | 5:19 |
 | 69 | [Another Side](https://open.spotify.com/track/4rXsJxWgPGiu7DWHRd53Ue) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Another Side](https://open.spotify.com/album/7sqjjTWxRkhpESRatUI15w) | 3:54 |
-| 70 | [we all could use some help](https://open.spotify.com/track/1soUBTe2GUzPzgPNOQH8aX) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 2:23 |
-| 71 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 |
+| 70 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 |
+| 71 | [we all could use some help](https://open.spotify.com/track/1soUBTe2GUzPzgPNOQH8aX) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 2:23 |
 | 72 | [first winter](https://open.spotify.com/track/4r7i3Td09NJvgmXotOvi3a) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [first winter](https://open.spotify.com/album/3kDhiltnqo4XvEvAzPU7aI) | 2:56 |
 | 73 | [Muscle](https://open.spotify.com/track/1CVh1re4QmrSmZ47cDiwz3) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 3:07 |
 | 74 | [Nirvana](https://open.spotify.com/track/7eFbvtQ85FfJGMwft9V1AP) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 4:22 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 144 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 145 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Ab3ZqAAAAAC0UU20NZfjdfVpeLLuqR01`
+Snapshot ID: `Ab3fSAAAAADLgGSeAuay7Q9PEX+JlUwd`

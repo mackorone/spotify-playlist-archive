@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,109 likes - 64 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,196 likes - 64 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 58 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 |
 | 59 | [Recordando / Dudas \- En Vivo](https://open.spotify.com/track/0Eo5FcB5bHGjmisR8WtUQk) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Recordando / Dudas \(En Vivo\)](https://open.spotify.com/album/3cSt8iKh3bROdkyrcksFi8) | 5:07 |
 | 60 | [Latidos](https://open.spotify.com/track/2BV9cUhl5HVBpn6nUudnlT) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [El Club de la Cumbia](https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU) | [Rambla De Montevideo](https://open.spotify.com/album/2FLqOZNLJdS9zT5L2iB41l) | 2:57 |
-| 61 | [Tu Falta de Querer \- En Vivo](https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1), [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Tu Falta de Querer \(En Vivo\)](https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF) | 3:16 |
-| 62 | [Cosas del Amor \- En Vivo](https://open.spotify.com/track/1CjZCNYbMTgHLEsX9EAQJd) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Santi Cairo](https://open.spotify.com/artist/7aXtE6aOLk9TSN6P7bfLe5) | [Cosas del Amor \(En Vivo\)](https://open.spotify.com/album/41WPVRFYR95CRt0vHagmpV) | 3:16 |
+| 61 | [Cosas del Amor \- En Vivo](https://open.spotify.com/track/1CjZCNYbMTgHLEsX9EAQJd) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Santi Cairo](https://open.spotify.com/artist/7aXtE6aOLk9TSN6P7bfLe5) | [Cosas del Amor \(En Vivo\)](https://open.spotify.com/album/41WPVRFYR95CRt0vHagmpV) | 3:16 |
+| 62 | [Tu Falta de Querer \- En Vivo](https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1), [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Tu Falta de Querer \(En Vivo\)](https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF) | 3:16 |
 | 63 | [Jurabas Tu \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 2:11 |
 | 64 | [Los Pibes Chorros / Solo Le Pido a Dios / Botellero](https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 4:47 |
 

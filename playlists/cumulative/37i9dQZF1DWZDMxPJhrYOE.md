@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-635 songs - 1 day 8 hr 16 min
+636 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 | 2024-10-24 | 2025-01-31 |
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-10 | 2025-01-25 |
 | [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 | 2024-07-31 | 2024-11-08 |
+| [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 | 2025-07-17 |  |
 | [plastikhjerte](https://open.spotify.com/track/503O8kwnrNMP4DfQ3u3hf1) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [plastikhjerte](https://open.spotify.com/album/6tT4IbOXbn9qbvHlUd4J8T) | 3:06 | 2025-01-21 | 2025-02-09 |
 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 | 2024-07-01 | 2024-08-01 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-01 | 2024-09-13 |
@@ -641,7 +642,7 @@
 | [You'll Be OK, Kid \- From the Original Documentary “Child Star”](https://open.spotify.com/track/3Ql8gLndDQ8VsVQyMW1GAA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [You'll Be OK, Kid \- From the Original Documentary “Child Star”](https://open.spotify.com/album/6TesEldZjVdwDg9OgI9YaK) | 2:46 | 2024-09-26 | 2024-10-01 |
 | [Young Again](https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Young Again](https://open.spotify.com/album/5kVE6Fu72iprhv4sDL26ym) | 3:16 | 2024-09-26 | 2025-01-25 |
 | [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 | 2025-03-20 | 2025-06-20 |
-| [Åboulevarden](https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK) | [Skinz](https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx) | [Åboulevarden](https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4) | 2:42 | 2025-05-29 |  |
+| [Åboulevarden](https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK) | [Skinz](https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx) | [Åboulevarden](https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4) | 2:42 | 2025-05-29 | 2025-07-23 |
 | [Øresund \(feat\. Thomas Helmig\)](https://open.spotify.com/track/7DnzLWWY227roD8kyYAZQg) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD), [Thomas Helmig](https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj) | [Øresund \(feat\. Thomas Helmig\)](https://open.spotify.com/album/3hSUeg27HqPCY7RHWkD6AZ) | 3:30 | 2025-04-10 | 2025-04-18 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

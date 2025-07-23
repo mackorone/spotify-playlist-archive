@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: grentperez
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,608 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,584 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 |
 | 2 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 |
 | 3 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
-| 4 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
+| 4 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
 | 5 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 |
 | 6 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 |
 | 7 | [Who Knew Dancing Was A Sin](https://open.spotify.com/track/09qCrdsapK16DbhzFBzvMA) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Who Knew Dancing Was A Sin](https://open.spotify.com/album/2agANvTRbWcM7wzBgaSRFA) | 3:14 |

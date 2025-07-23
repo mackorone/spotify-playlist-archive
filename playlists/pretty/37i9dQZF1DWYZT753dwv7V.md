@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,127 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,135 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 53 | [Nessun grado di separazione](https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [di20are](https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy) | 3:39 |
 | 54 | [Ti regalerò una rosa](https://open.spotify.com/track/52lYqr81fi0H2yVLupzGwy) | [Simone Cristicchi](https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz) | [Dall'altra parte del cancello](https://open.spotify.com/album/2yG8H5dDpTyb9tcujlNwxw) | 3:48 |
 | 55 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 |
-| 56 | [Vacanze Romane \- 1991 Remaster](https://open.spotify.com/track/4PRdGQsEQeqvfYZTPN6pDC) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Tango \(1991 \- Remaster\)](https://open.spotify.com/album/6vtR5awftB25quBXs42aA3) | 4:12 |
-| 57 | [I Tuoi Particolari](https://open.spotify.com/track/524euygKKFWurhvIdSrkg6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [I Tuoi Particolari](https://open.spotify.com/album/6sbV5tigkQuCteprgk9pwd) | 3:39 |
+| 56 | [I Tuoi Particolari](https://open.spotify.com/track/524euygKKFWurhvIdSrkg6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [I Tuoi Particolari](https://open.spotify.com/album/6sbV5tigkQuCteprgk9pwd) | 3:39 |
+| 57 | [Vacanze Romane \- 1991 Remaster](https://open.spotify.com/track/4PRdGQsEQeqvfYZTPN6pDC) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Tango \(1991 \- Remaster\)](https://open.spotify.com/album/6vtR5awftB25quBXs42aA3) | 4:12 |
 | 58 | [Noi Ragazzi Di Oggi](https://open.spotify.com/track/3nMQMdlNAlPJVwJ6frem76) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Canta En Italiano](https://open.spotify.com/album/3PIns2QvAPHuDZ807zmHJz) | 3:41 |
 | 59 | [Tikibombom](https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [Magmamemoria MMXX \(Deluxe Edition\)](https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr) | 3:23 |
 | 60 | [La prima cosa bella](https://open.spotify.com/track/01PZlOQEde3bMY1ZAGhzQi) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [Nicola Di Bari](https://open.spotify.com/album/0UK0bIaurVpHSgTY9gsASD) | 3:10 |

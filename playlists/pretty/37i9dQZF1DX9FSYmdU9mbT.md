@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Caetano & Bethânia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,425,021 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,425,280 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 40 | [O Mundo É Um Moinho](https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 3:55 |
 | 41 | [Exagerado 3.0](https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado 3.0 \- Single](https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3) | 3:46 |
 | 42 | [Amor I Love You \(feat\. Arnaldo Antunes\) \- Ao Vivo](https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Memórias \(2001\) \- Ao Vivo](https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK) | 3:20 |
-| 43 | [A Paz \- Ao Vivo](https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Unplugged \(Ao vivo\)](https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf) | 4:53 |
-| 44 | [Chão de Giz](https://open.spotify.com/track/1VNBEmjVEaS6BedHSdYxKS) | [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Antologia Acustica \- Vol\. 1](https://open.spotify.com/album/5wHlY7AE8cBuRkMMiv9E8G) | 4:31 |
+| 43 | [Chão de Giz](https://open.spotify.com/track/1VNBEmjVEaS6BedHSdYxKS) | [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Antologia Acustica \- Vol\. 1](https://open.spotify.com/album/5wHlY7AE8cBuRkMMiv9E8G) | 4:31 |
+| 44 | [A Paz \- Ao Vivo](https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Unplugged \(Ao vivo\)](https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf) | 4:53 |
 | 45 | [A Festa \- Acústico](https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [A Festa \(Acústico\)](https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1) | 5:30 |
 | 46 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 |
 | 47 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 62 | [Dia Branco \- Ao Vivo \| Bonus Track](https://open.spotify.com/track/1E3W3Gtvm6ayy7fAtaPGQV) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [Solo Contigo \(ao Vivo\) \- Deluxe Edition](https://open.spotify.com/album/5hJLWVGCXTXdZb6kvC4Cgh) | 4:01 |
 | 63 | [O Segundo Sol \(Turnê Jardim\-Pomar\) \[Ao Vivo em Porto Alegre\]](https://open.spotify.com/track/4pID7hvPWS15Xu1e2XdraW) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [O Segundo Sol \(Turnê Jardim\-Pomar\) \[Ao Vivo em Porto Alegre\]](https://open.spotify.com/album/2hrS3ADuXuced8UnMTWubm) | 4:13 |
 | 64 | [Samba do Grande Amor \- Ao Vivo](https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Que Tal Um Samba? \(Ao Vivo\)](https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO) | 2:50 |
-| 65 | [Sábado em Copacabana](https://open.spotify.com/track/0WyaicPVGNCpf1VNqespsI) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Sábado em Copacabana](https://open.spotify.com/album/2ptJ4tkTfQxkFZ7nOStrkF) | 2:49 |
-| 66 | [Drão](https://open.spotify.com/track/6BMzeMqNHmMtU5ucEWvbW9) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Drão](https://open.spotify.com/album/0sM5ck5n1eDeg6ek2rUOex) | 4:11 |
+| 65 | [Drão](https://open.spotify.com/track/6BMzeMqNHmMtU5ucEWvbW9) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Drão](https://open.spotify.com/album/0sM5ck5n1eDeg6ek2rUOex) | 4:11 |
+| 66 | [Sábado em Copacabana](https://open.spotify.com/track/0WyaicPVGNCpf1VNqespsI) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Sábado em Copacabana](https://open.spotify.com/album/2ptJ4tkTfQxkFZ7nOStrkF) | 2:49 |
 | 67 | [Canta Canta, Minha Gente \(Minha Gente, Canta Canta\)](https://open.spotify.com/track/2zqT92v0e1lvs5paCOfxwm) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Violões e Cavaquinhos](https://open.spotify.com/album/4kjig7c8AIa2fdt6syvbRh) | 3:11 |
 | 68 | [Canto de Ossanha](https://open.spotify.com/track/5N8wA5SKIlFk2gtQR7NGqT) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Os Primeiros Anos](https://open.spotify.com/album/5CtT0oNeHpOhP10uyBORnC) | 2:02 |
 | 69 | [Sabiá \- Ao Vivo](https://open.spotify.com/track/629DheUXpR6hplX51EWdiw) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Caravanas Ao Vivo](https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE) | 3:04 |

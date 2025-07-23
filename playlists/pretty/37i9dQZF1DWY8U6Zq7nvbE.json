@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2427566,
+  "num_followers": 2427554,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-03-17 13:49:19",
       "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6"
-      },
-      "artists": [
-        {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
-        }
-      ],
-      "duration_ms": 223874,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6"
-    },
-    {
-      "added_at": "2025-03-17 13:49:19",
-      "album": {
         "name": "Overpass Graffiti",
         "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 226603,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
+    },
+    {
+      "added_at": "2025-03-17 13:49:19",
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "duration_ms": 223874,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6"
     },
     {
       "added_at": "2025-03-17 13:49:19",
@@ -555,6 +555,54 @@
     {
       "added_at": "2025-03-17 13:49:19",
       "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/0DUrfU6HigN6VulouqEGzt"
+      },
+      "artists": [
+        {
+          "name": "Robin T.",
+          "url": "https://open.spotify.com/artist/49DfPZbBWoyT9tu7YRBDGq"
+        }
+      ],
+      "duration_ms": 189574,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/1xUN5ZZ7pJySj9pa9UiWpZ"
+    },
+    {
+      "added_at": "2025-03-17 13:49:19",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr"
+      },
+      "artists": [
+        {
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
+        }
+      ],
+      "duration_ms": 202076,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
+    },
+    {
+      "added_at": "2025-03-17 13:49:19",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 197851,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
+    },
+    {
+      "added_at": "2025-03-17 13:49:19",
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
       },
@@ -583,54 +631,6 @@
       "duration_ms": 163833,
       "name": "Sex is on fire",
       "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
-    },
-    {
-      "added_at": "2025-03-17 13:49:19",
-      "album": {
-        "name": "Taste",
-        "url": "https://open.spotify.com/album/0DUrfU6HigN6VulouqEGzt"
-      },
-      "artists": [
-        {
-          "name": "Robin T.",
-          "url": "https://open.spotify.com/artist/49DfPZbBWoyT9tu7YRBDGq"
-        }
-      ],
-      "duration_ms": 189574,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/1xUN5ZZ7pJySj9pa9UiWpZ"
-    },
-    {
-      "added_at": "2025-03-17 13:49:19",
-      "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
-      },
-      "artists": [
-        {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
-        }
-      ],
-      "duration_ms": 197851,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
-    },
-    {
-      "added_at": "2025-03-17 13:49:19",
-      "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr"
-      },
-      "artists": [
-        {
-          "name": "Jessy Hayden",
-          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
-        }
-      ],
-      "duration_ms": 202076,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
     },
     {
       "added_at": "2025-03-17 13:49:19",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-03-17 13:49:19",
       "album": {
-        "name": "Make You Feel My Love",
-        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
-      },
-      "artists": [
-        {
-          "name": "Morgan St. Douglas",
-          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
-    },
-    {
-      "added_at": "2025-03-17 13:49:19",
-      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/6W5cgtJFbeWa8EsAC0y7Nl"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 220241,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP"
+    },
+    {
+      "added_at": "2025-03-17 13:49:19",
+      "album": {
+        "name": "Make You Feel My Love",
+        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
+      },
+      "artists": [
+        {
+          "name": "Morgan St. Douglas",
+          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
     },
     {
       "added_at": "2025-03-17 13:49:19",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-03-17 13:49:19",
       "album": {
-        "name": "Chasing Cars (Acoustic)",
-        "url": "https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7"
-      },
-      "artists": [
-        {
-          "name": "Jessy Hayden",
-          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
-        }
-      ],
-      "duration_ms": 221762,
-      "name": "Chasing Cars (Acoustic)",
-      "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
-    },
-    {
-      "added_at": "2025-03-17 13:49:19",
-      "album": {
         "name": "Too Good At Goodbyes",
         "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 170074,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu"
+    },
+    {
+      "added_at": "2025-03-17 13:49:19",
+      "album": {
+        "name": "Chasing Cars (Acoustic)",
+        "url": "https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7"
+      },
+      "artists": [
+        {
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
+        }
+      ],
+      "duration_ms": 221762,
+      "name": "Chasing Cars (Acoustic)",
+      "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
     },
     {
       "added_at": "2025-03-17 13:49:19",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-03-17 13:49:19",
       "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 275732,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
-    },
-    {
-      "added_at": "2025-03-17 13:49:19",
-      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 199595,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP"
+    },
+    {
+      "added_at": "2025-03-17 13:49:19",
+      "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 275732,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
     },
     {
       "added_at": "2025-03-17 13:49:19",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-03-17 13:49:19",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
-      },
-      "artists": [
-        {
-          "name": "Fox & Hart",
-          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
-        }
-      ],
-      "duration_ms": 214260,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
-    },
-    {
-      "added_at": "2025-03-17 13:49:19",
-      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 188863,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9"
+    },
+    {
+      "added_at": "2025-03-17 13:49:19",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
+      },
+      "artists": [
+        {
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
+        }
+      ],
+      "duration_ms": 214260,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
     },
     {
       "added_at": "2025-03-17 13:49:19",

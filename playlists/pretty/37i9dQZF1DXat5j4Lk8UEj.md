@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & The Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,747 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,731 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 35 | [On a Roll](https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:24 |
 | 36 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 |
 | 37 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 |
-| 38 | [Wish I Knew](https://open.spotify.com/track/5Ey48y8f4IuIz80lclnkKT) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Wish I Knew](https://open.spotify.com/album/6yAdVVZIr56KZBUSNVHQsi) | 3:12 |
-| 39 | [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 |
+| 38 | [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 |
+| 39 | [Wish I Knew](https://open.spotify.com/track/5Ey48y8f4IuIz80lclnkKT) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Wish I Knew](https://open.spotify.com/album/6yAdVVZIr56KZBUSNVHQsi) | 3:12 |
 | 40 | [Hardlytown](https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 3:17 |
 | 41 | [Waste of Time](https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Waste of Time](https://open.spotify.com/album/7f39VmqaoMuEi30pYKFlh6) | 3:03 |
 | 42 | [How Low](https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9) | [Heartless Bastards](https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W) | [How Low](https://open.spotify.com/album/4c9IVypw3UiHl8wBhqLe5s) | 4:04 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 52 | [Love Love Love](https://open.spotify.com/track/4d2IWdIT5Xw8crEWGKWUU6) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [My Morning Jacket](https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl) | 3:42 |
 | 53 | [Tried to Tell You](https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Tried to Tell You](https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4) | 3:38 |
 | 54 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 |
-| 55 | [Statues in the Garden \(Arras\)](https://open.spotify.com/track/14BcEAdv3OkOXYjGIk7jTZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Statues in the Garden \(Arras\)](https://open.spotify.com/album/4Cf7oXjw0tqlDEdAqqOlLM) | 3:56 |
-| 56 | [Feel Like Going Home \(OurVinyl Sessions\)](https://open.spotify.com/track/4g61d4q3CjcywFQy5dP5pu) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Miko Marks \| OurVinyl Sessions](https://open.spotify.com/album/1jYR4r6R2gWLtGQYPbm4qR) | 4:41 |
+| 55 | [Feel Like Going Home \(OurVinyl Sessions\)](https://open.spotify.com/track/4g61d4q3CjcywFQy5dP5pu) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Miko Marks \| OurVinyl Sessions](https://open.spotify.com/album/1jYR4r6R2gWLtGQYPbm4qR) | 4:41 |
+| 56 | [Statues in the Garden \(Arras\)](https://open.spotify.com/track/14BcEAdv3OkOXYjGIk7jTZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Statues in the Garden \(Arras\)](https://open.spotify.com/album/4Cf7oXjw0tqlDEdAqqOlLM) | 3:56 |
 | 57 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 |
 | 58 | [Fever Pitch](https://open.spotify.com/track/0CczqIwQrFvuiR0Q6g6IYP) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Fever Pitch](https://open.spotify.com/album/7KAcbEEU9MREoPJxW78cEU) | 2:43 |
 | 59 | [Looking for Love](https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm) | 3:39 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 73 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
 | 74 | [Lucky Ones](https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Lifted](https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq) | 3:55 |
 | 75 | [River Wider](https://open.spotify.com/track/3xuE0GvFWLgZIWZAa4PQwy) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [River Wider](https://open.spotify.com/album/4NBpqEDUdimWGmSu3q6zWD) | 3:15 |
-| 76 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 |
-| 77 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 |
+| 76 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 |
+| 77 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 |
 | 78 | [Soul In Mind](https://open.spotify.com/track/3tTroIOjnFUeohJqPeb4QB) | [Jared & The Mill](https://open.spotify.com/artist/0GklSybv01PPje5GlXFq2i) | [Soul In Mind](https://open.spotify.com/album/77hh6fk09R9oh9OFGAeCrS) | 3:36 |
 | 79 | [Never Makes a Sound](https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Never Makes a Sound](https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY) | 4:00 |
 | 80 | [Holster](https://open.spotify.com/track/6b3FnGkuvdpaZoWjN3Fo74) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Holster](https://open.spotify.com/album/3btLo0lAX8kaCTrQoJ6ZLs) | 3:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2025 yazına damga vuracak şarkılar\. Kapak: Salman Tin x Kenan Doğulu
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,953 likes - 56 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,183 likes - 56 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 28 | [KTS](https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [KTS](https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR) | 2:26 |
 | 29 | [HA HA HA HA](https://open.spotify.com/track/46EVmz3fZglNWoo2uyRkMu) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [HA HA HA HA](https://open.spotify.com/album/5cQ0A1z9Xlpi2M4RLGO8Xz) | 1:42 |
 | 30 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 |
-| 31 | [Bi Gece Gidebilirim](https://open.spotify.com/track/7L52bWVSbEPSwyHF4IeVk8) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Bi Gece Gidebilirim](https://open.spotify.com/album/54x3BPwQEcauxQXFRF53Qd) | 3:06 |
-| 32 | [Dönmüyor Giden](https://open.spotify.com/track/3UXzQ5XshA4IENsaPuo0iW) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Dönmüyor Giden](https://open.spotify.com/album/1jEswdNJeoTuzcTX1sNCLq) | 3:25 |
+| 31 | [Dönmüyor Giden](https://open.spotify.com/track/3UXzQ5XshA4IENsaPuo0iW) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Dönmüyor Giden](https://open.spotify.com/album/1jEswdNJeoTuzcTX1sNCLq) | 3:25 |
+| 32 | [Bi Gece Gidebilirim](https://open.spotify.com/track/7L52bWVSbEPSwyHF4IeVk8) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Bi Gece Gidebilirim](https://open.spotify.com/album/54x3BPwQEcauxQXFRF53Qd) | 3:06 |
 | 33 | [Bu Yaz](https://open.spotify.com/track/5R4IMqppkpo0rBBHja7j7J) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Bu Yaz](https://open.spotify.com/album/7fegHq2yToExda8Z6Ds37N) | 3:02 |
 | 34 | [Kayboldum Masalında](https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kayboldum Masalında](https://open.spotify.com/album/7M2QsyKsuRE2We8pTa2oEc) | 4:15 |
 | 35 | [Buzlu Cam](https://open.spotify.com/track/23KXlmrRHlhSM6iDNZ8gY4) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Buzlu Cam](https://open.spotify.com/album/3ElEbr56YR4TRjqLM38G8p) | 2:46 |

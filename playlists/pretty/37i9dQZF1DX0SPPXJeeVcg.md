@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SPPXJeeVcg.md) - [plain]
 
 > Our editor's picks for R&B songs that have defined the streaming era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,641 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,484 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,651 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,655 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 45 | [America](https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:00 |
 | 46 | [Oh, Sister \[Feat\. Courtney Marie Andrews\]](https://open.spotify.com/track/4DNWkjZlBuGgSmNnqOVBeN) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Oh, Sister \[Feat\. Courtney Marie Andrews\]](https://open.spotify.com/album/3xXjZu3KT8TFfb9ObBmx9P) | 3:40 |
 | 47 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |
-| 48 | [Wherever You Go](https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Southern Gentleman](https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp) | 3:20 |
-| 49 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 |
+| 48 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 |
+| 49 | [Wherever You Go](https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Southern Gentleman](https://open.spotify.com/album/6ZRbVOgb2dPQRDCnXNerZp) | 3:20 |
 | 50 | [Love Can Find You Anywhere](https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Love Can Find You Anywhere](https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24) | 3:39 |
 | 51 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 |
 | 52 | [The Wolf](https://open.spotify.com/track/2FGFj7w2KzTwPTWJMWcFvg) | [Gill Landry](https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh) | [Skeleton at the Banquet](https://open.spotify.com/album/6sbJZndXlSLENEZDP9h6yV) | 4:54 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 63 | [Midnight Train](https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9) | [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Poor David's Almanack](https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM) | 3:18 |
 | 64 | [Angels Among Us](https://open.spotify.com/track/5RfGLT4G5YeY5niIYc5GnI) | [Jenna Rae](https://open.spotify.com/artist/6osWFsdfO9F5O82CoyUYE5) | [Workin' Woman](https://open.spotify.com/album/7bBq1QuARjBme4nclMsr5T) | 4:51 |
 | 65 | [You've Got Other Girls for That](https://open.spotify.com/track/5YmUheNKfm5UiZ3q1mxVEF) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [You've Got Other Girls for That](https://open.spotify.com/album/0SwMHWz5Av4WNhffxJwPgQ) | 4:03 |
-| 66 | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/track/6KXIT7swzbtBjIepVzbarJ) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/album/12oUJEpXjAjVAgRWtQ50s9) | 3:03 |
+| 66 | [South Dakota](https://open.spotify.com/track/44vfk0WNEL5V8WWY3zJWU0) | [This Frontier Needs Heroes](https://open.spotify.com/artist/5vMDGNt5WMierLVP10lire) | [South Dakota](https://open.spotify.com/album/3sZoFntft0GWB8me6Y77tL) | 4:06 |
 | 67 | [Luck of the Draw](https://open.spotify.com/track/37WNhzp7wOKMuMsByEsUF2) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Luck of the Draw](https://open.spotify.com/album/0N7kbieW6rfTyVPxtshZ7N) | 2:47 |
-| 68 | [South Dakota](https://open.spotify.com/track/44vfk0WNEL5V8WWY3zJWU0) | [This Frontier Needs Heroes](https://open.spotify.com/artist/5vMDGNt5WMierLVP10lire) | [South Dakota](https://open.spotify.com/album/3sZoFntft0GWB8me6Y77tL) | 4:06 |
+| 68 | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/track/6KXIT7swzbtBjIepVzbarJ) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/album/12oUJEpXjAjVAgRWtQ50s9) | 3:03 |
 | 69 | [12 Feet High](https://open.spotify.com/track/0a20AtS66hP9xUj51qXtl5) | [Leslie Stevens](https://open.spotify.com/artist/2QFJpQcoOMr1A2m8socQKF) | [12 Feet High](https://open.spotify.com/album/6KkGswg0AiEqjN2Uc79cWt) | 3:45 |
 | 70 | [All American Singer](https://open.spotify.com/track/6zczgmAukHRE72zlbMlxB5) | [Zephaniah OHora](https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY) | [All American Singer](https://open.spotify.com/album/4HzLPoajEg28lyK3cHztOY) | 3:57 |
 | 71 | [I'll Be Around](https://open.spotify.com/track/3e0OEfibR6MA2BYjhIaNI0) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Wilderness Within You](https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2) | 5:20 |

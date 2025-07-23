@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,668 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,700 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 34 | [Vagina Police](https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Double A Side](https://open.spotify.com/album/0ToQnPNr2oKEbtK9mA9XDO) | 1:35 |
 | 35 | [superiority complex \(big noise\)](https://open.spotify.com/track/4RAPGBiC5HJN7sFr1B6EsG) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [FREE I.H: This Is Not the One You've Been Waiting For](https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw) | 1:34 |
 | 36 | [50ft Queenie](https://open.spotify.com/track/3fJprjhRxTVtOp18EHdNfu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 2:23 |
-| 37 | [He's My Thing \- 2007 Remaster](https://open.spotify.com/track/5aMsCHy4nyk0LKJnk63aCr) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Painkillers](https://open.spotify.com/album/3ym30rhJeAnjr7DHcYpqJa) | 2:55 |
+| 37 | [White Flag](https://open.spotify.com/track/3qlmCOHjmpGUISp5nXU9LJ) | [Slutever](https://open.spotify.com/artist/4TBQj88AvHlzsLhzP12GuD) | [White Flag](https://open.spotify.com/album/0yFMCvJNbUpkiWxzANvkzA) | 2:26 |
 | 38 | [Shove \- Remastered](https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Smell the Magic](https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB) | 3:13 |
-| 39 | [White Flag](https://open.spotify.com/track/3qlmCOHjmpGUISp5nXU9LJ) | [Slutever](https://open.spotify.com/artist/4TBQj88AvHlzsLhzP12GuD) | [White Flag](https://open.spotify.com/album/0yFMCvJNbUpkiWxzANvkzA) | 2:26 |
+| 39 | [He's My Thing \- 2007 Remaster](https://open.spotify.com/track/5aMsCHy4nyk0LKJnk63aCr) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Painkillers](https://open.spotify.com/album/3ym30rhJeAnjr7DHcYpqJa) | 2:55 |
 | 40 | [Make America Great Again](https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [xxx](https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC) | 3:15 |
 | 41 | [Dead Men Don't Rape](https://open.spotify.com/track/4iGxxqZaZ2Z0YFiXgd8n8O) | [7 Year Bitch](https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5) | [Sick'em](https://open.spotify.com/album/39vMdABPceCzciL1mlolsg) | 2:47 |
 | 42 | [Eating Toothpaste](https://open.spotify.com/track/3woDV8HAFSwgS8uTWrjYFI) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ) | 2:26 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 51 | [Dress](https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo) | 3:18 |
 | 52 | [Husbands](https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) | 2:50 |
 | 53 | [A Living Human Girl](https://open.spotify.com/track/1K0F79D6b7XGDM667RpnsW) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Feel Your Feelings Fool!](https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98) | 2:37 |
-| 54 | [Where's My Wife](https://open.spotify.com/track/7MY32OSePqeLg5YPAqEkEc) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Willow](https://open.spotify.com/album/27b5zGoTeu3YQO04wGTQg0) | 3:48 |
-| 55 | [Glass House](https://open.spotify.com/track/1luXZ3wGajUSfwMs24Izvp) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A) | 3:44 |
+| 54 | [Glass House](https://open.spotify.com/track/1luXZ3wGajUSfwMs24Izvp) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A) | 3:44 |
+| 55 | [Where's My Wife](https://open.spotify.com/track/7MY32OSePqeLg5YPAqEkEc) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Willow](https://open.spotify.com/album/27b5zGoTeu3YQO04wGTQg0) | 3:48 |
 | 56 | [Where the Girls Are](https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [That's Not What I Heard](https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf) | 1:44 |
 | 57 | [Too Many Creeps](https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Rhythm and Paranoia: The Best of Bush Tetras](https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79) | 4:03 |
 | 58 | [No One's Little Girl](https://open.spotify.com/track/1jQ86hNKMD4c0w1F0RESYA) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 4:30 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 73 | [Seafood](https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 2:32 |
 | 74 | [Watchmaker](https://open.spotify.com/track/5IatbAKD0k9sObgXS6RyQC) | [Excuse 17](https://open.spotify.com/artist/0yiYHDCQjggaHJfpD9MZOR) | [Such Friends Are Dangerous](https://open.spotify.com/album/64pXp0YdAZQdvhEcoBSd3B) | 3:08 |
 | 75 | [Smash Hit](https://open.spotify.com/track/1De7fMm1UPurbI47uUhIqS) | [Potty Mouth](https://open.spotify.com/artist/4liUQpCxxhjGMgc33K81Fw) | [Smash Hit](https://open.spotify.com/album/2P2QieqaKge4w2vkN0C8NI) | 3:20 |
-| 76 | [I'll Take You Down](https://open.spotify.com/track/5ZU2A9vgPBXlqdl62cpJWv) | [Autoclave](https://open.spotify.com/artist/6ZwMw7VXJyHQmn03eHt6jg) | [Autoclave](https://open.spotify.com/album/1XLmVI9tNjoururBlr2KWO) | 3:48 |
-| 77 | [In the Summer](https://open.spotify.com/track/7lmvnE8oF7EhJNuLeUxTIf) | [Fastbacks](https://open.spotify.com/artist/2mlDM1k4J5XijZKXALxhDT) | [Very, Very Powerful Motor](https://open.spotify.com/album/069dipMFhPwUSC2SSufyxi) | 3:18 |
+| 76 | [In the Summer](https://open.spotify.com/track/7lmvnE8oF7EhJNuLeUxTIf) | [Fastbacks](https://open.spotify.com/artist/2mlDM1k4J5XijZKXALxhDT) | [Very, Very Powerful Motor](https://open.spotify.com/album/069dipMFhPwUSC2SSufyxi) | 3:18 |
+| 77 | [I'll Take You Down](https://open.spotify.com/track/5ZU2A9vgPBXlqdl62cpJWv) | [Autoclave](https://open.spotify.com/artist/6ZwMw7VXJyHQmn03eHt6jg) | [Autoclave](https://open.spotify.com/album/1XLmVI9tNjoururBlr2KWO) | 3:48 |
 | 78 | [Kung Fu on the Internet](https://open.spotify.com/track/0vFPN8xDwz6xWrFrAQvIoz) | [Lung Leg](https://open.spotify.com/artist/4MSXrcdEDYgxKxlT1HpDiN) | [Hello Sir](https://open.spotify.com/album/11N5aPE7xTJ3LxXrINuH8r) | 1:25 |
 | 79 | [The Clutch](https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [The Clutch](https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD) | 3:10 |
 | 80 | [Love Is the Slug \- Bargainous Longerer Mix](https://open.spotify.com/track/7pZiRYuRekNV92Qfl1iXDK) | [Fuzzbox](https://open.spotify.com/artist/6iKe6ON2rZrdXbuuhI3Gat) | [Bostin' Steve Austin \(Splendiferous Edition\)](https://open.spotify.com/album/0nnWj1MAGSXUhyO9A5RsLZ) | 3:57 |

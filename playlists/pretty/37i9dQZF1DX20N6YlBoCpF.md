@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Alweer Dian, Nicholis Louw, Posduif, Snotkop en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,914 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,923 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

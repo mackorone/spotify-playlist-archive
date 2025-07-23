@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with GRiZ",
-  "num_followers": 986027,
+  "num_followers": 986080,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHv4tQAAAAAvAaYalYRLAMgPJdH7ZbyM",
+  "snapshot_id": "aH+ykgAAAACR4qZhKlCk/Ij7jEYj4jSq",
   "tracks": [
     {
       "added_at": "2025-07-18 04:00:31",
@@ -177,28 +177,20 @@
       "url": "https://open.spotify.com/track/1XLbwHRA90LSQMSiaJRhJN"
     },
     {
-      "added_at": "2025-07-11 04:00:29",
+      "added_at": "2025-07-18 18:15:52",
       "album": {
-        "name": "Broken Hearted (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/4YzBqD277ZTx7qtXI1wwSp"
+        "name": "Bloodstream",
+        "url": "https://open.spotify.com/album/2r4m97efMHuVvAuZYtUCeU"
       },
       "artists": [
         {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
         }
       ],
-      "duration_ms": 212276,
-      "name": "Broken Hearted (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/6cmYMueidIP3Q2vLDrJWrv"
+      "duration_ms": 182241,
+      "name": "Bloodstream",
+      "url": "https://open.spotify.com/track/2yofy4o7UBXOhJo3rd4uKr"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -263,6 +255,30 @@
     {
       "added_at": "2025-07-18 04:00:31",
       "album": {
+        "name": "Everybody Knows (feat. IRAH)",
+        "url": "https://open.spotify.com/album/0fx8GvBGpImoH4eOBkZY84"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Everybody Knows - feat. IRAH",
+      "url": "https://open.spotify.com/track/5gGJVjDk6msTOGZ4cJA5CI"
+    },
+    {
+      "added_at": "2025-07-18 04:00:31",
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/7DHtNFKiPvXOIAt7wkTzdb"
       },
@@ -321,6 +337,30 @@
       "url": "https://open.spotify.com/track/2zJEJNYyI45ekNQbJQ2oTf"
     },
     {
+      "added_at": "2025-07-18 04:00:31",
+      "album": {
+        "name": "Take Me To My Grave",
+        "url": "https://open.spotify.com/album/3hiMncaqREBvaFT5dv7HBY"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 248727,
+      "name": "Take Me To My Grave",
+      "url": "https://open.spotify.com/track/1Xs0gZxYfRFA6rwi0Jdk2Y"
+    },
+    {
       "added_at": "2025-07-11 04:00:29",
       "album": {
         "name": "Here & Now",
@@ -335,6 +375,30 @@
       "duration_ms": 213517,
       "name": "Here & Now",
       "url": "https://open.spotify.com/track/68XrJSlhJkNdl92h12VYHR"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Broken Hearted (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/4YzBqD277ZTx7qtXI1wwSp"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 212276,
+      "name": "Broken Hearted (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/6cmYMueidIP3Q2vLDrJWrv"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -397,6 +461,38 @@
       "url": "https://open.spotify.com/track/55zFoHpJgzSuoJcXdMdc5q"
     },
     {
+      "added_at": "2025-04-18 04:00:56",
+      "album": {
+        "name": "Drop In",
+        "url": "https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "duration_ms": 149793,
+      "name": "Drop In",
+      "url": "https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "HALF BLOOD",
+        "url": "https://open.spotify.com/album/0KvaKQ6sOPmlZTOvsGjoQA"
+      },
+      "artists": [
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "duration_ms": 208912,
+      "name": "STAR CANNON",
+      "url": "https://open.spotify.com/track/2KZ3vJPCmKh9Him926mDsH"
+    },
+    {
       "added_at": "2025-07-18 04:00:31",
       "album": {
         "name": "CHOKE",
@@ -449,30 +545,6 @@
       "url": "https://open.spotify.com/track/3vcOVPoiUN3wVaK3lNWFhC"
     },
     {
-      "added_at": "2025-07-18 04:00:31",
-      "album": {
-        "name": "Everybody Knows (feat. IRAH)",
-        "url": "https://open.spotify.com/album/0fx8GvBGpImoH4eOBkZY84"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "GorillaT",
-          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
-        },
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Everybody Knows - feat. IRAH",
-      "url": "https://open.spotify.com/track/5gGJVjDk6msTOGZ4cJA5CI"
-    },
-    {
       "added_at": "2025-07-04 04:00:32",
       "album": {
         "name": "HOLD STILL",
@@ -491,38 +563,6 @@
       "duration_ms": 171428,
       "name": "HOLD STILL",
       "url": "https://open.spotify.com/track/5KGfOmCztRFeXGrU2r3WGi"
-    },
-    {
-      "added_at": "2025-04-18 04:00:56",
-      "album": {
-        "name": "Drop In",
-        "url": "https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47"
-      },
-      "artists": [
-        {
-          "name": "Mary Droppinz",
-          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
-        }
-      ],
-      "duration_ms": 149793,
-      "name": "Drop In",
-      "url": "https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP"
-    },
-    {
-      "added_at": "2025-07-18 18:15:52",
-      "album": {
-        "name": "Bloodstream",
-        "url": "https://open.spotify.com/album/2r4m97efMHuVvAuZYtUCeU"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 182241,
-      "name": "Bloodstream",
-      "url": "https://open.spotify.com/track/2yofy4o7UBXOhJo3rd4uKr"
     },
     {
       "added_at": "2025-07-04 04:00:32",
@@ -559,6 +599,98 @@
       "duration_ms": 207428,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/30TFyKF1Vdt2AfnXOULjah"
+    },
+    {
+      "added_at": "2025-07-22 15:47:30",
+      "album": {
+        "name": "Cash",
+        "url": "https://open.spotify.com/album/1QXjuLdbKhWNvmniFggwr1"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "duration_ms": 108292,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/2RVn1TfwfbhplurBfNgNNr"
+    },
+    {
+      "added_at": "2025-06-27 04:21:30",
+      "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/3wM0AztbrbvGr8Aym1Bz9o"
+      },
+      "artists": [
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "duration_ms": 228251,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/20exgZnMHVhwHKlazaEt8N"
+    },
+    {
+      "added_at": "2025-06-27 04:21:30",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/36Vuo1Sls1ZzZqcceuapAh"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        },
+        {
+          "name": "Fragma",
+          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/7A2K6UcyFSt7wBuv4B6kXi"
+    },
+    {
+      "added_at": "2025-05-09 04:00:25",
+      "album": {
+        "name": "Duel of the Fates",
+        "url": "https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        }
+      ],
+      "duration_ms": 202449,
+      "name": "Duel of the Fates",
+      "url": "https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp"
+    },
+    {
+      "added_at": "2025-07-18 04:00:31",
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/0LCAXrcV78YZVUNhpDPFak"
+      },
+      "artists": [
+        {
+          "name": "Eliminate",
+          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/12jJ4mKhg46jC26kluQD46"
     },
     {
       "added_at": "2025-07-18 04:00:31",
@@ -629,106 +761,6 @@
       "url": "https://open.spotify.com/track/070MMFHFOporxz7AusZYbW"
     },
     {
-      "added_at": "2025-05-09 04:00:25",
-      "album": {
-        "name": "Duel of the Fates",
-        "url": "https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        }
-      ],
-      "duration_ms": 202449,
-      "name": "Duel of the Fates",
-      "url": "https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp"
-    },
-    {
-      "added_at": "2025-06-27 04:21:30",
-      "album": {
-        "name": "Daydreams",
-        "url": "https://open.spotify.com/album/3wM0AztbrbvGr8Aym1Bz9o"
-      },
-      "artists": [
-        {
-          "name": "Effin",
-          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        }
-      ],
-      "duration_ms": 228251,
-      "name": "Daydreams",
-      "url": "https://open.spotify.com/track/20exgZnMHVhwHKlazaEt8N"
-    },
-    {
-      "added_at": "2025-07-18 04:00:31",
-      "album": {
-        "name": "Take Me To My Grave",
-        "url": "https://open.spotify.com/album/3hiMncaqREBvaFT5dv7HBY"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Quackson",
-          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 248727,
-      "name": "Take Me To My Grave",
-      "url": "https://open.spotify.com/track/1Xs0gZxYfRFA6rwi0Jdk2Y"
-    },
-    {
-      "added_at": "2025-06-27 04:21:30",
-      "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/36Vuo1Sls1ZzZqcceuapAh"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Culture Shock",
-          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
-        },
-        {
-          "name": "Fragma",
-          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/7A2K6UcyFSt7wBuv4B6kXi"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "HALF BLOOD",
-        "url": "https://open.spotify.com/album/0KvaKQ6sOPmlZTOvsGjoQA"
-      },
-      "artists": [
-        {
-          "name": "Skybreak",
-          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
-        }
-      ],
-      "duration_ms": 208912,
-      "name": "STAR CANNON",
-      "url": "https://open.spotify.com/track/2KZ3vJPCmKh9Him926mDsH"
-    },
-    {
       "added_at": "2025-07-11 04:00:29",
       "album": {
         "name": "I WANNA KNOW (feat. TIMID.)",
@@ -747,22 +779,6 @@
       "duration_ms": 147906,
       "name": "I WANNA KNOW (feat. TIMID.)",
       "url": "https://open.spotify.com/track/1Qojg9hbmTkmaDltZMR02b"
-    },
-    {
-      "added_at": "2025-07-18 04:00:31",
-      "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/0LCAXrcV78YZVUNhpDPFak"
-      },
-      "artists": [
-        {
-          "name": "Eliminate",
-          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/12jJ4mKhg46jC26kluQD46"
     },
     {
       "added_at": "2025-07-04 04:00:32",
@@ -1843,22 +1859,6 @@
       "duration_ms": 231272,
       "name": "This Way",
       "url": "https://open.spotify.com/track/5AvpUn8f14RPhZxiI4YkSm"
-    },
-    {
-      "added_at": "2025-02-21 05:00:44",
-      "album": {
-        "name": "Bass Bop",
-        "url": "https://open.spotify.com/album/5JeO9o1VyBtfDgx6SmB1FO"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Bass Bop",
-      "url": "https://open.spotify.com/track/3xHirM5jTmVmcEdgbcmqOo"
     },
     {
       "added_at": "2024-08-16 04:00:00",

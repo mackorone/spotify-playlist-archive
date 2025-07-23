@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sushin Shyam
 
-371 songs - 23 hr 26 min
+372 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/track/1Nbpz9rxSKE5updGyb6BWk) | [Anuj Sekhar](https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO) | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/album/1wtxX4unoVitQl19pXC00o) | 2:01 | 2023-05-19 | 2023-07-28 |
 | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/track/5f1oPeQ3tzCJUeXjoR47g8) | [Khayaal Mary Nazreth](https://open.spotify.com/artist/6nWn4phT9V8rmEvnMqp7rc), [Anuj Sekhar](https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO) | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/album/0UnX5bU0IKKiXfp6RWbtxO) | 2:01 | 2023-05-19 | 2023-06-27 |
 | [Iniyum](https://open.spotify.com/track/3SwHk51iTfxzNWGFjCIr3v) | [Arjun Ajith](https://open.spotify.com/artist/7MRrNMLTAQdBEIOKqhGaeg), [Athira Nandhan](https://open.spotify.com/artist/2ymld0jNIQ8HaI7LL0D1XT), [Harin Shiva](https://open.spotify.com/artist/42oGH7fh9VwDHfn26TAXvL) | [Iniyum](https://open.spotify.com/album/5DcIdeaHOEGPFSCk9Z8Tq0) | 3:40 | 2025-06-02 |  |
-| [Insaan](https://open.spotify.com/track/3CKWa385jgUqTxZbAzCfM7) | [kāf](https://open.spotify.com/artist/7HWBA8GKx19Bt7W3pkVi6O), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Insaan](https://open.spotify.com/album/0gOwStQAxXp2YWpz9ij59O) | 3:03 | 2025-06-13 |  |
+| [Insaan](https://open.spotify.com/track/3CKWa385jgUqTxZbAzCfM7) | [kāf](https://open.spotify.com/artist/7HWBA8GKx19Bt7W3pkVi6O), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Insaan](https://open.spotify.com/album/0gOwStQAxXp2YWpz9ij59O) | 3:03 | 2025-06-13 | 2025-07-23 |
 | [Insaanile](https://open.spotify.com/track/4e93naqdNOsCxFsGNuVJlB) | [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0), [Hanan Shaah](https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi), [Suhail Sulthan](https://open.spotify.com/artist/1NJ6PqavygiCeOsUlfDccC) | [Insaanile](https://open.spotify.com/album/6g66omwNeL8sexrKakXMnJ) | 2:45 | 2025-04-01 |  |
 | [Irish Kannazhagi](https://open.spotify.com/track/0CPNtE3qj2wMlTkVNVNXkt) | [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC) | [Irish Kannazhagi](https://open.spotify.com/album/45HUSnecxVm0iripgrMb3U) | 1:15 | 2025-05-16 | 2025-07-15 |
 | [Irul](https://open.spotify.com/track/3zVr8z8gPkr469hbNhiJL2) | [Kannan Brahmamangalam](https://open.spotify.com/artist/4nidUdkbOcuwtyVQhoAJWR), [Alwin Leena Martin](https://open.spotify.com/artist/1FAUvU1UW8d7qwbGJITRD0) | [Irul](https://open.spotify.com/album/3bJ7vvpAJCp7vpKxw9uVNE) | 5:28 | 2023-07-03 | 2023-07-28 |
@@ -289,6 +289,7 @@
 | [Pranayam](https://open.spotify.com/track/4GgOKuJ1cXDPZa1vxPPqSY) | [Crishna](https://open.spotify.com/artist/2MH6exyP2K90nuxJ4bqZvi) | [Pranayam](https://open.spotify.com/album/2HKtcIQXADZBD3k3MZue0F) | 2:42 | 2024-10-14 | 2025-05-24 |
 | [Pravasi](https://open.spotify.com/track/2T5FVgSvxUyEn1rH4Stfu2) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:03 | 2022-12-22 | 2024-06-29 |
 | [Premaalamil](https://open.spotify.com/track/1VeJX1Mx3wXV46KYhWiXmt) | [Wraith V](https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ), [Jawed Aslam](https://open.spotify.com/artist/7dxeL109zn2qpD5W2HX1sC) | [Premaalamil](https://open.spotify.com/album/07WgthIei5wM26SmISQvhu) | 3:50 | 2025-07-04 |  |
+| [Puthumazha](https://open.spotify.com/track/5CfnIDYUEXRTe6eiYR4YQZ) | [Ewinikz](https://open.spotify.com/artist/5gfzutNloSkBDuLVikIUN8), [Godwin Fernandez](https://open.spotify.com/artist/5vTeO5rzVIjdqNv7RTmB43), [Suchith Surendran](https://open.spotify.com/artist/3Dmkg6TaEsyJ9n8grHJl5T) | [Puthumazha](https://open.spotify.com/album/7ys3lpm8qwYbepZ8bPr08v) | 1:10 | 2025-07-22 |  |
 | [Puttu Biriyani](https://open.spotify.com/track/0HNQsBtT9LfC1PCV1W9V2y) | [Sannidanandan](https://open.spotify.com/artist/36G7EzMNhakODA2g5hLxIq), [Retheesh Narayanan](https://open.spotify.com/artist/6JdxkqU06zxt6pLC0PSeSz) | [Puttu Biriyani](https://open.spotify.com/album/3PsgvyeqCTUCeKE4FaSuMr) | 3:44 | 2025-02-18 | 2025-04-29 |
 | [Puttu Paattu](https://open.spotify.com/track/7i8me6jJ0iAWHeOwdImXFT) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 5:32 | 2022-12-22 | 2025-01-14 |
 | [Qiyamah](https://open.spotify.com/track/0CxqNmgWofnikiYUfoulmw) | [Fathima Jahaan](https://open.spotify.com/artist/2iqMauzUdnUyiCOUeOFYD6) | [Qiyamah](https://open.spotify.com/album/4Uk9qGCVATwNRzNzVaVx96) | 3:00 | 2025-05-05 |  |

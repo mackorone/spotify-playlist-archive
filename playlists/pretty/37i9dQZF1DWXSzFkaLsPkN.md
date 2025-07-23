@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Madhur Sharma & Aanchal Tyagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,743 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,774 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 32 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
 | 33 | [Sitara](https://open.spotify.com/track/0bK1LCMlZTcAzhl4qLewIs) | [Aashiq Khan](https://open.spotify.com/artist/4V0NivLTfgUFtB6OIxpSus), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA) | [Sitara](https://open.spotify.com/album/4FjR8sS5OickJ0OkXmOEXX) | 3:06 |
 | 34 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 |
-| 35 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 |
-| 36 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 |
+| 35 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 |
+| 36 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 |
 | 37 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
 | 38 | [Aaj Na](https://open.spotify.com/track/322TxW77VZdX9gHynK5Xue) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 3:13 |
 | 39 | [Tu Chodiyon Na](https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tu Chodiyon Na](https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe) | 3:32 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 72 | [Aisi Raaton](https://open.spotify.com/track/0RSGPiykniIg8m7JhiAVv7) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Aisi Raaton](https://open.spotify.com/album/1m45OoirgSzgEF5sLT8i2R) | 3:38 |
 | 73 | [Raintalk](https://open.spotify.com/track/6ZbOfUtik0vWC41BiHC6AF) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Raintalk](https://open.spotify.com/album/69QEbBKAreJ2yGqjuRGXEi) | 3:17 |
 | 74 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
-| 75 | [Awaara Ho](https://open.spotify.com/track/1wYzvT6Ek0rJSyVu848CzN) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Awaara Ho](https://open.spotify.com/album/5S42rvQq7Ix5LvUZNCu1Qu) | 3:29 |
-| 76 | [Meri Jaan](https://open.spotify.com/track/5PHcGIQUchpB8wcNtdNtuP) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Meri Jaan](https://open.spotify.com/album/2Tn82MBBcAdiiwXgCnEqqf) | 3:05 |
-| 77 | [TERA PATA](https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [TERA PATA](https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z) | 2:46 |
-| 78 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
+| 75 | [Meri Jaan](https://open.spotify.com/track/5PHcGIQUchpB8wcNtdNtuP) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Meri Jaan](https://open.spotify.com/album/2Tn82MBBcAdiiwXgCnEqqf) | 3:05 |
+| 76 | [Awaara Ho](https://open.spotify.com/track/1wYzvT6Ek0rJSyVu848CzN) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Awaara Ho](https://open.spotify.com/album/5S42rvQq7Ix5LvUZNCu1Qu) | 3:29 |
+| 77 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
+| 78 | [TERA PATA](https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [TERA PATA](https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z) | 2:46 |
 | 79 | [Khata](https://open.spotify.com/track/1yLEjCfSSO1UXAxgXg48d5) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Khata](https://open.spotify.com/album/40p7Y3kJSC4J5r9ZBeYyHe) | 4:10 |
 | 80 | [O Re Saavan](https://open.spotify.com/track/5EXcMk9ZlC5UlDU4jSZsm1) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [O Re Saavan](https://open.spotify.com/album/6PjAaPH6Fg68TjnSvCHK9I) | 2:38 |
 | 81 | [Pukaroge](https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Pukaroge](https://open.spotify.com/album/6oT1IdHJahyT5GLigdFYyq) | 3:57 |

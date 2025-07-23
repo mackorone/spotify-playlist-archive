@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,793 songs - 5 day 2 hr 11 min
+1,794 songs - 5 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,7 +773,7 @@
 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2020-05-18 | 2020-10-09 |
 | [I'm Searching](https://open.spotify.com/track/558uChH7Bp7VVQCQSeHPdR) | [ALIGN](https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I) | [I'm Searching](https://open.spotify.com/album/3O2o9gs4lY2kSI61eZU5Nt) | 4:28 | 2021-06-04 | 2022-07-28 |
 | [I've Got You \- Rinzen Remix](https://open.spotify.com/track/1Axey5hNE9LrzRh6pYiJ1c) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [I've Got You \(Remixes\)](https://open.spotify.com/album/06D4xLAeS3RMbsETfFBxl1) | 5:45 | 2020-02-29\* | 2020-03-16 |
-| [Iajo](https://open.spotify.com/track/6fWaPTrp9PnPwd9l3U3Keo) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Iajo](https://open.spotify.com/album/00D70fYsAp00LqwJuh6214) | 4:38 | 2025-06-06 |  |
+| [Iajo](https://open.spotify.com/track/6fWaPTrp9PnPwd9l3U3Keo) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Iajo](https://open.spotify.com/album/00D70fYsAp00LqwJuh6214) | 4:38 | 2025-06-06 | 2025-07-23 |
 | [Ice Cream](https://open.spotify.com/track/50LG7e8Net7XTAtERiUQ3Q) | [exMAD](https://open.spotify.com/artist/36PpbwDX0Eqbjixfl10N1T) | [Ice Cream](https://open.spotify.com/album/5AQUi03dUpNqjQnSqV7OLI) | 3:13 | 2020-07-03 | 2020-10-09 |
 | [Iceland](https://open.spotify.com/track/1tUWvv0HotBCDNtQsSoLtP) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Petit Biscuit](https://open.spotify.com/album/5jN2QKlCwW7LnA8O8ARURB) | 4:41 | 2020-08-20 | 2020-10-09 |
 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 | 2020-05-22 | 2020-07-03 |
@@ -1674,6 +1674,7 @@
 | [updown](https://open.spotify.com/track/06vDTKSGYDtZpXt8q0S5Zb) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [updown](https://open.spotify.com/album/2OXEwDrbFYYhTFf2WiNwOJ) | 2:45 | 2023-02-17 | 2023-04-29 |
 | [Us](https://open.spotify.com/track/6R9O2TUoXnWuIIZ5HK3J6T) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Us](https://open.spotify.com/album/606qe2JEf9dndELUHpLx0F) | 4:56 | 2020-04-12 | 2020-10-09 |
 | [Us](https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [Us](https://open.spotify.com/album/6pCGV4BvvjWT4uQJethJXF) | 4:51 | 2022-07-08 | 2022-12-24 |
+| [Utopia](https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Serotonin](https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1) | 3:15 | 2025-07-18 |  |
 | [UUUU](https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [UUUU](https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP) | 6:29 | 2022-04-29 | 2023-03-26 |
 | [vestal avenue](https://open.spotify.com/track/1HQYsqs4Ek4ng9hcDFUrLw) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [album1](https://open.spotify.com/album/09lJhufJEYwygdKq3vUa8t) | 4:15 | 2020-03-23 | 2020-07-03 |
 | [View from the Aeroplane Window](https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [View from the Aeroplane Window](https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH) | 3:53 | 2021-09-03 | 2022-07-28 |

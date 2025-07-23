@@ -4,7 +4,7 @@
 
 > Listen here for the best emerging British Acts across pop, alternative and more
 
-824 songs - 1 day 21 hr 52 min
+825 songs - 1 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Coffee](https://open.spotify.com/track/6GdUMm5xMw9hJckIc0qsGb) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:25 | 2023-09-25 | 2023-11-09 |
 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 | 2023-07-03 | 2023-07-17 |
 | [Cold Life](https://open.spotify.com/track/63r9IzWLsWKE2kWI1L328k) | [Deve](https://open.spotify.com/artist/3xP2q5RQ3YnQIWofwQyXqo) | [Cold Life](https://open.spotify.com/album/6zcBxU9W42AT1iWb9oy1xk) | 2:37 | 2022-06-10 | 2023-02-23 |
+| [Cold Nights in East](https://open.spotify.com/track/2NKSWoERD3cn3ZBrFfzTXP) | [Nicki Knightz](https://open.spotify.com/artist/4NkCQujaXyJD6CEI0kXroD) | [Cold Nights in East](https://open.spotify.com/album/4BGIh3iQz9FMvviHBvqD6R) | 3:03 | 2025-07-22 |  |
 | [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 | 2022-06-06 | 2022-12-06 |
 | [Columbus & 89th](https://open.spotify.com/track/0sPG1vCeyLzUmWTwbu46X3) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Columbus & 89th](https://open.spotify.com/album/35aTodKr8A3bp4k0LJBV51) | 4:15 | 2023-10-17 | 2023-10-24 |
 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 | 2022-07-10 | 2022-07-18 |

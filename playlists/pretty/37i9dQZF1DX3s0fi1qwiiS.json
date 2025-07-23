@@ -1,6 +1,6 @@
 {
   "description": "The songs of Detty December 2024 as chosen by Spotify editors. ",
-  "num_followers": 5921,
+  "num_followers": 5930,
   "original_name": "Songs of  Detty December",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Back to Back",
+        "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 146129,
+      "name": "Back to Back",
+      "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "Finally Famous Too",
         "url": "https://open.spotify.com/album/2fJHuylS0WyxccTNW1nwU9"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 327457,
       "name": "Sohlala Sisonke",
       "url": "https://open.spotify.com/track/7hO6BIPeHb0Y5v9bgXoxKg"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Back to Back",
-        "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 146129,
-      "name": "Back to Back",
-      "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "Bundle By Bundle",
-        "url": "https://open.spotify.com/album/75qtq0pnrosaOm6iMHvQHI"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bundle By Bundle",
-      "url": "https://open.spotify.com/track/74Df4YOGkJsrUDsejV5qdh"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
         "name": "Shayi'Moto (feat. Seemah & Yanda Woods)",
         "url": "https://open.spotify.com/album/1GRp8XrV8yz1Yg3NyQflgv"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 445719,
       "name": "Shayi'Moto (feat. Seemah & Yanda Woods)",
       "url": "https://open.spotify.com/track/0AQfRLzd7pQZcLtfh9Onb8"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "Bundle By Bundle",
+        "url": "https://open.spotify.com/album/75qtq0pnrosaOm6iMHvQHI"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Bundle By Bundle",
+      "url": "https://open.spotify.com/track/74Df4YOGkJsrUDsejV5qdh"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "Chokeslem",
-        "url": "https://open.spotify.com/album/2vpwmi9Ch0ImPCOVgr09zV"
-      },
-      "artists": [
-        {
-          "name": "Kharishma",
-          "url": "https://open.spotify.com/artist/5ln4EWpJqQZEWXAlSNTtVz"
-        },
-        {
-          "name": "Ba Bethe Gashoazen",
-          "url": "https://open.spotify.com/artist/6c4AisSoKVYdeivUhofn6P"
-        }
-      ],
-      "duration_ms": 221254,
-      "name": "Chokeslem",
-      "url": "https://open.spotify.com/track/3jTedBPHIIr48xoJchYHNH"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
         "name": "Diqabang",
         "url": "https://open.spotify.com/album/5ygGTL3c1ehuinc3zykAv3"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 402890,
       "name": "Diqabang",
       "url": "https://open.spotify.com/track/4zZxynw8cwhCRlDl9pay2f"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "Chokeslem",
+        "url": "https://open.spotify.com/album/2vpwmi9Ch0ImPCOVgr09zV"
+      },
+      "artists": [
+        {
+          "name": "Kharishma",
+          "url": "https://open.spotify.com/artist/5ln4EWpJqQZEWXAlSNTtVz"
+        },
+        {
+          "name": "Ba Bethe Gashoazen",
+          "url": "https://open.spotify.com/artist/6c4AisSoKVYdeivUhofn6P"
+        }
+      ],
+      "duration_ms": 221254,
+      "name": "Chokeslem",
+      "url": "https://open.spotify.com/track/3jTedBPHIIr48xoJchYHNH"
     },
     {
       "added_at": "2024-12-19 13:12:01",

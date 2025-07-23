@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 629743,
+  "num_followers": 630307,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
-        "name": "ROSONES",
-        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 177590,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
         "name": "2+2",
         "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 198300,
       "name": "2+2",
       "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 177590,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
-        "name": "Pura Adrenalina",
-        "url": "https://open.spotify.com/album/1nmowOSmp7OY0cW7MoWHEM"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 157569,
-      "name": "Pura Adrenalina",
-      "url": "https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
         "name": "Lo Que Hay X Aqu\u00ed",
         "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 158545,
       "name": "Lo Que Hay X Aqu\u00ed",
       "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
+        "name": "Pura Adrenalina",
+        "url": "https://open.spotify.com/album/1nmowOSmp7OY0cW7MoWHEM"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 157569,
+      "name": "Pura Adrenalina",
+      "url": "https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1431,38 +1431,6 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
-        "name": "Con Toda La Fe",
-        "url": "https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 144726,
-      "name": "Con Toda La Fe",
-      "url": "https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
-        "name": "Solo Me Dejaste",
-        "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 186709,
-      "name": "Solo Me Dejaste",
-      "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
         "name": "Mood Malandro",
         "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
       },
@@ -1479,6 +1447,46 @@
       "duration_ms": 191558,
       "name": "Mood Malandro",
       "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
+        "name": "Con Toda La Fe",
+        "url": "https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 144726,
+      "name": "Con Toda La Fe",
+      "url": "https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
+        "name": "De Fresa y Coco",
+        "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 165447,
+      "name": "De Fresa y Coco",
+      "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1519,50 +1527,6 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
-        "name": "De Fresa y Coco",
-        "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 165447,
-      "name": "De Fresa y Coco",
-      "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
-        "name": "La Suma",
-        "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Lupe Borbon y su Blindaje 7",
-          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
-        }
-      ],
-      "duration_ms": 198976,
-      "name": "La Suma",
-      "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
         "name": "Otro D\u00eda, Otra Aventura",
         "url": "https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j"
       },
@@ -1583,6 +1547,42 @@
       "duration_ms": 200859,
       "name": "Otro D\u00eda, Otra Aventura",
       "url": "https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
+        "name": "Solo Me Dejaste",
+        "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "Solo Me Dejaste",
+      "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
+        "name": "La Suma",
+        "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Lupe Borbon y su Blindaje 7",
+          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
+        }
+      ],
+      "duration_ms": 198976,
+      "name": "La Suma",
+      "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
     },
     {
       "added_at": "2025-07-04 00:59:19",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2025-07-04 00:59:19",
       "album": {
-        "name": "Memorias <3",
-        "url": "https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA"
-      },
-      "artists": [
-        {
-          "name": "emmanuellcortess_",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx"
-    },
-    {
-      "added_at": "2025-07-04 00:59:19",
-      "album": {
         "name": "El Plumas",
         "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 150528,
       "name": "El Plumas",
       "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
+    },
+    {
+      "added_at": "2025-07-04 00:59:19",
+      "album": {
+        "name": "Memorias <3",
+        "url": "https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA"
+      },
+      "artists": [
+        {
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx"
     },
     {
       "added_at": "2025-07-04 00:59:19",

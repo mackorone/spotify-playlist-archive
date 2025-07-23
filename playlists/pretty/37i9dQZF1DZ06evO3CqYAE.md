@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,141 likes - 45 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,148 likes - 45 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 19 | [Onememma \(feat\. Chioma Jesus\)](https://open.spotify.com/track/5B6ckleglIos5782GxMYml) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:06 |
 | 20 | [More Than Gold \(feat\. Mercy Chinwo\)](https://open.spotify.com/track/7ImaABjt1NzhwO9KhABkG4) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 5:34 |
 | 21 | [The Doing of the Lord](https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Doing of the Lord](https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh) | 4:46 |
-| 22 | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832) | 5:54 |
+| 22 | [When You Say A Thing](https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [When You Say A Thing](https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY) | 3:59 |
 | 23 | [Akamdinelu](https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 6:02 |
-| 24 | [When You Say A Thing](https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [When You Say A Thing](https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY) | 3:59 |
-| 25 | [From The Rising](https://open.spotify.com/track/5ds4VdSTfXXXFifcCGWYZe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 4:15 |
+| 24 | [From The Rising](https://open.spotify.com/track/5ds4VdSTfXXXFifcCGWYZe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 4:15 |
+| 25 | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/track/2B5bl6TenrogNpxgdCIPTw) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832) | 5:54 |
 | 26 | [Onyedikagi \(feat\. Glowrie\)](https://open.spotify.com/track/4ktpl2Qr30Ul3hELVOoD3y) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Glowrie](https://open.spotify.com/artist/6RPz4GRgdIj0D0kogq25BF) | [Onyedikagi \(feat\. Glowrie\)](https://open.spotify.com/album/028rmY503DhNp5XFDbJFUo) | 4:57 |
 | 27 | [Incredible God](https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:45 |
 | 28 | [Lifter](https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:24 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 44 | [Igwe](https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 5:27 |
 | 45 | [Power Belongs To Jesus](https://open.spotify.com/track/12crjb1IdFLzMIavd3hAnO) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Power Belongs To Jesus](https://open.spotify.com/album/5pfGxqWgKcPPYAbjnHqU0v) | 4:16 |
 
-Snapshot ID: `aHwxgAAAAAArWv9NQMnJn476LFUxJgoA`
+Snapshot ID: `aH2DAAAAAABPQba7CXDp2PDMh+3j4wIr`

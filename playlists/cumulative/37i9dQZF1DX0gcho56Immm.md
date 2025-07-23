@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Fade Evare
 
-140 songs - 7 hr 59 min
+141 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Galloping Chest](https://open.spotify.com/track/0sW23ZyfB2RrAFFsA0YGXz) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Galloping Chest](https://open.spotify.com/album/33T7RKYfkC9zIsq2gX3hob) | 3:30 | 2025-06-06 |  |
 | [Girls Like Me Belong in Bed, Curled](https://open.spotify.com/track/0byjD8soqql3yBdhOFWjKI) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Zen Maiden](https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR) | 4:04 | 2025-03-13 |  |
 | [Good Stuff \- Edit](https://open.spotify.com/track/6BZC33mJ7fbt7lHQDHnKyf) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh), [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Good Stuff \(Edit\)](https://open.spotify.com/album/3qNVaqCijxUA03OYFh88ul) | 3:29 | 2025-04-03 |  |
+| [Gown](https://open.spotify.com/track/7rRXZr2yNxk4HTIIdPfkRe) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Gown](https://open.spotify.com/album/76LdvzNH2xn7aBiohbRBrC) | 3:15 | 2025-07-22 |  |
 | [Green Edge](https://open.spotify.com/track/2VFnC7z1CCX0iWQZyAbOB9) | [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Montalvo](https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr) | 3:32 | 2025-03-13 |  |
 | [Guess It's Wrecked](https://open.spotify.com/track/1m8hRVS4d1naBsHNZDKV33) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e), [Olan Monk](https://open.spotify.com/artist/3BBWf8gJdcOI5EwrptKGSM) | [You Never End](https://open.spotify.com/album/06IJJi2iZOfJvHWFM8lRI9) | 2:09 | 2025-03-13 |  |
 | [Gums](https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [gums](https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa) | 3:38 | 2025-04-24 |  |

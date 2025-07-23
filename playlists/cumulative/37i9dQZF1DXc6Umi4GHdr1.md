@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-440 songs - 19 hr 29 min
+441 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [April Snow](https://open.spotify.com/track/32dB0ESIxhqJHS5d2XExmO) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [April Snow](https://open.spotify.com/album/4v2KKu2YVfketVBSLq2jQl) | 1:43 | 2024-05-24 | 2025-04-03 |
 | [Aquamarine](https://open.spotify.com/track/5lmpup8cpMz2Xik4qwhXwl) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Aquamarine](https://open.spotify.com/album/4dFmwqiionPLdVclCiAJWn) | 2:39 | 2023-10-27 | 2024-07-18 |
 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 | 2022-03-03 |  |
+| [Arlington](https://open.spotify.com/track/3ePyoHtT62Gg0gdwwHam54) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Arlington](https://open.spotify.com/album/0R2OpCITAohq590iMgEZBn) | 2:34 | 2025-07-22 |  |
 | [Arrival at Eight](https://open.spotify.com/track/3kxSndcN8vYmIJiZvyhj8J) | [Andreas Heuser](https://open.spotify.com/artist/1TPRvsNV32KEuCAYTh9mg6) | [Arrival at Eight](https://open.spotify.com/album/6wRfEhLfpsIBuHVPDofp0E) | 3:38 | 2022-11-18 | 2023-09-01 |
 | [Artemis](https://open.spotify.com/track/5CcTsoh77A0ClwHfAl80cK) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Artemis](https://open.spotify.com/album/7GSzGWVULgIwKJLPUuvicr) | 1:54 | 2025-06-16 |  |
 | [As Long As You Are By My Side](https://open.spotify.com/track/2UrLjcS494QMLJbzYgOXht) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [As Long As You Are By My Side](https://open.spotify.com/album/6V5508TydVNEnHXsgUeW0q) | 2:22 | 2021-12-10 | 2022-09-23 |
@@ -136,7 +137,7 @@
 | [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 | 2023-06-10 |
 | [Flickering](https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Flickering](https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx) | 1:41 | 2023-05-26 | 2023-06-16 |
 | [Floreio](https://open.spotify.com/track/5qse6XR40QbLoS8jRCwpXa) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Floreio](https://open.spotify.com/album/3BeHMO8k913Cci8qpbitgu) | 2:37 | 2023-10-27 | 2025-03-12 |
-| [Flourishing](https://open.spotify.com/track/0vvxKfRNMUMKfOSYq78mY3) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Flourishing](https://open.spotify.com/album/2fBuHt70rTcLRkwcBtl0Ts) | 2:23 | 2024-03-08 |  |
+| [Flourishing](https://open.spotify.com/track/0vvxKfRNMUMKfOSYq78mY3) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Flourishing](https://open.spotify.com/album/2fBuHt70rTcLRkwcBtl0Ts) | 2:23 | 2024-03-08 | 2025-07-23 |
 | [Flowers](https://open.spotify.com/track/7bRZz44ODWdcv9OnPDTmpe) | [Dena Audley](https://open.spotify.com/artist/0PMxfySITWLIxBnSJAvUK1) | [Flowers](https://open.spotify.com/album/53PivFOhCq2M9aoVOWDRCj) | 2:08 | 2023-01-06 |  |
 | [Flying out](https://open.spotify.com/track/0em6UnHzNwrpy2Bg13FQVE) | [Northside](https://open.spotify.com/artist/1dNJvEGHHgzCsXqfXuMxYy) | [Second Wind](https://open.spotify.com/album/00nScRMmuLvmAywU5VPdln) | 3:18 | 2021-12-10 | 2023-04-28 |
 | [Follow Me](https://open.spotify.com/track/3mcnh0DtILL5mjk0dwR3oD) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Follow Me](https://open.spotify.com/album/0a6JQdPkBBa0mIYBVe7qj2) | 3:20 | 2022-03-03 | 2022-07-22 |
@@ -215,7 +216,7 @@
 | [Like no other](https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Like no other](https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb) | 2:32 | 2023-03-10 | 2023-06-16 |
 | [Little Brook](https://open.spotify.com/track/7qNq3sxKEdzYWvxLSLkj0J) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Little Brook](https://open.spotify.com/album/4LFmxQ7oxYlsVgITnOa2SX) | 2:22 | 2022-12-09 | 2024-07-30 |
 | [Live just one more moment](https://open.spotify.com/track/3a2YKVcHmyXPZvWGofVTZ6) | [Brogan Doyle](https://open.spotify.com/artist/1Vefdiw82VOjbwc5y7iQyg) | [Live just one more moment](https://open.spotify.com/album/52cRGasaOFSkOte69HO7Yf) | 2:22 | 2022-03-03 |  |
-| [London Fog](https://open.spotify.com/track/39PaXHJYKENift4jbT5n8j) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [London Fog](https://open.spotify.com/album/0832H76yui7UZKuSv6i3ip) | 2:29 | 2024-02-02 |  |
+| [London Fog](https://open.spotify.com/track/39PaXHJYKENift4jbT5n8j) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [London Fog](https://open.spotify.com/album/0832H76yui7UZKuSv6i3ip) | 2:29 | 2024-02-02 | 2025-07-23 |
 | [Long Walking Back Home](https://open.spotify.com/track/3rlhZSPaSjM9Xf3R8iInwG) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Long Walking Back Home](https://open.spotify.com/album/2uEL6m8Pq3u7m3HirU4NxX) | 3:08 | 2022-03-03 |  |
 | [Longing for Light](https://open.spotify.com/track/45gfOKyt6rXK1jvHUYLAc0) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Longing for Light](https://open.spotify.com/album/5IGCr7YcKK9ttN3H0qeank) | 2:05 | 2023-03-10 | 2023-06-16 |
 | [Lost in the Moment](https://open.spotify.com/track/2KOlLqz63AA8AMuH5lwIyX) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lost in the Moment](https://open.spotify.com/album/5YSiRGp7ninOfNhNM5osJl) | 2:20 | 2025-06-16 | 2025-07-09 |
@@ -433,7 +434,7 @@
 | [Whispers of Fondne](https://open.spotify.com/track/4IjwqZl1db3DsrO7RtZKJh) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Whispers of Fondne](https://open.spotify.com/album/6lrs71ikfFEAIPB7m4bnoJ) | 2:55 | 2024-02-23 |  |
 | [Wichita Falls](https://open.spotify.com/track/1CAOAUuIIhbXkHUeQHgnYb) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Wichita Falls](https://open.spotify.com/album/1Ty3h8HlwKdRThb4qzR9fC) | 2:23 | 2023-05-26 | 2023-06-16 |
 | [Wild at Heart](https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Wild at Heart](https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB) | 2:35 | 2024-04-05 |  |
-| [Wind Smells the Sea](https://open.spotify.com/track/2REjYFKoTnUcmQ5mlycefg) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Wind Smells the Sea](https://open.spotify.com/album/6ycA17KnDVAjaN0VeXo2AJ) | 2:27 | 2024-07-18 |  |
+| [Wind Smells the Sea](https://open.spotify.com/track/2REjYFKoTnUcmQ5mlycefg) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Wind Smells the Sea](https://open.spotify.com/album/6ycA17KnDVAjaN0VeXo2AJ) | 2:27 | 2024-07-18 | 2025-07-23 |
 | [Winter Blues](https://open.spotify.com/track/2s2gJ5xHJcVfiJ6GnvRk0m) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [Winter Blues](https://open.spotify.com/album/2f8eOYEG4ftkAniFWAUBDV) | 2:07 | 2022-12-23 | 2023-04-28 |
 | [Winter Dreamin'](https://open.spotify.com/track/3EMWJCLAscSYAYlcBKEt65) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Winter Dreamin'](https://open.spotify.com/album/2khbVKACHbQ4UxShCbB4Th) | 3:39 | 2024-02-23 | 2024-05-10 |
 | [Winter Solstice](https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Abenddämmerung](https://open.spotify.com/album/05yJ8D8WooKWGfItq1NLOA) | 3:29 | 2023-05-26 | 2023-06-16 |

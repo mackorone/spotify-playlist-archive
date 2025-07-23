@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31651,
+  "num_followers": 31653,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAACqwUYEnW7JZvUesSPUUXSL",
+  "snapshot_id": "aH2DAAAAAAD2mmAT8P5igjJGBs51hfpe",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 167960,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tengo",
         "url": "https://open.spotify.com/album/6uq8cwuvPvPSYp3rjriBQ9"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 230323,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/4Jo5MeAP4GFRFc57m2q7FY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 167960,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES"
     },
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165346,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/6gA1VnJMJYUi4kFTg7OqtM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Mill\u00f3n Como T\u00fa (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/6ry4Fp9pZ6hWf5opR2Vj74"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 279933,
       "name": "Un Mill\u00f3n Como T\u00fa - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/1oZ2hDOn8rJFQdFKQ9HXTu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165346,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/6gA1VnJMJYUi4kFTg7OqtM"
     },
     {
       "added_at": null,
@@ -591,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
+        "name": "La Mujer Perfecta",
+        "url": "https://open.spotify.com/album/7b480lZwd4K0cxB9geNa4p"
       },
       "artists": [
+        {
+          "name": "Sindicato Del Ritmo",
+          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
+        },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 247213,
-      "name": "En Medio De Este Ruido",
-      "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
+      "duration_ms": 218573,
+      "name": "La Mujer Perfecta",
+      "url": "https://open.spotify.com/track/4nhbJAwQUwWxF3t3JwTROe"
     },
     {
       "added_at": null,
@@ -627,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mujer Perfecta",
-        "url": "https://open.spotify.com/album/7b480lZwd4K0cxB9geNa4p"
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
       },
       "artists": [
-        {
-          "name": "Sindicato Del Ritmo",
-          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
-        },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 218573,
-      "name": "La Mujer Perfecta",
-      "url": "https://open.spotify.com/track/4nhbJAwQUwWxF3t3JwTROe"
+      "duration_ms": 247213,
+      "name": "En Medio De Este Ruido",
+      "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 148666,
-      "name": "Volver A Verte",
-      "url": "https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Lo Est\u00e1s Logrando",
         "url": "https://open.spotify.com/album/4SyYB20GsBAd7Uk3Xmi64U"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 183706,
       "name": "No Lo Est\u00e1s Logrando",
       "url": "https://open.spotify.com/track/1uk2LVKncHycjhxBAz6kyn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 148666,
+      "name": "Volver A Verte",
+      "url": "https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ"
     },
     {
       "added_at": null,

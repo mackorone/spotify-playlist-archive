@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 
 > Our editors’ picks for this year's best\-kept pop secrets\. Cover: Chloe Qisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,979 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,984 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 | 12 | [ASPHALT RODEO](https://open.spotify.com/track/5pzmkgbNySjVLuab0ouPd2) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [ASPHALT RODEO](https://open.spotify.com/album/3s31l2YgotuoSTOAZY5qFN) | 2:38 |
 | 13 | [Questions](https://open.spotify.com/track/3LpmZrDqY7GsCdCYHRqT3n) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Questions / Nightly](https://open.spotify.com/album/1qNj3UHGr6MK1YsC1iBPRY) | 2:32 |
 | 14 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 |
-| 15 | [Abrázame](https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Abrázame](https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL) | 3:19 |
-| 16 | [Callin' U \(Tamally Maak\)](https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 1:56 |
+| 15 | [Callin' U \(Tamally Maak\)](https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 1:56 |
+| 16 | [Abrázame](https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Abrázame](https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL) | 3:19 |
 | 17 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
 | 18 | [EL ÚNICO](https://open.spotify.com/track/2wuZ3kg5ChBjRKqBYfJ9H7) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:32 |
 | 19 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 |

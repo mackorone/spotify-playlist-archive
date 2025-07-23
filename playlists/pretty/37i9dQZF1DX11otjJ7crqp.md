@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Saga Faye
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,600 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,244 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 35 | [Growing Pains](https://open.spotify.com/track/7z1TcfdSiIg21c627E2MpI) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Growing Pains](https://open.spotify.com/album/2ow19W5NPtxxon9dlOLOeC) | 2:39 |
 | 36 | [Take Touch](https://open.spotify.com/track/6fitXlm7VdwjZk3mIAeFFS) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [Take Touch](https://open.spotify.com/album/3iOknyG3TeVz5ecH72DABg) | 3:47 |
 | 37 | [Your Eyes](https://open.spotify.com/track/02KGJLnY7h0e8P4T0rf0bC) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Your Eyes](https://open.spotify.com/album/3EzU1SormJ1SnlKEKg8L91) | 3:01 |
-| 38 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
+| 38 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
 | 39 | [Tenner](https://open.spotify.com/track/2XQIhPALkOY06FrmirfYIg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Tenner](https://open.spotify.com/album/1KSmOfVBlPziey4VpNKCyQ) | 2:36 |
 | 40 | [Tear Me Down](https://open.spotify.com/track/7igaOWovZvVG2sjgsaa0UE) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Tear Me Down](https://open.spotify.com/album/23zlTkc9qgxGDOwZpA4AsX) | 3:58 |
 | 41 | [MIAMI](https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MIAMI](https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la) | 3:01 |
 | 42 | [sos](https://open.spotify.com/track/43foJgvtRmkaSm4g5Jax4w) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:16 |
 | 43 | [Broken](https://open.spotify.com/track/0IWOPug8y9ht2L8oQqGjA8) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [SALT + LIGHT](https://open.spotify.com/album/2BctJ00mFldhrsOHMoz1h3) | 2:41 |
-| 44 | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
+| 44 | [You Can’t Run From Yourself \- From "Kaiju No\. 8"](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
 | 45 | [Turn Red](https://open.spotify.com/track/7ruY9EHnzkOc01D5zxGQ1N) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Turn Red](https://open.spotify.com/album/1u2RNnee15k34sv5gMf5IM) | 2:58 |
 | 46 | [Anybody](https://open.spotify.com/track/5T4mcHbQHxkxWwCjjqxlq7) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Anybody](https://open.spotify.com/album/7JikpphtGvkfBcL0GrgHku) | 2:52 |
 | 47 | [Carat Cake](https://open.spotify.com/track/1lQUPc4TwyexiWSXDENSPb) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Carat Cake](https://open.spotify.com/album/5mXJe0iw9NXa06rDaKhjoi) | 2:21 |

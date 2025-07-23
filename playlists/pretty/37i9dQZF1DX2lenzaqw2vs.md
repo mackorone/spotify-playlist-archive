@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: YADAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,740 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,734 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 32 | [Cáscara de Coco](https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:56 |
 | 33 | [MADRE](https://open.spotify.com/track/20ubMMwoL8zs9hDZ149aPl) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:01 |
 | 34 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 |
-| 35 | [Conexión Ancestral](https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:00 |
-| 36 | [jules](https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 4:27 |
-| 37 | [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 |
-| 38 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 |
+| 35 | [jules](https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 4:27 |
+| 36 | [Conexión Ancestral](https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:00 |
+| 37 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 |
+| 38 | [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 |
 | 39 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 |
 | 40 | [Cartagena](https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 3:07 |
 | 41 | [Ácido Sabor](https://open.spotify.com/track/0a2giOzEw6DnH2V9bt3GP3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ácido Sabor](https://open.spotify.com/album/6VUd6HAFSkMyUYxe26MOSh) | 3:30 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 56 | [Pa Tanto](https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Pa Tanto](https://open.spotify.com/album/20ULysRftwowCX4GCySy6f) | 2:49 |
 | 57 | [La Custodia](https://open.spotify.com/track/2PUznvn28VI6XhvCLKWR6d) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [La Custodia](https://open.spotify.com/album/0OS8G8yhjnTs8bVJ2XzdFb) | 3:47 |
 | 58 | [Querer Querer](https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg), [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Querer Querer](https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh) | 3:27 |
-| 59 | [Cara de Gitana](https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La Caldera](https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg) | 3:36 |
-| 60 | [LALALAND](https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:56 |
+| 59 | [LALALAND](https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:56 |
+| 60 | [Cara de Gitana](https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La Caldera](https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg) | 3:36 |
 | 61 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 |
 | 62 | [Crimen](https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Crimen](https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo) | 3:07 |
 | 63 | [Multicolor](https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Multicolor](https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF) | 3:40 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 96 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
 | 97 | [NO BINARIA](https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NO BINARIA](https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA) | 2:11 |
 | 98 | [me gusta que me gustes](https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Así Me Siento Hoy](https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe) | 2:35 |
-| 99 | [Cielo de Colores](https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Cielo de Colores](https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB) | 3:04 |
-| 100 | [Vacation Bae](https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Radio Sunshine](https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23) | 2:34 |
+| 99 | [Vacation Bae](https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Radio Sunshine](https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23) | 2:34 |
+| 100 | [Cielo de Colores](https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Cielo de Colores](https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB) | 3:04 |
 
 Snapshot ID: `aHnGzAAAAAAlYGTjnaukflm3KI2XRnfx`

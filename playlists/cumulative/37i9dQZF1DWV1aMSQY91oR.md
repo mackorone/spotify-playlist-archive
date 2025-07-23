@@ -4,7 +4,7 @@
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Young Nudy
 
-3,902 songs - 7 day 18 hr 40 min
+3,902 songs - 7 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3638,7 +3638,7 @@
 | [Victorious](https://open.spotify.com/track/1lfaaH8udG6OlTgn2rdehp) | [CKooliente](https://open.spotify.com/artist/25bF7FCbSkCOzXojnW14Bh), [BhramaBull](https://open.spotify.com/artist/65sWEJKcaIYHnVc0qzv4p7), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [Victorious](https://open.spotify.com/album/39mbL7zpDZu99v1jro2nLf) | 2:23 | 2024-03-29 | 2024-04-06 |
 | [Victory](https://open.spotify.com/track/7pNO4tDG13Ujd1sCVNQO8J) | [Gurwaris Sandhu](https://open.spotify.com/artist/1AlgYxdLYq9ZVUtJdPlTHY), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [Victory](https://open.spotify.com/album/2nLdgD2HubB4beOQkN7gmb) | 2:39 | 2025-04-18 | 2025-04-26 |
 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-06-20 | 2025-07-12 |
-| [Victory Lap Three](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 3:28 | 2025-07-11 |  |
+| [Victory Lap Four](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 4:22 | 2025-07-11 |  |
 | [ViDA LOCA](https://open.spotify.com/track/3uilWWrdQU9LjrtjOWpL6n) | [MADRiiNA](https://open.spotify.com/artist/71hlGt1GyQq0HOXC12ZGQ7) | [ViDA LOCA](https://open.spotify.com/album/0cSvsMYcf2EoDk1Ut0FMFl) | 2:21 | 2025-04-18 | 2025-04-26 |
 | [Views from thorncliffe](https://open.spotify.com/track/1uNOgsal9aFAGF8Dbb5LeI) | [Road Runner](https://open.spotify.com/artist/0lR8BD5lSNtTjQvggwyqE6) | [Views from thorncliffe](https://open.spotify.com/album/395WzT2QPN1HmSi6VGTGdY) | 2:06 | 2023-09-15 | 2023-09-23 |
 | [Villanos](https://open.spotify.com/track/5hFwiiUek2S7huJQCZlR4P) | [Nanu](https://open.spotify.com/artist/0NdqwX70EDgH6cXE2Nf6g6), [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Villanos](https://open.spotify.com/album/4Y9zuys4B4Snr82HN7c1HX) | 2:54 | 2024-02-16 | 2024-02-24 |

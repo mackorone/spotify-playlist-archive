@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Alex Warren, Darin, Shiro & Y4ska och Saga Faye med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,504 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,499 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 28 | [Illegal Hit \- Edit](https://open.spotify.com/track/4ndO7iYxLEpqQVhoZ6fxrh) | [Yttling Jazz](https://open.spotify.com/artist/0sHY32geV56IzTbEEomMFG), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc), [Saturday, Monday](https://open.spotify.com/artist/4ChtTBF8lU2YYsuoTrquYn) | [Illegal Hit \(Edit\)](https://open.spotify.com/album/2hdwjXmqZTBLOe5P2tB1Ux) | 3:22 |
 | 29 | [Original](https://open.spotify.com/track/0yKsZ7zzBGlqcMGsYLHPnJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Original](https://open.spotify.com/album/4D1YMmnqNvTbECWBuQYnBb) | 3:15 |
 | 30 | [1965](https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:48 |
-| 31 | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
+| 31 | [You Can’t Run From Yourself \- From "Kaiju No\. 8"](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
 | 32 | [WHAT’S IT GONNA TAKE?](https://open.spotify.com/track/18tLd6ngQXiWkt1MYznrUW) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9), [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh) | [WHAT’S IT GONNA TAKE?](https://open.spotify.com/album/3gUDjFQM7P8EWsBZ3nmatr) | 2:45 |
 | 33 | [Emilie's Song \- From the TV series "Tordyveln flyger i skymningen"](https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Emilie's Song \(From the TV series "Tordyveln flyger i skymningen"\)](https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd) | 4:24 |
 | 34 | [Machine](https://open.spotify.com/track/3UTG8JgUGRaXiroa2bBxTO) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Summer Crime](https://open.spotify.com/album/42OKHc9E91nhsELUfypuPr) | 3:10 |

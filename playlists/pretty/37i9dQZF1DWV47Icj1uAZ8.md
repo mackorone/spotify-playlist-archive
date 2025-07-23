@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://twitter.com/kofi">Kofi Siriboe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,496 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,508 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV47Icj1uAZ8.md) - [plain]
 | 36 | [Time's A Wastin](https://open.spotify.com/track/6q8fYYujrQxXckq1tTtqqi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 6:40 |
 | 37 | [Young Nigga \(feat\. Puff Daddy\)](https://open.spotify.com/track/0pBcI8Gf1Oe3ziIbE9tBsX) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 3:56 |
 | 38 | [Mutual Butterflies](https://open.spotify.com/track/531MBHrtGF6nAkK4zUafi9) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [august](https://open.spotify.com/album/7h1xc7a0GqmwkzOu29YbjD) | 3:03 |
-| 39 | [Looks Are Deceiving](https://open.spotify.com/track/3BkCURiZj3EflNF0zqzURs) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:37 |
-| 40 | [Lost One](https://open.spotify.com/track/75pQBGZxBe4bDm8spb2OG6) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 2:58 |
+| 39 | [Lost One](https://open.spotify.com/track/75pQBGZxBe4bDm8spb2OG6) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 2:58 |
+| 40 | [Looks Are Deceiving](https://open.spotify.com/track/3BkCURiZj3EflNF0zqzURs) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:37 |
 | 41 | [Recognize Real \(with Gunna\)](https://open.spotify.com/track/2wSWcyp4Z8ObUaqlNMGd5h) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:51 |
 | 42 | [Lovely](https://open.spotify.com/track/2yb8xWLdEaDsUMOFsWr09q) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Into](https://open.spotify.com/album/0AHaFhhNCg3u0j6EJ3NfP7) | 4:51 |
 | 43 | [Hello](https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:19 |

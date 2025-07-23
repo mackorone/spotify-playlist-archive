@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 253979,
+  "num_followers": 254089,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-06-13 07:51:46",
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
-      },
-      "artists": [
-        {
-          "name": "Adriana Arias",
-          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
-        }
-      ],
-      "duration_ms": 137424,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp"
-    },
-    {
-      "added_at": "2025-06-13 07:51:46",
-      "album": {
         "name": "Falando de Amor",
         "url": "https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 256522,
       "name": "Falando de Amor",
       "url": "https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe"
+    },
+    {
+      "added_at": "2025-06-13 07:51:46",
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
+      },
+      "artists": [
+        {
+          "name": "Adriana Arias",
+          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
+        }
+      ],
+      "duration_ms": 137424,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp"
     },
     {
       "added_at": "2025-06-13 07:51:46",
@@ -455,26 +455,6 @@
     {
       "added_at": "2025-06-13 07:51:46",
       "album": {
-        "name": "Edu & Tom, Tom & Edu",
-        "url": "https://open.spotify.com/album/5ttzMNvNxUiCtKlKiCnQLm"
-      },
-      "artists": [
-        {
-          "name": "Edu Lobo",
-          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 257533,
-      "name": "\u00c9 Preciso Dizer Adeus",
-      "url": "https://open.spotify.com/track/2yMWSLsGb0jcRsUNmWheKX"
-    },
-    {
-      "added_at": "2025-06-13 07:51:46",
-      "album": {
         "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
         "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
       },
@@ -495,6 +475,26 @@
     {
       "added_at": "2025-06-13 07:51:46",
       "album": {
+        "name": "Edu & Tom, Tom & Edu",
+        "url": "https://open.spotify.com/album/5ttzMNvNxUiCtKlKiCnQLm"
+      },
+      "artists": [
+        {
+          "name": "Edu Lobo",
+          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "\u00c9 Preciso Dizer Adeus",
+      "url": "https://open.spotify.com/track/2yMWSLsGb0jcRsUNmWheKX"
+    },
+    {
+      "added_at": "2025-06-13 07:51:46",
+      "album": {
         "name": "Giordano Rosa",
         "url": "https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni"
       },
@@ -507,6 +507,30 @@
       "duration_ms": 151875,
       "name": "Marinheiro",
       "url": "https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY"
+    },
+    {
+      "added_at": "2025-06-13 07:51:46",
+      "album": {
+        "name": "Saudade Fez um Samba",
+        "url": "https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Lyra",
+          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "Saudade Fez um Samba",
+      "url": "https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq"
     },
     {
       "added_at": "2025-06-13 07:51:46",
@@ -559,30 +583,6 @@
       "duration_ms": 322202,
       "name": "Veja Bem Meu Bem",
       "url": "https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot"
-    },
-    {
-      "added_at": "2025-06-13 07:51:46",
-      "album": {
-        "name": "Saudade Fez um Samba",
-        "url": "https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Lyra",
-          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "Saudade Fez um Samba",
-      "url": "https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq"
     },
     {
       "added_at": "2025-06-13 07:51:46",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-06-13 07:51:46",
       "album": {
-        "name": "Semente Chorojazz",
-        "url": "https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Paulo Becker",
-          "url": "https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Sambete",
-      "url": "https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I"
-    },
-    {
-      "added_at": "2025-06-13 07:51:46",
-      "album": {
         "name": "A Bossa De Caetano",
         "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 172506,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj"
+    },
+    {
+      "added_at": "2025-06-13 07:51:46",
+      "album": {
+        "name": "Semente Chorojazz",
+        "url": "https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Paulo Becker",
+          "url": "https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Sambete",
+      "url": "https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I"
     },
     {
       "added_at": "2025-06-13 07:51:46",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-06-13 07:51:46",
       "album": {
-        "name": "Parti Capuri",
-        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
-      },
-      "artists": [
-        {
-          "name": "Billynho Blanco",
-          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Parti Capuri",
-      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
-    },
-    {
-      "added_at": "2025-06-13 07:51:46",
-      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 234973,
       "name": "Samba Dolente",
       "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
+    },
+    {
+      "added_at": "2025-06-13 07:51:46",
+      "album": {
+        "name": "Parti Capuri",
+        "url": "https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW"
+      },
+      "artists": [
+        {
+          "name": "Billynho Blanco",
+          "url": "https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Parti Capuri",
+      "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
     },
     {
       "added_at": "2025-06-13 07:51:46",
@@ -1035,26 +1035,22 @@
     {
       "added_at": "2025-06-13 07:51:46",
       "album": {
-        "name": "Quase Mem\u00f3ria",
-        "url": "https://open.spotify.com/album/2uOXIfvOEPPvSdCqoKAiu6"
+        "name": "M\u00fasicas para Travessia",
+        "url": "https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt"
       },
       "artists": [
         {
-          "name": "Edu Lobo",
-          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
+          "name": "Haroldo Bontempo",
+          "url": "https://open.spotify.com/artist/37Jxddw5IgpNlQz5e1GoJ9"
         },
         {
-          "name": "Romero Lubambo",
-          "url": "https://open.spotify.com/artist/2tfVfgslNHoisjzLLgnRIV"
-        },
-        {
-          "name": "Mauro Senise",
-          "url": "https://open.spotify.com/artist/6ZhhPmNwS3jI2DTAnlPegi"
+          "name": "Lina Lanna",
+          "url": "https://open.spotify.com/artist/1wFynWZoJBFoyqtise048F"
         }
       ],
-      "duration_ms": 226653,
-      "name": "Terra do Nunca",
-      "url": "https://open.spotify.com/track/7ccMcBkYbGyEdXxQF85kGV"
+      "duration_ms": 124088,
+      "name": "Na Casa do Jornalista",
+      "url": "https://open.spotify.com/track/7DGTvZ3g9O825bhSRMhOaC"
     },
     {
       "added_at": "2025-06-13 07:51:46",
@@ -1083,22 +1079,26 @@
     {
       "added_at": "2025-06-13 07:51:46",
       "album": {
-        "name": "M\u00fasicas para Travessia",
-        "url": "https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt"
+        "name": "Quase Mem\u00f3ria",
+        "url": "https://open.spotify.com/album/2uOXIfvOEPPvSdCqoKAiu6"
       },
       "artists": [
         {
-          "name": "Haroldo Bontempo",
-          "url": "https://open.spotify.com/artist/37Jxddw5IgpNlQz5e1GoJ9"
+          "name": "Edu Lobo",
+          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
         },
         {
-          "name": "Lina Lanna",
-          "url": "https://open.spotify.com/artist/1wFynWZoJBFoyqtise048F"
+          "name": "Romero Lubambo",
+          "url": "https://open.spotify.com/artist/2tfVfgslNHoisjzLLgnRIV"
+        },
+        {
+          "name": "Mauro Senise",
+          "url": "https://open.spotify.com/artist/6ZhhPmNwS3jI2DTAnlPegi"
         }
       ],
-      "duration_ms": 124088,
-      "name": "Na Casa do Jornalista",
-      "url": "https://open.spotify.com/track/7DGTvZ3g9O825bhSRMhOaC"
+      "duration_ms": 226653,
+      "name": "Terra do Nunca",
+      "url": "https://open.spotify.com/track/7ccMcBkYbGyEdXxQF85kGV"
     },
     {
       "added_at": "2025-06-13 07:51:46",

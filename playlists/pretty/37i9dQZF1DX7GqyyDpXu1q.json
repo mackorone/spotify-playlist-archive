@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
-  "num_followers": 90595,
+  "num_followers": 90620,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "xoxo",
-        "url": "https://open.spotify.com/album/03tfpzDArDjfSEJ1dhVESX"
-      },
-      "artists": [
-        {
-          "name": "Cole Barnhill",
-          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
-        }
-      ],
-      "duration_ms": 247364,
-      "name": "xoxo",
-      "url": "https://open.spotify.com/track/0YmbrreCDawnxERUmOS4YH"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Old Tricks",
         "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 148778,
       "name": "Old Tricks",
       "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "xoxo",
+        "url": "https://open.spotify.com/album/03tfpzDArDjfSEJ1dhVESX"
+      },
+      "artists": [
+        {
+          "name": "Cole Barnhill",
+          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
+        }
+      ],
+      "duration_ms": 247364,
+      "name": "xoxo",
+      "url": "https://open.spotify.com/track/0YmbrreCDawnxERUmOS4YH"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
+        "name": "Black on Black",
+        "url": "https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 140153,
+      "name": "Hot Damn",
+      "url": "https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
         "name": "Interstate Cowboy",
         "url": "https://open.spotify.com/album/6T9OmS588U5Dk5bKCkQvvj"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 214881,
       "name": "Interstate Cowboy",
       "url": "https://open.spotify.com/track/3c2RQ6N405f59qatt86lPS"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
-        "name": "Black on Black",
-        "url": "https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 140153,
-      "name": "Hot Damn",
-      "url": "https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o"
     },
     {
       "added_at": "2025-04-21 21:56:35",

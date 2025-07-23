@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 48445,
+  "num_followers": 48495,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAAZAa2tHpAmP9NEcOlJkLL1",
+  "snapshot_id": "aH2DAAAAAAAISwXwKFoPn77Or58OovVo",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "About A Woman (& A Good Ol' Boy)",
+        "url": "https://open.spotify.com/album/7vWt3Oe027TmVOxBBVKrIC"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 187917,
+      "name": "Ain't A Bad Life",
+      "url": "https://open.spotify.com/track/0tKsXVJc0aqLQ2NYOIOTPt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jordan Davis",
         "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 165611,
       "name": "In Case You Missed It",
       "url": "https://open.spotify.com/track/38CBst5T62W2HvGfCIG0YZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "About A Woman (& A Good Ol' Boy)",
-        "url": "https://open.spotify.com/album/7vWt3Oe027TmVOxBBVKrIC"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 187917,
-      "name": "Ain't A Bad Life",
-      "url": "https://open.spotify.com/track/0tKsXVJc0aqLQ2NYOIOTPt"
     },
     {
       "added_at": null,

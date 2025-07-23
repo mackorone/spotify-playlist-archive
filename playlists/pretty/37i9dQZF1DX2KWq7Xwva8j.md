@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: céro
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,658 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,665 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 11 | [escribiendo TKM](https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [escribiendo TKM](https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO) | 2:25 |
 | 12 | [Cuando Tú Estás Aquí](https://open.spotify.com/track/29WNOPEodEf9bGnGHCIf58) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [Cuando Tú Estás Aquí](https://open.spotify.com/album/1pf5tdXrCRq8K925o12nQ7) | 3:07 |
 | 13 | [Yo pensaba que me había tocado Dios](https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Yo pensaba que me había tocado Dios](https://open.spotify.com/album/6oWod7EJVMaMOg6G0d0rsj) | 3:26 |
-| 14 | [Taxi](https://open.spotify.com/track/5d8jEQ6AFvwJQC0VWmJPrh) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Taxi](https://open.spotify.com/album/2mtpU3ZYRWk6oBTsYj2DQx) | 2:57 |
+| 14 | [M'oblido d'oblidar\-te](https://open.spotify.com/track/3mkhUu2vyKNeEZpcAvPl2J) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [M'oblido d'oblidar\-te](https://open.spotify.com/album/49NCYHNGpyz8sx0nNo17w2) | 2:50 |
 | 15 | [Paloma Blanca](https://open.spotify.com/track/1oi48eToAddcIsSL5m8CVh) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Paloma Blanca](https://open.spotify.com/album/7IHiXQms4DlksORY5sMnYu) | 3:21 |
 | 16 | [UNA MINA](https://open.spotify.com/track/6kvT7hk6YQ2okbUvl208iN) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [DE LA MAÑANA A LA NOCHE](https://open.spotify.com/album/3DbWFNtuLrPUhVszto2fCz) | 2:29 |
 | 17 | [Muero X Verte](https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Muero X Verte](https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa) | 3:26 |
 | 18 | [Infancia Mal Calibrada](https://open.spotify.com/track/75EqPDFPtq70WU5AyWl3uP) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Infancia Mal Calibrada](https://open.spotify.com/album/58guaRgiN85BmxlHXzAYmT) | 3:28 |
-| 19 | [M'oblido d'oblidar\-te](https://open.spotify.com/track/3mkhUu2vyKNeEZpcAvPl2J) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [M'oblido d'oblidar\-te](https://open.spotify.com/album/49NCYHNGpyz8sx0nNo17w2) | 2:50 |
+| 19 | [Taxi](https://open.spotify.com/track/5d8jEQ6AFvwJQC0VWmJPrh) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Taxi](https://open.spotify.com/album/2mtpU3ZYRWk6oBTsYj2DQx) | 2:57 |
 | 20 | [ENSÉÑAME EL AMOR](https://open.spotify.com/track/3PQ897UeSWPuKeSzVn148Z) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Amoríos del Albayzín](https://open.spotify.com/album/7DmQDABXZ3LHA16QxoAscP) | 2:33 |
 | 21 | [PACMAN \(Remix\)](https://open.spotify.com/track/2CtTx2D1msEd7quDtRX4dk) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [PACMAN \(Remix\)](https://open.spotify.com/album/2tvoulqzMBRQeuwiW8EjHF) | 3:16 |
 | 22 | [Quiero Hacer Música](https://open.spotify.com/track/27nKYS2p0HAgljPBbUU2Na) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Quiero Hacer Música](https://open.spotify.com/album/6OsTttfterE13ijlEOTWPZ) | 3:20 |

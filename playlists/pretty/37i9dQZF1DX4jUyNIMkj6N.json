@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 219041,
+  "num_followers": 219040,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-07-03 22:00:31",
       "album": {
+        "name": "A Dangerous Thing",
+        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
+    },
+    {
+      "added_at": "2025-07-03 22:00:31",
+      "album": {
         "name": "Find A Home Out There",
         "url": "https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 206440,
       "name": "Find A Home Out There",
       "url": "https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9"
-    },
-    {
-      "added_at": "2025-07-03 22:00:31",
-      "album": {
-        "name": "A Dangerous Thing",
-        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
     },
     {
       "added_at": "2025-07-03 22:00:31",

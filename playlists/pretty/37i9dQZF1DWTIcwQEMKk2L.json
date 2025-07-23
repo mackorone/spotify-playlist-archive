@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 71373,
+  "num_followers": 71384,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Never Blame The Young Ones",
-        "url": "https://open.spotify.com/album/57of76S9lNXzIClZYOU16R"
-      },
-      "artists": [
-        {
-          "name": "Alan Leon",
-          "url": "https://open.spotify.com/artist/64YeifkkN8ncQBE7RsQJDU"
-        }
-      ],
-      "duration_ms": 138823,
-      "name": "Never Blame The Young Ones",
-      "url": "https://open.spotify.com/track/09VtFwk3q69c5JQQAHUTKt"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
         "name": "Living Memories",
         "url": "https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 185188,
       "name": "White Light",
       "url": "https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
+        "name": "Never Blame The Young Ones",
+        "url": "https://open.spotify.com/album/57of76S9lNXzIClZYOU16R"
+      },
+      "artists": [
+        {
+          "name": "Alan Leon",
+          "url": "https://open.spotify.com/artist/64YeifkkN8ncQBE7RsQJDU"
+        }
+      ],
+      "duration_ms": 138823,
+      "name": "Never Blame The Young Ones",
+      "url": "https://open.spotify.com/track/09VtFwk3q69c5JQQAHUTKt"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
-      },
-      "artists": [
-        {
-          "name": "Moldoveanu",
-          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
-        }
-      ],
-      "duration_ms": 125308,
-      "name": "Luminous",
-      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
         "name": "As The Years Go By",
         "url": "https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 152746,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
+      },
+      "artists": [
+        {
+          "name": "Moldoveanu",
+          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
+        }
+      ],
+      "duration_ms": 125308,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Piano Hits Chill",
-        "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
-      },
-      "artists": [
-        {
-          "name": "Ronald Emery",
-          "url": "https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Say You Wont Let Go",
-      "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 151000,
       "name": "Au revoir",
       "url": "https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
+        "name": "Piano Hits Chill",
+        "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
+      },
+      "artists": [
+        {
+          "name": "Ronald Emery",
+          "url": "https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Say You Wont Let Go",
+      "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Piano Songs",
-        "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
-      },
-      "artists": [
-        {
-          "name": "Purple Tulips",
-          "url": "https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h"
-        }
-      ],
-      "duration_ms": 225180,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
         "name": "Sagittabondo",
         "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 113820,
       "name": "A Perceptual Process",
       "url": "https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
+        "name": "Piano Songs",
+        "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
+      },
+      "artists": [
+        {
+          "name": "Purple Tulips",
+          "url": "https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h"
+        }
+      ],
+      "duration_ms": 225180,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "You Could Stay If You Want To",
-        "url": "https://open.spotify.com/album/028nyeG5bPwDuBA8apckk9"
-      },
-      "artists": [
-        {
-          "name": "Zachary Ronin",
-          "url": "https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx"
-        }
-      ],
-      "duration_ms": 198841,
-      "name": "You Could Stay If You Want To",
-      "url": "https://open.spotify.com/track/7161s2i9EU8DN8U95qLl8q"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Head, Shoulders, Knees and Toes",
-        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
+        "name": "You Could Stay If You Want To",
+        "url": "https://open.spotify.com/album/028nyeG5bPwDuBA8apckk9"
       },
       "artists": [
         {
-          "name": "Martha Blackburn",
-          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
+          "name": "Zachary Ronin",
+          "url": "https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx"
         }
       ],
-      "duration_ms": 77672,
-      "name": "Hickory Dickory Dock",
-      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
+      "duration_ms": 198841,
+      "name": "You Could Stay If You Want To",
+      "url": "https://open.spotify.com/track/7161s2i9EU8DN8U95qLl8q"
     },
     {
       "added_at": "2025-07-14 02:00:37",
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
+        "name": "Head, Shoulders, Knees and Toes",
+        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
+      },
+      "artists": [
+        {
+          "name": "Martha Blackburn",
+          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
+        }
+      ],
+      "duration_ms": 77672,
+      "name": "Hickory Dickory Dock",
+      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
         "name": "Water Lilly Pond",
         "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-07-14 02:00:37",
       "album": {
-        "name": "Still in Love With You",
-        "url": "https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic"
-      },
-      "artists": [
-        {
-          "name": "Angelina Winter",
-          "url": "https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl"
-        }
-      ],
-      "duration_ms": 156125,
-      "name": "Still in Love With You",
-      "url": "https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ"
-    },
-    {
-      "added_at": "2025-07-14 02:00:37",
-      "album": {
         "name": "Jane Eyre - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 58386,
       "name": "A Game of Badminton (feat. Jack Liebeck)",
       "url": "https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat"
+    },
+    {
+      "added_at": "2025-07-14 02:00:37",
+      "album": {
+        "name": "Still in Love With You",
+        "url": "https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic"
+      },
+      "artists": [
+        {
+          "name": "Angelina Winter",
+          "url": "https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl"
+        }
+      ],
+      "duration_ms": 156125,
+      "name": "Still in Love With You",
+      "url": "https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ"
     },
     {
       "added_at": "2025-07-14 02:00:37",

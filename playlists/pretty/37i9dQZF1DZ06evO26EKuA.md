@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,728 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,803 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 49 | [Si Me Ven](https://open.spotify.com/track/68TZFbe7BSQaNYSqpXbt7G) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 3:44 |
 | 50 | [La Banda Borracha](https://open.spotify.com/track/55NX1m4flj7cqK2JnLyXQs) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Volveré a Amar](https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h) | 4:10 |
 
-Snapshot ID: `aHwxgAAAAABwYkdQsUZtubl/gjTrTJbJ`
+Snapshot ID: `aH2DAAAAAAC+gambMMAKTs7/g9EhWq3q`

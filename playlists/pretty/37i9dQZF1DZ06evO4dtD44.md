@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,238 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,251 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 49 | [Saudade Fêz Um Samba](https://open.spotify.com/track/7r2HdCkn6sF10POTjvlhne) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(Deluxe Edition\)](https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH) | 1:47 |
 | 50 | [Águas de Março](https://open.spotify.com/track/7Jj66NaXj1Nn6xrkB7vlSf) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:23 |
 
-Snapshot ID: `aHwxgAAAAADpBNkCPHh/OuppXO93vhLW`
+Snapshot ID: `aH2DAAAAAAADsXvHZKLxD9xwYzUUw7oR`

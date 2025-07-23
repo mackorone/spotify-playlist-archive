@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > Ouve os hits do verão de 2025! 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,664 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,754 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 55 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
 | 56 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 57 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
-| 58 | [Still Into You](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Still Into You](https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5) | 2:31 |
-| 59 | [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 |
+| 58 | [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 |
+| 59 | [Still Into You](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Still Into You](https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5) | 2:31 |
 | 60 | [Fui Mlk](https://open.spotify.com/track/4pOGEJRVOuaa9oyy7qTGf6) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [DJ Di Marques](https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [FamousKyo](https://open.spotify.com/artist/6neX3m8RObh5N8X6AEBYiw) | [Fui Mlk](https://open.spotify.com/album/7mEKSrjUwJjp4QaZD8fp8r) | 2:54 |
 
 Snapshot ID: `aHo6IwAAAAA8150//LjQOHqrciwoIr3W`

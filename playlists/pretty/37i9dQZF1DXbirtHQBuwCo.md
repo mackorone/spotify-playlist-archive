@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill Korean R&B music\. \(Cover: Soyou\(소유\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,849 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,818 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 69 | [jellyfish](https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [jellyfish](https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC) | 2:37 |
 | 70 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 |
 | 71 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 |
-| 72 | [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 |
-| 73 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 |
+| 72 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 |
+| 73 | [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 |
 | 74 | [Chi\-Ka](https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Chi\-Ka](https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb) | 3:23 |
 | 75 | [Butterflies](https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:41 |
 

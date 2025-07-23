@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,973 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,075 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 30 | [Tenner](https://open.spotify.com/track/2XQIhPALkOY06FrmirfYIg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Tenner](https://open.spotify.com/album/1KSmOfVBlPziey4VpNKCyQ) | 2:36 |
 | 31 | [Yebo Lapho \(Gogo\) \(feat\. DJ Maphorisa & Djy Biza\)](https://open.spotify.com/track/0NLRYW9HyqHcbyzfAwskKN) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Thabza Tee](https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Yebo Lapho \(Gogo\) \(feat\. DJ Maphorisa & Djy Biza\)](https://open.spotify.com/album/0YjBn2M1uYiV6iOVqK9WTD) | 7:04 |
 | 32 | [Ama Gear](https://open.spotify.com/track/0cnbEf12FLBWx9QnBlw1EL) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8) | [031 Studio Camp](https://open.spotify.com/album/3tOHGWG9GWuB2KBw6YisEX) | 7:05 |
-| 33 | [Most Wanted](https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Most Wanted](https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv) | 2:22 |
+| 33 | [So Mi So](https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [So Mi So](https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z) | 4:05 |
 | 34 | [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 |
-| 35 | [So Mi So](https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [So Mi So](https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z) | 4:05 |
+| 35 | [Most Wanted](https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Most Wanted](https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv) | 2:22 |
 | 36 | [Komasava \(Comment Ça Va\)](https://open.spotify.com/track/5mjxSIPHAMNk40q0nON5Cb) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Komasava \(Comment Ça Va\)](https://open.spotify.com/album/5YRLBQNbjDXky1IwaUDHgk) | 4:36 |
 | 37 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 |
 | 38 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 |

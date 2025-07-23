@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Noah
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,983 likes - 180 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,034 likes - 180 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

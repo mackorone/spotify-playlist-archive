@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132 likes - 107 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 138 likes - 107 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 15 | [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 |
 | 16 | [Violets](https://open.spotify.com/track/1H3uwddeEsvOC3liO3fkr6) | [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Violets](https://open.spotify.com/album/0Mhp4SyUouTZNPDG1fphwd) | 1:55 |
 | 17 | [Forget I Exist](https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Forget I Exist](https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN) | 2:52 |
-| 18 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 |
-| 19 | [Catch My Breath](https://open.spotify.com/track/4aha3sFO6kTx0Jq4Fp5b3y) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:12 |
+| 18 | [Catch My Breath](https://open.spotify.com/track/4aha3sFO6kTx0Jq4Fp5b3y) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:12 |
+| 19 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 |
 | 20 | [Heaven Without You](https://open.spotify.com/track/4CeXqDnd36kBb2j88h67it) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:22 |
 | 21 | [My Sunny Day](https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [My Sunny Day](https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ) | 2:09 |
 | 22 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 29 | [Like a Kid \(feat\. Mags Duval\)](https://open.spotify.com/track/4txxv9Lk2IrLhDof6NrrL5) | [PANG!](https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3), [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Like a Kid \(feat\. Mags Duval\)](https://open.spotify.com/album/5gTrL4db8J2oPcvsOgdYQP) | 4:06 |
 | 30 | [You Were Supposed to Be Different](https://open.spotify.com/track/13GvSZgg9LOs3M9uGbWsPE) | [Aron Wright](https://open.spotify.com/artist/4MKVLp1MAwYFqaXhe1g8dA) | [You Were Supposed to Be Different](https://open.spotify.com/album/5WXPZlMv6GvlIMXtRxqGgB) | 3:12 |
 | 31 | [Sunshine](https://open.spotify.com/track/4Yx4nkx3ymrAZZ3DSlhV8O) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Sunshine](https://open.spotify.com/album/5QQCXdKA7aXLrJSt3Zmu2j) | 3:25 |
-| 32 | [Cruise Control](https://open.spotify.com/track/61svLjB9BCjdtkUtqbDSXp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Cruise Control](https://open.spotify.com/album/3oHO5lsSGBC4gEs4Et9Thn) | 2:35 |
-| 33 | [All Gas No Brakes \(feat\. BigXthaPlug\)](https://open.spotify.com/track/0PdMFKW7gIrXHzFsaFtrEG) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 2:43 |
+| 32 | [All Gas No Brakes \(feat\. BigXthaPlug\)](https://open.spotify.com/track/0PdMFKW7gIrXHzFsaFtrEG) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 2:43 |
+| 33 | [Cruise Control](https://open.spotify.com/track/61svLjB9BCjdtkUtqbDSXp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Cruise Control](https://open.spotify.com/album/3oHO5lsSGBC4gEs4Et9Thn) | 2:35 |
 | 34 | [back from the dead \(with mxmtoon\)](https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [back from the dead](https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x) | 2:38 |
 | 35 | [Strangers](https://open.spotify.com/track/3p6CJ6SEqeE2ar8EGHx1XU) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [One Eighty](https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu) | 2:27 |
 | 36 | [The Good Parts](https://open.spotify.com/track/4hzvOErdtm0SndvqzWVWyU) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:17 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 106 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
 | 107 | [Father Figures](https://open.spotify.com/track/4w89MHljpE4zRSvpYkcR4q) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/7KjVbqjQkPKyiLuBEVZabb) | 3:46 |
 
-Snapshot ID: `Ab3ZqAAAAADHsOFERH3YEl3LZfaPsgYN`
+Snapshot ID: `Ab3fNAAAAACN/HyGcNR/Dm5tHyZaS58/`

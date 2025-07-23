@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Kevin o Chris, Filipe Ret, Poesia Acústica 17 e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,123,619 likes - 88 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,123,556 likes - 88 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sei Que Tá a Fim](https://open.spotify.com/track/0jdVAUgVA9l5YWsGVs40IP) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [KOC](https://open.spotify.com/artist/0DJpGYLwnwr6CPnMvQvlBN) | [VoltMix](https://open.spotify.com/album/5ka0t0tbybG4UmNulTjK5r) | 3:35 |
+| 1 | [Sei Que Tá a Fim](https://open.spotify.com/track/0jdVAUgVA9l5YWsGVs40IP) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [KOC](https://open.spotify.com/artist/0DJpGYLwnwr6CPnMvQvlBN), [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ) | [VoltMix](https://open.spotify.com/album/5ka0t0tbybG4UmNulTjK5r) | 3:35 |
 | 2 | [Não Me Provoca](https://open.spotify.com/track/1xFMviPJFR4mPRRxQbadpu) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Não Me Provoca](https://open.spotify.com/album/4zoOC66ELs5xOesaO0tD1z) | 2:44 |
 | 3 | [Grama Verde](https://open.spotify.com/track/5scrF77DRek7hII5KF0iUV) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Prod.MTS](https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 2:56 |
 | 4 | [Caos De Alguém \- Ao Vivo](https://open.spotify.com/track/2zxgWjSwtiMOz5xx3m2rr4) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Caos De Alguém \(Ao Vivo\)](https://open.spotify.com/album/1YUSSTubZOirrPOnGpt7gf) | 2:34 |

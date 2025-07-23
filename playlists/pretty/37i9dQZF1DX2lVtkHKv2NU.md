@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,831 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,819 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 62 | [miau](https://open.spotify.com/track/5osSgKDiyrzhLjsEABO6c9) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [miau](https://open.spotify.com/album/71I1bBOFoP9ootc5n4LPjg) | 3:05 |
 | 63 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
 | 64 | [PILATES](https://open.spotify.com/track/6w3cKSW3HCFx4Z47tRHiwv) | [ARIA BELA](https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz) | [PILATES](https://open.spotify.com/album/3MuMW080QRlLuVNwyNH8BA) | 2:44 |
-| 65 | [A Donde Va El Viento](https://open.spotify.com/track/56fgrIPr54E85K98kmgqwy) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Nadie Nos Va A Extrañar \(Banda Sonora De La Serie Original De Prime\)](https://open.spotify.com/album/3qij28yM7ARubnZJrSqmpa) | 2:46 |
-| 66 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
+| 65 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
+| 66 | [A Donde Va El Viento](https://open.spotify.com/track/56fgrIPr54E85K98kmgqwy) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Nadie Nos Va A Extrañar \(Banda Sonora De La Serie Original De Prime\)](https://open.spotify.com/album/3qij28yM7ARubnZJrSqmpa) | 2:46 |
 | 67 | [Solcito](https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Solcito](https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2) | 2:24 |
 | 68 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 |
 | 69 | [Home](https://open.spotify.com/track/2qPSa6HXjzwa9sLhNGpA1T) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Home](https://open.spotify.com/album/6FTZtwV3e6WYgVeRhi6Gbm) | 3:15 |

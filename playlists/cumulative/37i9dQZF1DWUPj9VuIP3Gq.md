@@ -4,7 +4,7 @@
 
 > Dale play y llénate de nostalgia con estas canciones inolvidables.
 
-125 songs - 7 hr 36 min
+126 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 | 2023-03-06 | 2023-09-26 |
 | [La Quiero A Morir](https://open.spotify.com/track/340oYG4UmcMEPPf3fSF0tj) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Swing On](https://open.spotify.com/album/2yD0n0uUUBfD4n7eDt923p) | 5:01 | 2022-07-01 |  |
 | [La Quiero A Morir](https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 5:02 | 2022-05-17 | 2024-04-19 |
-| [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb) | 3:09 | 2023-01-24 |  |
+| [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb) | 3:09 | 2023-01-24 | 2025-07-23 |
 | [Lamento Boliviano](https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:42 | 2022-05-17 |  |
 | [Laura no està](https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Nek \(spanish version\)](https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP) | 3:45 | 2022-05-17 |  |
 | [Legendaria](https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Legendaria](https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW) | 2:59 | 2023-03-03 | 2023-04-28 |
@@ -90,6 +90,7 @@
 | [Muy Feliz \- Remix](https://open.spotify.com/track/2gx1sn3qic8hsZxmsXgp6z) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Muy Feliz \(Remix\)](https://open.spotify.com/album/0Yklgs3augXJTev6xVthdk) | 3:51 | 2022-05-17 | 2023-03-04 |
 | [NO SE OLVIDA](https://open.spotify.com/track/49qCDjCcu8OvKlSDBYDzHv) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [NO SE OLVIDA](https://open.spotify.com/album/0HVoLSZFWBp9F5JbiWrJqA) | 4:10 | 2022-05-17 | 2022-09-07 |
 | [Nostalgia](https://open.spotify.com/track/1AWGfYNWXZpXLNdG9qaK1j) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 4:05 | 2023-04-27 | 2023-09-23 |
+| [Ojalá](https://open.spotify.com/track/5YK02pYcZTr5NdarXoVYUA) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Ojalá](https://open.spotify.com/album/1OFRa5PHI2xN7Sx7a6Jvvy) | 3:22 | 2025-07-22 |  |
 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2022-10-28 |  |
 | [Ojos Marrones \- Con Sebastián Yatra](https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Ojos Marrones \(Con Sebastián Yatra\)](https://open.spotify.com/album/6KY4FnsrJZWQNjMw0zgDgd) | 3:18 | 2022-09-02 |  |
 | [Oye Mi Amor](https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:23 | 2024-04-11 |  |

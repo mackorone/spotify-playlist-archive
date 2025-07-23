@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Penyair y Laberinto ELC en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,927 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,932 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 6 | [MTV](https://open.spotify.com/track/3BahxOSsDS3aJQqltgTacl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [MTV](https://open.spotify.com/album/1ZK7bGucPcVbzRyhvfFgj2) | 3:37 |
 | 7 | [Canción Para el Fin del Mundo](https://open.spotify.com/track/1eGObrmyfUk7KxxMFvP8AY) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv), [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Canción Para el Fin del Mundo](https://open.spotify.com/album/32S7YT4SQq1LeQ8zoGP7zd) | 3:42 |
 | 8 | [Zable](https://open.spotify.com/track/3seVe7b64NhH7mPqH6X4MK) | [Relatos De La Fría](https://open.spotify.com/artist/0HBOzMjHL70xdGsnqkrD0R) | [Zable](https://open.spotify.com/album/5CEc8UfZLXVmXnMvvrhMk0) | 2:41 |
-| 9 | [INTOCABLE \- LIVING ROOM VERSION](https://open.spotify.com/track/79wGfIGrF41XOzW8OAZF2p) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [INTOCABLE \(Living Room Version\)](https://open.spotify.com/album/3X2UNMlONTyZ8CpjWmCSSV) | 2:43 |
+| 9 | [INTOCABLE \- LIVING ROOM VERSION](https://open.spotify.com/track/79wGfIGrF41XOzW8OAZF2p) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [Âme Enterprise](https://open.spotify.com/artist/4shQm7uCLEsj7fYUS8YjUR), [Dayner "El Especialista"](https://open.spotify.com/artist/4TqOR0O9lfnBxGg0lCtHm7) | [INTOCABLE \(Living Room Version\)](https://open.spotify.com/album/3X2UNMlONTyZ8CpjWmCSSV) | 2:43 |
 | 10 | [Latas y Riscos](https://open.spotify.com/track/4rZOvnTQdtiL6eCRhQMrlG) | [Vic Gunn](https://open.spotify.com/artist/4tAUrm21TBHEWanUWQVSlb), [Fntwxy](https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH) | [Latas y Riscos](https://open.spotify.com/album/6bDeHJArfsSXjKgQASU8cC) | 2:46 |
 | 11 | [Como yo](https://open.spotify.com/track/3yy8HtGkV2bqFyDKRuS1ef) | [mccarlos](https://open.spotify.com/artist/7FGK1ZLmPUsojzDabnKgEV), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw) | [Como yo](https://open.spotify.com/album/6KPFHXsLS166iPRrE1oXqk) | 2:51 |
 | 12 | [Freestyle](https://open.spotify.com/track/0JbjAdi59l0AzxmzkiYOE3) | [El Shick](https://open.spotify.com/artist/2H2Xg5FjQEIeEEPh8lDRae), [Wilman el de ete lao](https://open.spotify.com/artist/6InIc88tkr3oWTfYNfn7Rc) | [Freestyle](https://open.spotify.com/album/48kYEPeOMDe6zHvxMEvRz7) | 2:18 |

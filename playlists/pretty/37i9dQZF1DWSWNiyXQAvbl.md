@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,238 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,274 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 42 | [Yellow River](https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few) | [Christie](https://open.spotify.com/artist/0HoeFrrKutiio4HJtXN0Sn) | [Christie](https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR) | 2:45 |
 | 43 | [Dancing in the City](https://open.spotify.com/track/4MVhYm4LCenxBIZKrT5CAc) | [Marshall Hain](https://open.spotify.com/artist/0bUGoPJdCrDnuIQNLxsnBb) | [Free Ride](https://open.spotify.com/album/6fIotKh6Xp44xP0hvYYboe) | 3:49 |
 | 44 | [Arms of Mary](https://open.spotify.com/track/6287Wj4s5fDLLxZPQFCwZq) | [The Sutherland Brothers](https://open.spotify.com/artist/1Zc7TYayqzpDtjvXfNvPrL), [Quiver](https://open.spotify.com/artist/0vVxoKTyF3nIdUr2W84uIn), [Ron Albert](https://open.spotify.com/artist/1QoYcmEu5DiUAmmsFYNYBG), [Howle Albert](https://open.spotify.com/artist/7GNO2xlmnh1VmZAxkI8Mdl) | [REACH FOR THE SKY](https://open.spotify.com/album/250pi4BXKaHZKZg7Q4nnAo) | 2:37 |
-| 45 | [Lean on Me](https://open.spotify.com/track/20kN7bu0HMO8rIVY6tEytW) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Essential Bill Withers](https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ) | 4:17 |
-| 46 | [Don't Play That Song](https://open.spotify.com/track/4M1zcX803dgkDkISHZDPYi) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 3:02 |
+| 45 | [Don't Play That Song](https://open.spotify.com/track/4M1zcX803dgkDkISHZDPYi) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 3:02 |
+| 46 | [Lean on Me](https://open.spotify.com/track/20kN7bu0HMO8rIVY6tEytW) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Essential Bill Withers](https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ) | 4:17 |
 | 47 | [Everybody Plays the Fool](https://open.spotify.com/track/3DkqEHCCqlkknDfksHWWu0) | [The Main Ingredient](https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm) | [Everybody Plays The Fool: The Best Of The Main Ingredient](https://open.spotify.com/album/6jsWa1n8iL7fJYfMJaWa7K) | 3:22 |
 | 48 | [Love Will Keep Us Together](https://open.spotify.com/track/10pcZvQ4QTKeHRvTUAeHVD) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Scrapbook](https://open.spotify.com/album/6ezk9jUCncL6Dx7fdO7JfB) | 3:23 |
 | 49 | [It Never Rains in Southern California](https://open.spotify.com/track/7L90r3lNr4EhK5KOGTpi1b) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [The Very Best Of \- It Never Rains In Southern California](https://open.spotify.com/album/4Wgdypj8BX0HONZv1bkcDz) | 3:50 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 54 | [Take Me Home, Country Roads \- Rerecorded](https://open.spotify.com/track/2xYlyywNgefLCRDG8hlxZq) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol\. 1: Take Me Home Country Roads](https://open.spotify.com/album/5erROp1lRW31aNxj9PbAUf) | 3:17 |
 | 55 | [Father And Son](https://open.spotify.com/track/19slC7k8bsPOAKDjHYLU2W) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea for the Tillerman](https://open.spotify.com/album/1FKScTiXaADVfAp6gTWHKj) | 3:41 |
 | 56 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5nPdMALTEd7HOjn16oNf2X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies \(Remastered\)](https://open.spotify.com/album/6tKgjhjWDMVlgb3a6KoI1x) | 4:35 |
-| 57 | [Superstition \- Single Version](https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number Ones](https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz) | 4:04 |
-| 58 | [Follow You Follow Me \- Remastered 2007](https://open.spotify.com/track/0HdcunWW5FsRqKr3lwJOIo) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [And Then There Were Three](https://open.spotify.com/album/0lTuVJuCbD3FHEjIeQqyXg) | 4:00 |
+| 57 | [Follow You Follow Me \- Remastered 2007](https://open.spotify.com/track/0HdcunWW5FsRqKr3lwJOIo) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [And Then There Were Three](https://open.spotify.com/album/0lTuVJuCbD3FHEjIeQqyXg) | 4:00 |
+| 58 | [Superstition \- Single Version](https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number Ones](https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz) | 4:04 |
 | 59 | [Dreams](https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh) | 4:14 |
 | 60 | [How Long](https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F) | 3:24 |
 | 61 | [Rocket Man \(I Think It's Going To Be A Long Long Time\)](https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau \(Remastered\)](https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6) | 4:41 |

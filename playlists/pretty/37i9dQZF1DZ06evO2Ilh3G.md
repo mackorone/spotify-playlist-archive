@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,614 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,623 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 38 | [Disrespectful](https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:40 |
 | 39 | [Guwop \(feat\. Quavo, Offset and Young Scooter\)](https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 5:15 |
 | 40 | [Don't Lose Me](https://open.spotify.com/track/71Hr2rAhEI92BSpFYbzNN7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:20 |
-| 41 | [Met Gala \(feat\. Offset\)](https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Droptopwop](https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn) | 3:29 |
-| 42 | [BROAD DAY \(feat\. Future\)](https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:48 |
+| 41 | [BROAD DAY \(feat\. Future\)](https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:48 |
+| 42 | [Met Gala \(feat\. Offset\)](https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Droptopwop](https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn) | 3:29 |
 | 43 | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE) | 3:27 |
 | 44 | [Nightmare](https://open.spotify.com/track/7LAhKXDNWwq3CmnFP3UIOP) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:27 |
 | 45 | [Alive \(with Offset & 2 Chainz\)](https://open.spotify.com/track/7w8SYlPLA9bqj7vRHvYNDz) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Alive \(with Offset & 2 Chainz\)](https://open.spotify.com/album/3ZwmW6RFyLF2dey4U87js2) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 49 | [Came A Long Way](https://open.spotify.com/track/1X5F8qFnvUe4sYmIqowEkB) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 2:52 |
 | 50 | [Hook Up](https://open.spotify.com/track/0gUGjvCXLxvLoBLXJVrUSl) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 3:27 |
 
-Snapshot ID: `aHwxgAAAAABvakytcrJkZRxg1bpFXLIM`
+Snapshot ID: `aH2DAAAAAABp7WCzNvF5ORcKgtOH59cP`

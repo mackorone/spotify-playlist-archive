@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 68360,
+  "num_followers": 68351,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAAhLrDtwLF7Sw4GYizKGE7x",
+  "snapshot_id": "aH2DAAAAAABafCvcuHdSPR+THhifWV+F",
   "tracks": [
     {
       "added_at": null,
@@ -211,42 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Carta",
-        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Att: Amor",
-      "url": "https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 206967,
-      "name": "Serenata",
-      "url": "https://open.spotify.com/track/11ufNpNUBDwTGlU8sdWZaP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella Es Pa MI",
         "url": "https://open.spotify.com/album/2Stw5cW8fi6fvu4f8BBYTV"
       },
@@ -267,6 +231,42 @@
       "duration_ms": 182040,
       "name": "Ella Es Pa MI",
       "url": "https://open.spotify.com/track/4jGNTiWNeLrvb9jadmBhNu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 206967,
+      "name": "Serenata",
+      "url": "https://open.spotify.com/track/11ufNpNUBDwTGlU8sdWZaP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Att: Amor",
+      "url": "https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3"
     },
     {
       "added_at": null,
@@ -551,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo Hasta El Final",
+        "url": "https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn"
+      },
+      "artists": [
+        {
+          "name": "Gian Marco",
+          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Contigo Hasta El Final",
+      "url": "https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Mitad",
         "url": "https://open.spotify.com/album/58yoUfo0t6EqVrJCPGdKSe"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 181866,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/0129zNnaJ2w1eXqKxjMRI4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo Hasta El Final",
-        "url": "https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn"
-      },
-      "artists": [
-        {
-          "name": "Gian Marco",
-          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Contigo Hasta El Final",
-      "url": "https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ"
     },
     {
       "added_at": null,

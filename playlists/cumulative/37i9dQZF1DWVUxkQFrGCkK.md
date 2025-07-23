@@ -4,7 +4,7 @@
 
 > Contesto is officially here!
 
-1,034 songs - 3 day 0 hr 49 min
+1,036 songs - 3 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Dynasty](https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF) | [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Dynasty](https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY) | 6:36 | 2023-11-09 | 2025-01-10 |
 | [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 | 2025-02-13 |  |
 | [Easy To Please \- Yet More Remix](https://open.spotify.com/track/4hgu3BqIkGT7SeVKiCGHJg) | [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv), [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C), [D'aria](https://open.spotify.com/artist/1jRvpCmyVWLXnwmDvI89Sp) | [Easy To Please](https://open.spotify.com/album/4ynnuxGgmzOVFgFqYHvsa7) | 7:14 | 2024-08-22 |  |
+| [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 | 2025-07-22 |  |
 | [Eduardo made a new friend today](https://open.spotify.com/track/2FbPKlQ56pBpMFtKTV3zdi) | [Hosiannah](https://open.spotify.com/artist/0NJjvhC9pJiUNTK8OUkVIq) | [Eduardo made a new friend today](https://open.spotify.com/album/0qL0cfgq3HE7y7HLj4lKNN) | 3:13 | 2023-09-14 | 2024-06-21 |
 | [efyo](https://open.spotify.com/track/5OMOf2Ouat5egNQZYplarl) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [efyo](https://open.spotify.com/album/4fbtnbXpdOJb4kXm3p2G6w) | 3:35 | 2023-04-20 | 2024-01-05 |
 | [efyo \- Funky Loffe Remix](https://open.spotify.com/track/20bLRshzgd7HR05BzBwEsS) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP), [Funky Loffe](https://open.spotify.com/artist/7fapkJvTCSdTdZmwrMcIMq) | [efyo \(Funky Loffe Remix\)](https://open.spotify.com/album/10xB5fcO5A1Yo7MLzSB0sE) | 4:13 | 2023-08-24 | 2024-01-05 |
@@ -977,6 +978,7 @@
 | [W Y H A](https://open.spotify.com/track/2cCK5YYzakAFVTnYSZhYmQ) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [W Y H A](https://open.spotify.com/album/0s5icgE1FdbFG4uD31DlrC) | 7:21 | 2024-08-22 |  |
 | [W4U \(feat\. Jen\)](https://open.spotify.com/track/28ZPocYJHiEE6Y9B55jmuJ) | [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [JEN](https://open.spotify.com/artist/7DTAVlZQzjCtuB8npp11nE) | [W4U \(feat\. Jen\)](https://open.spotify.com/album/39syP387YYwH46TnrvcpbP) | 3:59 | 2024-12-05 |  |
 | [Wait For You](https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Wait For You](https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt) | 2:56 | 2024-11-28 |  |
+| [Wait So Long \- RE\\MIND Remix](https://open.spotify.com/track/0yZjFgJYHJwnMMBhzEBP7J) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [RE\\MIND](https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX) | [Wait So Long \(RE\\MIND Remix\)](https://open.spotify.com/album/26xNafbC2ESdSmzYMsr0S0) | 4:49 | 2025-07-22 |  |
 | [WAKANDA](https://open.spotify.com/track/3WCODje7CHd3YiPkZy7iSf) | [Khaney](https://open.spotify.com/artist/0PxPREVwFHTaFJaKWbmxgY) | [WAKANDA](https://open.spotify.com/album/0vlS2624lIYXOJnNXSbpQK) | 6:55 | 2025-06-12 |  |
 | [Wale Wale](https://open.spotify.com/track/5rwJB5FQDo1zRrxYmpwSPy) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wale Wale](https://open.spotify.com/album/6ZKlN58OPBHwzAL8BBV6N1) | 5:17 | 2025-02-06 |  |
 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 | 2023-12-08 | 2025-01-10 |

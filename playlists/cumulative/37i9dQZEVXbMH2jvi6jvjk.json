@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -2560,7 +2560,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 458777,
       "name": "Amandla (feat. Nobuhle)",
       "url": "https://open.spotify.com/track/3nEcAi94MPE30aTDlTYfQa"
@@ -4224,7 +4224,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 228884,
       "name": "Awsukanini",
       "url": "https://open.spotify.com/track/21lD8ZDP6nbEAUtoSQl032"
@@ -6630,6 +6630,28 @@
       "duration_ms": 147544,
       "name": "big love",
       "url": "https://open.spotify.com/track/7CAisKm4YUM3ahIwkYlym8"
+    },
+    {
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182401,
+      "name": "Big Poe (feat. Sk8brd)",
+      "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
     },
     {
       "album": {
@@ -41358,7 +41380,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 267189,
       "name": "Shapa Bell (feat. King WaveMusiq)",
       "url": "https://open.spotify.com/track/1y8zzw3sYud9aHmAK8ujV6"
@@ -44814,6 +44836,42 @@
       "duration_ms": 231000,
       "name": "Style (Taylor's Version)",
       "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
+    },
+    {
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161051,
+      "name": "Sucka Free",
+      "url": "https://open.spotify.com/track/7DIMKlmJ0CL6eROkbptoqi"
+    },
+    {
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
       "album": {
@@ -48758,7 +48816,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 222376,
       "name": "Tshwara Tlhogo",
       "url": "https://open.spotify.com/track/6McZa9M5AtTvWXxB1LAfMP"
@@ -53138,7 +53196,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 194324,
       "name": "What Did I Miss?",
       "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
@@ -55140,7 +55198,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"

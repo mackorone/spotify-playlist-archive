@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 134713,
+  "num_followers": 134748,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-07-19 01:14:14",
       "album": {
+        "name": "Peda\u00e7o",
+        "url": "https://open.spotify.com/album/7tylAudKUycYHIbKX4MVJf"
+      },
+      "artists": [
+        {
+          "name": "Tom Ribeira",
+          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Peda\u00e7o",
+      "url": "https://open.spotify.com/track/5U5ZcyWOxsNcojmK3e3Ivs"
+    },
+    {
+      "added_at": "2025-07-19 01:14:14",
+      "album": {
         "name": "Dia Branco",
         "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 147899,
       "name": "Dia Branco",
       "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
-    },
-    {
-      "added_at": "2025-07-19 01:14:14",
-      "album": {
-        "name": "Peda\u00e7o",
-        "url": "https://open.spotify.com/album/7tylAudKUycYHIbKX4MVJf"
-      },
-      "artists": [
-        {
-          "name": "Tom Ribeira",
-          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Peda\u00e7o",
-      "url": "https://open.spotify.com/track/5U5ZcyWOxsNcojmK3e3Ivs"
     },
     {
       "added_at": "2025-07-19 01:14:14",
@@ -395,6 +395,26 @@
     {
       "added_at": "2025-07-19 01:14:14",
       "album": {
+        "name": "Canto Djavan",
+        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
+        }
+      ],
+      "duration_ms": 236727,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
+    },
+    {
+      "added_at": "2025-07-19 01:14:14",
+      "album": {
         "name": "O Futuro N\u00e3o Demora",
         "url": "https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 170293,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG"
-    },
-    {
-      "added_at": "2025-07-19 01:14:14",
-      "album": {
-        "name": "Canto Djavan",
-        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Slap",
-          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
-        }
-      ],
-      "duration_ms": 236727,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
     },
     {
       "added_at": "2025-07-19 01:14:14",
@@ -659,6 +659,38 @@
     {
       "added_at": "2025-07-19 01:14:14",
       "album": {
+        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 176920,
+      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+    },
+    {
+      "added_at": "2025-07-19 01:14:14",
+      "album": {
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 197610,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
+    },
+    {
+      "added_at": "2025-07-19 01:14:14",
+      "album": {
         "name": "Sambabook Beth Carvalho",
         "url": "https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye"
       },
@@ -683,38 +715,6 @@
       "duration_ms": 256888,
       "name": "Ainda \u00c9 Tempo pra Ser Feliz",
       "url": "https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv"
-    },
-    {
-      "added_at": "2025-07-19 01:14:14",
-      "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 197610,
-      "name": "Menina",
-      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
-    },
-    {
-      "added_at": "2025-07-19 01:14:14",
-      "album": {
-        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 176920,
-      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
     },
     {
       "added_at": "2025-07-19 01:14:14",

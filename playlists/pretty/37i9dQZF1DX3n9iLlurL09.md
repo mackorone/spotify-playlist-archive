@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > The Indie highlights of 2012\. Cover: Flume
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,632 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,663 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 23 | [Myth](https://open.spotify.com/track/2Zw3HNjaNV42LnQ2uY5JQs) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm) | 4:18 |
 | 24 | [No Diggity](https://open.spotify.com/track/0PB8KUQHpc7GveSOaWhGwb) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Thinking In Textures](https://open.spotify.com/album/1UW1oXBj1mbUOjenKc9o6z) | 3:41 |
 | 25 | [Ride](https://open.spotify.com/track/0ZyfiFudK9Si2n2G9RkiWj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:49 |
-| 26 | [Mind Mischief](https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:31 |
+| 26 | [Trojans](https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:37 |
 | 27 | [Two Fingers](https://open.spotify.com/track/582EVyAFKmKPa1bVPSDurJ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 3:15 |
-| 28 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
-| 29 | [Trojans](https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:37 |
+| 28 | [Mind Mischief](https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:31 |
+| 29 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 30 | [Carry On](https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:38 |
 | 31 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 |
 | 32 | [Hollywood Forever Cemetery Sings](https://open.spotify.com/track/3O30ywyRk6EKT68sBvVqOP) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:10 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 49 | [I Will Wait](https://open.spotify.com/track/4kbYevkszYmMhoQcwnR7cZ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO) | 4:36 |
 | 50 | [Pelican](https://open.spotify.com/track/0HjRzOti4wvuKwIUsjZrHM) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Given To The Wild](https://open.spotify.com/album/7hRcDIP5CKDlCnjHVPb9qd) | 3:44 |
 | 51 | [Funtimes in Babylon](https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:39 |
-| 52 | [Lazuli](https://open.spotify.com/track/2TIJiqr72Qe9tGd26fStIN) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm) | 5:01 |
-| 53 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
+| 52 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
+| 53 | [Lazuli](https://open.spotify.com/track/2TIJiqr72Qe9tGd26fStIN) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm) | 5:01 |
 | 54 | [From Nowhere](https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Sweet Disarray](https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y) | 3:16 |
 | 55 | [Elevate](https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night \(Deluxe\)](https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo) | 5:08 |
 | 56 | [Holdin On](https://open.spotify.com/track/4s5652m7A8iuDQsZ0UWNcO) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume](https://open.spotify.com/album/1Ya2L1SaukipRj53e0dIYc) | 2:34 |
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 59 | [Chained](https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:47 |
 | 60 | [Don't Save Me](https://open.spotify.com/track/02iCjWBd2cOMbTnMs5Zek8) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 3:51 |
 | 61 | [I Found You](https://open.spotify.com/track/13DxZmIpatJm7Wg7G7Nw4Y) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6GRzHtepSikfr1k8zxcpbH) | 2:59 |
-| 62 | [It's Only Life](https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:01 |
-| 63 | [American Daydream](https://open.spotify.com/track/40QdVaXuZgxZ8vdoaFDNsL) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz) | 2:48 |
+| 62 | [American Daydream](https://open.spotify.com/track/40QdVaXuZgxZ8vdoaFDNsL) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz) | 2:48 |
+| 63 | [It's Only Life](https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:01 |
 | 64 | [California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Delta Spirit](https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi) | 3:39 |
 | 65 | [Rearrange](https://open.spotify.com/track/6f4V3llGPLYgv49ro7vXSE) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Colour Of The Trap](https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB) | 3:29 |
 | 66 | [All Eyes on You](https://open.spotify.com/track/0ekoNFB4Xnj2HQAYQ8PTBY) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night \(Deluxe\)](https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo) | 4:27 |
-| 67 | [Sleepless](https://open.spotify.com/track/2PmFrijdjAP3vG8EuWfD1X) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [Flume](https://open.spotify.com/album/1Ya2L1SaukipRj53e0dIYc) | 3:29 |
-| 68 | [Awake](https://open.spotify.com/track/0gnG4oD2rOoPWTSzZnnX4A) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz) | 5:00 |
+| 67 | [Awake](https://open.spotify.com/track/0gnG4oD2rOoPWTSzZnnX4A) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz) | 5:00 |
+| 68 | [Sleepless](https://open.spotify.com/track/2PmFrijdjAP3vG8EuWfD1X) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [Flume](https://open.spotify.com/album/1Ya2L1SaukipRj53e0dIYc) | 3:29 |
 | 69 | [Cherokee](https://open.spotify.com/track/47V6SAlY1SWHYoPHY2vSIK) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Sun](https://open.spotify.com/album/1IoiJGsAHdL0OL9IOjTflm) | 4:45 |
 | 70 | [Awkward \- EP Version](https://open.spotify.com/track/7eHQkyYJnjehynpmZF3uXI) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [San Cisco](https://open.spotify.com/album/5iyJwtJJoTLFLa0NmiJeYx) | 2:34 |
 | 71 | [Gasoline](https://open.spotify.com/track/1LT9AlR86S4X54leu4sjS1) | [Alpine](https://open.spotify.com/artist/4tKUoNubW02udXOh7SLtXV) | [A Is For Alpine](https://open.spotify.com/album/182yEwjKPN6FHGDvplJgSW) | 3:23 |

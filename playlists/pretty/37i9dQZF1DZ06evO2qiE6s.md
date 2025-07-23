@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,451 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,457 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 49 | [You Belong To Me \- Remastered](https://open.spotify.com/track/05oFDCPK2YuNm5uBtCmm1B) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Capitol Years](https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI) | 3:03 |
 | 50 | [Vieni Su \(Say You Love Me, Too\) \- Remastered 1998](https://open.spotify.com/track/0jH9nmgFuW8Ga7ewfYQgwX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 2:26 |
 
-Snapshot ID: `aHwxgAAAAAAqKmNiwNm/HUYDMweeFbdf`
+Snapshot ID: `aH2DAAAAAACOQDSiNEWV+fAkjs2f1ukM`

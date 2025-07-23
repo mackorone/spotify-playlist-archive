@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-405 songs - 21 hr 2 min
+406 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [So Sweet](https://open.spotify.com/track/6XekDX1T9H2mcujtuhHIZU) | [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT), [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH) | [So Sweet](https://open.spotify.com/album/4Z1vbwLPqTQ8jgBPeByTSh) | 2:00 | 2025-07-04 |  |
 | [Sock It To Them](https://open.spotify.com/track/5l85ZxVJFmwIGWShOBG0vN) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [Sock It To Them](https://open.spotify.com/album/30H5DnAtCeIGHf0mLblwlK) | 3:06 | 2023-08-10 | 2024-06-20 |
 | [Somebody Like Me](https://open.spotify.com/track/7tXOUsVnja9CM4ZqpsIRyL) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH), [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ) | [Somebody Like Me](https://open.spotify.com/album/62Air8eIGD93v9GMmuBi1o) | 2:50 | 2022-07-29 | 2022-08-06 |
+| [soulforge](https://open.spotify.com/track/1Hs54M8NA5vCBPj9a786TN) | [dezoliar](https://open.spotify.com/artist/0KRNE8E0XAJKKHtSakLr85), [glossier](https://open.spotify.com/artist/0NS84XuaSPJTVRebjWQi7v), [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [soulforge](https://open.spotify.com/album/3QLh11hZLqxnad5iseuVQY) | 2:14 | 2025-07-22 |  |
 | [Spark](https://open.spotify.com/track/4EXmIFpNVoe3syAh51AA5d) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m) | [Spark](https://open.spotify.com/album/1HZQDlfcWvNcCPP49YPrFv) | 2:55 | 2022-05-17 | 2023-08-11 |
 | [Spirit](https://open.spotify.com/track/7w72YAANcgERnbpqcW4C5B) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Spirit](https://open.spotify.com/album/2egaLUBXUvyDbUBgi5iLzh) | 2:55 | 2022-07-12 | 2022-08-06 |
 | [Stars](https://open.spotify.com/track/6ycR39gJUREuGH48AOZH6l) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Stars](https://open.spotify.com/album/5b25BqNPFg6bgjIdEscHA4) | 3:48 | 2023-08-10 |  |

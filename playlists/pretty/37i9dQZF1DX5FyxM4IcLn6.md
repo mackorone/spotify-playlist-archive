@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 67th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,559 likes - 125 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,543 likes - 125 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 82 | [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 |
 | 83 | [Sadness As A Gift](https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 4:19 |
 | 84 | [The American Dream Is Killing Me](https://open.spotify.com/track/0yq78eXBvWVgkqojBe46SX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:06 |
-| 85 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/275XKjLmQFuZnxTvvtJ6VZ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 4:10 |
-| 86 | [René](https://open.spotify.com/track/1GmHEl2cWpMvkDCuEh0tQY) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [LAS LETRAS YA NO IMPORTAN](https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3) | 7:38 |
+| 85 | [René](https://open.spotify.com/track/1GmHEl2cWpMvkDCuEh0tQY) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [LAS LETRAS YA NO IMPORTAN](https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3) | 7:38 |
+| 86 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/275XKjLmQFuZnxTvvtJ6VZ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 4:10 |
 | 87 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 |
-| 88 | [Funk Rave](https://open.spotify.com/track/6vH8KKSB66dcnCw00N5K0R) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:27 |
-| 89 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 |
+| 88 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 |
+| 89 | [Funk Rave](https://open.spotify.com/track/6vH8KKSB66dcnCw00N5K0R) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:27 |
 | 90 | [Neon Pill](https://open.spotify.com/track/0cgyeBU54kjmI54TflMANg) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:21 |
 | 91 | [In The Name of Jesus \(feat\. Chandler Moore\)](https://open.spotify.com/track/4O2mQtteYmGU173GcZjn6C) | [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [In The Name of Jesus \(feat\. Chandler Moore\)](https://open.spotify.com/album/489O9Hpa91OGXlYOoodr8o) | 4:58 |
 | 92 | [Good Good](https://open.spotify.com/track/3jK1QRugwuAKAKOrtac7a2) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 4:07 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 121 | [Yesterday](https://open.spotify.com/track/7tT3kZyaweAcc7pf7uhd2m) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Yesterday](https://open.spotify.com/album/1BwLUBMJ0Ol72WtHU41vkO) | 5:01 |
 | 122 | [When The Sun Shines Again \[Feat\. Posdnuos\]](https://open.spotify.com/track/7dPzrE3hNzxtUIDqKmZY3B) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [The Auditorium Vol\. 1](https://open.spotify.com/album/1wA3gsTb8pgnKuAyJbAsu0) | 4:45 |
 | 123 | [Tomorrow](https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Tomorrow](https://open.spotify.com/album/2NafcOjkNhsr7o3ZGZynHm) | 3:23 |
-| 124 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/1XeVdgCil539quM3POT69i) | [Honor & Glory](https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/2xoamtc1hV7E47G2LfIZuE) | 4:46 |
-| 125 | [Underestimate Me](https://open.spotify.com/track/3zO4DFfpvGh8CXfN8nhiG0) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [No One Gets Out Alive](https://open.spotify.com/album/30XLu62xz6MZPVHC64ZY7T) | 3:08 |
+| 124 | [Underestimate Me](https://open.spotify.com/track/3zO4DFfpvGh8CXfN8nhiG0) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [No One Gets Out Alive](https://open.spotify.com/album/30XLu62xz6MZPVHC64ZY7T) | 3:08 |
+| 125 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/1XeVdgCil539quM3POT69i) | [Honor & Glory](https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/2xoamtc1hV7E47G2LfIZuE) | 4:46 |
 
 Snapshot ID: `Z6EIyAAAAADsoNmNy2K11jPVju1UHBQs`

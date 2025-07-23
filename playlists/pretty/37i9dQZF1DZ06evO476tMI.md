@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 
 > This is Whitney Houston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,421 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,465 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 49 | [Lover for Life](https://open.spotify.com/track/2tYPx6gPuRDKOmoBZOGfNJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:49 |
 | 50 | [Jesus Loves Me](https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 5:12 |
 
-Snapshot ID: `aHwxgAAAAACqbJ009S1uOwPdBeCpboRP`
+Snapshot ID: `aH2DAAAAAACtJkXPPhUTZ9lFCxbYq2JO`

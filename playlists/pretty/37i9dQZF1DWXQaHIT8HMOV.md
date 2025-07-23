@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Juliana Kanyomozi
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,094 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,108 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Omukazi](https://open.spotify.com/track/6oXMb64qpRWMTU51Qrf5I2) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Omukazi](https://open.spotify.com/album/65pvcvS8CGdanX2kbVefH5) | 3:36 |
 | 2 | [Sanyu Lyange](https://open.spotify.com/track/6HOkQ9TX7HdnGXXE0oDdEv) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [The Best of Juliana Kanyomozi](https://open.spotify.com/album/70szCeyYSPm9EM6MA6uuuQ) | 3:28 |
 | 3 | [Batuloga](https://open.spotify.com/track/7KvDjgH81QIDxvvND73F4X) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe) | [Batuloga](https://open.spotify.com/album/50YqmoFtVAD5Fsj4NLodNM) | 3:16 |
-| 4 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
+| 4 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
 | 5 | [BMB \(Be My Baby\)](https://open.spotify.com/track/53UX7O9CVsStlmDJ6JxPoW) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [BMB \(Be My Baby\)](https://open.spotify.com/album/7hAxhFNm53bIbzNbarbs5f) | 3:04 |
 | 6 | [Uganda Mpya](https://open.spotify.com/track/0OcDu4NSAlD6fAUdSNq1ZX) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Uganda Mpya](https://open.spotify.com/album/3TlsRPckWc6BcNSFav7uyR) | 2:28 |
 | 7 | [Make Sense](https://open.spotify.com/track/3GxSWEKvqclRzYbbwjOccz) | [Agum](https://open.spotify.com/artist/65clSGoG8QMqMDxmpkZPhw) | [Make Sense](https://open.spotify.com/album/3C5J0IIauNn5vJjpvewkWq) | 3:04 |

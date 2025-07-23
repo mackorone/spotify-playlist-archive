@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,057,030 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,057,071 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 39 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 |
 | 40 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 |
 | 41 | [Mother's Little Helper](https://open.spotify.com/track/44xykY61s1aKsgf40A5cyI) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath \(UK Version\)](https://open.spotify.com/album/1MaP82K4mOoGYW5Ej0eUyM) | 2:44 |
-| 42 | [Route 66](https://open.spotify.com/track/1FRP8d6l2jm3DS5f78ZrhK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones](https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX) | 2:20 |
-| 43 | [Monkey Man](https://open.spotify.com/track/5m6livL7ccIS92wq16n52r) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:11 |
+| 42 | [Monkey Man](https://open.spotify.com/track/5m6livL7ccIS92wq16n52r) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:11 |
+| 43 | [Route 66](https://open.spotify.com/track/1FRP8d6l2jm3DS5f78ZrhK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones](https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX) | 2:20 |
 | 44 | [Shine A Light](https://open.spotify.com/track/1iii3DosaivkmvUDmhZhCP) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 4:16 |
 | 45 | [Saint Of Me](https://open.spotify.com/track/6OEpSYq8wdqnl01hsoQGQY) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Bridges To Babylon \(Remastered\)](https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7) | 5:14 |
 | 46 | [Almost Hear You Sigh \- Remastered](https://open.spotify.com/track/2r41JRUZ5Cjcx98ARVI0vo) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Steel Wheels \(Remastered 2009\)](https://open.spotify.com/album/7yUBkHdrxKHn4a3QhrfEj4) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 49 | [Far Away Eyes \- Remastered](https://open.spotify.com/track/4OSZGBSgURF74RO0dRA8HY) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:23 |
 | 50 | [No Expectations \- 50th Anniversary Edition](https://open.spotify.com/track/49ScE2M6RIqfeHnnP4v94B) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 3:57 |
 
-Snapshot ID: `aHwxgAAAAABaxsAJAuTgorRXhIMr8UWi`
+Snapshot ID: `aH2DAAAAAABb1Kef6oviXaJfLqKLrfxL`

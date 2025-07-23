@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,208 likes - 75 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,259 likes - 75 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 31 | [Além do Rio Azul \- Ao Vivo](https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Além do Rio Azul \(Ao Vivo\)](https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp) | 5:06 |
 | 32 | [Aos Pés da Cruz](https://open.spotify.com/track/6MH2UdjbDRXLmOcnSJAJuE) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Aos Pés da Cruz](https://open.spotify.com/album/1ZkYnMRXuCh6GigjaGeBI4) | 4:04 |
 | 33 | [Seu Amor](https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Seu Amor](https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu) | 5:36 |
-| 34 | [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 |
-| 35 | [Tudo a Ver Com Ele](https://open.spotify.com/track/726jL4DA03vptKr05so4Zu) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Tudo a Ver Com Ele](https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn) | 6:25 |
+| 34 | [Tudo a Ver Com Ele](https://open.spotify.com/track/726jL4DA03vptKr05so4Zu) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Tudo a Ver Com Ele](https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn) | 6:25 |
+| 35 | [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 |
 | 36 | [Meu Mestre \- Ao Vivo](https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Isabela Agustinho](https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt) | [Meu Mestre \(Ao Vivo\)](https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35) | 4:46 |
 | 37 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
 | 38 | [Teu Amor Não Falha \- Ao Vivo](https://open.spotify.com/track/2BslVGgN43vtWfAFI7vJnr) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 6:05 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 47 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 |
 | 48 | [Não Tem Como Dar Errado \- Ao Vivo em Salvador](https://open.spotify.com/track/15DX1TCnLzCXMcjWnsUkMe) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Não Tem Como Dar Errado](https://open.spotify.com/album/5NMVWJzQs8ZRk5ablWbYW0) | 3:22 |
 | 49 | [Faça Morada](https://open.spotify.com/track/5Mpth7qg5nxiv3JR0dt7cL) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Coral Kemuel, Vol\. 2](https://open.spotify.com/album/2I5sgWmtf2mjppkwWOWokB) | 4:05 |
-| 50 | [Venho a Ti](https://open.spotify.com/track/360gCLBRm4Caa50Vlbluhy) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Venho a Ti](https://open.spotify.com/album/2sDPeFaxd85ktY7juWm36t) | 5:46 |
-| 51 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 |
+| 50 | [Inexplicável Amor \- Ao Vivo](https://open.spotify.com/track/2NcbRhEgsbbUYENds2ngGm) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Inexplicável Amor \(Ao Vivo\)](https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu) | 5:37 |
+| 51 | [Venho a Ti](https://open.spotify.com/track/360gCLBRm4Caa50Vlbluhy) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Venho a Ti](https://open.spotify.com/album/2sDPeFaxd85ktY7juWm36t) | 5:46 |
 | 52 | [Autor da Vida](https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reino](https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi) | 4:55 |
 | 53 | [Deixar a Lágrima Rolar](https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:19 |
 | 54 | [Com Muito Louvor](https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane \- Gospel Collection Ao Vivo](https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE) | 6:22 |

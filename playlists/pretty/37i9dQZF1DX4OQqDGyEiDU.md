@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,788 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,799 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,24 +15,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 5 | [ダイダイダイダイダイキライ](https://open.spotify.com/track/1gFVXBVuYlDUIEdwOrN5T8) | [雨良](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl) | [ダイダイダイダイダイキライ](https://open.spotify.com/album/2OfdrTwI2aGBqRVUqyrWmt) | 2:36 |
 | 6 | [テトリス](https://open.spotify.com/track/6LIpqsMbsfc8I7F0dsFXsv) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [テトリス](https://open.spotify.com/album/2oyxublk7MjXShFbm7ca0S) | 2:22 |
 | 7 | [KING](https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [KING](https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O) | 2:15 |
-| 8 | [ADHD \(feat\. KASANE TETO\)](https://open.spotify.com/track/726hsQTZHoMLyIdbGGzRkI) | [Ganbare Masashige](https://open.spotify.com/artist/3slB1FSLHYkBeQqf5145YJ), [Kasane Teto](https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H) | [ADHD](https://open.spotify.com/album/0JrdaSbqZ15ohhECNr1YwB) | 2:01 |
-| 9 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 |
+| 8 | [ガッチュー！ \(feat\. 初音ミク&鏡音リン&鏡音レン\)](https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [ガッチュー！](https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW) | 3:15 |
+| 9 | [PSYCH\-OUT HYPE](https://open.spotify.com/track/22TfrEixusP1XRXDkIVnL8) | [Sumia](https://open.spotify.com/artist/4BLujE72GZNP6LiJASz5R6) | [PSYCH\-OUT HYPE](https://open.spotify.com/album/3N8Olo9GpFM0JaFpTG8nYQ) | 2:56 |
 | 10 | [Super Superhero](https://open.spotify.com/track/2Aytf3EEvWbTBFGeyaJchx) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Super Superhero](https://open.spotify.com/album/0Um5HJNFUaSabmELkCyWj1) | 3:00 |
 | 11 | [モニタリング](https://open.spotify.com/track/1iywVk6Xx1XmJwd0rExYI3) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [モニタリング](https://open.spotify.com/album/66YO0i7JPJqriHH4olIqdr) | 2:56 |
 | 12 | [オーバーライド](https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp) | [Yoshida Yasei](https://open.spotify.com/artist/2beGqnoMiYHPQJSES6M8A5) | [オーバーライド](https://open.spotify.com/album/0mE0cdQT55qeKHNuXy1iGn) | 2:18 |
 | 13 | [Anymore](https://open.spotify.com/track/47THWWxadn2gh3Y7eF8OQi) | [Capchii](https://open.spotify.com/artist/6UA1sjVZZizfk3vb4TJqLQ), [NEXTLIGHT](https://open.spotify.com/artist/3TB8FogU3YjuUQa8osr0cY) | [Anymore](https://open.spotify.com/album/49SbySD8AafdEYAXVRAxzj) | 2:58 |
 | 14 | [酔いどれ知らず](https://open.spotify.com/track/4oPCfEDVIKnPJ6UPkhJPCa) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [酔いどれ知らず](https://open.spotify.com/album/4mLK5FpqwN0OwbDw3tToit) | 2:14 |
 | 15 | [君が生きてなくてよかった](https://open.spotify.com/track/2CNKxSQ5HrP6tEZXUH6Q06) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [零号](https://open.spotify.com/album/1td6420oV2v558v9rQhgrq) | 4:24 |
-| 16 | [ガッチュー！ \(feat\. 初音ミク&鏡音リン&鏡音レン\)](https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [ガッチュー！](https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW) | 3:15 |
-| 17 | [Zako](https://open.spotify.com/track/0YJkcI9DUv4lkNJogoitOR) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [Zako](https://open.spotify.com/album/0emahiH8a7ZgiYRp97S29w) | 3:27 |
-| 18 | [ロキ](https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 3:50 |
+| 16 | [透明の縁](https://open.spotify.com/track/6SukxBeClOIMGoIIt38NAr) | [夢ノ結唱](https://open.spotify.com/artist/6rNAIj79RJo9qQQS7HBusY), [夢ノ結唱 PASTEL](https://open.spotify.com/artist/3tNn22LXuxclTYNoJ9ybXy), [夢ノ結唱 HALO](https://open.spotify.com/artist/0pN0dp2MN1ZRx4xUQXqbdM) | [CULTIVATION](https://open.spotify.com/album/72s8q3nNi65oCp5HhvnOh3) | 4:41 |
+| 17 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 |
+| 18 | [Zako](https://open.spotify.com/track/0YJkcI9DUv4lkNJogoitOR) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [Zako](https://open.spotify.com/album/0emahiH8a7ZgiYRp97S29w) | 3:27 |
 | 19 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
 | 20 | [マリオネットダンサー](https://open.spotify.com/track/6ipfY4NbzUNNTzvntTKVK4) | [ひらぎ](https://open.spotify.com/artist/2lcVy7y2fmmwtiTw8ajozQ) | [マリオネットダンサー](https://open.spotify.com/album/5eDfTC0MnDfg5KyVlwqcKL) | 2:18 |
-| 21 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 |
-| 22 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
-| 23 | [デビルじゃないもん](https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [デビルじゃないもん](https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw) | 2:43 |
+| 21 | [ロキ](https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 3:50 |
+| 22 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 |
+| 23 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
 | 24 | [Shitauchi](https://open.spotify.com/track/2oTbs1CnOViXXw2NpfW2v0) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Aizou](https://open.spotify.com/album/0BdZocxXNdRC3k5qJbvwjo) | 3:14 |
-| 25 | [ずんだレンジャー \(feat\. ずんだもん\)](https://open.spotify.com/track/4IaaK2F3nMJNrDTvaFoete) | [なみぐる](https://open.spotify.com/artist/32ljht9dPnlZACgqyVTn6c), [ずんだもん](https://open.spotify.com/artist/3m4eychsgfjZtqppOdaThY) | [ずんだレンジャー](https://open.spotify.com/album/17LAWU68RkPhO3fYpjqgU5) | 2:42 |
+| 25 | [デビルじゃないもん](https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [デビルじゃないもん](https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw) | 2:43 |
 | 26 | [リレイアウター](https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [リレイアウター](https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV) | 3:09 |
 | 27 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
 | 28 | [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 44 | [QUEEN](https://open.spotify.com/track/4KXEPamxxfzDLG7Qv1eS4j) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/2AmHDRUOPKyrmVNZY8hyNq) | 2:21 |
 | 45 | [天ノ弱](https://open.spotify.com/track/0UUV97Kf5nowsUWIxVs4bO) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ) | [天ノ弱 \(feat\. Mayumi Morinaga\)](https://open.spotify.com/album/0KshnO8rWAFXOdZHXwkqCH) | 3:06 |
 | 46 | [テレキャスタービーボーイ \- long ver.](https://open.spotify.com/track/3UDe37nc2yvttJXlNk6Itr) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [パンデミック](https://open.spotify.com/album/63xiINuJgwLhkFXhh6pYag) | 2:44 |
-| 47 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 |
-| 48 | [㋰責任集合体](https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [㋰責任集合体](https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI) | 3:30 |
+| 47 | [㋰責任集合体](https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [㋰責任集合体](https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI) | 3:30 |
+| 48 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 |
 | 49 | [エンヴィーベイビー](https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [エンヴィーベイビー](https://open.spotify.com/album/6NG4Ztq0KcNdsKYRu2RNOA) | 2:15 |
 | 50 | [人マニア](https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [人マニア](https://open.spotify.com/album/0oUGAS1qyR8O5jbNe71uKn) | 2:07 |
 
-Snapshot ID: `aG0yiAAAAABnIrCVQu6l//PjzkuzLSNc`
+Snapshot ID: `aH+ngwAAAAC6yrTHdkuLoesOSerOeUPL`

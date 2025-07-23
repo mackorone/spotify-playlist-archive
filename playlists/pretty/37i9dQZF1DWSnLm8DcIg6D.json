@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack to your girl dinner. cover: Charli XCX",
-  "num_followers": 192153,
+  "num_followers": 192319,
   "original_name": "hot girl sh*t",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,26 @@
     {
       "added_at": "2025-07-15 14:00:19",
       "album": {
-        "name": "Aquarius",
-        "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
+        "name": "Sweet Talker (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         },
         {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 227000,
-      "name": "2 On (feat. ScHoolboy Q)",
-      "url": "https://open.spotify.com/track/3jVtllWS5CFFWLQng8sKsr"
+      "duration_ms": 199386,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
     },
     {
       "added_at": "2025-07-15 14:00:19",
@@ -215,26 +219,22 @@
     {
       "added_at": "2025-07-15 14:00:19",
       "album": {
-        "name": "Sweet Talker (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
+        "name": "Aquarius",
+        "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
       },
       "artists": [
         {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         },
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
         }
       ],
-      "duration_ms": 199386,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
+      "duration_ms": 227000,
+      "name": "2 On (feat. ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/3jVtllWS5CFFWLQng8sKsr"
     },
     {
       "added_at": "2025-07-15 14:00:19",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-07-15 14:00:19",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 214739,
-      "name": "Cool for the Summer",
-      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
-    },
-    {
-      "added_at": "2025-07-15 14:00:19",
-      "album": {
         "name": "ARDIPITHECUS",
         "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+    },
+    {
+      "added_at": "2025-07-15 14:00:19",
+      "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "Cool for the Summer",
+      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
     },
     {
       "added_at": "2025-07-15 14:00:19",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-07-15 14:00:19",
       "album": {
+        "name": "IS IT",
+        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 164206,
+      "name": "IS IT",
+      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
+    },
+    {
+      "added_at": "2025-07-15 14:00:19",
+      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2025-07-15 14:00:19",
       "album": {
-        "name": "IS IT",
-        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 164206,
-      "name": "IS IT",
-      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
-    },
-    {
-      "added_at": "2025-07-15 14:00:19",
-      "album": {
         "name": "NewJeans 'OMG'",
         "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 212253,
       "name": "OMG",
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
-    },
-    {
-      "added_at": "2025-07-15 14:00:19",
-      "album": {
-        "name": "AFTERCARE",
-        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 149440,
-      "name": "P*RNSTAR",
-      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
       "added_at": "2025-07-15 14:00:19",
@@ -515,6 +499,22 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "added_at": "2025-07-15 14:00:19",
+      "album": {
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 149440,
+      "name": "P*RNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
       "added_at": "2025-07-15 14:00:19",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-07-15 14:00:19",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
-    },
-    {
-      "added_at": "2025-07-15 14:00:19",
-      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "added_at": "2025-07-15 14:00:19",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
     },
     {
       "added_at": "2025-07-15 14:00:19",
@@ -791,18 +791,18 @@
     {
       "added_at": "2025-07-15 14:00:19",
       "album": {
-        "name": "Bitch Better Have My Money",
-        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
+        "name": "uh oh",
+        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 219305,
-      "name": "Bitch Better Have My Money",
-      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
+      "duration_ms": 169721,
+      "name": "uh oh",
+      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
     },
     {
       "added_at": "2025-07-15 14:00:19",
@@ -843,18 +843,18 @@
     {
       "added_at": "2025-07-15 14:00:19",
       "album": {
-        "name": "uh oh",
-        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
+        "name": "Bitch Better Have My Money",
+        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 169721,
-      "name": "uh oh",
-      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
+      "duration_ms": 219305,
+      "name": "Bitch Better Have My Money",
+      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
     },
     {
       "added_at": "2025-07-15 14:00:19",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-07-15 14:00:19",
       "album": {
-        "name": "Glory Days (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL"
-    },
-    {
-      "added_at": "2025-07-15 14:00:19",
-      "album": {
         "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 182906,
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+    },
+    {
+      "added_at": "2025-07-15 14:00:19",
+      "album": {
+        "name": "Glory Days (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL"
     },
     {
       "added_at": "2025-07-15 14:00:19",
@@ -999,26 +999,6 @@
     {
       "added_at": "2025-07-15 14:00:19",
       "album": {
-        "name": "Fat Juicy & Wet",
-        "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 141057,
-      "name": "Fat Juicy & Wet",
-      "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
-    },
-    {
-      "added_at": "2025-07-15 14:00:19",
-      "album": {
         "name": "DEMIDEVIL",
         "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 178404,
       "name": "Slumber Party (feat. Princess Nokia)",
       "url": "https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ"
+    },
+    {
+      "added_at": "2025-07-15 14:00:19",
+      "album": {
+        "name": "Fat Juicy & Wet",
+        "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 141057,
+      "name": "Fat Juicy & Wet",
+      "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
     },
     {
       "added_at": "2025-07-15 14:00:19",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-07-15 14:00:19",
       "album": {
-        "name": "Get It Sexyy",
-        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 148551,
-      "name": "Get It Sexyy",
-      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
-    },
-    {
-      "added_at": "2025-07-15 14:00:19",
-      "album": {
         "name": "Queen Of The Clouds",
         "url": "https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"
+    },
+    {
+      "added_at": "2025-07-15 14:00:19",
+      "album": {
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
     },
     {
       "added_at": "2025-07-15 14:00:19",

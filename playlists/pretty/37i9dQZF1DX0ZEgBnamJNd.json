@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 60's. Cover: Shocking Blue",
-  "num_followers": 51615,
+  "num_followers": 51620,
   "original_name": "60's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "aB0r5AAAAACIj2+I2VaFxDYdNWefuL6A",
   "tracks": [
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
-    },
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 183306,
       "name": "Brown Eyed Girl",
       "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 140773,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -447,22 +447,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 154733,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "The Birds, The Bees, & The Monkees",
         "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 179613,
       "name": "Daydream Believer",
       "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
+        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 154733,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
     },
     {
       "added_at": "2021-11-18 10:32:01",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
     },
     {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
-        "name": "Creedence Clearwater Revival (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 517159,
-      "name": "Suzie Q",
-      "url": "https://open.spotify.com/track/6Jp0GuFxAYbTdre1uUPgaB"
-    },
-    {
       "added_at": "2020-08-04 16:10:54",
       "album": {
         "name": "Then Play On (2013 Remaster; Expanded Edition)",
@@ -1039,6 +1023,22 @@
       "duration_ms": 202400,
       "name": "Oh Well, Pt. 1 - 2013 Remaster",
       "url": "https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Creedence Clearwater Revival (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 517159,
+      "name": "Suzie Q",
+      "url": "https://open.spotify.com/track/6Jp0GuFxAYbTdre1uUPgaB"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Little Green Bag",
-        "url": "https://open.spotify.com/album/3kZKbvvhVprZVphNHYvRcj"
-      },
-      "artists": [
-        {
-          "name": "George Baker Selection",
-          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "Dear Ann",
-      "url": "https://open.spotify.com/track/7lpjk8A09oxqj7l18TrPua"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Reach Out",
         "url": "https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 157200,
       "name": "I'm A Believer",
       "url": "https://open.spotify.com/track/1Dix6w1eVOCVNLqehxLXH1"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Little Green Bag",
+        "url": "https://open.spotify.com/album/3kZKbvvhVprZVphNHYvRcj"
+      },
+      "artists": [
+        {
+          "name": "George Baker Selection",
+          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "Dear Ann",
+      "url": "https://open.spotify.com/track/7lpjk8A09oxqj7l18TrPua"
     },
     {
       "added_at": "2020-04-20 05:39:13",

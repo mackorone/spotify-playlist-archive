@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,333 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,352 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 14 | [Relojito Adiamantado](https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Niño De Oro](https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ) | 2:57 |
 | 15 | [Un Niño Buscando Un Sueño](https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Un Niño Buscando Un Sueño](https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD) | 2:43 |
 | 16 | [Mexican Flan](https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 2:58 |
-| 17 | [El Disney](https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El Disney](https://open.spotify.com/album/71pONzODuum62WjG779fN1) | 2:29 |
-| 18 | [Bandido \- En Vivo](https://open.spotify.com/track/1gKuxAJX4sKow9NOABCLSK) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bandido \(En Vivo\)](https://open.spotify.com/album/05WrjfX5fyvh4OSDKUwrwZ) | 3:34 |
+| 17 | [Bandido \- En Vivo](https://open.spotify.com/track/1gKuxAJX4sKow9NOABCLSK) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bandido \(En Vivo\)](https://open.spotify.com/album/05WrjfX5fyvh4OSDKUwrwZ) | 3:34 |
+| 18 | [El Disney](https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El Disney](https://open.spotify.com/album/71pONzODuum62WjG779fN1) | 2:29 |
 | 19 | [D.M.8.](https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [D.M.8.](https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ) | 4:31 |
 | 20 | [Yo Soy del Golfo](https://open.spotify.com/track/2z0v4DMAbcKCOJPY1CJjlo) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 2:40 |
 | 21 | [Habemus Conciliación \- En Vivo](https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Habemus Conciliación \(En Vivo\)](https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 49 | [El General](https://open.spotify.com/track/1uikn8Xecr6jVCu9u7CnHD) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El General](https://open.spotify.com/album/3GbcMCpdYObAqoAaQC09vg) | 3:47 |
 | 50 | [Te Vi](https://open.spotify.com/track/06ktBWApwhIZrGELDHi4sN) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Te Vi](https://open.spotify.com/album/2PCuFmC6h5LsRkkcC3Rj5x) | 2:42 |
 
-Snapshot ID: `aHwxgAAAAACB/FMtQrL6itcp+46kvEc3`
+Snapshot ID: `aH2DAAAAAACRuqtKaEchyxXvRTWSApvd`

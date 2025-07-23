@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,109 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,117 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 34 | [See U Later](https://open.spotify.com/track/5RBH8ypFAj5HTZTPRpI1XL) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/6yetqbA9vli7RLoUWYZLsq) | 3:18 |
 | 35 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 |
 | 36 | [Thank U](https://open.spotify.com/track/5byscDL6SmZhKr8MbcoJcb) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:11 |
-| 37 | [Summer Tights](https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:34 |
-| 38 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 |
+| 37 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 |
+| 38 | [Summer Tights](https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:34 |
 | 39 | [BIRTHDAY](https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx) | 3:05 |
 | 40 | [Pose](https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:20 |
 | 41 | [Happy Alone \(feat\. B.I\)](https://open.spotify.com/track/5m69aowedG1gR6ZsVVEA1f) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 3:34 |
-| 42 | [Hula Hoops](https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:23 |
-| 43 | [I’m bad too \(Feat\. DPR LIVE\)](https://open.spotify.com/track/4JcfDrtQWE45N1X4MkcbiV) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 2:12 |
+| 42 | [I’m bad too \(Feat\. DPR LIVE\)](https://open.spotify.com/track/4JcfDrtQWE45N1X4MkcbiV) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 2:12 |
+| 43 | [Hula Hoops](https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:23 |
 | 44 | [WANNA BE MYSELF](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WANNA BE MYSELF](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) | 3:26 |
 | 45 | [SELFISH \(Feat\. SEULGI Of Red Velvet\)](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [SELFISH](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) | 3:12 |
 | 46 | [End Better \(Feat\. Skinny Brown\)](https://open.spotify.com/track/5BVRrg0ewd72Jdzj7Oizty) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [TOAST](https://open.spotify.com/album/7zj1ryzYXQdewJ1bWQaHbJ) | 3:43 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 52 | [Break](https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE) | 3:04 |
 | 53 | [Kitsch](https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/12p68ehzb26xvidlV2ypur) | 3:15 |
 | 54 | [Sexy 4 Eva](https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:41 |
-| 55 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 |
-| 56 | [Drink it, Girls!](https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Work Later Drink Now S2, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh) | 2:56 |
+| 55 | [Drink it, Girls!](https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Work Later Drink Now S2, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh) | 2:56 |
+| 56 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 |
 | 57 | [HeartBROKEN PlaYBoY](https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:36 |
 | 58 | [Don't Teach Me](https://open.spotify.com/track/30qGbAR81lNnSmazn6SgAC) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [AMY](https://open.spotify.com/album/0qocbypKL5iOqhvbt3n3uo) | 3:15 |
 | 59 | [Sorry](https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:37 |

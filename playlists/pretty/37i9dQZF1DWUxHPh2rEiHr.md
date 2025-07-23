@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 
 > Discover rhythmic crossover hits from cultures around the world\. Cover: DJ Snake & J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,027 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,022 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 10 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 | 11 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 |
 | 12 | [LE LE LE](https://open.spotify.com/track/3v3tsNFYDbiv0SzFFT6FcA) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [LE LE LE](https://open.spotify.com/album/2zZHIinGjxSzvdiCO9BLym) | 2:38 |
-| 13 | [TU SANCHO](https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:57 |
-| 14 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
+| 13 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
+| 14 | [TU SANCHO](https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:57 |
 | 15 | [Papasito](https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:47 |
 | 16 | [pasarella 👠](https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [pasarella 👠](https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md) | 2:42 |
 | 17 | [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 64 | [I Adore You \(with J Balvin & Ellie Goulding\)](https://open.spotify.com/track/03L6HaDf0AFmlsHhq7Ewoi) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(with J Balvin & Ellie Goulding\)](https://open.spotify.com/album/7AcEvOjGlIzl1P9EDrOooc) | 3:00 |
 | 65 | [ATTENTION!](https://open.spotify.com/track/3roiUw3YFNlKE3u8qMmVmw) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [ATTENTION!](https://open.spotify.com/album/0pS9ssUJeUKdOD3hTrRhUM) | 3:28 |
 | 66 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
-| 67 | [I'll Be Waiting](https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [I'll Be Waiting](https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0) | 2:03 |
-| 68 | [X TI](https://open.spotify.com/track/6jNMtUR4tNxTqP63yfdJTv) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [X TI](https://open.spotify.com/album/4HfQzOCpQrakm38l0HdS1V) | 3:35 |
+| 67 | [X TI](https://open.spotify.com/track/6jNMtUR4tNxTqP63yfdJTv) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [X TI](https://open.spotify.com/album/4HfQzOCpQrakm38l0HdS1V) | 3:35 |
+| 68 | [I'll Be Waiting](https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [I'll Be Waiting](https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0) | 2:03 |
 | 69 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 2:37 |
 | 70 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 |
 | 71 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 97 | [JUMP](https://open.spotify.com/track/4WejDFaJx72saURVWVgOB8) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [JUMP](https://open.spotify.com/album/0uZgOU0f8jn1zSIwSaWLKs) | 3:00 |
 | 98 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 |
 | 99 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
-| 100 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 |
+| 100 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 |
 
 Snapshot ID: `aGdR5gAAAAC7ThwK5B6NHI5arHJivXzy`

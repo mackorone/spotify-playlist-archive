@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,572 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,596 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 46 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 |
 | 47 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 |
 | 48 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
-| 49 | [Windows](https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe) | 3:12 |
-| 50 | [Loading Zones](https://open.spotify.com/track/69o00fGvsei250jH7bF781) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes) | 3:23 |
-| 51 | [Apollo's Mood](https://open.spotify.com/track/1N9WgSJAca6uaXFHTktS97) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/2UkCnAUvgigPDKmVjw9dQR) | 4:31 |
-| 52 | [Domino](https://open.spotify.com/track/4UPVhpMIAuTUS6NDaEajXI) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Domino](https://open.spotify.com/album/5nXc9eJPrasJL63AxYDMS6) | 4:03 |
-| 53 | [Some Sunsick Day](https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb) | 5:11 |
+| 49 | [Some Sunsick Day](https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb) | 5:11 |
+| 50 | [Windows](https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe) | 3:12 |
+| 51 | [Loading Zones](https://open.spotify.com/track/69o00fGvsei250jH7bF781) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes) | 3:23 |
+| 52 | [Apollo's Mood](https://open.spotify.com/track/1N9WgSJAca6uaXFHTktS97) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/2UkCnAUvgigPDKmVjw9dQR) | 4:31 |
+| 53 | [Domino](https://open.spotify.com/track/4UPVhpMIAuTUS6NDaEajXI) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Domino](https://open.spotify.com/album/5nXc9eJPrasJL63AxYDMS6) | 4:03 |
 | 54 | [Far Out Feeling](https://open.spotify.com/track/6CzVJHTzNbvxdb6wwH4WiQ) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5D062RPrAS76knCMha1xCw) | 3:39 |
 | 55 | [Lady Luck](https://open.spotify.com/track/68dSvPdwsCEGoKj72QDEXQ) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Atlantic Ocean](https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC) | 4:18 |
 | 56 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |

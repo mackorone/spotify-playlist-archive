@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,918 likes - 210 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,924 likes - 210 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 105 | [Drink Water \(feat\. Jon Bellion and Fireboy DML\)](https://open.spotify.com/track/0vovnhziMYImdMsEDPncA8) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 2:49 |
 | 106 | [Couples Retreat](https://open.spotify.com/track/7pMS0byKI7V1Mpl0SlWEDq) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 3:28 |
 | 107 | [Jim Morrison](https://open.spotify.com/track/1TCSh3FmB3Hhi5KeyHr7l3) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 3:19 |
-| 108 | [Ungrateful Eyes](https://open.spotify.com/track/6p9vTtbwiVHMahR5UwNI7k) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 3:24 |
-| 109 | [KID AGAIN](https://open.spotify.com/track/3Fy7lEei8XAAUbPFyTypae) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:19 |
+| 108 | [KID AGAIN](https://open.spotify.com/track/3Fy7lEei8XAAUbPFyTypae) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:19 |
+| 109 | [Ungrateful Eyes](https://open.spotify.com/track/6p9vTtbwiVHMahR5UwNI7k) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 3:24 |
 | 110 | [LIFE](https://open.spotify.com/track/1a6LRSRHWS4zKvBjQNaF0S) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:23 |
 | 111 | [Insanity](https://open.spotify.com/track/15KGYDSw1BJR9KMhp3UWpF) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:03 |
 | 112 | [Let's Begin \(feat\. Roc Marciano, RZA, B.Keyz & Travis Mendes\)](https://open.spotify.com/track/2X1Tygc4uVunRgzNkFb1mG) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [B.Keyz](https://open.spotify.com/artist/54tH0fUB8bJvHnpn0vSo8i), [Travis Mendes](https://open.spotify.com/artist/3PXLYt1l21hYC4eLDGVgT1) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 5:40 |
@@ -163,8 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 153 | [Worship](https://open.spotify.com/track/0wEDbE7HCmrTPKxKCqKj7G) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 4:13 |
 | 154 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 |
 | 155 | [Antidote](https://open.spotify.com/track/4bxH0J1mnut9n5KwnuOHc9) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 4:08 |
-| 156 | [One More Time](https://open.spotify.com/track/4wPbR6XonWB7fiyWUMAaH2) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 2:59 |
-| 157 | [23](https://open.spotify.com/track/4APGetG5oDxfKFAb7MRu1B) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 3:09 |
+| 156 | [23](https://open.spotify.com/track/4APGetG5oDxfKFAb7MRu1B) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 3:09 |
+| 157 | [One More Time](https://open.spotify.com/track/4wPbR6XonWB7fiyWUMAaH2) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 2:59 |
 | 158 | [For The Dreamers](https://open.spotify.com/track/1NWmp48T5k0JyPguEjQWeN) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Blaque Keyz](https://open.spotify.com/artist/0OLVptinKCohT8CL3TFY9s) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 4:25 |
 | 159 | [young gun \(feat\. Jon Bellion\)](https://open.spotify.com/track/5Ew6kwv7hFHu5OEyA39B2Y) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:53 |
 | 160 | [Beautiful Problem \(feat\. Maty Noyes & gnash\)](https://open.spotify.com/track/5V6Z0byDlUIfvXY7xE5sCp) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Movie](https://open.spotify.com/album/2EQ6FlyXmzemCGFvTXHauN) | 4:21 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 209 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 |
 | 210 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 |
 
-Snapshot ID: `Ab3ZqAAAAAAcO+Aw7hTwG7IGO0wcSWLQ`
+Snapshot ID: `Ab3fSAAAAAAsyISh/W2DINt4yfO3ye7q`

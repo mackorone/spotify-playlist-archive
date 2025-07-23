@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Murat Dalkılıç
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,521,008 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521,226 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 5 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 |
 | 6 | [Sokağından Geçmezdim](https://open.spotify.com/track/0cfSvO87qn9LtYRpkxSfq4) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Sokağından Geçmezdim](https://open.spotify.com/album/4HgYFr8tGOZ2oZ7RGGpJlK) | 3:58 |
 | 7 | [Şuh Nefes \- Ceceli](https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:21 |
-| 8 | [Sonralar Bizim Değil](https://open.spotify.com/track/7w79el56NrDPPOWl0e1p1f) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Sonralar Bizim Değil](https://open.spotify.com/album/4urqNeWISQJem6JjSPrD7U) | 3:25 |
-| 9 | [Kalpsiz](https://open.spotify.com/track/2ciOT2HoX5rjkARUQiO0P6) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Kalpsiz](https://open.spotify.com/album/3fxmsLLJGExHoCV9EyydhS) | 3:00 |
-| 10 | [Acıyor Kalbim](https://open.spotify.com/track/5at6EvpZwE8neKRrDrk7gI) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Acıyor Kalbim](https://open.spotify.com/album/2svxTBuMYsgzUq6er9ROiA) | 2:08 |
-| 11 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 |
-| 12 | [Sensiz](https://open.spotify.com/track/4XPLP02fM1sAAVkntJ8Huf) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Sensiz](https://open.spotify.com/album/2f8TlkD3FzqdTlsP1vJh0t) | 3:32 |
-| 13 | [Bir Yol](https://open.spotify.com/track/5vqwKZgZjyhVLHMnzhQX6y) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bir Yol](https://open.spotify.com/album/0vkUpL4dSKdLFvcvTt1JbG) | 2:28 |
-| 14 | [SALINA SALINA](https://open.spotify.com/track/1Ka5a3r3oYJzCfXl5Uq2CA) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [SALINA SALINA](https://open.spotify.com/album/2eOg7JmgrIgAEpX4SBr6L8) | 2:08 |
+| 8 | [SALINA SALINA](https://open.spotify.com/track/1Ka5a3r3oYJzCfXl5Uq2CA) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [SALINA SALINA](https://open.spotify.com/album/2eOg7JmgrIgAEpX4SBr6L8) | 2:08 |
+| 9 | [Sonralar Bizim Değil](https://open.spotify.com/track/7w79el56NrDPPOWl0e1p1f) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Sonralar Bizim Değil](https://open.spotify.com/album/4urqNeWISQJem6JjSPrD7U) | 3:25 |
+| 10 | [Kalpsiz](https://open.spotify.com/track/2ciOT2HoX5rjkARUQiO0P6) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Kalpsiz](https://open.spotify.com/album/3fxmsLLJGExHoCV9EyydhS) | 3:00 |
+| 11 | [Acıyor Kalbim](https://open.spotify.com/track/5at6EvpZwE8neKRrDrk7gI) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Acıyor Kalbim](https://open.spotify.com/album/2svxTBuMYsgzUq6er9ROiA) | 2:08 |
+| 12 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 |
+| 13 | [Sensiz](https://open.spotify.com/track/4XPLP02fM1sAAVkntJ8Huf) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Sensiz](https://open.spotify.com/album/2f8TlkD3FzqdTlsP1vJh0t) | 3:32 |
+| 14 | [Bir Yol](https://open.spotify.com/track/5vqwKZgZjyhVLHMnzhQX6y) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bir Yol](https://open.spotify.com/album/0vkUpL4dSKdLFvcvTt1JbG) | 2:28 |
 | 15 | [Vertigo](https://open.spotify.com/track/2h48UWdDoaf2L8fJ3y3gdw) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Vertigo](https://open.spotify.com/album/4XjYiO58q1YBE31SNDh6g5) | 2:44 |
 | 16 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
 | 17 | [Durup Dururken](https://open.spotify.com/track/0aaIt2mbVvIhxoM8GhqyIk) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Durup Dururken](https://open.spotify.com/album/4KaJSLDTkDQDiKMvBuvKwT) | 2:16 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 48 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 |
 | 49 | [Canın Beni Çekti](https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Canın Beni Çekti](https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB) | 3:13 |
 
-Snapshot ID: `aH3uuAAAAAC/Ar/MRcq9fWG+c1l2OgHu`
+Snapshot ID: `aH9fBQAAAACdQ+/iiwMvcCQTR24rESc5`

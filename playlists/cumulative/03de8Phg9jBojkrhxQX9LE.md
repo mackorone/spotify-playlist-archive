@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-3,160 songs - 7 day 9 hr 20 min
+3,160 songs - 7 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2950,7 +2950,7 @@
 | [Vex \(feat\. MIST & Popcaan\)](https://open.spotify.com/track/0Cqm4WttYKQpbCqRy49TXG) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vex \(feat\. MIST & Popcaan\)](https://open.spotify.com/album/0iYkCwf1pBdVLFtErESyvE) | 3:18 | 2024-11-29 | 2025-01-18 |
 | [Vibrate](https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Vibrate / On The Ground](https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI) | 2:14 | 2024-02-16 | 2024-03-16 |
 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-06-20 | 2025-07-19 |
-| [Victory Lap Three](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 3:28 | 2025-07-11 |  |
+| [Victory Lap Four](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 4:22 | 2025-07-11 |  |
 | [Vigil \- Hammer Remix](https://open.spotify.com/track/4NnV0b2rp6FFZWwKPMm4K0) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Hammer](https://open.spotify.com/artist/3KtaBB3asBs44O4h3xx2V0) | [Vigil \(Hammer Remix\)](https://open.spotify.com/album/5IOJJpOA3KgyvbVKLwuFcb) | 4:28 | 2024-04-12 | 2024-05-12 |
 | [Violet \(Control Freak Remix\)](https://open.spotify.com/track/7cz9HrQXVMls1ZmhWaBHvN) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [Monarch: Remixes](https://open.spotify.com/album/1SI81QHTvqF0bb0u4sF80A) | 2:45 | 2023-11-03 | 2023-12-02 |
 | [Viper](https://open.spotify.com/track/3SYkywr2DJIjcw1MTwKB0n) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [4 ON DA FLOOR](https://open.spotify.com/album/2KrfHNsJL9pcWUxaAqzoZu) | 2:37 | 2024-06-28 | 2024-07-27 |

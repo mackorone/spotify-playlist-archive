@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=K\_q\-JH7WT0ivgMhqwb3hPw">MaWhoo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,334 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,374 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

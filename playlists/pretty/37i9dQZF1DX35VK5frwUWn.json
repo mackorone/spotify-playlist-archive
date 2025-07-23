@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 1736,
+  "num_followers": 1737,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 214214,
-      "name": "Commercial (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/3tDqEKKUs6gf8zMvSuLyLA"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 337640,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 214214,
+      "name": "Commercial (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/3tDqEKKUs6gf8zMvSuLyLA"
     },
     {
       "added_at": "2022-11-01 04:00:00",

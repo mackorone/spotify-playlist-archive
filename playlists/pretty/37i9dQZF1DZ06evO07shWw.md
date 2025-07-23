@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 33 | [Wish You Would](https://open.spotify.com/track/7lYLGVuVHQBfuaElYAqPpD) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 4:18 |
 | 34 | [All The Love](https://open.spotify.com/track/6Ux1OziwTqAns38d7CfdWG) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:45 |
 
-Snapshot ID: `aHwxgAAAAAAJR/iWSj8p9b0PNWpb3BWa`
+Snapshot ID: `aH2DAAAAAAC6soy9uMTUK6kam8XIgATU`

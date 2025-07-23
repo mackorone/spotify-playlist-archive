@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,215 likes - 125 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,270 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,17 +45,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 35 | [AMOR PROPIO](https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y) | 2:52 |
 | 36 | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R) | 3:01 |
 | 37 | [Vendedora de Caricias](https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:45 |
-| 38 | [Mi Pasado y Mi Presente](https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Plan B](https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx) | 3:40 |
-| 39 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/6f9wNWLVMRX9QbsStbaI4Q) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY) | 4:54 |
+| 38 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/6f9wNWLVMRX9QbsStbaI4Q) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY) | 4:54 |
+| 39 | [Mi Pasado y Mi Presente](https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Plan B](https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx) | 3:40 |
 | 40 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 |
 | 41 | [Cómo Estás Tú](https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 2:57 |
 | 42 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 |
 | 43 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 |
 | 44 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
 | 45 | [Adiós Amor](https://open.spotify.com/track/6KfMaLSdCCHy8DwjlMjxqu) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Decide Tú](https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU) | 3:17 |
-| 46 | [Loco](https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Todo tuyo](https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei) | 3:55 |
+| 46 | [Te Amo](https://open.spotify.com/track/5N6l5fBKD1XcbayM3Q8K3c) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Bordada a Mano](https://open.spotify.com/album/1dyd7hJkMWDJnU10UGKphB) | 2:55 |
 | 47 | [Soñador Eterno](https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 2:57 |
-| 48 | [Te Amo](https://open.spotify.com/track/5N6l5fBKD1XcbayM3Q8K3c) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Bordada a Mano](https://open.spotify.com/album/1dyd7hJkMWDJnU10UGKphB) | 2:55 |
+| 48 | [Loco](https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Todo tuyo](https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei) | 3:55 |
 | 49 | [A Mí, ¿Qué Me Quedó?](https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Vuelvo Contigo](https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU) | 2:41 |
 | 50 | [Fíjate Que Sí](https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Me Hiciste un Borracho](https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW) | 3:24 |
 | 51 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 93 | [Te He Prometido](https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:12 |
 | 94 | [La Burbuja](https://open.spotify.com/track/1sk0LP75QkHk9xCgBQiA82) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [La Burbuja](https://open.spotify.com/album/4WEKmA2MnfexKkfthwKv6y) | 3:18 |
 | 95 | [Cumbia poder](https://open.spotify.com/track/43067bbX2FhYHpfAntTIYB) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 5:00 |
-| 96 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 |
-| 97 | [Bienvenido Al Amor](https://open.spotify.com/track/37BWywucpTcrzdhcZwkKyG) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Para Sobrevivir](https://open.spotify.com/album/6uaS5wiwBumnHAW3ZlySQB) | 3:09 |
+| 96 | [Bienvenido Al Amor](https://open.spotify.com/track/37BWywucpTcrzdhcZwkKyG) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Para Sobrevivir](https://open.spotify.com/album/6uaS5wiwBumnHAW3ZlySQB) | 3:09 |
+| 97 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 |
 | 98 | [Broche de Oro](https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 3:36 |
 | 99 | [Cumbia Del Sol](https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Fuera De Control](https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw) | 3:14 |
 | 100 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:58 |
@@ -128,10 +128,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 118 | [Se Me Soltó El Hocico](https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Se Me Soltó El Hocico](https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc) | 2:55 |
 | 119 | [Mi Unico Camino](https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Más Tocadas](https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp) | 2:52 |
 | 120 | [Muchacha Encantadora](https://open.spotify.com/track/159c1Rvj1ThYoObWHXTC09) | [Los Vallenatos De La Cumbia](https://open.spotify.com/artist/5UCIvTadkKiXUebOXSNYLn) | [Muchacha Encantadora](https://open.spotify.com/album/1RQiiNOHONxx63024KO320) | 4:47 |
-| 121 | [DIOS POR DELANTE](https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [DIOS POR DELANTE](https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu) | 3:34 |
+| 121 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 |
 | 122 | [16 Toneladas \- Radio Edit](https://open.spotify.com/track/1PyKQCH6KRFw55dYeWXB80) | [APV Passion Vallenata](https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X) | [16 Toneladas \(Radio Edit\)](https://open.spotify.com/album/5A0kulglTtKewmTdqYYpAc) | 4:30 |
 | 123 | [Mi Razón De Ser](https://open.spotify.com/track/03JbYQiWdbNU50NmmSU6q3) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 3:13 |
-| 124 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 |
-| 125 | [En Eso No Quedamos](https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 2:57 |
+| 124 | [En Eso No Quedamos](https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 2:57 |
+| 125 | [Casi Siempre Estoy Pensando En Ti](https://open.spotify.com/track/313aLoAv5EAuPDxXqpFTIe) | [Sonido Mazter](https://open.spotify.com/artist/2Je9VeZnmnpDrCIwWu3wuM) | [Falsa Traición](https://open.spotify.com/album/0hgNADfjKFvsM3SwgKRqnR) | 2:30 |
 
 Snapshot ID: `aFGxDgAAAADiQf54HL1rTQBaiGiTWugQ`

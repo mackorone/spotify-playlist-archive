@@ -3912,7 +3912,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 123591,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
@@ -4516,7 +4516,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 103124,
       "name": "BUMPER",
       "url": "https://open.spotify.com/track/5oeECNNy5N58Zks8OhEdFE"
@@ -12250,7 +12250,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 462561,
       "name": "ETA - RMX",
       "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
@@ -16998,7 +16998,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -20086,7 +20086,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 257186,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
@@ -20240,6 +20240,28 @@
       "duration_ms": 188368,
       "name": "love nwantiti (feat. Dj Yo! & AX'EL) - Remix",
       "url": "https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU"
+    },
+    {
+      "album": {
+        "name": "LOVE PA TI NO HAY",
+        "url": "https://open.spotify.com/album/6WGtFJVs1FsyAgFIv5akUR"
+      },
+      "artists": [
+        {
+          "name": "Fer Ariza",
+          "url": "https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160260,
+      "name": "LOVE PA TI NO HAY",
+      "url": "https://open.spotify.com/track/67MBhIes3QKhQDuZWKHKBw"
     },
     {
       "album": {
@@ -28204,7 +28226,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 255026,
       "name": "Por un Segundo",
       "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
@@ -28524,7 +28546,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 130968,
       "name": "Priti",
       "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"

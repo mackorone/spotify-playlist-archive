@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-743 songs - 1 day 13 hr 25 min
+744 songs - 1 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [Moonlight](https://open.spotify.com/track/3BXXFBcWJW3su1sodrywxL) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Moonlight](https://open.spotify.com/album/68u0ZhWzY2lw8Jj1rerGxY) | 2:07 | 2022-11-18 | 2024-04-19 |
 | [more than love \- Sofi Tukker remix](https://open.spotify.com/track/0CICivRwFKqLs5oiBLYicx) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [more than love \(Sofi Tukker remix\)](https://open.spotify.com/album/79Ef4CPEwN61hMhqvm9Y3c) | 5:33 | 2022-01-14 |  |
 | [Morning Sun](https://open.spotify.com/track/4FBsQTjkURcX5p9eMliVx9) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [Atch](https://open.spotify.com/artist/1RXmgjI1slIFaZZHN0Q22V), [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Morning Sun](https://open.spotify.com/album/0wiKQOncV2Bl2mDqNGjNUd) | 3:06 | 2022-11-11 |  |
+| [Mouth Of Madness](https://open.spotify.com/track/0ePrpVm3PClk1Gpv9V957s) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Ofelia K](https://open.spotify.com/artist/29iw18MxnVp5gLozO7e2HE) | [Mouth Of Madness](https://open.spotify.com/album/72pIluQXx9yA45d1kXsNfD) | 4:05 | 2025-07-18 |  |
 | [Music In You](https://open.spotify.com/track/0t3uSTVVYGVYVKJUlOMqfk) | [Sebastien](https://open.spotify.com/artist/173M6tvnbPT1Wp5ucD0uAS), [Boy Tedson](https://open.spotify.com/artist/3QGj0gM2w35fH3gx2ZBoXk) | [Music In You](https://open.spotify.com/album/2XvXKXxsvh1OKl2KPkf1r8) | 3:05 | 2022-02-04 | 2022-09-24 |
 | [My California Dream](https://open.spotify.com/track/2wnxrNECnWUT8Z8peldD8z) | [Richill](https://open.spotify.com/artist/3LPmZauf3fUMOzH9bfrr7r), [Ladina Viva](https://open.spotify.com/artist/6KIl9XHyJDDXbQLnbTf5wm) | [My California Dream](https://open.spotify.com/album/2XKJpd6zQuHacrwxexFWXP) | 2:34 | 2023-05-12 |  |
 | [My Head Is a Jungle \- \(Radio Edit\) \[Live\]](https://open.spotify.com/track/5479RIes0OUXZkCDsWg7Mc) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [My Head is a Jungle](https://open.spotify.com/album/4wO8WVjaBfiE2a3ebBKk69) | 3:33 | 2022-02-18 | 2022-04-02 |
@@ -588,7 +589,7 @@
 | [Somebody Else](https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP) | [Zonoma](https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH), [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Somebody Else](https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB) | 3:20 | 2022-01-14 | 2022-09-03 |
 | [Someone You Loved](https://open.spotify.com/track/1acOxwadqwCMqSTho4Vh0B) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Justin Rhodes](https://open.spotify.com/artist/1UnFIMbh19hkqi7kAUXEXt) | [Someone You Loved](https://open.spotify.com/album/3hZU2fpkYh4RSzx62pdDDk) | 2:34 | 2022-09-09 |  |
 | [Something Good \- Radio Edit](https://open.spotify.com/track/0BGsenauCQGUHZrJ6SDXEm) | [MOUNT & Nicolas Haelg](https://open.spotify.com/artist/26WCL5eJDbWBeI7IHtn9sG) | [Something Good \(Radio Edit\)](https://open.spotify.com/album/3XUfXVEft5AgWoYuQ4CF3G) | 2:58 | 2022-01-14 | 2022-04-20 |
-| [Somewhere In The Stars](https://open.spotify.com/track/1AM4zsHEqqKS4VIPfvh5U0) | [KNJA](https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6) | [Somewhere In The Stars](https://open.spotify.com/album/4HLrHI5MTqPbn8ye9pYwDY) | 2:00 | 2025-06-13 |  |
+| [Somewhere In The Stars](https://open.spotify.com/track/1AM4zsHEqqKS4VIPfvh5U0) | [KNJA](https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6) | [Somewhere In The Stars](https://open.spotify.com/album/4HLrHI5MTqPbn8ye9pYwDY) | 2:00 | 2025-06-13 | 2025-07-23 |
 | [Somewhere Out There](https://open.spotify.com/track/7JPA0E9xnYsJSrYjQyQFRm) | [Daxten](https://open.spotify.com/artist/1uwGIdDsv9rhyzuqgYhOuS) | [Somewhere Out There](https://open.spotify.com/album/6hm0JKMWpzsDal5G5da18n) | 3:23 | 2022-04-01 | 2022-12-18 |
 | [Sonnentanz](https://open.spotify.com/track/6SDdaZBW69QFZUgpzyPK46) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Netzwerk \(Deluxe\)](https://open.spotify.com/album/4j9mSsoan95YCTzgxORbvK) | 6:00 | 2022-02-18 | 2022-04-02 |
 | [Soul](https://open.spotify.com/track/14GVXonn2x13wYG00phRjM) | [Thomas Jack](https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm) | [Soul](https://open.spotify.com/album/5JYMiZJ6aIRiK1liSUKK5r) | 3:25 | 2024-05-31 |  |

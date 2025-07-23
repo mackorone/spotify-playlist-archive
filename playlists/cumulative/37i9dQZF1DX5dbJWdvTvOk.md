@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-810 songs - 1 day 10 hr 31 min
+811 songs - 1 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Día Fácil](https://open.spotify.com/track/3Yz1SZXphecIMZcKjdtqFL) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Día Fácil](https://open.spotify.com/album/18idEnRzxpLkVIZv8ETBAb) | 3:01 | 2023-01-06 | 2023-04-22 |
 | [Echo Park](https://open.spotify.com/track/6UweZFJgCY0eMIn6P2rflo) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Echo Park](https://open.spotify.com/album/2RztZ6yJ4Da3Y2JV9xFm5n) | 2:48 | 2023-04-21 |  |
 | [Echoes](https://open.spotify.com/track/0oaGr0YPQehZOM2tESJRFV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [To The Moon](https://open.spotify.com/album/5LPsflFQLrjq9ymGG4Jpf3) | 2:51 | 2023-04-21 | 2025-03-26 |
-| [Echoes of Us](https://open.spotify.com/track/2apnQEUBTwbHE4axOQzDzf) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Echoes of Us](https://open.spotify.com/album/2UNxbUaCX4qo8R3tNvXMiu) | 2:39 | 2025-04-16 |  |
+| [Echoes of Us](https://open.spotify.com/track/2apnQEUBTwbHE4axOQzDzf) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Echoes of Us](https://open.spotify.com/album/2UNxbUaCX4qo8R3tNvXMiu) | 2:39 | 2025-04-16 | 2025-07-23 |
 | [Eclipse](https://open.spotify.com/track/4xOX662co6Ryxqez1fgJbY) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Deep End](https://open.spotify.com/album/1LvDcTZgsmxYBuuyKFt8ba) | 1:54 | 2022-07-15 | 2023-04-22 |
 | [Eclipse](https://open.spotify.com/track/4jsclhn5Q5oYDdV8uFa1DS) | [Taylor Owen](https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v) | [Eclipse](https://open.spotify.com/album/526Ra8D1uYLW8XcpT0Tw29) | 2:04 | 2024-02-02 |  |
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2023-04-21 |  |
@@ -561,6 +561,7 @@
 | [Quondam](https://open.spotify.com/track/3s2DgQijs4kj42NehQZnwG) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Quercus](https://open.spotify.com/album/5UOtIQBUnWIYh40uPWNC2e) | 3:03 | 2022-07-15 | 2023-04-22 |
 | [Raconteur](https://open.spotify.com/track/7qzfZetxTQEZlFi3QB7zHx) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Raconteur](https://open.spotify.com/album/6zJrL7ptspQXKC1CaBkVBV) | 2:15 | 2023-04-21 |  |
 | [Raphaela](https://open.spotify.com/track/09eAG4nD5njEFBEhm2aQy9) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Raphaela](https://open.spotify.com/album/2rHXOxttBdWZ45jSuMKgXv) | 3:00 | 2022-07-15 | 2023-05-13 |
+| [Raspberry Flavor](https://open.spotify.com/track/6tF6HFVA95mi7l17KCFAih) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Raspberry Flavor](https://open.spotify.com/album/6wQ6Mp0M9k0KX6Jy27T6Cm) | 2:36 | 2025-07-22 |  |
 | [Rays in March](https://open.spotify.com/track/0dpDf1nbYcYhSDQLamQc2V) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Rays in March](https://open.spotify.com/album/6GWqI97c528sSrMwxIxnf1) | 2:15 | 2023-04-21 | 2024-11-07 |
 | [Reflected Dreams](https://open.spotify.com/track/4fn4Jx7ZrBn6r4h3vkGrkN) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Reflected Dreams](https://open.spotify.com/album/3ANuuSDn9UeoeTTqaEYGwZ) | 2:09 | 2025-03-05 |  |
 | [Remaining Link](https://open.spotify.com/track/3THjDQSoQoBoeqT71CdUeG) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Remaining Link](https://open.spotify.com/album/0BEE1YWLyPm6kFnVEL9LN9) | 2:18 | 2024-02-02 | 2024-11-07 |
@@ -709,10 +710,10 @@
 | [The Distant Echo](https://open.spotify.com/track/7dRtgpbpGUqOOQir25wm02) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [The Distant Echo](https://open.spotify.com/album/5xdr7fV5vsaLMgi8PArvGP) | 1:42 | 2023-04-21 | 2023-06-03 |
 | [The Dreamer](https://open.spotify.com/track/4JeCz2VmJDfpdw5nJUg7kV) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Dreamer](https://open.spotify.com/album/1MWZ3bhElou5DzdnnjnKVs) | 2:21 | 2025-03-18 |  |
 | [The Flower](https://open.spotify.com/track/1DvaEFXZrWjBL7mLe1EEDo) | [Ashton Foster](https://open.spotify.com/artist/6lleSq8jhlTKsIH0GeGSM4) | [The Flower](https://open.spotify.com/album/7JOxzs00yBfKsr2ORbtbFJ) | 2:36 | 2024-10-01 |  |
-| [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 | 2024-10-23 |  |
+| [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 | 2024-10-23 | 2025-07-23 |
 | [The Hidden Valley](https://open.spotify.com/track/4R7b5uuUvxvER6JksVLDWi) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [The Hidden Valley](https://open.spotify.com/album/3I5xEp9VFZkL52a0DbRKUs) | 2:37 | 2022-12-09 | 2023-04-22 |
 | [The Hourglass](https://open.spotify.com/track/4ZKXTmQ9vGQG4QJEZjhm8u) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [The Hourglass](https://open.spotify.com/album/2JgivIpjbESxpFGEBZrhtK) | 2:14 | 2023-04-21 |  |
-| [The King Of Time](https://open.spotify.com/track/1gx6KSTQ2z9eVLM59C8iYg) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The King Of Time](https://open.spotify.com/album/1Zb0eZyeNYw3s6pEN7SrCw) | 2:22 | 2025-06-11 | 2025-07-10 |
+| [The King Of Time](https://open.spotify.com/track/1gx6KSTQ2z9eVLM59C8iYg) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The King Of Time](https://open.spotify.com/album/1Zb0eZyeNYw3s6pEN7SrCw) | 2:22 | 2025-06-11 |  |
 | [The Lighthouse](https://open.spotify.com/track/4DzBcv4qWnW7RfkWJ8fz2M) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Lighthouse](https://open.spotify.com/album/08uz1pfSwbk4z58608njlQ) | 2:20 | 2023-04-21 | 2023-06-09 |
 | [The Longing](https://open.spotify.com/track/29C5rzt8Y8YiyXFUByk41c) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [The Longing](https://open.spotify.com/album/1THZEd8ksJ873IqMsCtTb2) | 2:56 | 2023-04-21 | 2024-04-26 |
 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 | 2024-06-07 | 2024-12-11 |

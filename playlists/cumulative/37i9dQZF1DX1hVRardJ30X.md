@@ -4,7 +4,7 @@
 
 > New music by J Balvin, Bad Bunny, Myke Towers and more! Updates every Friday.
 
-10,058 songs - 21 day 20 hr 30 min
+10,059 songs - 21 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -819,6 +819,7 @@
 | [Ave de paso \(con Ana Mena\)](https://open.spotify.com/track/41qCPzahT6jEvZiIFYyycC) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Ave de paso \(con Ana Mena\)](https://open.spotify.com/album/6BArEoaNbHcObUE1DNELBn) | 3:36 | 2022-12-02 | 2022-12-10 |
 | [Avemaría](https://open.spotify.com/track/4MUtM58geV6B2NGv8ckspv) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Avemaría](https://open.spotify.com/album/6GOqInT9DDFsX6yyvdyC6q) | 2:12 | 2022-09-30 | 2022-10-08 |
 | [AVENTURA](https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY) | [ZABDIEL](https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [AVENTURA](https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf) | 3:13 | 2023-08-25 | 2023-09-02 |
+| [Aventura \- Remix](https://open.spotify.com/track/38yKTiIgiZWZgZHrvQ0Woc) | [EFXTO](https://open.spotify.com/artist/1lJ9lIfCWJwUAfPmURhBYo), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Aventura \(Remix\)](https://open.spotify.com/album/3oosEAn2JIMF0wgRJtKBFX) | 2:38 | 2025-07-18 |  |
 | [Aventurero](https://open.spotify.com/track/2SjqSdWfvaA8pL5uF2soRO) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG), [Chava Araiza](https://open.spotify.com/artist/5LPWXliaXpdF0JUFnNWxdG) | [Aventurero](https://open.spotify.com/album/40oDmharDxSKPTsU9fAVbZ) | 4:27 | 2022-08-12 | 2022-08-20 |
 | [Avión Privado](https://open.spotify.com/track/0znYhe5amMBw6Ug7EzR2Rc) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Avión Privado](https://open.spotify.com/album/3ypyRbgOj79Qu1cL49hau1) | 3:05 | 2024-12-13 | 2024-12-21 |
 | [Avísame \(with Nohemy\)](https://open.spotify.com/track/07uB4aCMcWWwYZw64TRQZJ) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P) | [Avísame \(with Nohemy\)](https://open.spotify.com/album/3nHPUsHILfc0zHjoFjHc8c) | 3:25 | 2022-04-01 | 2022-04-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,943 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,975 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 23 | [Eu te Amo](https://open.spotify.com/track/3r9MGWtEhYs21v7HGpDa2X) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS), [Melk Vilar](https://open.spotify.com/artist/6jNeGEo4cKvVRmsKwwJyvN) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 4:17 |
 | 24 | [Escolhi Te Esperar](https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Cabelo solto \- Playback](https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg) | 3:56 |
 | 25 | [Disse Sim](https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Disse Sim](https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y) | 3:21 |
-| 26 | [Isso é Amor](https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 3:52 |
-| 27 | [Pra Sempre](https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j) | [Thiago Grulha](https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu) | [Somos Iguais \(Ao Vivo\)](https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER) | 2:35 |
-| 28 | [À Moda Antiga](https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U) | [À Moda Antiga](https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB) | 3:02 |
-| 29 | [Encontrar Você](https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [Thamiriz](https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM) | [Encontrar Você](https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij) | 3:55 |
+| 26 | [À Moda Antiga](https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U) | [À Moda Antiga](https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB) | 3:02 |
+| 27 | [Isso é Amor](https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 3:52 |
+| 28 | [Pra Sempre](https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j) | [Thiago Grulha](https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu) | [Somos Iguais \(Ao Vivo\)](https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER) | 2:35 |
+| 29 | [O Jeito Que Você Me Olha](https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj) | [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [O Jeito Que Você Me Olha](https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF) | 3:18 |
 | 30 | [Só Você](https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Só Você](https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ) | 3:45 |
-| 31 | [O Jeito Que Você Me Olha](https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj) | [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [O Jeito Que Você Me Olha](https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF) | 3:18 |
+| 31 | [Encontrar Você](https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [Thamiriz](https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM) | [Encontrar Você](https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij) | 3:55 |
 | 32 | [A Perfeição de Deus](https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Cantando o Amor Vol\. 2](https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU) | 5:03 |
 | 33 | [Presente de Deus](https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS) | [Oficina do Som](https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha), [Renato Vianna](https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7) | [Presente de Deus](https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W) | 3:29 |
 | 34 | [Com Você](https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ) | [Cassiane e Jairinho](https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Você](https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no) | 3:43 |

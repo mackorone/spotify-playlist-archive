@@ -1,6 +1,6 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1735456,
+  "num_followers": 1735198,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
@@ -267,26 +267,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT"
-      },
-      "artists": [
-        {
-          "name": "Matt Champion",
-          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 219782,
-      "name": "Slide Tackle",
-      "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Work Out",
         "url": "https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 291776,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 219782,
+      "name": "Slide Tackle",
+      "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "3D Country",
-        "url": "https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 180807,
-      "name": "I See Myself",
-      "url": "https://open.spotify.com/track/1rqGuE3jvcvacQk96lfnl6"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "3D Country",
+        "url": "https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 180807,
+      "name": "I See Myself",
+      "url": "https://open.spotify.com/track/1rqGuE3jvcvacQk96lfnl6"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 216026,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/6ZVVax9sMTB6HPKu36eYZs"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "Virginia (Wind In The Night)",
+        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Virginia (Wind In The Night)",
+      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "Virginia (Wind In The Night)",
-        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Virginia (Wind In The Night)",
-      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Blood Wolf Moon",
-        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
-      },
-      "artists": [
-        {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
-        }
-      ],
-      "duration_ms": 180010,
-      "name": "Blood Wolf Moon",
-      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Any Shape You Take",
         "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 178236,
       "name": "Pretty Pictures",
       "url": "https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Blood Wolf Moon",
+        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+        }
+      ],
+      "duration_ms": 180010,
+      "name": "Blood Wolf Moon",
+      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 214282,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Vestiges & Claws",
         "url": "https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 293880,
       "name": "Leaf Off / The Cave",
       "url": "https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 214282,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "The Man Who Sees Tomorrow / Lodarore",
-        "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "The Man Who Sees Tomorrow",
-      "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Bed Head (Acoustic)",
         "url": "https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 243456,
       "name": "Bed Head - Acoustic",
       "url": "https://open.spotify.com/track/2d7DuVXlzYByepNPmQSejc"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "The Man Who Sees Tomorrow / Lodarore",
+        "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "The Man Who Sees Tomorrow",
+      "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "I Believe in You",
-        "url": "https://open.spotify.com/album/7r4vwcfdbzyR1L2tHugI6G"
-      },
-      "artists": [
-        {
-          "name": "more*",
-          "url": "https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i"
-        }
-      ],
-      "duration_ms": 249413,
-      "name": "I Believe in You",
-      "url": "https://open.spotify.com/track/0Ml7rd3x4n1CVqqqWa1OVj"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Distant Axis",
         "url": "https://open.spotify.com/album/0sy4l7BHcw0a50DjvvZz0Q"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 265160,
       "name": "Distant Axis",
       "url": "https://open.spotify.com/track/4ysVx7wS2J8dvk77ON8jVI"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "I Believe in You",
+        "url": "https://open.spotify.com/album/7r4vwcfdbzyR1L2tHugI6G"
+      },
+      "artists": [
+        {
+          "name": "more*",
+          "url": "https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i"
+        }
+      ],
+      "duration_ms": 249413,
+      "name": "I Believe in You",
+      "url": "https://open.spotify.com/track/0Ml7rd3x4n1CVqqqWa1OVj"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Plain Letters (Reimagined)",
-        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 273150,
-      "name": "Plain Letters - Reimagined",
-      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Joy'All",
         "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 224493,
       "name": "Joy'All",
       "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Plain Letters (Reimagined)",
+        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 273150,
+      "name": "Plain Letters - Reimagined",
+      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
     },
     {
       "added_at": "2024-03-08 16:42:43",

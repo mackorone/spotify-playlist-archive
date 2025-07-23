@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Viviann Baeza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,482 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,524 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 66 | [No Me Rebajo](https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [No Me Rebajo](https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU) | 3:23 |
 | 67 | [Estan Lloviendo Lagrimas](https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Graciela Beltran 14 Super Exitos](https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS) | 3:06 |
 | 68 | [Popurrí 30 aniversario \(Soy Feliz Como Una Lombriz, No Se Si Es Amor, Paraíso Terrenal, Ahora Que Estuviste Lejos, Sobreviviré\)](https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA) | [Priscila y Sus Balas De Plata](https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO) | [Popurrí 30 aniversario \(Soy Feliz Como Una Lombriz, No Se Si Es Amor, Paraíso Terrenal, Ahora Que Estuviste Lejos, Sobreviviré\)](https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge) | 8:49 |
-| 69 | [Las Morras](https://open.spotify.com/track/5fmPKuO8EhL4OdOuanUjIa) | [Domenica](https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX), [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Las Morras](https://open.spotify.com/album/1hUbp2MmNLyqivPFkvYrYw) | 3:17 |
-| 70 | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q) | 2:46 |
+| 69 | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q) | 2:46 |
+| 70 | [Las Morras](https://open.spotify.com/track/5fmPKuO8EhL4OdOuanUjIa) | [Domenica](https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX), [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Las Morras](https://open.spotify.com/album/1hUbp2MmNLyqivPFkvYrYw) | 3:17 |
 | 71 | [Yo Te Extrañaré](https://open.spotify.com/track/5eaoQpGpFBQrMUjWk3lruo) | [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB), [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Yo Te Extrañaré](https://open.spotify.com/album/39CrI0ILTQ6Ia0zHaBNpda) | 4:50 |
 | 72 | [Deja Que Salga la Luna \- En Vivo](https://open.spotify.com/track/5d4rgvM3J5aV9mY2OweosG) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Deja Que Salga la Luna \(En Vivo\)](https://open.spotify.com/album/6ndaddkZnoMfm6Q1YXQ1qY) | 3:17 |
 | 73 | [Jódete](https://open.spotify.com/track/7qck3nLQcH6RFSSbHxMZg2) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pa’Delante](https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4) | 3:10 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 79 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
 | 80 | [Volveré A Amar](https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN) | [Valentina Elizalde](https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1) | [Volveré A Amar](https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o) | 4:00 |
 | 81 | [No Puedo Olvidarlo](https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [En Vivo: Irene del Rosario](https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN) | 3:34 |
-| 82 | [Yo No Creo En Los Hombres](https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Yo No Creo En Los Hombres](https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9) | 3:35 |
-| 83 | [La Fama de una Dama](https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [La Fama de una Dama](https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d) | 2:48 |
+| 82 | [La Fama de una Dama](https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [La Fama de una Dama](https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d) | 2:48 |
+| 83 | [Yo No Creo En Los Hombres](https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Yo No Creo En Los Hombres](https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9) | 3:35 |
 | 84 | [¿Por Qué No Vienes?](https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [¿Por Qué No Vienes?](https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm) | 3:35 |
 | 85 | [De Lo Que Me Salvé](https://open.spotify.com/track/3njGgBsNB4RnxqYKc1YDh2) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [De Lo Que Me Salvé](https://open.spotify.com/album/4pqSQejVHrDuLaTdu3mmj0) | 3:31 |
 | 86 | [Ayer Pedí](https://open.spotify.com/track/6Pyh7P7RYN7Cu21jjwXsTu) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ayer Pedí](https://open.spotify.com/album/5DbBtgQ0oZ5odiNf1QZM7m) | 2:58 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 95 | [PLH \(Pa' los Haters\)](https://open.spotify.com/track/0ehk27kRaKKfbYqJSq21rG) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [PLH \(Pa' los Haters\)](https://open.spotify.com/album/1lvZWUvndUB1USnNK5TiHA) | 2:43 |
 | 96 | [Me Voy](https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Íntimamente](https://open.spotify.com/album/3xgoENA5vtoM7wJ2kuPKHq) | 3:06 |
 | 97 | [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 |
-| 98 | [Tu Lo Decidiste](https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [Tu Lo Decidiste](https://open.spotify.com/album/0HKJJRXEaWNdDPPSP0543Y) | 3:51 |
-| 99 | [DDC](https://open.spotify.com/track/4IaMG4UOgitE01E6pYN9ZE) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [DDC](https://open.spotify.com/album/73kfcjW3oBTvxHiY1X7p61) | 3:06 |
+| 98 | [DDC](https://open.spotify.com/track/4IaMG4UOgitE01E6pYN9ZE) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [DDC](https://open.spotify.com/album/73kfcjW3oBTvxHiY1X7p61) | 3:06 |
+| 99 | [Tu Lo Decidiste](https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [Tu Lo Decidiste](https://open.spotify.com/album/0HKJJRXEaWNdDPPSP0543Y) | 3:51 |
 | 100 | [Mujeres al Tiro](https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Mujeres al Tiro](https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg) | 2:25 |
 
 Snapshot ID: `aGeA2wAAAACUBNaCp+FMU35MZFS32nW+`

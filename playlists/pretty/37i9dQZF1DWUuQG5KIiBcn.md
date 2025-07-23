@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,178 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,537 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 20 | [Cruz De Madera](https://open.spotify.com/track/4FcYptmG7nIfAH9XW8R4YA) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Cruz De Madera](https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V) | 2:52 |
 | 21 | [Carrera A Muerte](https://open.spotify.com/track/2rJBndq82AOiGEEE84im02) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 3:39 |
 | 22 | [La Jaula De Oro](https://open.spotify.com/track/0Ui4HOFj8qhdh2nm1lJ074) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jaula De Oro](https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO) | 2:42 |
-| 23 | [Veinte Mujeres De Negro](https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:43 |
-| 24 | [El Chulo](https://open.spotify.com/track/5hJtSEZbRc7oBBfysp10Cq) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Qué Barbaridad: Corridos y Rancheras](https://open.spotify.com/album/4WZlLb4JZKMBTl7EmUX9Yr) | 2:42 |
+| 23 | [El Chulo](https://open.spotify.com/track/5hJtSEZbRc7oBBfysp10Cq) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Qué Barbaridad: Corridos y Rancheras](https://open.spotify.com/album/4WZlLb4JZKMBTl7EmUX9Yr) | 2:42 |
+| 24 | [Veinte Mujeres De Negro](https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:43 |
 | 25 | [Dos Botellas De Mezcal](https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Millas Y Millas](https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM) | 3:16 |
 | 26 | [La Rubia Y La Morena](https://open.spotify.com/track/2aqsQyxUdXNQPvgWe6gqON) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [30 Primeros Exitos](https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf) | 3:15 |
 | 27 | [Arturo Garza Trevino](https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:49 |
-| 28 | [La Mesera](https://open.spotify.com/track/2QWPE9utfwQQdUc7YlLmiY) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [El Hijo Del Viejo](https://open.spotify.com/album/7twG1hwEyyfh4EAnH0FaLP) | 3:22 |
-| 29 | [El Rengo del Gallo Giro](https://open.spotify.com/track/4N6aI6IzDodEJscIaI6nfo) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Me Traes de un Ala](https://open.spotify.com/album/3us0ln0heM9tVS0EGihj1y) | 3:10 |
+| 28 | [El Rengo del Gallo Giro](https://open.spotify.com/track/4N6aI6IzDodEJscIaI6nfo) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Me Traes de un Ala](https://open.spotify.com/album/3us0ln0heM9tVS0EGihj1y) | 3:10 |
+| 29 | [La Mesera](https://open.spotify.com/track/2QWPE9utfwQQdUc7YlLmiY) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [El Hijo Del Viejo](https://open.spotify.com/album/7twG1hwEyyfh4EAnH0FaLP) | 3:22 |
 | 30 | [Tres Veces Mojado](https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 2:51 |
 | 31 | [El Caminante](https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Nuestra Historia](https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd) | 4:01 |
 | 32 | [Se Les Pelo Baltazar](https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Corridos De Oro](https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14) | 2:33 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 57 | [El Deportado](https://open.spotify.com/track/4HXYP6cpEuJO7ikYR1jMJu) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [El Deportado \(Grabación Original Remasterizada\)](https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq) | 2:48 |
 | 58 | [Domingo Corrales](https://open.spotify.com/track/2YhF4zGkvmoxMKfTDXN19n) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/1lbo0iXFRYTxv5RVFEDEvv) | 2:42 |
 | 59 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 |
-| 60 | [Máquina 501](https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn) | [Francisco "Charro" Avitia](https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok) | [Charro Avitia](https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV) | 2:54 |
-| 61 | [El Penal De La Loma](https://open.spotify.com/track/3umpEnkOEPTdbCELamakQF) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:51 |
+| 60 | [El Penal De La Loma](https://open.spotify.com/track/3umpEnkOEPTdbCELamakQF) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:51 |
+| 61 | [Máquina 501](https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn) | [Francisco "Charro" Avitia](https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok) | [Charro Avitia](https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV) | 2:54 |
 | 62 | [El árbol de la horca](https://open.spotify.com/track/2ZN3h7KZgmjF7AMgTL6miJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Corridos bien Pesados para la Bohemia](https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS) | 3:47 |
 | 63 | [Caballo Patas Blancas](https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb) | [Los Donneños](https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT) | [Corridos de Caballos Famosos](https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH) | 4:01 |
 | 64 | [Paso del norte](https://open.spotify.com/track/4Nq6fPnW3hGWolYhevaopV) | [Los Broncos de Reynosa](https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS) | [Exitos de Los Broncos de Reynosa](https://open.spotify.com/album/3WuRR3ZB1IFPuDG4pyWdHT) | 2:54 |

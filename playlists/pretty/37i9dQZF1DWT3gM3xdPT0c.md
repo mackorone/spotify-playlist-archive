@@ -4,36 +4,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 
 > Warm instrumental guitar for a gentle start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,502 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,527 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sleeping Petals](https://open.spotify.com/track/1ySgmcM7rIXu5QbVr17F61) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Sleeping Petals](https://open.spotify.com/album/5vIEQ4I8N1Nowe6s25HWL4) | 2:21 |
-| 2 | [Summer Meadow](https://open.spotify.com/track/6UKFsigRaBGHiUZWUa8HC9) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [Summer Meadow](https://open.spotify.com/album/0fg4CB6idg4C2PrgnsOSbC) | 2:35 |
-| 3 | [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 |
+| 2 | [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 |
+| 3 | [Summer Meadow](https://open.spotify.com/track/6UKFsigRaBGHiUZWUa8HC9) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [Summer Meadow](https://open.spotify.com/album/0fg4CB6idg4C2PrgnsOSbC) | 2:35 |
 | 4 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 |
 | 5 | [Like a butterfly](https://open.spotify.com/track/3dnY9kyGPEOkIfvnQYQ2NX) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Like a butterfly](https://open.spotify.com/album/6lQ4ZKraQkuDk8T9675GeA) | 2:42 |
 | 6 | [Relief](https://open.spotify.com/track/2Jq1unSnrJC7QBEWf6fQYs) | [Carl Eksmo](https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB) | [Relief](https://open.spotify.com/album/5ZgWRYaNJ7gHrFBJ31LZNq) | 2:44 |
-| 7 | [Sunshine avenue](https://open.spotify.com/track/1K53kXlMNqLpdeMh1PqOum) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Sunshine avenue](https://open.spotify.com/album/3nqZymslQr1U9HgNfiYPwL) | 2:29 |
-| 8 | [Esteve](https://open.spotify.com/track/0z79KRpafDe5MduzUC5YhX) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Esteve](https://open.spotify.com/album/6P9fb1BvI1ZrwONnddqgEC) | 2:46 |
+| 7 | [Esteve](https://open.spotify.com/track/0z79KRpafDe5MduzUC5YhX) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Esteve](https://open.spotify.com/album/6P9fb1BvI1ZrwONnddqgEC) | 2:46 |
+| 8 | [Sunshine avenue](https://open.spotify.com/track/1K53kXlMNqLpdeMh1PqOum) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Sunshine avenue](https://open.spotify.com/album/3nqZymslQr1U9HgNfiYPwL) | 2:29 |
 | 9 | [How Can I](https://open.spotify.com/track/3PMp2l8y9PZfPhLqH6fFW2) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [How Can I](https://open.spotify.com/album/07GAcIemxGblmrul2auuzv) | 2:46 |
 | 10 | [First Impressions](https://open.spotify.com/track/7tNi9AcmTfAKGrGQ3xxD5n) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [First Impressions](https://open.spotify.com/album/6tv0Ndn7eeKfCEhA1UGZXb) | 2:15 |
-| 11 | [Fly Up](https://open.spotify.com/track/0qzkoEYtEm3HZYUErVqk2E) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Fly Up](https://open.spotify.com/album/0p97Dwfkvjf0CxcmYaGRp9) | 2:21 |
-| 12 | [Sensitive Sound](https://open.spotify.com/track/4lM8qckxt1R0KKswBMzyF6) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Sensitive Sound](https://open.spotify.com/album/47O7qQzeIOCBvtmXEf2MQK) | 2:13 |
-| 13 | [Innocent Face](https://open.spotify.com/track/1LjYFVvhXmuP3RgErQBYkH) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Innocent Face](https://open.spotify.com/album/4GpBw9UUFaHkv12myq2POe) | 2:02 |
-| 14 | [Source of Life](https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Source of Life](https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV) | 2:19 |
+| 11 | [Source of Life](https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Source of Life](https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV) | 2:19 |
+| 12 | [Fly Up](https://open.spotify.com/track/0qzkoEYtEm3HZYUErVqk2E) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Fly Up](https://open.spotify.com/album/0p97Dwfkvjf0CxcmYaGRp9) | 2:21 |
+| 13 | [Sensitive Sound](https://open.spotify.com/track/4lM8qckxt1R0KKswBMzyF6) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Sensitive Sound](https://open.spotify.com/album/47O7qQzeIOCBvtmXEf2MQK) | 2:13 |
+| 14 | [Innocent Face](https://open.spotify.com/track/1LjYFVvhXmuP3RgErQBYkH) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Innocent Face](https://open.spotify.com/album/4GpBw9UUFaHkv12myq2POe) | 2:02 |
 | 15 | [Lullaby](https://open.spotify.com/track/7goB8XbGH0dOpuOKh33M2V) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lullaby](https://open.spotify.com/album/0gltiSlcJXlCkGICZ5hVx5) | 2:54 |
 | 16 | [Morning flight](https://open.spotify.com/track/6cCJDEcjnMC88bJWpfkGIz) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Morning flight](https://open.spotify.com/album/7DpdN294vUmSSPI9EEkv3Q) | 2:18 |
 | 17 | [Blond](https://open.spotify.com/track/7xiZZ53TyC13U1G9kv7dBC) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Blond](https://open.spotify.com/album/5v5vkeSZgaft4XLMH0tvel) | 2:52 |
 | 18 | [Familiar Faces](https://open.spotify.com/track/1qN4gbb7DorRbfjlH1k3VR) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Familiar Faces](https://open.spotify.com/album/1ggIMZPIpojoCEyldZASBu) | 2:05 |
-| 19 | [The Shy One](https://open.spotify.com/track/2AWuAZwrhr25GkHWhFBJWu) | [Max Stewart](https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow) | [The Shy One](https://open.spotify.com/album/58mTGqoMhqOcFG4ULgj2NI) | 2:09 |
+| 19 | [Day Break](https://open.spotify.com/track/6TgJqQlvZ9jLrVGsPdbGXD) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Day Break](https://open.spotify.com/album/3CwJPDKz6DsLpG5Ll14u8W) | 2:32 |
 | 20 | [Zumala](https://open.spotify.com/track/5Vl1Hua7EURdz34EnfwrKl) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Zumala](https://open.spotify.com/album/6AQTp4aTLOS1Z4XfAKxfVd) | 2:51 |
-| 21 | [Day Break](https://open.spotify.com/track/6TgJqQlvZ9jLrVGsPdbGXD) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Day Break](https://open.spotify.com/album/3CwJPDKz6DsLpG5Ll14u8W) | 2:32 |
+| 21 | [Pages Still Turning](https://open.spotify.com/track/6dVyeiIS3sJySILJbzrP26) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Pages Still Turning](https://open.spotify.com/album/4HIyKUXFCEMWQOQ5pA7H4F) | 2:46 |
 | 22 | [Sunlight](https://open.spotify.com/track/0wbiU3krz8dP0YBz2zGSY3) | [Jonah Heather](https://open.spotify.com/artist/1wPjGpHJKKk8Nkd6fYLZMD) | [Sunlight](https://open.spotify.com/album/3sksXcvPgQKyuJZFVW23AW) | 2:54 |
-| 23 | [Patience](https://open.spotify.com/track/64YCCiONF91sIVJu3oJuIx) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Patience](https://open.spotify.com/album/2owUUKY5tTrAfOuu1OG5V1) | 2:25 |
-| 24 | [Pages Still Turning](https://open.spotify.com/track/6dVyeiIS3sJySILJbzrP26) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Pages Still Turning](https://open.spotify.com/album/4HIyKUXFCEMWQOQ5pA7H4F) | 2:46 |
-| 25 | [Summer Mornings](https://open.spotify.com/track/5xQr8pRvG47uSAF5xPCiWi) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Summer Mornings](https://open.spotify.com/album/5cHktUCDOedAhEiiUQjn72) | 3:46 |
-| 26 | [Slowed by Time](https://open.spotify.com/track/4jdOVJzC2JYKMwfgat1Rdh) | [Logan Connors](https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk) | [Slowed by Time](https://open.spotify.com/album/3sNV8v8XF2A15Ai4lFzBfX) | 2:18 |
+| 23 | [Liquid Shape](https://open.spotify.com/track/1rKq6PgmwaP4MUuba6mQWf) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Liquid Shape](https://open.spotify.com/album/1pPbPb97jO5XgxjneZZzsh) | 2:17 |
+| 24 | [Slowed by Time](https://open.spotify.com/track/4jdOVJzC2JYKMwfgat1Rdh) | [Logan Connors](https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk) | [Slowed by Time](https://open.spotify.com/album/3sNV8v8XF2A15Ai4lFzBfX) | 2:18 |
+| 25 | [The Shy One](https://open.spotify.com/track/2AWuAZwrhr25GkHWhFBJWu) | [Max Stewart](https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow) | [The Shy One](https://open.spotify.com/album/58mTGqoMhqOcFG4ULgj2NI) | 2:09 |
+| 26 | [Summer Mornings](https://open.spotify.com/track/5xQr8pRvG47uSAF5xPCiWi) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Summer Mornings](https://open.spotify.com/album/5cHktUCDOedAhEiiUQjn72) | 3:46 |
 | 27 | [Morning Dew](https://open.spotify.com/track/4QG2hF1bSx3eDHSYCqoM6R) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Morning Dew](https://open.spotify.com/album/0zcwQS1tcySvMy0H2VJzU0) | 2:46 |
 | 28 | [Entwined](https://open.spotify.com/track/2dD2vlba9615NY1XUOip8o) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Entwined](https://open.spotify.com/album/4duiYenGDX8tQdoAKlRpho) | 2:39 |
 | 29 | [When I am Back](https://open.spotify.com/track/29gPSRzw1zOwqFY6g5YSNX) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [When I am Back](https://open.spotify.com/album/2HUta0ln0Wy5pbUsUfMhlU) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 99 | [Cascading Gracefully](https://open.spotify.com/track/61rbHseoHJJ7xjcpA7hCoH) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Cascading Gracefully](https://open.spotify.com/album/41B8fiOkOnqSipjAzGlhqM) | 2:12 |
 | 100 | [Dédalo](https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Dédalo](https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW) | 2:02 |
 
-Snapshot ID: `aG02AgAAAADuE4c39nHXlXckuIfuM+mY`
+Snapshot ID: `aH9HKgAAAACg1gMnLlc28ygEz9CnI2XG`

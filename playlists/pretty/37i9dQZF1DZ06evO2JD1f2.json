@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 12876,
+  "num_followers": 12880,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAACL5+02OuLESGRNAPWR1fRq",
+  "snapshot_id": "aH2DAAAAAADaGXnTFXxSvSIZUVLS0v98",
   "tracks": [
     {
       "added_at": null,
@@ -51,26 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 121479,
-      "name": "Back and Forth (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/2zeP2m00YmZFr36mOQCBuK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 153360,
       "name": "Route 66 (feat. EST Gee)",
       "url": "https://open.spotify.com/track/5faz5WYRJdRDiCa42DSgHR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 121479,
+      "name": "Back and Forth (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/2zeP2m00YmZFr36mOQCBuK"
     },
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
-        }
-      ],
-      "duration_ms": 139903,
-      "name": "PABLO FINAL GOTTI version (feat. Yo Gotti)",
-      "url": "https://open.spotify.com/track/1FD9lN6jrnQ5Rp8yuft8fU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Ones Left",
         "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 151421,
       "name": "Ice Talk",
       "url": "https://open.spotify.com/track/4YeoYDiM7MHUb6Gb9sKYz9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "duration_ms": 139903,
+      "name": "PABLO FINAL GOTTI version (feat. Yo Gotti)",
+      "url": "https://open.spotify.com/track/1FD9lN6jrnQ5Rp8yuft8fU"
     },
     {
       "added_at": null,

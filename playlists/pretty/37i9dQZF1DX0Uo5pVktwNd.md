@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,651 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,756 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 17 | [Aankhon Mein](https://open.spotify.com/track/77y2yW2spk3HCkZXjlbhCD) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ) | [Aankhon Mein Tera Hi Chehra](https://open.spotify.com/album/6mCDTT1XGTf48p6FkK9qFL) | 4:31 |
 | 18 | [Dekha Hai Aise Bhi](https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sifar](https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF) | 3:58 |
 | 19 | [Leja Leja](https://open.spotify.com/track/5kWMV8yuPP6zSdz4MZhjVh) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Ustad And The Divas](https://open.spotify.com/album/01s2aUyGKULtAK1Q6BEdV7) | 4:29 |
-| 20 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 |
-| 21 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 |
-| 22 | [Tera Mera Pyar](https://open.spotify.com/track/5MXSLWGyPosYJ09LNu12SO) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 6:13 |
-| 23 | [Don't Be Shy](https://open.spotify.com/track/1MbYpxr2x4f2B13OHLwQgw) | [Rouge](https://open.spotify.com/artist/68PVS6ZpjnsIIARGI0h8mi) | [Don't Be Shy](https://open.spotify.com/album/2eqktpsBOh0TMyZ0JMzryo) | 3:12 |
+| 20 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 |
+| 21 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 |
+| 22 | [Don't Be Shy](https://open.spotify.com/track/1MbYpxr2x4f2B13OHLwQgw) | [Rouge](https://open.spotify.com/artist/68PVS6ZpjnsIIARGI0h8mi) | [Don't Be Shy](https://open.spotify.com/album/2eqktpsBOh0TMyZ0JMzryo) | 3:12 |
+| 23 | [Tera Mera Pyar](https://open.spotify.com/track/5MXSLWGyPosYJ09LNu12SO) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 6:13 |
 | 24 | [Deewana Tera](https://open.spotify.com/track/2bJZCUnAI9Se6MmtQy8Fcv) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:00 |
 | 25 | [Channa Vey](https://open.spotify.com/track/3At4t5vZ0lDuNWLBPEk6Ck) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Channa Vey](https://open.spotify.com/album/1D3xG0AxMZbq0nVyu0PUgJ) | 4:29 |
 | 26 | [Kehdoon Tumhen \(Close To U\)](https://open.spotify.com/track/2up5kZEADyiPGQNDhgdDVl) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Ramona](https://open.spotify.com/artist/4AlZlo4zQrs1xVL37oZsIl), [Blazee](https://open.spotify.com/artist/0DfkTmaYSHh3urEl71R9A0), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [The Return Of Daddy Mix](https://open.spotify.com/album/3XureElTa0Ra4VRxbn72oa) | 4:56 |

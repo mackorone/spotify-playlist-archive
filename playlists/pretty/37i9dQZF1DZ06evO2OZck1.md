@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 
 > This is ATARASHII GAKKO!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,609 likes - 48 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,613 likes - 48 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 19 | [NAINAINAI](https://open.spotify.com/track/4tkhZR7YJfvpvD5D8o2MUY) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [NAINAINAI](https://open.spotify.com/album/2oPLzwhrlQP7twoamxxlhN) | 3:13 |
 | 20 | [koinosyadanki feat H ZETTRIO](https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:15 |
 | 21 | [Quesera sera](https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Quesera sera](https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd) | 3:33 |
-| 22 | [JANAINDAYO](https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 2:59 |
-| 23 | [CANDY](https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:45 |
-| 24 | [Pineapple Kryptonite](https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Pineapple Kryptonite](https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF) | 3:15 |
-| 25 | [Maji Yoroshiku](https://open.spotify.com/track/6Wymz2GOKcsAkLF9eBC6lE) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:13 |
+| 22 | [CANDY](https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:45 |
+| 23 | [JANAINDAYO](https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 2:59 |
+| 24 | [Maji Yoroshiku](https://open.spotify.com/track/6Wymz2GOKcsAkLF9eBC6lE) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:13 |
+| 25 | [Pineapple Kryptonite](https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Pineapple Kryptonite](https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF) | 3:15 |
 | 26 | [amayo no seppun](https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [wakage ga itaru](https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi) | 4:11 |
-| 27 | [Free Yourself feat\. ATARASHII GAKKO!](https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Yourself feat\. ATARASHII GAKKO!](https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr) | 3:33 |
-| 28 | [OTOME NO BIGAKU](https://open.spotify.com/track/2EFaT09Ufx9xOKxt6nc5Q8) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 4:16 |
-| 29 | [Drama \(feat\. MILLI\)](https://open.spotify.com/track/0sh3PY1clLciTdqxe5ZZge) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:39 |
+| 27 | [OTOME NO BIGAKU](https://open.spotify.com/track/2EFaT09Ufx9xOKxt6nc5Q8) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 4:16 |
+| 28 | [Drama \(feat\. MILLI\)](https://open.spotify.com/track/0sh3PY1clLciTdqxe5ZZge) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:39 |
+| 29 | [Free Yourself feat\. ATARASHII GAKKO!](https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Yourself feat\. ATARASHII GAKKO!](https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr) | 3:33 |
 | 30 | [HANAKO](https://open.spotify.com/track/6Eu4wGgfcXwiVxu6FSmJ2K) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HANAKO](https://open.spotify.com/album/2MXf1qZI37A3nfCt9VFyhV) | 3:41 |
 | 31 | [Fantastico](https://open.spotify.com/track/2yjVMbXE0IICkdxSeBXvfR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:53 |
 | 32 | [東京タワー \(feat\. 新しい学校のリーダーズ\)](https://open.spotify.com/track/7xonsALuZYHHgBwMAq0XM7) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [東京SNG](https://open.spotify.com/album/4ycnJWLJHmGBnMo1HDEq9g) | 3:19 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 43 | [saisyu jinrui](https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:19 |
 | 44 | [Neraiuchi \- 50th anniversary special cover](https://open.spotify.com/track/2747l2vCNws9AxvFQzOBrh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [MANINGEN](https://open.spotify.com/album/36HmV8Uc2UVPTSlJ88uVpN) | 2:17 |
 | 45 | [rakuen nite watashi jigoku](https://open.spotify.com/track/25NLUXr2EgWnyWckSfMUzG) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [wakage ga itaru](https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi) | 4:38 |
-| 46 | [zzz](https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:13 |
-| 47 | [toumeigirl\(H ZETT M edit ver.\)](https://open.spotify.com/track/3sDxPtEjs8pIuAecinyCjN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:19 |
+| 46 | [toumeigirl\(H ZETT M edit ver.\)](https://open.spotify.com/track/3sDxPtEjs8pIuAecinyCjN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:19 |
+| 47 | [zzz](https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:13 |
 | 48 | [wakaranai](https://open.spotify.com/track/3eusuilhnPfka2GnCPI1w1) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 3:57 |
 
-Snapshot ID: `aHwxgAAAAADZJFiuU8O3dAW3Gj8DgwJZ`
+Snapshot ID: `aH2DAAAAAABSUFxa1yuthoq1Kf5V+I7L`

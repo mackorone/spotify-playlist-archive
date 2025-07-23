@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 462411,
+  "num_followers": 462516,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAABmqSS1cz/vhPOS0tQh38Qn",
+  "snapshot_id": "aH2DAAAAAADN8SRL4zXOpMXgCyho0n1Z",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus He Knows Me",
-        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "Jesus He Knows Me",
-      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Future Is A Foreign Land",
         "url": "https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 225224,
       "name": "The Future Is A Foreign Land",
       "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus He Knows Me",
+        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "Jesus He Knows Me",
+      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
     },
     {
       "added_at": null,
@@ -396,7 +396,7 @@
       "added_at": null,
       "album": {
         "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
       },
       "artists": [
         {
@@ -406,7 +406,7 @@
       ],
       "duration_ms": 210320,
       "name": "Witch Image",
-      "url": "https://open.spotify.com/track/0bog7rv4F6iffTSWcYQHeq"
+      "url": "https://open.spotify.com/track/6UzcqQTZ1JhVkn8bPNmxr1"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phantomime",
-        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 250440,
-      "name": "We Don\u2019t Need Another Hero",
-      "url": "https://open.spotify.com/track/14nGuPAynE1VnHC1mBf1R6"
+      "duration_ms": 241106,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/2zQyXaCpKG0yanNaCkjxNt"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Phantomime",
+        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "We Don\u2019t Need Another Hero",
+      "url": "https://open.spotify.com/track/14nGuPAynE1VnHC1mBf1R6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Opus Eponymous",
         "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
@@ -632,25 +648,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 241106,
-      "name": "Elizabeth",
-      "url": "https://open.spotify.com/track/2zQyXaCpKG0yanNaCkjxNt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Phantom Of The Opera",
-        "url": "https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 443386,
-      "name": "Phantom Of The Opera",
-      "url": "https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ"
+      "duration_ms": 213573,
+      "name": "Con Clavi Con Dio",
+      "url": "https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Phantom Of The Opera",
+        "url": "https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 443386,
+      "name": "Phantom Of The Opera",
+      "url": "https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Opus Eponymous",
         "url": "https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J"
       },
@@ -696,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Con Clavi Con Dio",
-      "url": "https://open.spotify.com/track/5XdFVvTBhr1JvtZfazo3fE"
+      "duration_ms": 236040,
+      "name": "Stand By Him",
+      "url": "https://open.spotify.com/track/39SF8NMJWj4CSt6QK7FN3b"
     },
     {
       "added_at": null,
@@ -752,7 +768,7 @@
       "added_at": null,
       "album": {
         "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J"
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
       "artists": [
         {
@@ -760,9 +776,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 236040,
-      "name": "Stand By Him",
-      "url": "https://open.spotify.com/track/39SF8NMJWj4CSt6QK7FN3b"
+      "duration_ms": 278106,
+      "name": "Satan Prayer",
+      "url": "https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 222840,
       "name": "Missionary Man",
       "url": "https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 278106,
-      "name": "Satan Prayer",
-      "url": "https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY"
     }
   ],
   "unique_name": "This Is Ghost",

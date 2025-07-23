@@ -499,6 +499,32 @@
     },
     {
       "album": {
+        "name": "Jazz Lounge : pour travailler \u00e0 la maison",
+        "url": "https://open.spotify.com/album/1Oq6ubogSpuGQh0u4zc2uC"
+      },
+      "artists": [
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        },
+        {
+          "name": "Thomas de Pourquery",
+          "url": "https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe"
+        },
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212680,
+      "name": "Sugar Man",
+      "url": "https://open.spotify.com/track/6UBajaTgPGAL0by8OExExG"
+    },
+    {
+      "album": {
         "name": "Cold Fact",
         "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
       },

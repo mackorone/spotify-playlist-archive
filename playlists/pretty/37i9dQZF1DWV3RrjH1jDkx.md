@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Marstein!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,913 likes - 106 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,926 likes - 106 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 14 | [Pum Pum](https://open.spotify.com/track/0l8c2GCnuNc0mDWYd8J2aX) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Pum Pum](https://open.spotify.com/album/46Br00VcUWM7IRuxE3UjcB) | 2:12 |
 | 15 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 |
 | 16 | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ) | 2:25 |
-| 17 | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
+| 17 | [You Can’t Run From Yourself \- From "Kaiju No\. 8"](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
 | 18 | [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 |
 | 19 | [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 |
 | 20 | [Hi, Everyone Leave Please](https://open.spotify.com/track/0Ck0qxEp2sPUSPBlHBXW5L) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Hi, Everyone Leave Please](https://open.spotify.com/album/3FfMPxFVDUfAbKE7UFwhte) | 2:55 |

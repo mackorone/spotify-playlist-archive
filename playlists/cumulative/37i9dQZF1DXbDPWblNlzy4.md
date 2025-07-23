@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Goyo & Greeicy
 
-467 songs - 1 day 0 hr 31 min
+468 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 | 2023-04-14 | 2023-05-20 |
 | [Odio Odiarme](https://open.spotify.com/track/3KACg25zaLJqra1gvIRLwX) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Odio Odiarme](https://open.spotify.com/album/7aTXNvIk94LtvPOVJq0Fbq) | 2:06 | 2025-04-11 | 2025-05-24 |
 | [OHH BABY](https://open.spotify.com/track/4yaaJjSiZKDby86zsbFAd4) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [OHH BABY](https://open.spotify.com/album/5nzTg7XAPNrQlj9EQyBVgX) | 2:30 | 2023-09-29 | 2023-10-18 |
+| [Ojalá](https://open.spotify.com/track/5YK02pYcZTr5NdarXoVYUA) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Ojalá](https://open.spotify.com/album/1OFRa5PHI2xN7Sx7a6Jvvy) | 3:22 | 2025-07-22 |  |
 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2023-03-17 | 2023-09-02 |
 | [Ojalá Te Vaya Mal](https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Ojalá Te Vaya Mal](https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98) | 3:00 | 2024-07-19 | 2024-08-31 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2023-03-17 | 2023-11-11 |
@@ -450,7 +451,7 @@
 | [UWAIE](https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [UWAIE](https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN) | 2:52 | 2024-08-16 |  |
 | [Vacaciones](https://open.spotify.com/track/47eaS9ydA3Wt9gTMYuZCSt) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Vacaciones](https://open.spotify.com/album/5R9qh99MpoXhpUu6Ozk03n) | 3:06 | 2025-06-06 |  |
 | [Vacío](https://open.spotify.com/track/60mUFN9EkDRL3YGOnKcbQ7) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:08 | 2023-03-17 | 2023-11-11 |
-| [Vagabundo](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Vagabundo](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-05-12 |  |
+| [Vagabundo](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Vagabundo](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-05-12 | 2025-07-23 |
 | [Vargas](https://open.spotify.com/track/12UopKNxZcsMedcVBehwHp) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Vargas](https://open.spotify.com/album/5lWCGxsJ2q6H93HAeA1EqE) | 2:25 | 2024-08-30 | 2024-10-12 |
 | [Vas a Destrozarme](https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Vas a Destrozarme](https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E) | 2:54 | 2023-10-06 | 2024-06-01 |
 | [Ve y Diles V2 \- Remix](https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ve y Diles V2 \(Remix\)](https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV) | 2:56 | 2024-06-28 |  |

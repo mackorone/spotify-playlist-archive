@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4045702,
+  "num_followers": 4045912,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAABKL9LfW1/jOg7R7O1V2dCJ",
+  "snapshot_id": "aH2DAAAAAAAEQhelPN1WBwaik0upQiwH",
   "tracks": [
     {
       "added_at": null,
@@ -530,11 +530,15 @@
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
         }
       ],
-      "duration_ms": 269554,
-      "name": "Venom - Music From The Motion Picture",
-      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"
+      "duration_ms": 244679,
+      "name": "Lucky You (feat. Joyner Lucas)",
+      "url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"
     },
     {
       "added_at": null,
@@ -606,15 +610,11 @@
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
         }
       ],
-      "duration_ms": 244679,
-      "name": "Lucky You (feat. Joyner Lucas)",
-      "url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"
+      "duration_ms": 269554,
+      "name": "Venom - Music From The Motion Picture",
+      "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/07d5gKKyeWA07kZ3b91UBa"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 281320,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/4CDIEKHMb2MBgvgHBkhiJD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GDLU (Preluxe)",
         "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 348144,
       "name": "Animals (Pt. I) [with Eminem]",
       "url": "https://open.spotify.com/track/3QKXo5IoMxnVwNm2bMRiVc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/07d5gKKyeWA07kZ3b91UBa"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 281320,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/4CDIEKHMb2MBgvgHBkhiJD"
     },
     {
       "added_at": null,

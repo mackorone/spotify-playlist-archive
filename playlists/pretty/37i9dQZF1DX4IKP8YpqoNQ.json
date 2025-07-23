@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 31435,
+  "num_followers": 31445,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Betty Wright Live",
+        "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
+      },
+      "artists": [
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+        }
+      ],
+      "duration_ms": 348733,
+      "name": "You Can't See for Lookin' - Live",
+      "url": "https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "One Nite Alone... The Aftershow: It Ain't Over! (Up Late with Prince & The NPG) [Live]",
         "url": "https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 376973,
       "name": "Dorothy Parker - Live from One Nite Alone Tour...The Aftershow",
       "url": "https://open.spotify.com/track/2PSgQzbGHlv99xv3KGxD4X"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Betty Wright Live",
-        "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
-      },
-      "artists": [
-        {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
-        }
-      ],
-      "duration_ms": 348733,
-      "name": "You Can't See for Lookin' - Live",
-      "url": "https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 296809,
-      "name": "Nakamarra - Live from Spotify Sydney",
-      "url": "https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live At Montreux 2006 (Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006)",
         "url": "https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 135253,
       "name": "(Sitting On) The Dock Of The Bay - Live",
       "url": "https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 296809,
+      "name": "Nakamarra - Live from Spotify Sydney",
+      "url": "https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live In Stockholm",
-        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 484858,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/74EBtxAMvsJVTzh3pPXZwr"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 158266,
       "name": "Nobody Knows You When You're Down And Out - Live In New York",
       "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 484858,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/74EBtxAMvsJVTzh3pPXZwr"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live at Metropolis Studios",
-        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Family - Live at Metropolis Studios",
-      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 220546,
       "name": "Add To Me - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live at Metropolis Studios",
+        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Family - Live at Metropolis Studios",
+      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
     },
     {
       "added_at": "2024-10-25 07:48:43",

@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 392843,
+  "num_followers": 392867,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,18 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "GBAD (Number_i Remix)",
-        "url": "https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak"
+        "name": "Feelin\u2019 Go(o)d",
+        "url": "https://open.spotify.com/album/72gjpz7C6dBlOULoVjzGzR"
       },
       "artists": [
         {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        },
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 187398,
-      "name": "GBAD (Number_i Remix)",
-      "url": "https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN"
+      "duration_ms": 259471,
+      "name": "Feelin\u2019 Go(o)d",
+      "url": "https://open.spotify.com/track/1C22EnQawXuIsqgnnWcrMR"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -495,18 +487,26 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "Feelin\u2019 Go(o)d",
-        "url": "https://open.spotify.com/album/72gjpz7C6dBlOULoVjzGzR"
+        "name": "GBAD (Number_i Remix)",
+        "url": "https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
         }
       ],
-      "duration_ms": 259471,
-      "name": "Feelin\u2019 Go(o)d",
-      "url": "https://open.spotify.com/track/1C22EnQawXuIsqgnnWcrMR"
+      "duration_ms": 187398,
+      "name": "GBAD (Number_i Remix)",
+      "url": "https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "\u7768\u3081\u3063\u5a18",
-        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
-      },
-      "artists": [
-        {
-          "name": "TOMONARI SORA\t",
-          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u7768\u3081\u3063\u5a18",
-      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
         "name": "Ghost Avenue",
         "url": "https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 173606,
       "name": "Ghost Avenue",
       "url": "https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
+        "name": "\u7768\u3081\u3063\u5a18",
+        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
+      },
+      "artists": [
+        {
+          "name": "TOMONARI SORA\t",
+          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u7768\u3081\u3063\u5a18",
+      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "WORK HARD",
-        "url": "https://open.spotify.com/album/43clBBXDe88QjtRJDU6TUQ"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 173604,
-      "name": "WORK HARD",
-      "url": "https://open.spotify.com/track/69CGuHsxhCpR0bSezjYBwV"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
         "name": "\u5730\u7403\u5100 - Spinning Globe",
         "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
       },
@@ -759,50 +743,18 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+        "name": "WORK HARD",
+        "url": "https://open.spotify.com/album/43clBBXDe88QjtRJDU6TUQ"
       },
       "artists": [
         {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 196500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
-        "name": "Workin' Hard",
-        "url": "https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 239070,
-      "name": "Workin' Hard",
-      "url": "https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
-        "name": "Whole of Flower",
-        "url": "https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS"
-      },
-      "artists": [
-        {
-          "name": "Suchmos",
-          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "Whole of Flower",
-      "url": "https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV"
+      "duration_ms": 173604,
+      "name": "WORK HARD",
+      "url": "https://open.spotify.com/track/69CGuHsxhCpR0bSezjYBwV"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -839,6 +791,38 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
+        "name": "Workin' Hard",
+        "url": "https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 239070,
+      "name": "Workin' Hard",
+      "url": "https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 231250,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
+        "name": "Whole of Flower",
+        "url": "https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS"
+      },
+      "artists": [
+        {
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Whole of Flower",
+      "url": "https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "After Rain",
-        "url": "https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e"
-      },
-      "artists": [
-        {
-          "name": "3House",
-          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
-        }
-      ],
-      "duration_ms": 174095,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 200268,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
+        "name": "After Rain",
+        "url": "https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e"
+      },
+      "artists": [
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        }
+      ],
+      "duration_ms": 174095,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "\u672a\u6765\u5730\u56f32025",
-        "url": "https://open.spotify.com/album/1kb9dvEh3vhgIrx42sRrGQ"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 360247,
-      "name": "\u672a\u6765\u5730\u56f32025",
-      "url": "https://open.spotify.com/track/3b4t0gSknI05MnoGeQHzU8"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
         "name": "A24",
         "url": "https://open.spotify.com/album/2syB6hxQPvHrkILVlCffzJ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 180461,
       "name": "A24",
       "url": "https://open.spotify.com/track/291KmmFPIHGNZvekhqRTMC"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
+        "name": "\u672a\u6765\u5730\u56f32025",
+        "url": "https://open.spotify.com/album/1kb9dvEh3vhgIrx42sRrGQ"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 360247,
+      "name": "\u672a\u6765\u5730\u56f32025",
+      "url": "https://open.spotify.com/track/3b4t0gSknI05MnoGeQHzU8"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
-        "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
-        "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 235914,
-      "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
-      "url": "https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
         "name": "Osanpo (feat. \u822c\u82e5 & R-\u6307\u5b9a) [Remix]",
         "url": "https://open.spotify.com/album/25nRq5WP5RSRhGWs3LGaMC"
       },
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
+        "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+        "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 235914,
+      "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+      "url": "https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
         "name": "Don't go (feat. ASH ISLAND)",
         "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
       },
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
+        "name": "Nerd",
+        "url": "https://open.spotify.com/album/3tv0cOXvWrXyDoVRwFHHP9"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "duration_ms": 209749,
+      "name": "Nerd",
+      "url": "https://open.spotify.com/track/58enSgNcXIbpVlMZvgojOw"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
         "name": "JOOOOKE",
         "url": "https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 183966,
       "name": "JOOOOKE",
       "url": "https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
-        "name": "0.0000%",
-        "url": "https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 155740,
-      "name": "0.0000%",
-      "url": "https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy"
     },
     {
       "added_at": "2025-07-16 00:44:47",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2025-07-16 00:44:47",
       "album": {
+        "name": "0.0000%",
+        "url": "https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 155740,
+      "name": "0.0000%",
+      "url": "https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy"
+    },
+    {
+      "added_at": "2025-07-16 00:44:47",
+      "album": {
         "name": "Kids Return",
         "url": "https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 193279,
       "name": "Kids Return",
       "url": "https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI"
-    },
-    {
-      "added_at": "2025-07-16 00:44:47",
-      "album": {
-        "name": "Nerd",
-        "url": "https://open.spotify.com/album/3tv0cOXvWrXyDoVRwFHHP9"
-      },
-      "artists": [
-        {
-          "name": "Rol3ert",
-          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
-        }
-      ],
-      "duration_ms": 209749,
-      "name": "Nerd",
-      "url": "https://open.spotify.com/track/58enSgNcXIbpVlMZvgojOw"
     },
     {
       "added_at": "2025-07-16 00:44:47",

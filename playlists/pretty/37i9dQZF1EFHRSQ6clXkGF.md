@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,266 likes - 270 songs - 17 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,267 likes - 270 songs - 17 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 79 | [Passion Play \(When All The Slaves Are Free\)](https://open.spotify.com/track/5VOCRQbtyjyFRPpwLE01zz) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 5:25 |
 | 80 | [The Boho Dance](https://open.spotify.com/track/7HRmnRfpghEaPsHHqvHhmv) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 3:50 |
 | 81 | [Cold Blue Steel and Sweet Fire](https://open.spotify.com/track/45XSmn7yPZMTIgo9kdErh9) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 4:17 |
-| 82 | [Talk to Me](https://open.spotify.com/track/3mGSbvZPJjcKNuhsLeTWgJ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 3:45 |
-| 83 | [Woman of Heart and Mind](https://open.spotify.com/track/1kXJRTFqY1Iy5yzGS7JdhL) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 2:38 |
+| 82 | [Woman of Heart and Mind](https://open.spotify.com/track/1kXJRTFqY1Iy5yzGS7JdhL) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 2:38 |
+| 83 | [Talk to Me](https://open.spotify.com/track/3mGSbvZPJjcKNuhsLeTWgJ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 3:45 |
 | 84 | [Roses Blue](https://open.spotify.com/track/7H1uBM6kVAo63qGIzN1cbS) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 3:52 |
 | 85 | [I Think I Understand](https://open.spotify.com/track/4e06l92kS9psWutgLTLhob) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 4:27 |
 | 86 | [Marcie](https://open.spotify.com/track/7Jh31JRtXzVP6CZz775n0y) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Song to a Seagull](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) | 4:35 |
@@ -171,8 +171,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 161 | [The Silky Veils of Ardor](https://open.spotify.com/track/3UEKICgKuBB9U9nEg5PMap) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 4:01 |
 | 162 | [The Three Great Stimulants](https://open.spotify.com/track/4qu8tJxJhTVmxyRzsfHaUl) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 6:13 |
 | 163 | [Dog Eat Dog](https://open.spotify.com/track/4L4upbUY4UgmWH7fGlfi2F) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 4:41 |
-| 164 | [Impossible Dreamer](https://open.spotify.com/track/3LL2xAv4APQfVn3v731x7L) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 4:31 |
-| 165 | [Alchemy](https://open.spotify.com/track/6ISD5HRFGMfdpwtYfv9Wbe) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/4Sj8iHrpEA4axsC3vSld9M) | 2:40 |
+| 164 | [Alchemy](https://open.spotify.com/track/6ISD5HRFGMfdpwtYfv9Wbe) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/4Sj8iHrpEA4axsC3vSld9M) | 2:40 |
+| 165 | [Impossible Dreamer](https://open.spotify.com/track/3LL2xAv4APQfVn3v731x7L) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 4:31 |
 | 166 | [Introduction \- Live](https://open.spotify.com/track/7bKgkxu1H5vCsvrHhKnSJR) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shadows and Light](https://open.spotify.com/album/0sk9dYm1TZbsxJ5hIEBuby) | 1:54 |
 | 167 | [Solid Love](https://open.spotify.com/track/0x5oQIxpWcBFVTcWL4Ulxk) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 3:05 |
 | 168 | [No Apologies](https://open.spotify.com/track/2ixpbZPtBXjObzNdwoxDRr) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 4:17 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 269 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 270 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `Ab3ZsgAAAACfTCaP21MdcAJ5uvb1gdV3`
+Snapshot ID: `Ab3fSAAAAAAfDqMJVGzKTv+L66K4NDD6`

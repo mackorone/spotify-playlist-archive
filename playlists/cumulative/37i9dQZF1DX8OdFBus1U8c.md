@@ -2,9 +2,9 @@
 
 ### [RAP 91 Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 
-> Best of Malayalam Hip\-Hop! <br/>Cover :  Thirumali
+> Best of Malayalam Hip\-Hop! <br/>Cover :  Lil Payyan
 
-374 songs - 19 hr 9 min
+375 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Ente Kaalam](https://open.spotify.com/track/1XpVCD9Pk2ODY5F4mYyQqY) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Ente Kaalam](https://open.spotify.com/album/2j6KT1OUYbkQQDPSKRupDq) | 3:02 | 2022-06-23 | 2023-07-24 |
 | [Enthannuvecha Aykko](https://open.spotify.com/track/3ZoVs4zumz4WcLbCtr7TPs) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Enthannuvecha Aykko](https://open.spotify.com/album/095KgHug3ANYEGex1MJw5V) | 2:23 | 2024-01-15 | 2024-02-13 |
 | [Evide Maranam](https://open.spotify.com/track/0eVNMJId5QJJ1DGejNORq6) | [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [CJ J](https://open.spotify.com/artist/6bVL3yWdI21Kj0nRYJXuNB), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [Evide Maranam](https://open.spotify.com/album/1E6vVJHjZNzz7BR2KUJt2l) | 5:55 | 2025-01-09 | 2025-03-29 |
-| [EXPEN$VE](https://open.spotify.com/track/4fCg3xLGon9zfOHOzR27uM) | [Deon](https://open.spotify.com/artist/4w5cn6TMLnK4dCyfcp0lbO), [draeKo](https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq), [SULTHAN](https://open.spotify.com/artist/2igXuXwesIHwPoEn8hWqkl), [Bando B](https://open.spotify.com/artist/4i5TbrwjfzY1IclZa3Peae), [MSAI](https://open.spotify.com/artist/1aGzTpfUipTGG19Bi4ckIe) | [EXPEN$VE](https://open.spotify.com/album/5ZSeXjO5jn2QTMWRZ7sxju) | 4:07 | 2025-05-27 |  |
+| [EXPEN$VE](https://open.spotify.com/track/4fCg3xLGon9zfOHOzR27uM) | [Deon](https://open.spotify.com/artist/4w5cn6TMLnK4dCyfcp0lbO), [draeKo](https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq), [SULTHAN](https://open.spotify.com/artist/2igXuXwesIHwPoEn8hWqkl), [Bando B](https://open.spotify.com/artist/4i5TbrwjfzY1IclZa3Peae), [MSAI](https://open.spotify.com/artist/1aGzTpfUipTGG19Bi4ckIe) | [EXPEN$VE](https://open.spotify.com/album/5ZSeXjO5jn2QTMWRZ7sxju) | 4:07 | 2025-05-27 | 2025-07-23 |
 | [Eyy Banane](https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Vaazha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx) | 4:30 | 2024-09-09 | 2024-11-13 |
 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 | 2022-07-13 | 2023-07-24 |
 | [Fly](https://open.spotify.com/track/0iSVHgbveiiQ3KWD2JGsRB) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/4BjQpEh6WzIWptPhgxKkEL) | 4:06 | 2024-02-13 | 2024-04-23 |
@@ -119,6 +119,7 @@
 | [I'm a Mallu](https://open.spotify.com/track/3UlcuRM1VI5YdKhV8xzRX6) | [Rinosh George](https://open.spotify.com/artist/3sMWWB27n75DQtRwIAo0Ru) | [I'm a Mallu](https://open.spotify.com/album/5ZGvMnAnwl9hxIIZ0mRwne) | 2:40 | 2022-04-18 | 2025-02-25 |
 | [IMMAL](https://open.spotify.com/track/7JnlZiIEBI1GfgD5EvHJlt) | [Abu X\-wrong](https://open.spotify.com/artist/5pzpptEtegqrjysHniMto5), [Fazil AS](https://open.spotify.com/artist/6CwkEW6hoZyH96fUkUg6I6) | [IMMAL](https://open.spotify.com/album/5VaaHvdqOSs47VngX1GnEQ) | 2:00 | 2025-07-04 |  |
 | [Jaada \- From "Aavesham"](https://open.spotify.com/track/3b38fvc4ky0er6WEBruHMf) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Jaada \(From "Aavesham"\)](https://open.spotify.com/album/2i0rwB9IgecxcaRYeeGAas) | 2:42 | 2024-02-29 | 2024-05-22 |
+| [Jawab](https://open.spotify.com/track/3KvrdqvXbJIfqqabkdlsxQ) | [EYASHHH](https://open.spotify.com/artist/2M3S97sZm1P7kWkts8lsGz), [FAZ](https://open.spotify.com/artist/15U1M71LgqfzSZJOV7DDz9), [MALLU HYPEBEAST](https://open.spotify.com/artist/2Fh13A4tqlXX5QVeNFmshW) | [Jawab](https://open.spotify.com/album/0yFB49YPziUBjg1Wip7HVC) | 2:20 | 2025-07-22 |  |
 | [Jayiche Theeru](https://open.spotify.com/track/58SrpU1MqNPdkersJ49mVu) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Adarsh ADJ](https://open.spotify.com/artist/0xf0k3W5rtq5aBS7FCzWWZ) | [Jayiche Theeru](https://open.spotify.com/album/4CWnzqTetUOsJlzZbJHyQU) | 3:58 | 2023-06-16 | 2024-09-10 |
 | [Jeevitham](https://open.spotify.com/track/7MWnFDh0ILN4kLPIIzJpyB) | [Vishnu Bain](https://open.spotify.com/artist/18Ou288FklrqqGeLyiXb17) | [Jeevitham](https://open.spotify.com/album/5T796IG6C8hMVKvI6nJ5Sh) | 2:24 | 2025-02-28 | 2025-04-17 |
 | [JIHAD](https://open.spotify.com/track/0pk0XBUNpLAdFP3EVnoOfU) | [Abu X\-wrong](https://open.spotify.com/artist/5pzpptEtegqrjysHniMto5), [KAVO](https://open.spotify.com/artist/3L1XNhFQg1AoukeJy6uKIW), [Fazil AS](https://open.spotify.com/artist/6CwkEW6hoZyH96fUkUg6I6) | [JIHAD](https://open.spotify.com/album/6VT4cGpqSzrbawBsyk9fmP) | 2:57 | 2025-01-09 | 2025-02-25 |

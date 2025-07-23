@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Jim Legxacy
 
-3,087 songs - 7 day 4 hr 47 min
+3,088 songs - 7 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1368,7 +1368,7 @@
 | [I! Gits! Weary!](https://open.spotify.com/track/7cVgrUpBM6dCunfSCvIjPn) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [Forever, Ya Girl](https://open.spotify.com/album/6bMdCDoTp3dLXiG1oXRGYV) | 2:05 | 2020-05-15 | 2020-07-18 |
 | [I'D RATHER DIE THAN BE DEPORTED](https://open.spotify.com/track/7yiwbggcx0p8CUD94j8vVE) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [I'D RATHER DIE THAN BE DEPORTED](https://open.spotify.com/album/3OoGhVl48I2kN9Bbu4Qlgq) | 2:38 | 2021-04-30 | 2021-06-12 |
 | [I'll Be Right There](https://open.spotify.com/track/5Z6hdVHH39nARjTBfMUVl6) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:48 | 2024-08-02 | 2024-10-19 |
-| [I'll Take Care of You](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:20 | 2025-07-21 |  |
+| [I'll Take Care of You \(feat\. Yebba\)](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:20 | 2025-07-21 |  |
 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2020-05-07 | 2020-09-18 |
 | [I'm in Luv](https://open.spotify.com/track/4zWhqchiX7mc9qt0Tj933e) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Iceland](https://open.spotify.com/album/6n9SqKcGCx1RWJ7m1v8of8) | 3:21 | 2022-11-04 | 2023-02-25 |
 | [I'm On](https://open.spotify.com/track/0Jvo56KxP4t9dCxCpa9qRj) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I'm On](https://open.spotify.com/album/3kptKZRdNf94sV6gFveVYc) | 4:10 | 2021-06-16 | 2021-10-07 |
@@ -2500,6 +2500,7 @@
 | [Something Ether](https://open.spotify.com/track/6t5LP8XVNaAXjVJIBxHpZz) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Something Ether](https://open.spotify.com/album/47SrODHFtmaQitdsmonVie) | 2:11 | 2024-02-26 | 2024-03-02 |
 | [Something to Rap About \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/5OkYfk72CNL8XLqa3gp9q7) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Alfredo](https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N) | 4:42 | 2020-05-29 | 2020-10-22 |
 | [Somewhere](https://open.spotify.com/track/0HhleUCwCfFYS413WmpMxJ) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos), [Octavian](https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ) | [Somewhere](https://open.spotify.com/album/7wVBrqrsaPH53FS3DTcl9i) | 3:35 | 2020-01-10 | 2020-05-07 |
+| [Somewhere in Between](https://open.spotify.com/track/2eZqr5eoqJjV3RtQhzMEmz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Somewhere in Between](https://open.spotify.com/album/40qgvmv0umdBKkDBMdhlb2) | 3:23 | 2025-07-22 |  |
 | [Song 32](https://open.spotify.com/track/0EgmhYPgButfoBvtnidyR0) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/3WyY9vsAcsEngOhfOl3aby) | 2:42 | 2019-07-30\* | 2019-09-05 |
 | [Song 33](https://open.spotify.com/track/1LvDHPfTpEMjgox22jxqSW) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 33](https://open.spotify.com/album/4fnskLfn51HHG1QDMOqmfy) | 1:09 | 2020-06-19 | 2020-09-15 |
 | [Song of hope](https://open.spotify.com/track/7iXOrfBdLbdpbtmN1BMSAf) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Piedras 1](https://open.spotify.com/album/57qOz97NbtxqcIPD9yL3Br) | 4:29 | 2024-10-25 | 2025-03-15 |

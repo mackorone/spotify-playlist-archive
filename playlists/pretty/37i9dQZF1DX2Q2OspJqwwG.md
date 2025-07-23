@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,463 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,482 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 34 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 |
 | 35 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
 | 36 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
-| 37 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
-| 38 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
+| 37 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
+| 38 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
 | 39 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 |
 | 40 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
 | 41 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 94 | [Nebunia lui Babasha](https://open.spotify.com/track/4lq4TC1NoJJOOQlNis8YYN) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Nebunia lui Babasha](https://open.spotify.com/album/2dsOrPXut5OgnIqeymk1Or) | 2:25 |
 | 95 | [Spania](https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Spania](https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc) | 2:39 |
 | 96 | [MAKE IT HOT](https://open.spotify.com/track/2c8UZZFAinUGLdvAAr8VHh) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PLAYBOY CITY](https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi) | 2:22 |
-| 97 | [Macarena](https://open.spotify.com/track/3U7EsmefcBOb33o1pWVuOT) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq), [Cristina Pucean](https://open.spotify.com/artist/2KqNGJVeLw5RqpyHEw7lGZ) | [Macarena](https://open.spotify.com/album/1uKLZaJkX4E5G757MNRyKN) | 2:41 |
+| 97 | [RACHETA](https://open.spotify.com/track/7ErF2tYFVi8lK9BZih9ghx) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq), [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Costel Biju](https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY) | [RACHETA](https://open.spotify.com/album/7tUJjS8TC01UNE3dvvJtHR) | 2:31 |
 | 98 | [De la cer la pământ](https://open.spotify.com/track/3H6Tg6xtH17pra1yLKTTAz) | [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2), [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm) | [De la cer la pământ](https://open.spotify.com/album/6lwycmufhXCRznVmYSyTsK) | 2:59 |
 | 99 | [KAD!LAC](https://open.spotify.com/track/7kgl0bzkbUW5hFWtDyx5PZ) | [CERCEL](https://open.spotify.com/artist/5VH2lbLnYKXXHSJcbemxwR), [lucawts](https://open.spotify.com/artist/6JPKvFBScSGXNr7D3B6fou), [andrei](https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2) | [CONSTANTA](https://open.spotify.com/album/0chCHdQrwrfSBeSPlvGomx) | 2:29 |
-| 100 | [How You Samba](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ) | 2:31 |
+| 100 | [Așa Ceva](https://open.spotify.com/track/1Wk5ilzwTDcEG1lM2WmGl4) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Așa Ceva](https://open.spotify.com/album/1gVqVksFrxJe1wr8lnEMO7) | 3:24 |
 
 Snapshot ID: `aH5ODgAAAACF5a5nER8zx8JcO0P7oVNi`

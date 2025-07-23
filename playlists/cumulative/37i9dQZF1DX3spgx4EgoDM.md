@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-338 songs - 20 hr 57 min
+339 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Amores como el nuestro](https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Corazón de Papel](https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq) | 3:18 | 2022-07-05 | 2024-04-19 |
 | [Ayer te vi con el](https://open.spotify.com/track/6fsjUt0zs7FtLDvLzLqwQM) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/1xJWcP3LsQkDu0lh5jjhAM) | 3:34 | 2022-07-05 | 2022-07-21 |
 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 | 2022-07-05 |  |
+| [Boleto al Amor](https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Boleto al Amor](https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX) | 3:25 | 2025-07-14 |  |
 | [Boquita De Caramelo](https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ) | [Los Vikings 5](https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7) | [Iconos Kitsch](https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME) | 3:29 | 2022-07-05 |  |
 | [Báilalo](https://open.spotify.com/track/2kXjQNAuP4dBb8gb1xO39E) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Garras De Amor](https://open.spotify.com/album/4qB23xglnEYsCn5FAKFShx) | 3:49 | 2022-07-05 | 2022-07-21 |
 | [Bésame](https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Bésame](https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6) | 2:22 | 2022-07-05 |  |
@@ -288,7 +289,7 @@
 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 | 2022-07-05 |  |
 | [Suavemente Amor](https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:54 | 2022-07-05 | 2024-04-19 |
 | [Sueño Su Boca](https://open.spotify.com/track/4cpdYUog51NExLAASvi4bd) | [La Rosa](https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i) | [20 Grandes Exitos](https://open.spotify.com/album/72UIlzI7krRjwl7x908aC2) | 3:34 | 2022-07-05 | 2022-07-28 |
-| [Sólo con un Beso](https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sólo con un Beso](https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ) | 2:35 | 2022-07-05 |  |
+| [Sólo con un Beso](https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sólo con un Beso](https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ) | 2:35 | 2022-07-05 | 2025-07-23 |
 | [Tal Vez](https://open.spotify.com/track/0FjwCoow8qR8XTavdBG48z) | [Grupo Europa](https://open.spotify.com/artist/1nmR8qemtRdHtpuN4IYIeO), [Flor Cazzuchelli](https://open.spotify.com/artist/18HC9uyCeQuC9ZJWXOxfGH) | [Tal Vez](https://open.spotify.com/album/2uZ1VaFkTWkDGh3QJRz3E8) | 3:42 | 2023-04-07 | 2023-05-06 |
 | [Tan Solo Amantes](https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Creciendo](https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v) | 3:55 | 2022-07-05 | 2022-07-29 |
 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 | 2022-07-05 | 2022-07-29 |

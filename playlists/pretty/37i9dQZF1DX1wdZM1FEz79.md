@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장범준\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,236 likes - 52 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,249 likes - 52 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 10 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 |
 | 11 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 |
 | 12 | [Love, Maybe \(Acoustic Ver.\)](https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Love, Maybe \(A Business Proposal OST Bonus Track\)](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) | 2:51 |
-| 13 | [Friday \(feat.Jang Yi\-jeong\)](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:37 |
-| 14 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
+| 13 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
+| 14 | [Friday \(feat.Jang Yi\-jeong\)](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:37 |
 | 15 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 |
 | 16 | [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 |
 | 17 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |

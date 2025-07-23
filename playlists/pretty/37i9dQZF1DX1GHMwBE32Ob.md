@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Zlatan
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,250 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,382 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 41 | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg) | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4) | 3:37 |
 | 42 | [Id.Me](https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Id.Me](https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt) | 2:49 |
 | 43 | [Metaverse](https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:59 |
-| 44 | [Most Wanted](https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Most Wanted](https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv) | 2:22 |
-| 45 | [For Where?](https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [For Where?](https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK) | 1:53 |
+| 44 | [For Where?](https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [For Where?](https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK) | 1:53 |
+| 45 | [Most Wanted](https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Most Wanted](https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv) | 2:22 |
 | 46 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |
 | 47 | [FIND MONEY \(feat\. Zerrydl\)](https://open.spotify.com/track/19FyHGQSvrg8H88eaKvUQI) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [FIND MONEY \(feat\. Zerrydl\)](https://open.spotify.com/album/0wAmdWotmWdjoU0NQ6F2RQ) | 2:29 |
 | 48 | [Popo](https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Danger Zee](https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k) | 2:33 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 57 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 |
 | 58 | [Cash](https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Wara Wara Szn](https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs) | 3:00 |
 | 59 | [JUNGLE](https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [JUNGLE](https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4) | 2:40 |
-| 60 | [Bon Appetit](https://open.spotify.com/track/7IhwOLpyScdU97N93CroR5) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [Bon Appetit](https://open.spotify.com/album/2L5HeE5Gy0YfxmeqQ0jCmM) | 2:32 |
+| 60 | [Giddem](https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Giddem](https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH) | 2:58 |
 
 Snapshot ID: `aHmOzAAAAABauNsiwdBUjnMIUcK5YI0D`

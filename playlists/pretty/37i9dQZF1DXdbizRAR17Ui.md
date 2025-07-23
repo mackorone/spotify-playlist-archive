@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,803 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,352 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 16 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
 | 17 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 18 | [The Kind of Love](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [The Kind of Love](https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ) | 3:07 |
-| 19 | [Hold You](https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Hold You](https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l) | 3:37 |
-| 20 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
+| 19 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
+| 20 | [Hold You](https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Hold You](https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l) | 3:37 |
 | 21 | [Unknowable](https://open.spotify.com/track/7qt7yOwx9c39I1Ti8iAgLa) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Unknowable](https://open.spotify.com/album/02KxfrGk4P5AesEeEDm343) | 3:03 |
 | 22 | [SOLD MY SOUL](https://open.spotify.com/track/2GxSge6HAH6nt64yT83zmA) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [SOLD MY SOUL](https://open.spotify.com/album/61bHizZ5lcUniZrI15U7WW) | 3:19 |
 | 23 | [Follow Me](https://open.spotify.com/track/2CjAV5o0xbp9APj9WQ2gJZ) | [WEI](https://open.spotify.com/artist/2jOSQFHIeUc2OcPx8tSaTw), [Cotton Duck](https://open.spotify.com/artist/4ZqPmeHmCFc9LDbOSdpzaM) | [Follow Me](https://open.spotify.com/album/0mgVhaztvwTi7amAD6wWWP) | 2:22 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 47 | [i think you can save me](https://open.spotify.com/track/1BUIzWWmPJSE75lrHbaGlP) | [Dimside](https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX) | [i think you can save me](https://open.spotify.com/album/1ulBFo81789hv5mwzhHI7j) | 2:05 |
 | 48 | [Alma](https://open.spotify.com/track/3GJ09kc47vspvwPJbktp7v) | [Departure](https://open.spotify.com/artist/1JJNkpO2gNMM8sTxw795bi) | [Alma](https://open.spotify.com/album/6BWCviT2Tm1jtQI1DZQkYL) | 3:20 |
 | 49 | [Shy](https://open.spotify.com/track/2ZMlMWibWHnxB4qf5zlt3L) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Might Delete Later](https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT) | [Shy](https://open.spotify.com/album/56lt0wA0GO8UguFRdXVBA4) | 3:25 |
-| 50 | [STOP \(what if you fly?\)](https://open.spotify.com/track/4SWxEClkfSvYJcaJmoJByj) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [STOP \(what if you fly?\)](https://open.spotify.com/album/4eMJ14ilC3DC0CjIJaJJFR) | 3:17 |
+| 50 | [All I Need](https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Things to Come](https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA) | 2:43 |
 
 Snapshot ID: `aHmAiwAAAAAmBEHWvHyfsFnnvMncg06Q`

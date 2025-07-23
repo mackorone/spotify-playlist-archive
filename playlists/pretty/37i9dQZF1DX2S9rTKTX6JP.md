@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: Sum 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,529 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,648 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 75 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |
 | 76 | [Alive](https://open.spotify.com/track/1ip7DKU9LjT6aR4FdvD3Mv) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Alive](https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL) | 4:22 |
 | 77 | [Billie Jean](https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb) | 4:41 |
-| 78 | [I Wanna Dance With Somebody \(Who Loves Me\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Spotify Singles](https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH) | 4:22 |
-| 79 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
+| 78 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
+| 79 | [I Wanna Dance With Somebody \(Who Loves Me\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Spotify Singles](https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH) | 4:22 |
 | 80 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
 | 81 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 82 | [Uninvited](https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Uninvited](https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8) | 4:19 |

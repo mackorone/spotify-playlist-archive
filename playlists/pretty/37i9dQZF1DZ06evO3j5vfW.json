@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72263,
+  "num_followers": 72273,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAD1Qx+PWFrM+gDVwDBN3pPT",
+  "snapshot_id": "aH2DAAAAAABJpVN8U2IaFLKvynR4HSI6",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rave Music",
-        "url": "https://open.spotify.com/album/6bK6HqxQH4MLBdBScC3YRl"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 180461,
-      "name": "Rave Music",
-      "url": "https://open.spotify.com/track/6WkwgLD8a7Dr8nnPRVe9BK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now I See You",
         "url": "https://open.spotify.com/album/1bO09VShyl7ZOeYZnHERXY"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 167336,
       "name": "Now I See You",
       "url": "https://open.spotify.com/track/01ipvqWQEz6Xr5LVQLCNmA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rave Music",
+        "url": "https://open.spotify.com/album/6bK6HqxQH4MLBdBScC3YRl"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 180461,
+      "name": "Rave Music",
+      "url": "https://open.spotify.com/track/6WkwgLD8a7Dr8nnPRVe9BK"
     },
     {
       "added_at": null,
@@ -703,30 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "millforlife",
-          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
-        },
-        {
-          "name": "Rory Hope",
-          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
-        }
-      ],
-      "duration_ms": 159090,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nights With You",
         "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 215336,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "millforlife",
+          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
+        },
+        {
+          "name": "Rory Hope",
+          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
+        }
+      ],
+      "duration_ms": 159090,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
     },
     {
       "added_at": null,
@@ -955,8 +955,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
       },
       "artists": [
         {
@@ -964,13 +964,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+      "duration_ms": 211406,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
     },
     {
       "added_at": null,
@@ -999,8 +1003,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay A Little Longer",
-        "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
       },
       "artists": [
         {
@@ -1008,37 +1012,13 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Philip Strand",
-          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
         }
       ],
-      "duration_ms": 211406,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
     },
     {
       "added_at": null,
@@ -1059,6 +1039,26 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
     },
     {
       "added_at": null,
@@ -1131,18 +1131,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/0NspntfDBwf6LLgeCTXX6J"
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
       },
       "artists": [
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Alexander Tidebrink",
+          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
         }
       ],
-      "duration_ms": 186562,
-      "name": "Lighthouse - Radio Edit",
-      "url": "https://open.spotify.com/track/0GYvUa9kz7wNTs3qqfK3Gb"
+      "duration_ms": 253440,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
     }
   ],
   "unique_name": "This Is Nicky Romero",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,625 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,666 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 20 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 |
 | 21 | [Yo sé](https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [Yo sé](https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv) | 2:09 |
 | 22 | [\[FREE\] 5202 Type Beat](https://open.spotify.com/track/7v6TT7EUEYAX1S7RZaZOkG) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [5202](https://open.spotify.com/album/7GK7b47WfktjsrNmjvua00) | 2:38 |
-| 23 | [Fronteo](https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 3:23 |
+| 23 | [Fronteo](https://open.spotify.com/track/0AXKoQuC2NQ8S2QRF0Gu02) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love and Sex](https://open.spotify.com/album/04NPh9S2gPzYveqlJYQ0V8) | 3:23 |
 | 24 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
 | 25 | [Por Mil Noches](https://open.spotify.com/track/5vHWh24GAsXJ7tnIu8v7UN) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/7GqNN5mgkE38TFBjU8vKCd) | 4:43 |
 | 26 | [pasarella 👠](https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [pasarella 👠](https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md) | 2:42 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 37 | [Tengo Una Cadena](https://open.spotify.com/track/3xdbqyli0ZUKupnyKQfGJp) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Tengo Una Cadena](https://open.spotify.com/album/4qwdTvKXGFZVMZxyTwBCuN) | 2:00 |
 | 38 | [Diles](https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Diles](https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex) | 4:46 |
 | 39 | [Si No Es Muy Tarde \- Versión Cumbia](https://open.spotify.com/track/4KRlNVLHn2ZgGvpjnga31N) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Ezequiel Y La Clave](https://open.spotify.com/artist/74CIXR2mbIKC3gRYZQqKdY), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [Si No Es Muy Tarde \- Versión Cumbia](https://open.spotify.com/album/1J9z1luYGjltxRgf8izM3C) | 3:16 |
-| 40 | [More](https://open.spotify.com/track/0Imc5xRXd0eV9Ln55M1kz6) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [La Fórmula](https://open.spotify.com/album/4TFYUZbcQWhBHPK1aZikSO) | 4:00 |
+| 40 | [More](https://open.spotify.com/track/0rKqFkLnkcZByHMjN60KAn) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Pina Records Presenta : La Fórmula , the Company](https://open.spotify.com/album/7E8t3ndNuKlNoV0nYA8QWM) | 4:00 |
 | 41 | [Ese Maldito Momento](https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:05 |
 | 42 | [2Tonos](https://open.spotify.com/track/78UcD75aiIsUnLUXivBQ5T) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [5202](https://open.spotify.com/album/7GK7b47WfktjsrNmjvua00) | 2:13 |
 | 43 | [TUCHAT](https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TUCHAT](https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [+ Te Vale](https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [+ Te Vale](https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs) | 2:24 |
 | 50 | [Priti](https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Priti](https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB) | 2:10 |
 
-Snapshot ID: `MBG0KAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MBMFqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

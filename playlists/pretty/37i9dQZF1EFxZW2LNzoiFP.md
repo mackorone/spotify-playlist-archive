@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118 likes - 251 songs - 14 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 251 songs - 14 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,8 +182,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 172 | [Hell of a Life](https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:15 |
 | 173 | [Shoes in a Glasshouse](https://open.spotify.com/track/46iD05N1ZmG3putXiUPrBg) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:52 |
 | 174 | [What You Want](https://open.spotify.com/track/6oAPRV8xNp5i8VT8kfahWL) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 4:07 |
-| 175 | [Backseat](https://open.spotify.com/track/5Kcd6Da7qph8vcnNyBYZ3f) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Crush](https://open.spotify.com/album/7tAcbMEaIxArJI00HCNWgs) | 3:46 |
-| 176 | [Emmy](https://open.spotify.com/track/0mKpPlBFQEydSThgi2ar10) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:19 |
+| 175 | [Emmy](https://open.spotify.com/track/0mKpPlBFQEydSThgi2ar10) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:19 |
+| 176 | [Backseat](https://open.spotify.com/track/5Kcd6Da7qph8vcnNyBYZ3f) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Crush](https://open.spotify.com/album/7tAcbMEaIxArJI00HCNWgs) | 3:46 |
 | 177 | [Hideaway](https://open.spotify.com/track/26JG8US8oI3U3sdfL6OeA5) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Hideaway](https://open.spotify.com/album/2etUxQYwcWRglGBTSGKYCY) | 4:02 |
 | 178 | [Further Out](https://open.spotify.com/track/5F76wwoJnfFV4dRRsuqHdl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:17 |
 | 179 | [For Life](https://open.spotify.com/track/5S1x9p5NtD9lbEs76eSwog) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:11 |
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 181 | [I Don't Want To See You Like That](https://open.spotify.com/track/5sz5CknwFGpttn1Lfb1hiI) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 2:41 |
 | 182 | [wraith](https://open.spotify.com/track/6AqOu3JIw2gbA3YPb0QFRY) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [crawl\_\_space](https://open.spotify.com/album/49Ci8AbHDggwLpVWLrluXm) | 2:45 |
 | 183 | [fine](https://open.spotify.com/track/0XLmGgWdu0bA9hmBFMhh6b) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [spark\_\_space](https://open.spotify.com/album/6zHZnhADGVRQigmy7NP4mS) | 2:03 |
-| 184 | [This Light](https://open.spotify.com/track/5aeqo0Hg287WAoUvG6eTr1) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:11 |
-| 185 | [Marigold](https://open.spotify.com/track/4CpewcqnF27xgFe4LWJebp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:03 |
+| 184 | [Marigold](https://open.spotify.com/track/4CpewcqnF27xgFe4LWJebp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:03 |
+| 185 | [This Light](https://open.spotify.com/track/5aeqo0Hg287WAoUvG6eTr1) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:11 |
 | 186 | [A Wish](https://open.spotify.com/track/03xEUiZCkvWTnDTn737HQ8) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:27 |
 | 187 | [Freak Dreams](https://open.spotify.com/track/49F51032pRZNtEXO92KImJ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 3:46 |
 | 188 | [Shoot Me to the Moon](https://open.spotify.com/track/6bGrym3frP517DvJys2gXy) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Shoot Me to the Moon](https://open.spotify.com/album/66OLG8ePE75kGDxCCQIPHD) | 3:15 |
@@ -228,10 +228,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 218 | [Jenny](https://open.spotify.com/track/3U0cXbHSxCG6M6RboTsIk1) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:38 |
 | 219 | [Don't Wonder Why](https://open.spotify.com/track/3evBwYwL2CXNZQTrmVcu46) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Don't Wonder Why](https://open.spotify.com/album/70mvdgnAIzoEi0Ix2a9psB) | 2:56 |
 | 220 | [Blackout](https://open.spotify.com/track/0B64RZOkUha8wr9Xg0yGET) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Blackout](https://open.spotify.com/album/2ZxY6rfhCChRUUeAXEI2Lc) | 2:59 |
-| 221 | [Island in the Sun](https://open.spotify.com/track/3Eeu2dS49d29PO1KrvNWya) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 3:31 |
-| 222 | [So Much for Your Help](https://open.spotify.com/track/2NldB83BLzJjMhjSjE045r) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:38 |
-| 223 | [Needless to Say](https://open.spotify.com/track/2zinC0U05Y3M50OKAEnoXZ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 4:12 |
-| 224 | [IRL](https://open.spotify.com/track/11JxdFkpuXNmxfVzNfX9Vb) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:00 |
+| 221 | [So Much for Your Help](https://open.spotify.com/track/2NldB83BLzJjMhjSjE045r) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:38 |
+| 222 | [Island in the Sun](https://open.spotify.com/track/3Eeu2dS49d29PO1KrvNWya) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 3:31 |
+| 223 | [IRL](https://open.spotify.com/track/11JxdFkpuXNmxfVzNfX9Vb) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:00 |
+| 224 | [Needless to Say](https://open.spotify.com/track/2zinC0U05Y3M50OKAEnoXZ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 4:12 |
 | 225 | [White Husk](https://open.spotify.com/track/1pyNU4cwvLphePd6htmGvP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:03 |
 | 226 | [Some Kind of Dream](https://open.spotify.com/track/4z99ELIgLtz9xO6nIDaWez) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:47 |
 | 227 | [Fantasies](https://open.spotify.com/track/4DmoQyPjhKkTpyDjGvV24m) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:33 |
@@ -260,4 +260,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 250 | [Water Lily](https://open.spotify.com/track/635tpDIpccjgHnOmd80WfP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:45 |
 | 251 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `Ab3ZigAAAAD7t9k6yb9k3mV3ovNZ4n3Y`
+Snapshot ID: `Ab3fSAAAAADNeAXUJO5on3deRBssATYj`

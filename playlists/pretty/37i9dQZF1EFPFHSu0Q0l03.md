@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,718 likes - 256 songs - 17 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,723 likes - 256 songs - 17 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 26 | [hoax](https://open.spotify.com/track/6MWoRt97mnSTXZhu3ggi9C) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:40 |
 | 27 | [happiness](https://open.spotify.com/track/73YUReisjb3A9ActdLLjJQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 5:15 |
 | 28 | [epiphany](https://open.spotify.com/track/08fa9LFcFBTcilB3iq2e2A) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:49 |
-| 29 | [coney island \(feat\. The National\)](https://open.spotify.com/track/4tyX1rw9X309WkEdh2As4B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 4:35 |
-| 30 | [The Prophecy](https://open.spotify.com/track/18WFFUIsewmA8g31KAeo3e) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:09 |
+| 29 | [The Prophecy](https://open.spotify.com/track/18WFFUIsewmA8g31KAeo3e) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:09 |
+| 30 | [coney island \(feat\. The National\)](https://open.spotify.com/track/4tyX1rw9X309WkEdh2As4B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 4:35 |
 | 31 | [dorothea](https://open.spotify.com/track/3w9VRlKPvNxj40RdUGRweH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:45 |
 | 32 | [I know it won't work](https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 |
 | 33 | [High Infidelity](https://open.spotify.com/track/4356PL6jkERzJouVfQQkZo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:51 |
@@ -144,8 +144,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 134 | [Ada](https://open.spotify.com/track/3ec6fb3DxyGkjGFP3MnVsg) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 4:03 |
 | 135 | [Where Is Her Head](https://open.spotify.com/track/7feLRaxYCAznOMuFVgJluq) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 4:41 |
 | 136 | [Lucky You](https://open.spotify.com/track/19GDzR3zE3TekzL8FwmPUy) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sad Songs for Dirty Lovers](https://open.spotify.com/album/2GXoU6gpOlx1oZ0DkNgrUM) | 4:22 |
-| 137 | [Abel](https://open.spotify.com/track/0XKXeiNCDf9jlK1YmkM1cX) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Alligator](https://open.spotify.com/album/3Dyqes0WX7jN0kSVwoOhKs) | 3:37 |
-| 138 | [That’s On Me](https://open.spotify.com/track/6n8UfmEOGvDGxYRUrGf4z7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:47 |
+| 137 | [That’s On Me](https://open.spotify.com/track/6n8UfmEOGvDGxYRUrGf4z7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:47 |
+| 138 | [Abel](https://open.spotify.com/track/0XKXeiNCDf9jlK1YmkM1cX) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Alligator](https://open.spotify.com/album/3Dyqes0WX7jN0kSVwoOhKs) | 3:37 |
 | 139 | [Latter Days](https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:38 |
 | 140 | [Turtleneck](https://open.spotify.com/track/0Mn1Ku0kJLFbSzLPq0BtIq) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 3:00 |
 | 141 | [This Isn't Helping \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/56QXS0Hk7mKpuLaFJQ3x8F) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:04 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 255 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 256 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `Ab3ZsgAAAABFUlvVc/2xtrFbrw3VMCtH`
+Snapshot ID: `Ab3fNAAAAAB+SC/CPrkCA20FYGPhSkva`

@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 71 | [Big Feelings](https://open.spotify.com/track/6oNudfD8DF46sb5WyydBIi) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Big Feelings](https://open.spotify.com/album/6KP7Oe350WhXOvByoFCsg9) | 3:34 |
 | 72 | [Good Guy](https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Good Guy](https://open.spotify.com/album/1phgcwEQmHmFEg2mf5r1wk) | 2:32 |
 | 73 | [give me one more night](https://open.spotify.com/track/07IHD3tqFjJ7ZqBf0YytJZ) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [if this is it..\. \- E.P.](https://open.spotify.com/album/7kZvuaNfHeDkuUEBBbcQXJ) | 3:22 |
-| 74 | [4Runner](https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 3:49 |
-| 75 | [getting over you](https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [clean hands dirty water](https://open.spotify.com/album/2FUHjr1aci78MwzBTsLM91) | 3:07 |
+| 74 | [getting over you](https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [clean hands dirty water](https://open.spotify.com/album/2FUHjr1aci78MwzBTsLM91) | 3:07 |
+| 75 | [4Runner](https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 3:49 |
 
 Snapshot ID: `Z5FTPwAAAABH9wrwKOJSaOCZnm/cWQpO`

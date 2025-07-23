@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Miss Bashful, Ski Aggu, GDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,825 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,828 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

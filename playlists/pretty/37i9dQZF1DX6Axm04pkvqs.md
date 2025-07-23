@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,247 likes - 80 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,331 likes - 80 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 26 | [Alignment Chant \- EP](https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Alignment Chant](https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e) | 13:30 |
 | 27 | [Odogwu](https://open.spotify.com/track/07lLHICE1qfTRRIGPaXKLY) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Odogwu](https://open.spotify.com/album/2iV8lRgiv08MYvx20oYLiC) | 4:50 |
 | 28 | [Draw](https://open.spotify.com/track/1XlnaoiYqjZdc8ZhDyZR0P) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 6:31 |
-| 29 | [Spirit Call \(Prayer Charge\)](https://open.spotify.com/track/1ZlNWHMvm95qd2Am25GZQo) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Spirit Call \(Prayer Charge\)](https://open.spotify.com/album/19Se7kZOuTASpZLV8o06dm) | 6:46 |
+| 29 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 |
 | 30 | [Take Over](https://open.spotify.com/track/0kd6sF1sDNJmFcpoZKWKMD) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [Take Over](https://open.spotify.com/album/7t8Jh2tXzb2wIbJ9XwH9ri) | 13:55 |
 | 31 | [Alagbada Ina \(feat\. Victoria Orenze\)](https://open.spotify.com/track/5nYZcBMWmElPweuzKs4ANs) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Revival Flames](https://open.spotify.com/album/3ouj0BXXkGizxWYTtcPK3y) | 4:31 |
-| 32 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 |
+| 32 | [Spirit Call \(Prayer Charge\)](https://open.spotify.com/track/1ZlNWHMvm95qd2Am25GZQo) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Spirit Call \(Prayer Charge\)](https://open.spotify.com/album/19Se7kZOuTASpZLV8o06dm) | 6:46 |
 | 33 | [Sound of Revival](https://open.spotify.com/track/76KJfvXOhG4r2DWquugSAd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 7:24 |
 | 34 | [Worship Session \- Live](https://open.spotify.com/track/3Wl0zyeRCieaF2hBN3q5du) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Seun Dede](https://open.spotify.com/artist/2EbUQQwtbJqZMhiK23HMFw) | [Worship Session \(Live\)](https://open.spotify.com/album/3u4zypZmoYigbASxOGbYPJ) | 51:01 |
 | 35 | [Chants of Ascension](https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N) | [JOSHUA BANJO](https://open.spotify.com/artist/4V02aAFEwBwBrVgPnSV49E) | [Chants of Ascension](https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV) | 9:30 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 38 | [Intensify](https://open.spotify.com/track/2apSO736RbDC57Uwg1X7vw) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [Eternity in View](https://open.spotify.com/album/0uWI0ToFhg1eLuNvr32eGY) | 3:34 |
 | 39 | [Iwo Loba](https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Iwo Loba](https://open.spotify.com/album/41TyHM9fcGLKecb3k6zJyp) | 14:53 |
 | 40 | [Captured My Heart](https://open.spotify.com/track/0mkiOUQl052rRacosA5fS4) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 10:31 |
-| 41 | [Into the Deep \(Prayer Chant\)](https://open.spotify.com/track/1Lz5z1VShC93fUV6GsB3DO) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 3:45 |
-| 42 | [Nekwa Mu](https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Nekwa Mu](https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k) | 2:42 |
+| 41 | [Nekwa Mu](https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Nekwa Mu](https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k) | 2:42 |
+| 42 | [Into the Deep \(Prayer Chant\)](https://open.spotify.com/track/1Lz5z1VShC93fUV6GsB3DO) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 3:45 |
 | 43 | [Holy Ghost \(Live\)](https://open.spotify.com/track/7jYjkK3fPO7j7GcX2v12bF) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Apostolos \(Sounds of Transition\)](https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv) | 7:08 |
 | 44 | [There Is Prophecy over Me](https://open.spotify.com/track/6pKhtSc35N8WhiJNS0Dymx) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [There Is Prophecy over Me](https://open.spotify.com/album/1GxceZu3kgGHqGx8hXgDWH) | 13:20 |
 | 45 | [Deep Prophetic Worship](https://open.spotify.com/track/4mIabVSMCGzLNCsDYBniYQ) | [Fiyin Adeniyi](https://open.spotify.com/artist/7b4BZkj7cS5gokEOCrNuN0) | [Deep Prophetic Worship](https://open.spotify.com/album/1Fl0GKcHMtfMyOt2g4rxS6) | 2:42 |

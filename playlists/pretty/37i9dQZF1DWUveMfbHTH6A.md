@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks around the world this year\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,622 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,624 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 61 | [Pretty Girls](https://open.spotify.com/track/56U1pIituJfEkU0impIpYA) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Pretty Girls](https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks) | 3:54 |
 | 62 | [Karma](https://open.spotify.com/track/35nTwcYYQ3uQBg7qqvGBMa) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [girl's notes](https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8) | 2:35 |
 | 63 | [Blue Blood](https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Blue Blood](https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4) | 2:34 |
-| 64 | [Boy, Empty](https://open.spotify.com/track/1YmxOiVwqPiLTkkIc2eIdW) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/0fxQ72By0GepEsvbQsjgbv) | 2:49 |
-| 65 | [Virtual Hug](https://open.spotify.com/track/0QZEBlTEC1ExBARHuzk50H) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 3:09 |
+| 64 | [Virtual Hug](https://open.spotify.com/track/0QZEBlTEC1ExBARHuzk50H) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 3:09 |
+| 65 | [Boy, Empty](https://open.spotify.com/track/1YmxOiVwqPiLTkkIc2eIdW) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/0fxQ72By0GepEsvbQsjgbv) | 2:49 |
 | 66 | [CAMERINO](https://open.spotify.com/track/59NAwiZv9xBZq5lqerdaSj) | [NICO B.](https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe) | [AERIAL DISPLAY](https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G) | 3:10 |
 | 67 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 |
 | 68 | [Stillness in Motion](https://open.spotify.com/track/0ALhDzmcQJ2MMl8Erpw5I6) | [Plots](https://open.spotify.com/artist/1HGABGjZjIc5KhW1OM4Dr3) | [Stillness in Motion](https://open.spotify.com/album/6ZpYIjsaO9jkjxYv0cKsuu) | 3:41 |

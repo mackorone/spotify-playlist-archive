@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Shallipopi & Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,921 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,951 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 7 | [TOXIC](https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:40 |
 | 8 | [NO HAY BREAK \(feat\. Omah Lay\)](https://open.spotify.com/track/3SidxlqZdO4wtPvrTaDBin) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:06 |
 | 9 | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/track/7LMIWqg2QKLqGYRExvPBTC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/album/0R7h1dcOEezYPOnjsVD10M) | 2:28 |
-| 10 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
+| 10 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
 | 11 | [Active](https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 2:52 |
 | 12 | [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 |
 | 13 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 |

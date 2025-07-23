@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 330899,
+  "num_followers": 330903,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 173136,
-      "name": "Disk Me",
-      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Batid\u00e3o Do Playboy 2",
         "url": "https://open.spotify.com/album/1QrmFHBDzz7BbVdKVw6Uxn"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 188695,
       "name": "Pode Me Bloquear",
       "url": "https://open.spotify.com/track/0ijk36AtPKhLldqqkHC94H"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 173136,
+      "name": "Disk Me",
+      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Cobertor de Orelha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6BFfpdvgimAEgtS8szfesm"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 156921,
-      "name": "Cobertor de Orelha - Ao Vivo",
-      "url": "https://open.spotify.com/track/5tDIwLvi7AaoY4pkA7pUBv"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Terra Sem Cep (Ao Vivo)",
         "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 177380,
       "name": "Terra Sem CEP - Ao Vivo",
       "url": "https://open.spotify.com/track/2U94QDSo9N4e1iXrjo7KAB"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Cobertor de Orelha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6BFfpdvgimAEgtS8szfesm"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 156921,
+      "name": "Cobertor de Orelha - Ao Vivo",
+      "url": "https://open.spotify.com/track/5tDIwLvi7AaoY4pkA7pUBv"
     },
     {
       "added_at": "2023-01-17 01:33:36",

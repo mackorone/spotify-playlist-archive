@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 96070,
+  "num_followers": 96074,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAAS8lzgpLDtizqbxLgWobFB",
+  "snapshot_id": "aH2DAAAAAABI7Pax50JsxGqv/5rH+VwL",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What It Means To Be King",
-        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
-      },
-      "artists": [
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "Trust Nothing (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 181773,
       "name": "Fall Down (feat. Kevin Gates & Rvssian)",
       "url": "https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What It Means To Be King",
+        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "Trust Nothing (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY"
     },
     {
       "added_at": null,
@@ -863,6 +863,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 166326,
+      "name": "Hard For The Next (with Future)",
+      "url": "https://open.spotify.com/track/4ELmykSaWrdjQS5iADqHxS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SPEAK NOW",
         "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
       },
@@ -903,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 166326,
-      "name": "Hard For The Next (with Future)",
-      "url": "https://open.spotify.com/track/4ELmykSaWrdjQS5iADqHxS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "43VA HEARTLESS",
         "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
       },
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 163735,
+      "name": "DO YO SHIT",
+      "url": "https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SPEAK NOW",
         "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 196000,
       "name": "DRUNK OFF U (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1EA7RoWxVBZUHXl2tNtAwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SPEAK NOW OR...",
-        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 163735,
-      "name": "DO YO SHIT",
-      "url": "https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj"
     }
   ],
   "unique_name": "This Is Moneybagg Yo",

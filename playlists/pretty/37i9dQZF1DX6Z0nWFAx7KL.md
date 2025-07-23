@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy summer 2025 ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,106 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,111 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 47 | [Holy](https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Holy](https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK) | 2:28 |
 | 48 | [Together](https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Momentum](https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8) | 2:22 |
 | 49 | [Red](https://open.spotify.com/track/2GIu11lkivvXvXU79ABX28) | [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie) | [Red](https://open.spotify.com/album/6Hy2fLVSlcBl1rYjCfKG3Q) | 2:50 |
-| 50 | [Moment With You](https://open.spotify.com/track/4duohFYofOD1A2wsYJGxVu) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [Moment With You \(feat\. Nova Tropics\)](https://open.spotify.com/album/1yUU6ygqoj8Zfql0wOi7a9) | 2:43 |
-| 51 | [Not Your House](https://open.spotify.com/track/48GVZUhF5IOr97zW7pCEoy) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Usually Quiet](https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j) | [Not Your House](https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ) | 3:55 |
+| 50 | [Not Your House](https://open.spotify.com/track/48GVZUhF5IOr97zW7pCEoy) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Usually Quiet](https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j) | [Not Your House](https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ) | 3:55 |
+| 51 | [Moment With You](https://open.spotify.com/track/4duohFYofOD1A2wsYJGxVu) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [Moment With You \(feat\. Nova Tropics\)](https://open.spotify.com/album/1yUU6ygqoj8Zfql0wOi7a9) | 2:43 |
 | 52 | [Sona](https://open.spotify.com/track/5RiBDqZLOcqsvrmlhfGUzv) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [CassMae](https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS) | [Sona](https://open.spotify.com/album/4Anf0gFqtpKBzBpdtSXEnd) | 2:20 |
 | 53 | [Wake Me Up](https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Wake Me Up](https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz) | 2:45 |
-| 54 | [Jazz Trumpet](https://open.spotify.com/track/07pOBQWh8PgFR5TC0KMgBq) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Jazz Trumpet](https://open.spotify.com/album/5j5KW1mpcGUXsjWjm7Gszb) | 2:00 |
-| 55 | [Blood & Bones](https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Blood & Bones](https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW) | 3:12 |
+| 54 | [Blood & Bones](https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Blood & Bones](https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW) | 3:12 |
+| 55 | [Jazz Trumpet](https://open.spotify.com/track/07pOBQWh8PgFR5TC0KMgBq) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Jazz Trumpet](https://open.spotify.com/album/5j5KW1mpcGUXsjWjm7Gszb) | 2:00 |
 | 56 | [No Tomorrow](https://open.spotify.com/track/5f6qWXuKbURFowOWT2QruI) | [Honest Regrets](https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm), [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [No Tomorrow](https://open.spotify.com/album/37h56UTs220Dk38R36Au2h) | 2:12 |
 | 57 | [Wicked Games](https://open.spotify.com/track/0oriUexHwmSx7J5IJaXHDk) | [Dj Youcef](https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ), [Nicole Slack Jones](https://open.spotify.com/artist/7ApsqRn7DyUaNrbknP7XBw) | [Wicked Games](https://open.spotify.com/album/3ZPcDsOHqgiq5DPDgDDyIw) | 2:39 |
-| 58 | [My Girl](https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [My Girl](https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu) | 2:04 |
-| 59 | [Dance Of Love](https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6) | [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L), [Wave94](https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO) | [Dance Of Love](https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h) | 2:27 |
-| 60 | [You Have To Have A Goal](https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [You Have To Have A Goal](https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX) | 2:13 |
+| 58 | [Lately](https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77), [Chilled Virus](https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM) | [Lately](https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY) | 2:25 |
+| 59 | [My Girl](https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [My Girl](https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu) | 2:04 |
+| 60 | [Dance Of Love](https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6) | [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L), [Wave94](https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO) | [Dance Of Love](https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h) | 2:27 |
 
 Snapshot ID: `aHlyjAAAAABFD6ze+EMDXWmA72bqdPfA`

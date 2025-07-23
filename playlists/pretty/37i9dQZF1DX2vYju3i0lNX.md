@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 971,344 likes - 551 songs - 1 day 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,407 likes - 551 songs - 1 day 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

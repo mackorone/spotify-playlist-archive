@@ -2,9 +2,9 @@
 
 ### [Big in Japan](https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM)
 
-> The biggest rock artists in Japan right now!  Cover: Chilli Beans.
+> The biggest rock artists in Japan right now!  Cover: LiSA
 
-1,329 songs - 3 day 15 hr 21 min
+1,330 songs - 3 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,7 +531,7 @@
 | [Re:Re:](https://open.spotify.com/track/0WaaPFt4Qy8sVfxKz43bCD) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:48 | 2023-06-27 | 2024-02-21 |
 | [Re:Re:](https://open.spotify.com/track/2uyhk4CrlHvcAJLu9wHV1k) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI), [illequal](https://open.spotify.com/artist/070lv855QuMgSxolesmZnc) | [Re:Re:](https://open.spotify.com/album/1ppLtut6OduUjXXmEn7fHr) | 3:16 | 2025-01-14 | 2025-02-14 |
 | [REACHING FOR THE SKY](https://open.spotify.com/track/5Ow6O5uZGEiCcaYi980V3N) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [REACHING FOR THE SKY](https://open.spotify.com/album/5u5UM6N0ydEZD7A3rB2RPo) | 3:55 | 2025-01-28 | 2025-04-23 |
-| [Ready to Rock](https://open.spotify.com/track/6RmznWIj65w4YPTcfVfmpt) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Ready to Rock](https://open.spotify.com/album/70YvxjBBrnc812iiPAzZ05) | 3:26 | 2025-04-08 |  |
+| [Ready to Rock](https://open.spotify.com/track/6RmznWIj65w4YPTcfVfmpt) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Ready to Rock](https://open.spotify.com/album/70YvxjBBrnc812iiPAzZ05) | 3:26 | 2025-04-08 | 2025-07-23 |
 | [Reasons](https://open.spotify.com/track/7qwgLDrm52qPs3acF8SLJr) | [CONFVSE](https://open.spotify.com/artist/0jHrkfttn8U65SC5fNYxZT) | [Reasons](https://open.spotify.com/album/4UywvUBYPPckuNbgqT8LXg) | 3:42 | 2023-04-04 | 2023-04-12 |
 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 | 2025-01-07 |  |
 | [REBORN](https://open.spotify.com/track/3EMplgOM0a9IPsDckKBPWk) | [Tsuyoshi Nagabuchi](https://open.spotify.com/artist/5hHNaYRpbcz1qo09jeVcg8) | [REBORN](https://open.spotify.com/album/1EAgEUIDCIrmB6eDoAORGX) | 4:36 | 2022-05-19 | 2022-06-17 |
@@ -954,7 +954,7 @@
 | [シンシャ](https://open.spotify.com/track/5jAHFipcLURLl4NiEWpjaV) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [シンシャ](https://open.spotify.com/album/2Wbjn9gW8to9OtHHzcNkHF) | 3:56 | 2023-11-14 | 2023-11-22 |
 | [シーグラス](https://open.spotify.com/track/75ydSk3JU7hqJFhyGQyhPZ) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [COLD DISC](https://open.spotify.com/album/14tPmXY2n8LjZezKrMDhCQ) | 3:02 | 2024-02-27 | 2024-09-18 |
 | [シーズンエンド](https://open.spotify.com/track/7pdMesCX4Vulq75t7wb6bZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FRIENDS Ⅲ](https://open.spotify.com/album/1GphZ6CslazKeXBAnmWPj3) | 4:37 | 2022-05-22 | 2022-07-12 |
-| [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2023-06-27 | 2025-07-19 |
+| [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2023-06-27 |  |
 | [ジャガーノート](https://open.spotify.com/track/5wPW2TG7Pk3paFuG2NaJcn) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [ジャガーノート](https://open.spotify.com/album/2TBNmBacaxlCcGZNAPdwhH) | 3:11 | 2023-11-08 | 2024-04-24 |
 | [ジャージ \- 2024 ver.](https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:34 | 2024-04-23 | 2024-07-06 |
 | [ジューシーマーマレード](https://open.spotify.com/track/5WDwzXGICt44ZaDEAuODHX) | [THE COLLECTORS](https://open.spotify.com/artist/3OV5dcuHvNPXmgPFwXLf37) | [ジューシーマーマレード](https://open.spotify.com/album/1Ag9kXkDqWOZLNHHWJG7yu) | 4:38 | 2022-11-22 | 2022-11-30 |
@@ -1097,6 +1097,7 @@
 | [君が気高い孤独なら \- 2020 mix & radio edit](https://open.spotify.com/track/2FrouqWUTQxr2jhw6KdKqf) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [THE ESSENTIAL TRACKS 2005 \- 2020](https://open.spotify.com/album/0cPLqG1ogQ2AhWLTnbRIzt) | 4:38 | 2023-05-16 | 2023-05-24 |
 | [君と僕のメロディ](https://open.spotify.com/track/1spkMgFPcWxnUzrILP5FWC) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [THE SPELLBOUND](https://open.spotify.com/album/3XyMTPPidPjGUoINx4Yenc) | 6:04 | 2022-05-12 | 2022-06-05 |
 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:42 | 2024-04-23 |  |
+| [命題](https://open.spotify.com/track/4AOdoMJXt8cddiH1SzXlA0) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [命題](https://open.spotify.com/album/5bQIFv4iRJ6ZOEAFofNOjP) | 4:50 | 2025-07-22 |  |
 | [在東京少年](https://open.spotify.com/track/605J8O8EnF8FThxJ8Ma0G7) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [式日散花](https://open.spotify.com/album/7j7qbYpUeyXm543KD9lIC5) | 3:38 | 2023-09-12 | 2023-09-27 |
 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-07-25 |  |
 | [坂道を上って](https://open.spotify.com/track/3XilAwFIiV2u3lA58K3xSS) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 3:54 | 2022-06-14 | 2022-06-22 |
@@ -1108,7 +1109,7 @@
 | [夕だち](https://open.spotify.com/track/3OP3gecnEoVIktGwBnoiU0) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [夕だち](https://open.spotify.com/album/05rYbTteeiOkLiw6tJHmda) | 3:09 | 2022-07-05 | 2022-07-13 |
 | [夕日、刺さる部屋](https://open.spotify.com/track/1tFMW0Ca7Fvh3ekXNK4zGg) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [夕日、刺さる部屋](https://open.spotify.com/album/5wHWqSB2cJ4v2CXNCXa2mU) | 3:13 | 2024-02-13 | 2024-02-15 |
 | [多重露光 feat.川上洋平](https://open.spotify.com/track/0E20kEWDWX4xL4PzNHfmsz) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yoohei Kawakami](https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5) | [多重露光 feat.川上洋平](https://open.spotify.com/album/6skn6GGpfrPYBoxNtaVYXg) | 3:13 | 2022-05-12 | 2022-06-19 |
-| [夜半の銃声](https://open.spotify.com/track/44ZrClMYjucHbY9R3ZTn1l) | [マオ](https://open.spotify.com/artist/51ZHDfNqzVStgQvvzYyxVY) | [夜半の銃声](https://open.spotify.com/album/618CojMtwY7e5uHydNxycf) | 4:11 | 2025-07-01 |  |
+| [夜半の銃声](https://open.spotify.com/track/44ZrClMYjucHbY9R3ZTn1l) | [マオ](https://open.spotify.com/artist/51ZHDfNqzVStgQvvzYyxVY) | [夜半の銃声](https://open.spotify.com/album/618CojMtwY7e5uHydNxycf) | 4:11 | 2025-07-01 | 2025-07-23 |
 | [夜明け前](https://open.spotify.com/track/62NCZ531P4t2XDhq8jUuh5) | [Ningen Isu](https://open.spotify.com/artist/4rd6QvHo3CdZNmZrPJs8yz) | [苦楽](https://open.spotify.com/album/0dPiKZGywLTANzjAnuFuCi) | 7:27 | 2022-05-24 | 2022-05-31 |
 | [夢を見ようよ](https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Hotel New Yuma](https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1) | 3:12 | 2024-11-13 | 2025-01-08 |
 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 | 2024-05-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 27298,
+  "num_followers": 27301,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAACTsP1j+vWQxuWFt1XML74U",
+  "snapshot_id": "aH2DAAAAAABWbwVsnZraXkqaRr3ws6kC",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Rosas Blancas",
-      "url": "https://open.spotify.com/track/5TJaE686PQ1CA1qvQuo8Fn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 174426,
       "name": "Abeja Re\u00edna",
       "url": "https://open.spotify.com/track/2m5ePayanrtB3LWWiKxVEg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Rosas Blancas",
+      "url": "https://open.spotify.com/track/5TJaE686PQ1CA1qvQuo8Fn"
     },
     {
       "added_at": null,

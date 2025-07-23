@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Minz",
-  "num_followers": 66882,
+  "num_followers": 66919,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -591,26 +591,6 @@
     {
       "added_at": "2025-07-18 00:01:19",
       "album": {
-        "name": "US",
-        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
-      },
-      "artists": [
-        {
-          "name": "Swayvee",
-          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "US",
-      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
-    },
-    {
-      "added_at": "2025-07-18 00:01:19",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 205263,
       "name": "Wave",
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+    },
+    {
+      "added_at": "2025-07-18 00:01:19",
+      "album": {
+        "name": "US",
+        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
+      },
+      "artists": [
+        {
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "US",
+      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
     },
     {
       "added_at": "2025-07-18 00:01:19",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-07-18 00:01:19",
       "album": {
-        "name": "Lazy Baby",
-        "url": "https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 126131,
-      "name": "Lazy Baby",
-      "url": "https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl"
-    },
-    {
-      "added_at": "2025-07-18 00:01:19",
-      "album": {
         "name": "Compose",
         "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2025-07-18 00:01:19",
       "album": {
+        "name": "Lazy Baby",
+        "url": "https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 126131,
+      "name": "Lazy Baby",
+      "url": "https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl"
+    },
+    {
+      "added_at": "2025-07-18 00:01:19",
+      "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 136732,
       "name": "Hello Habibi",
       "url": "https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM"
-    },
-    {
-      "added_at": "2025-07-18 00:01:19",
-      "album": {
-        "name": "Xistence.",
-        "url": "https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5"
-      },
-      "artists": [
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        }
-      ],
-      "duration_ms": 98964,
-      "name": "flavor.",
-      "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
     },
     {
       "added_at": "2025-07-18 00:01:19",
@@ -815,6 +799,22 @@
       "duration_ms": 163444,
       "name": "THERAPY SESSION",
       "url": "https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx"
+    },
+    {
+      "added_at": "2025-07-18 00:01:19",
+      "album": {
+        "name": "Xistence.",
+        "url": "https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "duration_ms": 98964,
+      "name": "flavor.",
+      "url": "https://open.spotify.com/track/3q51YwUa160xFufWZuPM78"
     },
     {
       "added_at": "2025-07-18 00:01:19",
@@ -891,26 +891,6 @@
     {
       "added_at": "2025-07-18 00:01:19",
       "album": {
-        "name": "Olufunmi (The Missing Recipe)",
-        "url": "https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Styl-Plus",
-          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Olufunmi (The Missing Recipe)",
-      "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
-    },
-    {
-      "added_at": "2025-07-18 00:01:19",
-      "album": {
         "name": "Jehovah",
         "url": "https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM"
       },
@@ -951,6 +931,26 @@
     {
       "added_at": "2025-07-18 00:01:19",
       "album": {
+        "name": "Olufunmi (The Missing Recipe)",
+        "url": "https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Olufunmi (The Missing Recipe)",
+      "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
+    },
+    {
+      "added_at": "2025-07-18 00:01:19",
+      "album": {
         "name": "Pawon Boy Vol.1",
         "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
       },
@@ -967,6 +967,26 @@
       "duration_ms": 135652,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
+    },
+    {
+      "added_at": "2025-07-18 00:01:19",
+      "album": {
+        "name": "DSC",
+        "url": "https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        },
+        {
+          "name": "Kashcpt",
+          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
+        }
+      ],
+      "duration_ms": 156256,
+      "name": "DSC",
+      "url": "https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd"
     },
     {
       "added_at": "2025-07-18 00:01:19",
@@ -1027,42 +1047,6 @@
     {
       "added_at": "2025-07-18 00:01:19",
       "album": {
-        "name": "Folasade",
-        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Folasade",
-      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
-    },
-    {
-      "added_at": "2025-07-18 00:01:19",
-      "album": {
-        "name": "DSC",
-        "url": "https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r"
-      },
-      "artists": [
-        {
-          "name": "Erigga",
-          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
-        },
-        {
-          "name": "Kashcpt",
-          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
-        }
-      ],
-      "duration_ms": 156256,
-      "name": "DSC",
-      "url": "https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd"
-    },
-    {
-      "added_at": "2025-07-18 00:01:19",
-      "album": {
         "name": "Full Time Job",
         "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 169018,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/10tuqT05957Cs0VIS2GGaZ"
+    },
+    {
+      "added_at": "2025-07-18 00:01:19",
+      "album": {
+        "name": "Folasade",
+        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Folasade",
+      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
     },
     {
       "added_at": "2025-07-18 00:01:19",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2025-07-18 00:01:19",
       "album": {
+        "name": "Forever (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 155883,
+      "name": "Forever (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
+    },
+    {
+      "added_at": "2025-07-18 00:01:19",
+      "album": {
         "name": "GE3 (The Beginning)",
         "url": "https://open.spotify.com/album/6eR5eDrWGOUMtPgKzpReFt"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 228479,
       "name": "Proud Of Life",
       "url": "https://open.spotify.com/track/2VduAuuyGrDrCBN2Pwj7yg"
-    },
-    {
-      "added_at": "2025-07-18 00:01:19",
-      "album": {
-        "name": "Forever (feat. Shallipopi)",
-        "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 155883,
-      "name": "Forever (feat. Shallipopi)",
-      "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
     },
     {
       "added_at": "2025-07-18 00:01:19",

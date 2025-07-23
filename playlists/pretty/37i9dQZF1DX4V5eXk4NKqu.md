@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring Buscabulla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,128 likes - 66 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,132 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 4 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
 | 5 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 |
 | 6 | [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 |
-| 7 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
-| 8 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
-| 9 | [Persona Favorita](https://open.spotify.com/track/06QTfbiMgQvh8gXQPlfC8J) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [HENRY](https://open.spotify.com/album/1a4AGDulVYa69FsMX6mLrb) | 3:27 |
-| 10 | [still love you \(todavía\)](https://open.spotify.com/track/0gmKvcuqpmLqEXFE3bRxtc) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/2dVlLLQXCJNRqkA3wYhF5Y) | 2:32 |
+| 7 | [still love you \(todavía\)](https://open.spotify.com/track/0gmKvcuqpmLqEXFE3bRxtc) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/2dVlLLQXCJNRqkA3wYhF5Y) | 2:32 |
+| 8 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
+| 9 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
+| 10 | [Persona Favorita](https://open.spotify.com/track/06QTfbiMgQvh8gXQPlfC8J) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [HENRY](https://open.spotify.com/album/1a4AGDulVYa69FsMX6mLrb) | 3:27 |
 | 11 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 |
 | 12 | [1960](https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 6:10 |
 | 13 | [ya no me llames](https://open.spotify.com/track/4V0x5rBCCGb5gMj3cjLiPi) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [ULTRA SODADE](https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH) | 3:21 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 21 | [BBY ROMEO](https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [BBY ROMEO](https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz) | 3:18 |
 | 22 | [El Ritmo](https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Ritmo](https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3) | 5:08 |
 | 23 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 |
-| 24 | [Hora Dorada](https://open.spotify.com/track/7bLISKzLksUNXPDdauDT9i) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/50cYslOkS29OQ2HMCdeVv5) | 3:14 |
-| 25 | [Si Tú No Vuelves](https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Flores Robadas](https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy) | 3:21 |
+| 24 | [Si Tú No Vuelves](https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Flores Robadas](https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy) | 3:21 |
+| 25 | [Hora Dorada](https://open.spotify.com/track/7bLISKzLksUNXPDdauDT9i) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/50cYslOkS29OQ2HMCdeVv5) | 3:14 |
 | 26 | [SOPHIA](https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [SOPHIA](https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu) | 3:04 |
 | 27 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
 | 28 | [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 |

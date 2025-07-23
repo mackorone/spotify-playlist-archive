@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Bino Rideaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,959 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,960 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Big Poe](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 |
+| 1 | [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 |
 | 2 | [ROCKIN](https://open.spotify.com/track/6m5cyVx8qLqu69MFiBVnMI) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [ROCKIN](https://open.spotify.com/album/44CG52mqjcKpzJL8L4yXkB) | 2:09 |
 | 3 | [pink whitney](https://open.spotify.com/track/5QVD21jVsQd2gbZCSlJxJO) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 2:02 |
 | 4 | [Boogieman](https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [Boogieman](https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh) | 2:11 |
-| 5 | [Gang Gang Gangland](https://open.spotify.com/track/05ZuiDPE65Xs94MAt5CZ8z) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Gang Gang Gangland \(feat\. Mozzy\)](https://open.spotify.com/album/1Euw5LFkONmS8d7OVgfaeg) | 3:09 |
+| 5 | [Gang Gang Gangland \(feat\. YG & Mozzy\)](https://open.spotify.com/track/05ZuiDPE65Xs94MAt5CZ8z) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Gang Gang Gangland \(feat\. YG & Mozzy\)](https://open.spotify.com/album/1Euw5LFkONmS8d7OVgfaeg) | 3:09 |
 | 6 | [Don't Tap That Glass / Tweakin'](https://open.spotify.com/track/5DRS7YEe1bwGJLDGviT3CD) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:42 |
 | 7 | [Go Bestfriend](https://open.spotify.com/track/1pvMPcQaVP8HuRO3Sa24RP) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Tha Language](https://open.spotify.com/album/1eR7AfJfPEsLTnkpkTEoi8) | 2:35 |
 | 8 | [IM YEAT](https://open.spotify.com/track/5mEsgjX62uA42G3ooMubCC) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [IM YEAT](https://open.spotify.com/album/6WBTIajwa9AAwQusziUoae) | 2:48 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 843491,
+  "num_followers": 843633,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAACUyqPnHrhMoNk5OxmkqSi8",
+  "snapshot_id": "aH2DAAAAAACoM9pofzEH9isda7cMaiEH",
   "tracks": [
     {
       "added_at": null,
@@ -82,15 +82,11 @@
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+      "duration_ms": 170535,
+      "name": "Desenfocao'",
+      "url": "https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA"
     },
     {
       "added_at": null,
@@ -170,11 +166,15 @@
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 170535,
-      "name": "Desenfocao'",
-      "url": "https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA"
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
       "added_at": null,
@@ -507,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 215511,
+      "name": "Revol\u00fa",
+      "url": "https://open.spotify.com/track/4lqJsJd7kqWVvamQ4aFHA8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forni",
         "url": "https://open.spotify.com/album/6vhQ99LYb0p4wNzGYSL7nj"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 203265,
       "name": "Forni",
       "url": "https://open.spotify.com/track/5gQETwG8CDF63RZx91nO2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 215511,
-      "name": "Revol\u00fa",
-      "url": "https://open.spotify.com/track/4lqJsJd7kqWVvamQ4aFHA8"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Sci-Fi",
-      "url": "https://open.spotify.com/track/3fhYAsNRR99ETnqrBZdAy0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "C\u00d3DiGOS DE MU\u00d1EKA",
         "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
       },
@@ -847,22 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BABY HELLO",
-        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 222461,
-      "name": "BABY HELLO",
-      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
+      "duration_ms": 197626,
+      "name": "Sci-Fi",
+      "url": "https://open.spotify.com/track/3fhYAsNRR99ETnqrBZdAy0"
     },
     {
       "added_at": null,
@@ -887,6 +867,26 @@
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/5VzNsUnLmYcRfRfxpQsusa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BABY HELLO",
+        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "BABY HELLO",
+      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
     },
     {
       "added_at": null,

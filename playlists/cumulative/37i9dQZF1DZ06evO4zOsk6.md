@@ -4,7 +4,7 @@
 
 > This is Libido\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 22 min
+60 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,11 @@
 | [Cómo estás \(En vivo\)](https://open.spotify.com/track/1fHlONl6pMBC9zc4Qh76XQ) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Acústico en el Gran Teatro Nacional \(En vivo\)](https://open.spotify.com/album/4GhkQaLNEGLF22fxsn8kFV) | 4:27 | 2023-08-25 | 2024-10-12 |
 | [Debí decir que no](https://open.spotify.com/track/6MFp3LAgfCKFKmpNllLI3K) | [Jet Rodeo](https://open.spotify.com/artist/1itxF65N0tWoPtKPWhTjBM), [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Debí decir que no](https://open.spotify.com/album/5o9IDJby9JX093elzIItHT) | 3:41 | 2024-05-19 | 2024-05-24 |
 | [Disparar](https://open.spotify.com/track/5h21CIvNQTXy2Xh91hwVY6) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo](https://open.spotify.com/album/5cEeV7MdJVVfr20xKUCuYY) | 2:42 | 2023-08-25 | 2024-07-08 |
+| [El Vampiro](https://open.spotify.com/track/4H7fsXUbdI7k19r06JPujW) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 3:46 | 2025-07-23 |  |
 | [En Esta Habitación](https://open.spotify.com/track/1gAB76RAMN8sZl0PjKyqXA) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 4:32 | 2023-08-25 |  |
+| [Espermato](https://open.spotify.com/track/5pWZ2OXVkXGme8VhO2Uzn6) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 2:47 | 2025-07-23 |  |
 | [Esther Fe](https://open.spotify.com/track/6hBBssHaBL1h1bmUkkfECc) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 3:52 | 2023-08-25 |  |
+| [Estoy Tan Gris](https://open.spotify.com/track/3yiDtHpGDR9BDCIooRjggY) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 3:36 | 2025-07-23 |  |
 | [Estoy Tan Gris](https://open.spotify.com/track/0I0QleAkiY1kPI8ZKm84EH) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N) | 3:48 | 2023-08-25 | 2024-11-09 |
 | [Fantasma](https://open.spotify.com/track/7zVdRFV3Uv2eiHXVcUx3fO) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 3:42 | 2023-08-25 | 2024-07-08 |
 | [Fantasma \(En Vivo\)](https://open.spotify.com/track/6nITBK0KfnuoP7RJ8Mmfoi) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 3:46 | 2024-07-19 |  |

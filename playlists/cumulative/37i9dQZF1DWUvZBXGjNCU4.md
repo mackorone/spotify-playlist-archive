@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-402 songs - 18 hr 4 min
+403 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Matter Of Time](https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Matter Of Time](https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi) | 1:47 | 2022-07-15 | 2023-09-16 |
 | [Meadows](https://open.spotify.com/track/1808M1IEnm8OFn0FDQvJDm) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Meadows](https://open.spotify.com/album/6HVfGn8vy3W6zFcpf3Oz2b) | 3:22 | 2024-04-19 |  |
 | [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 | 2023-06-22 | 2024-02-02 |
+| [Meeting and Passing](https://open.spotify.com/track/1V6MaIG0Ad0WTXIFYJJHmw) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Meeting and Passing](https://open.spotify.com/album/5jwABaertIL4wbwvMDGlfu) | 2:41 | 2025-07-22 |  |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2022-05-13 | 2022-06-10 |
 | [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 | 2023-03-31 |  |
 | [Mindset](https://open.spotify.com/track/4KGyiKKDpKNGcn46Nbz5qj) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Mindset](https://open.spotify.com/album/402gxdke8XzhCG8MKkXT4b) | 2:25 | 2024-10-01 |  |

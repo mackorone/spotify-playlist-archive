@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,261 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,414 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 31 | [Look Ma, No Brains!](https://open.spotify.com/track/6zypPV86f8oALbijmqDsrv) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:03 |
 | 32 | [Nice Guys Finish Last](https://open.spotify.com/track/0EonrvTzzNScmk7QT4L3dw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:48 |
 | 33 | [When It's Time](https://open.spotify.com/track/5nGCVIpxp0u4AYpVpK0pv4) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \- The Original Broadway Cast Recording](https://open.spotify.com/album/1wO2srr9om17YtEvouoBue) | 3:23 |
-| 34 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 |
-| 35 | [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 |
-| 36 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 |
+| 34 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 |
+| 35 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 |
+| 36 | [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 |
 | 37 | [Redundant](https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 3:18 |
-| 38 | [Give Me Novacaine](https://open.spotify.com/track/1usftPV8tzkWQmjwofR2ke) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug) | 3:26 |
+| 38 | [St\. Jimmy](https://open.spotify.com/track/09hW1hlP52DBiU3aO8jkgz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug) | 2:55 |
 | 39 | [Suzie Chapstick](https://open.spotify.com/track/3SzRlYb9HkQvZhlgotZA8w) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:16 |
 | 40 | [Macy's Day Parade](https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:33 |
 | 41 | [21st Century Breakdown](https://open.spotify.com/track/0RT1qESYHlNcUJI0Yo5Hzl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:09 |
-| 42 | [St\. Jimmy](https://open.spotify.com/track/09hW1hlP52DBiU3aO8jkgz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug) | 2:55 |
+| 42 | [Give Me Novacaine](https://open.spotify.com/track/1usftPV8tzkWQmjwofR2ke) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug) | 3:26 |
 | 43 | [Oh Love](https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 5:03 |
 | 44 | [Fuck Off \- FIDLAR Alt Mix](https://open.spotify.com/track/65yJ2gJrgy5cCR6LAPhbac) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp) | 2:09 |
 | 45 | [The Grouch](https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 49 | [Scattered](https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 3:02 |
 | 50 | [Jaded](https://open.spotify.com/track/6uWp8yAt8dN5ZaT7REJ6RV) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 1:30 |
 
-Snapshot ID: `aHwxgAAAAACnvt9NrmEwW6o5vqHoLgZ0`
+Snapshot ID: `aH2DAAAAAABV3sD0dMFp3WtTVB19QU8q`

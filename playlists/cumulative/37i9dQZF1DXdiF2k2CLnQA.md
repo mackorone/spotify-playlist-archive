@@ -2,9 +2,9 @@
 
 ### [VOLUME SWEDEN](https://open.spotify.com/playlist/37i9dQZF1DXdiF2k2CLnQA)
 
-> Den bästa och största rocklistan i Sverige! ⚡️
+> Den bästa och största rocklistan i Sverige!
 
-329 songs - 20 hr 48 min
+330 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 | 2025-04-24 | 2025-05-23 |
 | [Lullaby](https://open.spotify.com/track/5cEHYQPgYp3zfYP3BFzbJA) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Lullaby](https://open.spotify.com/album/1d28BRRg2LDrQxycJWoGiC) | 4:03 | 2024-08-22 |  |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-27 | 2024-08-02 |
+| [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2025-07-22 |  |
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-01-23 | 2025-02-28 |
 | [Man or Machine](https://open.spotify.com/track/67qbDFm5D85FW1SdQdR3zJ) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Man or Machine](https://open.spotify.com/album/47PTlWJZ63K44apcONGkjo) | 2:54 | 2025-02-20 | 2025-04-25 |
 | [Mark Of My Sins](https://open.spotify.com/track/2NCjHF264ecPXqOrcgp8Da) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Mark Of My Sins](https://open.spotify.com/album/4yoXS8P9Ejz8co7Wkugba4) | 3:19 | 2025-04-24 |  |

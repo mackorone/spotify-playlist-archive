@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Alex Warren, Dimitri Vegas, Judith, Roxy Dekker and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,311 likes - 103 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,314 likes - 103 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

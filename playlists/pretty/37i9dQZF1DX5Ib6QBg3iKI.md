@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,309 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,308 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 54 | [My Favorite Things](https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [My Favorite Things](https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt) | 3:11 |
 | 55 | [Make It Home](https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Make It Home](https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g) | 2:59 |
 | 56 | [Christmas Song](https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4) | 3:41 |
-| 57 | [This Christmas Day](https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [This Christmas Day](https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS) | 3:45 |
-| 58 | [We Three Kings](https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Home For Christmas](https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW) | 2:44 |
+| 57 | [We Three Kings](https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Home For Christmas](https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW) | 2:44 |
+| 58 | [This Christmas Day](https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [This Christmas Day](https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS) | 3:45 |
 | 59 | [Last December \(Mountain Music version\)](https://open.spotify.com/track/0tdpnqesuLkETArM451kAP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Last December \(Mountain Music version\)](https://open.spotify.com/album/3iTxeyS0edd2PsD0hruWZi) | 5:35 |
 | 60 | [Let It Snow](https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 2:12 |
 | 61 | [Missing You](https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Missing You](https://open.spotify.com/album/79UhVQyX9bJSasD8bGUw1f) | 4:26 |

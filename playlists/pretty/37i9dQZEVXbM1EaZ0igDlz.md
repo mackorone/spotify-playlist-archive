@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,855 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,861 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 50 | [Plug](https://open.spotify.com/track/5XlJP2J81wF20QariDKRJW) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Plug](https://open.spotify.com/album/62eD2OVzhG6S8jZtHR4D2z) | 2:32 |
 
-Snapshot ID: `MBG0KAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MBMFqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

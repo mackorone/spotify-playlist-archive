@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Listen here for the best emerging British Acts across pop, alternative and more
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 99,148 likes - 81 songs - 4 hr 14 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 99,117 likes - 82 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,5 +89,6 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 | 79 | [Focus Is Power](https://open.spotify.com/track/4GROaskNd81jnetKAkRYXI) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Focus Is Power](https://open.spotify.com/album/5fMeoQB68BWbz9gP2Y9WDg) | 3:06 |
 | 80 | [World At My Feet](https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I WILL.](https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl) | 2:51 |
 | 81 | [Who’s There To Love Without You?](https://open.spotify.com/track/4tBZyQzNxXMvRUdpwv9j95) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Who’s There To Love Without You?](https://open.spotify.com/album/3ZqtUDdI0wz0DNBfE1iKLK) | 3:03 |
+| 82 | [Cold Nights in East](https://open.spotify.com/track/2NKSWoERD3cn3ZBrFfzTXP) | [Nicki Knightz](https://open.spotify.com/artist/4NkCQujaXyJD6CEI0kXroD) | [Cold Nights in East](https://open.spotify.com/album/4BGIh3iQz9FMvviHBvqD6R) | 3:03 |
 
-Snapshot ID: `AAAiMX/IWh6tCQy2zAQO4H2MJXlJRTzY`
+Snapshot ID: `AAAiMpw7S+zdahJ58b0DdeTkxfW6iFZf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,353 likes - 50 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,375 likes - 50 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 46 | [Mi Oración \(La Niña de Tus Ojos\) \[feat\. Melody Adorno\]](https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Melody Adorno](https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o) | [Simple Adoración](https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk) | 8:35 |
 | 47 | [Jireh \- Lofi Remix](https://open.spotify.com/track/17ShT3cqakwxD14w8nLJm0) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [Jireh \(Lofi Remix\)](https://open.spotify.com/album/6F3TM2ui3W5f8SGltEHkol) | 2:38 |
 | 48 | [Thank You \(feat\. Steffany Gretzinger & Chandler Moore\)](https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 7:29 |
-| 49 | [Communion \(feat\. Steffany Gretzinger & Brandon Lake\)](https://open.spotify.com/track/0jPoy99PN9i9DNbwPZanCQ) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Maverick City, Vol\. 2](https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1) | 14:20 |
-| 50 | [Came Too Far \(feat\. Maverick City Music & My Mom\)](https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [My Mom](https://open.spotify.com/artist/2hXLOncPoUkyWl4kagwB4R) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 3:51 |
+| 49 | [Came Too Far \(feat\. Maverick City Music & My Mom\)](https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [My Mom](https://open.spotify.com/artist/2hXLOncPoUkyWl4kagwB4R) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 3:51 |
+| 50 | [Communion \(feat\. Steffany Gretzinger & Brandon Lake\)](https://open.spotify.com/track/0jPoy99PN9i9DNbwPZanCQ) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Maverick City, Vol\. 2](https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1) | 14:20 |
 
-Snapshot ID: `aHwxgAAAAACyny3v24MNIyCqrn7tw5rY`
+Snapshot ID: `aH2DAAAAAAAVJM2p0QnU6XMkyauWMn1P`

@@ -488,7 +488,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 198300,
       "name": "2+2",
       "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
@@ -3616,7 +3616,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 168140,
       "name": "Amiga M\u00eda, Ese hombre No Se Toca",
       "url": "https://open.spotify.com/track/16X0smxpR6F0BjZeY7f2FF"
@@ -4438,7 +4438,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 169656,
       "name": "Apretar +",
       "url": "https://open.spotify.com/track/2zvvoRLAWTaq0PbbcWUsoc"
@@ -8600,7 +8600,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 184421,
       "name": "Body on your Body",
       "url": "https://open.spotify.com/track/0jAgEvfE99n7YFYYihMCnT"
@@ -11002,7 +11002,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 175200,
       "name": "Carita Angelikal",
       "url": "https://open.spotify.com/track/1cMU20gleQO9xYjCeni3DJ"
@@ -14766,7 +14766,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 161200,
       "name": "Cuando Baja La Marea (feat. Regina Bland\u00f3n)",
       "url": "https://open.spotify.com/track/1Vw3eejKjUosMf7oYfGGPx"
@@ -18929,6 +18929,28 @@
     },
     {
       "album": {
+        "name": "POR SI ALGUIEN NOS ESCUCHA",
+        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193386,
+      "name": "D\u00d3NDE",
+      "url": "https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"
+    },
+    {
+      "album": {
         "name": "AMORTAGE",
         "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
       },
@@ -19840,7 +19862,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 147804,
       "name": "El Me Minti\u00f3, Mentiras, Mentiras",
       "url": "https://open.spotify.com/track/2UJwVPIghpeAiU5ERjuycq"
@@ -24746,7 +24768,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 185598,
       "name": "Gameboy",
       "url": "https://open.spotify.com/track/2f1WulnyiYYnseSQWI8Oi9"
@@ -30698,7 +30720,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 222458,
       "name": "Ivonny Bonita",
       "url": "https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c"
@@ -35829,6 +35851,36 @@
     },
     {
       "album": {
+        "name": "Los Rockstar No Van Al Cielo (Remix)",
+        "url": "https://open.spotify.com/album/3uqKgqJu5XEBTZEYWzgiOF"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297623,
+      "name": "Los Rockstar No Van Al Cielo - Remix",
+      "url": "https://open.spotify.com/track/63NzbBRuMRtzMNKhL0RizU"
+    },
+    {
+      "album": {
         "name": "Los Ultimos Son Los Primeros",
         "url": "https://open.spotify.com/album/12AfYR9rwjDAXWsZQvaXof"
       },
@@ -35932,7 +35984,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 209051,
       "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
@@ -40643,6 +40695,24 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2qveemGCix2UWsDkepaq7G"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138573,
+      "name": "Mirage (OP Theme to Call of the Night Season 2)",
+      "url": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg"
+    },
+    {
+      "album": {
         "name": "Mirame",
         "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
       },
@@ -43740,6 +43810,24 @@
       "duration_ms": 130069,
       "name": "No Cap - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G"
+    },
+    {
+      "album": {
+        "name": "POR SI ALGUIEN NOS ESCUCHA",
+        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167706,
+      "name": "NO CRY",
+      "url": "https://open.spotify.com/track/4YM3IYESNKXWYHbPXvMMVD"
     },
     {
       "album": {
@@ -53681,6 +53769,24 @@
     },
     {
       "album": {
+        "name": "POR SI ALGUIEN NOS ESCUCHA",
+        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147066,
+      "name": "RUFF",
+      "url": "https://open.spotify.com/track/0SCO8PWjkv8ppR2QVAOphv"
+    },
+    {
+      "album": {
         "name": "Dr. Bombodee",
         "url": "https://open.spotify.com/album/7K7w6to4R2J9NxPou9iINY"
       },
@@ -59891,6 +59997,32 @@
     },
     {
       "album": {
+        "name": "SUERTE",
+        "url": "https://open.spotify.com/album/7mCiwgVTJt0k8QeLp2Q5rz"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "Slow Jamz",
+          "url": "https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193654,
+      "name": "SUERTE",
+      "url": "https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6"
+    },
+    {
+      "album": {
         "name": "sue\u00f1a lindo, coraz\u00f3n / nuestra casa en el mar Macario",
         "url": "https://open.spotify.com/album/0690s5cHfOfaS5C0CF4VLJ"
       },
@@ -60790,6 +60922,28 @@
       "duration_ms": 167066,
       "name": "Take Me to the Beach (feat. Ado)",
       "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"
+    },
+    {
+      "album": {
+        "name": "Take My Mind",
+        "url": "https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171199,
+      "name": "Take My Mind",
+      "url": "https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS"
     },
     {
       "album": {
@@ -65311,6 +65465,24 @@
     },
     {
       "album": {
+        "name": "TUCHAT",
+        "url": "https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221224,
+      "name": "TUCHAT",
+      "url": "https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de"
+    },
+    {
+      "album": {
         "name": "Tukoh Taka (Official FIFA Fan Festival\u2122Anthem)",
         "url": "https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO"
       },
@@ -68028,7 +68200,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 268075,
       "name": "Viajando Por El Mundo",
       "url": "https://open.spotify.com/track/4w6Wpq1KWk485krowaqUIV"
@@ -70807,6 +70979,28 @@
     },
     {
       "album": {
+        "name": "POR SI ALGUIEN NOS ESCUCHA",
+        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "X TI",
+      "url": "https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx"
+    },
+    {
+      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -71882,7 +72076,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 236053,
       "name": "Young And Beautiful",
       "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"
@@ -72902,6 +73096,24 @@
       "duration_ms": 196466,
       "name": "\u9752\u306e\u3059\u307f\u304b",
       "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
+    },
+    {
+      "album": {
+        "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+        "url": "https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197668,
+      "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+      "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKOefHPXPMyf"

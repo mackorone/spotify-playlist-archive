@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Kokoroko
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,275 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,281 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 16 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 |
 | 17 | [Staring at the Wall](https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Staring at the Wall](https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym) | 4:31 |
 | 18 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 |
-| 19 | [Unforgivable](https://open.spotify.com/track/4YOrvi3CpPvX48symLER3H) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:43 |
-| 20 | [Revival](https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Utah](https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7) | 3:33 |
+| 19 | [Revival](https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Utah](https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7) | 3:33 |
+| 20 | [Unforgivable](https://open.spotify.com/track/4YOrvi3CpPvX48symLER3H) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:43 |
 | 21 | [Good Together](https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Good Together](https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk) | 3:21 |
 | 22 | [S.O.B.](https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [S.O.B.](https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI) | 4:07 |
 | 23 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 35 | [She Don't Love Me Now](https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R) | [Jesse Malin](https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [She Don't Love Me Now](https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn) | 3:27 |
 | 36 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 |
 | 37 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 |
-| 38 | [In and Out of Love](https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [A Real Fine Mess \(Deluxe Version\)](https://open.spotify.com/album/3X43SBnfPj79lGPW1eEaq7) | 2:49 |
-| 39 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 |
+| 38 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 |
+| 39 | [In and Out of Love](https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [A Real Fine Mess \(Deluxe Version\)](https://open.spotify.com/album/3X43SBnfPj79lGPW1eEaq7) | 2:49 |
 | 40 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 |
 | 41 | [Quit You](https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:49 |
 | 42 | [Dance For Love](https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Dance For Love](https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE) | 4:22 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 48 | [Will I Ever Know](https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Cosmos](https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS) | 3:39 |
 | 49 | [Take My Heart](https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg) | 4:18 |
 | 50 | [For Your Consideration](https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Have a Seat](https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ) | 3:51 |
-| 51 | [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 |
-| 52 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
+| 51 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
+| 52 | [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 |
 | 53 | [Reelin'](https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C) | 3:28 |
 | 54 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
 | 55 | [Stomp and Holler](https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Hard Working Americans](https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN) | 4:48 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 66 | [Don't Please Yourself](https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt) | [Foy Vance](https://open.spotify.com/artist/19KpAubI0RsVw5AZjvnDGk) | [Watermelon Oranges](https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF) | 3:27 |
 | 67 | [Nobody Sweeter](https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4) | [Grace Love and the True Loves](https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB) | [Grace Love and the True Loves](https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK) | 3:03 |
 | 68 | [Sister Andre](https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Sister Andre](https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp) | 3:05 |
-| 69 | [Trouble in Mind](https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61) | [The Bumper Jacksons](https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN) | [Too Big World](https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2) | 4:37 |
-| 70 | [King of Bohemia](https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy) | [Betty & Oswald](https://open.spotify.com/artist/3Z8uzX8UEtNGYskkZJ9Acp) | [King of Bohemia](https://open.spotify.com/album/0xLHW7kjCKGGRN7uaFRxH0) | 3:38 |
+| 69 | [King of Bohemia](https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy) | [Betty & Oswald](https://open.spotify.com/artist/3Z8uzX8UEtNGYskkZJ9Acp) | [King of Bohemia](https://open.spotify.com/album/0xLHW7kjCKGGRN7uaFRxH0) | 3:38 |
+| 70 | [Trouble in Mind](https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61) | [The Bumper Jacksons](https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN) | [Too Big World](https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2) | 4:37 |
 | 71 | [It Must Change](https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [It Must Change](https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk) | 4:55 |
 | 72 | [Blown Away](https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Blown Away](https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM) | 3:12 |
 | 73 | [Bend](https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Bend](https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq) | 4:06 |

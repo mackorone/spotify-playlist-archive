@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Mida e VillaBanks e tutte le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,687 likes - 132 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,684 likes - 132 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 25 | [White Wine & Adderall](https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [White Wine & Adderall](https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK) | 2:58 |
 | 26 | [I luv that babe](https://open.spotify.com/track/6ZT6neqII47y0pj6jekfS4) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [I luv that babe](https://open.spotify.com/album/4Tkh0wRWbGH1qLq00laUYc) | 2:20 |
 | 27 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 |
-| 28 | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
+| 28 | [You Can’t Run From Yourself \- From "Kaiju No\. 8"](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
 | 29 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 |
 | 30 | [From Disco To Disco](https://open.spotify.com/track/1MzPUIynJATkuvympwipnm) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [From Disco To Disco](https://open.spotify.com/album/4oq6QME2y7Xf5vYC5zHmxG) | 2:21 |
 | 31 | [Mediterranea \- Dumar Remix](https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3), [Dumar](https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba) | [Mediterranea \(Dumar Remix\)](https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4) | 3:04 |

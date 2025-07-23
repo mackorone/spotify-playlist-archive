@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,566 likes - 174 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,565 likes - 174 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 123 | [Miracles](https://open.spotify.com/track/4PHMdyklCcSlTCOvW4sJN5) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [P.M.](https://open.spotify.com/album/6EgGNPLYyZQ8PgqBykq5M3) | 3:24 |
 | 124 | [Tucan](https://open.spotify.com/track/4iWxyU3bl4KBozjH4fuVkR) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Modern Love](https://open.spotify.com/album/3hPVK7WbtRJgvuKSPNApfD) | 3:57 |
 | 125 | [Can't Help Myself](https://open.spotify.com/track/7IwihaZkKuKGB4UkzL4TPY) | [The V Motion Project](https://open.spotify.com/artist/0hrAoynZTWGkQTuFrmguc8) | [Can't Help Myself](https://open.spotify.com/album/3tF2Cjls2RsgUG4szvpCZz) | 2:57 |
-| 126 | [Komodo](https://open.spotify.com/track/4Ezi4NjC5lB2s5JhmOrD5K) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Modern Love](https://open.spotify.com/album/3hPVK7WbtRJgvuKSPNApfD) | 3:45 |
-| 127 | [It's Nice to Feel This Way Again](https://open.spotify.com/track/59tXrequSEaYqew4Ho1BR5) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sunday Sadness](https://open.spotify.com/album/3jXEFj8GkFU09uIf3Ejmlc) | 2:25 |
+| 126 | [It's Nice to Feel This Way Again](https://open.spotify.com/track/59tXrequSEaYqew4Ho1BR5) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sunday Sadness](https://open.spotify.com/album/3jXEFj8GkFU09uIf3Ejmlc) | 2:25 |
+| 127 | [Komodo](https://open.spotify.com/track/4Ezi4NjC5lB2s5JhmOrD5K) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Modern Love](https://open.spotify.com/album/3hPVK7WbtRJgvuKSPNApfD) | 3:45 |
 | 128 | [Death Goes to Disco](https://open.spotify.com/track/6pahHXIyqb8ZHHxiggzcKu) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:34 |
 | 129 | [Downtown](https://open.spotify.com/track/5V56ok0zVMuNpHJPxRkjrJ) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:08 |
 | 130 | [Take Me All The Way](https://open.spotify.com/track/3w2sEZ2JEP4IIhzM3FWVVc) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY) | [Take Me All The Way](https://open.spotify.com/album/0YrOVtqaFrqeH4wipG4Edp) | 2:51 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 173 | [Stay](https://open.spotify.com/track/7l8HiGTHMix5788jAiekrb) | [indi](https://open.spotify.com/artist/1m7azj0LWTDGWAPvgvGPGa) | [Stay](https://open.spotify.com/album/5j0FgJxARSQd91znRQrVkd) | 4:09 |
 | 174 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
 
-Snapshot ID: `Ab3ZsgAAAAD+FxK29/ZCC+UJuKBo1O13`
+Snapshot ID: `Ab3fSAAAAABNhqOF99Wu0+qrgIbCN3g4`

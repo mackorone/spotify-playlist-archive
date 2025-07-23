@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 923174,
+  "num_followers": 923240,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAACy2AMyGEtVPFSivDMOptYw",
+  "snapshot_id": "aH2DAAAAAADBt9strxhf3ZJizWXuaqHb",
   "tracks": [
     {
       "added_at": null,
@@ -843,42 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friday Night Lights",
-        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 225247,
-      "name": "Too Deep for the Intro",
-      "url": "https://open.spotify.com/track/3v6oMGduetl7GA67POX9Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        }
-      ],
-      "duration_ms": 135213,
-      "name": "Stealth Mode (feat. Bas)",
-      "url": "https://open.spotify.com/track/3zyjnHtoi8AtiGgZFnJP7O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
@@ -891,6 +855,22 @@
       "duration_ms": 276093,
       "name": "Rich Niggaz",
       "url": "https://open.spotify.com/track/6lKCaafKm88sVfYz2u7S4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 225247,
+      "name": "Too Deep for the Intro",
+      "url": "https://open.spotify.com/track/3v6oMGduetl7GA67POX9Dm"
     },
     {
       "added_at": null,
@@ -923,6 +903,26 @@
       "duration_ms": 382306,
       "name": "Sacrifices (with EARTHGANG & J. Cole feat. Smino & Saba)",
       "url": "https://open.spotify.com/track/7wTA0NKIm6T7nP2kaymU2a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        }
+      ],
+      "duration_ms": 135213,
+      "name": "Stealth Mode (feat. Bas)",
+      "url": "https://open.spotify.com/track/3zyjnHtoi8AtiGgZFnJP7O"
     },
     {
       "added_at": null,

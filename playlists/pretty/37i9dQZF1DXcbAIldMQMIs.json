@@ -1,6 +1,6 @@
 {
   "description": "mommy? mamacita!",
-  "num_followers": 682603,
+  "num_followers": 683722,
   "original_name": "crash out",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-06-27 04:00:34",
       "album": {
-        "name": "How to: Friend, Love, Freefall",
-        "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 152293,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
-    },
-    {
-      "added_at": "2025-06-27 04:00:34",
-      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 613026,
       "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
+    },
+    {
+      "added_at": "2025-06-27 04:00:34",
+      "album": {
+        "name": "How to: Friend, Love, Freefall",
+        "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 152293,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
     },
     {
       "added_at": "2025-06-27 04:00:34",
@@ -787,26 +787,6 @@
     {
       "added_at": "2025-06-27 04:00:34",
       "album": {
-        "name": "THIS IS... ICONA POP",
-        "url": "https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 157152,
-      "name": "I Love It (feat. Charli XCX)",
-      "url": "https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"
-    },
-    {
-      "added_at": "2025-06-27 04:00:34",
-      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 319253,
       "name": "IFHY (feat. Pharrell)",
       "url": "https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr"
+    },
+    {
+      "added_at": "2025-06-27 04:00:34",
+      "album": {
+        "name": "THIS IS... ICONA POP",
+        "url": "https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 157152,
+      "name": "I Love It (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"
     },
     {
       "added_at": "2025-06-27 04:00:34",

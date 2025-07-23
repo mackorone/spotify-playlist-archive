@@ -4,7 +4,7 @@
 
 > Listen to the soundtrack and selections from WORLD OF STREET WOMAN FIGHTER.
 
-78 songs - 3 hr 51 min
+79 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Electric Relaxation](https://open.spotify.com/track/5JW7xIcR5fEqzrR7YRV0eM) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [Coffeehouse Classics Vol\. 1](https://open.spotify.com/album/2kcUXoH9BvKlt1eEsQkRR6) | 3:45 | 2025-05-14 |  |
 | [Flip Flop \(Prod\. Padi\)](https://open.spotify.com/track/6RZMwZQkoTLoPkwkA9rurA) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:59 | 2025-06-11 |  |
 | [Gang′s Spirit Queen′s Move \(OSAKA Ojo Gang Crew\)](https://open.spotify.com/track/1M02GfXgbtrzGEaFQzcX9B) | [WORLD OF STREET WOMAN FIGHTER \(WSWF\)](https://open.spotify.com/artist/5NzvDUeOc9JCP5yMnEInIX) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.0 \(Cheering Theme\)](https://open.spotify.com/album/33kKKW2JYwI9bRDxIPR4Md) | 0:37 | 2025-05-14 |  |
+| [Gatsby](https://open.spotify.com/track/38rDIfu9GO3UyaJA3Q1nME) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.4 \(Final\)](https://open.spotify.com/album/12hcmeswdihbmRuEbQ2wHE) | 2:07 | 2025-07-23 |  |
 | [Get Busy \- Odd Mob Club Mix](https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Get Busy \(Odd Mob Club Mix\)](https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW) | 2:45 | 2025-05-14 |  |
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2025-05-14 |  |
 | [GOING IN](https://open.spotify.com/track/55PXEgUaHHEwIiPHyGw9dO) | [RIEHATA](https://open.spotify.com/artist/2O6eMK8WBPIaDVIPVNbs0v) | [GOING IN](https://open.spotify.com/album/0Mh9G0YnLwn7xVAgqc4W0v) | 2:39 | 2025-05-14 |  |

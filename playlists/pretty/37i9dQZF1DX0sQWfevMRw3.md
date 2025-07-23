@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Det Löser Sej🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,955 likes - 110 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,996 likes - 110 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
 | 2 | [Sluta.](https://open.spotify.com/track/7dFdNSV05JBZu71mEDAdnx) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Sluta.](https://open.spotify.com/album/4oT81ZodJJHe60BECu9o0P) | 2:30 |
 | 3 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
-| 4 | [Fiesta Forever](https://open.spotify.com/track/3miozYykPluP5NPCxljs7U) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Fiesta Forever](https://open.spotify.com/album/53iqJS134CUpUbdJnDUecQ) | 2:36 |
-| 5 | [BANANANAS](https://open.spotify.com/track/4wk5F6LPPm0DTl0kA5r25K) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [BANANANAS](https://open.spotify.com/album/6eJNlN1SvQB9HrTSvjbcj6) | 2:25 |
-| 6 | [2 Blå](https://open.spotify.com/track/68SXARy5L9fGZT0WOwfyx6) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [2 Blå](https://open.spotify.com/album/57M44RJizK2hyRYTH7Hrn7) | 2:45 |
-| 7 | [Bender](https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bender](https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn) | 2:19 |
-| 8 | [Superman](https://open.spotify.com/track/5c9RMGr7zFWpMrJJ1KsOJX) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Superman](https://open.spotify.com/album/1rLlliYqE7VNIzhQZUid9a) | 2:29 |
-| 9 | [Varför ska hon inte få?](https://open.spotify.com/track/3kTx9MFz3d2SNzZNRLgh9Z) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Varför ska hon inte få?](https://open.spotify.com/album/5XfNghz9vigzQNFDkPidN3) | 2:31 |
+| 4 | [BANANANAS](https://open.spotify.com/track/4wk5F6LPPm0DTl0kA5r25K) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [BANANANAS](https://open.spotify.com/album/6eJNlN1SvQB9HrTSvjbcj6) | 2:25 |
+| 5 | [2 Blå](https://open.spotify.com/track/68SXARy5L9fGZT0WOwfyx6) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [2 Blå](https://open.spotify.com/album/57M44RJizK2hyRYTH7Hrn7) | 2:45 |
+| 6 | [Bender](https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bender](https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn) | 2:19 |
+| 7 | [Superman](https://open.spotify.com/track/5c9RMGr7zFWpMrJJ1KsOJX) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Superman](https://open.spotify.com/album/1rLlliYqE7VNIzhQZUid9a) | 2:29 |
+| 8 | [Varför ska hon inte få?](https://open.spotify.com/track/3kTx9MFz3d2SNzZNRLgh9Z) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Varför ska hon inte få?](https://open.spotify.com/album/5XfNghz9vigzQNFDkPidN3) | 2:31 |
+| 9 | [Fiesta Forever](https://open.spotify.com/track/3miozYykPluP5NPCxljs7U) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Fiesta Forever](https://open.spotify.com/album/53iqJS134CUpUbdJnDUecQ) | 2:36 |
 | 10 | [Drugs N Love](https://open.spotify.com/track/5bpNC61pnAqXWJg8CLoxhP) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Drugs N Love](https://open.spotify.com/album/7BA0yBsgnoyTmGQXRZJVgU) | 2:18 |
 | 11 | [DYNGRAUK](https://open.spotify.com/track/62f56QRztFxQl3LlrZUivU) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [DYNGRAUK](https://open.spotify.com/album/5aDClENi3R8ttKoDgCDhnG) | 2:43 |
 | 12 | [Se dig naken igen](https://open.spotify.com/track/7CyHiCbqRj4RokUXYbHndJ) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Se dig naken igen](https://open.spotify.com/album/30YVIl0fpuUAH1IrILSvJQ) | 2:16 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 109 | [Salut \- Sped Up Remix](https://open.spotify.com/track/3WBuGQ1ZQi72TY8HXrcK7V) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Salut \(Sped Up Remix\)](https://open.spotify.com/album/5x9vEH7SOMu1l1xUyfAGpP) | 2:16 |
 | 110 | [Viva La Vida](https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX) | 2:27 |
 
-Snapshot ID: `aHlyfwAAAACdQrrmGW/ga6cuec0U/5Yf`
+Snapshot ID: `aH85KwAAAAALzhYUziIqAiyGBAVmePWc`

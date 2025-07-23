@@ -1,6 +1,6 @@
 {
   "description": "The best tunes in Jazz history. ",
-  "num_followers": 4315451,
+  "num_followers": 4316339,
   "original_name": "Jazz Classics",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
+        "name": "Candy (Remastered)",
+        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 339333,
+      "name": "Since I Fell For You - Rudy Van Gelder Edition / 2007 / Digital Remaster",
+      "url": "https://open.spotify.com/track/6MXrGG7nff0FXBQJa5UF9P"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
         "name": "My Favorite Things (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 190400,
       "name": "Alone Together - Rudy Van Gelder Remaster 2006",
       "url": "https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
-        "name": "Candy (Remastered)",
-        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 339333,
-      "name": "Since I Fell For You - Rudy Van Gelder Edition / 2007 / Digital Remaster",
-      "url": "https://open.spotify.com/track/6MXrGG7nff0FXBQJa5UF9P"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "Blues Walk",
-        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Autumn Nocturne",
-      "url": "https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
         "name": "Mingus Ah Um",
         "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 342373,
       "name": "Goodbye Pork Pie Hat",
       "url": "https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
+        "name": "Blues Walk",
+        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Autumn Nocturne",
+      "url": "https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        },
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 346920,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/6PKCEB5JzjCizpz9hUQcpX"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 291173,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
+        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 346920,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/6PKCEB5JzjCizpz9hUQcpX"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/6Ieo4Lrku0sQ63Pd9G8j3L"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/2xm9ihELo6xwrRKrBbPql9"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
         "name": "On Time",
         "url": "https://open.spotify.com/album/5LiPzuR79DTTmyROUm2luC"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 354573,
       "name": "Besame Mucho",
       "url": "https://open.spotify.com/track/1GZD0TZJHmdQaZsucHBmWT"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/6Ieo4Lrku0sQ63Pd9G8j3L"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/2xm9ihELo6xwrRKrBbPql9"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "Dindi",
-      "url": "https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
         "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "The K\u00f6ln Concert",
-        "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
         }
       ],
-      "duration_ms": 416840,
-      "name": "K\u00f6ln, January 24, 1975, Part II c - Live",
-      "url": "https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e"
+      "duration_ms": 161173,
+      "name": "Dindi",
+      "url": "https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -1515,6 +1499,22 @@
       "duration_ms": 403360,
       "name": "April In Paris - 2007 Remaster/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
+        "name": "The K\u00f6ln Concert",
+        "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 416840,
+      "name": "K\u00f6ln, January 24, 1975, Part II c - Live",
+      "url": "https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "C Jam Blues",
+      "url": "https://open.spotify.com/track/4aThNuFztJ15YremppiZUJ"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
         "name": "Journey in Satchidananda",
         "url": "https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 396066,
       "name": "Journey In Satchidananda",
       "url": "https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 203466,
-      "name": "C Jam Blues",
-      "url": "https://open.spotify.com/track/4aThNuFztJ15YremppiZUJ"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "Relaxin' With The Miles Davis Quintet",
-        "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 396960,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/34xixFi5y3I5FIOH1ZWisx"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
         "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 392000,
       "name": "Search For Peace",
       "url": "https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
+        "name": "Relaxin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 396960,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/34xixFi5y3I5FIOH1ZWisx"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -2047,26 +2047,6 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "A Day in Copenhagen",
-        "url": "https://open.spotify.com/album/6JJtcOy0LWIT5Kh9W3m1CC"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        },
-        {
-          "name": "Slide Hampton",
-          "url": "https://open.spotify.com/artist/1JrZuQYlOzhNj1nvlB0Yys"
-        }
-      ],
-      "duration_ms": 297875,
-      "name": "The Shadow of Your Smile",
-      "url": "https://open.spotify.com/track/0sRAziWSeUedBSKjapsy9F"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
       },
@@ -2083,6 +2063,26 @@
       "duration_ms": 188960,
       "name": "Line For Lyons",
       "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
+        "name": "A Day in Copenhagen",
+        "url": "https://open.spotify.com/album/6JJtcOy0LWIT5Kh9W3m1CC"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        },
+        {
+          "name": "Slide Hampton",
+          "url": "https://open.spotify.com/artist/1JrZuQYlOzhNj1nvlB0Yys"
+        }
+      ],
+      "duration_ms": 297875,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/0sRAziWSeUedBSKjapsy9F"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 282666,
-      "name": "Until The Real Thing Comes Along",
-      "url": "https://open.spotify.com/track/4F0sSQCicLl5tme407ubvS"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -2179,6 +2163,26 @@
       "duration_ms": 405226,
       "name": "I'm A Fool To Want You",
       "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
+        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 255626,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/5eJ90rBnkUv7PqxgTExfvd"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -2235,26 +2239,6 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        },
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 255626,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/5eJ90rBnkUv7PqxgTExfvd"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
         "name": "A New Perspective (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3LG1c3DYgaEtCxea2z7ZSa"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 343280,
       "name": "Cristo Redentor - Remastered",
       "url": "https://open.spotify.com/track/0Xfq6BeOHdzf16gk9y8a1P"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "Until The Real Thing Comes Along",
+      "url": "https://open.spotify.com/track/4F0sSQCicLl5tme407ubvS"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -2383,42 +2383,6 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "Hamp & Getz",
-        "url": "https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o"
-      },
-      "artists": [
-        {
-          "name": "Lionel Hampton",
-          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 407800,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
-        "name": "F\u00e4bodjazz",
-        "url": "https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW"
-      },
-      "artists": [
-        {
-          "name": "Lars Gullin",
-          "url": "https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI"
-        }
-      ],
-      "duration_ms": 338733,
-      "name": "Danny's Dream",
-      "url": "https://open.spotify.com/track/13hLjPatKentvawsFceF9a"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
         "name": "Saxophone Colossus",
         "url": "https://open.spotify.com/album/0yodD8uAkAT5UmrlF2xy97"
       },
@@ -2443,6 +2407,42 @@
       "duration_ms": 406266,
       "name": "St. Thomas",
       "url": "https://open.spotify.com/track/0zQE77yszbyv61M4NboU2u"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
+        "name": "F\u00e4bodjazz",
+        "url": "https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW"
+      },
+      "artists": [
+        {
+          "name": "Lars Gullin",
+          "url": "https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI"
+        }
+      ],
+      "duration_ms": 338733,
+      "name": "Danny's Dream",
+      "url": "https://open.spotify.com/track/13hLjPatKentvawsFceF9a"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
+        "name": "Hamp & Getz",
+        "url": "https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 407800,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -2839,22 +2839,6 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 417320,
-      "name": "Foolin' Myself",
-      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
         "name": "Just Coolin'",
         "url": "https://open.spotify.com/album/7EgjzSVwj5Y8L897m3UiUK"
       },
@@ -2867,6 +2851,22 @@
       "duration_ms": 400446,
       "name": "Hipsippy Blues",
       "url": "https://open.spotify.com/track/3iFlfQ0CXc9URaAvai8VUe"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 417320,
+      "name": "Foolin' Myself",
+      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -3135,22 +3135,6 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 435440,
-      "name": "Night Dreamer - Remastered 2004 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
         "name": "The Best Of Clifford Brown",
         "url": "https://open.spotify.com/album/0oWFL44UweyyQSawMSHA4L"
       },
@@ -3183,6 +3167,22 @@
       "duration_ms": 733066,
       "name": "Tenor Madness - Rudy Van Gelder Remastered 2006 / Shared ISRC",
       "url": "https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 435440,
+      "name": "Night Dreamer - Remastered 2004 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -3395,22 +3395,6 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 154706,
-      "name": "I Thought About You",
-      "url": "https://open.spotify.com/track/0Lr4NSIlDOKcZWwMOPcxGT"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
         "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
       },
@@ -3427,6 +3411,22 @@
       "duration_ms": 412653,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 154706,
+      "name": "I Thought About You",
+      "url": "https://open.spotify.com/track/0Lr4NSIlDOKcZWwMOPcxGT"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -3547,22 +3547,6 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "Warm Woods",
-        "url": "https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
-        }
-      ],
-      "duration_ms": 484106,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/3YiuJ3OstUEa93UBqb1vcn"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
         "name": "We've Only Just Begun",
         "url": "https://open.spotify.com/album/6ynS20qvBhX3zrvhCY9w93"
       },
@@ -3575,6 +3559,22 @@
       "duration_ms": 232377,
       "name": "Monticello",
       "url": "https://open.spotify.com/track/0FKnknau5UBXgN2Q6vVHgC"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
+        "name": "Warm Woods",
+        "url": "https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        }
+      ],
+      "duration_ms": 484106,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/3YiuJ3OstUEa93UBqb1vcn"
     },
     {
       "added_at": "2025-01-07 13:20:15",

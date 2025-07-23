@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,073 likes - 125 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,074 likes - 125 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 26 | [We'll Be Fine](https://open.spotify.com/track/7udsBKuqnJ5csWTAkR0vEI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 4:07 |
 | 27 | [Lion King On Ice](https://open.spotify.com/track/1ZvBVbsaNqHEP6ymXaPGlj) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/1wRfMGVxmo1Gokg7nUwHye) | 3:30 |
 | 28 | [\[The Jackie\] \(with J\. Cole & Lil Tjay\)](https://open.spotify.com/track/2cny5OSTr2976U3o018GoV) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 3:24 |
-| 29 | [Somethin Tells Me](https://open.spotify.com/track/3Jrs7cC2OJNlNSy9VnDOMZ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 3:14 |
-| 30 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 |
+| 29 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 |
+| 30 | [Somethin Tells Me](https://open.spotify.com/track/3Jrs7cC2OJNlNSy9VnDOMZ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 3:14 |
 | 31 | [Mannequin Challenge \(feat\. Juice WRLD\)](https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:42 |
 | 32 | [Go Get It](https://open.spotify.com/track/2gPl93XdGnfKUykwxVHUYt) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 3:37 |
 | 33 | [Zeus \(feat\. White Gold\)](https://open.spotify.com/track/2lPE6W6ONJKmBE6hLjpIYo) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [White Gold](https://open.spotify.com/artist/79KQgTCu4wV38ECYKn62DZ) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 3:50 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 124 | [No More \- Instrumental](https://open.spotify.com/track/3yE6B9IbyI1zDQmEvGvM0K) | [New Boyz](https://open.spotify.com/artist/1ZKqrja0WvbSssYNFO3lzs) | [Skinny Jeanz and a Mic \(Instrumental\)](https://open.spotify.com/album/1VbN8kbddayHzCw4oYTw0K) | 3:55 |
 | 125 | [Hard to Breathe](https://open.spotify.com/track/2h4Tn7GeqjoaecdelWzQg3) | [Nathan Hammah](https://open.spotify.com/artist/0VO2sPJm8C90oOPHjrEOtg), [Hooks](https://open.spotify.com/artist/2kz5a2KrH2NBXBv1TgEmz6), [Monique](https://open.spotify.com/artist/11IltqNFT9YGgvsGmE1TOr) | [Hard to Breathe](https://open.spotify.com/album/3m7SNrSb4xYrO8t4pF6zq8) | 3:23 |
 
-Snapshot ID: `Ab3ZsgAAAAA07Ne3avvRNRPA9uyISVy4`
+Snapshot ID: `Ab3fZgAAAAD7DRfgfRtQowqpwv4moZZ7`

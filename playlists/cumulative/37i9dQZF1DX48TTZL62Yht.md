@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: Travis Scott
 
-818 songs - 1 day 18 hr 17 min
+819 songs - 1 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-04-29 | 2025-01-24 |
 | [In The UK](https://open.spotify.com/track/7kWXW1tYyE2cOR11TPkKT7) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [In The UK](https://open.spotify.com/album/7ueX2aPzPqbryfJKHnJPTh) | 3:03 | 2022-12-02 | 2022-12-10 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2022-01-21 | 2024-01-13 |
-| [Insecurities](https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Insecurities](https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi) | 2:07 | 2024-12-05 |  |
+| [Insecurities](https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Insecurities](https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi) | 2:07 | 2024-12-05 | 2025-07-23 |
 | [Intro \(Hate On Me\)](https://open.spotify.com/track/4s7TIubkdsgdtDEDFEAYVL) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 2:54 | 2022-01-14 | 2022-06-03 |
 | [Is That Ight?](https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:58 | 2023-05-05 | 2023-10-13 |
 | [iSpy](https://open.spotify.com/track/0WjYgf4qH3B0v0HmW61doL) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [iSpy](https://open.spotify.com/album/55cXOrwWxwycCFL8wbXi6L) | 4:13 | 2022-04-01 | 2022-04-12 |
@@ -402,6 +402,7 @@
 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2024-04-12 |  |
 | [LEVELS](https://open.spotify.com/track/76FG8HZ27lqfceC1af0aHn) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [LEVELS](https://open.spotify.com/album/5zMY9dBNuoHLWsxtCdSEZj) | 2:42 | 2022-04-29 | 2022-07-29 |
 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 | 2022-03-11 | 2022-08-05 |
+| [Life of a Boss](https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:04 | 2025-07-22 |  |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-09-12 |  |
 | [Like This](https://open.spotify.com/track/2M2Pug4zwMialHSwACPlU1) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Like This](https://open.spotify.com/album/7hUMkRbKfBbD9YBan9YY75) | 2:43 | 2022-01-07 | 2022-07-28 |
 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-04-18 | 2024-08-02 |

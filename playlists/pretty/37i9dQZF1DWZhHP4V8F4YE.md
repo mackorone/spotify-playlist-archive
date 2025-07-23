@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,499 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,730 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 11 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU) | 3:04 |
 | 12 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 13 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 |
-| 14 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
+| 14 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
 | 15 | [Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Egwu](https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi) | 2:16 |
 | 16 | [Ogechi \(feat\. Davido\) \- Remix](https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Ogechi \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4) | 3:12 |
 | 17 | [Uncle Pele](https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp) | [Dxtiny](https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ) | [Uncle Pele / Sew\-Tape](https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc) | 2:51 |

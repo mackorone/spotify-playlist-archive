@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-602 songs - 1 day 17 hr 44 min
+603 songs - 1 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,11 +349,12 @@
 | [Need To Feel Loved \- Tinlicker Remix](https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN) | [Reflekt](https://open.spotify.com/artist/6TwTAUcCILwoSPY2N3etuY), [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Anjunabeats Volume 14](https://open.spotify.com/album/3SppKnyNf5sdqLxCMwsTzX) | 5:08 | 2021-05-07 | 2024-04-06 |
 | [Neon Jungle \- Lane 8 Remix](https://open.spotify.com/track/02u5cHxHuJ6NpUIhGsdbU7) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Neon Jungle \(Lane 8 Remix\)](https://open.spotify.com/album/1Arn6M713Pq2l6JuGcENCC) | 4:09 | 2021-05-07 | 2022-07-29 |
 | [Neon Jungle \- Lane 8 Remix](https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Neon Jungle Remixes](https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2) | 4:09 | 2022-07-01 | 2023-05-04 |
-| [Never Alone](https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Never Alone](https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi) | 3:06 | 2024-08-09 |  |
+| [Never Alone](https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Never Alone](https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi) | 3:06 | 2024-08-09 | 2025-07-23 |
 | [Never Forget You](https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh) | 3:04 | 2025-03-21 |  |
 | [Never Let Me Go](https://open.spotify.com/track/461Usqeu4aQSrkm36xPvqN) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Never Let Me Go](https://open.spotify.com/album/1wZnDT6rUpSgPvrxpmfUA9) | 5:37 | 2025-02-28 |  |
 | [Never Look Back](https://open.spotify.com/track/2eWJ7zxXXSy69oJf5143Wm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Never Look Back](https://open.spotify.com/album/2rWwHs1pK0dg4eV9pudC3y) | 3:42 | 2021-05-07 | 2022-07-28 |
 | [Night Drive](https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Night Drive](https://open.spotify.com/album/7FwIAvFrHKLjmwaWV3mIOs) | 3:24 | 2024-07-02 | 2025-05-04 |
+| [Night Time](https://open.spotify.com/track/6lRMBIxee93wZmbUMgzqOD) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Night Time](https://open.spotify.com/album/0PJGRfQTywmeibJjwL756e) | 3:18 | 2025-07-18 |  |
 | [No Matter What](https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [No Matter What](https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO) | 3:22 | 2024-07-19 |  |
 | [No Need To Hide](https://open.spotify.com/track/024TgtXFxGA9oxeW36nzI8) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Quibus](https://open.spotify.com/artist/55rtigPkEd4FHbLBF2bwz4), [Marcel Young](https://open.spotify.com/artist/3MpVjrkJSjDGuqopgOqoPm) | [Whatever Realm / No Need To Hide](https://open.spotify.com/album/5FKnTHA2BcxHui4xe8qNgQ) | 4:39 | 2021-08-27 | 2022-07-28 |
 | [No One’s Coming](https://open.spotify.com/track/1OEV1ikFNp6iGH2oIixzhA) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8) | [New World](https://open.spotify.com/album/2FYKOfOhEXB3iUfjay4ZRl) | 3:38 | 2024-04-19 | 2024-06-15 |

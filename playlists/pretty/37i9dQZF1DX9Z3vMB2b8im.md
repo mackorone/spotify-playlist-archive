@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,304,752 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,304,776 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,23 +60,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 50 | [peace](https://open.spotify.com/track/6rTUr8OpU5kcSqLGL2TmyR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv) | 3:54 |
 | 51 | [Earthstar](https://open.spotify.com/track/73pJ9jnsBhDIyXrIxlBKyZ) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 4:03 |
 | 52 | [Tell Somebody](https://open.spotify.com/track/4X3hEZz6tBEhXEjwcN0I6J) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:10 |
-| 53 | [Confession](https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:32 |
-| 54 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
+| 53 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
+| 54 | [Confession](https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:32 |
 | 55 | [Joyride \(home demo\)](https://open.spotify.com/track/1crXwNM34nG0P3c55HvqtY) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Joyride \(home demo\)](https://open.spotify.com/album/1a9vLDB7fm36N1EeJe7gV6) | 3:44 |
 | 56 | [Our Time](https://open.spotify.com/track/0TNQTCtjB0tIXbdzbJPgiL) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:24 |
 | 57 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
-| 58 | [You Are The Morning](https://open.spotify.com/track/6nOPbOoujiGPWI8HUDaNq1) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:13 |
-| 59 | [Wake Up, Breathe In](https://open.spotify.com/track/6tVyaJrOGWOeshwaKPM7zM) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Wake Up, Breathe In](https://open.spotify.com/album/2mDY65lxLj6WNRb5OQHCBH) | 3:14 |
+| 58 | [Wake Up, Breathe In](https://open.spotify.com/track/6tVyaJrOGWOeshwaKPM7zM) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Wake Up, Breathe In](https://open.spotify.com/album/2mDY65lxLj6WNRb5OQHCBH) | 3:14 |
+| 59 | [You Are The Morning](https://open.spotify.com/track/6nOPbOoujiGPWI8HUDaNq1) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:13 |
 | 60 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
 | 61 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
-| 62 | [permanent +1](https://open.spotify.com/track/3ofgZx7BX3AdkFc6usUtnT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [permanent +1](https://open.spotify.com/album/2a7rGaQNh4ZXPvYJIbNDj1) | 3:32 |
-| 63 | [One Last Song](https://open.spotify.com/track/3Rviv1akOeg6RhUNvy1RBR) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [One Last Song](https://open.spotify.com/album/2Ax8c96I3uP49OmJVcgSBl) | 3:29 |
+| 62 | [One Last Song](https://open.spotify.com/track/3Rviv1akOeg6RhUNvy1RBR) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [One Last Song](https://open.spotify.com/album/2Ax8c96I3uP49OmJVcgSBl) | 3:29 |
+| 63 | [permanent +1](https://open.spotify.com/track/3ofgZx7BX3AdkFc6usUtnT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [permanent +1](https://open.spotify.com/album/2a7rGaQNh4ZXPvYJIbNDj1) | 3:32 |
 | 64 | [The Art Of Letting You Go](https://open.spotify.com/track/5p86enU64v23LqQQvuHI0u) | [Ewan J Phillips](https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N) | [The Art Of Letting You Go](https://open.spotify.com/album/1eM98YrNz3gwLsnMrvFBHU) | 3:33 |
 | 65 | [Heavy](https://open.spotify.com/track/5VpgaWuqcWho0uJMniRNDs) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/00PsineKfAuLIl2PGnK5LB) | 4:04 |
 | 66 | [A Little Closer](https://open.spotify.com/track/0xrN7hUFu6gOQumsG7jC8H) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV), [Easymess](https://open.spotify.com/artist/2f4HOPblKZdbYQf6GVNolE) | [A Little Closer](https://open.spotify.com/album/2W1UwVVaNZxs7xBdDmLorI) | 4:16 |
-| 67 | [The Old Parade](https://open.spotify.com/track/43oqobywDZTvS53P9VNFl3) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [The Old Parade](https://open.spotify.com/album/1hgxMPc8eLOaXCYsQ9vRvq) | 3:20 |
-| 68 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 |
-| 69 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 |
+| 67 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 |
+| 68 | [The Old Parade](https://open.spotify.com/track/43oqobywDZTvS53P9VNFl3) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [The Old Parade](https://open.spotify.com/album/1hgxMPc8eLOaXCYsQ9vRvq) | 3:20 |
+| 69 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 |
 | 70 | [Timeless](https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Timeless](https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf) | 4:33 |
 | 71 | [She Drives The Car](https://open.spotify.com/track/5HVqwCe11o0R2WjwJQnRuL) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [These Things We Carry](https://open.spotify.com/album/4BEEJeqJqSUAAGGUpuqkPB) | 5:20 |
 | 72 | [Songs in the Kitchen](https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob) | [Seánie Bermingham](https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK) | [Songs in the Kitchen](https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ) | 3:10 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 76 | [Let Your Love Run Cold](https://open.spotify.com/track/4lDviyx50ZMALSovCHFo61) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Let Your Love Run Cold](https://open.spotify.com/album/02qqL9B8uYPcrA7yCmMjdS) | 3:43 |
 | 77 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
 | 78 | [afraid](https://open.spotify.com/track/7hfQPhDkRaJDb0kUrxkBTs) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u), [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [afraid](https://open.spotify.com/album/2nIkRl4p0GBYkLoV2z2AxD) | 3:00 |
-| 79 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 |
-| 80 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
+| 79 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
+| 80 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 |
 
 Snapshot ID: `aHlrxgAAAAC2lxfshqbL6buGDm4g3VXa`

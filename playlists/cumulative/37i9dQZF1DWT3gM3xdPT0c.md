@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-436 songs - 18 hr 46 min
+437 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Lilac Morning](https://open.spotify.com/track/3DrBORXqiYfJiL2uwilZGG) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Lilac Morning](https://open.spotify.com/album/2xnOqaHP1YzVvckOvOZeKZ) | 2:41 | 2022-11-18 | 2023-05-10 |
 | [Liljekonvalj](https://open.spotify.com/track/5dUF6RzDRQwW9vrLs2xZUY) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Liljekonvalj](https://open.spotify.com/album/2K8OrnJdDlArgiolPaAWnB) | 2:11 | 2022-03-04 | 2022-05-27 |
 | [Lingering Thoughts](https://open.spotify.com/track/1K6EHDgY0pA4Pz8VUzKF26) | [Graham Matheson](https://open.spotify.com/artist/6ueD2UQZleDy48zMyvmt4e) | [Lingering Thoughts](https://open.spotify.com/album/2D9nlP0XvJVp8TkA9VMqCk) | 2:11 | 2023-11-24 | 2024-07-19 |
+| [Liquid Shape](https://open.spotify.com/track/1rKq6PgmwaP4MUuba6mQWf) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Liquid Shape](https://open.spotify.com/album/1pPbPb97jO5XgxjneZZzsh) | 2:17 | 2025-07-22 |  |
 | [Little Light](https://open.spotify.com/track/2Ppf66x921uNDrwKyUyhg2) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [Little Light](https://open.spotify.com/album/64GHlOsZrUrLnquyALCuXX) | 4:29 | 2022-06-24 | 2022-07-08 |
 | [Loch Lomond](https://open.spotify.com/track/2cAOjBEOihwcAZmrNHVd7v) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Loch Lomond](https://open.spotify.com/album/1uAK1L5V9sG1g3vzbXrTIb) | 1:54 | 2022-08-12 | 2023-01-20 |
 | [Lonely River](https://open.spotify.com/track/482Y0xLWcjYHFo7BcJw0Dm) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Lonely River](https://open.spotify.com/album/7iSbrpojZ6Vs1fPP82TBT0) | 2:32 | 2022-03-04 | 2024-10-10 |
@@ -288,7 +289,7 @@
 | [Pacific Northwest](https://open.spotify.com/track/5lQYoVqNiXEyqfRiwWOI4v) | [Roy Edwin Williams](https://open.spotify.com/artist/0VEjBPjfkuIaX9CM2G53oW) | [Pride of Pennsylvania](https://open.spotify.com/album/6S7lCi6gre8ywHHxXjtUQO) | 3:22 | 2022-07-01 | 2022-07-22 |
 | [Pages Still Turning](https://open.spotify.com/track/6dVyeiIS3sJySILJbzrP26) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Pages Still Turning](https://open.spotify.com/album/4HIyKUXFCEMWQOQ5pA7H4F) | 2:46 | 2025-07-08 |  |
 | [Past & Present](https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR) | [Isabella Molinero](https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV) | [Past & Present](https://open.spotify.com/album/1YkLOGEug3hxm0QZPfWkcs) | 3:01 | 2022-03-04 | 2022-07-22 |
-| [Patience](https://open.spotify.com/track/64YCCiONF91sIVJu3oJuIx) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Patience](https://open.spotify.com/album/2owUUKY5tTrAfOuu1OG5V1) | 2:25 | 2025-05-28 |  |
+| [Patience](https://open.spotify.com/track/64YCCiONF91sIVJu3oJuIx) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Patience](https://open.spotify.com/album/2owUUKY5tTrAfOuu1OG5V1) | 2:25 | 2025-05-28 | 2025-07-23 |
 | [Peaceful Workshop](https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB) | [Ewan O'Connoll](https://open.spotify.com/artist/1RiZWCRIUcWj990GDoTQro) | [Peaceful Workshop](https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl) | 2:06 | 2022-03-04 | 2023-01-20 |
 | [Photos of the Sun](https://open.spotify.com/track/6pnuVKbhK0ROctyEzFpz5G) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Photos of the Sun](https://open.spotify.com/album/6rKBI95x3OvQyTnyuNYXeH) | 2:53 | 2022-03-04 | 2024-04-20 |
 | [Pinus Halepensis](https://open.spotify.com/track/5vHDaXBGHiN5AroXmGjucE) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 2:35 | 2022-03-04 | 2022-04-06 |

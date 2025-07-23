@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-10-13 | 2023-11-19 |
-| [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 | 2023-10-13 | 2025-07-20 |
+| [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 | 2023-10-13 |  |
 | [3月9日](https://open.spotify.com/track/31rf3jLBMfnrqLuTPrcxM5) | [Remioromen](https://open.spotify.com/artist/4Yz1LjHwgQ5DFWJrZL8bC8) | [3月9日](https://open.spotify.com/album/49BSpFdzm49D3kG6GvtwI8) | 4:25 | 2024-02-01 | 2024-05-08 |
 | [50%](https://open.spotify.com/track/46r7xisTxx58n3tVPS1LIz) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [50%](https://open.spotify.com/album/3kOOHI7wvD4E7Vc3ka23lZ) | 5:03 | 2025-01-09 | 2025-05-05 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2023-10-13 | 2024-05-08 |
@@ -223,7 +223,7 @@
 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 | 2023-10-13 | 2023-12-06 |
 | [ブラザービート](https://open.spotify.com/track/0isQWzN11KyHMZTRPsCnPH) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [THE BEST 2020 \- 2025](https://open.spotify.com/album/4aAwZdP0gcG0WXPoFH5Tpp) | 3:25 | 2025-05-04 |  |
 | [ブルーアンバー](https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ブルーアンバー](https://open.spotify.com/album/3PHKqNh7HXpmblwGJpcNC0) | 3:27 | 2025-06-12 |  |
-| [プラネタリウム](https://open.spotify.com/track/3zfyzbHuqcT2AAffAyLm02) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [LOVE COOK](https://open.spotify.com/album/1QxbZHEnnPpSRobXGQBjaZ) | 5:07 | 2025-02-27 |  |
+| [プラネタリウム](https://open.spotify.com/track/3zfyzbHuqcT2AAffAyLm02) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [LOVE COOK](https://open.spotify.com/album/1QxbZHEnnPpSRobXGQBjaZ) | 5:07 | 2025-02-27 | 2025-07-23 |
 | [ヘッドライナー](https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ヘッドライナー](https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh) | 3:54 | 2025-01-09 |  |
 | [ベテルギウス](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:50 | 2023-10-13 |  |
 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 | 2023-10-17 | 2024-02-02 |

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 37754,
+  "num_followers": 37822,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,22 @@
     {
       "added_at": "2025-07-18 00:01:18",
       "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 172736,
+      "name": "Jies",
+      "url": "https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo"
+    },
+    {
+      "added_at": "2025-07-18 00:01:18",
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 174253,
       "name": "Bad Girl (feat. Asake)",
       "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
-    },
-    {
-      "added_at": "2025-07-18 00:01:18",
-      "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 172736,
-      "name": "Jies",
-      "url": "https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo"
     },
     {
       "added_at": "2025-07-18 00:01:18",
@@ -819,26 +819,6 @@
     {
       "added_at": "2025-07-18 00:01:18",
       "album": {
-        "name": "FINAL (feat. Frescool)",
-        "url": "https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Frescool",
-          "url": "https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb"
-        }
-      ],
-      "duration_ms": 215103,
-      "name": "FINAL (feat. Frescool)",
-      "url": "https://open.spotify.com/track/3wHxnEkwClALnNaYy7ir7G"
-    },
-    {
-      "added_at": "2025-07-18 00:01:18",
-      "album": {
         "name": "Tayo",
         "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 162162,
       "name": "Milli (feat. Victony)",
       "url": "https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa"
+    },
+    {
+      "added_at": "2025-07-18 00:01:18",
+      "album": {
+        "name": "FINAL",
+        "url": "https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Frescool",
+          "url": "https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb"
+        }
+      ],
+      "duration_ms": 215103,
+      "name": "FINAL",
+      "url": "https://open.spotify.com/track/3wHxnEkwClALnNaYy7ir7G"
     },
     {
       "added_at": "2025-07-18 00:01:18",
@@ -1087,6 +1087,30 @@
     {
       "added_at": "2025-07-18 00:01:18",
       "album": {
+        "name": "My Shayla",
+        "url": "https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95"
+      },
+      "artists": [
+        {
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        {
+          "name": "Mbryo",
+          "url": "https://open.spotify.com/artist/7ttqbMfcqUvZdc2aZDg3F3"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "My Shayla",
+      "url": "https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ"
+    },
+    {
+      "added_at": "2025-07-18 00:01:18",
+      "album": {
         "name": "Ifeoma",
         "url": "https://open.spotify.com/album/1EbcTy7CMKfT3G4hqbw9uD"
       },
@@ -1123,30 +1147,6 @@
       "duration_ms": 148467,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ"
-    },
-    {
-      "added_at": "2025-07-18 00:01:18",
-      "album": {
-        "name": "My Shayla",
-        "url": "https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95"
-      },
-      "artists": [
-        {
-          "name": "Mavins",
-          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
-        },
-        {
-          "name": "Mbryo",
-          "url": "https://open.spotify.com/artist/3x9zvETvpbvSM8xL0pxyDy"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 153500,
-      "name": "My Shayla",
-      "url": "https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ"
     },
     {
       "added_at": "2025-07-18 00:01:18",

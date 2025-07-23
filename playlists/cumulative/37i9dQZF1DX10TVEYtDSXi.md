@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-190 songs - 9 hr 57 min
+191 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-21 | 2025-06-06 |
 | [CAVE \(with Tove Lo\)](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [CAVE \(with Tove Lo\)](https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY) | 3:00 | 2024-10-11 | 2025-02-14 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-03 | 2025-06-20 |
+| [DAISIES](https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S) | 2:56 | 2025-07-22 |  |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2025-02-14 |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-06-21 | 2024-10-26 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-16 | 2025-05-16 |
@@ -104,7 +105,7 @@
 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 | 2024-06-21 | 2024-09-14 |
 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2025-01-03 | 2025-05-16 |
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-13 | 2025-02-21 |
-| [JAJA DING DONG \(REMIX\)](https://open.spotify.com/track/0vJWVQ2ErgldAfQTS4r2AY) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg), [Ingi Bauer](https://open.spotify.com/artist/4ynaUZA4BVF6d2XaNuflVz) | [JAJA DING DONG \(REMIX\)](https://open.spotify.com/album/5YKF2N7skXSpmaXRIxbMFC) | 1:49 | 2025-03-28 |  |
+| [JAJA DING DONG \(REMIX\)](https://open.spotify.com/track/0vJWVQ2ErgldAfQTS4r2AY) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg), [Ingi Bauer](https://open.spotify.com/artist/4ynaUZA4BVF6d2XaNuflVz) | [JAJA DING DONG \(REMIX\)](https://open.spotify.com/album/5YKF2N7skXSpmaXRIxbMFC) | 1:49 | 2025-03-28 | 2025-07-23 |
 | [Just Let It Be](https://open.spotify.com/track/4r9ib0PMG96Xg73Lqok3kv) | [Birgir](https://open.spotify.com/artist/2hCU6EhDEmPjpqe8cAHAcm) | [Just Let It Be](https://open.spotify.com/album/5t47qNf17bUlsPxZWEhksR) | 2:56 | 2025-04-11 |  |
 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-21 |  |
 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 | 2024-06-21 | 2024-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240,241 likes - 101 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,240,331 likes - 101 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 14 | [Great Day](https://open.spotify.com/track/7zGjLN0J7xotEWjri2cqb3) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Great Day](https://open.spotify.com/album/6p4H6WRMTy3Er71hZNkase) | 2:36 |
 | 15 | [F\*ck Everybody \(Free Maxx\)](https://open.spotify.com/track/7hz5v6w6qEqO6GOeBn9Foc) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [F\*ck Everybody \(Free Maxx\)](https://open.spotify.com/album/2h0qlrvViGagkxpGLzHK5T) | 3:26 |
 | 16 | [Stfu](https://open.spotify.com/track/3Jr5fWqhz0TP2OXBHJNWER) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [EWM Kdoe](https://open.spotify.com/artist/0ahwsBHHnBKJwmH62nYCQA), [Bagboy Mel](https://open.spotify.com/artist/0EVH94vPjEPbbjsOTnlRJa), [CASHKIDD](https://open.spotify.com/artist/2nL0DSfvslG5yln5ooxq8F), [EWM Buck](https://open.spotify.com/artist/7g3Zi4T1RTGZFJUK1tdhv0) | [Stfu](https://open.spotify.com/album/0ZfG2Y49YiGyKlf9cPxHsi) | 3:14 |
-| 17 | [Gang Gang Gangland](https://open.spotify.com/track/05ZuiDPE65Xs94MAt5CZ8z) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Gang Gang Gangland \(feat\. Mozzy\)](https://open.spotify.com/album/1Euw5LFkONmS8d7OVgfaeg) | 3:09 |
+| 17 | [Gang Gang Gangland \(feat\. YG & Mozzy\)](https://open.spotify.com/track/05ZuiDPE65Xs94MAt5CZ8z) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Gang Gang Gangland \(feat\. YG & Mozzy\)](https://open.spotify.com/album/1Euw5LFkONmS8d7OVgfaeg) | 3:09 |
 | 18 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 |
 | 19 | [ALOT](https://open.spotify.com/track/5d33a1PuO75Ic7xiJ1i3by) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc) | [ALOT](https://open.spotify.com/album/15ydb9ePJxvAaZiuxtDLE6) | 2:11 |
 | 20 | [Pop Shii](https://open.spotify.com/track/4CMukSEsqFRKXuXXPWMxMY) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Pop Shii](https://open.spotify.com/album/0yZVETaEQhgGxNT3h45gJF) | 2:16 |

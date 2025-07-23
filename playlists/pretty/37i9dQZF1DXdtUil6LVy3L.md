@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,301 likes - 94 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,299 likes - 94 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 26 | [With White Snow](https://open.spotify.com/track/22fuRASO5iQ1XeXCba7U26) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [With White Snow](https://open.spotify.com/album/1umLeCGkQ17Qlc9FCjoELz) | 2:49 |
 | 27 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 |
 | 28 | [A Christmas Love Song](https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [A Christmas Love Song](https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ) | 2:38 |
-| 29 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 |
-| 30 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny) | 2:00 |
+| 29 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny) | 2:00 |
+| 30 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 |
 | 31 | [Once in Royal David's City](https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Once in Royal David's City](https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp) | 2:45 |
 | 32 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 |
 | 33 | [Lost in the stars](https://open.spotify.com/track/7FGl7mrd84QlQAqNqfonVN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Lost in the stars](https://open.spotify.com/album/3RzCBEMpRWtRNtrIfLsPSc) | 3:03 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 38 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c) | 2:29 |
 | 39 | [Hard Candy Christmas](https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC) | 2:55 |
 | 40 | [What Are You Doing New Years Eve?](https://open.spotify.com/track/5V2xjX43Qg2wTdhX6xhIK1) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [What Are You Doing New Years Eve?](https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c) | 4:41 |
-| 41 | [Santa tell me](https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Santa tell me](https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu) | 2:18 |
-| 42 | [A Child Is Born](https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:34 |
+| 41 | [A Child Is Born](https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:34 |
+| 42 | [Santa tell me](https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Santa tell me](https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu) | 2:18 |
 | 43 | [Good King Wenceslas](https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Good King Wenceslas](https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my) | 2:24 |
 | 44 | [Still, Still, Still](https://open.spotify.com/track/1L0op2aXXuCnWsGT8ltTMW) | [Kyle Mendes Jazz Trio](https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2) | [I'll Be Home For Christmas](https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS) | 2:21 |
 | 45 | [Meet Me Under the Mistletoe](https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [Meet Me Under the Mistletoe](https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc) | 3:24 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 52 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 |
 | 53 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |
 | 54 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 |
-| 55 | [Tomorrow Shall Be My Dancing Day](https://open.spotify.com/track/2MIp26Tb64YMUqpmYtyPiW) | [Kim Winther](https://open.spotify.com/artist/7FWhfI8n42MsvBQaXphr3N) | [Tomorrow Shall Be My Dancing Day](https://open.spotify.com/album/33ubXsrOIKgfeQtPAZDlBH) | 2:50 |
-| 56 | [Away in a manger](https://open.spotify.com/track/0E6J6VqH8KDsWoRW9uwNBY) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Away in a manger](https://open.spotify.com/album/5aO0KpQkTRPpVKErKhE3Wz) | 2:06 |
+| 55 | [Away in a manger](https://open.spotify.com/track/0E6J6VqH8KDsWoRW9uwNBY) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Away in a manger](https://open.spotify.com/album/5aO0KpQkTRPpVKErKhE3Wz) | 2:06 |
+| 56 | [Tomorrow Shall Be My Dancing Day](https://open.spotify.com/track/2MIp26Tb64YMUqpmYtyPiW) | [Kim Winther](https://open.spotify.com/artist/7FWhfI8n42MsvBQaXphr3N) | [Tomorrow Shall Be My Dancing Day](https://open.spotify.com/album/33ubXsrOIKgfeQtPAZDlBH) | 2:50 |
 | 57 | [Where Are You Christmas](https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F) | [Swinging Renegades](https://open.spotify.com/artist/2Cbjo8F8AQ3ZZEJwmxlD8k) | [Where Are You Christmas](https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj) | 3:30 |
 | 58 | [It was December the twenty forth..](https://open.spotify.com/track/5eG6f8vtPA9uYIFAOnjyAa) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [It was December the twenty forth..](https://open.spotify.com/album/03ZNYr0sk3jATxHtzlCsoN) | 2:27 |
 | 59 | [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 |

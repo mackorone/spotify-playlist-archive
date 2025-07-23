@@ -2,7 +2,7 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: homezone\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: g0nny\(거니\)\)
 
 546 songs - 1 day 5 hr 30 min
 

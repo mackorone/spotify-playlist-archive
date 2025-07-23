@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 373902,
+  "num_followers": 374191,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
-      },
-      "artists": [
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 227311,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
         "name": "Super Exitos",
         "url": "https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 163693,
       "name": "El Ranchero Chido",
       "url": "https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
+      },
+      "artists": [
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 227311,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Enamorado De Ti",
-        "url": "https://open.spotify.com/album/0Rt8zwYRxLwfhLqvmQZdzR"
-      },
-      "artists": [
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 180604,
-      "name": "Isla Virgen",
-      "url": "https://open.spotify.com/track/64H6jtyJEzjXV1hqN1w3B1"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
         "name": "Hablando Claro",
         "url": "https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 137893,
       "name": "Hablando Claro",
       "url": "https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Enamorado De Ti",
+        "url": "https://open.spotify.com/album/0Rt8zwYRxLwfhLqvmQZdzR"
+      },
+      "artists": [
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 180604,
+      "name": "Isla Virgen",
+      "url": "https://open.spotify.com/track/64H6jtyJEzjXV1hqN1w3B1"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
+        "name": "Bandido De Amores",
+        "url": "https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 178932,
+      "name": "Bandido De Amores",
+      "url": "https://open.spotify.com/track/51oukvakolz61ebuXR3iIh"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/0bSO97EWemxZI9dyzq5IS3"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 173429,
       "name": "Como Sufro",
       "url": "https://open.spotify.com/track/0GrltzfS9xVSjcEny6LxUi"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Bandido De Amores",
-        "url": "https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 178932,
-      "name": "Bandido De Amores",
-      "url": "https://open.spotify.com/track/51oukvakolz61ebuXR3iIh"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
+        "name": "Bandido De Amores",
+        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 156827,
+      "name": "Viejo Joven El",
+      "url": "https://open.spotify.com/track/18TFdHZoNVXHE5M75xGVc7"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
         "name": "El Ultimo Trago",
         "url": "https://open.spotify.com/album/6OUv4N8H2dRSmuNXdOFnl3"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 178607,
       "name": "Peque\u00f1a Orgullosa",
       "url": "https://open.spotify.com/track/50dy8CznSlDJnHaYba7xT4"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Bandido De Amores",
-        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 156827,
-      "name": "Viejo Joven El",
-      "url": "https://open.spotify.com/track/18TFdHZoNVXHE5M75xGVc7"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
+        "name": "Bandido De Amores",
+        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 179887,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/3Eql8puvczeQC4WWgcDv7R"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
         "name": "La Gran Historia Vol. 1",
         "url": "https://open.spotify.com/album/3AjDSQHKqkrHMgv44Esfen"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 193857,
       "name": "La Guarecita",
       "url": "https://open.spotify.com/track/1ypG39Hh9plTazkgbhE4Cv"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Bandido De Amores",
-        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 179887,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/3Eql8puvczeQC4WWgcDv7R"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
+        "name": "Bandido De Amores",
+        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 152441,
+      "name": "Soy Como Quiero Ser",
+      "url": "https://open.spotify.com/track/42mJA9XTxNC1uVkt04IiNs"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
         "name": "La Estrella De Los Bailes",
         "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 185388,
       "name": "Ya No Me Mires Asi",
       "url": "https://open.spotify.com/track/2hByNHBX8JSkzB8wvbs5E0"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
-        "name": "Bandido De Amores",
-        "url": "https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 152441,
-      "name": "Soy Como Quiero Ser",
-      "url": "https://open.spotify.com/track/42mJA9XTxNC1uVkt04IiNs"
     },
     {
       "added_at": "2024-07-03 18:00:30",

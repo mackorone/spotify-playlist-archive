@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 
 > The biggest dance floor bangers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,811 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,187 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 | 71 | [Don't Give Up](https://open.spotify.com/track/3gZqDJkMZipOYCRjlHWgOV) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Twenty](https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR) | 3:30 |
 | 72 | [The Whistle Song](https://open.spotify.com/track/4YnAKHP8pUPeaOov12tljh) | [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [Payback Time](https://open.spotify.com/album/6U0i1B1rbF9Byy4rlfx9Na) | 3:43 |
 | 73 | [Another Chance](https://open.spotify.com/track/08fMRujpKhEDTanKN9l2ud) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [First Contact](https://open.spotify.com/album/6qu9ns8pdYAWJphzLszkny) | 7:32 |
-| 74 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 |
-| 75 | [Strobe \- Radio Edit](https://open.spotify.com/track/6c9EGVj5CaOeoKd9ecMW1U) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Strobe](https://open.spotify.com/album/6EYy8giXumFOmT1fpZTCMB) | 3:34 |
+| 74 | [Strobe \- Radio Edit](https://open.spotify.com/track/6c9EGVj5CaOeoKd9ecMW1U) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Strobe](https://open.spotify.com/album/6EYy8giXumFOmT1fpZTCMB) | 3:34 |
+| 75 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 |
 | 76 | [Bad Boy](https://open.spotify.com/track/4preSlFr0bYsRHm9WxAcE9) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Platinum](https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY) | 3:11 |
 | 77 | [Boten Anna \- Radio edit](https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [LOL \(International version\)](https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU) | 3:27 |
 | 78 | [The World Is Mine](https://open.spotify.com/track/1q6IK1l4qpYykOaWaLJkWG) | [Joachim Garraud](https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2), [JD Davis](https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [The World Is Mine](https://open.spotify.com/album/7dIXQIv9yg2fzJ9MzUOhlX) | 3:39 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 | 96 | [Stamp on the Ground \- Radio Edit](https://open.spotify.com/track/09ISyLOPeuno7kKlzdbZuq) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Stamp On The Ground](https://open.spotify.com/album/1OS81VthdrXXDhtMc2MF0q) | 3:18 |
 | 97 | [Lola's Theme \- Radio Edit](https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola's Theme](https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU) | 3:27 |
 | 98 | [Tarantula \- Original Mix](https://open.spotify.com/track/7ifq3etzDP60X1IRaFVngl) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Hold Your Colour](https://open.spotify.com/album/4FAfNNU21dqtKKhHWB2eOa) | 5:31 |
-| 99 | [One \(Always Hardcore\)](https://open.spotify.com/track/076xVAqkadBKbU7kI7yXaV) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years of Hardcore](https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt) | 3:50 |
+| 99 | [Weekend!](https://open.spotify.com/track/1K68dHzsB7HLqRYBEq00pw) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years of Hardcore](https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt) | 3:35 |
 | 100 | [Show Me Love \- Radio Edit](https://open.spotify.com/track/2WIwmd809qDTOn4UJgDnNi) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2Dvz88PooQPZDvjDAyN6in) | 3:04 |
 
 Snapshot ID: `aFL9ewAAAAAeDx6a5d6b5i4NicsvO8gI`

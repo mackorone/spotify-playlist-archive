@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Maroon 5
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,852 likes - 142 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,848 likes - 142 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 32 | [Merindumu lagi](https://open.spotify.com/track/2EhHCazu5nK0S3oljv0B6l) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Merindumu lagi](https://open.spotify.com/album/4LTGuJdFIcKgJfHjsK0lE7) | 3:38 |
 | 33 | [DUMBO](https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:58 |
 | 34 | [MIAMI](https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MIAMI](https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la) | 3:01 |
-| 35 | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
+| 35 | [You Can’t Run From Yourself \- From "Kaiju No\. 8"](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
 | 36 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 |
 | 37 | [Limerence](https://open.spotify.com/track/3I4mVnT3eD1GkWtfopCPEa) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [gazeng](https://open.spotify.com/artist/0i6mAAoB8AnMGb3oEuU2Bo) | [Limerence](https://open.spotify.com/album/01w1dx6iPZ1e1Xhx4mr9zy) | 3:39 |
 | 38 | [Remedy](https://open.spotify.com/track/6dQfthVqZvG39aBUdWOnb9) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Remedy](https://open.spotify.com/album/4NMF7zEoWEnKcybYCoZkCu) | 3:13 |

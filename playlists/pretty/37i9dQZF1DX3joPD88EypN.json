@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 54661,
+  "num_followers": 54690,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -783,34 +783,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Oh, Jaco!",
-        "url": "https://open.spotify.com/album/0i2i4vMnJ8hv5fJreuHWc5"
-      },
-      "artists": [
-        {
-          "name": "Peter Vuust",
-          "url": "https://open.spotify.com/artist/3DUqy72mutVBUGMlxCfWkf"
-        },
-        {
-          "name": "Lars Jansson",
-          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        }
-      ],
-      "duration_ms": 360769,
-      "name": "Oh, Jaco!",
-      "url": "https://open.spotify.com/track/33FJyAQRTd8GKjku7DvYun"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "Return to Mind",
         "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
       },
@@ -843,6 +815,34 @@
       "duration_ms": 286213,
       "name": "roads",
       "url": "https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Oh, Jaco!",
+        "url": "https://open.spotify.com/album/0i2i4vMnJ8hv5fJreuHWc5"
+      },
+      "artists": [
+        {
+          "name": "Peter Vuust",
+          "url": "https://open.spotify.com/artist/3DUqy72mutVBUGMlxCfWkf"
+        },
+        {
+          "name": "Lars Jansson",
+          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "duration_ms": 360769,
+      "name": "Oh, Jaco!",
+      "url": "https://open.spotify.com/track/33FJyAQRTd8GKjku7DvYun"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1203,18 +1203,22 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Kingdom of Coldness",
-        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
+        "name": "Perfectly Unhappy",
+        "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
       },
       "artists": [
         {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        },
+        {
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
         }
       ],
-      "duration_ms": 457853,
-      "name": "Kingdom of Coldness",
-      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
+      "duration_ms": 336533,
+      "name": "Naked Trees",
+      "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1247,22 +1251,34 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Perfectly Unhappy",
-        "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
+        "name": "Kingdom of Coldness",
+        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
       },
       "artists": [
         {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        },
-        {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
         }
       ],
-      "duration_ms": 336533,
-      "name": "Naked Trees",
-      "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
+      "duration_ms": 457853,
+      "name": "Kingdom of Coldness",
+      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Phantasmagoria or a Different Kind of Journey",
+        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
+      },
+      "artists": [
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        }
+      ],
+      "duration_ms": 417986,
+      "name": "Pearl Hunter",
+      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Phantasmagoria or a Different Kind of Journey",
-        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
+        "name": "Point of View",
+        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
       },
       "artists": [
         {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+          "name": "Kjetil Mulelid",
+          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
         }
       ],
-      "duration_ms": 417986,
-      "name": "Pearl Hunter",
-      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
+      "duration_ms": 249386,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Point of View",
-        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid",
-          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
-        }
-      ],
-      "duration_ms": 249386,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "Scandinavian Standards",
         "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
       },
@@ -1351,22 +1351,6 @@
       "duration_ms": 306826,
       "name": "The Lilly Flower - Liljankukka",
       "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "We Seem to Be Drifting Apart",
-        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
-      },
-      "artists": [
-        {
-          "name": "Nils Berg Cinemascope",
-          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "Richter Sonntag",
-      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1427,6 +1411,42 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
+        "name": "We Seem to Be Drifting Apart",
+        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
+      },
+      "artists": [
+        {
+          "name": "Nils Berg Cinemascope",
+          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "Richter Sonntag",
+      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Adam",
+        "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        }
+      ],
+      "duration_ms": 498112,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
         "name": "The Height of the Reeds",
         "url": "https://open.spotify.com/album/04B7mvuoqmjkOxGcAJazAe"
       },
@@ -1455,42 +1475,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Adam",
-        "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        }
-      ],
-      "duration_ms": 498112,
-      "name": "Adam",
-      "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Landkjenning",
-        "url": "https://open.spotify.com/album/6CzBXM5G2oIYxx004wSohG"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        }
-      ],
-      "duration_ms": 215552,
-      "name": "Landkjenning",
-      "url": "https://open.spotify.com/track/0rwKvhsCGby7GKkk3kDR3P"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 367120,
       "name": "Remembrance VI",
       "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Landkjenning",
+        "url": "https://open.spotify.com/album/6CzBXM5G2oIYxx004wSohG"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        }
+      ],
+      "duration_ms": 215552,
+      "name": "Landkjenning",
+      "url": "https://open.spotify.com/track/0rwKvhsCGby7GKkk3kDR3P"
     },
     {
       "added_at": "2025-03-07 09:20:11",

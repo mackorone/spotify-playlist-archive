@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,407 likes - 79 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,406 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,15 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 67 | [Hate It Here](https://open.spotify.com/track/4ppkdy0KDApHApfR5R4OIL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
 | 68 | [Final Breath](https://open.spotify.com/track/22HxXTUuXM2jHtHMcu4V7o) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:25 |
 | 69 | [Doin' It All For You](https://open.spotify.com/track/3q0S5zUytwi0gI7aMaXCtS) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:20 |
-| 70 | [Silent Night](https://open.spotify.com/track/6EtpTZWS3z4jpBDcJ0bmGu) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:45 |
-| 71 | [Booty \(feat\. Paul Russell\)](https://open.spotify.com/track/6DR4zLC0lkDyWbFRvRG9uf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Timeless \(Deluxe\)](https://open.spotify.com/album/5IZjhAtil5TzQSxSt6hHiR) | 2:28 |
-| 72 | [Grow Up](https://open.spotify.com/track/3fj4Q3qjnZMD73xCwY5Y6T) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:56 |
-| 73 | [Sweet Morning Heat \(from the Netflix Film "Unfrosted"\)](https://open.spotify.com/track/6rJmvaxHxJofkrGn1azjrd) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP) | [Sweet Morning Heat \(from the Netflix Film "Unfrosted"\)](https://open.spotify.com/album/45NbXQTQehu3aWZXQdI1vN) | 3:13 |
-| 74 | [Roll the Dice](https://open.spotify.com/track/5GXW0eHPR3sYsXO0BBwdpn) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Rest of Our Life](https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx) | 3:33 |
-| 75 | [Bite Me](https://open.spotify.com/track/1dZ4GpOuNm6WnYDFYfEE34) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/4DPlu74QgqqvsNoI9zAPz0) | 2:51 |
-| 76 | [In the Sun](https://open.spotify.com/track/5SOFf6LgRlUutxhLd6MPya) | [Aya Katrine](https://open.spotify.com/artist/7sd7vz56moXFkk1sHSXTVB) | [In the Sun](https://open.spotify.com/album/0ohigH2Wj1SjBv5aEeg04t) | 3:12 |
-| 77 | [Infinity](https://open.spotify.com/track/4arU96wjVUSEb4r2q4Iswf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:44 |
-| 78 | [Stay Young](https://open.spotify.com/track/3rUevPDCsGVbgJW2dOYnHj) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:30 |
-| 79 | [Jingle Bells](https://open.spotify.com/track/7uxQZgOHsAKyG0Bb9CrNqO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas \(Deluxe\)](https://open.spotify.com/album/7cZBXcpZ2VMJovpQqYOYhy) | 2:15 |
+| 70 | [Touchdown Dance](https://open.spotify.com/track/45wCjjaPuE5M9BdNA4iYV2) | [IM5](https://open.spotify.com/artist/4TEgsvmXwYmqRAoxyo4Wb9) | [Touchdown Dance](https://open.spotify.com/album/3Q3RSzUE9t7eMKw2b5bwVz) | 3:31 |
+| 71 | [Silent Night](https://open.spotify.com/track/6EtpTZWS3z4jpBDcJ0bmGu) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:45 |
+| 72 | [Booty \(feat\. Paul Russell\)](https://open.spotify.com/track/6DR4zLC0lkDyWbFRvRG9uf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Timeless \(Deluxe\)](https://open.spotify.com/album/5IZjhAtil5TzQSxSt6hHiR) | 2:28 |
+| 73 | [Grow Up](https://open.spotify.com/track/3fj4Q3qjnZMD73xCwY5Y6T) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:56 |
+| 74 | [Sweet Morning Heat \(from the Netflix Film "Unfrosted"\)](https://open.spotify.com/track/6rJmvaxHxJofkrGn1azjrd) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP) | [Sweet Morning Heat \(from the Netflix Film "Unfrosted"\)](https://open.spotify.com/album/45NbXQTQehu3aWZXQdI1vN) | 3:13 |
+| 75 | [Roll the Dice](https://open.spotify.com/track/5GXW0eHPR3sYsXO0BBwdpn) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Rest of Our Life](https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx) | 3:33 |
+| 76 | [Bite Me](https://open.spotify.com/track/1dZ4GpOuNm6WnYDFYfEE34) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/4DPlu74QgqqvsNoI9zAPz0) | 2:51 |
+| 77 | [In the Sun](https://open.spotify.com/track/5SOFf6LgRlUutxhLd6MPya) | [Aya Katrine](https://open.spotify.com/artist/7sd7vz56moXFkk1sHSXTVB) | [In the Sun](https://open.spotify.com/album/0ohigH2Wj1SjBv5aEeg04t) | 3:12 |
+| 78 | [Infinity](https://open.spotify.com/track/4arU96wjVUSEb4r2q4Iswf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:44 |
+| 79 | [Stay Young](https://open.spotify.com/track/3rUevPDCsGVbgJW2dOYnHj) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:30 |
+| 80 | [Jingle Bells](https://open.spotify.com/track/7uxQZgOHsAKyG0Bb9CrNqO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas \(Deluxe\)](https://open.spotify.com/album/7cZBXcpZ2VMJovpQqYOYhy) | 2:15 |
 
-Snapshot ID: `Ab3ZsgAAAABAccTik3PGQOZMsXNXZuxF`
+Snapshot ID: `Ab3fSAAAAACrN4L0IoXLGRv8+g1vidRq`

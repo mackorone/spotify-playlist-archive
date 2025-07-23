@@ -1,6 +1,6 @@
 {
   "description": "Because a quiet Sunday every now and again doesn't hurt anybody.",
-  "num_followers": 432287,
+  "num_followers": 432309,
   "original_name": "Lazy Sunday",
   "owner": {
     "name": "Spotify",
@@ -467,18 +467,22 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Beautiful Crazy",
-      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
+      "duration_ms": 285634,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
     },
     {
       "added_at": "2025-07-10 14:00:08",
@@ -499,22 +503,18 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 285634,
-      "name": "exile (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+      "duration_ms": 193200,
+      "name": "Beautiful Crazy",
+      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "You've Got The Love",
-      "url": "https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Z-Sides",
-        "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
       "artists": [
         {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 193749,
-      "name": "Lights Are On",
-      "url": "https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN"
+      "duration_ms": 168666,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -711,6 +695,22 @@
       "duration_ms": 226680,
       "name": "In My Place",
       "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Z-Sides",
+        "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "duration_ms": 193749,
+      "name": "Lights Are On",
+      "url": "https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "The A Team",
-      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 274693,
       "name": "You Say",
       "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "The A Team",
+      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P"
     },
     {
-      "added_at": "2025-05-24 14:00:17",
-      "album": {
-        "name": "Sincerely,",
-        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187455,
-      "name": "All I Can Say",
-      "url": "https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ"
-    },
-    {
       "added_at": "2024-03-28 13:00:00",
       "album": {
         "name": "Stick Season",
@@ -859,6 +843,22 @@
       "duration_ms": 297103,
       "name": "Orange Juice",
       "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
+    },
+    {
+      "added_at": "2025-05-24 14:00:17",
+      "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187455,
+      "name": "All I Can Say",
+      "url": "https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 197469,
       "name": "Count on Me",
       "url": "https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -1147,22 +1147,38 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Cover Me In Sunshine",
-        "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
+        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         },
         {
-          "name": "Willow Sage Hart",
-          "url": "https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 141050,
-      "name": "Cover Me In Sunshine",
-      "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
+      "duration_ms": 190464,
+      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Never Going Back Again - 2004 Remaster",
+      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
     },
     {
       "added_at": "2024-07-25 14:00:00",
@@ -1199,18 +1215,22 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+        "name": "Cover Me In Sunshine",
+        "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Willow Sage Hart",
+          "url": "https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Never Going Back Again - 2004 Remaster",
-      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
+      "duration_ms": 141050,
+      "name": "Cover Me In Sunshine",
+      "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -1235,26 +1255,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190464,
-      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 211763,
       "name": "Hold My Girl",
       "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
-        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "Love Of My Life - Remastered 2011",
-      "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
+        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Love Of My Life - Remastered 2011",
+      "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
         "name": "Days Like This",
         "url": "https://open.spotify.com/album/2J2QLpbe1EBRP65w9v8CRL"
       },
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-06-27 14:00:00",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 240254,
-      "name": "BODYGUARD",
-      "url": "https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV"
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     }
   ],
   "unique_name": "Lazy Sunday",

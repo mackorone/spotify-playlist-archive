@@ -1,6 +1,6 @@
 {
   "description": "S\u0142o\u0144ce, le\u017cak i letnia b\u0142ogo\u015b\u0107 w d\u017awi\u0119kach \u2600\ufe0f",
-  "num_followers": 338073,
+  "num_followers": 338078,
   "original_name": "Letni chill",
   "owner": {
     "name": "Spotify",
@@ -151,42 +151,6 @@
     {
       "added_at": "2025-07-18 10:44:50",
       "album": {
-        "name": "Priceless (feat. LISA)",
-        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 163352,
-      "name": "Priceless (feat. LISA)",
-      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
-    },
-    {
-      "added_at": "2025-07-18 10:44:50",
-      "album": {
-        "name": "Detale",
-        "url": "https://open.spotify.com/album/3rBXVUsBx1XaUjvV24rMMe"
-      },
-      "artists": [
-        {
-          "name": "Mjut",
-          "url": "https://open.spotify.com/artist/1wUHBeEqTjk4NEi2KacDih"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Detale",
-      "url": "https://open.spotify.com/track/6Ovx2jUP7mbZGZCcYZoidh"
-    },
-    {
-      "added_at": "2025-07-18 10:44:50",
-      "album": {
         "name": "Always Love featuring Hyunjin (Stray Kids)",
         "url": "https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a"
       },
@@ -207,22 +171,38 @@
     {
       "added_at": "2025-07-18 10:44:50",
       "album": {
-        "name": "Suzanne",
-        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
+        "name": "Detale",
+        "url": "https://open.spotify.com/album/3rBXVUsBx1XaUjvV24rMMe"
       },
       "artists": [
         {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Mjut",
+          "url": "https://open.spotify.com/artist/1wUHBeEqTjk4NEi2KacDih"
         }
       ],
-      "duration_ms": 235328,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+      "duration_ms": 187500,
+      "name": "Detale",
+      "url": "https://open.spotify.com/track/6Ovx2jUP7mbZGZCcYZoidh"
+    },
+    {
+      "added_at": "2025-07-18 10:44:50",
+      "album": {
+        "name": "Priceless (feat. LISA)",
+        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 163352,
+      "name": "Priceless (feat. LISA)",
+      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
     },
     {
       "added_at": "2025-07-18 10:44:50",
@@ -239,6 +219,26 @@
       "duration_ms": 245664,
       "name": "Vodka Cranberry",
       "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
+    },
+    {
+      "added_at": "2025-07-18 10:44:50",
+      "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
     },
     {
       "added_at": "2025-07-18 10:44:50",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-07-18 10:44:50",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 165107,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
-    },
-    {
-      "added_at": "2025-07-18 10:44:50",
-      "album": {
         "name": "Lady Lady",
         "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 209000,
       "name": "Lady Lady",
       "url": "https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r"
+    },
+    {
+      "added_at": "2025-07-18 10:44:50",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 165107,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
     },
     {
       "added_at": "2025-07-18 10:44:50",
@@ -459,18 +459,18 @@
     {
       "added_at": "2025-07-18 10:44:50",
       "album": {
-        "name": "Man Of The Year",
-        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 180433,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     },
     {
       "added_at": "2025-07-18 10:44:50",
@@ -491,18 +491,18 @@
     {
       "added_at": "2025-07-18 10:44:50",
       "album": {
-        "name": "Henry, come on",
-        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 311269,
-      "name": "Henry, come on",
-      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
     },
     {
       "added_at": "2025-07-18 10:44:50",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-07-18 10:44:50",
       "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/08Dvx4JDDAICQr0Vzeu0ve"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 136031,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6Fu81TIuJn4rYleNUctqOx"
+    },
+    {
+      "added_at": "2025-07-18 10:44:50",
+      "album": {
         "name": "Incomprehensible",
         "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 244661,
       "name": "Bag of Bones",
       "url": "https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K"
-    },
-    {
-      "added_at": "2025-07-18 10:44:50",
-      "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/08Dvx4JDDAICQr0Vzeu0ve"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 136031,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6Fu81TIuJn4rYleNUctqOx"
     },
     {
       "added_at": "2025-07-18 10:44:50",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-07-18 10:44:50",
       "album": {
+        "name": "The Cosmic Selector Vol. 1",
+        "url": "https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 186987,
+      "name": "Watch Me Go",
+      "url": "https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz"
+    },
+    {
+      "added_at": "2025-07-18 10:44:50",
+      "album": {
         "name": "Dziwna (feat. Artur Rojek)",
         "url": "https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 144759,
       "name": "PAMI\u0118TAM JAK",
       "url": "https://open.spotify.com/track/3EY2EP0MhMDEMBy4rV6wq1"
-    },
-    {
-      "added_at": "2025-07-18 10:44:50",
-      "album": {
-        "name": "The Cosmic Selector Vol. 1",
-        "url": "https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 186987,
-      "name": "Watch Me Go",
-      "url": "https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz"
     },
     {
       "added_at": "2025-07-18 10:44:50",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-07-18 10:44:50",
       "album": {
-        "name": "Unexplainable",
-        "url": "https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 241888,
-      "name": "Unexplainable",
-      "url": "https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB"
-    },
-    {
-      "added_at": "2025-07-18 10:44:50",
-      "album": {
         "name": "Do\u015b\u0107",
         "url": "https://open.spotify.com/album/78new3GPxvYvNtNRi5WyVu"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 134769,
       "name": "Do\u015b\u0107",
       "url": "https://open.spotify.com/track/7gkTiEARqFOCwiMONpVnUh"
+    },
+    {
+      "added_at": "2025-07-18 10:44:50",
+      "album": {
+        "name": "Unexplainable",
+        "url": "https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "duration_ms": 241888,
+      "name": "Unexplainable",
+      "url": "https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB"
     },
     {
       "added_at": "2025-07-18 10:44:50",

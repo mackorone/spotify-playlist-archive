@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,725 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,973 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 23 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 |
 | 24 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
 | 25 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
-| 26 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
+| 26 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
 | 27 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
-| 28 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
+| 28 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
 | 29 | [Golden Rope](https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Golden Rope](https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8) | 3:40 |
 | 30 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
 | 31 | [Ocean Wide](https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Ocean Wide](https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R) | 3:04 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 68 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 |
 | 69 | [The Beauty & The Pain](https://open.spotify.com/track/7vWab560TZxP2mtOHq7Tc3) | [Kids of Adelaide](https://open.spotify.com/artist/1n4X5jW8nSlsTGqk6rAZF2) | [The Beauty & The Pain](https://open.spotify.com/album/0UGhyu6woshbDtYGfuaYcc) | 4:02 |
 | 70 | [You Might](https://open.spotify.com/track/6KGCgcXf60keh5Zu48ch1K) | [MarkMoon](https://open.spotify.com/artist/3ihkk6803aRrmiHduMZ7hQ) | [You Might](https://open.spotify.com/album/7otKscInqHObpSN9hIWjte) | 1:59 |
-| 71 | [Echoes](https://open.spotify.com/track/7sAbAmaZjEF9gaBW1cTtqX) | [Georg Levin](https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5) | [Echoes](https://open.spotify.com/album/6hTFPXyo3ZFr1zyuPBV1H2) | 3:55 |
-| 72 | [Wide Awake](https://open.spotify.com/track/0BgEkiedrF5W0tjkvhAUVw) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Wide Awake](https://open.spotify.com/album/4XjE4JTb2fp7C7ZITLZOwW) | 3:23 |
+| 71 | [Wide Awake](https://open.spotify.com/track/0BgEkiedrF5W0tjkvhAUVw) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Wide Awake](https://open.spotify.com/album/4XjE4JTb2fp7C7ZITLZOwW) | 3:23 |
+| 72 | [Echoes](https://open.spotify.com/track/7sAbAmaZjEF9gaBW1cTtqX) | [Georg Levin](https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5) | [Echoes](https://open.spotify.com/album/6hTFPXyo3ZFr1zyuPBV1H2) | 3:55 |
 | 73 | [Where the Grass Grows High](https://open.spotify.com/track/7KBvYUxW8zgK5bQE5U1edR) | [Flora Falls](https://open.spotify.com/artist/2lgTnaXO0b6ufPyEmbZJO9) | [Where the Grass Grows High](https://open.spotify.com/album/5zRkDPYfYzo5DTyg2BD6UP) | 3:35 |
 | 74 | [Rich Man](https://open.spotify.com/track/34batHUDkMhFuUjkxAUmfH) | [KEØMA](https://open.spotify.com/artist/79iWNhmr65X2gvuPl5jB0U) | [Rich Man](https://open.spotify.com/album/6SWwS2mmFaQIU1vE3mEEh1) | 3:56 |
 | 75 | [Alright](https://open.spotify.com/track/3ZWW7SuBWXOHv24nZmfPLF) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/3uqx22ScaYQujWq2lBvXuQ) | 4:02 |

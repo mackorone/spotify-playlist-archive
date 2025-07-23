@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Estevie
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,578 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,594 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 47 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 |
 | 48 | [A LA ORDEN](https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [A LA ORDEN](https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD) | 2:55 |
 | 49 | [Suave Y Tierno](https://open.spotify.com/track/1boomhGAEyfVaMiODGyate) | [Grupo Klaz Y Keroz](https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC) | [Formas De Amor](https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH) | 4:07 |
-| 50 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 |
-| 51 | [Amigos Nunca](https://open.spotify.com/track/3I0UsenRbVz54ypUDOfzGW) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:06 |
+| 50 | [Amigos Nunca](https://open.spotify.com/track/3I0UsenRbVz54ypUDOfzGW) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:06 |
+| 51 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 |
 | 52 | [Desde Que No Estás Aquí](https://open.spotify.com/track/749JqjlwgQBz2Fx0Z92zm9) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Lo Mejor De...](https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2) | 3:39 |
 | 53 | [Otra Vez](https://open.spotify.com/track/5Ebpu6uUHX2yANHzgefOmt) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Otra Vez](https://open.spotify.com/album/6Vwvxf9LwtMKAZjNIGpiKr) | 3:35 |
 | 54 | [Lo Mismo Que A Mí](https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Lo Mismo Que A Mí](https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6) | 3:06 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 75 | [Bandido](https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Bandido](https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5) | 2:28 |
 | 76 | [Si A Todo](https://open.spotify.com/track/55yeoyVLs09v8qKpLrSpDL) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Cumbia y Amor](https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0) | 2:53 |
 | 77 | [OTRO CAPÍTULO](https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 3:00 |
-| 78 | [Cariñito](https://open.spotify.com/track/2YAfk5h0qctKYqVBWuwvvh) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cariñito](https://open.spotify.com/album/0ygfl7lRlhyGtLz7dF4e8q) | 3:03 |
-| 79 | [Eras Tu](https://open.spotify.com/track/4e0VWtGHbwVRC33HL35pRD) | [Predilecto](https://open.spotify.com/artist/28Mr2I45NyUzzMI2SRs3OR) | [Eras Tu](https://open.spotify.com/album/7r8FGGeBs2UtyDkdfUkN9n) | 3:37 |
+| 78 | [Eras Tu](https://open.spotify.com/track/4e0VWtGHbwVRC33HL35pRD) | [Predilecto](https://open.spotify.com/artist/28Mr2I45NyUzzMI2SRs3OR) | [Eras Tu](https://open.spotify.com/album/7r8FGGeBs2UtyDkdfUkN9n) | 3:37 |
+| 79 | [Cariñito](https://open.spotify.com/track/2YAfk5h0qctKYqVBWuwvvh) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cariñito](https://open.spotify.com/album/0ygfl7lRlhyGtLz7dF4e8q) | 3:03 |
 | 80 | [Cokita De Vidrio](https://open.spotify.com/track/1YNAR75TjRjD1Lorvo2HhL) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Cokita De Vidrio](https://open.spotify.com/album/0lHZ8abaIjknwuvWWEEZOU) | 2:57 |
 | 81 | [Princesa Talibana](https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X) | [Super Grupo G](https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7) | [Gran Encuentro](https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L) | 3:16 |
 | 82 | [Como si no nos amáramos](https://open.spotify.com/track/0xsA8UB6GyQ1xCl3uJ7zeG) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Como si no nos amáramos](https://open.spotify.com/album/1tyKtvkr2cw7HbkU0ec5bW) | 3:11 |

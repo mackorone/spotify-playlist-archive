@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Jesse Welles
 
-828 songs - 2 day 2 hr 55 min
+829 songs - 2 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Man Without A Name](https://open.spotify.com/track/7d2IAdBCsf13DOgZtrAe9L) | [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [A Man Without A Name](https://open.spotify.com/album/6gwsSUjZAJHMOPX6JektNI) | 3:38 | 2022-04-01 | 2022-07-23 |
 | [A Murder](https://open.spotify.com/track/5eH7Ok6bN3QuFIBk2SLRSQ) | [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9) | [Old Kanawha](https://open.spotify.com/album/1gBFPuS81bvzUOWEToSdNB) | 3:10 | 2023-08-18 | 2024-12-14 |
 | [A Tip from You to Me](https://open.spotify.com/track/26YYcaZm37TALSISgpqdO2) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Entering Heaven Alive](https://open.spotify.com/album/4GxhBXlAhfNzI7ehTDmFJ5) | 2:42 | 2022-07-22 | 2023-01-14 |
+| [A Way It Goes](https://open.spotify.com/track/4NhEqHd97xOEusHuTFsU8x) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [A Way It Goes](https://open.spotify.com/album/08b8v12BAQgkufaPLV4aHG) | 4:44 | 2025-07-22 |  |
 | [Abraham](https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Abraham](https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF) | 4:10 | 2023-08-18 | 2025-01-18 |
 | [Adeline](https://open.spotify.com/track/58hAI1XXrFla3sZ1XdL916) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Adeline](https://open.spotify.com/album/2nQLaIBTGdIUINBDheLkwN) | 3:30 | 2023-11-10 | 2025-02-22 |
 | [After The Setting Sun](https://open.spotify.com/track/2F9T7qKqhmZeAR7fdKBQF1) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [After The Setting Sun](https://open.spotify.com/album/3fdqRZ0j8t8EW351K4H1Or) | 4:30 | 2025-02-28 |  |

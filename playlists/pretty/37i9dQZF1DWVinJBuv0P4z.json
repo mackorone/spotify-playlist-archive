@@ -1,6 +1,6 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 498802,
+  "num_followers": 499062,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 223613,
       "name": "Go Your Own Way - 2004 Remaster",
       "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Rock with You - Single Version",
-      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 285373,
       "name": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Rock with You - Single Version",
+      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Blondes Have More Fun",
-        "url": "https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 331333,
-      "name": "Da Ya Think I'm Sexy?",
-      "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Take The Heat Off Me",
         "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 208600,
       "name": "Daddy Cool",
       "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Blondes Have More Fun",
+        "url": "https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 331333,
+      "name": "Da Ya Think I'm Sexy?",
+      "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
-      },
-      "artists": [
-        {
-          "name": "The Four Seasons",
-          "url": "https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "December, 1963 (Oh What a Night!)",
-      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Hooked On A Feeling",
         "url": "https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
+        "name": "Who Loves You",
+        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
+      },
+      "artists": [
+        {
+          "name": "The Four Seasons",
+          "url": "https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "December, 1963 (Oh What a Night!)",
+      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
         "name": "Don't Shoot Me I'm Only The Piano Player",
         "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Wild Cherry",
-        "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
-      },
-      "artists": [
-        {
-          "name": "Wild Cherry",
-          "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Play That Funky Music",
-      "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Born to Be Alive (The Original)",
         "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 188133,
       "name": "Born to Be Alive - The Original",
       "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Wild Cherry",
+        "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
+      },
+      "artists": [
+        {
+          "name": "Wild Cherry",
+          "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Play That Funky Music",
+      "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Young Hearts Run Free (US Internet Release)",
-        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Young Hearts Run Free",
-      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Bellamy Brothers",
         "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 196826,
       "name": "Let Your Love Flow",
       "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Young Hearts Run Free (US Internet Release)",
+        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Young Hearts Run Free",
+      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "I'll Cry If I Want To",
-        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "It's My Party",
-      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Definitive Pop: Bobby Darin",
         "url": "https://open.spotify.com/album/23LtBxKUYBWCNQxcM2Iefo"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 151253,
       "name": "Dream Lover - 2006 Remaster",
       "url": "https://open.spotify.com/track/4GqMYg91LJXiLjvQBFc3s0"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "I'll Cry If I Want To",
+        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "It's My Party",
+      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4GmEpUaXxyJ9YhO8pzIa2V"
-      },
-      "artists": [
-        {
-          "name": "Amii Stewart",
-          "url": "https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Knock On Wood",
-      "url": "https://open.spotify.com/track/6120uJUyg6QDzaAJUosTx5"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Da Doo Ron Ron: The Very Best of The Crystals",
         "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 140120,
       "name": "Da Doo Ron Ron (When He Walked Me Home)",
       "url": "https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4GmEpUaXxyJ9YhO8pzIa2V"
+      },
+      "artists": [
+        {
+          "name": "Amii Stewart",
+          "url": "https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Knock On Wood",
+      "url": "https://open.spotify.com/track/6120uJUyg6QDzaAJUosTx5"
     },
     {
       "added_at": "2024-07-12 21:11:00",

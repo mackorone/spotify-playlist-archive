@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 2010s! Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 154162,
+  "num_followers": 154195,
   "original_name": "Los 10s",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,26 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
+        "name": "Visionary",
+        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "Chillax (feat. Ky-Mani Marley)",
+      "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -579,22 +599,18 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "Visionary",
-        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 197840,
-      "name": "Chillax (feat. Ky-Mani Marley)",
-      "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2024-05-14 17:33:16",
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "Voluma",
-        "url": "https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+        "name": "Voluma",
+        "url": "https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+      "duration_ms": 177600,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
     },
     {
       "added_at": "2024-05-14 17:33:16",

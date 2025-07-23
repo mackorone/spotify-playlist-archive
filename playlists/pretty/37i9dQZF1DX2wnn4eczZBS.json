@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: LE MOTAT",
-  "num_followers": 10644,
+  "num_followers": 10648,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-07-17 22:00:44",
       "album": {
-        "name": "Gezeik (Soundtrack)",
-        "url": "https://open.spotify.com/album/66QuPm5BjL1DLk6XJVtWVW"
-      },
-      "artists": [
-        {
-          "name": "Faberyayo",
-          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
-        }
-      ],
-      "duration_ms": 112251,
-      "name": "Vroeger Had Ik Alles",
-      "url": "https://open.spotify.com/track/0xABY7pJvLdFPTRMwTVnKh"
-    },
-    {
-      "added_at": "2025-07-17 22:00:44",
-      "album": {
         "name": "De Lucht",
         "url": "https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 166663,
       "name": "WijTwee",
       "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
+    },
+    {
+      "added_at": "2025-07-17 22:00:44",
+      "album": {
+        "name": "Gezeik (Soundtrack)",
+        "url": "https://open.spotify.com/album/66QuPm5BjL1DLk6XJVtWVW"
+      },
+      "artists": [
+        {
+          "name": "Faberyayo",
+          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
+        }
+      ],
+      "duration_ms": 112251,
+      "name": "Vroeger Had Ik Alles",
+      "url": "https://open.spotify.com/track/0xABY7pJvLdFPTRMwTVnKh"
     },
     {
       "added_at": "2025-07-17 22:00:44",

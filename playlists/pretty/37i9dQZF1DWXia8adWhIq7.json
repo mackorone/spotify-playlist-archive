@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Milena Pina",
-  "num_followers": 108910,
+  "num_followers": 108943,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,26 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
+        "name": "Abrigo",
+        "url": "https://open.spotify.com/album/43RY8qE0hl6LGdiLXX03n5"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Baena",
+          "url": "https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57"
+        },
+        {
+          "name": "Anderson Feitosa",
+          "url": "https://open.spotify.com/artist/1tL8rvbJP6z3qhIV7Sy5qj"
+        }
+      ],
+      "duration_ms": 250102,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/1LBP2k9FkNfTr2RgcbsdSD"
+    },
+    {
+      "added_at": "2025-07-19 03:27:31",
+      "album": {
         "name": "Copinho de Extrato de Tomate",
         "url": "https://open.spotify.com/album/7ktV3hvFEh2JABI8JDX55C"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 218863,
       "name": "Entardecer",
       "url": "https://open.spotify.com/track/7dc6mrQJRolSAjV8PlAm2A"
-    },
-    {
-      "added_at": "2025-07-19 03:27:31",
-      "album": {
-        "name": "Abrigo",
-        "url": "https://open.spotify.com/album/43RY8qE0hl6LGdiLXX03n5"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Baena",
-          "url": "https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57"
-        },
-        {
-          "name": "Anderson Feitosa",
-          "url": "https://open.spotify.com/artist/1tL8rvbJP6z3qhIV7Sy5qj"
-        }
-      ],
-      "duration_ms": 250102,
-      "name": "Abrigo",
-      "url": "https://open.spotify.com/track/1LBP2k9FkNfTr2RgcbsdSD"
     },
     {
       "added_at": "2025-07-19 03:27:31",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
+        "name": "Bom \u00c2nimo",
+        "url": "https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 176520,
+      "name": "Bom \u00c2nimo",
+      "url": "https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F"
+    },
+    {
+      "added_at": "2025-07-19 03:27:31",
+      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 231575,
       "name": "\u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7"
-    },
-    {
-      "added_at": "2025-07-19 03:27:31",
-      "album": {
-        "name": "Bom \u00c2nimo",
-        "url": "https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z"
-      },
-      "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 176520,
-      "name": "Bom \u00c2nimo",
-      "url": "https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F"
     },
     {
       "added_at": "2025-07-19 03:27:31",
@@ -643,26 +643,6 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
-        "name": "Levanto um Aleluia",
-        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
-      },
-      "artists": [
-        {
-          "name": "Anna Fernandes",
-          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 233261,
-      "name": "Levanto um Aleluia",
-      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
-    },
-    {
-      "added_at": "2025-07-19 03:27:31",
-      "album": {
         "name": "Tudo Novo",
         "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
       },
@@ -687,6 +667,26 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
+        "name": "Levanto um Aleluia",
+        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
+      },
+      "artists": [
+        {
+          "name": "Anna Fernandes",
+          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 233261,
+      "name": "Levanto um Aleluia",
+      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
+    },
+    {
+      "added_at": "2025-07-19 03:27:31",
+      "album": {
         "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
         "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
       },
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
-        "name": "Epifania",
-        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
-      },
-      "artists": [
-        {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 207667,
-      "name": "A Chave",
-      "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
-    },
-    {
-      "added_at": "2025-07-19 03:27:31",
-      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
         "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 249444,
       "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
       "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
+    },
+    {
+      "added_at": "2025-07-19 03:27:31",
+      "album": {
+        "name": "Epifania",
+        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 207667,
+      "name": "A Chave",
+      "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
     },
     {
       "added_at": "2025-07-19 03:27:31",
@@ -959,26 +959,6 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
-        "name": "Esque\u00e7o At\u00e9 o Tempo",
-        "url": "https://open.spotify.com/album/5IpzcMpWNDaLiLylbnS3XV"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Feliz7Play",
-          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
-        }
-      ],
-      "duration_ms": 160050,
-      "name": "Esque\u00e7o At\u00e9 o Tempo",
-      "url": "https://open.spotify.com/track/1hLQBVG5zm1VuMEDtgN2lN"
-    },
-    {
-      "added_at": "2025-07-19 03:27:31",
-      "album": {
         "name": "Todo Meu Viver (Ac\u00fastico) [Ao Vivo]",
         "url": "https://open.spotify.com/album/1tUx1ptJZcFhPsWjGu6igw"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 197120,
       "name": "Todo Meu Viver (Ac\u00fastico) - Ao Vivo",
       "url": "https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv"
+    },
+    {
+      "added_at": "2025-07-19 03:27:31",
+      "album": {
+        "name": "Esque\u00e7o At\u00e9 o Tempo",
+        "url": "https://open.spotify.com/album/5IpzcMpWNDaLiLylbnS3XV"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Feliz7Play",
+          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
+        }
+      ],
+      "duration_ms": 160050,
+      "name": "Esque\u00e7o At\u00e9 o Tempo",
+      "url": "https://open.spotify.com/track/1hLQBVG5zm1VuMEDtgN2lN"
     },
     {
       "added_at": "2025-07-19 03:27:31",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
+        "name": "Festa no Deserto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 227717,
+      "name": "Festa no Deserto - Ao Vivo",
+      "url": "https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T"
+    },
+    {
+      "added_at": "2025-07-19 03:27:31",
+      "album": {
         "name": "Amor Perfeito",
         "url": "https://open.spotify.com/album/5hMUO0OGBZZ2JB25RwMmWK"
       },
@@ -1191,6 +1207,22 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
+        "name": "Casulo",
+        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 219903,
+      "name": "Casulo",
+      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
+    },
+    {
+      "added_at": "2025-07-19 03:27:31",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
       },
@@ -1207,18 +1239,18 @@
     {
       "added_at": "2025-07-19 03:27:31",
       "album": {
-        "name": "Casulo",
-        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
+        "name": "Iluminado",
+        "url": "https://open.spotify.com/album/6WidAThASUspFTkUzM9X88"
       },
       "artists": [
         {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
         }
       ],
-      "duration_ms": 219903,
-      "name": "Casulo",
-      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
+      "duration_ms": 240066,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/4e3IEiapCBKboOv2QNivDV"
     },
     {
       "added_at": "2025-07-19 03:27:31",
@@ -1447,38 +1479,6 @@
       "duration_ms": 125890,
       "name": "Deixa Esse Medo",
       "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
-    },
-    {
-      "added_at": "2025-07-19 03:27:31",
-      "album": {
-        "name": "Iluminado",
-        "url": "https://open.spotify.com/album/6WidAThASUspFTkUzM9X88"
-      },
-      "artists": [
-        {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Iluminado",
-      "url": "https://open.spotify.com/track/4e3IEiapCBKboOv2QNivDV"
-    },
-    {
-      "added_at": "2025-07-19 03:27:31",
-      "album": {
-        "name": "Festa no Deserto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 227717,
-      "name": "Festa no Deserto - Ao Vivo",
-      "url": "https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T"
     },
     {
       "added_at": "2025-07-19 03:27:31",

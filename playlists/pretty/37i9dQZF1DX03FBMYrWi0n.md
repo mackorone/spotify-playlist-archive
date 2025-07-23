@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Population II
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,790 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,794 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 31 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
 | 32 | [Trompe\-l'oeil](https://open.spotify.com/track/0Xn0VGX1tjvOGyfkpSGrHg) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Demande spéciale](https://open.spotify.com/album/2K49gjMsA7o5ifRcvDaqyz) | 2:55 |
 | 33 | [La hiérarchill](https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La hiérarchill](https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO) | 4:46 |
-| 34 | [Celui qui attend](https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Baloney suicide](https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b) | 2:02 |
-| 35 | [Shoegaze](https://open.spotify.com/track/6t5COdf65qd8igj588vkET) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:22 |
+| 34 | [Shoegaze](https://open.spotify.com/track/6t5COdf65qd8igj588vkET) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:22 |
+| 35 | [Celui qui attend](https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Baloney suicide](https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b) | 2:02 |
 | 36 | [DIMANCHE SOIR](https://open.spotify.com/track/2Alp8pWLWoEjbkqWwd6di1) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic) | 3:09 |
 | 37 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 |
 | 38 | [The Rabbit Song](https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D) | [The Blaze Velluto Collection](https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x) | [We Are Sunshine](https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV) | 3:15 |
-| 39 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 |
-| 40 | [Horizon](https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Horizon](https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132) | 3:03 |
+| 39 | [Horizon](https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Horizon](https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132) | 3:03 |
+| 40 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 |
 | 41 | [Ton hôtel](https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 2:25 |
 | 42 | [Fantômes](https://open.spotify.com/track/4nvSSgdtZJwbA8uCo3uVw1) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Sainte\-Colère](https://open.spotify.com/album/5Xc7ZbRXsrVvAxC3RehckN) | 2:35 |
 | 43 | [La vie attend pas](https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 4:13 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 54 | [Demande\-moi](https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:20 |
 | 55 | [5a7](https://open.spotify.com/track/3Os7vQSGt2CeT2Q8SvGKSP) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [Business Core](https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD) | 2:09 |
 | 56 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
-| 57 | [SIMULATION FREESTYLE](https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [SIMULATION FREESTYLE](https://open.spotify.com/album/67icCWPplOTmKycqmtR7Pl) | 2:30 |
-| 58 | [Philédouche](https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH) | 4:40 |
+| 57 | [Philédouche](https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH) | 4:40 |
+| 58 | [SIMULATION FREESTYLE](https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [SIMULATION FREESTYLE](https://open.spotify.com/album/67icCWPplOTmKycqmtR7Pl) | 2:30 |
 | 59 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 |
 | 60 | [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 |
 | 61 | [Y a pu d'poude dans poude](https://open.spotify.com/track/7yqBu5Err3V56zeg4bLdMB) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [Y a pu d'poude dans poude](https://open.spotify.com/album/3zDjZy9W8RVjSrruCLrJ7j) | 2:48 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 69 | [Aire de plastique](https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Aire de plastique](https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw) | 4:07 |
 | 70 | [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 |
 | 71 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 |
-| 72 | [Cycle trois \- partie 2](https://open.spotify.com/track/3ez9WhsTGvrT7BGvAESFQY) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Il y eut un rythme](https://open.spotify.com/album/6k7wmXKvwCskQo2nUsahE9) | 4:14 |
+| 72 | [Chambre d'écho](https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 3:57 |
 | 73 | [OMG \(oiseau\)](https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Totalement Sublime](https://open.spotify.com/album/6MQXmQjOXqN47I1y3172Td) | 4:03 |
-| 74 | [Chambre d'écho](https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 3:57 |
+| 74 | [Cycle trois \- partie 2](https://open.spotify.com/track/3ez9WhsTGvrT7BGvAESFQY) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Il y eut un rythme](https://open.spotify.com/album/6k7wmXKvwCskQo2nUsahE9) | 4:14 |
 | 75 | [Dans tes rêves](https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Des feux pour voir](https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd) | 4:03 |
 
 Snapshot ID: `aHnG3AAAAACAtOH6/vB9IftuGi+QyTGb`

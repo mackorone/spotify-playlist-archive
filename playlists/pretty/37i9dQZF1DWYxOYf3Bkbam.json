@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 58433,
+  "num_followers": 58448,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Alegr\u00eda y Chamam\u00e9",
-        "url": "https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Cardozo",
-          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
-        },
-        {
-          "name": "Los Cardocitos",
-          "url": "https://open.spotify.com/artist/49bS4UnI47t9mUwLZFIPzv"
-        }
-      ],
-      "duration_ms": 173386,
-      "name": "La Due\u00f1a del Monte",
-      "url": "https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Chamame",
         "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 197283,
       "name": "Enero",
       "url": "https://open.spotify.com/track/4NXUTU34xLQhFacaPxKij6"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Alegr\u00eda y Chamam\u00e9",
+        "url": "https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo",
+          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
+        },
+        {
+          "name": "Los Cardocitos",
+          "url": "https://open.spotify.com/artist/49bS4UnI47t9mUwLZFIPzv"
+        }
+      ],
+      "duration_ms": 173386,
+      "name": "La Due\u00f1a del Monte",
+      "url": "https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "duration_ms": 162573,
+      "name": "Kilometro 11",
+      "url": "https://open.spotify.com/track/3pxUPb40pVruGNixcXTkWv"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Chamam\u00e9",
         "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 189600,
       "name": "Esclavo de Tus Besos",
       "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
-        }
-      ],
-      "duration_ms": 162573,
-      "name": "Kilometro 11",
-      "url": "https://open.spotify.com/track/3pxUPb40pVruGNixcXTkWv"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -883,6 +883,26 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
+      },
+      "artists": [
+        {
+          "name": "Ramona Galarza",
+          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
+        },
+        {
+          "name": "Tarrago Ros",
+          "url": "https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL"
+        }
+      ],
+      "duration_ms": 147986,
+      "name": "Siete Higueras",
+      "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Baile de Campo",
         "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 140040,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
-      },
-      "artists": [
-        {
-          "name": "Ramona Galarza",
-          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
-        },
-        {
-          "name": "Tarrago Ros",
-          "url": "https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "Siete Higueras",
-      "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "21 Grandes Exitos",
         "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 132213,
       "name": "Te amare eternamente",
       "url": "https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
-      },
-      "artists": [
-        {
-          "name": "Mateo Villalba",
-          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Lluvia Correntina",
-      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1247,6 +1231,22 @@
       "duration_ms": 170893,
       "name": "A villa Guillermina",
       "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
+      },
+      "artists": [
+        {
+          "name": "Mateo Villalba",
+          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Lluvia Correntina",
+      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
     },
     {
       "added_at": "2025-03-31 12:53:49",

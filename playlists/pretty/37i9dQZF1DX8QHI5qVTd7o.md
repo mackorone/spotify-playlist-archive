@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,930 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,935 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 8 | [Opus](https://open.spotify.com/track/3v2oAQomhOcYCPPHafS3KV) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Opus](https://open.spotify.com/album/2Kwbn1H4KMGZAe4MS6uDzU) | 9:03 |
 | 9 | [Repeat After Me](https://open.spotify.com/track/1F9xcExF9W7m5BxTdlJLED) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Repeat After Me](https://open.spotify.com/album/54oOEqQqEckkrlfjwM88v1) | 3:14 |
 | 10 | [Astronomia](https://open.spotify.com/track/665AK0ovB11McZRwfa852G) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia](https://open.spotify.com/album/72jP2oTZj5eZnyqGqhdBLU) | 3:18 |
-| 11 | [Won't Stop Rocking](https://open.spotify.com/track/20Q0qLW27rm9Pq2pO1bwzK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Won't Stop Rocking](https://open.spotify.com/album/1hxiEVPiDLAPn4vRasJkel) | 3:07 |
-| 12 | [Virus \(How About Now\)](https://open.spotify.com/track/3ukWpmRHvpuDATCJkgLEkF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\)](https://open.spotify.com/album/07c9ANynLvxYlO8aHWoNqP) | 4:33 |
+| 11 | [Virus \(How About Now\)](https://open.spotify.com/track/3ukWpmRHvpuDATCJkgLEkF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\)](https://open.spotify.com/album/07c9ANynLvxYlO8aHWoNqP) | 4:33 |
+| 12 | [Won't Stop Rocking](https://open.spotify.com/track/20Q0qLW27rm9Pq2pO1bwzK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Won't Stop Rocking](https://open.spotify.com/album/1hxiEVPiDLAPn4vRasJkel) | 3:07 |
 | 13 | [We Like to Party \- Original Mix](https://open.spotify.com/track/4O799OM270z43L7pKzNqrt) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [We Like to Party](https://open.spotify.com/album/4uMuXdihVpcYnO8LF6GbXx) | 4:40 |
 | 14 | [Beast \(All as One\)](https://open.spotify.com/track/3wSrPtJpnGaUC2hOmJy0BV) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Beast \(All as One\)](https://open.spotify.com/album/7jcGJ20TXkDOwe5rfOm2Gg) | 3:09 |
 | 15 | [Ode To Oi](https://open.spotify.com/track/7aIiDOQyCBA8yi1dozGojm) | [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Ode To Oi](https://open.spotify.com/album/79kc4mpzpEX4MdeLYFwd1Y) | 4:31 |

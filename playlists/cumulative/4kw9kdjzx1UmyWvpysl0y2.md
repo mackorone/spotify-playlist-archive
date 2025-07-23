@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,030 songs - 2 day 9 hr 50 min
+1,031 songs - 2 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,6 +653,7 @@
 | [On The Inside](https://open.spotify.com/track/7ADnLRvlp5yDkC5VKvigOO) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB), [Matt Sky](https://open.spotify.com/artist/08FqNRAfeLHLh96BdNHljC) | [On The Inside](https://open.spotify.com/album/6YaqphTghJSjHH0zcUYXq9) | 3:28 | 2023-05-15 | 2023-08-10 |
 | [On The Run](https://open.spotify.com/track/0UABxGfYqdlM8ZorINo9Ia) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 4:02 | 2022-11-04 | 2023-01-28 |
 | [Once Upon A World](https://open.spotify.com/track/0OsxgJTV7hlPz6AkSW2Luz) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Once Upon A World](https://open.spotify.com/album/4mw0Q07pxSpQEmS7QuOBRy) | 3:27 | 2022-08-31 | 2022-11-04 |
+| [One More Night](https://open.spotify.com/track/319hyCCmJGbnqwvQEipZI5) | [Jonah Sky](https://open.spotify.com/artist/7wZOfHqEF90btFX62wYoiw), [Ubo](https://open.spotify.com/artist/5peplsISsiy24ahC61Z5Wr), [ENREM](https://open.spotify.com/artist/0jeFOASu4F9BFVOEim8F6a) | [Silk Selections 04](https://open.spotify.com/album/20uJpcNrCOM2IklWDovUti) | 2:32 | 2025-07-22 |  |
 | [One Plus Space](https://open.spotify.com/track/2ppRI6etjDrxPOWYFszTj2) | [Nigel Good](https://open.spotify.com/artist/5Q0xO4AeNtPKPqWcpCygD2) | [A Little Something](https://open.spotify.com/album/7bmFzed0KLoQbvjA1h3riw) | 3:16 | 2024-05-21 | 2024-08-14 |
 | [Only Human](https://open.spotify.com/track/0hJQHVitgZMSaN0XO7SdEH) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [Only Human](https://open.spotify.com/album/0rQuoXSE7RT83MsErzHL7c) | 3:15 | 2024-02-15 | 2024-05-07 |
 | [Only the Good Die Young](https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [SpaceMan Zack](https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK) | [Genesis](https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL) | 2:56 | 2024-04-05 | 2024-06-28 |

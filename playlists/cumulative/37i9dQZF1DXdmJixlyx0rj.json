@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 190644,
       "name": "1+1=11 - Edit",
       "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 387000,
       "name": "1+1=11 - Spray Remix",
       "url": "https://open.spotify.com/track/7e19IpBFv1ZS0navRtitY8"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 203720,
       "name": "Don't Call Me - Fox Stevenson Remix",
       "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
@@ -1843,6 +1843,32 @@
     },
     {
       "album": {
+        "name": "EUROPEAN CLUB TOILET TUNE",
+        "url": "https://open.spotify.com/album/0MDGBurIUhgsubgP9kZ3qf"
+      },
+      "artists": [
+        {
+          "name": "IFI",
+          "url": "https://open.spotify.com/artist/6BGkJaN8F1g3OjeOcxVlIB"
+        },
+        {
+          "name": "Avii Garde",
+          "url": "https://open.spotify.com/artist/3DbXI4NokdiqiFwer9YOoF"
+        },
+        {
+          "name": "matt matt",
+          "url": "https://open.spotify.com/artist/2qVz4hdpr6a73pbVioqk2L"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "Far Away (feat. matt matt)",
+      "url": "https://open.spotify.com/track/0tIfc81eZxPdNCLKpwxFZr"
+    },
+    {
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/0UglV84SnWeShd5dgtpJ4H"
       },
@@ -2003,6 +2029,24 @@
     },
     {
       "album": {
+        "name": "Seoul 01 : Part Yin",
+        "url": "https://open.spotify.com/album/4tu8rN61IRW23NRl6ZkGtq"
+      },
+      "artists": [
+        {
+          "name": "XXOK",
+          "url": "https://open.spotify.com/artist/4mNaf6h2zBKJvFsTATvB5E"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341333,
+      "name": "Gatha",
+      "url": "https://open.spotify.com/track/7r8NrNn8ttKczTCqnGSgcV"
+    },
+    {
+      "album": {
         "name": "iScreaM Vol. 28: Get A Guitar Remixes",
         "url": "https://open.spotify.com/album/49AQvxM6i13Zwjm4o3PyHo"
       },
@@ -2106,7 +2150,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 277760,
       "name": "Glitch Mode - JINBO Remix",
       "url": "https://open.spotify.com/track/6gVZB0cp9QmWoduXVWOgHM"
@@ -2677,6 +2721,28 @@
     },
     {
       "album": {
+        "name": "like JENNIE (Peggy Gou Remix)",
+        "url": "https://open.spotify.com/album/4AqYxQUuZk29apyPYt9aA8"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208375,
+      "name": "like JENNIE (Peggy Gou Remix)",
+      "url": "https://open.spotify.com/track/3Tt5ueVmqidjOOQvdEJ9Fy"
+    },
+    {
+      "album": {
         "name": "SAINT",
         "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
       },
@@ -3044,7 +3110,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 313026,
       "name": "Music (with. sunwoojunga)",
       "url": "https://open.spotify.com/track/7qgUPFjr05oDLtNT2l73Dm"

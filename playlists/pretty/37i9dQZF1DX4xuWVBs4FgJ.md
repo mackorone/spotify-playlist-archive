@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 
 > The perfect soundtrack to those long nights over dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,823,934 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,823,883 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 92 | [Desafinado](https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 4:08 |
 | 93 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 |
 | 94 | [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 |
-| 95 | [How It's Gotta Be](https://open.spotify.com/track/3Cd66VhIMNHdjXnG4wh6nH) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/0SnCZasgqjqS07tI6O2Z5P) | 3:41 |
-| 96 | [Dodged A Bullet](https://open.spotify.com/track/4RQ5rPSO5B0PDoV4hrz7Cw) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Dodged A Bullet](https://open.spotify.com/album/6kLLJQFrfLqvl71WdqQLz9) | 2:38 |
+| 95 | [Dodged A Bullet](https://open.spotify.com/track/4RQ5rPSO5B0PDoV4hrz7Cw) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Dodged A Bullet](https://open.spotify.com/album/6kLLJQFrfLqvl71WdqQLz9) | 2:38 |
+| 96 | [How It's Gotta Be](https://open.spotify.com/track/3Cd66VhIMNHdjXnG4wh6nH) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/0SnCZasgqjqS07tI6O2Z5P) | 3:41 |
 | 97 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
 | 98 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
 | 99 | [Eye Know](https://open.spotify.com/track/4xQMFoD33vx6stB1UzfA6s) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [3 Feet High and Rising](https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD) | 4:12 |

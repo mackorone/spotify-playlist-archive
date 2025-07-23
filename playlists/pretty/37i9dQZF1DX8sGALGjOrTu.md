@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,170 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,274 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,15 +32,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 22 | [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 |
 | 23 | [Voices](https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:37 |
 | 24 | [This War Is Ours \(The Guillotine II\)](https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [This War Is Ours \(Deluxe Edition\)](https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai) | 4:26 |
-| 25 | [Writing On The Walls](https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 4:02 |
-| 26 | [Baby, You Wouldn't Last A Minute On The Creek](https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 4:40 |
+| 25 | [Baby, You Wouldn't Last A Minute On The Creek](https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 4:40 |
+| 26 | [Writing On The Walls](https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 4:02 |
 | 27 | [F.C.P.R.E.M.I.X.](https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:57 |
 | 28 | [Anthem of Our Dying Day](https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:36 |
 | 29 | [I Caught Fire](https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:25 |
 | 30 | [This Could Be Anywhere in the World](https://open.spotify.com/track/4TnPmXU7KVmHZ51hXXn5Hv) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 4:03 |
-| 31 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
+| 31 | [The Words "Best Friend" Become Redefined](https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 3:36 |
 | 32 | [Stare At The Sun](https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:23 |
-| 33 | [The Words "Best Friend" Become Redefined](https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 3:36 |
+| 33 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
 | 34 | [Note to Self](https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 3:53 |
 | 35 | [Things That Rhyme With Orange](https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS) | [I Set My Friends On Fire](https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0) | [You Can't Spell Slaughter Without Laughter](https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra) | 3:24 |
 | 36 | [A Box Full of Sharp Objects](https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:56 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 78 | [We'rewolf](https://open.spotify.com/track/5Bfy6Wfj4G1GBYWlMfQ1by) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 3:24 |
 | 79 | [Deep Down](https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:25 |
 | 80 | [Blueprints For Future Homes](https://open.spotify.com/track/0pQkFNB3Me4txM5jaKGwXh) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Redeemer](https://open.spotify.com/album/7ju4BQgiknmVAQSb2V3vky) | 2:49 |
-| 81 | [In the Belly of a Shark](https://open.spotify.com/track/0khj70h8pejNRukEhOn86O) | [Gallows](https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu) | [Orchestra Of Wolves \(new version\)](https://open.spotify.com/album/6iKEpmbrs3YpXiEo68HHnx) | 2:41 |
-| 82 | [Mu Empire](https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:44 |
+| 81 | [Mu Empire](https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:44 |
+| 82 | [In the Belly of a Shark](https://open.spotify.com/track/0khj70h8pejNRukEhOn86O) | [Gallows](https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu) | [Orchestra Of Wolves \(new version\)](https://open.spotify.com/album/6iKEpmbrs3YpXiEo68HHnx) | 2:41 |
 | 83 | [The Party Song](https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [I'm Only A Man](https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq) | 3:31 |
 | 84 | [House of Cards](https://open.spotify.com/track/4orQFDcvhvyaPx8PPf35iI) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [From Them, Through Us, To You](https://open.spotify.com/album/1Uw8vdLEIUxvQLYTd0Dk1f) | 3:36 |
 | 85 | [Drown the City](https://open.spotify.com/track/0Egb43pvoIekj9PYV3MAZB) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [She Watched The Sky](https://open.spotify.com/album/1DqmW3Jut1Zs61jEE65ej5) | 4:43 |

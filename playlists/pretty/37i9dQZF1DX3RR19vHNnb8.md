@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,828 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,848 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 33 | [First Sermon](https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [First Sermon](https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC) | 3:05 |
 | 34 | [LIKE ICE SPICE](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 |
 | 35 | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Idris Elba](https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm), [Tribal Mark](https://open.spotify.com/artist/5yIgGM9s6jw4L0g8CmD8dT) | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp) | 2:46 |
-| 36 | [100 MILLION \(feat\. Tiwa Savage\)](https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [100 MILLION](https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju) | 2:16 |
-| 37 | [Born In Hell](https://open.spotify.com/track/5XybdUjJjvjjw1sezKvK1T) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Born in Hell](https://open.spotify.com/album/75ypH24gbGXUjhJWYDw4XG) | 2:15 |
+| 36 | [Born In Hell](https://open.spotify.com/track/5XybdUjJjvjjw1sezKvK1T) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Born in Hell](https://open.spotify.com/album/75ypH24gbGXUjhJWYDw4XG) | 2:15 |
+| 37 | [100 MILLION \(feat\. Tiwa Savage\)](https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [100 MILLION](https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju) | 2:16 |
 | 38 | [YAYA](https://open.spotify.com/track/0xAwmnpzW0AOF6Dzk6UZXP) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 3:13 |
 | 39 | [Homecoming](https://open.spotify.com/track/0nqRxAaO2AzoEQABbDh6n6) | [Highstarlavista](https://open.spotify.com/artist/2s5bPUY4vDNWYeaktbdh9V) | [The Prophecy](https://open.spotify.com/album/6RlIFWszpqQnDTiBW9ZmTQ) | 3:27 |
 | 40 | [Will Be](https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS) | [Michealz](https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB) | [Will Be](https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R) | 3:55 |

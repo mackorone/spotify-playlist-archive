@@ -4,7 +4,7 @@
 
 > Dukh Dard Peeda!  🫂
 
-188 songs - 12 hr 29 min
+189 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 | 2023-05-15 | 2024-07-11 |
 | [Filhaal2 Mohabbat](https://open.spotify.com/track/576v1keY82NOPITMNu0wD2) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Akshay Kumar](https://open.spotify.com/artist/0w0mlcvl7QH28Cs28O6waY), [Nupur Sanon](https://open.spotify.com/artist/2vCsnF6h4c2b1csudqJiV5), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Filhaal2 Mohabbat](https://open.spotify.com/album/7p6qCp3ddSDJatDUtBtgxp) | 5:00 | 2024-07-10 |  |
 | [Galliyan Returns \(From "Ek Villain Returns"\)](https://open.spotify.com/track/2eTkxblLeqdTSsb2ivafDX) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Galliyan Returns \(From "Ek Villain Returns"\)](https://open.spotify.com/album/0vjQeipdlzH33n9vnCwAAD) | 5:50 | 2023-05-15 | 2024-07-11 |
-| [Ghutt Ghutt](https://open.spotify.com/track/6Pli0rn0Z3Z11mQo6FIHGW) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Ghutt Ghutt](https://open.spotify.com/album/2fniIfHjJ8WjJ29Wr1D0lM) | 3:34 | 2025-04-16 |  |
+| [Ghutt Ghutt](https://open.spotify.com/track/6Pli0rn0Z3Z11mQo6FIHGW) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Ghutt Ghutt](https://open.spotify.com/album/2fniIfHjJ8WjJ29Wr1D0lM) | 3:34 | 2025-04-16 | 2025-07-23 |
 | [Give Up](https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Give Up](https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t) | 4:08 | 2023-05-15 | 2023-06-15 |
 | [Goodbye](https://open.spotify.com/track/5JdeSgIBqpdoC3RudqPkCu) | [lekhak](https://open.spotify.com/artist/7EzXvSTOIXrtaL87k7aoBG) | [Goodbye](https://open.spotify.com/album/3IXc2Y2hrRoa8gFA87lfw7) | 2:58 | 2023-11-10 | 2024-07-11 |
 | [Gumsum](https://open.spotify.com/track/5on36dq2B35S2RRGvNQCRo) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Gumsum](https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r) | 2:55 | 2023-05-15 | 2024-07-11 |
@@ -172,6 +172,7 @@
 | [Titliaan](https://open.spotify.com/track/1980E4Grgu5xAhNbFZ1mb1) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Sargun Mehta](https://open.spotify.com/artist/5rOZMdrXGCOXnmmCICga2Z) | [Titliaan](https://open.spotify.com/album/1Wh4r7BE6zZogUSTcMtiku) | 3:15 | 2024-07-10 |  |
 | [Tod Da E Dil](https://open.spotify.com/track/1WTwFMVRQvkx9fRpCKNrJ9) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Tod Da E Dil](https://open.spotify.com/album/5psXEF4Sj4mSQa1KlJLPEy) | 2:37 | 2024-07-10 | 2024-08-17 |
 | [Tod Da E Dil](https://open.spotify.com/track/5ZWlqm8UaSLxpK12COV2V2) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Tod Da E Dil](https://open.spotify.com/album/6cZey3zlAYky4cHTlPmlOv) | 2:37 | 2024-07-10 | 2024-07-23 |
+| [Toot Gaya](https://open.spotify.com/track/28vq8tUVGxs6Xk8F1VceDa) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Broken](https://open.spotify.com/album/4j3Q0oWVdnU3pw0Y8G8h06) | 3:21 | 2025-07-22 |  |
 | [Tu Bhi Sataya Jayega](https://open.spotify.com/track/7Hi1FAuRxHaG9BFJNi2awE) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Tu Bhi Sataya Jayega](https://open.spotify.com/album/1a9yfMwwtq0SXmV6kGCrgx) | 4:27 | 2024-07-10 |  |
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2023-10-19 | 2024-07-11 |
 | [Tu Hoti Toh](https://open.spotify.com/track/3JvPxVVx2tIMrddY5HCckh) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Tu Hoti Toh \- Single](https://open.spotify.com/album/5O4p7FdrSQCW2LREz9AKxe) | 5:34 | 2023-12-15 | 2024-04-19 |

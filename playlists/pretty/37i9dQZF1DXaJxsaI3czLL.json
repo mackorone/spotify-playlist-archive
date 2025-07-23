@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 136135,
+  "num_followers": 136142,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,18 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "THE GREATEST UNKNOWN",
-        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+        "name": "\u785d\u5b50\u306e\u7dda",
+        "url": "https://open.spotify.com/album/0n4ltZwQnNA4rVtnInnJPq"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 218493,
-      "name": "IKAROS",
-      "url": "https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2"
+      "duration_ms": 65063,
+      "name": "\u304c\u3089\u3059\u306e\u7dda",
+      "url": "https://open.spotify.com/track/3eCl6n1uTevApLYQDC1QJM"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -427,18 +427,18 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "\u785d\u5b50\u306e\u7dda",
-        "url": "https://open.spotify.com/album/0n4ltZwQnNA4rVtnInnJPq"
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 65063,
-      "name": "\u304c\u3089\u3059\u306e\u7dda",
-      "url": "https://open.spotify.com/track/3eCl6n1uTevApLYQDC1QJM"
+      "duration_ms": 218493,
+      "name": "IKAROS",
+      "url": "https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
         "name": "YELLOW DANCER",
         "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 273960,
       "name": "Branches",
       "url": "https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
-      },
-      "artists": [
-        {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -791,38 +791,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
-      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
-        "name": "\u3044\u3064\u3082\u306e\u3053\u3068",
-        "url": "https://open.spotify.com/album/3Vb5JKrWeF9pGhSIHmCcmO"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u91ce\u96c4\u5927",
-          "url": "https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "\u3044\u3064\u3082\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "THE UNION",
         "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
@@ -843,6 +811,38 @@
       "duration_ms": 286366,
       "name": "Twinkle Stars",
       "url": "https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "\u3044\u3064\u3082\u306e\u3053\u3068",
+        "url": "https://open.spotify.com/album/3Vb5JKrWeF9pGhSIHmCcmO"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u91ce\u96c4\u5927",
+          "url": "https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "\u3044\u3064\u3082\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
+      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 167885,
+      "name": "Moon Dance",
+      "url": "https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/6X0e48IHrHjAtgb00eYxsp"
       },
@@ -1027,38 +1043,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "early summer 2022",
-        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
-      },
-      "artists": [
-        {
-          "name": "Kazumasa Oda",
-          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
-        }
-      ],
-      "duration_ms": 274066,
-      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
-        "name": "tradition",
-        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
-      },
-      "artists": [
-        {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
-        }
-      ],
-      "duration_ms": 167885,
-      "name": "Moon Dance",
-      "url": "https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "19\u2103",
         "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 253722,
       "name": "19\u2103",
       "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "early summer 2022",
+        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
+      },
+      "artists": [
+        {
+          "name": "Kazumasa Oda",
+          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
+        }
+      ],
+      "duration_ms": 274066,
+      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "\u3081\u3050\u308b",
-        "url": "https://open.spotify.com/album/6h4XyRagPLC8pSqbWls32G"
-      },
-      "artists": [
-        {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
-        }
-      ],
-      "duration_ms": 265026,
-      "name": "\u3081\u3050\u308b",
-      "url": "https://open.spotify.com/track/0K5kuJdxRE7oT7jMfPDwLp"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
         "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 331984,
       "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
       "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "\u3081\u3050\u308b",
+        "url": "https://open.spotify.com/album/6h4XyRagPLC8pSqbWls32G"
+      },
+      "artists": [
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "\u3081\u3050\u308b",
+      "url": "https://open.spotify.com/track/0K5kuJdxRE7oT7jMfPDwLp"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "What are you looking for",
-        "url": "https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 401173,
-      "name": "\u304a\u3042\u3044\u3053",
-      "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "\u97f3\u697d\u3068\u79c1",
         "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
       },
@@ -1367,18 +1351,34 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
+        "name": "What are you looking for",
+        "url": "https://open.spotify.com/album/1eRBqVnEPDWja7FBpfgFIh"
       },
       "artists": [
         {
-          "name": "Anzen Chitai",
-          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 280786,
-      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
-      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
+      "duration_ms": 401173,
+      "name": "\u304a\u3042\u3044\u3053",
+      "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "Double Rift",
+        "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
+      },
+      "artists": [
+        {
+          "name": "CRCK/LCKS",
+          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
+        }
+      ],
+      "duration_ms": 255213,
+      "name": "\u305f\u3068\u3048\u30fb\u3070\u3055",
+      "url": "https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "Double Rift",
-        "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
+        "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+        "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
       },
       "artists": [
         {
-          "name": "CRCK/LCKS",
-          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
+          "name": "Anzen Chitai",
+          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
         }
       ],
-      "duration_ms": 255213,
-      "name": "\u305f\u3068\u3048\u30fb\u3070\u3055",
-      "url": "https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz"
+      "duration_ms": 280786,
+      "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
+      "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
     },
     {
       "added_at": "2025-07-17 15:02:14",

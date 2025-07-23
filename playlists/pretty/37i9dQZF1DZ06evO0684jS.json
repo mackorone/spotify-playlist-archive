@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 887779,
+  "num_followers": 887847,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAAUTPYhZDFv7nCOEfUOlmde",
+  "snapshot_id": "aH2DAAAAAADJKbCUlkQNBqAo9sqKVKIo",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2012 (It Ain't The End)",
-        "url": "https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr"
-      },
-      "artists": [
-        {
-          "name": "Jay Sean",
-          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "2012 (It Ain't The End)",
-      "url": "https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 378893,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2012 (It Ain't The End)",
+        "url": "https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr"
+      },
+      "artists": [
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "2012 (It Ain't The End)",
+      "url": "https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR"
     },
     {
       "added_at": null,
@@ -579,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
+        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "High School",
+      "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Major Key",
         "url": "https://open.spotify.com/album/6ZQyMrmlg95L8gy63Pnm33"
       },
@@ -679,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
-        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
+        "name": "Pink Friday",
+        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
       },
       "artists": [
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 218746,
-      "name": "High School",
-      "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
+      "duration_ms": 245253,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
       "duration_ms": 199073,
       "name": "AGATS2 (Insecure) [with Nicki Minaj]",
       "url": "https://open.spotify.com/track/2iVpUQJaQjOWGja05zyIj9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Friday",
-        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Friday",
+        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 212346,
+      "name": "Did It On\u2019em",
+      "url": "https://open.spotify.com/track/6Slt6WiWnriaqCb8xXb2ZT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kiss The Ring (Deluxe)",
         "url": "https://open.spotify.com/album/1KDc01X8ZF9VYqVW6c4lvr"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 267173,
       "name": "Take It To The Head",
       "url": "https://open.spotify.com/track/2lD4LsB3iQVnddkVM2RFAl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Friday",
-        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Did It On\u2019em",
-      "url": "https://open.spotify.com/track/6Slt6WiWnriaqCb8xXb2ZT"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Witness (Deluxe)",
-        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 242520,
-      "name": "Swish Swish",
-      "url": "https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kissing Strangers",
         "url": "https://open.spotify.com/album/7FkWQV6ym8OMXBebTRI30R"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 202480,
       "name": "Kissing Strangers",
       "url": "https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 242520,
+      "name": "Swish Swish",
+      "url": "https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi"
     },
     {
       "added_at": null,

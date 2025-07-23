@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
-  "num_followers": 956,
+  "num_followers": 955,
   "original_name": "This Is Danny Felix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAADqmxAuB6sd4RMQIMpzioOU",
+  "snapshot_id": "aH2DAAAAAAA16GeSS2BjT2XQCXQFbbf/",
   "tracks": [
     {
       "added_at": null,
@@ -555,26 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LVR",
-        "url": "https://open.spotify.com/album/0cnGReKwKVPC3eC2cZ0dBd"
+        "name": "Con La Cochi (En Vivo)",
+        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
       },
       "artists": [
-        {
-          "name": "Tyan G",
-          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
-        },
-        {
-          "name": "Chris Hermosillo",
-          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
-        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 172319,
-      "name": "LVR",
-      "url": "https://open.spotify.com/track/5KNvCKJdtfXI3Ldagd2g6c"
+      "duration_ms": 183106,
+      "name": "Siempre Pendientes - En Vivo",
+      "url": "https://open.spotify.com/track/2MO2sTiLH06FAcbUp9hlBg"
     },
     {
       "added_at": null,
@@ -627,18 +619,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con La Cochi (En Vivo)",
-        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
+        "name": "LVR",
+        "url": "https://open.spotify.com/album/0cnGReKwKVPC3eC2cZ0dBd"
       },
       "artists": [
+        {
+          "name": "Tyan G",
+          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
+        },
+        {
+          "name": "Chris Hermosillo",
+          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
+        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 183106,
-      "name": "Siempre Pendientes - En Vivo",
-      "url": "https://open.spotify.com/track/2MO2sTiLH06FAcbUp9hlBg"
+      "duration_ms": 172319,
+      "name": "LVR",
+      "url": "https://open.spotify.com/track/5KNvCKJdtfXI3Ldagd2g6c"
     },
     {
       "added_at": null,
@@ -679,6 +679,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con La Cochi (En Vivo)",
+        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "PRC - En Vivo",
+      "url": "https://open.spotify.com/track/56XItKFtHbwf6Eneqkd9oj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Andares De Alfredo",
+        "url": "https://open.spotify.com/album/1qBgmwNHtokGyv7normIXi"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los Migueles De Miguel Montoya",
+          "url": "https://open.spotify.com/artist/5bNWEPILoKYKWkPbnTKHns"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Los Andares De Alfredo",
+      "url": "https://open.spotify.com/track/2PL2WfNavyQPrihZYO84B5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live, Rancho Style",
+        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 277773,
+      "name": "Me Gusta Tener De a Dos (Live)",
+      "url": "https://open.spotify.com/track/0m0GnKmfUFDWz84D7h9ogx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Falsas Amistades",
         "url": "https://open.spotify.com/album/3lKRwrXHui6cdacGQ4kbFT"
       },
@@ -711,78 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con La Cochi (En Vivo)",
-        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "PRC - En Vivo",
-      "url": "https://open.spotify.com/track/56XItKFtHbwf6Eneqkd9oj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 277773,
-      "name": "Me Gusta Tener De a Dos (Live)",
-      "url": "https://open.spotify.com/track/0m0GnKmfUFDWz84D7h9ogx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Andares De Alfredo",
-        "url": "https://open.spotify.com/album/1qBgmwNHtokGyv7normIXi"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Los Migueles De Miguel Montoya",
-          "url": "https://open.spotify.com/artist/5bNWEPILoKYKWkPbnTKHns"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Los Andares De Alfredo",
-      "url": "https://open.spotify.com/track/2PL2WfNavyQPrihZYO84B5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cr\u00f3nicas De Un Coraz\u00f3n Roto",
-        "url": "https://open.spotify.com/album/5rTJ6pTQUCyIxxWKlWhvaz"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 200979,
-      "name": "Qu\u00edtate La Ropa",
-      "url": "https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Coquette",
         "url": "https://open.spotify.com/album/4o9brFx9I8j4e7kS12vEqf"
       },
@@ -807,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cr\u00f3nicas De Un Coraz\u00f3n Roto",
+        "url": "https://open.spotify.com/album/5rTJ6pTQUCyIxxWKlWhvaz"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 200979,
+      "name": "Qu\u00edtate La Ropa",
+      "url": "https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live, Rancho Style",
         "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
       },
@@ -816,9 +816,29 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 222300,
-      "name": "A Mi Me Perteneces (Live)",
-      "url": "https://open.spotify.com/track/5pMTvK0B21I1xIJuyAwKks"
+      "duration_ms": 294742,
+      "name": "El Lunar (Live)",
+      "url": "https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Gente Del Rancho",
+          "url": "https://open.spotify.com/artist/6BbZzab6fVZzep3FvLjLUt"
+        }
+      ],
+      "duration_ms": 203221,
+      "name": "LOS PLEBES ATREVIDOS - En Vivo",
+      "url": "https://open.spotify.com/track/4bwHmvfQC2Vs6uhze1h1yM"
     },
     {
       "added_at": null,
@@ -843,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "EL AMOR NUNCA SE VENDE - En Vivo",
-      "url": "https://open.spotify.com/track/6oMnXRNH3jGNZTZhZZoJ5p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Conciencia",
         "url": "https://open.spotify.com/album/36nqP6gvOrWZBQJnOmapjq"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 229000,
       "name": "Tu Conciencia",
       "url": "https://open.spotify.com/track/1XzuxgapAUAG410B5LuidA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y.T.L.S.V.",
-        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "NO LLORES M\u00c1S",
-      "url": "https://open.spotify.com/track/3QROwoRzAm4MP58syg12Zk"
     },
     {
       "added_at": null,
@@ -924,13 +908,29 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         },
         {
-          "name": "Los Mas Sierre\u00f1os",
-          "url": "https://open.spotify.com/artist/5pRtqHfS2cUHCuywRcEXhK"
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
         }
       ],
-      "duration_ms": 245493,
-      "name": "POR UNA MUJER BONITA - En Vivo",
-      "url": "https://open.spotify.com/track/7o2EnXIUtVo8lVIDrKXLfd"
+      "duration_ms": 207957,
+      "name": "EL AMOR NUNCA SE VENDE - En Vivo",
+      "url": "https://open.spotify.com/track/6oMnXRNH3jGNZTZhZZoJ5p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y.T.L.S.V.",
+        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "NO LLORES M\u00c1S",
+      "url": "https://open.spotify.com/track/3QROwoRzAm4MP58syg12Zk"
     },
     {
       "added_at": null,
@@ -947,22 +947,6 @@
       "duration_ms": 97760,
       "name": "INTRO TUMBADO",
       "url": "https://open.spotify.com/track/4qHB4HsyhVZbJ3IJMH25ZM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y.T.L.S.V.",
-        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "QUI\u00c9REME",
-      "url": "https://open.spotify.com/track/3ioeNPVBME6ApIPWqnGJcj"
     },
     {
       "added_at": null,
@@ -987,6 +971,26 @@
       "duration_ms": 196659,
       "name": "Con la U y la P",
       "url": "https://open.spotify.com/track/2zOPjlGlARwM0t5YEHPwf4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los Mas Sierre\u00f1os",
+          "url": "https://open.spotify.com/artist/5pRtqHfS2cUHCuywRcEXhK"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "POR UNA MUJER BONITA - En Vivo",
+      "url": "https://open.spotify.com/track/7o2EnXIUtVo8lVIDrKXLfd"
     }
   ],
   "unique_name": "This Is Danny Felix",

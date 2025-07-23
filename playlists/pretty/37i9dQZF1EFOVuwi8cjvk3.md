@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381 likes - 242 songs - 14 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 382 likes - 242 songs - 14 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,8 +216,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 206 | [The Classic Prince](https://open.spotify.com/track/709FB0qBmrVvJna9xI6q6b) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 2:50 |
 | 207 | [Come Back](https://open.spotify.com/track/1Vko9poDevBytoyXFxr8Gj) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/031aHK0JF964V8dBPtQ51u) | 3:12 |
 | 208 | [How Can He Be](https://open.spotify.com/track/1HJPfnQQhANkDsBvTM8xrf) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/2priXi39uori5UwmnwA6oO) | 2:33 |
-| 209 | [Another Dose](https://open.spotify.com/track/1UA7A9ipmYOYXMtJGjShzy) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Hollywood: A Story of a Dozen Roses \(Deluxe Version\)](https://open.spotify.com/album/79EyqF9taW9XFPKci2U5D9) | 3:54 |
-| 210 | [FLY](https://open.spotify.com/track/09HMFVE1vkb9OfnhzJr5UU) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [RUN](https://open.spotify.com/album/1U9jsdilfpc7REguXmX6T7) | 3:05 |
+| 209 | [FLY](https://open.spotify.com/track/09HMFVE1vkb9OfnhzJr5UU) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [RUN](https://open.spotify.com/album/1U9jsdilfpc7REguXmX6T7) | 3:05 |
+| 210 | [Another Dose](https://open.spotify.com/track/1UA7A9ipmYOYXMtJGjShzy) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Hollywood: A Story of a Dozen Roses \(Deluxe Version\)](https://open.spotify.com/album/79EyqF9taW9XFPKci2U5D9) | 3:54 |
 | 211 | [What About Heaven](https://open.spotify.com/track/2zGlgpb31HU1JLfDNcZpNZ) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/031aHK0JF964V8dBPtQ51u) | 3:38 |
 | 212 | [A Bigger Picture Called Free](https://open.spotify.com/track/4dBWeFLWPmY9WHGMl6yN31) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Black America Again](https://open.spotify.com/album/2DTbGcv40CSMW0P4yAQQBa) | 4:38 |
 | 213 | [Wrong Speed](https://open.spotify.com/track/6OAikgb0nzBidSI9WMiKui) | [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Insecure: Music from the HBO Original Series, Season 3](https://open.spotify.com/album/3AaaX5cJpQPUzL2UznWu7q) | 3:30 |
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 241 | [Get Yo Change \(feat\. Pheo.\)](https://open.spotify.com/track/5qXQhyfZlMwAtnP0H9YEqr) | [Cashius Green](https://open.spotify.com/artist/5D85yGRQivakow0BIzakBn), [Pheo](https://open.spotify.com/artist/6xVKebTvUskmVsvIZpK0jy) | [Right Now](https://open.spotify.com/album/3MxSNUbyJGRI8ERAaHHWmb) | 3:06 |
 | 242 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `Ab3ZsgAAAACVoomYbjhWWyz4sD+ll9Qq`
+Snapshot ID: `Ab3fSAAAAAAJUiuAqBzKsFbhViilr3+8`

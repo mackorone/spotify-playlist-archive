@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 125 | [Who's Gonna Love You More](https://open.spotify.com/track/1tKgSDKLiGecDcbxm4kOIG) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [Bitter](https://open.spotify.com/album/4RSwF4HXGFzdtxnV3xuxjT) | 2:57 |
 | 126 | [Get It Done](https://open.spotify.com/track/6qJ8Il5OThFcrOFj32xR32) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Get It Done](https://open.spotify.com/album/1Pn6IYJQWyRRPFEMKTEw5w) | 3:02 |
 | 127 | [Paradise](https://open.spotify.com/track/02QcMeK6YrwvOWQ9XWpyYp) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Cautionary Tales of Youth](https://open.spotify.com/album/7oZTFBcPmwuv0L2AQI1yO9) | 3:05 |
-| 128 | [Cigarette \- Acoustic](https://open.spotify.com/track/0G5pSMytYwa5Ep7VzqB8Ab) | [MICHAELA](https://open.spotify.com/artist/0QxBW01qmpM8InQcVa1x9V) | [Cigarette \(Acoustic\)](https://open.spotify.com/album/4jRskEEfU18eb9nxCgBLYa) | 2:59 |
-| 129 | [All Around The World](https://open.spotify.com/track/68O6kIl42XxQBltMi3g8mZ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:31 |
+| 128 | [All Around The World](https://open.spotify.com/track/68O6kIl42XxQBltMi3g8mZ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:31 |
+| 129 | [Cigarette \- Acoustic](https://open.spotify.com/track/0G5pSMytYwa5Ep7VzqB8Ab) | [MICHAELA](https://open.spotify.com/artist/0QxBW01qmpM8InQcVa1x9V) | [Cigarette \(Acoustic\)](https://open.spotify.com/album/4jRskEEfU18eb9nxCgBLYa) | 2:59 |
 | 130 | [Better Man](https://open.spotify.com/track/75o9dfDkw3F6hjSujBJQZi) | [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [Better Man](https://open.spotify.com/album/6pFTHq7uBtEGJBjlOx5YDn) | 3:14 |
 | 131 | [Closure](https://open.spotify.com/track/3Z0uXmisVHmzoiSo49tUFy) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/5zpvrdeJU6NWitQt8b9lhv) | 3:02 |
 | 132 | [Hurricane](https://open.spotify.com/track/1it55uap8fb6m5EudcE0yG) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:27 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 148 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 149 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `Ab3ZqAAAAAD7fEape2bS30oF2/ccjP/z`
+Snapshot ID: `Ab3fSAAAAAClKwX59yUOqGRRNJacvVfb`

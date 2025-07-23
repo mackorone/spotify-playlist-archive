@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-430 songs - 23 hr 12 min
+431 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Forgive Forget](https://open.spotify.com/track/3DyZ0jw7mjRdcwiDvAL26Q) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Forgive Forget](https://open.spotify.com/album/6yoKpY3SB8swU6VtwRq8Zs) | 3:18 | 2024-01-12 | 2024-02-13 |
 | [Fuck It Up](https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [Fuck It Up](https://open.spotify.com/album/2ByC6BK9XEUuK043NpUGB3) | 2:12 | 2025-01-07 |  |
 | [FUCK IT UP](https://open.spotify.com/track/5s5Iv5IJ0hz0KDLXi14jRY) | [M?STIC](https://open.spotify.com/artist/0xlnHj0LM8ohKxoVEu56L4), [808GONG](https://open.spotify.com/artist/0JjEnXvT2nZMKYGmkZY5qC), [KEWL JERK](https://open.spotify.com/artist/0OCxBT7jOo0arczn7H4aKT) | [FUCK IT UP](https://open.spotify.com/album/3lnshycm7c7Kv24RpPTXWb) | 2:53 | 2021-11-19 | 2022-01-08 |
-| [fw me \(dirty\)](https://open.spotify.com/track/23bMrDNmqXJYfe8cY6Sw49) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:50 | 2025-01-17 |  |
+| [fw me \(dirty\)](https://open.spotify.com/track/23bMrDNmqXJYfe8cY6Sw49) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:50 | 2025-01-17 | 2025-07-23 |
 | [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 | 2022-05-27 | 2023-09-11 |
 | [Gainz](https://open.spotify.com/track/3Jn9sa1NMDRLMnJX1eGpBU) | [Deadlyft](https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY) | [Gainz](https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr) | 3:53 | 2021-11-19 | 2023-06-08 |
 | [Gainz](https://open.spotify.com/track/767R2eTuR9fBn4k82zLiXd) | [Deadlyft](https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY) | [Gainz](https://open.spotify.com/album/42kbR7t1IBBHkyvTPEkZk0) | 3:53 | 2023-07-14 | 2023-12-16 |
@@ -400,6 +400,7 @@
 | [Trials](https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 2:13 | 2022-10-07 | 2024-04-19 |
 | [Trials \(feat\. IDK\)](https://open.spotify.com/track/2rathjWuM0Hr7TAn57jCnt) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Trials \(feat\. IDK\)](https://open.spotify.com/album/3aKN8T2FwLCnJa3eau7QDg) | 2:13 | 2022-08-05 | 2022-10-13 |
 | [TROUBLE](https://open.spotify.com/track/3Y0FFtcmxdGkrCKnvuOs5q) | [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [4EVR](https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB) | 2:50 | 2024-08-02 | 2025-01-18 |
+| [Turn It Up](https://open.spotify.com/track/12jJ4mKhg46jC26kluQD46) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Turn It Up](https://open.spotify.com/album/0LCAXrcV78YZVUNhpDPFak) | 3:13 | 2025-07-18 |  |
 | [Turn Up](https://open.spotify.com/track/0oyutiBE89NpGtAdo3cA5Y) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Turn Up](https://open.spotify.com/album/7Ig6Dn3DjDgJC9dAk2FJ8M) | 3:00 | 2021-11-19 | 2022-01-08 |
 | [Twin Fang](https://open.spotify.com/track/4w8OjBEgU5TY5hFnnSry9B) | [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU), [Coka Cobra](https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC) | [Twin Fang](https://open.spotify.com/album/7fJ6TIkikeYwJLmK7Acuqc) | 3:18 | 2024-07-12 | 2024-09-10 |
 | [Two Glocks](https://open.spotify.com/track/5mLIHqYIRgdcXxvFdjCH6q) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [Two Glocks](https://open.spotify.com/album/5FB0h5ATYjvJ8idpSD1Lpb) | 2:48 | 2021-11-19 | 2022-01-08 |

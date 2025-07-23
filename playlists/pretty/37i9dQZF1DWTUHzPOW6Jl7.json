@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 719410,
+  "num_followers": 719626,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
@@ -749,6 +749,26 @@
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
     },
     {
+      "added_at": "2025-02-28 20:14:03",
+      "album": {
+        "name": "\u00dcbermensch",
+        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 153664,
+      "name": "TOO BAD",
+      "url": "https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm"
+    },
+    {
       "added_at": "2024-03-22 07:20:24",
       "album": {
         "name": "Fine Ho, Stay",
@@ -771,26 +791,6 @@
       "duration_ms": 165754,
       "name": "Never Lose Me (feat. SZA & Cardi B)",
       "url": "https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy"
-    },
-    {
-      "added_at": "2025-02-28 20:14:03",
-      "album": {
-        "name": "\u00dcbermensch",
-        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 153664,
-      "name": "TOO BAD",
-      "url": "https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "He Wasn't Man Enough",
-      "url": "https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Keep the Faith",
         "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 275706,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "He Wasn't Man Enough",
+      "url": "https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4"
     },
     {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Jade To The Max",
-        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
-      },
-      "artists": [
-        {
-          "name": "Jade",
-          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Don't Walk Away",
-      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
-    },
-    {
       "added_at": "2023-07-14 04:17:24",
       "album": {
         "name": "On My Mama",
@@ -1243,6 +1227,22 @@
       "duration_ms": 186678,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Jade To The Max",
+        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
+      },
+      "artists": [
+        {
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
     },
     {
       "added_at": "2025-02-28 20:14:03",
@@ -1329,6 +1329,26 @@
       "url": "https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI"
     },
     {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/3rTikJLDugcmBvhAnsy1WD"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "duration_ms": 255706,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/24NPziq3dayIMKppeI94Um"
+    },
+    {
       "added_at": "2025-06-06 04:53:00",
       "album": {
         "name": "Oh Lala",
@@ -1351,26 +1371,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/3rTikJLDugcmBvhAnsy1WD"
-      },
-      "artists": [
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        }
-      ],
-      "duration_ms": 255706,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/24NPziq3dayIMKppeI94Um"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Go Get It",
         "url": "https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9"
       },
@@ -1383,22 +1383,6 @@
       "duration_ms": 198346,
       "name": "Shackles (Praise You)",
       "url": "https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg"
-    },
-    {
-      "added_at": "2025-06-20 04:00:53",
-      "album": {
-        "name": "S.M.O.",
-        "url": "https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 270329,
-      "name": "S.M.O.",
-      "url": "https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1417,6 +1401,22 @@
       "url": "https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v"
     },
     {
+      "added_at": "2025-06-20 04:00:53",
+      "album": {
+        "name": "S.M.O.",
+        "url": "https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 270329,
+      "name": "S.M.O.",
+      "url": "https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb"
+    },
+    {
       "added_at": "2023-08-25 04:01:00",
       "album": {
         "name": "JAGUAR II",
@@ -1431,22 +1431,6 @@
       "duration_ms": 173913,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Lucy Pearl",
-        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
-      },
-      "artists": [
-        {
-          "name": "Lucy Pearl",
-          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Don't Mess With My Man",
-      "url": "https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1471,6 +1455,22 @@
       "duration_ms": 326186,
       "name": "Knock You Down",
       "url": "https://open.spotify.com/track/3OWcWJz1c0pIc6L3IDDhpP"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Lucy Pearl",
+        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
+      },
+      "artists": [
+        {
+          "name": "Lucy Pearl",
+          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Don't Mess With My Man",
+      "url": "https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1713,22 +1713,6 @@
       "url": "https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b"
     },
     {
-      "added_at": "2025-06-06 04:53:00",
-      "album": {
-        "name": "Long Time",
-        "url": "https://open.spotify.com/album/5WasWcm3Dhuk1YuyDwDBqB"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 114768,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/3lWOHVuJFczaKbt3gDsbwU"
-    },
-    {
       "added_at": "2025-06-20 04:00:53",
       "album": {
         "name": "Boujee Baby",
@@ -1747,6 +1731,22 @@
       "duration_ms": 171750,
       "name": "Boujee Baby",
       "url": "https://open.spotify.com/track/0Mq7egfvtSRmwVjkGkmPfI"
+    },
+    {
+      "added_at": "2025-06-06 04:53:00",
+      "album": {
+        "name": "Long Time",
+        "url": "https://open.spotify.com/album/5WasWcm3Dhuk1YuyDwDBqB"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 114768,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/3lWOHVuJFczaKbt3gDsbwU"
     },
     {
       "added_at": "2022-08-02 10:25:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > The Indie highlights of 2015\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,894 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,917 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 38 | [What Went Down](https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 5:00 |
 | 39 | [Silk](https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 4:03 |
 | 40 | [Technicolour Beat](https://open.spotify.com/track/5pLpkaIRobcvPnUmclNv6o) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:00 |
-| 41 | [Mess Around](https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 2:53 |
-| 42 | [Lampshades on Fire](https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Strangers to Ourselves](https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf) | 3:07 |
+| 41 | [Lampshades on Fire](https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Strangers to Ourselves](https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf) | 3:07 |
+| 42 | [Mess Around](https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 2:53 |
 | 43 | [Firefly](https://open.spotify.com/track/2s9C5THb9llwyVXtjveV4E) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Someday Somewhere](https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE) | 3:48 |
 | 44 | [Run](https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:01 |
 | 45 | [All We Do](https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:34 |
-| 46 | [Too Late To Say Goodbye](https://open.spotify.com/track/48sc7vBJeNoCEQhxO3zYKA) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 4:12 |
-| 47 | [Dopamine](https://open.spotify.com/track/62ZXL1CWLJDiDWUZUhfLfU) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:44 |
+| 46 | [Dopamine](https://open.spotify.com/track/62ZXL1CWLJDiDWUZUhfLfU) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:44 |
+| 47 | [Too Late To Say Goodbye](https://open.spotify.com/track/48sc7vBJeNoCEQhxO3zYKA) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 4:12 |
 | 48 | [What Kind Of Man](https://open.spotify.com/track/2kP1ujXHn0mNqFbiT3zob8) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:36 |
 | 49 | [The Wolf](https://open.spotify.com/track/2vWxcvNva9F5J7QzK2GrSb) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 3:41 |
 | 50 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 55 | [UGH!](https://open.spotify.com/track/2T4oNTmPYTZTdIzeFdNNez) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 3:00 |
 | 56 | [White Blood](https://open.spotify.com/track/3sZfQB5uYTJmA4QnB8dv7P) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 4:17 |
 | 57 | [Our Own House](https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:52 |
-| 58 | [Put a Flower in Your Pocket](https://open.spotify.com/track/7BaDRi8gmRnOducT6KaOfc) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Yours, Dreamily,](https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA) | 3:55 |
-| 59 | [Shadow](https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Shadow](https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG) | 3:44 |
+| 58 | [Shadow](https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Shadow](https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG) | 3:44 |
+| 59 | [Put a Flower in Your Pocket](https://open.spotify.com/track/7BaDRi8gmRnOducT6KaOfc) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Yours, Dreamily,](https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA) | 3:55 |
 | 60 | [Love Me](https://open.spotify.com/track/2HklyUw3TR56nVyVJAIhw5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 3:42 |
 | 61 | [Undiscovered \- From The "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/1mk8eWy5YlWKtvtm2x9AvX) | [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4gnEi23PFBwHXT9rMqTsN5) | 2:53 |
 | 62 | [Give Me a Try](https://open.spotify.com/track/7ayoL7WrBQP3ccJqELQXFK) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug](https://open.spotify.com/album/5eMwZy5R5qZB3v3lBumnFZ) | 3:48 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 82 | [Gone](https://open.spotify.com/track/4MocmzKdJQqrhInoE7Tnc5) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/6vCkb4Lm1IyVz7TZHoq5SK) | 3:47 |
 | 83 | [Leave A Trace](https://open.spotify.com/track/37N1YBZEiOyXK4R9h23RW4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/7IuEdviBeNzrMUE0InVimK) | 3:57 |
 | 84 | [Feeling Ok](https://open.spotify.com/track/0hgsUnkawqDllP4OF4g9MN) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [California Nights](https://open.spotify.com/album/1JIhBE54vvyvz6yqqKKJ1A) | 3:16 |
-| 85 | [OctaHate](https://open.spotify.com/track/6ZPDAipWlULnj5Zso56TIJ) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4y35I9OJ5QD3pvAOIffnmf) | 3:24 |
-| 86 | [Annie](https://open.spotify.com/track/0Zx00us8q9tVSYPIkOQABO) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Vega Intl\. Night School](https://open.spotify.com/album/21Sdg4ERIWBu9zR1Jd8TWU) | 4:02 |
+| 85 | [Annie](https://open.spotify.com/track/0Zx00us8q9tVSYPIkOQABO) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Vega Intl\. Night School](https://open.spotify.com/album/21Sdg4ERIWBu9zR1Jd8TWU) | 4:02 |
+| 86 | [OctaHate](https://open.spotify.com/track/6ZPDAipWlULnj5Zso56TIJ) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4y35I9OJ5QD3pvAOIffnmf) | 3:24 |
 | 87 | [Cut Your Bangs](https://open.spotify.com/track/1iDPPa3RRyhzrFS3lG1ZDo) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Chinatown](https://open.spotify.com/album/6TIZy5ya11Hl7Q5eN4F8xR) | 2:52 |
 | 88 | [How Do You Do It](https://open.spotify.com/track/1spLEdhSKVeh5nsK66tctl) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Me](https://open.spotify.com/album/7yfy9CIVCtTrfl1BrmcmNc) | 3:48 |
 | 89 | [Keep on Loving You](https://open.spotify.com/track/5VYBergVrUDcb8QyEg70cF) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Affection](https://open.spotify.com/album/4zBZX3bPIQkJMY0CaTGFKh) | 3:53 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 96 | [Flesh without Blood](https://open.spotify.com/track/4ZcGbQ5dOKX6rJk4yvza9R) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1) | 4:24 |
 | 97 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 |
 | 98 | [Death with Dignity](https://open.spotify.com/track/4fpEuKIzTLmMJnYwFU0oqr) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE) | 3:59 |
-| 99 | [Multi\-Love](https://open.spotify.com/track/0PEXp5yk0sx9dJ8JzwvjJb) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/587Clxxo1i5flgjvS52bEC) | 4:10 |
-| 100 | [Loud Places](https://open.spotify.com/track/2sZtaJ4RFbRAAOBKWEeR4H) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour \- Preview White Label](https://open.spotify.com/album/5jBKTppNIUpcrNKbr8jbsQ) | 4:43 |
+| 99 | [Downtown](https://open.spotify.com/track/5iK8GmW2uiPuUc5CtkZrIK) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Are You Alone?](https://open.spotify.com/album/2xF3ioefFdZrOg9zUBU5hb) | 4:09 |
+| 100 | [Multi\-Love](https://open.spotify.com/track/0PEXp5yk0sx9dJ8JzwvjJb) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/587Clxxo1i5flgjvS52bEC) | 4:10 |
 
 Snapshot ID: `Z9NVYQAAAACbevYTrWRG19nJ/7A0tl/p`

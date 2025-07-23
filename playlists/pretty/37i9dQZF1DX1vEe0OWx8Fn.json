@@ -1,6 +1,6 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 2824,
+  "num_followers": 2847,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
@@ -405,22 +405,6 @@
       "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
     },
     {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 138306,
-      "name": "then i met her",
-      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
-    },
-    {
       "added_at": "2023-05-19 14:21:26",
       "album": {
         "name": "Baku's Revenge",
@@ -439,6 +423,22 @@
       "duration_ms": 178263,
       "name": "Misfits",
       "url": "https://open.spotify.com/track/6W9CY1yt4FoAi2vKiqQLz0"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 138306,
+      "name": "then i met her",
+      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -825,28 +825,20 @@
       "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
     },
     {
-      "added_at": "2023-05-25 23:00:00",
+      "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "MY BRAIN AFTER THERAPY",
-        "url": "https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag"
+        "name": "Year Of The Snake",
+        "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
       },
       "artists": [
         {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        },
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        },
-        {
-          "name": "Extra Large Holiday Card",
-          "url": "https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 141352,
-      "name": "AFTER THERAPY (feat. Hot Mulligan)",
-      "url": "https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN"
+      "duration_ms": 211321,
+      "name": "Uzumaki",
+      "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
     }
   ],
   "unique_name": "dear diary",

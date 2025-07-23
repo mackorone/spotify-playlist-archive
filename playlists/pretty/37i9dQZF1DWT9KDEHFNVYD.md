@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,353 likes - 100 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,360 likes - 100 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,18 +60,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 50 | [Autobahn \- 2009 Remaster](https://open.spotify.com/track/44HjyYf1lYuO7oXRusudHN) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [Autobahn \(2009 Remaster\)](https://open.spotify.com/album/5ysfe4Bmv9xLNaPDrXFMBr) | 22:47 |
 | 51 | [Black Sand](https://open.spotify.com/track/6UZipqSMamNtONEnVYRN88) | [Brainticket](https://open.spotify.com/artist/0d11irn1BkpHJ6X8EyDsi7) | [Cottonwoodhill](https://open.spotify.com/album/7h2AERd0CxTtK0xWrUtlDE) | 4:05 |
 | 52 | [Out There](https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:54 |
-| 53 | [Drop Out](https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh) | [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO), [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 11:01 |
-| 54 | [Magic Kraut](https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 3:43 |
+| 53 | [Magic Kraut](https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv) | [Soft Machine \(U.S\. Version\)](https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx) | 3:43 |
+| 54 | [Drop Out](https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh) | [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO), [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 11:01 |
 | 55 | [Schwebebahn](https://open.spotify.com/track/6vaycV6nN0pRo9lSZLPKLI) | [Hoelderlin](https://open.spotify.com/artist/6KdRTV8GYYhX8hhPWbTZk3) | [Hoelderlin](https://open.spotify.com/album/37rnY9C3CxIq0c1YLSHCcR) | 7:22 |
 | 56 | [キュー](https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [BGM](https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4) | 4:32 |
 | 57 | [Nearby Shiras](https://open.spotify.com/track/6lOZ15WheIfHMfsvr8iK3Q) | [Kalacakra](https://open.spotify.com/artist/4boGEDgw8Kuy07kWFiuIls) | [Crawling to Lhasa](https://open.spotify.com/album/0j47nvtM2sdo6mULT3tf1C) | 9:13 |
 | 58 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
 | 59 | [Ich geh den Weg mit dir](https://open.spotify.com/track/61hXgmELye3W0q67kPCYEz) | [Musiccargo](https://open.spotify.com/artist/3PfsferIgZ7wACP0HcP329) | [Future Sounds Of Kraut Vol\. 1 \- compiled by Fred und Luna](https://open.spotify.com/album/1UDLKtbsdX65ZQVW5rPfx4) | 6:18 |
-| 60 | [I've Seen a U.F.O.](https://open.spotify.com/track/0RrXnG23LmlJNiYDFBy4Jq) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 8:36 |
-| 61 | [Heiße Lippen](https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 2:21 |
+| 60 | [Heiße Lippen](https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 2:21 |
+| 61 | [I've Seen a U.F.O.](https://open.spotify.com/track/0RrXnG23LmlJNiYDFBy4Jq) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 8:36 |
 | 62 | [Bang \- Peanut Butter Wolf Remix](https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang \(Peanut Butter Wolf Remix\)](https://open.spotify.com/album/1WMAZALQuGGrsWEvQt7S24) | 4:08 |
-| 63 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
-| 64 | [Motoring](https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA) | [TOY](https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA) | [Toy](https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s) | 4:33 |
+| 63 | [Motoring](https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA) | [TOY](https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA) | [Toy](https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s) | 4:33 |
+| 64 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
 | 65 | [Cassettesingle](https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Transparent Things](https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI) | 6:31 |
 | 66 | [Don't Blow Experiment](https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Panther Rotate](https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR) | 5:09 |
 | 67 | [C.Rock](https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X) | [Krisma](https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb) | [Chinese Restaurant](https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X) | 5:29 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 94 | [Blood\-Drums](https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Blood\-Drums](https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn) | 8:29 |
 | 95 | [Nieve Afuera](https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Nieve Afuera](https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo) | 4:37 |
 | 96 | [Himmelblau](https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK) | [Riechmann](https://open.spotify.com/artist/26LyRQGD6jgBi5XkM9xseP) | [Wunderbar](https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X) | 8:40 |
-| 97 | [Ship \- EP Version](https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Saya](https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv) | [Ship](https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk) | 4:06 |
-| 98 | [Tonband Laufspur](https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 6:32 |
+| 97 | [Tonband Laufspur](https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 6:32 |
+| 98 | [Ship \- EP Version](https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Saya](https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv) | [Ship](https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk) | 4:06 |
 | 99 | [Roll Call](https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Lost Worker Bee \- EP](https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko) | 6:27 |
 | 100 | [E\-Go](https://open.spotify.com/track/0IEqm9k648GiajWFUvsgLz) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Radiate!](https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN) | 6:54 |
 

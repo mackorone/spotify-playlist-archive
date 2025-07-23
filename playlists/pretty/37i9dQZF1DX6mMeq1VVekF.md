@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Kae Tempest
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,146 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,158 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 33 | [cook & effy](https://open.spotify.com/track/2Ine8NFQ7cUXIIlvzBlOPE) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [cook & effy](https://open.spotify.com/album/2UNDZH4KDV03ElCDxEhJTX) | 3:07 |
 | 34 | [aggressive](https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [aggressive](https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b) | 2:55 |
 | 35 | [Prada or Celine](https://open.spotify.com/track/7oL71KKGB790hTgoDaK14a) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [Prada or Celine](https://open.spotify.com/album/2sE10E4MWavzGEUsrHEOPd) | 2:20 |
-| 36 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 |
-| 37 | [NEXT MOVE](https://open.spotify.com/track/2I9Znd4MiS2ujLKVtSt0Mz) | [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [NEXT MOVE](https://open.spotify.com/album/22x3TWE6caAYUEnyQEQ2EK) | 1:40 |
-| 38 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
+| 36 | [NEXT MOVE](https://open.spotify.com/track/2I9Znd4MiS2ujLKVtSt0Mz) | [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [NEXT MOVE](https://open.spotify.com/album/22x3TWE6caAYUEnyQEQ2EK) | 1:40 |
+| 37 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
+| 38 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 |
 | 39 | [Sticks and Stones \(ft\. Kojey Radical & Strandz\)](https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Sticks and Stones \(ft\. Kojey Radical & Strandz\)](https://open.spotify.com/album/6KTsdhNUKZUZIXvrEWcPiO) | 4:12 |
-| 40 | [Know Yourself](https://open.spotify.com/track/3CZrKsC8qiP6byNgqKXEfV) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Know Yourself](https://open.spotify.com/album/7nlEUHiivhC4V9mbmLcDdX) | 2:40 |
-| 41 | [All My Life](https://open.spotify.com/track/76AYXcnSdgIK4l3cEzuXFw) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [All My Life](https://open.spotify.com/album/3k9rPnqzQ5NGvu8CtiA0Sz) | 3:07 |
+| 40 | [All My Life](https://open.spotify.com/track/76AYXcnSdgIK4l3cEzuXFw) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [All My Life](https://open.spotify.com/album/3k9rPnqzQ5NGvu8CtiA0Sz) | 3:07 |
+| 41 | [Know Yourself](https://open.spotify.com/track/3CZrKsC8qiP6byNgqKXEfV) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Know Yourself](https://open.spotify.com/album/7nlEUHiivhC4V9mbmLcDdX) | 2:40 |
 | 42 | [Osbatt](https://open.spotify.com/track/2LogzWD6BFBnj3avJpjcnh) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Osbatt](https://open.spotify.com/album/7cDDTqMfZorUbKIouPTm0w) | 4:03 |
 | 43 | [Better Now](https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Better Now](https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC) | 3:16 |
 | 44 | [Tyla](https://open.spotify.com/track/2qzI2cIKKqMM7lCxbgRWFM) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Tyla](https://open.spotify.com/album/2gpVnc299Vw2l5pqjSpHlt) | 2:14 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 54 | [U GOTTA \(feat\. Pharrell\)](https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 3:00 |
 | 55 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 |
 | 56 | [19](https://open.spotify.com/track/7uCtddSloI5jRSUWUdbEyY) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8) | [19](https://open.spotify.com/album/5bQoKnUIUOkARXThz4uRAK) | 3:25 |
-| 57 | [Fit ID](https://open.spotify.com/track/6ltJlPf02pYXiuZPHscjiD) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Fit ID](https://open.spotify.com/album/60hjjGjN5mNNVsnZEfDdmt) | 2:38 |
-| 58 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
+| 57 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
+| 58 | [Fit ID](https://open.spotify.com/track/6ltJlPf02pYXiuZPHscjiD) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Fit ID](https://open.spotify.com/album/60hjjGjN5mNNVsnZEfDdmt) | 2:38 |
 | 59 | [ROSTER](https://open.spotify.com/track/6FnezcbAmX7tOMF4hSi71K) | [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o), [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [\#\#MOTIONMUZIK](https://open.spotify.com/album/31poFvXB8ciLoUulSDsbgM) | 2:14 |
 | 60 | [Red Sea](https://open.spotify.com/track/1GPHLX444M4TPoeH2PkN5L) | [Lv](https://open.spotify.com/artist/0ZdEpgTWH5UAPeItBOSL5Y) | [Red Sea](https://open.spotify.com/album/20tFCHvKqXmcCwJcoBpWBA) | 2:12 |
 

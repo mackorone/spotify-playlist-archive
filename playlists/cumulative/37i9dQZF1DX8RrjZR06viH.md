@@ -4,7 +4,7 @@
 
 > Sommeren er her!🍹
 
-234 songs - 12 hr 9 min
+235 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Fy faen du e deili](https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH) | 3:35 | 2025-06-12 |  |
 | [Fy Faen Så Deilig](https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Fy Faen Så Deilig](https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0) | 2:36 | 2024-06-27 | 2024-10-25 |
 | [Før han for](https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6) | 2:56 | 2024-10-24 | 2025-06-16 |
+| [Gamle vaner](https://open.spotify.com/track/3spvaek151dJXQ3Uc7wDrK) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Gamle vaner](https://open.spotify.com/album/223dqSTNxI8iK6Bj7iudvN) | 2:04 | 2025-07-17 |  |
 | [Get Away](https://open.spotify.com/track/1cZCvmW4b4DGpiZhgwvb5j) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Get Away](https://open.spotify.com/album/64iH7iS9FsuhcYC5A4FAZ2) | 3:41 | 2025-04-17 | 2025-06-12 |
 | [Girlfriend](https://open.spotify.com/track/2mii3Q0tuCBI5DNyt0pBqW) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Girlfriend](https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa) | 3:31 | 2025-06-12 |  |
 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 | 2025-07-10 |  |
@@ -161,7 +162,7 @@
 | [Nostalgi](https://open.spotify.com/track/2KB8rqbA52HPAKBcutVp51) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Nostalgi](https://open.spotify.com/album/4DACSsBHMeZ8jKxcbZaA7w) | 2:37 | 2024-08-01 | 2024-10-28 |
 | [Number and a Street](https://open.spotify.com/track/1NT3kVjvvjmDPt20F58EDr) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Seasons](https://open.spotify.com/album/64eTSlCRiKUolrsET9Kl2v) | 3:14 | 2024-09-12 | 2024-10-17 |
 | [Nå har du meg](https://open.spotify.com/track/33coicso7oegceR6nB7Srl) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Nå har du meg](https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy) | 3:41 | 2024-06-27 |  |
-| [Oh Love \- Acoustic](https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Oh Love \(Acoustic\)](https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ) | 3:21 | 2024-10-03 |  |
+| [Oh Love \- Acoustic](https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Oh Love \(Acoustic\)](https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ) | 3:21 | 2024-10-03 | 2025-07-23 |
 | [ok](https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [ok](https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov) | 2:29 | 2024-06-27 | 2025-05-03 |
 | [Ole Lukkøye](https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Ole Lukkøye](https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ) | 4:25 | 2025-01-30 |  |
 | [Om du tror på oss](https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3), [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t) | [Om du tror på oss](https://open.spotify.com/album/7kE6Q0jwl7Wr1icIIFwQQ6) | 3:50 | 2024-09-05 |  |

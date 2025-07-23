@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari For Revenge & Stand Here Alone,  aespa, Maroon 5, dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,375 likes - 109 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,399 likes - 109 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 22 | [1965](https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:48 |
 | 23 | [DUMBO](https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:58 |
 | 24 | [MIAMI](https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MIAMI](https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la) | 3:01 |
-| 25 | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
+| 25 | [You Can’t Run From Yourself \- From "Kaiju No\. 8"](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
 | 26 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 |
 | 27 | [Limerence](https://open.spotify.com/track/3I4mVnT3eD1GkWtfopCPEa) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [gazeng](https://open.spotify.com/artist/0i6mAAoB8AnMGb3oEuU2Bo) | [Limerence](https://open.spotify.com/album/01w1dx6iPZ1e1Xhx4mr9zy) | 3:39 |
 | 28 | [Remedy](https://open.spotify.com/track/6dQfthVqZvG39aBUdWOnb9) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Remedy](https://open.spotify.com/album/4NMF7zEoWEnKcybYCoZkCu) | 3:13 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 33 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 |
 | 34 | [I Can Die Now](https://open.spotify.com/track/6uHFeKZwWzGyIXlLbKi9oz) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/6qvTtbsexSEvC5nq89Um2o) | 2:51 |
 | 35 | [Might Not Be](https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant \(Deluxe\)](https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI) | 2:25 |
-| 36 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
+| 36 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
 | 37 | [Moonlight](https://open.spotify.com/track/3BZkqCUSLzozgQuvR5MW3q) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Moonlight](https://open.spotify.com/album/5zAYhgGJ1e3MopvwahvFQZ) | 2:33 |
 | 38 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 |
 | 39 | [EYEZ](https://open.spotify.com/track/0mb8qYvh2IUAuQQ3gNTueb) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [EYEZ](https://open.spotify.com/album/3tARCP2tUQXmIIJeRg0hrN) | 3:53 |

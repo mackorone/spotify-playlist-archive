@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Yan Block
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,501,839 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,501,868 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

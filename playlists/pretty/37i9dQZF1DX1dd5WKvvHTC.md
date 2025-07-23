@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: Marti Dodson
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,017 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,038 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 39 | [Pain of Losing You](https://open.spotify.com/track/5PZW2r3pGQvHxI7XUIC4AV) | [Yächtley Crëw](https://open.spotify.com/artist/1MKnjx7jf1vRZEUz6gfQv5) | [Pain of Losing You](https://open.spotify.com/album/3JWpSRAcviF7QQrSqnEzJ6) | 3:43 |
 | 40 | [Acquiesce \- Unplugged](https://open.spotify.com/track/1jL1XaOJ2MiP1TsSH4jqmO) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Acquiesce \(Unplugged\)](https://open.spotify.com/album/38AJhHFWQgALQ4ejeqfNDH) | 4:01 |
 
-Snapshot ID: `aGvcYwAAAABSJ35HoTw/SDzVP9qWSGcz`
+Snapshot ID: `aIAHtgAAAABFtQSaHjMoQPIsKdYbYvLy`

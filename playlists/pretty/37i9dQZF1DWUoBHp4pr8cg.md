@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > The hottest Hip Hop from Yugen Blakrok, Clipse, Cassper Nyovest and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,149 likes - 84 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,179 likes - 84 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 83 | [Mayday](https://open.spotify.com/track/12ZIeKfjEj0KOyA1E7IjWb) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [Mayday](https://open.spotify.com/album/5WgTLSvCe8V58udTresTKx) | 1:17 |
 | 84 | [Passenger Princess \(feat\. Smino\)](https://open.spotify.com/track/4XXARhW0U9SKGQJcnYIDAC) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Passenger Princess / Adam](https://open.spotify.com/album/6eszObM49D1h61rbPxS7po) | 2:27 |
 
-Snapshot ID: `aHlylAAAAACSkE/TaRIt99jKDg6GGV2r`
+Snapshot ID: `aH9IYgAAAAApHyQ25hUJj1NoSLiRpa/b`

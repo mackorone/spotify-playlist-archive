@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: mgk
 
-1,636 songs - 3 day 22 hr 18 min
+1,637 songs - 3 day 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 | 2023-10-05 | 2023-12-10 |
 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2023-10-19 | 2024-01-05 |
 | [Dancing In Babylon \(feat\. Christine and the Queens\)](https://open.spotify.com/track/6QybVJMtaDCJjl2vPR2DcA) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Dancing In Babylon \(feat\. Christine and the Queens\)](https://open.spotify.com/album/3QUPigEo0MoAsxxRDe3JOk) | 4:52 | 2024-02-22 | 2024-03-01 |
+| [Dang](https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Dang](https://open.spotify.com/album/2pahZPfd9RrI1zO8fY6qqv) | 3:22 | 2025-07-17 |  |
 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 | 2023-04-06 | 2023-04-14 |
 | [DARK](https://open.spotify.com/track/1qlsoHIuuOsrm1qGENz4RM) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [DARK](https://open.spotify.com/album/5hcEXufQsdqSx8Ik7oXXEm) | 2:59 | 2024-05-23 | 2024-10-22 |
 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 | 2024-02-15 | 2024-06-09 |
@@ -449,7 +450,7 @@
 | [Dystopia](https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu) | 3:09 | 2024-10-24 | 2025-03-03 |
 | [DYWTYLM](https://open.spotify.com/track/4hjJtKO5SdpfVRwP4FZeKI) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [DYWTYLM](https://open.spotify.com/album/0xLXYxkjjIPfVFhbPWvCwy) | 4:00 | 2023-04-20 | 2023-05-28 |
 | [Easy Lighter](https://open.spotify.com/track/3ZPJCJMNaBQZG65nnlGgQ3) | [N.Y.P.D\. 南洋派對](https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY) | [Easy Lighter](https://open.spotify.com/album/0kAocczsJutXrc6QWMjYH6) | 6:21 | 2024-04-11 | 2024-06-21 |
-| [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-03-03 |  |
+| [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-03-03 | 2025-07-23 |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2023-03-16 | 2023-09-22 |
 | [Elevated Heartbreak](https://open.spotify.com/track/71kN8wL4AFqpMsmk9jb33D) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Elevated Heartbreak](https://open.spotify.com/album/2IAhYPxUgFVgKqLVzQV2By) | 3:23 | 2023-06-08 | 2023-06-23 |
 | [Elevator Operator](https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Elevator Operator](https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM) | 3:09 | 2025-01-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,070 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,072 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 33 | [賛否メーカー](https://open.spotify.com/track/2NKwaaTCWPqPbxfc0Y8OaE) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [賛否メーカー](https://open.spotify.com/album/71nKh2wiR6z3YBxpDNBS2Q) | 2:09 |
 | 34 | [大昇龍](https://open.spotify.com/track/13B2H8mnDYtsDl1GGaLLSt) | [8810](https://open.spotify.com/artist/6kvhMD4SVUFtIg9NbS3tKn) | [Birth](https://open.spotify.com/album/1zPHBXI3dKhPawU20dblHP) | 1:28 |
 | 35 | [ジャアイッテミヨウカ](https://open.spotify.com/track/5MoojpHkfWYimWCO0RqBM3) | [S.J.souldier](https://open.spotify.com/artist/2GxJOXMZmhkHUVhOPeNOYx) | [ジャアイッテミヨウカ](https://open.spotify.com/album/2eNf68bSbMIaDkqrrMb7mo) | 2:30 |
-| 36 | [SHUT THE FXXK UP \(feat\. Hideyoshi, Jinmenusagi & Carz\)](https://open.spotify.com/track/6FpKV2fnyZBvpHjAM7IFZO) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [Tokyo Young Vision \(Deluxe Edition\)](https://open.spotify.com/album/7aEmZ6BfgO5Ju8Log8ZeRp) | 3:24 |
+| 36 | [SHUT THE FUCK UP \(feat\. Hideyoshi, Jinmenusagi & Carz\)](https://open.spotify.com/track/6FpKV2fnyZBvpHjAM7IFZO) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [Tokyo Young Vision \(Deluxe Edition\)](https://open.spotify.com/album/7aEmZ6BfgO5Ju8Log8ZeRp) | 3:24 |
 | 37 | [ODRIDAS](https://open.spotify.com/track/0tNb9HqQhJrpstEBWiwMik) | [oviik/99broadway](https://open.spotify.com/artist/3a7dk25boRXys5CRVUxj8n), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [ODRIDAS](https://open.spotify.com/album/48dCRDWyRXBVpbhEiH5psa) | 2:46 |
 | 38 | [Blaze It Up](https://open.spotify.com/track/14rv0LQpMCit5DiOkQF2LF) | [BFN TOKYOTRILL](https://open.spotify.com/artist/1VuOxzoNAxcI7c2QROGWM2) | [Blaze It Up](https://open.spotify.com/album/7BAKmLpH4t77kDdr35LxHY) | 2:21 |
 | 39 | [Thanks to you](https://open.spotify.com/track/7ijQ3TaXKjC1SXW7Rps4SM) | [SOMAJI](https://open.spotify.com/artist/2Mf6iRRpO4lnieXb8Kkr6M) | [Thanks to you](https://open.spotify.com/album/0N745OMQvzO7Jhbnm2m0wB) | 3:08 |

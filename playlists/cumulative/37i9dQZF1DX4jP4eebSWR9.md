@@ -2,9 +2,9 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Justin Bieber
+> 50 Hits in einer Playlist! Cover: WizTheMc
 
-233 songs - 11 hr 6 min
+235 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-11-12 | 2025-05-14 |
 | [Baddest in Germany](https://open.spotify.com/track/68riJ0IgArc6va32ihh57s) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Baddest in Germany](https://open.spotify.com/album/5sXwo4isUCjmHW1vlJmgci) | 2:20 | 2025-07-15 |  |
 | [Baddies](https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Baddies](https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn) | 2:18 | 2024-09-10 | 2024-09-26 |
-| [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 | 2025-03-04 |  |
+| [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 | 2025-03-04 | 2025-07-23 |
 | [Bauch Beine Po](https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bauch Beine Po](https://open.spotify.com/album/3iw71cw9PHemEFZ9HZewWW) | 2:13 | 2024-09-10 | 2024-10-30 |
 | [Be Mine](https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Be Mine](https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ) | 2:36 | 2025-06-10 |  |
 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-12 | 2025-04-04 |
@@ -76,6 +76,7 @@
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-04 | 2025-05-07 |
 | [Ende](https://open.spotify.com/track/3kAXRmMpVq8uMLX5HCpTYO) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Ende](https://open.spotify.com/album/5EiEFRxgAgyx1nq8JXUSkp) | 2:48 | 2025-03-04 | 2025-03-26 |
 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 | 2025-05-27 | 2025-07-12 |
+| [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-22 |  |
 | [Fata Morgana](https://open.spotify.com/track/1v1cijv1qjMJ5o9OvMWACS) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fata Morgana](https://open.spotify.com/album/3Abw9UTsnzAEEf3nC87Lvx) | 2:44 | 2024-11-12 | 2025-06-04 |
 | [FICKA](https://open.spotify.com/track/1LbccDWO37QQUaRvoI2LjV) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [FICKA](https://open.spotify.com/album/6BBSxME0Np4bvCc3MtAEvE) | 2:24 | 2025-04-15 | 2025-06-04 |
 | [Follow You](https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Follow You](https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE) | 2:44 | 2024-11-26 | 2025-02-12 |
@@ -151,6 +152,7 @@
 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 | 2024-10-08 | 2024-11-27 |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-19 | 2025-04-16 |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-09-10 | 2024-10-02 |
+| [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-07-22 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2025-02-11 | 2025-04-09 |
 | [Nur ein Wort](https://open.spotify.com/track/0dIb1x3ilFtfprAfbfOEKm) | [Noah Kraus](https://open.spotify.com/artist/3wEYWraAn9tILbCru8VeME), [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Nur ein Wort](https://open.spotify.com/album/6n4MQhGhEBzZt9xFuXIdib) | 1:55 | 2025-03-25 |  |
 | [Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Von hier an blind](https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw) | 3:56 | 2025-01-28 | 2025-02-12 |
@@ -205,7 +207,7 @@
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-29 |  |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-14 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-10 | 2025-04-16 |
-| [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-06-17 |  |
+| [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-06-17 | 2025-07-23 |
 | [The Glen \- Levi Heron Edit](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [The Glen \(Levi Heron Edit\)](https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h) | 2:53 | 2025-06-17 |  |
 | [Therapie](https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Therapie](https://open.spotify.com/album/33zy8DA1rCHiRbfF5VnmOW) | 3:15 | 2025-05-20 | 2025-06-18 |
 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-01 | 2024-11-06 |

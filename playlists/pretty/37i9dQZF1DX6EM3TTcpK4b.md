@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 
 > Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Lola Beltrán
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,328 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,466 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 7 | [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 |
 | 8 | [Le Hace Falta Un Beso](https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 2:47 |
 | 9 | [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 |
-| 10 | [Sabes Una Cosa](https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:20 |
-| 11 | [Mi Talismán](https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 4:48 |
+| 10 | [Mi Talismán](https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 4:48 |
+| 11 | [Sabes Una Cosa](https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:20 |
 | 12 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 |
 | 13 | [Mujeres Divinas](https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 3:13 |
 | 14 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
@@ -110,15 +110,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 100 | [Tu Retirada](https://open.spotify.com/track/7sLlAe3At46cVEemoQ7dKA) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [El Indomable](https://open.spotify.com/album/37rzDLkGoIcqXAW7fZ9LJ0) | 4:03 |
 | 101 | [Te He Prometido](https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Te He Prometido](https://open.spotify.com/album/5akcpTEFuh8Ey7laB8c3TR) | 3:06 |
 | 102 | [Tatuajes](https://open.spotify.com/track/1aGYzAXdp9Cqd7Nv6WrSGZ) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colecciàn De Oro Vol.5 \- Joan Sebastian](https://open.spotify.com/album/3eBs0wd6Dq7JO59RK0PLW2) | 3:31 |
-| 103 | [No Me Queda Más](https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 3:20 |
+| 103 | [El Malo](https://open.spotify.com/track/1qNvE50pMBAB11VtaGGkFD) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH) | 2:57 |
 | 104 | [Palabras Tristes \- Con Mariachi](https://open.spotify.com/track/4ksk8KrZNs3CWGGicIT7VX) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Exitos De Oro](https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d) | 3:21 |
 | 105 | [No Volvere](https://open.spotify.com/track/4nq4Lil6fDpmYwhAdvmcmb) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [El Indomable](https://open.spotify.com/album/37rzDLkGoIcqXAW7fZ9LJ0) | 3:00 |
-| 106 | [Soñador Eterno](https://open.spotify.com/track/15vyZX2dCWO1alNLe8YjZs) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo Y Con Todos](https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV) | 3:13 |
+| 106 | [No Me Queda Más](https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 3:20 |
 | 107 | [El Hijo Desobediente](https://open.spotify.com/track/7mgm1NtgPgemOFsopkCszE) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos Antonio Aguilar](https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD) | 3:15 |
-| 108 | [Mi Forma De Sentir](https://open.spotify.com/track/5lgpyVntKs6yFvzSvbMJff) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Mi Forma De Sentir](https://open.spotify.com/album/44cukglFht4O2fmdNHMbfb) | 4:04 |
-| 109 | [Te Solté la Rienda](https://open.spotify.com/track/2E7m3h55nR9BZFkxSHh0Bx) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Brillantes \- Jose Alfredo Jimenez](https://open.spotify.com/album/6l0g4dldlzFpDthm87Ddql) | 2:38 |
-| 110 | [Que Mal Te Ves Sin Mí](https://open.spotify.com/track/6w81vVn9CNsnLA8SAj0HFp) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/4OeAeEGVylQuuveGXvKi3k) | 3:19 |
-| 111 | [El Malo](https://open.spotify.com/track/1qNvE50pMBAB11VtaGGkFD) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH) | 2:57 |
+| 108 | [Soñador Eterno](https://open.spotify.com/track/15vyZX2dCWO1alNLe8YjZs) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo Y Con Todos](https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV) | 3:13 |
+| 109 | [Mi Forma De Sentir](https://open.spotify.com/track/5lgpyVntKs6yFvzSvbMJff) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Mi Forma De Sentir](https://open.spotify.com/album/44cukglFht4O2fmdNHMbfb) | 4:04 |
+| 110 | [Te Solté la Rienda](https://open.spotify.com/track/2E7m3h55nR9BZFkxSHh0Bx) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Brillantes \- Jose Alfredo Jimenez](https://open.spotify.com/album/6l0g4dldlzFpDthm87Ddql) | 2:38 |
+| 111 | [Que Mal Te Ves Sin Mí](https://open.spotify.com/track/6w81vVn9CNsnLA8SAj0HFp) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/4OeAeEGVylQuuveGXvKi3k) | 3:19 |
 | 112 | [Caminos de Michoacán](https://open.spotify.com/track/6rhDW2z2TTDxRsv1fI4CnC) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [15 Exitos De Federico Villa \- Versiones Originales](https://open.spotify.com/album/14M2p00a5ozip7k4XZYihk) | 3:29 |
 | 113 | [Cucurrucucu Paloma](https://open.spotify.com/track/4SYjzX3PaRgTxPlwI9lAJx) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/4BLddBWl0kBBxGQnQQ9Sas) | 3:51 |
 | 114 | [Como Tu Decidas](https://open.spotify.com/track/6VtPNnCf12fB1iXHRT21IG) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Antologia el Poeta del Pueblo Con Mariachi](https://open.spotify.com/album/72zXuJGYw1YGmc7Ue0996l) | 3:08 |

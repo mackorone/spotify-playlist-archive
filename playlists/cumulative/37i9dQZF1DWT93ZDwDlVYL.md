@@ -4,7 +4,7 @@
 
 > Podcast che devi avere sul tuo RADAR: BenNaNa Podcast, Casi Umani, EST RADIO, Mitologia Gettata, Pianeta B12
 
-33 songs - 1 day 8 hr 56 min
+33 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [A qualcuno piace caldo \(1959\) \- Spoiler Special](https://open.spotify.com/episode/3wAtkkPorhqZS3szKyjqXp) | [CineFacts](https://open.spotify.com/show/5WZB5uA2emVdU5ZpOzgmOy) | [CineFacts](https://open.spotify.com/album/5WZB5uA2emVdU5ZpOzgmOy) | 1:41:05 | 2023-10-04 | 2024-12-06 |
 | [ARTESETTIMA // FILM BRUTTI CON LUCA RAVENNA](https://open.spotify.com/episode/5rr6v6C95n6Absrclw6I5l) | [EST RADIO](https://open.spotify.com/show/7vH5P46Jo4lRSt2AyINXHF) | [EST RADIO](https://open.spotify.com/album/7vH5P46Jo4lRSt2AyINXHF) | 1:10:57 | 2024-12-05 | 2025-05-29 |
 | [Comfort Movies con Simone Panetti // ARTE SETTIMA](https://open.spotify.com/episode/22G1csI3ybhxn88JZiv1XF) | [EST RADIO](https://open.spotify.com/show/7vH5P46Jo4lRSt2AyINXHF) | [EST RADIO](https://open.spotify.com/album/7vH5P46Jo4lRSt2AyINXHF) | 1:11:22 | 2025-05-28 |  |
-| [Coronide e il corvo bianco](https://open.spotify.com/episode/6ejIcXDtDRpXNY55R8X0e6) | [Mitologia Gettata 2](https://open.spotify.com/show/5TO2ilgqW2IDL5g60mttiI) | [Mitologia Gettata 2](https://open.spotify.com/album/5TO2ilgqW2IDL5g60mttiI) | 11:31 | 2025-05-28 |  |
+| [Coronide e il corvo bianco](https://open.spotify.com/episode/6ejIcXDtDRpXNY55R8X0e6) | [Mitologia Gettata 2](https://open.spotify.com/show/5TO2ilgqW2IDL5g60mttiI) | [Mitologia Gettata 2](https://open.spotify.com/album/5TO2ilgqW2IDL5g60mttiI) | 13:50 | 2025-05-28 |  |
 | [Ep\. 48 \- Dieta: il Grande Inganno con Franco Berrino e Natalia Gera \| Pianeta B12](https://open.spotify.com/episode/44Zp8MgayxZSCQydQIjDHW) | [PIANETA B12](https://open.spotify.com/show/6ato4Pxlc1zadiTjOW2PrT) | [PIANETA B12](https://open.spotify.com/album/6ato4Pxlc1zadiTjOW2PrT) | 1:15:51 | 2025-05-28 |  |
 | [Ep\. 7 \- La Scienza Contro I Falsi Miti Con Dario Bressanini e Beatrice Mautino](https://open.spotify.com/episode/6Y8MDmqgydDUialJpP5PoX) | [PIANETA B12](https://open.spotify.com/show/6ato4Pxlc1zadiTjOW2PrT) | [PIANETA B12](https://open.spotify.com/album/6ato4Pxlc1zadiTjOW2PrT) | 1:39:05 | 2024-12-05 | 2025-05-29 |
 | [Episodio 31 \- Er gioco der calamaro](https://open.spotify.com/episode/1KK8FwxQldPyKFlPbsxYCH) | [Brivido Coatto](https://open.spotify.com/show/6PTIGBFvMHis7VJXuipF3i) | [Brivido Coatto](https://open.spotify.com/album/6PTIGBFvMHis7VJXuipF3i) | 1:08:54 | 2023-10-04 | 2024-12-06 |

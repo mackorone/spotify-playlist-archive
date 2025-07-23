@@ -1,6 +1,6 @@
 {
   "description": "For those whose year was full of angst and anger #SpotifyWrapped",
-  "num_followers": 118156,
+  "num_followers": 118157,
   "original_name": "Songs To Rage To In 2023",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-11-29 12:29:47",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
-    },
-    {
-      "added_at": "2023-11-29 12:29:47",
-      "album": {
         "name": "READY TO EAT",
         "url": "https://open.spotify.com/album/75irRZ0tbSbDQS4IkCBKHy"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 149142,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/6tiyQ2Bdy5IO3YDidg2ajt"
+    },
+    {
+      "added_at": "2023-11-29 12:29:47",
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
     },
     {
       "added_at": "2023-11-29 12:29:47",

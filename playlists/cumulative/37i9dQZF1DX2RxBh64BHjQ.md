@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2SJhf6rTOU53g8yBdAjPby">SoFaygo</a>
 
-2,424 songs - 4 day 11 hr 40 min
+2,425 songs - 4 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1275,6 +1275,7 @@
 | [Man Down](https://open.spotify.com/track/2XR0Ou0pDaQ2bmVMsG90qe) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Man Down](https://open.spotify.com/album/09m8euGboz6XzRCjsf9ezz) | 2:57 | 2021-12-10 | 2022-02-26 |
 | [Man In The Mirror](https://open.spotify.com/track/6NjApMNzj1QvOxVw9XV1eA) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [It's Me, I'm The Problem](https://open.spotify.com/album/1ZcqPAtwRqeJZ2XGVPTkW4) | 2:36 | 2023-12-08 | 2024-02-17 |
 | [Maneuver \(feat\. Flo Milli\)](https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 3:21 | 2022-09-23 | 2022-11-26 |
+| [MANNEQUIN](https://open.spotify.com/track/4BOZwlrJLGTPmePx9mM9pu) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [REST IN BASS](https://open.spotify.com/album/67A39lP2d2oyDkRukYYm4F) | 2:03 | 2025-07-22 |  |
 | [Mannequin](https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Mannequin](https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW) | 3:54 | 2022-06-24 | 2022-08-20 |
 | [Marble Floors](https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Marble Floors](https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o) | 3:28 | 2024-08-23 | 2025-03-08 |
 | [MARGARET](https://open.spotify.com/track/7sWSRFfdQMzr7WaHRRhvPq) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [MARGARET](https://open.spotify.com/album/34SJjUxoYDkorOGKasgOuz) | 2:39 | 2025-02-14 | 2025-04-19 |
@@ -2024,7 +2025,7 @@
 | [STOP IT](https://open.spotify.com/track/3loQ69RjHEsOB2ADrusRwy) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [STOP IT](https://open.spotify.com/album/3h853f1lbotNRiJUTxwOJg) | 1:55 | 2021-12-03 | 2022-02-26 |
 | [Stressed](https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Stressed](https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8) | 3:03 | 2022-10-14 | 2022-12-17 |
 | [Stressed Out](https://open.spotify.com/track/5ZT3hjMMoYkgF0fLCZid4l) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Stressed Out](https://open.spotify.com/album/3gqR4LL4P10OOeybQPdzaM) | 2:52 | 2023-09-15 | 2023-10-14 |
-| [Strippers Lives Matter](https://open.spotify.com/track/5PQqmwiJwo6IEYVWSX0Vvz) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Let Me Fly \(Deluxe\)](https://open.spotify.com/album/16fOEIiwZ9ic2JIL7PI6u7) | 2:30 | 2025-07-11 |  |
+| [Strippers Lives Matter](https://open.spotify.com/track/5PQqmwiJwo6IEYVWSX0Vvz) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Let Me Fly \(Deluxe\)](https://open.spotify.com/album/16fOEIiwZ9ic2JIL7PI6u7) | 2:30 | 2025-07-11 | 2025-07-23 |
 | [stuck](https://open.spotify.com/track/2Yye2e8djUTiaSL33regqV) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [stuck](https://open.spotify.com/album/2mEAQvsqwjJmeaeQdKRB2C) | 2:41 | 2024-02-09 | 2024-03-23 |
 | [Stuck In My Ways](https://open.spotify.com/track/52K77MKrAormrzJHhL7fYr) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [Stuck In My Ways](https://open.spotify.com/album/0tLpo1x2gVMIgoHpRYvtNw) | 2:14 | 2023-05-12 | 2023-07-01 |
 | [Stunt PT 3 \(Final Stunt\)](https://open.spotify.com/track/5UonueNxzpXGvkbc7NUTqU) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG) | [Stunt PT 3 \(Final Stunt\)](https://open.spotify.com/album/3iqsDxnrdKPSc5iKXsOtKD) | 2:14 | 2024-02-09 | 2024-03-02 |

@@ -4,7 +4,7 @@
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-60 songs - 3 hr 53 min
+61 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [De Verzoening](https://open.spotify.com/track/1x9NeDQ4x5rnoO8fznt5TK) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [In Natura](https://open.spotify.com/album/7jAX8P8k12CrGVY796ycDt) | 5:02 | 2022-10-11 |  |
 | [De Verzonken Stad](https://open.spotify.com/track/67ic5KKc4Q8zPyfuu11VYn) | [Frank](https://open.spotify.com/artist/6FZRvArR9oNmZWraG4rXyI), [Mirella](https://open.spotify.com/artist/35iXe0ysO9vDK2vCESHAbz) | [De Verzonken Stad & Andere Hits](https://open.spotify.com/album/2KDci5Jcw5iP7UEVud2nLV) | 3:49 | 2022-10-11 |  |
 | [Deurdonderen](https://open.spotify.com/track/6U7rlAukeYVphgDWLc1yk6) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Deurdonderen](https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx) | 3:53 | 2022-10-11 |  |
-| [Diep In Mijn Hart](https://open.spotify.com/track/4naWA5coCt4fpzD8K6dSuw) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:49 | 2022-10-11 |  |
+| [Diep In Mijn Hart](https://open.spotify.com/track/4naWA5coCt4fpzD8K6dSuw) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:49 | 2022-10-11 | 2025-07-23 |
 | [Een Beetje Geld Voor Een Beetje Liefde](https://open.spotify.com/track/5Qp9zzVMWSLfrPokMUa8Px) | [Angelique](https://open.spotify.com/artist/5Wc9qBtVXUCDU44qtXDymm) | [Smartlappen Top 100 \- Deel 2](https://open.spotify.com/album/2vmDDtUfBv1HUS1RxeHgtv) | 3:03 | 2022-10-11 |  |
 | [Een Beetje Van Dit](https://open.spotify.com/track/2DDXb3mlFfM0JOnMdWK4Bd) | [Vulcano](https://open.spotify.com/artist/2tsjX3EgFU0t7Ure3FVvZF) | [Heerlijk Hollands \- Het Allerbeste van Frizzle Sizzle & Vulcano](https://open.spotify.com/album/7dTj2T14Jynv3ycUZgjdlr) | 2:38 | 2022-10-11 |  |
 | [Een Beetje Verliefd](https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 4:14 | 2022-10-11 |  |
@@ -67,6 +67,7 @@
 | [Vriendschap](https://open.spotify.com/track/13mvLR1T0GesAY3jhM9lAw) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 4:07 | 2022-10-11 |  |
 | [Waarom Fluister Ik Je Naam Nog](https://open.spotify.com/track/1Mf4CXEX26bmzrr9n3nZ3W) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Allermooiste](https://open.spotify.com/album/6OJ5TevDAiuIwWw2c6xF89) | 3:45 | 2022-10-11 |  |
 | [Winter in Hamburg](https://open.spotify.com/track/3WTD1NqmlaxaI00K2Q1B0Z) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Welkom In Utopia](https://open.spotify.com/album/5OeSXqF6Cp7qr7exlCiiAi) | 5:18 | 2022-10-11 |  |
+| [Zeg Maar Niets Meer](https://open.spotify.com/track/1YEUqTuDGVNVt9d6eDMSF8) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 2:47 | 2022-10-11 |  |
 | [Zwart Wit](https://open.spotify.com/track/2NjUjtsJ7rs40IiQk48j3J) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 3:05 | 2022-10-11 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

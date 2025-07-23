@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Zaan Sonnekus
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,938 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,961 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 2 | [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 |
 | 3 | [Hoe Nou?](https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [Johan Viljoen](https://open.spotify.com/artist/5sLYgGnmf2ra6V7hLHbvG8) | [Hoe Nou?](https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC) | 2:59 |
 | 4 | [Bokbefok](https://open.spotify.com/track/0YwiKZs3LZ7nIyHYTX8fb1) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Bokbefok](https://open.spotify.com/album/4ZLqEGdLtWa98K7bA9hcPo) | 2:47 |
-| 5 | [Kies](https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Kies](https://open.spotify.com/album/3SjkIeXyLQ4lkpc85KslZs) | 3:28 |
-| 6 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 |
+| 5 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 |
+| 6 | [Kies](https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Kies](https://open.spotify.com/album/3SjkIeXyLQ4lkpc85KslZs) | 3:28 |
 | 7 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
 | 8 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
 | 9 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC2vWhv5hnK.md) - [plain]
 
 > Enjoy music from "Kaiju No\. 8"! ©防衛隊第３部隊 ©松本直也／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,038 likes - 73 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,063 likes - 73 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [カフカからのスペシャル・メッセージ！](https://open.spotify.com/track/0zckDDTsmXN1XIjWdCPM5R) | [怪獣8号](https://open.spotify.com/artist/1QvSxr0HMAEsQP7yeClNDX) | [『怪獣8号』カフカからのスペシャルメッセージ！](https://open.spotify.com/album/2UVFYbD7YqaqDrnKllUbp6) | 0:52 |
-| 2 | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
+| 2 | [You Can’t Run From Yourself \- From "Kaiju No\. 8"](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
 | 3 | [Theme of NARUMI](https://open.spotify.com/track/2NIaUAGYQjHVBBpEQdC7EM) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [Original Soundtrack Vol\. 0 from "Kaiju No\. 8" 2nd](https://open.spotify.com/album/0Q0LHzqkgMdmzNdIbCmFwd) | 2:58 |
 | 4 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 |
 | 5 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 |

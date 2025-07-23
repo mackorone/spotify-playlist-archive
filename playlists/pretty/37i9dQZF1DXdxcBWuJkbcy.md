@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,925,618 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,925,104 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 76 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 |
 | 77 | [Hollow \(feat\. Bonn\)](https://open.spotify.com/track/7EdPWyTm6EtO5httz2Dcoa) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hollow \(feat\. Bonn\)](https://open.spotify.com/album/62cNVQX5G5tM6n302goHbL) | 3:20 |
 | 78 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 |
-| 79 | [Mission](https://open.spotify.com/track/6iVHwPKzB5hN1jSCOHMw8z) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Mission](https://open.spotify.com/album/40O6jxEr7BR4qpMsqovjNx) | 1:58 |
-| 80 | [Ray Of Solar](https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Ray Of Solar](https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb) | 4:01 |
+| 79 | [Ray Of Solar](https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Ray Of Solar](https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb) | 4:01 |
+| 80 | [Mission](https://open.spotify.com/track/6iVHwPKzB5hN1jSCOHMw8z) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Mission](https://open.spotify.com/album/40O6jxEr7BR4qpMsqovjNx) | 1:58 |
 
 Snapshot ID: `aHlygQAAAACOnXtSDg0U1Pm3eKQ6q3FP`

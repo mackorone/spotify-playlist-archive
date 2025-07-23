@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 
 > Music from "Love Live! Superstar!!" ©2022 プロジェクトラブライブ！スーパースター!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,324 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,326 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

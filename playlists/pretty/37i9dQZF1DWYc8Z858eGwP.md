@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > Discover your new favourite artists from Africa\. Cover:  <a href="https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW?si=eowv51LkSieK2fBmdIXoeA">Joshua Baraka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,982 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,996 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Laho](https://open.spotify.com/track/0lhLSwvRKGHfIcVEz3uQK6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/65SUCKOvwWityHzXuDGWTl) | 2:24 |
 | 2 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 |
 | 3 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 |
-| 4 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
+| 4 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
 | 5 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 |
 | 6 | [Excellent](https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Excellent](https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4) | 2:40 |
 | 7 | [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 |

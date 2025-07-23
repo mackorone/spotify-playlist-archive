@@ -1,6 +1,6 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 585748,
+  "num_followers": 586251,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "Old Town Road",
-      "url": "https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH"
-    },
-    {
-      "added_at": "2025-07-02 03:49:02",
-      "album": {
         "name": "Nothing Was The Same",
         "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 227880,
       "name": "Hold On, We're Going Home",
       "url": "https://open.spotify.com/track/2aSC2xhRxOLiiZZVjhbylH"
+    },
+    {
+      "added_at": "2025-07-02 03:49:02",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH"
     },
     {
       "added_at": "2025-07-02 03:49:02",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
-    },
-    {
-      "added_at": "2025-07-02 03:49:02",
-      "album": {
         "name": "Descendants 2 (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 190720,
       "name": "What's My Name",
       "url": "https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB"
+    },
+    {
+      "added_at": "2025-07-02 03:49:02",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "added_at": "2025-07-02 03:49:02",

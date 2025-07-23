@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Compa Chuy Montana, aquí su legado sigue vigente 🕊️✨🙏
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,073 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,137 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 72 | [Caja de Muerte](https://open.spotify.com/track/3yNdtIO9fyip5mTx0OZc3X) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69) | [20 Éxitos Querido Amigo](https://open.spotify.com/album/5eOZiK0XfTpIU3mXAA22rq) | 3:22 |
 | 73 | [Si Una Vez](https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:47 |
 | 74 | [Mi Credo](https://open.spotify.com/track/7GhyiB8rG71HqBmG27w7qT) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 3:04 |
-| 75 | [Fallaste corazon](https://open.spotify.com/track/7mYRqhp7hhew3UlSvEkJN5) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera \- Pedro Infante](https://open.spotify.com/album/18D7PLKVrWsls3JKP6iPxH) | 3:46 |
+| 75 | [Cosas Del Diablo](https://open.spotify.com/track/6wVe2PjZyYn42TaRizV7Y9) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [20 Canciones Banda y Norteno](https://open.spotify.com/album/6zFlPbgZKZFN5t40RMg065) | 3:15 |
 
 Snapshot ID: `aGLbdQAAAABZMFkszH1PY/5xQB6/nZ/5`

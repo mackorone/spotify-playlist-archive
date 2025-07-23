@@ -1,6 +1,6 @@
 {
   "description": "it's a party 4 u",
-  "num_followers": 4087224,
+  "num_followers": 4086032,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-07-18 04:00:22",
       "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 136991,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
-    },
-    {
-      "added_at": "2025-07-18 04:00:22",
-      "album": {
         "name": "Loud (Japan Version)",
         "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 235493,
       "name": "Only Girl (In The World)",
       "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
+    },
+    {
+      "added_at": "2025-07-18 04:00:22",
+      "album": {
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 136991,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
     },
     {
       "added_at": "2025-07-18 04:00:22",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2025-07-18 04:00:22",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 208666,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+      "duration_ms": 238249,
+      "name": "DUMBO",
+      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
     },
     {
       "added_at": "2025-07-18 04:00:22",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2025-07-18 04:00:22",
       "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 238249,
-      "name": "DUMBO",
-      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
+      "duration_ms": 208666,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
       "added_at": "2025-07-18 04:00:22",

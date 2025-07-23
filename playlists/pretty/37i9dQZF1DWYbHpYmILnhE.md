@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: EESKAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,341 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,373 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

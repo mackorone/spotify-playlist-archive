@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 
 > this is your moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,167 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,295 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 67 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
 | 68 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 |
 | 69 | [Writer](https://open.spotify.com/track/50vKWUS6zLnd5cDhPSqwey) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:01 |
-| 70 | [Do Not Wait](https://open.spotify.com/track/5y3QjURtPq4V186jTPMA8Y) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 6:30 |
-| 71 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 |
+| 70 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 |
+| 71 | [Do Not Wait](https://open.spotify.com/track/5y3QjURtPq4V186jTPMA8Y) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 6:30 |
 | 72 | [Beautiful Boy](https://open.spotify.com/track/4YGpUNc3cScpjliOZojJ89) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:47 |
 | 73 | [Mum](https://open.spotify.com/track/3dSkr1cDkKdSZDYCTrnFKf) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [When Facing the Things We Turn Away From](https://open.spotify.com/album/5T1HI88OceUlUExSsAM3GQ) | 3:50 |
 | 74 | [Me](https://open.spotify.com/track/4GjRDgb77p27GQnbZpv1OJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:35 |
@@ -89,13 +89,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 79 | [Be an Astronaut](https://open.spotify.com/track/6obgLZhy3w1r6zKhxKWU6F) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Zeros](https://open.spotify.com/album/4Q6Y35QnNj37hiXVs1Bbxn) | 4:35 |
 | 80 | [Skin Parade / Fade Into You \- Live At Narcissus](https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Live At Narcissus](https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1) | 5:38 |
 | 81 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
-| 82 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
-| 83 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
+| 82 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
+| 83 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
 | 84 | [Lifetime of Wanting](https://open.spotify.com/track/5oaxDAJC1eXfdvAd9AKDKr) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Lifetime of Wanting](https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS) | 3:23 |
 | 85 | [The Days](https://open.spotify.com/track/0QcDrehXMQ02rAu1gefefF) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [Lupercalia](https://open.spotify.com/album/1N62oiLUF4xRk0cZETrSkn) | 4:53 |
-| 86 | [Never](https://open.spotify.com/track/0pG8CuxAbXtrlIhgr1bgPx) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:03 |
-| 87 | [Riot Of Sunlight](https://open.spotify.com/track/6X874Yxx4QjzW8sdU86BZU) | [Circe](https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc) | [Drawing Wings From The Light](https://open.spotify.com/album/6IEegjq9dgITjSz9qND8dg) | 3:39 |
-| 88 | [Evangeline](https://open.spotify.com/track/0TPNqKRhUmqv3rzWfKTmoP) | [Chloe Ament](https://open.spotify.com/artist/3bAJYz1UylrqS4DgaU9aOu) | [burn & breathe](https://open.spotify.com/album/61hjvdKUnhMHIpHEnANlFd) | 5:22 |
+| 86 | [Evangeline](https://open.spotify.com/track/0TPNqKRhUmqv3rzWfKTmoP) | [Chloe Ament](https://open.spotify.com/artist/3bAJYz1UylrqS4DgaU9aOu) | [burn & breathe](https://open.spotify.com/album/61hjvdKUnhMHIpHEnANlFd) | 5:22 |
+| 87 | [Never](https://open.spotify.com/track/0pG8CuxAbXtrlIhgr1bgPx) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:03 |
+| 88 | [Riot Of Sunlight](https://open.spotify.com/track/6X874Yxx4QjzW8sdU86BZU) | [Circe](https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc) | [Drawing Wings From The Light](https://open.spotify.com/album/6IEegjq9dgITjSz9qND8dg) | 3:39 |
 | 89 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
 | 90 | [Outside](https://open.spotify.com/track/1ozbAvJ5hZmycQbh4GQGjI) | [Jordan Nash](https://open.spotify.com/artist/3FdBkTRuQog4cyBE1FRR7A) | [Outside](https://open.spotify.com/album/0baK4pePflG8hjaOPxiyiJ) | 2:36 |
 | 91 | [Burner](https://open.spotify.com/track/2arEFpdh3Wh1VqO3S2IiUz) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Burner](https://open.spotify.com/album/6QEubYvTOj36YYpFRQpSAg) | 3:20 |

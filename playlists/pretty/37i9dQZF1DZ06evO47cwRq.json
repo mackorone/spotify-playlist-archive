@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 2932738,
+  "num_followers": 2933328,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAABSvyjdgEUkLnxRihOzwacs",
+  "snapshot_id": "aH2DAAAAAABPdUPPrpx6Nd9VEkhuxuC8",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Zero",
-        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 183584,
-      "name": "Two Faced",
-      "url": "https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIVING THINGS",
         "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 205400,
       "name": "CASTLE OF GLASS",
       "url": "https://open.spotify.com/track/1r1fPuhj9H4VdXr7OK6FL5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183584,
+      "name": "Two Faced",
+      "url": "https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 199342,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
+      "duration_ms": 183973,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 183973,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5"
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Grupo Los de la O\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 39 min
+73 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Carros Exclusivos \- En Vivo](https://open.spotify.com/track/5csCx3iqOAkGlRTuDnFUkQ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Carros Exclusivos](https://open.spotify.com/album/7AEXH6vmGK8HHynh7MfHca) | 3:25 | 2024-01-29 | 2025-01-27 |
 | [Chalito Mentado \(En Vivo\)](https://open.spotify.com/track/6Xk6bL6cFglnkYBnm8GUkL) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Chalito Mentado \(En Vivo\)](https://open.spotify.com/album/4kjcEccNzd2Ytem9hKHlct) | 2:40 | 2024-01-29 | 2024-06-02 |
 | [Como Has Estau?](https://open.spotify.com/track/7FMo3ndoRSNWcxDHY7Odt0) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 2:19 | 2024-06-02 | 2024-06-03 |
+| [Creces](https://open.spotify.com/track/7nSknXLSED07Hubig7HxvZ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 3:26 | 2025-07-23 |  |
 | [Criminales de Verdad \- En Vivo](https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:07 | 2024-01-29 |  |
 | [Diez Mandamientos](https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Diez Mandamientos](https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn) | 3:27 | 2024-01-29 |  |
 | [El Challenger Negro](https://open.spotify.com/track/7sCyOI2qAttPkAXSDYHmpr) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:17 | 2024-01-29 |  |
@@ -62,7 +63,7 @@
 | [Pongámonos De Acuerdo](https://open.spotify.com/track/24AQa9DkSsiRILa2se6Mht) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pongámonos de Acuerdo](https://open.spotify.com/album/3aUyCfkToMeF5JTFpHhogK) | 3:08 | 2025-06-08 |  |
 | [Por Extrañarte](https://open.spotify.com/track/25Mzk9mO2Dumb2PLzVpWjr) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 2:45 | 2024-06-04 |  |
 | [Porte Fino \- En Vivo](https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:10 | 2024-01-29 | 2025-07-21 |
-| [Problemas Mentales](https://open.spotify.com/track/56X29F9THJqhofWefcdvRk) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Problemas Mentales](https://open.spotify.com/album/2JV7M938XpePJOEUftFeBL) | 2:51 | 2024-09-06 |  |
+| [Problemas Mentales](https://open.spotify.com/track/56X29F9THJqhofWefcdvRk) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Problemas Mentales](https://open.spotify.com/album/2JV7M938XpePJOEUftFeBL) | 2:51 | 2024-09-06 | 2025-07-23 |
 | [Problemas Mentales](https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 2:51 | 2024-01-29 | 2024-06-19 |
 | [Producto de Calle](https://open.spotify.com/track/3MMfgeyw8xplWDxBKhemZc) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Proyecto A](https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ) | 3:14 | 2025-03-30 | 2025-06-08 |
 | [Puro Gas](https://open.spotify.com/track/1sRDG9M3EuT2Bm4PfRqYGQ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 3:32 | 2024-01-29 |  |

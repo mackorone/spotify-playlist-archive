@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,528 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,670 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 49 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteto Característico \(A2000\)](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 |
 | 50 | [Volví](https://open.spotify.com/track/1F4r99Fjx0gh3TlJPte2M3) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Volví](https://open.spotify.com/album/1RM6dC0PwIo5rI06yfMZ5b) | 2:50 |
 | 51 | [No Puedo Fingirlo](https://open.spotify.com/track/1OEZzIyMUzSU8ZZc9C6OdD) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [No Puedo Fingirlo](https://open.spotify.com/album/300aT1T1b5w3BVlKnwxSDB) | 3:39 |
-| 52 | [A veces, a besos](https://open.spotify.com/track/5dJGZ8q6QKV5KcnjvkZMeZ) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Aneley](https://open.spotify.com/artist/0fwYg36a0rtDscNA60ULVQ) | [A veces, a besos](https://open.spotify.com/album/35ABidXvaHhuRzrpHgR62j) | 3:18 |
-| 53 | [Si Me Disculpo Ahora](https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Si Me Disculpo Ahora](https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi) | 2:00 |
+| 52 | [Si Me Disculpo Ahora](https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Si Me Disculpo Ahora](https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi) | 2:00 |
+| 53 | [A veces, a besos](https://open.spotify.com/track/5dJGZ8q6QKV5KcnjvkZMeZ) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Aneley](https://open.spotify.com/artist/0fwYg36a0rtDscNA60ULVQ) | [A veces, a besos](https://open.spotify.com/album/35ABidXvaHhuRzrpHgR62j) | 3:18 |
 | 54 | [Tus Botellas](https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Tus Botellas](https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04) | 3:22 |
 | 55 | [Mi Cama No Habla](https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Te Suena?](https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK) | 3:29 |
 | 56 | [Te hubieras ido antes](https://open.spotify.com/track/0UFblMYjI2whiXqupAz4gF) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [En la piel](https://open.spotify.com/album/6atk3EZyEKZF03JBdTeRVQ) | 5:10 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 93 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
 | 94 | [Luis](https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Luis](https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN) | 4:23 |
 | 95 | [¿Quién te dijo?](https://open.spotify.com/track/7wfmSx8lQgJlrax6wUovTT) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ), [NHAY](https://open.spotify.com/artist/65fxKyBt1Tx8P0nAItFTwG) | [¿Quién te dijo?](https://open.spotify.com/album/592QixSKkHfh9as3yRCzmn) | 2:45 |
-| 96 | [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 |
-| 97 | [En Libertad](https://open.spotify.com/track/1DKiKqd2S5OVyQmj7OS855) | [Cachumba](https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R) | [Con el Corazón en la Mano](https://open.spotify.com/album/5sDbIHYvFvWQO4ocVkmzHf) | 2:53 |
+| 96 | [En Libertad](https://open.spotify.com/track/1DKiKqd2S5OVyQmj7OS855) | [Cachumba](https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R) | [Con el Corazón en la Mano](https://open.spotify.com/album/5sDbIHYvFvWQO4ocVkmzHf) | 2:53 |
+| 97 | [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 |
 | 98 | [Lo Aprendí de Ti](https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7) | [Pitty Murua](https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9) | [Esta de Moda](https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3) | 3:24 |
-| 99 | [Esperando](https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF) | [Walter Romero](https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad) | [Libre al Fin](https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb) | 4:06 |
-| 100 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 |
+| 99 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 |
+| 100 | [Esperando](https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF) | [Walter Romero](https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad) | [Libre al Fin](https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb) | 4:06 |
 
 Snapshot ID: `aHm4ygAAAADZtn2M5acuFikmS4w991tY`

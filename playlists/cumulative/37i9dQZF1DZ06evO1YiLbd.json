@@ -516,7 +516,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 204426,
       "name": "Just Another Hero",
       "url": "https://open.spotify.com/track/7p6b4Z4Z9Pvn4qPYe3XRpX"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 182600,
       "name": "My Hero",
       "url": "https://open.spotify.com/track/48e3cG4Zr2XT7v8E7rIu92"
@@ -742,6 +742,28 @@
       "duration_ms": 122000,
       "name": "My Treasure",
       "url": "https://open.spotify.com/track/4uelWLwGdrTKrEhuDZCdBH"
+    },
+    {
+      "album": {
+        "name": "My\u2606Hero",
+        "url": "https://open.spotify.com/album/2oj3gtuMsPrmADdeKw0RXk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "POP STEP",
+          "url": "https://open.spotify.com/artist/4OasGaM4Wm6Id0fzTHnCkX"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182600,
+      "name": "My\u2606Hero",
+      "url": "https://open.spotify.com/track/3o6ob6bZPyoEde5C9VT7PZ"
     },
     {
       "album": {
@@ -2362,7 +2384,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-17",
+      "date_removed": null,
       "duration_ms": 190240,
       "name": "\u5f37\u304f\u306a\u308c",
       "url": "https://open.spotify.com/track/1lxtWPkY7QaSxvwG2Szl2E"

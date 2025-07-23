@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,975,740 likes - 100 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,975,611 likes - 100 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 13 | [moonlight \(kali uchis\) \- sped up version](https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [moonlight \(kali uchis\) \[sped up version\]](https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1) | 2:36 |
 | 14 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 |
 | 15 | [Sex, Drugs, Etc\. \- Sped Up Version](https://open.spotify.com/track/6SWVr6T3yQS6gZ9gQHrr2b) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Sex, Drugs, Etc\. \(Sped Up Version\)](https://open.spotify.com/album/4NyrvOITu55ZfyN2MzQ2mb) | 2:56 |
-| 16 | [Somebody's Pleasure \- Sped Up](https://open.spotify.com/track/6xjBgCWC0pgNDvJzTz9JcZ) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \- Sped Up](https://open.spotify.com/album/1JezApQUnDj1SkWmZy1Sn3) | 3:03 |
-| 17 | [Duvet \- Sped Up Version](https://open.spotify.com/track/0wEeW8Bwr0fHXuS2zLiDXk) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Duvet](https://open.spotify.com/album/1Pui3ok2FUI74QId9sdmNY) | 3:02 |
+| 16 | [Duvet \- Sped Up Version](https://open.spotify.com/track/0wEeW8Bwr0fHXuS2zLiDXk) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Duvet](https://open.spotify.com/album/1Pui3ok2FUI74QId9sdmNY) | 3:02 |
+| 17 | [Somebody's Pleasure \- Sped Up](https://open.spotify.com/track/6xjBgCWC0pgNDvJzTz9JcZ) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \- Sped Up](https://open.spotify.com/album/1JezApQUnDj1SkWmZy1Sn3) | 3:03 |
 | 18 | [Messy \- Sped Up](https://open.spotify.com/track/17a9C1O1SoUAr5sVwu4YUR) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy EP](https://open.spotify.com/album/1S7fb88qH3ph787NbiX3Vq) | 4:18 |
 | 19 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 |
-| 20 | [Me Gustas Tu \- Sped Up Version](https://open.spotify.com/track/1H0i9N9bFrYfNThZkjCaLe) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [spedup trends](https://open.spotify.com/artist/0ZiZFps7oB1BU3kkpSa1S7) | [Me Gustas Tu EP](https://open.spotify.com/album/0HcjiEVNspzxKMJjev4PKZ) | 3:41 |
-| 21 | [Blonde Chaya \- Sped Up](https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Blonde Chaya \(Sped Up\)](https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc) | 3:01 |
+| 20 | [Blonde Chaya \- Sped Up](https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Blonde Chaya \(Sped Up\)](https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc) | 3:01 |
+| 21 | [Me Gustas Tu \- Sped Up Version](https://open.spotify.com/track/1H0i9N9bFrYfNThZkjCaLe) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [spedup trends](https://open.spotify.com/artist/0ZiZFps7oB1BU3kkpSa1S7) | [Me Gustas Tu EP](https://open.spotify.com/album/0HcjiEVNspzxKMJjev4PKZ) | 3:41 |
 | 22 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 |
 | 23 | [older sped up](https://open.spotify.com/track/75EIDyYc0excxUOzold15R) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:05 |
 | 24 | [WARNING \- Sped Up](https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [WARNING \(Sped Up\)](https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3) | 1:48 |

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 934093,
+  "num_followers": 934013,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -323,30 +323,18 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "Genesis (Don Diablo Edit)",
-        "url": "https://open.spotify.com/album/5t5GtF3wm4p8c7wLDMBVvz"
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/2dUSvHHI2NblaTDGeXlb43"
       },
       "artists": [
         {
-          "name": "Chester Young",
-          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
-        },
-        {
-          "name": "Hackatone",
-          "url": "https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "SUVI",
-          "url": "https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL"
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
         }
       ],
-      "duration_ms": 196876,
-      "name": "Genesis - Don Diablo Edit",
-      "url": "https://open.spotify.com/track/4aPh4IKYRg2fm4sqxLFo8b"
+      "duration_ms": 159230,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/72oKwaidmdyrEsehdWFMct"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -371,18 +359,30 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "SWEAT",
-        "url": "https://open.spotify.com/album/2dUSvHHI2NblaTDGeXlb43"
+        "name": "Genesis (Don Diablo Edit)",
+        "url": "https://open.spotify.com/album/5t5GtF3wm4p8c7wLDMBVvz"
       },
       "artists": [
         {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+          "name": "Chester Young",
+          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
+        },
+        {
+          "name": "Hackatone",
+          "url": "https://open.spotify.com/artist/30KyH6dxexwfgVjNz4b9la"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "SUVI",
+          "url": "https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL"
         }
       ],
-      "duration_ms": 159230,
-      "name": "SWEAT",
-      "url": "https://open.spotify.com/track/72oKwaidmdyrEsehdWFMct"
+      "duration_ms": 196876,
+      "name": "Genesis - Don Diablo Edit",
+      "url": "https://open.spotify.com/track/4aPh4IKYRg2fm4sqxLFo8b"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 150128,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 165000,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 150128,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
         "name": "The Don",
         "url": "https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 166237,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
-      },
-      "artists": [
-        {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
         "name": "Senses (Now We Go)",
         "url": "https://open.spotify.com/album/7mRcRoOlROslZtjpnke7BO"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 135692,
       "name": "Arsonist",
       "url": "https://open.spotify.com/track/4bdQhbucGehpzEZQgxTv36"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "Bumba Bass",
-        "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
-      },
-      "artists": [
-        {
-          "name": "TV Noise",
-          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 133125,
-      "name": "Bumba Bass",
-      "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
         "name": "Feel The Beat",
         "url": "https://open.spotify.com/album/0lNYFhvrwG8dAeUvAzLznh"
       },
@@ -1183,6 +1163,26 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
+        "name": "Bumba Bass",
+        "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 133125,
+      "name": "Bumba Bass",
+      "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
         "name": "Outer Space",
         "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 192382,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
-        "name": "C.R.E.A.M.",
-        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
-      },
-      "artists": [
-        {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        }
-      ],
-      "duration_ms": 149562,
-      "name": "C.R.E.A.M.",
-      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -1255,6 +1239,22 @@
       "duration_ms": 204923,
       "name": "Rock The Party",
       "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
+        "name": "C.R.E.A.M.",
+        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
+      },
+      "artists": [
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "duration_ms": 149562,
+      "name": "C.R.E.A.M.",
+      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
+        "name": "Ravers Bounce",
+        "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        },
+        {
+          "name": "Lackmus",
+          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
+        }
+      ],
+      "duration_ms": 195357,
+      "name": "Ravers Bounce",
+      "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 159090,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
-        "name": "Ravers Bounce",
-        "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
-      },
-      "artists": [
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        },
-        {
-          "name": "Lackmus",
-          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
-        }
-      ],
-      "duration_ms": 195357,
-      "name": "Ravers Bounce",
-      "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
         "name": "HURTS",
         "url": "https://open.spotify.com/album/7iGXbRdDe5xDcDfFgZCWv9"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 171076,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 219345,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "HOUSE PARTY",
-        "url": "https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H"
-      },
-      "artists": [
-        {
-          "name": "ESCARGOT",
-          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
-        },
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "HOUSE PARTY",
-      "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
         "name": "What You Got",
         "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 230625,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
+        "name": "HOUSE PARTY",
+        "url": "https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H"
+      },
+      "artists": [
+        {
+          "name": "ESCARGOT",
+          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
+        },
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "HOUSE PARTY",
+      "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
     },
     {
       "added_at": "2025-07-18 04:00:19",

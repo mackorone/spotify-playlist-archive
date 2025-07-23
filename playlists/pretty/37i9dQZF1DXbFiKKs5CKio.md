@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,490 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,501 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 28 | [Vícios q eu gosto](https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Vícios q eu gosto](https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN) | 2:32 |
 | 29 | [OFERENDA](https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2) | [Trajano](https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy) | [TRANÇA](https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ) | 4:29 |
 | 30 | [reconectar](https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Gaza OG](https://open.spotify.com/artist/08OEOpKk43nidwxmby8W0W) | [reconectar](https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI) | 2:48 |
-| 31 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
-| 32 | [amor não é suficiente](https://open.spotify.com/track/0mhohS3IL2uHRQHhRu36JW) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [amor não é suficiente](https://open.spotify.com/album/5lJ3be5dBEoJHnyprHg4mF) | 2:40 |
+| 31 | [amor não é suficiente](https://open.spotify.com/track/0mhohS3IL2uHRQHhRu36JW) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [amor não é suficiente](https://open.spotify.com/album/5lJ3be5dBEoJHnyprHg4mF) | 2:40 |
+| 32 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
 | 33 | [Tudo O Que Eu Posso Te Dar](https://open.spotify.com/track/5Flg1B2gfHqxUeQubkxSYW) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Cuz I Really Feel It](https://open.spotify.com/album/2fn3Ud9RQECGPUZ8Oc5BHd) | 2:47 |
 | 34 | [SEM SER AMOR](https://open.spotify.com/track/5EcPkD6RBNf4H6H02rcnIr) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [VIVER É SENTIR](https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb) | 4:21 |
 | 35 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 37 | [Entrelace](https://open.spotify.com/track/52DfqqsZ1RgMpI9Bw9MMki) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [WE4Sessions](https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y) | [Theodoro Nagô: We4Sessions](https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax) | 3:40 |
 | 38 | [Flor](https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK) | [DROKI](https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op) | [Flor](https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N) | 2:34 |
 | 39 | [98'](https://open.spotify.com/track/4ra4BrE9mPhMKwBkM2otjR) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:26 |
-| 40 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
-| 41 | [Deixa Estar \(Sha la la\)](https://open.spotify.com/track/1EHIcTGfRgNegmhJYbdEEX) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Deixa Estar \(Sha la la\)](https://open.spotify.com/album/3ZhTlCzRUXYaLyWLavKKqQ) | 5:25 |
+| 40 | [Deixa Estar \(Sha la la\)](https://open.spotify.com/track/1EHIcTGfRgNegmhJYbdEEX) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Deixa Estar \(Sha la la\)](https://open.spotify.com/album/3ZhTlCzRUXYaLyWLavKKqQ) | 5:25 |
+| 41 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
 | 42 | [Minha Casa](https://open.spotify.com/track/7GwqPVyfdlWpAWbZM8DSml) | [Malu Magri](https://open.spotify.com/artist/101igRc4wvE7sWiHu8KWI7) | [Morrendo de Prazer](https://open.spotify.com/album/1egVVkEcvdi70ibvhbiF7g) | 4:19 |
 | 43 | [Me Amas](https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Como é bom poder dizer eu te amo](https://open.spotify.com/album/21295uHlotpc6pU7N7dso1) | 2:23 |
 | 44 | [E EU?](https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0), [prx](https://open.spotify.com/artist/3UfPWEQhL5zLMF6LQoSuFe) | [MOVA \- Algumas Verdades, Outras Mentiras](https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3) | 2:56 |

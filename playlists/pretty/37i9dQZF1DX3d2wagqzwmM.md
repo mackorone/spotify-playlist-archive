@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,051 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,317 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 63 | [Bring Back The Techno](https://open.spotify.com/track/4eFSZCcdSnSSjdA72LoDbo) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I) | [Bring Back The Techno](https://open.spotify.com/album/1aZUgzRX0gM0H0UABM5wME) | 3:01 |
 | 64 | [Higher State Of Consciousness](https://open.spotify.com/track/1szMXvAlWLszMADcwKwR64) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Higher State Of Consciousness](https://open.spotify.com/album/2WHfvIIzdT7dLVLTajxjvv) | 3:03 |
 | 65 | [Pump It](https://open.spotify.com/track/0cvh5BDi1aLFNPj2LV0TNN) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Pump It](https://open.spotify.com/album/5Spbk5Zg10W6T52xDJOHas) | 2:19 |
-| 66 | [Rockstar Rave \- Extended Mix](https://open.spotify.com/track/1RCn9CiipgZ49rNV7lquqc) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [Rockstar Rave](https://open.spotify.com/album/1a4BXtziLRL6Q3XQOt6XWV) | 3:37 |
-| 67 | [Holy \- Nicky Romero & Almero Festival Edit](https://open.spotify.com/track/1eL80CN0UF5aBsncWBPfFQ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Holy \(Nicky Romero & Almero Festival Edit\)](https://open.spotify.com/album/4YrGxWlTt7h1Q0BPIUEOAI) | 3:43 |
-| 68 | [Ratata \- Olly James Remix](https://open.spotify.com/track/1C9pIQewMcQp2nKk214ZeV) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Ratata](https://open.spotify.com/album/3cumrVwWPeqcxUlqUgSwmR) | 2:42 |
+| 66 | [Holy \- Nicky Romero & Almero Festival Edit](https://open.spotify.com/track/1eL80CN0UF5aBsncWBPfFQ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Holy \(Nicky Romero & Almero Festival Edit\)](https://open.spotify.com/album/4YrGxWlTt7h1Q0BPIUEOAI) | 3:43 |
+| 67 | [Ratata \- Olly James Remix](https://open.spotify.com/track/1C9pIQewMcQp2nKk214ZeV) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Ratata](https://open.spotify.com/album/3cumrVwWPeqcxUlqUgSwmR) | 2:42 |
+| 68 | [Rockstar Rave \- Extended Mix](https://open.spotify.com/track/1RCn9CiipgZ49rNV7lquqc) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [Rockstar Rave](https://open.spotify.com/album/1a4BXtziLRL6Q3XQOt6XWV) | 3:37 |
 | 69 | [Día de Muertos \- Thoby's Version](https://open.spotify.com/track/4N6gh8ftIZwG62grKQorsZ) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao), [Thoby](https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x) | [Día de Muertos \(Thoby's Version\)](https://open.spotify.com/album/2DXKZAkIlIt8KkWpDijYTy) | 2:34 |
 | 70 | [Rise Up](https://open.spotify.com/track/50QgswlQoQIx6Zr2mS7Bnp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Rise Up](https://open.spotify.com/album/39qKI7hCcOnnrnXPoPbW11) | 3:49 |
 | 71 | [La La La](https://open.spotify.com/track/44teMuEcQx41IYoWdRMolu) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [La La La](https://open.spotify.com/album/6ZITdRO6gpcJtgwpawSGxe) | 1:54 |

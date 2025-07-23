@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Kamer
 
-268 songs - 13 hr 27 min
+270 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Aslında](https://open.spotify.com/track/7qFBqAPjhQ4vL53UuRcwT0) | [Kaan Malkoç](https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ) | [Aslında](https://open.spotify.com/album/2SxYsV38sVmGP4dpmiwK3M) | 2:32 | 2024-07-04 |  |
 | [Ay Ol](https://open.spotify.com/track/3DLozlivQmldVVgPvimefp) | [Ruh](https://open.spotify.com/artist/7JfjCLCMVZFBGoNRJc6qf2) | [Ay Ol](https://open.spotify.com/album/7nrdCzCCJ5xOmwtEht2g9X) | 2:31 | 2024-06-20 | 2024-09-06 |
 | [Aynen Öyle](https://open.spotify.com/track/0x7yFBpn5ivfO1FacplL6u) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Aynen Öyle](https://open.spotify.com/album/2zVJA5502StooPm1CFI2aP) | 2:50 | 2024-06-20 |  |
-| [Açıklarda Bir Kara](https://open.spotify.com/track/4I5NJVpbMUa50jeRDObCMJ) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Açıklarda Bir Kara](https://open.spotify.com/album/30wEQnC52g72y208JK6R4P) | 2:56 | 2025-03-06 |  |
+| [Açıklarda Bir Kara](https://open.spotify.com/track/4I5NJVpbMUa50jeRDObCMJ) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Açıklarda Bir Kara](https://open.spotify.com/album/30wEQnC52g72y208JK6R4P) | 2:56 | 2025-03-06 | 2025-07-23 |
 | [Aşk Meşk](https://open.spotify.com/track/7maVqbkRHHy0uNi9uBQHnN) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Aşk Meşk](https://open.spotify.com/album/5KtVRPP3cCg5ASqmrPFIAN) | 3:55 | 2024-12-19 | 2024-12-21 |
 | [aşk olsun](https://open.spotify.com/track/0O8Nm0uLDyoYlvbOpBRsFQ) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [aşk olsun](https://open.spotify.com/album/5xxM5sPHkm9J4mKRysNVkk) | 3:00 | 2024-11-28 |  |
 | [Aşkın Sahtesi](https://open.spotify.com/track/6xTVbmiCkLq7NDoDgiKArK) | [Miskinler](https://open.spotify.com/artist/5KNoIhJ8lC7jWp0sFtAzmh) | [Aşkın Sahtesi](https://open.spotify.com/album/6gQvH7VnLuohXRpwLRfDvZ) | 5:13 | 2024-07-30 | 2024-09-06 |
@@ -44,6 +44,7 @@
 | [Beyaz Kum](https://open.spotify.com/track/4RN39GJuWHbuGqA0JmWxzu) | [Centi](https://open.spotify.com/artist/1JNuVpWdpPdriPu7Yatk8O) | [Beyaz Kum](https://open.spotify.com/album/7MlCsMOV18sY50emZpYsEf) | 2:32 | 2025-05-29 | 2025-06-23 |
 | [Beşer](https://open.spotify.com/track/1iw4uB80AAM4dIpc8rcylb) | [Yasemin Rosa](https://open.spotify.com/artist/1zrc2YgiwtHNcgmuYkThkB) | [Beşer](https://open.spotify.com/album/2KoA1TjuegruChoecNXGWV) | 3:37 | 2025-03-06 | 2025-03-26 |
 | [bi kere öpse bükülür uzay](https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [bi kere öpse bükülür uzay](https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq) | 2:08 | 2024-08-29 |  |
+| [Bi Sana](https://open.spotify.com/track/2TKmDMFjWuBMlzmRQmneT1) | [Gözde Buldaş](https://open.spotify.com/artist/6SW6IYlxnQd3xbcZD3JDLP) | [Bi Sana](https://open.spotify.com/album/7bHEugtE6HewfRCr4Dlp4E) | 2:25 | 2025-07-17 |  |
 | [Bi' İnansan Güzelim](https://open.spotify.com/track/4EzVfclpptuWdeMSRmNy04) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Bi' İnansan Güzelim](https://open.spotify.com/album/5kGD0QdQpyVjhG3zw0vLU8) | 3:27 | 2024-09-05 | 2024-11-01 |
 | [Bir Aşk Biter](https://open.spotify.com/track/4NobbDtfMdaJP0sxA72K9j) | [Hasan Kutan](https://open.spotify.com/artist/4JANYRn1io9jc8aPjjVpX8) | [Bir Aşk Biter](https://open.spotify.com/album/2S9l8ynEn2rLG60up8vxAK) | 3:09 | 2024-10-24 | 2024-12-15 |
 | [bir başkasında](https://open.spotify.com/track/3yByd49ZtoiZfGe1aoaDHp) | [Robin](https://open.spotify.com/artist/5PwJjK4M32I7e467AwW67Y) | [bir başkasında](https://open.spotify.com/album/18e869NAqMHXY5NYfBSV13) | 2:22 | 2024-11-21 | 2025-01-10 |
@@ -69,6 +70,7 @@
 | [DELİKANLI](https://open.spotify.com/track/0hOig8ipH6xHU7ui9yXQGv) | [Kayra Kayan](https://open.spotify.com/artist/4yJY7VgA3Ztk5H5oPiXzPE) | [DELİKANLI](https://open.spotify.com/album/5j7qti2Qs9hmqSKMEbIlKq) | 2:43 | 2025-06-27 |  |
 | [DENEDİM](https://open.spotify.com/track/3tU7TL9iW0U8MfBD3IyuCa) | [Turgut Çıngı](https://open.spotify.com/artist/35YhU76tb48fqmNxu2dZ1W) | [DENEDİM](https://open.spotify.com/album/6i8NNzjPrEXAHcBpeZ0KvB) | 3:09 | 2024-11-28 | 2025-02-09 |
 | [Denerim](https://open.spotify.com/track/2SSA0UN1VcHakUXH4JPqzS) | [KAOL](https://open.spotify.com/artist/1boFLjOE17z2zp7BtHLB3v) | [Denerim](https://open.spotify.com/album/2rTW4ASwjLM8D17NcbrcYH) | 4:42 | 2025-05-29 |  |
+| [Doldu Kadeh](https://open.spotify.com/track/6gcLhnOMP3VBMwt6P0GqNN) | [Ceyz](https://open.spotify.com/artist/4CWREVEHzfD4RwzBkojAAj), [Aishe](https://open.spotify.com/artist/0O4H5buGzNVQ9wp334e1wg), [Theo Krimson](https://open.spotify.com/artist/6OLm3BXWvQOEC6KknBWJZp) | [Doldu Kadeh](https://open.spotify.com/album/2PG9KnrQ2YWFwaqIEs5kPn) | 3:07 | 2025-07-17 |  |
 | [DOLDUR](https://open.spotify.com/track/62KVbuzhWZBUiq3737T4hz) | [Yase](https://open.spotify.com/artist/54o2CbLdMsh6SR8hufrQiA) | [DOLDUR](https://open.spotify.com/album/1ZyrVQgSBTV19FxOlOM1By) | 2:42 | 2024-06-20 | 2024-09-06 |
 | [DOLDURDUM TABANCAMI](https://open.spotify.com/track/6fn6Us7sHiBY2kanqgub8D) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [DOLDURDUM TABANCAMI](https://open.spotify.com/album/0JGt0C0lfBsn2hY0HZAB1J) | 2:15 | 2024-10-03 | 2024-11-29 |
 | [Dolunay](https://open.spotify.com/track/0nVehOjbqRPByxOzO9keQk) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Dolunay](https://open.spotify.com/album/670sNl07ubMq2HqgvjvX2h) | 2:17 | 2024-06-20 |  |
@@ -185,7 +187,7 @@
 | [Sevmişsin Gibi](https://open.spotify.com/track/4tEXZEWitoIMQJZAiBxbrk) | [Berkay Akman](https://open.spotify.com/artist/7Fi8SvzJZ6iFOyWvoS7DK1) | [Sevmişsin Gibi](https://open.spotify.com/album/7dkMzxKMKcuvGVkTbhOXWW) | 3:05 | 2024-09-05 | 2024-11-29 |
 | [Sil Numaramı](https://open.spotify.com/track/2UaT5jEKf4XUvCUC7O9LQh) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Sil Numaramı](https://open.spotify.com/album/2HEq9rAXOx2W6aUcu1dElM) | 2:31 | 2024-06-20 |  |
 | [Soft Öpücük](https://open.spotify.com/track/7sJ1cyZrmhqHaFVvD2xBkj) | [Diskopolis](https://open.spotify.com/artist/1qe2V7kY0gd6TbzPzmIrS7) | [Soft Öpücük](https://open.spotify.com/album/15Z5zDLAWBPP0GjIiVHzlK) | 3:18 | 2025-04-18 | 2025-05-30 |
-| [Son Perde](https://open.spotify.com/track/6qWXNfRL7ygjONnrPPzALQ) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Son Perde](https://open.spotify.com/album/3UyAJFP27NQabY22Te3UuA) | 3:23 | 2024-11-21 |  |
+| [Son Perde](https://open.spotify.com/track/6qWXNfRL7ygjONnrPPzALQ) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Son Perde](https://open.spotify.com/album/3UyAJFP27NQabY22Te3UuA) | 3:23 | 2024-11-21 | 2025-07-23 |
 | [Sonbahar](https://open.spotify.com/track/01ATofuZVa1yja9i9LCa6a) | [Kaan Küçük](https://open.spotify.com/artist/3Mx4MlGjcoi50i0yLsQ3lZ) | [Sonbahar](https://open.spotify.com/album/2F5Ezf5vY94JUKvoW7J2g1) | 2:57 | 2024-11-28 | 2025-05-11 |
 | [Sonbahar](https://open.spotify.com/track/5LcF9VX52fYgOWvkkF91Hc) | [Yasemin Rosa](https://open.spotify.com/artist/1zrc2YgiwtHNcgmuYkThkB) | [Beşer](https://open.spotify.com/album/2KoA1TjuegruChoecNXGWV) | 2:31 | 2025-03-20 | 2025-05-16 |
 | [Sonu Gelmesin](https://open.spotify.com/track/5gy0tymPj3IxNgLeOMxKUc) | [Okyanus Caddesi](https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G) | [Sonu Gelmesin](https://open.spotify.com/album/2nNf7el3Hbz0EKg2nSeEfj) | 2:57 | 2024-06-20 | 2024-09-16 |

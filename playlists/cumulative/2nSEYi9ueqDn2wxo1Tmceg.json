@@ -10977,6 +10977,32 @@
     },
     {
       "album": {
+        "name": "Some Remixes of Hooked",
+        "url": "https://open.spotify.com/album/3C7anheUQp6Ghz7lbC41oA"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        },
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225500,
+      "name": "Hooked - Joe Goddard Remix",
+      "url": "https://open.spotify.com/track/3saYflaCHSKLsESoFLQZ8T"
+    },
+    {
+      "album": {
         "name": "Build It Up / Hooked Live",
         "url": "https://open.spotify.com/album/2MBfpe4qX08Q6bv0xhAVnO"
       },

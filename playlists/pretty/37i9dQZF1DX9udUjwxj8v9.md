@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,022 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,021 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 9 | [Frevo Mulher \- Ao Vivo](https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:06 |
 | 10 | [Me Abraça](https://open.spotify.com/track/63lNKw8FiWJG5xsXYeMaY4) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Hora H](https://open.spotify.com/album/5ReSNT2PPdG3fNI8rl8852) | 4:10 |
 | 11 | [Brasil Pandeiro](https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:55 |
-| 12 | [Vem meu amor](https://open.spotify.com/track/6Vi3zrYtd2n53YUiYLTnNC) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 2:36 |
-| 13 | [Dorival](https://open.spotify.com/track/6OXilF9moyWn0YHX0iyKtr) | [Academia da Berlinda](https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC) | [Nada Sem Ela](https://open.spotify.com/album/15NX1MFPiauDujhbHQKk44) | 5:06 |
+| 12 | [Dorival](https://open.spotify.com/track/6OXilF9moyWn0YHX0iyKtr) | [Academia da Berlinda](https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC) | [Nada Sem Ela](https://open.spotify.com/album/15NX1MFPiauDujhbHQKk44) | 5:06 |
+| 13 | [Vem meu amor](https://open.spotify.com/track/6Vi3zrYtd2n53YUiYLTnNC) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 2:36 |
 | 14 | [Vai Sacudir, Vai Abalar](https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk) | [Cheiro de Amor](https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs) | [É Demais Meu Rei!!!](https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t) | 4:06 |
 | 15 | [A Luz De Tieta](https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR) | [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Axé Bahia](https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ) | 3:14 |
 | 16 | [Swing de Campo Grande](https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:09 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 45 | [Noite Dos Mascarados \- Ao Vivo](https://open.spotify.com/track/3nPiFgKyT8C3D65DH1n4FT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Chico Buarque & Maria Bethania](https://open.spotify.com/album/2ep81BixWok1HCvSfdmGNJ) | 2:11 |
 | 46 | [Pegando Fogo](https://open.spotify.com/track/7DOeJ4e5iYaG53VBnKtwbR) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 2:38 |
 | 47 | [Atrás Do Trio Elétrico](https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 2:42 |
-| 48 | [O Carnaval Quem É Que Faz?](https://open.spotify.com/track/2TPCINjlzZ9Hbp0tCRQC2b) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [BaianaSystem](https://open.spotify.com/album/1oAU4OkP63pBrWTvLPGlRS) | 4:23 |
-| 49 | [Taj Mahal](https://open.spotify.com/track/1aLapJuVyaunImwQiPxETz) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben Jor \- iCollection](https://open.spotify.com/album/3kqTi0mxbXfk9Bh3kx5fhk) | 4:56 |
+| 48 | [Taj Mahal](https://open.spotify.com/track/1aLapJuVyaunImwQiPxETz) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben Jor \- iCollection](https://open.spotify.com/album/3kqTi0mxbXfk9Bh3kx5fhk) | 4:56 |
+| 49 | [O Carnaval Quem É Que Faz?](https://open.spotify.com/track/2TPCINjlzZ9Hbp0tCRQC2b) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [BaianaSystem](https://open.spotify.com/album/1oAU4OkP63pBrWTvLPGlRS) | 4:23 |
 | 50 | [Estação da Luz](https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Estação da Luz](https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO) | 3:22 |
 
 Snapshot ID: `aHB+NwAAAAB6PJzPSRAWit2FH7U3C95D`

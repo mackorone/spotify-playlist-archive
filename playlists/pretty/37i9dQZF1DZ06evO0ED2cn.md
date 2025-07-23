@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ED2cn.md) - [plain]
 
 > This is Ho \- Kago Tea Time\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,915 likes - 28 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,916 likes - 28 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tenshi Ni Furetayo!](https://open.spotify.com/track/6zFOC4552JDO6UqzjDxkCw) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:41 |
 | 2 | [No, Thank You! \(From "K\-On!!"\)](https://open.spotify.com/track/73RtKhKwyw31Nk2XMXN4uQ) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [No, Thank You! \(From "K\-On!!"\)](https://open.spotify.com/album/7wKX3P7DuEXguwsxq5B2ab) | 4:17 |
 | 3 | [GO! GO! MANIAC](https://open.spotify.com/track/1wstHd1OmAsH1Sy9qcPhrk) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [GO! GO! MANIAC](https://open.spotify.com/album/0t5SvO8PbUct9yZLE38Fbl) | 4:11 |
-| 4 | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/track/37WXM4pfUpz5uRzzukjnqS) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/album/5NHwuwLZ1p38Fq3Q6sGchl) | 3:47 |
+| 4 | [ふわふわ時間](https://open.spotify.com/track/0IqeCcW8L96JrGURHQbmcI) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム](https://open.spotify.com/album/2sCj12vSaLgszgQqOAOpz7) | 3:56 |
 | 5 | [U&I](https://open.spotify.com/track/5A0d3GnBCF8x4WJgvJhhgO) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:35 |
-| 6 | [ふわふわ時間](https://open.spotify.com/track/0IqeCcW8L96JrGURHQbmcI) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム](https://open.spotify.com/album/2sCj12vSaLgszgQqOAOpz7) | 3:56 |
+| 6 | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/track/37WXM4pfUpz5uRzzukjnqS) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/album/5NHwuwLZ1p38Fq3Q6sGchl) | 3:47 |
 | 7 | [Utauyo!!MIRACLE](https://open.spotify.com/track/2JmZ0T4edkqdthYVlDuGxg) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Utauyo!!MIRACLE](https://open.spotify.com/album/67IFBceF1jRdBYhNLPhUng) | 4:02 |
 | 8 | [Singing!](https://open.spotify.com/track/5ftfX6pKdedXPrbLXYPl0B) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Singing! \(Standard Edition\)](https://open.spotify.com/album/5bCinByDAyOCePVoccduYa) | 3:54 |
 | 9 | [Pure Pure Heart](https://open.spotify.com/track/36XSn3wjamiIH4kydEEuyk) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:34 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ED2cn.md) - [plain]
 | 27 | [ぴゅあぴゅあはーと \(Instrumental\)](https://open.spotify.com/track/6zrbFzkDaOecue1ESzFm9R) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [ぴゅあぴゅあはーと](https://open.spotify.com/album/2LzFCGMIey8z63tAahxbhO) | 4:34 |
 | 28 | [五月雨20ラブ\(映画「けいおん!」Mix\)](https://open.spotify.com/track/1fXj8tNK06PRelTDhABigF) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム in MOVIE](https://open.spotify.com/album/695pi7Np9dqibVEKaM9HOM) | 4:04 |
 
-Snapshot ID: `aHwxgAAAAAB+CW8pAiv1ADmtNzdG/Xn6`
+Snapshot ID: `aH2DAAAAAADmfdaFIb2kxoTZZ4Up4KQ8`

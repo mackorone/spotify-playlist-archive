@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 
 > This is Playboi Carti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,091 likes - 42 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,116 likes - 42 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 41 | [Let It Go](https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:30 |
 | 42 | [Summer Bummer \(feat\. A$AP Rocky & Playboi Carti\)](https://open.spotify.com/track/5QqyRUZeBE04yJxsD1OC0I) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:20 |
 
-Snapshot ID: `aHwxgAAAAAA/0USJ5XN7z9FtPxtHfy1L`
+Snapshot ID: `aH2DAAAAAAD59me1tYQZJuPgS0fzvIoZ`

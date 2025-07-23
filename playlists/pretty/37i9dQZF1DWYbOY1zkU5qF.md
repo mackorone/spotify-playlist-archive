@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,420 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,559 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 44 | [Escápate Conmigo](https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Covers, Vol\. 2](https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5) | 2:29 |
 | 45 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 |
 | 46 | [Dembow \- Acoustic Version](https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy) | [Rebeca Luna](https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi) | [Acoustic Sessions](https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb) | 3:34 |
-| 47 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg) | 4:10 |
+| 47 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 |
 | 48 | [Calma \- Remix](https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Calma \(Remix\)](https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ) | 2:52 |
-| 49 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 |
+| 49 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg) | 4:10 |
 | 50 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
 | 51 | [Azucar Amargo](https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Azucar Amargo](https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL) | 4:30 |
 | 52 | [Felices los 4 \- Acoustic version](https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Felices los 4 \(Acoustic Version\)](https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7) | 4:09 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 56 | [Ahora Dice](https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6) | [Alex Coppel](https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM) | [Ahora Dice](https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL) | 3:21 |
 | 57 | [Y Cómo Es Él?](https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Y Cómo Es Él?](https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90) | 3:51 |
 | 58 | [Calma](https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Calma](https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql) | 3:05 |
-| 59 | [Chantaje](https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y) | [Aberola](https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr) | [Chantaje](https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl) | 3:27 |
-| 60 | [Amigos con derechos](https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Amigos con derechos](https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2) | 2:40 |
+| 59 | [Amigos con derechos](https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Amigos con derechos](https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2) | 2:40 |
+| 60 | [Chantaje](https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y) | [Aberola](https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr) | [Chantaje](https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl) | 3:27 |
 | 61 | [Muerte En Hawaii](https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Muerte En Hawaii](https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM) | 3:06 |
 | 62 | [Asi Es La Vida](https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX) | [Pablo Rojas](https://open.spotify.com/artist/3eZMc1qqbM4whaMy2X14nx) | [Asi Es La Vida](https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi) | 4:44 |
 | 63 | [Me Rehúso](https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Me Rehúso](https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41) | 2:52 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 115302,
+  "num_followers": 115325,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAADFxfpXcYqJZ4SYp+CeQ0FF",
+  "snapshot_id": "aH2DAAAAAADtZd55K1gDnEqIXFLWapr4",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Nunca Antes",
-        "url": "https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 283360,
-      "name": "Como Nunca Antes",
-      "url": "https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Nome de Jesus",
         "url": "https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 307741,
       "name": "O Nome de Jesus",
       "url": "https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Nunca Antes",
+        "url": "https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 283360,
+      "name": "Como Nunca Antes",
+      "url": "https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ovelhinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 298948,
-      "name": "Cruz em Ti (Ao Vivo)",
-      "url": "https://open.spotify.com/track/02hhlzmgrAtjEFDNwZfxNO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 259862,
       "name": "Assume A Responsa",
       "url": "https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ovelhinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 298948,
+      "name": "Cruz em Ti (Ao Vivo)",
+      "url": "https://open.spotify.com/track/02hhlzmgrAtjEFDNwZfxNO"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nem um Segundo",
-        "url": "https://open.spotify.com/album/257FnV6wwMk9RJx9GTQ6te"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Pompeo",
-          "url": "https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 349333,
-      "name": "Nem um Segundo",
-      "url": "https://open.spotify.com/track/24ysyfP1NMECUqR99vxIPz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dono dos Meus Dias",
         "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 239946,
       "name": "Dono dos Meus Dias",
       "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nem um Segundo",
+        "url": "https://open.spotify.com/album/257FnV6wwMk9RJx9GTQ6te"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Pompeo",
+          "url": "https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 349333,
+      "name": "Nem um Segundo",
+      "url": "https://open.spotify.com/track/24ysyfP1NMECUqR99vxIPz"
     },
     {
       "added_at": null,

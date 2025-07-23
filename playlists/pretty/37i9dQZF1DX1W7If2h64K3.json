@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 55132,
+  "num_followers": 55139,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -327,38 +327,6 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
-        "name": "Schumann: Das Paradies und die Peri",
-        "url": "https://open.spotify.com/album/5qQbLaME0qmQ3RSUYtGLHd"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "London Symphony Chorus",
-          "url": "https://open.spotify.com/artist/7gCZfkXLOfuZozSItq6tCG"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
-          "name": "Simon Halsey",
-          "url": "https://open.spotify.com/artist/4Ip1bpjhIV8RKLDuKB0N2L"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "Das Paradies und die Peri, Op. 50, Erster Teil: No. 8 Weh, weh, er fehlte das Ziel",
-      "url": "https://open.spotify.com/track/690XpbTwwfD1pd6tw8rUGJ"
-    },
-    {
-      "added_at": "2025-07-04 11:08:09",
-      "album": {
         "name": "Besser ohne Worte",
         "url": "https://open.spotify.com/album/4AAbCsOBu1MXyE1d8VXQc4"
       },
@@ -411,6 +379,38 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
+        "name": "Schumann: Das Paradies und die Peri",
+        "url": "https://open.spotify.com/album/5qQbLaME0qmQ3RSUYtGLHd"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "London Symphony Chorus",
+          "url": "https://open.spotify.com/artist/7gCZfkXLOfuZozSItq6tCG"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Simon Halsey",
+          "url": "https://open.spotify.com/artist/4Ip1bpjhIV8RKLDuKB0N2L"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "Das Paradies und die Peri, Op. 50, Erster Teil: No. 8 Weh, weh, er fehlte das Ziel",
+      "url": "https://open.spotify.com/track/690XpbTwwfD1pd6tw8rUGJ"
+    },
+    {
+      "added_at": "2025-07-04 11:08:09",
+      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition",
         "url": "https://open.spotify.com/album/37F9lsM2rWGbSMLl6X3nNM"
       },
@@ -427,26 +427,6 @@
       "duration_ms": 738560,
       "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
       "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
-    },
-    {
-      "added_at": "2025-07-04 11:08:09",
-      "album": {
-        "name": "Schumann - Jan\u00e1\u010dek - Berg",
-        "url": "https://open.spotify.com/album/4exYsowx0ys0TtAh6R7DwQ"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Davidsb\u00fcndlert\u00e4nze, Op. 6: XVII. Wie aus der Ferne",
-      "url": "https://open.spotify.com/track/74hhrFJWIKOa5xkpNU2dJX"
     },
     {
       "added_at": "2025-07-04 11:08:09",
@@ -487,6 +467,26 @@
       "duration_ms": 1579000,
       "name": "Humoreske, op. 20",
       "url": "https://open.spotify.com/track/59vvQ1vzVLkGZ8CsaaaJDi"
+    },
+    {
+      "added_at": "2025-07-04 11:08:09",
+      "album": {
+        "name": "Schumann - Jan\u00e1\u010dek - Berg",
+        "url": "https://open.spotify.com/album/4exYsowx0ys0TtAh6R7DwQ"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Davidsb\u00fcndlert\u00e4nze, Op. 6: XVII. Wie aus der Ferne",
+      "url": "https://open.spotify.com/track/74hhrFJWIKOa5xkpNU2dJX"
     },
     {
       "added_at": "2025-07-04 11:08:09",
@@ -611,6 +611,30 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
+        "name": "Schumann: The 4 Symphonies; Overtures Opp.81 \"Genoveva\" & 115 \"Manfred\"",
+        "url": "https://open.spotify.com/album/0YY96s0OHD2X49Qb8TszSC"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Rafael Kubel\u00edk",
+          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
+        }
+      ],
+      "duration_ms": 427653,
+      "name": "Symphony No. 1 in B-Flat Major, Op. 38 \"Spring\": IV. Allegro animato e grazioso",
+      "url": "https://open.spotify.com/track/2qYu0I9yKKpGnbySmN6w3K"
+    },
+    {
+      "added_at": "2025-07-04 11:08:09",
+      "album": {
         "name": "Schumann: Complete Works for Piano Trio",
         "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
       },
@@ -635,30 +659,6 @@
       "duration_ms": 478546,
       "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
       "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
-    },
-    {
-      "added_at": "2025-07-04 11:08:09",
-      "album": {
-        "name": "Schumann: The 4 Symphonies; Overtures Opp.81 \"Genoveva\" & 115 \"Manfred\"",
-        "url": "https://open.spotify.com/album/0YY96s0OHD2X49Qb8TszSC"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Rafael Kubel\u00edk",
-          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
-        }
-      ],
-      "duration_ms": 427653,
-      "name": "Symphony No. 1 in B-Flat Major, Op. 38 \"Spring\": IV. Allegro animato e grazioso",
-      "url": "https://open.spotify.com/track/2qYu0I9yKKpGnbySmN6w3K"
     },
     {
       "added_at": "2025-07-04 11:08:09",

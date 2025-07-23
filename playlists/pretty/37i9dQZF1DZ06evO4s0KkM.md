@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,031 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,035 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 3 | [The State Of Massachusetts](https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:52 |
 | 4 | [Chesterfields and Aftershave](https://open.spotify.com/track/3KNbuMWChxt7X9qO6jY2oC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People](https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5) | 4:30 |
 | 5 | [Worker's Song](https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 3:32 |
-| 6 | [The Boys Are Back](https://open.spotify.com/track/721vbd9Kof1A670dKDZyZh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 3:19 |
+| 6 | [Who'll Stand With Us?](https://open.spotify.com/track/7l7rmR8robHgvvKxxdCgiy) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Who'll Stand With Us?](https://open.spotify.com/album/43HNaHn8x5EEiydIJFZtWs) | 3:51 |
 | 7 | [Johnny, I Hardly Knew Ya](https://open.spotify.com/track/2JKG5gyxMeZaBazd8S6FGt) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:54 |
 | 8 | [Longshot \(feat\. The Scratch\)](https://open.spotify.com/track/0VNSdAd66v11AVnFZbS5jp) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [For The People](https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5) | 3:27 |
-| 9 | [Who'll Stand With Us?](https://open.spotify.com/track/7l7rmR8robHgvvKxxdCgiy) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Who'll Stand With Us?](https://open.spotify.com/album/43HNaHn8x5EEiydIJFZtWs) | 3:51 |
+| 9 | [The Boys Are Back](https://open.spotify.com/track/721vbd9Kof1A670dKDZyZh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 3:19 |
 | 10 | [The Warrior's Code](https://open.spotify.com/track/6ivzLSDw82LpxXfToyb0He) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:31 |
 | 11 | [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 |
 | 12 | [The Big Man](https://open.spotify.com/track/5SZUmkADxNYj3E8Gj9WoZC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People](https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [Ten Times More](https://open.spotify.com/track/0t7KczDGPmOyW71qw9xMnh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 2:11 |
 | 50 | [Watchin The World Go By](https://open.spotify.com/track/3H23O1qOJa99E7wFpPT6Ln) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 3:37 |
 
-Snapshot ID: `aHwxgAAAAADVP8iUZOaQH8QAvnv3HUEi`
+Snapshot ID: `aH2DAAAAAABg7NUjRGrnkjb9ZsDugLaU`

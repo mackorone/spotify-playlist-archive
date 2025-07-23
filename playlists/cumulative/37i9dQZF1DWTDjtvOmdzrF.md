@@ -4,7 +4,7 @@
 
 > Racikan akustik dalam secangkir kopi.
 
-164 songs - 11 hr 1 min
+165 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Garis Terdepan](https://open.spotify.com/track/4JozU4Ud30FGyDYzoUKasI) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/6d2K6Ku4sXH63OQnsGVbbe) | 3:33 | 2022-12-07 | 2023-04-20 |
 | [Garis Terdepan](https://open.spotify.com/track/4cLmzFuO46wsTaJnoC8m4P) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/6ej8qsrXEhtkhYYKUoTa4h) | 3:33 | 2023-12-06 | 2024-04-11 |
 | [Garis Terdepan](https://open.spotify.com/track/7vbZI0mSwt6rpsnAoAAUns) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/5pJVObCUAQ0mcEgV3Rrtji) | 3:33 | 2023-04-14 | 2024-01-18 |
+| [Gaze](https://open.spotify.com/track/6cebiKUXkoLYlaxzDfEPtS) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [Forget Your Plan](https://open.spotify.com/album/2nftdSlqgiJ2lN8hu3dCEr) | 5:09 | 2025-05-05 |  |
 | [Halu](https://open.spotify.com/track/2dTIJVE0stqTvrhbpf7fFw) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 4:25 | 2022-12-07 | 2024-04-19 |
 | [Hanya Lolongan](https://open.spotify.com/track/3gedUqUJEgNoDqDaQZwTUo) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Hanya Lolongan](https://open.spotify.com/album/7nYVMupxePZbCAczopKbWr) | 3:49 | 2024-05-08 |  |
 | [happy](https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD) | [Skinnyfabs](https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H) | [happy](https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd) | 2:53 | 2022-12-07 | 2024-09-16 |
@@ -72,7 +73,7 @@
 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 | 2022-12-07 |  |
 | [Kekal](https://open.spotify.com/track/04IXeEjiQ4kdS7JJF9pjxT) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 4:40 | 2024-05-08 |  |
 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 | 2022-12-07 |  |
-| [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 | 2024-03-05 |  |
+| [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 | 2024-03-05 | 2025-07-23 |
 | [Kenanglah Aku](https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ) | [NaFF](https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5) | [Senandung Hati dan Jiwa](https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52) | 4:00 | 2022-12-07 |  |
 | [Keras Kepala \(Live Acoustic Session\)](https://open.spotify.com/track/6evbK9qapNnQowvw1A4bB5) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [MEISKA Live Acoustic Session EP](https://open.spotify.com/album/31OFwS2gL75hcRnfHhaqNU) | 4:54 | 2024-10-18 | 2025-04-18 |
 | [Kidung \(Acoustic Version\) feat\. Prilly Latuconsina](https://open.spotify.com/track/7IgQvqR2zcWOpgZaCLbg5N) | [Segara](https://open.spotify.com/artist/0WjyOvIkQBnivAPEMLRMIC), [Prilly Latuconsina](https://open.spotify.com/artist/2ZMfLZnfHC3oXgvA3kKFwi) | [Segara: Tentang Galih Dan Ratna](https://open.spotify.com/album/0U2EJb8o89hDRDbqV62lej) | 2:48 | 2023-09-20 | 2024-03-06 |

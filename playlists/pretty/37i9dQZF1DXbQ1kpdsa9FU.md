@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Classic Contemporary Christian songs you can always count on! Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,936 likes - 150 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,999 likes - 150 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 50 | [Known](https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:18 |
 | 51 | [He Knows My Name](https://open.spotify.com/track/2lrHKMXyu8LTLxMorzJkTQ) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 3:27 |
 | 52 | [Battle Belongs](https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Battle Belongs](https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0) | 4:47 |
-| 53 | [Scars](https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:58 |
-| 54 | [Hello, My Name Is](https://open.spotify.com/track/2XEdrmqNM9ZQQ24ViuceB0) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Into The Light](https://open.spotify.com/album/0RqGqJYEYyDhgeSiZVoXfH) | 3:43 |
+| 53 | [Hello, My Name Is](https://open.spotify.com/track/2XEdrmqNM9ZQQ24ViuceB0) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Into The Light](https://open.spotify.com/album/0RqGqJYEYyDhgeSiZVoXfH) | 3:43 |
+| 54 | [Scars](https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:58 |
 | 55 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
 | 56 | [Overcomer](https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:43 |
 | 57 | [Open The Eyes Of My Heart \- Live](https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 5:21 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 110 | [El\-Shaddai](https://open.spotify.com/track/2VED4X4iTTLD4g1TQqxtAi) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Greatest Hits](https://open.spotify.com/album/7pfhRkBsKxw8mPNcVKReAT) | 4:07 |
 | 111 | [Audience of One](https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [One And Only](https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN) | 5:26 |
 | 112 | [Adonai](https://open.spotify.com/track/12vwgyg4SZcwe5h77Uf7YJ) | [Avalon](https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO) | [A Maze Of Grace](https://open.spotify.com/album/40P6d6VGfGVTSiJU69dDm2) | 4:02 |
-| 113 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 |
-| 114 | [Great Is The Lord](https://open.spotify.com/track/22bkzEa4BFafq0KrxqOTCG) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Project](https://open.spotify.com/album/0EcvZ4VSakvBkSzOypDZKg) | 2:54 |
+| 113 | [Great Is The Lord](https://open.spotify.com/track/22bkzEa4BFafq0KrxqOTCG) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Project](https://open.spotify.com/album/0EcvZ4VSakvBkSzOypDZKg) | 2:54 |
+| 114 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 |
 | 115 | [Friend of a Wounded Heart](https://open.spotify.com/track/7dKaS16uoCHqQJg0AlHdwT) | [Wayne Watson](https://open.spotify.com/artist/7M8NpXAQ8mw9SN4323qa8S) | [Watercolour Ponies](https://open.spotify.com/album/4D03taESIu1pdn4tRDabew) | 5:25 |
 | 116 | [He Covers Me](https://open.spotify.com/track/61IVYRbXr7bxHl0aiGe1eH) | [Steve Camp](https://open.spotify.com/artist/2rps6bNkDy2wcyv7w33nI6) | [One On One](https://open.spotify.com/album/5uYffu8aERkexDcLKouRIK) | 4:47 |
 | 117 | [Rescuer \(Good News\)](https://open.spotify.com/track/32f24TdkpHx8L0EZX2HbP4) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Rescuer \(Good News\)](https://open.spotify.com/album/5mati4th5xS4GWys74MiR2) | 3:28 |
@@ -148,15 +148,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 138 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 |
 | 139 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:53 |
 | 140 | [The River](https://open.spotify.com/track/1mSMwIW4ZK6DVl499FvDPv) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Beloved](https://open.spotify.com/album/37b7Y7ow9J8eHcRyEtqaWY) | 3:15 |
-| 141 | [Bulletproof](https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2.0](https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS) | 4:04 |
-| 142 | [Trust In You](https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 3:31 |
+| 141 | [Trust In You](https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 3:31 |
+| 142 | [Bulletproof](https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2.0](https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS) | 4:04 |
 | 143 | [No Longer Slaves \(Live\)](https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm) | 6:13 |
-| 144 | [Greater](https://open.spotify.com/track/6eFGvG8mkvZJjhPx9wMZGc) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Welcome to the New](https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP) | 4:07 |
-| 145 | [Death Was Arrested](https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9) | 4:53 |
-| 146 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
-| 147 | [How Can It Be](https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 4:19 |
-| 148 | [Breathe](https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Everything Is Changing](https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS) | 3:33 |
-| 149 | [Flawless](https://open.spotify.com/track/6wa4KnRz7LjGeMkpIa1mAI) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Welcome to the New](https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP) | 4:15 |
-| 150 | [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 |
+| 144 | [Death Was Arrested](https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9) | 4:53 |
+| 145 | [Greater](https://open.spotify.com/track/6eFGvG8mkvZJjhPx9wMZGc) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Welcome to the New](https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP) | 4:07 |
+| 146 | [How Can It Be](https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 4:19 |
+| 147 | [Breathe](https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Everything Is Changing](https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS) | 3:33 |
+| 148 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
+| 149 | [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 |
+| 150 | [Flawless](https://open.spotify.com/track/6wa4KnRz7LjGeMkpIa1mAI) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Welcome to the New](https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP) | 4:15 |
 
 Snapshot ID: `aFHTugAAAACYfujL9BQRq8yF0yjXzH56`

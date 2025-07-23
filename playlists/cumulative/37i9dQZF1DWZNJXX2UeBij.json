@@ -5444,10 +5444,6 @@
       },
       "artists": [
         {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
           "name": "Asha Bhosle",
           "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
         },
@@ -5458,6 +5454,10 @@
         {
           "name": "Vaishali Samant",
           "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         }
       ],
       "date_added": "2021-10-21",

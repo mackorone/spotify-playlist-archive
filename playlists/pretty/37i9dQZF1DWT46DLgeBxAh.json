@@ -1,6 +1,6 @@
 {
   "description": "Una mezcla sabrosa, picosita y refrescante.",
-  "num_followers": 390582,
+  "num_followers": 390732,
   "original_name": "Las Micheladas",
   "owner": {
     "name": "Spotify",
@@ -1075,38 +1075,6 @@
     {
       "added_at": "2025-02-25 19:18:49",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2025-02-25 19:18:49",
-      "album": {
-        "name": "PRESENTE",
-        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Casi Completa",
-      "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
-    },
-    {
-      "added_at": "2025-02-25 19:18:49",
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -1123,6 +1091,22 @@
     {
       "added_at": "2025-02-25 19:18:49",
       "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2025-02-25 19:18:49",
+      "album": {
         "name": "La V\u00edctima",
         "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 156345,
       "name": "La V\u00edctima",
       "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
+    },
+    {
+      "added_at": "2025-02-25 19:18:49",
+      "album": {
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Casi Completa",
+      "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
     },
     {
       "added_at": "2025-02-25 19:18:49",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-02-25 19:18:49",
       "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 163341,
-      "name": "Martes 13",
-      "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
-    },
-    {
-      "added_at": "2025-02-25 19:18:49",
-      "album": {
         "name": "La Suma",
         "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 198976,
       "name": "La Suma",
       "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
+    },
+    {
+      "added_at": "2025-02-25 19:18:49",
+      "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 163341,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
     },
     {
       "added_at": "2025-02-25 19:18:49",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-02-25 19:18:49",
       "album": {
-        "name": "Memorias <3",
-        "url": "https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA"
-      },
-      "artists": [
-        {
-          "name": "emmanuellcortess_",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx"
-    },
-    {
-      "added_at": "2025-02-25 19:18:49",
-      "album": {
         "name": "El Plumas",
         "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 150528,
       "name": "El Plumas",
       "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
+    },
+    {
+      "added_at": "2025-02-25 19:18:49",
+      "album": {
+        "name": "Memorias <3",
+        "url": "https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA"
+      },
+      "artists": [
+        {
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx"
     },
     {
       "added_at": "2025-02-25 19:18:49",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-02-25 19:18:49",
       "album": {
-        "name": "Tal Vez Fui Yo",
-        "url": "https://open.spotify.com/album/69jwXCQWJp72tQCYlSkiNs"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 150365,
-      "name": "Tal Vez Fui Yo",
-      "url": "https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE"
-    },
-    {
-      "added_at": "2025-02-25 19:18:49",
-      "album": {
         "name": "CCC",
         "url": "https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 126081,
       "name": "CCC",
       "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
+    },
+    {
+      "added_at": "2025-02-25 19:18:49",
+      "album": {
+        "name": "Tal Vez Fui Yo",
+        "url": "https://open.spotify.com/album/69jwXCQWJp72tQCYlSkiNs"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 150365,
+      "name": "Tal Vez Fui Yo",
+      "url": "https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE"
     },
     {
       "added_at": "2025-02-25 19:18:49",

@@ -2,9 +2,9 @@
 
 ### [Rock Classics](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U)
 
-> Rock legends & epic songs that continue to inspire generations\. Cover: The Rolling Stones
+> Rock legends & epic songs that continue to inspire generations\. Cover: Ozzy Osbourne
 
-382 songs - 1 day 4 hr 8 min
+385 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,12 +66,14 @@
 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 | 2022-02-17 |  |
 | [Californication](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 5:29 | 2022-09-30 |  |
 | [Carry on Wayward Son](https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Leftoverture \(Expanded Edition\)](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) | 5:23 | 2021-12-14 |  |
+| [Changes \- 2013 Remaster](https://open.spotify.com/track/3b7wNR330iKhql9dEdbNci) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4 \(2014 Remaster\)](https://open.spotify.com/album/3zNcigR9hAceoTJphnxg6f) | 4:42 | 2025-07-22 |  |
 | [Closer](https://open.spotify.com/track/39tLc4Xp58Lu4KcWHggeE2) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq) | 6:13 | 2021-12-14 | 2022-01-07 |
 | [Come As You Are](https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:38 | 2021-12-14 |  |
 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2021-12-14 |  |
 | [Comfortably Numb](https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 6:22 | 2022-12-15 |  |
 | [Comfortably Numb 2022](https://open.spotify.com/track/02QGW1hPDxBizOPRrczqkw) | [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [Comfortably Numb 2022](https://open.spotify.com/album/6UEwtLqrx0bwJ98nHmCW0x) | 8:30 | 2022-11-21 | 2022-12-16 |
 | [Crazy On You](https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 4:53 | 2022-02-17 |  |
+| [Crazy Train](https://open.spotify.com/track/1Lm6B6aXsBhcsxrimyhkJb) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Essential Ozzy Osbourne](https://open.spotify.com/album/6eyLkYlVShYcXYiAgKVnQt) | 4:52 | 2025-07-22 |  |
 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 | 2022-05-06 | 2024-04-19 |
 | [Crazy Train](https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard of Ozz \(Expanded Edition\)](https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH) | 4:56 | 2021-12-14 |  |
 | [Crazy Train \- 2002 Version](https://open.spotify.com/track/09nx3UW8Mufo0Nq0iTKt5x) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Osbourne Family Album \(Clean Version\)](https://open.spotify.com/album/24nhPPOmRDre6oBvhKKRQA) | 4:49 | 2022-11-02 | 2022-11-13 |
@@ -198,6 +200,7 @@
 | [Magic Carpet Ride](https://open.spotify.com/track/6qnhXRedMi71TBYRc9jm4o) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Born To Be Wild: A Retrospective](https://open.spotify.com/album/4pFKV18Ioeiln9RORAXx99) | 4:20 | 2021-12-14 |  |
 | [Magic Carpet Ride](https://open.spotify.com/track/6j3CaXzoEbfpWSj9bVYhsl) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Kid Friendly Classic Rock](https://open.spotify.com/album/2hfpvVTIQYs00IKvmcOtzt) | 4:27 | 2022-11-02 | 2022-11-14 |
 | [Magic Carpet Ride](https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [The Second](https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN) | 4:31 | 2022-05-06 | 2024-04-19 |
+| [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2025-07-22 |  |
 | [Man in the Box](https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 4:45 | 2021-12-14 | 2023-01-07 |
 | [Mary Jane's Last Dance](https://open.spotify.com/track/5eYwDBLucWfWI5KsV7oYX2) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Anthology: Through The Years](https://open.spotify.com/album/7ait6chB3O3C1fMGUDJhtu) | 4:32 | 2021-12-14 |  |
 | [Mary Jane's Last Dance](https://open.spotify.com/track/3AJJkQK3GCYTS18ScMk3R3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Rock Stars](https://open.spotify.com/album/7IxbHVTcEFi9icEqd88GMY) | 4:33 | 2022-11-11 | 2022-11-13 |
@@ -246,7 +249,7 @@
 | [Paradise City](https://open.spotify.com/track/3YBZIN3rekqsKxbJc9FZko) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 6:45 | 2021-12-14 |  |
 | [Paranoid](https://open.spotify.com/track/1Ly0ssAgeM7YqdHptao8Oe) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Greatest Hits](https://open.spotify.com/album/1iaBz2uUeN77vNBSVzSYId) | 2:48 | 2021-12-14 |  |
 | [Paranoid](https://open.spotify.com/track/4MSqgoFS7e8LpsxeeMMVMu) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 2:48 | 2022-11-02 | 2022-11-14 |
-| [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 | 2022-05-06 | 2024-04-19 |
+| [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 | 2022-05-06 |  |
 | [Peace of Mind](https://open.spotify.com/track/1KE9ELTRxJjkHhijheu5Xl) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Greatest Hits](https://open.spotify.com/album/0ouBJG6m2VFeQFEvFv7Io2) | 5:03 | 2022-11-02 | 2022-11-13 |
 | [Peace of Mind](https://open.spotify.com/track/1GqlvSEtMx5xbGptxOTTyk) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 5:03 | 2022-05-06 | 2024-04-19 |
 | [Peace of Mind](https://open.spotify.com/track/3sY6z4pGcxpMwx3W026WtU) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/01OahkTPRCleDjobtRk7ST) | 5:03 | 2021-12-14 |  |

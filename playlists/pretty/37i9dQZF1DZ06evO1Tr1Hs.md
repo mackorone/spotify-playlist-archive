@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,710 likes - 42 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,731 likes - 43 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ss](https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:04 |
 | 2 | [Yale](https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:46 |
-| 3 | [Tic Tac Toe \(with Ken Carson\)](https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:57 |
-| 4 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 |
+| 3 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 |
+| 4 | [Tic Tac Toe \(with Ken Carson\)](https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:57 |
 | 5 | [overseas](https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:21 |
 | 6 | [Rock N Roll](https://open.spotify.com/track/7sdHMJvhKib3ReVPsZFbrf) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:28 |
 | 7 | [Blakk Rokkstar](https://open.spotify.com/track/1LsisG6aoqfsF1r6M4LpMO) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:50 |
@@ -49,6 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 39 | [Hell Yeah](https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Pink Heartz](https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU) | 2:48 |
 | 40 | [Clutch](https://open.spotify.com/track/11GKYHTMZHqIH6wR03pA4t) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:11 |
 | 41 | [Delinquent \(feat\. Homixide Gang\)](https://open.spotify.com/track/1PUwCOtQUOZrjAp8ljxGhE) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:45 |
-| 42 | [Hella](https://open.spotify.com/track/4EEX7k5Bo5iBdJC6hZJGo1) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:41 |
+| 42 | [Stunt](https://open.spotify.com/track/5hzkAD8nloXDHk62KsVtyG) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 2:58 |
+| 43 | [Hella](https://open.spotify.com/track/4EEX7k5Bo5iBdJC6hZJGo1) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:41 |
 
-Snapshot ID: `aHwxgAAAAABMXjwkE6VLxWUYqk1rkTVe`
+Snapshot ID: `aH2DAAAAAACQoxaMy627Mwl7H7sUniz/`

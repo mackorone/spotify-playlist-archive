@@ -4,7 +4,7 @@
 
 > KETTAMA and Chris Stussy with the B2B of the year!!
 
-1,287 songs - 3 day 23 hr 51 min
+1,289 songs - 4 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Dry & High \- Edit](https://open.spotify.com/track/0hzEI361Ekv59mGaVxp4Us) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Dry & High](https://open.spotify.com/album/5lczTqf9xL2Me3lzFmkW6x) | 3:38 | 2022-08-18 | 2022-10-07 |
 | [DSTM](https://open.spotify.com/track/4Iq2hbLov4quqW8a6nJ80N) | [YOUniverse \(IT\)](https://open.spotify.com/artist/3q3smKL7PiVd9oFRPvB7Ii) | [DSTM](https://open.spotify.com/album/0iwV45UPJMPO5GRKEnPlSS) | 3:16 | 2025-05-01 |  |
 | [Dudo](https://open.spotify.com/track/3UDUGegejoSGICYgNycmGR) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf) | [Dudo](https://open.spotify.com/album/2IEQhOjsEMfvKPi6ukJrl9) | 6:30 | 2024-07-25 |  |
+| [Dynamite \(feat\. Sebastian\)](https://open.spotify.com/track/4DrySMD0HTndt7wzDqfXJN) | [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq), [Sebastian](https://open.spotify.com/artist/17MN4PshvWnET2YBlfQ4Bc) | [Dynamite \(feat\. Sebastian\)](https://open.spotify.com/album/5YwMVbO0I2EajhHM2PFdZG) | 2:59 | 2025-07-22 |  |
 | [Dynasty](https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF) | [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Dynasty](https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY) | 6:36 | 2023-11-09 |  |
 | [Earthquake](https://open.spotify.com/track/0HPhh6qb8R9uklOyCZPghi) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [Earthquake](https://open.spotify.com/album/4pKPanLt7ZuyR4qepavqFt) | 3:27 | 2025-03-27 |  |
 | [Eastern Lights](https://open.spotify.com/track/0pB9l6GPqjwH46cbxLAVnJ) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [Eastern Lights](https://open.spotify.com/album/1uxm5mezOuEInR9LE7By5Z) | 4:11 | 2022-08-18 | 2022-11-25 |
@@ -1040,6 +1041,7 @@
 | [Stop That](https://open.spotify.com/track/4kCobKvqHOPEa5GOCz3oR3) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 5:35 | 2023-12-14 |  |
 | [Strange World](https://open.spotify.com/track/4SHFAf2zHYBbk2HTMlR2vj) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Strange World](https://open.spotify.com/album/4kpsUjDu3PINn1yu5jX09R) | 3:56 | 2023-04-13 | 2023-04-21 |
 | [Strangest Nights \- SOMMA Remix](https://open.spotify.com/track/0TTMZrX3MtQoC4hddow2UX) | [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX), [Paul Brenning](https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3) | [Strangest Nights \(Remixes\)](https://open.spotify.com/album/2ArVBMws9cZiccBIq6Lg9Q) | 6:21 | 2024-09-12 |  |
+| [Subbshade](https://open.spotify.com/track/45APUZHL4bFnG8wxvRmwxM) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf), [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Subbshade](https://open.spotify.com/album/0I3F0TWfIuk600Z74myN7V) | 5:48 | 2025-07-22 |  |
 | [Subterranean](https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Subterranean](https://open.spotify.com/album/6cw5camBc9Lf9t4BS5NEDn) | 3:30 | 2023-09-28 | 2024-02-23 |
 | [suddenly](https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva) | 3:35 | 2022-08-18 | 2022-09-24 |
 | [Sumatra](https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Sumatra](https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2) | 3:17 | 2022-08-18 | 2022-09-24 |

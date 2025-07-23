@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAABdS18ZYspVjnFeuli3dZIJ",
+  "snapshot_id": "aH2DAAAAAAARjHysgJLEzM4k3iWtv6zi",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 137553,
-      "name": "Quem Jura Mente",
-      "url": "https://open.spotify.com/track/2T9DdHrPsb40AecsOqCOJg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 196165,
       "name": "Rotina",
       "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 137553,
+      "name": "Quem Jura Mente",
+      "url": "https://open.spotify.com/track/2T9DdHrPsb40AecsOqCOJg"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "Seu Particular",
-      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO PRIMEIRO ENCONTRO",
         "url": "https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 147692,
       "name": "NO PRIMEIRO ENCONTRO",
       "url": "https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "Seu Particular",
+      "url": "https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk"
     },
     {
       "added_at": null,

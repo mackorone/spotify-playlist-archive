@@ -4,7 +4,7 @@
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-254 songs - 14 hr 15 min
+255 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Amor de Estudiante](https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:10 | 2022-05-10 |  |
 | [Amor En El Aire](https://open.spotify.com/track/4SpymdQGOUzDEsOGSlwDR0) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Vida De Cine](https://open.spotify.com/album/6FkZm0HYNuPm4eEhLKVZ6r) | 2:15 | 2024-05-10 |  |
 | [Besame Mucho](https://open.spotify.com/track/7ID2XpnDroizAWSvzAZsy7) | [Consuelo Velázquez](https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU) | [Boleros para Enamorarse, Vol\. 2](https://open.spotify.com/album/3eWzi2pLdTWzkIT9pxhzOZ) | 3:01 | 2022-05-10 | 2022-07-29 |
-| [Bonita](https://open.spotify.com/track/6VGgE1rjM5KDqMSdSRaA17) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK) | 2:24 | 2024-02-23 |  |
+| [Bonita](https://open.spotify.com/track/6VGgE1rjM5KDqMSdSRaA17) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK) | 2:24 | 2024-02-23 | 2025-07-23 |
 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 | 2022-05-10 | 2024-04-19 |
 | [Callados](https://open.spotify.com/track/7afLIGLOQUhXMruh8XByhL) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [2 en 1 \(Amigo Mio, Cuenta Conmigo\)](https://open.spotify.com/album/6WEYYj4KpgQEvkPMIomeih) | 5:31 | 2022-12-30 |  |
 | [Canción para una esposa triste](https://open.spotify.com/track/4ko8FYjfliwHI1GrjY5YjE) | [Clemencia Torres](https://open.spotify.com/artist/0c1FTsFR3DaD71wT3Ax4F7) | [Canción para una esposa triste](https://open.spotify.com/album/0L5mZ1bD6QWx3Fx2wZgai7) | 3:43 | 2024-05-10 |  |
@@ -194,6 +194,7 @@
 | [Por Las Calles De México](https://open.spotify.com/track/3NrCHykyKFGmyTeXh0Ym3g) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa) | 2:51 | 2022-05-10 | 2022-11-13 |
 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/3uNHsihawfIiZv8XClEZoY) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:20 | 2022-12-30 |  |
 | [Por Que Nos Dijimos Adios](https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Mano A Mano Volumen 1](https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK) | 3:10 | 2022-05-10 |  |
+| [Por Si el Amor](https://open.spotify.com/track/6I8M7biJ2PouHIIOnQfK09) | [Nydia Caro](https://open.spotify.com/artist/7GP8u0rf1IMKqhaBvjOgzo) | [Lo Mejor De](https://open.spotify.com/album/3ZZ58IiyV1tioHIkvhYAlu) | 2:47 | 2024-07-11 |  |
 | [Por volverte a ver](https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf) | [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [Bienvenido al Club](https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv) | 4:01 | 2022-12-30 |  |
 | [Prisionero Del Mar](https://open.spotify.com/track/3KSqeds9xE8rBDt4QEjrLk) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:03 | 2024-02-23 | 2025-06-07 |
 | [Prometimos No Llorar](https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:22 | 2022-12-30 |  |

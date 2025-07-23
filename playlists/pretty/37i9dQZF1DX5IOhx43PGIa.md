@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: Jinu & Rumi 🫶🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,667 likes - 97 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,668 likes - 97 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 2 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
 | 3 | [PRETTY4U](https://open.spotify.com/track/0Q9N0xsxC66l8dtgfETPTS) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [PRETTY4U](https://open.spotify.com/album/6VHDSsH6ZAwASHAbFIT2S4) | 2:25 |
 | 4 | [Ego](https://open.spotify.com/track/6qWLeDClhAZYyshdF3y45Y) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Ego](https://open.spotify.com/album/7obtmvKbzq38Uw45UeOpa4) | 3:00 |
-| 5 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
+| 5 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
 | 6 | [Enigami \(with Mei Semones\)](https://open.spotify.com/track/1WCDMaCfChlyJo6qD281x4) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Enigami \(with Mei Semones\)](https://open.spotify.com/album/72uSrGrIdFXdzTLhsmU65O) | 2:30 |
 | 7 | [Moonlight](https://open.spotify.com/track/3BZkqCUSLzozgQuvR5MW3q) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Moonlight](https://open.spotify.com/album/5zAYhgGJ1e3MopvwahvFQZ) | 2:33 |
 | 8 | [don't let this be the end](https://open.spotify.com/track/5zIGJwMvspuvhHZCpz6f6P) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [don't let this be the end](https://open.spotify.com/album/0VK8w7hqRE6XyoIvShWnJX) | 3:17 |

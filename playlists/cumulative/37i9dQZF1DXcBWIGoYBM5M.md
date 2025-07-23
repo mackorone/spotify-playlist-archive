@@ -4,7 +4,7 @@
 
 > The hottest 50\. Cover: Justin Bieber
 
-1,268 songs - 2 day 19 hr 56 min
+1,269 songs - 2 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -918,6 +918,7 @@
 | [Right Back \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Right Back \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/36Mq31otog86NGRflpMmkg) | 4:14 | 2019-08-09 | 2019-10-10 |
 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 | 2022-04-08 | 2022-04-23 |
 | [Righteous](https://open.spotify.com/track/0OyQns5ayNK2OVaES0Vb8t) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Righteous](https://open.spotify.com/album/5hxLDyEJV1IvgoAquaImWW) | 4:03 | 2020-04-24 | 2020-05-29 |
+| [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-07-22 |  |
 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 | 2019-10-25 | 2020-02-14 |
 | [Ritual](https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ritual](https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry) | 3:18 | 2019-05-31 | 2019-08-13 |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-10 | 2023-04-15 |
@@ -1080,7 +1081,7 @@
 | [Talk \(feat\. Disclosure\)](https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:17 | 2019-05-26\* | 2019-06-20 |
 | [Tap In](https://open.spotify.com/track/4Hpib09wXgD84w4uwTPnYD) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Tap In](https://open.spotify.com/album/3XpOIE22NDEl5VSguQGv2h) | 2:19 | 2020-08-21 | 2020-10-02 |
 | [Tap In \(feat\. Post Malone, DaBaby & Jack Harlow\)](https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tap In \(feat\. Post Malone, DaBaby & Jack Harlow\)](https://open.spotify.com/album/1aa1RxpukjEwAGbNdeV3Ft) | 4:13 | 2020-08-30 | 2020-09-04 |
-| [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-23 |  |
+| [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-23 | 2025-07-23 |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-05-15 | 2023-06-24 |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-06-10 | 2022-08-20 |
 | [Tears In The Club \(feat\. The Weeknd\)](https://open.spotify.com/track/60wMNCIWYZwbOywZXgfQ9P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Tears In The Club \(feat\. The Weeknd\)](https://open.spotify.com/album/633MrZ9lAeFFydmcMENiuA) | 3:16 | 2021-12-17 | 2022-01-08 |

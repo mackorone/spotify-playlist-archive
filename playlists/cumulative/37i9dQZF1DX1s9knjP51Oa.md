@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-858 songs - 1 day 12 hr 52 min
+862 songs - 1 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,9 @@
 | [Et løfte](https://open.spotify.com/track/4KB0FsNnaynCa0Zx8V6h9C) | [Tosh Møller](https://open.spotify.com/artist/2CUZliHXKYjXEV2BOZqMvi) | [Et løfte](https://open.spotify.com/album/6zZJcLrm7pvfBWlIEmffH9) | 2:14 | 2023-04-24 |  |
 | [Etereo](https://open.spotify.com/track/1tFwl5ZvWeiI2QjPV6tQhJ) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Etereo](https://open.spotify.com/album/3WgkQ0yOKa38yJ5Gk8aiTi) | 2:38 | 2025-02-28 |  |
 | [Eternal Bloom](https://open.spotify.com/track/0OYDV3vHPSXFQkKmVdodFn) | [Luis Álvarez](https://open.spotify.com/artist/3zowTYcPBFKlG4Hi98bPpq) | [Eternal Bloom](https://open.spotify.com/album/72ckrZrv9xw3vabgq5cLM1) | 3:11 | 2021-12-13 | 2022-03-18 |
+| [Eternal Moon](https://open.spotify.com/track/2hegfLKqobbWtYPg0Z31vm) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [Eternal Moon](https://open.spotify.com/album/5UVS5hHLLxQgH22bXKrFUi) | 2:28 | 2025-07-22 |  |
 | [Ether](https://open.spotify.com/track/0NInoCrExhcGEZFnRBBo0o) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L), [Marcos Boza](https://open.spotify.com/artist/443Yc7SeaW7ddTyVUMJ5ZX) | [Ether](https://open.spotify.com/album/4Hg9aMbQfviR7UjPFXHbHf) | 2:37 | 2022-08-29 | 2024-04-04 |
+| [Even So](https://open.spotify.com/track/6pZ2qQUbm6p8sBwx2gHKWk) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [Even So](https://open.spotify.com/album/3yB40PziBfQh2P1XfpBkrU) | 2:30 | 2025-07-22 |  |
 | [Evening Inn](https://open.spotify.com/track/04GkZnxmBFf8GXBvIGkAzj) | [Corinne Beilinson](https://open.spotify.com/artist/4HZ8y4n8CYXv5BaEY1ILKi) | [Chasing Grace](https://open.spotify.com/album/2MTntXzOQRcmBk44uL87ed) | 2:15 | 2021-12-13 | 2022-10-25 |
 | [Evening Light](https://open.spotify.com/track/0WXWiXfd4V6MCkBkrUV0NK) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Evening Light](https://open.spotify.com/album/1Ky1QmifzrNmlaUtprdyBX) | 2:21 | 2022-09-23 | 2024-04-09 |
 | [Evenings](https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Evenings](https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge) | 1:52 | 2022-11-11 | 2023-08-22 |
@@ -392,7 +394,7 @@
 | [I’m Still Learning](https://open.spotify.com/track/2KM3Fna95GUcpQ6Xb3Dibh) | [Neal Robinett](https://open.spotify.com/artist/0oHaKHnMtcLtrBkqZhb2sX) | [I’m Still Learning](https://open.spotify.com/album/6325dWq46dEF9sAesxT9FU) | 2:59 | 2021-12-13 | 2022-07-22 |
 | [Ja Mata](https://open.spotify.com/track/51egrQzlzHbpm6uv49eGRV) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 3:29 | 2021-12-13 | 2023-04-18 |
 | [January Sky](https://open.spotify.com/track/4Xj97H1nAC77849DA1Psle) | [Oscar Legrand](https://open.spotify.com/artist/6QUKLJTU9DWDhcIifnrJjN) | [January Sky](https://open.spotify.com/album/6Liarx0KPE7AR4YEs018WO) | 2:09 | 2023-01-09 |  |
-| [Jasmine Dreams](https://open.spotify.com/track/4d9V3dfJOVRH047TtWVIEJ) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Jasmine Dreams](https://open.spotify.com/album/3qPOAKwH6qbvtE1TfJZPUj) | 3:10 | 2025-02-18 |  |
+| [Jasmine Dreams](https://open.spotify.com/track/4d9V3dfJOVRH047TtWVIEJ) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Jasmine Dreams](https://open.spotify.com/album/3qPOAKwH6qbvtE1TfJZPUj) | 3:10 | 2025-02-18 | 2025-07-23 |
 | [Je crois en toi](https://open.spotify.com/track/5yCggunPid4GYMxzCQbk99) | [Alcide St Pierre](https://open.spotify.com/artist/77f8Kuq5BQB3otUyU9rz2P) | [Je crois en toi](https://open.spotify.com/album/7FP73HulDW6i3S8xhZpDBL) | 2:39 | 2022-01-04 | 2022-12-22 |
 | [Je t'ai vu](https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Je t'ai vu](https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X) | 3:00 | 2022-10-04 | 2024-04-09 |
 | [Jean Paul errant](https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Jean Paul errant](https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0) | 2:20 | 2023-09-11 |  |
@@ -677,6 +679,7 @@
 | [Small Steps](https://open.spotify.com/track/1hdv5ClhtXr3ObgFCSjNVw) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [Small Steps](https://open.spotify.com/album/1rRyxVqesdCGq4KQhDxytO) | 2:10 | 2024-10-21 |  |
 | [So No Regrets](https://open.spotify.com/track/4SnS6XcwucVNuXw44juFEY) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [So No Regrets](https://open.spotify.com/album/1MaXPoxg7JrhcLwHX76Shn) | 2:14 | 2021-12-13 | 2022-07-22 |
 | [So Ro Lilleman](https://open.spotify.com/track/27vBoR2y5SuRtV2YgvgtS0) | [Sofia Runmon](https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu) | [So Ro Lilleman](https://open.spotify.com/album/5a3noPVZow8nIbmZETSgNY) | 1:34 | 2023-04-17 | 2023-07-19 |
+| [Soft Rain](https://open.spotify.com/track/3C1YOgC9O7ecXCnlkkQAVR) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Soft Rain](https://open.spotify.com/album/0hvw1dqFx2BgQ8GGtTbH5y) | 2:16 | 2025-07-22 |  |
 | [Soft Sunrays](https://open.spotify.com/track/0fXkY4lEHbkyWfDmN4KdOp) | [Peter J\. Malmsjö](https://open.spotify.com/artist/3SqescE77B2HKIjgyF9c0x) | [Soft Sunrays](https://open.spotify.com/album/3mdV0E9SbexYG03haMWL4r) | 5:45 | 2022-12-21 | 2023-02-01 |
 | [Softly](https://open.spotify.com/track/1PW5iY60ZqzBqU5OXpiX4N) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Softly](https://open.spotify.com/album/7ojzrIb4RuVzcUJilEbKgr) | 2:24 | 2021-12-13 | 2022-05-27 |
 | [Sol](https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [Memento Vivere](https://open.spotify.com/album/3hlMxDhwvTsfqw6wMi2VVE) | 2:15 | 2021-12-13 | 2022-10-25 |
@@ -746,6 +749,7 @@
 | [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 | 2022-09-12 | 2024-04-09 |
 | [The Porch Swing](https://open.spotify.com/track/4Be7nKSjLG0iWmt0OJXEks) | [Billie Ivory](https://open.spotify.com/artist/6GtWlyQC6QxNGW1w3EQVpx) | [The Porch Swing](https://open.spotify.com/album/0abQ6KRfx1mMUwH73fFW99) | 2:09 | 2021-12-13 | 2023-01-28 |
 | [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2021-12-13 | 2023-03-28 |
+| [The Secret](https://open.spotify.com/track/71qUV3Npt2rsKL1p8zsKPS) | [Passerina Caerulea](https://open.spotify.com/artist/4A6r5yNuH0Mo4L9pdTIlSC) | [The Secret](https://open.spotify.com/album/4qIyBsinsMr6F7b3sC81FG) | 2:17 | 2025-07-22 |  |
 | [The Silence Between](https://open.spotify.com/track/382kcRL3AVBg8aguRl6yb2) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [The Silence Between](https://open.spotify.com/album/5hkFqk1cZcdWaQ71xrbzC1) | 3:01 | 2025-02-18 |  |
 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 | 2021-12-13 | 2022-10-25 |
 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 | 2023-03-06 | 2023-12-19 |

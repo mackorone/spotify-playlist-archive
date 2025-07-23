@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 427170,
+  "num_followers": 427218,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/5mMbhQ1Ok2Y0NEcaACeT2t"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "duration_ms": 131349,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/4EKiAvYFtffr5BaRk7Uf49"
+    },
+    {
+      "added_at": "2025-07-07 14:16:23",
+      "album": {
         "name": "Bird of Passage",
         "url": "https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 146125,
       "name": "My Solace My Home",
       "url": "https://open.spotify.com/track/0mD5cqe5rW4rPjlEBpRqUK"
-    },
-    {
-      "added_at": "2025-07-07 14:16:23",
-      "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/5mMbhQ1Ok2Y0NEcaACeT2t"
-      },
-      "artists": [
-        {
-          "name": "Ole-Bj\u00f8rn Talstad",
-          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
-        }
-      ],
-      "duration_ms": 131349,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/4EKiAvYFtffr5BaRk7Uf49"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
+        "name": "Letters to the Wind",
+        "url": "https://open.spotify.com/album/2ao7v1AcoOvv8sEJ3vhncp"
+      },
+      "artists": [
+        {
+          "name": "Joseph Fina",
+          "url": "https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv"
+        }
+      ],
+      "duration_ms": 164555,
+      "name": "Letters to the Wind",
+      "url": "https://open.spotify.com/track/2xIOGocs3xntXBULxJw5iL"
+    },
+    {
+      "added_at": "2025-07-07 14:16:23",
+      "album": {
         "name": "The Shortest Distance",
         "url": "https://open.spotify.com/album/48Pzdi9h9my2o6G1FgQLDY"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "Letters to the Wind",
-        "url": "https://open.spotify.com/album/2ao7v1AcoOvv8sEJ3vhncp"
-      },
-      "artists": [
-        {
-          "name": "Joseph Fina",
-          "url": "https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv"
-        }
-      ],
-      "duration_ms": 164555,
-      "name": "Letters to the Wind",
-      "url": "https://open.spotify.com/track/2xIOGocs3xntXBULxJw5iL"
-    },
-    {
-      "added_at": "2025-07-07 14:16:23",
-      "album": {
         "name": "Open Mind",
         "url": "https://open.spotify.com/album/0dcEMhlVSE5SgFgL7wJ5OB"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "The Only One",
-        "url": "https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m"
-      },
-      "artists": [
-        {
-          "name": "Aron E. Ross",
-          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
-        }
-      ],
-      "duration_ms": 176137,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg"
-    },
-    {
-      "added_at": "2025-07-07 14:16:23",
-      "album": {
         "name": "Resplendent",
         "url": "https://open.spotify.com/album/4gMyqPbXXeFmQadOrKK6GN"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 153812,
       "name": "Resplendent",
       "url": "https://open.spotify.com/track/0MeQbzpMevEuSdp5oWXuRO"
+    },
+    {
+      "added_at": "2025-07-07 14:16:23",
+      "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m"
+      },
+      "artists": [
+        {
+          "name": "Aron E. Ross",
+          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
+        }
+      ],
+      "duration_ms": 176137,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "In Case",
-        "url": "https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5"
+        "name": "Br\u00fblante",
+        "url": "https://open.spotify.com/album/61xylbaTzrl6BCKITSXEFN"
       },
       "artists": [
         {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+          "name": "Lucien Valli\u00e8re",
+          "url": "https://open.spotify.com/artist/4JmBqZlqb5nwbJYRYe4l5G"
         }
       ],
-      "duration_ms": 166817,
-      "name": "In Case",
-      "url": "https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1"
+      "duration_ms": 144434,
+      "name": "Br\u00fblante",
+      "url": "https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -1467,34 +1467,18 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "Br\u00fblante",
-        "url": "https://open.spotify.com/album/61xylbaTzrl6BCKITSXEFN"
+        "name": "In Case",
+        "url": "https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5"
       },
       "artists": [
         {
-          "name": "Lucien Valli\u00e8re",
-          "url": "https://open.spotify.com/artist/4JmBqZlqb5nwbJYRYe4l5G"
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
         }
       ],
-      "duration_ms": 144434,
-      "name": "Br\u00fblante",
-      "url": "https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk"
-    },
-    {
-      "added_at": "2025-07-07 14:16:23",
-      "album": {
-        "name": "The Seventh Wave",
-        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
-      },
-      "artists": [
-        {
-          "name": "Colias Fieldii",
-          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
-        }
-      ],
-      "duration_ms": 128088,
-      "name": "The Seventh Wave",
-      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
+      "duration_ms": 166817,
+      "name": "In Case",
+      "url": "https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -1511,6 +1495,22 @@
       "duration_ms": 142105,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/2Fa4HWhnE7oiWdiHnjv3aD"
+    },
+    {
+      "added_at": "2025-07-07 14:16:23",
+      "album": {
+        "name": "The Seventh Wave",
+        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
+      },
+      "artists": [
+        {
+          "name": "Colias Fieldii",
+          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+        }
+      ],
+      "duration_ms": 128088,
+      "name": "The Seventh Wave",
+      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
+        "name": "Apr\u00e8s Tout",
+        "url": "https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3"
+      },
+      "artists": [
+        {
+          "name": "Alexis Pavot",
+          "url": "https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk"
+        }
+      ],
+      "duration_ms": 147250,
+      "name": "Apr\u00e8s tout",
+      "url": "https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz"
+    },
+    {
+      "added_at": "2025-07-07 14:16:23",
+      "album": {
         "name": "Into the Unknown",
         "url": "https://open.spotify.com/album/38EOJDVjA48a1OsabohitZ"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "Apr\u00e8s Tout",
-        "url": "https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3"
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v"
       },
       "artists": [
         {
-          "name": "Alexis Pavot",
-          "url": "https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk"
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
         }
       ],
-      "duration_ms": 147250,
-      "name": "Apr\u00e8s tout",
-      "url": "https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz"
+      "duration_ms": 140541,
+      "name": "Last Summer",
+      "url": "https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -1607,22 +1623,6 @@
       "duration_ms": 125160,
       "name": "Black coal of dream",
       "url": "https://open.spotify.com/track/4QTsrZ1o0SRgx6FhdonuCi"
-    },
-    {
-      "added_at": "2025-07-07 14:16:23",
-      "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v"
-      },
-      "artists": [
-        {
-          "name": "Alfons Daiminger",
-          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
-        }
-      ],
-      "duration_ms": 140541,
-      "name": "Last Summer",
-      "url": "https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "From the Seas and the Streams",
-        "url": "https://open.spotify.com/album/0SFqRZjTN8wcgIPG4E7ulc"
-      },
-      "artists": [
-        {
-          "name": "Halgeir Nielsen",
-          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
-        }
-      ],
-      "duration_ms": 149800,
-      "name": "From the Seas and the Streams",
-      "url": "https://open.spotify.com/track/2AotVdY2lkRFWn0j5dQymP"
-    },
-    {
-      "added_at": "2025-07-07 14:16:23",
-      "album": {
         "name": "Stigen",
         "url": "https://open.spotify.com/album/5CnR7KZSqePtcSbHuAQkX0"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 174905,
       "name": "Stigen",
       "url": "https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr"
+    },
+    {
+      "added_at": "2025-07-07 14:16:23",
+      "album": {
+        "name": "From the Seas and the Streams",
+        "url": "https://open.spotify.com/album/0SFqRZjTN8wcgIPG4E7ulc"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "duration_ms": 149800,
+      "name": "From the Seas and the Streams",
+      "url": "https://open.spotify.com/track/2AotVdY2lkRFWn0j5dQymP"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "Go With The Flow",
-        "url": "https://open.spotify.com/album/0wAZLmdQmfxz574lffOLgh"
-      },
-      "artists": [
-        {
-          "name": "Hector Vall\u00c7e",
-          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Go With The Flow",
-      "url": "https://open.spotify.com/track/0LzHt0QSoskuBCgMvq1lms"
-    },
-    {
-      "added_at": "2025-07-07 14:16:23",
-      "album": {
         "name": "Highland",
         "url": "https://open.spotify.com/album/26aPY0RbEgpgaf8zMpPTHA"
       },
@@ -1911,6 +1895,38 @@
       "duration_ms": 138750,
       "name": "Before",
       "url": "https://open.spotify.com/track/0Rmf7MkhUZt3XEK4Lkv2oz"
+    },
+    {
+      "added_at": "2025-07-07 14:16:23",
+      "album": {
+        "name": "Go With The Flow",
+        "url": "https://open.spotify.com/album/0wAZLmdQmfxz574lffOLgh"
+      },
+      "artists": [
+        {
+          "name": "Hector Vall\u00c7e",
+          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Go With The Flow",
+      "url": "https://open.spotify.com/track/0LzHt0QSoskuBCgMvq1lms"
+    },
+    {
+      "added_at": "2025-07-07 14:16:23",
+      "album": {
+        "name": "Lik Eit Tre (Ps.1)",
+        "url": "https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE"
+      },
+      "artists": [
+        {
+          "name": "John Vegard Schow",
+          "url": "https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN"
+        }
+      ],
+      "duration_ms": 154844,
+      "name": "Lik Eit Tre - Ps.1",
+      "url": "https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -1947,18 +1963,18 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "Lik Eit Tre (Ps.1)",
-        "url": "https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE"
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg"
       },
       "artists": [
         {
-          "name": "John Vegard Schow",
-          "url": "https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN"
+          "name": "Kyo Himura",
+          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
         }
       ],
-      "duration_ms": 154844,
-      "name": "Lik Eit Tre - Ps.1",
-      "url": "https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3"
+      "duration_ms": 146073,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -1979,18 +1995,18 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg"
+        "name": "Creations",
+        "url": "https://open.spotify.com/album/6XL2imjJxQdS8D0ILLiupu"
       },
       "artists": [
         {
-          "name": "Kyo Himura",
-          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
+          "name": "Saveliy Lleu",
+          "url": "https://open.spotify.com/artist/6GR4x2rlUUYUrj2mimfXm9"
         }
       ],
-      "duration_ms": 146073,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7"
+      "duration_ms": 170951,
+      "name": "Creations",
+      "url": "https://open.spotify.com/track/5DdvcGxyvQEyeFM5jEkWDW"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -2023,22 +2039,6 @@
       "duration_ms": 173887,
       "name": "Plum Coulee",
       "url": "https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD"
-    },
-    {
-      "added_at": "2025-07-07 14:16:23",
-      "album": {
-        "name": "Creations",
-        "url": "https://open.spotify.com/album/6XL2imjJxQdS8D0ILLiupu"
-      },
-      "artists": [
-        {
-          "name": "Saveliy Lleu",
-          "url": "https://open.spotify.com/artist/6GR4x2rlUUYUrj2mimfXm9"
-        }
-      ],
-      "duration_ms": 170951,
-      "name": "Creations",
-      "url": "https://open.spotify.com/track/5DdvcGxyvQEyeFM5jEkWDW"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -2091,38 +2091,6 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "Within Reach",
-        "url": "https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog"
-      },
-      "artists": [
-        {
-          "name": "Waqar Jachin",
-          "url": "https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu"
-        }
-      ],
-      "duration_ms": 153301,
-      "name": "Within Reach",
-      "url": "https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai"
-    },
-    {
-      "added_at": "2025-07-07 14:16:23",
-      "album": {
-        "name": "Emanate",
-        "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
-      },
-      "artists": [
-        {
-          "name": "Aldo Talete",
-          "url": "https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W"
-        }
-      ],
-      "duration_ms": 179281,
-      "name": "Emanate",
-      "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
-    },
-    {
-      "added_at": "2025-07-07 14:16:23",
-      "album": {
         "name": "Metanoia",
         "url": "https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl"
       },
@@ -2135,6 +2103,22 @@
       "duration_ms": 141971,
       "name": "Metanoia",
       "url": "https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win"
+    },
+    {
+      "added_at": "2025-07-07 14:16:23",
+      "album": {
+        "name": "Within Reach",
+        "url": "https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog"
+      },
+      "artists": [
+        {
+          "name": "Waqar Jachin",
+          "url": "https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu"
+        }
+      ],
+      "duration_ms": 153301,
+      "name": "Within Reach",
+      "url": "https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -2155,6 +2139,22 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
+        "name": "Emanate",
+        "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
+      },
+      "artists": [
+        {
+          "name": "Aldo Talete",
+          "url": "https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W"
+        }
+      ],
+      "duration_ms": 179281,
+      "name": "Emanate",
+      "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
+    },
+    {
+      "added_at": "2025-07-07 14:16:23",
+      "album": {
         "name": "Glimmer",
         "url": "https://open.spotify.com/album/1c7NcP2Owl3VHRieSjKBkf"
       },
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "Troms\u00f8",
-        "url": "https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX"
-      },
-      "artists": [
-        {
-          "name": "Otto Noir",
-          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
-        }
-      ],
-      "duration_ms": 131071,
-      "name": "Troms\u00f8",
-      "url": "https://open.spotify.com/track/09jdC5o254s2seWBMMHco7"
-    },
-    {
-      "added_at": "2025-07-07 14:16:23",
-      "album": {
         "name": "Arriving",
         "url": "https://open.spotify.com/album/0JObZV0R4Ko376lsiK0JWF"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 168294,
       "name": "Arriving",
       "url": "https://open.spotify.com/track/2BWhYS9sosKmgg8BWjoQul"
+    },
+    {
+      "added_at": "2025-07-07 14:16:23",
+      "album": {
+        "name": "Troms\u00f8",
+        "url": "https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX"
+      },
+      "artists": [
+        {
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
+        }
+      ],
+      "duration_ms": 131071,
+      "name": "Troms\u00f8",
+      "url": "https://open.spotify.com/track/09jdC5o254s2seWBMMHco7"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "Insignia",
-        "url": "https://open.spotify.com/album/6KljnSEKSgk32JLRN4Vd9H"
-      },
-      "artists": [
-        {
-          "name": "Aron Edwards",
-          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
-        }
-      ],
-      "duration_ms": 178743,
-      "name": "Insignia",
-      "url": "https://open.spotify.com/track/17moSSyt9oOxVHyewjXLav"
-    },
-    {
-      "added_at": "2025-07-07 14:16:23",
-      "album": {
         "name": "Peaceful Ignorance",
         "url": "https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16"
       },
@@ -2267,18 +2251,18 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "Quiet Suns",
-        "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
+        "name": "Insignia",
+        "url": "https://open.spotify.com/album/6KljnSEKSgk32JLRN4Vd9H"
       },
       "artists": [
         {
-          "name": "Skaresn\u00f8",
-          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+          "name": "Aron Edwards",
+          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
         }
       ],
-      "duration_ms": 131374,
-      "name": "Quiet Suns",
-      "url": "https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr"
+      "duration_ms": 178743,
+      "name": "Insignia",
+      "url": "https://open.spotify.com/track/17moSSyt9oOxVHyewjXLav"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -2295,6 +2279,22 @@
       "duration_ms": 148985,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/3QWwv034n46XFeSPV7ImCW"
+    },
+    {
+      "added_at": "2025-07-07 14:16:23",
+      "album": {
+        "name": "Quiet Suns",
+        "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
+      },
+      "artists": [
+        {
+          "name": "Skaresn\u00f8",
+          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+        }
+      ],
+      "duration_ms": 131374,
+      "name": "Quiet Suns",
+      "url": "https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "Ocean Breeze",
-        "url": "https://open.spotify.com/album/6J2YEsayKZ16bcp549OHV3"
-      },
-      "artists": [
-        {
-          "name": "Aisen Voight",
-          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
-        }
-      ],
-      "duration_ms": 131583,
-      "name": "Ocean Breeze",
-      "url": "https://open.spotify.com/track/5BcDE6YlRZ9k078nzlxRie"
-    },
-    {
-      "added_at": "2025-07-07 14:16:23",
-      "album": {
         "name": "Fairytale",
         "url": "https://open.spotify.com/album/5RkThHQOqsHovp186WdJ7L"
       },
@@ -2395,18 +2379,18 @@
     {
       "added_at": "2025-07-07 14:16:23",
       "album": {
-        "name": "Harmonism I",
-        "url": "https://open.spotify.com/album/2XOeI9TVCRZL28H4F5CYSm"
+        "name": "Ocean Breeze",
+        "url": "https://open.spotify.com/album/6J2YEsayKZ16bcp549OHV3"
       },
       "artists": [
         {
-          "name": "Taichi Chishaki",
-          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+          "name": "Aisen Voight",
+          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
         }
       ],
-      "duration_ms": 130909,
-      "name": "Respectfully",
-      "url": "https://open.spotify.com/track/3GNy9aZAn5ZTdBm6Ha0XCt"
+      "duration_ms": 131583,
+      "name": "Ocean Breeze",
+      "url": "https://open.spotify.com/track/5BcDE6YlRZ9k078nzlxRie"
     },
     {
       "added_at": "2025-07-07 14:16:23",
@@ -2423,6 +2407,22 @@
       "duration_ms": 163514,
       "name": "Red Ridge Road",
       "url": "https://open.spotify.com/track/2BNF35bgujUs1KtGl5Xww0"
+    },
+    {
+      "added_at": "2025-07-07 14:16:23",
+      "album": {
+        "name": "Harmonism I",
+        "url": "https://open.spotify.com/album/2XOeI9TVCRZL28H4F5CYSm"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "Respectfully",
+      "url": "https://open.spotify.com/track/3GNy9aZAn5ZTdBm6Ha0XCt"
     },
     {
       "added_at": "2025-07-07 14:16:23",

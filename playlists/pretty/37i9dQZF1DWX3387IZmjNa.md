@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Brent Faiyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,087,713 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,087,750 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 13 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 |
 | 14 | [She Different \(feat\. Hunxho\)](https://open.spotify.com/track/0e2ZX4GqBX7dqU4pyYrraq) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [I Control My Destiny](https://open.spotify.com/album/6fWjCSSbTChMFfqrWSkpun) | 2:52 |
 | 15 | [Late Checkout \(feat\. Hunxho\)](https://open.spotify.com/track/6peNzc5BT61OxAzsFaTH2v) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Late Checkout \(feat\. Hunxho\)](https://open.spotify.com/album/6OAWVN9cVOsf2iTM9bt9Mp) | 3:45 |
-| 16 | [I'll Take Care of You](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:20 |
+| 16 | [I'll Take Care of You \(feat\. Yebba\)](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:20 |
 | 17 | [All to Myself](https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 4:14 |
 | 18 | [Situationship](https://open.spotify.com/track/7LU236iqqnOIbsO2O7LFzK) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Post Traumatic](https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT) | 3:12 |
 | 19 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |

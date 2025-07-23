@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: 순정빌런 \(Villain with a Crush\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-256 songs - 15 hr 21 min
+257 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM) | 4:01 | 2024-01-03 |  |
 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-07-04 |  |
 | [Good bye my love](https://open.spotify.com/track/4sTXT0ArcrA5FHRjQLm6qc) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Webtoon The Red Sleeve \(Original Soundtrack\)](https://open.spotify.com/album/2FxNxbv5XY55H700JbvoK3) | 3:53 | 2022-07-29 | 2023-03-28 |
-| [Goodbye](https://open.spotify.com/track/5eTdQ3neCQ9P7DQPugu5Zt) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [It Was All a Mistake OST Part\. 1 \(Soundtrack\)](https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q) | 3:44 | 2022-08-02 |  |
+| [Goodbye](https://open.spotify.com/track/5eTdQ3neCQ9P7DQPugu5Zt) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [It Was All a Mistake OST Part\. 1 \(Soundtrack\)](https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q) | 3:44 | 2022-08-02 | 2025-07-23 |
 | [Goodbye Now](https://open.spotify.com/track/1bIhEN6lxZTokWS7Qk5DJP) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Goodbye Now \(Love Revolution X TOMORROW X TOGETHER\) \[Original Webtoon Soundtrack\]](https://open.spotify.com/album/6dT50XMh2FjyJOINykOAd3) | 4:36 | 2023-02-22 |  |
 | [Guess I still miss you](https://open.spotify.com/track/4foQqq9ScD8LlcLkxpmPiU) | [CANDO](https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV) | [Coffee Fox Kim Sam Wol OST Part.18 \(Soundtrack\)](https://open.spotify.com/album/3ardg1OkWTrhUc8pH9b18n) | 3:48 | 2023-01-13 | 2024-08-11 |
 | [Haedong\-Milgyo](https://open.spotify.com/track/7B3MG8r4gqsBkJLxMMOiVC) | [Lee Yongkyung](https://open.spotify.com/artist/3BTipU5ILkfdp7hzLHvNSi) | [Exorcism Chronicles: The Beginning \(Original Soundtrack\)](https://open.spotify.com/album/7xl8OYHMoIMrmwO3KYmG6d) | 1:56 | 2025-03-28 | 2025-04-06 |
@@ -257,6 +257,7 @@
 | [온세상이 너](https://open.spotify.com/track/6sWpb7Ked0QP1LuVCKmcJZ) | [CODA BRIDGE](https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt\. 28](https://open.spotify.com/album/6qo1VC3B2K7WaiZZNTa3LF) | 3:39 | 2023-05-15 | 2024-08-11 |
 | [왜 사랑하게 했니](https://open.spotify.com/track/5SIOX7fHJsYXbs1GRBUaE0) | [금나라](https://open.spotify.com/artist/5b7jOv3a6jUtgOmPiCcbEs) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.15](https://open.spotify.com/album/5fkLsPU9j82Jbp32POjrFa) | 3:22 | 2023-02-22 | 2024-05-10 |
 | [우리 한번 만나볼까](https://open.spotify.com/track/1ljt74AIcMTbyvlwsGFS3a) | [다연](https://open.spotify.com/artist/67hQhPoS4fge0kmZcxHr0T) | [바이트미 \(Original Webtoon Soundtrack\) Pt.27](https://open.spotify.com/album/5x98JmAAXWbA5u5G0xrB6r) | 3:09 | 2023-02-22 | 2024-05-16 |
+| [우주를 걷는 시간](https://open.spotify.com/track/1Qfa947k2OBMQElpUxTBjc) | [Kim Si Hun](https://open.spotify.com/artist/6cQfz2WenwiR0MJJp7SGqR) | [우주를 걷는 시간 X 김시훈 \(흑막 공작의 못난이 부인 \(Original Webtoon Soundtrack\)\)](https://open.spotify.com/album/3pditYW8QrxLGd0LpO6mZH) | 3:19 | 2025-07-22 |  |
 | [이 밤을 지나](https://open.spotify.com/track/11KcLs1eRcTGZQ82tJntVx) | [Seo Moon Tak](https://open.spotify.com/artist/3pNYE2NX9kKZJku5jIKe1G) | [I Wasn't the Cinderella OST part 2 \(Soundtrack\)](https://open.spotify.com/album/07sXBVe7RpL5Lux5mqpQ3Y) | 4:18 | 2023-04-17 | 2024-08-11 |
 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 | 2023-05-15 |  |
 | [짧은 순간도 넌](https://open.spotify.com/track/5zzsVSeiAzMBqx2KxYB3fa) | [leeboram](https://open.spotify.com/artist/1gm6Vj5mYCcKdS5P4S9Jl1) | [마피아 보스가 나에게 집착한다 \(Original Webtoon Soundtrack\) Pt\. 16](https://open.spotify.com/album/5ksezvb7eZtCPFCUVvc9XM) | 3:52 | 2024-08-12 | 2024-11-12 |

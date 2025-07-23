@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,434 likes - 69 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,624 likes - 69 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 43 | [Ataraxia](https://open.spotify.com/track/0HICmyLJANMaAjSMSqEZUj) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [You Are Here / Ataraxia](https://open.spotify.com/album/5jvrvQ02mWbzd5rEshxbFQ) | 3:19 |
 | 44 | [its never enough](https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l) | [les](https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi) | [its never enough](https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE) | 1:38 |
 | 45 | [Gazing Back At Earth](https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [Gazing Back At Earth](https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA) | 5:16 |
-| 46 | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm) | 4:47 |
-| 47 | [Spectral](https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 8:09 |
+| 46 | [Spectral](https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 8:09 |
+| 47 | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm) | 4:47 |
 | 48 | [Matèl](https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [Matèl \(original motion picture soundtrack\)](https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT) | 3:24 |
-| 49 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
-| 50 | [Entwined](https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Alter](https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza) | 9:26 |
-| 51 | [Fur and Exhaust](https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS) | [Saapato](https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt), [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Decomposition: Fox on a Highway](https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB) | 3:21 |
+| 49 | [Fur and Exhaust](https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS) | [Saapato](https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt), [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Decomposition: Fox on a Highway](https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB) | 3:21 |
+| 50 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
+| 51 | [Entwined](https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Alter](https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza) | 9:26 |
 | 52 | [Dance of Seasons](https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Dance of Seasons](https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr) | 7:02 |
 | 53 | [cry \- Slowed](https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Kol](https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp) | [cry](https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I) | 2:26 |
 | 54 | [haunted, but it's ambient](https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted, but it's ambient](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 2:16 |
@@ -76,6 +76,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 66 | [Below the House](https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:41 |
 | 67 | [skies](https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [skies](https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw) | 2:09 |
 | 68 | [Inertia](https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Inertia](https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm) | 2:48 |
-| 69 | [Asleep at the Wheel](https://open.spotify.com/track/4TgK5rhGwoKbqkLgdtC6IA) | [Alexander Carson](https://open.spotify.com/artist/60FenJLDBQ18RLeUXVtTOb) | [The Idiot](https://open.spotify.com/album/3FdVZ4nJWJnQVuSgzhAApZ) | 3:57 |
+| 69 | [Polaroid](https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:57 |
 
 Snapshot ID: `aF5wIQAAAABfKyZwb3aPFynuxzCINZdx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Débora Buzas, Isaias Saad
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,603 likes - 79 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,754 likes - 79 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 63 | [Me Enche de Amor \- Acústico](https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1) | [Me Enche de Amor \(Acústico\)](https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f) | 5:09 |
 | 64 | [Eu Prefiro Adorar \- Acústico](https://open.spotify.com/track/6XDaefR7b2nX6seYVYcnQ2) | [Alisson Santos](https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ) | [Voz e Violão \(Acústico\)](https://open.spotify.com/album/6glr1kILyy9z47Uz4BkVFz) | 4:04 |
 | 65 | [Náufrago \- Acústico](https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Náufrago \(Acústico\)](https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ) | 4:54 |
-| 66 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 |
-| 67 | [Ele É Exaltado \- Acústico](https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1) | [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs), [Tavinho](https://open.spotify.com/artist/036P0vXkdyvd37jZ7FbpZW) | [Ele É Exaltado \(Acústico\)](https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI) | 2:15 |
+| 66 | [Ele É Exaltado \- Acústico](https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1) | [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs), [Tavinho](https://open.spotify.com/artist/036P0vXkdyvd37jZ7FbpZW) | [Ele É Exaltado \(Acústico\)](https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI) | 2:15 |
+| 67 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 |
 | 68 | [Quem Sou](https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK) | [PEDRAZUL](https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA), [Antônio](https://open.spotify.com/artist/3XlPRhG9w1NMCPvS1f4dW5), [Jaqueline Nobre](https://open.spotify.com/artist/4Ho1MOw0lfdAfXvH4DVJXd) | [Quem Sou](https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj) | 4:30 |
 | 69 | [Nova Canção](https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP) | [Felipe Valente](https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev) | [Nova Canção](https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq) | 3:26 |
 | 70 | [Adorarei](https://open.spotify.com/track/78emLVVS8NjCN3bksMeKKv) | [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0) | [Acústico, Vol\. 4](https://open.spotify.com/album/1SdnAD8W9tPuULdYDZGuhm) | 3:53 |

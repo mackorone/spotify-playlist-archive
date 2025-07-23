@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,594 likes - 268 songs - 12 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,595 likes - 268 songs - 12 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 117 | [Important](https://open.spotify.com/track/0ouB74KXHucecyHKeE4cgI) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Federal 3X](https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi) | 2:25 |
 | 118 | [Broke His Heart](https://open.spotify.com/track/01teRdn4aIEsPzVT1K6FAf) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:39 |
 | 119 | [Wrong One \(with Gloss Up & Slimeroni feat\. K Carbon, Aleza, Tay Keith\)](https://open.spotify.com/track/52WoZbGVLrEW0w6AGT9wNS) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Wrong One \(with Gloss Up & Slimeroni feat\. K Carbon, Aleza, Tay Keith\)](https://open.spotify.com/album/0TkJa6iqDtjK4ojpfO8PwG) | 2:57 |
-| 120 | [BIG PAPER \(feat\. Cardi B\)](https://open.spotify.com/track/2ES75ADP1RR9TQmYqtDtyB) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 2:39 |
-| 121 | [DomeShuffle](https://open.spotify.com/track/6PnyMfUwWslSSnup9ug9BO) | [STMG DemGuyz](https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq) | [DomeShuffle](https://open.spotify.com/album/36ZiA6JeMcdcuc1uKfrO7m) | 3:54 |
+| 120 | [DomeShuffle](https://open.spotify.com/track/6PnyMfUwWslSSnup9ug9BO) | [STMG DemGuyz](https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq) | [DomeShuffle](https://open.spotify.com/album/36ZiA6JeMcdcuc1uKfrO7m) | 3:54 |
+| 121 | [BIG PAPER \(feat\. Cardi B\)](https://open.spotify.com/track/2ES75ADP1RR9TQmYqtDtyB) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 2:39 |
 | 122 | [FREAKY \(feat\. Cardi B\)](https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:19 |
 | 123 | [Voices](https://open.spotify.com/track/4Ley4LFmFVW2wmk8711W3Q) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [UNDERRATED](https://open.spotify.com/album/3jL7EW4fj5JoT8yqImgUBC) | 3:45 |
 | 124 | [Ight \(feat\. Lil Pump\)](https://open.spotify.com/track/4r3FlaGAHAS6CiMRtizVrk) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [F\*ck Everybody 2](https://open.spotify.com/album/3FiBSFMM9piHRDeqOC9Y74) | 3:25 |
@@ -277,4 +277,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 267 | [Drill Back](https://open.spotify.com/track/3nHfvTt8iRbwnbIySfcfs9) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:12 |
 | 268 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 
-Snapshot ID: `Ab3ZsgAAAADqQl5o8RivzyTArIqsho1h`
+Snapshot ID: `Ab3fZgAAAABS2aVtAUnhLp46h0WPxEOd`

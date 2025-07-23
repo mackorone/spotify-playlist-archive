@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472 likes - 178 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,473 likes - 178 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 104 | [Naked](https://open.spotify.com/track/4h5m6VrCEHBW5yU8Eye5Fr) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:00 |
 | 105 | [Silence](https://open.spotify.com/track/5xRXGn1oGliR7DdL6GSyUA) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \[Extended\]](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 2:36 |
 | 106 | [Either You Love Me Or You Don't \- Live Acoustic](https://open.spotify.com/track/6B3uybgQGoKkKT6k8MIbbm) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Either You Love Me Or You Don't \(Live Acoustic\)](https://open.spotify.com/album/5rJkAXsbIr9T4BCY2R1XsU) | 3:34 |
-| 107 | [I Don’t Wanna Know](https://open.spotify.com/track/5kNtYmydoA9Dd959vVlKBJ) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Astrid S](https://open.spotify.com/album/5iK2afnsB8wwv9WULCE9e7) | 2:56 |
-| 108 | [NIRVANA](https://open.spotify.com/track/5JjWmMZcdx4xtQsyou3BMk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:51 |
+| 107 | [NIRVANA](https://open.spotify.com/track/5JjWmMZcdx4xtQsyou3BMk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:51 |
+| 108 | [I Don’t Wanna Know](https://open.spotify.com/track/5kNtYmydoA9Dd959vVlKBJ) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Astrid S](https://open.spotify.com/album/5iK2afnsB8wwv9WULCE9e7) | 2:56 |
 | 109 | [Something To Hold On To](https://open.spotify.com/track/4dUDznt8BZxEK4CMLF1pqB) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:38 |
 | 110 | [Hurt By You](https://open.spotify.com/track/2p0lczXtvV9R5J9aFwjevJ) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:07 |
 | 111 | [Open Up \(Dis Le Moi\)](https://open.spotify.com/track/2hGOs9C4qwQ3rsTACjbPDA) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Lola Dubini](https://open.spotify.com/artist/2x75QYHxdSfn3aPchQkJGc) | [Open Up \(Dis Le Moi\)](https://open.spotify.com/album/5eymzLKtLKptq8XfFr0fXY) | 2:48 |
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 151 | [Cozy](https://open.spotify.com/track/6c4RrBGXMbzuhj8XwzzWWW) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Cozy](https://open.spotify.com/album/4UMAPxQmkZDLjJYl3tyHu7) | 2:25 |
 | 152 | [Turnham Green](https://open.spotify.com/track/5e5MqxL2TTurVduNLQVaSO) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 3:45 |
 | 153 | [Mistake Like You](https://open.spotify.com/track/53lLOdZjoiUZALcgiAIREE) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 3:30 |
-| 154 | [Just You, Not Now \(Love Theme\)](https://open.spotify.com/track/5Zs9RUmMV7H8VSowoKV6Uu) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 4:25 |
-| 155 | [Booty \(feat\. Paul Russell\)](https://open.spotify.com/track/6DR4zLC0lkDyWbFRvRG9uf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Timeless \(Deluxe\)](https://open.spotify.com/album/5IZjhAtil5TzQSxSt6hHiR) | 2:28 |
+| 154 | [Booty \(feat\. Paul Russell\)](https://open.spotify.com/track/6DR4zLC0lkDyWbFRvRG9uf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Timeless \(Deluxe\)](https://open.spotify.com/album/5IZjhAtil5TzQSxSt6hHiR) | 2:28 |
+| 155 | [Just You, Not Now \(Love Theme\)](https://open.spotify.com/track/5Zs9RUmMV7H8VSowoKV6Uu) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 4:25 |
 | 156 | [Circles](https://open.spotify.com/track/40EouT4GbFzSTyxs447pBv) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Girl Problems](https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq) | 3:41 |
 | 157 | [If the Earth is Spinning \(feat\. Sia\)](https://open.spotify.com/track/24SJ5ugsrMU20yLjZIsxlI) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:13 |
 | 158 | [Dani](https://open.spotify.com/track/3LenEVr696gWMr77z0T9rx) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Now That I've Been Honest](https://open.spotify.com/album/1XVQCnrnScVpeirmTCOZHz) | 2:54 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 177 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 178 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `Ab3ZigAAAADuB2Znt6hArifT1ikGyAEq`
+Snapshot ID: `Ab3fSAAAAABf1Md+xcD6OyRCOZ6gqxIi`

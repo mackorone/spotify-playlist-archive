@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,348 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,356 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 36 | [Dear Dad \- Single Version](https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In London](https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW) | 1:49 |
 | 37 | [Down The Road Apiece](https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:10 |
 | 38 | [Flying Home \- Live At Fillmore Auditorium, San Francisco, CA/1967](https://open.spotify.com/track/3eswSYTPy8wMVWcc05cLpv) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Live At Fillmore Auditorium](https://open.spotify.com/album/5FJCM8i8sWEjra1sXI9mIQ) | 2:41 |
-| 39 | [Downbound Train](https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:49 |
+| 39 | [Wee Wee Hours](https://open.spotify.com/track/2P7FDhmzGh4iJ2ATb7d9oo) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 3:02 |
 | 40 | [Go Bobby Soxer](https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:58 |
-| 41 | [Viva Viva Rock 'N' Roll](https://open.spotify.com/track/32KddGW46wnlpKbl62gqca) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 2:02 |
-| 42 | [Go Go Go](https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry On Stage \(Expanded Edition\)](https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV) | 2:31 |
-| 43 | [Wee Wee Hours](https://open.spotify.com/track/2P7FDhmzGh4iJ2ATb7d9oo) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 3:02 |
-| 44 | [House Of Blue Lights](https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:26 |
-| 45 | [San Francisco Dues](https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 3:25 |
-| 46 | [Swanee River](https://open.spotify.com/track/0wkqsHA4zsWoY5y4EKLfoO) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry](https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW) | 2:38 |
-| 47 | [You Two](https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:09 |
-| 48 | [Still Got The Blues](https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:05 |
-| 49 | [Guitar Boogie](https://open.spotify.com/track/5ryMXRfAlmV5nyNueN3B1q) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 2:19 |
+| 41 | [House Of Blue Lights](https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:26 |
+| 42 | [Viva Viva Rock 'N' Roll](https://open.spotify.com/track/32KddGW46wnlpKbl62gqca) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 2:02 |
+| 43 | [Downbound Train](https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:49 |
+| 44 | [Go Go Go](https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry On Stage \(Expanded Edition\)](https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV) | 2:31 |
+| 45 | [Swanee River](https://open.spotify.com/track/0wkqsHA4zsWoY5y4EKLfoO) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry](https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW) | 2:38 |
+| 46 | [San Francisco Dues](https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 3:25 |
+| 47 | [Still Got The Blues](https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:05 |
+| 48 | [Guitar Boogie](https://open.spotify.com/track/5ryMXRfAlmV5nyNueN3B1q) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 2:19 |
+| 49 | [You Two](https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:09 |
 | 50 | [Bordeaux In My Pirough](https://open.spotify.com/track/3RVH1OQ7AH4A4iac4MzqLT) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 2:37 |
 
-Snapshot ID: `aHwxgAAAAAAh7/bVDmVfeLYKP9UNfzLo`
+Snapshot ID: `aH2DAAAAAAAbiNBFen5TYTpHzl6K0VJP`

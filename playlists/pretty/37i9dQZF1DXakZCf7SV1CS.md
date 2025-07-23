@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,484 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,509 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 22 | [fwb](https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:17 |
 | 23 | [Spoiled little brat](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 3:19 |
 | 24 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
-| 25 | [Friday Night](https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 3:25 |
-| 26 | [Trying](https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Trying](https://open.spotify.com/album/7DJJBKSYGD8CV9va9wdEtL) | 2:00 |
+| 25 | [Trying](https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Trying](https://open.spotify.com/album/7DJJBKSYGD8CV9va9wdEtL) | 2:00 |
+| 26 | [Friday Night](https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 3:25 |
 | 27 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 |
 | 28 | [ringtone](https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:23 |
 | 29 | [ok im cool](https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb) | [osquinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [bleh](https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi) | 2:47 |
@@ -73,16 +73,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 63 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
 | 64 | [Broken Flowers](https://open.spotify.com/track/7Km0ioOI11nh7xGatqrpDj) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Broken Flowers \- EP](https://open.spotify.com/album/6jpADwNRHSXDsvPSzARq00) | 3:23 |
 | 65 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 |
-| 66 | [Donuts](https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [hot\_babe\_93](https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ) | 3:26 |
-| 67 | [popular](https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [search result](https://open.spotify.com/album/1wmIqJmiY5i7frir68g8JP) | 3:33 |
+| 66 | [popular](https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [search result](https://open.spotify.com/album/1wmIqJmiY5i7frir68g8JP) | 3:33 |
+| 67 | [Donuts](https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [hot\_babe\_93](https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ) | 3:26 |
 | 68 | [Second hand embarrassment](https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Second hand embarrassment](https://open.spotify.com/album/68dcU3nkn7E9FTi3NDcZtS) | 2:17 |
 | 69 | [1UL](https://open.spotify.com/track/4sPCKi7i8DAdWc1WpQrmOG) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [1UL](https://open.spotify.com/album/1oNKlvMadv8K1wTBd5MwfC) | 3:25 |
 | 70 | [Drown U](https://open.spotify.com/track/5Qorbb9mOtPHu0adPY2Znz) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [XYZ](https://open.spotify.com/album/5BefoLRwqaVBuQpQkNKiyO) | 2:37 |
 | 71 | [Toy Car](https://open.spotify.com/track/2l46WbxHBP34NUbmHDFFyZ) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [WFLYTD](https://open.spotify.com/album/383qcrfxKodAdnhXGXbdRX) | 3:35 |
 | 72 | [Drop FM](https://open.spotify.com/track/1HRvDMrEj64C6yoJeoH7uu) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Drop FM](https://open.spotify.com/album/3At8XHXUbY0BFdl1WJuteP) | 2:50 |
-| 73 | [127 Hrs in Bed](https://open.spotify.com/track/2yJzPbpErIh83LB99C3XPo) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Dog Show](https://open.spotify.com/album/5mc2TzMXFMy2pTSBDGB2C0) | 1:57 |
+| 73 | [MY WORLD](https://open.spotify.com/track/1yCD7yJFRBy7EIAd5N9xha) | [Kid Trash](https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh) | [HIGHSCHOOLUNDEAD](https://open.spotify.com/album/1PfcUcqehTpxk8EplvJQMc) | 2:49 |
 | 74 | [In My Dreams](https://open.spotify.com/track/3oGqxUlbE5ZoavVQnFN75D) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:27 |
-| 75 | [MY WORLD](https://open.spotify.com/track/1yCD7yJFRBy7EIAd5N9xha) | [Kid Trash](https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh) | [HIGHSCHOOLUNDEAD](https://open.spotify.com/album/1PfcUcqehTpxk8EplvJQMc) | 2:49 |
+| 75 | [127 Hrs in Bed](https://open.spotify.com/track/2yJzPbpErIh83LB99C3XPo) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Dog Show](https://open.spotify.com/album/5mc2TzMXFMy2pTSBDGB2C0) | 1:57 |
 | 76 | [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 |
 | 77 | [Koi](https://open.spotify.com/track/3Lf4PS3RzFb8VpMyJtkOl4) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Riot Boi](https://open.spotify.com/album/5SofOXwfXjZD3PyQZeED8W) | 3:48 |
 | 78 | [Deadstream \- Rostam Version](https://open.spotify.com/track/7ntAb3KnQscHU3beKUI012) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Deadstream \(Rostam Version\)](https://open.spotify.com/album/1uRWSPrJvL0tS1BBuuFnvK) | 3:16 |

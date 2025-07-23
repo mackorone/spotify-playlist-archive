@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Sun's out...and so are you!  Let these inspirational and faith\-filled songs soundtrack your summer fun!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,571 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,610 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 21 | [Highs Get Low](https://open.spotify.com/track/0kKZrM6uJlr9tU1qAuTntD) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Highs Get Low](https://open.spotify.com/album/0KC98S3aACVGZbX3Avxe1f) | 2:54 |
 | 22 | [Meant For Good](https://open.spotify.com/track/3HzNYPLR7TB2PkDak8kVEN) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [HELP!](https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6) | 3:34 |
 | 23 | [FOOTSTOOL](https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [FOOTSTOOL](https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ) | 4:09 |
-| 24 | [Take Over Me](https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Take Over Me](https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd) | 3:11 |
-| 25 | [Love Me Anyway](https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Love Me To Life](https://open.spotify.com/album/2u6oiZH2s25dZlhrJ2J8n9) | 2:30 |
+| 24 | [Love Me Anyway](https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Love Me To Life](https://open.spotify.com/album/2u6oiZH2s25dZlhrJ2J8n9) | 2:30 |
+| 25 | [Take Over Me](https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Take Over Me](https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd) | 3:11 |
 | 26 | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/track/2AQnZjjMM13j7hhyot1hEz) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo) | 3:11 |
 | 27 | [Feeling Good](https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Good Life](https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng) | 3:06 |
 | 28 | [SAY SO](https://open.spotify.com/track/4WVX0krwrhG46SObNcUVaq) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [SAY SO](https://open.spotify.com/album/3fA62shc2rOStugUYC47HG) | 2:15 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 50 | [A Little Light](https://open.spotify.com/track/74LJN9lVkbpVRXnZOLKttx) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [A Little Light](https://open.spotify.com/album/2qlhs0qXQ3PMWzsPHpPwhC) | 3:39 |
 | 51 | [closer](https://open.spotify.com/track/0OXZJHPmDYIyVaJ5nHM8YB) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [awakening](https://open.spotify.com/album/3AjLPYEKAkjxUZPKEKiXlv) | 2:07 |
 | 52 | [Abacus](https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Abacus](https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1) | 2:03 |
-| 53 | [Ancient of Days \(reimagined\)](https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Matias Ruiz](https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm) | [Ancient of Days \(reimagined\)](https://open.spotify.com/album/6n5HgfPa0riif5Lex5n7nm) | 4:01 |
-| 54 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
+| 53 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
+| 54 | [Ancient of Days \(reimagined\)](https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Matias Ruiz](https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm) | [Ancient of Days \(reimagined\)](https://open.spotify.com/album/6n5HgfPa0riif5Lex5n7nm) | 4:01 |
 | 55 | [Made for This](https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Made for This](https://open.spotify.com/album/2VnFANcVDx873wRkZaiuDc) | 3:03 |
 | 56 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
 | 57 | [Hold On Me](https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Hold On Me](https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6) | 2:52 |

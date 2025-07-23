@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,379 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,392 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 18 | [Comme elle vient](https://open.spotify.com/track/1Na29wiC0macG2Va6DXvJ5) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [666.667 Club](https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT) | 2:25 |
 | 19 | [Travel The World](https://open.spotify.com/track/4lGOkkE9PbBpz2lhBmm5Rn) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Wow](https://open.spotify.com/album/1Ihd1Ym29lWWA0XYAXpJMt) | 3:47 |
 | 20 | [Ça me vexe](https://open.spotify.com/track/5LKdAzDeMyMXezSTIHkXcE) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:27 |
-| 21 | [Rimini](https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:43 |
-| 22 | [Le retour à la terre](https://open.spotify.com/track/715zIQcEj658KTFby8MJYp) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Coming Out \(Standard\)](https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm) | 3:52 |
+| 21 | [Le retour à la terre](https://open.spotify.com/track/715zIQcEj658KTFby8MJYp) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Coming Out \(Standard\)](https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm) | 3:52 |
+| 22 | [Rimini](https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:43 |
 | 23 | [Matador](https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Matador](https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7) | 3:06 |
 | 24 | [Va y avoir du sport](https://open.spotify.com/track/1oE5WEHiHjbS4VKOCF6O2F) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH), [Mario Caltado Jr](https://open.spotify.com/artist/5EAlrYI7AwfWNEveCBpwf5) | [Vegas 76](https://open.spotify.com/album/6RMd6TThidQTzQVe2JicLG) | 3:01 |
 | 25 | [Jalouse](https://open.spotify.com/track/0z7ZXj10QgNhvoxGAVqdOT) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:46 |

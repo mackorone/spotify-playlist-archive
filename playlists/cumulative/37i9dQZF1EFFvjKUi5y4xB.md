@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2OQUEjDiPXqgRWrUP6v3mU">Jozzy</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-113 songs - 5 hr 51 min
+114 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Fast Lane](https://open.spotify.com/track/7KdgN7IfTbm6d9gbdtmhpT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Fast Lane](https://open.spotify.com/album/7JWJByms29HHuFhbu4oBZT) | 2:52 | 2025-06-01 |  |
 | [Favorite Shirt](https://open.spotify.com/track/2YIk0lw0WSdsDwWsHKLUtx) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:21 | 2025-06-01 |  |
 | [Feel So Good](https://open.spotify.com/track/25ceDA7wDxIo60C1FuPiKJ) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Feel So Good](https://open.spotify.com/album/4O4kBKYlGvIXdDGuE0mNs7) | 2:48 | 2025-06-01 |  |
-| [Float](https://open.spotify.com/track/3yrb5TaPw3RZLc1e7lxcjS) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Second Nature](https://open.spotify.com/album/265qYIYPxwGIkeGPfuFFBU) | 3:20 | 2025-06-01 |  |
+| [Float](https://open.spotify.com/track/08X9HjCRhcX6in0wiNXIsF) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Second Nature](https://open.spotify.com/album/0SUfKH80GjuKbA5dTWSwkh) | 3:20 | 2025-07-22 |  |
+| [Float](https://open.spotify.com/track/3yrb5TaPw3RZLc1e7lxcjS) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Second Nature](https://open.spotify.com/album/265qYIYPxwGIkeGPfuFFBU) | 3:20 | 2025-06-01 | 2025-07-23 |
 | [Fool’s Gold](https://open.spotify.com/track/1oDlkWpiQjkX2ci6GWnJe5) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu) | [ROCK PAPER SCISSORS: RECUT](https://open.spotify.com/album/6FR9vFhRGgeC3dMIJqtG3T) | 3:01 | 2025-06-01 |  |
 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 | 2025-06-01 |  |
 | [Geek'd \(feat\. Lil Baby\)](https://open.spotify.com/track/3nQQotHU6YtE0Z4kiMNoW8) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 2:13 | 2025-06-01 |  |

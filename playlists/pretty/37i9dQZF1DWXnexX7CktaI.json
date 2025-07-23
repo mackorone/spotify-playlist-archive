@@ -1,6 +1,6 @@
 {
   "description": "forever hits. Cover: Chris Brown",
-  "num_followers": 2176209,
+  "num_followers": 2176443,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
@@ -821,6 +821,22 @@
       "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
     },
     {
+      "added_at": "2022-09-24 17:12:30",
+      "album": {
+        "name": "Fuck The World",
+        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 223629,
+      "name": "Been Away",
+      "url": "https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd"
+    },
+    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "I Used To Know Her",
@@ -839,22 +855,6 @@
       "duration_ms": 252746,
       "name": "Could've Been (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
-    },
-    {
-      "added_at": "2022-09-24 17:12:30",
-      "album": {
-        "name": "Fuck The World",
-        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 223629,
-      "name": "Been Away",
-      "url": "https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
     },
     {
+      "added_at": "2024-08-30 03:02:48",
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 82508,
+      "name": "Best Time",
+      "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
+    },
+    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "While We Wait",
@@ -931,22 +947,6 @@
       "duration_ms": 201787,
       "name": "Nights Like This (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
-    },
-    {
-      "added_at": "2024-08-30 03:02:48",
-      "album": {
-        "name": "Larger Than Life",
-        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 82508,
-      "name": "Best Time",
-      "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
     },
     {
       "added_at": "2022-07-30 03:34:52",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
     },
     {
-      "added_at": "2023-01-26 12:39:45",
-      "album": {
-        "name": "Buckles Laboratories Presents: The Intermission",
-        "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Spread Thin",
-      "url": "https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF"
-    },
-    {
       "added_at": "2022-07-30 03:34:52",
       "album": {
         "name": "Lost",
@@ -1031,6 +1015,22 @@
       "duration_ms": 158420,
       "name": "Trust",
       "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
+    },
+    {
+      "added_at": "2023-01-26 12:39:45",
+      "album": {
+        "name": "Buckles Laboratories Presents: The Intermission",
+        "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Spread Thin",
+      "url": "https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF"
     },
     {
       "added_at": "2022-07-30 03:34:52",
@@ -1377,6 +1377,22 @@
       "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
     },
     {
+      "added_at": "2025-03-28 04:00:41",
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "PERSIAN RUGS",
+      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
+    },
+    {
       "added_at": "2022-12-07 18:37:03",
       "album": {
         "name": "Collide (feat. Tyga)",
@@ -1395,22 +1411,6 @@
       "duration_ms": 260169,
       "name": "Collide (feat. Tyga)",
       "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
-    },
-    {
-      "added_at": "2025-03-28 04:00:41",
-      "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "PERSIAN RUGS",
-      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
     },
     {
       "added_at": "2025-03-28 04:00:41",
@@ -1901,6 +1901,26 @@
       "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
     },
     {
+      "added_at": "2025-06-27 03:52:26",
+      "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 213571,
+      "name": "worst behaviour (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"
+    },
+    {
       "added_at": "2022-07-30 03:46:43",
       "album": {
         "name": "An Evening With Silk Sonic",
@@ -1931,26 +1951,6 @@
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
-    },
-    {
-      "added_at": "2025-06-27 03:52:26",
-      "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 213571,
-      "name": "worst behaviour (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"
     },
     {
       "added_at": "2023-04-20 23:41:52",
@@ -2109,22 +2109,6 @@
       "url": "https://open.spotify.com/track/5cw9s2zGrbny2M2p3WRmGm"
     },
     {
-      "added_at": "2023-09-22 15:15:38",
-      "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
-      },
-      "artists": [
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "22",
-      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
-    },
-    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "Ella Mai",
@@ -2139,6 +2123,22 @@
       "duration_ms": 239341,
       "name": "Boo'd Up",
       "url": "https://open.spotify.com/track/4squZv12LD9M8ooJfoVgZS"
+    },
+    {
+      "added_at": "2023-09-22 15:15:38",
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "22",
+      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
       "added_at": "2024-02-12 20:12:33",
@@ -2421,22 +2421,6 @@
       "url": "https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ"
     },
     {
-      "added_at": "2024-08-30 03:02:48",
-      "album": {
-        "name": "Drugs n' Lullabies",
-        "url": "https://open.spotify.com/album/5RCX37apVif9l79WKxKRl8"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        }
-      ],
-      "duration_ms": 140605,
-      "name": "FLORIDA BABY",
-      "url": "https://open.spotify.com/track/2KGhXTEvSQ2SlW1sH9nb2h"
-    },
-    {
       "added_at": "2022-07-30 03:34:52",
       "album": {
         "name": "Heaux Tales",
@@ -2451,6 +2435,22 @@
       "duration_ms": 229413,
       "name": "Pick Up Your Feelings",
       "url": "https://open.spotify.com/track/2I7CJZLo2nDqGuzZJA1XlZ"
+    },
+    {
+      "added_at": "2024-08-30 03:02:48",
+      "album": {
+        "name": "Drugs n' Lullabies",
+        "url": "https://open.spotify.com/album/5RCX37apVif9l79WKxKRl8"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 140605,
+      "name": "FLORIDA BABY",
+      "url": "https://open.spotify.com/track/2KGhXTEvSQ2SlW1sH9nb2h"
     },
     {
       "added_at": "2023-01-26 12:39:45",
@@ -2495,26 +2495,6 @@
       "duration_ms": 205384,
       "name": "Fly Girl (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
-    },
-    {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Tadow",
-      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
       "added_at": "2022-07-30 03:34:52",
@@ -2571,6 +2551,26 @@
       "duration_ms": 111226,
       "name": "Binz",
       "url": "https://open.spotify.com/track/7yvdp8dqmxExSJwT2fn6Xq"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Tadow",
+      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
       "added_at": "2022-07-30 03:34:52",

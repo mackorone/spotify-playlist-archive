@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Lorena \u00c1lvarez.",
-  "num_followers": 130658,
+  "num_followers": 130664,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -415,26 +415,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Mi jaula de grillos",
-        "url": "https://open.spotify.com/album/5BrZgntyvX1neqlvIyUKst"
-      },
-      "artists": [
-        {
-          "name": "Fran Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 191189,
-      "name": "Mi jaula de grillos",
-      "url": "https://open.spotify.com/track/1PONJvf2CPzBCiKe7qY7c2"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "busco",
         "url": "https://open.spotify.com/album/0fpZeb0EiEydoprxH1llEn"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 181461,
       "name": "busco",
       "url": "https://open.spotify.com/track/7CwXJzNp7VGBxJSTOEvqeK"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Mi jaula de grillos",
+        "url": "https://open.spotify.com/album/5BrZgntyvX1neqlvIyUKst"
+      },
+      "artists": [
+        {
+          "name": "Fran Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 191189,
+      "name": "Mi jaula de grillos",
+      "url": "https://open.spotify.com/track/1PONJvf2CPzBCiKe7qY7c2"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
+        "name": "poquito",
+        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "poquito",
+      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
         "name": "P\u00e9lago. Contos On\u00edricos",
         "url": "https://open.spotify.com/album/4zp861BnETJvqK1lakqcTK"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 216949,
       "name": "Galerna",
       "url": "https://open.spotify.com/track/1XN8nbQNR95DdZhaUJVnze"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "poquito",
-        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "poquito",
-      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Buenos Aires (Live Session)",
-        "url": "https://open.spotify.com/album/2V2b8pF4kKDzuXdD8xKHoH"
-      },
-      "artists": [
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 287691,
-      "name": "Basilio - Live Session",
-      "url": "https://open.spotify.com/track/4RaR66uoOJTnNS3bkW1RDf"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Fins a maig no revisc",
         "url": "https://open.spotify.com/album/0nfAMwME4AZNOSaYuBVdWu"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 167513,
       "name": "Terra banyada",
       "url": "https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Buenos Aires (Live Session)",
+        "url": "https://open.spotify.com/album/2V2b8pF4kKDzuXdD8xKHoH"
+      },
+      "artists": [
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "duration_ms": 287691,
+      "name": "Basilio - Live Session",
+      "url": "https://open.spotify.com/track/4RaR66uoOJTnNS3bkW1RDf"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 229901,
+      "name": "Mareas",
+      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
         "name": "Ojos de Drag\u00f3n",
         "url": "https://open.spotify.com/album/7BaZgUXRH2fFB3ba09wZlk"
       },
@@ -1335,18 +1351,22 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+        "name": "Dicen Que Llora",
+        "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
       },
       "artists": [
         {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+          "name": "Ara Malikian",
+          "url": "https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc"
+        },
+        {
+          "name": "Elena Medina",
+          "url": "https://open.spotify.com/artist/43HmJWkGEJN0FSRND3SBJj"
         }
       ],
-      "duration_ms": 229901,
-      "name": "Mareas",
-      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+      "duration_ms": 209326,
+      "name": "Dicen Que Llora",
+      "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1367,26 +1387,6 @@
       "duration_ms": 245172,
       "name": "Tananan\u00e1",
       "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "Dicen Que Llora",
-        "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
-      },
-      "artists": [
-        {
-          "name": "Ara Malikian",
-          "url": "https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc"
-        },
-        {
-          "name": "Elena Medina",
-          "url": "https://open.spotify.com/artist/43HmJWkGEJN0FSRND3SBJj"
-        }
-      ],
-      "duration_ms": 209326,
-      "name": "Dicen Que Llora",
-      "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
+        "name": "Lucha de gigantes (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q32G7w4yVCokwjR0Fn9su"
+      },
+      "artists": [
+        {
+          "name": "Fran Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe"
+        },
+        {
+          "name": "Carlos Escobedo",
+          "url": "https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA"
+        }
+      ],
+      "duration_ms": 288268,
+      "name": "Lucha de gigantes - En Vivo",
+      "url": "https://open.spotify.com/track/13VfZgdwdjFf3AZRC3zukK"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
         "name": "Lady Luck",
         "url": "https://open.spotify.com/album/4R8gTrFpIhFwbLVIXuL8wi"
       },
@@ -1643,26 +1663,6 @@
       "duration_ms": 207500,
       "name": "Tus Tetas",
       "url": "https://open.spotify.com/track/2Ux7Ps15O6DvXTlYBS2Nr4"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "Lucha de gigantes (En Vivo)",
-        "url": "https://open.spotify.com/album/6Q32G7w4yVCokwjR0Fn9su"
-      },
-      "artists": [
-        {
-          "name": "Fran Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe"
-        },
-        {
-          "name": "Carlos Escobedo",
-          "url": "https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA"
-        }
-      ],
-      "duration_ms": 288268,
-      "name": "Lucha de gigantes - En Vivo",
-      "url": "https://open.spotify.com/track/13VfZgdwdjFf3AZRC3zukK"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Ver o mar",
-        "url": "https://open.spotify.com/album/3byeOf8Va0wvjbUSFYsYxi"
-      },
-      "artists": [
-        {
-          "name": "Guadi Galego",
-          "url": "https://open.spotify.com/artist/4qiV7esJIt796GLcTRO0a4"
-        }
-      ],
-      "duration_ms": 202692,
-      "name": "Ver o mar",
-      "url": "https://open.spotify.com/track/3EOjiURZPpbXoYTE6EOBOn"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Flores Muertas - Exasperaci\u00f3n",
         "url": "https://open.spotify.com/album/40nmbLLwLKedYbZMloYwi5"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 264341,
       "name": "Flores Muertas - Exasperaci\u00f3n",
       "url": "https://open.spotify.com/track/1vqms5cN3piIB1VdH0zsfI"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Ver o mar",
+        "url": "https://open.spotify.com/album/3byeOf8Va0wvjbUSFYsYxi"
+      },
+      "artists": [
+        {
+          "name": "Guadi Galego",
+          "url": "https://open.spotify.com/artist/4qiV7esJIt796GLcTRO0a4"
+        }
+      ],
+      "duration_ms": 202692,
+      "name": "Ver o mar",
+      "url": "https://open.spotify.com/track/3EOjiURZPpbXoYTE6EOBOn"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Qu\u00e9mame el coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5KRapi0NhVyb9vABL02T9Y"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "Qu\u00e9mame el coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2xy0eR38Gt1UN1PM3IzYze"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Para Conquistarnos",
         "url": "https://open.spotify.com/album/3U3Z7R8BOcNjWzjZ8MA81P"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 207647,
       "name": "Para Conquistarnos",
       "url": "https://open.spotify.com/track/4M23bk18inOdFsmW9mRlXO"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Qu\u00e9mame el coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5KRapi0NhVyb9vABL02T9Y"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "Qu\u00e9mame el coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2xy0eR38Gt1UN1PM3IzYze"
     },
     {
       "added_at": "2025-07-18 06:00:06",

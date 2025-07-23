@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > the golden era of r&b and hip\-hop\. cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,359 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,865 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 9 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 |
 | 10 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 |
 | 11 | [Down A\*\* B\*\*ch](https://open.spotify.com/track/4Z69sHFf60gZbdgdd9sBBq) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Chuck](https://open.spotify.com/artist/3nymLh0T0yPM7HtNXzMJeO) | [Pain Is Love](https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf) | 5:31 |
-| 12 | [One More Chance / Stay with Me \- Remix; 2007 Remaster](https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:28 |
-| 13 | [Ready or Not](https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 3:46 |
-| 14 | [All I Have \(feat\. LL Cool J\)](https://open.spotify.com/track/3kgutGd839IOYRl6ekeq6V) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [This Is Me...Then](https://open.spotify.com/album/2NG4OLyeNMwcLqirwwwvs2) | 4:14 |
+| 12 | [All I Have \(feat\. LL Cool J\)](https://open.spotify.com/track/3kgutGd839IOYRl6ekeq6V) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [This Is Me...Then](https://open.spotify.com/album/2NG4OLyeNMwcLqirwwwvs2) | 4:14 |
+| 13 | [One More Chance / Stay with Me \- Remix; 2007 Remaster](https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:28 |
+| 14 | [Ready or Not](https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 3:46 |
 | 15 | [Don't Leave Me](https://open.spotify.com/track/6CtTSC4APeyjYayZBZxAQj) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Cool \- R&B](https://open.spotify.com/album/421reEXYaXldvMHmkWzrvH) | 5:10 |
 | 16 | [Pony](https://open.spotify.com/track/5FR54UnizyI8pE5E9Zb0Dt) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Ginuwine..\. The Bachelor](https://open.spotify.com/album/4cEX2rhss4PBg5EU5Vs0Uj) | 5:24 |
 | 17 | [Are You That Somebody](https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Are You That Somebody](https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD) | 4:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 74 | [No More \(Baby I'ma Do Right\)](https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2) | [3LW](https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa) | [3LW](https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7) | 4:23 |
 | 75 | [All Night Long \(feat\. Puff Daddy\)](https://open.spotify.com/track/4Bh83s84d9YUiuLzeuF24N) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 3:54 |
 
-Snapshot ID: `aHmD1gAAAACrIBYv+N8eJhFv5QztwuaR`
+Snapshot ID: `aH/ADwAAAADGeIJHmLy+RQmikvNuxqee`

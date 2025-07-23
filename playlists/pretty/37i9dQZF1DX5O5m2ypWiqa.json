@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Espinoza Paz en portada. ",
-  "num_followers": 1948853,
+  "num_followers": 1949166,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
+        "name": "Cumpliendo Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/5HNyHXa6z20pWDod3JyLXo"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Aunque Te Duela",
+      "url": "https://open.spotify.com/track/6Ng777bqg8fwA7N7GyUDYm"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
         "name": "Se Fue La Pantera (En Vivo)",
         "url": "https://open.spotify.com/album/0RkWV2GJE6IL6u2ceoiyhx"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 202021,
       "name": "Se Fue La Pantera (En Vivo)",
       "url": "https://open.spotify.com/track/0x9hoejskPyskIfWc0P3uW"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
-        "name": "Cumpliendo Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/5HNyHXa6z20pWDod3JyLXo"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Aunque Te Duela",
-      "url": "https://open.spotify.com/track/6Ng777bqg8fwA7N7GyUDYm"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "El Indio Enamorado",
-        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 188128,
-      "name": "El Indio Enamorado",
-      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "Te Voy A Amar",
         "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 194626,
       "name": "Enhorabuena",
       "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "El Indio Enamorado",
+        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 188128,
+      "name": "El Indio Enamorado",
+      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Hombre De Rancho",
-        "url": "https://open.spotify.com/album/1hU9hxmpX2g09yUFu0Q48L"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Se Me Sigue Notando",
-      "url": "https://open.spotify.com/track/282WLYbREuPDYoaxGVRRmn"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "Con Banda",
         "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 235480,
       "name": "Hasta El D\u00eda De Hoy",
       "url": "https://open.spotify.com/track/7z5jPeiVTBP7bGNk3AY7dg"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "Hombre De Rancho",
+        "url": "https://open.spotify.com/album/1hU9hxmpX2g09yUFu0Q48L"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Se Me Sigue Notando",
+      "url": "https://open.spotify.com/track/282WLYbREuPDYoaxGVRRmn"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 162584,
-      "name": "Inv\u00edtame Un Cigarro",
-      "url": "https://open.spotify.com/track/3SNOoNcM4sHo7TdeUJX1PL"
+      "duration_ms": 231160,
+      "name": "Volvere A Amar",
+      "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 231160,
-      "name": "Volvere A Amar",
-      "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
+      "duration_ms": 162584,
+      "name": "Inv\u00edtame Un Cigarro",
+      "url": "https://open.spotify.com/track/3SNOoNcM4sHo7TdeUJX1PL"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1091,6 +1091,54 @@
       "duration_ms": 182800,
       "name": "Recostada En La Cama",
       "url": "https://open.spotify.com/track/50tmOF513elS7K3HrwYq29"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "Mi Princesa",
+        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 195253,
+      "name": "\u00bfPor Qu\u00e9 Me Ilusionaste?",
+      "url": "https://open.spotify.com/track/6CaVfHpynKOe5SRqjUzBuI"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "La M\u00e1s Deseada",
+      "url": "https://open.spotify.com/track/3KvOyxyr3g0OoxuMc0iXUi"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "El Polo Norte",
+        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 203180,
+      "name": "Cita con un Invento",
+      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1127,70 +1175,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "El Polo Norte",
-        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 203180,
-      "name": "Cita con un Invento",
-      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "La M\u00e1s Deseada",
-      "url": "https://open.spotify.com/track/3KvOyxyr3g0OoxuMc0iXUi"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
-        "name": "Mi Princesa",
-        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 195253,
-      "name": "\u00bfPor Qu\u00e9 Me Ilusionaste?",
-      "url": "https://open.spotify.com/track/6CaVfHpynKOe5SRqjUzBuI"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
-        "name": "En Vida",
-        "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Mi Meta Contigo",
-      "url": "https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "M\u00fasica Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "En Vida",
+        "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Mi Meta Contigo",
+      "url": "https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Ignoraste Mis L\u00e1grimas",
-      "url": "https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "Senzu-Rah",
         "url": "https://open.spotify.com/album/5j4Jj0DflPXIWwrJa3W5hS"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "El Peor De Tus Antojos",
-        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 202786,
-      "name": "Juanita (Flor De Walamo)",
-      "url": "https://open.spotify.com/track/242lyf8OjxomhjLpeas75s"
+      "duration_ms": 174973,
+      "name": "Ignoraste Mis L\u00e1grimas",
+      "url": "https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Ranchero y Mucho M\u00e1s",
-        "url": "https://open.spotify.com/album/1s2tmVGQkMd6nlVaRxqM4W"
+        "name": "El Peor De Tus Antojos",
+        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
       },
       "artists": [
         {
-          "name": "Jessie Morales El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 163066,
-      "name": "Creo Estar Sona\u00f1do",
-      "url": "https://open.spotify.com/track/2pDG22gxgPsxFjh7aVcDHY"
+      "duration_ms": 202786,
+      "name": "Juanita (Flor De Walamo)",
+      "url": "https://open.spotify.com/track/242lyf8OjxomhjLpeas75s"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Hoy y Siempre",
-        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+        "name": "Ranchero y Mucho M\u00e1s",
+        "url": "https://open.spotify.com/album/1s2tmVGQkMd6nlVaRxqM4W"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
         }
       ],
-      "duration_ms": 205813,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX"
+      "duration_ms": 163066,
+      "name": "Creo Estar Sona\u00f1do",
+      "url": "https://open.spotify.com/track/2pDG22gxgPsxFjh7aVcDHY"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1751,18 +1735,18 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Exitos De Banda M-1",
-        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
       },
       "artists": [
         {
-          "name": "Banda M-1",
-          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 175403,
-      "name": "No Se\u00f1or Apache",
-      "url": "https://open.spotify.com/track/4ePWxpZWJeV5ODMNiIFi1C"
+      "duration_ms": 205813,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1783,18 +1767,18 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
+        "name": "Exitos De Banda M-1",
+        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
       },
       "artists": [
         {
-          "name": "Germ\u00e1n Montero",
-          "url": "https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak"
+          "name": "Banda M-1",
+          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
         }
       ],
-      "duration_ms": 133106,
-      "name": "\u00bfQue Nos Separa?",
-      "url": "https://open.spotify.com/track/4jULFslCeq1Wan6nczXoum"
+      "duration_ms": 175403,
+      "name": "No Se\u00f1or Apache",
+      "url": "https://open.spotify.com/track/4ePWxpZWJeV5ODMNiIFi1C"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1851,6 +1835,22 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Montero",
+          "url": "https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak"
+        }
+      ],
+      "duration_ms": 133106,
+      "name": "\u00bfQue Nos Separa?",
+      "url": "https://open.spotify.com/track/4jULFslCeq1Wan6nczXoum"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
         "name": "El Peor De Tus Antojos",
         "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
       },
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Exitos De Banda M-1",
-        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
-      },
-      "artists": [
-        {
-          "name": "Banda M-1",
-          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
-        }
-      ],
-      "duration_ms": 205055,
-      "name": "No Podras",
-      "url": "https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "S\u00f3lo Contigo",
         "url": "https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 228973,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "Exitos De Banda M-1",
+        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
+      },
+      "artists": [
+        {
+          "name": "Banda M-1",
+          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
+        }
+      ],
+      "duration_ms": 205055,
+      "name": "No Podras",
+      "url": "https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Adi\u00f3s Mi Amor",
-      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "Usted Dir\u00e1",
         "url": "https://open.spotify.com/album/4NfRvu5neenFsWyxpG7iuM"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 211906,
       "name": "El Amor En Carro",
       "url": "https://open.spotify.com/track/4c5ikbelwcfSrtfLVhhxsF"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Adi\u00f3s Mi Amor",
+      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
     },
     {
       "added_at": "2024-10-30 18:08:52",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-10-30 18:08:52",
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 189240,
-      "name": "Que Te Entregues Hoy",
-      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
-    },
-    {
-      "added_at": "2024-10-30 18:08:52",
-      "album": {
         "name": "La Historia De Mis Manos",
         "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 140453,
       "name": "El Que Se Enamora Pierde",
       "url": "https://open.spotify.com/track/24Yw6Hoi0sPaJKb16uQZGI"
+    },
+    {
+      "added_at": "2024-10-30 18:08:52",
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 189240,
+      "name": "Que Te Entregues Hoy",
+      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
     },
     {
       "added_at": "2024-10-30 18:08:52",

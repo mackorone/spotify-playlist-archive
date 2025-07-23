@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 688668,
+  "num_followers": 688682,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAADKrcxptBhar3WO2uF6CG/l",
+  "snapshot_id": "aH2DAAAAAAAzZlsUGp0bGk0okp90rbg8",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 273533,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Erotica (PA Version)",
         "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 324733,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 273533,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 280973,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 315466,
       "name": "Get Together",
       "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 280973,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skin (The Collaboration Remix Edit)",
-        "url": "https://open.spotify.com/album/0fSFAAzYxzVcJadi9hzefq"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 318853,
-      "name": "Skin - Peter & Victor's Collaboration Remix Edit",
-      "url": "https://open.spotify.com/track/0zFNdU81Fj9EuYAOuqMQ2X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 241600,
       "name": "Dress You Up",
       "url": "https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skin (The Collaboration Remix Edit)",
+        "url": "https://open.spotify.com/album/0fSFAAzYxzVcJadi9hzefq"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 318853,
+      "name": "Skin - Peter & Victor's Collaboration Remix Edit",
+      "url": "https://open.spotify.com/track/0zFNdU81Fj9EuYAOuqMQ2X"
     },
     {
       "added_at": null,

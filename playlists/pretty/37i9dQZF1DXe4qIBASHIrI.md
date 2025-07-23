@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,692 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,729 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 27 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
 | 28 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
 | 29 | [Quiéreme Mucho](https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:38 |
-| 30 | [16 De Febrero](https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5) | [Emmanuel Del Real](https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM), [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Fuera Del Cielo](https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1) | 3:52 |
-| 31 | [Épocas](https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Épocas](https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M) | 3:41 |
+| 30 | [Épocas](https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Épocas](https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M) | 3:41 |
+| 31 | [16 De Febrero](https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5) | [Emmanuel Del Real](https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM), [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Fuera Del Cielo](https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1) | 3:52 |
 | 32 | [Querer](https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Efecto Dominó](https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb) | 3:37 |
 | 33 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
 | 34 | [Why?](https://open.spotify.com/track/1QyPYtnOVwmprWCjVgPo1Q) | [She's A Tease](https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W) | [Millonaria](https://open.spotify.com/album/3IbOWCON3FLtK3Yp7ZBC6A) | 3:40 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 77 | [Los Bajos Fondos](https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 2:53 |
 | 78 | [Sixteen](https://open.spotify.com/track/6aV7F6tMDe5f2ZZTGrtVXO) | [Los Super Elegantes](https://open.spotify.com/artist/6Aim4Lm9mDZd0W3F8XkF36) | [Los Super Elegantes Ep](https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di) | 3:45 |
 | 79 | [Chubaca Tiene un Secreto](https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [Levantate Sakuraba](https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS) | 3:33 |
-| 80 | [Mi Chica](https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [La Fiesta de la Forma](https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey) | 6:51 |
-| 81 | [No vuelvo más](https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 4:13 |
+| 80 | [No vuelvo más](https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 4:13 |
+| 81 | [Mi Chica](https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [La Fiesta de la Forma](https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey) | 6:51 |
 | 82 | [Lluvia](https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI) | [Baltazar](https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW) | [Lluvia](https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy) | 4:14 |
 | 83 | [Amorfos](https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm) | [Disco Ruido](https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH) | [Sistema Solar](https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi) | 4:09 |
 | 84 | [Dejé de Ser Yo](https://open.spotify.com/track/3r9rdMjTGT9BFv4lhg3UY6) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Bella Época](https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd) | 2:54 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 95 | [Mexa](https://open.spotify.com/track/5jnpABLU8hh8yQ06deN7ff) | [Colores Santos](https://open.spotify.com/artist/5c9epmcDnbf7CBNBdYYdSA) | [Tortugas](https://open.spotify.com/album/0YUKJtumdS4Py8UzUMM4pD) | 3:59 |
 | 96 | [Alexander](https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [The Future Sugar](https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt) | 3:30 |
 | 97 | [Voltage Is O.K.](https://open.spotify.com/track/55ZfCuNYNWYW4l9dLOVfVD) | [Los Fancy Free](https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt) | [Menonita Rock](https://open.spotify.com/album/6djkx8A7bD2sf7LsF42onV) | 3:40 |
-| 98 | [G A Y O](https://open.spotify.com/track/0MnbVZeb6Coo7qD0XCW4EG) | [Vicente Gayo](https://open.spotify.com/artist/6vPWHPVNpVuTdwRsjX7Sch) | [Vicente Gayo](https://open.spotify.com/album/5O7Q7yLnkEoYobBMpEKz9q) | 2:02 |
-| 99 | [No Coke](https://open.spotify.com/track/2WuSTAv5e782MlJvNkzSXU) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 3](https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es) | 2:53 |
+| 98 | [No Coke](https://open.spotify.com/track/2WuSTAv5e782MlJvNkzSXU) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 3](https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es) | 2:53 |
+| 99 | [G A Y O](https://open.spotify.com/track/0MnbVZeb6Coo7qD0XCW4EG) | [Vicente Gayo](https://open.spotify.com/artist/6vPWHPVNpVuTdwRsjX7Sch) | [Vicente Gayo](https://open.spotify.com/album/5O7Q7yLnkEoYobBMpEKz9q) | 2:02 |
 | 100 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
 
 Snapshot ID: `ZpB8owAAAABr47FLhXzj/2tBopu78V5o`

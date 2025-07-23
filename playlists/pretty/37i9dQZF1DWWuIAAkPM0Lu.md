@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Anton Westerlin & Artigeardit, Alex Warren, ILMA og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,770 likes - 93 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,775 likes - 93 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 30 | [F\*k It](https://open.spotify.com/track/1ALPYfHOBhuxYozai5ATPP) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [F\*k It](https://open.spotify.com/album/6ZI4Q0v3NnwiGHiPqxGGhE) | 3:15 |
 | 31 | [First Time On Earth](https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:41 |
 | 32 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
-| 33 | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
+| 33 | [You Can’t Run From Yourself \- From "Kaiju No\. 8"](https://open.spotify.com/track/67u7sw6ZJR8yOyX3dwoeBV) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [You Can’t Run From Yourself \(From "Kaiju No\. 8"\)](https://open.spotify.com/album/4aF5iAJE2ssbjQ2rPrwscv) | 2:16 |
 | 34 | [Autopilot](https://open.spotify.com/track/5fKRNLxtq3Gp93Ewl2GTx7) | [Clara Elise](https://open.spotify.com/artist/4Q7zfZJIS6i3XsAuzLuaEX) | [Autopilot](https://open.spotify.com/album/4ISci7c0hJwqysFwIxzMyH) | 2:25 |
 | 35 | [what a maker](https://open.spotify.com/track/1y4O97y34GQ5TyLaJCHRp9) | [matias](https://open.spotify.com/artist/32BV5tztivPr5o2JmFdUTI) | [what a maker](https://open.spotify.com/album/4JdPYacUWzdvabcJOXkjGb) | 2:45 |
 | 36 | [On Repeat](https://open.spotify.com/track/2B5ZNovTMGMW50ml95BP7L) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [On Repeat](https://open.spotify.com/album/3OofANTV95MpiLS4OXMj3y) | 3:18 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 32943,
+  "num_followers": 32964,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
+        "name": "SuperActivo",
+        "url": "https://open.spotify.com/album/5svWSbY01Vl1THBqEIeJu8"
+      },
+      "artists": [
+        {
+          "name": "Papanegro",
+          "url": "https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm"
+        }
+      ],
+      "duration_ms": 195186,
+      "name": "Cortentrete",
+      "url": "https://open.spotify.com/track/76feuT8zpM7EA0C6l8ZEVp"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
         "name": "Angelitos",
         "url": "https://open.spotify.com/album/4fITmzzlp4Q1ZsxgwVvsfF"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 143157,
       "name": "Angelitos",
       "url": "https://open.spotify.com/track/6hd26gwc4eVVHNqnWUTFBB"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "SuperActivo",
-        "url": "https://open.spotify.com/album/5svWSbY01Vl1THBqEIeJu8"
-      },
-      "artists": [
-        {
-          "name": "Papanegro",
-          "url": "https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm"
-        }
-      ],
-      "duration_ms": 195186,
-      "name": "Cortentrete",
-      "url": "https://open.spotify.com/track/76feuT8zpM7EA0C6l8ZEVp"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
+        "name": "Por el Funk",
+        "url": "https://open.spotify.com/album/1E5ueH8XpK3HUUoAwxHlnf"
+      },
+      "artists": [
+        {
+          "name": "Dostrescinco",
+          "url": "https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Por el Funk",
+      "url": "https://open.spotify.com/track/2cpDLDHAaFOwQ4tjI9BN9l"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
         "name": "La Iguana en el Jard\u00edn",
         "url": "https://open.spotify.com/album/2UVA2n1nfEu6Xemet5VwjH"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 184111,
       "name": "Estoy Contento, Nena",
       "url": "https://open.spotify.com/track/3nN9r5nOaA16ev82clDomt"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "Por el Funk",
-        "url": "https://open.spotify.com/album/1E5ueH8XpK3HUUoAwxHlnf"
-      },
-      "artists": [
-        {
-          "name": "Dostrescinco",
-          "url": "https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Por el Funk",
-      "url": "https://open.spotify.com/track/2cpDLDHAaFOwQ4tjI9BN9l"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Afromama Jams",
-        "url": "https://open.spotify.com/album/5eLwYeM4bFzNhPiIPC4FiC"
-      },
-      "artists": [
-        {
-          "name": "Afromama",
-          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
-        },
-        {
-          "name": "Low97",
-          "url": "https://open.spotify.com/artist/2y0suU2ggVXoogAbliPZD7"
-        }
-      ],
-      "duration_ms": 183651,
-      "name": "Afromama Jams",
-      "url": "https://open.spotify.com/track/1tf8i6ceZQkUSi5LhNXG2q"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Espacios",
         "url": "https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 178000,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Afromama Jams",
+        "url": "https://open.spotify.com/album/5eLwYeM4bFzNhPiIPC4FiC"
+      },
+      "artists": [
+        {
+          "name": "Afromama",
+          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
+        },
+        {
+          "name": "Low97",
+          "url": "https://open.spotify.com/artist/2y0suU2ggVXoogAbliPZD7"
+        }
+      ],
+      "duration_ms": 183651,
+      "name": "Afromama Jams",
+      "url": "https://open.spotify.com/track/1tf8i6ceZQkUSi5LhNXG2q"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Sobrado",
-        "url": "https://open.spotify.com/album/1FOA8jYE6xy7EoezghqF6a"
-      },
-      "artists": [
-        {
-          "name": "Fugazza",
-          "url": "https://open.spotify.com/artist/3FxT0q5mh6vZoE8r3HR1th"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Sobrado",
-      "url": "https://open.spotify.com/track/6ZIyRHUA5KUoSGq4UrttIb"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Nada Ser\u00eda Igual",
         "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
       },
@@ -1351,18 +1335,34 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+        "name": "Sobrado",
+        "url": "https://open.spotify.com/album/1FOA8jYE6xy7EoezghqF6a"
       },
       "artists": [
         {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+          "name": "Fugazza",
+          "url": "https://open.spotify.com/artist/3FxT0q5mh6vZoE8r3HR1th"
         }
       ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
+      "duration_ms": 163250,
+      "name": "Sobrado",
+      "url": "https://open.spotify.com/track/6ZIyRHUA5KUoSGq4UrttIb"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "De Reviente",
+        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 205374,
+      "name": "Pret\u00e9rito Mujer",
+      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "De Reviente",
-        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
       },
       "artists": [
         {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
         }
       ],
-      "duration_ms": 205374,
-      "name": "Pret\u00e9rito Mujer",
-      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2025-07-04 11:50:10",

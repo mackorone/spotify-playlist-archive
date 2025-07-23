@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAC9ZZqNyH7c6FYC8xhmzvhP",
+  "snapshot_id": "aH2DAAAAAADqjmkVlqJFTSpesPqFioWM",
   "tracks": [
     {
       "added_at": null,
@@ -199,42 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imperfecto",
-        "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
-      },
-      "artists": [
-        {
-          "name": "Meri Deal",
-          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 181181,
-      "name": "Imperfecto",
-      "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 143173,
-      "name": "Si T\u00fa Quisieras",
-      "url": "https://open.spotify.com/track/0stFNtovTjxUl4d6YS8iWQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAMN!",
         "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
       },
@@ -251,6 +215,22 @@
       "duration_ms": 117606,
       "name": "DAMN!",
       "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 143173,
+      "name": "Si T\u00fa Quisieras",
+      "url": "https://open.spotify.com/track/0stFNtovTjxUl4d6YS8iWQ"
     },
     {
       "added_at": null,
@@ -284,9 +264,29 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 150760,
-      "name": "Tibio",
-      "url": "https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i"
+      "duration_ms": 181080,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imperfecto",
+        "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
+      },
+      "artists": [
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 181181,
+      "name": "Imperfecto",
+      "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 150760,
+      "name": "Tibio",
+      "url": "https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Demasiado",
         "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 177426,
       "name": "Demasiado",
       "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Viaje Al Amanecer",
-      "url": "https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NMDQH",
         "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 150773,
       "name": "Algo Bien",
       "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Viaje Al Amanecer",
+      "url": "https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 276200,
-      "name": "Como Quisiera",
-      "url": "https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NMDQH",
         "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 190533,
       "name": "Hoy Me Siento Bien",
       "url": "https://open.spotify.com/track/4vYUSG43ap8AfnvlVmHb4Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "Como Quisiera",
+      "url": "https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Cohete",
-      "url": "https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NMDQH",
         "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Cohete",
+      "url": "https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "mucho texto",
         "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
       },
@@ -571,74 +571,6 @@
       "duration_ms": 203280,
       "name": "as\u00ed no funciona",
       "url": "https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiki Tai",
-        "url": "https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu"
-      },
-      "artists": [
-        {
-          "name": "Amuna",
-          "url": "https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152316,
-      "name": "Tiki Tai",
-      "url": "https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 234253,
-      "name": "Vivir En Silencio",
-      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "Mundo Cruel",
-      "url": "https://open.spotify.com/track/4CnYTUUxEoP2NRkXPvrjiq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "mucho texto",
-        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "mucho texto",
-      "url": "https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4"
     },
     {
       "added_at": null,
@@ -663,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Mundo Cruel",
+      "url": "https://open.spotify.com/track/4CnYTUUxEoP2NRkXPvrjiq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breve Espacio",
         "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
       },
@@ -672,9 +620,45 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 290040,
-      "name": "La Buena Lecci\u00f3n",
-      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
+      "duration_ms": 234253,
+      "name": "Vivir En Silencio",
+      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiki Tai",
+        "url": "https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu"
+      },
+      "artists": [
+        {
+          "name": "Amuna",
+          "url": "https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152316,
+      "name": "Tiki Tai",
+      "url": "https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "mucho texto",
+        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "mucho texto",
+      "url": "https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
       "duration_ms": 198306,
       "name": "2D",
       "url": "https://open.spotify.com/track/2ANRO7dJSKAVdtDOOT8VJi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 290040,
+      "name": "La Buena Lecci\u00f3n",
+      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
     },
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Retrofuturismo",
+        "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
+      },
+      "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breve Espacio",
         "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 201200,
       "name": "Alta Joya",
       "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Retrofuturismo",
-        "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
-      },
-      "artists": [
-        {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
     },
     {
       "added_at": null,

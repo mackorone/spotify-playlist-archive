@@ -4,7 +4,7 @@
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: <br/>Ruel\)
 
-574 songs - 1 day 7 hr 3 min
+575 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 | 2024-06-28 | 2024-07-05 |
 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 | 2025-05-08 | 2025-06-20 |
 | [All I Know](https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [All I Know](https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf) | 2:56 | 2025-04-04 | 2025-04-30 |
-| [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 | 2025-06-05 |  |
+| [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 | 2025-06-05 | 2025-07-23 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-03 | 2025-01-24 |
 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 | 2025-06-26 |  |
 | [All Night](https://open.spotify.com/track/1rtUGB9XxwnX64t1k34ldu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [All Night \(with Sophie and the Giants\)](https://open.spotify.com/album/0Ef6pDrlRVps38PdMIgfLV) | 2:00 | 2024-08-22 | 2024-11-01 |
@@ -65,6 +65,7 @@
 | [Before & After You](https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Before & After You](https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc) | 3:48 | 2025-07-03 |  |
 | [Better Half \-Japanese ver.\-](https://open.spotify.com/track/2KG4bJIKnzH7ZOEBmKsevL) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B), [JEONGHAN](https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF) | [Pieces](https://open.spotify.com/album/12oRFHOYrtXpgdjGtUa5NM) | 3:56 | 2025-01-31 | 2025-03-05 |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-12 | 2024-10-11 |
+| [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 | 2025-07-22 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-28 | 2025-02-12 |
 | [Biting My Tongue](https://open.spotify.com/track/3yUuElWQqnDLhxfb3gy1Fm) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/4RYoxrJMKyyIMAdDxO1Io3) | 3:33 | 2024-07-25 | 2024-09-15 |
 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-07-18 | 2024-08-23 |

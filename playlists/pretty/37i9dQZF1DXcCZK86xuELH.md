@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,335 likes - 54 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,355 likes - 54 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

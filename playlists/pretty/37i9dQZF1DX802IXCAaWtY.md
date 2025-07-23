@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,410,365 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,410,893 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 39 | [Stay \- Original Single Edit](https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [La Trec](https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv) | [Stay](https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU) | 3:32 |
 | 40 | [Sweet Dreams](https://open.spotify.com/track/1M3Im6Xjl0QUKbP9VAXxVf) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Best Of La Bouche feat\. Melanie Thornton \(feat\. Melanie Thornton\)](https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN) | 3:24 |
 | 41 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
-| 42 | [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 |
-| 43 | [Flying High \- Radio Mix](https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Flying High](https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a) | 3:46 |
+| 42 | [Flying High \- Radio Mix](https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Flying High](https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a) | 3:46 |
+| 43 | [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 |
 | 44 | [Right in the Night \(Fall in Love with Music\)](https://open.spotify.com/track/6x6G0shZs4Qg4YLfLbhR7z) | [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7), [PLAVKA](https://open.spotify.com/artist/6ALuTGOzgoIUnuiyvqvMW2) | [Tripomatic Fairytales 2001 \(Deluxe Edition\)](https://open.spotify.com/album/24srMCTo4eOojmFVk9iLdt) | 6:04 |
 | 45 | [No More \(I Can't Stand It\)](https://open.spotify.com/track/6JXghpembwocSY1Ky0TxTt) | [Maxx](https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX) | [To The Maxximum](https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG) | 4:41 |
 | 46 | [I Give You My Heart](https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:35 |
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 50 | [Tarzan & Jane](https://open.spotify.com/track/2R3gfyDoBo0uXZSwTiKysZ) | [Toy\-Box](https://open.spotify.com/artist/0BYEp3eyHK9Wsp4t2Ad1R8) | [FanTastic](https://open.spotify.com/album/7pZA63LsjuRCziMYfjEYjf) | 3:06 |
 | 51 | [Max Don't Have Sex With Your Ex](https://open.spotify.com/track/0QLTWps1wXP822ZviasXt7) | [E\-Rotic](https://open.spotify.com/artist/59jv1JLa4XNxXg7uxd04Nu) | [The Best Of](https://open.spotify.com/album/5ydOB7CpJQJmFLKGhtHUCc) | 3:30 |
 | 52 | [Short Dick Man \- Club Mix](https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU) | [Gillette](https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y), [20 Fingers](https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd) | [Short Dick Man](https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT) | 4:50 |
-| 53 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |
-| 54 | [Close to You](https://open.spotify.com/track/70DbNpe8D1QnGi92Mo2MK1) | [Fun Factory](https://open.spotify.com/artist/22p5npx84cXYat7kgGocRZ) | [Back to the Factory](https://open.spotify.com/album/6jEa6t77CNNbH9z2Pax5wn) | 3:38 |
+| 53 | [Close to You](https://open.spotify.com/track/70DbNpe8D1QnGi92Mo2MK1) | [Fun Factory](https://open.spotify.com/artist/22p5npx84cXYat7kgGocRZ) | [Back to the Factory](https://open.spotify.com/album/6jEa6t77CNNbH9z2Pax5wn) | 3:38 |
+| 54 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |
 | 55 | [Superhero](https://open.spotify.com/track/5w24xZUicD68LjnZvtougC) | [Daze](https://open.spotify.com/artist/0EyQK4yQkyCubak3DZydiV) | [Super Heroes](https://open.spotify.com/album/37Zd5cmnjUQBxfkSe05OTp) | 3:24 |
-| 56 | [Heaven](https://open.spotify.com/track/3gpFz8oAnbKQz83jf17yco) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Heaven](https://open.spotify.com/album/3CmchxGaji4Tt4ro5JDIhZ) | 3:39 |
-| 57 | [Plastic Dreams \- Radio Edit](https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 3:25 |
+| 56 | [Plastic Dreams \- Radio Edit](https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 3:25 |
+| 57 | [Heaven](https://open.spotify.com/track/3gpFz8oAnbKQz83jf17yco) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Heaven](https://open.spotify.com/album/3CmchxGaji4Tt4ro5JDIhZ) | 3:39 |
 | 58 | [Rhythm Of Love \- Original Radio Edit](https://open.spotify.com/track/7jGrEtwlejqbmRB5La3Abp) | [DJ Sequenza](https://open.spotify.com/artist/5aS5b54NtRuGHbNol5aSCX) | [Rhythm Of Love](https://open.spotify.com/album/4qGFv8BijBeeg1RVyv3LXC) | 3:01 |
 | 59 | [Show me colours](https://open.spotify.com/track/6xRRr4W5VQiQZOVhXzqtIr) | [Masterboy](https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E) | [Colours](https://open.spotify.com/album/5dmEmXqf6kIJPhTcmhItRd) | 4:29 |
 | 60 | [Happy People \(feat\. Marky Mark\)](https://open.spotify.com/track/4RybvT8lyLLjkWXqmAuZnX) | [Prince Ital Joe](https://open.spotify.com/artist/564Zvn5Nh5FqjSYlmzplB9), [Marky Mark](https://open.spotify.com/artist/30RQEZf8rhlcRNQJ89me3P) | [Life In The Streets](https://open.spotify.com/album/3Vvt7b5z4GVIaK14CfKF88) | 3:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 
 > Songs to enjoy while cooking.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,221 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,220 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 | 10 | [Khodni](https://open.spotify.com/track/4wZwR380rCHpIjS4x4w1J7) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Khodni](https://open.spotify.com/album/1quFJr0a9hUSJE9VESrmm4) | 3:16 |
 | 11 | [لِلّي](https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [لِلّي](https://open.spotify.com/album/5UHmwqHjPdCFXv1Vucwf9z) | 2:43 |
 | 12 | [ليلى \- كايروكي من الاستوديو](https://open.spotify.com/track/5JtRiVuQRKqoEfueP1FVvU) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [كايروكي من الاستوديو](https://open.spotify.com/album/7h5YXGDPG5nC2yNfRe5lLp) | 3:32 |
-| 13 | [بحبك من زمان](https://open.spotify.com/track/3ZSch1osGSHoo0QnVFOqhg) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 5:01 |
-| 14 | [خليك معاها](https://open.spotify.com/track/66xEfcpMCCim4juc0dN4Q2) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 4:18 |
+| 13 | [خليك معاها](https://open.spotify.com/track/66xEfcpMCCim4juc0dN4Q2) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 4:18 |
+| 14 | [بحبك من زمان](https://open.spotify.com/track/3ZSch1osGSHoo0QnVFOqhg) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 5:01 |
 | 15 | [Fady Shewaya](https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mawloud Sanat 80](https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7) | 3:51 |
 | 16 | [Makanak](https://open.spotify.com/track/3MjnP0XuJK48RW49gD8d1k) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Makanak](https://open.spotify.com/album/28JsnP1Tne8lvFXMxPB7Pg) | 3:21 |
 | 17 | [غصن رمان](https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv) | [Maryam Shehab](https://open.spotify.com/artist/0y7SRWlTc47DOTfnCFAaSU) | [غصن رمان](https://open.spotify.com/album/2vNjWCygjXwVn1kForeD8k) | 2:30 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 | 36 | [وصفولى عيونك](https://open.spotify.com/track/5UO3DdPmSQbtRZ20SfC1QW) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [Qesset Hob](https://open.spotify.com/album/2gHjRyeFIB4rji4JuChbGX) | 4:26 |
 | 37 | [Lazim Ahkeelak](https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Lazim Ahkeelak](https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG) | 3:18 |
 | 38 | [Amar 14](https://open.spotify.com/track/2O36wGSupi2wumi360NBxz) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Amar 14](https://open.spotify.com/album/2Wj3ovxVaSyHaBD2yWca1Y) | 3:03 |
-| 39 | [Leeh Tallah](https://open.spotify.com/track/6fJwZCffqldZTmgCloDkCI) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Aashaangy](https://open.spotify.com/album/6AgCloadQiCMgVoirgp5DO) | 3:13 |
-| 40 | [لب الموضوع](https://open.spotify.com/track/77ItYbWD7Wnt1dlkwhE0dU) | [Yazeed Fahad](https://open.spotify.com/artist/2GH6332p4LA0hEd0wXlmfp) | [لب الموضوع](https://open.spotify.com/album/5TcOf5U179gvhT9WYCVZMc) | 3:38 |
+| 39 | [لب الموضوع](https://open.spotify.com/track/77ItYbWD7Wnt1dlkwhE0dU) | [Yazeed Fahad](https://open.spotify.com/artist/2GH6332p4LA0hEd0wXlmfp) | [لب الموضوع](https://open.spotify.com/album/5TcOf5U179gvhT9WYCVZMc) | 3:38 |
+| 40 | [Leeh Tallah](https://open.spotify.com/track/6fJwZCffqldZTmgCloDkCI) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Aashaangy](https://open.spotify.com/album/6AgCloadQiCMgVoirgp5DO) | 3:13 |
 
 Snapshot ID: `Z8GnUwAAAADHULWFgV3CkxrdYgFb/zWQ`

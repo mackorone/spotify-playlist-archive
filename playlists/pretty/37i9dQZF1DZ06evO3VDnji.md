@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,694 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,700 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 43 | [HOUSE OF LUX 2](https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 2:25 |
 | 44 | [Viaje de Amor](https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 5:10 |
 | 45 | [Nuestro Pasado](https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:31 |
-| 46 | [Amigos Para Qué](https://open.spotify.com/track/5KcCiFGD4xEsUBhdglc7Ws) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:14 |
-| 47 | [La Perfecta](https://open.spotify.com/track/4wg1dDQscqUEGBzorYpSx8) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:12 |
+| 46 | [La Perfecta](https://open.spotify.com/track/4wg1dDQscqUEGBzorYpSx8) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:12 |
+| 47 | [Amigos Para Qué](https://open.spotify.com/track/5KcCiFGD4xEsUBhdglc7Ws) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:14 |
 | 48 | [Mientras no Vuelves](https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mientras no Vuelves](https://open.spotify.com/album/73N5MlAHtOwluaDHv5vtLZ) | 3:17 |
 | 49 | [Junto A Ti](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Ti](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 |
-| 50 | [Chilling](https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [De Moda](https://open.spotify.com/album/5kH5Ko4QOTDkihrWaTBhoz) | 2:04 |
+| 50 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 |
 
-Snapshot ID: `aHwxgAAAAABIJnXen3sc8mtINF4Yxw47`
+Snapshot ID: `aH2DAAAAAAAiKk33U3GVQpcIGUFDh7Gr`

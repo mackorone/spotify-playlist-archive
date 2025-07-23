@@ -2,9 +2,9 @@
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista\. ⚡️Kannessa Metallica.
+> Suomen suurin ja paras rock\-soittolista.
 
-265 songs - 17 hr 16 min
+266 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [love u](https://open.spotify.com/track/71TlsrOr3eHZgdDDsNjOhv) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [DEATHMATCH](https://open.spotify.com/album/1KzhjA47EIY2rX2WjKpMBR) | 3:21 | 2025-04-03 |  |
 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 | 2025-04-24 | 2025-05-30 |
 | [Made Of Metal](https://open.spotify.com/track/6YvnVtMnUipiiJXKexq9MI) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Made Of Metal](https://open.spotify.com/album/6iF2V3BdIyQY21w3JyZcSN) | 4:12 | 2024-09-11 | 2024-10-04 |
+| [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2025-07-22 |  |
 | [Mary On A Cross](https://open.spotify.com/track/0LOo3MYjiSzIOLjSd9wZUw) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/7Lidkf6Nkvw5Ts7UbEeS6S) | 4:04 | 2024-12-19 | 2025-03-07 |
 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 | 2024-09-11 | 2025-03-14 |
 | [MelancHoly](https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [MelancHoly](https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf) | 3:38 | 2024-09-19 | 2025-03-21 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Solace Out The Door
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,142 likes - 104 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,180 likes - 104 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aura](https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Aura](https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs) | 5:18 |
 | 2 | [Ano Ba Talaga Tayo? \(feat\. Janine Berdin\)](https://open.spotify.com/track/5cRzSZQQk3LYQke9HS0YE8) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Ano Ba Talaga Tayo? \(feat\. Janine Berdin\)](https://open.spotify.com/album/77qSHcJnJ4xmPlS7VXpyAF) | 4:12 |
-| 3 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
+| 3 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
 | 4 | [Oras Makina](https://open.spotify.com/track/6xlECypWfYEQ1iRf9EctIN) | [Solace Out The Door](https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c) | [Oras Makina](https://open.spotify.com/album/3KtZ4DY9M97qZhZLbIbgO0) | 3:27 |
 | 5 | [boarding gate](https://open.spotify.com/track/0mihFDUGIA5Aybxg0rFXXt) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [the world is so small \(after all\)](https://open.spotify.com/album/3sR3y2tVR2T2gIkXMgsfYY) | 3:46 |
 | 6 | [Sabihin Na](https://open.spotify.com/track/4wV2NZuRVLqjoWW2ehmNrP) | [Dear Dahlia](https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g) | [Sabihin Na](https://open.spotify.com/album/4VLPnVy3Tpjx5VD95ODCpg) | 3:42 |

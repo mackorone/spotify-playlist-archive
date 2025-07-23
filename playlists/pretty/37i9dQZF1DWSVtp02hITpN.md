@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > Big pop songs 📍 BLACKPINK on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,703 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,681 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

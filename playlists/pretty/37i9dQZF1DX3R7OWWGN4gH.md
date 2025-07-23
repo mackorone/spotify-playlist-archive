@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > entering my reputation era
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,378,985 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,379,173 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 89 | [Bubble Pop Electric](https://open.spotify.com/track/4A2vjMnkAWgPVqwl3Xc7pu) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Johnny Vulture](https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy) | [Love\. Angel\. Music\. Baby.](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:42 |
 | 90 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 |
 | 91 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 |
-| 92 | [Candy Store](https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx) | [Jessica Keenan Wynn](https://open.spotify.com/artist/5U2zidY0OdTB6P5axinwOZ), [Alice Lee](https://open.spotify.com/artist/5pESuWfJEKxJdEEhZKFDC5), [Elle McLemore](https://open.spotify.com/artist/6Mbytr4DD854L4vp4J1LEj) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 2:52 |
-| 93 | [overwhelmed](https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Overwhelmed](https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP) | 2:39 |
+| 92 | [overwhelmed](https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Overwhelmed](https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP) | 2:39 |
+| 93 | [Candy Store](https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx) | [Jessica Keenan Wynn](https://open.spotify.com/artist/5U2zidY0OdTB6P5axinwOZ), [Alice Lee](https://open.spotify.com/artist/5pESuWfJEKxJdEEhZKFDC5), [Elle McLemore](https://open.spotify.com/artist/6Mbytr4DD854L4vp4J1LEj) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 2:52 |
 | 94 | [Careful What You Wish For \(the doctor said to\)](https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr) | [Jack Harris](https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr) | [Careful What You Wish For \(the doctor said to\)](https://open.spotify.com/album/3rmfOGqqTeqDhwxPMNELz8) | 3:13 |
 | 95 | [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 |
 | 96 | [People I Don't Like](https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [People I Don't Like](https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA) | 2:22 |

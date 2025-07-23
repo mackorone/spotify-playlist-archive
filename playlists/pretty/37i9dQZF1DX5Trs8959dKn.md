@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,209 likes - 50 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,244 likes - 50 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 14 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 |
 | 15 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 |
 | 16 | [I Love You Lord](https://open.spotify.com/track/6vppF3PlYeIh2eWxee7Z18) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [I Love You Lord](https://open.spotify.com/album/58qYSDYv7H7xsoT8rAi5F7) | 9:15 |
-| 17 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 |
-| 18 | [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 |
+| 17 | [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 |
+| 18 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 |
 | 19 | [Deep and soaking intimate worship](https://open.spotify.com/track/5EWpl1eUGBoOQtd3KDvXYn) | [Ayomide Yusuf](https://open.spotify.com/artist/6d08683Mvz9IwnGXPyAqaS), [Seun Dede](https://open.spotify.com/artist/2EbUQQwtbJqZMhiK23HMFw) | [Deep and soaking intimate worship](https://open.spotify.com/album/6VrrAiCPR74ufE31vQSR3z) | 23:26 |
 | 20 | [Faithful](https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Faithful](https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol) | 6:15 |
 | 21 | [Onise Iyanu \(feat\. Micah Stampley\)](https://open.spotify.com/track/0S7l0Nz5MztXjkNTppknRp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [This God Is Too Good](https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg) | 6:06 |

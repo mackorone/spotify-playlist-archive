@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-248 songs - 12 hr 44 min
+253 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Cry Baby](https://open.spotify.com/track/0KXcvoQDhA4bt2hjhJcN7O) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Cry Baby](https://open.spotify.com/album/71JVxlGlLQHZZ1anFXkeej) | 3:42 | 2024-07-10 |  |
 | [Cry Baby](https://open.spotify.com/track/6oEM7RBZKXEQFxMqIdE7OW) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Cry Baby](https://open.spotify.com/album/4OfD5OiEll8cVpomJcq9GX) | 3:42 | 2024-06-07 | 2024-07-11 |
 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 | 2024-06-07 |  |
+| [Day One](https://open.spotify.com/track/3C2kuuygz0NsPFXuXwSPOf) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Fell In Love With A Cowgirl](https://open.spotify.com/album/0r8Rbvid6FVXBJ6xjBGB07) | 2:26 | 2025-07-22 |  |
 | [Daydream](https://open.spotify.com/track/1TtjtIHYRJuu64TYRzF9U7) | [Chelsea Basham](https://open.spotify.com/artist/59QTiNSNEFBZ2pYKOQe6Jz) | [Youngest](https://open.spotify.com/album/5PU9JkMbxGEtcspgUcgVwj) | 2:47 | 2024-06-07 |  |
 | [Daydream](https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Daydream](https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o) | 2:55 | 2024-06-07 |  |
 | [Dead Weight](https://open.spotify.com/track/20Xmsa6hYHPz9GJP20o33N) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Dead Weight](https://open.spotify.com/album/7lzDHu6RktqEkXkCTZwLql) | 3:04 | 2024-06-07 |  |
@@ -135,12 +136,14 @@
 | [In My Room](https://open.spotify.com/track/6fjK2QHqJybDsUpx0RSPHV) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/47XJwitSW0IxMx1n2jtSbD) | 2:43 | 2024-06-07 | 2025-01-16 |
 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 | 2025-01-15 | 2025-05-26 |
 | [In the End](https://open.spotify.com/track/76ZM2e3QNTG2PXHN6Lhg1h) | [Annika Rose](https://open.spotify.com/artist/3E6TQHXjqR21vX9H0c5mOv) | [In the End](https://open.spotify.com/album/5wqeo9Po4CU3afnDB2RdrU) | 4:14 | 2024-06-07 |  |
+| [INCONSIDERATE AND ADHD](https://open.spotify.com/track/5TKlowPJfykIdsEwUzQ9ky) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Make Yourself At Home](https://open.spotify.com/album/46jHQdOJZaEaunUrtYEqD1) | 2:18 | 2025-07-22 |  |
 | [Indie Movie Zoomout Moment](https://open.spotify.com/track/52L7FseAcbWs0lqTH9Z2IK) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [I Call It Being Human](https://open.spotify.com/album/3FVWw3nnNmvi2XCjKERKMN) | 2:45 | 2024-06-07 |  |
 | [Is It Just Me?](https://open.spotify.com/track/2NFJOmioXKKFVDgVuwn0d7) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Charlie Puth](https://open.spotify.com/album/4gfQSJmCVTC1OFvnTsvxeR) | 2:32 | 2024-06-07 |  |
 | [Is That a Thing?](https://open.spotify.com/track/6KqjmAUPLX2pCNEY0l6Tmi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [DestroyDestroyDestroyDestroy](https://open.spotify.com/album/18SQBnh6bYiDaO5pvpeAzb) | 2:49 | 2024-06-07 |  |
 | [IT'S ALL GOOD](https://open.spotify.com/track/7yaeNwiYNogSFeehnPWwxS) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [THESE ARE THE DAYS](https://open.spotify.com/album/1AJALAmmWZ7esphVavr66K) | 3:03 | 2024-08-29 |  |
 | [It's Over For Me](https://open.spotify.com/track/5hKJVvNU3DOsB5bYOA0WKU) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:21 | 2024-06-07 |  |
 | [it's us](https://open.spotify.com/track/6lUV4RcPycER5am574exMD) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:13 | 2024-06-07 |  |
+| [k bye](https://open.spotify.com/track/3ByurcMfnnP5Af9ezJ4DEa) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 2:09 | 2025-07-22 |  |
 | [Keep Up](https://open.spotify.com/track/6yrOS1fhNjS9QjhoixoLTl) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Steph Jones](https://open.spotify.com/artist/1Aed7wBQiH5LSDMmQWnGZw) | [Keep Up](https://open.spotify.com/album/2I5SvGoQtN6gBaIRJqNuDH) | 3:52 | 2024-06-07 |  |
 | [Knock](https://open.spotify.com/track/2joLxoigsMO8cfWpjgbn0M) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Choosing You](https://open.spotify.com/album/3ic1j88D0kLfyBKotz1RFP) | 3:19 | 2024-06-07 |  |
 | [Kool](https://open.spotify.com/track/5j8B7LSCepVPnwUrNB4pXt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:11 | 2024-06-07 |  |
@@ -164,6 +167,7 @@
 | [Nevermind](https://open.spotify.com/track/2pGb1wcW7PfIJulOQ3G9Cw) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Nevermind](https://open.spotify.com/album/2w0LOmjGXqQ44zGDcW1lAa) | 2:21 | 2024-06-07 |  |
 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 | 2024-06-07 |  |
 | [NO MIND](https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [NO MIND](https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b) | 2:52 | 2024-06-07 |  |
+| [No Time To Talk](https://open.spotify.com/track/2qGj53vRPm0NEKGk6ymawI) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [No Time To Talk](https://open.spotify.com/album/26V9XJc6hx2hOkNHs1zclk) | 2:35 | 2025-07-22 |  |
 | [Nobody Fools Me Twice](https://open.spotify.com/track/15plYeh2zcYmW9CO1M9YzN) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Nobody Fools Me Twice](https://open.spotify.com/album/6rUA6B33RkZkjRJu2pEnAn) | 2:33 | 2024-06-07 |  |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2024-06-07 |  |
 | [Northern Lights](https://open.spotify.com/track/53LrdNXkfGaS6pdyWDype0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:35 | 2025-02-20 |  |
@@ -252,6 +256,7 @@
 | [Whistle](https://open.spotify.com/track/5xeMp4R5G3oj959064Hfai) | [Forever in Your Mind](https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE) | [FIYM](https://open.spotify.com/album/1FCFRUbloFByK8ycXyXvYc) | 2:56 | 2024-06-07 |  |
 | [Why We Try \(feat\. Chelsea Lankes\)](https://open.spotify.com/track/53rXIdH0u7VGg0Pr1H4EGf) | [Matthew Mayfield](https://open.spotify.com/artist/0wqCmiRvTgsobz3AZoadXq), [Chelsea Lankes](https://open.spotify.com/artist/5JZ7uSAWAzTHHVBICdtAc6) | [Wild Eyes](https://open.spotify.com/album/7tdZFWNwAygaTKb5RmPZEA) | 3:52 | 2024-06-07 |  |
 | [Winter Dream](https://open.spotify.com/track/2b974EnbtM8L5L9cR4daoA) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Winter Dream](https://open.spotify.com/album/6X9LXmmicLDCTWLkZfMJnA) | 2:59 | 2024-10-27 |  |
+| [WORSE](https://open.spotify.com/track/3kdGlc9nZofnYVJbp0fLQn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS](https://open.spotify.com/album/7k67om05Y9ceVrxusX2FG8) | 3:13 | 2025-07-22 |  |
 | [wrong girl](https://open.spotify.com/track/5h5gQnX1FaFVYRhReyGQUV) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [heart theory](https://open.spotify.com/album/4aWrYo1HHAwk367y7PJzIm) | 2:36 | 2024-06-07 |  |
 | [WYA](https://open.spotify.com/track/4jLn0A5vbC3Nh7oaL4Cbgc) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Junk](https://open.spotify.com/album/7DfD1AIvTaHaj1HKTmGkQg) | 3:11 | 2024-06-07 |  |
 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 | 2024-06-07 |  |

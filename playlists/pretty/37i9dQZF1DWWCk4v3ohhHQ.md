@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,366 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,418 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 59 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
 | 60 | [Work This Body](https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 2:55 |
 | 61 | [Whataya Want from Me](https://open.spotify.com/track/0zv9bOC2NSMd3Fw2HgM5Xn) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [For Your Entertainment](https://open.spotify.com/album/2OkC5JujOSTWWSx4F5IbLO) | 3:47 |
-| 62 | [Carry On](https://open.spotify.com/track/5xZjfKSfTooDP2rcAgjxlH) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 4:38 |
-| 63 | [HOLD ME TIGHT OR DON’T](https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:30 |
+| 62 | [HOLD ME TIGHT OR DON’T](https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:30 |
+| 63 | [Carry On](https://open.spotify.com/track/5xZjfKSfTooDP2rcAgjxlH) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 4:38 |
 | 64 | [Never Going Back](https://open.spotify.com/track/5k02Wjsu2MdpF3c9VFQD0k) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:17 |
 | 65 | [Coming Home](https://open.spotify.com/track/2MKXUXZIViCGpoFyysFpoj) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Coming Home](https://open.spotify.com/album/0LkISpzsnv3ZIw59oYJTBl) | 3:38 |
 | 66 | [Go Big Or Go Home](https://open.spotify.com/track/1obisQNOcikRvTdStbW3pG) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [What We Live For](https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW) | 2:49 |
 | 67 | [Heartbeat](https://open.spotify.com/track/2atYprr9JsQaLynGhrWhld) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Scars & Stories](https://open.spotify.com/album/1Nu3r7EuveXog0rPvXExSF) | 3:40 |
-| 68 | [Walk On Water](https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:05 |
+| 68 | [Start A Riot](https://open.spotify.com/track/0XDjtRaCmupZbkvvmtFIBB) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Start A Riot](https://open.spotify.com/album/2udv3G6saR7mLvp20Sfvcw) | 3:35 |
 | 69 | [Miracle](https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:26 |
-| 70 | [Start A Riot](https://open.spotify.com/track/0XDjtRaCmupZbkvvmtFIBB) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Start A Riot](https://open.spotify.com/album/2udv3G6saR7mLvp20Sfvcw) | 3:35 |
+| 70 | [Walk On Water](https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:05 |
 | 71 | [The Last Time](https://open.spotify.com/track/600oiqLkQIJ85HvQGIQWvO) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Sunsets & Full Moons](https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM) | 3:16 |
 | 72 | [Re\-arrange](https://open.spotify.com/track/3VAvS6hbvz0mjFT1TmLNdd) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Ellipsis \(Deluxe\)](https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd) | 3:37 |
 | 73 | [Missing You](https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 4:04 |

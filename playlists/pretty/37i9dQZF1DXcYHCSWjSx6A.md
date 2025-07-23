@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 
 > Check out our Kollywood Machos!<br/>Cover : Suriya
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,633 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,659 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 | 44 | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/track/6GFtWQYco30oKpMr5xJwy2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Niranjana Ramanan](https://open.spotify.com/artist/3GB9ulskXfPOQCzw0SNEDx) | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/album/2ftkMy4ttkkdjFsFReYdWg) | 1:03 |
 | 45 | [Petta Paraak \- From "Petta"](https://open.spotify.com/track/3r00sgm8aoOg6RyWR4t8hr) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 3:58 |
 | 46 | [Surviva \(feat\. Yogi B & Mali\)](https://open.spotify.com/track/0jvNc73pMCkyHTchaQu6NV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm), [MALIII](https://open.spotify.com/artist/6l1lQ5WaTFT05RImOssYKg) | [Vivegam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0) | 3:42 |
-| 47 | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/track/4dJrjWtAhEkW7VdPYSL1Ip) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/album/0SOw7gw33kUZHgyZpLY1Jh) | 3:48 |
-| 48 | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/album/3cXSg3K9z6fZAd1lWmqvrc) | 3:22 |
+| 47 | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/album/3cXSg3K9z6fZAd1lWmqvrc) | 3:22 |
+| 48 | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/track/4dJrjWtAhEkW7VdPYSL1Ip) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/album/0SOw7gw33kUZHgyZpLY1Jh) | 3:48 |
 | 49 | [Once Upon a Time](https://open.spotify.com/track/4wCy7erulqUfFQNVaZBD9b) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 2:23 |
 | 50 | [Vikram \- Title Track](https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:38 |
 

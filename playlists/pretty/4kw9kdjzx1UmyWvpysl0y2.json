@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125167,
+  "num_followers": 125160,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUXeT0MXrAl+q8M2LSfT3dDzJGJyX3",
+  "snapshot_id": "AAAUXjHXjW6lxIxaw6Eyl2r2U9xFNDOr",
   "tracks": [
+    {
+      "added_at": "2025-07-22 13:50:55",
+      "album": {
+        "name": "Silk Selections 04",
+        "url": "https://open.spotify.com/album/20uJpcNrCOM2IklWDovUti"
+      },
+      "artists": [
+        {
+          "name": "Jonah Sky",
+          "url": "https://open.spotify.com/artist/7wZOfHqEF90btFX62wYoiw"
+        },
+        {
+          "name": "Ubo",
+          "url": "https://open.spotify.com/artist/5peplsISsiy24ahC61Z5Wr"
+        },
+        {
+          "name": "ENREM",
+          "url": "https://open.spotify.com/artist/0jeFOASu4F9BFVOEim8F6a"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/319hyCCmJGbnqwvQEipZI5"
+    },
     {
       "added_at": "2025-07-21 14:09:01",
       "album": {

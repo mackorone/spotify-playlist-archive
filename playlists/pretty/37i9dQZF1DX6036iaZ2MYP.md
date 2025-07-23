@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: 1da Banton
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,793 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,928 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 5 | [99 \(feat\. Daecolm\)](https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [99 \(feat\. Daecolm\)](https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv) | 4:08 |
 | 6 | [PINDIKINDI](https://open.spotify.com/track/3y2G8ybhosdV2fq3Z04lfp) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [PINDIKINDI](https://open.spotify.com/album/6h3HUDCwCia4MlQROg1VHs) | 3:16 |
 | 7 | [KEROSENE](https://open.spotify.com/track/1o17ns83QiAuDt84MkdJ5K) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [KEROSENE](https://open.spotify.com/album/7jReirhUtytItxVqQGiTg8) | 2:38 |
-| 8 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
+| 8 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
 | 9 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 |
 | 10 | [Sha Na \(with Minz\)](https://open.spotify.com/track/3UArau2uq69qp4UaptkKAL) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Sha Na \(with Minz\)](https://open.spotify.com/album/5wnNA3swYhPsAXWaN03pHO) | 2:50 |
 | 11 | [Mamadona](https://open.spotify.com/track/4bCbJ8BY8LFCh0XQP6rVB9) | [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Mamadona](https://open.spotify.com/album/2MXUTTjpheKu416Ek1e1Ho) | 2:45 |

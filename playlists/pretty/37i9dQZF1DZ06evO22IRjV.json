@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 30468,
+  "num_followers": 30474,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAA87dsAwyg7Ye43Vh4Mpe5o",
+  "snapshot_id": "aH2DAAAAAAClY/hgNIiCIE+0vm1Duq6y",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alright!!!",
-        "url": "https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Alright!!!",
-      "url": "https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOW THE MAX !!!",
         "url": "https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 201453,
       "name": "CHA-LA HEAD-CHA-LA",
       "url": "https://open.spotify.com/track/55OTFD2MPHvPZrHYxGrjbg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alright!!!",
+        "url": "https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "Alright!!!",
+      "url": "https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\uff0310",
-        "url": "https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Steppin' out",
-      "url": "https://open.spotify.com/track/3B2sFt25j7ThJeJtsSaUw3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOW ANIME BEST",
         "url": "https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 233053,
       "name": "1/3\u306e\u7d14\u60c5\u306a\u611f\u60c5",
       "url": "https://open.spotify.com/track/3TCMnZY6XV6xNBDRzl7fdm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\uff0310",
+        "url": "https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Steppin' out",
+      "url": "https://open.spotify.com/track/3B2sFt25j7ThJeJtsSaUw3"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TRIBALYTHM",
+        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 252120,
+      "name": "PENDULUM",
+      "url": "https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAYS",
         "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 222226,
       "name": "Hey!!!",
       "url": "https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TRIBALYTHM",
-        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "PENDULUM",
-      "url": "https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih"
     },
     {
       "added_at": null,
@@ -751,22 +751,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Wanna Die in the Paradise",
-        "url": "https://open.spotify.com/album/5h4vAPIRjEEcZmmA3jiW1h"
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
       },
       "artists": [
-        {
-          "name": "BURNOUT SYNDROMES",
-          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
-        },
         {
           "name": "FLOW",
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 217333,
-      "name": "I Don't Wanna Die in the Paradise",
-      "url": "https://open.spotify.com/track/7v819dMrXP7Tge0CycW5GX"
+      "duration_ms": 242173,
+      "name": "\u9065\u304b\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u97f3\u8272 / Break it down",
+        "url": "https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 278946,
+      "name": "\u97f3\u8272",
+      "url": "https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6"
     },
     {
       "added_at": null,
@@ -791,34 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u97f3\u8272 / Break it down",
-        "url": "https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm"
+        "name": "I Don't Wanna Die in the Paradise",
+        "url": "https://open.spotify.com/album/5h4vAPIRjEEcZmmA3jiW1h"
       },
       "artists": [
+        {
+          "name": "BURNOUT SYNDROMES",
+          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+        },
         {
           "name": "FLOW",
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 278946,
-      "name": "\u97f3\u8272",
-      "url": "https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
-        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 242173,
-      "name": "\u9065\u304b\u5f7c\u65b9",
-      "url": "https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax"
+      "duration_ms": 217333,
+      "name": "I Don't Wanna Die in the Paradise",
+      "url": "https://open.spotify.com/track/7v819dMrXP7Tge0CycW5GX"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30c7\u30a4\u30c9\u30ea\u30fc\u30e0 \u30d3\u30ea\u30fc\u30f4\u30a1\u30fc (Complete Edition)",
-        "url": "https://open.spotify.com/album/0lyTVQuqKMhQDoedVeaxEW"
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 239933,
-      "name": "O2",
-      "url": "https://open.spotify.com/track/3OMBXsuVWujn3bPQXZgHvh"
+      "duration_ms": 243640,
+      "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/6iWvPnegQ0KyaqgpTxmwGc"
     }
   ],
   "unique_name": "This Is FLOW",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,327,507 likes - 100 songs - 4 hr 43 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,327,439 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 11 | [Wait So Long](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 |
 | 12 | [Here In Your Arms](https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Here In Your Arms](https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13) | 2:32 |
 | 13 | [Won’t Be Possible](https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Won’t Be Possible](https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p) | 2:16 |
-| 14 | [Victory Lap Three](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 3:28 |
+| 14 | [Victory Lap Four](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 4:22 |
 | 15 | [Loveless](https://open.spotify.com/track/4aHbNb41EVPHpd7bDlm0qm) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Loveless](https://open.spotify.com/album/3J7RqdFl8npQPq43yPTngZ) | 3:13 |
 | 16 | [Ascension](https://open.spotify.com/track/7uNno3yILVgHirIMZ7JXiq) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Ascension](https://open.spotify.com/album/1MT1keWoVvaTMJJzk2Y5Z3) | 2:52 |
 | 17 | [The Less I Know The Better](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [The Less I Know The Better](https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk) | 2:56 |

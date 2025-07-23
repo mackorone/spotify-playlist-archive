@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,922 likes - 100 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,037 likes - 100 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 14 | [No Hay Otro Nombre](https://open.spotify.com/track/1pd2PDUnXUjLShY22utTzc) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo](https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi) | 7:19 |
 | 15 | [Holy Forever \- Español](https://open.spotify.com/track/0ZxUHxwz0iPK0wnTCetbss) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Holy Forever \(Español\)](https://open.spotify.com/album/7uhv3AlIkn9PgQ4W1CsSLl) | 5:17 |
 | 16 | [Beso Tus Pies](https://open.spotify.com/track/4bEUNyytrIT5dYbeVBsZ5z) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h) | [Uniendo Cielo Y Tierra](https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W) | 4:48 |
-| 17 | [Iglesia](https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [La Compilación](https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe) | 4:05 |
+| 17 | [Mi Refugio](https://open.spotify.com/track/59ThysQrym292KleIzgqci) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 4:46 |
 | 18 | [Tu Presencia Es El Cielo \(Your Presence is Heaven To Me\) \(feat\. Israel Houghton\)](https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Vivo Estás](https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc) | 6:32 |
-| 19 | [Mi Refugio](https://open.spotify.com/track/59ThysQrym292KleIzgqci) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 4:46 |
+| 19 | [Iglesia](https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [La Compilación](https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe) | 4:05 |
 | 20 | [Obra de Tu Amor \- \(Alfarero\)](https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 10:05 |
 | 21 | [Atrae Mi Corazón](https://open.spotify.com/track/7bt8WjPT8Yyy4ovkKkhP9D) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h) | [Toma Tu Lugar](https://open.spotify.com/album/6OhBPWPiBpYb1oro29GLNo) | 7:05 |
 | 22 | [Levántate y Resplandece](https://open.spotify.com/track/5tRy42q9tRNbpIW8vpcIk1) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Levántate Y Resplandece](https://open.spotify.com/album/77GhJZHeuVtEMLzQob3AWk) | 5:47 |

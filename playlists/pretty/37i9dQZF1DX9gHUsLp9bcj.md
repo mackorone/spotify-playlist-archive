@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > The Latin soundtrack of the 50s! Cover: Pedro Infante
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,060 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,085 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 40 | [Mariquilla \(remastered\)](https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45) | [José Luis Y Su Guitarra](https://open.spotify.com/artist/1vCJVeY7z8P4vglJBTScQx) | [José Luis Y Su Guitarra\. Todos Sus Primeros EP's En Discos Philips \(1958\-1960\)](https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw) | 2:36 |
 | 41 | [Cha\-Cha De Pollos \(Cha\-Cha for Chicks\)](https://open.spotify.com/track/69M6PgRULo02mZYzsN7fq5) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Cuban Carnival](https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS) | 2:47 |
 | 42 | [Las Chicas de la Cruz Roja \(Fox Fado\) \- Remastered](https://open.spotify.com/track/6T1nf9LujndhDtbtB4GWN7) | [Ana Maria Parra](https://open.spotify.com/artist/29OGMAPeEHMpTqyfIkxSei) | [Ana Maria Parra, Vol\. 1 \(1958 \- 1961 Remastered\)](https://open.spotify.com/album/5Vcs4PKk0RdULOJOAAZVKG) | 2:14 |
-| 43 | [Cerezo Rosa](https://open.spotify.com/track/2718M9JCtwKzYqMlq4nR6f) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambo](https://open.spotify.com/album/5ziv918FePQggsqRgyxOQb) | 2:36 |
-| 44 | [Luna de miel](https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R) | [Gloria Lasso](https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47) | [Como Acostumbras](https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A) | 2:48 |
+| 43 | [Luna de miel](https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R) | [Gloria Lasso](https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47) | [Como Acostumbras](https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A) | 2:48 |
+| 44 | [Cerezo Rosa](https://open.spotify.com/track/2718M9JCtwKzYqMlq4nR6f) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambo](https://open.spotify.com/album/5ziv918FePQggsqRgyxOQb) | 2:36 |
 | 45 | [Cuban Nightmare](https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 3:03 |
 | 46 | [Agua Limpia Todo](https://open.spotify.com/track/5JnJ9IRO4lO4uCZvIT4CoN) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 2:54 |
 | 47 | ["Siboney"](https://open.spotify.com/track/3VSGjOjXHCIqQlSdIfuCh1) | [Ernesto Lecuona](https://open.spotify.com/artist/4Gd1JXQVbYicIeo2bDNHwL), [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Karl\-Heinz Loges](https://open.spotify.com/artist/1VTpMc0kGScmCzqyur5D6c) | [Plácido Domingo \- Be My Love](https://open.spotify.com/album/1QTrpC4Qsq9fxTWxC3B5sW) | 3:37 |
-| 48 | [Violetas Imperiales](https://open.spotify.com/track/78AoGsUdZx3a4ymoSu465r) | [Luis Mariano](https://open.spotify.com/artist/10bAcf3bvLnCoePvmT7fyG) | [Exitos](https://open.spotify.com/album/25ZE2WbBSvLAJTxRNZqKHY) | 3:31 |
-| 49 | [Buenas noches mi amor \- Remastered](https://open.spotify.com/track/6bQY6gpm9XJlTy9jnSEBGz) | [Gloria Lasso](https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47) | [Grandes éxitos \(Remastered\)](https://open.spotify.com/album/6kyb9QnVg8T3kDUILSb0CQ) | 2:44 |
-| 50 | [Espinita](https://open.spotify.com/track/1rkaB2VH8rNrOTvXSeDW9x) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [Canciones de la Radio, Vol\. 2](https://open.spotify.com/album/1RSIAuaT4DTduD6mtsjRPI) | 2:21 |
+| 48 | [Buenas noches mi amor \- Remastered](https://open.spotify.com/track/6bQY6gpm9XJlTy9jnSEBGz) | [Gloria Lasso](https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47) | [Grandes éxitos \(Remastered\)](https://open.spotify.com/album/6kyb9QnVg8T3kDUILSb0CQ) | 2:44 |
+| 49 | [Violetas Imperiales](https://open.spotify.com/track/78AoGsUdZx3a4ymoSu465r) | [Luis Mariano](https://open.spotify.com/artist/10bAcf3bvLnCoePvmT7fyG) | [Exitos](https://open.spotify.com/album/25ZE2WbBSvLAJTxRNZqKHY) | 3:31 |
+| 50 | [Recordándote](https://open.spotify.com/track/2tTpd7PJ38f1TbwCVcWY0H) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [Grandes Exitos](https://open.spotify.com/album/3QHBD3FDvUCG7sCwiKvIRD) | 1:57 |
 
 Snapshot ID: `ZimJyQAAAABia3SxRwAJ9GMlCy3Nnef7`

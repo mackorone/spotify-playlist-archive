@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Prince Narula
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,821 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,842 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 9 | [3,13](https://open.spotify.com/track/3VaJjYo7tSJ88BY8zXPaqf) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [3,13](https://open.spotify.com/album/2v8u8nllQmZhvSzW0cjb12) | 2:57 |
 | 10 | [Village Flow](https://open.spotify.com/track/7DcrIMUoIyaxIQ05jbE4zQ) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [JayB Singh](https://open.spotify.com/artist/4vUKfkjBUKZ1tzoHG89X8b) | [Village Flow](https://open.spotify.com/album/7bySaar4oQhsod5QaZrjvV) | 2:47 |
 | 11 | [Shoes Off](https://open.spotify.com/track/6yLHfNMsOXkGOacTJdK5zn) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Shoes Off](https://open.spotify.com/album/3DdWTfPbTgtEiP95BDFctH) | 3:49 |
-| 12 | [Jawani](https://open.spotify.com/track/3oscAAxcjgxBGBabso3kqi) | [Tippu Sultan](https://open.spotify.com/artist/5CLrCvwdH6ZNjrcqx4XnzN) | [Jawani](https://open.spotify.com/album/704hfPfdqUbNWyY2Nt20cz) | 2:46 |
+| 12 | [Jawani](https://open.spotify.com/track/3oscAAxcjgxBGBabso3kqi) | [Tippu Sultan](https://open.spotify.com/artist/5CLrCvwdH6ZNjrcqx4XnzN), [Gopii Sandhu](https://open.spotify.com/artist/1sXMhj7tDljjgtvRmyXesl), [Rxmmbo](https://open.spotify.com/artist/3ZBlMiZJCMIlGMTxVjcl2C) | [Jawani](https://open.spotify.com/album/704hfPfdqUbNWyY2Nt20cz) | 2:46 |
 | 13 | [Neal](https://open.spotify.com/track/15a12ZgdElt3S3z9YzXFpz) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 3:20 |
 | 14 | [Indeed](https://open.spotify.com/track/0FqWAlhKIE4u94zpDtlWjw) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Dripster](https://open.spotify.com/album/0ljkVjMHqSVyeNq8sLuCL5) | 2:08 |
 | 15 | [Convo](https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:16 |

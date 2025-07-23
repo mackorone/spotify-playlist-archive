@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Kleber Lucas",
-  "num_followers": 175765,
+  "num_followers": 175812,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
+        "name": "A Voz",
+        "url": "https://open.spotify.com/album/38aul0V7kaGskAx3lUbZlX"
+      },
+      "artists": [
+        {
+          "name": "Hiago Klayton",
+          "url": "https://open.spotify.com/artist/2XcKlKmIFaf5AoOpfrvC6m"
+        }
+      ],
+      "duration_ms": 260113,
+      "name": "A Voz",
+      "url": "https://open.spotify.com/track/5XVHluz8bVctMruCwKIeP4"
+    },
+    {
+      "added_at": "2025-05-23 03:01:26",
+      "album": {
         "name": "Voc\u00ea Adora",
         "url": "https://open.spotify.com/album/3zOL6RLsb5VLKvddXa1xN9"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 219124,
       "name": "Estado de Gra\u00e7a",
       "url": "https://open.spotify.com/track/55uFwkTDMaj8JglcYMHz3T"
-    },
-    {
-      "added_at": "2025-05-23 03:01:26",
-      "album": {
-        "name": "A Voz",
-        "url": "https://open.spotify.com/album/38aul0V7kaGskAx3lUbZlX"
-      },
-      "artists": [
-        {
-          "name": "Hiago Klayton",
-          "url": "https://open.spotify.com/artist/2XcKlKmIFaf5AoOpfrvC6m"
-        }
-      ],
-      "duration_ms": 260113,
-      "name": "A Voz",
-      "url": "https://open.spotify.com/track/5XVHluz8bVctMruCwKIeP4"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -1103,22 +1103,18 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Vida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW"
+        "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2mOlSeea90ofSIub7MyyWw"
       },
       "artists": [
         {
           "name": "Eli Soares",
           "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Ed Motta",
-          "url": "https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D"
         }
       ],
-      "duration_ms": 246737,
-      "name": "O Melhor Pra Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/0B6x3VODbBd7i0g55kQutl"
+      "duration_ms": 249917,
+      "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0i741ZJuqsCBpy4tLavpqA"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2mOlSeea90ofSIub7MyyWw"
+        "name": "Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW"
       },
       "artists": [
         {
           "name": "Eli Soares",
           "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Ed Motta",
+          "url": "https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D"
         }
       ],
-      "duration_ms": 249917,
-      "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0i741ZJuqsCBpy4tLavpqA"
+      "duration_ms": 246737,
+      "name": "O Melhor Pra Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/0B6x3VODbBd7i0g55kQutl"
     },
     {
       "added_at": "2025-05-23 03:01:26",

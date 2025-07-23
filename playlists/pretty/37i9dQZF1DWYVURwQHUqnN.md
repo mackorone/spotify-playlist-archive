@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Jul x GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,152,194 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,152,313 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Corazon](https://open.spotify.com/track/5GU81R3iKvSHkBVQj1KzaV) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Corazon](https://open.spotify.com/album/5kC8331Mp6YWnB7oHQWtXL) | 2:59 |
-| 2 | [Catalina](https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB) | [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Ghost Killer Track](https://open.spotify.com/artist/0pP39ryqTNnZqUeS7rCboX), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Catalina](https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN) | 2:53 |
+| 2 | [Catalina](https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB) | [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Catalina](https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN) | 2:53 |
 | 3 | [LA JEUNESSE DORÉE \(feat\. Killa Predator\)](https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Killa Predator](https://open.spotify.com/artist/2jxihp917o7WCCEN3xZXww) | [LA JEUNESSE DORÉE \(feat\. Killa Predator\)](https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy) | 2:19 |
 | 4 | [C'est toi](https://open.spotify.com/track/7IOPVY182L4piNSp1265fF) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Dégât](https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4) | 2:55 |
 | 5 | [AIR FORCE BLANCHE](https://open.spotify.com/track/6bcDH1OOwuKzfsByqsQKhH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [AIR FORCE BLANCHE](https://open.spotify.com/album/61QF4MUk8qSxpaXlsxjjKQ) | 3:06 |

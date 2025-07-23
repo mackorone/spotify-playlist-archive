@@ -4,7 +4,7 @@
 
 > this playlist could close the hellmouth fr.
 
-2,218 songs - 4 day 19 hr 16 min
+2,219 songs - 4 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1287,6 +1287,7 @@
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-09 | 2023-08-19 |
 | [Money is Everything](https://open.spotify.com/track/0yKuz6SU0TN3ViDaydV9ti) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:02 | 2025-06-19 | 2025-06-27 |
 | [Monster](https://open.spotify.com/track/5zsIR7yDiJFkxvBZothyz0) | [colby!](https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl), [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Monster](https://open.spotify.com/album/4cZXUQ2pr5pILXU6j1Tw2H) | 3:01 | 2025-03-16 | 2025-05-10 |
+| [Monster High Fright Song](https://open.spotify.com/track/7hEKlcqyoj3oOH0jtJveIS) | [Monster High](https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Monster High Fright Song](https://open.spotify.com/album/5xGIPK8xElAjIBhP4TVyE3) | 2:43 | 2025-07-22 |  |
 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 | 2023-04-19 | 2023-10-28 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 | 2023-03-11 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-04 | 2024-11-30 |
@@ -2071,7 +2072,7 @@
 | [W1LL U L13?](https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [W1LL U L13?](https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS) | 2:19 | 2024-12-13 | 2025-01-25 |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2022-03-25 | 2022-08-27 |
 | [Waiting For My Ruca](https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [40oz\. To Freedom](https://open.spotify.com/album/0vuwlanMPucXrYMGnOjhYL) | 2:20 | 2022-11-27 | 2022-12-03 |
-| [WALKING AWAY](https://open.spotify.com/track/0LutvoC2HqCfnaRSjrhtzo) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 4:04 | 2025-07-11 |  |
+| [WALKING AWAY](https://open.spotify.com/track/0LutvoC2HqCfnaRSjrhtzo) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 4:04 | 2025-07-11 | 2025-07-23 |
 | [Wallflower](https://open.spotify.com/track/4uzPfhoVU3Dp9lANiOZtDu) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Wallflower](https://open.spotify.com/album/3hKcxfrvnSiqyqqlzEvcHS) | 2:21 | 2024-09-20 | 2024-09-28 |
 | [Wannabe](https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe](https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1) | 3:37 | 2022-08-12 | 2023-04-29 |
 | [Want Me](https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Want Me](https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND) | 4:18 | 2022-05-04 | 2022-06-22 |

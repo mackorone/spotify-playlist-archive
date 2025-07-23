@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,732 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,749 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 40 | [Weather Bird](https://open.spotify.com/track/3xCM9RLOLPIze3YDbjDi17) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [The Complete Hot Five And Hot Seven Recordings Volume 3](https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn) | 2:44 |
 | 41 | [My Sweet Hunk O' Trash \- Single Version](https://open.spotify.com/track/7vVu4cjI5zfOMlQk4EuCwZ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Sy Oliver & His Orchestra](https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC) | [Louis and Friends](https://open.spotify.com/album/3kEj79dO3HIi8MBPmCO0cx) | 3:20 |
 | 42 | [It Don't Mean a Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 4:00 |
-| 43 | [C’est Si Bon \- Live](https://open.spotify.com/track/2Txs5QunNcvxgWWGAy0Tkz) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Swiss Radio Days Jazz Series Vol\. 48 \(Live At Lausanne 1952\)](https://open.spotify.com/album/0ftmKj5CIkEvw5Gquuf3K3) | 2:55 |
-| 44 | [Give Me Your Kisses](https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 1:59 |
+| 43 | [Give Me Your Kisses](https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 1:59 |
+| 44 | [C’est Si Bon \- Live](https://open.spotify.com/track/2Txs5QunNcvxgWWGAy0Tkz) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Swiss Radio Days Jazz Series Vol\. 48 \(Live At Lausanne 1952\)](https://open.spotify.com/album/0ftmKj5CIkEvw5Gquuf3K3) | 2:55 |
 | 45 | [I Still Get Jealous](https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:13 |
 | 46 | [Cold Cold Heart](https://open.spotify.com/track/1BH2rbqoikRKIZxjMPoqs8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sy Oliver & His Orchestra](https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:10 |
-| 47 | [When It's Sleepy Time Down South](https://open.spotify.com/track/4PuIJl5DnSPDzQ0SpL6CAb) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Armstrong Sparks, Nevada 1964!](https://open.spotify.com/album/0ftx4EQvBU4jcu6DoQKUxm) | 3:00 |
-| 48 | [The Home Fire](https://open.spotify.com/track/0ctsFiWScfDEQqpH03tTrh) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:18 |
-| 49 | [When The Saints Go Marching In](https://open.spotify.com/track/3GMxobnrcay3xl6jJ7fbVz) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Armstrong Of New Orleans](https://open.spotify.com/album/6E7Os1yQXJ6suqGSK5GdzL) | 2:42 |
+| 47 | [The Home Fire](https://open.spotify.com/track/0ctsFiWScfDEQqpH03tTrh) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:18 |
+| 48 | [When The Saints Go Marching In](https://open.spotify.com/track/3GMxobnrcay3xl6jJ7fbVz) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Armstrong Of New Orleans](https://open.spotify.com/album/6E7Os1yQXJ6suqGSK5GdzL) | 2:42 |
+| 49 | [When It's Sleepy Time Down South](https://open.spotify.com/track/4PuIJl5DnSPDzQ0SpL6CAb) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Armstrong Sparks, Nevada 1964!](https://open.spotify.com/album/0ftx4EQvBU4jcu6DoQKUxm) | 3:00 |
 | 50 | [West End Blues](https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Essence of Armstrong](https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv) | 3:19 |
 
-Snapshot ID: `aHwxgAAAAAB3iFzj5/hIGU3UfzD5rXGe`
+Snapshot ID: `aH2DAAAAAAAHrzFQJcj9VPIfNHVouJnD`

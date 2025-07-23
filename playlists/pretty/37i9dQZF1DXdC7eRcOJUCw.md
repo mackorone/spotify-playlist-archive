@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > ¡Las mujeres de la Música Mexicana! Camila Fernández en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,535 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,593 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,12 +98,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 88 | [Por Salud Mental](https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:32 |
 | 89 | [Que te Vaya Bonito](https://open.spotify.com/track/26s97B2gSEVy1vhPmLALmr) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/4BLddBWl0kBBxGQnQQ9Sas) | 2:58 |
 | 90 | [No Entiendo](https://open.spotify.com/track/1TCjgVOmX3zV0nuRQtSoPm) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:44 |
-| 91 | [Seis Pies Abajo](https://open.spotify.com/track/6vToApx4MX31wLOxuKXElW) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Me Saludas A La Tuya](https://open.spotify.com/album/19czamPsw1zWGUQon24S8R) | 2:43 |
+| 91 | [Invitame A Pecar](https://open.spotify.com/track/7MSO3A4OpN8gJuSP3A0GHK) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Invitame A Pecar](https://open.spotify.com/album/0p0lt9i0YCTHsM1pGij9rR) | 2:10 |
 | 92 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/4TETxb4ElOE3AtrNgQO6PO) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 1:53 |
 | 93 | [Sin Llorar](https://open.spotify.com/track/2SDXa6StUCnkkAf73WLQTW) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/7ro6OIb9KnBajgzA2NeBI6) | 3:42 |
 | 94 | [Cielito Lindo](https://open.spotify.com/track/7vzrbp7j0XIHSycOZqgRa0) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto \- 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/5s2FnaKvePvxbVaBt1qZMF) | 3:48 |
 | 95 | [Te Solte La Rienda](https://open.spotify.com/track/5vWniApCCY3PXFHY70pN8Q) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Interpreta A Jose Alfredo Jimenez](https://open.spotify.com/album/2WclW17u0Wwa3DLdSmwekb) | 2:53 |
-| 96 | [Invitame A Pecar](https://open.spotify.com/track/7MSO3A4OpN8gJuSP3A0GHK) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Invitame A Pecar](https://open.spotify.com/album/0p0lt9i0YCTHsM1pGij9rR) | 2:10 |
+| 96 | [Seis Pies Abajo](https://open.spotify.com/track/6vToApx4MX31wLOxuKXElW) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Me Saludas A La Tuya](https://open.spotify.com/album/19czamPsw1zWGUQon24S8R) | 2:43 |
 | 97 | [Paloma Negra](https://open.spotify.com/track/3WfouFwIhmo4p3tgZMUnXM) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 3:27 |
 | 98 | [Llévate](https://open.spotify.com/track/4W1uNL0IaePT0GbbeKXn0G) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Sin Llorar](https://open.spotify.com/album/7ro6OIb9KnBajgzA2NeBI6) | 3:10 |
 | 99 | [Mi Destino Fue Quererte](https://open.spotify.com/track/23kIUnmZJKFElrg5fXlqSR) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [Flor Silvestre](https://open.spotify.com/album/44J9myM94DyzmFhctig6zd) | 3:30 |

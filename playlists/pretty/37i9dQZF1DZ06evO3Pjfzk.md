@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,375 likes - 48 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,437 likes - 48 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 47 | [Comin' To Your City \- ESPN College Gameday](https://open.spotify.com/track/39DjHTMaFuDAMdXtq09fNN) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Comin' To Your City \(ESPN College Gameday\)](https://open.spotify.com/album/0youbMUrUsYtJdNe6v9UdW) | 1:43 |
 | 48 | [Middle Finger](https://open.spotify.com/track/5dTHvmgkPqjYk8aW6LxZos) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:37 |
 
-Snapshot ID: `aHwxgAAAAACf7PzDlEuViDP1etPM2db8`
+Snapshot ID: `aH2DAAAAAAA4BDoUhwu51UE/YhEhLEXj`

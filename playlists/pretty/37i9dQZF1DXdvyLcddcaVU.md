@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,730 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,352 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 |
 | 2 | [Shamballa](https://open.spotify.com/track/00iG5sAUI0DGedMuGvyKo1) | [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P), [Shaydee's](https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg) | [Shamballa](https://open.spotify.com/album/5JD4AQHlyGOR9w0qXtOavf) | 2:27 |
 | 3 | [RUINART](https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [RUINART](https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1) | 2:54 |
-| 4 | [Catalina](https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB) | [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Ghost Killer Track](https://open.spotify.com/artist/0pP39ryqTNnZqUeS7rCboX), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Catalina](https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN) | 2:53 |
+| 4 | [Catalina](https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB) | [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Catalina](https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN) | 2:53 |
 | 5 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 |
 | 6 | [Whine](https://open.spotify.com/track/46vaBmVDzufp98VPJCwtAU) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [Whine](https://open.spotify.com/album/4T7ESVSUoJqjoMIubvcZdB) | 2:44 |
 | 7 | [Ibiza](https://open.spotify.com/track/1n7fqc4bQcxIyxZP2IXVbg) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Jimmy Sax](https://open.spotify.com/artist/3HUXmgW0AIko5psVtQmqWE) | [C'est pas des LOL](https://open.spotify.com/album/6x61ccU1M5NlkpWRJAS2xT) | 3:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The future of metal is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,155 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,190 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 83 | [DODGE A BULLET](https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC) | [Philip Solo](https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [DODGE A BULLET](https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M) | 2:46 |
 | 84 | [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 |
 | 85 | [After You Comes the Flood](https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Nowhere Now Here](https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3) | 5:36 |
-| 86 | [Breaks](https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE) | [Gone Is Gone](https://open.spotify.com/artist/1xLSa28V0Sl3EMyS6CiKIg) | [Breaks](https://open.spotify.com/album/6oV4M5y0UgPJBe1QlQAuFP) | 3:55 |
-| 87 | [On the Floor](https://open.spotify.com/track/2gB0lJPGN3L1ueezkd559u) | [En Minor](https://open.spotify.com/artist/0U3Yu6Px35eYLuP5RkFVdL) | [When the Cold Truth Has Worn Its Miserable Welcome Out](https://open.spotify.com/album/1HS3egJso4pCQiyKvVeerg) | 5:22 |
-| 88 | [White Noise](https://open.spotify.com/track/750uSPGwf5jqU1teWD5cdO) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [White Noise](https://open.spotify.com/album/5XK72MyNkvyWhgclcg0XvF) | 4:37 |
-| 89 | [Bleed Like You \- Merzbow Version](https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2) | [Mortiis](https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Bleed Like You](https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj) | 4:57 |
+| 86 | [Bleed Like You \- Merzbow Version](https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2) | [Mortiis](https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Bleed Like You](https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj) | 4:57 |
+| 87 | [Breaks](https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE) | [Gone Is Gone](https://open.spotify.com/artist/1xLSa28V0Sl3EMyS6CiKIg) | [Breaks](https://open.spotify.com/album/6oV4M5y0UgPJBe1QlQAuFP) | 3:55 |
+| 88 | [On the Floor](https://open.spotify.com/track/2gB0lJPGN3L1ueezkd559u) | [En Minor](https://open.spotify.com/artist/0U3Yu6Px35eYLuP5RkFVdL) | [When the Cold Truth Has Worn Its Miserable Welcome Out](https://open.spotify.com/album/1HS3egJso4pCQiyKvVeerg) | 5:22 |
+| 89 | [White Noise](https://open.spotify.com/track/750uSPGwf5jqU1teWD5cdO) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [White Noise](https://open.spotify.com/album/5XK72MyNkvyWhgclcg0XvF) | 4:37 |
 | 90 | [Only Paradise Lost](https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG) | [vedawave](https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1) | [Only Paradise Lost](https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN) | 4:00 |
-| 91 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 |
-| 92 | [open water](https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [open water](https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT) | 2:06 |
+| 91 | [open water](https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [open water](https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT) | 2:06 |
+| 92 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 |
 | 93 | [Embersólyom \- Kaláka](https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Embersólyom \(Kaláka\)](https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp) | 4:17 |
 | 94 | [Animo](https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Animo](https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd) | 3:15 |
 | 95 | [Spiritual Architecture](https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY) | [Ashbringer](https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2) | [Spiritual Architecture](https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf) | 9:22 |
 | 96 | [Power](https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Power](https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq) | 4:29 |
-| 97 | [EUGH!](https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx) | [SPIIRAL](https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC) | [EUGH!](https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X) | 1:22 |
-| 98 | [Alone Against Flames](https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo) | [Realize](https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL) | [Machine Violence](https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP) | 3:22 |
-| 99 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:40 |
+| 97 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:40 |
+| 98 | [EUGH!](https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx) | [SPIIRAL](https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC) | [EUGH!](https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X) | 1:22 |
+| 99 | [Alone Against Flames](https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo) | [Realize](https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL) | [Machine Violence](https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP) | 3:22 |
 | 100 | [Lifers](https://open.spotify.com/track/0cluQGCBtjYHtVTW9GJayG) | [Culted](https://open.spotify.com/artist/3YT1buuj4AVB8KiSSZdJ8F) | [Lifers](https://open.spotify.com/album/4QorJObMBo6fFHnW8CNcGB) | 4:58 |
 
 Snapshot ID: `ZppwkAAAAAAGhbskxhTX86LUt7DNu4H6`

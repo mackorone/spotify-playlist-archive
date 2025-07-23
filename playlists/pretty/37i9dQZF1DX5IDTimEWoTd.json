@@ -1,6 +1,6 @@
 {
   "description": "Beautiful songs to give you that warm, fuzzy feeling.",
-  "num_followers": 2713646,
+  "num_followers": 2713764,
   "original_name": "Warm Fuzzy Feeling",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 184767,
-      "name": "The Dress",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "Leather",
-        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 211413,
-      "name": "The Painter",
-      "url": "https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 156467,
       "name": "Off My Face",
       "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "The Painter",
+      "url": "https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 257699,
-      "name": "LEVII'S JEANS",
-      "url": "https://open.spotify.com/track/2UDARQiksl207HcSduDpov"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
         "name": "We Sing. We Dance. We Steal Things.",
         "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 189613,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 257699,
+      "name": "LEVII'S JEANS",
+      "url": "https://open.spotify.com/track/2UDARQiksl207HcSduDpov"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
     },
     {
-      "added_at": "2025-05-30 04:00:16",
-      "album": {
-        "name": "Something Beautiful",
-        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 294193,
-      "name": "Golden Burning Sun",
-      "url": "https://open.spotify.com/track/3MYz54tDi5fnEJjjCfPPlZ"
-    },
-    {
       "added_at": "2024-08-12 15:54:12",
       "album": {
         "name": "Atlas: I",
@@ -987,6 +971,22 @@
       "duration_ms": 180086,
       "name": "You Are Enough",
       "url": "https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH"
+    },
+    {
+      "added_at": "2025-05-30 04:00:16",
+      "album": {
+        "name": "Something Beautiful",
+        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 294193,
+      "name": "Golden Burning Sun",
+      "url": "https://open.spotify.com/track/3MYz54tDi5fnEJjjCfPPlZ"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 280853,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/0Tel1fmuCxEFV6wBLXsEdk"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/0Tel1fmuCxEFV6wBLXsEdk"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 241346,
-      "name": "Tenerife Sea",
-      "url": "https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 214293,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 241346,
+      "name": "Tenerife Sea",
+      "url": "https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "everything everywhere always",
-        "url": "https://open.spotify.com/album/73HKMtn4WRIvvm1m2QEAdf"
-      },
-      "artists": [
-        {
-          "name": "elijah woods",
-          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
-        }
-      ],
-      "duration_ms": 147847,
-      "name": "everything everywhere always",
-      "url": "https://open.spotify.com/track/1sd2HaV5RYWN8ly7htaElN"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
         "name": "In Your Love",
         "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 225826,
       "name": "In Your Love",
       "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "everything everywhere always",
+        "url": "https://open.spotify.com/album/73HKMtn4WRIvvm1m2QEAdf"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "duration_ms": 147847,
+      "name": "everything everywhere always",
+      "url": "https://open.spotify.com/track/1sd2HaV5RYWN8ly7htaElN"
     },
     {
       "added_at": "2024-08-12 15:54:12",

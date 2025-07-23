@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,279 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,297 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 39 | [Al Ver Que Te Vas](https://open.spotify.com/track/0DRAf1NW1dBCMJOq5r0RKV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Clásicos](https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y) | 3:28 |
 | 40 | [Falsa y Mancornadora](https://open.spotify.com/track/5lIOB6lSPG1rQtpiQwVyze) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:51 |
 | 41 | [Desde la Otra Mesa](https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 2:57 |
-| 42 | [Amor Ingrato](https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Historicos, Vol\. 2](https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV) | 3:04 |
-| 43 | [Una Mujer Como Tú](https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:09 |
+| 42 | [Una Mujer Como Tú](https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 3:09 |
+| 43 | [Amor Ingrato](https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Historicos, Vol\. 2](https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV) | 3:04 |
 | 44 | [Amor Prohibido](https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [15 Exitos: La Maquina Musical Numero Uno](https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD) | 3:34 |
 | 45 | [Un Engaño Más](https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:52 |
 | 46 | [Tu y las Nubes](https://open.spotify.com/track/2QlvSbUggsc1f6eyta9vnD) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Clásicos](https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 49 | [Las Rejas No Matan](https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Mejor De...](https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ) | 3:22 |
 | 50 | [Aunque Mal Paguen Ellas](https://open.spotify.com/track/5mHjquTjfkoKkFdOiMUWHw) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 3:42 |
 
-Snapshot ID: `aHwxgAAAAADc/17LgXzXblFgpRrvIpsp`
+Snapshot ID: `aH2DAAAAAADycrcEISMueqax2YHwPAaL`

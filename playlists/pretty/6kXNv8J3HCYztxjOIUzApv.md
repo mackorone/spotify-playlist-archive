@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 
 > Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 61,703 likes - 193 songs - 12 hr 4 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 61,693 likes - 193 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Heretic \(feat\. Kim Dracula\)](https://open.spotify.com/track/5Xa0Qdt8xFbjGKvJgb12nt) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Heretic \(feat\. Kim Dracula\)](https://open.spotify.com/album/6PxKrhxm8VXDWL1rFLfeAn) | 3:03 |
+| 1 | [Heretic \(feat\. Kim Dracula\)](https://open.spotify.com/track/5Xa0Qdt8xFbjGKvJgb12nt) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Heretic \(feat\. Kim Dracula\)](https://open.spotify.com/album/6PxKrhxm8VXDWL1rFLfeAn) | 3:03 |
 | 2 | [Wash It All Away \- 2025 VERSION](https://open.spotify.com/track/2u8tKgbOwd6jvWQOIgHvNj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 1\)](https://open.spotify.com/album/695FFcpts92jn4QDbMJPzD) | 3:47 |
 | 3 | [Templars](https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Templars](https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI) | 4:54 |
 | 4 | [Better Days](https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 2:53 |

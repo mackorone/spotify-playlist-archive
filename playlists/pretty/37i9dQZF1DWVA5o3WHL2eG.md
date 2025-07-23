@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: OSKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,508 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,507 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 7 | [vitamin](https://open.spotify.com/track/0yNrKZfMskOElmuadLTI55) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [vitamin](https://open.spotify.com/album/0nP3FfwgJAXHSMgRTQzlkd) | 2:52 |
 | 8 | [La Familia](https://open.spotify.com/track/3TBFqIc6UwpWIL8i0qADMF) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [La Familia](https://open.spotify.com/album/1FiyTkOhZOZYF742GIhHbv) | 2:07 |
 | 9 | [Pole Dance](https://open.spotify.com/track/67gESpBbdx0duQfJrR2S5D) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Pole Dance](https://open.spotify.com/album/0yRJlNI1sT5b58S1ItIGv8) | 2:15 |
-| 10 | [désolée](https://open.spotify.com/track/5SOJjs1aeY92fcL7FJFVAJ) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [désolée](https://open.spotify.com/album/7wxwleCgeuaTJLGFW5LeNS) | 2:31 |
-| 11 | [seele berührst](https://open.spotify.com/track/5AIDqFb0rSQ57uEjvLXoYM) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [seele berührst](https://open.spotify.com/album/36WF7ZWbfoYQFMuJp4IVQ5) | 2:31 |
+| 10 | [seele berührst](https://open.spotify.com/track/5AIDqFb0rSQ57uEjvLXoYM) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [seele berührst](https://open.spotify.com/album/36WF7ZWbfoYQFMuJp4IVQ5) | 2:31 |
+| 11 | [désolée](https://open.spotify.com/track/5SOJjs1aeY92fcL7FJFVAJ) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [désolée](https://open.spotify.com/album/7wxwleCgeuaTJLGFW5LeNS) | 2:31 |
 | 12 | [Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mein schönstes Kleid](https://open.spotify.com/album/74TPidIDXSIp7Fq4hcVeW0) | 2:44 |
 | 13 | [Mittelfinger an die Welt](https://open.spotify.com/track/45tBd0y6RzCjxsvvhXtu36) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Mittelfinger an die Welt](https://open.spotify.com/album/3byCUpqK0ejOy6F31HUG5P) | 3:05 |
 | 14 | [Du bist high](https://open.spotify.com/track/233eDMI71mHNwJAs4ybgiM) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Du bist high](https://open.spotify.com/album/7yYWzxqLM1W6sKHPJMMwxf) | 2:21 |
 | 15 | [Warmes Bier](https://open.spotify.com/track/2VaslJQHk5XoozTiDh61KI) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Warmes Bier](https://open.spotify.com/album/0OtvHIOhqmgIykxsmKSpFS) | 3:30 |
 | 16 | [Slutalarm](https://open.spotify.com/track/2ehLRnItNnf7ZpsVwBpqyL) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Slutalarm](https://open.spotify.com/album/6yaF2YkJKkxpIGmgEpOE7X) | 2:06 |
-| 17 | [Juni](https://open.spotify.com/track/2CN0oT18drL0GQE37L3L3L) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Juni](https://open.spotify.com/album/6kl1JA5GLEHeQI23ZBPPBP) | 2:45 |
-| 18 | [Kompliziert](https://open.spotify.com/track/1VDDgtiLnisslIs7eW05kC) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Kompliziert](https://open.spotify.com/album/7aT3DsuT9rOxUsJ27RIjO2) | 2:16 |
+| 17 | [Kompliziert](https://open.spotify.com/track/1VDDgtiLnisslIs7eW05kC) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Kompliziert](https://open.spotify.com/album/7aT3DsuT9rOxUsJ27RIjO2) | 2:16 |
+| 18 | [Juni](https://open.spotify.com/track/2CN0oT18drL0GQE37L3L3L) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Juni](https://open.spotify.com/album/6kl1JA5GLEHeQI23ZBPPBP) | 2:45 |
 | 19 | [Monster](https://open.spotify.com/track/7BiS3n0pLB3ls0Oqj2Awss) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Monster](https://open.spotify.com/album/5yWCQzEieyTdAkNZjEhF0q) | 3:21 |
 | 20 | [Ghost](https://open.spotify.com/track/15CXWtEaOlVG2Yj5L77zc8) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Ghost](https://open.spotify.com/album/6J5ilFhuhNabaHEOgc20IP) | 3:56 |
 | 21 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 36 | [Streets of Berlin](https://open.spotify.com/track/0Oe6sobbB0xxgUDC3KVQ4X) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Streets of Berlin EP](https://open.spotify.com/album/5JE10TDCkiBGXbflnlTvOh) | 6:42 |
 | 37 | [Cherry Blossom](https://open.spotify.com/track/1WzuSv5vdHtvA3hQNv0RJg) | [animat](https://open.spotify.com/artist/5LcZJ5jDHXAKIrnz4CuVhb) | [Cherry Blossom](https://open.spotify.com/album/3FzKM5OSyhtpI1EkVGr4O8) | 3:12 |
 | 38 | [haha](https://open.spotify.com/track/7dFNL1uMQihYMxXRArmjV9) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [haha](https://open.spotify.com/album/2BPr6OlHJj2zKIvbbnWU1d) | 2:01 |
-| 39 | [Letter To The Editor](https://open.spotify.com/track/3KuIF2KOosGKAcFMEhvpAc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Letter To The Editor](https://open.spotify.com/album/57SkR3tCeZlq53f0zHlgIf) | 3:13 |
-| 40 | [Bla Bla Bla](https://open.spotify.com/track/5zsxFwHUQoGxxyR2nUB4oS) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Bla Bla Bla](https://open.spotify.com/album/3JtobBe3m80QzFgji9WuJc) | 2:05 |
-| 41 | [Starstruck](https://open.spotify.com/track/59kBx7BfPEANrVoO20v9cq) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 2:57 |
-| 42 | [es tut weh](https://open.spotify.com/track/5Id40ks3QNsSn3Pffw10vZ) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [es tut weh](https://open.spotify.com/album/2DgX7i7f6OGPjPhGDNGUKz) | 3:05 |
+| 39 | [Bla Bla Bla](https://open.spotify.com/track/5zsxFwHUQoGxxyR2nUB4oS) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Bla Bla Bla](https://open.spotify.com/album/3JtobBe3m80QzFgji9WuJc) | 2:05 |
+| 40 | [Starstruck](https://open.spotify.com/track/59kBx7BfPEANrVoO20v9cq) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [My world, My love, Paris](https://open.spotify.com/album/5JfXfZ4EsG8JhWobtgjAdQ) | 2:57 |
+| 41 | [Letter To The Editor](https://open.spotify.com/track/3KuIF2KOosGKAcFMEhvpAc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Letter To The Editor](https://open.spotify.com/album/57SkR3tCeZlq53f0zHlgIf) | 3:13 |
+| 42 | [Orangenbäume](https://open.spotify.com/track/5CcdmuLOtphmDxyXaPFqL5) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Orangenbäume](https://open.spotify.com/album/1pB1qhaiDTFkGqbjt6RJ98) | 2:04 |
 | 43 | [glow up](https://open.spotify.com/track/4g2xUjGBedq9hlWeT7oS87) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [glow up](https://open.spotify.com/album/2vpzwXCgLvkWEsPGpxzUTi) | 1:59 |
-| 44 | [Orangenbäume](https://open.spotify.com/track/5CcdmuLOtphmDxyXaPFqL5) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Orangenbäume](https://open.spotify.com/album/1pB1qhaiDTFkGqbjt6RJ98) | 2:04 |
+| 44 | [es tut weh](https://open.spotify.com/track/5Id40ks3QNsSn3Pffw10vZ) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [es tut weh](https://open.spotify.com/album/2DgX7i7f6OGPjPhGDNGUKz) | 3:05 |
 | 45 | [Times We Will Remember](https://open.spotify.com/track/7bcPwgIrVMXxGYipvmOrie) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Times We Will Remember](https://open.spotify.com/album/34OBEZqZc7i8CzRS3edGeZ) | 3:11 |
 | 46 | [Come Home](https://open.spotify.com/track/7sl0ahXt283MvN1Igktf6K) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Come Home](https://open.spotify.com/album/3d8EZYis9iz5EWU2ptVD4z) | 3:13 |
 | 47 | [Silicone Mold](https://open.spotify.com/track/5laawOQLotQGCjP2IP5Yz6) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Silicone Mold](https://open.spotify.com/album/46rTeYoEFFpluo0Sq0JZdY) | 2:26 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 178683,
+  "num_followers": 178729,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAABtqWbZPfRBNEw/mEtHOdsk",
+  "snapshot_id": "aH2DAAAAAABQF8Vg3N+j2p1iNYgkA0sq",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Machine",
-        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 160866,
-      "name": "Hell Bent for Leather",
-      "url": "https://open.spotify.com/track/0SEd8AUWG3j4YFsFEVmGjW"
+      "duration_ms": 39920,
+      "name": "The Hellion",
+      "url": "https://open.spotify.com/track/7LLQxMvAYOpoC2PKe3VQn5"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming For Vengeance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+        "name": "Killing Machine",
+        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 39920,
-      "name": "The Hellion",
-      "url": "https://open.spotify.com/track/7LLQxMvAYOpoC2PKe3VQn5"
+      "duration_ms": 160866,
+      "name": "Hell Bent for Leather",
+      "url": "https://open.spotify.com/track/0SEd8AUWG3j4YFsFEVmGjW"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
       "duration_ms": 289040,
       "name": "Between the Hammer & the Anvil",
       "url": "https://open.spotify.com/track/3DfE7Ysl7H40yDbGFSuzPU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killing Machine",
-        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Before the Dawn",
-      "url": "https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE"
     },
     {
       "added_at": null,
@@ -439,6 +423,22 @@
       "duration_ms": 278067,
       "name": "Gates of Hell",
       "url": "https://open.spotify.com/track/2XGcAtlohzN8uDENnWT9k1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Machine",
+        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Before the Dawn",
+      "url": "https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE"
     },
     {
       "added_at": null,

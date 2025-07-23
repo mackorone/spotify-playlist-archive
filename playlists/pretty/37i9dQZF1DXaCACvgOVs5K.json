@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2025. See you on the dancefloor.",
-  "num_followers": 729911,
+  "num_followers": 732507,
   "original_name": "Ibiza 2025",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2025-07-03 23:00:23",
       "album": {
+        "name": "Contesto",
+        "url": "https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA"
+      },
+      "artists": [
+        {
+          "name": "Massuma",
+          "url": "https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF"
+        },
+        {
+          "name": "DOSAMIS",
+          "url": "https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K"
+        }
+      ],
+      "duration_ms": 206829,
+      "name": "Contesto",
+      "url": "https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva"
+    },
+    {
+      "added_at": "2025-07-03 23:00:23",
+      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 221190,
       "name": "Go Again",
       "url": "https://open.spotify.com/track/1UX8fLMyjf4keyBNNg2dd7"
-    },
-    {
-      "added_at": "2025-07-03 23:00:23",
-      "album": {
-        "name": "Contesto",
-        "url": "https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA"
-      },
-      "artists": [
-        {
-          "name": "Massuma",
-          "url": "https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF"
-        },
-        {
-          "name": "DOSAMIS",
-          "url": "https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K"
-        }
-      ],
-      "duration_ms": 206829,
-      "name": "Contesto",
-      "url": "https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva"
     },
     {
       "added_at": "2025-07-03 23:00:23",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-07-03 23:00:23",
       "album": {
-        "name": "Rendezvous",
-        "url": "https://open.spotify.com/album/0FposarJ84MZOTuYbmykCv"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 208776,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/1ENR9Zzy5GlPjUsaZW48jF"
-    },
-    {
-      "added_at": "2025-07-03 23:00:23",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
       },
@@ -1495,22 +1479,18 @@
     {
       "added_at": "2025-07-03 23:00:23",
       "album": {
-        "name": "See It As A Sign",
-        "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/0FposarJ84MZOTuYbmykCv"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 174204,
-      "name": "See It As A Sign",
-      "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
+      "duration_ms": 208776,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/1ENR9Zzy5GlPjUsaZW48jF"
     },
     {
       "added_at": "2025-07-03 23:00:23",
@@ -1531,6 +1511,26 @@
       "duration_ms": 190866,
       "name": "Hotter",
       "url": "https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg"
+    },
+    {
+      "added_at": "2025-07-03 23:00:23",
+      "album": {
+        "name": "See It As A Sign",
+        "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 174204,
+      "name": "See It As A Sign",
+      "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
     },
     {
       "added_at": "2025-07-03 23:00:23",
@@ -1687,30 +1687,6 @@
     {
       "added_at": "2025-07-03 23:00:23",
       "album": {
-        "name": "How You Feel (Ft. Leven Kali)",
-        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Erik Bandt",
-          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "How You Feel (Ft. Leven Kali)",
-      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
-    },
-    {
-      "added_at": "2025-07-03 23:00:23",
-      "album": {
         "name": "Stars Above",
         "url": "https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B"
       },
@@ -1751,6 +1727,30 @@
       "duration_ms": 172741,
       "name": "Alma de Ibiza (WEPA)",
       "url": "https://open.spotify.com/track/0iVVaf9CSC02XjHgFDLYRf"
+    },
+    {
+      "added_at": "2025-07-03 23:00:23",
+      "album": {
+        "name": "How You Feel (Ft. Leven Kali)",
+        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Erik Bandt",
+          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "How You Feel (Ft. Leven Kali)",
+      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
     },
     {
       "added_at": "2025-07-03 23:00:23",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2025-07-03 23:00:23",
       "album": {
-        "name": "Little Man (Proud Of You)",
-        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 120902,
-      "name": "Little Man (Proud Of You)",
-      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
-    },
-    {
-      "added_at": "2025-07-03 23:00:23",
-      "album": {
         "name": "Ando High",
         "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
       },
@@ -1931,18 +1915,18 @@
     {
       "added_at": "2025-07-03 23:00:23",
       "album": {
-        "name": "Lil Freaky",
-        "url": "https://open.spotify.com/album/3zY5XU6jr6EIrUR7O7Uacg"
+        "name": "Little Man (Proud Of You)",
+        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
       },
       "artists": [
         {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
         }
       ],
-      "duration_ms": 210234,
-      "name": "Lil Freaky",
-      "url": "https://open.spotify.com/track/25Rk41lvT9FK9VEdqeUlC0"
+      "duration_ms": 120902,
+      "name": "Little Man (Proud Of You)",
+      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
     },
     {
       "added_at": "2025-07-03 23:00:23",
@@ -1987,6 +1971,22 @@
     {
       "added_at": "2025-07-03 23:00:23",
       "album": {
+        "name": "Lil Freaky",
+        "url": "https://open.spotify.com/album/3zY5XU6jr6EIrUR7O7Uacg"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "duration_ms": 210234,
+      "name": "Lil Freaky",
+      "url": "https://open.spotify.com/track/25Rk41lvT9FK9VEdqeUlC0"
+    },
+    {
+      "added_at": "2025-07-03 23:00:23",
+      "album": {
         "name": "Wile Out (feat. Surya Sen)",
         "url": "https://open.spotify.com/album/02InIKpOal42kcD3584M5C"
       },
@@ -2003,6 +2003,26 @@
       "duration_ms": 195143,
       "name": "Wile Out (feat. Surya Sen)",
       "url": "https://open.spotify.com/track/3dEOOgfF6zXFDhLHat95pQ"
+    },
+    {
+      "added_at": "2025-07-03 23:00:23",
+      "album": {
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        }
+      ],
+      "duration_ms": 155100,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
     },
     {
       "added_at": "2025-07-03 23:00:23",
@@ -2031,38 +2051,22 @@
     {
       "added_at": "2025-07-03 23:00:23",
       "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
+        "name": "Got The Funk",
+        "url": "https://open.spotify.com/album/7suz7uIzl0sWYEaGjU5g8R"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
         },
         {
-          "name": "Sam Collins",
-          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+          "name": "Capri",
+          "url": "https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z"
         }
       ],
-      "duration_ms": 155100,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
-    },
-    {
-      "added_at": "2025-07-03 23:00:23",
-      "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
-      },
-      "artists": [
-        {
-          "name": "Linska",
-          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
-        }
-      ],
-      "duration_ms": 178139,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
+      "duration_ms": 184130,
+      "name": "Got The Funk",
+      "url": "https://open.spotify.com/track/62HMqOpPcNgECRoOMUD8B2"
     }
   ],
   "unique_name": "Ibiza 2025",

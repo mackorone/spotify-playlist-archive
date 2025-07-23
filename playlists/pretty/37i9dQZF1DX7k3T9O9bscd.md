@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Unknown Mortal Orchestra on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,170 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,244 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 38 | [Joe Frazier](https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Joe Frazier](https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6) | 5:38 |
 | 39 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 |
 | 40 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
-| 41 | [Black Kite](https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V) | [Yawning Man](https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe) | [The Revolt Against Tired Noises](https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa) | 5:21 |
-| 42 | [Plea From The Soul](https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F) | [Phafner](https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci) | [Overdrive](https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5) | 5:29 |
+| 41 | [Plea From The Soul](https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F) | [Phafner](https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci) | [Overdrive](https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5) | 5:29 |
+| 42 | [Black Kite](https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V) | [Yawning Man](https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe) | [The Revolt Against Tired Noises](https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa) | 5:21 |
 | 43 | [Funeral for Justice \- Injustice Version](https://open.spotify.com/track/7MXFGo3Eelb8RegCAC5WQX) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice \(Injustice Version\)](https://open.spotify.com/album/3fYga5PA5HrnbPFH4pWc8F) | 5:45 |
 | 44 | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5) | 3:07 |
 | 45 | [Secrets](https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A Dream of Lasting Peace](https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw) | 3:38 |
@@ -69,16 +69,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 59 | [WILLING](https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [WILLING](https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE) | 3:03 |
 | 60 | [Drop Out](https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh) | [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO), [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 11:01 |
 | 61 | [Trash](https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr) | [Fuckin Whatever](https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe) | [Fuckin Whatever](https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI) | 3:33 |
-| 62 | [Hey Boy Hey Girl \- Cover Version](https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Bud Spencer Blues Explosion](https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL) | 3:15 |
-| 63 | [Constant Picnic](https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 3:29 |
+| 62 | [Constant Picnic](https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 3:29 |
+| 63 | [Hey Boy Hey Girl \- Cover Version](https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Bud Spencer Blues Explosion](https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL) | 3:15 |
 | 64 | [Boudicaaa](https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Music For Film: Tramps!](https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk) | 2:05 |
 | 65 | [See](https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB) | [Hooveriii](https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7) | [A Round of Applause](https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw) | 4:25 |
 | 66 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 |
 | 67 | [Reflections](https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw) | [Dead Vibrations](https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr) | [Reflections](https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs) | 3:55 |
 | 68 | [Zionic Mud](https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [Zionic Mud](https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l) | 5:21 |
-| 69 | [Paraphernalia](https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1) | 4:23 |
-| 70 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
-| 71 | [The Moon Is In The Wrong Place](https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [The Moon Is In The Wrong Place](https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf) | 2:59 |
+| 69 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
+| 70 | [The Moon Is In The Wrong Place](https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [The Moon Is In The Wrong Place](https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf) | 2:59 |
+| 71 | [Paraphernalia](https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1) | 4:23 |
 | 72 | [Time Frame](https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv) | [Speck Joliet](https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws) | [Sophomore](https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n) | 5:32 |
 | 73 | [Feel so Fine](https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO) | [El Goodo](https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7) | [Coyote](https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf) | 3:57 |
 | 74 | [Risky Behaviour](https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [The Real Work](https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx) | 4:26 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 95 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
 | 96 | [Shimmer and Disappear](https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [Across The Meridian](https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg) | 3:15 |
 | 97 | [Velocirapture \(The Serpent Flew\)](https://open.spotify.com/track/3vcJQgv7OPKdEKDfsf5eON) | [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli), [Sean Ono Lennon](https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Velocirapture \(The Serpent Flew\)](https://open.spotify.com/album/71ZOwm0s7j6OBbwmTT2CUC) | 5:45 |
-| 98 | [Instinct, Eye and Mind](https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy) | [Moundabout](https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l) | [An Cnoc Mór](https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp) | 8:35 |
-| 99 | [Iris Is Neil](https://open.spotify.com/track/3VIhqLfKxHqOQmfcm6JQtd) | [Apifera](https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr) | [Keep The Outside Open](https://open.spotify.com/album/6Ww8zAvaNvHZ59jXamH2fj) | 4:50 |
-| 100 | [Pain](https://open.spotify.com/track/0m3kahWiwRZJH30EJmU6jH) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Pain](https://open.spotify.com/album/5MIa2rtg1bmxpWHo3rOOmG) | 8:26 |
+| 98 | [Pain](https://open.spotify.com/track/0m3kahWiwRZJH30EJmU6jH) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Pain](https://open.spotify.com/album/5MIa2rtg1bmxpWHo3rOOmG) | 8:26 |
+| 99 | [Instinct, Eye and Mind](https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy) | [Moundabout](https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l) | [An Cnoc Mór](https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp) | 8:35 |
+| 100 | [Iris Is Neil](https://open.spotify.com/track/3VIhqLfKxHqOQmfcm6JQtd) | [Apifera](https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr) | [Keep The Outside Open](https://open.spotify.com/album/6Ww8zAvaNvHZ59jXamH2fj) | 4:50 |
 
 Snapshot ID: `aF4zegAAAAAFSbZeHALOTOe4bxdq/fiu`

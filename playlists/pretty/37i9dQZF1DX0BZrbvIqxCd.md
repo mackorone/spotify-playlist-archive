@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,575 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,579 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 41 | [Dead!](https://open.spotify.com/track/3262RRKqFC1oJXFwCMqgM0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:15 |
 | 42 | [From The Outside](https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:05 |
 | 43 | [Mindreader](https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Mindreader](https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ) | 2:53 |
-| 44 | [Can EU Hear Me?](https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 2:58 |
+| 44 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
 | 45 | [Jurassic Park](https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:26 |
-| 46 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
+| 46 | [Can EU Hear Me?](https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 2:58 |
 | 47 | [Time\-Bomb Ticking Away](https://open.spotify.com/track/13zFCArzBLIPwvrV6IncpU) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Afraid of Heights \(Deluxe Version\)](https://open.spotify.com/album/2kqjqQneZx935suPAhokuj) | 3:22 |
 | 48 | [Degenerates](https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Degenerates](https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ) | 3:04 |
 | 49 | [SOS](https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:19 |
@@ -93,16 +93,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 83 | [Zero Remorse](https://open.spotify.com/track/3moomsVlUVM1oUEE5Wslsg) | [The Bombpops](https://open.spotify.com/artist/6ZNVzBbI6yffAp1GYfNSke) | [Death in Venice Beach](https://open.spotify.com/album/0DD6b1BSi5eWrccJKsX86p) | 2:35 |
 | 84 | [Stealing Light](https://open.spotify.com/track/6VQbsmCXyrj3qNG00CGORa) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Railer](https://open.spotify.com/album/5K0mQbB88KPh6eoTJUcbAp) | 2:35 |
 | 85 | [Minds Like Minefields](https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 3:15 |
-| 86 | [A Long Time Ago In A Galaxy Called LA](https://open.spotify.com/track/5miZeAqW2OLH3iBIKiL9hQ) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [A Long Time Ago In A Galaxy Called LA](https://open.spotify.com/album/1wLpt4NmhTBOdiqz39USqB) | 3:27 |
-| 87 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/3kL1eGyxKYipkJoGGjxy0J) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Paradise Lost, a poem by John Milton](https://open.spotify.com/album/4EhnHqtmJ6mBQwHO2nXxLn) | 2:47 |
+| 86 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/3kL1eGyxKYipkJoGGjxy0J) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Paradise Lost, a poem by John Milton](https://open.spotify.com/album/4EhnHqtmJ6mBQwHO2nXxLn) | 2:47 |
+| 87 | [A Long Time Ago In A Galaxy Called LA](https://open.spotify.com/track/5miZeAqW2OLH3iBIKiL9hQ) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [A Long Time Ago In A Galaxy Called LA](https://open.spotify.com/album/1wLpt4NmhTBOdiqz39USqB) | 3:27 |
 | 88 | [Cop Outs and Cover Ups](https://open.spotify.com/track/1eky0UG5NxlVNtcPrNOPSl) | [We Still Dream](https://open.spotify.com/artist/1hYf0dAHtryg8JfaQd5c5o) | [Therapy](https://open.spotify.com/album/7BHmLI3iFYEbbKqb2r97a6) | 3:07 |
 | 89 | [All My Friends are Nobodies](https://open.spotify.com/track/2iFFcHvg5F7a8thEKo65g5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 3:03 |
 | 90 | [Wallflower](https://open.spotify.com/track/7oXIbtib1VHQAJCvuSg3rx) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Wallflower](https://open.spotify.com/album/7KDXQC3QK8gvw2Y2lExNcr) | 2:23 |
 | 91 | [Burn It Down](https://open.spotify.com/track/7zziAaDRIHcKWSBC4DTAZZ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [A Beautiful Place To Drown](https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg) | 3:10 |
 | 92 | [A New Way Home](https://open.spotify.com/track/4bIZ9j4SHomHdcTjh2rfhc) | [Sleep On It](https://open.spotify.com/artist/5FmgqLlJ8MJ9A8zmOPFxK2) | [Overexposed](https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn) | 3:19 |
 | 93 | [Nothing](https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Nothing](https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o) | 2:58 |
-| 94 | [Surviving California](https://open.spotify.com/track/3awZR6RwEJA0Mb1vrOKlTM) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Surviving California](https://open.spotify.com/album/57r9TrEDkvF3mWy7b81wKA) | 2:50 |
-| 95 | [P.A.W](https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [No Strange Cats](https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp) | 2:40 |
+| 94 | [P.A.W](https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [No Strange Cats](https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp) | 2:40 |
+| 95 | [Surviving California](https://open.spotify.com/track/3awZR6RwEJA0Mb1vrOKlTM) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Surviving California](https://open.spotify.com/album/57r9TrEDkvF3mWy7b81wKA) | 2:50 |
 | 96 | [Fools Gold](https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Nothing Grows Here](https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p) | 4:16 |
 | 97 | [Precariat](https://open.spotify.com/track/2FQ2BRgoK6pFhleP1b73MZ) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Thoughts and Prayers](https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW) | 2:29 |
 | 98 | [Night of the Knuckleheads](https://open.spotify.com/track/6u0ygfd65uaWJfeAxUjVXr) | [Teenage Bottlerocket](https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W) | [Stay Rad!](https://open.spotify.com/album/4sHMfa5WtLCj48iUYZGMCf) | 1:54 |

@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 183493,
       "name": "I Got All You Need",
       "url": "https://open.spotify.com/track/6OX01r0SwFsy7KIwh7euHj"
@@ -2419,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346413,
+      "name": "Pain's On Me",
+      "url": "https://open.spotify.com/track/1PsuXNLxsQbBPShaXMrBmu"
+    },
+    {
+      "album": {
         "name": "Time Clocks",
         "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
       },
@@ -2834,10 +2852,28 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 220226,
       "name": "Still Walking With Me",
       "url": "https://open.spotify.com/track/37jT0oB7NHLP76GGryKFFF"
+    },
+    {
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "Still Walking With Me",
+      "url": "https://open.spotify.com/track/0ZDJZmDMjqbq1yyv865iLn"
     },
     {
       "album": {

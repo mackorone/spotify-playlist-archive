@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-789 songs - 1 day 14 hr 20 min
+790 songs - 1 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [As The Light Slowly Fades](https://open.spotify.com/track/1mEAr807HGjKAagrM55rjl) | [Bliss Porter](https://open.spotify.com/artist/0AF3uDWnCp5CMYIl66leMm) | [As The Light Slowly Fades](https://open.spotify.com/album/0pmUEomw3GfbValHI5lPmF) | 3:13 | 2023-03-23 | 2024-02-09 |
 | [Asha](https://open.spotify.com/track/2UU4ALDWrARtEvD3yfhRUZ) | [Lalit Khanna](https://open.spotify.com/artist/3JYqK0MjKHLytVQqBw1CXs) | [Asha](https://open.spotify.com/album/58vUFNbQpamqvA9qYqPUbO) | 2:15 | 2023-03-23 | 2024-03-21 |
 | [Ashton Lane](https://open.spotify.com/track/3Wt5w2KnJ5oTFtpsbGd2YJ) | [Keeva Craig](https://open.spotify.com/artist/6xTIuLiCQBph46JUwkf2Fp) | [Ashton Lane](https://open.spotify.com/album/1glI1A9oX8RQZxdbF1Q7bc) | 3:36 | 2023-03-23 | 2024-01-18 |
-| [Astral Mist](https://open.spotify.com/track/6HFgHAnBdNf3iZVYwqFC4a) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Astral Mist](https://open.spotify.com/album/1YrKVtvfsYGvy0rvIFt1QP) | 2:54 | 2025-03-27 |  |
+| [Astral Mist](https://open.spotify.com/track/6HFgHAnBdNf3iZVYwqFC4a) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Astral Mist](https://open.spotify.com/album/1YrKVtvfsYGvy0rvIFt1QP) | 2:54 | 2025-03-27 | 2025-07-23 |
 | [Astralica Catharsis](https://open.spotify.com/track/05H8IxZJxZIpXlYcuaWlmI) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Astralica Catharsis](https://open.spotify.com/album/1cs7CgeSWWOnmVKVlcnOA9) | 3:29 | 2023-03-23 | 2024-02-09 |
 | [Astralyn](https://open.spotify.com/track/1NelHOEkrDhxokRNN5JO5l) | [Shimmerweave](https://open.spotify.com/artist/7wcPlyyyXe4zqgOuHHwJ5s) | [Astralyn](https://open.spotify.com/album/6Lh6K2hOEyU6eTwHcbHJoP) | 2:30 | 2024-12-17 | 2025-07-10 |
 | [Astrophia](https://open.spotify.com/track/4Zo9i0PVyKdl3nJxuwe2Pk) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [Astrophia](https://open.spotify.com/album/26PPWDh6PZUJHkJWcao7BR) | 2:55 | 2024-01-17 | 2024-07-12 |
@@ -301,6 +301,7 @@
 | [For You Always](https://open.spotify.com/track/2DsYcmzLobaT4BLM6qoeds) | [Local Monocle](https://open.spotify.com/artist/0qa5B4ML0R0hNETkHLlar9) | [For You Always](https://open.spotify.com/album/4842rhAalZUOP83xfkhvpd) | 3:11 | 2023-03-23 | 2024-02-09 |
 | [Forest Night](https://open.spotify.com/track/3GPHBNaJEtE7cB2XvTes0o) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Forest Night](https://open.spotify.com/album/2J6U4M4eojgtfsah2x4tNb) | 2:12 | 2023-03-23 | 2024-03-21 |
 | [Four Leaves](https://open.spotify.com/track/5Zx7niunyVM8pq7p3SNR5L) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Four Leaves](https://open.spotify.com/album/3MQNzbsWxRYHyhy9NiBKWQ) | 2:54 | 2024-05-20 | 2024-11-07 |
+| [Fractured Light](https://open.spotify.com/track/5blb4VAkKNX6wiPZia3ESb) | [Meloleon](https://open.spotify.com/artist/0KB7j94GTdhFMPEEmBMGAI) | [Fractured Light](https://open.spotify.com/album/7bmv0zkZnBOII4kEnAJRCd) | 3:20 | 2025-07-17 |  |
 | [Fragile](https://open.spotify.com/track/1jNuMTWsvFvPMwyJcb30FF) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Fragile](https://open.spotify.com/album/23yYxqfArgUd8RkreaCD4t) | 2:59 | 2023-03-23 | 2024-02-09 |
 | [Fragile Voices](https://open.spotify.com/track/4zlGsaKaK94x4m1rJhDiiO) | [Meadow Rose](https://open.spotify.com/artist/0oEgQRXvflXAckXUZrLI3Y) | [Fragile Voices](https://open.spotify.com/album/1EWqxA9KSoAhWTAoImsM2v) | 3:31 | 2024-04-05 | 2025-01-09 |
 | [Fragmented Light](https://open.spotify.com/track/0CPyLkwaa3hTT0Pz9syd0l) | [Benjamin Mounfield](https://open.spotify.com/artist/0kjtU2Kn1KmDT8wod8yrbD) | [Fragmented Light](https://open.spotify.com/album/3uoMQghOUG6e3YNmJnPJl6) | 2:33 | 2025-02-04 |  |

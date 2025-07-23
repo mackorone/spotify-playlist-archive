@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\. Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,065 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,074 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 53 | [One Kiss Too Many](https://open.spotify.com/track/3W4mPMAvJqIlrLMLVZSaq1) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:18 |
 | 54 | [Slow Poke](https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr) | [Pee Wee King & His Golden West Cowboys](https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31) | [Nippers 50's\-Vol.1](https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq) | 3:00 |
 | 55 | [Heavy Traffic Ahead](https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:51 |
-| 56 | [You Two\-Timed Me One Time Too Often](https://open.spotify.com/track/57nxoqxbSS7iWoLuBBIOQu) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 2:41 |
-| 57 | [Steel Guitar Rag](https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Legend of Merle Travis](https://open.spotify.com/album/2mu2UV0Otwkqq7083vifcu) | 2:10 |
+| 56 | [Steel Guitar Rag](https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Legend of Merle Travis](https://open.spotify.com/album/2mu2UV0Otwkqq7083vifcu) | 2:10 |
+| 57 | [You Two\-Timed Me One Time Too Often](https://open.spotify.com/track/57nxoqxbSS7iWoLuBBIOQu) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 2:41 |
 | 58 | [You May Be Sorry](https://open.spotify.com/track/4nHwLv2K7Ahy9AyqByOTjR) | [Al Dexter](https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO) | [Presenting Al Dexter](https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W) | 2:25 |
 | 59 | [Headin' Down The Wrong Highway](https://open.spotify.com/track/7KF5iHhrwT1kZL22nyRdKi) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [Country and Western](https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB) | 1:38 |
 | 60 | [Smoke! Smoke! Smoke! \(That Cigarette\)](https://open.spotify.com/track/7nskxCYXAwoKiJkZzUMcJo) | [Tex Williams](https://open.spotify.com/artist/7DCIJOYaG1Yj8uVlR4QGlu) | [Smoke! Smoke! Smoke!](https://open.spotify.com/album/2MOnT0IZ4U7FoDCGdK1WVs) | 2:43 |

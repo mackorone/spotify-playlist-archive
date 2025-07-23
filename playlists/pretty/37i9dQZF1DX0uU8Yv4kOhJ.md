@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,631 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,646 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 14 | [Uña](https://open.spotify.com/track/3rMTOUuuImnkGEGpN1dqlG) | [Inkuyo](https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt) | [Land of the Incas \(Music of the Andes\)](https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn) | 3:18 |
 | 15 | [Hasta Donde Mande el Cuerpo](https://open.spotify.com/track/6ma9Cak9JkUiA4uSHnfEm7) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Hasta Donde Mande el Cuerpo](https://open.spotify.com/album/55hScfNCMvg283Cde5iVpF) | 3:32 |
 | 16 | [Cometa de Luz](https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb) | [Uña Ramos](https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA) | [Quena de los Andes](https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq) | 3:47 |
-| 17 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 |
-| 18 | [Munaspaqa Suyaykuway](https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9) | [Jaime Guardia](https://open.spotify.com/artist/3AxPEg0Jy5U5GvgEHsI43X) | [Charango Peruano](https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx) | 3:02 |
+| 17 | [Munaspaqa Suyaykuway](https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9) | [Jaime Guardia](https://open.spotify.com/artist/3AxPEg0Jy5U5GvgEHsI43X) | [Charango Peruano](https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx) | 3:02 |
+| 18 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 |
 | 19 | [Solo](https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo](https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU) | 3:44 |
 | 20 | [Hoja de Coca](https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja de Coca](https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe) | 4:26 |
 | 21 | [Cacharpaya Del Indio](https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu) | [Jorge Rico](https://open.spotify.com/artist/3Q3acE5KCV3k0UdCH7bGhp) | [A Journey To The Andes](https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P) | 4:56 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 38 | [Sueño en Paraguay \- El Búho Remix](https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansará \(Remixed\)](https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd) | 3:59 |
 | 39 | [No Me Quiero Doler](https://open.spotify.com/track/5yHQDlmQ4PJQR9CAFsdoMG) | [Arrabalero](https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj), [Carlos Rizzi](https://open.spotify.com/artist/4dxrLUGRaBANAZdDXKt9I7) | [No Me Quiero Doler](https://open.spotify.com/album/0bxPIMdVzvOY31BxAqv6FQ) | 5:26 |
 | 40 | [Caminar en Belleza](https://open.spotify.com/track/0BkMJwnKsmg7lpXSzRRNuZ) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Caminar en Belleza](https://open.spotify.com/album/7zosPbSLoJngyH1Mmjfmdu) | 3:39 |
-| 41 | [Qam Hina](https://open.spotify.com/track/4rRgfl70FRS1OYBD29pQa4) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Qam Hina](https://open.spotify.com/album/4iRMmNgcj155HZInt8BXxK) | 4:07 |
-| 42 | [La Estrella y la Isla](https://open.spotify.com/track/2X267A5MdlFC7duXrbyzAo) | [Andrés Correa](https://open.spotify.com/artist/5HLeoxDDkwdthuonhgIH96), [Cavito Mendoza](https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7) | [La Estrella y la Isla](https://open.spotify.com/album/7pgzb5XHHpPbhnJxfTZz93) | 4:01 |
+| 41 | [La Estrella y la Isla](https://open.spotify.com/track/2X267A5MdlFC7duXrbyzAo) | [Andrés Correa](https://open.spotify.com/artist/5HLeoxDDkwdthuonhgIH96), [Cavito Mendoza](https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7) | [La Estrella y la Isla](https://open.spotify.com/album/7pgzb5XHHpPbhnJxfTZz93) | 4:01 |
+| 42 | [Qam Hina](https://open.spotify.com/track/4rRgfl70FRS1OYBD29pQa4) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Qam Hina](https://open.spotify.com/album/4iRMmNgcj155HZInt8BXxK) | 4:07 |
 | 43 | [Trote de Enquelga](https://open.spotify.com/track/120c4z2FZUop2bVpc5sTMD) | [Los Curacas](https://open.spotify.com/artist/5mmVJF0pKY3PEMLhrRU0gw) | [Folklore en Mi Escuela\. Danzas y Cantos de América, Vol\. 2](https://open.spotify.com/album/4mbnG0P8Oi8JJAoCtX8J5D) | 2:29 |
 | 44 | [Chica Cascada \(feat\. Mariana Päraway\)](https://open.spotify.com/track/7bPZBm7Wr6poE49MRWO30V) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ), [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Vol\. 2](https://open.spotify.com/album/4ue3QgybkfMuFP2sFk2zBP) | 5:28 |
 | 45 | [Sol de los Andes](https://open.spotify.com/track/03FqjvZvLyITRlrVkpgscu) | [Apurimac](https://open.spotify.com/artist/4yRx3awKST6iw13Oy84kFi) | [Melodias Andinas \- Musica Instrumental](https://open.spotify.com/album/6uO1WhrVQiOOEmpoA3QYxz) | 2:29 |

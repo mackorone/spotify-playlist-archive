@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 
 > Aquí viven los hits más grandes en La Isla del Encanto\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,962 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,009 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

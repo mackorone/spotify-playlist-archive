@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Alex Warren, Jul & GIMS et Ronisia  au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,153 likes - 94 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,117 likes - 94 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

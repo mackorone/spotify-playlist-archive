@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 
 > Con mucho cariño para ti, Pedrito\. ¡Bienvenido a México! ✨💖🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,516 likes - 35 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,563 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

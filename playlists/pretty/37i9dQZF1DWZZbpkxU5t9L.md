@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,879 likes - 61 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,890 likes - 61 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 5 | [どうかしてる](https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [どうかしてる](https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI) | 2:30 |
 | 6 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 |
 | 7 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
-| 8 | [Big Poe](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 |
+| 8 | [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 |
 | 9 | [Show Me Love \(feat\. 3House\)](https://open.spotify.com/track/6OjMJrPTcZcytv05cqUF1k) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [JUST ALBUM](https://open.spotify.com/album/3cQJs0ELJ6UsgtjNfXVCyu) | 2:19 |
 | 10 | [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 |
 | 11 | [愛が通り過ぎた跡](https://open.spotify.com/track/6lYyAMPOD6XXVNrVyxakAL) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [愛が通り過ぎた跡](https://open.spotify.com/album/1IprJ7zbzRu4w0OhmBc14n) | 3:04 |

@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-254 songs - 11 hr 15 min
+258 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Equinoxe](https://open.spotify.com/track/58xUMSrmEvYUyHzGR9tYtL) | [Koëlíne](https://open.spotify.com/artist/1HytzswsY9X9XTD2Douni6) | [Equinoxe](https://open.spotify.com/album/4DWD8YqJ3S8NAVsTImbZ23) | 2:55 | 2022-08-03 |  |
 | [Escondidas](https://open.spotify.com/track/5uUdiK8TRiaRR8iLGZsBOt) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Escondidas](https://open.spotify.com/album/52j4FXkBGwmYA8Jq8xuhKt) | 2:14 | 2024-07-29 |  |
 | [Essential Truth](https://open.spotify.com/track/4BwITU6em6YieY3bHak4JH) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Essential Truth](https://open.spotify.com/album/7z9Y1XoWUzB4HwBosSMlIy) | 2:49 | 2022-08-26 |  |
+| [Eternal Moon](https://open.spotify.com/track/2hegfLKqobbWtYPg0Z31vm) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [Eternal Moon](https://open.spotify.com/album/5UVS5hHLLxQgH22bXKrFUi) | 2:28 | 2025-07-22 |  |
 | [Every Waking Moment](https://open.spotify.com/track/24Eavl6flA0caVwQDtXnAq) | [Kendra Logozar](https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd) | [Every Waking Moment](https://open.spotify.com/album/2z08XS1HOcqBCEubRfk2dS) | 1:55 | 2022-08-03 | 2023-06-21 |
 | [Excavation](https://open.spotify.com/track/3kOJMvFCOHykQws1qsVMsu) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Ruminate](https://open.spotify.com/album/4pOyBEYZRfEGsbSOinaytz) | 3:24 | 2022-08-03 |  |
 | [Exhale](https://open.spotify.com/track/2laiFYFccYEb3TS39Fhufw) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Exhale](https://open.spotify.com/album/5SMNK84TSO4tRpITMJrjDJ) | 2:17 | 2022-08-03 |  |
@@ -137,6 +138,7 @@
 | [Letters](https://open.spotify.com/track/4wNj7wubtz1KnGaFg2VwcU) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Invisible EP](https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO) | 2:01 | 2022-08-03 | 2024-10-08 |
 | [Lettre d'amour](https://open.spotify.com/track/63gpRCRO94FNh1GkVCh8pP) | [William Heller](https://open.spotify.com/artist/0bblIjmXpe2k574egtCQnr) | [Lettre d'amour](https://open.spotify.com/album/1dY8aAZt5GlEcZeuPf9hSg) | 2:17 | 2022-12-06 |  |
 | [Lid](https://open.spotify.com/track/1ELEE2AKrasjJzMbVUBDYA) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Je rêve encore](https://open.spotify.com/album/3Di0daN2ES812dKEFgYu0A) | 1:57 | 2022-08-03 | 2025-01-15 |
+| [Lighter and Brighter](https://open.spotify.com/track/42HY9l2HyjSMhLE9cdNvt5) | [Hidden Natúr](https://open.spotify.com/artist/1r3WsPkeb5nKMaRza1SBX3) | [Lighter and Brighter](https://open.spotify.com/album/5b1Tlm7L0zFw6N0cZJo5ol) | 2:10 | 2025-07-22 |  |
 | [looking glass](https://open.spotify.com/track/6hXQxvv49Ngmu27f2YpAm6) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [looking glass](https://open.spotify.com/album/1y7oXo6qUMP4o3kjR939nR) | 2:45 | 2024-09-02 | 2025-04-29 |
 | [Luminous](https://open.spotify.com/track/5RWA30VaTsYkFrkzxKL3aK) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Luminous](https://open.spotify.com/album/1qGM1wYNdT4fG81hXrdz6s) | 4:43 | 2022-08-03 | 2024-12-04 |
 | [Luminous](https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Luminous](https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE) | 2:05 | 2023-09-26 |  |
@@ -241,6 +243,7 @@
 | [The Sound of Light](https://open.spotify.com/track/23BuLC49RZuPbIGZriYDNI) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [The Sound of Light](https://open.spotify.com/album/3IdvazfYUOel4zSdILAHcF) | 2:33 | 2025-05-13 |  |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-01-09 | 2023-04-06 |
 | [The tree that I don't forget](https://open.spotify.com/track/239W1Z795G2xYOqdrVLirv) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [The tree that I don't forget](https://open.spotify.com/album/6dT2UTUh4rYKFdakQ01sBc) | 3:18 | 2022-08-03 |  |
+| [Tidlös](https://open.spotify.com/track/526JgGLwKMeayWmOFVisck) | [Andreas Björkstrand](https://open.spotify.com/artist/4C0SwV2WJqRW290Xz2HIfV) | [Tidlös](https://open.spotify.com/album/7u4tmbsQZm1n8gA1bhVlg4) | 3:06 | 2025-07-22 |  |
 | [to god knows where \- silence](https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS) | [BigRicePiano](https://open.spotify.com/artist/6NZehyzoXBTOmvFzJyp6RV) | [to god knows where](https://open.spotify.com/album/3IkfQcMF1gPMIessnYkMg1) | 3:24 | 2023-04-05 |  |
 | [To Let Go](https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 2:26 | 2022-08-26 |  |
 | [Tonals](https://open.spotify.com/track/6wvCRq82UNSugRl6mE8ZyL) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Tonals](https://open.spotify.com/album/2lxt90H9hmuEuFLetT9Dvp) | 2:16 | 2023-01-26 |  |
@@ -259,6 +262,7 @@
 | [When the leaves start to fall](https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When the leaves start to fall](https://open.spotify.com/album/65pB6B1PKVYEZ41xxkpHdn) | 2:20 | 2023-02-21 |  |
 | [Where the Wind Waits](https://open.spotify.com/track/1tTCMFClfgFj09xMleaIzE) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Where the Wind Waits](https://open.spotify.com/album/5PQ2sfB3QIjSh8nXVLOA3K) | 2:36 | 2025-07-07 |  |
 | [Willmine](https://open.spotify.com/track/3gdErGbZwv6gjdF0sJdzhK) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Fredenwalde \- Teil I](https://open.spotify.com/album/6qdMFbDQ5og47ujZmZjwhF) | 3:31 | 2022-08-03 | 2023-06-21 |
+| [Window To The Past](https://open.spotify.com/track/6EButk2CJRYZayXRscZWm8) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Window To The Past](https://open.spotify.com/album/7hdCvr9F4wjRy2BVpTWbiA) | 2:22 | 2025-07-22 |  |
 | [Wordless](https://open.spotify.com/track/1uPUd2SfgzHtiK9BoTZOKt) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Songs From Home](https://open.spotify.com/album/54VCz99ZaV868ym0fbKyDI) | 1:51 | 2022-08-26 | 2025-04-09 |
 | [Yellow Entropy](https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Yellow Entropy](https://open.spotify.com/album/7hJKROzZs61p529YVcxaWM) | 2:11 | 2022-08-03 | 2024-07-30 |
 | [à Gauche](https://open.spotify.com/track/5HEdhvXyFdSy1IxlX6c6nM) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [à Gauche](https://open.spotify.com/album/66F48yfYfHtqgtlKXRS88V) | 2:06 | 2022-10-24 |  |

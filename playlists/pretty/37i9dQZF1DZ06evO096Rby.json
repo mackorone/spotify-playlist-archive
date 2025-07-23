@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 44923,
+  "num_followers": 44947,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAACbREq1CkwRfaR1utcQl0jk",
+  "snapshot_id": "aH2DAAAAAAAPXs98ORsgP9AXMuGInngc",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El De La Selva",
+        "url": "https://open.spotify.com/album/4vLqOoio32LjRfgOmfbBTm"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 118067,
+      "name": "El De La Selva",
+      "url": "https://open.spotify.com/track/4BPuZqbjWIquRpewIY0ygC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -315,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/1wdEQqn7ZaN6alXDQHjFMe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -343,6 +347,22 @@
       "duration_ms": 122583,
       "name": "Que Chulada - En Vivo",
       "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/1wdEQqn7ZaN6alXDQHjFMe"
     },
     {
       "added_at": null,
@@ -379,26 +399,6 @@
       "duration_ms": 125631,
       "name": "TODO DE AMIRI - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/5LgqflBrNewltSebcYlLMk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El De La Selva",
-        "url": "https://open.spotify.com/album/4vLqOoio32LjRfgOmfbBTm"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 118067,
-      "name": "El De La Selva",
-      "url": "https://open.spotify.com/track/4BPuZqbjWIquRpewIY0ygC"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 191477,
-      "name": "El De La 31",
-      "url": "https://open.spotify.com/track/3MsSrOoeomjGybissXBe9G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Cambio la Suerte",
         "url": "https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 171430,
       "name": "Me Cambio la Suerte",
       "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "El Piyi",
+      "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
       "duration_ms": 224378,
       "name": "Hermosura de Mujer",
       "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 215061,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
     },
     {
       "added_at": null,
@@ -804,25 +820,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 191600,
-      "name": "El Piyi",
-      "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 215061,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
+      "duration_ms": 191477,
+      "name": "El De La 31",
+      "url": "https://open.spotify.com/track/3MsSrOoeomjGybissXBe9G"
     },
     {
       "added_at": null,

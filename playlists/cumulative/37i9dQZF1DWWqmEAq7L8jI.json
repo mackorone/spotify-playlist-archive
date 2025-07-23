@@ -3504,7 +3504,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
@@ -5124,7 +5124,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 165360,
       "name": "PENDEJO",
       "url": "https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7"
@@ -6777,6 +6777,24 @@
     },
     {
       "album": {
+        "name": "Miranda Es Imposible!",
+        "url": "https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Tu Misterioso Alguien",
+      "url": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"
+    },
+    {
+      "album": {
         "name": "TUYA",
         "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
       },
@@ -7276,7 +7294,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 171153,
       "name": "Yo No Te Pido la Luna",
       "url": "https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q"

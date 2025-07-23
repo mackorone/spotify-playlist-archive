@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,899 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,903 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 36 | [Isso Que é Vida](https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Isso Que é Vida](https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm) | 2:39 |
 | 37 | [Coladinha em Mim \- Ao Vivo](https://open.spotify.com/track/2lN3l0jHCjVulwdPX6NvUn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Coladinha em Mim \(Ao Vivo\)](https://open.spotify.com/album/5PxAPT3Nvu4ChOHzBrj0CA) | 2:50 |
 | 38 | [Cobaia](https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Cobaia](https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd) | 3:39 |
-| 39 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
-| 40 | [Pode Me Bloquear](https://open.spotify.com/track/0ijk36AtPKhLldqqkHC94H) | [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Batidão Do Playboy 2](https://open.spotify.com/album/1QrmFHBDzz7BbVdKVw6Uxn) | 3:08 |
+| 39 | [Pode Me Bloquear](https://open.spotify.com/track/0ijk36AtPKhLldqqkHC94H) | [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Batidão Do Playboy 2](https://open.spotify.com/album/1QrmFHBDzz7BbVdKVw6Uxn) | 3:08 |
+| 40 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
 | 41 | [Vem \- Ao Vivo](https://open.spotify.com/track/2xK5QiyUZufKPSvB7bLHxa) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Laje 67 \(Ao Vivo\)](https://open.spotify.com/album/7qlRgh3d6oIFPdfOPs7I5u) | 3:14 |
 | 42 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 |
-| 43 | [Cobertor de Orelha \- Ao Vivo](https://open.spotify.com/track/5tDIwLvi7AaoY4pkA7pUBv) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Cobertor de Orelha \(Ao Vivo\)](https://open.spotify.com/album/6BFfpdvgimAEgtS8szfesm) | 2:36 |
-| 44 | [Terra Sem CEP \- Ao Vivo](https://open.spotify.com/track/2U94QDSo9N4e1iXrjo7KAB) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:57 |
+| 43 | [Terra Sem CEP \- Ao Vivo](https://open.spotify.com/track/2U94QDSo9N4e1iXrjo7KAB) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:57 |
+| 44 | [Cobertor de Orelha \- Ao Vivo](https://open.spotify.com/track/5tDIwLvi7AaoY4pkA7pUBv) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Cobertor de Orelha \(Ao Vivo\)](https://open.spotify.com/album/6BFfpdvgimAEgtS8szfesm) | 2:36 |
 | 45 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
 | 46 | [Sapequinha](https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Sapequinha](https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja) | 2:14 |
 | 47 | [Posto 24h \(feat\. Wesley Safadão\) \- Ao Vivo](https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [A Origem \(Ao Vivo\)](https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn) | 2:33 |

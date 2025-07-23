@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,221 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,252 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 10 | [Hard Gaan](https://open.spotify.com/track/7nlpaMQJiyWbRDjUijhS4y) | [Roosterz](https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm), [Bössels](https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC), [Royalistiq](https://open.spotify.com/artist/61F32Z0pFN56WdwLXRQgLK) | [Hard Gaan](https://open.spotify.com/album/3mDB4gb0h3k7qn7wNhDIRZ) | 2:31 |
 | 11 | [Pennywise \- Deadly Guns Remix](https://open.spotify.com/track/6m8neHWouA9kxypGPNwDA4) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Pennywise \(Deadly Guns Remix\)](https://open.spotify.com/album/3pYxt3quOJYXUecq92TgFb) | 2:32 |
 | 12 | [Energy Drink](https://open.spotify.com/track/6j9EHvNLI3VzqG2rPTS8Bf) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Energy Drink](https://open.spotify.com/album/4iUaYfLtsBjPBniim0eQ0S) | 2:53 |
-| 13 | [Blast Your Stereo](https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Blast Your Stereo](https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE) | 2:11 |
-| 14 | [Noise Tempo](https://open.spotify.com/track/3enXqcSAVAKpO6ACvEAB6J) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [Noise Tempo](https://open.spotify.com/album/2NT3CpZhBkuEhHF3OdQyCl) | 2:34 |
+| 13 | [Noise Tempo](https://open.spotify.com/track/3enXqcSAVAKpO6ACvEAB6J) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [Noise Tempo](https://open.spotify.com/album/2NT3CpZhBkuEhHF3OdQyCl) | 2:34 |
+| 14 | [Blast Your Stereo](https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Blast Your Stereo](https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE) | 2:11 |
 | 15 | [Breek De Tent Af](https://open.spotify.com/track/4otCJXGClFWNBzycWSJ4xH) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Breek De Tent Af](https://open.spotify.com/album/4jfLY2qnulc9iaAVTPDUKO) | 2:57 |
 | 16 | [Burn](https://open.spotify.com/track/0ZXq43rBFfRBAhynZeVChZ) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Burn](https://open.spotify.com/album/2f3JjQYimC9ZWI7KwJVZrN) | 2:36 |
 | 17 | [Bad To The Bone!!](https://open.spotify.com/track/5pptbJFvpxSlIjMjy9aqsf) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Bad To The Bone!!](https://open.spotify.com/album/0PJo9SFqLIgvwQ8dYMCloy) | 2:41 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 47 | [Like That](https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [Like That](https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To) | 2:24 |
 | 48 | [Bounce To This \- Official Bounce Anthem 2024](https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Bounce To This \(Official Bounce Anthem 2024\)](https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR) | 3:16 |
 | 49 | [Stress](https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Stress](https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI) | 2:27 |
-| 50 | [13th Hour](https://open.spotify.com/track/1rgdTcDjGjOLW1apRVcIA7) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [13th Hour](https://open.spotify.com/album/3o1ZBqfs69XWB4JvEyLRUG) | 2:41 |
+| 50 | [Mambo Italiano](https://open.spotify.com/track/1y6QYYCh7Jp0hwAsu7gWTf) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [Mambo Italiano](https://open.spotify.com/album/7BRteG2b8skCcFxtoBKWew) | 1:49 |
 
 Snapshot ID: `aGOPZQAAAADwMmA6RP/mlhUwFWkcgdG7`

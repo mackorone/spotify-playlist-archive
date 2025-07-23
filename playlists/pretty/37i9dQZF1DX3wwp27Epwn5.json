@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 225151,
+  "num_followers": 225287,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -787,30 +787,6 @@
     {
       "added_at": "2025-07-11 07:06:14",
       "album": {
-        "name": "Muqabla (From \"Street Dancer 3D\")",
-        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
-      },
-      "artists": [
-        {
-          "name": "Yash Narvekar",
-          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 176125,
-      "name": "Muqabla (From \"Street Dancer 3D\")",
-      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
-    },
-    {
-      "added_at": "2025-07-11 07:06:14",
-      "album": {
         "name": "Ginny Weds Sunny (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0uV4f6bZkuwb6BW1dZ3EPC"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 226615,
       "name": "Sawan Mein Lag Gayi Aag",
       "url": "https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn"
+    },
+    {
+      "added_at": "2025-07-11 07:06:14",
+      "album": {
+        "name": "Muqabla (From \"Street Dancer 3D\")",
+        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
+      },
+      "artists": [
+        {
+          "name": "Yash Narvekar",
+          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 176125,
+      "name": "Muqabla (From \"Street Dancer 3D\")",
+      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
     },
     {
       "added_at": "2025-07-11 07:06:14",
@@ -1223,18 +1223,22 @@
     {
       "added_at": "2025-07-11 07:06:14",
       "album": {
-        "name": "Delhi Belly (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5InIzc3p2f9FRErhzNUPTi"
+        "name": "Kismat Konnection (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61cQuizKixGgQTi0Le6M8N"
       },
       "artists": [
         {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         }
       ],
-      "duration_ms": 241304,
-      "name": "Bhaag D.K. Bose, Aandhi Aayi",
-      "url": "https://open.spotify.com/track/1sxh0eqIb8ulYypPuq6ZRu"
+      "duration_ms": 260053,
+      "name": "Aai Paapi",
+      "url": "https://open.spotify.com/track/7Bw56mGeOVbBBWBSLg356s"
     }
   ],
   "unique_name": "Bollywood Workout",

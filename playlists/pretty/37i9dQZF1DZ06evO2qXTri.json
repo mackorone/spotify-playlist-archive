@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 35320,
+  "num_followers": 35332,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAAjduPVJT+F4t3iKM4O5EO1",
+  "snapshot_id": "aH2DAAAAAACt2QT8skEUtTfElgr6/Uhm",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "Silver and Gold - Live",
+      "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hiding Place",
         "url": "https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 214008,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kirk Franklin and the Family",
-        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "Silver and Gold - Live",
-      "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
     },
     {
       "added_at": null,

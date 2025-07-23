@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 
 > This is Aitana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 651 likes - 42 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 662 likes - 42 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 25 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 |
 | 26 | [Llueve sobre mojado](https://open.spotify.com/track/3z4XtoZVf8AOoR18Lnp7e1) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Llueve sobre mojado](https://open.spotify.com/album/16KVHgtlAeiAiav4Yko9KB) | 3:48 |
 | 27 | [Los Ángeles](https://open.spotify.com/track/0knbcslkZje0qdsqbd8jwj) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:38 |
-| 28 | [Las Dudas](https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 2:40 |
-| 29 | [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 |
+| 28 | [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 |
+| 29 | [Las Dudas](https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 2:40 |
 | 30 | [NO TE HAS IDO Y YA TE EXTRAÑO](https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:30 |
 | 31 | [miamor](https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:39 |
 | 32 | [La Electricidad](https://open.spotify.com/track/0E3qf8HoJc2I7637mxgXjA) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Likes y Cicatrices](https://open.spotify.com/album/450aVb02CfLVugPpSjUlWO) | 3:55 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 37 | [Hermosa Casualidad](https://open.spotify.com/track/2vOZEv5okAIyL5KWlbTTi5) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [PO2054AZ \(Vol.II\)](https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA) | 3:23 |
 | 38 | [Berlín](https://open.spotify.com/track/5N5GaRpXYZl5ZKKU5a5LtH) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Berlín](https://open.spotify.com/album/7s4icf5JqLJUpGuRncOTCK) | 2:26 |
 | 39 | [Dararí](https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:50 |
-| 40 | [Like I Can \(feat\. Aitana\)](https://open.spotify.com/track/76DAOP9X3FuBHlVEBkr5Jl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Like I Can \(feat\. Aitana\)](https://open.spotify.com/album/5CdGQuW80JtOwCSBML58vf) | 2:46 |
-| 41 | [ESTUPIDEZ](https://open.spotify.com/track/2La58UY7zeXryNx0g6GIG2) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:33 |
+| 40 | [ESTUPIDEZ](https://open.spotify.com/track/2La58UY7zeXryNx0g6GIG2) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:33 |
+| 41 | [Like I Can \(feat\. Aitana\)](https://open.spotify.com/track/76DAOP9X3FuBHlVEBkr5Jl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Like I Can \(feat\. Aitana\)](https://open.spotify.com/album/5CdGQuW80JtOwCSBML58vf) | 2:46 |
 | 42 | [La última](https://open.spotify.com/track/3QMbspb1zO1XaREaQrRUh2) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 3:36 |
 
-Snapshot ID: `aHwxgAAAAAB7GJhNq5njVEu8+FoSuxUE`
+Snapshot ID: `aH2DAAAAAAD4B1BYgXbo94upIfjky1M/`

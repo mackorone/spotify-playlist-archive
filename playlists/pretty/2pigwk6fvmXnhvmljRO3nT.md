@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,400 songs - 19 day 5 hr 43 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,414 songs - 19 day 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7404,9 +7404,23 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7394 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
 | 7395 | [Stop Playing With Me](https://open.spotify.com/track/1IF3hx6HU46Pitm0dOdVJO) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:13 |
 | 7396 | [Don't Tap That Glass / Tweakin'](https://open.spotify.com/track/5DRS7YEe1bwGJLDGviT3CD) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:42 |
-| 7397 | [Don't You Worry Baby](https://open.spotify.com/track/45mVT3DCE7AATXgESSdfee) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:58 |
-| 7398 | [I'll Take Care of You](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:20 |
+| 7397 | [Don't You Worry Baby \(feat\. Madison McFerrin\)](https://open.spotify.com/track/45mVT3DCE7AATXgESSdfee) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:58 |
+| 7398 | [I'll Take Care of You \(feat\. Yebba\)](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:20 |
 | 7399 | [Tell Me What It Is](https://open.spotify.com/track/4UddKz4WBKn5b9tDB6tq2L) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:22 |
 | 7400 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 |
+| 7401 | [Ah\-Choo](https://open.spotify.com/track/4Kl017IgdJxdlvgnvrpYlE) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz8](https://open.spotify.com/album/4WkapgTIqmLu5HUF75X6Y8) | 3:38 |
+| 7402 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 |
+| 7403 | [love4eva \(feat\. Grimes\)](https://open.spotify.com/track/02ughM6zGqVG9S5rp61fGa) | [LOONA/yyxy](https://open.spotify.com/artist/5JPKwLsHGaPIlxqHiF29e4) | [beauty&thebeat](https://open.spotify.com/album/28CPIR9kvaLsWcJzJKtE6i) | 3:40 |
+| 7404 | [Galaxy](https://open.spotify.com/track/5rd00qaUJugfI8nhPcxA3o) | [LADIES' CODE](https://open.spotify.com/artist/4epPY1AW9lQeVUM1XaFiwi) | [MYST3RY](https://open.spotify.com/album/2kOn7OTf9UGL0fyxy8yT7n) | 3:32 |
+| 7405 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 |
+| 7406 | [상상더하기](https://open.spotify.com/track/5YVRNljIbNJZlvMPDE4XHW) | [LABOUM](https://open.spotify.com/artist/4iO5uKMUphLqQ20TfrdZx3) | [Fresh Adventure](https://open.spotify.com/album/6iF3dWdL8ytJ6lO79XE6vN) | 4:02 |
+| 7407 | [I don't Know](https://open.spotify.com/track/5DM5iNhImOgjBW3c5OgYLn) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Seven Springs Of Apink](https://open.spotify.com/album/6N7uosa9vVi6cI1LoVF64R) | 3:44 |
+| 7408 | [WEE WOO](https://open.spotify.com/track/23XXMK9SQBFwndnbgbcMPa) | [PRISTIN](https://open.spotify.com/artist/6VAphrHp0Oc88qg9BDaH9D) | [The 1st Mini Album 'HI! PRISTIN'](https://open.spotify.com/album/0LtwNMoaoYbJE8m3dT7XFe) | 3:12 |
+| 7409 | [We Ride](https://open.spotify.com/track/6kH1sKkvgN4Yikake52glq) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [We Ride](https://open.spotify.com/album/3iBrnwcIhtRrpRXirqxx8W) | 3:09 |
+| 7410 | [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 |
+| 7411 | [Secret](https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [THE SECRET](https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh) | 3:42 |
+| 7412 | [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 |
+| 7413 | [UNNATURAL](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [UNNATURAL](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) | 3:01 |
+| 7414 | [Save Me, Save You](https://open.spotify.com/track/20yOiJHRQGirFYehRSIb6i) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [WJ PLEASE?](https://open.spotify.com/album/4r7YKwLYxQDH61GddP5l3j) | 3:44 |
 
-Snapshot ID: `AAAHtHNwZ1Ibn9n3M7HcXzmxE+rZhsmm`
+Snapshot ID: `AAAHwn3Dja8g8qP7px6tnkj4NecavkfP`

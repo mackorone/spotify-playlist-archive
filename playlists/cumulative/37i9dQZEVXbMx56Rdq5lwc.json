@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 200021,
       "name": "Anglys",
       "url": "https://open.spotify.com/track/5KFfyKZiV1fLf2zMsqaJWC"
@@ -2728,7 +2728,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 196507,
       "name": "A\u0161 \u0160alia",
       "url": "https://open.spotify.com/track/0g4FU2WlInNO2VfAQzm1sK"
@@ -4092,6 +4092,28 @@
       "duration_ms": 150000,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
+    },
+    {
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182401,
+      "name": "Big Poe (feat. Sk8brd)",
+      "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
     },
     {
       "album": {
@@ -8168,7 +8190,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
@@ -8190,7 +8212,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
@@ -8714,6 +8736,46 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222124,
+      "name": "Don't Tap That Glass / Tweakin'",
+      "url": "https://open.spotify.com/track/5DRS7YEe1bwGJLDGviT3CD"
+    },
+    {
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178135,
+      "name": "Don't You Worry Baby (feat. Madison McFerrin)",
+      "url": "https://open.spotify.com/track/45mVT3DCE7AATXgESSdfee"
     },
     {
       "album": {
@@ -12440,7 +12502,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -15297,6 +15359,28 @@
     },
     {
       "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200860,
+      "name": "I'll Take Care of You (feat. Yebba)",
+      "url": "https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h"
+    },
+    {
+      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
@@ -17704,7 +17788,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 256764,
       "name": "Kitoks Pasaulis (2017)",
       "url": "https://open.spotify.com/track/5oz5vn82VQqKq5UmkPurYS"
@@ -18128,7 +18212,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 126857,
       "name": "Kylan\u010di\u0173 Rank\u0173",
       "url": "https://open.spotify.com/track/1diFo0lFWFR8EWrc6ZIVpu"
@@ -19678,6 +19762,24 @@
       "duration_ms": 159851,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/1VMBapbhHidf6ALFszT7w1"
+    },
+    {
+      "album": {
+        "name": "Lonely Without You",
+        "url": "https://open.spotify.com/album/3eOyxVblFhEITefWFfLQCH"
+      },
+      "artists": [
+        {
+          "name": "Juliera",
+          "url": "https://open.spotify.com/artist/00it1bBwOIDqd6QFINlBav"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179924,
+      "name": "Lonely Without You",
+      "url": "https://open.spotify.com/track/2EurvjkcgNuBs0YHd17Yfk"
     },
     {
       "album": {
@@ -22561,6 +22663,24 @@
     },
     {
       "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75386,
+      "name": "Mommanem",
+      "url": "https://open.spotify.com/track/3WgFhZfyk5nb6v7hkwPmD4"
+    },
+    {
+      "album": {
         "name": "Essentiels",
         "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
       },
@@ -23506,7 +23626,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 163240,
       "name": "Myliu",
       "url": "https://open.spotify.com/track/1F61F4SNfrF1kYVA6Hwpn5"
@@ -26788,7 +26908,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 163000,
       "name": "Pasilik Praeity",
       "url": "https://open.spotify.com/track/38grlitW19BsvUcEE5pz9Z"
@@ -29637,6 +29757,24 @@
     },
     {
       "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201869,
+      "name": "Ring Ring Ring",
+      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
+    },
+    {
+      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -29750,7 +29888,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -29768,7 +29906,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -30772,7 +30910,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 263996,
       "name": "Saugok \u0161ird\u012f",
       "url": "https://open.spotify.com/track/6aNCsReAOapFAxx43eTBlH"
@@ -33641,6 +33779,24 @@
     },
     {
       "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133307,
+      "name": "Stop Playing With Me",
+      "url": "https://open.spotify.com/track/1IF3hx6HU46Pitm0dOdVJO"
+    },
+    {
+      "album": {
         "name": "The After Taste",
         "url": "https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN"
       },
@@ -33793,6 +33949,24 @@
     },
     {
       "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161051,
+      "name": "Sucka Free",
+      "url": "https://open.spotify.com/track/7DIMKlmJ0CL6eROkbptoqi"
+    },
+    {
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/3sRJWlMDplaZjzPzDhkNRA"
       },
@@ -33808,6 +33982,24 @@
       "duration_ms": 178500,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/4ajjeZhSAVz2Zp9rf9OTIL"
+    },
+    {
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
       "album": {
@@ -39264,7 +39456,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
@@ -41418,7 +41610,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 184421,
       "name": "\u017diburiai",
       "url": "https://open.spotify.com/track/1ccMunAWo1uECFMYCucoE4"

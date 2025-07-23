@@ -6743,6 +6743,32 @@
     },
     {
       "album": {
+        "name": "soulforge",
+        "url": "https://open.spotify.com/album/3QLh11hZLqxnad5iseuVQY"
+      },
+      "artists": [
+        {
+          "name": "dezoliar",
+          "url": "https://open.spotify.com/artist/0KRNE8E0XAJKKHtSakLr85"
+        },
+        {
+          "name": "glossier",
+          "url": "https://open.spotify.com/artist/0NS84XuaSPJTVRebjWQi7v"
+        },
+        {
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134634,
+      "name": "soulforge",
+      "url": "https://open.spotify.com/track/1Hs54M8NA5vCBPj9a786TN"
+    },
+    {
+      "album": {
         "name": "Spark",
         "url": "https://open.spotify.com/album/1HZQDlfcWvNcCPP49YPrFv"
       },

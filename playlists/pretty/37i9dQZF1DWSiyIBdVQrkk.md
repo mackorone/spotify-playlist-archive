@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Original Koffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,229,832 likes - 110 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,229,492 likes - 110 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 57 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 |
 | 58 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
 | 59 | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/track/1MmSKeGyQtsw01TZ4P2AaQ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/album/6Z1RymNPBPYeamjtuAergh) | 3:22 |
-| 60 | [Kingston Be Wise](https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [The 8 Year Affair](https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA) | 4:11 |
-| 61 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 |
+| 60 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 |
+| 61 | [Kingston Be Wise](https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [The 8 Year Affair](https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA) | 4:11 |
 | 62 | [Jah Army](https://open.spotify.com/track/4MAadSz8azCoDgBNX27f0Z) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 4:43 |
 | 63 | [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 |
 | 64 | [Natty Rebel \- Remaster 1990](https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Natty Rebel \(Extra Version\)](https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ) | 3:31 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 70 | [Wanted](https://open.spotify.com/track/4F8EDSwqScQxFaLjtScKWO) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Wanted](https://open.spotify.com/album/2LQ3Ts5RzrOV8sqYTV3xqu) | 3:37 |
 | 71 | [Stand Up](https://open.spotify.com/track/1edoALZCzhBVjdQckf2xzj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Nathalia](https://open.spotify.com/artist/0N8vin0BrXOgEZvdOtjEJ3) | [The Kalling](https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9) | 3:21 |
 | 72 | [Speak Life](https://open.spotify.com/track/21RALCUrU5kzPxas0f12hv) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 5:05 |
-| 73 | [Mountain Top](https://open.spotify.com/track/6hqpa3TiYUz8RYZZf1drrR) | [Biga\*Ranx](https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX) | [Mountain Top](https://open.spotify.com/album/0KM7iPKWcc9rUeXV0mmdVg) | 2:20 |
-| 74 | [Next Generation](https://open.spotify.com/track/41c0QtgRo8YUAmUygqkYMa) | [Israel Vibration](https://open.spotify.com/artist/2Y06xyHPovQ8DWLyVIpSJK), [Aston Barrett Jr.](https://open.spotify.com/artist/7hS8Mjbmnac8TTsU2aSF3y) | [Reggae Music Never Dies](https://open.spotify.com/album/5w2UBqpCdO3S4HJNgIDNbv) | 4:08 |
+| 73 | [Next Generation](https://open.spotify.com/track/41c0QtgRo8YUAmUygqkYMa) | [Israel Vibration](https://open.spotify.com/artist/2Y06xyHPovQ8DWLyVIpSJK), [Aston Barrett Jr.](https://open.spotify.com/artist/7hS8Mjbmnac8TTsU2aSF3y) | [Reggae Music Never Dies](https://open.spotify.com/album/5w2UBqpCdO3S4HJNgIDNbv) | 4:08 |
+| 74 | [Mountain Top](https://open.spotify.com/track/6hqpa3TiYUz8RYZZf1drrR) | [Biga\*Ranx](https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX) | [Mountain Top](https://open.spotify.com/album/0KM7iPKWcc9rUeXV0mmdVg) | 2:20 |
 | 75 | [Take Me Home, Country Roads](https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 3:21 |
 | 76 | [Lady In Red](https://open.spotify.com/track/5OJ3X6sG29MQH3FgeYg66k) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Lady In Red](https://open.spotify.com/album/4e7IXAGjHgtqDAALVF75cn) | 3:54 |
 | 77 | [Deeper](https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc) | [Strictly The Best Vol\. 36](https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G) | 3:50 |
@@ -113,9 +113,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 103 | [Gunman](https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [Gunman](https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR) | 3:53 |
 | 104 | [Good Ol' Days \(featuring Cedella Marley\)](https://open.spotify.com/track/28Q2F391hseaFE88B3jki4) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:17 |
 | 105 | [Ring The Alarm](https://open.spotify.com/track/1jxQKV6UlzV3scs6SMBHNX) | [Tenor Saw](https://open.spotify.com/artist/1LAgDHjyZvOQf39Fa9rtlT) | [Little Sound Boy](https://open.spotify.com/album/79q0gy6D49JPt0mUJPjw3k) | 2:56 |
-| 106 | [Harry Shut](https://open.spotify.com/track/5ij2UDqsBHn8T1f6VkSDMX) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Harry Shut](https://open.spotify.com/album/3cCVjKSH948RpkGmwgkvON) | 2:28 |
-| 107 | [Enemy](https://open.spotify.com/track/2Cc0WpZVvtzKNlFbpLGIqF) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Enemy](https://open.spotify.com/album/27kVp8H89oU90F0umUVzKL) | 2:18 |
-| 108 | [Sweet Inspiration](https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Sweet Inspiration](https://open.spotify.com/album/0kYYdZN5cSgmcBCcA8KmcE) | 3:36 |
+| 106 | [Sweet Inspiration](https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Sweet Inspiration](https://open.spotify.com/album/0kYYdZN5cSgmcBCcA8KmcE) | 3:36 |
+| 107 | [Harry Shut](https://open.spotify.com/track/5ij2UDqsBHn8T1f6VkSDMX) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Harry Shut](https://open.spotify.com/album/3cCVjKSH948RpkGmwgkvON) | 2:28 |
+| 108 | [Enemy](https://open.spotify.com/track/2Cc0WpZVvtzKNlFbpLGIqF) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Enemy](https://open.spotify.com/album/27kVp8H89oU90F0umUVzKL) | 2:18 |
 | 109 | [Grateful](https://open.spotify.com/track/2ys6cWKndwCetchUXyNE2M) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Jemere Morgan](https://open.spotify.com/artist/7t3wkXOe1VYGzhIbhSPEV3) | [Grateful](https://open.spotify.com/album/14qvzwfUMd2XYhmAZUwvbW) | 4:07 |
 | 110 | [Africa Must Wake Up](https://open.spotify.com/track/2TjwK8EkwVUBty7eBUPCYD) | [Nas & Damian "Jr\. Gong" Marley](https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe), [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Distant Relatives](https://open.spotify.com/album/6Cj4gSdavyZCIhmeoCcrI6) | 6:40 |
 

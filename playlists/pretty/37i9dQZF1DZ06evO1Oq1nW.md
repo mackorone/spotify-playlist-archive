@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 
 > This is The O'Jays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,636 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,635 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 43 | [Survival](https://open.spotify.com/track/00ihnchhdgnad1IZSKrM3X) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:42 |
 | 44 | [This Air I Breathe](https://open.spotify.com/track/7tVyJAzdKekmH0ChZxHhxB) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 3:53 |
 | 45 | [Work on Me](https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Travelin' At The Speed Of Thought](https://open.spotify.com/album/7yov15wgCCwdnYKt0edevV) | 4:28 |
-| 46 | [Deeper \(In Love with You\)](https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The O'Jays In Philly](https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP) | 2:39 |
-| 47 | [Let Life Flow](https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:29 |
-| 48 | [My Favorite Person](https://open.spotify.com/track/5o6oXm9EqlIU9OtfSu1gCy) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 4:15 |
-| 49 | [The Big Gangster](https://open.spotify.com/track/52tSalNlWbR6DXOo49p4SM) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:17 |
+| 46 | [Let Life Flow](https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:29 |
+| 47 | [Deeper \(In Love with You\)](https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The O'Jays In Philly](https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP) | 2:39 |
+| 48 | [The Big Gangster](https://open.spotify.com/track/52tSalNlWbR6DXOo49p4SM) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:17 |
+| 49 | [My Favorite Person](https://open.spotify.com/track/5o6oXm9EqlIU9OtfSu1gCy) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 4:15 |
 | 50 | [Crossroads of Life](https://open.spotify.com/track/2HgnJM3AUGszNRPTnbyWOE) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Super Bad](https://open.spotify.com/album/32JJSl2dK1v6F2bzoDwmJP) | 2:48 |
 
-Snapshot ID: `aHwxgAAAAADJy1tbiEKszwjRzcAUeeOZ`
+Snapshot ID: `aH2DAAAAAABsOWji0wTckfuA6UuLAfkE`

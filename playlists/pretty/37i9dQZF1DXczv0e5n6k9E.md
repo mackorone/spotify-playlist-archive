@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: DIFF, BeTaf Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,148 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,150 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 8 | [INTERNATIONAL DEALER](https://open.spotify.com/track/4cRNUlyUF2pzAJMwuymqcb) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [KUZA](https://open.spotify.com/artist/4ProiSRVTojgML0cnk5uHl), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [INTERNATIONAL DEALER](https://open.spotify.com/album/5QotGhXwVM5M5bfDhMIazJ) | 2:41 |
 | 9 | [FHMES](https://open.spotify.com/track/56gbt6Uz4WCUVNwnhlHJSF) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG) | [FHMES](https://open.spotify.com/album/1o5aWUGwCBXVhhfDqdslok) | 2:41 |
 | 10 | [AJO](https://open.spotify.com/track/4zrCTfiRoVOXrz3q0sNW5B) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [1%](https://open.spotify.com/album/3VV0IJpxgIPSxesoopN6s0) | 2:07 |
-| 11 | [Tripani](https://open.spotify.com/track/0ro3SdkXfsAJjcwE4hxLdM) | [ATC Coco](https://open.spotify.com/artist/4t0acKz54CB6uUA1PeB5wq), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [Akou Magka](https://open.spotify.com/album/6cCIPvPKMsnSEplck3oIC5) | 2:31 |
+| 11 | [Tripani](https://open.spotify.com/track/0ro3SdkXfsAJjcwE4hxLdM) | [ATC Coco](https://open.spotify.com/artist/4t0acKz54CB6uUA1PeB5wq), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [triablo](https://open.spotify.com/artist/7lbowexgD4KYoAZbttTGnr) | [Akou Magka](https://open.spotify.com/album/6cCIPvPKMsnSEplck3oIC5) | 2:31 |
 | 12 | [SPORT](https://open.spotify.com/track/4lTMynhF1mg19edWiSiHcw) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [701](https://open.spotify.com/album/1Dj73xfi0uyUA6dPolWkvt) | 2:21 |
 | 13 | [FIESTA](https://open.spotify.com/track/3DnxL7xo2bzubx7WdvICK3) | [Aria](https://open.spotify.com/artist/0V3SclUqf1TeXSY8TdhENd), [Aeon](https://open.spotify.com/artist/5zWF4nQXb3UtlFtG7bHwRu), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [FIESTA](https://open.spotify.com/album/4qlXc2h1UBzzO9Xm0koYFW) | 3:44 |
 | 14 | [ABRA KADABRA](https://open.spotify.com/track/36dCG87rdMiCuZO1sT7R31) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [ABRA KADABRA](https://open.spotify.com/album/6TNh0ivTNyysXuqOUqRnpr) | 2:51 |

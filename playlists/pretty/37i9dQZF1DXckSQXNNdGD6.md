@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto:  FADES.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,761 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,759 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 41 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 |
 | 42 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
 | 43 | [MANIN](https://open.spotify.com/track/4yNI6PHSp0WBV5iJS4tAfj) | [Euskoprincess](https://open.spotify.com/artist/013ZlYSF8o28LMo2qmhjFT), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Mattin](https://open.spotify.com/artist/4MtStwqBW8x22H16pbiYqO), [GlorySixVain](https://open.spotify.com/artist/79lATyc2ODajhNfsqcNnzw) | [TOTOSAKI](https://open.spotify.com/album/5Se7DmKuolG3YN4AE2MD4K) | 2:56 |
-| 44 | [qué bonito fue](https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [qué bonito fue](https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA) | 2:38 |
-| 45 | [ENGATUSAO =^.^=](https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [ENGATUSAO =^.^=](https://open.spotify.com/album/6VAQrU9cMD2HbLEg6lkw8S) | 2:28 |
+| 44 | [ENGATUSAO =^.^=](https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [ENGATUSAO =^.^=](https://open.spotify.com/album/6VAQrU9cMD2HbLEg6lkw8S) | 2:28 |
+| 45 | [qué bonito fue](https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [qué bonito fue](https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA) | 2:38 |
 | 46 | [La Perra de Despeñaperros \(Según Sta\. Francisca\)](https://open.spotify.com/track/2srJ8wZ7AJaPP5Q1p48e0N) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [La Perra de Despeñaperros \(Según Sta\. Francisca\)](https://open.spotify.com/album/2H1bgQIXX0yLMYXG77cUfq) | 2:57 |
 | 47 | [NO PUDE SALVARNOS](https://open.spotify.com/track/292HLgM3QgJNZbfZFDu3BY) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [NO PUDE SALVARNOS](https://open.spotify.com/album/2iCBgzJqgwhsDysYWrjFXO) | 3:33 |
 | 48 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |

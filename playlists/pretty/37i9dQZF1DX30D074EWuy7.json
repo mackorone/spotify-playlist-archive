@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
-  "num_followers": 33071,
+  "num_followers": 33076,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,18 @@
     {
       "added_at": "2025-07-17 22:01:26",
       "album": {
-        "name": "WadiruM",
-        "url": "https://open.spotify.com/album/0qawFDai3sHHcNF8E6woJO"
+        "name": "Funambola",
+        "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
       },
       "artists": [
         {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+          "name": "Patrizia Laquidara",
+          "url": "https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9"
         }
       ],
-      "duration_ms": 219853,
-      "name": "ILLUSIONI E ASTRATTISMI (feat. Paolo Fresu)",
-      "url": "https://open.spotify.com/track/0m4TP7FtjVY7G4PJ45aAKk"
+      "duration_ms": 233160,
+      "name": "Ziza",
+      "url": "https://open.spotify.com/track/6WdTIDGuebUIlkQsWPJZpr"
     },
     {
       "added_at": "2025-07-17 22:01:26",
@@ -695,6 +691,26 @@
     {
       "added_at": "2025-07-17 22:01:26",
       "album": {
+        "name": "WadiruM",
+        "url": "https://open.spotify.com/album/0qawFDai3sHHcNF8E6woJO"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        }
+      ],
+      "duration_ms": 219853,
+      "name": "ILLUSIONI E ASTRATTISMI (feat. Paolo Fresu)",
+      "url": "https://open.spotify.com/track/0m4TP7FtjVY7G4PJ45aAKk"
+    },
+    {
+      "added_at": "2025-07-17 22:01:26",
+      "album": {
         "name": "Galleggiare",
         "url": "https://open.spotify.com/album/0ckS1bMEcLoTmjyoxzIYP6"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 258275,
       "name": "Galleggiare",
       "url": "https://open.spotify.com/track/3FWkpMmUhZK6svSSyJ8pn6"
-    },
-    {
-      "added_at": "2025-07-17 22:01:26",
-      "album": {
-        "name": "Funambola",
-        "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
-      },
-      "artists": [
-        {
-          "name": "Patrizia Laquidara",
-          "url": "https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Ziza",
-      "url": "https://open.spotify.com/track/6WdTIDGuebUIlkQsWPJZpr"
     },
     {
       "added_at": "2025-07-17 22:01:26",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-07-17 22:01:26",
       "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
-    },
-    {
-      "added_at": "2025-07-17 22:01:26",
-      "album": {
         "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
         "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 150000,
       "name": "Appuntamento al mare - Remastered 2022",
       "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
+    },
+    {
+      "added_at": "2025-07-17 22:01:26",
+      "album": {
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2025-07-17 22:01:26",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-07-17 22:01:26",
       "album": {
+        "name": "Scenario",
+        "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Kids are electric",
+      "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
+    },
+    {
+      "added_at": "2025-07-17 22:01:26",
+      "album": {
         "name": "Nidi di Note",
         "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 194638,
       "name": "Inizi\u00f2",
       "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
-    },
-    {
-      "added_at": "2025-07-17 22:01:26",
-      "album": {
-        "name": "Scenario",
-        "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
-      },
-      "artists": [
-        {
-          "name": "C'mon Tigre",
-          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Kids are electric",
-      "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
     },
     {
       "added_at": "2025-07-17 22:01:26",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2025-07-17 22:01:26",
       "album": {
-        "name": "IMMA TATARANNI Sostituto Procuratore, Seconda Stagione (Colonna sonora originale della Serie TV)",
-        "url": "https://open.spotify.com/album/73FP2aV57Q08P4HlV2QdYN"
-      },
-      "artists": [
-        {
-          "name": "Andrea Farri",
-          "url": "https://open.spotify.com/artist/53UG4rUlSm5H3F8C9pXls2"
-        },
-        {
-          "name": "Chiara Civello",
-          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
-        }
-      ],
-      "duration_ms": 177124,
-      "name": "Perdiamoci",
-      "url": "https://open.spotify.com/track/6Gl9tNQtgzQwAcFg17KcqA"
-    },
-    {
-      "added_at": "2025-07-17 22:01:26",
-      "album": {
         "name": "Oltremare",
         "url": "https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5"
       },
@@ -1403,18 +1383,42 @@
     {
       "added_at": "2025-07-17 22:01:26",
       "album": {
-        "name": "Instrumental Ensemble / Soundtrack for Imaginary Movie, Vol. 1",
-        "url": "https://open.spotify.com/album/4d5o8texgFnOEKA6Dau36q"
+        "name": "IMMA TATARANNI Sostituto Procuratore, Seconda Stagione (Colonna sonora originale della Serie TV)",
+        "url": "https://open.spotify.com/album/73FP2aV57Q08P4HlV2QdYN"
       },
       "artists": [
         {
-          "name": "C'mon Tigre",
-          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+          "name": "Andrea Farri",
+          "url": "https://open.spotify.com/artist/53UG4rUlSm5H3F8C9pXls2"
+        },
+        {
+          "name": "Chiara Civello",
+          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
         }
       ],
-      "duration_ms": 213744,
-      "name": "Downfall / New York Ch 6",
-      "url": "https://open.spotify.com/track/2rzl7YHb8hpxKorUkXcj9s"
+      "duration_ms": 177124,
+      "name": "Perdiamoci",
+      "url": "https://open.spotify.com/track/6Gl9tNQtgzQwAcFg17KcqA"
+    },
+    {
+      "added_at": "2025-07-17 22:01:26",
+      "album": {
+        "name": "Morabeza",
+        "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
+        },
+        {
+          "name": "Gabriele Mirabassi",
+          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Giuramento (feat. Gabriele Mirabassi)",
+      "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
     },
     {
       "added_at": "2025-07-17 22:01:26",
@@ -1439,22 +1443,18 @@
     {
       "added_at": "2025-07-17 22:01:26",
       "album": {
-        "name": "Morabeza",
-        "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
+        "name": "Instrumental Ensemble / Soundtrack for Imaginary Movie, Vol. 1",
+        "url": "https://open.spotify.com/album/4d5o8texgFnOEKA6Dau36q"
       },
       "artists": [
         {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
-        },
-        {
-          "name": "Gabriele Mirabassi",
-          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
         }
       ],
-      "duration_ms": 165573,
-      "name": "Giuramento (feat. Gabriele Mirabassi)",
-      "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
+      "duration_ms": 213744,
+      "name": "Downfall / New York Ch 6",
+      "url": "https://open.spotify.com/track/2rzl7YHb8hpxKorUkXcj9s"
     },
     {
       "added_at": "2025-07-17 22:01:26",
@@ -1527,26 +1527,18 @@
     {
       "added_at": "2025-07-17 22:01:26",
       "album": {
-        "name": "Hardiscografia vol.1",
-        "url": "https://open.spotify.com/album/34w8E4hV5w9rjvECUrPRzB"
+        "name": "Non mi resta che tacere",
+        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
       },
       "artists": [
         {
-          "name": "Bravo, Bravissimo",
-          "url": "https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4"
-        },
-        {
-          "name": "Ombra",
-          "url": "https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD"
-        },
-        {
-          "name": "John Vier",
-          "url": "https://open.spotify.com/artist/0P9e8bxMGoq4juGCYDFr3D"
+          "name": "Marta Frigo",
+          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
         }
       ],
-      "duration_ms": 201695,
-      "name": "STUPIDI DUBBI",
-      "url": "https://open.spotify.com/track/6Yp4stZipet2ZeDtVTFKhC"
+      "duration_ms": 275291,
+      "name": "Non mi resta che tacere",
+      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
     },
     {
       "added_at": "2025-07-17 22:01:26",
@@ -1567,18 +1559,26 @@
     {
       "added_at": "2025-07-17 22:01:26",
       "album": {
-        "name": "Non mi resta che tacere",
-        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
+        "name": "Hardiscografia vol.1",
+        "url": "https://open.spotify.com/album/34w8E4hV5w9rjvECUrPRzB"
       },
       "artists": [
         {
-          "name": "Marta Frigo",
-          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
+          "name": "Bravo, Bravissimo",
+          "url": "https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4"
+        },
+        {
+          "name": "Ombra",
+          "url": "https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD"
+        },
+        {
+          "name": "John Vier",
+          "url": "https://open.spotify.com/artist/0P9e8bxMGoq4juGCYDFr3D"
         }
       ],
-      "duration_ms": 275291,
-      "name": "Non mi resta che tacere",
-      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
+      "duration_ms": 201695,
+      "name": "STUPIDI DUBBI",
+      "url": "https://open.spotify.com/track/6Yp4stZipet2ZeDtVTFKhC"
     },
     {
       "added_at": "2025-07-17 22:01:26",
@@ -1643,6 +1643,22 @@
       "duration_ms": 208066,
       "name": "That Old Black Magic",
       "url": "https://open.spotify.com/track/6u1M0I5QpMequyfFxna5fL"
+    },
+    {
+      "added_at": "2025-07-17 22:01:26",
+      "album": {
+        "name": "Le Lune Di Marte",
+        "url": "https://open.spotify.com/album/4jGRF9DJds11TtlqZYbUYR"
+      },
+      "artists": [
+        {
+          "name": "Le Lune Di Marte",
+          "url": "https://open.spotify.com/artist/77tcb1ccZLNvt5UvC5rqYS"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Le Lune Di Marte",
+      "url": "https://open.spotify.com/track/3STXlDp83c3PkDtxwOWG0Q"
     },
     {
       "added_at": "2025-07-17 22:01:26",
@@ -1827,22 +1843,6 @@
     {
       "added_at": "2025-07-17 22:01:26",
       "album": {
-        "name": "Le Lune Di Marte",
-        "url": "https://open.spotify.com/album/4jGRF9DJds11TtlqZYbUYR"
-      },
-      "artists": [
-        {
-          "name": "Le Lune Di Marte",
-          "url": "https://open.spotify.com/artist/77tcb1ccZLNvt5UvC5rqYS"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Le Lune Di Marte",
-      "url": "https://open.spotify.com/track/3STXlDp83c3PkDtxwOWG0Q"
-    },
-    {
-      "added_at": "2025-07-17 22:01:26",
-      "album": {
         "name": "Julia de Palma In Concert",
         "url": "https://open.spotify.com/album/3Jwv7FkYyegDB5Pl6V8pQL"
       },
@@ -1939,30 +1939,6 @@
     {
       "added_at": "2025-07-17 22:01:26",
       "album": {
-        "name": "Norma (Arr. for Jazz Orchestra)",
-        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
-      },
-      "artists": [
-        {
-          "name": "Orchestra Jazz del Mediterraneo",
-          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Paolo Silvestri",
-          "url": "https://open.spotify.com/artist/211mBSaPYcZCx1F9sfDsVr"
-        }
-      ],
-      "duration_ms": 584075,
-      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
-      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
-    },
-    {
-      "added_at": "2025-07-17 22:01:26",
-      "album": {
         "name": "Correspondence",
         "url": "https://open.spotify.com/album/27Bwh5V6QhP7W40ZhV2kyB"
       },
@@ -1991,6 +1967,30 @@
       "duration_ms": 342447,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/5zbZtQukFdYtsxuxdFUUlv"
+    },
+    {
+      "added_at": "2025-07-17 22:01:26",
+      "album": {
+        "name": "Norma (Arr. for Jazz Orchestra)",
+        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Jazz del Mediterraneo",
+          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Paolo Silvestri",
+          "url": "https://open.spotify.com/artist/211mBSaPYcZCx1F9sfDsVr"
+        }
+      ],
+      "duration_ms": 584075,
+      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
+      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
     },
     {
       "added_at": "2025-07-17 22:01:26",

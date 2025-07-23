@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1327984,
+  "num_followers": 1328412,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 154733,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Birds, The Bees, & The Monkees",
         "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 179613,
       "name": "Daydream Believer",
       "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
+        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 154733,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Gettin' Ready (Expanded Edition)",
         "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 156173,
       "name": "Ain't Too Proud To Beg",
       "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Runaway with Del Shannon",
         "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 137306,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Tears Of Fire: The 25th Anniversary Collection",
-        "url": "https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Stand By Your Man",
-      "url": "https://open.spotify.com/track/6xatfNMI8NkY5XxRHAeiS4"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 163680,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Tears Of Fire: The 25th Anniversary Collection",
+        "url": "https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Stand By Your Man",
+      "url": "https://open.spotify.com/track/6xatfNMI8NkY5XxRHAeiS4"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Dance To The Music",
-        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Dance to the Music",
-      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Wicked Pickett",
         "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 187760,
       "name": "Mustang Sally",
       "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Dance to the Music",
+      "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Herman's Hermits Retrospective",
         "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 153506,
       "name": "I'm Into Something Good",
       "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2024-07-12 06:11:58",

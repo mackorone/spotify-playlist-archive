@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,296 likes - 56 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,136 likes - 56 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 40 | [RASPAR](https://open.spotify.com/track/7MQFOGThgDkuk0F7QDzU7C) | [Jeyel](https://open.spotify.com/artist/1L0wrpuVUswyb9s2w7kLo8), [KBP EL ALIEN](https://open.spotify.com/artist/4O6h6daISMFjWaM9xqJxAM), [ARM](https://open.spotify.com/artist/7q1ppdQ7pwZpWtV8UAsHPV) | [RASPAR](https://open.spotify.com/album/3hDdREDmxh97cMeH9T1JlF) | 2:46 |
 | 41 | [Pa Que Me Baile](https://open.spotify.com/track/22FTkXNQfKdz0YhuEiKMOJ) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Pa Que Me Baile](https://open.spotify.com/album/3lreUqBeYGkAcMyWxvriuo) | 2:32 |
 | 42 | [Mentality](https://open.spotify.com/track/7LZyqWfp3JkyG3YNpYNIpw) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [Por El Momento](https://open.spotify.com/album/5ajocepPHfcBFFKxtz9wrL) | 2:49 |
-| 43 | [Hecho En Colombia](https://open.spotify.com/track/508DPO4vj9kXydYRjgulrP) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Hecho En Colombia](https://open.spotify.com/album/0QjX9Na28FzD5PAT6w4EXa) | 5:33 |
+| 43 | [Hecho En Colombia](https://open.spotify.com/track/508DPO4vj9kXydYRjgulrP) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Hecho En Colombia](https://open.spotify.com/album/0QjX9Na28FzD5PAT6w4EXa) | 5:09 |
 | 44 | [Se Pone Pupu Remix](https://open.spotify.com/track/1zWFukrN1xgYN2OG9YzMN5) | [G Owen](https://open.spotify.com/artist/6Wa0USoJMqYvngTNyFcg0K), [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt), [Yael YTBM](https://open.spotify.com/artist/6Asqb0vVpW3cLUbK53VIK5) | [Se Pone Pupu Remix](https://open.spotify.com/album/5pOni092t6nZtvp3L30iIF) | 6:20 |
 | 45 | [When The Wind Blows \- Private Sessions](https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [When The Wind Blows \(Private Sessions\)](https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc) | 4:04 |
 | 46 | [Cosita](https://open.spotify.com/track/4ZLg3p3NAhJEbuulxoo8dl) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Cosita](https://open.spotify.com/album/0CzobG09DxLqzGsCBUkweS) | 3:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3bSz5dBEak.md) - [plain]
 
 > Beethoven's famous works for piano, from wistful sonatas to ghostly trios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,558 likes - 48 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,569 likes - 48 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3bSz5dBEak.md) - [plain]
 | 43 | [Piano Sonata No\. 19 in G Minor, Op\. 49 No\. 1: I\. Andante](https://open.spotify.com/track/2uQgLShu2btitCt1JVWx9c) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Beethoven: Piano Sonatas Opp\. 31 & 49](https://open.spotify.com/album/4qy5eL1BisqgQTjyFvqwDp) | 3:56 |
 | 44 | [Andante favori in F Major, WoO 57](https://open.spotify.com/track/5uNh98GK75IPR8vEKOldTX) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Beethoven: Variations & Bagatelles](https://open.spotify.com/album/7gSVhz9BLCeCrVsi7zwEhE) | 10:39 |
 | 45 | [Piano Sonata No\. 6 in F Major, Op\. 10 No\. 2: I\. Allegro](https://open.spotify.com/track/0LhOmbF5ai9nySQ9vezj9T) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Glenn Gould plays Beethoven: Piano Sonatas Nos\. 1\-3; 5\-10; 12\-14; 15\-18; 23; 30\-32](https://open.spotify.com/album/1TTTmdzL8E6NgrvVJ0ZPF0) | 4:24 |
-| 46 | [11 Bagatelles, Op\. 119: 4\. Andante cantabile](https://open.spotify.com/track/1YbDbX8uec9YXkemEyU8Xq) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Beethoven: Bagatelles Opp\. 33, 119 & 126; Für Elise; Rondo in C; Allegretto in C Minor; Klavierstück in B\-Flat](https://open.spotify.com/album/3hH0HuHvg7QQsnnjBdLkNJ) | 1:42 |
+| 46 | [11 Bagatelles, Op\. 119: No\. 4 in A Major\. Andante cantabile](https://open.spotify.com/track/1YbDbX8uec9YXkemEyU8Xq) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Beethoven: Bagatelles Opp\. 33, 119 & 126; Für Elise; Rondo in C; Allegretto in C Minor; Klavierstück in B\-Flat](https://open.spotify.com/album/3hH0HuHvg7QQsnnjBdLkNJ) | 1:42 |
 | 47 | [Piano Sonata No\. 26 in E\-Flat Major, Op\. 81a "Les Adieux": 1\. Das Lebewohl \(Adagio \- Allegro\)](https://open.spotify.com/track/5IFVx8wzxu8CFowCwp1go3) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [HieYon Choi](https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB) | [Beethoven Piano Sonatas Nos\. 18, 26, 27, 30](https://open.spotify.com/album/3sjVNkbfETPWmywvBtpbEF) | 6:45 |
 | 48 | [Piano Sonata No\. 15 in D Major, Op\. 28, "Pastorale": III\. Scherzo\. Allegro vivace](https://open.spotify.com/track/1gnWEzRRapiYOI5Arbzf0V) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Beethoven: The Complete Piano Sonatas](https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg) | 2:08 |
 

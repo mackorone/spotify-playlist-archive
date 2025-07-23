@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-754 songs - 2 day 9 hr 38 min
+755 songs - 2 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Faust](https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:37 | 2024-03-15 | 2024-04-19 |
 | [Fervor](https://open.spotify.com/track/6qawKh4ooiogvTTDo76Iz0) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Spectral Reverie](https://open.spotify.com/album/3oVYO1VRaPbA7qyb4WzI3N) | 5:58 | 2024-07-02 | 2024-07-27 |
 | [Fever](https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Fever](https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby) | 2:26 | 2025-07-18 |  |
+| [Fight For Life](https://open.spotify.com/track/3lDBo8CXgQQyEfFqK6JWWF) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Usyk](https://open.spotify.com/artist/7k3VABEhfvBBkZ414x2ALB) | [Fight For Life](https://open.spotify.com/album/0vgX5kKmTBtM6BB4CBJyam) | 2:38 | 2025-07-18 |  |
 | [Find A Way \- Adam Sellouk Remix](https://open.spotify.com/track/4KoCo18Zg02uv72tyofFKf) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Promised Land \(Remixes\)](https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn) | 4:48 | 2024-10-03 | 2025-05-23 |
 | [Find Xanadu \- Röyksopp Remix](https://open.spotify.com/track/4xMA1xo81gI8OM1PcwSRUw) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Find Xanadu \(Röyksopp Remix\)](https://open.spotify.com/album/40VhSWNwm8dR9SHxbYZlnt) | 4:06 | 2025-06-26 |  |
 | [Fine Day](https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Fine Day](https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV) | 3:34 | 2024-07-02 | 2025-01-17 |
@@ -552,7 +553,7 @@
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2022-12-28 | 2023-01-06 |
 | [Robotic Arms](https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Robotic Arms](https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR) | 3:50 | 2023-08-04 | 2024-01-06 |
 | [Rohrdommel](https://open.spotify.com/track/5dp3GmE5fxaVpU1Txh7CrE) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Rohrdommel](https://open.spotify.com/album/2gLaWHcazbQZl5CGvx4Djd) | 7:19 | 2025-07-18 |  |
-| [Rondo](https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Rondo](https://open.spotify.com/album/3BR2YAI30QHuaYx95WWlZD) | 2:26 | 2024-04-04 |  |
+| [Rondo](https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Rondo](https://open.spotify.com/album/3BR2YAI30QHuaYx95WWlZD) | 2:26 | 2024-04-04 | 2025-07-23 |
 | [Run](https://open.spotify.com/track/4bZh8RQpNQCJs5A7WvVC69) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Run](https://open.spotify.com/album/0zJtwrOgT3IqXpYAOFX71i) | 4:05 | 2024-11-28 | 2025-03-28 |
 | [Run & Hide \- Ae:ther Remix](https://open.spotify.com/track/1vPsTGsRfdTRhzUHG7kTLF) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Run & Hide \(Ae:ther Remix\)](https://open.spotify.com/album/1YfMh6jxGPAdTxuRIYESMS) | 7:02 | 2022-12-02 | 2023-02-04 |
 | [Running](https://open.spotify.com/track/1UK6MLsIj7Ioj0BlXl2T8f) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [By My Side](https://open.spotify.com/album/0qpTdZu8Wd1kTdHzYfk5cK) | 6:46 | 2024-02-01 | 2024-03-23 |

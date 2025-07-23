@@ -4,7 +4,7 @@
 
 > 2021
 
-135 songs - 9 hr 0 min
+136 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [True Love Waits](https://open.spotify.com/track/07XaOyTS5hyaWiUK1Bc3bR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 4:43 | 2025-03-06 |  |
 | [Two Fingers](https://open.spotify.com/track/582EVyAFKmKPa1bVPSDurJ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 3:15 | 2025-03-07 |  |
 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 | 2023-07-24 |  |
+| [Virginia](https://open.spotify.com/track/5SejvjBqkWfoqiddeZCE92) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [No Silent Monks](https://open.spotify.com/album/4xYUBosfxtM0xofFQCJnyn) | 3:03 | 2025-07-22 |  |
 | [Wandering Nomad](https://open.spotify.com/track/03l0rO4IIIuGWqOujIJXOK) | [Cody Francis](https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32) | [Good Days](https://open.spotify.com/album/7zZWkvMoTkylBihC81VqDd) | 2:53 | 2022-07-01 |  |
 | [What Was I Made For? \(Epilogue\) \- Instrumental Version](https://open.spotify.com/track/5n6l4Q0qiVOQ55B0OvOfVr) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 1:32 | 2025-02-05 |  |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2023-09-02 |  |

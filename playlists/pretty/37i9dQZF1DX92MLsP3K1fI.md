@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Cancamusa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,225 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,243 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 33 | [MAREA](https://open.spotify.com/track/2s3GtItJY3hisk0AXghYVb) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [MAREA](https://open.spotify.com/album/39iEyuUQU9soHpbjekysNA) | 2:57 |
 | 34 | [Película \- Intervenida por Ximena Sariñana](https://open.spotify.com/track/5fINk1PUFJA9NEqjm8WxHF) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Película \(Intervenida por Ximena Sariñana\)](https://open.spotify.com/album/6k9ZfN94JcZC67UPDLuTDS) | 4:03 |
 | 35 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
-| 36 | [Manhattan](https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:50 |
-| 37 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
+| 36 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
+| 37 | [Manhattan](https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:50 |
 | 38 | [No Molestar](https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:37 |
 | 39 | [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 |
 | 40 | [vienes o vas?](https://open.spotify.com/track/2zDJ3vv52l9dKjAM7BUnLN) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [vienes o vas?](https://open.spotify.com/album/43485os867PpeGvfNwp5bB) | 2:33 |

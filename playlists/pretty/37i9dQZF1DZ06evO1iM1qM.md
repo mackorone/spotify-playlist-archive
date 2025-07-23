@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,481 likes - 50 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,494 likes - 50 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 23 | [Blue Train](https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 10:43 |
 | 24 | [Everytime We Say Goodbye](https://open.spotify.com/track/6yuhA5jlK7gEAIVoJ5WK1f) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [My Favorite Things \(Deluxe Edition\)](https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0) | 5:45 |
 | 25 | [Flamenco Sketches \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/6dRx7OUXfvosnXG3g9lWGi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:26 |
-| 26 | [Theme For Ernie](https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Soultrane](https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg) | 4:53 |
-| 27 | [The Feeling Of Jazz](https://open.spotify.com/track/6aQjtWVOYLhaatELyPBt12) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 5:29 |
+| 26 | [The Feeling Of Jazz](https://open.spotify.com/track/6aQjtWVOYLhaatELyPBt12) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 5:29 |
+| 27 | [Theme For Ernie](https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Soultrane](https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg) | 4:53 |
 | 28 | [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 |
 | 29 | [Violets For Your Furs \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 6:15 |
 | 30 | [Giant Steps \- 2020 Remaster](https://open.spotify.com/track/1ZXu0ib26kWfQQngREMcU2) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(60th Anniversary Super Deluxe Edition\) \[2020 Remaster\]](https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 49 | [Moment's Notice](https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 9:10 |
 | 50 | [Mr\. P.C\. \- Mono](https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 6:58 |
 
-Snapshot ID: `aHwxgAAAAAAKKV8HnHMfdXcMLEdOWzVN`
+Snapshot ID: `aH2DAAAAAABBOgpXbix1nfibXXKEzO4U`

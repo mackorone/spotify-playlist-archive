@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 122391,
+  "num_followers": 122503,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAAUFCsY+5eYL3a68PQLFbg9",
+  "snapshot_id": "aH2DAAAAAADEN88KgeDLdVX4SJBAMKa3",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Don't Want You",
+        "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "I Don't Want You",
+      "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Money Calling (feat. RAYE, Russ Millions & wewantwraiths)",
         "url": "https://open.spotify.com/album/3E9ya95dpugJBXNlHEilrA"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 191897,
       "name": "Money Calling (feat. RAYE, Russ Millions & wewantwraiths)",
       "url": "https://open.spotify.com/track/58BJ5oUPX5ST2pjCtOSMkk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Don't Want You",
-        "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "I Don't Want You",
-      "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
     },
     {
       "added_at": null,

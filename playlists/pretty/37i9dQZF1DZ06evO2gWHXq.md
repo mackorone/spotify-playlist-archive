@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,578 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,589 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 30 | [¿Cómo Se Supera?](https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [¿Cómo Se Supera?](https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF) | 3:23 |
 | 31 | [Mentiras](https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mentiras](https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK) | 4:43 |
 | 32 | [Por si pego](https://open.spotify.com/track/6f7FcB2WIxmu8IJPqxY1nq) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Canciones Mamalonas 3](https://open.spotify.com/album/2sLUDN7rY8R4groR12KFbL) | 3:26 |
-| 33 | [Siempre Es Lo Mismo](https://open.spotify.com/track/2dbH2TKWAKoJxG1W0SZxmM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 4:06 |
+| 33 | [La Que Decía Que No](https://open.spotify.com/track/3eK1cGd1tYOV64neq82IKu) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 2:28 |
 | 34 | [El mañana \(feat\. Meny Méndez\)](https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:16 |
 | 35 | [Round 3 \(feat\. C\-Kan\)](https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Las 2 Caras](https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK) | 3:25 |
 | 36 | [Morro Dolido](https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Morro Dolido](https://open.spotify.com/album/3ijLDnCY3DxAvdFzFpcuq4) | 3:14 |
-| 37 | [La Que Decía Que No](https://open.spotify.com/track/3eK1cGd1tYOV64neq82IKu) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 2:28 |
+| 37 | [Siempre Es Lo Mismo](https://open.spotify.com/track/2dbH2TKWAKoJxG1W0SZxmM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 4:06 |
 | 38 | [Me iré](https://open.spotify.com/track/6CSexH4aNAaHWVyetH747g) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:18 |
 | 39 | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/track/1fuiGCrx88jnZYOHhskSzT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Las 2 Caras](https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK) | 4:00 |
 | 40 | [Round 5 \(feat\. MC Davo\)](https://open.spotify.com/track/6OydVhuksIoJcKztWssPKe) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [The Take Over, Vol\. 3](https://open.spotify.com/album/4JTxI5uDDK11MT6fuqF1ax) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 49 | [Bandidas](https://open.spotify.com/track/7nOe5YtRc78d1vFGt1zi1V) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bandidas](https://open.spotify.com/album/2ADVnJXAX6V7NQoerdXPmD) | 2:22 |
 | 50 | [Por Qué Será?](https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Por Qué Será?](https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V) | 3:19 |
 
-Snapshot ID: `aHwxgAAAAAABOcov728G7xx5qiIbRrZB`
+Snapshot ID: `aH2DAAAAAABnaS6Y6WWRg782eJuagQyR`

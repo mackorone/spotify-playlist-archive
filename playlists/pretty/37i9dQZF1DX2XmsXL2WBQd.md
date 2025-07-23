@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,028 likes - 70 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,115 likes - 70 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 22 | [So Wat Cha Sayin'](https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Unfinished Business](https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr) | 4:57 |
 | 23 | [The Magic Number](https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Magic Number](https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31) | 3:15 |
 | 24 | [Rock Box](https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 5:30 |
-| 25 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
-| 26 | [Paid In Full](https://open.spotify.com/track/3fatX7w8Wt9nmwGlXZsRFh) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv), [Marley Marl](https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs) | [Paid In Full](https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m) | 3:48 |
+| 25 | [Paid In Full](https://open.spotify.com/track/3fatX7w8Wt9nmwGlXZsRFh) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv), [Marley Marl](https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs) | [Paid In Full](https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m) | 3:48 |
+| 26 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
 | 27 | [Hey DJ](https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo) | [Worlds Famous Supreme Team](https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti) | [Hey DJ](https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2) | 3:26 |
 | 28 | [I Need Love](https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 5:21 |
 | 29 | [Top Billin \- Acapella](https://open.spotify.com/track/59vYYvb9JS5IQAp8xpf0CY) | [Audio Two](https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1) | [What More Can I Say](https://open.spotify.com/album/4ULe1bx6XkffNvsbB9DHr6) | 2:55 |
-| 30 | [The Bridge Is Over](https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 3:24 |
-| 31 | [Follow The Leader](https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Follow The Leader](https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH) | 5:36 |
+| 30 | [Follow The Leader](https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Follow The Leader](https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH) | 5:36 |
+| 31 | [The Bridge Is Over](https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 3:24 |
 | 32 | [Wild Wild West](https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [How Ya Like Me Now \(Expanded Edition\)](https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI) | 4:40 |
 | 33 | [Colors \- 2014 Remaster](https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Greatest Hits](https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1) | 4:26 |
 | 34 | [Vapors](https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Biz's Baddest Beats: The Best of Biz Markie](https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t) | 6:02 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 36 | [Get into It](https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp) | [Tony Scott](https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO) | [The Chief](https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa) | 3:17 |
 | 37 | [Buffalo Gals](https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ) | [Duck Rock](https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0) | 4:19 |
 | 38 | [Al\-Naafyish \(The Soul\)](https://open.spotify.com/track/6nDk4QT1fDe0S86PxijTUE) | [Hashim](https://open.spotify.com/artist/6AWyFSk8mBekuHeotBV1Jx) | [Al\-Naafyish](https://open.spotify.com/album/7uOndksGzmAduRTenxvVIt) | 6:14 |
-| 39 | [Friends](https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:39 |
-| 40 | [I Ain't No Joke](https://open.spotify.com/track/3IxqPuIsNbuudNO3cT9n8P) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m) | 3:52 |
+| 39 | [I Ain't No Joke](https://open.spotify.com/track/3IxqPuIsNbuudNO3cT9n8P) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m) | 3:52 |
+| 40 | [Friends](https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:39 |
 | 41 | [South Bronx](https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 5:08 |
 | 42 | [Ego Trippin'](https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo) | [Ultramagnetic MC's](https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z) | [Critical Beatdown \(Re\-Issue\)](https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ) | 5:26 |
 | 43 | [Hip Hop Be Bop \(Original Version\)](https://open.spotify.com/track/21NALHsloDI31T781jDMFw) | [Man Parrish](https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr) | [Hip Hop Be Bop](https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg) | 5:36 |
-| 44 | [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 |
-| 45 | [I Know You Got Soul](https://open.spotify.com/track/53eSPiEnq4XkQSxczX7iKA) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m) | 4:44 |
+| 44 | [I Know You Got Soul](https://open.spotify.com/track/53eSPiEnq4XkQSxczX7iKA) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m) | 4:44 |
+| 45 | [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 |
 | 46 | [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 |
 | 47 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
 | 48 | [I Got It Made](https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz) | [Special Ed](https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx) | [Youngest in Charge](https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk) | 3:41 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 67 | [Straight Outta Compton](https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd) | 4:18 |
 | 68 | [Boyz\-N\-The\-Hood](https://open.spotify.com/track/4SZ3B3y1TbwTK4OIXMOVEy) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [The Best Of N.W.A: The Strength Of Street Knowledge](https://open.spotify.com/album/1RcZMUVcZrMxf1shgPN4o0) | 5:36 |
 | 69 | [The Message \- Extended Version](https://open.spotify.com/track/5isA9icHWl2651hvfr1EOV) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [The Message \(Expanded Edition\)](https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC) | 7:10 |
-| 70 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
+| 70 | [Bust A Move](https://open.spotify.com/track/29ssM9oYcFjoZGi4UWxq6X) | [Young MC](https://open.spotify.com/artist/5n30a5V4ftXNMHCHChmK2h) | [Stone Cold Rhymin' \(Deluxe Edition\)](https://open.spotify.com/album/1mp9ks0PqwGCLbe7y0jCKr) | 4:23 |
 
 Snapshot ID: `Zn6LGAAAAACApF7D5hce7st6TyUDNhZk`

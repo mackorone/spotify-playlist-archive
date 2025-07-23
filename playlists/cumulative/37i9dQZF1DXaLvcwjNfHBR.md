@@ -4,7 +4,7 @@
 
 > Your new favourite songs! Cover: Fred again..
 
-866 songs - 1 day 21 hr 52 min
+867 songs - 1 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,11 +160,12 @@
 | [Casanova](https://open.spotify.com/track/4lJLnVBDuYMj6Knll4Wcnc) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Casanova](https://open.spotify.com/album/0XFw2p6US2uootA3nofB65) | 3:38 | 2023-09-21 | 2023-12-09 |
 | [Cats On The Ceiling](https://open.spotify.com/track/5vUuph3JtWrj6ybozdypiO) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats On The Ceiling](https://open.spotify.com/album/5v1mZVD9q18qFAfMywtSkp) | 3:33 | 2024-10-22 | 2025-02-25 |
 | [Celine](https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Celine](https://open.spotify.com/album/2osmYzbFYfQEbIeq5QB6Hc) | 3:13 | 2023-09-01 | 2023-09-29 |
+| [CHAMPAIN & VACAY](https://open.spotify.com/track/1Hi767DLfXUOm7Cj8lmd97) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 3:04 | 2025-07-22 |  |
 | [Changes](https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Changes](https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk) | 3:38 | 2024-04-04 | 2024-05-17 |
 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 | 2023-08-25 | 2023-10-27 |
 | [check](https://open.spotify.com/track/02b35qI48b1RWhsFNKCb1Y) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [check](https://open.spotify.com/album/7hCpAt99Yn4Ny26WZUBuBi) | 2:02 | 2025-03-04 | 2025-06-25 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-06-15 | 2024-03-01 |
-| [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:20 | 2025-04-15 |  |
+| [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:20 | 2025-04-15 | 2025-07-23 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-16 | 2024-08-16 |
 | [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 | 2023-06-15 | 2023-07-17 |
 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-07-25 | 2024-09-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,266 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,265 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 9 | [Bad Vibe](https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Lotto Boyzz](https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:34 |
 | 10 | [Arcoíris](https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:06 |
 | 11 | [Chop Time, No Friend](https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:48 |
-| 12 | [Love Me Now](https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Love Me Now](https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD) | 2:25 |
-| 13 | [Dance For Me \(Eugy X Mr Eazi\)](https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dance For Me \(Eugy X Mr Eazi\)](https://open.spotify.com/album/0SwJftCsa4HhuNWT11cIlJ) | 3:24 |
+| 12 | [Dance For Me \(Eugy X Mr Eazi\)](https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dance For Me \(Eugy X Mr Eazi\)](https://open.spotify.com/album/0SwJftCsa4HhuNWT11cIlJ) | 3:24 |
+| 13 | [Love Me Now](https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Love Me Now](https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD) | 2:25 |
 | 14 | [Falling For U](https://open.spotify.com/track/1RrayK8ea3tDtD1QnNMUL9) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Lost Files](https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z) | 3:03 |
 | 15 | [Pour Me Water](https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
 | 16 | [On D Low](https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 1:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [AKWAABA](https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Patapaa](https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [AKWAABA](https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj) | 3:26 |
 | 50 | [Dame Un Break \- Remix](https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Dame Un Break \(Remix\)](https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN) | 4:22 |
 
-Snapshot ID: `aHwxgAAAAACd75QLqZWl993jME32xYQr`
+Snapshot ID: `aH2DAAAAAAAhX0NZ69C4gMKCEM4RLmi0`

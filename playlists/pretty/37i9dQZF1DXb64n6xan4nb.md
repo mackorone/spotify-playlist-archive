@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,163 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,181 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 22 | [Y \(Please Tell Me Why\)](https://open.spotify.com/track/1nk9moKBnrWMsXoHxnaeJd) | [freestyle](https://open.spotify.com/artist/0LigV2SSsRZaeX2htEFXV9) | [Freestyle 3](https://open.spotify.com/album/6cPklgz0YWJY7VQSR5PIZY) | 4:40 |
 | 23 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 |
 | 24 | [P.D.A\. \(We Just Don't Care\)](https://open.spotify.com/track/0ZBtXonwjdAbRo2UrD0Efq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 4:38 |
-| 25 | [헤어지지 못하는 여자, 떠나가지 못하는 남자 Can't Breakup Girl, Can't Breakaway Boy \(feat\. 정인 Jung In\)](https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Hexagonal](https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS) | 4:44 |
-| 26 | [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The NuTs](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 |
+| 25 | [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The NuTs](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 |
+| 26 | [헤어지지 못하는 여자, 떠나가지 못하는 남자 Can't Breakup Girl, Can't Breakaway Boy \(feat\. 정인 Jung In\)](https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Hexagonal](https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS) | 4:44 |
 | 27 | [On Rainy Days](https://open.spotify.com/track/4Cdyx3bs8mMYVJWP3wHPXj) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Fiction And Fact](https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s) | 3:45 |
 | 28 | [우산 \(feat\. 윤하\)](https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Pieces, Part One](https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO) | 5:01 |
 | 29 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 85 | [흩어진 나날들](https://open.spotify.com/track/59LCK6UpQY1qhGPEp66AZp) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Neo Classicism](https://open.spotify.com/album/26KTR4BV6sZ7jh0BxO3zIj) | 3:51 |
 | 86 | [Promise U \(Original Ver.\)](https://open.spotify.com/track/0xal1TDjG4hQRt6poGvoml) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Afterglow](https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb) | 4:03 |
 | 87 | [인형의 꿈](https://open.spotify.com/track/3oP1wIigVlJsWMVXXZNisL) | [일기예보](https://open.spotify.com/artist/41uzoiojZhXj2jXpm6CaFi) | [For Everlasting](https://open.spotify.com/album/5Yzg3Kgg5ySxv76oGdw1CW) | 4:15 |
-| 88 | [잠시 길을 잃다](https://open.spotify.com/track/3GyOvpjHY0fm3nQJcLPDbD) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [신보경](https://open.spotify.com/artist/48INQ7U2sSQmgbfa9r5bU9) | [Lucky 7](https://open.spotify.com/album/3RrKHh0VKEzefkMOekGJn9) | 4:25 |
-| 89 | [Butterfly Grave \(2015\)](https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn) | [TAKE](https://open.spotify.com/artist/2lNzqnNwPiE1mqUeZhrjMv) | [TAKE](https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v) | 4:29 |
+| 88 | [Butterfly Grave \(2015\)](https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn) | [TAKE](https://open.spotify.com/artist/2lNzqnNwPiE1mqUeZhrjMv) | [TAKE](https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v) | 4:29 |
+| 89 | [잠시 길을 잃다](https://open.spotify.com/track/3GyOvpjHY0fm3nQJcLPDbD) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [신보경](https://open.spotify.com/artist/48INQ7U2sSQmgbfa9r5bU9) | [Lucky 7](https://open.spotify.com/album/3RrKHh0VKEzefkMOekGJn9) | 4:25 |
 | 90 | [그대 떠난 뒤 \(with 브라운 아이드 소울\)](https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 5:37 |
 | 91 | [My Tipsy Confession](https://open.spotify.com/track/62ElSn0docGvjnA7k30swo) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [2008 Concert, Monologue](https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu) | 6:06 |
 | 92 | [내 입술 따뜻한 커피처럼](https://open.spotify.com/track/3Jy7rkhHWuPGPZYVyMYwSp) | [Lee Ji Hye](https://open.spotify.com/artist/4fjnGkj0w54KWyIk2VTW7B) | [그대 없이 난](https://open.spotify.com/album/776V3gt9aWQottoKzYT55S) | 4:27 |

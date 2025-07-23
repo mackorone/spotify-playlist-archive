@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-639 songs - 1 day 14 hr 23 min
+641 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Losing Touch](https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI) | 3:55 | 2022-11-11 | 2024-03-21 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2023-06-14 | 2023-08-30 |
 | [Lost In This City](https://open.spotify.com/track/2Z4GLUVtWq0C95WSeJtWIM) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 4:29 | 2022-03-30 | 2022-04-21 |
+| [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 | 2025-07-23 |  |
 | [Lou's Tune](https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Lou's Tune](https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A) | 1:42 | 2024-04-10 |  |
 | [Love Is A Place](https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:05 | 2025-06-04 |  |
 | [Love Is The Way](https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0) | 2:59 | 2023-04-25 | 2024-04-19 |
@@ -344,9 +345,9 @@
 | [Lowdown \(2023 Remaster\)](https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees \(2023 Remaster\)](https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI) | 5:17 | 2023-09-19 | 2024-04-19 |
 | [Lucky Man](https://open.spotify.com/track/2h6yMYLEO78sxiDV2VX8jD) | [Courtney John](https://open.spotify.com/artist/53uGQ1amGHHb0Tzn2A6Oc0) | [Chef \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5wXB3JnWbBotktSeTuy1E2) | 3:16 | 2022-03-30 | 2022-04-18 |
 | [Lucy](https://open.spotify.com/track/4RiI45Iahn7FkK4DFJFgIW) | [Yenkee](https://open.spotify.com/artist/505IK3HblsNtDKDac0Dedd) | [Lucy](https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz) | 3:46 | 2021-12-16 |  |
-| [Lynchpin](https://open.spotify.com/track/3JqlzKVpYrUFgKuH6VQ9MP) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [More Or Less](https://open.spotify.com/album/6h89MkTciHXow6Jc2lcfVL) | 4:02 | 2022-03-30 |  |
+| [Lynchpin](https://open.spotify.com/track/3JqlzKVpYrUFgKuH6VQ9MP) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [More Or Less](https://open.spotify.com/album/6h89MkTciHXow6Jc2lcfVL) | 4:02 | 2022-03-30 | 2025-07-23 |
 | [Macadamian](https://open.spotify.com/track/2sOwLI2gzNmBop0emWZQuf) | [Jimmy Smash](https://open.spotify.com/artist/3ziswS6VSBGwPzIlvEV2zQ) | [Macadamian](https://open.spotify.com/album/50LxIKOBbT4jPIsKL7A1dE) | 3:26 | 2021-12-16 | 2022-02-05 |
-| [Madagascar](https://open.spotify.com/track/5S3qQPyFEezyWBFemwm1Yq) | [LAKE](https://open.spotify.com/artist/1KvWSkU2qrxVTpkMgdMqqF) | [Let's Build a Roof \(DELUXE EDITION\)](https://open.spotify.com/album/2yMRwQOsvtRNS29Zr504wU) | 3:13 | 2025-04-29 |  |
+| [Madagascar](https://open.spotify.com/track/5S3qQPyFEezyWBFemwm1Yq) | [LAKE](https://open.spotify.com/artist/1KvWSkU2qrxVTpkMgdMqqF) | [Let's Build a Roof \(DELUXE EDITION\)](https://open.spotify.com/album/2yMRwQOsvtRNS29Zr504wU) | 3:13 | 2025-04-29 | 2025-07-23 |
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 | 2022-03-30 | 2023-09-20 |
 | [Make Love](https://open.spotify.com/track/3vswwICYQI9Wtq4QCj2nDV) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [The Jack Moves](https://open.spotify.com/album/48GX3PHuxLRJemYHX934YI) | 2:44 | 2022-03-30 | 2022-04-16 |
 | [Make You](https://open.spotify.com/track/1SPUmDMhbzHOsizroAypLi) | [Famous Yesterday](https://open.spotify.com/artist/6SQu8AZw8mjUFT6GFxBJ7h) | [Make You](https://open.spotify.com/album/71K55CCV4inStm0uoLJZF8) | 2:50 | 2021-12-16 | 2022-07-29 |
@@ -468,6 +469,7 @@
 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 | 2023-09-19 |  |
 | [Runway Gurl \- Original Mix](https://open.spotify.com/track/4qEt7wJkdViaMNi2EP0SDk) | [Chuggin Edits](https://open.spotify.com/artist/765A5emJkUUu04hkQaN3Op) | [Get a Room](https://open.spotify.com/album/5GpVL1Hn8CFb2vhhLCQacJ) | 5:34 | 2021-12-16 | 2022-07-29 |
 | [S.O.L.](https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [S.O.L\. EP](https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk) | 5:49 | 2024-12-09 |  |
+| [Sabor Dulce](https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59) | [Los Belkings](https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn) | [Los Belkings \(Ayer y Hoy\)](https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie) | 3:28 | 2025-07-23 |  |
 | [Sad Dream](https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j) | [EchoWave](https://open.spotify.com/artist/6cRSP0k82PWTiEmLPqwrTI) | [Sad Dream](https://open.spotify.com/album/2HIWjaGWNOazjOiF7cpUrr) | 3:40 | 2024-08-14 | 2024-11-12 |
 | [Safe](https://open.spotify.com/track/4ofgRDtuYb7hfBgZLSAw4X) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Safe](https://open.spotify.com/album/3Y8WcmnrpBlWPFlN3zeFU0) | 3:05 | 2021-12-16 | 2022-07-29 |
 | [Safe](https://open.spotify.com/track/3oXo5b276GoNWN3DODNIU1) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Safe](https://open.spotify.com/album/1kATrLjraOyo3ZSLIVSxUe) | 3:05 | 2022-07-26 | 2022-10-04 |

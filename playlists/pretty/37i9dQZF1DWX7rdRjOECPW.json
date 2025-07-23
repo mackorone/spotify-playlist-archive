@@ -1,6 +1,6 @@
 {
   "description": "Sommer, Sonne, Seewetter! \u2600\ufe0f",
-  "num_followers": 1596633,
+  "num_followers": 1597230,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -783,8 +783,8 @@
     {
       "added_at": "2025-07-17 10:02:04",
       "album": {
-        "name": "Think Of Me",
-        "url": "https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH"
+        "name": "Loosen Up",
+        "url": "https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ"
       },
       "artists": [
         {
@@ -792,21 +792,17 @@
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Dawty",
+          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
         },
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+          "name": "Preston Harris",
+          "url": "https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8"
         }
       ],
-      "duration_ms": 170041,
-      "name": "Think Of Me",
-      "url": "https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS"
+      "duration_ms": 180000,
+      "name": "Loosen Up",
+      "url": "https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA"
     },
     {
       "added_at": "2025-07-17 10:02:04",
@@ -903,8 +899,8 @@
     {
       "added_at": "2025-07-17 10:02:04",
       "album": {
-        "name": "Loosen Up",
-        "url": "https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ"
+        "name": "Think Of Me",
+        "url": "https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH"
       },
       "artists": [
         {
@@ -912,17 +908,21 @@
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Dawty",
-          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Preston Harris",
-          "url": "https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Loosen Up",
-      "url": "https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA"
+      "duration_ms": 170041,
+      "name": "Think Of Me",
+      "url": "https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS"
     },
     {
       "added_at": "2025-07-17 10:02:04",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2025-07-17 10:02:04",
       "album": {
-        "name": "PRIDE",
-        "url": "https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
-        }
-      ],
-      "duration_ms": 158150,
-      "name": "PRIDE",
-      "url": "https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO"
-    },
-    {
-      "added_at": "2025-07-17 10:02:04",
-      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/3C1Qcd5uy6v1Nbmo1DG8cW"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 185825,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/38pfUvhqVyuvlgUBiNaZSo"
+    },
+    {
+      "added_at": "2025-07-17 10:02:04",
+      "album": {
+        "name": "PRIDE",
+        "url": "https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "duration_ms": 158150,
+      "name": "PRIDE",
+      "url": "https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO"
     },
     {
       "added_at": "2025-07-17 10:02:04",

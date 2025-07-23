@@ -4,7 +4,7 @@
 
 > easy breezy summer 2025 ☀️☺️
 
-323 songs - 15 hr 57 min
+324 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [L'Espoir](https://open.spotify.com/track/1g2ME7UD2zp1ev3k2Rh4R2) | [Parker Penélope](https://open.spotify.com/artist/2mQ4IKwABZiGYUWgHQZIaU) | [L'Espoir](https://open.spotify.com/album/0JMkp22Tw2LGehlmoANxQC) | 3:15 | 2024-07-26 | 2024-08-02 |
 | [Late Delivery](https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Late Delivery](https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552) | 3:22 | 2022-09-29 | 2023-01-06 |
 | [Late Summer](https://open.spotify.com/track/3COQYxU8yIBa3oBOnM6EN0) | [Starzun](https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8) | [Late Summer](https://open.spotify.com/album/6OSd4iI6NTYLl0FHebISnG) | 2:04 | 2025-03-28 | 2025-05-19 |
+| [Lately](https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77), [Chilled Virus](https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM) | [Lately](https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY) | 2:25 | 2025-07-17 |  |
 | [Let Me Need You](https://open.spotify.com/track/5kvVE1FxuGWM8YoZw4hMhZ) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Let Me Need You](https://open.spotify.com/album/16SmiaQKxis5qS3NizFG6w) | 3:32 | 2024-07-26 | 2024-08-02 |
 | [Liberation \- Re\-Edit](https://open.spotify.com/track/6WN6igAeshqOoQu0q2GoJG) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Liberation \(Re\-Edit\)](https://open.spotify.com/album/5Hlwyl3nWVOCYOCpzEIzyR) | 2:56 | 2022-09-15 | 2022-09-30 |
 | [Lie](https://open.spotify.com/track/7iJM2yX8oSRtHRTICv8g1W) | [Xiam](https://open.spotify.com/artist/6W0fy0QYg158jtGa4cfJ84), [Rukid](https://open.spotify.com/artist/190Yg2nkLySugQt7NXZf5a), [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3), [XiVi](https://open.spotify.com/artist/5kSQyE24NUXlYItBS7vSTv) | [Lie](https://open.spotify.com/album/1tA460OSln1Gz06zSqRFkJ) | 2:08 | 2024-03-21 | 2024-11-15 |
@@ -329,7 +330,7 @@
 | [Without You](https://open.spotify.com/track/70H0AMIuTm0brh3hznKvFu) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Without You](https://open.spotify.com/album/6BfoGzmHPWCL2DqWhehAcv) | 3:22 | 2025-02-28 |  |
 | [Yellow](https://open.spotify.com/track/0Qo7CkcDDO6DqFvXD50kYm) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ) | [Yellow](https://open.spotify.com/album/3X0qecgrGCKkWRuZ0KfnZL) | 3:12 | 2024-10-03 | 2024-12-13 |
 | [You & Me](https://open.spotify.com/track/4uf8L5rd9P03zMtPqkxgcC) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [You & Me](https://open.spotify.com/album/2jECfxxR78sVamdmtXRZX4) | 2:28 | 2025-02-07 |  |
-| [You Have To Have A Goal](https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [You Have To Have A Goal](https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX) | 2:13 | 2025-06-26 |  |
+| [You Have To Have A Goal](https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [You Have To Have A Goal](https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX) | 2:13 | 2025-06-26 | 2025-07-23 |
 | [Young Folks](https://open.spotify.com/track/0VnspztuailO1g8bKY6tfn) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn), [Alex Grey](https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf) | [Young Folks](https://open.spotify.com/album/5jplgAkT3cHlmsvVKPcDlT) | 3:15 | 2025-03-06 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

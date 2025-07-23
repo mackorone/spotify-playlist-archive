@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 
 > This is Julieta Venegas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,210 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,249 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 49 | [De Ti](https://open.spotify.com/track/1G4blOR671oPTfalkEIabL) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [De Ti](https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj) | 3:44 |
 | 50 | [Todo Está Aquí](https://open.spotify.com/track/1ZWMncfqWIcfizYg1uTnix) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm) | 3:51 |
 
-Snapshot ID: `aHwxgAAAAABBRcXQsrfA+03ohbE2curn`
+Snapshot ID: `aH2DAAAAAACclf7ieGfu/PMOlqdU3fj8`

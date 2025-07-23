@@ -1,6 +1,6 @@
 {
   "description": "Timeless Salsa from your favorite legends.",
-  "num_followers": 1436018,
+  "num_followers": 1436234,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
@@ -1619,38 +1619,6 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 351813,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
-        "name": "El Cantante de los Cantantes",
-        "url": "https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 622520,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
         "name": "Detalles",
         "url": "https://open.spotify.com/album/0yw16WalUWK5vOUbFlGYAI"
       },
@@ -1667,18 +1635,18 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
-        "name": "Traigo de Todo",
-        "url": "https://open.spotify.com/album/59PyYgxcFv1kahbd8TKidc"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
       },
       "artists": [
         {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 337200,
-      "name": "El Nazareno",
-      "url": "https://open.spotify.com/track/38jYkci8etRv1bOTIRvONh"
+      "duration_ms": 351813,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
     },
     {
       "added_at": "2025-03-07 05:00:25",
@@ -1699,6 +1667,38 @@
       "duration_ms": 402360,
       "name": "El Rey De La Puntualidad",
       "url": "https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
+        "name": "El Cantante de los Cantantes",
+        "url": "https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 622520,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
+        "name": "Traigo de Todo",
+        "url": "https://open.spotify.com/album/59PyYgxcFv1kahbd8TKidc"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 337200,
+      "name": "El Nazareno",
+      "url": "https://open.spotify.com/track/38jYkci8etRv1bOTIRvONh"
     },
     {
       "added_at": "2025-03-07 05:00:25",

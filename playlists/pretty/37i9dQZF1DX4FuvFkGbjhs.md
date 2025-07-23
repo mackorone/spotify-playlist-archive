@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Jim Legxacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,452 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,425 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

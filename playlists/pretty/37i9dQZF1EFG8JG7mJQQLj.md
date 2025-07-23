@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,224 likes - 463 songs - 1 day 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,226 likes - 463 songs - 1 day 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 15 | [10:35](https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:52 |
 | 16 | [Run](https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:48 |
 | 17 | [Rescue Me](https://open.spotify.com/track/37LNNQNbL1YLyutBG6aWRx) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:39 |
-| 18 | [Most Girls](https://open.spotify.com/track/10GJQkjRJcZhGTLagFOC62) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Most Girls](https://open.spotify.com/album/4w5LxfyoOPHkGJZrco1UT5) | 3:24 |
-| 19 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 |
+| 18 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 |
+| 19 | [Most Girls](https://open.spotify.com/track/10GJQkjRJcZhGTLagFOC62) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Most Girls](https://open.spotify.com/album/4w5LxfyoOPHkGJZrco1UT5) | 3:24 |
 | 20 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
 | 21 | [I Lived](https://open.spotify.com/track/3IQF4xCQUPicbA4hWfTxPo) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 3:54 |
 | 22 | [Right Now](https://open.spotify.com/track/1dQQ2QlnvXUehsRUrukKmf) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 75 | [Nights With You](https://open.spotify.com/track/5q5gzmbBS5yQzos2BvVr1t) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Nights With You](https://open.spotify.com/album/0kgy48FPwyVepPIaiO2w7G) | 3:17 |
 | 76 | [Kids](https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:58 |
 | 77 | [X \(with KAROL G\)](https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 3:05 |
-| 78 | [Something I Need](https://open.spotify.com/track/5aIZ2jtxZ4o4GHQXTybkIa) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:00 |
-| 79 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
+| 78 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
+| 79 | [Something I Need](https://open.spotify.com/track/5aIZ2jtxZ4o4GHQXTybkIa) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:00 |
 | 80 | [Let's Hurt Tonight](https://open.spotify.com/track/05sCp83gcMm1iecYydKJS3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:14 |
 | 81 | [Lucky Strike](https://open.spotify.com/track/4rpzPAbwJboZQw2p9T5T3f) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Overexposed Track By Track](https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2) | 3:05 |
 | 82 | [Dance with Me \(feat\. Thomas Rhett & Young Thug\)](https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:50 |
@@ -183,8 +183,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 173 | [Choke](https://open.spotify.com/track/5xtliWYBVT4cKo9BtBn43B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:46 |
 | 174 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 |
 | 175 | [Au Revoir](https://open.spotify.com/track/1oh5FOxndjZVz1wjiBeBmY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:50 |
-| 176 | [Christmas Without You](https://open.spotify.com/track/4gWpUjTbcwASiRVkJM319B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Christmas Without You](https://open.spotify.com/album/0a0KVX4qdIea6J0JdVHc6J) | 3:17 |
-| 177 | [Lifestyle](https://open.spotify.com/track/5cmP0BuMRba0q0pwN7eI6u) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:41 |
+| 176 | [Lifestyle](https://open.spotify.com/track/5cmP0BuMRba0q0pwN7eI6u) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:41 |
+| 177 | [Christmas Without You](https://open.spotify.com/track/4gWpUjTbcwASiRVkJM319B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Christmas Without You](https://open.spotify.com/album/0a0KVX4qdIea6J0JdVHc6J) | 3:17 |
 | 178 | [That Old Truck](https://open.spotify.com/track/0kjnvAqQvdjN69aDTGlceq) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:32 |
 | 179 | [Dear Santa](https://open.spotify.com/track/5zqzV32ifPJ9XhqfyjYrBy) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dear Santa](https://open.spotify.com/album/2hhMU1z6iEq0UxYMBdp9xp) | 2:49 |
 | 180 | [FELL IN LOVE](https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:18 |
@@ -334,8 +334,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 324 | [Lost Then Found \(feat\. OneRepublic\)](https://open.spotify.com/track/4fGWnPwe58RbdTWD5ElNS1) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Echo](https://open.spotify.com/album/3KMc2Ey1t8gv4r9VfYgqbH) | 11:09 |
 | 325 | [It's A Shame](https://open.spotify.com/track/3WANeXpetY3TAi6PTlIMpc) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:50 |
 | 326 | [Save You](https://open.spotify.com/track/7IaJyaE8pCQjOgvXUAJeat) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 4:02 |
-| 327 | [Gypsy Woman](https://open.spotify.com/track/2LW2Or5IY5lMtMOjqGVI0c) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Dignity](https://open.spotify.com/album/2OD92YQZuME96A0b1aJzQF) | 3:14 |
-| 328 | [Living My Best Life](https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Living My Best Life](https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn) | 2:57 |
+| 327 | [Living My Best Life](https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Living My Best Life](https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn) | 2:57 |
+| 328 | [Gypsy Woman](https://open.spotify.com/track/2LW2Or5IY5lMtMOjqGVI0c) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Dignity](https://open.spotify.com/album/2OD92YQZuME96A0b1aJzQF) | 3:14 |
 | 329 | [Touch Me \(SMASH Cast Version\) \[feat\. Katharine McPhee\]](https://open.spotify.com/track/0fkIg1ZJbGEgmYQYQy165Y) | [SMASH Cast](https://open.spotify.com/artist/05tTO01wV9Y7U4U1B4xCBK) | [The Music of SMASH](https://open.spotify.com/album/7qby8V9HKQ8xatNtAnFRxU) | 3:51 |
 | 330 | [Let Go](https://open.spotify.com/track/1x3Sxgpq3MIyZUi9v2W1ZT) | [Brother Phelps](https://open.spotify.com/artist/4B1XcPipnpGOpuNZeAA1eQ) | [Let Go](https://open.spotify.com/album/5kkOQ9122GxlXlORmJSpzX) | 3:39 |
 | 331 | [Love Struck \(From Songland\)](https://open.spotify.com/track/5bXNCPNdgTSYbA9NECTOLk) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Love Struck \(From Songland\)](https://open.spotify.com/album/2vWoFMDURyyWVsjtMd7m3E) | 2:08 |
@@ -472,4 +472,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 462 | [Fantastic](https://open.spotify.com/track/2Qs9CZcvOzVcHFhP64eEvP) | [pupculture](https://open.spotify.com/artist/5hJodDOgnJhYazwIDUTWPH) | [Fantastic](https://open.spotify.com/album/4EVmjvtGfqzswP65AxA6hV) | 3:03 |
 | 463 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `Ab3ZsgAAAAB7JfgG9d4N3KGOxGaEgq9T`
+Snapshot ID: `Ab3fNAAAAAA/caZZshFSuOCVOUJXJg9A`

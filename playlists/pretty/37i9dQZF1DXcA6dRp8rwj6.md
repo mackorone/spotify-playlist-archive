@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Skepta\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,927 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,992 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 29 | [The Way \(with XXXTENTACION\)](https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Legends Never Die \(5 Year Anniversary Edition\)](https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18) | 3:50 |
 | 30 | [Damage Control \(feat\. Wale\)](https://open.spotify.com/track/3GqSx8cUqM4iC12tAiE62O) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Damage Control \(feat\. Wale\)](https://open.spotify.com/album/56TM7J9s2CJzz8bHHtAbi4) | 1:36 |
 | 31 | [I WANNA WIN \- from the Short Film "Red Clay"](https://open.spotify.com/track/7GDLVeFKh19LB06KnBGUIi) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [I WANNA WIN \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/39GdbIA43YHkD02Gih3GjX) | 2:48 |
-| 32 | [Gang Gang Gangland](https://open.spotify.com/track/05ZuiDPE65Xs94MAt5CZ8z) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Gang Gang Gangland \(feat\. Mozzy\)](https://open.spotify.com/album/1Euw5LFkONmS8d7OVgfaeg) | 3:09 |
+| 32 | [Gang Gang Gangland \(feat\. YG & Mozzy\)](https://open.spotify.com/track/05ZuiDPE65Xs94MAt5CZ8z) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Gang Gang Gangland \(feat\. YG & Mozzy\)](https://open.spotify.com/album/1Euw5LFkONmS8d7OVgfaeg) | 3:09 |
 | 33 | [Nah だ](https://open.spotify.com/track/6V2f3APqea1JU5g7c2Z3zr) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [IEGUMO](https://open.spotify.com/album/3IUORVpK7gvXnL1nG56cUJ) | 1:32 |
 | 34 | [Jackson 5](https://open.spotify.com/track/3ODMiWHDaOQxV2Xy1pb8RF) | [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP), [Keyon Lowquan](https://open.spotify.com/artist/6MrQnQMH0JqvhHh4b9e1Gi) | [Jackson 5](https://open.spotify.com/album/5nFSLfrPGlt73s2JaAU8cV) | 3:13 |
 | 35 | [Bars and BBQs](https://open.spotify.com/track/0B0uNI2m1ACui50VLP3mcB) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Bars and BBQs](https://open.spotify.com/album/5QnYhS0d7Rdm51J1WAgFt5) | 2:45 |

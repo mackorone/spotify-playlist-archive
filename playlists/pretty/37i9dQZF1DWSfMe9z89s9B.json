@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Justin Bieber",
-  "num_followers": 1353503,
+  "num_followers": 1353345,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -589,38 +589,6 @@
       "url": "https://open.spotify.com/track/1Ug4hSnPl5TaUvshUMOIu0"
     },
     {
-      "added_at": "2025-03-28 04:00:52",
-      "album": {
-        "name": "Art of War",
-        "url": "https://open.spotify.com/album/3PqJN4iYjY0IpMBPZqspwm"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 126973,
-      "name": "Art of War",
-      "url": "https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK"
-    },
-    {
-      "added_at": "2025-04-19 20:55:57",
-      "album": {
-        "name": "Distant Lover",
-        "url": "https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J"
-      },
-      "artists": [
-        {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        }
-      ],
-      "duration_ms": 178085,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj"
-    },
-    {
       "added_at": "2025-07-18 05:45:52",
       "album": {
         "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
@@ -647,6 +615,38 @@
       "duration_ms": 217901,
       "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
+    },
+    {
+      "added_at": "2025-04-19 20:55:57",
+      "album": {
+        "name": "Distant Lover",
+        "url": "https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        }
+      ],
+      "duration_ms": 178085,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj"
+    },
+    {
+      "added_at": "2025-03-28 04:00:52",
+      "album": {
+        "name": "Art of War",
+        "url": "https://open.spotify.com/album/3PqJN4iYjY0IpMBPZqspwm"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 126973,
+      "name": "Art of War",
+      "url": "https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/1jIu9uVVYaP3x09HLjikQ3"
     },
     {
-      "added_at": "2025-03-28 04:00:52",
-      "album": {
-        "name": "10 songs",
-        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 178902,
-      "name": "be with ya",
-      "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
-    },
-    {
       "added_at": "2024-11-01 04:00:00",
       "album": {
         "name": "Surface Tension",
@@ -1211,6 +1195,22 @@
       "duration_ms": 241040,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
+    },
+    {
+      "added_at": "2025-03-28 04:00:52",
+      "album": {
+        "name": "10 songs",
+        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 178902,
+      "name": "be with ya",
+      "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
     },
     {
       "added_at": "2025-05-09 04:12:41",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ"
     },
     {
-      "added_at": "2025-06-06 06:46:18",
-      "album": {
-        "name": "Slugger",
-        "url": "https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j"
-      },
-      "artists": [
-        {
-          "name": "DERBY",
-          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
-        }
-      ],
-      "duration_ms": 172690,
-      "name": "Two Step",
-      "url": "https://open.spotify.com/track/5GfjnLf8aMzfr7VuFiIB0H"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "N.F.A. DEMOS",
@@ -1555,6 +1539,22 @@
       "duration_ms": 208713,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
+    },
+    {
+      "added_at": "2025-06-06 06:46:18",
+      "album": {
+        "name": "Slugger",
+        "url": "https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j"
+      },
+      "artists": [
+        {
+          "name": "DERBY",
+          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
+        }
+      ],
+      "duration_ms": 172690,
+      "name": "Two Step",
+      "url": "https://open.spotify.com/track/5GfjnLf8aMzfr7VuFiIB0H"
     },
     {
       "added_at": "2024-10-26 03:32:36",
@@ -1809,22 +1809,6 @@
       "url": "https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "symptom of life",
-        "url": "https://open.spotify.com/album/7geRIwdu4x2plurupRu4GA"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "symptom of life",
-      "url": "https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO"
-    },
-    {
       "added_at": "2024-06-07 12:28:44",
       "album": {
         "name": "TIMELESS",
@@ -1845,6 +1829,22 @@
       "url": "https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "symptom of life",
+        "url": "https://open.spotify.com/album/7geRIwdu4x2plurupRu4GA"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "symptom of life",
+      "url": "https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO"
+    },
+    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "New Friends (feat. Eem Triplin)",
@@ -1863,22 +1863,6 @@
       "duration_ms": 130434,
       "name": "New Friends (feat. Eem Triplin)",
       "url": "https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR"
-    },
-    {
-      "added_at": "2025-02-07 16:47:53",
-      "album": {
-        "name": "untitled",
-        "url": "https://open.spotify.com/album/5fZozb3fnQVbCr3npr4TUV"
-      },
-      "artists": [
-        {
-          "name": "Blaxian",
-          "url": "https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4"
-        }
-      ],
-      "duration_ms": 147098,
-      "name": "untitled",
-      "url": "https://open.spotify.com/track/65cZbTtLNKCiHz1LgCe44a"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1913,6 +1897,22 @@
       "url": "https://open.spotify.com/track/7y4voxIo9QJT9ZODjKEBLS"
     },
     {
+      "added_at": "2025-02-07 16:47:53",
+      "album": {
+        "name": "untitled",
+        "url": "https://open.spotify.com/album/5fZozb3fnQVbCr3npr4TUV"
+      },
+      "artists": [
+        {
+          "name": "Blaxian",
+          "url": "https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4"
+        }
+      ],
+      "duration_ms": 147098,
+      "name": "untitled",
+      "url": "https://open.spotify.com/track/65cZbTtLNKCiHz1LgCe44a"
+    },
+    {
       "added_at": "2024-12-06 07:13:57",
       "album": {
         "name": "Rolling Stone",
@@ -1929,22 +1929,6 @@
       "url": "https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "NO EVIL",
-        "url": "https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 145267,
-      "name": "NO EVIL",
-      "url": "https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs"
-    },
-    {
       "added_at": "2024-08-23 05:28:40",
       "album": {
         "name": "Someone Asked Me How I've Been",
@@ -1959,6 +1943,22 @@
       "duration_ms": 250000,
       "name": "Someone Asked Me How I've Been",
       "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "NO EVIL",
+        "url": "https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 145267,
+      "name": "NO EVIL",
+      "url": "https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs"
     },
     {
       "added_at": "2024-07-19 15:05:24",
@@ -1997,6 +1997,26 @@
       "url": "https://open.spotify.com/track/1keltSbtxb5JeAiCfcVYeh"
     },
     {
+      "added_at": "2025-05-23 04:00:52",
+      "album": {
+        "name": "JIGGY",
+        "url": "https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe"
+      },
+      "artists": [
+        {
+          "name": "cikho",
+          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
+        },
+        {
+          "name": "LEE.",
+          "url": "https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG"
+        }
+      ],
+      "duration_ms": 141170,
+      "name": "JIGGY",
+      "url": "https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl"
+    },
+    {
       "added_at": "2024-06-28 18:42:06",
       "album": {
         "name": "ACCELERATOR",
@@ -2011,26 +2031,6 @@
       "duration_ms": 228003,
       "name": "STRANGER",
       "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6vHA1k10xssz56inCFbT58"
-      },
-      "artists": [
-        {
-          "name": "Chenayder",
-          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz"
     },
     {
       "added_at": "2024-08-30 06:47:05",
@@ -2057,24 +2057,24 @@
       "url": "https://open.spotify.com/track/3txRu0oUiaaGalqysVvWqf"
     },
     {
-      "added_at": "2025-05-23 04:00:52",
+      "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "JIGGY",
-        "url": "https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe"
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6vHA1k10xssz56inCFbT58"
       },
       "artists": [
         {
-          "name": "cikho",
-          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
         },
         {
-          "name": "LEE.",
-          "url": "https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG"
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
         }
       ],
-      "duration_ms": 141170,
-      "name": "JIGGY",
-      "url": "https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl"
+      "duration_ms": 186666,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -2093,22 +2093,6 @@
       "url": "https://open.spotify.com/track/7F5Cig2IXoPke19vA9NwMs"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "hillside",
-        "url": "https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "hillside",
-      "url": "https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v"
-    },
-    {
       "added_at": "2024-01-12 05:52:57",
       "album": {
         "name": "NEVER AGAIN",
@@ -2123,6 +2107,22 @@
       "duration_ms": 145720,
       "name": "NEVER AGAIN",
       "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "hillside",
+        "url": "https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "hillside",
+      "url": "https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v"
     },
     {
       "added_at": "2023-11-03 06:04:27",
@@ -2177,22 +2177,6 @@
       "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
     },
     {
-      "added_at": "2025-03-21 05:31:12",
-      "album": {
-        "name": "TELL DEM IT'S SUNNY",
-        "url": "https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 158739,
-      "name": "Whatcha Mean",
-      "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
-    },
-    {
       "added_at": "2024-05-10 06:08:33",
       "album": {
         "name": "XXX",
@@ -2211,6 +2195,22 @@
       "duration_ms": 158739,
       "name": "XXX",
       "url": "https://open.spotify.com/track/23NCkVILmpLFV6HAe4dOCf"
+    },
+    {
+      "added_at": "2025-03-21 05:31:12",
+      "album": {
+        "name": "TELL DEM IT'S SUNNY",
+        "url": "https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 158739,
+      "name": "Whatcha Mean",
+      "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2285,22 +2285,6 @@
       "url": "https://open.spotify.com/track/4r8vfDMCXnU4Kl9AYYaXRM"
     },
     {
-      "added_at": "2025-05-23 04:00:52",
-      "album": {
-        "name": "raisins",
-        "url": "https://open.spotify.com/album/1ONVmw18mFxkVFPNusJv0t"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 161370,
-      "name": "raisins",
-      "url": "https://open.spotify.com/track/7AaHNhB05A2yPXRSpeABJS"
-    },
-    {
       "added_at": "2024-06-14 07:30:32",
       "album": {
         "name": "DOPAMINE",
@@ -2319,6 +2303,22 @@
       "duration_ms": 190412,
       "name": "Tantrums (feat. James Blake)",
       "url": "https://open.spotify.com/track/13emOZj9lqqVJg4JJ7ABBi"
+    },
+    {
+      "added_at": "2025-05-23 04:00:52",
+      "album": {
+        "name": "raisins",
+        "url": "https://open.spotify.com/album/1ONVmw18mFxkVFPNusJv0t"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 161370,
+      "name": "raisins",
+      "url": "https://open.spotify.com/track/7AaHNhB05A2yPXRSpeABJS"
     },
     {
       "added_at": "2025-02-07 08:30:49",
@@ -2465,38 +2465,6 @@
       "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
     },
     {
-      "added_at": "2024-08-16 04:08:50",
-      "album": {
-        "name": "A Girl Like You",
-        "url": "https://open.spotify.com/album/21bl39xHspuIISAteKFXoq"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 116852,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "LIMERENCE",
-        "url": "https://open.spotify.com/album/2dmZ1mL7C0ykfvY14Lpsd2"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 146735,
-      "name": "LIMERENCE",
-      "url": "https://open.spotify.com/track/02NjZRiplUsrBgoa3shbKE"
-    },
-    {
       "added_at": "2023-12-08 06:22:08",
       "album": {
         "name": "Used To",
@@ -2515,6 +2483,22 @@
       "duration_ms": 185427,
       "name": "Used To (feat. Jordan Ward)",
       "url": "https://open.spotify.com/track/3fDDXsDuxBLinRP4Rw8pMc"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "LIMERENCE",
+        "url": "https://open.spotify.com/album/2dmZ1mL7C0ykfvY14Lpsd2"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 146735,
+      "name": "LIMERENCE",
+      "url": "https://open.spotify.com/track/02NjZRiplUsrBgoa3shbKE"
     },
     {
       "added_at": "2024-05-10 06:08:33",
@@ -2575,6 +2559,22 @@
       "duration_ms": 242580,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P"
+    },
+    {
+      "added_at": "2024-08-16 04:08:50",
+      "album": {
+        "name": "A Girl Like You",
+        "url": "https://open.spotify.com/album/21bl39xHspuIISAteKFXoq"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 116852,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr"
     },
     {
       "added_at": "2024-06-14 07:30:32",

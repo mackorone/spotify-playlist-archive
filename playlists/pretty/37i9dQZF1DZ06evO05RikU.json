@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43087,
+  "num_followers": 43092,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAACBi+nGlrYN2fmZfsyN15Wu",
+  "snapshot_id": "aH2DAAAAAAA+VZHwsNm/1pgC+jqzcqod",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotel Miranda!",
+        "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 174428,
+      "name": "Ya Lo Sab\u00eda",
+      "url": "https://open.spotify.com/track/7w84NiIflcJxIOcvgUm1iB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
         "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 124065,
       "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotel Miranda!",
-        "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 174428,
-      "name": "Ya Lo Sab\u00eda",
-      "url": "https://open.spotify.com/track/7w84NiIflcJxIOcvgUm1iB"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 148700,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Wey",
         "url": "https://open.spotify.com/album/59gTwaPF89m9W3WcPasQaK"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 197836,
       "name": "El Wey",
       "url": "https://open.spotify.com/track/6CIXdlrPdBpP0ejW5jUFAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 148700,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "coRaZ\u00d3n fR\u00edO",
-        "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 204633,
-      "name": "coRaZ\u00d3n fR\u00edO",
-      "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4NwBGbGjwIYAFmL1fAQYHJ"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 171761,
       "name": "Kids (feat. Sofia Reyes)",
       "url": "https://open.spotify.com/track/28JJJAkCRwWH2pFI9SoA7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "coRaZ\u00d3n fR\u00edO",
+        "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 204633,
+      "name": "coRaZ\u00d3n fR\u00edO",
+      "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
     },
     {
       "added_at": null,

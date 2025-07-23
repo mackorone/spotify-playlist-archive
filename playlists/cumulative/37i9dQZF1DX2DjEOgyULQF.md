@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-266 songs - 12 hr 53 min
+270 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-04-28 |  |
 | [Eutony](https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Eutony](https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP) | 2:38 | 2024-05-01 |  |
 | [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 | 2023-08-25 |  |
+| [Exploring Textures](https://open.spotify.com/track/27KqGoyfodOPmOGt7Aw9Z6) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Exploring Textures](https://open.spotify.com/album/6uZUjhCErSJ1mlT7OSbbrv) | 2:57 | 2025-07-22 |  |
 | [Falling Freely](https://open.spotify.com/track/7cGiU5rk7gySOp6Swjbben) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Falling Freely](https://open.spotify.com/album/3FX3AgyzPhCj33fkMQq2rz) | 2:54 | 2025-06-17 |  |
 | [Feather](https://open.spotify.com/track/2RzEZIvs2KzxBAzkHXgJZa) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Feather](https://open.spotify.com/album/3zZcMIi0OrREEVvK22os4K) | 2:58 | 2025-05-21 |  |
 | [Fields Above](https://open.spotify.com/track/1OTu5THgajjpDIgtdgGbyn) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Fields Above](https://open.spotify.com/album/5W62C0F87hdnKM7GWIfuth) | 2:33 | 2025-04-11 |  |
@@ -92,6 +93,7 @@
 | [Floating](https://open.spotify.com/track/7BXp68Ti7SWwdiLUT0bpuY) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Floating](https://open.spotify.com/album/0jJsEHkuBGqa3lgF41rVtT) | 2:55 | 2025-07-09 |  |
 | [Floating senses](https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [Floating senses](https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR) | 2:35 | 2023-04-28 | 2025-05-22 |
 | [Floral Symmetry](https://open.spotify.com/track/4R6lRKk1vaYGlmKJUUIkov) | [Anna Nueva](https://open.spotify.com/artist/40EzXxZKfeMHctd8T22mlh) | [Floral Symmetry](https://open.spotify.com/album/3ajT7odbtLIXFpF6GOrjRU) | 2:22 | 2024-09-04 | 2024-10-13 |
+| [Flow of Silence](https://open.spotify.com/track/63GiDJoqHGpoqKb9PNMLGG) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Flow of Silence](https://open.spotify.com/album/3yEsmW9wEHlnr0MVywqkPj) | 2:50 | 2025-07-22 |  |
 | [Flowing Calm](https://open.spotify.com/track/3FDcmnPJY1V39k54Fy6FxN) | [Joseph Rain](https://open.spotify.com/artist/1YHhB4lSX141uoyd58WoUc) | [Flowing Calm](https://open.spotify.com/album/4JoqWgNsmJ4NUE13A4FDKS) | 2:28 | 2023-08-25 |  |
 | [Flowing Sense](https://open.spotify.com/track/0dYizitNwQjtEO1mxHctNE) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Flowing Sense](https://open.spotify.com/album/2ZBBDWHayIHpG1GV17YPJR) | 3:12 | 2023-04-28 | 2024-04-02 |
 | [Fluere Ranae](https://open.spotify.com/track/6ZxbHu5i0VEAy4Mied3gBL) | [Drishti](https://open.spotify.com/artist/5veQV3vFfmMaOm0gTkc1N1) | [Fluere Ranae](https://open.spotify.com/album/1nKaP1aHcqJgETJeQ2mV4c) | 2:57 | 2023-06-30 |  |
@@ -142,6 +144,7 @@
 | [Lichen Pillow \- Spa](https://open.spotify.com/track/2nX7khSpIWDFaYoLpPZvDA) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Lichen Pillow](https://open.spotify.com/album/14I1aDJmh1wHCjrUzgA631) | 3:28 | 2023-04-28 |  |
 | [Light Flow](https://open.spotify.com/track/5CwM4QtEWH5qSqpWxor76d) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Light Flow](https://open.spotify.com/album/6CIiQ9Ti0tI2yAgjGpJmdE) | 2:59 | 2024-12-20 |  |
 | [Like Water](https://open.spotify.com/track/5cbaZZoB2iYsP7FQHmKRzq) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Light](https://open.spotify.com/album/1q0IUbhxzScGGUO5iwC7mi) | 3:26 | 2023-04-28 | 2023-07-14 |
+| [Liora](https://open.spotify.com/track/5zJtd9HHO0K1s0itagJpJA) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Liora](https://open.spotify.com/album/1pxslN8y8JWJ9TmbPUU0SR) | 4:27 | 2025-07-22 |  |
 | [Little Creek](https://open.spotify.com/track/243ZkbrvYLMB7i1ni3sxlo) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Little Creek](https://open.spotify.com/album/2JrZeRYzlInaQwWbbkU3ZB) | 2:49 | 2023-10-06 |  |
 | [Lost The Gold](https://open.spotify.com/track/3qy47p0s3klKhxJ6rbsBJH) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Lost The Gold](https://open.spotify.com/album/5u9YptlLPTlCdq3uwfWtip) | 3:05 | 2024-05-01 |  |
 | [Meadow’s Fountain](https://open.spotify.com/track/4MqoLh3a6mT77Qea8mj0bW) | [Uffe Jörgensen](https://open.spotify.com/artist/56b0WToubUkYRbbBq6ZV9G) | [OHM](https://open.spotify.com/album/0CJf54j8fZnvDTYyDuhveb) | 3:00 | 2023-04-28 | 2025-05-22 |
@@ -228,6 +231,7 @@
 | [Spa Rituals](https://open.spotify.com/track/1t2XiLdfC6zk4cRV2WNxvP) | [Ayivah](https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o) | [Spa Rituals](https://open.spotify.com/album/1HgapXIzrXEU18Wgw5Jhyb) | 2:31 | 2024-02-15 | 2024-04-02 |
 | [Spiritual Forest](https://open.spotify.com/track/6MLAXN84m0ScmK5vZN2pMI) | [Bear Jonnes](https://open.spotify.com/artist/2C7SHsx4JHNJ09qz1sjatt) | [Spiritual Forest](https://open.spotify.com/album/0bPr4sm060Jpa0BorSdsoI) | 2:53 | 2025-04-11 |  |
 | [Spring Ambience](https://open.spotify.com/track/7qxd1DNmzbFf9YFSwz1kBl) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Spring Ambience](https://open.spotify.com/album/4cIShtTeMzogXfq5e03d73) | 2:31 | 2025-05-16 |  |
+| [Stone Lantern](https://open.spotify.com/track/3gGi0C9QGLwZmN2vbYorCB) | [Drimnix](https://open.spotify.com/artist/00Vox7JpuHc7lSrjY8zfSd) | [Stone Lantern](https://open.spotify.com/album/3Jl4h0y1fq5lpmPUejIzyu) | 2:25 | 2025-07-22 |  |
 | [Stream of Harmony](https://open.spotify.com/track/2vsrtWukHPNJq6T0rt38rk) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Stream of Harmony](https://open.spotify.com/album/76eHssQQ8jisSTZwuiqC0R) | 2:57 | 2024-04-01 |  |
 | [Sub Nubibus](https://open.spotify.com/track/7IoL1mOhd9J4yRQx5Rvq2n) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Sub Nubibus](https://open.spotify.com/album/5ruwT199WJvJDnlTRxfIk3) | 2:27 | 2023-04-28 | 2024-08-24 |
 | [Sunrise in a Jar](https://open.spotify.com/track/0e5XpVnnRRLrIYb1tcuBTE) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Sunrise in a Jar](https://open.spotify.com/album/1Nzkj2cu59W15lC5Ps3OLV) | 3:21 | 2024-04-01 | 2024-06-04 |

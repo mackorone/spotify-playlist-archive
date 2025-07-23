@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,805 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,819 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 45 | [Kom Van Dat Dak Af](https://open.spotify.com/track/1q8BkBdleysfnUhxISo489) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [De Mooiste Liedjes, Vol.1](https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA) | 2:36 |
 | 46 | [Brandend Zand](https://open.spotify.com/track/31ZmFDuJqMAaH30JBetArW) | [Gert Timmerman](https://open.spotify.com/artist/0TtfbvSVlFBeYI3uEEWPlC), [Gert & Hermien](https://open.spotify.com/artist/40JZ4PcqTsMqvVWLi0OaOP) | [Brandend Zand](https://open.spotify.com/album/7H0qBQQweMzWTOnQ1YRFM7) | 3:23 |
 | 47 | [Rozen Die Bloeien](https://open.spotify.com/track/7cl1cqs6tegOCA7UFvYWAV) | [Corry en de Rekels](https://open.spotify.com/artist/6edV7BdP4TyBahd2dNKjc8), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Rozen Die Bloeien / Ik Hoor Nog Je Stem](https://open.spotify.com/album/293fKm52sXoMD4UP1jMiKW) | 4:05 |
-| 48 | [Te Veel, Te Vaak](https://open.spotify.com/track/21akKWbeYAd1HPzMUGMvMg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If) | [100 Mooiste Liedjes van Ramses en Liesbeth](https://open.spotify.com/album/0Yj16bjpuUz4sLggLn8XFR) | 3:42 |
-| 49 | [Voor Niets](https://open.spotify.com/track/4XF8lgqdTfxQGrc0EUkDyp) | [Bob Bouber](https://open.spotify.com/artist/4v3HGAZZfMeK9ueNgZpxEW) | [Voor Niets](https://open.spotify.com/album/2z6fKrPNXv57GE6KqaxHmY) | 3:20 |
+| 48 | [Voor Niets](https://open.spotify.com/track/4XF8lgqdTfxQGrc0EUkDyp) | [Bob Bouber](https://open.spotify.com/artist/4v3HGAZZfMeK9ueNgZpxEW) | [Voor Niets](https://open.spotify.com/album/2z6fKrPNXv57GE6KqaxHmY) | 3:20 |
+| 49 | [Te Veel, Te Vaak](https://open.spotify.com/track/21akKWbeYAd1HPzMUGMvMg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If) | [100 Mooiste Liedjes van Ramses en Liesbeth](https://open.spotify.com/album/0Yj16bjpuUz4sLggLn8XFR) | 3:42 |
 | 50 | [Jij En Ik Blijven Bestaan](https://open.spotify.com/track/19gBRh5hqQhdZEIAGzy0Ix) | [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq) | [Heerlijk Hollands \- Het Allerbeste van Vader Abraham](https://open.spotify.com/album/5L92v0PP8mQHc01RwsNhv6) | 4:40 |
 | 51 | [Maar Wie Holt Van Mekaar](https://open.spotify.com/track/0cx4IjYw6Nz92bpZ4i6QJB) | [Gerard Hoeben](https://open.spotify.com/artist/6UFl7mSRtkStqDaKl5GV8E) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:46 |
 | 52 | [Vrede](https://open.spotify.com/track/0qBq2UVJI7sK0GUUWxFq5U) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Ben Cramer](https://open.spotify.com/album/3GwA2mE5gogR1bXJP9EVvf) | 2:56 |

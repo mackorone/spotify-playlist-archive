@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with GRiZ
 
-1,402 songs - 3 day 5 hr 39 min
+1,403 songs - 3 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [BANG YOUR HEAD](https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [BANG YOUR HEAD](https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk) | 3:24 | 2023-06-09 | 2024-08-23 |
 | [Banga](https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD) | 2:21 | 2022-09-23 | 2023-02-26 |
 | [Banga](https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw) | 2:21 | 2023-02-24 | 2023-07-29 |
-| [Bass Bop](https://open.spotify.com/track/3xHirM5jTmVmcEdgbcmqOo) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Bass Bop](https://open.spotify.com/album/5JeO9o1VyBtfDgx6SmB1FO) | 2:41 | 2025-02-21 |  |
+| [Bass Bop](https://open.spotify.com/track/3xHirM5jTmVmcEdgbcmqOo) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Bass Bop](https://open.spotify.com/album/5JeO9o1VyBtfDgx6SmB1FO) | 2:41 | 2025-02-21 | 2025-07-23 |
 | [Bass Drop](https://open.spotify.com/track/1tBKWCgUdm3oMtUKbu9gYK) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Bass Drop](https://open.spotify.com/album/2wEpgFSaoe6g7CncCfdn05) | 2:20 | 2024-05-03 | 2024-09-14 |
 | [Bass In Yo Face](https://open.spotify.com/track/2ez05kaHbFLyu70MMSNQpA) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Bass In Yo Face](https://open.spotify.com/album/1XMX76i2nCTl52fvyV7zra) | 3:07 | 2023-10-27 | 2024-08-04 |
 | [Bass Music](https://open.spotify.com/track/0i9EOVFM9AxFbY0IxA2coY) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [TVBOO](https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW) | [Bass Music](https://open.spotify.com/album/560VEcijx4SfGVQOwxlD28) | 4:06 | 2022-08-12 | 2023-06-02 |
@@ -218,6 +218,7 @@
 | [Captive](https://open.spotify.com/track/6ZvgvFGY2Pv5iL8u0ptduc) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Captive](https://open.spotify.com/album/6Lqrl0jg68hcV4GhGTYT4H) | 3:19 | 2022-06-24 | 2023-04-01 |
 | [Carousel](https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [E.L.E \(Extinction Level Event\)](https://open.spotify.com/album/6dwrAsvDJ3qpogoK1jxzAE) | 2:46 | 2022-03-04 | 2022-12-03 |
 | [Carry The Fire](https://open.spotify.com/track/1VPCufndNrTXH21ocfjJMv) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Carry The Fire](https://open.spotify.com/album/60RXY5aw3n2zSxN4QMqAmw) | 3:26 | 2024-06-07 | 2024-07-13 |
+| [Cash](https://open.spotify.com/track/2RVn1TfwfbhplurBfNgNNr) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Cash](https://open.spotify.com/album/1QXjuLdbKhWNvmniFggwr1) | 1:48 | 2025-07-22 |  |
 | [CASHMERE](https://open.spotify.com/track/5NJkNOXKEfThIuCNOjraGy) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [boler mani](https://open.spotify.com/artist/7uAzXw50IscCTZwLGTP2nc) | [CASHMERE](https://open.spotify.com/album/7n2XaVtj6fO1MFnKz5yh8V) | 2:59 | 2022-09-16 | 2023-04-01 |
 | [catalyst](https://open.spotify.com/track/40La981foZ1iPvfqfhgu7Y) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [kinder opposites](https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT) | 1:36 | 2023-07-07 | 2023-08-12 |
 | [Catharsis](https://open.spotify.com/track/5Rye7bAMBloowLfjw5fGT5) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [Catharsis](https://open.spotify.com/album/4TS7uRVfyda4DrReYbMXGc) | 4:28 | 2023-12-15 | 2023-12-23 |

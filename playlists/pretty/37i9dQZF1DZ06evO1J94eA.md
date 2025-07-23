@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 
 > This is Herbie Hancock\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,843 likes - 50 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,857 likes - 50 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 24 | [Wiggle Waggle](https://open.spotify.com/track/2akqjwBZxyDIEJEJXq4Cvx) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 5:51 |
 | 25 | [Sly](https://open.spotify.com/track/4WyVRn3L2uXnSUkY762gqN) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 10:15 |
 | 26 | [Blind Man, Blind Man](https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 8:19 |
-| 27 | ['Round Midnight](https://open.spotify.com/track/4wZqLKnxKcZXTLLwfh0lpp) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 5:36 |
+| 27 | [Speak Like A Child](https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 7:50 |
 | 28 | [Oh! Oh! Here He Comes](https://open.spotify.com/track/01LokOj8KafA7BgBXGIelI) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 4:08 |
-| 29 | [Speak Like A Child](https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 7:50 |
+| 29 | ['Round Midnight](https://open.spotify.com/track/4wZqLKnxKcZXTLLwfh0lpp) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 5:36 |
 | 30 | [Tempo de Amor](https://open.spotify.com/track/2sas1gLt9n02iHVKKlXj2s) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Imagine Project](https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA) | 4:43 |
 | 31 | [The Maze \- Remastered 2007](https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:48 |
 | 32 | [Sun Touch](https://open.spotify.com/track/70aN8RYMtTeG85MQADhMhx) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Man\-Child](https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj) | 5:08 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 42 | [And What If I Don't \- Remastered](https://open.spotify.com/track/3rQWPfEMS81vNrCIOd2lS2) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Cantaloupe Island](https://open.spotify.com/album/1IDF7HrugntNS4NeuzYWgQ) | 6:35 |
 | 43 | [Stars in Your Eyes](https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Monster](https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e) | 7:04 |
 | 44 | [It Ain't Necessarily So](https://open.spotify.com/track/1yebi3DYxcHXzSFjbeLGMP) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Gershwin's World](https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG) | 4:46 |
-| 45 | [Motor Mouth](https://open.spotify.com/track/5o52ef5vqoDQ2BQz8BEVWP) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Lite Me Up](https://open.spotify.com/album/5LsdfUYg3pWMyjoyAnS3fE) | 3:58 |
+| 45 | [Vein Melter](https://open.spotify.com/track/6c0ziyel6ZMTQ37vKRooGZ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 9:09 |
 | 46 | [Pee Wee \(feat\. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams\)](https://open.spotify.com/track/4x4Y3DVb5L9Ym7kPc1VQIj) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Sorcerer](https://open.spotify.com/album/4ONkvBCQrd2A8qJ5Cw6FYo) | 4:52 |
-| 47 | [Vein Melter](https://open.spotify.com/track/6c0ziyel6ZMTQ37vKRooGZ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 9:09 |
+| 47 | [Motor Mouth](https://open.spotify.com/track/5o52ef5vqoDQ2BQz8BEVWP) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Lite Me Up](https://open.spotify.com/album/5LsdfUYg3pWMyjoyAnS3fE) | 3:58 |
 | 48 | [Textures](https://open.spotify.com/track/6wyjGiFFJMNxFyY4h0ttYY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Mr\. Hands](https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5) | 6:38 |
-| 49 | [Oliloqui Valley \- Remastered](https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 8:30 |
-| 50 | [Toys](https://open.spotify.com/track/0GeGIfL8CsPec8Z2bMhttW) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 5:52 |
+| 49 | [Toys](https://open.spotify.com/track/0GeGIfL8CsPec8Z2bMhttW) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 5:52 |
+| 50 | [Oliloqui Valley \- Remastered](https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 8:30 |
 
-Snapshot ID: `aHwxgAAAAAAsRoqf+InVgcw/P20xN4FM`
+Snapshot ID: `aH2DAAAAAAB9YOazG+gOZL4dmfKfZnGM`

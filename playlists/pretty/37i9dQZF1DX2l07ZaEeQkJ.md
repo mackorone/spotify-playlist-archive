@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l07ZaEeQkJ.md) - [plain]
 
 > trakas hdsptm 👿👹🍻🍾🫡💸
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,629 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,694 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l07ZaEeQkJ.md) - [plain]
 | 67 | [EN MI MUNDO](https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 5:07 |
 | 68 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 |
 | 69 | [ROMPE LA DOMPE](https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [ROMPE LA DOMPE](https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ) | 2:45 |
-| 70 | [Martes 13](https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Martes 13](https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq) | 2:43 |
-| 71 | [La Suma](https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Lupe Borbon y su Blindaje 7](https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl) | [La Suma](https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR) | 3:18 |
+| 70 | [La Suma](https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Lupe Borbon y su Blindaje 7](https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl) | [La Suma](https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR) | 3:18 |
+| 71 | [Martes 13](https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Martes 13](https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq) | 2:43 |
 | 72 | [La Intención](https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Intención](https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2) | 4:09 |
 | 73 | [Reggaeton Champagne](https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:39 |
 | 74 | [Pocos Años Mil Errores](https://open.spotify.com/track/05eWLa61PMRibhFtIHsD0D) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Carlos Manjarrez](https://open.spotify.com/artist/3nmpoFfQfHCsqho4taq5FK) | [Pocos Años Mil Errores](https://open.spotify.com/album/3Ss2agKWd4oBWEBcdKsZPe) | 3:18 |

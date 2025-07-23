@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김푸름 \(KIM PUREUM\)\) \(Celebrating 10 years of Fresh Finds! Meet the emerging talents of Korea!\)
 
-1,581 songs - 3 day 16 hr 53 min
+1,582 songs - 3 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [DWGU](https://open.spotify.com/track/5WZl00wiXEQ1ZfOwpicbj6) | [Nvll](https://open.spotify.com/artist/3Wt11uU3dWk7lBxTmBKMBD) | [Nvllish](https://open.spotify.com/album/1pJuT5wt6bowBqdTtdiBCq) | 2:27 | 2022-06-09 | 2022-07-05 |
 | [Dynamiter](https://open.spotify.com/track/3jj3XWYMRFEh1tbris5EC4) | [ROYA](https://open.spotify.com/artist/39TCqSkrws4pxZBNtcxIwP), [도한세](https://open.spotify.com/artist/0kBoVGHB5HXCTz3kIvGbid) | [Dynamiter](https://open.spotify.com/album/6ELLXFPacBNNStKchLTcQf) | 2:45 | 2024-08-02 | 2025-02-04 |
 | [earlymorningtrap](https://open.spotify.com/track/2uN8k3k5p9CdXODwXpzfbE) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [earlymorningtrap](https://open.spotify.com/album/7ih0wLgT3oDgJ91GetD2c8) | 3:34 | 2025-03-12 | 2025-06-17 |
+| [ease](https://open.spotify.com/track/2UuBsH8yc2HWsZgYwQFGuR) | [Ghim Reezn](https://open.spotify.com/artist/6sA91BD6gLqVE0tyyxx5zI) | [ease](https://open.spotify.com/album/7y0O4fVqSwFSaPgpahelAU) | 2:12 | 2025-07-22 |  |
 | [EASY \(feat\. ELO\)](https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [EASY \(feat\. ELO\)](https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z) | 2:45 | 2022-07-04 | 2022-08-19 |
 | [EAU DE SPRING](https://open.spotify.com/track/2rDD8ISyiF38Ir5bKAPKxC) | [Rosanna](https://open.spotify.com/artist/6tOnTVQNPSTwmDsH7QJ5n6) | [EAU DE SPRING](https://open.spotify.com/album/5iLIVvRmGY4d8eqVvf9fPK) | 4:00 | 2022-04-07 | 2022-05-12 |
 | [EGO](https://open.spotify.com/track/3pE0FeyvINMeBxCYN5VeWy) | [swimrabbit](https://open.spotify.com/artist/7klsHI12mBDasOWDaVt5tY), [June One](https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ) | [EGO/INNOCENCE](https://open.spotify.com/album/2GDngfuDhUG82avU68oBJU) | 3:36 | 2022-10-14 | 2023-02-01 |
@@ -884,7 +885,7 @@
 | [More \(Feat\. woOnim\)](https://open.spotify.com/track/4PNIDvCgc40KlVWVkNdUwF) | [Daehan](https://open.spotify.com/artist/1OfRPrepoCciCk7oDpIbAO), [WoOnim](https://open.spotify.com/artist/7CGyRLtNG8TvIT8rNmQAL1) | [More](https://open.spotify.com/album/3Px4xcVNPjJtDz4FU2qHm6) | 3:22 | 2024-04-03 | 2024-08-02 |
 | [More and More](https://open.spotify.com/track/7dudDzqxkOs74CED8gXcKO) | [SOIN](https://open.spotify.com/artist/7EOsjIvg3a2dPyMW6XNn4U) | [More and More](https://open.spotify.com/album/0tAgvFyBpDkoTCbAxsu73h) | 3:18 | 2022-08-18 | 2022-10-15 |
 | [More Than Friends \(Feat\. Soo Yeony\)](https://open.spotify.com/track/3RFzd788ves2g2cSSbNrSW) | [PANEB](https://open.spotify.com/artist/3vzT1P9ipDAhyO1hJ3GZ5R), [Soo Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [More Than Friends](https://open.spotify.com/album/75X1QOjIiEtmYYVp1u1H3A) | 2:56 | 2025-06-16 |  |
-| [Morning](https://open.spotify.com/track/62gf2fft5H9FM4H5s4fPLJ) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Morning](https://open.spotify.com/album/2IXgInYjof7yiyDS5BxBDc) | 3:26 | 2025-05-02 |  |
+| [Morning](https://open.spotify.com/track/62gf2fft5H9FM4H5s4fPLJ) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Morning](https://open.spotify.com/album/2IXgInYjof7yiyDS5BxBDc) | 3:26 | 2025-05-02 | 2025-07-23 |
 | [Morning Coffee](https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI) | [Odett](https://open.spotify.com/artist/093wAdPoQ0xBtB5Drjqd63) | [Morning Coffee](https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz) | 3:15 | 2023-05-01 | 2023-07-27 |
 | [MOTEL CALIFORNIA](https://open.spotify.com/track/4ptwR85sZUJghuTezDReht) | [mOOn](https://open.spotify.com/artist/6buvvKH2iRe1lunqlpOJpc), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [DR.RED](https://open.spotify.com/artist/3xCduQwGgxBE5p1Vg07hc3) | [MOTEL CALIFORNIA](https://open.spotify.com/album/5R7HKqj5L8c7Ot7BlGA4GU) | 3:38 | 2022-07-04 | 2022-09-06 |
 | [movie](https://open.spotify.com/track/0gNQjJJgXvAG9ZgNaQdNCN) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [movie](https://open.spotify.com/album/36OnG0nTb9bw3QBQuylYPn) | 3:49 | 2024-03-08 | 2024-07-04 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 97176,
+  "num_followers": 97224,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAAfKuSWz9/UaCokMv3SO4b2",
+  "snapshot_id": "aH2DAAAAAAAkjwPU4rzVTz2MQ4Ef6+xv",
   "tracks": [
     {
       "added_at": null,
@@ -223,18 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEC (Bonus)",
-        "url": "https://open.spotify.com/album/0pVQ3KO4jjqdeWJUrrkkWp"
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },
       "artists": [
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 120034,
-      "name": "Down With Me",
-      "url": "https://open.spotify.com/track/00n83h3zn2IrySO4Q4aTrG"
+      "duration_ms": 188870,
+      "name": "HVN ON EARTH (with Kodak Black)",
+      "url": "https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR"
     },
     {
       "added_at": null,
@@ -255,22 +259,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+        "name": "TEC (Bonus)",
+        "url": "https://open.spotify.com/album/0pVQ3KO4jjqdeWJUrrkkWp"
       },
       "artists": [
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 188870,
-      "name": "HVN ON EARTH (with Kodak Black)",
-      "url": "https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR"
+      "duration_ms": 120034,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/00n83h3zn2IrySO4Q4aTrG"
     },
     {
       "added_at": null,
@@ -343,22 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diva (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/6baGSG5U130x5ttGIIRIwR"
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 172004,
-      "name": "Diva (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5"
+      "duration_ms": 173195,
+      "name": "Fell In Love (with Ken Carson)",
+      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
     },
     {
       "added_at": null,
@@ -395,22 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+        "name": "Diva (feat. Lil Tecca)",
+        "url": "https://open.spotify.com/album/6baGSG5U130x5ttGIIRIwR"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         },
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 173195,
-      "name": "Fell In Love (with Ken Carson)",
-      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
+      "duration_ms": 172004,
+      "name": "Diva (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5"
     },
     {
       "added_at": null,
@@ -755,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry 4 The Wait",
+        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 192756,
+      "name": "Anti-Hero (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/5HZ5NjyJVMaboBgG6uQMpK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Is Yellow",
         "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 169014,
       "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
       "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry 4 The Wait",
-        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 192756,
-      "name": "Anti-Hero (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/5HZ5NjyJVMaboBgG6uQMpK"
     },
     {
       "added_at": null,

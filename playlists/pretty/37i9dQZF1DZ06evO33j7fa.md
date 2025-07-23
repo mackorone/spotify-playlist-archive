@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,015 likes - 34 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,036 likes - 34 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 33 | [Milk And Honey](https://open.spotify.com/track/7bsSdjF8UgqleAaBTTiYql) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:59 |
 | 34 | [Blossom](https://open.spotify.com/track/7fChVrZnxmpBlOTVWgoeFX) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:41 |
 
-Snapshot ID: `aHwxgAAAAAA6IHHl40VD3/OwdwGW9WLK`
+Snapshot ID: `aH2DAAAAAADq4eHEHo9oDq4p2/3R/wax`

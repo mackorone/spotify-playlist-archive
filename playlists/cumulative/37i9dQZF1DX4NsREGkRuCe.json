@@ -3931,6 +3931,24 @@
     },
     {
       "album": {
+        "name": "Coco Money",
+        "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136707,
+      "name": "Coco Money",
+      "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"
+    },
+    {
+      "album": {
         "name": "Cold Outside",
         "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
       },
@@ -9827,6 +9845,28 @@
     },
     {
       "album": {
+        "name": "KEROSENE",
+        "url": "https://open.spotify.com/album/7jReirhUtytItxVqQGiTg8"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "KEROSENE",
+      "url": "https://open.spotify.com/track/1o17ns83QiAuDt84MkdJ5K"
+    },
+    {
+      "album": {
         "name": "Kese (Dance)",
         "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
       },
@@ -15640,7 +15680,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 152347,
       "name": "Powerbank",
       "url": "https://open.spotify.com/track/2jqOvtJYWZbu2YaUdDYAXj"
@@ -19202,7 +19242,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 195816,
       "name": "Verily",
       "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
@@ -20176,6 +20216,10 @@
         {
           "name": "Joshua Baraka",
           "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         }
       ],
       "date_added": "2025-05-16",

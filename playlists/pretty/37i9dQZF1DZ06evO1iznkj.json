@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 177357,
+  "num_followers": 177427,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAAAT1+igLC7So7xEGS8RYrhO",
+  "snapshot_id": "aH2DAAAAAACyuFwjR+tEUYlogjgISkLF",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 149133,
+      "name": "MET GALA",
+      "url": "https://open.spotify.com/track/4loM16743hROPC6uIJG6wM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sold Out Dates (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 166368,
       "name": "Sold Out Dates (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WUNNA",
-        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 149133,
-      "name": "MET GALA",
-      "url": "https://open.spotify.com/track/4loM16743hROPC6uIJG6wM"
     },
     {
       "added_at": null,

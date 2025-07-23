@@ -2,9 +2,9 @@
 
 ### [K\-트롯 스타 \(K\-Trot Stars\)](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 김용빈\)<br/>Let's party with cheerful Korean trot medley.
+> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 영탁\)<br/>Let's party with cheerful Korean trot medley.
 
-1,032 songs - 2 day 11 hr 6 min
+1,033 songs - 2 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Jjiniya](https://open.spotify.com/track/0rQJA3W3c58WQLJRQYr4Tg) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 3:11 | 2022-04-22 |  |
 | [Jongno 3\-ga](https://open.spotify.com/track/4rOEMKWP3XjNw6u2UF6tgY) | [Park Seo Jin](https://open.spotify.com/artist/0mnHyTjHaxIAHVlAidU4tH) | [Music Source of Mr.Lotto Best PART60](https://open.spotify.com/album/43gIF2IkJkoB6UivawLjAE) | 2:58 | 2024-08-13 | 2024-10-25 |
 | [Journey of Life](https://open.spotify.com/track/4yFYLVqyx0MBBAfDhXqnN8) | [김범룡](https://open.spotify.com/artist/3MZvm7q6VKYUPElvBNeZt5) | [Kim Bum Ryoung 9th](https://open.spotify.com/album/5rxhwvD2QQ58xXFDG2UC4M) | 3:48 | 2022-05-03 |  |
+| [Juicy Go \(Duet with Kim Yonja\)](https://open.spotify.com/track/6IicnvlkFBPB2vYnzxpByc) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [KIM YONJA](https://open.spotify.com/artist/5W5z8dxd1mi3fB8aHcv4MK) | [Juicy Go \(Duet with Kim Yonja\)](https://open.spotify.com/album/6buBgMl4YH6fLnbXnHogsp) | 2:53 | 2025-07-23 |  |
 | [Junsunyagok](https://open.spotify.com/track/1xPsx53LoJVnN35OflnP4k) | [Han Taeung](https://open.spotify.com/artist/1ktROtaPwiUP0ZndJhlj47) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 2:07 | 2024-08-13 | 2024-08-21 |
 | [Just Gamma](https://open.spotify.com/track/0Mj7y6L9MSZIZgRIdXiCgJ) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Just Gamma](https://open.spotify.com/album/4EClamVkLzBmPjhD0SgIc4) | 2:58 | 2022-04-22 | 2022-07-25 |
 | [Just Like First Sight](https://open.spotify.com/track/2BlBbt4NcYfDep0N2pCkJy) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART32](https://open.spotify.com/album/2ILRXQMJw8fGbuz7vhvShU) | 3:18 | 2022-04-07 | 2022-07-19 |
@@ -697,7 +698,7 @@
 | [Such a nonsensical Love \(Kakao talk\)](https://open.spotify.com/track/1XABjBzFVOr8mrs3mmMJAA) | [Na Hoon\-A](https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG) | [DAWN \(SIX STORIES\)](https://open.spotify.com/album/4HQZTDsgy6CoNdyUGOJeWE) | 3:16 | 2023-07-12 | 2024-08-08 |
 | [Summer Time](https://open.spotify.com/track/5oWneiFEaO0F5O4XLvS7lZ) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART10](https://open.spotify.com/album/38YiZVacI8Yyu2PcauaRgT) | 3:38 | 2022-05-03 | 2022-07-05 |
 | [SUNNY](https://open.spotify.com/track/1dWNR1l1GUARO1yBNx9452) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART4](https://open.spotify.com/album/4IT3qJP9Yqhyy3itCSmpUx) | 2:52 | 2022-05-03 | 2022-06-14 |
-| [SuperSuper](https://open.spotify.com/track/5vT6Hu4tGG6MqwCchYmKwx) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [SuperSuper](https://open.spotify.com/album/3hKRTs2l29EJMN3vbGlBIi) | 2:25 | 2024-09-03 |  |
+| [SuperSuper](https://open.spotify.com/track/5vT6Hu4tGG6MqwCchYmKwx) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [SuperSuper](https://open.spotify.com/album/3hKRTs2l29EJMN3vbGlBIi) | 2:25 | 2024-09-03 | 2025-07-23 |
 | [SURISURISULSUL](https://open.spotify.com/track/4lNQAtA04xTtTNY6GODOrQ) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART27](https://open.spotify.com/album/2DU9d9af7JUSwchkA6gBTs) | 3:15 | 2022-04-22 | 2022-06-16 |
 | [Sweet as honey \(甛蜜蜜\)](https://open.spotify.com/track/6TFYapIAUd7TJ0l8q4PGKC) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:20 | 2022-04-22 | 2022-07-02 |
 | [Tabacco shop lady \(guitar by Ham Chun Ho\)](https://open.spotify.com/track/0yiKA9O3mMnvTc0kMqJf8E) | [Song Changsik](https://open.spotify.com/artist/5UwskDVGUqto8Ce11hMZvB), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART15](https://open.spotify.com/album/06ONAyDAqBtnpcx8hWSkHt) | 3:38 | 2022-04-22 | 2022-07-21 |

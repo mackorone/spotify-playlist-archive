@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-932 songs - 2 day 7 hr 22 min
+933 songs - 2 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,7 @@
 | [Forever and Ever and Ever and Ever](https://open.spotify.com/track/74RK4QDxJXDUqkAH2ts9bf) | [Homer](https://open.spotify.com/artist/7ANZyzPbMcdINl4ZP6wmyb), [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Ensatina](https://open.spotify.com/album/2EvxK6NN9lsxwUL2GoM1ez) | 3:29 | 2024-11-15 | 2025-03-13 |
 | [Forever Thing](https://open.spotify.com/track/5c3NEMjZKsohIiQCygJiKv) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [Forever Thing](https://open.spotify.com/album/5dmpDT2OwpoR8h3VzUSO0o) | 2:18 | 2023-09-29 | 2024-11-16 |
 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 | 2021-06-04 | 2022-04-19 |
-| [Forget Me Not](https://open.spotify.com/track/6fCQ0b4fGyyTqHwpHqxRll) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 3:56 | 2023-12-14 |  |
+| [Forget Me Not](https://open.spotify.com/track/6fCQ0b4fGyyTqHwpHqxRll) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 3:56 | 2023-12-14 | 2025-07-23 |
 | [FORTUNE COOKIE](https://open.spotify.com/track/15AlAaDJfXPfxvbuVzgFYV) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:29 | 2022-10-07 | 2023-03-12 |
 | [FORTUNE COOKIE](https://open.spotify.com/track/6RUqhV256iewIJuq622HVy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [FORTUNE COOKIE](https://open.spotify.com/album/69RYXrW4jEdIy6qFmLyTgj) | 2:29 | 2022-10-07 | 2022-10-16 |
 | [Found A Light \(Beale Street\)](https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw) | [Found A Light \(Beale Street\)](https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN) | 7:16 | 2025-05-01 |  |
@@ -629,6 +629,7 @@
 | [On Your Journey](https://open.spotify.com/track/3jjE958MLus6IZaJK7k08x) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [On Your Journey](https://open.spotify.com/album/2tunt1ak3tuPd924f4t5Ld) | 2:58 | 2021-09-10 | 2022-04-21 |
 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 | 2024-03-15 | 2024-07-06 |
 | [One Night with The Valet](https://open.spotify.com/track/3idyjPuEkDzVSFrA9A8Nh5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [One Night with The Valet](https://open.spotify.com/album/0fBTCN3D6Aoh3lhntAV4Jh) | 1:53 | 2022-11-18 | 2023-03-01 |
+| [one thing](https://open.spotify.com/track/5m64zBgG0oPrcBSsbjkbli) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [one thing](https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl) | 4:42 | 2025-07-18 |  |
 | [One Trick Ponies](https://open.spotify.com/track/3NARYtRUkQEU6KCd9OgEfq) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes) | 5:21 | 2020-10-06 | 2022-04-20 |
 | [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 | 2025-01-17 | 2025-03-30 |
 | [Only You](https://open.spotify.com/track/3NcGNpeJ3rouV7fQ3dtv04) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX) | 6:21 | 2020-10-21 | 2022-04-12 |

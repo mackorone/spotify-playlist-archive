@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,387 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,390 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 25 | [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 |
 | 26 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 |
 | 27 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 |
-| 28 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 |
-| 29 | [Somebody to You](https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Somebody to You](https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut) | 3:48 |
+| 28 | [Somebody to You](https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Somebody to You](https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut) | 3:48 |
+| 29 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 |
 | 30 | [Lead On Good Shepherd](https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Lead On Good Shepherd](https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO) | 3:23 |
 | 31 | [Don't Fight Alone](https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Don't Fight Alone](https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L) | 4:00 |
 | 32 | [Strong](https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(The Beginning\)](https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5) | 3:24 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 39 | [Praise The Lord](https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn) | 3:18 |
 | 40 | [Heaven Changes Everything](https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Heaven Changes Everything](https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji) | 3:31 |
 | 41 | [Whole Heart](https://open.spotify.com/track/3jhN9h9Z2GOYfrDNspFOji) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hopeful Hearts Club](https://open.spotify.com/album/7rIMmf6AeHmTb8tCoyddAU) | 6:40 |
-| 42 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 |
-| 43 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 |
+| 42 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 |
+| 43 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 |
 | 44 | [Twenty\-Four \(Tyler Joseph from Twenty One Pilots Version\)](https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 4:42 |
 | 45 | [Able](https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm) | 5:02 |
 | 46 | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT) | 3:14 |

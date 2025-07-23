@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 110608,
+  "num_followers": 110685,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAADfr7au7544S4MO7XhyZ26j",
+  "snapshot_id": "aH2DAAAAAADmqj96OXZE0C/+Wy7r209P",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Cosas del Amor",
-      "url": "https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Millonario De Amor",
         "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 242613,
       "name": "Quince Minutos De Ti",
       "url": "https://open.spotify.com/track/2fczBn1fEYW5vJASRovoln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Cosas del Amor",
+      "url": "https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe"
     },
     {
       "added_at": null,

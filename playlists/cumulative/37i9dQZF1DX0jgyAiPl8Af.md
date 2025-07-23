@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-880 songs - 1 day 13 hr 57 min
+882 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,6 +444,7 @@
 | [Little Brook](https://open.spotify.com/track/7qNq3sxKEdzYWvxLSLkj0J) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Little Brook](https://open.spotify.com/album/4LFmxQ7oxYlsVgITnOa2SX) | 2:22 | 2022-12-09 | 2024-04-05 |
 | [Little Cottage](https://open.spotify.com/track/3pUK6AC5y7TW6hzWw2cceU) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Little Cottage](https://open.spotify.com/album/3ds3AiWkIMP5aa4JqccIW5) | 2:33 | 2022-11-25 | 2023-04-21 |
 | [Little Krumbs](https://open.spotify.com/track/3vrkYJODH1pEthNwy9bdSq) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 3](https://open.spotify.com/album/1e3eyPgitBo2NNaKJ096YY) | 3:13 | 2021-12-08 | 2022-04-22 |
+| [Little Things](https://open.spotify.com/track/62sKhb5SrRgCBpgXTHZ6CJ) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Little Things](https://open.spotify.com/album/2l0atZUwVI7V06hLb0ucli) | 2:36 | 2025-07-22 |  |
 | [Livandi](https://open.spotify.com/track/5dwTEdDifPzXeThnggzJt4) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Livandi](https://open.spotify.com/album/75hU4Ep3z9VSWp8Lr7F8Oi) | 2:07 | 2022-07-29 | 2024-06-08 |
 | [Live Forever](https://open.spotify.com/track/5FPdwD2bN2dhamXq48ahzk) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Live Forever](https://open.spotify.com/album/49dxWodL0FhB1Uzg9iUETV) | 2:43 | 2022-08-12 | 2023-05-13 |
 | [Llamame e Insiste](https://open.spotify.com/track/7xWSsd19uqn3nuEhPz1uG3) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Llamame e Insiste](https://open.spotify.com/album/1VuqJvXizrcq4dyqYTgWE2) | 3:00 | 2021-12-08 | 2022-05-11 |
@@ -617,6 +618,7 @@
 | [Raconteur](https://open.spotify.com/track/7qzfZetxTQEZlFi3QB7zHx) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Raconteur](https://open.spotify.com/album/6zJrL7ptspQXKC1CaBkVBV) | 2:15 | 2022-12-16 | 2024-07-18 |
 | [Rain On My WIndowpane](https://open.spotify.com/track/2WXJAtb7jxs6hYMeZSRwGU) | [Carrie Mittenkemp](https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P) | [Mist & Meadows](https://open.spotify.com/album/5TxaDCEN0hCDOAzs8PYo2k) | 2:33 | 2021-12-08 | 2022-06-10 |
 | [Raphaela](https://open.spotify.com/track/09eAG4nD5njEFBEhm2aQy9) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Raphaela](https://open.spotify.com/album/2rHXOxttBdWZ45jSuMKgXv) | 3:00 | 2021-12-08 | 2023-05-13 |
+| [Raspberry Flavor](https://open.spotify.com/track/6tF6HFVA95mi7l17KCFAih) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Raspberry Flavor](https://open.spotify.com/album/6wQ6Mp0M9k0KX6Jy27T6Cm) | 2:36 | 2025-07-22 |  |
 | [Rays in March](https://open.spotify.com/track/0dpDf1nbYcYhSDQLamQc2V) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Rays in March](https://open.spotify.com/album/6GWqI97c528sSrMwxIxnf1) | 2:15 | 2022-11-18 | 2024-07-30 |
 | [Red Lava](https://open.spotify.com/track/5WXMiX0oO7fOya8WTWlXda) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Red Lava](https://open.spotify.com/album/3hv5Apc4dgS9cVVKmmDqQH) | 2:54 | 2021-12-08 | 2022-07-22 |
 | [Reflected Dreams](https://open.spotify.com/track/4fn4Jx7ZrBn6r4h3vkGrkN) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Reflected Dreams](https://open.spotify.com/album/3ANuuSDn9UeoeTTqaEYGwZ) | 2:09 | 2025-03-05 |  |
@@ -823,7 +825,7 @@
 | [Vaggande Vind](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Vaggande Vind](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 2:14 | 2022-12-16 | 2023-05-13 |
 | [Valleys](https://open.spotify.com/track/3eGCdIAHs9Wakiv3Ockrzr) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Valleys](https://open.spotify.com/album/0dY2ExvYQ5p9DP7KG5Ccxc) | 2:35 | 2023-04-21 | 2025-01-14 |
 | [Valsa e Vinho](https://open.spotify.com/track/4992uwyEYOstUKzPgdPVR3) | [Nelson Gomes](https://open.spotify.com/artist/1OSiaLKfv7utlBDRS3Qr31) | [Valsa e Vinho](https://open.spotify.com/album/0LNkP579n9idgfPSrTObSV) | 2:38 | 2021-12-08 | 2023-05-13 |
-| [Vanguard](https://open.spotify.com/track/3uCREKtnCEWCI4vLiSZKbo) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Vanguard](https://open.spotify.com/album/2xmUjNUTcThauPojbHLaVL) | 2:21 | 2024-11-11 |  |
+| [Vanguard](https://open.spotify.com/track/3uCREKtnCEWCI4vLiSZKbo) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Vanguard](https://open.spotify.com/album/2xmUjNUTcThauPojbHLaVL) | 2:21 | 2024-11-11 | 2025-07-23 |
 | [Vanja](https://open.spotify.com/track/7lyDrjn4e8BCszy5o7tNuk) | [Lukas Rosendal](https://open.spotify.com/artist/3gvOqk86iSqfIsY4jceRDy) | [Askja](https://open.spotify.com/album/3GMGYp6kdBbD4e897A6IkT) | 2:21 | 2021-12-08 | 2022-07-01 |
 | [Ven Tal Como Eres](https://open.spotify.com/track/0ui3M3a6TtLgxH5R7Kntvv) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Ven Tal Como Eres](https://open.spotify.com/album/5TLxpycYjiy0YippNmsFNf) | 1:38 | 2023-04-21 | 2023-08-19 |
 | [Veracity](https://open.spotify.com/track/49RUCdpg6fvClNHxI6HB3x) | [Adrian Strohm](https://open.spotify.com/artist/1Rs3hpkbsgsgFiavB9Id1i) | [Veracity](https://open.spotify.com/album/5mpEiRXZhlx8DHuoDbdr6u) | 1:42 | 2022-09-23 | 2023-08-19 |

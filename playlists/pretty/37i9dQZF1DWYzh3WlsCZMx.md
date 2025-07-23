@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,554 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,562 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 8 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 |
 | 9 | [Big Ole Freak](https://open.spotify.com/track/3YEbLhXRDPTtctnb3ddg8g) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:34 |
 | 10 | [X\-Wing](https://open.spotify.com/track/41X9qar6SruZOPLIV7sgUw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:56 |
-| 11 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
-| 12 | [WHOLE LOTTA MONEY](https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 |
-| 13 | [Itty Bitty Piggy](https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 4:06 |
-| 14 | [Said Sum \(feat\. City Girls & DaBaby\) \- Remix](https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:57 |
+| 11 | [WHOLE LOTTA MONEY](https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 |
+| 12 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
+| 13 | [Said Sum \(feat\. City Girls & DaBaby\) \- Remix](https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:57 |
+| 14 | [Itty Bitty Piggy](https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 4:06 |
 | 15 | [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 |
 | 16 | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/album/24t0q0pqu7y9udfr89qf42) | 3:01 |
 | 17 | [Hood Bitch](https://open.spotify.com/track/1QncxlVV6UqA10Dh7pCcj9) | [Fam0us.Twinsss](https://open.spotify.com/artist/5Nrl4fJ98iiMiTqhKjy8ZL) | [Hood Bitch](https://open.spotify.com/album/7wkI0tGOfXLdfP16Khkrvt) | 2:13 |

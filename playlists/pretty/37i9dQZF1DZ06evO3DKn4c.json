@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 39747,
+  "num_followers": 39749,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHwxgAAAAABOUB4zYuZJs/kQzOeJ95o/",
+  "snapshot_id": "aH2DAAAAAABv4lGurue7inw+odKCsHG0",
   "tracks": [
     {
       "added_at": null,
@@ -739,46 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Insolente",
-        "url": "https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB"
-      },
-      "artists": [
-        {
-          "name": "Marcelinho Da Lua",
-          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Bi Ribeiro",
-          "url": "https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Black Belt (feat. Black Alien & Bi Ribeiro)",
-      "url": "https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 212725,
-      "name": "Homem de Fam\u00edlia",
-      "url": "https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gord\u00e3o Chefe",
         "url": "https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y"
       },
@@ -799,6 +759,46 @@
       "duration_ms": 331775,
       "name": "Sinto Muito Baby",
       "url": "https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 212725,
+      "name": "Homem de Fam\u00edlia",
+      "url": "https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Insolente",
+        "url": "https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB"
+      },
+      "artists": [
+        {
+          "name": "Marcelinho Da Lua",
+          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Bi Ribeiro",
+          "url": "https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Black Belt (feat. Black Alien & Bi Ribeiro)",
+      "url": "https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6"
     },
     {
       "added_at": null,

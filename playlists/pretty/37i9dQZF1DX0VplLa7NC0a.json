@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 39050,
+  "num_followers": 39063,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -219,30 +219,6 @@
     {
       "added_at": "2025-07-02 10:57:01",
       "album": {
-        "name": "Rossini: Il Barbiere di Siviglia",
-        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
-        },
-        {
-          "name": "Bruno Bartoletti",
-          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
-        }
-      ],
-      "duration_ms": 419000,
-      "name": "Il barbiere di Siviglia: Overture (Sinfonia)",
-      "url": "https://open.spotify.com/track/18l95nUQWWV6RU2gLCbrjN"
-    },
-    {
-      "added_at": "2025-07-02 10:57:01",
-      "album": {
         "name": "Rossini: Mos\u00e8 in Egitto",
         "url": "https://open.spotify.com/album/2lKMWAaD3wNsnjpGu1Hnpe"
       },
@@ -279,6 +255,30 @@
       "duration_ms": 413493,
       "name": "Mos\u00e8 in Egitto / Act 1: No. 1 Introduzione: \"Ah! Chi ne aiuta! Oh ciel!\"",
       "url": "https://open.spotify.com/track/1VR0lZ6Jbf0PyKSE6CUXwE"
+    },
+    {
+      "added_at": "2025-07-02 10:57:01",
+      "album": {
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Bruno Bartoletti",
+          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
+        }
+      ],
+      "duration_ms": 419000,
+      "name": "Il barbiere di Siviglia: Overture (Sinfonia)",
+      "url": "https://open.spotify.com/track/18l95nUQWWV6RU2gLCbrjN"
     },
     {
       "added_at": "2025-07-02 10:57:01",
@@ -775,30 +775,6 @@
     {
       "added_at": "2025-07-02 10:57:01",
       "album": {
-        "name": "Rossini: String Sonatas, Vol.2",
-        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Filarmonica del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
-      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
-    },
-    {
-      "added_at": "2025-07-02 10:57:01",
-      "album": {
         "name": "Rossini: Stabat Mater",
         "url": "https://open.spotify.com/album/5nekImhuQccc3AYugTUJfu"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 376626,
       "name": "Rossini: Stabat Mater: II. Cujus animam gementem",
       "url": "https://open.spotify.com/track/4caKKEVxLLkYH3XAV2166D"
+    },
+    {
+      "added_at": "2025-07-02 10:57:01",
+      "album": {
+        "name": "Rossini: String Sonatas, Vol.2",
+        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
+      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
     },
     {
       "added_at": "2025-07-02 10:57:01",
@@ -1031,30 +1031,6 @@
     {
       "added_at": "2025-07-02 10:57:01",
       "album": {
-        "name": "Rossini: Guillaume Tell",
-        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Lamberto Gardelli",
-          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 91506,
-      "name": "Rossini: Guillaume Tell, Act 3: Pas de trois. Danse",
-      "url": "https://open.spotify.com/track/62IaVX0eGIuGRbJB7ndHxC"
-    },
-    {
-      "added_at": "2025-07-02 10:57:01",
-      "album": {
         "name": "Rossini-Oeuvres vocales-Duo des chats-Ave maria-Promenade",
         "url": "https://open.spotify.com/album/1hWOXOktfgLpGq9WB5STV4"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 185560,
       "name": "Duetto buffo di due gatti",
       "url": "https://open.spotify.com/track/6fNJ1XGd7DQOaOUemy5sVH"
+    },
+    {
+      "added_at": "2025-07-02 10:57:01",
+      "album": {
+        "name": "Rossini: Guillaume Tell",
+        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 91506,
+      "name": "Rossini: Guillaume Tell, Act 3: Pas de trois. Danse",
+      "url": "https://open.spotify.com/track/62IaVX0eGIuGRbJB7ndHxC"
     },
     {
       "added_at": "2025-07-02 10:57:01",

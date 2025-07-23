@@ -432,7 +432,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 165404,
       "name": "2 Bl\u00e5",
       "url": "https://open.spotify.com/track/68SXARy5L9fGZT0WOwfyx6"
@@ -3608,7 +3608,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 210093,
       "name": "Bare s\u00e5 du vett det",
       "url": "https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds"
@@ -4612,6 +4612,28 @@
       "duration_ms": 161770,
       "name": "Big FU",
       "url": "https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh"
+    },
+    {
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182401,
+      "name": "Big Poe (feat. Sk8brd)",
+      "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
     },
     {
       "album": {
@@ -14216,7 +14238,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 199109,
       "name": "F\u00e5 det p\u00e5",
       "url": "https://open.spotify.com/track/1V9NWjMX2GRy0exAEGicsC"
@@ -14242,7 +14264,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 199109,
       "name": "F\u00e5 det p\u00e5",
       "url": "https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA"
@@ -21724,7 +21746,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 256278,
       "name": "Jenter",
       "url": "https://open.spotify.com/track/69srx2YCAFt0NrnNDF42Sf"
@@ -21742,7 +21764,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 256706,
       "name": "Jenter",
       "url": "https://open.spotify.com/track/6SOmLQXDnvZhOHoQQue50V"
@@ -34344,7 +34366,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 154042,
       "name": "Samma det",
       "url": "https://open.spotify.com/track/4ADggmM9xpZQd6OMXepjIv"
@@ -36200,7 +36222,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 248333,
       "name": "Smak av honning",
       "url": "https://open.spotify.com/track/2fpzKuNv8J1H0LOgE275oG"
@@ -43058,6 +43080,24 @@
       "duration_ms": 135737,
       "name": "Vil Ikke Dele",
       "url": "https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg"
+    },
+    {
+      "album": {
+        "name": "VILL HA DIG",
+        "url": "https://open.spotify.com/album/78p0xLgUJuFslzdFQvnwRW"
+      },
+      "artists": [
+        {
+          "name": "Mr. Melo",
+          "url": "https://open.spotify.com/artist/1TRIsAhdyjtScfOMhVKj4D"
+        }
+      ],
+      "date_added": "2025-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218823,
+      "name": "Vill ha dig",
+      "url": "https://open.spotify.com/track/7zueKXZbwLlfn5gyfUSI2s"
     },
     {
       "album": {

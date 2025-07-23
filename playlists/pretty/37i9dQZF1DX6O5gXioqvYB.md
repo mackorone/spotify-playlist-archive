@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui  🌻 Cover: SELMI e chiamamifaro
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,953 likes - 114 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,958 likes - 114 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

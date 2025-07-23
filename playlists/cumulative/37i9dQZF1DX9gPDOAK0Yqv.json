@@ -4485,6 +4485,32 @@
     },
     {
       "album": {
+        "name": "Fight For Life",
+        "url": "https://open.spotify.com/album/0vgX5kKmTBtM6BB4CBJyam"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Artem Pivovarov",
+          "url": "https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW"
+        },
+        {
+          "name": "Usyk",
+          "url": "https://open.spotify.com/artist/7k3VABEhfvBBkZ414x2ALB"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Fight For Life",
+      "url": "https://open.spotify.com/track/3lDBo8CXgQQyEfFqK6JWWF"
+    },
+    {
+      "album": {
         "name": "Promised Land (Remixes)",
         "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
       },
@@ -11432,7 +11458,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-23",
       "duration_ms": 146490,
       "name": "Rondo",
       "url": "https://open.spotify.com/track/6CwxmhlcNrTpyM2GyhyUp3"

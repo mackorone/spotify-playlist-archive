@@ -1,12 +1,12 @@
 {
-  "description": "With Sonder, Jhen\u00e9 Aiko, Summer Walker and more",
-  "num_followers": 81971,
+  "description": "With Jhen\u00e9 Aiko, Sonder, Summer Walker and more",
+  "num_followers": 82068,
   "original_name": "PARTYNEXTDOOR Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH8BpAAAAAAHmJ4tdnN+Ds2dEriRhAIx",
+  "snapshot_id": "aIAx6AAAAAAzZ4Qrd/NLyjeF446i+Uwu",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What You Heard",
-        "url": "https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 238242,
-      "name": "What You Heard",
-      "url": "https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
@@ -103,8 +87,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+        "name": "What You Heard",
+        "url": "https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 238242,
+      "name": "What You Heard",
+      "url": "https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/1CTk9dG2nyaUovNIQfBzqb"
       },
       "artists": [
         {
@@ -112,9 +112,9 @@
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 216630,
-      "name": "Her Way",
-      "url": "https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb"
+      "duration_ms": 224187,
+      "name": "R e s e n t m e n t",
+      "url": "https://open.spotify.com/track/3ViEhfgPwDKva54pvEQFTO"
     },
     {
       "added_at": null,
@@ -139,102 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4275 (Bonus Version)",
-        "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        }
-      ],
-      "duration_ms": 236146,
-      "name": "B.E.D.",
-      "url": "https://open.spotify.com/track/1B6TmCvKjC4dopBohVW51x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/4r2K4gqWp5VAgOvwtGDhYY"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 195909,
-      "name": "One Night Only",
-      "url": "https://open.spotify.com/track/74fQgHleHZ4V7Gm1XYcGkj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/1CTk9dG2nyaUovNIQfBzqb"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 224187,
-      "name": "R e s e n t m e n t",
-      "url": "https://open.spotify.com/track/3ViEhfgPwDKva54pvEQFTO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "The Worst",
-      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life On Earth - EP",
         "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
       },
@@ -255,22 +159,118 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heres to the Roc",
-        "url": "https://open.spotify.com/album/6FZ0Q7sIo4itjsjn4WYw2C"
+        "name": "4275 (Bonus Version)",
+        "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         }
       ],
-      "duration_ms": 225072,
-      "name": "Me U and Hennessy",
-      "url": "https://open.spotify.com/track/5xzcgldpCjPqgpE5clKkQO"
+      "duration_ms": 236146,
+      "name": "B.E.D.",
+      "url": "https://open.spotify.com/track/1B6TmCvKjC4dopBohVW51x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 382760,
+      "name": "Stay Ready (What A Life)",
+      "url": "https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 216630,
+      "name": "Her Way",
+      "url": "https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/4r2K4gqWp5VAgOvwtGDhYY"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 195909,
+      "name": "One Night Only",
+      "url": "https://open.spotify.com/track/74fQgHleHZ4V7Gm1XYcGkj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shameless",
+        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
     },
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Into",
         "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
       },
@@ -307,34 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 236160,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shameless",
-        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Shameless",
-      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
+      "duration_ms": 102813,
+      "name": "Girl With The Tattoo Enter.lewd",
+      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
     },
     {
       "added_at": null,
@@ -371,34 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+        "name": "Heres to the Roc",
+        "url": "https://open.spotify.com/album/6FZ0Q7sIo4itjsjn4WYw2C"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 102813,
-      "name": "Girl With The Tattoo Enter.lewd",
-      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Into",
-        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
-      },
-      "artists": [
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
         {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
         }
       ],
-      "duration_ms": 164488,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/3tkxfORwPo2zydAf25YFOc"
+      "duration_ms": 225072,
+      "name": "Me U and Hennessy",
+      "url": "https://open.spotify.com/track/5xzcgldpCjPqgpE5clKkQO"
     },
     {
       "added_at": null,
@@ -419,22 +407,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+        "name": "Into",
+        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
         }
       ],
-      "duration_ms": 277720,
-      "name": "Members Only (feat. PARTYNEXTDOOR)",
-      "url": "https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn"
+      "duration_ms": 164488,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/3tkxfORwPo2zydAf25YFOc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Hurt You?",
+        "url": "https://open.spotify.com/album/5pg16PobNzDTjHzIa3WS4B"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "Who Hurt You?",
+      "url": "https://open.spotify.com/track/3fX3N9yUo3hNatc2BbJDLs"
     },
     {
       "added_at": null,
@@ -471,126 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Hurt You?",
-        "url": "https://open.spotify.com/album/5pg16PobNzDTjHzIa3WS4B"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "Who Hurt You?",
-      "url": "https://open.spotify.com/track/3fX3N9yUo3hNatc2BbJDLs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4275 (Bonus Version)",
-        "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "You",
-      "url": "https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 382760,
-      "name": "Stay Ready (What A Life)",
-      "url": "https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "PERSIAN RUGS",
-      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If You're Reading This It's Too Late",
-        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Wednesday Night Interlude",
-      "url": "https://open.spotify.com/track/6oLHyWvmk6bKrA91EIYZBp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 92093,
-      "name": "Deep",
-      "url": "https://open.spotify.com/track/3LfHBTYZBTqmz43tvVXJBd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 116129,
-      "name": "Mad Riches",
-      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/7D9fLDGU0A95Y0rIakBJA4"
       },
@@ -615,40 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR",
-        "url": "https://open.spotify.com/album/3HAkHqZtXoyEH0Whnamswu"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 123080,
-      "name": "TBH",
-      "url": "https://open.spotify.com/track/236P5yLtfnHgTMxevc0q6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sailing Soul(s)",
-        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "stranger",
-      "url": "https://open.spotify.com/track/7eZXAeqqdLDrAp2MvrPzWn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If You're Reading This It's Too Late",
-        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
       "artists": [
         {
@@ -660,15 +508,63 @@
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 236973,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/1OHoBC4icbuNhpSxP400sv"
+      "duration_ms": 277720,
+      "name": "Members Only (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Heart Of A Woman",
-        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "PERSIAN RUGS",
+      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
       "artists": [
         {
@@ -676,15 +572,31 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Heart Of A Woman",
-      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
+      "duration_ms": 92093,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/3LfHBTYZBTqmz43tvVXJBd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Into",
-        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
+        "name": "4275 (Bonus Version)",
+        "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "You",
+      "url": "https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
       },
       "artists": [
         {
@@ -692,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
         }
       ],
-      "duration_ms": 232502,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/1uverlfbbG8InEPioAwB8y"
+      "duration_ms": 116129,
+      "name": "Mad Riches",
+      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
     },
     {
       "added_at": null,
@@ -715,26 +627,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/2v6x8JNW3DdI0IBkKdrBvt"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "Pimmie",
-          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 118153,
-      "name": "PIMMIE'S DILEMMA",
-      "url": "https://open.spotify.com/track/4cwyp1aL1q3LfGCteqe8tL"
+      "duration_ms": 212280,
+      "name": "Wednesday Night Interlude",
+      "url": "https://open.spotify.com/track/6oLHyWvmk6bKrA91EIYZBp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart Of A Woman",
+        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Heart Of A Woman",
+      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
     },
     {
       "added_at": null,
@@ -748,15 +688,71 @@
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 241773,
-      "name": "my mine",
-      "url": "https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd"
+      "duration_ms": 214893,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/7eZXAeqqdLDrAp2MvrPzWn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/3HAkHqZtXoyEH0Whnamswu"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 123080,
+      "name": "TBH",
+      "url": "https://open.spotify.com/track/236P5yLtfnHgTMxevc0q6F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nobody But You",
+        "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 213214,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dark Sky Paradise",
+        "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 319973,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
       },
       "artists": [
         {
@@ -768,9 +764,9 @@
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 368035,
-      "name": "Since Way Back",
-      "url": "https://open.spotify.com/track/5JUu0unA8VwhTZ9LkMWUVI"
+      "duration_ms": 236973,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/1OHoBC4icbuNhpSxP400sv"
     },
     {
       "added_at": null,
@@ -807,18 +803,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/2v6x8JNW3DdI0IBkKdrBvt"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+      "duration_ms": 118153,
+      "name": "PIMMIE'S DILEMMA",
+      "url": "https://open.spotify.com/track/4cwyp1aL1q3LfGCteqe8tL"
     },
     {
       "added_at": null,
@@ -848,29 +852,29 @@
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 152400,
-      "name": "2 seconds - Bonus",
-      "url": "https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX"
+      "duration_ms": 241773,
+      "name": "my mine",
+      "url": "https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp"
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh"
+      "duration_ms": 368035,
+      "name": "Since Way Back",
+      "url": "https://open.spotify.com/track/5JUu0unA8VwhTZ9LkMWUVI"
     }
   ],
   "unique_name": "PARTYNEXTDOOR Radio",

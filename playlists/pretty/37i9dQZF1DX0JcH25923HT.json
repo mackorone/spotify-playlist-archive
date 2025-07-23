@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 536027,
+  "num_followers": 536244,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
-        "url": "https://open.spotify.com/album/4fz9Lm8O94dPFo3uga9Cm4"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 276768,
-      "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
-      "url": "https://open.spotify.com/track/1WDDZngXuT5o8ePqXeNtvM"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Quavo #Mododiablo",
         "url": "https://open.spotify.com/album/1wqjwWta01I0J17ThJeCca"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 237428,
       "name": "Quavo #Mododiablo",
       "url": "https://open.spotify.com/track/262lBp5MtK39jc7gQdYrVM"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
+        "url": "https://open.spotify.com/album/4fz9Lm8O94dPFo3uga9Cm4"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 276768,
+      "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
+      "url": "https://open.spotify.com/track/1WDDZngXuT5o8ePqXeNtvM"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -967,34 +967,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Buen Viaje",
-        "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 221802,
-      "name": "Vengo De Nada",
-      "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "H.I.E.L.O.",
         "url": "https://open.spotify.com/album/2V5eHcsWILzjRzf9Z47tiX"
       },
@@ -1039,22 +1011,30 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Coronamos",
-        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
+        "name": "Buen Viaje",
+        "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
       },
       "artists": [
         {
-          "name": "Lito Kirino",
-          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Coronamos",
-      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
+      "duration_ms": 221802,
+      "name": "Vengo De Nada",
+      "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1087,6 +1067,26 @@
       "duration_ms": 306946,
       "name": "Tacos Altos",
       "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Coronamos",
+        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Coronamos",
+      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Condiciones",
-        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Condiciones",
-      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "#Ysya2020 Vol. 5 - Silbando",
         "url": "https://open.spotify.com/album/7cQuRxvG0SivoV6YCyrJY5"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 119438,
       "name": "#Ysya2020 Vol. 5 - Silbando",
       "url": "https://open.spotify.com/track/6TI490muJ6RgFsYJc626BZ"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Condiciones",
+        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Condiciones",
+      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1327,18 +1327,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
+        "name": "La Cone",
+        "url": "https://open.spotify.com/album/4GXtfTQ5fsxTOc0TgGLlDL"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 240441,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+      "duration_ms": 251942,
+      "name": "La Cone",
+      "url": "https://open.spotify.com/track/4QV1UDysVcpkHOGh2va5nt"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1363,26 +1371,18 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "La Cone",
-        "url": "https://open.spotify.com/album/4GXtfTQ5fsxTOc0TgGLlDL"
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 251942,
-      "name": "La Cone",
-      "url": "https://open.spotify.com/track/4QV1UDysVcpkHOGh2va5nt"
+      "duration_ms": 240441,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1803,6 +1803,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sigo Fresh",
+      "url": "https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Ahora Me Llama (Remix)",
         "url": "https://open.spotify.com/album/3QL5SDLpu79KrQAW3jhJ8y"
       },
@@ -1823,26 +1843,6 @@
       "duration_ms": 251906,
       "name": "Ahora Me Llama - Remix",
       "url": "https://open.spotify.com/track/0mQD5ilmghCieAw6E6YFrd"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "You're Welcome",
-        "url": "https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sigo Fresh",
-      "url": "https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Se Termin\u00f3 (feat. Kodigo)",
-        "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
-        }
-      ],
-      "duration_ms": 202083,
-      "name": "Se Termin\u00f3 (feat. Kodigo)",
-      "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Lucho SSJ: Bzrp Music Sessions, Vol. 26",
         "url": "https://open.spotify.com/album/0thIkyfD115LyonQgwBhyT"
       },
@@ -1975,6 +1955,26 @@
       "duration_ms": 142703,
       "name": "Lucho SSJ: Bzrp Music Sessions, Vol. 26",
       "url": "https://open.spotify.com/track/3tMNgcUfPEXTtG5vaaGi85"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Se Termin\u00f3 (feat. Kodigo)",
+        "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "duration_ms": 202083,
+      "name": "Se Termin\u00f3 (feat. Kodigo)",
+      "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2215,6 +2215,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "duration_ms": 220147,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Te Llame Borracho",
         "url": "https://open.spotify.com/album/2y7qQImK0WUCdvYLAWpzoR"
       },
@@ -2235,22 +2251,6 @@
       "duration_ms": 198282,
       "name": "Te Llame Borracho",
       "url": "https://open.spotify.com/track/3ZqYV9HnAVVdMB4TjO8RBx"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG"
-      },
-      "artists": [
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        }
-      ],
-      "duration_ms": 220147,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6"
     }
   ],
   "unique_name": "Trap viejito",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,774 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,793 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 16 | [Some Weird Sin](https://open.spotify.com/track/6bQQEDyyAEmwYqXmMpvCFh) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 3:41 |
 | 17 | [Cry For Love](https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 4:28 |
 | 18 | [China Girl](https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 5:08 |
-| 19 | [Beside You](https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 4:29 |
-| 20 | [Les Feuilles Mortes](https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 3:55 |
+| 19 | [Les Feuilles Mortes](https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 3:55 |
+| 20 | [Beside You](https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 4:29 |
 | 21 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 |
 | 22 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
 | 23 | [He's Frank \- Slight Return](https://open.spotify.com/track/7kbOroxknznMU4k7MaWnZ4) | [The BPA](https://open.spotify.com/artist/1YJaPNfbWVIItItFlBrEK2), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [He's Frank \(Slight Return\)](https://open.spotify.com/album/3cohHyy8SX0mbSi8cerA5F) | 3:17 |
 | 24 | [Sixteen](https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 2:26 |
-| 25 | [La vie en rose](https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:06 |
+| 25 | [Everybody's Talkin'](https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:48 |
 | 26 | [Gardenia](https://open.spotify.com/track/72t2ISFNIeG6oy3SE49u2N) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 4:14 |
 | 27 | [Strung Out Johnny](https://open.spotify.com/track/6OGIBcJV5qV1FF5uiofnX0) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 4:13 |
 | 28 | [Fall In Love With Me](https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 6:32 |
-| 29 | [Everybody's Talkin'](https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:48 |
+| 29 | [La vie en rose](https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:06 |
 | 30 | [I Want To Go To The Beach](https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:52 |
 | 31 | [James Bond](https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:31 |
 | 32 | [Funtime](https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 2:54 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 46 | [I'm Going Away Smiling](https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:38 |
 | 47 | [Break Into Your Heart](https://open.spotify.com/track/16KCcwE616Sk4qTsW26wFf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 3:54 |
 | 48 | [The Endless Sea](https://open.spotify.com/track/38lgHi3Mggg8cIvlCSsxQm) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [New Values](https://open.spotify.com/album/5MMqSMFphOrGIXmlYN9Whc) | 4:51 |
-| 49 | [Sahara](https://open.spotify.com/track/0CDVMkVWF85UFILUYItRX5) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Résistance](https://open.spotify.com/album/05OQHOuoCVgx0h8MA6tT9C) | 3:03 |
-| 50 | [Supermarket](https://open.spotify.com/track/21AfGXS5oiWXpLxllErl9o) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 3:01 |
+| 49 | [Supermarket](https://open.spotify.com/track/21AfGXS5oiWXpLxllErl9o) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 3:01 |
+| 50 | [Sahara](https://open.spotify.com/track/0CDVMkVWF85UFILUYItRX5) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Résistance](https://open.spotify.com/album/05OQHOuoCVgx0h8MA6tT9C) | 3:03 |
 
-Snapshot ID: `aHwxgAAAAABMsjPIXxEwh+sIL6CzLXVc`
+Snapshot ID: `aH2DAAAAAADWaY+3pqyFlwg85fV9OhDD`

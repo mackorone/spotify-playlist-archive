@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Justin Bieber
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,290 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,319 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 9 | [Un, Dos, Tres](https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Un, Dos, Tres](https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG) | 2:34 |
 | 10 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 | 11 | [A me mi piace](https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [A me mi piace](https://open.spotify.com/album/5bOq60eYm3onS0GG2CkduJ) | 2:20 |
-| 12 | [Catalina](https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB) | [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Ghost Killer Track](https://open.spotify.com/artist/0pP39ryqTNnZqUeS7rCboX), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Catalina](https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN) | 2:53 |
+| 12 | [Catalina](https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB) | [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Catalina](https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN) | 2:53 |
 | 13 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 |
 | 14 | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8) | 3:29 |
 | 15 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |

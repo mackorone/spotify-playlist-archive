@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,668 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,682 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 33 | [Express Yourself](https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:59 |
 | 34 | [Nothing Really Matters](https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 4:27 |
 | 35 | [This Used to Be My Playground](https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 5:10 |
-| 36 | [American Pie](https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:33 |
-| 37 | [Rain](https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Erotica \(PA Version\)](https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ) | 5:24 |
+| 36 | [Rain](https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Erotica \(PA Version\)](https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ) | 5:24 |
+| 37 | [American Pie](https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:33 |
 | 38 | [Cherish](https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:49 |
 | 39 | [Vogue \- Edit](https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 4:49 |
-| 40 | [Don't Tell Me](https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:40 |
-| 41 | [Get Together](https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:15 |
+| 40 | [Get Together](https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:15 |
+| 41 | [Don't Tell Me](https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:40 |
 | 42 | [Don't Cry for Me Argentina](https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 5:35 |
 | 43 | [Lucky Star](https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 5:37 |
 | 44 | [You'll See](https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:38 |
-| 45 | [Skin \- Peter & Victor's Collaboration Remix Edit](https://open.spotify.com/track/0zFNdU81Fj9EuYAOuqMQ2X) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Skin \(The Collaboration Remix Edit\)](https://open.spotify.com/album/0fSFAAzYxzVcJadi9hzefq) | 5:18 |
-| 46 | [Dress You Up](https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 4:01 |
+| 45 | [Dress You Up](https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 4:01 |
+| 46 | [Skin \- Peter & Victor's Collaboration Remix Edit](https://open.spotify.com/track/0zFNdU81Fj9EuYAOuqMQ2X) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Skin \(The Collaboration Remix Edit\)](https://open.spotify.com/album/0fSFAAzYxzVcJadi9hzefq) | 5:18 |
 | 47 | [Back That Up To The Beat \- demo version](https://open.spotify.com/track/5ZQ2slXNqImBi0SdomcjYN) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Back That Up To The Beat](https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt) | 3:31 |
 | 48 | [Forbidden Love](https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:22 |
 | 49 | [Drowned World / Substitute for Love](https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:08 |
 | 50 | [Bitch I'm Madonna](https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:47 |
 
-Snapshot ID: `aHwxgAAAAADKrcxptBhar3WO2uF6CG/l`
+Snapshot ID: `aH2DAAAAAAAzZlsUGp0bGk0okp90rbg8`

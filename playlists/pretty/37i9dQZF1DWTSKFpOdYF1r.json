@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined the other side of the 80s. ",
-  "num_followers": 1957586,
+  "num_followers": 1958331,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-03-18 22:21:44",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo"
-      },
-      "artists": [
-        {
-          "name": "The Hooters",
-          "url": "https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1"
-        }
-      ],
-      "duration_ms": 227760,
-      "name": "And We Danced",
-      "url": "https://open.spotify.com/track/5xkNd7kCRmjT2DxSAYVVyC"
-    },
-    {
-      "added_at": "2024-03-18 22:21:44",
-      "album": {
         "name": "99 Luftballons",
         "url": "https://open.spotify.com/album/37XWs0ueFzqSRLeNV9zZMC"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 230666,
       "name": "99 Red Balloons",
       "url": "https://open.spotify.com/track/2bdcFXS61ey6x6Y1andx0F"
+    },
+    {
+      "added_at": "2024-03-18 22:21:44",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo"
+      },
+      "artists": [
+        {
+          "name": "The Hooters",
+          "url": "https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1"
+        }
+      ],
+      "duration_ms": 227760,
+      "name": "And We Danced",
+      "url": "https://open.spotify.com/track/5xkNd7kCRmjT2DxSAYVVyC"
     },
     {
       "added_at": "2022-11-17 20:08:09",

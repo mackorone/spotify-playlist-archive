@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133,867 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133,582 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 22 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 | 23 | [Feels Like Home](https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Feels Like Home](https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW) | 4:03 |
 | 24 | [Highway Blood](https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 4:26 |
-| 25 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
-| 26 | [Like Gold](https://open.spotify.com/track/0IcYIjsfFEOIY1GI4t7dLu) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Like Gold](https://open.spotify.com/album/6yRUQ6BsMwy64HN85KDOol) | 3:43 |
+| 25 | [Like Gold](https://open.spotify.com/track/0IcYIjsfFEOIY1GI4t7dLu) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Like Gold](https://open.spotify.com/album/6yRUQ6BsMwy64HN85KDOol) | 3:43 |
+| 26 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
 | 27 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
 | 28 | [True Faith](https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Stolen](https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD) | 4:42 |
 | 29 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 47 | [You & I](https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [You & I](https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR) | 2:34 |
 | 48 | [Boys](https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 3:55 |
 | 49 | [Asylum](https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Asylum](https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3) | 3:51 |
-| 50 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
-| 51 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
+| 50 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
+| 51 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
 | 52 | [Orange Tree](https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Orange Tree](https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc) | 3:12 |
 | 53 | [Don’t Give Up](https://open.spotify.com/track/0VMArnkTGXu901bqlKmJJY) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Don’t Give Up](https://open.spotify.com/album/6RRhcCl75f2mEGzxk0Y9qz) | 5:07 |
 | 54 | [always you](https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA) | [COULOU](https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl) | [always you](https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI) | 3:08 |
