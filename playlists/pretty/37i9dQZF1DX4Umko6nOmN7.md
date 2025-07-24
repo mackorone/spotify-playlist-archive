@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 
 > Favoritlåtar för lugna och sköna stunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,918 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,879 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 | 33 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
 | 34 | [Home Is You](https://open.spotify.com/track/1G4vlm1c1Ai9ORbdO6fR0W) | [Jon Wiilde](https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT) | [Home Is You](https://open.spotify.com/album/3bQZIh4luskfXT2Ev9o4QA) | 3:15 |
 | 35 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 |
-| 36 | [Misstro](https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Misstro](https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl) | 2:50 |
-| 37 | [Here It Is](https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Here It Is](https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL) | 3:13 |
+| 36 | [Here It Is](https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Here It Is](https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL) | 3:13 |
+| 37 | [Misstro](https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Misstro](https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl) | 2:50 |
 | 38 | [Just Us](https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us](https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc) | 3:34 |
 | 39 | [Rest \(with Sasha Alex Sloan\)](https://open.spotify.com/track/0eUoazaVUu4Y83USuUTz7P) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Rest \(with Sasha Alex Sloan\)](https://open.spotify.com/album/2tlpX0RIhdCE9nb1nlXFjW) | 3:13 |
 | 40 | [Best Friend](https://open.spotify.com/track/7mABSSPLVFF6HGlVLhmSsZ) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Best Friend](https://open.spotify.com/album/7AF8UxAKHt77J9j8ZBpH7J) | 3:09 |
@@ -88,17 +88,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 | 78 | [All My Friends](https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [All My Friends](https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG) | 3:00 |
 | 79 | [Oh love](https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Oh love](https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67) | 4:16 |
 | 80 | [Röda sten](https://open.spotify.com/track/2cwxukwW922rPXcKYWvLlu) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [På svenska](https://open.spotify.com/album/59yVJJgWzN71NZtKnwqeci) | 4:03 |
-| 81 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 |
-| 82 | [Dina läppar](https://open.spotify.com/track/41zrGMs7h8m1RpVwl380en) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Superlativ 97](https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu) | 3:06 |
-| 83 | [Från & med nu](https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Som i en dröm](https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM) | 2:25 |
-| 84 | [Inatt \(Inget Stoppar Oss Nu\) \- Live in Church](https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Ellen Krauss – Acoustic Versions](https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3) | 2:48 |
-| 85 | [A Wish Worth Making](https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Wish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao) | 2:53 |
+| 81 | [Dina läppar](https://open.spotify.com/track/41zrGMs7h8m1RpVwl380en) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Superlativ 97](https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu) | 3:06 |
+| 82 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 |
+| 83 | [Inatt \(Inget Stoppar Oss Nu\) \- Live in Church](https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Ellen Krauss – Acoustic Versions](https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3) | 2:48 |
+| 84 | [A Wish Worth Making](https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Wish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao) | 2:53 |
+| 85 | [Från & med nu](https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Som i en dröm](https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM) | 2:25 |
 | 86 | [Deep Down \- From the Film ‘The Abyss’](https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Deep Down \(From the Film ‘The Abyss’\)](https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u) | 2:47 |
 | 87 | [Why Keep Trying?](https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX) | 3:42 |
-| 88 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 |
-| 89 | [Heaven \- Acoustic](https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven \(Acoustic\)](https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka) | 3:03 |
-| 90 | [How Can I Make You Stay](https://open.spotify.com/track/7tefLyHHCenSPKMfZ1jgDl) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Truly Yours, Isak](https://open.spotify.com/album/1AcV0nmpenJzOStQBprXiV) | 3:09 |
-| 91 | [Penny \(Akustisk\) \[feat\. Penny\]](https://open.spotify.com/track/5Oz05HhOtbbO8baMJURFVj) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6), [Penny](https://open.spotify.com/artist/5XwPvOVGPUg76AOnVfqwQU) | [Penny \(Akustisk\)](https://open.spotify.com/album/20vhMkNyxzPhctrCYeMGzE) | 3:10 |
+| 88 | [Heaven \- Acoustic](https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven \(Acoustic\)](https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka) | 3:03 |
+| 89 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 |
+| 90 | [Penny \(Akustisk\) \[feat\. Penny\]](https://open.spotify.com/track/5Oz05HhOtbbO8baMJURFVj) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6), [Penny](https://open.spotify.com/artist/5XwPvOVGPUg76AOnVfqwQU) | [Penny \(Akustisk\)](https://open.spotify.com/album/20vhMkNyxzPhctrCYeMGzE) | 3:10 |
+| 91 | [How Can I Make You Stay](https://open.spotify.com/track/7tefLyHHCenSPKMfZ1jgDl) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Truly Yours, Isak](https://open.spotify.com/album/1AcV0nmpenJzOStQBprXiV) | 3:09 |
 | 92 | [Awful Liar](https://open.spotify.com/track/4UXJYpHAyh1Y7tXvhKWyc2) | [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [Awful Liar](https://open.spotify.com/album/1hormOqpdmUva6N31RPeDg) | 3:02 |
 | 93 | [logical](https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8) | 3:51 |
 | 94 | [Daughters](https://open.spotify.com/track/0QvBbxPRfekbg8hYFMO0nL) | [Moa Lignell](https://open.spotify.com/artist/0HrcSCqklP5G1QFHrIiztO) | [Oh Daughters](https://open.spotify.com/album/0AS2q4m3CykbM5xFiJgA4G) | 5:02 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 | 97 | [Långsamt \- Piano Version](https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Långsamt \(Piano Version\)](https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk) | 3:13 |
 | 98 | [Back To My Roots \- Acoustic Version](https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Back To My Roots](https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz) | 3:22 |
 | 99 | [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 |
-| 100 | [Never Look Down](https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m) | 3:37 |
+| 100 | [Ängel](https://open.spotify.com/track/3pz7fuVOmmCfxTwkrVZ7jJ) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Ängel](https://open.spotify.com/album/03UrdydUyMXEvAYCiX1vK2) | 3:29 |
 
 Snapshot ID: `aF3DAAAAAADHlL4KA85UShwZgg8nAGeO`

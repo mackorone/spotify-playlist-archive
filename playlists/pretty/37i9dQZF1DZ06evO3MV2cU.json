@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 138988,
+  "num_followers": 139001,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAApt8+8fJe1LKn2aZ9w8ErB",
+  "snapshot_id": "aH7UgAAAAADVa5WIXy4H057Pcvejz7nX",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Ran Red",
-        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "At The Cross (Love Ran Red)",
-      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burning Lights",
         "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 267906,
       "name": "Whom Shall I Fear (God Of Angel Armies)",
       "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Ran Red",
+        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "At The Cross (Love Ran Red)",
+      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
     },
     {
       "added_at": null,
@@ -259,18 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Are My King (Amazing Love) [Spotify Singles]",
-        "url": "https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl"
+        "name": "Passion: Here For You (Live)",
+        "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
       },
       "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
         {
           "name": "Chris Tomlin",
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 254443,
-      "name": "You Are My King (Amazing Love) - Spotify Singles",
-      "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"
+      "duration_ms": 274814,
+      "name": "Lord, I Need You - Live",
+      "url": "https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ"
     },
     {
       "added_at": null,
@@ -295,22 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Here For You (Live)",
-        "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
+        "name": "You Are My King (Amazing Love) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl"
       },
       "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
         {
           "name": "Chris Tomlin",
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 274814,
-      "name": "Lord, I Need You - Live",
-      "url": "https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ"
+      "duration_ms": 254443,
+      "name": "You Are My King (Amazing Love) - Spotify Singles",
+      "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Love",
-        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 229680,
-      "name": "Sing, Sing, Sing",
-      "url": "https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I"
+      "duration_ms": 326960,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6ChFsa3xElTTIJAo460out"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+        "name": "Hello Love",
+        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 326960,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6ChFsa3xElTTIJAo460out"
+      "duration_ms": 229680,
+      "name": "Sing, Sing, Sing",
+      "url": "https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 252533,
-      "name": "Holy Is The Lord - Arriving Album Version",
-      "url": "https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ"
+      "duration_ms": 280960,
+      "name": "We Fall Down",
+      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
     },
     {
       "added_at": null,
@@ -748,29 +748,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 280960,
-      "name": "We Fall Down",
-      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Awakening (Live)",
-        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 328160,
-      "name": "Our God - Live",
-      "url": "https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ"
+      "duration_ms": 252533,
+      "name": "Holy Is The Lord - Arriving Album Version",
+      "url": "https://open.spotify.com/track/31Kb7jyAscJJma1gTXRUFQ"
     },
     {
       "added_at": null,
@@ -791,6 +771,26 @@
       "duration_ms": 272000,
       "name": "We Fall Down / Agnus Dei - Medley",
       "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Awakening (Live)",
+        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 328160,
+      "name": "Our God - Live",
+      "url": "https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ"
     },
     {
       "added_at": null,

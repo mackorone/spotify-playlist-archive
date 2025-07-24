@@ -2,9 +2,9 @@
 
 ### [Island Pop](https://open.spotify.com/playlist/37i9dQZF1DWX1DwkjCqoyw)
 
-> The biggest crossover songs from the islands and the diaspora\. Cover: Amanda Reifer
+> The biggest crossover songs from the islands and the diaspora\. Cover: Mahalia
 
-170 songs - 8 hr 35 min
+172 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Banga](https://open.spotify.com/track/0VQCtoStmIbr3IS5lvDRiG) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Man With No Door](https://open.spotify.com/album/1MS5QTc5isnW4DGXNVm1PZ) | 2:57 | 2024-07-16 |  |
 | [Basic](https://open.spotify.com/track/2gwn11k39NLZUCwVbcTrjq) | [Jah Vinci](https://open.spotify.com/artist/0mkixmQkcUeE6egKHW4ojh) | [I Am the World Singer](https://open.spotify.com/album/5wYDLzTry6j0sAPjZ96p6G) | 3:12 | 2022-08-18 | 2023-05-16 |
 | [Be Good](https://open.spotify.com/track/1jZQeKeIvYZfuH9nXIRag4) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Be Good](https://open.spotify.com/album/2PEorn33CYUgsCdllVw0m6) | 2:37 | 2021-12-20 | 2024-04-22 |
+| [Been A Minute](https://open.spotify.com/track/492y99GG1u1giNjvFC3WiR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Been A Minute](https://open.spotify.com/album/3thXFp5MbhUtv0C5eCJSHG) | 3:20 | 2025-07-23 |  |
 | [Beg Mi Ah Link](https://open.spotify.com/track/7FQb9eUgaoXjnWm6PeP6r0) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Beg Mi Ah Link](https://open.spotify.com/album/2R7XqOHZr058boBNoSXRA5) | 2:14 | 2021-12-20 | 2022-08-19 |
 | [Bird](https://open.spotify.com/track/0FxYg22fYhS82LuDkaUg6Y) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS), [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa) | [Bird](https://open.spotify.com/album/0K8Ud4e2KFCB7zGwS4mLwP) | 2:18 | 2022-08-18 | 2023-05-16 |
 | [Blaze Away](https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Blaze Away](https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc) | 3:09 | 2021-12-20 | 2024-05-02 |
@@ -33,7 +34,7 @@
 | [Catch 22](https://open.spotify.com/track/1cc282JtAEefN7O792U5P5) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Catch 22](https://open.spotify.com/album/7yqsulxhfk6aZNsioUcroO) | 4:10 | 2021-12-20 | 2022-07-29 |
 | [Catch 22](https://open.spotify.com/track/4ZYs6suTVIJPg5vxibOyIw) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Serenity](https://open.spotify.com/album/6eYxm1llvPLQe5oW3d5tba) | 4:10 | 2022-03-18 | 2024-04-19 |
 | [Code](https://open.spotify.com/track/4pB6P5F2IA0JjhnoKQX4wm) | [Brysco](https://open.spotify.com/artist/6IUtN4Ejh27VhUovFiKUa5) | [Code](https://open.spotify.com/album/111hqZzRoiw6ETNK0hhFsc) | 2:32 | 2022-08-18 | 2023-05-16 |
-| [Colonize](https://open.spotify.com/track/4rDgg8ef2YHTiYPQNb3ixB) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Colonize \(Remixes\)](https://open.spotify.com/album/2OSTgnppiAz0yRKxdf73As) | 3:03 | 2024-07-16 |  |
+| [Colonize](https://open.spotify.com/track/4rDgg8ef2YHTiYPQNb3ixB) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Colonize \(Remixes\)](https://open.spotify.com/album/2OSTgnppiAz0yRKxdf73As) | 3:03 | 2024-07-16 | 2025-07-24 |
 | [Condensed Milk](https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Condensed Milk](https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ) | 3:13 | 2021-12-20 | 2022-08-19 |
 | [COOL AS THE BREEZE/FRIDAY](https://open.spotify.com/track/68Hl1nI7Ico8cgwkBtA9Fg) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [COOL AS THE BREEZE/FRIDAY](https://open.spotify.com/album/6q8ljQkUDzmBIrEqqXIB8m) | 3:33 | 2021-12-20 | 2022-08-19 |
 | [Cream of the crop](https://open.spotify.com/track/6w8gNFLb4jYCljERxafQEK) | [active music](https://open.spotify.com/artist/6UYHyh6ESGd4FT2cRTsy6e), [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7), [Navaz](https://open.spotify.com/artist/2tMiAnJeqL5IPlRuvdw9Vn) | [Active Music Dream Big 21 Tatchside Riddim](https://open.spotify.com/album/38Sc0gAUv59wdYwNv9XWxK) | 2:56 | 2022-08-18 | 2023-05-16 |
@@ -78,6 +79,7 @@
 | [Hooked](https://open.spotify.com/track/5yEDGhSkoreCSMNyd4ZU6G) | [Noah Powa](https://open.spotify.com/artist/6yKN858F7VWik5UyT9geTE) | [Hooked](https://open.spotify.com/album/45kYAA4RGL7WjbeocoOGW5) | 2:35 | 2021-12-20 | 2022-02-25 |
 | [ice \(feat\. BAMBII\)](https://open.spotify.com/track/6hJctn0h0dnTfpijZcK8E9) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [ice \(feat\. BAMBII\)](https://open.spotify.com/album/26MoAtmtvBMP1VP5Oc5uox) | 1:54 | 2024-07-16 | 2024-08-26 |
 | [In My Heart](https://open.spotify.com/track/0j4JGNWKEjrOAOcOitdPc6) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [Melody](https://open.spotify.com/album/3oXVoYCkJbjZE632mfnSG7) | 3:30 | 2021-12-20 | 2022-08-19 |
+| [Instructions](https://open.spotify.com/track/1zRvqTBUJBRAIs8s6mIV5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Instructions](https://open.spotify.com/album/1579N4l9ljWuCGsw98b0rz) | 2:16 | 2025-07-23 |  |
 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 | 2024-04-26 |  |
 | [Jolene](https://open.spotify.com/track/6B1si3DuUOmVaWQ53GijZh) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Dwala](https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT) | [Jolene](https://open.spotify.com/album/3S8m8x31vQLl4I4R4gqA88) | 3:15 | 2022-02-24 | 2022-08-19 |
 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-04-26 |  |
@@ -146,7 +148,7 @@
 | [Super Soca](https://open.spotify.com/track/4hPtBML94zR8CdFx0JuUDU) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [The Wedding Album](https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ) | 3:06 | 2021-12-20 | 2022-08-19 |
 | [Sweepstake Life](https://open.spotify.com/track/58NHF2OvW3GG6YPaeJxKHh) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Sweepstake Life](https://open.spotify.com/album/5CgSQKBs32x5ZTOgc7uYSn) | 3:00 | 2022-08-18 | 2023-05-16 |
 | [Switch](https://open.spotify.com/track/0RSoY4ecJzEgtJVX2XSHsE) | [Zerimar](https://open.spotify.com/artist/7IbkKTNpBj7MORRdt3oge3) | [Switch](https://open.spotify.com/album/1xhNZycPsboRP33kJiXwuh) | 4:22 | 2021-12-20 | 2022-08-19 |
-| [Tack Back](https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Tack Back](https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq) | 3:18 | 2024-04-26 |  |
+| [Tack Back](https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Tack Back](https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq) | 3:18 | 2024-04-26 | 2025-07-24 |
 | [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 | 2023-05-16 | 2024-04-19 |
 | [Talibans](https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai) | 3:08 | 2023-05-15 | 2024-04-27 |
 | [Talibhan](https://open.spotify.com/track/2fZIqtkyJAEvrrriiCGXNc) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Talibhan](https://open.spotify.com/album/2ii7mUCpSxXp3pWnjP6lPa) | 3:03 | 2022-08-18 |  |

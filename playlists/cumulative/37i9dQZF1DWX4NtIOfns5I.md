@@ -4,7 +4,7 @@
 
 > living in the new skullcrusher 🥀
 
-564 songs - 1 day 9 hr 40 min
+566 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Hitchhiking](https://open.spotify.com/track/4Xus7PhuqSihGgFJJZ1Ayu) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [We're Starting to Look Like Each Other](https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w) | 4:03 | 2023-11-03 | 2024-04-06 |
 | [Home Run](https://open.spotify.com/track/09vsySrvxLLyJKzeNAXjQj) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Home Run](https://open.spotify.com/album/45zRBFb2wD4XDuZOBJqbEH) | 2:34 | 2024-10-18 | 2025-05-10 |
 | [Honey I'm Hardly](https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Honey I'm Hardly](https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF) | 2:47 | 2024-05-24 | 2025-02-08 |
+| [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 | 2025-07-23 |  |
 | [Hours Off](https://open.spotify.com/track/4CYNkEe36ARTYi4OQfq4pq) | [mer marcum](https://open.spotify.com/artist/1hD768RDip7WrExOXS5pLN) | [Hours Off](https://open.spotify.com/album/36d9uOlIWerIlQZYtLpFoW) | 3:23 | 2024-11-15 | 2025-02-22 |
 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-10-06 | 2024-04-06 |
 | [How Did It End?](https://open.spotify.com/track/5Bedn0svl0ZD7RGmJkmKKw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:58 | 2024-04-26 | 2024-05-02 |
@@ -382,6 +383,7 @@
 | [Poison](https://open.spotify.com/track/45wQVFHbwFoqKrZ7cF5lqV) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5), [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [Poison](https://open.spotify.com/album/4EXllNx3pANGc6EAWrKzu2) | 3:25 | 2025-02-07 | 2025-05-03 |
 | [Poor Madeline \(feat\. Searows\) \- Alt\. Version](https://open.spotify.com/track/31fPQdP67POXOWRFjuvoql) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp), [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Poor Madeline \(feat\. Searows\) \[Alt\. Version\]](https://open.spotify.com/album/1ztvxRjZRQMiewXGTCAvwF) | 3:25 | 2024-07-26 | 2025-03-13 |
 | [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 | 2025-04-04 |  |
+| [Power](https://open.spotify.com/track/5YORFuC8yrRwlNvVVGhho8) | [Sister.](https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY) | [Two Birds](https://open.spotify.com/album/3XK27r3GGdbvu8WIfkPbv7) | 4:18 | 2025-07-23 |  |
 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 | 2023-10-06 | 2023-12-09 |
 | [pretty out](https://open.spotify.com/track/5HOclWyzX8iunVPnnFB0g1) | [frans asthma](https://open.spotify.com/artist/09biooH630jXVJKFhTdzoL), [Qozy](https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh) | [pretty out](https://open.spotify.com/album/5UO3cqD7xbri2gxDrbjNQG) | 3:04 | 2024-10-18 | 2025-05-14 |
 | [Pup](https://open.spotify.com/track/7vxSL2veuTRQBhslhM7ENS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Pup](https://open.spotify.com/album/5aTyRZw08z72j3xy0bEJfz) | 4:17 | 2023-11-10 | 2023-12-16 |

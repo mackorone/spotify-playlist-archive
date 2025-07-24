@@ -834,7 +834,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 203250,
       "name": "breath V - f\u00f6rl\u00e5t",
       "url": "https://open.spotify.com/track/6UpMdnOJG0xOgzwwKhlhzU"
@@ -2134,7 +2134,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 155458,
       "name": "Gentle Vortex",
       "url": "https://open.spotify.com/track/6wdyLelm2YoQkB0m8bK7vS"
@@ -3815,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "Oxalis",
+        "url": "https://open.spotify.com/album/4F5if0hg9jBO61FIYlwEi5"
+      },
+      "artists": [
+        {
+          "name": "Loch Lua",
+          "url": "https://open.spotify.com/artist/1JJPFtcxFOpLgrbnhtvyqO"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Oxalis",
+      "url": "https://open.spotify.com/track/5ta1bh6X3tu1aJcwXAn4eQ"
+    },
+    {
+      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu"
       },
@@ -4420,7 +4438,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 131400,
       "name": "Sibylline",
       "url": "https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P"
@@ -4820,7 +4838,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 143421,
       "name": "Sweet dreams",
       "url": "https://open.spotify.com/track/5HbJrEwvAPRiISORiKAaXI"

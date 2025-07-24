@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,420 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,550 likes - 75 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 15 | [Runar](https://open.spotify.com/track/1ffeWPrcBEnQF28uPE1BX9) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Runar](https://open.spotify.com/album/4gkAmnywXdItmKEdP1E9IS) | 4:20 |
 | 16 | [Shaman of Chaos](https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS) | [OMNIA](https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS) | [Reflexions](https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR) | 4:11 |
 | 17 | [Fatherland](https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm](https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU) | 4:51 |
-| 18 | [Shieldmaiden](https://open.spotify.com/track/3GMwtVxonfUVbd9DnAUqFP) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx), [Tuomas Holopainen](https://open.spotify.com/artist/4rpsPzapLwm5LJPZmmWhFI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [Shieldmaiden](https://open.spotify.com/album/2pEGtKClaD7eYWnzQgyWo2) | 3:15 |
-| 19 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
+| 18 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
+| 19 | [Shieldmaiden](https://open.spotify.com/track/3GMwtVxonfUVbd9DnAUqFP) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx), [Tuomas Holopainen](https://open.spotify.com/artist/4rpsPzapLwm5LJPZmmWhFI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [Shieldmaiden](https://open.spotify.com/album/2pEGtKClaD7eYWnzQgyWo2) | 3:15 |
 | 20 | [Uhrikivi](https://open.spotify.com/track/7e0Ew73g1nb4SoHDtcL8W6) | [Noitakuningas](https://open.spotify.com/artist/0JaS8jTdFq6nZjckUz4JT6) | [Uhrikivi](https://open.spotify.com/album/0h6tZsu7w2pF3TEXsBKDxg) | 5:37 |
 | 21 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 |
 | 22 | [I Am](https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [A Frame of Mind](https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy) | 5:32 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 66 | [Midvinter](https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Midvinter](https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy) | 6:32 |
 | 67 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 |
 | 68 | [Spatle Ǣghwas](https://open.spotify.com/track/19SiWAlY1HyTNqgUCEOvQi) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Spatle Ǣghwas](https://open.spotify.com/album/18QwVgSM6Ru8A8Sc1jO6xm) | 4:20 |
-| 69 | [Valhalla Rising](https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Valhalla Rising](https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI) | 7:03 |
-| 70 | [Snake Pit Poetry](https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Örvarsdóttir](https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1) | [Snake Pit Poetry](https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z) | 7:08 |
+| 69 | [Snake Pit Poetry](https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Örvarsdóttir](https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1) | [Snake Pit Poetry](https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z) | 7:08 |
+| 70 | [Valhalla Rising](https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Valhalla Rising](https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI) | 7:03 |
 | 71 | [Highlander \- English Version](https://open.spotify.com/track/6pihX9dY5MGrWIXNk2qqys) | [Feuerschwanz](https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI) | [Highlander](https://open.spotify.com/album/3hkHaaVtwSP3sWoQsj1mA5) | 3:19 |
 | 72 | [Slow Motion](https://open.spotify.com/track/1MlFP727igtyqCqFcvEgng) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Slow Motion](https://open.spotify.com/album/5ev4zVppLL7mptzcvZWgAD) | 5:19 |
 | 73 | [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 |

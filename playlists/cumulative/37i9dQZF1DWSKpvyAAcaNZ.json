@@ -4781,6 +4781,24 @@
     },
     {
       "album": {
+        "name": "Sushi and Coca-Cola",
+        "url": "https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157414,
+      "name": "Sushi and Coca-Cola",
+      "url": "https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S"
+    },
+    {
+      "album": {
         "name": "Sweet Southern Sounds",
         "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
       },

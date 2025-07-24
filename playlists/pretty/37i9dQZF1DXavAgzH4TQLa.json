@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que la cumbia no pare.",
-  "num_followers": 292042,
+  "num_followers": 292067,
   "original_name": "Enganchados: Cumbianchas",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2025-07-14 19:58:42",
       "album": {
+        "name": "Regalo de Dios",
+        "url": "https://open.spotify.com/album/47cUeGraYSIf2ZALnKzKs1"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 178893,
+      "name": "Esa Te Dej\u00f3",
+      "url": "https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b"
+    },
+    {
+      "added_at": "2025-07-14 19:58:42",
+      "album": {
         "name": "Ya No M\u00e1s",
         "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 158447,
       "name": "Ya No M\u00e1s",
       "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
-    },
-    {
-      "added_at": "2025-07-14 19:58:42",
-      "album": {
-        "name": "Regalo de Dios",
-        "url": "https://open.spotify.com/album/47cUeGraYSIf2ZALnKzKs1"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 178893,
-      "name": "Esa Te Dej\u00f3",
-      "url": "https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b"
     },
     {
       "added_at": "2025-07-14 19:58:42",
@@ -1171,8 +1171,8 @@
     {
       "added_at": "2025-07-14 19:58:42",
       "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm"
+        "name": "Lo mejor de R\u00e1faga",
+        "url": "https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T"
       },
       "artists": [
         {
@@ -1180,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 195466,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz"
+      "duration_ms": 183266,
+      "name": "Una R\u00e1faga de Amor",
+      "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
     },
     {
       "added_at": "2025-07-14 19:58:42",
@@ -1203,8 +1203,8 @@
     {
       "added_at": "2025-07-14 19:58:42",
       "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI"
       },
       "artists": [
         {
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h"
+      "duration_ms": 220813,
+      "name": "No Me Arrepiento de Este Amor",
+      "url": "https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz"
     },
     {
       "added_at": "2025-07-14 19:58:42",
@@ -1251,8 +1251,8 @@
     {
       "added_at": "2025-07-14 19:58:42",
       "album": {
-        "name": "Lo mejor de R\u00e1faga",
-        "url": "https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T"
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm"
       },
       "artists": [
         {
@@ -1260,9 +1260,41 @@
           "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 183266,
-      "name": "Una R\u00e1faga de Amor",
-      "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
+      "duration_ms": 195466,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz"
+    },
+    {
+      "added_at": "2025-07-14 19:58:42",
+      "album": {
+        "name": "Sa, Za...Sabor!!!",
+        "url": "https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp"
+      },
+      "artists": [
+        {
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Porque te Amo",
+      "url": "https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR"
+    },
+    {
+      "added_at": "2025-07-14 19:58:42",
+      "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h"
     },
     {
       "added_at": "2025-07-14 19:58:42",
@@ -1283,18 +1315,34 @@
     {
       "added_at": "2025-07-14 19:58:42",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI"
+        "name": "M\u00e1s Negro Que la Noche",
+        "url": "https://open.spotify.com/album/5Jq2IHMwbqtHPkvTD7iSHF"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+          "name": "De La Calle",
+          "url": "https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3"
         }
       ],
-      "duration_ms": 220813,
-      "name": "No Me Arrepiento de Este Amor",
-      "url": "https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz"
+      "duration_ms": 155387,
+      "name": "Una Wacha Piola",
+      "url": "https://open.spotify.com/track/7D6KI3vUblWWhXgyPNMHVe"
+    },
+    {
+      "added_at": "2025-07-14 19:58:42",
+      "album": {
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
     },
     {
       "added_at": "2025-07-14 19:58:42",
@@ -1411,50 +1459,18 @@
     {
       "added_at": "2025-07-14 19:58:42",
       "album": {
-        "name": "M\u00e1s Negro Que la Noche",
-        "url": "https://open.spotify.com/album/5Jq2IHMwbqtHPkvTD7iSHF"
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
       "artists": [
         {
-          "name": "De La Calle",
-          "url": "https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 155387,
-      "name": "Una Wacha Piola",
-      "url": "https://open.spotify.com/track/7D6KI3vUblWWhXgyPNMHVe"
-    },
-    {
-      "added_at": "2025-07-14 19:58:42",
-      "album": {
-        "name": "Sa, Za...Sabor!!!",
-        "url": "https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp"
-      },
-      "artists": [
-        {
-          "name": "La Cumbia",
-          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Porque te Amo",
-      "url": "https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR"
-    },
-    {
-      "added_at": "2025-07-14 19:58:42",
-      "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
+      "duration_ms": 186874,
+      "name": "El Polvito del Amor",
+      "url": "https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb"
     },
     {
       "added_at": "2025-07-14 19:58:42",
@@ -1475,6 +1491,22 @@
     {
       "added_at": "2025-07-14 19:58:42",
       "album": {
+        "name": "A\u00fan Sigue La Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "Llorar\u00e1s M\u00e1s De Diez Veces",
+      "url": "https://open.spotify.com/track/2IuLxgL5dd02AeF5FSygjQ"
+    },
+    {
+      "added_at": "2025-07-14 19:58:42",
+      "album": {
         "name": "Mi \u00danico Amor",
         "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
       },
@@ -1491,22 +1523,6 @@
     {
       "added_at": "2025-07-14 19:58:42",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 186874,
-      "name": "El Polvito del Amor",
-      "url": "https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb"
-    },
-    {
-      "added_at": "2025-07-14 19:58:42",
-      "album": {
         "name": "Cumbia Sabrosa",
         "url": "https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 255164,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9"
-    },
-    {
-      "added_at": "2025-07-14 19:58:42",
-      "album": {
-        "name": "A\u00fan Sigue La Lecci\u00f3n",
-        "url": "https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "Llorar\u00e1s M\u00e1s De Diez Veces",
-      "url": "https://open.spotify.com/track/2IuLxgL5dd02AeF5FSygjQ"
     },
     {
       "added_at": "2025-07-14 19:58:42",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-07-14 19:58:42",
       "album": {
-        "name": "Sabros\u00f3n",
-        "url": "https://open.spotify.com/album/7DBUrKeXTQoiqWjwVXvRxt"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Alcen las Manos",
-      "url": "https://open.spotify.com/track/0kV8yUTj65F1i2hQfBIlpT"
-    },
-    {
-      "added_at": "2025-07-14 19:58:42",
-      "album": {
         "name": "Como la Gente",
         "url": "https://open.spotify.com/album/4X0Zg0oFkXXqlbSqv4lCX4"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 285152,
       "name": "No Me Lo Creo",
       "url": "https://open.spotify.com/track/1y5ASkTQugJGPghwyJMEiS"
+    },
+    {
+      "added_at": "2025-07-14 19:58:42",
+      "album": {
+        "name": "Sabros\u00f3n",
+        "url": "https://open.spotify.com/album/7DBUrKeXTQoiqWjwVXvRxt"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Alcen las Manos",
+      "url": "https://open.spotify.com/track/0kV8yUTj65F1i2hQfBIlpT"
     },
     {
       "added_at": "2025-07-14 19:58:42",

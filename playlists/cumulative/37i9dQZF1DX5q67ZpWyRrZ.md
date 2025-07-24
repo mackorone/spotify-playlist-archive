@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Faheem Abdullah
 
-271 songs - 15 hr 24 min
+272 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [days](https://open.spotify.com/track/7xxk2elVJN3IjhbV3T8Shz) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [days](https://open.spotify.com/album/0CFZJ9jU1NkaV14kEqrFvF) | 2:30 | 2022-01-05 | 2022-12-24 |
 | [Dear Mind \(En Route\)](https://open.spotify.com/track/1zINTeMqxjb9UtMhOsIQPJ) | [Rachel Singh](https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V) | [Dear Mind \(En Route\)](https://open.spotify.com/album/4Q8UxMXgLhub4QoiE9c5Ff) | 3:54 | 2021-12-06 | 2022-01-06 |
 | [Deathcab](https://open.spotify.com/track/4DsZFbvLhBxz5rQZiozfDn) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Poetry Ceylon](https://open.spotify.com/album/5ahVKY0miWXtbmA4E618Zi) | 3:38 | 2021-12-06 | 2022-03-07 |
+| [Dekha Hi Nahi](https://open.spotify.com/track/5zK7gzWMZlT4TUf2iN2Wjw) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Uff](https://open.spotify.com/album/7elw8oxe7Uh9oZldfemFih) | 3:41 | 2025-07-23 |  |
 | [Dhak Dhak](https://open.spotify.com/track/7iIEFHrNvn6buQdP9dJY1N) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Dhak Dhak](https://open.spotify.com/album/1bfaIV1LAAiy22ZGGHzSq2) | 3:22 | 2025-01-14 |  |
 | [Dhundhala](https://open.spotify.com/track/5XseQZ9TGr06Rv1Ye6wCu0) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/0RS1ikVCpsD3UHxxpbvpSg) | 3:02 | 2023-10-19 | 2024-04-19 |
 | [Dhundhala](https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/1wQyuIiZpM5Qy4wQOU2i1J) | 3:02 | 2023-08-30 |  |
@@ -208,7 +209,7 @@
 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 | 2021-12-06 |  |
 | [Ratiya](https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Ratiya](https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ) | 2:45 | 2023-08-04 | 2024-01-13 |
 | [Rehnuma](https://open.spotify.com/track/4l9YKebWc0WGhcNbtJFeRe) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Rehnuma](https://open.spotify.com/album/5ZG20aDD6ZyqeFHyDzufeO) | 3:13 | 2022-02-25 | 2022-11-19 |
-| [Roz Roz](https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Roz Roz](https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2) | 3:38 | 2021-12-06 |  |
+| [Roz Roz](https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Roz Roz](https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2) | 3:38 | 2021-12-06 | 2025-07-24 |
 | [Run Closer](https://open.spotify.com/track/40rO5T5aZa0MlgzCetTRTn) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Run Closer \- Single](https://open.spotify.com/album/47Eqo6aO3LZZkkj2uk7g6f) | 3:22 | 2022-01-05 | 2022-01-28 |
 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 | 2022-03-14 | 2022-08-11 |
 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 | 2023-11-21 |  |

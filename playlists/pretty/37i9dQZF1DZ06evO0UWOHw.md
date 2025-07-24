@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,190 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,205 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 35 | [Maria](https://open.spotify.com/track/07wR2inlrmqLtGYSCARtHg) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Saturn](https://open.spotify.com/album/460Np75NnukNf4BZpXZUuy) | 2:43 |
 | 36 | [Outlaw](https://open.spotify.com/track/34YiLztdZohs4iwKXxcVgo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 3:17 |
 | 37 | [Angelus](https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY) | 3:06 |
-| 38 | [Head Over Heels](https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:15 |
-| 39 | [No Other](https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:48 |
+| 38 | [No Other](https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:48 |
+| 39 | [Head Over Heels](https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:15 |
 | 40 | [Selema \(Po Po\) \- Remix](https://open.spotify.com/track/4etb2MbOkYa90Rvf08kMVf) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\) \[Remix\]](https://open.spotify.com/album/4i88bfyHm8i2rgepa4kcrp) | 5:31 |
 | 41 | [Deadly \(feat\. Victony\)](https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Deadly \(feat\. Victony\)](https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL) | 3:01 |
 | 42 | [Obianuju](https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Pace](https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 49 | [B&B \(Booze & Bumbum\)](https://open.spotify.com/track/7xrXgktXuQjSY5u49EAeNx) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Thug Love](https://open.spotify.com/album/3Bcj3vvXd5w0eEEiIw5nJO) | 3:01 |
 | 50 | [No Joke](https://open.spotify.com/track/7v6BxItknmx4IokrfzamfR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [No Joke](https://open.spotify.com/album/3Q32c32RgkPrul5LY9ykmq) | 2:42 |
 
-Snapshot ID: `aH2DAAAAAAAkPoaE4aILq5I6Xbtsa0qz`
+Snapshot ID: `aH7UgAAAAABpPlliYK+OsTrJOEUdBbOv`

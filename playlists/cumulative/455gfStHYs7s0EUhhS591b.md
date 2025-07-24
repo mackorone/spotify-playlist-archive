@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-202 songs - 12 hr 4 min
+203 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Eames](https://open.spotify.com/track/3BDnZHzFLyDhaugnfEu4Fu) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [The Pledge](https://open.spotify.com/album/0P5y0hMzOkHwcxjhBIAnHQ) | 3:47 | 2025-06-19 |  |
 | [Emily](https://open.spotify.com/track/3Movbir7QapGfu3tykEfeY) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:16 | 2025-07-18 |  |
 | [Empty Floor](https://open.spotify.com/track/4CrDai0clHlKcgizJJThV6) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Empty Floor](https://open.spotify.com/album/3jFy01RRSWMAOKWUY6nmlG) | 3:38 | 2025-07-18 |  |
+| [Entusiasme \(Vallée De L’Armes\)](https://open.spotify.com/track/0kZIcCyIgs0KgJTmvN5imF) | [HABITAT](https://open.spotify.com/artist/7r25k57LP5UsSNSzVems6d) | [Entusiasme \(Vallée De L’Armes\)](https://open.spotify.com/album/6V2Y7OYLUYJX1s7b5uWohK) | 1:55 | 2025-07-23 |  |
 | [Epico](https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:07 | 2025-07-18 |  |
 | [Erase Me \- Creamfields Sunset Mix](https://open.spotify.com/track/1DOlPhEMK56EdNBmMweV11) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Erase Me \(Creamfields Sunset Mix\)](https://open.spotify.com/album/0MAeDpEUOG5LkE7zsZwVy9) | 4:42 | 2025-06-19 |  |
 | [Eyes Off You](https://open.spotify.com/track/5FziJDAkFA8qtZi2en56iU) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Chill Executive Officer \(CEO\), Vol\. 24 \[Selected by Maykel Piron\]](https://open.spotify.com/album/51N2Qs0Inr0BhN9WlVpEOW) | 4:01 | 2025-07-18 |  |

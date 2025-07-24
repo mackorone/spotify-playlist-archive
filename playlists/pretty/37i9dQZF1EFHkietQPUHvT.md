@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 32 | [Sun Goes Down](https://open.spotify.com/track/3gqTiLe1LF3fQ9a5ua8Zsq) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Sun Goes Down](https://open.spotify.com/album/249hhHmNxiQ4pGfLGRXbQt) | 3:21 |
 | 33 | [Hurt When You Hurt Me](https://open.spotify.com/track/3Fl5MQNYh1MIpAOpHYAVpr) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 4:01 |
 | 34 | [biting my tongue](https://open.spotify.com/track/1717Jvw2vyq7KNiutIJmLO) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 2:35 |
-| 35 | [proud of me](https://open.spotify.com/track/35TYlXNyDkHjM6uiPBXkHj) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:32 |
-| 36 | [Haunt Me](https://open.spotify.com/track/0TE4EyLBWUIAPiorLlEB1N) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [A Hometown Odyssey \(The Story Continues\)](https://open.spotify.com/album/1nXhV18HsP8vnB8JnNai75) | 2:50 |
+| 35 | [Haunt Me](https://open.spotify.com/track/0TE4EyLBWUIAPiorLlEB1N) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [A Hometown Odyssey \(The Story Continues\)](https://open.spotify.com/album/1nXhV18HsP8vnB8JnNai75) | 2:50 |
+| 36 | [proud of me](https://open.spotify.com/track/35TYlXNyDkHjM6uiPBXkHj) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:32 |
 | 37 | [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 |
 | 38 | [Knife](https://open.spotify.com/track/53y7CiK02LB3ZzhGf2LaT9) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Knife](https://open.spotify.com/album/7mh0rxhEiJCsDhnSxO32bN) | 3:13 |
 | 39 | [Baggage](https://open.spotify.com/track/5B1ZzhdccdLGZFNHksTcOx) | [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [Baggage](https://open.spotify.com/album/0Lfi7gQjlxf7HMy0HzYt6p) | 2:41 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 44 | [Reputation](https://open.spotify.com/track/2pvFQudKtJTEeiL6FIlqsy) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Reputation](https://open.spotify.com/album/19gLqW0o4f8Ua9l9ajQyxT) | 1:59 |
 | 45 | [Killin' It](https://open.spotify.com/track/7h3ee318fQQrwYqbwHVyW8) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Zero Sympathy](https://open.spotify.com/album/24UtrS5kFi1iwbmioWFMhE) | 2:35 |
 | 46 | [hiatus](https://open.spotify.com/track/7cbvHeOb1SjNxkbqDuilw2) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [hiatus](https://open.spotify.com/album/1xpdm7VyOyj3QlfyyfASyP) | 2:22 |
-| 47 | [jealous in my dreams](https://open.spotify.com/track/2EHKBT1ydk2eWEPqw7Yl3K) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [me at 23](https://open.spotify.com/album/5ZcMpSpjPog7k75ptSXP7g) | 2:57 |
-| 48 | [Rain](https://open.spotify.com/track/22p47jS1KK3VFwxTk6b7Gu) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [Rain](https://open.spotify.com/album/7hv3rn6CsQxaGdX61qkFIr) | 4:08 |
+| 47 | [Rain](https://open.spotify.com/track/22p47jS1KK3VFwxTk6b7Gu) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [Rain](https://open.spotify.com/album/7hv3rn6CsQxaGdX61qkFIr) | 4:08 |
+| 48 | [jealous in my dreams](https://open.spotify.com/track/2EHKBT1ydk2eWEPqw7Yl3K) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [me at 23](https://open.spotify.com/album/5ZcMpSpjPog7k75ptSXP7g) | 2:57 |
 | 49 | [JACUZZI](https://open.spotify.com/track/3uxKRkElZD5cYI3kltUn48) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:02 |
 | 50 | [Butterflies](https://open.spotify.com/track/0tSEQO8Drqe2DI7SRsnKqi) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Thee Unknown](https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk) | 2:50 |
 | 51 | [So What?](https://open.spotify.com/track/2GpUdjibaWYHpykqgKLfGW) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [So What?](https://open.spotify.com/album/55Ur0PitFeUS67xqx8bajK) | 2:44 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 72 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 | 73 | [Tragic, Really](https://open.spotify.com/track/5SgJNSTHLNGozF7ZyfuSYB) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Tragic, Really](https://open.spotify.com/album/0gjH5kgyCijfhaiiK6OQqq) | 2:34 |
 
-Snapshot ID: `Ab3fPgAAAACywfDCnyYcyLT4H/GYYdkK`
+Snapshot ID: `Ab3k1AAAAACr0JIHSt7xFeTRPw//+aCi`

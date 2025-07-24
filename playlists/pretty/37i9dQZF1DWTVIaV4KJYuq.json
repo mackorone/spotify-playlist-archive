@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 710323,
+  "num_followers": 710309,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "The Essential The Chicks",
-        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
+        "name": "The Essential The Chicks",
+        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
       },
       "artists": [
         {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 227927,
-      "name": "Somewhere Only We know - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
+      "duration_ms": 228480,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -639,6 +623,22 @@
       "duration_ms": 284971,
       "name": "Hotel California (Cover)",
       "url": "https://open.spotify.com/track/5nS9WEWYnbQDBAe81SHhDP"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 227927,
+      "name": "Somewhere Only We know - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 285719,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Sunday Night Sessions",
         "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 166868,
       "name": "Heart of Gold (Cover)",
       "url": "https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 285719,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Can't Help Falling in Love",
+        "url": "https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Every Breath You Take (feat. Liza Anne)",
         "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take (feat. Liza Anne)",
       "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Can't Help Falling in Love",
-        "url": "https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L"
-      },
-      "artists": [
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn"
     },
     {
       "added_at": "2024-10-18 04:00:00",

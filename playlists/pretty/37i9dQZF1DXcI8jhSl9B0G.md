@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,756 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,754 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 29 | [Evermore](https://open.spotify.com/track/0ZSLQqw4B8NnCOLSqjpT80) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/0VbtPM7aoO66CmmxJQyvqE) | 3:43 |
 | 30 | [Oh My Girl](https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [Oh My Girl](https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu) | 2:48 |
 | 31 | [Kick](https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Kick](https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma) | 3:27 |
-| 32 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
+| 32 | [Every Side Of You](https://open.spotify.com/track/4rIXuE4ramqCrnoxBQF9Yb) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/1JDD38K8LBQbCmVw0pZTIK) | 3:24 |
 | 33 | [Letting Go](https://open.spotify.com/track/2EJCqwvgcGQEbqSW3Fa3Pu) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [Letting Go](https://open.spotify.com/album/2ikfoXXectNhLUgpSkS0xL) | 3:46 |
-| 34 | [Every Side Of You](https://open.spotify.com/track/4rIXuE4ramqCrnoxBQF9Yb) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/1JDD38K8LBQbCmVw0pZTIK) | 3:24 |
+| 34 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
 | 35 | [By Way of the Sea](https://open.spotify.com/track/2EjmXBw49KJqZXjH2dKTZC) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [By Way of the Sea](https://open.spotify.com/album/2hn1o2h58pswUpiYDw9eMg) | 4:19 |
 | 36 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 |
 | 37 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 |

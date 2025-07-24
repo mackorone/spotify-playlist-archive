@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in every corner of modern punk rock\. Cover: Shady Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,945 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,942 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 19 | [Waterboy](https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:58 |
 | 20 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
 | 21 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 |
-| 22 | [Jerkin'](https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k) | 2:08 |
+| 22 | [Stepper](https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Stepper](https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO) | 3:16 |
 | 23 | [Supermodels](https://open.spotify.com/track/2JFmXR9RMrZ864QAaZp1qy) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Supermodels](https://open.spotify.com/album/0M7xdz5lQAD65XiahtuUPO) | 3:18 |
 | 24 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 |
-| 25 | [Stepper](https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Stepper](https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO) | 3:16 |
+| 25 | [Jerkin'](https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k) | 2:08 |
 | 26 | [End Eric Sparrow and the Life of Him](https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [End Eric Sparrow and the Life of Him](https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi) | 2:49 |
 | 27 | [Oblivion](https://open.spotify.com/track/02bj1hZGIwwTYG6z1bJG1M) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Oblivion](https://open.spotify.com/album/4tqmxRUMi21ZAqKVemewpO) | 3:12 |
 | 28 | [God's Country](https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country](https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR) | 2:15 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 52 | [Hypocrite](https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Hypocrite](https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N) | 1:48 |
 | 53 | [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 |
 | 54 | [Love's The Worst](https://open.spotify.com/track/4qD9qh4FRu4wl5QevQKm0b) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Love's The Worst](https://open.spotify.com/album/26S3PSq7r4OA47qMo9I4JC) | 2:47 |
-| 55 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
-| 56 | [Isaac Is Typing…](https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [HEAVY JELLY](https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt) | 2:44 |
+| 55 | [Isaac Is Typing…](https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [HEAVY JELLY](https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt) | 2:44 |
+| 56 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
 | 57 | [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/7rsfVPsWQg8vwcOfxIKKpz) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [SLEEP WHEN I'M DEAD](https://open.spotify.com/album/3mjfzxnjJZdqNHV72bwiA9) | 2:26 |
-| 58 | [You](https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Cult Classic](https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG) | 3:42 |
-| 59 | [Stupid](https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Stupid](https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB) | 2:25 |
+| 58 | [Stupid](https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Stupid](https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB) | 2:25 |
+| 59 | [You](https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Cult Classic](https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG) | 3:42 |
 | 60 | [Big Al Dente](https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Big Al Dente](https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K) | 2:50 |
 | 61 | [My Way](https://open.spotify.com/track/0HELTZyVi4APXu85RtVGfn) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [My Way](https://open.spotify.com/album/1Rs26b0YSzU5phBWVVwkL1) | 3:24 |
 | 62 | [Pretty Good To Feel Something](https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Pretty Good To Feel Something](https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw) | 3:06 |
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 68 | [The Bog Body](https://open.spotify.com/track/5GRiKRb2j9AqKwwhdjnmKI) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [The Bog Body](https://open.spotify.com/album/4K5EXv3cUJjp8HjAXasPJP) | 2:53 |
 | 69 | [Mirror Muscles](https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Mirror Muscles](https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG) | 2:43 |
 | 70 | [NO LOVE BUT FOR OUR OWN](https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ONLY ONE MODE](https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9) | 2:52 |
-| 71 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:19 |
-| 72 | [Sink Or Swim](https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Sink Or Swim](https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx) | 3:12 |
+| 71 | [Sink Or Swim](https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Sink Or Swim](https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx) | 3:12 |
+| 72 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:19 |
 | 73 | [Heat Wave](https://open.spotify.com/track/4OmbsYdDMMa15LqDaiFM3S) | [Pig Pen](https://open.spotify.com/artist/5gz02MKm1uxQLcjE5Cs9Hr) | [Mental Madness](https://open.spotify.com/album/1B6SHyXYxJCSutqH7LJpf3) | 1:42 |
 | 74 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
 | 75 | [Wearing Black](https://open.spotify.com/track/64WyR2OOqHbd3uQA3LH4wn) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Wearing Black](https://open.spotify.com/album/2TPOpoI8YI71QD4Y0Ziq9O) | 3:00 |
 | 76 | [Che Guevara T\-Shirt](https://open.spotify.com/track/447CJp5XoK2xz8A21mu6Dt) | [Special Features](https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT) | [Che Guevara T\-Shirt](https://open.spotify.com/album/6GmzpO3olDI6OGmsyKAVra) | 2:55 |
-| 77 | [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 |
-| 78 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
+| 77 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
+| 78 | [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 |
 | 79 | [SCREWDRIVA](https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [TREK](https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ) | 3:02 |
 | 80 | [Enmore](https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Enmore](https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw) | 2:42 |
 

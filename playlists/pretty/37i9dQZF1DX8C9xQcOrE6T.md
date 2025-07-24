@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Lilo & Stitch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,579,183 likes - 141 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,579,237 likes - 141 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 140 | [A Spoonful of Sugar \- From "Mary Poppins" / Soundtrack Version](https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [Mary Poppins](https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d) | 4:09 |
 | 141 | [The Fantastic Four: First Steps Main Theme \- From "The Fantastic Four: First Steps"](https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps Main Theme \(From "The Fantastic Four: First Steps"\)](https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj) | 3:22 |
 
-Snapshot ID: `aH/aCwAAAADHSHLh9XYmYLOcBLncfwE1`
+Snapshot ID: `aIEWEgAAAAApb7P5MBCnfz4cWY4ByiF9`

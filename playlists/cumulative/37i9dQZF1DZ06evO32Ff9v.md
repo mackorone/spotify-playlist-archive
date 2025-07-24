@@ -4,7 +4,7 @@
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 17 min
+82 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [A.L.V.](https://open.spotify.com/track/29gK0gdgTdn0LsU9UTEwsn) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Linea M](https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3) | [A.L.V.](https://open.spotify.com/album/3SxCRrJRJuFwtw2x4j86bU) | 2:39 | 2024-12-01 | 2025-03-08 |
 | [Andares](https://open.spotify.com/track/1HteRXTExneqPT4b62Vkmf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [El Filly Y Sus Aliados](https://open.spotify.com/artist/0qvV5NBJR6uHz2B43Wxemt) | [Andares](https://open.spotify.com/album/3VZIepgxFPJVhurSNpy80p) | 2:31 | 2024-11-12 |  |
 | [Borracho y De Perro](https://open.spotify.com/track/37wZuY6x3ucmg8aeubIs5R) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Borracho y De Perro](https://open.spotify.com/album/6q7UBtdNN9uJU1Dm89gzOO) | 3:55 | 2024-01-29 | 2024-03-01 |
-| [Cuatro Letras](https://open.spotify.com/track/2xQdn2sYrp4bNJunP8aEOx) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Forjando El Camino](https://open.spotify.com/album/5NcAXKjS33TtqttBKRjcsx) | 2:49 | 2025-07-19 |  |
+| [Cerveza Al Aire](https://open.spotify.com/track/0lclNVJgbfNZDdwIwkAZbO) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Cerveza Al Aire](https://open.spotify.com/album/1zrNUiT3MeXWxOIHhbW5kQ) | 3:51 | 2025-07-24 |  |
+| [Cuatro Letras](https://open.spotify.com/track/2xQdn2sYrp4bNJunP8aEOx) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Forjando El Camino](https://open.spotify.com/album/5NcAXKjS33TtqttBKRjcsx) | 2:49 | 2025-07-19 | 2025-07-24 |
 | [Cuñados y Compadres](https://open.spotify.com/track/1gkd7OJkmMVNQEEJjFvQLp) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Cuñados y Compadres](https://open.spotify.com/album/1AEo9kTiKt4lUxwNV9gF7c) | 3:50 | 2024-01-29 | 2024-03-04 |
 | [Dago Perez](https://open.spotify.com/track/6PIN0TBnwVek7Gu3okURNf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:01 | 2024-01-29 | 2024-12-18 |
 | [De Que Puedo Puedo](https://open.spotify.com/track/3qnCn9WImrTRRaqIxC6WIN) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Que Puedo Puedo](https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0) | 2:53 | 2024-02-20 |  |

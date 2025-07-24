@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=\_Bm2yIUuTyuvKe816A31UQ>Onos</a>
 
-518 songs - 1 day 17 hr 35 min
+519 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Kumama](https://open.spotify.com/track/0T1976UbQjxp4gp529DmQ7) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Kumama](https://open.spotify.com/album/0rE7B3Buwz2JCQjdPZWLXw) | 3:20 | 2025-03-07 | 2025-05-05 |
 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 | 2023-09-15 | 2024-03-16 |
 | [Kumama Papa](https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW) | [Kumama Papa](https://open.spotify.com/album/20GdacZdfLiQbve9FF8Xqu) | 2:37 | 2024-02-16 | 2024-05-10 |
+| [Kwechiri](https://open.spotify.com/track/5IVsnrFCDaMLWh8VdlFLJ7) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Kwechiri](https://open.spotify.com/album/4ASycUKDxU8xOuDcZYlaTB) | 2:36 | 2025-07-18 |  |
 | [Lead Me](https://open.spotify.com/track/0qsUgNIZ4gJ2AeEUjBmUv8) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw) | [Lead Me](https://open.spotify.com/album/4s1WzWFA2sLNCUGdfkdxNy) | 6:26 | 2024-08-30 | 2024-12-02 |
 | [Lean](https://open.spotify.com/track/3qJdny0ZhWHHxJVrEt0yIT) | [Blesside](https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32), [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [TGIF](https://open.spotify.com/artist/3gLInN1bj7QkZ6q2Rb0zcm) | [Lean](https://open.spotify.com/album/0jshOcvmqgys28YzaL8C1v) | 3:22 | 2025-05-30 | 2025-07-21 |
 | [Let The People Sing \- Live](https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 3:59 | 2023-09-15 | 2024-02-09 |
@@ -274,7 +275,7 @@
 | [Light](https://open.spotify.com/track/4rN4PprdOYJQKaPp4HXVgz) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [Light](https://open.spotify.com/album/0n8RSKwC9lqA1ytFq0968A) | 6:08 | 2025-06-20 |  |
 | [Like a Baby \- Special Version](https://open.spotify.com/track/2q0RmOoOY6QYQoep7btEhC) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Like a Baby \(Special Version\)](https://open.spotify.com/album/2jlZE2Hj2uhJBvS7psCCV0) | 2:49 | 2024-05-03 | 2024-05-24 |
 | [Live Worship Medley](https://open.spotify.com/track/5p3eZrJOpJjYdxMy7Bs847) | [Glitch Gospel](https://open.spotify.com/artist/7g9iFNrR0eMrFq2gXkw57Q), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Live Worship Medley](https://open.spotify.com/album/3VbdAlFQTE7ul2PciwWAyV) | 7:39 | 2025-05-09 | 2025-06-20 |
-| [Look To Me](https://open.spotify.com/track/1VFaJ2a2yVPbjTAkDBxSdn) | [ayomidetPh](https://open.spotify.com/artist/34escoJykaA5AGb5USdHiK) | [Look To Me](https://open.spotify.com/album/2VEonLO0sutdBL8cDtLjOZ) | 3:21 | 2025-06-20 |  |
+| [Look To Me](https://open.spotify.com/track/1VFaJ2a2yVPbjTAkDBxSdn) | [ayomidetPh](https://open.spotify.com/artist/34escoJykaA5AGb5USdHiK) | [Look To Me](https://open.spotify.com/album/2VEonLO0sutdBL8cDtLjOZ) | 3:21 | 2025-06-20 | 2025-07-24 |
 | [Love Greater](https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Love Greater](https://open.spotify.com/album/38dqITqcCjvvuKdKIpqD3x) | 2:33 | 2025-01-17 | 2025-03-08 |
 | [Loved By You](https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Loved By You](https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu) | 3:24 | 2024-06-07 | 2024-09-13 |
 | [M'manja Mwanu](https://open.spotify.com/track/7qsuw2hbLEAW8dzQx7nRhP) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [M'manja Mwanu](https://open.spotify.com/album/2djFFunGWCcsrMthfOOUP9) | 3:12 | 2024-11-29 | 2025-06-06 |

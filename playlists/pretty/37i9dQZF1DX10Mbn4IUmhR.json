@@ -1,13 +1,29 @@
 {
   "description": "Your frequency for today's hottest pop tracks, via the South of Africa. Cover: <a href=\"https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB?si=dsgp5IquSnqmaQoKBox7Yg\">Alex Warren</a>",
-  "num_followers": 4159,
+  "num_followers": 4223,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH9l0gAAAADMG/66mBTjq8HjAbdieTED",
+  "snapshot_id": "aIEMdwAAAAChX+K6Vb1MEhunTNlLANdm",
   "tracks": [
+    {
+      "added_at": "2025-07-17 22:00:45",
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
     {
       "added_at": "2025-06-26 22:00:29",
       "album": {
@@ -43,18 +59,18 @@
     {
       "added_at": "2025-07-17 22:00:45",
       "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/4KQmN2Y1rISbRvSMC4TIUN"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Benjamin Fisher",
+          "url": "https://open.spotify.com/artist/6FT60wBgd1m4UGh219yV3Y"
         }
       ],
-      "duration_ms": 189553,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+      "duration_ms": 194578,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/0cyaM03rObPwVIyi6FPYSn"
     },
     {
       "added_at": "2025-07-03 22:00:46",
@@ -71,6 +87,22 @@
       "duration_ms": 180643,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/7zkRbkeXRq1i8ldQt5Zwsk"
+    },
+    {
+      "added_at": "2025-07-17 22:00:45",
+      "album": {
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "1965",
+      "url": "https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h"
     },
     {
       "added_at": "2025-06-26 22:00:29",
@@ -123,50 +155,18 @@
     {
       "added_at": "2025-07-17 22:00:45",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/4KQmN2Y1rISbRvSMC4TIUN"
+        "name": "I Can Die Now",
+        "url": "https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA"
       },
       "artists": [
         {
-          "name": "Benjamin Fisher",
-          "url": "https://open.spotify.com/artist/6FT60wBgd1m4UGh219yV3Y"
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
         }
       ],
-      "duration_ms": 194578,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/0cyaM03rObPwVIyi6FPYSn"
-    },
-    {
-      "added_at": "2025-06-26 22:00:29",
-      "album": {
-        "name": "Smothered By U",
-        "url": "https://open.spotify.com/album/26m82FM7HSpDO98eWr11p4"
-      },
-      "artists": [
-        {
-          "name": "Mikhaela Faye",
-          "url": "https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7"
-        }
-      ],
-      "duration_ms": 162962,
-      "name": "Smothered By U",
-      "url": "https://open.spotify.com/track/4qWkKXLmejLhXuWLHE0DqH"
-    },
-    {
-      "added_at": "2025-07-17 22:00:45",
-      "album": {
-        "name": "Sex Hysteria",
-        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 168247,
-      "name": "1965",
-      "url": "https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h"
+      "duration_ms": 171280,
+      "name": "I Can Die Now",
+      "url": "https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM"
     },
     {
       "added_at": "2025-07-17 22:00:45",
@@ -187,50 +187,18 @@
     {
       "added_at": "2025-06-26 22:00:29",
       "album": {
-        "name": "HOW DOES IT FEEL?",
-        "url": "https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15"
+        "name": "Smothered By U",
+        "url": "https://open.spotify.com/album/26m82FM7HSpDO98eWr11p4"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Mikhaela Faye",
+          "url": "https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7"
         }
       ],
-      "duration_ms": 137689,
-      "name": "HOW DOES IT FEEL?",
-      "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
-    },
-    {
-      "added_at": "2025-07-17 22:00:45",
-      "album": {
-        "name": "BURN WITH YOU",
-        "url": "https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY"
-      },
-      "artists": [
-        {
-          "name": "Selin",
-          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
-        }
-      ],
-      "duration_ms": 174609,
-      "name": "BURN WITH YOU",
-      "url": "https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM"
-    },
-    {
-      "added_at": "2025-06-26 22:00:29",
-      "album": {
-        "name": "Superman",
-        "url": "https://open.spotify.com/album/50FjwV4STrHP5aHLRAye4P"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV"
+      "duration_ms": 162962,
+      "name": "Smothered By U",
+      "url": "https://open.spotify.com/track/4qWkKXLmejLhXuWLHE0DqH"
     },
     {
       "added_at": "2025-07-17 22:00:45",
@@ -251,34 +219,18 @@
     {
       "added_at": "2025-07-17 22:00:45",
       "album": {
-        "name": "I Can't Lose",
-        "url": "https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ"
+        "name": "BURN WITH YOU",
+        "url": "https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
         }
       ],
-      "duration_ms": 183284,
-      "name": "I Can\u2019t Lose",
-      "url": "https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H"
-    },
-    {
-      "added_at": "2025-07-17 22:00:45",
-      "album": {
-        "name": "I Can Die Now",
-        "url": "https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "I Can Die Now",
-      "url": "https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM"
+      "duration_ms": 174609,
+      "name": "BURN WITH YOU",
+      "url": "https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM"
     },
     {
       "added_at": "2025-07-17 22:00:45",
@@ -295,6 +247,54 @@
       "duration_ms": 150255,
       "name": "Why Is She Still Here?",
       "url": "https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8"
+    },
+    {
+      "added_at": "2025-07-17 22:00:45",
+      "album": {
+        "name": "I Can't Lose",
+        "url": "https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183284,
+      "name": "I Can\u2019t Lose",
+      "url": "https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "HOW DOES IT FEEL?",
+        "url": "https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 137689,
+      "name": "HOW DOES IT FEEL?",
+      "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
+    },
+    {
+      "added_at": "2025-06-26 22:00:29",
+      "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/50FjwV4STrHP5aHLRAye4P"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV"
     },
     {
       "added_at": "2025-07-03 22:00:46",

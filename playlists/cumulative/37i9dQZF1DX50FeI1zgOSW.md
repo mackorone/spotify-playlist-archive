@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Keethan
 
-570 songs - 1 day 8 hr 28 min
+571 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Dora Bujji](https://open.spotify.com/track/3w4XF8iu5jqt6lXjErVzBc) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4) | [Dora Bujji](https://open.spotify.com/album/6CAGi4chuSIEqJDn32D2G8) | 2:21 | 2023-09-15 | 2024-02-17 |
 | [Dream Girl](https://open.spotify.com/track/5dlPRbAb026MPXtnTj9DaL) | [Ilamaran](https://open.spotify.com/artist/3xCqQMAX3OhFIT6L4KBq1q), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Ku Karthik](https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny) | [Dream Girl](https://open.spotify.com/album/3buuOcGH7pmdMF6Ck0xwOX) | 3:54 | 2025-03-30 | 2025-06-04 |
 | [Dreams](https://open.spotify.com/track/77CaCAzkWpDPSJMTosi8H6) | [Pranav Sooraj](https://open.spotify.com/artist/0LL6UrzvgzwSi3M3gllE3I), [Devaharshan](https://open.spotify.com/artist/15vvBI4vPBuQKm7Fskcdv0), [Shehi](https://open.spotify.com/artist/4dX1Vml5V6GkR3rh0QAojs) | [Dreams](https://open.spotify.com/album/6PAxeyAx3hbPmmhK973mUv) | 3:24 | 2025-02-14 | 2025-06-04 |
-| [Drunk in Love](https://open.spotify.com/track/0bJqSTla0hIlqPU1Rluq4H) | [FSPROD Mithu](https://open.spotify.com/artist/5eEhZnd5MmSjv35uhBZJ94) | [Drunk in Love](https://open.spotify.com/album/1igscamj2IHvOoFKKtLORC) | 3:06 | 2025-05-02 |  |
+| [Drunk in Love](https://open.spotify.com/track/0bJqSTla0hIlqPU1Rluq4H) | [FSPROD Mithu](https://open.spotify.com/artist/5eEhZnd5MmSjv35uhBZJ94) | [Drunk in Love](https://open.spotify.com/album/1igscamj2IHvOoFKKtLORC) | 3:06 | 2025-05-02 | 2025-07-24 |
 | [Dry Ice](https://open.spotify.com/track/1mg6Gv8G88c7BLYolp8FF4) | [AathiRaja](https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE) | [Dry Ice](https://open.spotify.com/album/4kULflG4C2hAYSCUcbU2hD) | 3:11 | 2023-07-24 | 2024-02-01 |
 | [E.P.K.](https://open.spotify.com/track/0KDtuvWZmi2kmaoKPT4b2c) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4), [SJ Priya](https://open.spotify.com/artist/4wrd2PhUEH0MIwmWBjyMFJ) | [E.P.K.](https://open.spotify.com/album/08MVHnexosfA3FLAt1zdhE) | 2:26 | 2023-07-27 | 2024-02-10 |
 | [Edho Seidhaai](https://open.spotify.com/track/3QT8Y48V2UfNenGW43sfRV) | [Prezanthi Shanmugavel](https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY) | [Edho Seidhaai](https://open.spotify.com/album/2acW27bN9BkxoS0fsMRR77) | 2:58 | 2024-10-07 | 2025-02-15 |
@@ -314,6 +314,7 @@
 | [Naan Kaanum](https://open.spotify.com/track/7bv1X4yQzzJVFo9gcbbFvf) | [Rathish Raghavendra](https://open.spotify.com/artist/1V7ACPz13fST7LbwmOHu9M), [Sriram Srinivasan](https://open.spotify.com/artist/6GjXk1OtCOsH0c4nF8o5xQ) | [Naan Kaanum](https://open.spotify.com/album/5ELT4fZcKIx1tuXWoamEds) | 3:22 | 2024-12-13 | 2025-03-18 |
 | [Naan Vaanil Parappen](https://open.spotify.com/track/1U4gHb6IjpHCZKZPfS0F6i) | [S\. J\. Jananiy](https://open.spotify.com/artist/0Rw5ubEtFD4cNhQUJUTXmI) | [Naan Vaanil Parappen](https://open.spotify.com/album/6v237G5WQAvvZ04NOcH7u7) | 3:46 | 2024-10-04 | 2025-01-31 |
 | [Naangam Kadal Noaku Saalai](https://open.spotify.com/track/2fzax8wSUQhVn9ZkuaaN1x) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Naangam Kadal Noaku Saalai](https://open.spotify.com/album/6NhgnDvN4rPZ0vgc2BCy5j) | 4:11 | 2023-04-14 | 2023-10-04 |
+| [Naattu Nadappu](https://open.spotify.com/track/7tv63NI1EXDBE2ZWc9jwNO) | [Thuva JB Chandran](https://open.spotify.com/artist/7jaNjjYdfdqOSC9VH7aEqq), [Sam Boy](https://open.spotify.com/artist/1liOZcWxpBFeI2q4x2G9IQ) | [Naattu Nadappu](https://open.spotify.com/album/5hQB0Tfxcy33uPiP2jHKKg) | 2:53 | 2025-07-23 |  |
 | [Nam Ooru Pen](https://open.spotify.com/track/0axJpGlVC5vxfsr0keVzym) | [Ashwin Vinayagamoorthy](https://open.spotify.com/artist/7rT3iNEH8cFBmfMu7V4A7h), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Nam Ooru Pen](https://open.spotify.com/album/0OIi1efxXmZKW7BTUJFPmU) | 3:37 | 2023-05-19 | 2023-06-24 |
 | [Nanu](https://open.spotify.com/track/5dlLD5HYnlm2z4aSu5CrKg) | [Mena Melath](https://open.spotify.com/artist/1M9wL2S5buZRWM82VDrD8B) | [Nanu](https://open.spotify.com/album/2QTj3mNVW7Ffr53FQl8k6A) | 3:23 | 2023-05-15 | 2023-08-03 |
 | [Natarajan Naatiyam](https://open.spotify.com/track/0byS4yFkICagbCKMctUdm1) | [Nixen](https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb), [Smith Asher](https://open.spotify.com/artist/5XD5iyRb8Er9tN4bOynyFn) | [Natarajan Naatiyam](https://open.spotify.com/album/5vwsvybTHEJwPRgPhd77Ff) | 3:30 | 2024-03-08 | 2024-10-12 |

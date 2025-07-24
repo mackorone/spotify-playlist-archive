@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,348 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,381 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,17 +28,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 18 | [Be There Still](https://open.spotify.com/track/1FWqWaH781R6T32agyhpFQ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:15 |
 | 19 | [AWAY](https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:33 |
 | 20 | [Fall](https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Fall](https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs) | 4:00 |
-| 21 | [Jowo](https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:56 |
+| 21 | [Aye](https://open.spotify.com/track/4bsuDNPQkP4mQWzoXglF52) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s) | 3:55 |
 | 22 | [Awuke](https://open.spotify.com/track/6erurkBpnedevTPib23gid) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:52 |
 | 23 | [OVER DEM](https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:18 |
-| 24 | [Aye](https://open.spotify.com/track/4bsuDNPQkP4mQWzoXglF52) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s) | 3:55 |
+| 24 | [Jowo](https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:56 |
 | 25 | [Electricity](https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Pheelz Good](https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6) | 2:12 |
 | 26 | [Risky](https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:30 |
 | 27 | [One Ticket](https://open.spotify.com/track/1kyRR8Izv3WCgXFHbC7WF1) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 3:28 |
 | 28 | [Nwa Baby](https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Nwa Baby](https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn) | 3:42 |
 | 29 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 |
-| 30 | [If](https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [If](https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx) | 3:57 |
-| 31 | [Gobe](https://open.spotify.com/track/3d1aboWNpT2UYajHpbRExQ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Gobe](https://open.spotify.com/album/6KjWnuW1bcexQkKuG8W4HK) | 3:49 |
+| 30 | [Gobe](https://open.spotify.com/track/3d1aboWNpT2UYajHpbRExQ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Gobe](https://open.spotify.com/album/6KjWnuW1bcexQkKuG8W4HK) | 3:49 |
+| 31 | [If](https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [If](https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx) | 3:57 |
 | 32 | [La La \(feat\. Ckay\)](https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 3:07 |
 | 33 | [1 Milli](https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:43 |
 | 34 | [Woju \(Remix\) \[feat\. Davido & Tiwa Savage\]](https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Woju \(Remix\) \[feat\. Davido & Tiwa Savage\]](https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 49 | [D & G \(feat\. Summer Walker\)](https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:52 |
 | 50 | [Sober](https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE) | [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Sober](https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ) | 3:05 |
 
-Snapshot ID: `aH2DAAAAAABAspmGow4PvHIi5SUvhduw`
+Snapshot ID: `aH7UgAAAAADzkoeXRCiBCej7GwGXMOyh`

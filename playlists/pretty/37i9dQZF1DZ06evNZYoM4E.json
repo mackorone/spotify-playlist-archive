@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 106913,
+  "num_followers": 106929,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAADhd9enbn6pRiYSiLMuDgnG",
+  "snapshot_id": "aH7UgAAAAAB1E4pIN3agFFWtI8OCQEar",
   "tracks": [
     {
       "added_at": null,
@@ -55,22 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strijdlustig",
-        "url": "https://open.spotify.com/album/1lWOET4J2gCO8jItVDAJfX"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Bloed, Zweet En Tranen",
-      "url": "https://open.spotify.com/track/5ZLkc5RY1NM4FtGWEd6HOE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kleine Jongen",
         "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 223133,
       "name": "Kleine Jongen",
       "url": "https://open.spotify.com/track/0NMvLLGLKKJmSMqQSR38Sx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strijdlustig",
+        "url": "https://open.spotify.com/album/1lWOET4J2gCO8jItVDAJfX"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Bloed, Zweet En Tranen",
+      "url": "https://open.spotify.com/track/5ZLkc5RY1NM4FtGWEd6HOE"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Want Ik Hou Van Jou",
+        "url": "https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Want Ik Hou Van Jou",
+      "url": "https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I've Been Loving You Too Long",
         "url": "https://open.spotify.com/album/3pED3uMrj2dxPX93RH2pEV"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 181849,
       "name": "I've Been Loving You Too Long",
       "url": "https://open.spotify.com/track/1mUIwJfnYVcekP5TmjPy5G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Want Ik Hou Van Jou",
-        "url": "https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Want Ik Hou Van Jou",
-      "url": "https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP"
     },
     {
       "added_at": null,

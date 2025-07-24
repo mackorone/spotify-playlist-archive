@@ -4,11 +4,11 @@
 
 > This is Grupo Los de la O\. The essential tracks, all in one playlist.
 
-73 songs - 3 hr 42 min
+74 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [24/7](https://open.spotify.com/track/5mTYlT2tJUFXK9mmRaV1TN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:58 | 2025-07-21 |  |
+| [24/7](https://open.spotify.com/track/5mTYlT2tJUFXK9mmRaV1TN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:58 | 2025-07-21 | 2025-07-24 |
 | [Alucinado](https://open.spotify.com/track/3hHOW6QUvwImlYSQFDWFqo) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:59 | 2024-01-29 | 2025-07-20 |
 | [Area 81](https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 2:45 | 2024-01-29 |  |
 | [Belik Frozen](https://open.spotify.com/track/6FXryIsXIDVWtzoJ5vCKmw) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:42 | 2024-01-29 |  |
@@ -42,6 +42,7 @@
 | [French Inhale](https://open.spotify.com/track/4fMuM5gdpDeXmd7oDPqPct) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 2:57 | 2024-01-29 |  |
 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 | 2024-01-29 |  |
 | [Fuga Pa' Cali \- En Vivo](https://open.spotify.com/track/3WjorfFU6IxlbopMintsT0) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:23 | 2024-01-29 |  |
+| [Hipocresía](https://open.spotify.com/track/3W776OCqqcv2IqphOc0j15) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:52 | 2025-07-24 |  |
 | [Holy Molly](https://open.spotify.com/track/0tL39kApl53imatnaQiY4H) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:59 | 2024-01-29 |  |
 | [Hoy Me Estoy Comiendo la Ciudad \- En Vivo](https://open.spotify.com/track/1lZWOA1c0YzqUvvmBpcc1s) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Hoy Me Estoy Comiendo La Ciudad \(En Vivo\)](https://open.spotify.com/album/4B2ByHupResD9l0PlPL7cb) | 3:54 | 2025-01-27 |  |
 | [Independiente](https://open.spotify.com/track/1XqzoDf2gOw11MCZj6ra45) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:37 | 2025-07-20 |  |

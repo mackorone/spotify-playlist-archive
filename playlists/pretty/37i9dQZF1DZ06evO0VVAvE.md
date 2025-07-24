@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,023 likes - 45 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,034 likes - 44 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beamer](https://open.spotify.com/track/4i3wDQa5VBDPUiREGaS44Z) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:46 |
-| 2 | [Introduction](https://open.spotify.com/track/0Q5fmTDuMkhDGp5geZNCgO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:25 |
-| 3 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 |
+| 2 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 |
+| 3 | [Introduction](https://open.spotify.com/track/0Q5fmTDuMkhDGp5geZNCgO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:25 |
 | 4 | [Sometimes \(Remix\)](https://open.spotify.com/track/64thQkxq02AWlxuvckmjPx) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Sometimes \(Remix\)](https://open.spotify.com/album/2AV0nSpxXb0d4pSIkgVm8c) | 3:08 |
 | 5 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 |
 | 6 | [Kilo](https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:12 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 19 | [Pay Me](https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI) | [Panaache](https://open.spotify.com/artist/3q9TNTIJZqPW6xVgFpUH27), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Pay Me](https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll) | 2:07 |
 | 20 | [Jericho](https://open.spotify.com/track/4h9P6fvFrgB0bmUdTB6hBm) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:32 |
 | 21 | [Wonder](https://open.spotify.com/track/03gv6Nvv66Ugkee2TX1b1x) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 3:50 |
-| 22 | [Play \(feat\. Fave\)](https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:44 |
-| 23 | [The Way \(Remix\)](https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Okanlawon, Vol\. 2 \(Deluxe\)](https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t) | 3:32 |
+| 22 | [The Way \(Remix\)](https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Okanlawon, Vol\. 2 \(Deluxe\)](https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t) | 3:32 |
+| 23 | [Play \(feat\. Fave\)](https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:44 |
 | 24 | [Good Life](https://open.spotify.com/track/0U41OjwzjJEiyTUgAMqn9Y) | [Marleykiddo](https://open.spotify.com/artist/09gRSQOoMvuN6nxM5B7LlK), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Good Life](https://open.spotify.com/album/0HxAGJYlpgABL4M0m8EqCK) | 2:52 |
 | 25 | [Soul \(feat\. T.I BLAZE\)](https://open.spotify.com/track/2rTwsc2SNBUWAUabnlIwsQ) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Soul \(feat\. T.I BLAZE\)](https://open.spotify.com/album/4XZ3ZB1G7Oo9KTqLgK5whG) | 2:24 |
 | 26 | [Dealer](https://open.spotify.com/track/44sHaGuDAjwXHAzcCKHHlp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 2:26 |
@@ -52,6 +52,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 42 | [Missing You](https://open.spotify.com/track/1KxYfIiCW0YlquoWzKxiLR) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Brap Music](https://open.spotify.com/album/2lSAYhfgL4uzYGkna46tmy) | 2:21 |
 | 43 | [TOMIWA](https://open.spotify.com/track/49sAm7LT7WLHCEeydE3Rkf) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [TOMIWA](https://open.spotify.com/album/0chRtYY5hF57ABdB2PTMEx) | 3:04 |
 | 44 | [Basic](https://open.spotify.com/track/46d3smHJFMcz3RbANz19nS) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 4:38 |
-| 45 | [Give Me No Stress \(GMNS\)](https://open.spotify.com/track/2Kzc2qnO9wKvMoDuSHkL5W) | [Jayfred](https://open.spotify.com/artist/1bnbgn11Ow9KZiL0AYiA9R), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Give Me No Stress 2.0](https://open.spotify.com/album/49VGlMgyFKCHuqexCt480e) | 2:50 |
 
-Snapshot ID: `aH2DAAAAAABJHg4KikePpGXtj4UGbFai`
+Snapshot ID: `aH7UgAAAAACG3Kd1LkFLy615rKxr0GMC`

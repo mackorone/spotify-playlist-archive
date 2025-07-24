@@ -3153,6 +3153,24 @@
     },
     {
       "album": {
+        "name": "Real World",
+        "url": "https://open.spotify.com/album/7jQLrXw2y43EjC3DkQyLaI"
+      },
+      "artists": [
+        {
+          "name": "noise dept.",
+          "url": "https://open.spotify.com/artist/46Un4FFfMc6YURdDdWdYh8"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289523,
+      "name": "Real World",
+      "url": "https://open.spotify.com/track/74qhxY7OA3sFjkfrA1Sh0B"
+    },
+    {
+      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/3gYJNB9aT8weYejDegHbTX"
       },

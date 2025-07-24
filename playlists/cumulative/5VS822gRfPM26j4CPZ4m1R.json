@@ -4095,6 +4095,24 @@
     },
     {
       "album": {
+        "name": "honeymoon",
+        "url": "https://open.spotify.com/album/4hB4Eh9hGAdgt53dJR74Cc"
+      },
+      "artists": [
+        {
+          "name": "Stephan Kreussel",
+          "url": "https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299868,
+      "name": "honeymoon",
+      "url": "https://open.spotify.com/track/5kMY4PErwx0EYP44UvGrLb"
+    },
+    {
+      "album": {
         "name": "Hydranism",
         "url": "https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte"
       },

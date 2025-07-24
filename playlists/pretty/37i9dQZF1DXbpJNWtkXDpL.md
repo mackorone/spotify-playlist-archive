@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Doony Graff
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,587 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,600 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 20 | [PUÑOS PULSERAS Y PALETAS](https://open.spotify.com/track/3ZSVSvD86WfSiKD6ubOygJ) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH), [Chans](https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG), [Fntwxy](https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH) | [PUÑOS PULSERAS Y PALETAS](https://open.spotify.com/album/5tLfLxGmx7N71QBzmiCx58) | 2:23 |
 | 21 | [Que pretendes](https://open.spotify.com/track/0FAqZhz6FO4SoNN5wSXgn1) | [MXXLVN](https://open.spotify.com/artist/0MENdaOp9F4KpC6IcqRouS), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [suae](https://open.spotify.com/artist/4dCClSl31GDaKpIVIDvpCw), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [Bellako Loner Club](https://open.spotify.com/album/4cM9FzKuYIyD8kXakMLsbw) | 3:00 |
 | 22 | [Chakalon](https://open.spotify.com/track/7xhbeQ6a8nDIcoGCbUzzxJ) | [Los Cómplices](https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Chakalon](https://open.spotify.com/album/52Kz1huANKD4x4mI3AiPMg) | 2:50 |
-| 23 | [Rosita Lean](https://open.spotify.com/track/3n0jLga7AMhPpL2E2sEhAo) | [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Rosita Lean](https://open.spotify.com/album/2qDUgdjgjYzlwIy3f1aavG) | 1:31 |
-| 24 | [Ay Mamasita](https://open.spotify.com/track/5YrqElRQbXfmx3Xl3aiKwS) | [xosa](https://open.spotify.com/artist/4qSk9MT1h4mKVB1cVLvGpK), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D), [Yell0w Yei](https://open.spotify.com/artist/4wYnHfMMu5an171J9sBE8i) | [Ay Mamasita](https://open.spotify.com/album/25bzzlibaTyLJT7ZlA6Jbm) | 2:39 |
+| 23 | [Ay Mamasita](https://open.spotify.com/track/5YrqElRQbXfmx3Xl3aiKwS) | [xosa](https://open.spotify.com/artist/4qSk9MT1h4mKVB1cVLvGpK), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D), [Yell0w Yei](https://open.spotify.com/artist/4wYnHfMMu5an171J9sBE8i) | [Ay Mamasita](https://open.spotify.com/album/25bzzlibaTyLJT7ZlA6Jbm) | 2:39 |
+| 24 | [Rosita Lean](https://open.spotify.com/track/3n0jLga7AMhPpL2E2sEhAo) | [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Rosita Lean](https://open.spotify.com/album/2qDUgdjgjYzlwIy3f1aavG) | 1:31 |
 | 25 | [FLOR marchita](https://open.spotify.com/track/7BgxOXanBzh7HTGHOgFCku) | [Mérida](https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj) | [FLOR marchita](https://open.spotify.com/album/22F1ZtDQdfNB8Ak1PH1MXh) | 3:29 |
 | 26 | [amar t duele](https://open.spotify.com/track/3CwrAtQNT5y6uOd6WREZ2E) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [amar t duele](https://open.spotify.com/album/72usUOS1AxtEeQ3wtL1bXg) | 2:30 |
 | 27 | [All I See](https://open.spotify.com/track/70lvfZR3qneKtNEPZbL4eD) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC), [TOLEDØ](https://open.spotify.com/artist/7sMwiJQWm6bcQrLb2PGgms) | [All I See](https://open.spotify.com/album/1nzpJdalAkDKxCJTcgggka) | 3:09 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 72 | [PECAR O MORIR](https://open.spotify.com/track/3IszEykw0GCI400DKnNiLU) | [Khash](https://open.spotify.com/artist/6SczbkyOyIxq2fO30TO6eb), [Mafflab](https://open.spotify.com/artist/7m7wiUhjzeT7qAT9Ou1MhH), [IGWT](https://open.spotify.com/artist/0nWl2Cu7EETJgmSQyqThPE) | [PECAR O MORIR](https://open.spotify.com/album/2ygx4LSExZk8R0fLHyHdXk) | 5:04 |
 | 73 | [Demasiado Tarde](https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl) | [Demasiado Tarde](https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z) | 2:45 |
 | 74 | [Al Infinito y Más Allá](https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Al Infinito y Más Allá](https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ) | 2:22 |
-| 75 | [Viento Feroz](https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr) | [Mermelada de Pepino](https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK) | [Viento Feroz](https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X) | 3:16 |
+| 75 | [lady on my body!](https://open.spotify.com/track/5GjE3C4WbFMyZyl2WR03nM) | [Abnerxd](https://open.spotify.com/artist/38DNB5yq30k6tcxmDNDMGd), [Doe Slurp](https://open.spotify.com/artist/5zpttOqBXJ20cTZumJvN74) | [lady on my body!](https://open.spotify.com/album/0cyE6BSaloDqdLRqlHKZj1) | 2:23 |
 
 Snapshot ID: `aF4zegAAAAD756WF9N/aLy1LG2jS2gUN`

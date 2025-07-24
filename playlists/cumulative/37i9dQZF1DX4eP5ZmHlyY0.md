@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: TOMORROW X TOGETHER
 
-658 songs - 1 day 12 hr 28 min
+659 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,6 +466,7 @@
 | [Simmer \(Japanese Ver.\)](https://open.spotify.com/track/16MjZTUg4p646phx0t4hF2) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Simmer \(Japanese Ver.\)](https://open.spotify.com/album/4aZhX5TMq56qe1D99M296n) | 3:09 | 2025-06-24 | 2025-07-16 |
 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 | 2023-11-23 | 2024-02-16 |
 | [SING ALONG!](https://open.spotify.com/track/3i4BISVO0L6mrVM7V0IPGo) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [The 1st full album \[BLISS\]](https://open.spotify.com/album/6Ez3OGFT3yV9zRkKEs2S6d) | 2:36 | 2025-07-08 |  |
+| [SLAM DUNK](https://open.spotify.com/track/0dvPM5OyBYKAwoo5eszlCA) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/1pTD8hn63VyGChIfexGEw4) | 2:57 | 2025-07-22 |  |
 | [SLEEPLESS TOWN](https://open.spotify.com/track/1oLp5er6lRLDBBw6YxAgDm) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [BREMEN](https://open.spotify.com/album/23Pw0GhyG7e5ztxUdfnltQ) | 4:10 | 2024-02-06 | 2024-04-24 |
 | [Slogan](https://open.spotify.com/track/1xEm0K1U5Md7Zkne7gcy1z) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [2:BE](https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA) | 4:02 | 2024-08-27 | 2024-10-02 |
 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 | 2023-11-30 | 2024-03-27 |

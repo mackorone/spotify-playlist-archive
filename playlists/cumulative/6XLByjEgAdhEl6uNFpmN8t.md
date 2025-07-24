@@ -4,7 +4,7 @@
 
 > 
 
-115 songs - 5 hr 51 min
+116 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Szeretsz\-e](https://open.spotify.com/track/19VmOgLl88ZWU6WXgatfEM) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 2:54 | 2025-03-16 |  |
 | [Szexbomb](https://open.spotify.com/track/7vtIy6njr0f29a6MJFNXdD) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:01 | 2025-05-04 |  |
 | [szosziazi](https://open.spotify.com/track/3DTF2AIcHMwZ1q1gz9zspi) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:26 | 2024-11-28 |  |
+| [SZÁMLAKÉPES CSAJOK](https://open.spotify.com/track/693MKbwdGPRXWbCyhbUd3s) | [JANA](https://open.spotify.com/artist/3sVMPCOGrvv6saKNwgMiQd), [PEAK](https://open.spotify.com/artist/3zpUJqZcnKyX8FSpbAS0FS) | [SZÁMLAKÉPES CSAJOK](https://open.spotify.com/album/6O1WCKUAizm4thqp0yA1NH) | 3:15 | 2025-07-23 |  |
 | [Szélcsend](https://open.spotify.com/track/2FLH8pUVYNRJIEZcwLyzYy) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Egyedül a sötétben](https://open.spotify.com/album/5r3kAKa7EP0BnAzIvQN3kt) | 2:38 | 2025-04-20 |  |
 | [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 | 2024-10-17 |  |
 | [SZÖRNYETEG](https://open.spotify.com/track/3MlKk8TP3xjM80j5uUXtRr) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ SZÁLLODA \(1\. RÉSZ\)](https://open.spotify.com/album/7FnnqrwibMHb5j59gifRhF) | 3:28 | 2025-05-05 |  |

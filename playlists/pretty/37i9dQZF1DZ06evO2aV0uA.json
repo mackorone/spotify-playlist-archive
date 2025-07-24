@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 137795,
+  "num_followers": 137833,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAABGEwvqd22npypo6wl5kPeD",
+  "snapshot_id": "aH7UgAAAAAAyjD2PcnhVpzHFv3oxiEjY",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Vigil",
+      "url": "https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
         "url": "https://open.spotify.com/album/40CyQnSxAz9rmB9ZcJIwE7"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 240539,
       "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
       "url": "https://open.spotify.com/track/7uGFpRMtsb7CGdUgjEeSsk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Vigil",
-      "url": "https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamb of God (Deluxe Version)",
-        "url": "https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 245948,
-      "name": "Ghost Shaped People",
-      "url": "https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VII: Sturm und Drang",
         "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 223661,
       "name": "To The Grave",
       "url": "https://open.spotify.com/track/6Q88Xw5D2syb9X5rZd3TLz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lamb of God (Deluxe Version)",
+        "url": "https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 245948,
+      "name": "Ghost Shaped People",
+      "url": "https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1066587,
+  "num_followers": 1066199,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "Headphones On",
-        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 240308,
-      "name": "Headphones On",
-      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
-    },
-    {
-      "added_at": "2025-07-11 00:00:12",
-      "album": {
         "name": "BLISS",
         "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 160111,
       "name": "BLISS",
       "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
+    },
+    {
+      "added_at": "2025-07-11 00:00:12",
+      "album": {
+        "name": "Headphones On",
+        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 240308,
+      "name": "Headphones On",
+      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 165107,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
-    },
-    {
-      "added_at": "2025-07-11 00:00:12",
-      "album": {
         "name": "Love Me To Heaven",
         "url": "https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 206561,
       "name": "Love Me To Heaven",
       "url": "https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr"
+    },
+    {
+      "added_at": "2025-07-11 00:00:12",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 165107,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "Momma Song",
-        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Momma Song",
-      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
-    },
-    {
-      "added_at": "2025-07-11 00:00:12",
-      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "Man Of The Year",
-        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+        "name": "Momma Song",
+        "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 180433,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+      "duration_ms": 197160,
+      "name": "Momma Song",
+      "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -975,6 +959,22 @@
       "duration_ms": 173217,
       "name": "Let's Ride Away",
       "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
+    },
+    {
+      "added_at": "2025-07-11 00:00:12",
+      "album": {
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "Pretty Ugly",
-        "url": "https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 158696,
-      "name": "Pretty Ugly",
-      "url": "https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD"
-    },
-    {
-      "added_at": "2025-07-11 00:00:12",
-      "album": {
         "name": "Wrong Places",
         "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
+        "name": "Pretty Ugly",
+        "url": "https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 158696,
+      "name": "Pretty Ugly",
+      "url": "https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD"
+    },
+    {
+      "added_at": "2025-07-11 00:00:12",
+      "album": {
         "name": "French Girls",
         "url": "https://open.spotify.com/album/0zNVm3xZratOorJpLbglfN"
       },
@@ -1327,6 +1327,22 @@
       "duration_ms": 172166,
       "name": "French Girls",
       "url": "https://open.spotify.com/track/1IG0AHtVCjjgpND5iRDC6j"
+    },
+    {
+      "added_at": "2025-07-11 00:00:12",
+      "album": {
+        "name": "Suburbs",
+        "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "Suburbs",
+      "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -1359,22 +1375,6 @@
       "duration_ms": 178304,
       "name": "Whateverrrr",
       "url": "https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC"
-    },
-    {
-      "added_at": "2025-07-11 00:00:12",
-      "album": {
-        "name": "Suburbs",
-        "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "Suburbs",
-      "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
+        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 205270,
+      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
+      "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
+    },
+    {
+      "added_at": "2025-07-11 00:00:12",
+      "album": {
         "name": "Mind Reader (with Meghan Trainor)",
         "url": "https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
+        "name": "Dinner",
+        "url": "https://open.spotify.com/album/4OWtgRW16OHXE98shkJjZA"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Adam Klobi",
+          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
         }
       ],
-      "duration_ms": 205270,
-      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
-      "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
+      "duration_ms": 228000,
+      "name": "Dinner",
+      "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -1511,22 +1527,6 @@
       "duration_ms": 175134,
       "name": "Lovesick Lullaby",
       "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
-    },
-    {
-      "added_at": "2025-07-11 00:00:12",
-      "album": {
-        "name": "Dinner",
-        "url": "https://open.spotify.com/album/4OWtgRW16OHXE98shkJjZA"
-      },
-      "artists": [
-        {
-          "name": "Adam Klobi",
-          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Dinner",
-      "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -1579,18 +1579,22 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "Heart By Heart",
-        "url": "https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU"
+        "name": "Come With Me (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
       },
       "artists": [
         {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 190754,
-      "name": "Heart By Heart",
-      "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
+      "duration_ms": 214886,
+      "name": "Come With Me (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -1611,22 +1615,18 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "Come With Me (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
+        "name": "Heart By Heart",
+        "url": "https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU"
       },
       "artists": [
         {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
         }
       ],
-      "duration_ms": 214886,
-      "name": "Come With Me (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
+      "duration_ms": 190754,
+      "name": "Heart By Heart",
+      "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
     },
     {
       "added_at": "2025-07-11 00:00:12",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-07-11 00:00:12",
       "album": {
-        "name": "Second Self",
-        "url": "https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 163054,
-      "name": "Try Your Luck",
-      "url": "https://open.spotify.com/track/4OeHwa1G1CXBnbqZokaMwk"
-    },
-    {
-      "added_at": "2025-07-11 00:00:12",
-      "album": {
         "name": "Almost, So Close, Maybe",
         "url": "https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 167404,
       "name": "Almost, So Close, Maybe",
       "url": "https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x"
+    },
+    {
+      "added_at": "2025-07-11 00:00:12",
+      "album": {
+        "name": "Second Self",
+        "url": "https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 163054,
+      "name": "Try Your Luck",
+      "url": "https://open.spotify.com/track/4OeHwa1G1CXBnbqZokaMwk"
     }
   ],
   "unique_name": "Pop Right Now",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,857 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,851 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

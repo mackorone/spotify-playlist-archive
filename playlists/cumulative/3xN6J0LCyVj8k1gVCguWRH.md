@@ -2,9 +2,9 @@
 
 ### [Obama’s Summer Playlist 2025](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 
-> What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist.
+> What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,174 songs - 12 day 1 hr 30 min
+5,175 songs - 12 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 | 2023-05-25 | 2024-03-08 |
 | [American Spirit](https://open.spotify.com/track/4pAywR7O1HPrTJtRLrtCvW) | [Pink Jagg](https://open.spotify.com/artist/1SgsyJqfG9hmmb7Wnjo3EF) | [American Spirit](https://open.spotify.com/album/6OHdsZucQRbGHN5s0xqPjC) | 3:37 | 2025-06-21 | 2025-07-04 |
 | [Amin Bird](https://open.spotify.com/track/6NErAb531bcv9ZXmRoZEf3) | [Ada Morghe](https://open.spotify.com/artist/5QAJWFAxwZ3qpTz94t9FPo) | [Pure Good Vibes](https://open.spotify.com/album/05NCI0PJ7eFL92JdAAeR3n) | 3:34 | 2025-06-17 | 2025-07-08 |
+| [Amin Bird \- Mousse T\. Remix](https://open.spotify.com/track/6FDgdrhTfu8HPbRxDf2mDg) | [Ada Morghe](https://open.spotify.com/artist/5QAJWFAxwZ3qpTz94t9FPo), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [Amin Bird \(Mousse T\. Remix\)](https://open.spotify.com/album/3sYxanZue7laRD6N4Q7flJ) | 3:16 | 2025-07-23 |  |
 | [Aminata](https://open.spotify.com/track/0HlchSc0ChOE5Q9xQrzN8y) | [Alaman](https://open.spotify.com/artist/3VAZM9cBog8d3f1eDqdGeS) | [Aminata](https://open.spotify.com/album/2zEZY63AApjuzpyxY6iKVp) | 2:35 | 2024-12-19 | 2024-12-31 |
 | [Amor de Sábanas](https://open.spotify.com/track/5xTWrGQC9k7rzOGIP5ODab) | [SANTI SERRA](https://open.spotify.com/artist/160stBXe31uhue2Fb598X4), [Arancha Santiago](https://open.spotify.com/artist/3vQm0KZuaevPCcAiDtvKwt) | [Amor de Sábanas](https://open.spotify.com/album/0X9ghqZNhuETTQ1unsrYk6) | 2:37 | 2025-02-05 | 2025-02-17 |
 | [Amore](https://open.spotify.com/track/0FZFJrBOZK8h9m1awSWW9L) | [SIHARA](https://open.spotify.com/artist/3r9ivqbl8FEmDroQMHlvav) | [Amore](https://open.spotify.com/album/6PP7mJPszXS9kaJCQmj3VE) | 2:31 | 2023-08-06 | 2023-08-20 |
@@ -2984,7 +2985,7 @@
 | [Motion](https://open.spotify.com/track/0EFtWzpREMBLzz6pTb057Q) | [Mayjah kyng](https://open.spotify.com/artist/5bhtzcECLSPTxIUjDz3Lsr) | [Motion](https://open.spotify.com/album/78uOonyzbFw5YE7ql7tcmw) | 3:34 | 2024-07-06 | 2024-07-18 |
 | [MOTTO](https://open.spotify.com/track/5RtlW5McSwUpjgUn23MwVY) | [Koku Gonza](https://open.spotify.com/artist/6L7vvTypQdxcHWxXOTwGX8) | [MOTTO](https://open.spotify.com/album/0mrajgMs0nIQwJcg91vBT0) | 3:15 | 2024-12-14 | 2024-12-26 |
 | [mountains](https://open.spotify.com/track/7HuiXZw4jq0nMqj3HG6a9q) | [Edwrds](https://open.spotify.com/artist/2mlPp5s1XgLlqtSXTyyTwA) | [mountains](https://open.spotify.com/album/3G1Pyr1IdD154YSSuWS7Dy) | 3:12 | 2023-07-11 | 2023-07-21 |
-| [Move Down Lover](https://open.spotify.com/track/33brTNYpiFxqahoez9R6Vo) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Move Down Lover](https://open.spotify.com/album/0ZfqJ2oxv1yZJJvdi551bz) | 2:50 | 2025-07-04 |  |
+| [Move Down Lover](https://open.spotify.com/track/33brTNYpiFxqahoez9R6Vo) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Move Down Lover](https://open.spotify.com/album/0ZfqJ2oxv1yZJJvdi551bz) | 2:50 | 2025-07-04 | 2025-07-24 |
 | [Move On](https://open.spotify.com/track/7kwGPYkQx1dYu0lod9IEAf) | [Ayo August](https://open.spotify.com/artist/2BiwobuxFl5vPgLcvA6yb4), [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Move On](https://open.spotify.com/album/0wwMY8G12nqu8CePeBBq2Q) | 2:09 | 2021-04-17 | 2021-05-03 |
 | [Move On](https://open.spotify.com/track/7m3Vj6y1dYXGwKhZ4N6BYB) | [Joytide](https://open.spotify.com/artist/6oKwIoXslSna3RRQwcCoOW), [Carl Roos](https://open.spotify.com/artist/0fKlHm1QYTvlNd8T1yeHBH) | [Move On](https://open.spotify.com/album/6uiU8puP5cdQv625EiIalh) | 2:54 | 2021-04-24 | 2021-05-09 |
 | [Moves Like Shakira](https://open.spotify.com/track/6fMPXPyCT7PpksAa8g43wC) | [Mersed](https://open.spotify.com/artist/5WiBH8FG5kcrfAvmW9znYQ), [Lardi B](https://open.spotify.com/artist/6KP5Ws86YSPOxpbsmmwYHc) | [Moves Like Shakira](https://open.spotify.com/album/3UEe3zFWlPWCtmuUziEk2c) | 2:25 | 2023-03-09 | 2023-04-02 |
@@ -4140,7 +4141,7 @@
 | [Stay \(Don't Go\)](https://open.spotify.com/track/23OjeU9TfWlKHdsuzcD4sE) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Strawberry Skies \(Deluxe Edition\)](https://open.spotify.com/album/5UsLsvwDxpbBRMTf7cLJNy) | 3:27 | 2021-03-26 | 2021-04-11 |
 | [Stay Awake](https://open.spotify.com/track/7j4jsTS7sZT2NSUNBPfwH0) | [Sofi Gev](https://open.spotify.com/artist/6YL1DZY3FftdLcZwocsPbd) | [Stay Awake](https://open.spotify.com/album/245P4hGXQWManQu6ttJo0d) | 4:01 | 2022-09-10 | 2022-09-27 |
 | [Stay Away](https://open.spotify.com/track/5dOakQSSOOn6r3hxp3Yl4g) | [Rumour](https://open.spotify.com/artist/1HoOm6OAl4F6WNtBYF7fUE) | [Stay Away](https://open.spotify.com/album/3G71nY3tAsKBkoBSAi4ETC) | 2:54 | 2021-04-03 | 2021-04-18 |
-| [Stay For A While](https://open.spotify.com/track/17CLOw2AcXG4czZ6m8lKiZ) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Stay For A While](https://open.spotify.com/album/72RZ0DZsC3fiPiarjGquG0) | 2:53 | 2025-06-30 |  |
+| [Stay For A While](https://open.spotify.com/track/17CLOw2AcXG4czZ6m8lKiZ) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Stay For A While](https://open.spotify.com/album/72RZ0DZsC3fiPiarjGquG0) | 2:53 | 2025-06-30 | 2025-07-24 |
 | [STAY FRIENDS](https://open.spotify.com/track/68nEOP3dEphz3tpd7eXFti) | [Bruklin](https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO) | [STAY FRIENDS](https://open.spotify.com/album/6MtKE4duJODVSVd9AkrtTf) | 2:40 | 2024-07-31 | 2024-08-12 |
 | [Stay Over](https://open.spotify.com/track/36yIvRSkhRIBpCD3qiRR1T) | [Anassa](https://open.spotify.com/artist/09p3sjSfBEDE6f9WUwEEgf) | [Stay Over](https://open.spotify.com/album/1M5S3aAflyUhHkWV1XOmmQ) | 2:48 | 2023-04-07 | 2023-04-30 |
 | [Stay The Night](https://open.spotify.com/track/2Yq8koklcbpOSVYMOvFWh4) | [Camryn Levert](https://open.spotify.com/artist/2HtNeBOFredlrp4D0LLyLB) | [Stay The Night](https://open.spotify.com/album/5Vkx33EQB76bLFLT56sOJT) | 3:13 | 2024-07-05 | 2024-07-17 |

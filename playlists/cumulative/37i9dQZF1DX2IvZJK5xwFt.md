@@ -2,9 +2,9 @@
 
 ### [Just Rock!](https://open.spotify.com/playlist/37i9dQZF1DX2IvZJK5xwFt)
 
-> Only the best rock in the world\. Cover: Måneskin
+> Remembering Ozzy Osbourne 1948\-2025
 
-842 songs - 2 day 4 hr 5 min
+844 songs - 2 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,7 +429,7 @@
 | [Look Alive \(Netic\)](https://open.spotify.com/track/5NGlVLen8xMEJ6TnwGTCtI) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Look Alive \(Netic\)](https://open.spotify.com/album/5Emtf7kVxU2hgZqDquGux1) | 3:13 | 2023-08-17 | 2023-09-15 |
 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 | 2025-05-23 | 2025-06-13 |
 | [Looking for a Fight](https://open.spotify.com/track/1gxaZZaM4pxrUNQ0Sx8bGv) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [The Southern](https://open.spotify.com/album/1DmrY3LM2KUPgWOj5COQxE) | 3:23 | 2024-09-05 | 2024-11-16 |
-| [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-04 |  |
+| [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-04 | 2025-07-24 |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-09 | 2025-07-12 |
 | [Lost All Control](https://open.spotify.com/track/3SpgVxU0XD36PbECvAl9z6) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [The Surface Seems So Far](https://open.spotify.com/album/1EozAc4lNqwMvlAhEEXk6w) | 4:33 | 2024-09-19 | 2024-10-26 |
 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 | 2022-08-11 | 2022-09-23 |
@@ -529,6 +529,7 @@
 | [One of These Days \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/10q3BFCZ61K1rvMZAYvqYi) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [One of These Days \(Live at Pompeii \- MCMLXXII \- 2025 Mix\)](https://open.spotify.com/album/5PtbJkcRsrP4ExckBuH91L) | 5:55 | 2025-04-11 | 2025-06-13 |
 | [One of Those Days \(feat\. Eric Clapton\)](https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:40 | 2022-09-08 | 2023-07-14 |
 | [Opiate²](https://open.spotify.com/track/6iQDmWrbrMQ0vPfbKqqvKU) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate²](https://open.spotify.com/album/13sWe0tYKenwLd2t25bHIi) | 9:54 | 2022-05-06 | 2022-08-26 |
+| [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3) | 5:01 | 2025-07-23 |  |
 | [OTHER SIDE OF THE RAINBOW](https://open.spotify.com/track/4GsesitvquwKM2doPy68wk) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [OTHER SIDE OF THE RAINBOW](https://open.spotify.com/album/4BFH5CUZSM4uxuYFMAFNk6) | 4:11 | 2023-06-01 | 2023-06-12 |
 | [OTHER SIDE OF THE RAINBOW](https://open.spotify.com/track/51Gf6GTwZIJ04zXevMx5UO) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [SIX](https://open.spotify.com/album/2aC2YH2ZxdTGgni85OcNu5) | 4:11 | 2023-06-01 | 2023-06-30 |
 | [Out Go The Lights \- Japan Bonus Track](https://open.spotify.com/track/6xzsakuDEPnxppCtArUP4O) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Out Go The Lights \(Japan Bonus Track\)](https://open.spotify.com/album/6M7HhWsikfG3YKqrS4pB4e) | 3:39 | 2022-10-06 | 2022-10-28 |
@@ -544,6 +545,7 @@
 | [Paralyzed](https://open.spotify.com/track/4QQyHD0xPEHSGha4dExUKH) | [Colours in the Street](https://open.spotify.com/artist/3zlipWQdlIaSD0UytEUeO0), [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Let's Talk](https://open.spotify.com/album/2NNK0NFzBMSEsGrYpJDZwZ) | 4:13 | 2023-07-13 | 2024-05-18 |
 | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Paralyzed](https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R) | 3:32 | 2024-07-18 | 2024-08-13 |
 | [Parasite](https://open.spotify.com/track/3PjR8wGGGUjxdKFCtoScZP) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Parasite](https://open.spotify.com/album/7jGfpPmNuDC9ggP7rxCIne) | 1:37 | 2023-08-10 | 2023-08-18 |
+| [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/3YYnFEXCLNbaWuC0hIEnIS) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 7:21 | 2025-07-23 |  |
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-06-23 | 2023-01-20 |
 | [Pavlove](https://open.spotify.com/track/6PzQE81zHTaJkuoyhGcXlK) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/21mNCl1z482tKpGKv13iig) | 3:33 | 2023-12-08 | 2024-10-12 |
 | [Pavlove \- Demo](https://open.spotify.com/track/73kIi1OijvzVIWP4OhBm7D) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Pavlove \(Demo\)](https://open.spotify.com/album/1iYntUmv88nNeE4zw5xgMY) | 3:33 | 2023-12-22 | 2024-04-19 |
@@ -718,7 +720,7 @@
 | [The Language Of My Heart](https://open.spotify.com/track/4anwYZI6i9l5xi8caRrbo3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [The Language Of My Heart \(France Bonus Track\)](https://open.spotify.com/album/0Kmho2vdfbGmfJyyUesNoW) | 3:53 | 2022-05-19 | 2022-06-01 |
 | [The Last Day Of War And The First Day Of Peace](https://open.spotify.com/track/5CrxpX3CGHZ26aWicYuvcO) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [The Last Day Of War And The First Day Of Peace](https://open.spotify.com/album/1t635fQlMDBH9RHu8DZgTK) | 3:32 | 2023-11-23 | 2023-12-01 |
 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 | 2022-05-06 | 2022-05-16 |
-| [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-06 |  |
+| [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-06 | 2025-07-24 |
 | [The Longest Kiss](https://open.spotify.com/track/3zpjkbqo5eL2vPFX6qF1up) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [The Longest Kiss](https://open.spotify.com/album/0rK2zgoxvtqDZzS7B6FXMy) | 2:49 | 2024-09-19 | 2024-09-30 |
 | [The Middle](https://open.spotify.com/track/6timHv8NQ0srGzNyoqvqjJ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Dirt On My Diamonds, Vol\. 2](https://open.spotify.com/album/56ZOoXwxlC5UfRqsEc5mOG) | 3:55 | 2024-09-19 | 2024-10-12 |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-05-18 | 2023-06-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=jEAaALyDShKOKDWVzZyCCg">Mlindo The Vocalist</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,894 likes - 85 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,027 likes - 85 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

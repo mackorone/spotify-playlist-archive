@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 229196,
+  "num_followers": 229300,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-07-04 13:19:05",
       "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "T\u00fa, La M\u00e1s Bella",
+      "url": "https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX"
+    },
+    {
+      "added_at": "2025-07-04 13:19:05",
+      "album": {
         "name": "T\u00fa, la m\u00e1s bella (En Vivo)",
         "url": "https://open.spotify.com/album/3PKKvCRMgsXJi8v4HxuroL"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 149420,
       "name": "T\u00fa, la m\u00e1s bella - En Vivo",
       "url": "https://open.spotify.com/track/4iNUGRz8usCC8ZeczwIcQN"
-    },
-    {
-      "added_at": "2025-07-04 13:19:05",
-      "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "T\u00fa, La M\u00e1s Bella",
-      "url": "https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX"
     },
     {
       "added_at": "2025-07-04 13:19:05",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2025-07-04 13:19:05",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 287320,
-      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
-      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
+      "duration_ms": 221701,
+      "name": "Tu Sin Mi - En Vivo",
+      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
     }
   ],
   "unique_name": "Vivo de Cumbia",

@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 419961,
+  "num_followers": 420021,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAAUEhjVFZa1y9IWTY246yiT",
+  "snapshot_id": "aH7UgAAAAABmEX0/VH0h03dMeppcIqnp",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Gotta Get Away",
-      "url": "https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 205946,
       "name": "Half-Truism",
       "url": "https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Gotta Get Away",
+      "url": "https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/5tFzUj1jV09bo4wBQWSbDl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conspiracy Of One",
         "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 219800,
       "name": "Million Miles Away",
       "url": "https://open.spotify.com/track/6tNeHmedp9qo3BsBp5zOPe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/5tFzUj1jV09bo4wBQWSbDl"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Ok, But This Is The Last Time",
+      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 228240,
       "name": "Defy You",
       "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 172506,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/6Hqpak2C21R2Qd448RGm7a"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 172506,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/6Hqpak2C21R2Qd448RGm7a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
@@ -727,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ok, But This Is The Last Time (Piano Version)",
-        "url": "https://open.spotify.com/album/12G99PyLjvqZP8rgtVZxe4"
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
       "artists": [
         {
@@ -736,9 +752,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 207629,
-      "name": "Ok, But This Is The Last Time - Piano Version",
-      "url": "https://open.spotify.com/track/1ER7vCZkCWOhPVfq76PLcQ"
+      "duration_ms": 201266,
+      "name": "Behind Your Walls",
+      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
       "duration_ms": 179506,
       "name": "Takes Me Nowhere",
       "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Behind Your Walls",
-      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
     },
     {
       "added_at": null,

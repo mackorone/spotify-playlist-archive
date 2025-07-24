@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 44 | [How Good We Had It](https://open.spotify.com/track/1JfhFTWcYJB7QaCimFHxhl) | [Madilyn](https://open.spotify.com/artist/07r7OPIALkj6Icaoj4Kf5l), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [How Good We Had It](https://open.spotify.com/album/3S6gQ7g8MlKENMiwnM0ZKR) | 3:05 |
 | 45 | [Escape](https://open.spotify.com/track/5UA23VfYZt4RZkF6g3nZAp) | [Dante Klein](https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN), [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh) | [Escape](https://open.spotify.com/album/3cfs0TtaFisZ9d1mytwQvB) | 2:55 |
 | 46 | [Peace of Mind](https://open.spotify.com/track/4K0d1T6SUO9Ji9vyXl657d) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Peace of Mind](https://open.spotify.com/album/2hrhHhcevl0g70FBgynmIh) | 2:57 |
-| 47 | [Selfmade](https://open.spotify.com/track/5gPFjvxjZwHcYNzVa3YZEx) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:21 |
-| 48 | [BALENCIAGA COVERED EYES](https://open.spotify.com/track/3KokqGsGKwLNjHxLbRIBQt) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BALENCIAGA COVERED EYES](https://open.spotify.com/album/65keRrrRODi48zyrWoS949) | 4:05 |
+| 47 | [BALENCIAGA COVERED EYES](https://open.spotify.com/track/3KokqGsGKwLNjHxLbRIBQt) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BALENCIAGA COVERED EYES](https://open.spotify.com/album/65keRrrRODi48zyrWoS949) | 4:05 |
+| 48 | [Selfmade](https://open.spotify.com/track/5gPFjvxjZwHcYNzVa3YZEx) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:21 |
 | 49 | [Midnight Special](https://open.spotify.com/track/4RTjYcyAhLmYGi0QkU56If) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:47 |
 | 50 | [You Don't Know](https://open.spotify.com/track/1eeP92z3DuzoZhLOtKq8jt) | [Dan Port](https://open.spotify.com/artist/6KA3l8F3e3uI8jYBIDGVH5) | [You Don't Know](https://open.spotify.com/album/5DVrx39jp6knd54awdgBg0) | 2:43 |
 | 51 | [Frequency \(Go West\)](https://open.spotify.com/track/64jnLLOAwnDscTYCAc6oct) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Frequency \(Go West\)](https://open.spotify.com/album/72YdJwYP5izEXu4itP8u7B) | 2:33 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 120 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 121 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Ab3fSAAAAAC/7uSY7CdeSK6JHUnpCx9v`
+Snapshot ID: `Ab3k3gAAAABeEKCqX7E6j0GPat2Bb+bW`

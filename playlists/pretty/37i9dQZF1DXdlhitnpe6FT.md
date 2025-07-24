@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,223 likes - 115 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,357 likes - 115 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 10 | [Stranger In Paradise](https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Say It With Music](https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO) | 3:03 |
 | 11 | [Piano](https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Las No\. 1 Instrumentales](https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb) | 4:43 |
 | 12 | [Se Busca](https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq) | [Bodas y 15 Años](https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss) | [20 Valses Instrumentales](https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5) | 3:26 |
-| 13 | [Love Is Blue \- L'amour est bleu](https://open.spotify.com/track/1PlZt5i69FgDl45KbHlLzr) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Love Is Blue](https://open.spotify.com/album/4q9ot78mrbt8U5WEhzrzZa) | 2:37 |
+| 13 | [Love Is Blue](https://open.spotify.com/track/1PlZt5i69FgDl45KbHlLzr) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Love Is Blue](https://open.spotify.com/album/4q9ot78mrbt8U5WEhzrzZa) | 2:37 |
 | 14 | [Flauta de Pan](https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ) | [Mario Gonzales Guerra](https://open.spotify.com/artist/51PLAKhApJK3Vrzc1V8kZU) | [El Sonido de la Flauta de Pan \- The Sound Of The Panflute](https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl) | 3:18 |
 | 15 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
 | 16 | [Dolannes mélodie](https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO) | [Jean Claude Borelly](https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn) | [La mélodie du lac d'amour](https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW) | 2:52 |
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 23 | [Amore Grande Amore Libero](https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz) | [Orquesta Romanticos de La Habana](https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi) | [Temas Prohibidos del Cine](https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt) | 3:36 |
 | 24 | [Concorde](https://open.spotify.com/track/1rshuebpBibATjY7UtHolH) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 3:35 |
 | 25 | [Sleepy Shores](https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh) | [Johnny Pearson](https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD) | [Kpm 1000 Series: Gentle Sounds \- Volume 2](https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2) | 3:40 |
-| 26 | [Ballade pour Adeline](https://open.spotify.com/track/5hzUMnP8CYlM00C4gVcfhT) | [Pianista sull'Oceano](https://open.spotify.com/artist/1CojLfcnKoatJ57WDDxNyV) | [Tribute to Richard Clayderman: Collection](https://open.spotify.com/album/1mEqTRd1FgEmxkzjfF7MNL) | 2:24 |
-| 27 | [Nadia's Theme \(Theme from the Young and Restless\)](https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc) | [Barry DeVorzon](https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB) | [Nadia's Theme \(Theme from the Young and Restless\)](https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM) | 3:02 |
+| 26 | [Nadia's Theme \(Theme from the Young and Restless\)](https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc) | [Barry DeVorzon](https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB) | [Nadia's Theme \(Theme from the Young and Restless\)](https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM) | 3:02 |
+| 27 | [Ballade pour Adeline](https://open.spotify.com/track/5hzUMnP8CYlM00C4gVcfhT) | [Pianista sull'Oceano](https://open.spotify.com/artist/1CojLfcnKoatJ57WDDxNyV) | [Tribute to Richard Clayderman: Collection](https://open.spotify.com/album/1mEqTRd1FgEmxkzjfF7MNL) | 2:24 |
 | 28 | [Wheels](https://open.spotify.com/track/4GAk2C8GXuTQPbCILxZERU) | [Al Caiola](https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6) | [Al Caiola](https://open.spotify.com/album/5H4XIkoq40S5IJg8YHSeQi) | 2:07 |
 | 29 | [Never On Sunday](https://open.spotify.com/track/6Vd0Z8Te5qyQmD9yaONAwu) | [Don Costa And His Orchestra](https://open.spotify.com/artist/4QlZvCeRzqvteP2pLeL9or) | [Lost Hits Of The 60's](https://open.spotify.com/album/60u6mGOEgg8QZdIi2ezSbp) | 2:55 |
-| 30 | [Mah Nà Mah Nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 |
-| 31 | [Last Waltz](https://open.spotify.com/track/0oQmDTHQUWzM64mdOONw6T) | [Anthony Ventura](https://open.spotify.com/artist/02UJNg1LEJ1vQSNm3Mo0R9) | [Die Schönsten Melodien Der Welt](https://open.spotify.com/album/69DoD3L4E7mQgM3EBReDgb) | 2:04 |
+| 30 | [Last Waltz](https://open.spotify.com/track/0oQmDTHQUWzM64mdOONw6T) | [Anthony Ventura](https://open.spotify.com/artist/02UJNg1LEJ1vQSNm3Mo0R9) | [Die Schönsten Melodien Der Welt](https://open.spotify.com/album/69DoD3L4E7mQgM3EBReDgb) | 2:04 |
+| 31 | [Mah Nà Mah Nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 |
 | 32 | [La Playa](https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3) | [Francis Goya](https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak) | [The Gold Series \- Latin Romance](https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya) | 3:54 |
 | 33 | [Don't Cry for Me, Argentina](https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq) | [Orchester Anthony Ventura](https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK) | [El Condor Pasa](https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx) | 2:20 |
 | 34 | [Blue Tango](https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L) | [Leroy Anderson](https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX) | [The Leroy Anderson Collection](https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3) | 2:49 |

@@ -107,6 +107,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
+        "name": "Embalo",
+        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
+      },
+      "artists": [
+        {
+          "name": "TIRI",
+          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
+        }
+      ],
+      "duration_ms": 201231,
+      "name": "Embalo",
+      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
         "name": "Rubi",
         "url": "https://open.spotify.com/album/4mPPWXKxDCobEMiOBtxNE1"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 209577,
       "name": "Absurda",
       "url": "https://open.spotify.com/track/4jhTigzWPItapKZ9RP3CWC"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
-        "name": "Embalo",
-        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
-      },
-      "artists": [
-        {
-          "name": "TIRI",
-          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Embalo",
-      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -267,18 +267,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Como \u00c9 Que Faz",
-        "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
+        "name": "Sabotagem",
+        "url": "https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N"
       },
       "artists": [
         {
-          "name": "Dogge",
-          "url": "https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF"
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f"
+        },
+        {
+          "name": "Auler",
+          "url": "https://open.spotify.com/artist/7hupw9FnkztTdeFxfgT72m"
         }
       ],
-      "duration_ms": 160747,
-      "name": "Como \u00c9 Que Faz",
-      "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
+      "duration_ms": 166927,
+      "name": "Sabotagem",
+      "url": "https://open.spotify.com/track/1oKeFnoD4jIQ9EiUyW4msF"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -299,22 +303,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Sabotagem",
-        "url": "https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N"
+        "name": "Como \u00c9 Que Faz",
+        "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
       },
       "artists": [
         {
-          "name": "Mavi",
-          "url": "https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f"
-        },
-        {
-          "name": "Auler",
-          "url": "https://open.spotify.com/artist/7hupw9FnkztTdeFxfgT72m"
+          "name": "Dogge",
+          "url": "https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF"
         }
       ],
-      "duration_ms": 166927,
-      "name": "Sabotagem",
-      "url": "https://open.spotify.com/track/1oKeFnoD4jIQ9EiUyW4msF"
+      "duration_ms": 160747,
+      "name": "Como \u00c9 Que Faz",
+      "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "bem vi",
-        "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
-      },
-      "artists": [
-        {
-          "name": "bela",
-          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
-        }
-      ],
-      "duration_ms": 197297,
-      "name": "bem vi",
-      "url": "https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Do Meu Lado",
         "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 151187,
       "name": "Do Meu Lado",
       "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "bem vi",
+        "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
+      },
+      "artists": [
+        {
+          "name": "bela",
+          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
+        }
+      ],
+      "duration_ms": 197297,
+      "name": "bem vi",
+      "url": "https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -611,38 +611,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "tudo que eu fa\u00e7o",
-        "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4",
-          "url": "https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ"
-        }
-      ],
-      "duration_ms": 143766,
-      "name": "tudo que eu fa\u00e7o",
-      "url": "https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
-        "name": "Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
-      },
-      "artists": [
-        {
-          "name": "Malu Azevedo",
-          "url": "https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R"
-        }
-      ],
-      "duration_ms": 201734,
-      "name": "Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Voraz",
         "url": "https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw"
       },
@@ -655,6 +623,22 @@
       "duration_ms": 131123,
       "name": "Voraz",
       "url": "https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "tudo que eu fa\u00e7o",
+        "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4",
+          "url": "https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ"
+        }
+      ],
+      "duration_ms": 143766,
+      "name": "tudo que eu fa\u00e7o",
+      "url": "https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -675,18 +659,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Amor de Sonhos",
-        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
+        "name": "Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
       },
       "artists": [
         {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+          "name": "Malu Azevedo",
+          "url": "https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Amor de Sonhos",
-      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
+      "duration_ms": 201734,
+      "name": "Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -703,6 +687,22 @@
       "duration_ms": 189030,
       "name": "Surrender!",
       "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Amor de Sonhos",
+        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Amor de Sonhos",
+      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Mad\u00e1 (Remix)",
-        "url": "https://open.spotify.com/album/4QZBoZNRwjoBlNmzmFoSS0"
-      },
-      "artists": [
-        {
-          "name": "Davi Cartaxo",
-          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
-        }
-      ],
-      "duration_ms": 205862,
-      "name": "Mad\u00e1 - Remix",
-      "url": "https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "vc \u00e9 uma bagun\u00e7a",
         "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Jacquemus",
-        "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
+        "name": "Mad\u00e1 (Remix)",
+        "url": "https://open.spotify.com/album/4QZBoZNRwjoBlNmzmFoSS0"
       },
       "artists": [
         {
-          "name": "TOLENTINO",
-          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
+          "name": "Davi Cartaxo",
+          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
         }
       ],
-      "duration_ms": 153559,
-      "name": "Jacquemus",
-      "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
+      "duration_ms": 205862,
+      "name": "Mad\u00e1 - Remix",
+      "url": "https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -855,6 +839,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
+        "name": "Jacquemus",
+        "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
+      },
+      "artists": [
+        {
+          "name": "TOLENTINO",
+          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
+        }
+      ],
+      "duration_ms": 153559,
+      "name": "Jacquemus",
+      "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
         "name": "Me Liga",
         "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Fora de S\u00e9rie",
-        "url": "https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30"
-      },
-      "artists": [
-        {
-          "name": "Mari Blue",
-          "url": "https://open.spotify.com/artist/7aBl5vxlbA4Nr4A1pGZgbb"
-        }
-      ],
-      "duration_ms": 198250,
-      "name": "Fora de S\u00e9rie",
-      "url": "https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Meu Mantra pra Te Esquecer",
         "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 233019,
       "name": "Meu Mantra pra Te Esquecer",
       "url": "https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Fora de S\u00e9rie",
+        "url": "https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30"
+      },
+      "artists": [
+        {
+          "name": "Mari Blue",
+          "url": "https://open.spotify.com/artist/7aBl5vxlbA4Nr4A1pGZgbb"
+        }
+      ],
+      "duration_ms": 198250,
+      "name": "Fora de S\u00e9rie",
+      "url": "https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Aquino e a Orquestra Invis\u00edvel",
-        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
-      },
-      "artists": [
-        {
-          "name": "AQUINO",
-          "url": "https://open.spotify.com/artist/36bs3UPyK4QNUJtyFvsBmu"
-        }
-      ],
-      "duration_ms": 173880,
-      "name": "MTV",
-      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "reluz",
         "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Disfar\u00e7a",
-        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
+        "name": "Aquino e a Orquestra Invis\u00edvel",
+        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
       },
       "artists": [
         {
-          "name": "Silveri\u00f4",
-          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
+          "name": "AQUINO",
+          "url": "https://open.spotify.com/artist/36bs3UPyK4QNUJtyFvsBmu"
         }
       ],
-      "duration_ms": 159736,
-      "name": "Disfar\u00e7a",
-      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
+      "duration_ms": 173880,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 191097,
       "name": "Al\u00edvio",
       "url": "https://open.spotify.com/track/0KnIk3stzRxOvb5LPLqmVt"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Disfar\u00e7a",
+        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
+      },
+      "artists": [
+        {
+          "name": "Silveri\u00f4",
+          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
+        }
+      ],
+      "duration_ms": 159736,
+      "name": "Disfar\u00e7a",
+      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
     },
     {
       "added_at": "2024-05-22 08:00:00",

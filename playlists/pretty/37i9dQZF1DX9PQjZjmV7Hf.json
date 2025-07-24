@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 57421,
+  "num_followers": 57436,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 203881,
+      "name": "Close Friends (Lil Baby & Gunna)",
+      "url": "https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Drip Harder",
-        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 203881,
-      "name": "Close Friends (Lil Baby & Gunna)",
-      "url": "https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Wins & Losses",
+        "url": "https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "1942 Flows",
+      "url": "https://open.spotify.com/track/7sLDnUauivS2vN6Z9EfUJT"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 172320,
       "name": "Bacc Seat (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6In6SkveIw26thdYRhHTVX"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Wins & Losses",
-        "url": "https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 282666,
-      "name": "1942 Flows",
-      "url": "https://open.spotify.com/track/7sLDnUauivS2vN6Z9EfUJT"
     },
     {
       "added_at": "2022-10-01 20:14:07",

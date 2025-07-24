@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: JHus x Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,989 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,025 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 16 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 |
 | 17 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 |
 | 18 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 |
-| 19 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 |
+| 19 | [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/track/0aYHK8Wn3Sp04Gjel2vtz3) | [Tim Duzit](https://open.spotify.com/artist/4piDtKqW65wHWGs0TW2T8T) | [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/album/1L3QZIjUTCAx3hRWmo2Mtq) | 1:49 |
 | 20 | [i2SABI](https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [444PLAY](https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT) | 2:34 |
-| 21 | [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/track/0aYHK8Wn3Sp04Gjel2vtz3) | [Tim Duzit](https://open.spotify.com/artist/4piDtKqW65wHWGs0TW2T8T) | [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/album/1L3QZIjUTCAx3hRWmo2Mtq) | 1:49 |
+| 21 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 |
 | 22 | [Indika](https://open.spotify.com/track/23REvMDaoGFRdMKGSVVK5z) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 1:49 |
 | 23 | [Hermano](https://open.spotify.com/track/3jiXyd7yAiExtvvf81Ci4G) | [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Hermano](https://open.spotify.com/album/5WMiWwu5SQGjkDnBt158fo) | 3:12 |
 | 24 | [Vanish Mode](https://open.spotify.com/track/7atWd7Y5eC3aE7fn90xl3y) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 2:03 |

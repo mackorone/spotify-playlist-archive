@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUXjHXjW6lxIxaw6Eyl2r2U9xFNDOr",
+  "snapshot_id": "AAAUYGiy59PlZWTZ+PQD+JoykPxmgbSF",
   "tracks": [
+    {
+      "added_at": "2025-07-23 14:41:43",
+      "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/2XVOVdfrrdE2fMagAdeSPB"
+      },
+      "artists": [
+        {
+          "name": "Merage",
+          "url": "https://open.spotify.com/artist/34cpsw0b9PMy47utxhl0rK"
+        },
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        }
+      ],
+      "duration_ms": 173372,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/1M99D6zMoElMk3BF0wjc4e"
+    },
     {
       "added_at": "2025-07-22 13:50:55",
       "album": {
@@ -1143,42 +1163,6 @@
       "duration_ms": 183428,
       "name": "Follow",
       "url": "https://open.spotify.com/track/6C6Ixhekm3a9jSjpPM3U97"
-    },
-    {
-      "added_at": "2025-04-30 15:52:23",
-      "album": {
-        "name": "Threats",
-        "url": "https://open.spotify.com/album/3v3GWfZZoZyJqDjQ9TijDS"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "Versa",
-          "url": "https://open.spotify.com/artist/7lm6PfYsdEvxXIqA5LaCA3"
-        }
-      ],
-      "duration_ms": 171857,
-      "name": "Threats",
-      "url": "https://open.spotify.com/track/4J9A0BRmF6Blem0EdnqS8e"
-    },
-    {
-      "added_at": "2025-04-29 13:57:38",
-      "album": {
-        "name": "Crystal Cave",
-        "url": "https://open.spotify.com/album/1pdQbefpBh3GisI3fDW59T"
-      },
-      "artists": [
-        {
-          "name": "Dokho",
-          "url": "https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM"
-        }
-      ],
-      "duration_ms": 149374,
-      "name": "Crystal Cave",
-      "url": "https://open.spotify.com/track/5Vu7U8dOSZFfWlLTyPXhUS"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

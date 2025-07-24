@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,571 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,573 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 49 | [Don't Call It Love](https://open.spotify.com/track/6NKOAdHTXONN0IZaekxifN) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Cyan](https://open.spotify.com/album/7hYzoKqAwWkfXQEZ8rXw4h) | 3:18 |
 | 50 | [My Life Is Music \- Jonas Blue Remix](https://open.spotify.com/track/6y9T9t3OKxRGip4L1Ez345) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [The Visionary](https://open.spotify.com/artist/2mjMWOig2tCmJsm198htSs), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [My Life Is Music \(Jonas Blue Remix\)](https://open.spotify.com/album/7yU6y0IozptVKBqZLvPNeP) | 3:15 |
 
-Snapshot ID: `aH2DAAAAAACs2doXhzbwbrbNLjeXc8p8`
+Snapshot ID: `aH7UgAAAAACrK3vZMq7SwBe2Mdf9tMyB`

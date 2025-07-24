@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc7b don't forget to live. IDOLS is out!  Foto: YUNGBLUD",
-  "num_followers": 110982,
+  "num_followers": 110983,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -319,18 +319,22 @@
     {
       "added_at": "2025-07-11 20:58:17",
       "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
+        "name": "III: Lost Chapter",
+        "url": "https://open.spotify.com/album/6jHsnYqSmiMqBvzG8qrYuE"
       },
       "artists": [
         {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+          "name": "Pentakill",
+          "url": "https://open.spotify.com/artist/2qcGTB5s2t9o2w9SrI719s"
+        },
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
         }
       ],
-      "duration_ms": 186306,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
+      "duration_ms": 229333,
+      "name": "Lost Chapter",
+      "url": "https://open.spotify.com/track/207K1MXwebxpXDS43OazOU"
     },
     {
       "added_at": "2025-07-11 20:58:17",
@@ -351,22 +355,18 @@
     {
       "added_at": "2025-07-11 20:58:17",
       "album": {
-        "name": "III: Lost Chapter",
-        "url": "https://open.spotify.com/album/6jHsnYqSmiMqBvzG8qrYuE"
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
       },
       "artists": [
         {
-          "name": "Pentakill",
-          "url": "https://open.spotify.com/artist/2qcGTB5s2t9o2w9SrI719s"
-        },
-        {
-          "name": "Jorn",
-          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Lost Chapter",
-      "url": "https://open.spotify.com/track/207K1MXwebxpXDS43OazOU"
+      "duration_ms": 186306,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
     },
     {
       "added_at": "2025-07-11 20:58:17",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-07-11 20:58:17",
       "album": {
-        "name": "DEADBEAT!",
-        "url": "https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 146677,
-      "name": "SLEEP WHEN I'M DEAD",
-      "url": "https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO"
-    },
-    {
-      "added_at": "2025-07-11 20:58:17",
-      "album": {
         "name": "Three Minutes More",
         "url": "https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 159832,
       "name": "<maybe> it's my fault",
       "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
+    },
+    {
+      "added_at": "2025-07-11 20:58:17",
+      "album": {
+        "name": "DEADBEAT!",
+        "url": "https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 146677,
+      "name": "SLEEP WHEN I'M DEAD",
+      "url": "https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO"
     },
     {
       "added_at": "2025-07-11 20:58:17",

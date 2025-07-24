@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,526 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,793 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 26 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 |
 | 27 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
 | 28 | [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 |
-| 29 | [Kernkraft 400](https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D), [Ken](https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI) | [Kernkraft 400](https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT) | 2:06 |
-| 30 | [Nero](https://open.spotify.com/track/5YPnP3rDlN6ZZuBFm4qLKw) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [HARD POP VOL\. 2](https://open.spotify.com/album/2RqdAgUm2Z7cMNxMjkirFP) | 5:39 |
+| 29 | [Nero](https://open.spotify.com/track/5YPnP3rDlN6ZZuBFm4qLKw) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [HARD POP VOL\. 2](https://open.spotify.com/album/2RqdAgUm2Z7cMNxMjkirFP) | 5:39 |
+| 30 | [Kernkraft 400](https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D), [Ken](https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI) | [Kernkraft 400](https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT) | 2:06 |
 | 31 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
 | 32 | [The Realm](https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [The Realm](https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO) | 5:58 |
 | 33 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 39 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
 | 40 | [Planet XX \- Extended Mix](https://open.spotify.com/track/2t8dxuo4kz49lIXW6NJ3Ss) | [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Planet XX](https://open.spotify.com/album/7CWg0oYwESxCpnDxhkQbx7) | 5:38 |
 | 41 | [No Fear](https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [No Fear](https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz) | 4:12 |
-| 42 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 |
-| 43 | [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 |
+| 42 | [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 |
+| 43 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 |
 | 44 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
 | 45 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 |
 | 46 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 |

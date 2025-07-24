@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Sublime\n",
-  "num_followers": 61904,
+  "num_followers": 61933,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Nice One",
-        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
-      },
-      "artists": [
-        {
-          "name": "Catbite",
-          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Call Your Bluff",
-      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Siempre Fingiste Amarme",
         "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 237527,
       "name": "Siempre Fingiste Amarme",
       "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Nice One",
+        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
+      },
+      "artists": [
+        {
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Call Your Bluff",
+      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
+        "name": "En La Tormenta",
+        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 181870,
+      "name": "Cuando Salga El Sol",
+      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
         "name": "Balkan Boys",
         "url": "https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 225047,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "En La Tormenta",
-        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 181870,
-      "name": "Cuando Salga El Sol",
-      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Class of Nations",
-        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
-      },
-      "artists": [
-        {
-          "name": "The Offenders",
-          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
-        }
-      ],
-      "duration_ms": 191824,
-      "name": "Marchez",
-      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "La Ranchera",
         "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
       },
@@ -1183,22 +1167,34 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Shellshock",
-        "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
       },
       "artists": [
         {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        },
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
         }
       ],
-      "duration_ms": 248370,
-      "name": "Sleepin' on the Couch (with The Elovaters)",
-      "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Rude Station",
+        "url": "https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ"
+      },
+      "artists": [
+        {
+          "name": "Juantxo Skalari & La Rude Band",
+          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Contigo Estar\u00e9 Bien",
+      "url": "https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1219,18 +1215,22 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Rude Station",
-        "url": "https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ"
+        "name": "Shellshock",
+        "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
       },
       "artists": [
         {
-          "name": "Juantxo Skalari & La Rude Band",
-          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
         }
       ],
-      "duration_ms": 192106,
-      "name": "Contigo Estar\u00e9 Bien",
-      "url": "https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin"
+      "duration_ms": 248370,
+      "name": "Sleepin' on the Couch (with The Elovaters)",
+      "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "\u30c8\u30a4\u30c8\u30a4 (feat.\u30e0\u30ed\u30c4\u30e8\u30b7)",
-        "url": "https://open.spotify.com/album/1DfHJUAqMbM18p48ymnyUA"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "\u30e0\u30ed\u30c4\u30e8\u30b7",
-          "url": "https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "\u30c8\u30a4\u30c8\u30a4 - feat.\u30e0\u30ed\u30c4\u30e8\u30b7",
-      "url": "https://open.spotify.com/track/6Q1fVjB5d2zI4r6nWGorFZ"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1451,6 +1431,42 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
+        "name": "\u30c8\u30a4\u30c8\u30a4 (feat.\u30e0\u30ed\u30c4\u30e8\u30b7)",
+        "url": "https://open.spotify.com/album/1DfHJUAqMbM18p48ymnyUA"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "\u30e0\u30ed\u30c4\u30e8\u30b7",
+          "url": "https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "\u30c8\u30a4\u30c8\u30a4 - feat.\u30e0\u30ed\u30c4\u30e8\u30b7",
+      "url": "https://open.spotify.com/track/6Q1fVjB5d2zI4r6nWGorFZ"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Oddities",
+        "url": "https://open.spotify.com/album/1wFH2BLGpj5JKadDOvrwIu"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Money Money Money",
+      "url": "https://open.spotify.com/track/2Pm7eVq4Q5Soeksf7bMkae"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
         "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
         "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 202506,
       "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
       "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "The Sound Of Revolution",
-        "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
-      },
-      "artists": [
-        {
-          "name": "Los Fastidios",
-          "url": "https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9"
-        }
-      ],
-      "duration_ms": 205527,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Oddities",
-        "url": "https://open.spotify.com/album/1wFH2BLGpj5JKadDOvrwIu"
+        "name": "The Sound Of Revolution",
+        "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
       },
       "artists": [
         {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          "name": "Los Fastidios",
+          "url": "https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9"
         }
       ],
-      "duration_ms": 202893,
-      "name": "Money Money Money",
-      "url": "https://open.spotify.com/track/2Pm7eVq4Q5Soeksf7bMkae"
+      "duration_ms": 205527,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba [feat.TAKUMA (10-FEET)]",
-        "url": "https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 303466,
-      "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba - feat.TAKUMA (10-FEET)",
-      "url": "https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Return Of The Ugly",
         "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 182600,
       "name": "Sally Brown",
       "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba [feat.TAKUMA (10-FEET)]",
+        "url": "https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 303466,
+      "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba - feat.TAKUMA (10-FEET)",
+      "url": "https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq"
     }
   ],
   "unique_name": "Ska Around The Globe",

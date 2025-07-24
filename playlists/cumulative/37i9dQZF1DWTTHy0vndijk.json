@@ -3369,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "STAYC Special Single [I WANT IT]",
+        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184984,
+      "name": "I WANT IT",
+      "url": "https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T"
+    },
+    {
+      "album": {
         "name": "Cookie Run: Ovenbreak OST",
         "url": "https://open.spotify.com/album/6ljytTmVpZfg1XFI08prgK"
       },
@@ -6230,7 +6248,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 213426,
       "name": "RUN2U",
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
@@ -6284,7 +6302,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 186558,
       "name": "Season of Memories",
       "url": "https://open.spotify.com/track/7LFwi4RolcCPnVEXXXVfQP"
@@ -7020,7 +7038,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 192040,
       "name": "Summer Was You",
       "url": "https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1"

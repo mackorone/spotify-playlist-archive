@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,649 likes - 305 songs - 16 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,647 likes - 305 songs - 16 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 107 | [Wish You Were Here](https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr) | 3:41 |
 | 108 | [Blinded By Your Grace, Pt\. 2 \(Acoustic\) \[feat\. Wretch 32 & Aion Clarke\]](https://open.spotify.com/track/2ibJZ7u1CIzBfdk0bHX7ZF) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Aion Clarke](https://open.spotify.com/artist/5jVpqdDgnU0s56PrCbsGQg) | [Blinded By Your Grace, Pt\. 2 \(Acoustic\) \[feat\. Wretch 32 & Aion Clarke\]](https://open.spotify.com/album/5nzRT4BvctTmFHzWJsc6Rj) | 3:44 |
 | 109 | [Deeper](https://open.spotify.com/track/5XCJndUuktaxfVruAek3mT) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Deeper](https://open.spotify.com/album/2HhX8FC1y861CrSLMYwQLC) | 4:08 |
-| 110 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
-| 111 | [Caught Up](https://open.spotify.com/track/7lqaw4hj1vy2YYkr6Fn7Lq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:50 |
+| 110 | [Caught Up](https://open.spotify.com/track/7lqaw4hj1vy2YYkr6Fn7Lq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:50 |
+| 111 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
 | 112 | [Cruel](https://open.spotify.com/track/69Q9unT80s08dUolhcgr4T) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [All I Need \(Deluxe Version\)](https://open.spotify.com/album/6fpZzsdzd04nqiDPWnF2iw) | 3:46 |
 | 113 | [HOT](https://open.spotify.com/track/25a7EWpbv4NjeUIP1PN6T1) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [HOT](https://open.spotify.com/album/25stFeSXGr3jAPjDhAFZ3E) | 2:34 |
 | 114 | [Business \(with Ella Eyre\)](https://open.spotify.com/track/419yPCUe8gDok6z8Vwizxh) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:17 |
@@ -168,8 +168,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 158 | [HOT \(with Sean Paul & Flo Milli\) \- Remix](https://open.spotify.com/track/2uPfFGg18EsXxWR8m8I7O5) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [HOT \(Remix\)](https://open.spotify.com/album/5LEpzGrWKZJDfSDd6Xccfp) | 3:25 |
 | 159 | [Feel It Deep Inside](https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Feel It Deep Inside](https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG) | 2:33 |
 | 160 | [Better Together](https://open.spotify.com/track/2PZiLjMVAAL3kO773EpWPT) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Better Together](https://open.spotify.com/album/3hfuNgyB8as3DOvQclFNtT) | 3:37 |
-| 161 | [Overglow](https://open.spotify.com/track/431dLa3HnVrcW6cVdKWe1h) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 3:32 |
-| 162 | [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 |
+| 161 | [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 |
+| 162 | [Overglow](https://open.spotify.com/track/431dLa3HnVrcW6cVdKWe1h) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 3:32 |
 | 163 | [Not for the Radio \(feat\. MNEK\)](https://open.spotify.com/track/1VM5S8JNUysQsSgdoRFsdI) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [YOUTH](https://open.spotify.com/album/0ctfduE1sLhqIjbcFokWvv) | 4:05 |
 | 164 | [Outside](https://open.spotify.com/track/7cjg32GaSbJHsN4Wc26PU0) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/5SCK5p3Rqgg0FwTmAurrcp) | 3:38 |
 | 165 | [Make It Hard To Love You](https://open.spotify.com/track/0cJ19SMVX83SJnNfIjmX8c) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:19 |
@@ -314,4 +314,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 304 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 | 305 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 
-Snapshot ID: `Ab3fNAAAAABDU/9RmRVoj/RQwM3MJIB8`
+Snapshot ID: `Ab3k6AAAAAAkrmWJrNK2l9CFqP5Brhm5`

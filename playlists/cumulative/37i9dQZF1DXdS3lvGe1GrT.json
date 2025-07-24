@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Celebrating 10 years of the best new folk music from independent artists. Cover: Tommy W\u00c1",
+  "description": "Celebrating 10 years of the best new folk music from independent artists. Cover: Cleo Reed",
   "name": "Fresh Finds Folk",
   "tracks": [
     {
@@ -3613,6 +3613,24 @@
     },
     {
       "album": {
+        "name": "bluebird",
+        "url": "https://open.spotify.com/album/0n5VGeSREzMgtPj4yMUN22"
+      },
+      "artists": [
+        {
+          "name": "dog eyes",
+          "url": "https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146906,
+      "name": "bluebird",
+      "url": "https://open.spotify.com/track/6ORmNEQrvN0qhPYg1ZKeNj"
+    },
+    {
+      "album": {
         "name": "Blues and Greens",
         "url": "https://open.spotify.com/album/5UrJpTapfFLGdW95XlYEjc"
       },
@@ -6420,7 +6438,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 261333,
       "name": "Cycling",
       "url": "https://open.spotify.com/track/3wT3a0bxTdVbZMfqnOIWO4"
@@ -6438,7 +6456,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 272200,
       "name": "cypress",
       "url": "https://open.spotify.com/track/4Z9RsUUOjGkSraOB2h8Cbg"
@@ -7584,7 +7602,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 136600,
       "name": "do i belong here?",
       "url": "https://open.spotify.com/track/5NyJRMHMLw8pkte5ISDEAe"
@@ -7624,6 +7642,24 @@
       "duration_ms": 219956,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE"
+    },
+    {
+      "album": {
+        "name": "doctors orders",
+        "url": "https://open.spotify.com/album/6ODDtyLgAln5TDGj4uQrIx"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201706,
+      "name": "doctors orders",
+      "url": "https://open.spotify.com/track/5LdGiYABaflNldSFRzx4jq"
     },
     {
       "album": {
@@ -8168,7 +8204,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 214314,
       "name": "Dungarvan Bay",
       "url": "https://open.spotify.com/track/6WlcQe4KodAuL9UfRQJpLx"
@@ -8276,7 +8312,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 221927,
       "name": "East Coast Summers",
       "url": "https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx"
@@ -9198,7 +9234,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 205384,
       "name": "Faeries",
       "url": "https://open.spotify.com/track/7vrvRfRl59esYrrL6Rg9Z8"
@@ -9588,6 +9624,24 @@
       "duration_ms": 227542,
       "name": "Farmhouse",
       "url": "https://open.spotify.com/track/2h8NGYVcmhtjdXmgYkpftE"
+    },
+    {
+      "album": {
+        "name": "Fast (Demo)",
+        "url": "https://open.spotify.com/album/4u3aHoFQFnSfTyKkw23krp"
+      },
+      "artists": [
+        {
+          "name": "Why Bonnie",
+          "url": "https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146426,
+      "name": "Fast - Demo",
+      "url": "https://open.spotify.com/track/3QXp2e6Nwqfukgfcn24s6p"
     },
     {
       "album": {
@@ -10708,7 +10762,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 154477,
       "name": "Friday On My Mind",
       "url": "https://open.spotify.com/track/3GiGhA6VUi9xPXGUWg1Jds"
@@ -11674,6 +11728,28 @@
       "duration_ms": 189735,
       "name": "Got A Heart Like Rainwater Blues",
       "url": "https://open.spotify.com/track/1SGViBicYWKFWnbChISUeq"
+    },
+    {
+      "album": {
+        "name": "Gown",
+        "url": "https://open.spotify.com/album/76LdvzNH2xn7aBiohbRBrC"
+      },
+      "artists": [
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        },
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195999,
+      "name": "Gown",
+      "url": "https://open.spotify.com/track/7rRXZr2yNxk4HTIIdPfkRe"
     },
     {
       "album": {
@@ -12857,6 +12933,24 @@
     },
     {
       "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/2sX4sczn1o3BQPcmCebyue"
+      },
+      "artists": [
+        {
+          "name": "Shallowater",
+          "url": "https://open.spotify.com/artist/3BV5N0bOmtkavYFUSHsfMQ"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348093,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/4hJQ4YFyYRJ1dLDaPEyyKG"
+    },
+    {
+      "album": {
         "name": "Highway 72",
         "url": "https://open.spotify.com/album/16pRBGPrivw1VoFkFgA5tP"
       },
@@ -13356,6 +13450,24 @@
       "duration_ms": 189738,
       "name": "Hot Water Tap",
       "url": "https://open.spotify.com/track/1ay23RNA6mjw7WkUN11DEl"
+    },
+    {
+      "album": {
+        "name": "Hotel TV",
+        "url": "https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277951,
+      "name": "Hotel TV",
+      "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
     },
     {
       "album": {
@@ -17320,7 +17432,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 194200,
       "name": "Listening to You",
       "url": "https://open.spotify.com/track/5w7hJZLH5gtj352Kf1zT0q"
@@ -18953,6 +19065,24 @@
     },
     {
       "album": {
+        "name": "Mess In Your Eyes // Vultures",
+        "url": "https://open.spotify.com/album/7oC4ROmKGWdEmFSZmAPyeB"
+      },
+      "artists": [
+        {
+          "name": "Ella Ion",
+          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231238,
+      "name": "Mess In Your Eyes",
+      "url": "https://open.spotify.com/track/4MD6izirfGgKzISrvAQToR"
+    },
+    {
+      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/3NDzbsul6n6TAEBNDLqbVL"
       },
@@ -20074,7 +20204,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 221977,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/1zE4WpP1Y7UyrYb5TLWsm9"
@@ -20641,6 +20771,24 @@
     },
     {
       "album": {
+        "name": "Nora",
+        "url": "https://open.spotify.com/album/1l0ull8sq1AbVjLbWdFfqW"
+      },
+      "artists": [
+        {
+          "name": "Case Oats",
+          "url": "https://open.spotify.com/artist/5Ml0QbIoj7bneIUJDCoMx8"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154760,
+      "name": "Nora",
+      "url": "https://open.spotify.com/track/1eXIzLz1Rq9d5vYS1KduPb"
+    },
+    {
+      "album": {
         "name": "A Million Ways to Say the Same Thing",
         "url": "https://open.spotify.com/album/57jG02xbQgODxiqK1xsHl5"
       },
@@ -20886,7 +21034,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 229224,
       "name": "nothing stays the same",
       "url": "https://open.spotify.com/track/1G5BjlSpXHxNYrekbizoqB"
@@ -22504,7 +22652,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 185437,
       "name": "Point and Shoot",
       "url": "https://open.spotify.com/track/0kBKkzdS9m3Pxwy2ozwN1z"
@@ -22864,7 +23012,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 234053,
       "name": "Pretty Eyes Lorraine",
       "url": "https://open.spotify.com/track/3VcNUu5zLCMsE4QrycZTlg"
@@ -24158,6 +24306,24 @@
       "duration_ms": 236826,
       "name": "Sage",
       "url": "https://open.spotify.com/track/5JI37pQfjXSXCk6GbFO8KQ"
+    },
+    {
+      "album": {
+        "name": "Cuntry",
+        "url": "https://open.spotify.com/album/1W2KhzQHJrTNqr4AGfp3pB"
+      },
+      "artists": [
+        {
+          "name": "Cleo Reed",
+          "url": "https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496296,
+      "name": "Salt n' Lime",
+      "url": "https://open.spotify.com/track/4JkjG6bAOrpY8AgTSfoNkD"
     },
     {
       "album": {
@@ -27192,7 +27358,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 290870,
       "name": "Take It On",
       "url": "https://open.spotify.com/track/220i4mwZlOZoUbFt7RpBmo"
@@ -28813,6 +28979,24 @@
     },
     {
       "album": {
+        "name": "the world was big when i was small",
+        "url": "https://open.spotify.com/album/6UfkyKhbccPtJHu0e6QHKp"
+      },
+      "artists": [
+        {
+          "name": "earth 2 tiffany",
+          "url": "https://open.spotify.com/artist/49Kb8axpqkIvmmYbL5Y4Qi"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185320,
+      "name": "the world was big when i was small",
+      "url": "https://open.spotify.com/track/3VCJtAMkNkrS1raVz6zOzY"
+    },
+    {
+      "album": {
         "name": "These Ghosts",
         "url": "https://open.spotify.com/album/1pZAR1QGc0ZC1VZ0RFwZLP"
       },
@@ -29152,7 +29336,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 292806,
       "name": "Tiger",
       "url": "https://open.spotify.com/track/1wOI61XHHGOe73wnpvmj7m"

@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 257293,
+  "num_followers": 257260,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
         "name": "snow globe on an alien's desk",
         "url": "https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Christmas Joy",
-        "url": "https://open.spotify.com/album/6avDqTUUdYbR79ChwhXqsw"
-      },
-      "artists": [
-        {
-          "name": "Henry And The Waiter",
-          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
-        }
-      ],
-      "duration_ms": 141733,
-      "name": "Christmas Joy",
-      "url": "https://open.spotify.com/track/3Rs2Fic9WvAyXhMhzpNsLO"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R"
       },
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+        "name": "Christmas Joy",
+        "url": "https://open.spotify.com/album/6avDqTUUdYbR79ChwhXqsw"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Henry And The Waiter",
+          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
         }
       ],
-      "duration_ms": 128737,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+      "duration_ms": 141733,
+      "name": "Christmas Joy",
+      "url": "https://open.spotify.com/track/3Rs2Fic9WvAyXhMhzpNsLO"
     },
     {
       "added_at": "2024-12-13 04:00:30",

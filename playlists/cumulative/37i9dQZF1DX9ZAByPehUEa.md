@@ -4,7 +4,7 @@
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-629 songs - 1 day 14 hr 5 min
+630 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/track/17QrcVC1RSKFJ9fg2oMN7H) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Freak Me Now \(with Róisín Murphy\) \[Bklava Remix\]](https://open.spotify.com/album/05v6YXgPWPRIJv884rYtfQ) | 3:33 | 2024-01-05 |  |
 | [Free Yourself](https://open.spotify.com/track/7axM6HbfUTu3dXEIWOYcH1) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:54 | 2024-01-05 |  |
 | [Freedom \(Never Let You Go\)](https://open.spotify.com/track/0AobTeawzXgsGlVnmFtIR7) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2) | [Freedom \(Never Let You Go\)](https://open.spotify.com/album/0ds4tb0fPCO9cCR58qpuEQ) | 3:37 | 2022-01-14 | 2022-07-29 |
+| [Funk Forever](https://open.spotify.com/track/2Rae0A8tJrGO9sWQ2p2213) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Funk Forever](https://open.spotify.com/album/6ckX6Ms2262m9qs4C3dk9e) | 3:49 | 2025-07-23 |  |
 | [Funky And You Know It \- Myd Remix](https://open.spotify.com/track/438wzpID8rPiuTcBDtpfFE) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Funky And You Know It \(Myd Remix\)](https://open.spotify.com/album/2vtx99PYX49EtS6WPu9kxX) | 3:03 | 2024-04-12 | 2025-02-04 |
 | [Get 2 Know Ya](https://open.spotify.com/track/73gYSdbsGZDOIXpD72VTvZ) | [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar), [FRASER](https://open.spotify.com/artist/5BflqluOfNQb1hofbNsySr) | [Get 2 Know Ya](https://open.spotify.com/album/3xGQXdPTvIFeinoprJWzsu) | 3:04 | 2025-06-13 |  |
 | [Get Down](https://open.spotify.com/track/34ipfQgRIZbhoj6cS1ALct) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf) | [Get Down](https://open.spotify.com/album/1txMhOhhxpc1qUTusPPU7P) | 2:38 | 2024-03-29 | 2024-04-27 |
@@ -506,7 +507,7 @@
 | [She's A Bad Mama Jama](https://open.spotify.com/track/3zuL8wnCbFPlZ5wH2EFn0P) | [Siân Owen](https://open.spotify.com/artist/3V078Un8f8Q8RPfCM78wA1) | [She's A Bad Mama Jama](https://open.spotify.com/album/2MgqRp7d0yT7fbvHY3RF8t) | 2:24 | 2025-04-25 |  |
 | [She's a Lady \(Disco Mix\)](https://open.spotify.com/track/45eQUenvHhoTUVgRvt7Fai) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [She's a Lady \(Disco Mix\)](https://open.spotify.com/album/7IO47OClgjkDi6qbDUxmjs) | 3:22 | 2024-02-02 | 2024-02-10 |
 | [She's a Lady \(Disco Mix\)](https://open.spotify.com/track/4PkyBwZolHSrkPiBB7418h) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [She's a Lady \(Disco Mix\)](https://open.spotify.com/album/0Hpu0hHFUjcGijSVZTR6Qw) | 3:22 | 2024-02-02 | 2024-02-08 |
-| [She's Mine](https://open.spotify.com/track/6TBOR2XStkWY6sjjp1QIYb) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [She's Mine](https://open.spotify.com/album/2v81LhpbmhMj1HOzqKC2G7) | 3:35 | 2025-05-16 |  |
+| [She's Mine](https://open.spotify.com/track/6TBOR2XStkWY6sjjp1QIYb) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [She's Mine](https://open.spotify.com/album/2v81LhpbmhMj1HOzqKC2G7) | 3:35 | 2025-05-16 | 2025-07-24 |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-12-22 |  |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-05-31 |  |
 | [shinin'](https://open.spotify.com/track/0F6XxydyksTJT8fa4TcgBQ) | [axxa\*](https://open.spotify.com/artist/4MuTo1P8rBfII96fchcoF5) | [Happy to be Here](https://open.spotify.com/album/79o35HAPiZ1fti0wKrt0wm) | 5:02 | 2025-03-14 | 2025-04-12 |

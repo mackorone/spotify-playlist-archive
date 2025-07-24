@@ -2040,7 +2040,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 235092,
       "name": "ANYTHING > HUMAN",
       "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
@@ -7422,7 +7422,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 188512,
       "name": "Did I Say Too Much",
       "url": "https://open.spotify.com/track/4f8dJP5n2xlwMYLWVuLsfS"
@@ -8368,7 +8368,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 160244,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
@@ -21128,6 +21128,24 @@
       "duration_ms": 201341,
       "name": "QWERTY",
       "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
+    },
+    {
+      "album": {
+        "name": "RAGE",
+        "url": "https://open.spotify.com/album/15w0umvukS2W8W4LdsIJQx"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248394,
+      "name": "RAGE",
+      "url": "https://open.spotify.com/track/3wtmfJg7Y59193gisXjdmR"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30ac\u30fc\u30eb\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Girls groups/solo artists shining beyond borders. Cover: aespa",
+  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30ac\u30fc\u30eb\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Girls groups/solo artists shining beyond borders. Cover: STAYC",
   "name": "Stargirl vibes",
   "tracks": [
     {
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 193040,
       "name": "Baby, Not Baby",
       "url": "https://open.spotify.com/track/6nabHsqIYAKS6Nnfuqauw9"
@@ -11493,6 +11493,24 @@
     },
     {
       "album": {
+        "name": "STAYC Special Single [I WANT IT]",
+        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184984,
+      "name": "I WANT IT",
+      "url": "https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T"
+    },
+    {
+      "album": {
         "name": "HEAT",
         "url": "https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m"
       },
@@ -14414,10 +14432,28 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 168786,
       "name": "Lover, Killer",
       "url": "https://open.spotify.com/track/6hg5oTeqzMplrKGiKty0i5"
+    },
+    {
+      "album": {
+        "name": "sweet tang",
+        "url": "https://open.spotify.com/album/464og3a6TdySFWC2hEq1TW"
+      },
+      "artists": [
+        {
+          "name": "ifeye",
+          "url": "https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "loverboy",
+      "url": "https://open.spotify.com/track/4H7mZef7MeCkU2BgsG0lLh"
     },
     {
       "album": {
@@ -16756,7 +16792,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 178026,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/1rTMIstU7GaHqRyYlPrHGd"
@@ -26025,6 +26061,24 @@
     },
     {
       "album": {
+        "name": "Weather Diary",
+        "url": "https://open.spotify.com/album/5bOgWbYz7fo86vNSPmX0wL"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184026,
+      "name": "Weather Diary",
+      "url": "https://open.spotify.com/track/6wviWs78JSuGTNRtc7Dto3"
+    },
+    {
+      "album": {
         "name": "Welcome To MY World (feat. n\u00e6vis)",
         "url": "https://open.spotify.com/album/2o35lokKrBVG73xWFDEVsX"
       },
@@ -26304,6 +26358,24 @@
       "duration_ms": 191853,
       "name": "WHISPER",
       "url": "https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW"
+    },
+    {
+      "album": {
+        "name": "White cat",
+        "url": "https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "White cat",
+      "url": "https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15"
     },
     {
       "album": {

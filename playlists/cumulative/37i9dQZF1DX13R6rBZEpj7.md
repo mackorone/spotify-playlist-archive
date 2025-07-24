@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-327 songs - 19 hr 30 min
+328 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Outside](https://open.spotify.com/track/78mhGfx5ufq5CHGXxMpNFX) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN), [K Dot](https://open.spotify.com/artist/76jXqVvxWJNHFGF5DDkVjb), [Hyperactive World](https://open.spotify.com/artist/1cD4j4ONkF6a7wHQH1HxmJ) | [Outside](https://open.spotify.com/album/6Ef5d2ZDy9gUOJcQyFIJZd) | 1:51 | 2025-06-20 |  |
 | [Over](https://open.spotify.com/track/3hctz1DZDroVD2i26nGtLQ) | [Penfld](https://open.spotify.com/artist/0ZcCXqoqA3t1pJiK3kiFbZ), [Joshua Blu](https://open.spotify.com/artist/1HF6XJU6BW3gu4vL4rxkd5) | [Over / Holding On](https://open.spotify.com/album/6JsTt3BENeBQSdVhEfj5TH) | 4:33 | 2022-11-26 | 2023-11-05 |
 | [Over You](https://open.spotify.com/track/7qm3YjedUCXH2p58VLwUHi) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Over You](https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr) | 3:07 | 2022-04-22 | 2023-12-22 |
-| [Overrated](https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Overrated](https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g) | 3:47 | 2023-08-24 |  |
+| [Overrated](https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Overrated](https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g) | 3:47 | 2023-08-24 | 2025-07-24 |
 | [P.S 2023 \(Bassline Remix\)](https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt) | [Burgaboy](https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda), [Lauren Mason](https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh) | [P.S Remix \(2023\)](https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft) | 3:24 | 2024-03-01 |  |
 | [Party Right](https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Party Right / Snake Charmer](https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx) | 3:36 | 2022-07-14 | 2025-04-27 |
 | [Party Starter \(feat\. Slick Don\)](https://open.spotify.com/track/0zclfRkV2b65rgHJyL80sf) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Seshame Street EP](https://open.spotify.com/album/2Jg5nvzzGeKzulWY9vC3u6) | 3:01 | 2024-04-05 | 2025-04-27 |
@@ -293,6 +293,7 @@
 | [Take Me](https://open.spotify.com/track/5x7FItoIkhDAAH0E3sZA3c) | [Pyrate](https://open.spotify.com/artist/7BIp16JztBSnvYceUedF0o) | [Take Me](https://open.spotify.com/album/4FuLhNgsflh3RNznQljG6p) | 3:43 | 2022-04-22 | 2022-07-21 |
 | [Take Me as I Am \- Holy Goof Remix](https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Take Me as I Am](https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc) | 3:11 | 2022-04-15 | 2024-01-05 |
 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 | 2025-02-21 |  |
+| [Talk That Talk](https://open.spotify.com/track/7goNyEd2JCqUkc402Z9VEL) | [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [Movada](https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp) | [Talk That Talk](https://open.spotify.com/album/44NN2OVBa6INT664H1B2PQ) | 2:19 | 2025-07-03 |  |
 | [Talk to Me Nice](https://open.spotify.com/track/5Szg2d8qKYke3PXmiW5jPF) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Talk to Me Nice](https://open.spotify.com/album/7pj8cEsl1Na2QmndvovNMe) | 3:18 | 2023-12-22 | 2024-03-11 |
 | [That's My Shit](https://open.spotify.com/track/0V3mQisaCvNV2EOxn1N29C) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [That's My Shit](https://open.spotify.com/album/15C7YUmMrXy00kJB4Rlp5V) | 1:55 | 2023-12-22 | 2024-09-13 |
 | [The Feeling](https://open.spotify.com/track/1O6etlhQyBRj72rNJYhZye) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [The Feeling](https://open.spotify.com/album/0Dp87gJ8DtX815dX4JqdY5) | 4:59 | 2022-04-15 | 2022-07-14 |

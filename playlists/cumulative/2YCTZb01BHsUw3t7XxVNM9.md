@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-502 songs - 1 day 10 hr 54 min
+503 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [ICEBLAST](https://open.spotify.com/track/5IXrCcv5epBC2b3LKmyROC) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Filthy](https://open.spotify.com/artist/2MKQpQHZ3OsTKUEzR0DAcT) | [THE PSYCHO BLAST Vol.3](https://open.spotify.com/album/03PTxUquPm3nwuaIZzmsX4) | 3:35 | 2019-02-03 |  |
 | [Identity Crisis](https://open.spotify.com/track/4Y3Oi7HIlz0Yykl6BsAe3H) | [6th](https://open.spotify.com/artist/1OC1dqSbe6zNiv0NBtODX1) | [JAPANESE STREAM HARDCORE VOL.7](https://open.spotify.com/album/1leIzjC3IG0jIxQlGC3W1e) | 5:03 | 2019-02-03 |  |
 | [Idiot](https://open.spotify.com/track/4GYA4TIkbJbblzRSUpw9sF) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Idiot](https://open.spotify.com/album/1V0yIEWS8VwNcXNiEL15fX) | 2:40 | 2022-11-04 |  |
+| [IGNITE](https://open.spotify.com/track/4Db7S2wX2niEZ8aIoqkzhy) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [IGNITE](https://open.spotify.com/album/5DFjJ4r8PbfXp6R9XsWmLS) | 2:36 | 2025-07-23 |  |
 | [Ill](https://open.spotify.com/track/5d1Obp93SU4aTg8zpmfHd1) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [MEGATON KICK 2](https://open.spotify.com/album/46TuWgh4sLLat0ldTyIHlG) | 3:07 | 2021-01-12 |  |
 | [In My Life](https://open.spotify.com/track/5j2sp1KcxgA7dNCWOidrqr) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [Rhyming Sun \-Hommarju Side\-](https://open.spotify.com/album/5CtrLjnq2QZyvPFBVFNHOG) | 3:59 | 2020-03-06 |  |
 | [In Silence](https://open.spotify.com/track/6Ed1jkDeI4MXn2RB31wNEn) | [Dischord](https://open.spotify.com/artist/5Em1ub39trbmoJ4nRYM8vS) | [Japanese Stream Hardcore Vol.9](https://open.spotify.com/album/2P3kBlX0Sma19x7Zq3kUkA) | 3:43 | 2019-02-15 |  |

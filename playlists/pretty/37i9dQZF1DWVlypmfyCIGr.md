@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: きゃりーぱみゅぱみゅ
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,032 likes - 81 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,035 likes - 81 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

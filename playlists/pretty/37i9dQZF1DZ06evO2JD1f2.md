@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,880 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,883 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 24 | [30 Boppa](https://open.spotify.com/track/3JF5uKi0M1RPLnji4QAQMO) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:32 |
 | 25 | [Take my time Geeski SH Feb 23](https://open.spotify.com/track/4cJx4c5R3ZpegG6fq1pFPC) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:54 |
 | 26 | [DEATH BEFORE DISHONOR](https://open.spotify.com/track/4DR2F9HEucYO4Z6XJC0I67) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [INTRUSIVE THOUGHTS](https://open.spotify.com/album/0tjWYspyQvDrgVk4ExxCKX) | 3:12 |
-| 27 | [I THINK \(FEAT\. LIL BABY\)](https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:25 |
+| 27 | [Lick Back Remix \(feat\. Future & Young Thug\)](https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:13 |
 | 28 | [Opinion Base](https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:26 |
 | 29 | [Tug of War March17](https://open.spotify.com/track/5Ol3Ltzg948mZyNVSacwhx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:37 |
-| 30 | [Lick Back Remix \(feat\. Future & Young Thug\)](https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:13 |
+| 30 | [I THINK \(FEAT\. LIL BABY\)](https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:25 |
 | 31 | [CHICKENS \(feat\. EST Gee\)](https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:15 |
 | 32 | [Water Zips \(feat\. Kevin Gates\)](https://open.spotify.com/track/3ckPCrtxs4XEiQ4YFvdirx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 3:02 |
 | 33 | [What Im On Now v1 oct15](https://open.spotify.com/track/0wAiy4PRzYJiytL3kYrzhG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 49 | [Since When \(feat\. EST Gee\)](https://open.spotify.com/track/7It1USqre8TEwwsp8SDXks) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 3:02 |
 | 50 | [Capitol 1](https://open.spotify.com/track/2MI2Mm4Sfnvz41hJkKZEhK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:21 |
 
-Snapshot ID: `aH2DAAAAAADaGXnTFXxSvSIZUVLS0v98`
+Snapshot ID: `aH7UgAAAAAAeGLPsRHEUA97OnbiU/abI`

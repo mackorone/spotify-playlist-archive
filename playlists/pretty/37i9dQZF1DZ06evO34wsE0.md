@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,296 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,317 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 18 | [Honey, I'm Home](https://open.spotify.com/track/6wVQwC2P8K4e3poaJ6ieRh) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:34 |
 | 19 | [Up!](https://open.spotify.com/track/4dIrj82d70x7vGmUxTyOYC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 2:52 |
 | 20 | [Party For Two \- Country Version With Intro](https://open.spotify.com/track/2jGUPNSCOkqiX6yRnAoO8w) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Shania: The Queen Of Country Pop](https://open.spotify.com/album/0Lyu4QtTnVUC7vVycP5l4J) | 3:32 |
-| 21 | [Man! I Feel Like A Woman! \- Real Hypha Remix](https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Real Hypha](https://open.spotify.com/artist/4nuduAqGulo8ekf0ufrpIC) | [Man! I Feel Like A Woman! \(Real Hypha Remix\)](https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI) | 2:56 |
+| 21 | [\(If You're Not In It For Love\) I'm Outta Here!](https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:30 |
 | 22 | [Don't Be Stupid \(You Know I Love You\)](https://open.spotify.com/track/6qHg6trMgxUz7TuAgc4gnC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:34 |
-| 23 | [\(If You're Not In It For Love\) I'm Outta Here!](https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:30 |
+| 23 | [Man! I Feel Like A Woman! \- Real Hypha Remix](https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Real Hypha](https://open.spotify.com/artist/4nuduAqGulo8ekf0ufrpIC) | [Man! I Feel Like A Woman! \(Real Hypha Remix\)](https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI) | 2:56 |
 | 24 | [When You Kiss Me](https://open.spotify.com/track/1BA3xgTr3U6fMT4UwlRgwH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 4:06 |
-| 25 | [Dance With The One That Brought You](https://open.spotify.com/track/0XIsMMHjiqpXi4BUV1695T) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Shania Twain](https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz) | 2:24 |
-| 26 | [Waking Up Dreaming](https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Waking Up Dreaming](https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn) | 3:18 |
-| 27 | [The Woman In Me \(Needs The Man In You\)](https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:49 |
+| 25 | [The Woman In Me \(Needs The Man In You\)](https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:49 |
+| 26 | [Dance With The One That Brought You](https://open.spotify.com/track/0XIsMMHjiqpXi4BUV1695T) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Shania Twain](https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz) | 2:24 |
+| 27 | [Waking Up Dreaming](https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Waking Up Dreaming](https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn) | 3:18 |
 | 28 | [Ka\-Ching!](https://open.spotify.com/track/6gFKCSEfGAb8kmXumYkpmh) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 3:20 |
 | 29 | [Boots Don't](https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:28 |
 | 30 | [What Made You Say That \- Single Version](https://open.spotify.com/track/2ITLIytT1VERgqERFU9bG4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Shania Twain](https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 49 | [She's Not Just A Pretty Face \- Red Version](https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 3:49 |
 | 50 | [Not Just A Girl](https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Not Just A Girl \(The Highlights\)](https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS) | 3:11 |
 
-Snapshot ID: `aH2DAAAAAAC3Y0A5ttXZw0TO1jKh819s`
+Snapshot ID: `aH7UgAAAAAA8cQT0Z0wnAA//Cf2YD8sk`

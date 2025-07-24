@@ -1,6 +1,6 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 3988716,
+  "num_followers": 3988567,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 242652,
-      "name": "listen before i go",
-      "url": "https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 347226,
       "name": "Marvins Room",
       "url": "https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 242652,
+      "name": "listen before i go",
+      "url": "https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Slow Dancing in a Burning Room",
-      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "lovestrong.",
         "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 246587,
       "name": "jar of hearts",
       "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Slow Dancing in a Burning Room",
+      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 210863,
       "name": "Forever",
       "url": "https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 227031,
+      "name": "drunk",
+      "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 210160,
       "name": "Purpose",
       "url": "https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Twelve Carat Toothache (Deluxe)",
-        "url": "https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Waiting For Never",
-      "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+        "name": "Twelve Carat Toothache (Deluxe)",
+        "url": "https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 227031,
-      "name": "drunk",
-      "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
+      "duration_ms": 196986,
+      "name": "Waiting For Never",
+      "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
+        "name": "My Dear Melancholy,",
+        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 256799,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
+      "duration_ms": 170573,
+      "name": "Privilege",
+      "url": "https://open.spotify.com/track/0Nwar8rweBUyfyuoyjjUvk"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "My Dear Melancholy,",
-        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 170573,
-      "name": "Privilege",
-      "url": "https://open.spotify.com/track/0Nwar8rweBUyfyuoyjjUvk"
+      "duration_ms": 256799,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "blame's on me",
-        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 138374,
-      "name": "blame's on me",
-      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "In My Veins (Feat. Erin Mccarley)",
         "url": "https://open.spotify.com/album/0Lg8NjaKFHSdsuDM6l58JZ"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 318908,
       "name": "In My Veins - Feat. Erin Mccarley",
       "url": "https://open.spotify.com/track/7LwGBxB0h0CVmkOZxYKn0g"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "blame's on me",
+        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 138374,
+      "name": "blame's on me",
+      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2559,6 +2559,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Favourite Ex",
+        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 201694,
+      "name": "Favourite Ex",
+      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "that way (with Jeremy Zucker)",
         "url": "https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs"
       },
@@ -2591,22 +2607,6 @@
       "duration_ms": 214525,
       "name": "Paper Houses",
       "url": "https://open.spotify.com/track/1hJ6KojJObbRvjuVj8Ezya"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Favourite Ex",
-        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 201694,
-      "name": "Favourite Ex",
-      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3071,22 +3071,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "Give Me Something",
-      "url": "https://open.spotify.com/track/1au9q3wiWxIwXTazIjHdfF"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "When Scars Become Art II",
         "url": "https://open.spotify.com/album/4rhFfl7HLvinrnl8u7eVVD"
       },
@@ -3103,6 +3087,22 @@
       "duration_ms": 252096,
       "name": "When Scars Become Art II",
       "url": "https://open.spotify.com/track/1cASy7TwuNBB0e6KXydoFr"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "Give Me Something",
+      "url": "https://open.spotify.com/track/1au9q3wiWxIwXTazIjHdfF"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3159,22 +3159,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Soul,PRESENT",
-        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 241666,
-      "name": "TODAY",
-      "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
       },
@@ -3187,6 +3171,22 @@
       "duration_ms": 198897,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 241666,
+      "name": "TODAY",
+      "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3207,22 +3207,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "OFF",
-        "url": "https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf"
-      },
-      "artists": [
-        {
-          "name": "Saint clara",
-          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
-        }
-      ],
-      "duration_ms": 159885,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/2MDw2DwUDTAhexLMREWsYW"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "English Rain",
         "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
       },
@@ -3235,6 +3219,22 @@
       "duration_ms": 181400,
       "name": "Please Don't Say You Love Me",
       "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "OFF",
+        "url": "https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf"
+      },
+      "artists": [
+        {
+          "name": "Saint clara",
+          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
+        }
+      ],
+      "duration_ms": 159885,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/2MDw2DwUDTAhexLMREWsYW"
     },
     {
       "added_at": "2024-05-22 11:00:00",

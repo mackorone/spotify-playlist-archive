@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402 likes - 25 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 403 likes - 25 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 24 | [Joni](https://open.spotify.com/track/3TBCjahLhF8sNJWqoKj0zE) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 3:50 |
 | 25 | [Because of Me](https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 3:02 |
 
-Snapshot ID: `aH2DAAAAAAB+B+6X5R/9dXy8rK+WtUae`
+Snapshot ID: `aH7UgAAAAADIsJovualdT3NE8XnGltPV`

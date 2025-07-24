@@ -928,7 +928,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 180705,
       "name": "PAC ENERGY",
       "url": "https://open.spotify.com/track/2F0Qd8nw6Se27I24tz5ZHo"
@@ -1053,6 +1053,28 @@
     },
     {
       "album": {
+        "name": "Thug Brothers 3",
+        "url": "https://open.spotify.com/album/7AR4zvTtBpjKY1Xo32q59i"
+      },
+      "artists": [
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64128,
+      "name": "Rap God",
+      "url": "https://open.spotify.com/track/6bDCSfBOCbHgJq3Tv7RQjW"
+    },
+    {
+      "album": {
         "name": "Outlaw University",
         "url": "https://open.spotify.com/album/5CIusXHEtiDOQfAuFYwwBA"
       },
@@ -1068,7 +1090,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 221335,
       "name": "Reason to Shine (feat. Kastro)",
       "url": "https://open.spotify.com/track/43S8K37dRVWUdlqCpWtCwS"
@@ -1216,7 +1238,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 227925,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/5kFV2qrbtsBjIsNNeT2LQk"

@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 167896,
+  "num_followers": 167905,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAACrgBJGc+wNr3u5/IZjLKm0",
+  "snapshot_id": "aH7UgAAAAADTYQU3e0B41K6ne85HQa3g",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 170306,
       "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
       "url": "https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
+        "url": "https://open.spotify.com/album/1Tc0vAB7kwtlaZuQTU3ejL"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 170306,
+      "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
+      "url": "https://open.spotify.com/track/6HsYZJccdcXrF7WrWzKunE"
     },
     {
       "added_at": null,
@@ -167,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SCOPE",
-        "url": "https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 175022,
-      "name": "SCOPE",
-      "url": "https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleepless Nights",
         "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
       },
@@ -195,6 +195,22 @@
       "duration_ms": 252226,
       "name": "\u661f\u5c51\u30d3\u30fc\u30ca\u30b9",
       "url": "https://open.spotify.com/track/1CAhaSy2odeJoPIkFndCIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SCOPE",
+        "url": "https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 175022,
+      "name": "SCOPE",
+      "url": "https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX"
     },
     {
       "added_at": null,
@@ -415,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u6b8b\u97ff\u6563\u6b4c / \u671d\u304c\u6765\u308b",
+        "url": "https://open.spotify.com/album/1s8HOhHuEKwj4LUnnL2lJI"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 91000,
+      "name": "\u6b8b\u97ff\u6563\u6b4c -TV ver.-",
+      "url": "https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sun Dance",
         "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
       },
@@ -431,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6b8b\u97ff\u6563\u6b4c / \u671d\u304c\u6765\u308b",
-        "url": "https://open.spotify.com/album/1s8HOhHuEKwj4LUnnL2lJI"
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
       },
       "artists": [
         {
@@ -440,9 +472,25 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 91000,
-      "name": "\u6b8b\u97ff\u6563\u6b4c -TV ver.-",
-      "url": "https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0"
+      "duration_ms": 305386,
+      "name": "\u6625\u306f\u3086\u304f",
+      "url": "https://open.spotify.com/track/2rizK3oastlZwyoYwrcLgC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 338173,
+      "name": "\u516d\u7b49\u661f\u306e\u591c",
+      "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
     },
     {
       "added_at": null,
@@ -467,38 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleepless Nights",
-        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 338173,
-      "name": "\u516d\u7b49\u661f\u306e\u591c",
-      "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walpurgis",
-        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 305386,
-      "name": "\u6625\u306f\u3086\u304f",
-      "url": "https://open.spotify.com/track/2rizK3oastlZwyoYwrcLgC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
         "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 215490,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sun Dance",
         "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 328493,
       "name": "ONE",
       "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 215490,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep down",
-        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 227146,
-      "name": "Deep down",
-      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
         "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
       },
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SCOPE",
-        "url": "https://open.spotify.com/album/4argo68WyfT6dGHp2ETKpm"
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 294600,
-      "name": "\u3084\u3055\u3057\u3044\u821e\u8e0f\u4f1a",
-      "url": "https://open.spotify.com/track/1DSxhNf742bhxJzfhDuygH"
+      "duration_ms": 227146,
+      "name": "Deep down",
+      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
     }
   ],
   "unique_name": "This Is Aimer",

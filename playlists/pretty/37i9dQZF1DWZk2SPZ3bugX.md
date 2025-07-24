@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,950 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,037 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 24 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 |
 | 25 | [Get Fly \(I Wanna\)](https://open.spotify.com/track/1VmbST2OSjglP9kbMk90dN) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Cristal Medium Blue](https://open.spotify.com/album/5wOsAojJKCvanW8gkgjVxC) | 4:46 |
 | 26 | [DIVA / بنت الذهبية](https://open.spotify.com/track/7wqAv7JmsEmIcxJ2Tdwiaq) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Love Letters / رسائل حب](https://open.spotify.com/album/7CBui2zfZ08ZbpdVnBfpUr) | 2:56 |
-| 27 | [Ipanema \(Cafuné\)](https://open.spotify.com/track/71lC5og1dZKT8gcl1WkMnc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [DIÁSPORA](https://open.spotify.com/album/3cbqI0ZeOCBcNeECWz0Iz8) | 3:35 |
+| 27 | [Ipanema \(Cafuné\)](https://open.spotify.com/track/71lC5og1dZKT8gcl1WkMnc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [DIÁSPORA](https://open.spotify.com/album/3cbqI0ZeOCBcNeECWz0Iz8) | 3:33 |
 | 28 | [Bossa Supernova](https://open.spotify.com/track/5OaX0qy9jy6cDerIpMQF4o) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Bossa Supernova](https://open.spotify.com/album/5x7YwAgcrxksduNQwllHZf) | 3:12 |
 | 29 | [Caroline \(Hold Tight\)](https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Come in, We're Open !](https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH) | 3:51 |
 | 30 | [Storm \(Edit\)](https://open.spotify.com/track/3EqtgULem9Ta7wEWBRgzOm) | [Sam Benaroya](https://open.spotify.com/artist/5QR1e164DAoLhJQkiNZcDi) | [Storm \(Edit\)](https://open.spotify.com/album/7gcMSD0odngjCS8u4Tz34y) | 5:21 |

@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks, via the South of Africa\. Cover: <a href="https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB?si=dsgp5IquSnqmaQoKBox7Yg">Alex Warren</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,159 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,223 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 |
-| 2 | [Runner](https://open.spotify.com/track/6K566wKOjEE5YNcWztHtnJ) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Runner](https://open.spotify.com/album/4guZ1Kq4wUJB9soOCFIPbv) | 3:21 |
-| 3 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
-| 4 | [Sunshine](https://open.spotify.com/track/7zkRbkeXRq1i8ldQt5Zwsk) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Sunshine](https://open.spotify.com/album/0AVlwvNZRfTBKuSYFWpsHE) | 3:00 |
-| 5 | [drive](https://open.spotify.com/track/1q3Yd6kPtd9byxquiedaob) | [jessica\-ann](https://open.spotify.com/artist/29PuEgWgOAYlJcqxPHI75s) | [drive](https://open.spotify.com/album/0i7tTvMVjPdA6G7Y0fCjiX) | 2:58 |
-| 6 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 |
-| 7 | [All My Life](https://open.spotify.com/track/6yzVzHBnGB0XrXTDnFj9DO) | [Matt Gardiner](https://open.spotify.com/artist/1LBEtmJ1MsBzkFl5kV9pR6) | [Last Call for Departure](https://open.spotify.com/album/1FICMlSuiIlynWxQ1CPzHR) | 2:55 |
-| 8 | [Stranger](https://open.spotify.com/track/0cyaM03rObPwVIyi6FPYSn) | [Benjamin Fisher](https://open.spotify.com/artist/6FT60wBgd1m4UGh219yV3Y) | [Stranger](https://open.spotify.com/album/4KQmN2Y1rISbRvSMC4TIUN) | 3:14 |
-| 9 | [Smothered By U](https://open.spotify.com/track/4qWkKXLmejLhXuWLHE0DqH) | [Mikhaela Faye](https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7) | [Smothered By U](https://open.spotify.com/album/26m82FM7HSpDO98eWr11p4) | 2:42 |
-| 10 | [1965](https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:48 |
+| 1 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
+| 2 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 |
+| 3 | [Runner](https://open.spotify.com/track/6K566wKOjEE5YNcWztHtnJ) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Runner](https://open.spotify.com/album/4guZ1Kq4wUJB9soOCFIPbv) | 3:21 |
+| 4 | [Stranger](https://open.spotify.com/track/0cyaM03rObPwVIyi6FPYSn) | [Benjamin Fisher](https://open.spotify.com/artist/6FT60wBgd1m4UGh219yV3Y) | [Stranger](https://open.spotify.com/album/4KQmN2Y1rISbRvSMC4TIUN) | 3:14 |
+| 5 | [Sunshine](https://open.spotify.com/track/7zkRbkeXRq1i8ldQt5Zwsk) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Sunshine](https://open.spotify.com/album/0AVlwvNZRfTBKuSYFWpsHE) | 3:00 |
+| 6 | [1965](https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:48 |
+| 7 | [drive](https://open.spotify.com/track/1q3Yd6kPtd9byxquiedaob) | [jessica\-ann](https://open.spotify.com/artist/29PuEgWgOAYlJcqxPHI75s) | [drive](https://open.spotify.com/album/0i7tTvMVjPdA6G7Y0fCjiX) | 2:58 |
+| 8 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 |
+| 9 | [All My Life](https://open.spotify.com/track/6yzVzHBnGB0XrXTDnFj9DO) | [Matt Gardiner](https://open.spotify.com/artist/1LBEtmJ1MsBzkFl5kV9pR6) | [Last Call for Departure](https://open.spotify.com/album/1FICMlSuiIlynWxQ1CPzHR) | 2:55 |
+| 10 | [I Can Die Now](https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA) | 2:51 |
 | 11 | [Disclaimers](https://open.spotify.com/track/6Xud06iIBNW1G0tK0u9Kuu) | [Matthew Charles](https://open.spotify.com/artist/5OiA1f8EAMCEMLFNKOQEJp) | [Disclaimers](https://open.spotify.com/album/6Pg9J96qP7KUYEA6eHl5H4) | 1:53 |
-| 12 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 |
-| 13 | [BURN WITH YOU](https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [BURN WITH YOU](https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY) | 2:54 |
-| 14 | [Superman](https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Superman](https://open.spotify.com/album/50FjwV4STrHP5aHLRAye4P) | 3:08 |
-| 15 | [In My Head](https://open.spotify.com/track/4U8GFpi3saOejbrFJT4IPN) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [My Island](https://open.spotify.com/album/6hPCjgkiYWt81n4qUmedX2) | 2:22 |
+| 12 | [Smothered By U](https://open.spotify.com/track/4qWkKXLmejLhXuWLHE0DqH) | [Mikhaela Faye](https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7) | [Smothered By U](https://open.spotify.com/album/26m82FM7HSpDO98eWr11p4) | 2:42 |
+| 13 | [In My Head](https://open.spotify.com/track/4U8GFpi3saOejbrFJT4IPN) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [My Island](https://open.spotify.com/album/6hPCjgkiYWt81n4qUmedX2) | 2:22 |
+| 14 | [BURN WITH YOU](https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [BURN WITH YOU](https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY) | 2:54 |
+| 15 | [Why Is She Still Here?](https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Why Is She Still Here?](https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq) | 2:30 |
 | 16 | [I Can’t Lose](https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Can't Lose](https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ) | 3:03 |
-| 17 | [I Can Die Now](https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA) | 2:51 |
-| 18 | [Why Is She Still Here?](https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Why Is She Still Here?](https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq) | 2:30 |
+| 17 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 |
+| 18 | [Superman](https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Superman](https://open.spotify.com/album/50FjwV4STrHP5aHLRAye4P) | 3:08 |
 | 19 | [Morning Light](https://open.spotify.com/track/46XLSMbxnqRAoFTk58lxth) | [David Derman](https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A) | [Morning Light](https://open.spotify.com/album/3hJwsPCotapOCH13w0OD9N) | 3:00 |
 | 20 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
 | 21 | [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 49 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 50 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
 
-Snapshot ID: `aH9l0gAAAADMG/66mBTjq8HjAbdieTED`
+Snapshot ID: `aIEMdwAAAAChX+K6Vb1MEhunTNlLANdm`

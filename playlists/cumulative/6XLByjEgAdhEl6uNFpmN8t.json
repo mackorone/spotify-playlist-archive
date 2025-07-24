@@ -1799,6 +1799,28 @@
     },
     {
       "album": {
+        "name": "SZ\u00c1MLAK\u00c9PES CSAJOK",
+        "url": "https://open.spotify.com/album/6O1WCKUAizm4thqp0yA1NH"
+      },
+      "artists": [
+        {
+          "name": "JANA",
+          "url": "https://open.spotify.com/artist/3sVMPCOGrvv6saKNwgMiQd"
+        },
+        {
+          "name": "PEAK",
+          "url": "https://open.spotify.com/artist/3zpUJqZcnKyX8FSpbAS0FS"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "SZ\u00c1MLAK\u00c9PES CSAJOK",
+      "url": "https://open.spotify.com/track/693MKbwdGPRXWbCyhbUd3s"
+    },
+    {
+      "album": {
         "name": "Egyed\u00fcl a s\u00f6t\u00e9tben",
         "url": "https://open.spotify.com/album/5r3kAKa7EP0BnAzIvQN3kt"
       },

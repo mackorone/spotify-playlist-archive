@@ -1,6 +1,6 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1995,
+  "num_followers": 1994,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
@@ -329,22 +329,6 @@
       "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "The Amazing Ames Brothers",
-        "url": "https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP"
-      },
-      "artists": [
-        {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
-        }
-      ],
-      "duration_ms": 179146,
-      "name": "Undecided",
-      "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
-    },
-    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "The Anthology: 1931 - 1968",
@@ -359,6 +343,22 @@
       "duration_ms": 168600,
       "name": "Nevertheless (I'm In Love With You)",
       "url": "https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "The Amazing Ames Brothers",
+        "url": "https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -415,22 +415,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Best Of The Ames",
-        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
-      },
-      "artists": [
-        {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
-        }
-      ],
-      "duration_ms": 166520,
-      "name": "Rag Mop",
-      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
         "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 157826,
       "name": "Ain't Gonna Worry 'Bout a Soul",
       "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Best Of The Ames",
+        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "duration_ms": 166520,
+      "name": "Rag Mop",
+      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
     },
     {
       "added_at": "2020-08-17 22:49:59",

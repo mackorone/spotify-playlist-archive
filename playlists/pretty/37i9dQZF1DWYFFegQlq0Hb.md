@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 
 > Enjoy music and podcast from Jujutsu Kaisen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,578 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,629 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 | 96 | [時間外労働](https://open.spotify.com/track/7kiql8ZPxOzlLzi0vfPCcF) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [TVアニメ『呪術廻戦』オリジナル･サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 2:09 |
 | 97 | [自閉円頓裹](https://open.spotify.com/track/1YUQYvNoFuOqqGY0ucr0vI) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [TVアニメ『呪術廻戦』オリジナル･サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 1:52 |
 | 98 | [虚式「茈」](https://open.spotify.com/track/1BO2xCMHbWzjNrLXM8V7zv) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [TVアニメ『呪術廻戦』オリジナル･サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 3:52 |
-| 99 | [REMEMBER](https://open.spotify.com/track/3zQfJvpdIOPxGLu3NR9zy4) | [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8), [coladrain](https://open.spotify.com/artist/4qLXYL3mOJD057YL4puyU4), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ『呪術廻戦』オリジナル･サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 4:03 |
+| 99 | [REMEMBER](https://open.spotify.com/track/3zQfJvpdIOPxGLu3NR9zy4) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ), [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8) | [TVアニメ『呪術廻戦』オリジナル･サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 4:03 |
 | 100 | [痛み](https://open.spotify.com/track/4MCM5UJS4nVBCPPGjRKS0W) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ『呪術廻戦』オリジナル･サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 1:46 |
 
 Snapshot ID: `aDh2egAAAAD2UGXel56BbFuWHwu0jJ4T`

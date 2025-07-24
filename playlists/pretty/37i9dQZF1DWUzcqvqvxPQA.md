@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Sun's out...and so are you!  Let these inspirational and faith\-filled songs soundtrack your summer fun!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,610 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,626 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 31 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 |
 | 32 | [Koolaid](https://open.spotify.com/track/2VT2WRmWPN4Be318KrdFDo) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Koolaid](https://open.spotify.com/album/0di8Gum7drHw1FPmniZRvr) | 3:00 |
 | 33 | [Safety](https://open.spotify.com/track/2gEJF2jsnb6yqTCuy34weW) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Safety](https://open.spotify.com/album/6BlJe0bwOzQAS9oAb9nW88) | 3:07 |
-| 34 | [Give It All](https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Give It All](https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc) | 2:54 |
-| 35 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 |
+| 34 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 |
+| 35 | [Give It All](https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Give It All](https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc) | 2:54 |
 | 36 | [Not For You](https://open.spotify.com/track/0yuBiPxOKOe4jYbOzSe92t) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [Not For You](https://open.spotify.com/album/3TyG2ACkY0lJ9LWcKjTnKW) | 2:13 |
 | 37 | [Wildflowers](https://open.spotify.com/track/4q8AWVVk5OB1Xz9vNoBn5h) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Wildflowers](https://open.spotify.com/album/5EMVa6j7qhA6t2C4bsTkbJ) | 3:14 |
 | 38 | [Eva Comin' Down](https://open.spotify.com/track/4HBtGUZWkoUPd75SlF7sCk) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Without Jesus / Eva Comin' Down](https://open.spotify.com/album/5tIMJfn9DDLPy8KQpbSBwz) | 2:40 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 52 | [Abacus](https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Abacus](https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1) | 2:03 |
 | 53 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
 | 54 | [Ancient of Days \(reimagined\)](https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Matias Ruiz](https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm) | [Ancient of Days \(reimagined\)](https://open.spotify.com/album/6n5HgfPa0riif5Lex5n7nm) | 4:01 |
-| 55 | [Made for This](https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Made for This](https://open.spotify.com/album/2VnFANcVDx873wRkZaiuDc) | 3:03 |
-| 56 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
+| 55 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
+| 56 | [Made for This](https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Made for This](https://open.spotify.com/album/2VnFANcVDx873wRkZaiuDc) | 3:03 |
 | 57 | [Hold On Me](https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Hold On Me](https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6) | 2:52 |
 | 58 | [Tee It Up](https://open.spotify.com/track/5lbEEcGksMwi4ztAqCvvtA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Tee It Up](https://open.spotify.com/album/2alSpUG97rWhumWaIAmsp0) | 2:29 |
 | 59 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 |

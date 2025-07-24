@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 48031,
+  "num_followers": 48051,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAACIJYAsXyogcXpcsGztzLK1",
+  "snapshot_id": "aH7UgAAAAABQGtNeWgIXpNrgIIRd2C/r",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Integrity Blues",
-        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 215706,
-      "name": "Sure and Certain",
-      "url": "https://open.spotify.com/track/48nnqkmwmjZ7ohyShSyKAm"
+      "duration_ms": 245746,
+      "name": "All The Way (Stay)",
+      "url": "https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 245746,
-      "name": "All The Way (Stay)",
-      "url": "https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K"
+      "duration_ms": 215706,
+      "name": "Sure and Certain",
+      "url": "https://open.spotify.com/track/48nnqkmwmjZ7ohyShSyKAm"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Integrity Blues",
-        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "Get Right",
-      "url": "https://open.spotify.com/track/19cVww3dRYFzVvslJu2NtL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Static Prevails (Bonus Track Version)",
         "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 180800,
       "name": "Call It In The Air",
       "url": "https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/19cVww3dRYFzVvslJu2NtL"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Integrity Blues",
-        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 234506,
-      "name": "It Matters",
-      "url": "https://open.spotify.com/track/6gXzzIJs34eYV6CnpiJsP2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surviving",
         "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 184773,
       "name": "Surviving",
       "url": "https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 234506,
+      "name": "It Matters",
+      "url": "https://open.spotify.com/track/6gXzzIJs34eYV6CnpiJsP2"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Integrity Blues",
-        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Through",
-      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surviving",
         "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
@@ -671,38 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Action Needs An Audience",
-      "url": "https://open.spotify.com/track/4wWQfo5vHRiwDsAVVEPPVn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "No Sensitivity",
-      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Integrity Blues",
         "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
       },
@@ -712,25 +664,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 318373,
-      "name": "You With Me",
-      "url": "https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 174346,
-      "name": "Love Never",
-      "url": "https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2"
+      "duration_ms": 171640,
+      "name": "Through",
+      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
     },
     {
       "added_at": null,
@@ -751,6 +687,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Action Needs An Audience",
+      "url": "https://open.spotify.com/track/4wWQfo5vHRiwDsAVVEPPVn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 174346,
+      "name": "Love Never",
+      "url": "https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 318373,
+      "name": "You With Me",
+      "url": "https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "No Sensitivity",
+      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damage",
         "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 187800,
       "name": "Damage",
       "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Static Prevails (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 171226,
+      "name": "Thinking, That's All",
+      "url": "https://open.spotify.com/track/6woVdVXtPpcw9K7w0LJHBK"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
       "duration_ms": 198506,
       "name": "Heart Is Hard To Find",
       "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Static Prevails (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 171226,
-      "name": "Thinking, That's All",
-      "url": "https://open.spotify.com/track/6woVdVXtPpcw9K7w0LJHBK"
     }
   ],
   "unique_name": "This Is Jimmy Eat World",

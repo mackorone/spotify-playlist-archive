@@ -4,7 +4,7 @@
 
 > Jadi lebih produktif ditemani musik terkini
 
-354 songs - 21 hr 12 min
+357 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Adore U](https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Adore U](https://open.spotify.com/album/6TuqYkU9a9UNy7YxwATWDg) | 2:44 | 2024-06-26 | 2024-11-14 |
 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2023-12-06 |  |
 | [Akhir Tak Bahagia](https://open.spotify.com/track/0BYoWATcndOBcsCfKdTKRx) | [Misellia](https://open.spotify.com/artist/5IjwAAk3njAeiFY1InInsn) | [Akhir Tak Bahagia](https://open.spotify.com/album/7zv0LcKjGlAUiTXQJzqhSY) | 3:05 | 2024-03-21 | 2024-04-24 |
+| [Aku Jatuh](https://open.spotify.com/track/6xTK5v8US3IbMsaEBweojq) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Aku Jatuh](https://open.spotify.com/album/0HUhN9oZ8w3QPKHww0VKb5) | 3:06 | 2025-07-23 |  |
 | [Aku Tempatmu Pulang](https://open.spotify.com/track/2THSRFEIrQHhW6zgMb4aJI) | [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb) | [Sarwa Renjana](https://open.spotify.com/album/54bIfja1dUvfnOPUCmY5CC) | 3:10 | 2025-03-03 | 2025-04-11 |
 | [All I Want](https://open.spotify.com/track/16jaBSbWIiHNR6fOBX9Mij) | [Trifect](https://open.spotify.com/artist/0TIGDhG2md2oyRrYK2bSPQ), [Redza](https://open.spotify.com/artist/7rI4hvk9fjo1LAOXX1XvLG) | [All I Want](https://open.spotify.com/album/3WL91lURslAj9nT9qFMjP8) | 3:17 | 2023-06-18 | 2023-10-12 |
 | [Alunan Mimpi](https://open.spotify.com/track/6hZfPTq3EWkbA5E8BMJgOj) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Alunan Mimpi](https://open.spotify.com/album/1yAUInJLR2QCL7eUb1htG5) | 4:06 | 2025-02-03 |  |
@@ -313,9 +314,11 @@
 | [Tanpa Bicara](https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanpa Bicara](https://open.spotify.com/album/4kcdK1zvo9uLRQ8dt93gh4) | 3:32 | 2024-09-02 |  |
 | [Tanpa Diminta](https://open.spotify.com/track/2uT0cNyO1gl4XRFeqkc2ud) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Senandika](https://open.spotify.com/album/7G5u1YpMeur38AijDIp1x2) | 4:15 | 2023-09-12 | 2023-10-12 |
 | [Tanpa Diminta](https://open.spotify.com/track/5K6HxdlgStsikWTy9jPaiN) | [Vidi Aldiano](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Senandika](https://open.spotify.com/album/7ub6oAQi8e6dzxk5NAyZdA) | 4:15 | 2023-04-04 | 2023-09-17 |
+| [Tanya Tuhan](https://open.spotify.com/track/0hF04dFSA5eXncV1qg3mKl) | [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR), [Malique](https://open.spotify.com/artist/4ZsSCvTFG2Krx3AyQ6vHzk) | [Tanya Tuhan](https://open.spotify.com/album/2UM02MbfJ57suVFhqFCpES) | 3:52 | 2025-07-23 |  |
 | [Tarik Ulur](https://open.spotify.com/track/4geXWfWtm5WCaiXeIP28oT) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [Tarik Ulur](https://open.spotify.com/album/25WHSHiaxGwQEHgmzAmZRs) | 4:01 | 2025-05-19 | 2025-07-01 |
 | [Tarot](https://open.spotify.com/track/4XHijJfABTtUCW3Bp6KFvr) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Membangun & Menghancurkan](https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86) | 4:48 | 2025-06-16 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-29 |  |
+| [Tatapan Nona](https://open.spotify.com/track/0Br1eA0epYgm2BF9b0602o) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Tatapan Nona](https://open.spotify.com/album/1uibhRDKoBMQJ8jdItACFi) | 3:26 | 2025-07-23 |  |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-06-07 | 2024-05-07 |
 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 | 2023-03-22 | 2023-11-16 |
 | [Teman](https://open.spotify.com/track/6OdUXJOghuCjdN8WNK9DBa) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Teman](https://open.spotify.com/album/0HsFWCBUOfZdiIJC5xrbfL) | 3:57 | 2024-03-03 | 2024-10-15 |

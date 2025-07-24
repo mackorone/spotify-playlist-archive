@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITa25xsl1Y.md) - [plain]
 
 > This is METTE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,395 likes - 11 songs - 33 min 38 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,404 likes - 11 songs - 33 min 38 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

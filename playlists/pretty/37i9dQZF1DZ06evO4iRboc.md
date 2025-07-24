@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iRboc.md) - [plain]
 
 > This is Laufey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,802 likes - 35 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,157 likes - 35 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iRboc.md) - [plain]
 | 24 | [Best Friend](https://open.spotify.com/track/5zQR0qoA4S1Iwj2bAwW03a) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:44 |
 | 25 | [Street by Street](https://open.spotify.com/track/0OuOPYd05eORfLw94apb8j) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Street by Street](https://open.spotify.com/album/16JUiUeNlBM9cdIyyuN6nw) | 3:44 |
 | 26 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 |
-| 27 | [Someone New](https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Someone New](https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii) | 3:18 |
-| 28 | [Where or When](https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Where or When](https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR) | 3:23 |
+| 27 | [Where or When](https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Where or When](https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR) | 3:23 |
+| 28 | [Someone New](https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Someone New](https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii) | 3:18 |
 | 29 | [What Love Will Do to You](https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:51 |
 | 30 | [No One Knows \(with Laufey\)](https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:59 |
 | 31 | [It Could Happen To You](https://open.spotify.com/track/1pyfaPU3aw8JorXRJQf6cs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 2:07 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iRboc.md) - [plain]
 | 34 | [The Nearness of You \- Live at The Symphony](https://open.spotify.com/track/4vjFL3VnYcaJqX1HmQEBRa) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Iceland Symphony Orchestra](https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b) | [A Night At The Symphony](https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn) | 2:48 |
 | 35 | [Everytime We Say Goodbye \- Live at The Symphony](https://open.spotify.com/track/5cddyAdFOA3JsC3MhYmc2Y) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Iceland Symphony Orchestra](https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b) | [A Night At The Symphony](https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn) | 4:33 |
 
-Snapshot ID: `aH2DAAAAAACAxWyyV7Aj6nhPkQMFlCjT`
+Snapshot ID: `aH7UgAAAAADnzbDfmnoTAt0DQbmPEl5A`

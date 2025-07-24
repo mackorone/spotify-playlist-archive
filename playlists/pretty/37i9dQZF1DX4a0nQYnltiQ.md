@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 
 > The \#1 Destination for the best melodies in the world\. Cover: AMARIA BB
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,419 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,374 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Carrying Happiness",
+        "url": "https://open.spotify.com/album/3WQY51GZX8ppESRJzWZydP"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222093,
+      "name": "Carrying Happiness",
+      "url": "https://open.spotify.com/track/6cSE6qGHagStJmrPa0jzu9"
+    },
+    {
+      "album": {
         "name": "cheers",
         "url": "https://open.spotify.com/album/37baTLzPm1Sxcshl59gNat"
       },
@@ -4804,7 +4822,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 240893,
       "name": "\u3068\u308d\u3044",
       "url": "https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq"
@@ -5456,7 +5474,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 203149,
       "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz"
@@ -7012,6 +7030,24 @@
       "duration_ms": 258633,
       "name": "\u5618\u3058\u3083\u306a\u3044",
       "url": "https://open.spotify.com/track/5tB3jH72pfXtVlwDxpiIlq"
+    },
+    {
+      "album": {
+        "name": "\u56db\u5b63\u56de\u751f",
+        "url": "https://open.spotify.com/album/4voeIX26mHuytm5jUAAhQl"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146624,
+      "name": "\u56db\u5b63\u56de\u751f",
+      "url": "https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD"
     },
     {
       "album": {

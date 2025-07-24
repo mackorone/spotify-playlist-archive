@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAD3pfac/pcOE+W9jwzVaM1/",
+  "snapshot_id": "aH7UgAAAAAAbkg+5aolKRa45b0fA0dyj",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Loose Booty",
-      "url": "https://open.spotify.com/track/2bODSpA5V6atKBN5WKinQG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Gotta Go Now (Up On The Floor) / Funky Broadway",
         "url": "https://open.spotify.com/album/3o5qY8Oz7zJxKeb8bZKmtC"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 168016,
       "name": "I Gotta Go Now (Up On The Floor) / Funky Broadway",
       "url": "https://open.spotify.com/track/3gXwZLVJ8YMcOWlWVtTVhA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Loose Booty",
+      "url": "https://open.spotify.com/track/2bODSpA5V6atKBN5WKinQG"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 197173,
-      "name": "Time For Livin'",
-      "url": "https://open.spotify.com/track/1oQjAXbu9xARHLpKH73N1p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back On The Right Track",
         "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 177640,
       "name": "It Takes All Kinds",
       "url": "https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 197173,
+      "name": "Time For Livin'",
+      "url": "https://open.spotify.com/track/1oQjAXbu9xARHLpKH73N1p"
     },
     {
       "added_at": null,

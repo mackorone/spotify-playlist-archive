@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-407 songs - 19 hr 22 min
+408 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2021-12-09 | 2022-06-17 |
 | [Calm](https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Calm](https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9) | 1:49 | 2021-12-09 | 2023-10-05 |
 | [Calm](https://open.spotify.com/track/7x8dZcTysEL2ugS7Gj7eMJ) | [Shibuki](https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg) | [Calm](https://open.spotify.com/album/4lPUDTcfykVSSj7YFmC8yw) | 3:37 | 2021-12-09 | 2024-11-29 |
+| [Calmide](https://open.spotify.com/track/0eeunnn5H9Z5ftKNRYL0MP) | [Eclectic Elements](https://open.spotify.com/artist/3xlagJKvA0REqZkIGa2sBr) | [Calmide](https://open.spotify.com/album/695DmgQgDDaajkKYULps0e) | 3:13 | 2025-07-23 |  |
 | [Carried by the Wind](https://open.spotify.com/track/51ckDTqIT72bXrmB258H18) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Carried by the Wind](https://open.spotify.com/album/4b0EeGJlSUzJ3HVTZddt5r) | 2:47 | 2025-04-10 |  |
 | [Catch Me When I Fall](https://open.spotify.com/track/6ZWGu34UE99YEf0fRDtVy3) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Catch Me When I Fall](https://open.spotify.com/album/1C9SeCoT5DKJFtDA2Nh9qN) | 2:32 | 2021-12-09 |  |
 | [Cherry Blossom](https://open.spotify.com/track/038KeNjAMACcJBQ7yadyis) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Cherry Blossom](https://open.spotify.com/album/1bgYm1WkoUiOaqDF41fcf3) | 3:11 | 2024-08-21 | 2025-06-05 |
@@ -249,7 +250,7 @@
 | [Parc Fermé](https://open.spotify.com/track/3KZzw77XIluygnZ8cwouMA) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Parc Fermé](https://open.spotify.com/album/4etWEhMDJpx1QKWxVmZFdg) | 2:32 | 2021-12-09 | 2024-08-22 |
 | [Patience](https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8) | [Augusta Winslow](https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z) | [Patience](https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB) | 3:03 | 2021-12-09 | 2024-11-29 |
 | [Peace Of Mind](https://open.spotify.com/track/3MfwNWRuWAsdT1yIwHtRyz) | [MAVALA](https://open.spotify.com/artist/7v6MC0U94altKRU8VGL0j8) | [Ocean Deep](https://open.spotify.com/album/341k8e5u1rQ6xuDPqOIc2u) | 2:31 | 2021-12-09 | 2022-01-21 |
-| [Peace Within](https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nocturne](https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc) | 3:48 | 2021-12-09 |  |
+| [Peace Within](https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nocturne](https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc) | 3:48 | 2021-12-09 | 2025-07-24 |
 | [Peaceful Moment](https://open.spotify.com/track/4wrIugI2EGkMemvV7bEqRp) | [Ambient Euphoria](https://open.spotify.com/artist/2ZtrNChkXKPqFw2TEvvBuN) | [Peaceful Moment](https://open.spotify.com/album/3gL9A9uR0DKYqMeLCsXqsI) | 2:54 | 2021-12-09 | 2022-03-22 |
 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 | 2021-12-09 | 2023-10-05 |
 | [Pensamiento \(Variacion 3\)](https://open.spotify.com/track/3IkUhd8j1QVMUGAaMGKN4F) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:45 | 2021-12-09 | 2023-10-05 |

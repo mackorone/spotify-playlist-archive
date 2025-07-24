@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: I Prevail",
-  "num_followers": 405954,
+  "num_followers": 406051,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 172759,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
+    },
+    {
+      "added_at": "2025-07-18 00:00:04",
+      "album": {
         "name": "I Refuse (feat. Maria Brink of In This Moment) [2025 VERSION]",
         "url": "https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 221000,
       "name": "I Refuse (feat. Maria Brink of In This Moment) - 2025 VERSION",
       "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
-    },
-    {
-      "added_at": "2025-07-18 00:00:04",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 172759,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
     },
     {
       "added_at": "2025-07-18 00:00:04",
@@ -775,18 +775,18 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5"
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3"
       },
       "artists": [
         {
-          "name": "Sleep Theory",
-          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
         }
       ],
-      "duration_ms": 209835,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu"
+      "duration_ms": 209333,
+      "name": "SHALLOW",
+      "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
     },
     {
       "added_at": "2025-07-18 00:00:04",
@@ -839,18 +839,18 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
-        "name": "Shallow",
-        "url": "https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3"
+        "name": "Static",
+        "url": "https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5"
       },
       "artists": [
         {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
         }
       ],
-      "duration_ms": 209333,
-      "name": "SHALLOW",
-      "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
+      "duration_ms": 209835,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu"
     },
     {
       "added_at": "2025-07-18 00:00:04",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/53FUi5ofeISRwJleGHQ6eV"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 225871,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/0u8wRzaAaJkqpqrTYNn3bZ"
-    },
-    {
-      "added_at": "2025-07-18 00:00:04",
-      "album": {
         "name": "The End",
         "url": "https://open.spotify.com/album/6pktSS5acVnqbT5VNnRagN"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 213010,
       "name": "The End",
       "url": "https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY"
+    },
+    {
+      "added_at": "2025-07-18 00:00:04",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/53FUi5ofeISRwJleGHQ6eV"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 225871,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/0u8wRzaAaJkqpqrTYNn3bZ"
     },
     {
       "added_at": "2025-07-18 00:00:04",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 200204,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
-    },
-    {
-      "added_at": "2025-07-18 00:00:04",
-      "album": {
         "name": "Safehouse",
         "url": "https://open.spotify.com/album/2vGUAmehavRZ3ufYeWKuoL"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 222421,
       "name": "Safehouse",
       "url": "https://open.spotify.com/track/0UynnxAsuxCaHtP41IYMJv"
+    },
+    {
+      "added_at": "2025-07-18 00:00:04",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 200204,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
     },
     {
       "added_at": "2025-07-18 00:00:04",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
-        "name": "Antibloom",
-        "url": "https://open.spotify.com/album/7BNQ4V36nmrd3m8ckYmFSk"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9"
-    },
-    {
-      "added_at": "2025-07-18 00:00:04",
-      "album": {
         "name": "Sacred",
         "url": "https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ"
       },
@@ -1763,78 +1747,18 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
-        "name": "Odd Behavior",
-        "url": "https://open.spotify.com/album/1s2Rti2kLPm5Tsw7Zy5CKW"
+        "name": "Antibloom",
+        "url": "https://open.spotify.com/album/7BNQ4V36nmrd3m8ckYmFSk"
       },
       "artists": [
         {
-          "name": "Woe, Is Me",
-          "url": "https://open.spotify.com/artist/7AzzsLSrHV9darZnK3RSDN"
-        },
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        },
-        {
-          "name": "Aj Rebollo",
-          "url": "https://open.spotify.com/artist/2EARmuixIqIjUHaqHwm0BR"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Odd Behavior",
-      "url": "https://open.spotify.com/track/4nOEsND95g9qDDxrkiQ7Ok"
-    },
-    {
-      "added_at": "2025-07-18 00:00:04",
-      "album": {
-        "name": "Sidewinder",
-        "url": "https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o"
-      },
-      "artists": [
-        {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
-        }
-      ],
-      "duration_ms": 239682,
-      "name": "Sidewinder",
-      "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
-    },
-    {
-      "added_at": "2025-07-18 00:00:04",
-      "album": {
-        "name": "Killing Spree",
-        "url": "https://open.spotify.com/album/4syqYa5oA4mrTnoFrwuLor"
-      },
-      "artists": [
-        {
-          "name": "Daron Malakian and Scars On Broadway",
-          "url": "https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi"
-        }
-      ],
-      "duration_ms": 166984,
-      "name": "Killing Spree",
-      "url": "https://open.spotify.com/track/3tAk2w4j6Dd1MFrWmSfOZk"
-    },
-    {
-      "added_at": "2025-07-18 00:00:04",
-      "album": {
-        "name": "Bad Dreams (feat. Of Virtue)",
-        "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        },
-        {
-          "name": "Of Virtue",
-          "url": "https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Bad Dreams (feat. Of Virtue)",
-      "url": "https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY"
+      "duration_ms": 178560,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9"
     },
     {
       "added_at": "2025-07-18 00:00:04",
@@ -1863,6 +1787,66 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
+        "name": "Odd Behavior",
+        "url": "https://open.spotify.com/album/1s2Rti2kLPm5Tsw7Zy5CKW"
+      },
+      "artists": [
+        {
+          "name": "Woe, Is Me",
+          "url": "https://open.spotify.com/artist/7AzzsLSrHV9darZnK3RSDN"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Aj Rebollo",
+          "url": "https://open.spotify.com/artist/2EARmuixIqIjUHaqHwm0BR"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Odd Behavior",
+      "url": "https://open.spotify.com/track/4nOEsND95g9qDDxrkiQ7Ok"
+    },
+    {
+      "added_at": "2025-07-18 00:00:04",
+      "album": {
+        "name": "Bad Dreams (feat. Of Virtue)",
+        "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        },
+        {
+          "name": "Of Virtue",
+          "url": "https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Bad Dreams (feat. Of Virtue)",
+      "url": "https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY"
+    },
+    {
+      "added_at": "2025-07-18 00:00:04",
+      "album": {
+        "name": "Sidewinder",
+        "url": "https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o"
+      },
+      "artists": [
+        {
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+        }
+      ],
+      "duration_ms": 239682,
+      "name": "Sidewinder",
+      "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
+    },
+    {
+      "added_at": "2025-07-18 00:00:04",
+      "album": {
         "name": "Paws",
         "url": "https://open.spotify.com/album/2WTsBo00ik6uknNsm09K9v"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 259088,
       "name": "Paws",
       "url": "https://open.spotify.com/track/73bLtrWnmMu15zgkwgxIft"
+    },
+    {
+      "added_at": "2025-07-18 00:00:04",
+      "album": {
+        "name": "Killing Spree",
+        "url": "https://open.spotify.com/album/4syqYa5oA4mrTnoFrwuLor"
+      },
+      "artists": [
+        {
+          "name": "Daron Malakian and Scars On Broadway",
+          "url": "https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi"
+        }
+      ],
+      "duration_ms": 166984,
+      "name": "Killing Spree",
+      "url": "https://open.spotify.com/track/3tAk2w4j6Dd1MFrWmSfOZk"
     },
     {
       "added_at": "2025-07-18 00:00:04",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
-        "name": "TONGUES",
-        "url": "https://open.spotify.com/album/6SL0RXcGjUVwx2SwnnI7gy"
-      },
-      "artists": [
-        {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
-        }
-      ],
-      "duration_ms": 171434,
-      "name": "TONGUES",
-      "url": "https://open.spotify.com/track/4P40bs3Cqi2XevliZj6FLi"
-    },
-    {
-      "added_at": "2025-07-18 00:00:04",
-      "album": {
         "name": "The Hart",
         "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
       },
@@ -2159,18 +2143,18 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
-        "name": "In the Barn of the Goat Giving Birth to Satan\u2019s Spawn in a Dying World of Doom",
-        "url": "https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d"
+        "name": "TONGUES",
+        "url": "https://open.spotify.com/album/6SL0RXcGjUVwx2SwnnI7gy"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
         }
       ],
-      "duration_ms": 258239,
-      "name": "In the Barn of the Goat Giving Birth to Satan\u2019s Spawn in a Dying World of Doom",
-      "url": "https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV"
+      "duration_ms": 171434,
+      "name": "TONGUES",
+      "url": "https://open.spotify.com/track/4P40bs3Cqi2XevliZj6FLi"
     },
     {
       "added_at": "2025-07-18 00:00:04",
@@ -2211,6 +2195,22 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
+        "name": "In the Barn of the Goat Giving Birth to Satan\u2019s Spawn in a Dying World of Doom",
+        "url": "https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 258239,
+      "name": "In the Barn of the Goat Giving Birth to Satan\u2019s Spawn in a Dying World of Doom",
+      "url": "https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV"
+    },
+    {
+      "added_at": "2025-07-18 00:00:04",
+      "album": {
         "name": "Vigilantes",
         "url": "https://open.spotify.com/album/1F0QxXNCGOWbfBhUM1Ej6m"
       },
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
-        "name": "E.V.I.L.",
-        "url": "https://open.spotify.com/album/2axYCY96RLFOZS7v2zOzHz"
-      },
-      "artists": [
-        {
-          "name": "Royale Lynn",
-          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
-        }
-      ],
-      "duration_ms": 212702,
-      "name": "E.V.I.L.",
-      "url": "https://open.spotify.com/track/0kUgbL0dardbBDzeD4nXzU"
-    },
-    {
-      "added_at": "2025-07-18 00:00:04",
-      "album": {
         "name": "Lord Humungus",
         "url": "https://open.spotify.com/album/6WAm49g3DPOA81i4feU5IP"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 214500,
       "name": "Lord Humungus",
       "url": "https://open.spotify.com/track/6vvwN7NgsNGVfXLmkVeftX"
+    },
+    {
+      "added_at": "2025-07-18 00:00:04",
+      "album": {
+        "name": "E.V.I.L.",
+        "url": "https://open.spotify.com/album/2axYCY96RLFOZS7v2zOzHz"
+      },
+      "artists": [
+        {
+          "name": "Royale Lynn",
+          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
+        }
+      ],
+      "duration_ms": 212702,
+      "name": "E.V.I.L.",
+      "url": "https://open.spotify.com/track/0kUgbL0dardbBDzeD4nXzU"
     },
     {
       "added_at": "2025-07-18 00:00:04",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
-        "name": "GREED",
-        "url": "https://open.spotify.com/album/6mhAQVkvHxd3DJPu0iVp7u"
-      },
-      "artists": [
-        {
-          "name": "Royale Lynn",
-          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
-        }
-      ],
-      "duration_ms": 170835,
-      "name": "GREED",
-      "url": "https://open.spotify.com/track/5qpCWNd0ueIuJUC3O2Y2bx"
-    },
-    {
-      "added_at": "2025-07-18 00:00:04",
-      "album": {
         "name": "LOST!",
         "url": "https://open.spotify.com/album/2XbZzLQYHh43DiDyxS8K9T"
       },
@@ -2423,18 +2407,18 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
-        "name": "Dead People Scare Me (But The Living Make Me Sick)",
-        "url": "https://open.spotify.com/album/5KDDpUroWEDc7HXH0Dqouc"
+        "name": "GREED",
+        "url": "https://open.spotify.com/album/6mhAQVkvHxd3DJPu0iVp7u"
       },
       "artists": [
         {
-          "name": "Lost Society",
-          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+          "name": "Royale Lynn",
+          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
         }
       ],
-      "duration_ms": 212576,
-      "name": "Dead People Scare Me (But The Living Make Me Sick)",
-      "url": "https://open.spotify.com/track/6VcbQTlKbE4bt85Rx6qXnV"
+      "duration_ms": 170835,
+      "name": "GREED",
+      "url": "https://open.spotify.com/track/5qpCWNd0ueIuJUC3O2Y2bx"
     },
     {
       "added_at": "2025-07-18 00:00:04",
@@ -2451,6 +2435,38 @@
       "duration_ms": 166826,
       "name": "Left Alone",
       "url": "https://open.spotify.com/track/6oeHlqR08CwnzOeCpF0GzR"
+    },
+    {
+      "added_at": "2025-07-18 00:00:04",
+      "album": {
+        "name": "Dead People Scare Me (But The Living Make Me Sick)",
+        "url": "https://open.spotify.com/album/5KDDpUroWEDc7HXH0Dqouc"
+      },
+      "artists": [
+        {
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+        }
+      ],
+      "duration_ms": 212576,
+      "name": "Dead People Scare Me (But The Living Make Me Sick)",
+      "url": "https://open.spotify.com/track/6VcbQTlKbE4bt85Rx6qXnV"
+    },
+    {
+      "added_at": "2025-07-18 00:00:04",
+      "album": {
+        "name": "Puppets Can\u2019t Control You",
+        "url": "https://open.spotify.com/album/5Sy2lygukJmycmwJ2sLr0K"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "Puppets Can\u2019t Control You",
+      "url": "https://open.spotify.com/track/1J5xY3cpHnTnfPTkUnktwI"
     },
     {
       "added_at": "2025-07-18 00:00:04",
@@ -2487,22 +2503,6 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
-        "name": "Puppets Can\u2019t Control You",
-        "url": "https://open.spotify.com/album/5Sy2lygukJmycmwJ2sLr0K"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "Puppets Can\u2019t Control You",
-      "url": "https://open.spotify.com/track/1J5xY3cpHnTnfPTkUnktwI"
-    },
-    {
-      "added_at": "2025-07-18 00:00:04",
-      "album": {
         "name": "Bad Behavior",
         "url": "https://open.spotify.com/album/5vmVFss9dY7Ga2AfPaAX2B"
       },
@@ -2519,6 +2519,26 @@
     {
       "added_at": "2025-07-18 00:00:04",
       "album": {
+        "name": "High Stakes",
+        "url": "https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        },
+        {
+          "name": "Matty Mullins",
+          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
+        }
+      ],
+      "duration_ms": 205159,
+      "name": "High Stakes",
+      "url": "https://open.spotify.com/track/2J2iIecwVAjZPzlJubdAgD"
+    },
+    {
+      "added_at": "2025-07-18 00:00:04",
+      "album": {
         "name": "All The Love Is Gone",
         "url": "https://open.spotify.com/album/3ak5P45tjuLYZehqjruTez"
       },
@@ -2531,22 +2551,6 @@
       "duration_ms": 182650,
       "name": "All The Love Is Gone",
       "url": "https://open.spotify.com/track/5YSEFmTZBt1Ne3p0S9ZQMr"
-    },
-    {
-      "added_at": "2025-07-18 00:00:04",
-      "album": {
-        "name": "The Problem",
-        "url": "https://open.spotify.com/album/4VTDrDl5xVzPgQwR6QeSbZ"
-      },
-      "artists": [
-        {
-          "name": "Archetypes Collide",
-          "url": "https://open.spotify.com/artist/6Gnk08ItppARKX1z1EW3Vn"
-        }
-      ],
-      "duration_ms": 182210,
-      "name": "The Problem",
-      "url": "https://open.spotify.com/track/0gVIkw78uben9UKR6YRz2o"
     }
   ],
   "unique_name": "Hard Rock",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,420 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,471 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
 | 2 | [Laho III](https://open.spotify.com/track/6Ax7HFmxQTWfJB5Wj8o1ET) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Laho III](https://open.spotify.com/album/5cNmhhxoAbTfeAp541gD6i) | 2:58 |
-| 3 | [My Shayla](https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Mbryo](https://open.spotify.com/artist/7ttqbMfcqUvZdc2aZDg3F3), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [My Shayla](https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95) | 2:33 |
+| 3 | [My Shayla](https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Mbryo](https://open.spotify.com/artist/3x9zvETvpbvSM8xL0pxyDy), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [My Shayla](https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95) | 2:33 |
 | 4 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 |
 | 5 | [Venus](https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB) | [Faceless](https://open.spotify.com/artist/4kwkSF1jJalibmNlh4Z8Of), [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [Venus](https://open.spotify.com/album/6VbLBFjsXbH8AP3MIgqB2n) | 2:19 |
 | 6 | [Patience](https://open.spotify.com/track/67Cp7D1bHpGn3nsRaefokn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:20 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Jhené Aiko, Sonder, Summer Walker and more
+> With Sonder, Jhené Aiko, Summer Walker and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,068 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,141 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 | 49 | [my mine](https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:01 |
 | 50 | [Since Way Back](https://open.spotify.com/track/5JUu0unA8VwhTZ9LkMWUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 6:08 |
 
-Snapshot ID: `aIAx6AAAAAAzZ4Qrd/NLyjeF446i+Uwu`
+Snapshot ID: `aIGHvAAAAAAY0CP8aWG9t3nKhn8EoGSl`

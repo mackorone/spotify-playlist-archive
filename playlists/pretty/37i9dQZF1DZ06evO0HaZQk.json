@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 519693,
+  "num_followers": 519731,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAAOgKsuoy3+Rp7A/hplnAzs",
+  "snapshot_id": "aH7UgAAAAABavQx775twwJYzaK+Lf5xI",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Timidez (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Timidez (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
         "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 188400,
       "name": "T\u00fa Me Acostumbraste (feat. Omara Portuondo & Los Macorinos)",
       "url": "https://open.spotify.com/track/1rwrlXpk1XqdzHfCHKnJa1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timidez (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Timidez (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cancionera",
-        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 265847,
-      "name": "Cocos en la Playa",
-      "url": "https://open.spotify.com/track/4956xD0yHMfb8SDqcfI47c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Giralunas, Un Homenaje a L.E.Aute",
         "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 336813,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cancionera",
+        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 265847,
+      "name": "Cocos en la Playa",
+      "url": "https://open.spotify.com/track/4956xD0yHMfb8SDqcfI47c"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cancionera",
-        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 420807,
-      "name": "El Palomo y La Negra",
-      "url": "https://open.spotify.com/track/6tT1ZVzGKkwgqGSXKlLD5K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 237880,
       "name": "Ca\u00f3tica Belleza",
       "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cancionera",
+        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 420807,
+      "name": "El Palomo y La Negra",
+      "url": "https://open.spotify.com/track/6tT1ZVzGKkwgqGSXKlLD5K"
     },
     {
       "added_at": null,

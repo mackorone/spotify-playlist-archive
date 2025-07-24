@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 54690,
+  "num_followers": 54721,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
+        "name": "No Cure",
+        "url": "https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        }
+      ],
+      "duration_ms": 263971,
+      "name": "No Cure",
+      "url": "https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
         "name": "Places To Write",
         "url": "https://open.spotify.com/album/0wCUJgr4Y0j6floashhhYC"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 242840,
       "name": "Places To Write",
       "url": "https://open.spotify.com/track/0awgGcOGbt4vO7vj1hcXq1"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "No Cure",
-        "url": "https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi"
-      },
-      "artists": [
-        {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
-        }
-      ],
-      "duration_ms": 263971,
-      "name": "No Cure",
-      "url": "https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Who Do You Love the Most?",
-        "url": "https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid Trio",
-          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
-        }
-      ],
-      "duration_ms": 283346,
-      "name": "Remembering",
-      "url": "https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 411640,
       "name": "Polska Of Despair (1)",
       "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Who Do You Love the Most?",
+        "url": "https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid Trio",
+          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
+        }
+      ],
+      "duration_ms": 283346,
+      "name": "Remembering",
+      "url": "https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -819,30 +819,26 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Oh, Jaco!",
-        "url": "https://open.spotify.com/album/0i2i4vMnJ8hv5fJreuHWc5"
+        "name": "Tantum",
+        "url": "https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u"
       },
       "artists": [
         {
-          "name": "Peter Vuust",
-          "url": "https://open.spotify.com/artist/3DUqy72mutVBUGMlxCfWkf"
+          "name": "Anders Jormin",
+          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
         },
         {
-          "name": "Lars Jansson",
-          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
+          "name": "Jonas Simonson",
+          "url": "https://open.spotify.com/artist/7KFeDGbNWccsF7HNisT6YG"
         },
         {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+          "name": "Karin Nelson",
+          "url": "https://open.spotify.com/artist/1GrSyUfEJBADQaeF2HhbNV"
         }
       ],
-      "duration_ms": 360769,
-      "name": "Oh, Jaco!",
-      "url": "https://open.spotify.com/track/33FJyAQRTd8GKjku7DvYun"
+      "duration_ms": 191040,
+      "name": "Doubt Thou the Stars",
+      "url": "https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -891,30 +887,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Tantum",
-        "url": "https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u"
-      },
-      "artists": [
-        {
-          "name": "Anders Jormin",
-          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
-        },
-        {
-          "name": "Jonas Simonson",
-          "url": "https://open.spotify.com/artist/7KFeDGbNWccsF7HNisT6YG"
-        },
-        {
-          "name": "Karin Nelson",
-          "url": "https://open.spotify.com/artist/1GrSyUfEJBADQaeF2HhbNV"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Doubt Thou the Stars",
-      "url": "https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "The Land That Is Not",
         "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
       },
@@ -943,6 +915,34 @@
       "duration_ms": 242840,
       "name": "tide",
       "url": "https://open.spotify.com/track/3oL0879uE3RmjqrUNJzae8"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Oh, Jaco!",
+        "url": "https://open.spotify.com/album/0i2i4vMnJ8hv5fJreuHWc5"
+      },
+      "artists": [
+        {
+          "name": "Peter Vuust",
+          "url": "https://open.spotify.com/artist/3DUqy72mutVBUGMlxCfWkf"
+        },
+        {
+          "name": "Lars Jansson",
+          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "duration_ms": 360769,
+      "name": "Oh, Jaco!",
+      "url": "https://open.spotify.com/track/33FJyAQRTd8GKjku7DvYun"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1155,30 +1155,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Being",
-        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        },
-        {
-          "name": "Per Zanussi",
-          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
-        }
-      ],
-      "duration_ms": 380306,
-      "name": "The Pondering",
-      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "Cinematic",
         "url": "https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2"
       },
@@ -1219,6 +1195,30 @@
       "duration_ms": 336533,
       "name": "Naked Trees",
       "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Being",
+        "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        },
+        {
+          "name": "Per Zanussi",
+          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
+        }
+      ],
+      "duration_ms": 380306,
+      "name": "The Pondering",
+      "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Point of View",
-        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid",
-          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
-        }
-      ],
-      "duration_ms": 249386,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
       },
@@ -1339,42 +1323,18 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Scandinavian Standards",
-        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
+        "name": "Point of View",
+        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
       },
       "artists": [
         {
-          "name": "Niels Lan Doky",
-          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
+          "name": "Kjetil Mulelid",
+          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
         }
       ],
-      "duration_ms": 306826,
-      "name": "The Lilly Flower - Liljankukka",
-      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Snow Catches on Her Eyelashes",
-        "url": "https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec"
-      },
-      "artists": [
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        },
-        {
-          "name": "Jan Bang",
-          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
-        },
-        {
-          "name": "Hilde Norbakken",
-          "url": "https://open.spotify.com/artist/5HJCkhpDKHnbOWY7SQN6g0"
-        }
-      ],
-      "duration_ms": 183210,
-      "name": "Before the Wedding",
-      "url": "https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum"
+      "duration_ms": 249386,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1407,6 +1367,46 @@
       "duration_ms": 101175,
       "name": "Few Words",
       "url": "https://open.spotify.com/track/3MXtKi9TTIk2Ae4BLpiehg"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Snow Catches on Her Eyelashes",
+        "url": "https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec"
+      },
+      "artists": [
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        },
+        {
+          "name": "Hilde Norbakken",
+          "url": "https://open.spotify.com/artist/5HJCkhpDKHnbOWY7SQN6g0"
+        }
+      ],
+      "duration_ms": 183210,
+      "name": "Before the Wedding",
+      "url": "https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Scandinavian Standards",
+        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
+      },
+      "artists": [
+        {
+          "name": "Niels Lan Doky",
+          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
+        }
+      ],
+      "duration_ms": 306826,
+      "name": "The Lilly Flower - Liljankukka",
+      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "The Soundtrack of My Home",
-        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Jerve",
-          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
-        }
-      ],
-      "duration_ms": 240390,
-      "name": "Iben",
-      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "Touch of Time",
         "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
       },
@@ -1587,6 +1571,42 @@
       "duration_ms": 526520,
       "name": "Redream",
       "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "The Soundtrack of My Home",
+        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Jerve",
+          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
+        }
+      ],
+      "duration_ms": 240390,
+      "name": "Iben",
+      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Tree House",
+        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
+      },
+      "artists": [
+        {
+          "name": "Trondheim Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
+        },
+        {
+          "name": "Albatrosh",
+          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
+        }
+      ],
+      "duration_ms": 449893,
+      "name": "Seaweed",
+      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1615,26 +1635,6 @@
       "duration_ms": 320171,
       "name": "September",
       "url": "https://open.spotify.com/track/3Ks8ruwJLImfbGwnDbamBW"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Tree House",
-        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
-      },
-      "artists": [
-        {
-          "name": "Trondheim Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
-        },
-        {
-          "name": "Albatrosh",
-          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
-        }
-      ],
-      "duration_ms": 449893,
-      "name": "Seaweed",
-      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Earthbeat",
-        "url": "https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO"
-      },
-      "artists": [
-        {
-          "name": "Tuomas Paukku Scription",
-          "url": "https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1"
-        }
-      ],
-      "duration_ms": 356532,
-      "name": "Earthbeat - Single Edit",
-      "url": "https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "Cirkel",
         "url": "https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 269258,
       "name": "I Kirken",
       "url": "https://open.spotify.com/track/7sEygfTquCCu3h5wGsMJeF"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Earthbeat",
+        "url": "https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO"
+      },
+      "artists": [
+        {
+          "name": "Tuomas Paukku Scription",
+          "url": "https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1"
+        }
+      ],
+      "duration_ms": 356532,
+      "name": "Earthbeat - Single Edit",
+      "url": "https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4"
     },
     {
       "added_at": "2025-03-07 09:20:11",

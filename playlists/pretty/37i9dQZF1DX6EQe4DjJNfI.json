@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Delacruz",
-  "num_followers": 180211,
+  "num_followers": 180255,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-06-28 00:55:30",
       "album": {
+        "name": "De Lua",
+        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "De Lua",
+      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
+    },
+    {
+      "added_at": "2025-06-28 00:55:30",
+      "album": {
         "name": "Distant Lover Pt. II",
         "url": "https://open.spotify.com/album/0IZh3n1VUArI0yJ2afCCWl"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 178085,
       "name": "Distant Lover Pt. II",
       "url": "https://open.spotify.com/track/5ez2IWCbto4lXgpzo7FSIy"
-    },
-    {
-      "added_at": "2025-06-28 00:55:30",
-      "album": {
-        "name": "De Lua",
-        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "De Lua",
-      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
     },
     {
       "added_at": "2025-06-28 00:55:30",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-06-28 00:55:30",
       "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
-    },
-    {
-      "added_at": "2025-06-28 00:55:30",
-      "album": {
         "name": "Coisas Simples",
         "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 157772,
       "name": "Coisas Simples",
       "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
+    },
+    {
+      "added_at": "2025-06-28 00:55:30",
+      "album": {
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2025-06-28 00:55:30",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2025-06-28 00:55:30",
       "album": {
-        "name": "TRATO",
-        "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
       },
       "artists": [
         {
-          "name": "Magyn",
-          "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
+          "name": "Motico Money",
+          "url": "https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA"
         }
       ],
-      "duration_ms": 149610,
-      "name": "TRATO",
-      "url": "https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl"
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2025-06-28 00:55:30",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2025-06-28 00:55:30",
       "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+        "name": "TRATO",
+        "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
       },
       "artists": [
         {
-          "name": "Motico Money",
-          "url": "https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA"
+          "name": "Magyn",
+          "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
         }
       ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+      "duration_ms": 149610,
+      "name": "TRATO",
+      "url": "https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl"
     },
     {
       "added_at": "2025-06-28 00:55:30",

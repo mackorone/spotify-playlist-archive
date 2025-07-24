@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2025-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186573,
+      "name": "Arrastrando La Cobija",
+      "url": "https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI"
+    },
+    {
+      "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 177973,
       "name": "En Eso No Quedamos",
       "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"

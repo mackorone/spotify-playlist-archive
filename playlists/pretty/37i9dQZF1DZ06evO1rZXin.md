@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,648 likes - 42 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,651 likes - 42 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 35 | [La Víbora Peligrosa](https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Víbora Peligrosa](https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss) | 2:29 |
 | 36 | [Donde Andara](https://open.spotify.com/track/5ljCJFL7Xm01KHh6SKlJiu) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 2:08 |
 | 37 | [Busca Amor](https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:37 |
-| 38 | [La Múcura](https://open.spotify.com/track/5SCtE1ykLbTrEnLT1zAG1c) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Múcura](https://open.spotify.com/album/0T69bIC5Txs5iTT0fBO6sw) | 3:55 |
-| 39 | [Meneaito](https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Meneaito](https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4) | 3:37 |
+| 38 | [Meneaito](https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Meneaito](https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4) | 3:37 |
+| 39 | [La Múcura](https://open.spotify.com/track/5SCtE1ykLbTrEnLT1zAG1c) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Múcura](https://open.spotify.com/album/0T69bIC5Txs5iTT0fBO6sw) | 3:55 |
 | 40 | [El Mero Mero](https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:35 |
 | 41 | [No Sigas Llorando](https://open.spotify.com/track/4utL0KRhxyqPLIDTQB20YX) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [No Sigas Llorando](https://open.spotify.com/album/3WFlN0l37hFY6WkXPNNpfD) | 2:36 |
 | 42 | [Si No Estás Tú \(Black Is Black\)](https://open.spotify.com/track/31da0q3cqam9HPhatn9C9A) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Si No Estás Tú \(Black Is Black\)](https://open.spotify.com/album/2ROfbD4W4CGTbpNvmX3r9T) | 3:04 |
 
-Snapshot ID: `aH2DAAAAAADZRqZzJWmOcTW5V6NSxI3M`
+Snapshot ID: `aH7UgAAAAAD+XyaYx63d1PglpU4XrQMs`

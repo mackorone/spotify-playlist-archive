@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 34378,
+  "num_followers": 34389,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAADqjE9F5xbzdAu9QH2r16bm",
+  "snapshot_id": "aH7UgAAAAADhuMnQfoORdf8xxyw4xL4R",
   "tracks": [
     {
       "added_at": null,
@@ -299,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Rapper Alive",
-        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
+        "name": "Summertime Butch 2",
+        "url": "https://open.spotify.com/album/15Coiav9QHvI7TRvfouPXn"
       },
       "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 128951,
-      "name": "One Blood",
-      "url": "https://open.spotify.com/track/1crTP3xQj3Z7ipjSDmIlXR"
+      "duration_ms": 166956,
+      "name": "Why Would I (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6PkOteET6dCYHf1dWUui5t"
     },
     {
       "added_at": null,
@@ -331,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summertime Butch 2",
-        "url": "https://open.spotify.com/album/15Coiav9QHvI7TRvfouPXn"
+        "name": "Greatest Rapper Alive",
+        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
       },
       "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 166956,
-      "name": "Why Would I (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6PkOteET6dCYHf1dWUui5t"
+      "duration_ms": 128951,
+      "name": "One Blood",
+      "url": "https://open.spotify.com/track/1crTP3xQj3Z7ipjSDmIlXR"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to Fazoland",
-        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Bibby",
-          "url": "https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW"
-        }
-      ],
-      "duration_ms": 179444,
-      "name": "Kill Shit (feat. Lil Bibby) (Bonus Track)",
-      "url": "https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WTHELLY (with G Herbo) [Remix]",
         "url": "https://open.spotify.com/album/0U0fU3UenstnWf7CLdr5Cf"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 176791,
       "name": "WTHELLY (with G Herbo) - Remix",
       "url": "https://open.spotify.com/track/3agFWjopIFGnZx7WTNj4Wa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome to Fazoland",
+        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Bibby",
+          "url": "https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW"
+        }
+      ],
+      "duration_ms": 179444,
+      "name": "Kill Shit (feat. Lil Bibby) (Bonus Track)",
+      "url": "https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Rapper Alive",
-        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 124617,
-      "name": "Roc Block",
-      "url": "https://open.spotify.com/track/7yY6dPn2XVioN68U4hPDij"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 161627,
       "name": "Go Part 1 (with G Herbo)",
       "url": "https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Rapper Alive",
+        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 124617,
+      "name": "Roc Block",
+      "url": "https://open.spotify.com/track/7yY6dPn2XVioN68U4hPDij"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Rapper Alive",
-        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 154195,
-      "name": "Best Rapper Alive",
-      "url": "https://open.spotify.com/track/7E76oZJAolLeInlDWwfzON"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Pages",
         "url": "https://open.spotify.com/album/2dtaX61cm2HUJlOn5MSsMs"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 154666,
       "name": "Trench Baby (with G Herbo)",
       "url": "https://open.spotify.com/track/5NPWbfa9RPLC5UabrvxnrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Rapper Alive",
+        "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 154195,
+      "name": "Best Rapper Alive",
+      "url": "https://open.spotify.com/track/7E76oZJAolLeInlDWwfzON"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 175148,
+  "num_followers": 175188,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-07-22 15:00:17",
       "album": {
+        "name": "Season",
+        "url": "https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
+    },
+    {
+      "added_at": "2025-07-22 15:00:17",
+      "album": {
         "name": "Smoky Valley",
         "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
       },
@@ -987,18 +1003,18 @@
     {
       "added_at": "2025-07-22 15:00:17",
       "album": {
-        "name": "Season",
-        "url": "https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M"
+        "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73\uff01\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
+        "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
       },
       "artists": [
         {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
+      "duration_ms": 220960,
+      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
+      "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
     },
     {
       "added_at": "2025-07-22 15:00:17",
@@ -1015,22 +1031,6 @@
       "duration_ms": 224600,
       "name": "\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
-    },
-    {
-      "added_at": "2025-07-22 15:00:17",
-      "album": {
-        "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73\uff01\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
-        "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
-      },
-      "artists": [
-        {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
-      "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
     },
     {
       "added_at": "2025-07-22 15:00:17",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-07-22 15:00:17",
       "album": {
-        "name": "Link",
-        "url": "https://open.spotify.com/album/0eg7LlLnpWCRqUv45BNyy7"
-      },
-      "artists": [
-        {
-          "name": "\u660e\u900f",
-          "url": "https://open.spotify.com/artist/71e65rSv8Dh3bfWNPQ1V1Q"
-        }
-      ],
-      "duration_ms": 207874,
-      "name": "Link",
-      "url": "https://open.spotify.com/track/7IgGcxTQE1OHbPpkzpWhTg"
-    },
-    {
-      "added_at": "2025-07-22 15:00:17",
-      "album": {
         "name": "Watching Over You",
         "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
+    },
+    {
+      "added_at": "2025-07-22 15:00:17",
+      "album": {
+        "name": "Link",
+        "url": "https://open.spotify.com/album/0eg7LlLnpWCRqUv45BNyy7"
+      },
+      "artists": [
+        {
+          "name": "\u660e\u900f",
+          "url": "https://open.spotify.com/artist/71e65rSv8Dh3bfWNPQ1V1Q"
+        }
+      ],
+      "duration_ms": 207874,
+      "name": "Link",
+      "url": "https://open.spotify.com/track/7IgGcxTQE1OHbPpkzpWhTg"
     },
     {
       "added_at": "2025-07-22 15:00:17",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-07-22 15:00:17",
       "album": {
-        "name": "MUSIC WARDROBE",
-        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "Don't Be Someone Else",
-      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
-    },
-    {
-      "added_at": "2025-07-22 15:00:17",
-      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 231440,
       "name": "ENDLESS",
       "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
+    },
+    {
+      "added_at": "2025-07-22 15:00:17",
+      "album": {
+        "name": "MUSIC WARDROBE",
+        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "Don't Be Someone Else",
+      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
     },
     {
       "added_at": "2025-07-22 15:00:17",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-07-22 15:00:17",
       "album": {
-        "name": "Driving Summer",
-        "url": "https://open.spotify.com/album/0bFonS00fotNAieZ3RBLx8"
-      },
-      "artists": [
-        {
-          "name": "Tomoyo Harada",
-          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
-        }
-      ],
-      "duration_ms": 267840,
-      "name": "Driving Summer",
-      "url": "https://open.spotify.com/track/4WHMEWCwKOlBGNABFoj5Fg"
-    },
-    {
-      "added_at": "2025-07-22 15:00:17",
-      "album": {
         "name": "CITY POP LOVERS",
         "url": "https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 339226,
       "name": "SPARKLE",
       "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
+    },
+    {
+      "added_at": "2025-07-22 15:00:17",
+      "album": {
+        "name": "Driving Summer",
+        "url": "https://open.spotify.com/album/0bFonS00fotNAieZ3RBLx8"
+      },
+      "artists": [
+        {
+          "name": "Tomoyo Harada",
+          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
+        }
+      ],
+      "duration_ms": 267840,
+      "name": "Driving Summer",
+      "url": "https://open.spotify.com/track/4WHMEWCwKOlBGNABFoj5Fg"
     },
     {
       "added_at": "2025-07-22 15:00:17",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2025-07-22 15:00:17",
       "album": {
-        "name": "Rainy Runway",
-        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 241680,
-      "name": "Rainy Runway",
-      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
-    },
-    {
-      "added_at": "2025-07-22 15:00:17",
-      "album": {
         "name": "\u604b\u6a19",
         "url": "https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 212418,
       "name": "\u604b\u6a19",
       "url": "https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk"
+    },
+    {
+      "added_at": "2025-07-22 15:00:17",
+      "album": {
+        "name": "Rainy Runway",
+        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Rainy Runway",
+      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

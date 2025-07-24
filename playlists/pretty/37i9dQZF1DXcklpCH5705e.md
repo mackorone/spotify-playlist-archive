@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 陳芳語
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,684 likes - 72 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,682 likes - 72 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

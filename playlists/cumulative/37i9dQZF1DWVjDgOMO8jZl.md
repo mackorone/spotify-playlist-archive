@@ -2,7 +2,7 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia: Sayf, Emma Nolde, Glocky, camoufly, Carla Hero e Marte \(in cover\).
+> Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Marte in cover.
 
 202 songs - 9 hr 35 min
 

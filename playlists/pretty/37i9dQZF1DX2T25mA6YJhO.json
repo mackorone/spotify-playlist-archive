@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Bloodstein.",
-  "num_followers": 28688,
+  "num_followers": 28704,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
+        "name": "Entre Amores y Errores",
+        "url": "https://open.spotify.com/album/071E2UPxi3oZfLm9vHTxpc"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 165197,
+      "name": "Amores y Errores",
+      "url": "https://open.spotify.com/track/0m9HSvl7fLvBxNPDSFTW2D"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
         "name": "Entre todas lo arreglamos (Vol II)",
         "url": "https://open.spotify.com/album/62gImLRSukdQx5i1BryAyK"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 257601,
       "name": "El d\u00eda no me da con Shego",
       "url": "https://open.spotify.com/track/0bHYnkMSMwFOaqxKk36sC5"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
-        "name": "Entre Amores y Errores",
-        "url": "https://open.spotify.com/album/071E2UPxi3oZfLm9vHTxpc"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 165197,
-      "name": "Amores y Errores",
-      "url": "https://open.spotify.com/track/0m9HSvl7fLvBxNPDSFTW2D"
     },
     {
       "added_at": "2025-07-17 22:00:50",
@@ -787,6 +787,26 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
+        "name": "Hacernos viejos",
+        "url": "https://open.spotify.com/album/401qGLYQOXhMohO9yWWDbc"
+      },
+      "artists": [
+        {
+          "name": "MATEO ERA\u00d1A",
+          "url": "https://open.spotify.com/artist/1sDUoF8qwvVEcTYv2MYwLk"
+        },
+        {
+          "name": "Pu\u00f1o Drag\u00f3n",
+          "url": "https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK"
+        }
+      ],
+      "duration_ms": 230011,
+      "name": "Hacernos viejos",
+      "url": "https://open.spotify.com/track/16bipYCYbPVVMzoVGkN5HU"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
         "name": "Una daga",
         "url": "https://open.spotify.com/album/3gfyf5nkJ6llGolwyJAMXo"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 164358,
       "name": "Robo Tu Tiempo",
       "url": "https://open.spotify.com/track/4OMZMYLWGpM10z2cwGEXa1"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
-        "name": "Hacernos viejos",
-        "url": "https://open.spotify.com/album/401qGLYQOXhMohO9yWWDbc"
-      },
-      "artists": [
-        {
-          "name": "MATEO ERA\u00d1A",
-          "url": "https://open.spotify.com/artist/1sDUoF8qwvVEcTYv2MYwLk"
-        },
-        {
-          "name": "Pu\u00f1o Drag\u00f3n",
-          "url": "https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK"
-        }
-      ],
-      "duration_ms": 230011,
-      "name": "Hacernos viejos",
-      "url": "https://open.spotify.com/track/16bipYCYbPVVMzoVGkN5HU"
     },
     {
       "added_at": "2025-07-17 22:00:50",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
-        "name": "Loros",
-        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
-      },
-      "artists": [
-        {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Loros",
-      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
         "name": "Pogo",
         "url": "https://open.spotify.com/album/2yksVeZKwSi1PJ3CUFIupN"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 184112,
       "name": "Pogo",
       "url": "https://open.spotify.com/track/3iOahJinkCMmZOvP2VApg7"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
+        "name": "Loros",
+        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Loros",
+      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
     },
     {
       "added_at": "2025-07-17 22:00:50",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
-        "name": "PARAR EL TIEMPO",
-        "url": "https://open.spotify.com/album/6SDYi499w2SeknkNGxh0cB"
-      },
-      "artists": [
-        {
-          "name": "Periferia",
-          "url": "https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI"
-        }
-      ],
-      "duration_ms": 197824,
-      "name": "PARAR EL TIEMPO",
-      "url": "https://open.spotify.com/track/3SIPfve99XQwjim9r8uW7S"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
         "name": "COMERTE",
         "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 158400,
       "name": "COMERTE",
       "url": "https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
+        "name": "PARAR EL TIEMPO",
+        "url": "https://open.spotify.com/album/6SDYi499w2SeknkNGxh0cB"
+      },
+      "artists": [
+        {
+          "name": "Periferia",
+          "url": "https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI"
+        }
+      ],
+      "duration_ms": 197824,
+      "name": "PARAR EL TIEMPO",
+      "url": "https://open.spotify.com/track/3SIPfve99XQwjim9r8uW7S"
     },
     {
       "added_at": "2025-07-17 22:00:50",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
-        "name": "No va a doler",
-        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
-      },
-      "artists": [
-        {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
-        }
-      ],
-      "duration_ms": 160048,
-      "name": "No va a doler",
-      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
         "name": "Ganas de verte",
         "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 174613,
       "name": "Ganas de verte",
       "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
+        "name": "No va a doler",
+        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
+      },
+      "artists": [
+        {
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
+        }
+      ],
+      "duration_ms": 160048,
+      "name": "No va a doler",
+      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
     },
     {
       "added_at": "2025-07-17 22:00:50",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-07-17 22:00:50",
       "album": {
-        "name": "Paseo de vuelta",
-        "url": "https://open.spotify.com/album/6PIfqmrG9VhqdNPYN8DrN7"
-      },
-      "artists": [
-        {
-          "name": "Bum Motion Club",
-          "url": "https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe"
-        }
-      ],
-      "duration_ms": 227340,
-      "name": "Paseo de vuelta",
-      "url": "https://open.spotify.com/track/7yQVptuLX94BXU1tEvXBlK"
-    },
-    {
-      "added_at": "2025-07-17 22:00:50",
-      "album": {
         "name": "Pedro Bicicletas",
         "url": "https://open.spotify.com/album/0P3Hdlh6LmtJXei8SVJFsj"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 219428,
       "name": "Pedro Bicicletas",
       "url": "https://open.spotify.com/track/7lXH03N9sAScdPeQ9HDJXx"
+    },
+    {
+      "added_at": "2025-07-17 22:00:50",
+      "album": {
+        "name": "Paseo de vuelta",
+        "url": "https://open.spotify.com/album/6PIfqmrG9VhqdNPYN8DrN7"
+      },
+      "artists": [
+        {
+          "name": "Bum Motion Club",
+          "url": "https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe"
+        }
+      ],
+      "duration_ms": 227340,
+      "name": "Paseo de vuelta",
+      "url": "https://open.spotify.com/track/7yQVptuLX94BXU1tEvXBlK"
     },
     {
       "added_at": "2025-07-17 22:00:50",

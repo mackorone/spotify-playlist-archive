@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,585 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,626 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 14 | [Je vais t'aimer](https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La vieille](https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm) | 5:27 |
 | 15 | [Message personnel \- Remasterisé en 2013](https://open.spotify.com/track/1E1fwQ5Wmls13iEf4QjL9y) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Message personnel \(Version Deluxe\)](https://open.spotify.com/album/6tU1iGwcfWjFasYGnoVj6k) | 4:16 |
 | 16 | [San Francisco](https://open.spotify.com/track/4EucYViqJKQ4lCECHnec1P) | [Maxime Le Forestier](https://open.spotify.com/artist/63daU3zd0ubMpG5sgOorgC) | [Mon Frère](https://open.spotify.com/album/3AQhnilaP323JIXSDAYofu) | 2:45 |
-| 17 | [Lettre à France](https://open.spotify.com/track/7wOv0Qd3aKaDEw0QplvJzl) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Coucou Me Revoilou](https://open.spotify.com/album/3wqj1dmx9XqLSdPGwaWEDk) | 4:50 |
-| 18 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/5cC9RZFMzrpbA9U1m4zSPm) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Vu de l'extérieur](https://open.spotify.com/album/0NACl36sqipY6OZXOqy1At) | 3:23 |
+| 17 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/5cC9RZFMzrpbA9U1m4zSPm) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Vu de l'extérieur](https://open.spotify.com/album/0NACl36sqipY6OZXOqy1At) | 3:23 |
+| 18 | [Lettre à France](https://open.spotify.com/track/7wOv0Qd3aKaDEw0QplvJzl) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Coucou Me Revoilou](https://open.spotify.com/album/3wqj1dmx9XqLSdPGwaWEDk) | 4:50 |
 | 19 | [Je survivrai](https://open.spotify.com/track/5y74lcKWh9u3F7NP1bcUXV) | [Regine](https://open.spotify.com/artist/2RhiWS0GZaDS22fguBZ1f2) | [Les 50 plus belles chansons](https://open.spotify.com/album/1ZTF0dEVmL0sXSUecpvBu0) | 3:10 |
 | 20 | [J'ai encore rêvé d'elle](https://open.spotify.com/track/6aV2qifrzZkfT2PW3gsWDE) | [Il Etait Une Fois](https://open.spotify.com/artist/1QQlg9J5PEMv9cpOOJPUvR) | [ils vecurent heureux](https://open.spotify.com/album/16ymDIBYhTE7GANUGFJYmk) | 3:40 |
 | 21 | [En chantant](https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [En Chantant](https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC) | 3:54 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 37 | [On ira tous au paradis](https://open.spotify.com/track/58bRgUVRgeHrrGfqR7v96k) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Best Of 2003](https://open.spotify.com/album/6uoHpvJlZvaREOR1Z3Lu8i) | 4:33 |
 | 38 | [C'est moi](https://open.spotify.com/track/6GGTIbx1HkiJybU8yaRqZX) | [C\. Jérôme](https://open.spotify.com/artist/4tJSPijz99rQ8cNtr7DYMH) | [Baby Boy](https://open.spotify.com/album/1rvuEe2N58ujU6CjRRTUni) | 2:52 |
 | 39 | [Le Loir\-et\-Cher](https://open.spotify.com/track/4bqzWAxQdzwW8BGjFI02CJ) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [CD Story](https://open.spotify.com/album/3vlu5v98oGi4Qgj1XvwEgH) | 2:46 |
-| 40 | [Téléphone\-moi](https://open.spotify.com/track/5zILwyLYKdDRgMBfuOZYob) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Téléphone\-moi / Tu m'avais dit \- Single](https://open.spotify.com/album/3Z8ys5UIyDtytg6pfsKAUS) | 3:10 |
-| 41 | [J'ai dix ans](https://open.spotify.com/track/3pWBtajUyESxMhyxWD78zR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [J'ai dix ans](https://open.spotify.com/album/61ELXLv7SrKIdL3Gf22ERQ) | 3:02 |
+| 40 | [J'ai dix ans](https://open.spotify.com/track/3pWBtajUyESxMhyxWD78zR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [J'ai dix ans](https://open.spotify.com/album/61ELXLv7SrKIdL3Gf22ERQ) | 3:02 |
+| 41 | [Téléphone\-moi](https://open.spotify.com/track/5zILwyLYKdDRgMBfuOZYob) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Téléphone\-moi / Tu m'avais dit \- Single](https://open.spotify.com/album/3Z8ys5UIyDtytg6pfsKAUS) | 3:10 |
 | 42 | [Le téléphone pleure](https://open.spotify.com/track/4cAeq0pjjvWxFfy7NL3XSD) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ), [Frédérique](https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 4:05 |
 | 43 | [Les Rois mages \- Remasterisé en 2006](https://open.spotify.com/track/2y31xdqCINOlMWeR7sfR23) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Love](https://open.spotify.com/album/4tDE4kPJZBjZ8MJpF1ABUt) | 3:24 |
 | 44 | [Ça balance pas mal à Paris \- Remasterisé en 2002](https://open.spotify.com/track/3MyUnoqEPeCANpFyLYXBhN) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4), [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Pour Me Comprendre \(40 titres\)](https://open.spotify.com/album/1Nkz53Btm6laHVLRo595DZ) | 2:16 |

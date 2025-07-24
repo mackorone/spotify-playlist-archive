@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > ¡Las mujeres de la Música Mexicana! Camila Fernández en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,593 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,643 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 46 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/15uu7J5uhauYJ9hGtJ077N) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 3:04 |
 | 47 | [Potpourrí ranchero \(Copitas de mezcal, La tequilera, La charreada\)](https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 3:44 |
 | 48 | [Una Vida](https://open.spotify.com/track/4e3o6V532LdEuBtr3WEPDQ) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 2:57 |
-| 49 | [Mejor Que Tú](https://open.spotify.com/track/0NTvttKPwlAfHz5RFdXTHi) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Mejor Que Tú](https://open.spotify.com/album/6KsEJaXvbGHtwGFVF3gZWI) | 3:28 |
+| 49 | [Insensible A Ti \(Me Pone A Mil\)](https://open.spotify.com/track/7LvhyOWIxkpRHvrOB9YxSk) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [16 Éxitos De Oro](https://open.spotify.com/album/4Y0ngjTprxXbjjjzVw1rDR) | 4:03 |
 | 50 | [Contigo En La Distancia](https://open.spotify.com/track/1keRDIpM0Kv4wHE5sjuBpy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:46 |
 | 51 | [Resulta](https://open.spotify.com/track/4fsjK8V9s53YyQx5zTlncb) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 4:25 |
 | 52 | [Entiende Que Ya](https://open.spotify.com/track/6LaHhcm92gEEO2CYxUJ340) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Entiende Que Ya](https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ) | 2:47 |
 | 53 | [Todo Todo](https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Todo Todo](https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD) | 3:14 |
-| 54 | [Insensible A Ti \(Me Pone A Mil\)](https://open.spotify.com/track/7LvhyOWIxkpRHvrOB9YxSk) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [16 Éxitos De Oro](https://open.spotify.com/album/4Y0ngjTprxXbjjjzVw1rDR) | 4:03 |
+| 54 | [Mejor Que Tú](https://open.spotify.com/track/0NTvttKPwlAfHz5RFdXTHi) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Mejor Que Tú](https://open.spotify.com/album/6KsEJaXvbGHtwGFVF3gZWI) | 3:28 |
 | 55 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
 | 56 | [Échame a Mí la Culpa](https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC) | [Los Exitos De Amalia Mendoza](https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl) | 3:11 |
 | 57 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ) | 2:53 |
@@ -98,12 +98,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 88 | [Por Salud Mental](https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:32 |
 | 89 | [Que te Vaya Bonito](https://open.spotify.com/track/26s97B2gSEVy1vhPmLALmr) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/4BLddBWl0kBBxGQnQQ9Sas) | 2:58 |
 | 90 | [No Entiendo](https://open.spotify.com/track/1TCjgVOmX3zV0nuRQtSoPm) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:44 |
-| 91 | [Invitame A Pecar](https://open.spotify.com/track/7MSO3A4OpN8gJuSP3A0GHK) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Invitame A Pecar](https://open.spotify.com/album/0p0lt9i0YCTHsM1pGij9rR) | 2:10 |
+| 91 | [Seis Pies Abajo](https://open.spotify.com/track/6vToApx4MX31wLOxuKXElW) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Me Saludas A La Tuya](https://open.spotify.com/album/19czamPsw1zWGUQon24S8R) | 2:43 |
 | 92 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/4TETxb4ElOE3AtrNgQO6PO) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 1:53 |
 | 93 | [Sin Llorar](https://open.spotify.com/track/2SDXa6StUCnkkAf73WLQTW) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/7ro6OIb9KnBajgzA2NeBI6) | 3:42 |
 | 94 | [Cielito Lindo](https://open.spotify.com/track/7vzrbp7j0XIHSycOZqgRa0) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto \- 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/5s2FnaKvePvxbVaBt1qZMF) | 3:48 |
 | 95 | [Te Solte La Rienda](https://open.spotify.com/track/5vWniApCCY3PXFHY70pN8Q) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Interpreta A Jose Alfredo Jimenez](https://open.spotify.com/album/2WclW17u0Wwa3DLdSmwekb) | 2:53 |
-| 96 | [Seis Pies Abajo](https://open.spotify.com/track/6vToApx4MX31wLOxuKXElW) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Me Saludas A La Tuya](https://open.spotify.com/album/19czamPsw1zWGUQon24S8R) | 2:43 |
+| 96 | [Invitame A Pecar](https://open.spotify.com/track/7MSO3A4OpN8gJuSP3A0GHK) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Invitame A Pecar](https://open.spotify.com/album/0p0lt9i0YCTHsM1pGij9rR) | 2:10 |
 | 97 | [Paloma Negra](https://open.spotify.com/track/3WfouFwIhmo4p3tgZMUnXM) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 3:27 |
 | 98 | [Llévate](https://open.spotify.com/track/4W1uNL0IaePT0GbbeKXn0G) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Sin Llorar](https://open.spotify.com/album/7ro6OIb9KnBajgzA2NeBI6) | 3:10 |
 | 99 | [Mi Destino Fue Quererte](https://open.spotify.com/track/23kIUnmZJKFElrg5fXlqSR) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [Flor Silvestre](https://open.spotify.com/album/44J9myM94DyzmFhctig6zd) | 3:30 |

@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "Angel Patience",
+        "url": "https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp"
+      },
+      "artists": [
+        {
+          "name": "Olympia Vitalis",
+          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213688,
+      "name": "Angel Patience",
+      "url": "https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7"
+    },
+    {
+      "album": {
         "name": "Sad Songs For Winter",
         "url": "https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp"
       },
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 210071,
       "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
       "url": "https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA"
@@ -2188,7 +2206,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
@@ -2316,7 +2334,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 160455,
       "name": "FREEDOM (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4"
@@ -5550,7 +5568,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 218150,
       "name": "Open Light",
       "url": "https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h"
@@ -6646,7 +6664,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 165000,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
@@ -7046,7 +7064,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 173000,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
@@ -7442,7 +7460,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 220165,
       "name": "To Be Found",
       "url": "https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF"
@@ -7748,7 +7766,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 139399,
       "name": "W1LL U L13?",
       "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
@@ -7958,7 +7976,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 188235,
       "name": "When In Rome",
       "url": "https://open.spotify.com/track/6gMQzn0SHgN2TKDwkJWShl"

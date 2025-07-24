@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182 likes - 104 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 183 likes - 104 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 56 | [Distance](https://open.spotify.com/track/5HrHaeqSvIviQAmCZaPejd) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Distance](https://open.spotify.com/album/0Mz3Jqxb6m7JUZsUJrN6cW) | 3:42 |
 | 57 | [Bite My Tongue](https://open.spotify.com/track/46H2plPamhaf0S64tdCEWK) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Neon From Now On](https://open.spotify.com/album/6yjozquVFNSroCrsOFwKQw) | 2:47 |
 | 58 | [Five Past Ten](https://open.spotify.com/track/6iOQIQleZKnvWbPu9LZLnY) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Five Past Ten](https://open.spotify.com/album/0iEMgxSGCsUH77oJPtKFjT) | 3:31 |
-| 59 | [Strawberry Water](https://open.spotify.com/track/1VUDUqZizxZcgX6LZL8Mfp) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Problems](https://open.spotify.com/album/0cIfc3rnu2iEB4e7rRu0k3) | 2:20 |
-| 60 | [Follows You](https://open.spotify.com/track/5nStHzdHO2GQDRuscRxPJQ) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Follows You](https://open.spotify.com/album/2RSKFTL1S4XwxVxQP8eorN) | 3:26 |
+| 59 | [Follows You](https://open.spotify.com/track/5nStHzdHO2GQDRuscRxPJQ) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Follows You](https://open.spotify.com/album/2RSKFTL1S4XwxVxQP8eorN) | 3:26 |
+| 60 | [Strawberry Water](https://open.spotify.com/track/1VUDUqZizxZcgX6LZL8Mfp) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Problems](https://open.spotify.com/album/0cIfc3rnu2iEB4e7rRu0k3) | 2:20 |
 | 61 | [GRUDGE](https://open.spotify.com/track/3F9lkDd91qdLnhkVtZxOGo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:12 |
 | 62 | [Best Junkie You Adore](https://open.spotify.com/track/1M3EiXZ6IKE3rdDRQIr6F9) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 2:56 |
 | 63 | [OBSESSED](https://open.spotify.com/track/3MVuuSJqmJvBNbDYi74O8v) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:25 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 73 | [Woman Is King](https://open.spotify.com/track/1gxc1dIYLmSS2sxMm8BYNj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Tell My Therapist I'm Fine \(Deluxe\)](https://open.spotify.com/album/6qPZrueXJiXtEe8qxGq49N) | 1:46 |
 | 74 | [too much](https://open.spotify.com/track/4UEgp2mi62hkc6vxnU2l4u) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [heaven/heartaches](https://open.spotify.com/album/1WsFxIioDqQ2JhGe80zPjy) | 2:56 |
 | 75 | [The Day Of The Locust](https://open.spotify.com/track/6BB80mPDvnkd5CceejCdXi) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [The Great Electronic Swindle](https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3) | 6:50 |
-| 76 | [Everything Forever](https://open.spotify.com/track/6RRJJCxA0kEtvBnhUog2Y9) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Everything Forever](https://open.spotify.com/album/5JZy6n8SKyaoFeDaBVjxR4) | 2:48 |
-| 77 | [Ain't No Friend Of Mine](https://open.spotify.com/track/4T6lmAIs8c5O2OitvNKAuI) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/4oeYzrAzI7XQzD0nStoGN4) | 3:32 |
+| 76 | [Ain't No Friend Of Mine](https://open.spotify.com/track/4T6lmAIs8c5O2OitvNKAuI) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/4oeYzrAzI7XQzD0nStoGN4) | 3:32 |
+| 77 | [Everything Forever](https://open.spotify.com/track/6RRJJCxA0kEtvBnhUog2Y9) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Everything Forever](https://open.spotify.com/album/5JZy6n8SKyaoFeDaBVjxR4) | 2:48 |
 | 78 | [loser](https://open.spotify.com/track/4k7tf8uhjXGJWxYAElWnRj) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [loser](https://open.spotify.com/album/2kDtsh8A4CTdgDOc35prCn) | 2:22 |
 | 79 | [Enter The Void](https://open.spotify.com/track/58xeEl5QLO0AGq7HoRV8Lt) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Eric Nally](https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn) | [The Great Electronic Swindle](https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3) | 5:15 |
 | 80 | [Change Shapes](https://open.spotify.com/track/2o86nd5msNOHPGVHpaQQ9p) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Vicious Creature](https://open.spotify.com/album/628Rp8jeGrMjWIexMY83Ip) | 3:25 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 103 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 104 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `Ab3fSAAAAAAfKb9f5k62RfRMwoBwxggX`
+Snapshot ID: `Ab3k3gAAAAAVEPWfUEMR7YXJn71oNY8x`

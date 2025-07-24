@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 109900,
+  "num_followers": 109955,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -235,26 +235,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Desert Vision",
-        "url": "https://open.spotify.com/album/77Dd8lk7HjusgSRJi0zwPy"
-      },
-      "artists": [
-        {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
-        },
-        {
-          "name": "Paul Speer",
-          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Desert Rain",
-      "url": "https://open.spotify.com/track/5wz4ls3Rik7XSKTgdNvFDn"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Natural States",
         "url": "https://open.spotify.com/album/3HyH82W2IiahIKXnLXpg3K"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 258000,
       "name": "Rain Forest",
       "url": "https://open.spotify.com/track/6FZfxmeVhsdqkD8WJfP83n"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Desert Vision",
+        "url": "https://open.spotify.com/album/77Dd8lk7HjusgSRJi0zwPy"
+      },
+      "artists": [
+        {
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
+        },
+        {
+          "name": "Paul Speer",
+          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Desert Rain",
+      "url": "https://open.spotify.com/track/5wz4ls3Rik7XSKTgdNvFDn"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Oasis [Remastered]",
-        "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
-      },
-      "artists": [
-        {
-          "name": "Kitaro",
-          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
-        }
-      ],
-      "duration_ms": 489093,
-      "name": "Cosmic Energy",
-      "url": "https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Seven Waves",
         "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 317733,
       "name": "The Third Wave - Love In The Waves",
       "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Oasis [Remastered]",
+        "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
+      },
+      "artists": [
+        {
+          "name": "Kitaro",
+          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
+        }
+      ],
+      "duration_ms": 489093,
+      "name": "Cosmic Energy",
+      "url": "https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Ages",
-        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
-      },
-      "artists": [
-        {
-          "name": "Edgar Froese",
-          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
-        }
-      ],
-      "duration_ms": 672226,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/6g0mQNCdaaKBhwt9vGBckB"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 754103,
       "name": "Prism",
       "url": "https://open.spotify.com/track/5R5UMzC5qCkpCB6Q8ZMaFK"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Ages",
+        "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
+      },
+      "artists": [
+        {
+          "name": "Edgar Froese",
+          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
+        }
+      ],
+      "duration_ms": 672226,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
     },
     {
       "added_at": "2023-08-18 14:02:54",

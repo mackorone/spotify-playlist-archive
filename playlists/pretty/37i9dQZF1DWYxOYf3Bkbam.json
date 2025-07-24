@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 58448,
+  "num_followers": 58471,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Nuestras Mejores 30 Canciones",
-        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
-        }
-      ],
-      "duration_ms": 146600,
-      "name": "Mi \u00daltima Flor",
-      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Consagraci\u00f3n del Chamam\u00e9",
         "url": "https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 163920,
       "name": "A\u00f1oranzas",
       "url": "https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Nuestras Mejores 30 Canciones",
+        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "duration_ms": 146600,
+      "name": "Mi \u00daltima Flor",
+      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Los 55 Anos del Cuarteto Santa Ana",
-        "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
-      },
-      "artists": [
-        {
-          "name": "Carlos Talavera con el Cuarteto Santa Ana",
-          "url": "https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I"
-        },
-        {
-          "name": "Ernesto Montiel",
-          "url": "https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd"
-        }
-      ],
-      "duration_ms": 187013,
-      "name": "Rumbeando Pal Litoral",
-      "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Refugio de So\u00f1adores",
         "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 202025,
       "name": "Refugio de So\u00f1adores",
       "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Los 55 Anos del Cuarteto Santa Ana",
+        "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
+      },
+      "artists": [
+        {
+          "name": "Carlos Talavera con el Cuarteto Santa Ana",
+          "url": "https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I"
+        },
+        {
+          "name": "Ernesto Montiel",
+          "url": "https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Rumbeando Pal Litoral",
+      "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
     },
     {
       "added_at": "2025-03-31 12:53:49",

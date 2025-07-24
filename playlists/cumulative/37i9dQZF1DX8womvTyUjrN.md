@@ -4,7 +4,7 @@
 
 > The new wave of Latin pop 🌊 Cover: Reik & Xavi
 
-1,002 songs - 2 day 2 hr 6 min
+1,003 songs - 2 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [2 versos](https://open.spotify.com/track/0TkS7lZBW37xPA0W9aoJAR) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [2 versos](https://open.spotify.com/album/2iBaosyGOcw9Lri3Qmx7Nu) | 2:24 | 2025-02-14 | 2025-04-12 |
 | [2+1](https://open.spotify.com/track/0uB9gsssuj6l3XLi25ADYl) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [2+1](https://open.spotify.com/album/3bPJNCgy93rlyBQdBoAHCu) | 2:37 | 2023-10-06 | 2023-12-02 |
 | [20 Minutos](https://open.spotify.com/track/64tJTziuLk4Q3NJKT4j0xK) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB) | [20 Minutos](https://open.spotify.com/album/1IgtGBd7kISzw15xkFwllh) | 3:23 | 2022-05-13 | 2022-07-26 |
-| [222](https://open.spotify.com/track/5DuFdUAkm6ddtmwGVwraXC) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [222](https://open.spotify.com/album/5k8OLNKJjQYH3LUQP8nvis) | 1:58 | 2025-06-27 |  |
+| [222](https://open.spotify.com/track/5DuFdUAkm6ddtmwGVwraXC) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [222](https://open.spotify.com/album/5k8OLNKJjQYH3LUQP8nvis) | 1:58 | 2025-06-27 | 2025-07-24 |
 | [24 7](https://open.spotify.com/track/42edNeWrOtXk4G63dSfw4E) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA) | [24 7](https://open.spotify.com/album/5NbqLYm2jinvXThQz4QQm8) | 2:52 | 2024-06-07 | 2024-07-19 |
 | [26 \- ni tarde ni temprano](https://open.spotify.com/track/6ClF0j9hpvx0PcNBbiUZT9) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [26 \(ni tarde ni temprano\)](https://open.spotify.com/album/7fhRpgRxxa7FUZWQXpRitl) | 3:23 | 2024-02-02 | 2024-04-06 |
 | [2AM](https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [2AM](https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB) | 3:16 | 2024-11-22 | 2025-01-25 |
@@ -440,6 +440,7 @@
 | [la casa](https://open.spotify.com/track/4GONakAMRJAdk8e7cnmA7m) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [la casa](https://open.spotify.com/album/3gcuHvooUJ0xyNnWze2aVu) | 2:41 | 2025-06-06 | 2025-06-28 |
 | [La Copa](https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Copa](https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF) | 2:34 | 2022-09-23 | 2023-03-11 |
 | [la culpa \(track 11\)](https://open.spotify.com/track/70LTdbe3zYvsY5c1Gw9Gxv) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [la culpa \(track 11\)](https://open.spotify.com/album/0nxtwpyUOHlbtQUee9oFaP) | 2:45 | 2025-06-13 |  |
+| [La del Primer Puesto](https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La del Primer Puesto](https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua) | 3:14 | 2025-07-23 |  |
 | [La Despedida](https://open.spotify.com/track/5vTb7FgRm72sbe5DPbAyNt) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [La Despedida](https://open.spotify.com/album/0EqbbXBY9rRuI8nc3j9hVG) | 2:26 | 2025-01-17 | 2025-03-15 |
 | [La Dosis](https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [La Dosis](https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq) | 2:55 | 2023-12-08 | 2024-04-06 |
 | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI) | 4:34 | 2022-10-28 | 2023-02-18 |

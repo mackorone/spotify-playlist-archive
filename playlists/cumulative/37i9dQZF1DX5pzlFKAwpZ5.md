@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-322 songs - 23 hr 55 min
+323 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [June Love](https://open.spotify.com/track/4HSkOnfpJuaB2bqe9p3n4L) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [June Love](https://open.spotify.com/album/6oRyG7AD7eUaZijBTBYkRO) | 2:45 | 2024-10-11 |  |
 | [Kaiketu](https://open.spotify.com/track/40QroEBlHB5yyQQZdOECdh) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Konomama](https://open.spotify.com/album/0Xp5gDINnEjsj92TPIcaMH) | 3:15 | 2022-02-22 | 2023-07-07 |
 | [Kansai](https://open.spotify.com/track/1lRmIEvPzmp1z2MB1Y2jzB) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 3:38 | 2022-01-07 |  |
-| [Kernel](https://open.spotify.com/track/58F27RlxevRB7p4e1Bm5TK) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Kernel](https://open.spotify.com/album/6eAyylPBXwxNOYr7ZbtKCq) | 1:56 | 2024-12-14 |  |
+| [Kernel](https://open.spotify.com/track/58F27RlxevRB7p4e1Bm5TK) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Kernel](https://open.spotify.com/album/6eAyylPBXwxNOYr7ZbtKCq) | 1:56 | 2024-12-14 | 2025-07-24 |
 | [Kibou](https://open.spotify.com/track/2XJeHGe5YMCJgfKbsfCONV) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Kibou](https://open.spotify.com/album/0ohwM6AWnYHFfVeltMAiCq) | 3:32 | 2023-01-13 | 2025-03-21 |
 | [Kiteki](https://open.spotify.com/track/01Vg2gmX03mM3ku0MD9FKC) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ) | 3:58 | 2023-07-06 | 2025-01-25 |
 | [Kiteki](https://open.spotify.com/track/5ElIBhljMv506V5OZChLbW) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/5PxpE5M4KNm4pl1EKbsCjc) | 3:58 | 2023-10-13 | 2024-04-19 |
@@ -148,6 +148,7 @@
 | [Kuware Uta \- Intro](https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 2:09 | 2023-01-06 | 2023-08-19 |
 | [Körper](https://open.spotify.com/track/22FN9G9qwPwABohAaYzcAg) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Raum](https://open.spotify.com/album/7EnDzySppi2dvBGEFFcmHu) | 5:55 | 2022-01-07 | 2025-01-25 |
 | [Körper](https://open.spotify.com/track/5LoatYCsraVXB08X6bhpzO) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Raum](https://open.spotify.com/album/1CPBp6tHWeEUM87bEBCpxS) | 5:55 | 2022-10-15 | 2024-04-19 |
+| [La brise oubliée](https://open.spotify.com/track/0HJ6XZxSibaTLpqJFo8Pj0) | [attic](https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku) | [La brise oubliée](https://open.spotify.com/album/5Iik8YsocayeSiVJRuJLdA) | 2:26 | 2025-07-03 |  |
 | [La Cathédrale Engloutie](https://open.spotify.com/track/0GiSKGYCdQtGXDSCmSxuVb) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 4:04 | 2022-01-07 | 2022-12-21 |
 | [Lachrymation](https://open.spotify.com/track/5SCIlWl5oI8QmSgF9j5mjr) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Lachrymation](https://open.spotify.com/album/4av2tDxEG9t4rlssx6XJUT) | 3:59 | 2022-01-07 | 2025-03-20 |
 | [Layer](https://open.spotify.com/track/7CxY2kPVqFLmwePf8YfGZW) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Layer](https://open.spotify.com/album/60lpyOQBN0qHUDHuP2IB9F) | 3:12 | 2025-05-16 |  |

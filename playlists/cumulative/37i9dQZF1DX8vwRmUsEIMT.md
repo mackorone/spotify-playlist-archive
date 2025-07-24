@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: The Last Dinner Party
 
-3,095 songs - 6 day 23 hr 11 min
+3,097 songs - 6 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Big Hammer](https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Big Hammer](https://open.spotify.com/album/7yT5OWUrzLWQQ5LTgGpZ36) | 4:00 | 2023-06-29 | 2023-07-21 |
 | [Big House](https://open.spotify.com/track/0JxgrqSA328tRUNWdTmRAL) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Big House](https://open.spotify.com/album/2tqpoS992y7iKD4M4C2Jmx) | 3:25 | 2023-04-06 | 2023-04-28 |
 | [Big Man](https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Big Man](https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb) | 4:13 | 2024-06-20 | 2024-07-19 |
+| [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 | 2025-07-23 |  |
 | [Big Smile \(Pose For Me\) \[feat\. ODUMODUBLVCK\]](https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Afrikan Alien](https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct) | 3:01 | 2024-11-15 | 2024-12-13 |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-04-25 | 2024-05-24 |
 | [Bigger Than Life](https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Bigger Than Life](https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G) | 2:40 | 2022-06-30 | 2022-07-29 |
@@ -861,6 +862,7 @@
 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-17 |  |
 | [Eucalyptus](https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Eucalyptus](https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl) | 4:24 | 2023-03-24 | 2023-04-05 |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-02 | 2024-06-01 |
+| [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 | 2025-07-23 |  |
 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 | 2024-09-12 | 2024-10-18 |
 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 | 2024-10-03 | 2024-11-15 |
 | [Even In Arcadia](https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:28 | 2025-05-08 | 2025-06-06 |

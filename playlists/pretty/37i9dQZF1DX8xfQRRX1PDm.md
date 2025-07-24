@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Party\-ready, the biggest Bollywood dance tracks\. Cover \- Bad Newz
+> Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,902 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,467 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Sher Khul Gaye](https://open.spotify.com/track/5EqAFRGd2E93JZfzOspD6m) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Fighter](https://open.spotify.com/album/5p1147cCqxrWBDZAtaDR54) | 3:00 |
 | 75 | [Dil E Nadaan \(From "Housefull 5"\)](https://open.spotify.com/track/40FcOzKAc8fe5K1z6CU8f0) | [White Noise Collectives](https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Sumonto Mukherjee](https://open.spotify.com/artist/6g6hYV0STvnWlu1NPD6pDy), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Dil E Nadaan \(From "Housefull 5"\)](https://open.spotify.com/album/0AENKe45b3y0qjmixBVcKn) | 3:28 |
 
-Snapshot ID: `aHdYggAAAAAfdFtsknUw+m8E7tkSP8Xa`
+Snapshot ID: `aICgQAAAAADKvXK63R1GjDWVVSfneJ/1`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-326 songs - 16 hr 52 min
+327 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [Keep Your Hands off My Baby](https://open.spotify.com/track/5DKc9MXYFqwSlKDModKgF9) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Incredible Little Eva](https://open.spotify.com/album/2EnCHcnNjyBSV0gZ7XPSFo) | 2:32 | 2023-12-30 | 2024-12-12 |
 | [Keep Your Love Locked](https://open.spotify.com/track/1v5veLMvnLZ8mpjIn1gUZv) | [Paul Petersen](https://open.spotify.com/artist/7fUZIscY5nNdeSdetfeBNC) | [All the Hits and More](https://open.spotify.com/album/4cUnVhereIi8xjUYejh7Qm) | 2:11 | 2023-12-30 |  |
 | [Labyrinth](https://open.spotify.com/track/0oPJAmXNC5IkH2XLz82yEe) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:03 | 2023-12-30 |  |
-| [Lady](https://open.spotify.com/track/7qdtc71bUp1oyxaO4IzQae) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Rake It In: The Greatestest Hits](https://open.spotify.com/album/1vUPHNLRsdPmhuyqHmmX1M) | 2:22 | 2023-12-30 |  |
+| [Lady](https://open.spotify.com/track/1YJFNPGWi5jErLPgGZKuSv) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Rake It In: The Greatestest Hits](https://open.spotify.com/album/1PI3JjctHVS3Z1WyXwCuvI) | 2:22 | 2025-07-23 |  |
+| [Lady](https://open.spotify.com/track/7qdtc71bUp1oyxaO4IzQae) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Rake It In: The Greatestest Hits](https://open.spotify.com/album/1vUPHNLRsdPmhuyqHmmX1M) | 2:22 | 2023-12-30 | 2025-07-24 |
 | [Lady Of The Lake](https://open.spotify.com/track/6MwZbyLWRD6cSNzBZY0HSW) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 3:00 | 2023-12-30 |  |
 | [Lady Pleasure](https://open.spotify.com/track/0KnOxl9AL6EDBwvZK9zKTh) | [The Grass Roots](https://open.spotify.com/artist/2IU5UBup85LmAXh5U36DeC) | [Anthology: 1965\-1975](https://open.spotify.com/album/3bEbRbS0Rx7j1R96u604la) | 2:55 | 2023-12-30 |  |
 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 | 2023-12-30 |  |

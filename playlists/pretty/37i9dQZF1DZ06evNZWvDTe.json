@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 12875,
+  "num_followers": 12878,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAB+B9DdvcPrqXtcxMx6138P",
+  "snapshot_id": "aH7UgAAAAABABTIwt7N7SUhATxQxkqMv",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        }
-      ],
-      "duration_ms": 203077,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adonai (Remix) [feat. Castro]",
         "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 288130,
       "name": "Adonai (Remix) [feat. Castro]",
       "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "duration_ms": 203077,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Rudeboy",
-          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
-        }
-      ],
-      "duration_ms": 267660,
-      "name": "Lucky (feat. Rudeboy)",
-      "url": "https://open.spotify.com/track/466oku5g8KzlaYGMGluENO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anointing",
         "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 216546,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+        }
+      ],
+      "duration_ms": 267660,
+      "name": "Lucky (feat. Rudeboy)",
+      "url": "https://open.spotify.com/track/466oku5g8KzlaYGMGluENO"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hope (Brighter Day)",
-        "url": "https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM"
+        "name": "Chingam (feat. Bisa Kdei)",
+        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
       },
       "artists": [
         {
@@ -772,13 +772,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
         }
       ],
-      "duration_ms": 316421,
-      "name": "Hope (Brighter Day)",
-      "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
+      "duration_ms": 214013,
+      "name": "Chingam (feat. Bisa Kdei)",
+      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chingam (feat. Bisa Kdei)",
-        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
+        "name": "Hope (Brighter Day)",
+        "url": "https://open.spotify.com/album/0eDB6dnzG46Xfn1yhycDGM"
       },
       "artists": [
         {
@@ -812,13 +812,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
         }
       ],
-      "duration_ms": 214013,
-      "name": "Chingam (feat. Bisa Kdei)",
-      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
+      "duration_ms": 316421,
+      "name": "Hope (Brighter Day)",
+      "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Burna Boy N Aka",
-          "url": "https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM"
-        }
-      ],
-      "duration_ms": 258964,
-      "name": "Special Sumone (feat. Burna Boy n Aka)",
-      "url": "https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Epistles of Mama",
         "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 207150,
       "name": "Odo Bi",
       "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Burna Boy N Aka",
+          "url": "https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM"
+        }
+      ],
+      "duration_ms": 258964,
+      "name": "Special Sumone (feat. Burna Boy n Aka)",
+      "url": "https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio"
     },
     {
       "added_at": null,
@@ -995,18 +995,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRAG",
-        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/1BQhMEiv7bLPI7wLAdHsn9"
       },
       "artists": [
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 149504,
-      "name": "BRAG",
-      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
+      "duration_ms": 275440,
+      "name": "Bambi Too (feat. Maleek Berry, Quavo & Sarkodie)",
+      "url": "https://open.spotify.com/track/0jFGFUFKNuTTRE2j2gSI8Y"
     }
   ],
   "unique_name": "This Is Sarkodie",

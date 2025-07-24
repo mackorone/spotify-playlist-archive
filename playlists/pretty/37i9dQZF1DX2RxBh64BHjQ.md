@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2SJhf6rTOU53g8yBdAjPby">SoFaygo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,796,977 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,796,629 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

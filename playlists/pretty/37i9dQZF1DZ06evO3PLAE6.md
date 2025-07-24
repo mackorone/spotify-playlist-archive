@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,486 likes - 45 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,487 likes - 45 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 14 | [Good People](https://open.spotify.com/track/5kS79rn0ol9Ha8zyxCz8Z4) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Good People](https://open.spotify.com/album/5O1JpWoLxXK3IgxtxTYBmR) | 4:23 |
 | 15 | [Once In A While](https://open.spotify.com/track/1fzDuszdizZnbNYWFxoWzd) | [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 2:37 |
 | 16 | [Better Be Home Soon](https://open.spotify.com/track/2frGQKAKHIgBdcT8ZvRsgh) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Surrender](https://open.spotify.com/album/3WUaZDzyCXwhsprJkuaaF4) | 3:19 |
-| 17 | [True Colours](https://open.spotify.com/track/2BTf3I9a3wECs9UYY2Pd7V) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Storybook](https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb) | 3:44 |
-| 18 | [Cry Like A Baby](https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:00 |
+| 17 | [Cry Like A Baby](https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:00 |
+| 18 | [True Colours](https://open.spotify.com/track/2BTf3I9a3wECs9UYY2Pd7V) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Storybook](https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb) | 3:44 |
 | 19 | [On A Bad Day](https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 2:51 |
 | 20 | [Ain't No Little Girl](https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 4:17 |
 | 21 | [Lose Yourself \- Live at Civic Theater, Newcastle, Australia](https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Lose Yourself \- Live at Civic Theater, Newcastle, Australia](https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC) | 8:14 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 44 | [F U Cancer](https://open.spotify.com/track/31LIWxlhD7bnCBBRk7oITh) | [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG), [Lyn Bowtell](https://open.spotify.com/artist/25rD775DJJ1JuBZfYYPxKK), [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH), [Wesley Dean](https://open.spotify.com/artist/4KvLfhBh83ARBAQ8Ynm5HI), [Wendy Matthews](https://open.spotify.com/artist/67PiUcvCvLFNUNBiKagzQm) | [F U Cancer](https://open.spotify.com/album/5ho3Zka2kZ3gDnoR8RvZcA) | 2:50 |
 | 45 | [Broken Cup](https://open.spotify.com/track/1CCR0XMAP68OVNqdFDTSr6) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:14 |
 
-Snapshot ID: `aH2DAAAAAADICjNh/251LyrmxfoUMJTS`
+Snapshot ID: `aH7UgAAAAABUIyy5U5ZGOdQHL1Be/vru`

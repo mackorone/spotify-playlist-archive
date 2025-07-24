@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 13190,
+  "num_followers": 13205,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAAkPoaE4aILq5I6Xbtsa0qz",
+  "snapshot_id": "aH7UgAAAAABpPlliYK+OsTrJOEUdBbOv",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palmwine Music 3",
-        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 195873,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hypertension",
         "url": "https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 168504,
       "name": "No Other",
       "url": "https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palmwine Music 3",
+        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 195873,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT"
     },
     {
       "added_at": null,

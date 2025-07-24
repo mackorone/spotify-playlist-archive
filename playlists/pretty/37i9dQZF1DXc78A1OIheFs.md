@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,102 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,103 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 26 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 |
 | 27 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
 | 28 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 |
-| 29 | [Up In Flames \(The Wayland\)](https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Up In Flames \(The Wayland\)](https://open.spotify.com/album/5Xrn0ApfuOLdpwxCckSs7a) | 3:52 |
+| 29 | [Concubine](https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [The Great Escape](https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb) | 4:16 |
 | 30 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 |
-| 31 | [Concubine](https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [The Great Escape](https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb) | 4:16 |
+| 31 | [Up In Flames \(The Wayland\)](https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Up In Flames \(The Wayland\)](https://open.spotify.com/album/5Xrn0ApfuOLdpwxCckSs7a) | 3:52 |
 | 32 | [STALKER \(feat\. Ramirez\)](https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [STALKER \(feat\. Ramirez\)](https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt) | 2:32 |
-| 33 | [Telling Lies](https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Dime](https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd) | 2:11 |
-| 34 | [Icarus](https://open.spotify.com/track/7n428mAFxpfChekp39tLFT) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [Make Way For The Sun](https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ) | 3:34 |
+| 33 | [Icarus](https://open.spotify.com/track/7n428mAFxpfChekp39tLFT) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [Make Way For The Sun](https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ) | 3:34 |
+| 34 | [Telling Lies](https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Dime](https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd) | 2:11 |
 | 35 | [Holding Your Hand](https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Holding Your Hand](https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ) | 2:32 |
 | 36 | [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 |
 | 37 | [Clean](https://open.spotify.com/track/0YwpENNbchlW7WKAhgxEov) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Clean](https://open.spotify.com/album/1XrG4FbpWriXEqBBriZD50) | 3:31 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 57 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 |
 | 58 | [Moonglade](https://open.spotify.com/track/2u4d4vP0rkRwf1s7Tt671a) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Moonglade](https://open.spotify.com/album/6V1xxQCtt0IqSlBXp1YkfB) | 4:34 |
 | 59 | [I Wanna Tell Somebody](https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Josh Milan](https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR) | [I Wanna Tell Somebody](https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme) | 5:58 |
-| 60 | [Bashville on the Sugar](https://open.spotify.com/track/5TkwyidkJz5h03T9N1gsg1) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Bashville on the Sugar](https://open.spotify.com/album/77XfD6bgXUQAfY06U79tQz) | 4:05 |
-| 61 | [So Good](https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [So Good](https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM) | 3:21 |
+| 60 | [So Good](https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [So Good](https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM) | 3:21 |
+| 61 | [Bashville on the Sugar](https://open.spotify.com/track/5TkwyidkJz5h03T9N1gsg1) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Bashville on the Sugar](https://open.spotify.com/album/77XfD6bgXUQAfY06U79tQz) | 4:05 |
 | 62 | [Sail Away](https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Sail Away](https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV) | 2:29 |
 | 63 | [Maumahara Noa Ahau](https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [Brannigan Kaa](https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy) | [Maumahara Noa Ahau](https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp) | 2:50 |
 | 64 | [Handyman.](https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV) | [Handyman.](https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb) | 2:41 |

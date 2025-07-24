@@ -1,12 +1,12 @@
 {
   "description": "This is Fuerza Regida. The essential tracks, all in one playlist.",
-  "num_followers": 664304,
+  "num_followers": 664886,
   "original_name": "This Is Fuerza Regida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAAyJGVlJOLdtOf7zmvGtzBm",
+  "snapshot_id": "aH7UgAAAAADX3M6FJm5BHUfIjKYDqQXq",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 271861,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billete Grande (En Vivo)",
         "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 163940,
       "name": "Billete Grande (En Vivo)",
       "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
     },
     {
       "added_at": null,
@@ -703,6 +703,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Fue Suerte",
+        "url": "https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM"
+      },
+      "artists": [
+        {
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 146231,
+      "name": "Sin Chingarme A Nadie",
+      "url": "https://open.spotify.com/track/3EqEmz85wW3Jq77AqV2wGM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 136913,
+      "name": "Ch y la Pizza",
+      "url": "https://open.spotify.com/track/0UbesRsX2TtiCeamOIVEkp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -731,46 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Hablen",
-        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 136913,
-      "name": "Ch y la Pizza",
-      "url": "https://open.spotify.com/track/0UbesRsX2TtiCeamOIVEkp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Fue Suerte",
-        "url": "https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM"
-      },
-      "artists": [
-        {
-          "name": "Chuy Montana",
-          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 146231,
-      "name": "Sin Chingarme A Nadie",
-      "url": "https://open.spotify.com/track/3EqEmz85wW3Jq77AqV2wGM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "911 (En Vivo)",
         "url": "https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H"
       },
@@ -787,6 +787,46 @@
       "duration_ms": 175423,
       "name": "911 - En Vivo",
       "url": "https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
+        "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 191880,
+      "name": "Ladeando (feat. Fuerza Regida)",
+      "url": "https://open.spotify.com/track/0vgqt0mRZmbb3b57i9p8wV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 134624,
+      "name": "Modo Maldito",
+      "url": "https://open.spotify.com/track/2VmeNiaRsq0Z2gcMcQvHb8"
     },
     {
       "added_at": null,
@@ -815,42 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Hablen",
-        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+        "name": "Dolido Pero No Arrepentido",
+        "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
       },
       "artists": [
         {
           "name": "Fuerza Regida",
           "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 134624,
-      "name": "Modo Maldito",
-      "url": "https://open.spotify.com/track/2VmeNiaRsq0Z2gcMcQvHb8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
-        "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 191880,
-      "name": "Ladeando (feat. Fuerza Regida)",
-      "url": "https://open.spotify.com/track/0vgqt0mRZmbb3b57i9p8wV"
+      "duration_ms": 147877,
+      "name": "Enculado",
+      "url": "https://open.spotify.com/track/3RauwC9sLKjxVN7uNw0vAH"
     },
     {
       "added_at": null,
@@ -871,22 +887,6 @@
       "duration_ms": 169020,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0Jps9bc30C1BCr0UUAXUlc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolido Pero No Arrepentido",
-        "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 147877,
-      "name": "Enculado",
-      "url": "https://open.spotify.com/track/3RauwC9sLKjxVN7uNw0vAH"
     },
     {
       "added_at": null,
@@ -927,6 +927,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dolido Pero No Arrepentido",
+        "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 156298,
+      "name": "Falsa",
+      "url": "https://open.spotify.com/track/3N5fHogY7kxVNrD7icdzXY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 144640,
       "name": "Me Toc\u00f3 Morir",
       "url": "https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolido Pero No Arrepentido",
-        "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 156298,
-      "name": "Falsa",
-      "url": "https://open.spotify.com/track/3N5fHogY7kxVNrD7icdzXY"
     }
   ],
   "unique_name": "This Is Fuerza Regida",

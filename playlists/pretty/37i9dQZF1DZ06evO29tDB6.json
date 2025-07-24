@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 142098,
+  "num_followers": 142113,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAADLQOas5NFKT6k+bhjny1Hk",
+  "snapshot_id": "aH7UgAAAAAA9iN6KiBXSyJ9H+3m/PvEM",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "Dif\u00edcil",
+      "url": "https://open.spotify.com/track/3xpjEMrSF5KdHneYqjgvWs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rayito Colombiano y los Grandes Compositores",
         "url": "https://open.spotify.com/album/5EMKs9y5YoQjNRv0TuEbAm"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 284640,
       "name": "Todo sea por el rocanrol",
       "url": "https://open.spotify.com/track/4gJuuzk8bZmSpSlTyP6yMI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
-        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "Dif\u00edcil",
-      "url": "https://open.spotify.com/track/3xpjEMrSF5KdHneYqjgvWs"
     },
     {
       "added_at": null,
@@ -427,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Raza M\u00e1s Chida",
+        "url": "https://open.spotify.com/album/7iGKBUFdyI3A2XxYjuAa6H"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 208459,
+      "name": "La Raza M\u00e1s Chida",
+      "url": "https://open.spotify.com/track/1DwXFADeKSTu1TwZnQfTSB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinf\u00f3nico",
         "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 311773,
       "name": "Mar\u00eda Sabina",
       "url": "https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Raza M\u00e1s Chida",
-        "url": "https://open.spotify.com/album/7iGKBUFdyI3A2XxYjuAa6H"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 208459,
-      "name": "La Raza M\u00e1s Chida",
-      "url": "https://open.spotify.com/track/1DwXFADeKSTu1TwZnQfTSB"
     },
     {
       "added_at": null,
@@ -683,22 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miguel R\u00edos y las estrellas del Rock latino",
-        "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
       },
       "artists": [
-        {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        },
         {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 203573,
-      "name": "Triste canci\u00f3n de amor (con El Tri)",
-      "url": "https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb"
+      "duration_ms": 309893,
+      "name": "Un d\u00eda en la vida",
+      "url": "https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd"
     },
     {
       "added_at": null,
@@ -719,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
-        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
       },
       "artists": [
         {
@@ -728,9 +724,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 171466,
-      "name": "La fuerza del amor",
-      "url": "https://open.spotify.com/track/1BSVbSNl3VW37uB1KvN2Om"
+      "duration_ms": 283906,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
     },
     {
       "added_at": null,
@@ -751,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tri Sinf\u00f3nico II",
-        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
       },
       "artists": [
         {
@@ -760,9 +756,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 283906,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
+      "duration_ms": 171466,
+      "name": "La fuerza del amor",
+      "url": "https://open.spotify.com/track/1BSVbSNl3VW37uB1KvN2Om"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
-        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+        "name": "Miguel R\u00edos y las estrellas del Rock latino",
+        "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
       "artists": [
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        },
         {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 309893,
-      "name": "Un d\u00eda en la vida",
-      "url": "https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd"
+      "duration_ms": 203573,
+      "name": "Triste canci\u00f3n de amor (con El Tri)",
+      "url": "https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,136 likes - 56 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,950 likes - 56 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 10 | [La Ruta](https://open.spotify.com/track/7sDPVFMYuoq9UPLrM1I7Ct) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Ruta](https://open.spotify.com/album/5lgRpUbqo5VRODoEiQeNCW) | 2:41 |
 | 11 | [Bellakiti](https://open.spotify.com/track/2kDCwtnBqAw2MhCoCZCdy9) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Gangsta Love](https://open.spotify.com/album/5gpRa5a1GPka0N0q6RxtU8) | 2:07 |
 | 12 | [ESTO TAMBIEN ES REGGAETON MEXA](https://open.spotify.com/track/033wAL9AOf65vhGhLIq9uP) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [\(\(\(REXX\)\)\)](https://open.spotify.com/album/4a4gi4zJPboFcefHJZwYBw) | 2:28 |
-| 13 | [TIKITI](https://open.spotify.com/track/6b1L2ZCGDT2SIvoZZNQFv9) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [TIKITI](https://open.spotify.com/album/1G4Xitilt3wm6NoVAwpW9P) | 2:50 |
+| 13 | [TIKITI](https://open.spotify.com/track/6b1L2ZCGDT2SIvoZZNQFv9) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [TIKITI](https://open.spotify.com/album/1G4Xitilt3wm6NoVAwpW9P) | 2:50 |
 | 14 | [POWER](https://open.spotify.com/track/1gNJLNT3AhQS9oFUVNM8d0) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [POWER](https://open.spotify.com/album/1ndqyd0VW38leZ7XMoIH66) | 2:46 |
 | 15 | [FREAKY \(feat\. LUDMILLA\)](https://open.spotify.com/track/6AScOrn9TiSuFanMrW9Xju) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 2:37 |
 | 16 | [PISANDO EL LAMBO](https://open.spotify.com/track/6FucPjGxmA7jTblTsTAGyB) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [PISANDO EL LAMBO](https://open.spotify.com/album/296TjweoPpzQzgXW489zRe) | 2:43 |

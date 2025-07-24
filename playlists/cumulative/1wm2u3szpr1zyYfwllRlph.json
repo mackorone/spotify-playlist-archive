@@ -820,7 +820,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 238085,
       "name": "Forever",
       "url": "https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H"
@@ -2536,6 +2536,24 @@
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/0ZmOuY4FEWPZQdmJKK1Dh5"
+      },
+      "artists": [
+        {
+          "name": "REWIND BE KIND",
+          "url": "https://open.spotify.com/artist/3nwbc6lmUsJP2TfaCcMuZo"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209395,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/3FUbgm757qZE0pwJ9t9kQF"
     },
     {
       "album": {

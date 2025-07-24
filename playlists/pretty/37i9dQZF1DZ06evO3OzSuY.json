@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24693,
+  "num_followers": 24697,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAABmMT45sYzxBFNeNMCupKx0",
+  "snapshot_id": "aH7UgAAAAAA4Ch+oQUbZHacpmD5JZpuh",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shake It Up: I <3 Dance",
+        "url": "https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 146186,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Silver Soul",
         "url": "https://open.spotify.com/album/2lhFCmvAU470Rm2w9BxBS2"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 268973,
       "name": "Fireflies (featuring Zendaya)",
       "url": "https://open.spotify.com/track/3ll96DYZ7riZ5IFQ3NRqye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shake It Up: I <3 Dance",
-        "url": "https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 146186,
-      "name": "I'm Back",
-      "url": "https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: M Lisa",
-  "num_followers": 540653,
+  "num_followers": 540818,
   "original_name": "trend 2025",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-07-22 12:13:38",
       "album": {
+        "name": "Festival",
+        "url": "https://open.spotify.com/album/6IsCf9WYDZrS0lQkFnwmCi"
+      },
+      "artists": [
+        {
+          "name": "Kenan Do\u011fulu",
+          "url": "https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI"
+        }
+      ],
+      "duration_ms": 279799,
+      "name": "Ara Beni L\u00fctfen",
+      "url": "https://open.spotify.com/track/6wW7ZgvYwgOKCRLeqYEM6y"
+    },
+    {
+      "added_at": "2025-07-22 12:13:38",
+      "album": {
         "name": "YANKI X \u0130NT\u0130HAR",
         "url": "https://open.spotify.com/album/5ldopWpksuXdFaKyvQP7gr"
       },
@@ -367,42 +383,6 @@
     {
       "added_at": "2025-07-22 12:13:38",
       "album": {
-        "name": "Festival",
-        "url": "https://open.spotify.com/album/6IsCf9WYDZrS0lQkFnwmCi"
-      },
-      "artists": [
-        {
-          "name": "Kenan Do\u011fulu",
-          "url": "https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI"
-        }
-      ],
-      "duration_ms": 279799,
-      "name": "Ara Beni L\u00fctfen",
-      "url": "https://open.spotify.com/track/6wW7ZgvYwgOKCRLeqYEM6y"
-    },
-    {
-      "added_at": "2025-07-22 12:13:38",
-      "album": {
-        "name": "Aldan\u0131r\u0131m",
-        "url": "https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt"
-      },
-      "artists": [
-        {
-          "name": "S\u0131la \u015eahin",
-          "url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC"
-        },
-        {
-          "name": "Samet Karde\u015fler",
-          "url": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Aldan\u0131r\u0131m",
-      "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
-    },
-    {
-      "added_at": "2025-07-22 12:13:38",
-      "album": {
         "name": "S\u00d6ZDE K\u0130MSELER SEVM\u0130YOR",
         "url": "https://open.spotify.com/album/5ifZ1o8QqQVdtcXkuxrwhS"
       },
@@ -423,18 +403,22 @@
     {
       "added_at": "2025-07-22 12:13:38",
       "album": {
-        "name": "Mosmor Perde",
-        "url": "https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK"
+        "name": "Aldan\u0131r\u0131m",
+        "url": "https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt"
       },
       "artists": [
         {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+          "name": "S\u0131la \u015eahin",
+          "url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC"
+        },
+        {
+          "name": "Samet Karde\u015fler",
+          "url": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp"
         }
       ],
-      "duration_ms": 156774,
-      "name": "Mosmor Perde",
-      "url": "https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj"
+      "duration_ms": 201231,
+      "name": "Aldan\u0131r\u0131m",
+      "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
     },
     {
       "added_at": "2025-07-22 12:13:38",
@@ -475,6 +459,22 @@
       "duration_ms": 149823,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/6FGbxOWr2PhOHd6N06nafP"
+    },
+    {
+      "added_at": "2025-07-22 12:13:38",
+      "album": {
+        "name": "Mosmor Perde",
+        "url": "https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "Mosmor Perde",
+      "url": "https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj"
     },
     {
       "added_at": "2025-07-22 12:13:38",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-07-22 12:13:38",
       "album": {
-        "name": "GELME \u0130STEMEM",
-        "url": "https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 186562,
-      "name": "GELME \u0130STEMEM",
-      "url": "https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X"
-    },
-    {
-      "added_at": "2025-07-22 12:13:38",
-      "album": {
         "name": "Perdeler",
         "url": "https://open.spotify.com/album/5cx3XHwc4WNml8uhO7LM3y"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2025-07-22 12:13:38",
       "album": {
+        "name": "Virt\u00fc\u00f6z",
+        "url": "https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "git",
+      "url": "https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1"
+    },
+    {
+      "added_at": "2025-07-22 12:13:38",
+      "album": {
         "name": "Pa\u015fa G\u00f6n\u00fcl \u015eark\u0131lar\u0131",
         "url": "https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T"
       },
@@ -639,6 +639,38 @@
       "duration_ms": 247334,
       "name": "Ey A\u015fk",
       "url": "https://open.spotify.com/track/5rElOY8KtcQFqlSZ7hgEuC"
+    },
+    {
+      "added_at": "2025-07-22 12:13:38",
+      "album": {
+        "name": "\u00c7\u0131k Art\u0131k Akl\u0131mdan",
+        "url": "https://open.spotify.com/album/1L3Ug4NGRpZyRvDoxXDPrt"
+      },
+      "artists": [
+        {
+          "name": "Derya Bedavac\u0131",
+          "url": "https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8"
+        }
+      ],
+      "duration_ms": 224617,
+      "name": "\u00c7\u0131k Art\u0131k Akl\u0131mdan",
+      "url": "https://open.spotify.com/track/5Q9eu9rQJd9tOGszZqqsQf"
+    },
+    {
+      "added_at": "2025-07-22 12:13:38",
+      "album": {
+        "name": "Ben Ya\u015far\u0131m",
+        "url": "https://open.spotify.com/album/70jZNJODlWajFGhTRqwCgR"
+      },
+      "artists": [
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Farzet",
+      "url": "https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S"
     },
     {
       "added_at": "2025-07-22 12:13:38",
@@ -663,38 +695,6 @@
     {
       "added_at": "2025-07-22 12:13:38",
       "album": {
-        "name": "Ben Ya\u015far\u0131m",
-        "url": "https://open.spotify.com/album/70jZNJODlWajFGhTRqwCgR"
-      },
-      "artists": [
-        {
-          "name": "Sertab Erener",
-          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Farzet",
-      "url": "https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S"
-    },
-    {
-      "added_at": "2025-07-22 12:13:38",
-      "album": {
-        "name": "\u00c7\u0131k Art\u0131k Akl\u0131mdan",
-        "url": "https://open.spotify.com/album/1L3Ug4NGRpZyRvDoxXDPrt"
-      },
-      "artists": [
-        {
-          "name": "Derya Bedavac\u0131",
-          "url": "https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8"
-        }
-      ],
-      "duration_ms": 224617,
-      "name": "\u00c7\u0131k Art\u0131k Akl\u0131mdan",
-      "url": "https://open.spotify.com/track/5Q9eu9rQJd9tOGszZqqsQf"
-    },
-    {
-      "added_at": "2025-07-22 12:13:38",
-      "album": {
         "name": "Bende Bi' A\u015fk Var",
         "url": "https://open.spotify.com/album/4iyO8Qvw2nQ5ahi6xDGu9u"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 219872,
       "name": "Uzaktan",
       "url": "https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb"
-    },
-    {
-      "added_at": "2025-07-22 12:13:38",
-      "album": {
-        "name": "Virt\u00fc\u00f6z",
-        "url": "https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "git",
-      "url": "https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1"
     },
     {
       "added_at": "2025-07-22 12:13:38",
@@ -743,6 +727,22 @@
     {
       "added_at": "2025-07-22 12:13:38",
       "album": {
+        "name": "Ya\u015f Hikayesi",
+        "url": "https://open.spotify.com/album/5eq3H5KnYcr0uU8VjDe32W"
+      },
+      "artists": [
+        {
+          "name": "Merve \u00d6zbey",
+          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
+        }
+      ],
+      "duration_ms": 235090,
+      "name": "Vicdan\u0131n Affetsin",
+      "url": "https://open.spotify.com/track/3i8uJcfgdvKk1oHHnoGJlv"
+    },
+    {
+      "added_at": "2025-07-22 12:13:38",
+      "album": {
         "name": "Pa\u015fa G\u00f6n\u00fcl \u015eark\u0131lar\u0131",
         "url": "https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T"
       },
@@ -759,18 +759,34 @@
     {
       "added_at": "2025-07-22 12:13:38",
       "album": {
-        "name": "Ya\u015f Hikayesi",
-        "url": "https://open.spotify.com/album/5eq3H5KnYcr0uU8VjDe32W"
+        "name": "GELME \u0130STEMEM",
+        "url": "https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF"
       },
       "artists": [
         {
-          "name": "Merve \u00d6zbey",
-          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
         }
       ],
-      "duration_ms": 235090,
-      "name": "Vicdan\u0131n Affetsin",
-      "url": "https://open.spotify.com/track/3i8uJcfgdvKk1oHHnoGJlv"
+      "duration_ms": 186562,
+      "name": "GELME \u0130STEMEM",
+      "url": "https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X"
+    },
+    {
+      "added_at": "2025-07-22 12:13:38",
+      "album": {
+        "name": "Seni Seven Kimdi",
+        "url": "https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML"
+      },
+      "artists": [
+        {
+          "name": "Derya Bedavac\u0131",
+          "url": "https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8"
+        }
+      ],
+      "duration_ms": 240642,
+      "name": "Seni Seven Kimdi",
+      "url": "https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8"
     },
     {
       "added_at": "2025-07-22 12:13:38",
@@ -807,6 +823,30 @@
     {
       "added_at": "2025-07-22 12:13:38",
       "album": {
+        "name": "BURADA SOKAKLAR",
+        "url": "https://open.spotify.com/album/3XJWLy10bubUmpdIuWP7m2"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        },
+        {
+          "name": "ERAY067",
+          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
+        },
+        {
+          "name": "Mansur",
+          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
+        }
+      ],
+      "duration_ms": 139833,
+      "name": "BURADA SOKAKLAR",
+      "url": "https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4"
+    },
+    {
+      "added_at": "2025-07-22 12:13:38",
+      "album": {
         "name": "dubaiiiiii",
         "url": "https://open.spotify.com/album/61m26yYILtyEmRYxCdLT8u"
       },
@@ -839,46 +879,6 @@
       "duration_ms": 188589,
       "name": "RUJ",
       "url": "https://open.spotify.com/track/3SJ6Dk9v81DxV9ugOTXSZk"
-    },
-    {
-      "added_at": "2025-07-22 12:13:38",
-      "album": {
-        "name": "Seni Seven Kimdi",
-        "url": "https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML"
-      },
-      "artists": [
-        {
-          "name": "Derya Bedavac\u0131",
-          "url": "https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8"
-        }
-      ],
-      "duration_ms": 240642,
-      "name": "Seni Seven Kimdi",
-      "url": "https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8"
-    },
-    {
-      "added_at": "2025-07-22 12:13:38",
-      "album": {
-        "name": "BURADA SOKAKLAR",
-        "url": "https://open.spotify.com/album/3XJWLy10bubUmpdIuWP7m2"
-      },
-      "artists": [
-        {
-          "name": "Batuflex",
-          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
-        },
-        {
-          "name": "ERAY067",
-          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
-        },
-        {
-          "name": "Mansur",
-          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
-        }
-      ],
-      "duration_ms": 139833,
-      "name": "BURADA SOKAKLAR",
-      "url": "https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4"
     },
     {
       "added_at": "2025-07-22 12:13:38",

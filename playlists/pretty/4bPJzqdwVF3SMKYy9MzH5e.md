@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,199 songs - 4 day 21 hr 49 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,200 songs - 4 day 21 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2207,5 +2207,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2197 | [Divertida](https://open.spotify.com/track/5Urocwjl0iuHmUUC9zNF1H) | [MissLupe](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Reset](https://open.spotify.com/album/2nGKc4syMB4SzeEXRIh6X4) | 4:05 |
 | 2198 | [Reshape](https://open.spotify.com/track/0iIoCfiv0dnIDdo4IQOtHP) | [Altinbas](https://open.spotify.com/artist/7bExzNVYdOn4SkrIXkqEyz) | [Reshape](https://open.spotify.com/album/34niMakKNw6Zt7kpi1oL9U) | 4:39 |
 | 2199 | [Se Encendio el Beeper](https://open.spotify.com/track/3F0npTC1lHEQpEz35tvQTT) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [5to Aniversario](https://open.spotify.com/album/7vF23xibM5eNthq9HnkIcc) | 3:22 |
+| 2200 | [Sabbath Ⅰ](https://open.spotify.com/track/2BKGLVolirwSRAYWL60Ugw) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 4:48 |
 
-Snapshot ID: `AAAEf/YE4igNRD9P4UvlvHHLfve++99A`
+Snapshot ID: `AAAEgGf7eddULZ+6mqS0vUmTXRDgmzs3`

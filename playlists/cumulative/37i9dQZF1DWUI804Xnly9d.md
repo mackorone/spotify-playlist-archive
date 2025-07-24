@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-571 songs - 1 day 7 hr 59 min
+572 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Khaali Panne](https://open.spotify.com/track/0uylAfhVFCGKdq6HkZimDX) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Milaap](https://open.spotify.com/album/4jDgpwtnRuQ0JEj4pPG5of) | 3:46 | 2023-07-17 | 2024-04-19 |
 | [Khabar](https://open.spotify.com/track/08M1HqLsOYeWetO7WYNrIf) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Khabar](https://open.spotify.com/album/37fNvMhuiO1O2F4EdCCKqq) | 3:33 | 2024-07-26 | 2025-01-06 |
 | [Khala](https://open.spotify.com/track/5XgB4ThkJOi2dWT1GRSQZ6) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khala](https://open.spotify.com/album/4d2PsSkEjUENjTiZTJHw9W) | 2:09 | 2023-05-17 | 2023-09-26 |
+| [Khamakha](https://open.spotify.com/track/56zTLzFV2qp9KTBehmtj6d) | [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2) | [Flowers](https://open.spotify.com/album/0ExgP2688LprduMofZctqA) | 2:16 | 2025-07-23 |  |
 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 | 2023-08-10 | 2023-09-10 |
 | [Khamosh Hum](https://open.spotify.com/track/6DbqJtVimKA96EPcTNpHKC) | [Shriyash Sahu](https://open.spotify.com/artist/7C8q7GkDrPUPCHdAzpP8sQ), [Shriyank Gour](https://open.spotify.com/artist/2wVq6f96SDr4btIlB2ikkR) | [Khamosh Hum](https://open.spotify.com/album/6cuCRw4GK3FA6PetXShiWK) | 2:45 | 2025-02-18 | 2025-03-08 |
 | [Khamoshiyan](https://open.spotify.com/track/5RNfzomY9DGKDbWg6Su06Q) | [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j), [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sushant Shankar](https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx) | [Khamoshiyan](https://open.spotify.com/album/10iAmqk2jZP9mzbYlT5xsn) | 3:22 | 2023-06-28 | 2023-10-27 |
@@ -546,7 +547,7 @@
 | [Uljhe se hum](https://open.spotify.com/track/6TPYVkZRpeL2rwkvUDuYhm) | [Vishal Sinha](https://open.spotify.com/artist/0UJG2meWUtvjPFAcyrOOBN) | [Uljhe se hum](https://open.spotify.com/album/5CPpw1mdt73Fs6Dd6qegJx) | 3:40 | 2023-09-09 | 2023-10-27 |
 | [Unke bina \(Raw\)](https://open.spotify.com/track/0S2VhMptqhyylEowrvMRRx) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Hardik Sawhney](https://open.spotify.com/artist/1AeP2gkdtIPekU0HvEo3P5) | [Unke bina \(Raw\)](https://open.spotify.com/album/1zQdURnPPZXRLquGKTR5Qa) | 2:28 | 2023-05-17 | 2023-07-06 |
 | [Unke Rangon Mein](https://open.spotify.com/track/33k5PdmBBBvjFrYFnTqrzF) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Unke Rangon Mein](https://open.spotify.com/album/7k4mVu7UlNacFUSHcDZkpa) | 2:52 | 2023-11-05 | 2024-02-14 |
-| [Wahem](https://open.spotify.com/track/5vMtccZkvcmGjrOuhnxc63) | [Hirdhyansh Verma](https://open.spotify.com/artist/3L41cHQWUBnVuQTtoUpBeV) | [Wahem](https://open.spotify.com/album/7qPBfIEJhj4Bgg5SI5hjrB) | 3:22 | 2025-06-05 |  |
+| [Wahem](https://open.spotify.com/track/5vMtccZkvcmGjrOuhnxc63) | [Hirdhyansh Verma](https://open.spotify.com/artist/3L41cHQWUBnVuQTtoUpBeV) | [Wahem](https://open.spotify.com/album/7qPBfIEJhj4Bgg5SI5hjrB) | 3:22 | 2025-06-05 | 2025-07-24 |
 | [Wajah](https://open.spotify.com/track/4pPRfulcjwtBXnKrHRLrgV) | [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ) | [Wajah](https://open.spotify.com/album/1rM0gyBRVfMeAGHvLuWnxy) | 2:20 | 2024-07-08 | 2024-07-19 |
 | [Waqt](https://open.spotify.com/track/3buNym71LEMqC24JqZjiwd) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:01 | 2023-06-12 | 2023-08-05 |
 | [Waqt Guzar Jayega](https://open.spotify.com/track/6nEDKjale9u5l9QgVxCS8U) | [Himanshu Hansraj](https://open.spotify.com/artist/7d15Obeo5bBqzIfOZ2ehYi) | [Waqt Guzar Jayega](https://open.spotify.com/album/5VNnNeLQ4CgSVFzmcJKyUw) | 4:28 | 2023-06-26 | 2023-09-02 |

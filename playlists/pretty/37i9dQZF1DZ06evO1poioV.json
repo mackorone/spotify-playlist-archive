@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 117188,
+  "num_followers": 117206,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAACIfeugw92nCyP1+WpzI0nJ",
+  "snapshot_id": "aH7UgAAAAABlEZbHhPkickzpcQ1DxZoS",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greenfields: The Gibb Brothers' Songbook (Vol. 1)",
-        "url": "https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp"
+        "name": "Onward (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
       },
       "artists": [
-        {
-          "name": "Barry Gibb",
-          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
-        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 202391,
-      "name": "Run To Me (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/2IE70yrr4bynUzXi7O8Gek"
+      "duration_ms": 213732,
+      "name": "Carried Me With You",
+      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
     },
     {
       "added_at": null,
@@ -515,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onward (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
+        "name": "Greenfields: The Gibb Brothers' Songbook (Vol. 1)",
+        "url": "https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp"
       },
       "artists": [
+        {
+          "name": "Barry Gibb",
+          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
+        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 213732,
-      "name": "Carried Me With You",
-      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
+      "duration_ms": 202391,
+      "name": "Run To Me (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/2IE70yrr4bynUzXi7O8Gek"
     },
     {
       "added_at": null,

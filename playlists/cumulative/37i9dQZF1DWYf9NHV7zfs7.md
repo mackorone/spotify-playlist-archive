@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷  Luciano Pereyra
 
-360 songs - 19 hr 22 min
+361 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2023-07-14 | 2023-10-24 |
 | [Borracha en un Baño Ajeno](https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Borracha en un Baño Ajeno](https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG) | 4:00 | 2023-12-01 | 2024-02-20 |
 | [Breaking Bad](https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 1:51 | 2024-03-01 | 2024-03-09 |
+| [Brecha](https://open.spotify.com/track/5lLK0RKHZSqojJr4kZMAuJ) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Brecha](https://open.spotify.com/album/1YUqU6EcmPdlTm9PQttPqO) | 3:01 | 2025-07-22 |  |
 | [buenos aires](https://open.spotify.com/track/3eNenN5eoBwMRNPkmoyk81) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:23 | 2024-05-10 |  |
 | [Buscaba un tema](https://open.spotify.com/track/0LmpfqkgUqMJmHelWGCCBB) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Buscaba un tema](https://open.spotify.com/album/6B7rIipzLIZWPuTWASX369) | 2:37 | 2024-09-06 | 2024-09-14 |
 | [Butter \- Megan Thee Stallion Remix](https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v) | 2:44 | 2023-07-14 | 2023-10-24 |
@@ -247,7 +248,7 @@
 | [Nuestro Truman Show](https://open.spotify.com/track/4BbwJJnW7PbJXAbKXQlV8n) | [El Purre](https://open.spotify.com/artist/4lrsMsdkZ3mpzBimMD0wel) | [Nuestro Truman Show](https://open.spotify.com/album/7hzuydFAr0MNGzmRNwz0uS) | 5:50 | 2024-04-12 | 2024-04-27 |
 | [Obsesionario en La Mayor](https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 4:26 | 2023-10-23 |  |
 | [Octubre](https://open.spotify.com/track/1ZZ7l7oqFHzKMfIVfOr8WI) | [TULI](https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ) | [Octubre](https://open.spotify.com/album/1vWfcvPOganIkpIhEK4AHP) | 2:24 | 2024-07-26 | 2024-10-26 |
-| [OCÉANO](https://open.spotify.com/track/1We9poQpHkLdfayc6MiHuM) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [OCÉANO](https://open.spotify.com/album/7Art4AUInCgrGg6FE5FHvd) | 3:48 | 2025-02-21 |  |
+| [OCÉANO](https://open.spotify.com/track/1We9poQpHkLdfayc6MiHuM) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [OCÉANO](https://open.spotify.com/album/7Art4AUInCgrGg6FE5FHvd) | 3:48 | 2025-02-21 | 2025-07-24 |
 | [Odio Odiarme](https://open.spotify.com/track/3KACg25zaLJqra1gvIRLwX) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Odio Odiarme](https://open.spotify.com/album/7aTXNvIk94LtvPOVJq0Fbq) | 2:06 | 2025-04-04 |  |
 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2023-07-14 | 2023-10-24 |
 | [Olivia](https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Intemperie](https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f) | 3:42 | 2023-10-23 | 2024-05-18 |

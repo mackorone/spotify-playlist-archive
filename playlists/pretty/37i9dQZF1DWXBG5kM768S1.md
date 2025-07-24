@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,479 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,485 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 46 | [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 |
 | 47 | [Club 7](https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Club 7](https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw) | 4:20 |
 | 48 | [Mi Pia\. Din Gutt.](https://open.spotify.com/track/1jdOvBR6D91doFRheJ3SfF) | [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E) | [Livstegn](https://open.spotify.com/album/1wXz7GJWTvjQpn9CliOvcb) | 2:18 |
-| 49 | [Håp](https://open.spotify.com/track/0eVz2IPvC2FrIOHMQbi01j) | [Jo Nesbø](https://open.spotify.com/artist/1KcYLo3wUtAqUsLfhZ5iA4) | [Historien om et band](https://open.spotify.com/album/2NIUZrmE3Wchk32sQHed1e) | 5:36 |
-| 50 | [Dørstokkmila](https://open.spotify.com/track/0MZQ31wi9L4UyOfjjgV26s) | [Tre Små Kinesere](https://open.spotify.com/artist/6ZKFdIahCPNYqXuISNaosB) | [De aller beste fra Tre små kinesere](https://open.spotify.com/album/18wN36vWvcoTuVsFjDJGSx) | 2:51 |
+| 49 | [Dørstokkmila](https://open.spotify.com/track/0MZQ31wi9L4UyOfjjgV26s) | [Tre Små Kinesere](https://open.spotify.com/artist/6ZKFdIahCPNYqXuISNaosB) | [De aller beste fra Tre små kinesere](https://open.spotify.com/album/18wN36vWvcoTuVsFjDJGSx) | 2:51 |
+| 50 | [Håp](https://open.spotify.com/track/0eVz2IPvC2FrIOHMQbi01j) | [Jo Nesbø](https://open.spotify.com/artist/1KcYLo3wUtAqUsLfhZ5iA4) | [Historien om et band](https://open.spotify.com/album/2NIUZrmE3Wchk32sQHed1e) | 5:36 |
 
 Snapshot ID: `aGb9fgAAAADV7bOBrH6AqhpNJNK5Jv9W`

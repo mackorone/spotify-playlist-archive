@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: skantia
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,148 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,170 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 30 | [High Energy](https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [High Energy](https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4) | 3:03 |
 | 31 | [Release Me](https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Release Me](https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb) | 3:36 |
 | 32 | [Outlaw](https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Outlaw](https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ) | 2:57 |
-| 33 | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA), [Nathan Smoker](https://open.spotify.com/artist/3nNXwfR504VYz5FoUdoYRN) | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM) | 2:51 |
-| 34 | [BODY DROP \(Won't Stop\)](https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [BODY DROP \(Won't Stop\)](https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A) | 3:44 |
+| 33 | [BODY DROP \(Won't Stop\)](https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [BODY DROP \(Won't Stop\)](https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A) | 3:44 |
+| 34 | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA), [Nathan Smoker](https://open.spotify.com/artist/3nNXwfR504VYz5FoUdoYRN) | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM) | 2:51 |
 | 35 | [LOUDER](https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [LOUDER](https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD) | 3:42 |
 | 36 | [Sientelo \- Sota & Circadian Remix](https://open.spotify.com/track/2G1ePysdwwjtoxB0qSacjd) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [Sientelo \(Sota & Circadian Remix\)](https://open.spotify.com/album/3nRCHcfRdwHgKkYyYYYj4h) | 3:57 |
 | 37 | [PURPOSE](https://open.spotify.com/track/35mele207P8xoKXOsTh52L) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [PURPOSE](https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU) | 2:47 |
@@ -62,6 +62,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 52 | [Bad Boy Horns](https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8) | [Kelvin 373](https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD), [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [Bad Boy Horns](https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt) | 4:12 |
 | 53 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
 | 54 | [Warning](https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Cimone](https://open.spotify.com/artist/70Uu0DbDSR5uIKlaYmZIHU) | [Warning](https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs) | 4:06 |
-| 55 | [Rhythm & Gash VIP](https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Rhythm & Gash VIP](https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg) | 2:44 |
+| 55 | [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 |
 
 Snapshot ID: `aGcLhAAAAABEiCfxqxlTHTUTum3gRAab`

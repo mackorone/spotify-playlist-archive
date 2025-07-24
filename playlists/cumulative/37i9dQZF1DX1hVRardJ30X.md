@@ -4,7 +4,7 @@
 
 > New music by J Balvin, Bad Bunny, Myke Towers and more! Updates every Friday.
 
-10,059 songs - 21 day 20 hr 32 min
+10,060 songs - 21 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3298,6 +3298,7 @@
 | [EXTASI](https://open.spotify.com/track/7x3j9aoz4TFFbteaEhTxBD) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [EXTASI](https://open.spotify.com/album/3MVQ9Twt0scstIGS1aAn5p) | 2:37 | 2023-01-27 | 2023-02-04 |
 | [Extranjero](https://open.spotify.com/track/2OVkvSveQPSmiYbgQj2GFu) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Extranjero](https://open.spotify.com/album/0JxgRDaUcyxTpzuE56jL5V) | 2:32 | 2025-01-31 | 2025-02-08 |
 | [Extrañas Intenciones](https://open.spotify.com/track/0aGhbqph4ytMhMGycQw0rc) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/639vWHd2vqM1rBYyxHOvA8) | 2:48 | 2025-05-30 | 2025-06-07 |
+| [EXTRAÑO TUS BESOS](https://open.spotify.com/track/7nZyc2jufgsiwEndgyVLxX) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [Somos Diferentes](https://open.spotify.com/album/5JBMg2fnHJSkROuL14hs4J) | 3:03 | 2025-07-18 |  |
 | [Extraños](https://open.spotify.com/track/39Pxcl52HsEihUjtb78E5L) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Extraños](https://open.spotify.com/album/7eP0HLa3Q8Af4tjox3OuZZ) | 3:17 | 2023-02-17 | 2023-02-25 |
 | [Extraños](https://open.spotify.com/track/7z73IpnZZ0tjhC7jIPX61p) | [Sofia Delfino](https://open.spotify.com/artist/11fsAXlakhmo0Mc29073Ud) | [Extraños](https://open.spotify.com/album/4OoI9MJswIBC24XHw8mwf5) | 3:37 | 2023-02-17 | 2023-02-25 |
 | [extraños](https://open.spotify.com/track/6cGBZGvZD8bnavaNKgrWaO) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [extraños](https://open.spotify.com/album/5LjfK2dimzVNB60AHWSva2) | 2:29 | 2024-02-09 | 2024-02-17 |
@@ -8923,7 +8924,7 @@
 | [TIJUAS](https://open.spotify.com/track/0nslbziVNRggkJkPs8jLGW) | [Pek](https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW), [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX) | [TIJUAS](https://open.spotify.com/album/73UN71RCiKTK2CjjKDjvu2) | 2:37 | 2023-01-27 | 2023-02-04 |
 | [TIKI TAKA](https://open.spotify.com/track/731NNSNXS57BuFlBWyUuuH) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6), [TALE$](https://open.spotify.com/artist/5w9YZfwWPTeCQn6QEGieIU) | [7Z7](https://open.spotify.com/album/3RtE5spt4kZB1Q8nHB3tWD) | 2:34 | 2023-03-03 | 2023-03-11 |
 | [Tiki Tiki](https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tiki Tiki](https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ) | 2:11 | 2023-02-03 | 2023-02-11 |
-| [TIKITI](https://open.spotify.com/track/6b1L2ZCGDT2SIvoZZNQFv9) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [TIKITI](https://open.spotify.com/album/1G4Xitilt3wm6NoVAwpW9P) | 2:50 | 2025-07-18 |  |
+| [TIKITI](https://open.spotify.com/track/6b1L2ZCGDT2SIvoZZNQFv9) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [TIKITI](https://open.spotify.com/album/1G4Xitilt3wm6NoVAwpW9P) | 2:50 | 2025-07-18 |  |
 | [Tilin Chilin](https://open.spotify.com/track/2k7aMVmc4NDfW464qeDGJi) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [DEUXER](https://open.spotify.com/artist/2mv4oA2PU10YE6FiKlfk5j) | [Tilin Chilin \(feat\. DEUXER\)](https://open.spotify.com/album/4Flr5Wozv2ho5e1YGCCGhi) | 4:14 | 2024-07-12 | 2024-07-19 |
 | [Tilín](https://open.spotify.com/track/2fNCFqx20ZQB7GDljadHfh) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Tilín](https://open.spotify.com/album/23kNk03cd5hwUtTVNcW80R) | 2:07 | 2022-01-28 | 2022-02-05 |
 | [Time Machine](https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Time Machine](https://open.spotify.com/album/4jAN28tuuWdvDsX5HzPXbv) | 3:39 | 2022-05-27 | 2022-06-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTHBOfJ8aI7.md) - [plain]
 
 > Les plus grands classiques du rock\. Photo : AC/DC
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,486 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,586 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

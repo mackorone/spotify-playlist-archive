@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,662 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,695 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 67 | [Let's Do It \(Let's Fall in Love\)](https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [In the Land of Hi\-Fi](https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX) | 2:37 |
 | 68 | [Do I Love You? \- Live In Miami, FL/1959](https://open.spotify.com/track/2CehTPb4F4syASYv3NmLix) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Beauty And The Beat! \(Expanded Edition / Remastered\)](https://open.spotify.com/album/7b4fckolZouZSA2OnnAl5z) | 3:03 |
 | 69 | [Just One Of Those Things](https://open.spotify.com/track/307sTSd6uNMwnCWJzybLy4) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The One And Only](https://open.spotify.com/album/2h2bi5subCD6Y1JLy9TbS3) | 2:15 |
-| 70 | [I Am Ashamed That Women Are so Simple](https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 1:51 |
+| 70 | [Where Oh Where](https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:11 |
 | 71 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
-| 72 | [Where Oh Where](https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:11 |
+| 72 | [I Am Ashamed That Women Are so Simple](https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 1:51 |
 | 73 | [You're the Top](https://open.spotify.com/track/6OmaPqehiNi2Q2cLq5uE9m) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj), [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Best of Cole Porter](https://open.spotify.com/album/6y6Lrz8I1jlMdBvW51rJcf) | 3:02 |
 | 74 | [Its Delovely](https://open.spotify.com/track/4DilU52ZMTc5g3EVdzcTop) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [David Newton](https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy), [Andrew De Jong Cleyndert](https://open.spotify.com/artist/5G1ofevTZdgiPERUk64PLM), [Colin Oxley](https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs), [Steve Brown](https://open.spotify.com/artist/7DLSRkdZGUdCN98UT44PAd) | [It's A Wonderful World](https://open.spotify.com/album/7A0VtrrFraHAEbggockFbb) | 3:25 |
 | 75 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |

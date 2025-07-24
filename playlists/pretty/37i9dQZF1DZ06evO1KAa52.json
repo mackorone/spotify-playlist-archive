@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 658646,
+  "num_followers": 658735,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAB92RyDzmHmq4x+vFSr0dWS",
+  "snapshot_id": "aH7UgAAAAAAemHWMeue224FZ64mJf3G7",
   "tracks": [
     {
       "added_at": null,
@@ -1131,22 +1131,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+        "name": "Uncharted",
+        "url": "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd"
       },
       "artists": [
         {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        },
+        {
+          "name": "Max Martin",
+          "url": "https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G"
         },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Shellback",
+          "url": "https://open.spotify.com/artist/268mhnkat7rZjlnOsJoZg8"
         }
       ],
-      "duration_ms": 192240,
-      "name": "What U Workin' With?",
-      "url": "https://open.spotify.com/track/3IxRWXccxjVsUjyQZnKqYa"
+      "duration_ms": 182746,
+      "name": "Can't Stop the Feeling",
+      "url": "https://open.spotify.com/track/7LfVbcoCLy1u3zKUwO9VxN"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

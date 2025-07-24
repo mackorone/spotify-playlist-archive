@@ -212,7 +212,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "1000 \u00c1nh M\u1eaft",
       "url": "https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc"
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -3410,7 +3410,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 195974,
       "name": "b\u00ecnh y\u00ean",
       "url": "https://open.spotify.com/track/41DlPJXKTCypXdf2eSqa03"
@@ -5306,7 +5306,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 244752,
       "name": "C\u00f2n Ai Ngo\u00e0i Anh V\u1edbi Em",
       "url": "https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F"
@@ -10550,7 +10550,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 271704,
       "name": "id 072019",
       "url": "https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr"
@@ -14606,7 +14606,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 235315,
       "name": "m\u1ed9t b\u00e0i h\u00e1t kh\u00f4ng vui m\u1ea5y - Extended Version",
       "url": "https://open.spotify.com/track/36fgG6NiEuQXznNgf5y2Ck"
@@ -15853,6 +15853,40 @@
     },
     {
       "album": {
+        "name": "EM XINH \"SAY HI\", T\u1eacP 8",
+        "url": "https://open.spotify.com/album/42KBsgzIa5ZmzWZW9zHEqb"
+      },
+      "artists": [
+        {
+          "name": "EM XINH \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/1I5CkmtLVWLUygTT3cLr5X"
+        },
+        {
+          "name": "M\u1ef9 M\u1ef9",
+          "url": "https://open.spotify.com/artist/21trGUfOb8qkRjI4EyF1qm"
+        },
+        {
+          "name": "LyHan",
+          "url": "https://open.spotify.com/artist/70swmqj7c3SHkkdf2SrSUy"
+        },
+        {
+          "name": "Liu Grace",
+          "url": "https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3"
+        },
+        {
+          "name": "MAIQUINN",
+          "url": "https://open.spotify.com/artist/1ahlgMVhWA7BuUq755IoGZ"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245500,
+      "name": "NOT MY FAULT",
+      "url": "https://open.spotify.com/track/2U2u397Ae67nMMB4tje3Sq"
+    },
+    {
+      "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
@@ -16412,7 +16446,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 263752,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/5ouxRyInSdRBQubu3KTd97"
@@ -17943,6 +17977,40 @@
     },
     {
       "album": {
+        "name": "EM XINH \"SAY HI\", T\u1eacP 8",
+        "url": "https://open.spotify.com/album/42KBsgzIa5ZmzWZW9zHEqb"
+      },
+      "artists": [
+        {
+          "name": "EM XINH \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/1I5CkmtLVWLUygTT3cLr5X"
+        },
+        {
+          "name": "52Hz",
+          "url": "https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh"
+        },
+        {
+          "name": "L\u00e2m B\u1ea3o Ng\u1ecdc",
+          "url": "https://open.spotify.com/artist/3E0b68wCGYihuHBtlasfm9"
+        },
+        {
+          "name": "Ph\u00e1o",
+          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
+        },
+        {
+          "name": "\u6843\u5b50A1J",
+          "url": "https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "QU\u1ea2 CH\u00cdN QU\u00c1",
+      "url": "https://open.spotify.com/track/5WnIOTDM79zK6jwHVRL7bM"
+    },
+    {
+      "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
@@ -18648,7 +18716,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 154756,
       "name": "Sau C\u01a1n M\u01b0a",
       "url": "https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf"
@@ -21794,7 +21862,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
@@ -23426,7 +23494,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK"

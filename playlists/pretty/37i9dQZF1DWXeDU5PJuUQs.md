@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,196 likes - 64 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,300 likes - 64 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 41 | [Me Vas a Extrañar \- En Vivo](https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Me Vas a Extrañar \(En Vivo\)](https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53) | 3:58 |
 | 42 | [Si Un Día Estás Sola \- En Vivo](https://open.spotify.com/track/6fDaFPRELEJY6yZXK9Jwn8) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Si Un Día Estás Sola \(En Vivo\)](https://open.spotify.com/album/6Jya79PDNtDzDiCKQ5dI3V) | 3:28 |
 | 43 | [Me Vas a Extrañar](https://open.spotify.com/track/26WHTbuQHbpkx3TBNR4afU) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Magoman](https://open.spotify.com/artist/17SbOgrrSKZHSTi3zEDNWc) | [Un Soñador Eterno](https://open.spotify.com/album/0gDwcXu8hITigvMrZci4wo) | 2:45 |
-| 44 | [Tú, la más bella \- En Vivo](https://open.spotify.com/track/4iNUGRz8usCC8ZeczwIcQN) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Tú, la más bella \(En Vivo\)](https://open.spotify.com/album/3PKKvCRMgsXJi8v4HxuroL) | 2:29 |
-| 45 | [Tú, La Más Bella](https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 2:49 |
+| 44 | [Tú, La Más Bella](https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 2:49 |
+| 45 | [Tú, la más bella \- En Vivo](https://open.spotify.com/track/4iNUGRz8usCC8ZeczwIcQN) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Tú, la más bella \(En Vivo\)](https://open.spotify.com/album/3PKKvCRMgsXJi8v4HxuroL) | 2:29 |
 | 46 | [Pechos Calientes / Mojada por Dentro / Ando Buscando / El No Va a Venir / Voy a Morir Dentro Tuyo \- En Vivo](https://open.spotify.com/track/75zXejg9GpljnchbalHunA) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Como Nunca](https://open.spotify.com/album/6sffODoHVXJmwOb70Vxr44) | 7:37 |
 | 47 | [No Voy A Llorar / Me Enamoré](https://open.spotify.com/track/5nFG0wrCUFwv6EhoJAjjXK) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [El Club de la Cumbia](https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU) | [No Voy A Llorar / Me Enamoré](https://open.spotify.com/album/6aYYGeMtjjYPqwB44QkUqc) | 3:14 |
 | 48 | [Ella Dijo / Mil Horas \- En Vivo](https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ella Dijo / Mil Horas](https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f) | 3:19 |
@@ -71,6 +71,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 61 | [Cosas del Amor \- En Vivo](https://open.spotify.com/track/1CjZCNYbMTgHLEsX9EAQJd) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Santi Cairo](https://open.spotify.com/artist/7aXtE6aOLk9TSN6P7bfLe5) | [Cosas del Amor \(En Vivo\)](https://open.spotify.com/album/41WPVRFYR95CRt0vHagmpV) | 3:16 |
 | 62 | [Tu Falta de Querer \- En Vivo](https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1), [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Tu Falta de Querer \(En Vivo\)](https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF) | 3:16 |
 | 63 | [Jurabas Tu \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 2:11 |
-| 64 | [Los Pibes Chorros / Solo Le Pido a Dios / Botellero](https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 4:47 |
+| 64 | [Tu Sin Mi \- En Vivo](https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6) | 3:41 |
 
 Snapshot ID: `aGfUyQAAAADUdlA5cPUthF6jawWJVrPV`

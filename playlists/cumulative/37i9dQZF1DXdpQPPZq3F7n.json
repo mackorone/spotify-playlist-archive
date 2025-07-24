@@ -499,6 +499,36 @@
     },
     {
       "album": {
+        "name": "Bas Ek Dhadak (From \"Dhadak 2\")",
+        "url": "https://open.spotify.com/album/3cDh6q8DISkIjX7sahQU8T"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259736,
+      "name": "Bas Ek Dhadak - From \"Dhadak 2\"",
+      "url": "https://open.spotify.com/track/1aV0CbIZbMGpYRFyTh4apW"
+    },
+    {
+      "album": {
         "name": "Bhool Bhulaiyaa 3",
         "url": "https://open.spotify.com/album/2DNzidacofd4SvmOyj620R"
       },
@@ -3442,7 +3472,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 242142,
       "name": "Mann Ye Mera",
       "url": "https://open.spotify.com/track/2gFLgQGQ6iuRzHBqPRTulA"
@@ -4548,6 +4578,32 @@
       "duration_ms": 341823,
       "name": "Qaafirana",
       "url": "https://open.spotify.com/track/0xkGTPTijMU84dtHr3KQQi"
+    },
+    {
+      "album": {
+        "name": "Qayde Se (From \"Metro ... In Dino\")",
+        "url": "https://open.spotify.com/album/0n6vwaRFABSyqtdaJafZW5"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215075,
+      "name": "Qayde Se (From \"Metro ... In Dino\")",
+      "url": "https://open.spotify.com/track/1iiVX4OJ6vo3a4sT3Fe7Ix"
     },
     {
       "album": {
@@ -6122,7 +6178,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 318217,
       "name": "Tum Ho Toh (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/6G8vN5EUtcDxOXOXadF6kp"

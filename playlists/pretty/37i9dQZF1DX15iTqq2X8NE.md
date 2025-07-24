@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,498 likes - 120 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,500 likes - 120 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 45 | [Fan3](https://open.spotify.com/track/0e9wgOCa3s2oqM03jNc2qx) | [Tmsa7](https://open.spotify.com/artist/1eUb0Yqoxg2MgUuHyYfM4e) | [Fan3](https://open.spotify.com/album/0RTNur3c132jazOHMua1wU) | 2:19 |
 | 46 | [Herman](https://open.spotify.com/track/4zza6464stnHetdc4NOVZo) | [Abdel Karim Alkabli](https://open.spotify.com/artist/6VESeB6Ehy0WZPLoIaMbCD) | [Amir Al Oud Part 1](https://open.spotify.com/album/5o0S5hIDn2PKf8g8zsvywN) | 7:03 |
 | 47 | [Zaman Maf](https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk), [A7MD](https://open.spotify.com/artist/4lG8ClDdSczGV2g7b2G7Qx) | [Zaman Maf](https://open.spotify.com/album/5m1ZHWPTBZq9V7xeV27IO3) | 3:38 |
-| 48 | [23](https://open.spotify.com/track/1V49aRvUw5mTcXkfacnauF) | [Shmakh](https://open.spotify.com/artist/53pO4D72QLnq1hKfR90iX5) | [23](https://open.spotify.com/album/6sNXpHky9jR10fStq9E6vP) | 2:27 |
-| 49 | [HYSTERIA](https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [HYSTERIA](https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48) | 2:28 |
+| 48 | [HYSTERIA](https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [HYSTERIA](https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48) | 2:28 |
+| 49 | [23](https://open.spotify.com/track/1V49aRvUw5mTcXkfacnauF) | [Shmakh](https://open.spotify.com/artist/53pO4D72QLnq1hKfR90iX5) | [23](https://open.spotify.com/album/6sNXpHky9jR10fStq9E6vP) | 2:27 |
 | 50 | [Igd Allooli \(The Pearl Necklace\)](https://open.spotify.com/track/1KUmHS4kiZ4KZvfjyTg0dJ) | [Saied Khalifa](https://open.spotify.com/artist/4mlKHZfOm6Zl3t8tpprMXy) | [Two Niles to Sing a Melody: The Violins & Synths of Sudan](https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ) | 4:27 |
 | 51 | [Ya Dunya](https://open.spotify.com/track/6zbd0o0ESiB9VDJrdDOFKm) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Ya Dunya](https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR) | 7:11 |
 | 52 | [Tuna](https://open.spotify.com/track/6zX6YvuzrPl0jzZ6EmBtaQ) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Tuna](https://open.spotify.com/album/0HZVyBD9JHeViJEPJ5tWbs) | 2:45 |
 | 53 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
-| 54 | [Al Sourah \(The Photo\)](https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX) | [Mohammed Wardi](https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU) | [Al Sourah \(The Photo\)](https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj) | 9:03 |
-| 55 | [بسحروك](https://open.spotify.com/track/0nOAJ6NOwB8JVPMKBae4GU) | [طه سليمان](https://open.spotify.com/artist/0RsFnQRoeQXmyhWzNqWvYJ) | [بسحروك](https://open.spotify.com/album/374yLPef14svHDy8PJ8WRQ) | 3:21 |
+| 54 | [بسحروك](https://open.spotify.com/track/0nOAJ6NOwB8JVPMKBae4GU) | [طه سليمان](https://open.spotify.com/artist/0RsFnQRoeQXmyhWzNqWvYJ) | [بسحروك](https://open.spotify.com/album/374yLPef14svHDy8PJ8WRQ) | 3:21 |
+| 55 | [Al Sourah \(The Photo\)](https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX) | [Mohammed Wardi](https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU) | [Al Sourah \(The Photo\)](https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj) | 9:03 |
 | 56 | [Salimmik](https://open.spotify.com/track/0XjLYmJCLA1kLMLaNQpRX7) | [Maha AJ](https://open.spotify.com/artist/2b2pd5yYGRTqvCRzgg1xsz), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX), [Nijeery](https://open.spotify.com/artist/481yBm7CxhRBaMPeQLq7KC) | [Salimmik](https://open.spotify.com/album/6EJM5YoCfhGRbNgRBGkB7d) | 3:22 |
 | 57 | [Moya wa Zait](https://open.spotify.com/track/4ZUU8c89Ut56X7ljfqqEHc) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [Moya wa Zait](https://open.spotify.com/album/6TlqV4YPrrt1X5qHUmZGxA) | 2:38 |
 | 58 | [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 |

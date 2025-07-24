@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Jul 22:06 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Jul 13:07 UTC.",
   "num_followers": 96,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAATdYm279c5Ryjqa1D3YHJ/uJnBXDBk",
+  "snapshot_id": "AAATd6obcmT65me2TwjKrYqOnsoNayvm",
   "tracks": [
+    {
+      "added_at": "2025-07-23 13:07:13",
+      "album": {
+        "name": "LIKE U",
+        "url": "https://open.spotify.com/album/4BME1fpCdQrJeeKu8dD1np"
+      },
+      "artists": [
+        {
+          "name": "Lexie Liu",
+          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
+        }
+      ],
+      "duration_ms": 145371,
+      "name": "LIKE U",
+      "url": "https://open.spotify.com/track/78e6hprIgJm3rMWjOmeXbA"
+    },
     {
       "added_at": "2025-07-22 22:06:27",
       "album": {
@@ -799,22 +815,6 @@
       "duration_ms": 106694,
       "name": "When I met you",
       "url": "https://open.spotify.com/track/0qcHyrNwLPVmlmapI39DNn"
-    },
-    {
-      "added_at": "2025-07-15 13:05:46",
-      "album": {
-        "name": "Dark Arts",
-        "url": "https://open.spotify.com/album/1YItIfS2HNJkWIgaoj50SM"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 181758,
-      "name": "Dark Arts",
-      "url": "https://open.spotify.com/track/2wRXvIGUTRWod4yp1k3bGN"
     }
   ],
   "unique_name": "New Singles Now",

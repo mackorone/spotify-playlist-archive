@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,740 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,830 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 45 | [Cheek To Cheek \- 1998 Remastered](https://open.spotify.com/track/5GkqTYiXW18QsdkdCggyb7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Dance With Me! \(Remastered\)](https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro) | 3:06 |
 | 46 | [Wives And Lovers](https://open.spotify.com/track/33yeTx321qQCaLyh2nE6BY) | [Jack Jones](https://open.spotify.com/artist/6eVCRmRG2HcfL4yx77A9WK) | [Wives And Lovers](https://open.spotify.com/album/6hjM6J8iejTPc41xoDXMN1) | 2:29 |
 | 47 | [I Have But One Heart](https://open.spotify.com/track/4rTozJf2UY14LNG6Q3E321) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6), [Carlo Savina](https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC) | [The Godfather](https://open.spotify.com/album/5CeLOKEJeP3EpEdT9v2lep) | 2:57 |
-| 48 | [Feeling Good](https://open.spotify.com/track/6pY1AWqj42B5pngwtgyTJ4) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Sammy Davis Jr\. Show with Special Guests Stars Frank Sinatra and Dean Martin](https://open.spotify.com/album/4pBkKEwLMmRQAHLYEDAaZB) | 3:03 |
-| 49 | [Tea For Two](https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 3:24 |
+| 48 | [Tea For Two](https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 3:24 |
+| 49 | [Feeling Good](https://open.spotify.com/track/6pY1AWqj42B5pngwtgyTJ4) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Sammy Davis Jr\. Show with Special Guests Stars Frank Sinatra and Dean Martin](https://open.spotify.com/album/4pBkKEwLMmRQAHLYEDAaZB) | 3:03 |
 | 50 | [Stardust](https://open.spotify.com/track/0VX8ptOQhUt1SIOHYLZGNN) | [Hoagy Carmichael](https://open.spotify.com/artist/7j8I1aIBA9Z9bMy7mTwWKk) | [The Stardust Road](https://open.spotify.com/album/1e1zz72xREdXtdedgG8EDx) | 2:26 |
 
 Snapshot ID: `ZpU+7wAAAACFXnyWRQinppwnsr8sdPPo`

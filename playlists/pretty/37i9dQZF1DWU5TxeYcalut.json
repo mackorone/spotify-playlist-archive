@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Azymuth",
-  "num_followers": 163486,
+  "num_followers": 163490,
   "original_name": "Jazz BR",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
-        "name": "Chamam\u00e9",
-        "url": "https://open.spotify.com/album/08ZqtBfCPA1XU0M2zNCkrZ"
-      },
-      "artists": [
-        {
-          "name": "YANGOS",
-          "url": "https://open.spotify.com/artist/3j6WayXYqFcOSQPfG5wqhO"
-        }
-      ],
-      "duration_ms": 202206,
-      "name": "Rasguido Serrano",
-      "url": "https://open.spotify.com/track/0vc6o6imhfWix6jNf6VVtA"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
         "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
         "url": "https://open.spotify.com/album/2XQb3gFbkP7pRVZzMPbhCg"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 201500,
       "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
       "url": "https://open.spotify.com/track/3vV7kdVX0gbNHwxgnQjTfF"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "Chamam\u00e9",
+        "url": "https://open.spotify.com/album/08ZqtBfCPA1XU0M2zNCkrZ"
+      },
+      "artists": [
+        {
+          "name": "YANGOS",
+          "url": "https://open.spotify.com/artist/3j6WayXYqFcOSQPfG5wqhO"
+        }
+      ],
+      "duration_ms": 202206,
+      "name": "Rasguido Serrano",
+      "url": "https://open.spotify.com/track/0vc6o6imhfWix6jNf6VVtA"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -487,38 +487,6 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
-        "name": "Hermeto Solo: Por Diferentes Caminhos (Piano Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4EcbBJsAWX950lcV0MRuBk"
-      },
-      "artists": [
-        {
-          "name": "Hermeto Pascoal",
-          "url": "https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s"
-        }
-      ],
-      "duration_ms": 328437,
-      "name": "Pixitotinha",
-      "url": "https://open.spotify.com/track/7q4pF9QPLQPhq6SXzsisrd"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
-        "name": "Edu Lobo - Oitenta",
-        "url": "https://open.spotify.com/album/3Oidey2JJ4jQB3X9FqJJ5J"
-      },
-      "artists": [
-        {
-          "name": "Edu Lobo",
-          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "S\u00f3 Me Fez Bem",
-      "url": "https://open.spotify.com/track/5vOjvXc4vva8U8l8gsUpPL"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
         "name": "Rala Coxa",
         "url": "https://open.spotify.com/album/48RtZ8vrAFhgM28pBL9FjO"
       },
@@ -539,6 +507,38 @@
       "duration_ms": 359869,
       "name": "Rala Coxa",
       "url": "https://open.spotify.com/track/1nfItvLmyX2YO2q0D6E6Jq"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "Edu Lobo - Oitenta",
+        "url": "https://open.spotify.com/album/3Oidey2JJ4jQB3X9FqJJ5J"
+      },
+      "artists": [
+        {
+          "name": "Edu Lobo",
+          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "S\u00f3 Me Fez Bem",
+      "url": "https://open.spotify.com/track/5vOjvXc4vva8U8l8gsUpPL"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "Hermeto Solo: Por Diferentes Caminhos (Piano Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4EcbBJsAWX950lcV0MRuBk"
+      },
+      "artists": [
+        {
+          "name": "Hermeto Pascoal",
+          "url": "https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s"
+        }
+      ],
+      "duration_ms": 328437,
+      "name": "Pixitotinha",
+      "url": "https://open.spotify.com/track/7q4pF9QPLQPhq6SXzsisrd"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
-        "name": "Plural",
-        "url": "https://open.spotify.com/album/7yhJD2xhtcfAterNjKzUI5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Grossi",
-          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
-        },
-        {
-          "name": "Anat Cohen",
-          "url": "https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH"
-        }
-      ],
-      "duration_ms": 492946,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/2Q7LRFy26mBMhpMNjV3u31"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
         "name": "If\u00e8",
         "url": "https://open.spotify.com/album/3JK98v9dwUpZWIvU575dvR"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 317986,
       "name": "Mem\u00f3rias",
       "url": "https://open.spotify.com/track/1Ir2uQSAIZt9vRAunNCRQJ"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "Plural",
+        "url": "https://open.spotify.com/album/7yhJD2xhtcfAterNjKzUI5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Grossi",
+          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
+        },
+        {
+          "name": "Anat Cohen",
+          "url": "https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH"
+        }
+      ],
+      "duration_ms": 492946,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/2Q7LRFy26mBMhpMNjV3u31"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -1131,34 +1131,6 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
-        "name": "When the Answer Is a Question",
-        "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Rodrigo Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
-        },
-        {
-          "name": "Sergio Reze",
-          "url": "https://open.spotify.com/artist/2lhvaGqyRI693ex3hNNW6E"
-        },
-        {
-          "name": "Z\u00e9 Godoy",
-          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
-        }
-      ],
-      "duration_ms": 457386,
-      "name": "When the Answer Is a Question",
-      "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
         "name": "Pro Carnaval Voltar",
         "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
       },
@@ -1187,22 +1159,30 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
-        "name": "Mar de Cirandeiras",
-        "url": "https://open.spotify.com/album/2e7tCsPiamIIcKpkOKMUqL"
+        "name": "When the Answer Is a Question",
+        "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
       },
       "artists": [
         {
-          "name": "Amaro Freitas",
-          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
         },
         {
-          "name": "Jeff Parker",
-          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+          "name": "Rodrigo Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
+        },
+        {
+          "name": "Sergio Reze",
+          "url": "https://open.spotify.com/artist/2lhvaGqyRI693ex3hNNW6E"
+        },
+        {
+          "name": "Z\u00e9 Godoy",
+          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
         }
       ],
-      "duration_ms": 230307,
-      "name": "Mar de Cirandeiras",
-      "url": "https://open.spotify.com/track/0fyPqTAayRNDDJawYaZkGe"
+      "duration_ms": 457386,
+      "name": "When the Answer Is a Question",
+      "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -1219,6 +1199,26 @@
       "duration_ms": 126647,
       "name": "From Rio",
       "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "Mar de Cirandeiras",
+        "url": "https://open.spotify.com/album/2e7tCsPiamIIcKpkOKMUqL"
+      },
+      "artists": [
+        {
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        }
+      ],
+      "duration_ms": 230307,
+      "name": "Mar de Cirandeiras",
+      "url": "https://open.spotify.com/track/0fyPqTAayRNDDJawYaZkGe"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -1279,7 +1279,55 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
-        "name": "EIN 002 - Debora Gurgel, Vanessa Ferreira, Vera Figueiredo",
+        "name": "Cinepoesia: Samba do \u00c1rvore",
+        "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Freire",
+          "url": "https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo"
+        }
+      ],
+      "duration_ms": 163169,
+      "name": "Cinepoesia: Samba do \u00c1rvore",
+      "url": "https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "Gunnarssons",
+        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 251417,
+      "name": "Gunnarssons",
+      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "Can\u00e7\u00e3o da Odalisca",
+        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
+      },
+      "artists": [
+        {
+          "name": "Caetano Brasil",
+          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
+        }
+      ],
+      "duration_ms": 365120,
+      "name": "Can\u00e7\u00e3o da Odalisca",
+      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "EIN 002 \u2013 Debora Gurgel, Vanessa Ferreira, Vera Figueiredo",
         "url": "https://open.spotify.com/album/2DmxRJXJkrxeX5Mon0hcJO"
       },
       "artists": [
@@ -1307,38 +1355,6 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
-        "name": "Gunnarssons",
-        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 251417,
-      "name": "Gunnarssons",
-      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
-        "name": "Cinepoesia: Samba do \u00c1rvore",
-        "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9a Freire",
-          "url": "https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo"
-        }
-      ],
-      "duration_ms": 163169,
-      "name": "Cinepoesia: Samba do \u00c1rvore",
-      "url": "https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
         "name": "Kurukere",
         "url": "https://open.spotify.com/album/5wDaxoRCIWH7wWDmwQQSKL"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 352329,
       "name": "Kurukere",
       "url": "https://open.spotify.com/track/7KRa4kuRagWi0aGJL06CxB"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
-        "name": "Can\u00e7\u00e3o da Odalisca",
-        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
-      },
-      "artists": [
-        {
-          "name": "Caetano Brasil",
-          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
-        }
-      ],
-      "duration_ms": 365120,
-      "name": "Can\u00e7\u00e3o da Odalisca",
-      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
+        "name": "Heran\u00e7a",
+        "url": "https://open.spotify.com/album/3o5Z7YO1rwBzAT04rvVdtV"
+      },
+      "artists": [
+        {
+          "name": "Henrique Mota",
+          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
+        }
+      ],
+      "duration_ms": 407033,
+      "name": "Influ\u00eancia",
+      "url": "https://open.spotify.com/track/6uqoJ3moFgpHqeDAmWDLTv"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
         "name": "Agora Aqui",
         "url": "https://open.spotify.com/album/6giXpWWXGUJrie8noezK8y"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 212416,
       "name": "Talvez Certamente",
       "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
-        "name": "Heran\u00e7a",
-        "url": "https://open.spotify.com/album/3o5Z7YO1rwBzAT04rvVdtV"
-      },
-      "artists": [
-        {
-          "name": "Henrique Mota",
-          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
-        }
-      ],
-      "duration_ms": 407033,
-      "name": "Influ\u00eancia",
-      "url": "https://open.spotify.com/track/6uqoJ3moFgpHqeDAmWDLTv"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -1695,30 +1695,6 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
-        "name": "Amilton Godoy 80 Anos",
-        "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
-      },
-      "artists": [
-        {
-          "name": "Amilton Godoy",
-          "url": "https://open.spotify.com/artist/6eBb2VD12O0Xk5WlNwP7YF"
-        },
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
-        },
-        {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "Ponteio 49",
-      "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
         "name": "Factotum",
         "url": "https://open.spotify.com/album/1KgnJrYa8yeHxILCZT8xS0"
       },
@@ -1763,6 +1739,30 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
+        "name": "Amilton Godoy 80 Anos",
+        "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
+      },
+      "artists": [
+        {
+          "name": "Amilton Godoy",
+          "url": "https://open.spotify.com/artist/6eBb2VD12O0Xk5WlNwP7YF"
+        },
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+        },
+        {
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+        }
+      ],
+      "duration_ms": 166933,
+      "name": "Ponteio 49",
+      "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
         "name": "MOA",
         "url": "https://open.spotify.com/album/2qIm0HQn8TwvYzy4jReHDz"
       },
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
-        "name": "Funktastic",
-        "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
-      },
-      "artists": [
-        {
-          "name": "Hammond Grooves",
-          "url": "https://open.spotify.com/artist/5m68N3CcLGw2VOzMrqlrhO"
-        }
-      ],
-      "duration_ms": 355961,
-      "name": "Funktastic",
-      "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
         "name": "Deyeh",
         "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 205466,
       "name": "Kahkoon",
       "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "Funktastic",
+        "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
+      },
+      "artists": [
+        {
+          "name": "Hammond Grooves",
+          "url": "https://open.spotify.com/artist/5m68N3CcLGw2VOzMrqlrhO"
+        }
+      ],
+      "duration_ms": 355961,
+      "name": "Funktastic",
+      "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
     },
     {
       "added_at": "2025-07-11 05:44:48",

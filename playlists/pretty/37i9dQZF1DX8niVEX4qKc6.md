@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Camilú.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,338 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,357 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,15 +75,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 65 | [Jaguar House](https://open.spotify.com/track/1ymX19hR5uehyYdyeQuoWC) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Ninja Mental \- Unplugged MTV](https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c) | 3:50 |
 | 66 | [No me pidas que no sea un inconsciente](https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [No me pidas que no sea un inconsciente](https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g) | 2:13 |
 | 67 | [A Little Respect](https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Tú Ve](https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV) | 3:28 |
-| 68 | [Deja de Pedir Perdón \- MTV Unplugged](https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:10 |
-| 69 | [Fuimos](https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k) | 3:33 |
+| 68 | [Fuimos](https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Diecinueve](https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k) | 3:33 |
+| 69 | [Deja de Pedir Perdón \- MTV Unplugged](https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:10 |
 | 70 | [Amado Mío \(Acústica\)](https://open.spotify.com/track/7tsjGnzRBEKq6tN0fhlGea) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Amado Mío \(Acústica\)](https://open.spotify.com/album/25fo0NUtp8CfwO3YNTlcV3) | 2:24 |
 | 71 | [Campanas en la Noche \- Versión Juan José Vasconcellos](https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Juan José Vasconcellos](https://open.spotify.com/artist/2trqwU5np12DafTWRHGy0A) | [De Mi Flor](https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P) | 3:41 |
 | 72 | [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 |
 | 73 | [No Te Puedo Decir Que No](https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [No Te Puedo Decir Que No](https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp) | 3:03 |
 | 74 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 |
-| 75 | [Las Plantas Crecen](https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Las Plantas Crecen](https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV) | 1:55 |
-| 76 | [Me Estás Tratando Mal \- En Vivo Acústico](https://open.spotify.com/track/6YKN33GKbvLF3dcZtXPIlP) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:20 |
+| 75 | [Me Estás Tratando Mal \- En Vivo Acústico](https://open.spotify.com/track/6YKN33GKbvLF3dcZtXPIlP) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:20 |
+| 76 | [Las Plantas Crecen](https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Las Plantas Crecen](https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV) | 1:55 |
 | 77 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 |
 | 78 | [Laberinto](https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Respirar Bajo el Agua](https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ) | 2:45 |
 | 79 | [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 97 | [Seminare](https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [Seminare](https://open.spotify.com/album/6IB3zMfjgorwaZdvyeGxiI) | 3:24 |
 | 98 | [enero \- versión acústica](https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [enero \(versión acústica\)](https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg) | 3:26 |
 | 99 | [Salvaje](https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Salvaje](https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR) | 2:53 |
-| 100 | [Se Vos](https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Pedro Rossi](https://open.spotify.com/artist/32uq3m742M8DXd4WvpCIjC) | [Se Vos](https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM) | 4:36 |
+| 100 | [Mil Mensajes](https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Mil Mensajes](https://open.spotify.com/album/4c80ZsZUjAp1lEcG6jWVDo) | 3:22 |
 
 Snapshot ID: `aB1vywAAAAACarla+dBkwdxLsKdnYvK6`

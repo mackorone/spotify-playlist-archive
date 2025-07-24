@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 160375,
+  "num_followers": 160408,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAAVJM2p0QnU6XMkyauWMn1P",
+  "snapshot_id": "aH7UgAAAAAB1wDr8zcLT7joNBaFfmGk6",
   "tracks": [
     {
       "added_at": null,
@@ -599,30 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lonely Dirt Road (feat. Maverick City Music and Nick Day)",
-        "url": "https://open.spotify.com/album/2c6G5kgUjQO93Q7WbMbCmP"
-      },
-      "artists": [
-        {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
-        }
-      ],
-      "duration_ms": 251886,
-      "name": "Lonely Dirt Road",
-      "url": "https://open.spotify.com/track/6d0g54JbUGZvRBGMh4cmmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -671,6 +647,30 @@
       "duration_ms": 492415,
       "name": "God Will Work It Out (feat. Israel Houghton & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/0cquJ3BPyFKQALxOMsl7m3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lonely Dirt Road (feat. Maverick City Music and Nick Day)",
+        "url": "https://open.spotify.com/album/2c6G5kgUjQO93Q7WbMbCmP"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        }
+      ],
+      "duration_ms": 251886,
+      "name": "Lonely Dirt Road",
+      "url": "https://open.spotify.com/track/6d0g54JbUGZvRBGMh4cmmJ"
     },
     {
       "added_at": null,
@@ -927,62 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAVHOUSE",
-        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Song House",
-          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
-        },
-        {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
-        },
-        {
-          "name": "Za Smith",
-          "url": "https://open.spotify.com/artist/4XtxlaWuCCmOs0MpZp4t7X"
-        },
-        {
-          "name": "Roman Collins",
-          "url": "https://open.spotify.com/artist/3eUJPNxzbNE3adFy2NVZ9W"
-        }
-      ],
-      "duration_ms": 225768,
-      "name": "Well, Well, Well (feat. Nick Day, Roman Collins & Za Smith)",
-      "url": "https://open.spotify.com/track/1Uxa2NtfjBIOravMz0ZQF5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 421165,
-      "name": "My Life Is In Your Hands",
-      "url": "https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breathe - EP",
         "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
       },
@@ -1011,6 +955,62 @@
       "duration_ms": 326500,
       "name": "Breathe (feat. Jonathan McReynolds, DOE & Mav City Gospel Choir) - Studio Version",
       "url": "https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 421165,
+      "name": "My Life Is In Your Hands",
+      "url": "https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAVHOUSE",
+        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        },
+        {
+          "name": "Za Smith",
+          "url": "https://open.spotify.com/artist/4XtxlaWuCCmOs0MpZp4t7X"
+        },
+        {
+          "name": "Roman Collins",
+          "url": "https://open.spotify.com/artist/3eUJPNxzbNE3adFy2NVZ9W"
+        }
+      ],
+      "duration_ms": 225768,
+      "name": "Well, Well, Well (feat. Nick Day, Roman Collins & Za Smith)",
+      "url": "https://open.spotify.com/track/1Uxa2NtfjBIOravMz0ZQF5"
     },
     {
       "added_at": null,
@@ -1155,6 +1155,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jireh (Lofi Remix)",
+        "url": "https://open.spotify.com/album/6F3TM2ui3W5f8SGltEHkol"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Jireh - Lofi Remix",
+      "url": "https://open.spotify.com/track/17ShT3cqakwxD14w8nLJm0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simple Adoraci\u00f3n",
         "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 515963,
       "name": "Mi Oraci\u00f3n (La Ni\u00f1a de Tus Ojos) [feat. Melody Adorno]",
       "url": "https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jireh (Lofi Remix)",
-        "url": "https://open.spotify.com/album/6F3TM2ui3W5f8SGltEHkol"
-      },
-      "artists": [
-        {
-          "name": "xander.",
-          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Jireh - Lofi Remix",
-      "url": "https://open.spotify.com/track/17ShT3cqakwxD14w8nLJm0"
     },
     {
       "added_at": null,

@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Combust",
+        "url": "https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138161,
+      "name": "Combust",
+      "url": "https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP"
+    },
+    {
+      "album": {
         "name": "HOT",
         "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
       },
@@ -288,7 +306,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 230171,
       "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
       "url": "https://open.spotify.com/track/4cfiNs7Yvr9UTLvbYWal1o"
@@ -426,6 +444,42 @@
       "duration_ms": 159365,
       "name": "girl in red",
       "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "GO BABY",
+      "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
+    },
+    {
+      "album": {
+        "name": "Episode 25",
+        "url": "https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/6pmSjlslSDwvKrhm2eD49o"
     },
     {
       "album": {
@@ -686,7 +740,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 133253,
       "name": "Last Minute",
       "url": "https://open.spotify.com/track/0i7Ps1oPnc0IfUAeKiktY2"
@@ -1300,7 +1354,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 220000,
       "name": "Us (prod. D.O)",
       "url": "https://open.spotify.com/track/5edARuT05GkrWeFvcPM9As"

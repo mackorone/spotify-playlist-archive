@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 122289,
+  "num_followers": 122312,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAABKwKoHl2ZOXRd5tFDm4GUp",
+  "snapshot_id": "aH7UgAAAAABl+3h3R+8n53PQSN9JHWCk",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 193133,
-      "name": "Made in America",
-      "url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C"
+      "duration_ms": 206840,
+      "name": "Wish I Didn't Know Now",
+      "url": "https://open.spotify.com/track/40nvOEkPCUDsoQdruyndb2"
     },
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 206840,
-      "name": "Wish I Didn't Know Now",
-      "url": "https://open.spotify.com/track/40nvOEkPCUDsoQdruyndb2"
+      "duration_ms": 193133,
+      "name": "Made in America",
+      "url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C"
     },
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 223386,
-      "name": "Red Solo Cup",
-      "url": "https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN"
+      "duration_ms": 170546,
+      "name": "A Little Less Talk And A Lot More Action",
+      "url": "https://open.spotify.com/track/267pym8JqsQQdIs7dadMJR"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 170546,
-      "name": "A Little Less Talk And A Lot More Action",
-      "url": "https://open.spotify.com/track/267pym8JqsQQdIs7dadMJR"
+      "duration_ms": 223386,
+      "name": "Red Solo Cup",
+      "url": "https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Don't Make Me a Bad Guy",
-        "url": "https://open.spotify.com/album/2wkmIPd9my2KpsBgZZer7e"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "God Love Her",
-      "url": "https://open.spotify.com/track/2VwBhM5L7wGE4lLavyJy0L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Walkin'",
         "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 237160,
       "name": "Dream Walkin'",
       "url": "https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Don't Make Me a Bad Guy",
+        "url": "https://open.spotify.com/album/2wkmIPd9my2KpsBgZZer7e"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "God Love Her",
+      "url": "https://open.spotify.com/track/2VwBhM5L7wGE4lLavyJy0L"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "White Trash With Money",
+        "url": "https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "A Little Too Late",
+      "url": "https://open.spotify.com/track/4RYksZuX2OOLjcPJdYkgSU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Toby Keith 35 Biggest Hits",
         "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Trash With Money",
-        "url": "https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "A Little Too Late",
-      "url": "https://open.spotify.com/track/4RYksZuX2OOLjcPJdYkgSU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 233106,
       "name": "Me Too",
       "url": "https://open.spotify.com/track/5Jy6TexjmznhnsWqRLkiSi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Trash With Money",
+        "url": "https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Get Drunk And Be Somebody",
+      "url": "https://open.spotify.com/track/408wKFP7qp6ALbjcex2t9k"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
       "duration_ms": 224456,
       "name": "Ships That Don\u2019t Come In",
       "url": "https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "White Trash With Money",
-        "url": "https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Get Drunk And Be Somebody",
-      "url": "https://open.spotify.com/track/408wKFP7qp6ALbjcex2t9k"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Ride",
+        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 285506,
+      "name": "Cryin' for Me (Wayman's Song)",
+      "url": "https://open.spotify.com/track/5D2Sr7fTxeVfO4cYniJG7X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rodeo Rock And Roll Collection",
         "url": "https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 163666,
       "name": "Copenhagen",
       "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Ride",
-        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 285506,
-      "name": "Cryin' for Me (Wayman's Song)",
-      "url": "https://open.spotify.com/track/5D2Sr7fTxeVfO4cYniJG7X"
     },
     {
       "added_at": null,

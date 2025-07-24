@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 97252,
+  "num_followers": 97298,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAC3OBfKLrN7zxgp3dZvt32O",
+  "snapshot_id": "aH7UgAAAAACt8An3H+UR3aG39QErvvlJ",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e1cil no Fue",
-        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 162627,
-      "name": "BackPackBoyz",
-      "url": "https://open.spotify.com/track/2LnlPJBBbZaKOXohzNyhVU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
         "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 138432,
       "name": "Cosas De La Clica (feat. Legado 7)",
       "url": "https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e1cil no Fue",
+        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 162627,
+      "name": "BackPackBoyz",
+      "url": "https://open.spotify.com/track/2LnlPJBBbZaKOXohzNyhVU"
     },
     {
       "added_at": null,

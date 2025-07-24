@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Stars Go Dim
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,405 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,393 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 27 | [SONSHINE](https://open.spotify.com/track/6hji1TiaYHKfBzmno4wLo9) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [SONSHINE](https://open.spotify.com/album/02cXduWFbzcEMtfE3rScWN) | 3:16 |
 | 28 | [Somebody Knows Me](https://open.spotify.com/track/3eHUpYNzRN3V6S66vYNJNX) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY) | [Somebody Knows Me](https://open.spotify.com/album/24eHKzlwLNgPWfROFXkF9R) | 3:34 |
 | 29 | [Where Oh Where](https://open.spotify.com/track/03zlFzKWT8YwVNYMUL32Bq) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Victory Lap](https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh) | 4:01 |
-| 30 | [Jesus Is Why \(Single Mix\)](https://open.spotify.com/track/1hXpXaIsF8fNzstNqo9OX7) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Jesus Is Why \(Single Mix\)](https://open.spotify.com/album/1jmQhvS9Z7SWxk3CgIa4Aw) | 2:42 |
+| 30 | [Jesus Is Why \- Single Mix](https://open.spotify.com/track/1hXpXaIsF8fNzstNqo9OX7) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Jesus Is Why \(Single Mix\)](https://open.spotify.com/album/1jmQhvS9Z7SWxk3CgIa4Aw) | 2:42 |
 | 31 | [all in time](https://open.spotify.com/track/5Zq4A5cMpv6LypEzIESfvV) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [all in time](https://open.spotify.com/album/5hYx5QS6HbwlDWPQVSpYdV) | 1:46 |
 | 32 | [DEPTHS](https://open.spotify.com/track/7HGMaTm8jTkX8K62WrqRhj) | [Elenee](https://open.spotify.com/artist/78ik45hdCuCyQ1gyiFEueX), [Kaégan](https://open.spotify.com/artist/3ypFqbZ8uiCUUNPgyIldam) | [DEPTHS](https://open.spotify.com/album/2VWDRx53pO8WGueuq0DQhu) | 3:14 |
 | 33 | [Heartbeat](https://open.spotify.com/track/6KeWRBLcnyjg7oBWd9ntU2) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Heartbeat](https://open.spotify.com/album/74DH6rEwpGN9OToIXaHGwt) | 3:22 |

@@ -1,6 +1,6 @@
 {
   "description": "Volkspop | Nederpop. Cover: Yves Berendse",
-  "num_followers": 147645,
+  "num_followers": 147720,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -111,42 +111,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Hartslag Van De Stad",
-        "url": "https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        },
-        {
-          "name": "Mart Hoogkamer",
-          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
-        }
-      ],
-      "duration_ms": 179025,
-      "name": "Hartslag Van De Stad",
-      "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "Engelbewaarder",
-        "url": "https://open.spotify.com/album/7zGrwd5rwbfQiLfuFtkTh4"
-      },
-      "artists": [
-        {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
-        }
-      ],
-      "duration_ms": 196384,
-      "name": "Engelbewaarder",
-      "url": "https://open.spotify.com/track/3bqza6yXHT7b6JqbeyWpFD"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "Vanavond (Uit M'n Bol)",
         "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
       },
@@ -167,6 +131,42 @@
       "duration_ms": 166560,
       "name": "Vanavond (Uit M'n Bol)",
       "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Engelbewaarder",
+        "url": "https://open.spotify.com/album/7zGrwd5rwbfQiLfuFtkTh4"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "duration_ms": 196384,
+      "name": "Engelbewaarder",
+      "url": "https://open.spotify.com/track/3bqza6yXHT7b6JqbeyWpFD"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Hartslag Van De Stad",
+        "url": "https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "duration_ms": 179025,
+      "name": "Hartslag Van De Stad",
+      "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -231,22 +231,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Ik Spaar Geen Centen",
-        "url": "https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS"
-      },
-      "artists": [
-        {
-          "name": "Mart Hoogkamer",
-          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
-        }
-      ],
-      "duration_ms": 166923,
-      "name": "Ik Spaar Geen Centen",
-      "url": "https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "Strijdlustig",
         "url": "https://open.spotify.com/album/1lWOET4J2gCO8jItVDAJfX"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 241626,
       "name": "Bloed, Zweet En Tranen",
       "url": "https://open.spotify.com/track/5ZLkc5RY1NM4FtGWEd6HOE"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Ik Spaar Geen Centen",
+        "url": "https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS"
+      },
+      "artists": [
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "duration_ms": 166923,
+      "name": "Ik Spaar Geen Centen",
+      "url": "https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -355,8 +355,8 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Bon Gepakt",
-        "url": "https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY"
+        "name": "Frans Duits",
+        "url": "https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh"
       },
       "artists": [
         {
@@ -364,13 +364,13 @@
           "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
         },
         {
-          "name": "Rene Froger",
-          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
         }
       ],
-      "duration_ms": 173283,
-      "name": "Bon Gepakt",
-      "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
+      "duration_ms": 172881,
+      "name": "Frans Duits",
+      "url": "https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -391,6 +391,22 @@
       "duration_ms": 193694,
       "name": "Alleen Met Jou",
       "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Gewoon Andre",
+        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Een Beetje Verliefd",
+      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -419,22 +435,6 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "Gewoon Andre",
-        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Een Beetje Verliefd",
-      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -471,8 +471,8 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Frans Duits",
-        "url": "https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh"
+        "name": "Bon Gepakt",
+        "url": "https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY"
       },
       "artists": [
         {
@@ -480,13 +480,13 @@
           "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
         },
         {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
         }
       ],
-      "duration_ms": 172881,
-      "name": "Frans Duits",
-      "url": "https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90"
+      "duration_ms": 173283,
+      "name": "Bon Gepakt",
+      "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -527,6 +527,30 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
+        "name": "Vluchtstrook",
+        "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "duration_ms": 148467,
+      "name": "Vluchtstrook",
+      "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
         "name": "Ik Ga Zwemmen",
         "url": "https://open.spotify.com/album/65DiFaOKycQjpuAFpKTOfG"
       },
@@ -555,30 +579,6 @@
       "duration_ms": 165768,
       "name": "Automatisch",
       "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "Vluchtstrook",
-        "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "Sigourney K",
-          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
-        }
-      ],
-      "duration_ms": 148467,
-      "name": "Vluchtstrook",
-      "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Turk Uit De Kroeg",
-        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
-      },
-      "artists": [
-        {
-          "name": "Ammar",
-          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Turk Uit De Kroeg",
-      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "Zoutelande (feat. Geike)",
         "url": "https://open.spotify.com/album/0lijSwwkPwnIv3NOnwL5O0"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 223266,
       "name": "Zoutelande (feat. Geike)",
       "url": "https://open.spotify.com/track/0le8EcVp4x1JjMhwRKIOVi"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Turk Uit De Kroeg",
+        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Turk Uit De Kroeg",
+      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "'n Koffer Vol Met Dromen",
-        "url": "https://open.spotify.com/album/3mhHNUvaALUDIwaZriCDDz"
-      },
-      "artists": [
-        {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "De Woonboot",
-      "url": "https://open.spotify.com/track/2xTuB4v38ACgxKDclUdB1S"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "Vlinders Van De Nacht",
         "url": "https://open.spotify.com/album/13XX8pIrS5dG6fymhvzOsC"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 226000,
       "name": "Vrijgezel",
       "url": "https://open.spotify.com/track/5Z2aHuXBpwMnTpWZMwHkmr"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "'n Koffer Vol Met Dromen",
+        "url": "https://open.spotify.com/album/3mhHNUvaALUDIwaZriCDDz"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "De Woonboot",
+      "url": "https://open.spotify.com/track/2xTuB4v38ACgxKDclUdB1S"
     },
     {
       "added_at": "2025-06-06 09:13:23",

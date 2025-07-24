@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 628465,
+  "num_followers": 628517,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAACtJkXPPhUTZ9lFCxbYq2JO",
+  "snapshot_id": "aH7UgAAAAADaeqmzl4qJyTMl4C+S5LLi",
   "tracks": [
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Florida Orchestra",
-          "url": "https://open.spotify.com/artist/2ol0baiyjfNxqzzNhXTykx"
-        }
-      ],
-      "duration_ms": 134920,
-      "name": "The Star Spangled Banner (feat. The Florida Orchestra) - Live from Super Bowl XXV",
-      "url": "https://open.spotify.com/track/5qByPJHfbssZpbUzhgpDCG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Dream Duets",
         "url": "https://open.spotify.com/album/3Fay2wEWeAFkBIJgDWlUCQ"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 234480,
       "name": "I Believe In You And Me",
       "url": "https://open.spotify.com/track/6WG0YDkzvgJyHDwulZPCTv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Florida Orchestra",
+          "url": "https://open.spotify.com/artist/2ol0baiyjfNxqzzNhXTykx"
+        }
+      ],
+      "duration_ms": 134920,
+      "name": "The Star Spangled Banner (feat. The Florida Orchestra) - Live from Super Bowl XXV",
+      "url": "https://open.spotify.com/track/5qByPJHfbssZpbUzhgpDCG"
     },
     {
       "added_at": null,

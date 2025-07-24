@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "BIG BANDS - The 7th Mini Album",
+        "url": "https://open.spotify.com/album/7bznUQPHdmQnEPx0AjC9qI"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "BIG BANDS - Korean Version",
+      "url": "https://open.spotify.com/track/65ivb51ZNPZzsuea4qL3QX"
+    },
+    {
+      "album": {
         "name": "DARK BLOOD",
         "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
       },
@@ -1566,7 +1584,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 135000,
       "name": "Bora",
       "url": "https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v"
@@ -2782,7 +2800,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 220716,
       "name": "DARARI",
       "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
@@ -10264,6 +10282,24 @@
       "duration_ms": 203906,
       "name": "skinz",
       "url": "https://open.spotify.com/track/6muszfo0tVE3bzEN5s0xXk"
+    },
+    {
+      "album": {
+        "name": "SLAM DUNK",
+        "url": "https://open.spotify.com/album/2SG1eu7Mayczz9708mhbYm"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "SLAM DUNK",
+      "url": "https://open.spotify.com/track/4kZHkv3q9zWEazkRJXJ5UN"
     },
     {
       "album": {

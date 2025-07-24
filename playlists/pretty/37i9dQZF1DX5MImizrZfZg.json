@@ -1,6 +1,6 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 78660,
+  "num_followers": 78691,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 283266,
+      "name": "Eye 2 Eye",
+      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Another Door Opens",
         "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 256973,
       "name": "Pacifica",
       "url": "https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 283266,
-      "name": "Eye 2 Eye",
-      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
     },
     {
       "added_at": "2020-08-19 19:15:51",

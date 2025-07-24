@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Request a song @ FurryRadio.com
 
-366 songs - 19 hr 28 min
+367 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [I DONT UNDERSTAND](https://open.spotify.com/track/74KNOo0ILoRMyD7NT5gDgy) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU), [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ) | [I DONT UNDERSTAND](https://open.spotify.com/album/0XZN4GHwWZGy0oIz49oVu0) | 3:08 | 2025-01-30 |  |
 | [I DONT WANNA KNOW](https://open.spotify.com/track/266Pwgq4t80Ra48KUeL3jd) | [Krow](https://open.spotify.com/artist/5zVksKQzQCWLW1R8Esuof9), [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [I DONT WANNA KNOW](https://open.spotify.com/album/0XLQ24yXx6IzZgAWTEz4bD) | 2:12 | 2025-05-26 |  |
 | [I FEEL LIKE RYAN SEACREST!](https://open.spotify.com/track/766wyP4PUBQFbDi8OUrCfM) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [I FEEL LIKE RYAN SEACREST!](https://open.spotify.com/album/24DMxLAjxbShCcn9PZYvpC) | 2:19 | 2025-03-07 |  |
+| [i got hit by a range rover in fursuit](https://open.spotify.com/track/4N6ZVRuGMdFyGH1g27x3oU) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [$USPICIOUSLY WEALTHY FURRIE$](https://open.spotify.com/album/0V5pycvdoKx0sVpPcR9zm7) | 2:15 | 2025-07-24 |  |
 | [I Know, I Hear You](https://open.spotify.com/track/4uBVRH3YUy0eSMnxKFVWwZ) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:19 | 2024-11-25 |  |
 | [I LOVE BEING NORMAL](https://open.spotify.com/track/1ePCMvoywpQ4eB6VQPsPwe) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [I LOVE BEING NORMAL](https://open.spotify.com/album/5Us6d5XJoDoJlDN903GibE) | 2:08 | 2025-01-07 |  |
 | [I need Sombody](https://open.spotify.com/track/3vypveqsnXyoobkju425wy) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I need Sombody](https://open.spotify.com/album/4uLaHsPdPdlyutC4IvQQyd) | 4:23 | 2024-10-21 |  |

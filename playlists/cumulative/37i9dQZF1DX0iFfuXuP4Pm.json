@@ -114,7 +114,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 277145,
       "name": "A Little Bit",
       "url": "https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 236000,
       "name": "Ano Ba Talaga Tayo?",
       "url": "https://open.spotify.com/track/2u8JwugJPL5Gv56l3asQj0"
@@ -1319,6 +1319,36 @@
     },
     {
       "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/3IIaHuWa8ExBM7iIuxDVpd"
+      },
+      "artists": [
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        },
+        {
+          "name": "Jay Chan",
+          "url": "https://open.spotify.com/artist/3IeDT4U7I5MOk729r0SHVE"
+        },
+        {
+          "name": "Sen Peders",
+          "url": "https://open.spotify.com/artist/0X8q0FUuwS6GElbkwhHfxH"
+        },
+        {
+          "name": "Soup Pha",
+          "url": "https://open.spotify.com/artist/2WRp2MrdxMV3BNiES6iTt4"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142499,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/4QosPAbuOSaDQsOSwl6AG1"
+    },
+    {
+      "album": {
         "name": "ERE",
         "url": "https://open.spotify.com/album/5Rg4hF4geeE5e01y7Z1JfD"
       },
@@ -2186,6 +2216,28 @@
       "duration_ms": 198573,
       "name": "Huwag Na Huwag Mong Sasabihin",
       "url": "https://open.spotify.com/track/2pbkyyrJVpo1aiMJOcvlWI"
+    },
+    {
+      "album": {
+        "name": "I can be the one",
+        "url": "https://open.spotify.com/album/1A8lPVdz7nGht81w9PrwKo"
+      },
+      "artists": [
+        {
+          "name": "Zae",
+          "url": "https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD"
+        },
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225926,
+      "name": "I can be the one",
+      "url": "https://open.spotify.com/track/4rgexTquOBLYzQWusUsLyb"
     },
     {
       "album": {
@@ -3810,7 +3862,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 211380,
       "name": "Ms. Pakipot",
       "url": "https://open.spotify.com/track/0JkoOMtuZZ7wFqq1fnS5v5"
@@ -4950,7 +5002,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 234630,
       "name": "PDKL",
       "url": "https://open.spotify.com/track/76mrtAj7T49UTsq5zKyrNT"
@@ -6188,6 +6240,32 @@
       "duration_ms": 210000,
       "name": "Tequila Rose",
       "url": "https://open.spotify.com/track/5fGWamKtCGZXW04flUxXl0"
+    },
+    {
+      "album": {
+        "name": "The Moment (with KOKORO)",
+        "url": "https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        },
+        {
+          "name": "PSYCHIC FEVER from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
+        },
+        {
+          "name": "KOKORO",
+          "url": "https://open.spotify.com/artist/4gULOUdHcpIdWOO170i4E5"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "The Moment (with KOKORO)",
+      "url": "https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 
 > This is Sufjan Stevens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,741 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,768 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 49 | [Shade I'll Never See](https://open.spotify.com/track/0jllpyj5FhtLgb7Txj7oxv) | [Denison Witmer](https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Anything At All](https://open.spotify.com/album/1pBsqSt6LWcEf9nIQHMWya) | 3:12 |
 | 50 | [We Won't Need Legs To Stand](https://open.spotify.com/track/447cvPxyRThQdy0W9w4kkN) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 2:16 |
 
-Snapshot ID: `aH2DAAAAAAA/MRa8lvUchVkg8dDcTz2d`
+Snapshot ID: `aH7UgAAAAABU3oov5XmeV4/xDzwuSWV/`

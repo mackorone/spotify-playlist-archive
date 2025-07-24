@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,449 likes - 114 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,462 likes - 114 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 30 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
 | 31 | [kendt mig en uge](https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [kendt mig en uge](https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd) | 3:06 |
 | 32 | [Intolewd](https://open.spotify.com/track/79rfskJwK9NLN3p5cdccth) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Krystal](https://open.spotify.com/album/0DMKZZanrzK36YjFyI5nfF) | 1:19 |
-| 33 | [Åboulevarden](https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK) | [Skinz](https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx) | [Åboulevarden](https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4) | 2:42 |
-| 34 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
+| 33 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
+| 34 | [Åboulevarden](https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK) | [Skinz](https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx) | [Åboulevarden](https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4) | 2:42 |
 | 35 | [I Believe](https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:37 |
 | 36 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
 | 37 | [Shape of You \- Acoustic](https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shape of You \(Acoustic\)](https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw) | 3:43 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 39 | [beholder mit tøj på](https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [beholder mit tøj på](https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98) | 3:08 |
 | 40 | [Lonely \(feat\. Artigeardit\)](https://open.spotify.com/track/00Ma3dn1eTeuz8LYEpUXQo) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Lonely \(feat\. Artigeardit\)](https://open.spotify.com/album/01jgWIUkK5rDmbWf3tFIMb) | 3:16 |
 | 41 | [Hvor Var Jeg Endt](https://open.spotify.com/track/1upFqX3mJflCB0QGJNJStY) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Hvor Var Jeg Endt](https://open.spotify.com/album/4qefEfwkmVFCFU3BYEmKJB) | 2:59 |
-| 42 | [California Dreamin'](https://open.spotify.com/track/7yD18NJa58SJnzjMTlPRU0) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [California Dreamin'](https://open.spotify.com/album/0MlN0yBNuDQ2pRDsUKfWMI) | 3:37 |
-| 43 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
+| 42 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
+| 43 | [California Dreamin'](https://open.spotify.com/track/7yD18NJa58SJnzjMTlPRU0) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [California Dreamin'](https://open.spotify.com/album/0MlN0yBNuDQ2pRDsUKfWMI) | 3:37 |
 | 44 | [Horsens \(feat\. Sofie1998\)](https://open.spotify.com/track/0yDtk8qHW7gg4obQ96cG0z) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L), [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Horsens \(feat\. Sofie1998\)](https://open.spotify.com/album/1kwC9j8e9iu2MckYWWGPh8) | 3:11 |
 | 45 | [No Peace](https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 4:43 |
 | 46 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl) | 3:30 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 65 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 |
 | 66 | [Love Her](https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:13 |
 | 67 | [Red](https://open.spotify.com/track/1ZCCVA90RcBOyiPPJPoNd6) | [Daniel Merriweather](https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN) | [Love & War](https://open.spotify.com/album/7esBRX55cujeL0iSZWu0U6) | 3:53 |
-| 68 | [Det Ønsker Jeg For Dig \(feat\. Burhan G\)](https://open.spotify.com/track/2ZK0RAs8xRUxKOnWc9Ey9s) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8) | [Det Ønsker Jeg For Dig \(feat\. Burhan G\)](https://open.spotify.com/album/2Wd7GUiG8M5y6hSpMxT3Kd) | 2:58 |
-| 69 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Rockabye \(Acoustic\)](https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW) | 2:37 |
+| 68 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Rockabye \(Acoustic\)](https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW) | 2:37 |
+| 69 | [Det Ønsker Jeg For Dig \(feat\. Burhan G\)](https://open.spotify.com/track/2ZK0RAs8xRUxKOnWc9Ey9s) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8) | [Det Ønsker Jeg For Dig \(feat\. Burhan G\)](https://open.spotify.com/album/2Wd7GUiG8M5y6hSpMxT3Kd) | 2:58 |
 | 70 | [This Morning](https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [This Morning](https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF) | 3:16 |
 | 71 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
 | 72 | [Fired Up](https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Fired Up](https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP) | 3:21 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 109 | [Blind You](https://open.spotify.com/track/1dOoli2ESWoNr6N28hxt4U) | [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [Blind You](https://open.spotify.com/album/5O1yayKlHTvFlikkbGz7xt) | 2:54 |
 | 110 | [May I Have This Dance](https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [May I Have This Dance](https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC) | 3:31 |
 | 111 | [Op](https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB) | [Claus Hempler](https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg) | [Kuffert Fuld Af Mursten](https://open.spotify.com/album/1xxuamywTKWttzz005tsPl) | 4:54 |
-| 112 | [Out of My Hands](https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Out of My Hands](https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh) | 3:23 |
-| 113 | [Fact \- Fiction](https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Mads Langer](https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1) | 4:21 |
+| 112 | [Fact \- Fiction](https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Mads Langer](https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1) | 4:21 |
+| 113 | [Out of My Hands](https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Out of My Hands](https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh) | 3:23 |
 | 114 | [Be Your Man](https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Be Your Man](https://open.spotify.com/album/052JsWmQlm2x415X7glETB) | 4:00 |
 
 Snapshot ID: `aHj//gAAAADOdpe2ry8Frx7QiBeWMnWX`

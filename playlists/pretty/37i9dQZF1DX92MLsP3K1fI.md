@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Cancamusa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,243 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,262 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 43 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
 | 44 | [¿Por Qué Soy Así?](https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Por Qué Soy Así?](https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2) | 3:09 |
 | 45 | [calma](https://open.spotify.com/track/7tBN8nQrkLsBIdz7RtkzB3) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [calma](https://open.spotify.com/album/2lOfVUwuTEqwiks5dLI7Nh) | 2:20 |
-| 46 | [Karma](https://open.spotify.com/track/7M4HP9qLthoJZ3XAAamZfY) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Karma](https://open.spotify.com/album/45f9J6QgWfofdF8v98Uc1l) | 2:24 |
+| 46 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
 | 47 | [No Disponible](https://open.spotify.com/track/7MuMzPh58s0acf0pCMowSr) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [No Disponible](https://open.spotify.com/album/5u5UYikRR1tFtxIgTuL8E0) | 3:23 |
-| 48 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
+| 48 | [Karma](https://open.spotify.com/track/7M4HP9qLthoJZ3XAAamZfY) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Karma](https://open.spotify.com/album/45f9J6QgWfofdF8v98Uc1l) | 2:24 |
 | 49 | [Otro Mood](https://open.spotify.com/track/3sBi1AWJPDLGGugGfhRR1v) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Otro Mood](https://open.spotify.com/album/02kufg8vQsGs63dvpyKYcX) | 2:50 |
-| 50 | [La Otra](https://open.spotify.com/track/5lArsjEue0iJAZeoPv3RJV) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [La Otra](https://open.spotify.com/album/0EE1hUdFVx4zGs1eJd9651) | 3:09 |
+| 50 | [Se Tenía Que Terminar](https://open.spotify.com/track/2yJeskjc1WYUb29lwHT2Bz) | [Mar Lara](https://open.spotify.com/artist/54wQCXd1UjjcMcQx0PNMlj) | [Se Tenía Que Terminar](https://open.spotify.com/album/7AuhMrFrzGHjZ4XUXlxCYk) | 2:29 |
 
 Snapshot ID: `aHni6wAAAAC5L8umIb/dX5DouSrrtQpA`

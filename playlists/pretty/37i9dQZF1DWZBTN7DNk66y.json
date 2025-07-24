@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Sof\u00eda \u00c1lvez.",
-  "num_followers": 27369,
+  "num_followers": 27375,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,54 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
+        "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
+        "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+        },
+        {
+          "name": "Ivonne Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
+        },
+        {
+          "name": "Nadia Larcher",
+          "url": "https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5"
+        },
+        {
+          "name": "Ana Prada",
+          "url": "https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S"
+        }
+      ],
+      "duration_ms": 238262,
+      "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
+      "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Los Ojos del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Morris",
+          "url": "https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi"
+        }
+      ],
+      "duration_ms": 231038,
+      "name": "Barquito de Papel",
+      "url": "https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
         "name": "Te vamos a salvar",
         "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
       },
@@ -727,38 +775,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
-        "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
-      },
-      "artists": [
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        },
-        {
-          "name": "Lula Bertoldi",
-          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
-        },
-        {
-          "name": "Ivonne Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
-        },
-        {
-          "name": "Nadia Larcher",
-          "url": "https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5"
-        },
-        {
-          "name": "Ana Prada",
-          "url": "https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S"
-        }
-      ],
-      "duration_ms": 238262,
-      "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
-      "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "El Rostro de los Acantilados",
         "url": "https://open.spotify.com/album/2ZD0El7NaZMoSPtEOszY4w"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 271006,
       "name": "Tu Mundo",
       "url": "https://open.spotify.com/track/1ll8FoGTVHTtU3G0A6t1Db"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
-        "name": "Los Ojos del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Morris",
-          "url": "https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi"
-        }
-      ],
-      "duration_ms": 231038,
-      "name": "Barquito de Papel",
-      "url": "https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "10 minutos",
-        "url": "https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 202074,
-      "name": "10 minutos",
-      "url": "https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Recuerdos de Ypacara\u00ed",
         "url": "https://open.spotify.com/album/3JFlzUbyftC2j34IoK4cyG"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 267523,
       "name": "Recuerdos de Ypacara\u00ed",
       "url": "https://open.spotify.com/track/5sHhACecsUVICpq4Geeejj"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "10 minutos",
+        "url": "https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 202074,
+      "name": "10 minutos",
+      "url": "https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
+        "name": "Alma Gitana",
+        "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 171309,
+      "name": "El Oasis",
+      "url": "https://open.spotify.com/track/2Q464tEwoBbA7exfvzPBce"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
         "name": "Hunde",
         "url": "https://open.spotify.com/album/2wzVHWdzz15E9nuZ63ZtKJ"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 234250,
       "name": "El \u00daltimo Mate",
       "url": "https://open.spotify.com/track/6WWXNlIRqZ3tYCzJo20mJD"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
-        "name": "Alma Gitana",
-        "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 171309,
-      "name": "El Oasis",
-      "url": "https://open.spotify.com/track/2Q464tEwoBbA7exfvzPBce"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
+        "name": "Cuadros",
+        "url": "https://open.spotify.com/album/0Q34cEYBylFm5erVVMOIwG"
+      },
+      "artists": [
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 195529,
+      "name": "Cuadros",
+      "url": "https://open.spotify.com/track/3jB9ZCohuyiCOqPDVrAEU3"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
         "name": "Vals de la Luna (Vivo en Madrid)",
         "url": "https://open.spotify.com/album/4GUXXkfXgUVlbbp9yhzNmb"
       },
@@ -1223,18 +1239,22 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Cuadros",
-        "url": "https://open.spotify.com/album/0Q34cEYBylFm5erVVMOIwG"
+        "name": "\u00bfQU\u00c9 VES?",
+        "url": "https://open.spotify.com/album/4q51LFiTNCS7zV1FMSSQVF"
       },
       "artists": [
         {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+          "name": "Yacar\u00e9 Manso",
+          "url": "https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V"
+        },
+        {
+          "name": "Vieto Sound System",
+          "url": "https://open.spotify.com/artist/2TQQUkzXXK2JfkKl2Vxkys"
         }
       ],
-      "duration_ms": 195529,
-      "name": "Cuadros",
-      "url": "https://open.spotify.com/track/3jB9ZCohuyiCOqPDVrAEU3"
+      "duration_ms": 306776,
+      "name": "\u00bfQU\u00c9 VES?",
+      "url": "https://open.spotify.com/track/7s47ONrsw6af0bSgjgNzB1"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1255,26 +1275,6 @@
       "duration_ms": 216766,
       "name": "As\u00ed Sea",
       "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
-        "name": "\u00bfQU\u00c9 VES?",
-        "url": "https://open.spotify.com/album/4q51LFiTNCS7zV1FMSSQVF"
-      },
-      "artists": [
-        {
-          "name": "Yacar\u00e9 Manso",
-          "url": "https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V"
-        },
-        {
-          "name": "Vieto Sound System",
-          "url": "https://open.spotify.com/artist/2TQQUkzXXK2JfkKl2Vxkys"
-        }
-      ],
-      "duration_ms": 306776,
-      "name": "\u00bfQU\u00c9 VES?",
-      "url": "https://open.spotify.com/track/7s47ONrsw6af0bSgjgNzB1"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1319,22 +1319,22 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Qui\u00e9n da M\u00e1s?",
-        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
+        "name": "LLORAR",
+        "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
       },
       "artists": [
         {
-          "name": "Marcos French",
-          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
+          "name": "Magdalena Matthey",
+          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
         },
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 272010,
-      "name": "Qui\u00e9n da M\u00e1s?",
-      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
+      "duration_ms": 238266,
+      "name": "LLORAR",
+      "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1359,22 +1359,22 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "LLORAR",
-        "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
+        "name": "Qui\u00e9n da M\u00e1s?",
+        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
       },
       "artists": [
         {
-          "name": "Magdalena Matthey",
-          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
+          "name": "Marcos French",
+          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
         },
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 238266,
-      "name": "LLORAR",
-      "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
+      "duration_ms": 272010,
+      "name": "Qui\u00e9n da M\u00e1s?",
+      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Yo te nombro libertad (Banda Sonora Original de \"El don absoluto\")",
-        "url": "https://open.spotify.com/album/2wFi5fSoYU4R7Nj15jwa33"
-      },
-      "artists": [
-        {
-          "name": "Catalina Claro",
-          "url": "https://open.spotify.com/artist/2aEyU3giSY5pof6HDleTvy"
-        },
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        }
-      ],
-      "duration_ms": 231786,
-      "name": "Yo te nombro libertad - Banda Sonora Original de \"El don absoluto\"",
-      "url": "https://open.spotify.com/track/36EM8dPAucgz0PsA4wHgin"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Juana De C\u00e1diz",
         "url": "https://open.spotify.com/album/701XCJBlqDynw3S06YAufd"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 203701,
       "name": "Juana De C\u00e1diz",
       "url": "https://open.spotify.com/track/6HPltAAAB93eEXGfPuDW7K"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Yo te nombro libertad (Banda Sonora Original de \"El don absoluto\")",
+        "url": "https://open.spotify.com/album/2wFi5fSoYU4R7Nj15jwa33"
+      },
+      "artists": [
+        {
+          "name": "Catalina Claro",
+          "url": "https://open.spotify.com/artist/2aEyU3giSY5pof6HDleTvy"
+        },
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "duration_ms": 231786,
+      "name": "Yo te nombro libertad - Banda Sonora Original de \"El don absoluto\"",
+      "url": "https://open.spotify.com/track/36EM8dPAucgz0PsA4wHgin"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
+        "name": "El rey del yuyal",
+        "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
+      },
+      "artists": [
+        {
+          "name": "Pens\u00e9 que era viernes",
+          "url": "https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "El rey del yuyal",
+      "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
         "name": "Amor Amor",
         "url": "https://open.spotify.com/album/32sOFrdJmH8zCV9Zeii2Dg"
       },
@@ -1571,18 +1587,22 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "El rey del yuyal",
-        "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn"
       },
       "artists": [
         {
-          "name": "Pens\u00e9 que era viernes",
-          "url": "https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1"
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
         }
       ],
-      "duration_ms": 174857,
-      "name": "El rey del yuyal",
-      "url": "https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym"
+      "duration_ms": 237078,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1623,26 +1643,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 237078,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Neblina",
         "url": "https://open.spotify.com/album/6dngwatQVHIHJ3GWmxJLvM"
       },
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "Otra Galaxia",
-        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 189940,
-      "name": "Otra Galaxia",
-      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Odio despertar",
         "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
       },
@@ -1723,6 +1707,42 @@
       "duration_ms": 298751,
       "name": "Sim\u00f3n",
       "url": "https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "La Mariposa",
+        "url": "https://open.spotify.com/album/0c6di7PysBHM3aaqyhC5BO"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        },
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        }
+      ],
+      "duration_ms": 109962,
+      "name": "La Mariposa",
+      "url": "https://open.spotify.com/track/3k8diAty8oozYqQV8j7v0R"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Otra Galaxia",
+        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 189940,
+      "name": "Otra Galaxia",
+      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1767,26 +1787,6 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "La Mariposa",
-        "url": "https://open.spotify.com/album/0c6di7PysBHM3aaqyhC5BO"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        },
-        {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
-        }
-      ],
-      "duration_ms": 109962,
-      "name": "La Mariposa",
-      "url": "https://open.spotify.com/track/3k8diAty8oozYqQV8j7v0R"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
         "name": "Del otro lado de la vidriera",
         "url": "https://open.spotify.com/album/36b4FRKLtMv0Z75NCtoOZP"
       },
@@ -1803,22 +1803,6 @@
       "duration_ms": 256032,
       "name": "Tu Profec\u00eda",
       "url": "https://open.spotify.com/track/5K4e3D9pEibOQA0T17s34P"
-    },
-    {
-      "added_at": "2025-04-11 03:00:08",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
-      },
-      "artists": [
-        {
-          "name": "Santiago Alonso",
-          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1847,6 +1831,22 @@
       "duration_ms": 233385,
       "name": "Sendero",
       "url": "https://open.spotify.com/track/2e1ooE2q2Oiflu6wmCbwqG"
+    },
+    {
+      "added_at": "2025-04-11 03:00:08",
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
+      },
+      "artists": [
+        {
+          "name": "Santiago Alonso",
+          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
     },
     {
       "added_at": "2025-04-11 03:00:08",
@@ -1883,22 +1883,18 @@
     {
       "added_at": "2025-04-11 03:00:08",
       "album": {
-        "name": "REGALAMOS ROSAS EN LA LUNA",
-        "url": "https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033"
+        "name": "Po\u00e9tica Bailable Vol. 1",
+        "url": "https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e"
       },
       "artists": [
         {
-          "name": "Nahuel Briones",
-          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
-        },
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
         }
       ],
-      "duration_ms": 280106,
-      "name": "REGALAMOS ROSAS EN LA LUNA",
-      "url": "https://open.spotify.com/track/0M8tyikK7IWZEb4x7Trjfc"
+      "duration_ms": 185666,
+      "name": "\u00a1Juegue!",
+      "url": "https://open.spotify.com/track/1oZT85apwCX0CBsDnKE88S"
     }
   ],
   "unique_name": "Voces del Sur",

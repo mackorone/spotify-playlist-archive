@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Mikael Karlsson, Terrell Grice, Amber Bullock and more
+> With Sunday Service Choir, Mikael Karlsson, Donald Lawrence & Company and more
 
 1,764 songs - 5 day 13 hr 32 min
 

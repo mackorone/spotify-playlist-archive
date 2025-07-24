@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34456,
+  "num_followers": 34458,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAAfRSTxTlthNa7UNSflA6FB",
+  "snapshot_id": "aH7UgAAAAABU3SUyJ0pp7Kho3WXigSaG",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Looking",
-      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surfers Paradise (Expanded)",
         "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 190586,
       "name": "Love",
       "url": "https://open.spotify.com/track/5mo9cqdFYQDHDBaYT3rYZe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Looking",
+      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "MMMM MMMM",
-      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fly Rasta",
         "url": "https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8"
       },
@@ -779,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
       },
       "artists": [
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 218786,
-      "name": "This Train (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf"
+      "duration_ms": 210720,
+      "name": "MMMM MMMM",
+      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
     },
     {
       "added_at": null,
@@ -831,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 218786,
+      "name": "This Train (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebellion Rises",
         "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
       },
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Judah Marley",
-          "url": "https://open.spotify.com/artist/5n4DiYhGBepDhn9AJymujP"
-        }
-      ],
-      "duration_ms": 260853,
-      "name": "Family Time (feat. Judah Marley)",
-      "url": "https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the only",
         "url": "https://open.spotify.com/album/0aEFPclRPtQ6Oje18BXfU9"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 245813,
       "name": "the only",
       "url": "https://open.spotify.com/track/0YucjQSidEVFUV722aAvpA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Judah Marley",
+          "url": "https://open.spotify.com/artist/5n4DiYhGBepDhn9AJymujP"
+        }
+      ],
+      "duration_ms": 260853,
+      "name": "Family Time (feat. Judah Marley)",
+      "url": "https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM"
     },
     {
       "added_at": null,

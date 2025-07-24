@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,351 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,369 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 13 | [Mercedes Benz](https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 1:47 |
 | 14 | [One Night Stand](https://open.spotify.com/track/2g4zxggyax2ABxVM4jRF39) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Farewell Song](https://open.spotify.com/album/19hplTy1akI7ypHeZnXx00) | 3:04 |
 | 15 | [Try \(Just a Little Bit Harder\)](https://open.spotify.com/track/5Icqjqizh8TnwHdejZQQGQ) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 3:55 |
-| 16 | [Ball and Chain](https://open.spotify.com/track/6jXzkgISP6UfMEEaKkxWJw) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 9:27 |
+| 16 | [Turtle Blues](https://open.spotify.com/track/1CdEksXQ6gvdr4blQjQdTZ) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:21 |
 | 17 | [Get It While You Can](https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 3:23 |
 | 18 | [Bye, Bye Baby](https://open.spotify.com/track/7E6RJ05OosW2yd7mv3EwpN) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 2:37 |
 | 19 | [To Love Somebody](https://open.spotify.com/track/1hxrGuTfeq8ayjB7fbIfpN) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 5:13 |
-| 20 | [Turtle Blues](https://open.spotify.com/track/1CdEksXQ6gvdr4blQjQdTZ) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:21 |
+| 20 | [Ball and Chain](https://open.spotify.com/track/6jXzkgISP6UfMEEaKkxWJw) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 9:27 |
 | 21 | [A Woman Left Lonely](https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 3:29 |
 | 22 | [Coo Coo](https://open.spotify.com/track/5PEEbmeELam84bKuxZsoj2) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 1:56 |
 | 23 | [One Good Man](https://open.spotify.com/track/6Evy14WwFHLIJNxvBMnoX6) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 49 | [Talk, Pt.1 \- Live](https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Takes To The Sky \(Live 1968\)](https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3) | 1:23 |
 | 50 | [Hesitation Blues](https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:57 |
 
-Snapshot ID: `aH2DAAAAAADGUr8d3VLg6TR+ktxzp5Cf`
+Snapshot ID: `aH7UgAAAAAA+66AuUlnvvmKxqY6AE4Lb`

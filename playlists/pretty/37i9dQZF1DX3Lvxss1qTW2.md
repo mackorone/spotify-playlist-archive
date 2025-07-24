@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover:  1da Banton
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,754 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,775 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 4 | [Osusu](https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Uzama The 3rd](https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw) | 2:34 |
 | 5 | [HIGH STAR](https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [HIGH STAR](https://open.spotify.com/album/1UE4Fy6qYCLqbM4Lz1Kf95) | 2:19 |
 | 6 | [First Sight](https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [First Sight](https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg) | 3:06 |
-| 7 | [My Shayla](https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Mbryo](https://open.spotify.com/artist/7ttqbMfcqUvZdc2aZDg3F3), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [My Shayla](https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95) | 2:33 |
+| 7 | [My Shayla](https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Mbryo](https://open.spotify.com/artist/3x9zvETvpbvSM8xL0pxyDy), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [My Shayla](https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95) | 2:33 |
 | 8 | [Laye Mi](https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Laye Mi](https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd) | 3:24 |
 | 9 | [SAY WETIN](https://open.spotify.com/track/62zDBe4PUN7JZM3OczBPAo) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [SAY WETIN](https://open.spotify.com/album/0wfgAjSgqP8CNtDbTKWcdb) | 2:03 |
 | 10 | [Realness](https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:13 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 19 | [Girl on Fya](https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Girl On Fya](https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7) | 2:04 |
 | 20 | [Gaddem](https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Gaddem](https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1) | 2:41 |
 | 21 | [How Much](https://open.spotify.com/track/2fpzvqdLqHJYBA6iPYICBT) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [ROOKIES don’t sound this good](https://open.spotify.com/album/7INJicBsDhZK1ygNCxsKiW) | 2:19 |
-| 22 | [Life](https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Life](https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb) | 2:44 |
+| 22 | [Life](https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Life](https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb) | 2:47 |
 | 23 | [Jolo \(feat\. oSHAMO\)](https://open.spotify.com/track/0vLarY57jGdrFoF4nGCJvD) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Jolo \(feat\. oSHAMO\)](https://open.spotify.com/album/0mKfz1HcWybI3dM546dsKH) | 2:44 |
 | 24 | [Olufunmi \(The Missing Recipe\)](https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Olufunmi \(The Missing Recipe\)](https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q) | 3:12 |
 | 25 | [Your Type](https://open.spotify.com/track/11jGNXZHEsZfknf2fNUNXg) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Your Type](https://open.spotify.com/album/0JnOKecWNZfS56QQMYYp5k) | 2:36 |

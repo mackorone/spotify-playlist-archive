@@ -7299,6 +7299,32 @@
     },
     {
       "album": {
+        "name": "OH MY GOD",
+        "url": "https://open.spotify.com/album/3jA7bdqXtQEOD2n9do3jsE"
+      },
+      "artists": [
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        },
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        },
+        {
+          "name": "Tay Nay",
+          "url": "https://open.spotify.com/artist/6v2Z6W04FFGH4OmzBT4T1i"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160052,
+      "name": "OH MY GOD",
+      "url": "https://open.spotify.com/track/6QQhpDzhLjUPPCDbmG5OQj"
+    },
+    {
+      "album": {
         "name": "Oh When The Saint",
         "url": "https://open.spotify.com/album/5VwaJl4eBX8IrPnCvmK8Ls"
       },
@@ -9232,7 +9258,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 165254,
       "name": "Talk & Do",
       "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"

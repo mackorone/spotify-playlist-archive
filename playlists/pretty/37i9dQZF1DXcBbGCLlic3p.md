@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 
 > Restorative piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,863 likes - 176 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,892 likes - 176 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 175 | [Paralyzed](https://open.spotify.com/track/6qU5ggMJaYOItNCsUIGeyP) | [Phabels](https://open.spotify.com/artist/4EAkTd9K3QcamFKfvb8jfo) | [Paralyzed](https://open.spotify.com/album/6GAFR4ODXrRdbgNrpOpH4w) | 2:21 |
 | 176 | [Tomorrow](https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM) | [Lior Freudenthal](https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO) | [Tomorrow](https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu) | 2:48 |
 
-Snapshot ID: `aFkvBQAAAAC7zR2xXZY+DFApDrszxDPy`
+Snapshot ID: `aIE/RQAAAABI3V0o4ISEynxmKh9n6CZt`

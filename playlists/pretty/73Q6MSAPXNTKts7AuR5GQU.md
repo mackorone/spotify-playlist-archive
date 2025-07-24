@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/73Q6MSAPXNTKts7AuR5GQU.md) - [plain]
 
 > Alle classics in 1 lijst
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 4,556 likes - 77 songs - 4 hr 31 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 4,555 likes - 77 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/73Q6MSAPXNTKts7AuR5GQU.md) - [plain]
 | 45 | [Jungle](https://open.spotify.com/track/295hepw2obbNmOfPOu56td) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Hard Work Pays Off 2](https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9) | 3:41 |
 | 46 | [Watskeburt?!](https://open.spotify.com/track/2Oaq2Q6JFS1xIXGL9TVryY) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Parels Voor De Zwijnen](https://open.spotify.com/album/29Fo0IBU1ZuyZD5ozPkjAs) | 6:15 |
 | 47 | [Eerste Keer](https://open.spotify.com/track/7JnCrm7eewssGNk7liHWvx) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Abigail Johnson](https://open.spotify.com/artist/7APavhkAeI6Zae9kQWFtww) | [Knock Knock 3](https://open.spotify.com/album/0HDtgRZSHkh8gzKGmkkGx7) | 3:43 |
-| 48 | [My Love](https://open.spotify.com/track/1TyoObNM0Bk0v4lHvPEOBG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Geen Oog Dichtgedaan](https://open.spotify.com/album/44Zi1rH4ExTxsz8cOpt0Bu) | 4:05 |
+| 48 | [My Love](https://open.spotify.com/track/1TyoObNM0Bk0v4lHvPEOBG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Geen Oog Dichtgedaan](https://open.spotify.com/album/44Zi1rH4ExTxsz8cOpt0Bu) | 4:05 |
 | 49 | [Lotgenoot](https://open.spotify.com/track/0vl0Ut93OmtgrXmloooRJo) | [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [Winne Zonder Strijd](https://open.spotify.com/album/669MIsrGaRpMze2ajXgfE4) | 4:27 |
 | 50 | [Nooit Goed](https://open.spotify.com/track/6KwU9xFkVeS0txdCVWVRt3) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10), [MocroManiac](https://open.spotify.com/artist/1n34ZpZX4OCwbuyo9mnfU8) | [Nooit Meer Terug](https://open.spotify.com/album/4Na1lbtiN4GSoNgY9Hrhvw) | 3:32 |
 | 51 | [Hope & Pray](https://open.spotify.com/track/2Y7vHNr6cQhfmqplHqSHJJ) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [77 Nachten](https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc) | 4:12 |

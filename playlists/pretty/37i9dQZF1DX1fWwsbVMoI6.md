@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: La Única Tropical
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,122 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,141 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 25 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 |
 | 26 | [Me Emborracharé](https://open.spotify.com/track/0n4QVxj2AXGpdn1RhUSo9K) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Me Emborracharé](https://open.spotify.com/album/3wXwoHLYaapEjLT7xJvSgR) | 3:41 |
 | 27 | [Cambio Mi Corazón \- En Vivo](https://open.spotify.com/track/0C7Uv6gVlrdXTZTVi8Yal2) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Teatro Gran Rex \(En Vivo\)](https://open.spotify.com/album/4ZtxnbQnTZCkmdELHPmebJ) | 3:39 |
-| 28 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |
-| 29 | [Ay Amor](https://open.spotify.com/track/4OeH2AOHW84cdsrK4PFbfG) | [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [Vol\. 1](https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d) | 3:44 |
-| 30 | [Voy a Buscarme un Amor](https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Mejor Que Nunca...Sola Hay Una...!](https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF) | 4:03 |
+| 28 | [Ay Amor](https://open.spotify.com/track/4OeH2AOHW84cdsrK4PFbfG) | [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [Vol\. 1](https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d) | 3:44 |
+| 29 | [Voy a Buscarme un Amor](https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Mejor Que Nunca...Sola Hay Una...!](https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF) | 4:03 |
+| 30 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |
 | 31 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
 | 32 | [El Casorio](https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6) | [Orquesta Caña Brava](https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM) | [VOL.1](https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg) | 5:29 |
 | 33 | [Pedacito de Mi Vida](https://open.spotify.com/track/4un5KOE0xkfuDvgA8QaWWX) | [Tommy Portugal](https://open.spotify.com/artist/1kymA1IcM9xoorQ2u0rD1i) | [Homenaje a Nuestra Kumbia](https://open.spotify.com/album/54h1Hyt6Z2LvQ6r1W4gfbW) | 3:47 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 40 | [Juraste Querrerme](https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [El Baile de la Serpiente](https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt) | 3:29 |
 | 41 | [Loco Corazón](https://open.spotify.com/track/3lZvAYpa29d6mZaF1ovhZs) | [El Encanto De Corazón](https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2) | [Ámame Una Vez Más](https://open.spotify.com/album/7BbNDAJFfq8EYMLF0Vyp2G) | 4:16 |
 | 42 | [Cumbias Pegaditas Mix 1](https://open.spotify.com/track/1KZpDYhD4ke4QipSxp4mbP) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [Cumbias Pegaditas](https://open.spotify.com/album/2REuaCmnwYV8H2CWTfhCO2) | 20:03 |
-| 43 | [Luna Bonita](https://open.spotify.com/track/0LXiA5VilShPoZkcam7EP6) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Solo Hay Una...!](https://open.spotify.com/album/0eKI4Krwfk5MNigWz1W3aW) | 3:33 |
-| 44 | [Sacude el Billete](https://open.spotify.com/track/5sJHdbckrzXFABt9KqBTXa) | [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [Vol\. 1](https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d) | 4:00 |
+| 43 | [Sacude el Billete](https://open.spotify.com/track/5sJHdbckrzXFABt9KqBTXa) | [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [Vol\. 1](https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d) | 4:00 |
+| 44 | [Luna Bonita](https://open.spotify.com/track/0LXiA5VilShPoZkcam7EP6) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Solo Hay Una...!](https://open.spotify.com/album/0eKI4Krwfk5MNigWz1W3aW) | 3:33 |
 | 45 | [Mi Cariñito](https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:15 |
 | 46 | [AYAYAY!](https://open.spotify.com/track/4ZPCNMnfJ61hpuq5tjvTtV) | [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89), [Spiritual](https://open.spotify.com/artist/7dJnUKfWyG3iYsPFyo5HpQ) | [AYAYAY!](https://open.spotify.com/album/2zDCDoc0avgic2BKapvtvj) | 2:49 |
 | 47 | [Empecemos De Cero](https://open.spotify.com/track/4OAfookZMEsWpZnXS1rLpN) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Empecemos De Cero](https://open.spotify.com/album/40rQKnNuOGRhxkZ59NA3G6) | 2:42 |

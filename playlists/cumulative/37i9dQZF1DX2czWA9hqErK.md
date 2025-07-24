@@ -4,7 +4,7 @@
 
 > For lazy days and cosy nights
 
-896 songs - 2 day 2 hr 3 min
+897 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [cruel](https://open.spotify.com/track/05K6M63VAEG3GwfmKPbrOH) | [Aislin Evans](https://open.spotify.com/artist/3v5hwKzY8gS0nDAfT78Ydx) | [cruel](https://open.spotify.com/album/61FUBtPcOfc0kxrBJlBPmt) | 3:22 | 2022-01-17 | 2022-07-18 |
 | [Cry](https://open.spotify.com/track/0SXtIKwGuLlHJ7Q7gwo0Te) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Cry](https://open.spotify.com/album/4zerSuxIYLWLemMPPC8Ivi) | 3:47 | 2021-12-16 | 2022-02-09 |
 | [Crying](https://open.spotify.com/track/3lpLpwUF7KTJVj9yoySNwM) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Crying](https://open.spotify.com/album/5wvfwEFmnrUsbmVi9mRT9N) | 2:53 | 2024-01-26 | 2024-03-24 |
-| [Crying Is My Superpower](https://open.spotify.com/track/6idvp9twFDAvotIZI6lAMe) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/39crSASAQumXtIGURlbaDD) | 2:01 | 2025-02-28 |  |
+| [Crying Is My Superpower](https://open.spotify.com/track/6idvp9twFDAvotIZI6lAMe) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/39crSASAQumXtIGURlbaDD) | 2:01 | 2025-02-28 | 2025-07-24 |
 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 | 2024-04-19 | 2024-10-26 |
 | [Cut Me Out Your Photos](https://open.spotify.com/track/2JDu2WDRJxQrLVMCHXh3HY) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Cut Me Out Your Photos](https://open.spotify.com/album/5xPuSqnIZdMXZIT1L3WBYU) | 2:48 | 2022-04-04 | 2023-08-02 |
 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj) | 2:08 | 2024-06-21 |  |
@@ -198,7 +198,7 @@
 | [Dive](https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:20 | 2023-06-30 | 2025-02-28 |
 | [Do You Ever](https://open.spotify.com/track/0XkshYPtSxbm6Wg20tbC1r) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [I've Felt All These Things](https://open.spotify.com/album/56cFvP1hiife9I02fM3CIS) | 3:44 | 2022-03-25 | 2022-04-16 |
 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-05-31 | 2023-06-17 |
-| [Don't Fall Asleep](https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Don't Fall Asleep](https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu) | 4:29 | 2025-04-04 | 2025-07-23 |
+| [Don't Fall Asleep](https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Don't Fall Asleep](https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu) | 4:29 | 2025-04-04 |  |
 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 | 2025-03-24 |  |
 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-06-28 | 2025-03-28 |
 | [Don’t Try To Call Me](https://open.spotify.com/track/4RolLH7I3o3zzhMQRoJ6Ez) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Don’t Try To Call Me](https://open.spotify.com/album/7INrEhKWw4rUg0DyGrYPRG) | 2:33 | 2022-03-25 | 2022-07-14 |
@@ -457,7 +457,7 @@
 | [Lavender Haze](https://open.spotify.com/track/2KkIiEt1WIHOYItqkD30kR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:22 | 2022-10-21 | 2023-07-19 |
 | [leaving the light on](https://open.spotify.com/track/2laoiawCssC9Rwp9Y2tB0c) | [Siena](https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C) | [leaving the light on](https://open.spotify.com/album/0ivZgmUEVnj82IgMLyH4GY) | 2:58 | 2025-03-14 | 2025-03-25 |
 | [Leaving Today](https://open.spotify.com/track/63tDRyYBftYrwURgtR42Zc) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Leaving Today](https://open.spotify.com/album/4BFWVYvDKU5dEF3LDRDeG4) | 4:12 | 2022-04-04 | 2022-04-18 |
-| [Leaving You](https://open.spotify.com/track/7l3XkFbTgakJZgMFC3wHiW) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool \(Deluxe Edition\)](https://open.spotify.com/album/0k5PHXVakV1aq3UmacxELa) | 3:18 | 2025-03-24 |  |
+| [Leaving You](https://open.spotify.com/track/7l3XkFbTgakJZgMFC3wHiW) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool \(Deluxe Edition\)](https://open.spotify.com/album/0k5PHXVakV1aq3UmacxELa) | 3:18 | 2025-03-24 | 2025-07-24 |
 | [Lessons](https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 3:01 | 2024-03-15 | 2024-10-26 |
 | [Let It All Go](https://open.spotify.com/track/5y8yi34PVkjaJ0eNhzEWdO) | [Benji Brown](https://open.spotify.com/artist/4wc0ptJ1iiOdzWhhczofcb) | [Let It All Go](https://open.spotify.com/album/3Gbb31dOMSVQcDjglF38ch) | 3:51 | 2022-03-08 | 2022-04-02 |
 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 | 2025-03-24 |  |
@@ -796,6 +796,7 @@
 | [the sad stoned kid at the skatepark](https://open.spotify.com/track/4L9MpMIzPftbtZ0AZvaeFL) | [Lewis Kelly](https://open.spotify.com/artist/6miJ5xkCgaeWWKQ8PgG6SW) | [the sad stoned kid at the skatepark](https://open.spotify.com/album/7I9m56MgBx090khx5Vrjhn) | 2:45 | 2022-03-25 | 2022-04-19 |
 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 | 2025-03-24 |  |
 | [the sky looked nice today](https://open.spotify.com/track/1R0WKnVaUrZbEyJNHSVlgX) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [when the sun came up](https://open.spotify.com/album/2MrUkSTLolgDJTboaxwCXl) | 3:19 | 2022-05-31 | 2022-06-07 |
+| [The Sofa](https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE) | 4:26 | 2025-07-23 |  |
 | [the sum of the in\-between](https://open.spotify.com/track/73jIdwmiQRQOGUE2pWMrDp) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/0dl6QSoT2Dxd14qHJF1dvS) | 4:16 | 2022-03-25 | 2022-03-30 |
 | [The Use In Trying](https://open.spotify.com/track/5ntlf6H1CTaqmZWbRgr0y8) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Use In Trying](https://open.spotify.com/album/6bQhy4kKZbZ1yZjXhuO2Lm) | 3:12 | 2021-12-16 | 2022-03-05 |
 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 | 2023-08-01 | 2025-03-25 |

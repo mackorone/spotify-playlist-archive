@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,318 likes - 159 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,370 likes - 159 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Little Things](https://open.spotify.com/track/7bw4vSQOFWKbRHheiYctP9) | [Hidden Piano](https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m) | [Little Things](https://open.spotify.com/album/0h87saU9QWMWYSTx3SxB1S) | 2:42 |
 | 2 | [Fireside](https://open.spotify.com/track/5Si7lQfzTcOs55xiXgBxS9) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Fireside](https://open.spotify.com/album/0GonTZsFfeSeAcpTxJDZxU) | 2:13 |
 | 3 | [Across the Mountains](https://open.spotify.com/track/1Xvo4lzjbpwIWAtV70x92u) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Across the Mountains](https://open.spotify.com/album/31Io1kPLesjWgGSSMgUn17) | 2:17 |
-| 4 | [Silence](https://open.spotify.com/track/0ve3BKlLTiWplrSO9Jgs0o) | [Aubrey Lo](https://open.spotify.com/artist/6aWh9woV6TYKTOsPMYfhfx) | [Silence](https://open.spotify.com/album/7c9rPpBSgHzESsbojRkiqi) | 2:17 |
+| 4 | [Silence](https://open.spotify.com/track/0ve3BKlLTiWplrSO9Jgs0o) | [Aubrey Lo](https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5) | [Silence](https://open.spotify.com/album/7c9rPpBSgHzESsbojRkiqi) | 2:17 |
 | 5 | [Subtilité](https://open.spotify.com/track/4XAWOAaJmeKM2NIW0sgsf4) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Subtilité](https://open.spotify.com/album/7FkDLH5UgeB61WWgIfgN3s) | 2:55 |
 | 6 | [Pacífico](https://open.spotify.com/track/48NKvaN1zc5pCUaqGLc82G) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Pacífico](https://open.spotify.com/album/6iFHWlxXAT6HQ8QS5prOCD) | 2:33 |
 | 7 | [Hydrangea](https://open.spotify.com/track/2wVS1J1DwzTdA8LPDWDjF0) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Hydrangea](https://open.spotify.com/album/6JFr3JwZ6jIK46qnqlqAQU) | 2:16 |

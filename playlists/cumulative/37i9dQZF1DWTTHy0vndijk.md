@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: OHMYGIRL\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-494 songs - 1 day 3 hr 4 min
+495 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [I Like That](https://open.spotify.com/track/7yAYYeeXf7ip8bK4GYDo2F) | [YuA](https://open.spotify.com/artist/3maet9vdK6Hbp6ZczQtkS6) | [I Like That](https://open.spotify.com/album/1urAHAMdbuZukBXnUG04Se) | 3:23 | 2022-04-13 | 2022-07-24 |
 | [I Like U Too Much](https://open.spotify.com/track/4h4qpoI8wWMQNYcr3Li4Yd) | [SONAMOO](https://open.spotify.com/artist/2MY1GcYSTw3QH2C1Umzsq0) | [I Like U Too Much](https://open.spotify.com/album/2udU7pnOygUDxkOth4gYcJ) | 3:24 | 2021-11-29 | 2022-07-07 |
 | [I Like You](https://open.spotify.com/track/6RX842AkuW01Sb15Mcix6l) | [ODD YOUTH](https://open.spotify.com/artist/6SG8IvJiwNEHdiubaCUFTi) | [ODD YOUTH 1st MINI ALBUM \[I Like You\]](https://open.spotify.com/album/1l7d3Od3i2xjxU3AnkSXxH) | 2:51 | 2025-04-15 | 2025-05-06 |
+| [I WANT IT](https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:04 | 2025-07-23 |  |
 | [I Want You Every Day](https://open.spotify.com/track/4H12mDiB75kAZolrHjMjza) | [JUDY](https://open.spotify.com/artist/37VjCKfHNYyumIW88jZW7T) | [Cookie Run: Ovenbreak OST](https://open.spotify.com/album/6ljytTmVpZfg1XFI08prgK) | 3:19 | 2022-03-29 | 2022-03-31 |
 | [I Wish](https://open.spotify.com/track/6WhZjnG6CTfE1J9f7vZ8sk) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [From\. WJSN](https://open.spotify.com/album/5662dhD6LraFCUIzKujPej) | 3:38 | 2021-11-29 | 2022-07-25 |
 | [ICE CHU](https://open.spotify.com/track/7ucHQ2HqTl2nO5Eyd5jfft) | [OGUOGU](https://open.spotify.com/artist/0zMyf4jK7R5v4E1qitQAZS) | [ICE CHU](https://open.spotify.com/album/3uANATuTqvsbIBcAAhhMia) | 3:15 | 2022-03-29 | 2022-06-03 |
@@ -351,10 +352,10 @@
 | [Ruby Heart](https://open.spotify.com/track/4Vg273QdQbDfcBkPWG9MTM) | [gugudan SEMINA](https://open.spotify.com/artist/794b07X4OdSxB97S6X3NaP) | [Semina](https://open.spotify.com/album/65sFFFCBlzpksWDFLKLbEu) | 3:26 | 2022-03-29 | 2022-04-18 |
 | [RUN](https://open.spotify.com/track/4gHUimlUJuaZMn1E7mFBvt) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [RUN](https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF) | 3:15 | 2022-07-08 | 2022-07-29 |
 | [Run Away](https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) | 3:18 | 2024-09-06 |  |
-| [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-23 |  |
+| [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-23 | 2025-07-24 |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-11-29 |  |
 | [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-07-28 | 2022-08-13 |
-| [Season of Memories](https://open.spotify.com/track/7LFwi4RolcCPnVEXXXVfQP) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories](https://open.spotify.com/album/3UUFDXb07kihCozeRLTe5y) | 3:06 | 2025-01-06 | 2025-07-23 |
+| [Season of Memories](https://open.spotify.com/track/7LFwi4RolcCPnVEXXXVfQP) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories](https://open.spotify.com/album/3UUFDXb07kihCozeRLTe5y) | 3:06 | 2025-01-06 |  |
 | [Secret Garden](https://open.spotify.com/track/1yXJ8tsOEXXEVWhYKVf191) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 4:04 | 2021-11-29 | 2022-07-28 |
 | [Secret princess \(Secret Jouju x WOOAH\)](https://open.spotify.com/track/1eSOrGdKykbGYMBL0VIg0I) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Secret princess \(Secret Jouju x WOOAH\)](https://open.spotify.com/album/17tkwDkoi0rQ6udpLNzZO1) | 2:34 | 2024-05-03 | 2024-05-15 |
 | [SEMINA](https://open.spotify.com/track/0wVLIpc1C3nSwvKNtkPrq3) | [gugudan SEMINA](https://open.spotify.com/artist/794b07X4OdSxB97S6X3NaP) | [Semina](https://open.spotify.com/album/65sFFFCBlzpksWDFLKLbEu) | 3:07 | 2021-11-29 | 2022-07-28 |
@@ -394,7 +395,7 @@
 | [SUGAR](https://open.spotify.com/track/0aoQ9b0zcpSMz8D00E7LgM) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [HAPPY MOMENT](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) | 3:05 | 2022-01-26 | 2022-04-17 |
 | [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 | 2023-07-24 | 2023-09-28 |
 | [Summer Dream](https://open.spotify.com/track/598m79JEjWwQkh4eCdV8Nx) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [SUMMER DREAM](https://open.spotify.com/album/2HLeKfrHYquFIoM6VArIzJ) | 3:09 | 2021-11-29 | 2022-07-27 |
-| [Summer Was You](https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 4th Mini Album \[Lovestruck\]](https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt) | 3:12 | 2025-06-27 |  |
+| [Summer Was You](https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 4th Mini Album \[Lovestruck\]](https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt) | 3:12 | 2025-06-27 | 2025-07-24 |
 | [Sunflower](https://open.spotify.com/track/7y0jebgMdsAEofK2Ye0e6g) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 3:16 | 2024-07-30 | 2024-08-29 |
 | [SUNNY](https://open.spotify.com/track/1ZKj8dOHp1gaOE9BGvyWWU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:20 | 2021-11-29 | 2022-06-11 |
 | [Sunny Afternoon](https://open.spotify.com/track/3G6iqKcRzEYwSu9zE2qAMW) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 4:00 | 2022-03-14 | 2022-04-15 |

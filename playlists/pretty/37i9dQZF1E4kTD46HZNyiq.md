@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Laureline, Rhineland, The Wild Wind and more
+> With Rhineland, Laureline, The Wild Wind and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,108 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,112 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [I Got It](https://open.spotify.com/track/2hfoVrTEJFOf4U0WctEcJI) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Cutting Edge Stuff](https://open.spotify.com/album/1CwW0jNyO2eLdu7Udf6M8D) | 3:48 |
 | 50 | [On the Corner Where You Live](https://open.spotify.com/track/4BEI01RMjIuA2geFPZIVHS) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU) | 4:36 |
 
-Snapshot ID: `aIBUJgAAAACuZ1XFsUOKH8Tw3TOQc3NZ`
+Snapshot ID: `aIGuCAAAAAAQ8OqEMDvW2nfXTBePELzM`

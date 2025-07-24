@@ -1,12 +1,12 @@
 {
   "description": "This is John Coltrane. The essential tracks, all in one playlist.",
-  "num_followers": 216494,
+  "num_followers": 216506,
   "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAABBOgpXbix1nfibXXKEzO4U",
+  "snapshot_id": "aH7UgAAAAAC6esTX4etT7Gu2CPUFAzwA",
   "tracks": [
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mating Call [RVG Remaster]",
-        "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
-      },
-      "artists": [
-        {
-          "name": "Tadd Dameron",
-          "url": "https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "Soultrane - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 542400,
       "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mating Call [RVG Remaster]",
+        "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
+      },
+      "artists": [
+        {
+          "name": "Tadd Dameron",
+          "url": "https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Soultrane - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB"
     },
     {
       "added_at": null,

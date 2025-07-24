@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 23 Jul 22:06 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 23 Jul 13:07 UTC.
 
-5,186 songs - 12 day 0 hr 31 min
+5,187 songs - 12 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1090,7 +1090,7 @@
 | [Dare U](https://open.spotify.com/track/02FqPcKOjgOBbZRYdpAIhS) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Dare U](https://open.spotify.com/album/4a0Ijzxk9twvWg2ZYjtr7V) | 2:21 | 2025-01-17 | 2025-01-26 |
 | [Dareda?](https://open.spotify.com/track/3PaijZcpKUQDQ1JUpajZ6e) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [Dareda?](https://open.spotify.com/album/0QLBoZvMiw6tZm5MNgEnvz) | 2:44 | 2024-11-11 | 2024-11-26 |
 | [Dark and Velvet Nights](https://open.spotify.com/track/2smb660jl1saiHkmbqLWi1) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Dark and Velvet Nights](https://open.spotify.com/album/1O8UYt3PsVMGDFLkuyYPa4) | 4:44 | 2024-08-09 | 2024-08-14 |
-| [Dark Arts](https://open.spotify.com/track/2wRXvIGUTRWod4yp1k3bGN) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dark Arts](https://open.spotify.com/album/1YItIfS2HNJkWIgaoj50SM) | 3:01 | 2025-07-15 |  |
+| [Dark Arts](https://open.spotify.com/track/2wRXvIGUTRWod4yp1k3bGN) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dark Arts](https://open.spotify.com/album/1YItIfS2HNJkWIgaoj50SM) | 3:01 | 2025-07-15 | 2025-07-24 |
 | [Dark Side of the Silver Spoon](https://open.spotify.com/track/1SVB858CfpWNgSh1iNk2IE) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Dark Side of the Silver Spoon](https://open.spotify.com/album/4eJ3ndIDJe64Tqd1ujj7ov) | 3:09 | 2024-08-23 | 2024-08-29 |
 | [Dark Sword Angel](https://open.spotify.com/track/5o4r9vcXJy4LygJSclpfB1) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Dark Sword Angel](https://open.spotify.com/album/6SqsTESjqXkQBvzQBhgkBn) | 2:40 | 2024-09-24 | 2024-09-27 |
 | [dark things](https://open.spotify.com/track/6oxfnbwSvVvl8FhqojHfd5) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [dark things](https://open.spotify.com/album/0CqVi6L0Djhveb1VV5U1EO) | 4:40 | 2025-02-28 | 2025-03-13 |
@@ -2626,6 +2626,7 @@
 | [like i love you](https://open.spotify.com/track/6WEb4j0xHf9QINtzWsbYBd) | [Ryley Tate Wilson](https://open.spotify.com/artist/2q2xVblDrphXyACfAzMWPq) | [like i love you](https://open.spotify.com/album/6nD7hdn9bNjTE0WCuLwCS2) | 3:56 | 2024-05-10 | 2024-05-12 |
 | [Like It's Your Last MMXXIV](https://open.spotify.com/track/5IUoOqJdJ8LsWuUOciaw7u) | [Devil Sold His Soul](https://open.spotify.com/artist/5LS2aHjbHoCO8BmNN79OMO) | [Like It's Your Last MMXXIV](https://open.spotify.com/album/4J87ZX4ONbBZqu39UM1Asu) | 8:12 | 2024-09-05 | 2024-09-07 |
 | [Like Love](https://open.spotify.com/track/5S6ES4NNFABuAhyvxSuZOx) | [Ball Park Music](https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH) | [Like Love](https://open.spotify.com/album/1XrgOA2sbxiAHu1kIgemDA) | 2:54 | 2024-10-24 | 2024-10-26 |
+| [LIKE U](https://open.spotify.com/track/78e6hprIgJm3rMWjOmeXbA) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [LIKE U](https://open.spotify.com/album/4BME1fpCdQrJeeKu8dD1np) | 2:25 | 2025-07-23 |  |
 | [Like You Did Before](https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Like You Did Before](https://open.spotify.com/album/6E2uTSZDiQWP3xpoHvSczg) | 3:07 | 2024-12-10 | 2024-12-13 |
 | [LIL BIT OF HOT](https://open.spotify.com/track/7HWNRsfg2fOcEq3M8cAydE) | [WHO SHOT SCOTT](https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP) | [LIL BIT OF HOT](https://open.spotify.com/album/5FXPbFrm9ACHyqKKBg8jLG) | 3:13 | 2024-09-12 | 2024-09-14 |
 | [Lil Mega Minion](https://open.spotify.com/track/4iTY4faTQSkScwbk2F1FUs) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lil Mega Minion](https://open.spotify.com/album/3EwNJwsIUmfOG7oZhcWVcY) | 1:51 | 2024-06-24 | 2024-06-26 |

@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Mr Eazi",
-  "num_followers": 622295,
+  "num_followers": 622386,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,26 @@
     {
       "added_at": "2025-07-18 00:01:17",
       "album": {
+        "name": "Lomo Lomo",
+        "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 175130,
+      "name": "Lomo Lomo",
+      "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
+    },
+    {
+      "added_at": "2025-07-18 00:01:17",
+      "album": {
         "name": "One Call",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 158712,
       "name": "One Call",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
-    },
-    {
-      "added_at": "2025-07-18 00:01:17",
-      "album": {
-        "name": "Lomo Lomo",
-        "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 175130,
-      "name": "Lomo Lomo",
-      "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
     },
     {
       "added_at": "2025-07-18 00:01:17",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-07-18 00:01:17",
       "album": {
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+    },
+    {
+      "added_at": "2025-07-18 00:01:17",
+      "album": {
         "name": "alone (feat. BhadBoi OML)",
         "url": "https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 153098,
       "name": "alone (feat. BhadBoi OML)",
       "url": "https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg"
-    },
-    {
-      "added_at": "2025-07-18 00:01:17",
-      "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
       "added_at": "2025-07-18 00:01:17",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-07-18 00:01:17",
       "album": {
-        "name": "Phenomena",
-        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 202861,
-      "name": "Phenomena",
-      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
-    },
-    {
-      "added_at": "2025-07-18 00:01:17",
-      "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 183000,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn"
+    },
+    {
+      "added_at": "2025-07-18 00:01:17",
+      "album": {
+        "name": "Phenomena",
+        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 202861,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
     },
     {
       "added_at": "2025-07-18 00:01:17",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-07-18 00:01:17",
       "album": {
-        "name": "everyday",
-        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 166350,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
-    },
-    {
-      "added_at": "2025-07-18 00:01:17",
-      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 176326,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl"
+    },
+    {
+      "added_at": "2025-07-18 00:01:17",
+      "album": {
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 166350,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
       "added_at": "2025-07-18 00:01:17",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-07-18 00:01:17",
       "album": {
-        "name": "Only Me",
-        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Only Me",
-      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
-    },
-    {
-      "added_at": "2025-07-18 00:01:17",
-      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 161086,
       "name": "hell and back",
       "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
+    },
+    {
+      "added_at": "2025-07-18 00:01:17",
+      "album": {
+        "name": "Only Me",
+        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Only Me",
+      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
     },
     {
       "added_at": "2025-07-18 00:01:17",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2025-07-18 00:01:17",
       "album": {
-        "name": "Still The Mayor",
-        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Diamonds (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/09JFIHQ8IPDKrbaDxTICxY"
-    },
-    {
-      "added_at": "2025-07-18 00:01:17",
-      "album": {
         "name": "Katam (feat. Bien)",
         "url": "https://open.spotify.com/album/2yRuZcR1TDAY2oFyLs6vHf"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 245625,
       "name": "Katam (feat. Bien)",
       "url": "https://open.spotify.com/track/4MGtTXaggDrYal3andtYxP"
+    },
+    {
+      "added_at": "2025-07-18 00:01:17",
+      "album": {
+        "name": "Still The Mayor",
+        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Diamonds (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/09JFIHQ8IPDKrbaDxTICxY"
     },
     {
       "added_at": "2025-07-18 00:01:17",

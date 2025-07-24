@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72273,
+  "num_followers": 72278,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAABJpVN8U2IaFLKvynR4HSI6",
+  "snapshot_id": "aH7UgAAAAADv8eULcSATgL0JOOTu+HuI",
   "tracks": [
     {
       "added_at": null,
@@ -611,30 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're Still Young",
-        "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Olivia Penalva",
-          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "We're Still Young",
-      "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We're Still Young",
+        "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "We're Still Young",
+      "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
+        "name": "Tomorrow Comes",
+        "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
       },
       "artists": [
         {
@@ -752,17 +752,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "millforlife",
-          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
         },
         {
-          "name": "Rory Hope",
-          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
         }
       ],
-      "duration_ms": 159090,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
+      "duration_ms": 211771,
+      "name": "Tomorrow Comes",
+      "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Comes",
-        "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
       },
       "artists": [
         {
@@ -800,17 +800,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+          "name": "millforlife",
+          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
         },
         {
-          "name": "Jaimes",
-          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+          "name": "Rory Hope",
+          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
         }
       ],
-      "duration_ms": 211771,
-      "name": "Tomorrow Comes",
-      "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
+      "duration_ms": 159090,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
       "duration_ms": 182192,
       "name": "Ups & Downs",
       "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lights Up (Dimitri Vegas & Like Mike Edit)",
-        "url": "https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        }
-      ],
-      "duration_ms": 190746,
-      "name": "Lights Up - Dimitri Vegas & Like Mike Edit",
-      "url": "https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P"
     },
     {
       "added_at": null,
@@ -907,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lights Up (Dimitri Vegas & Like Mike Edit)",
+        "url": "https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Lights Up - Dimitri Vegas & Like Mike Edit",
+      "url": "https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS"
       },
@@ -955,8 +955,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay A Little Longer",
-        "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
       },
       "artists": [
         {
@@ -964,17 +964,13 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Philip Strand",
-          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
         }
       ],
-      "duration_ms": 211406,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
     },
     {
       "added_at": null,
@@ -1003,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
       },
       "artists": [
         {
@@ -1012,13 +1008,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+      "duration_ms": 211406,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
     },
     {
       "added_at": null,
@@ -1107,30 +1107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        },
-        {
-          "name": "Amba Shepherd",
-          "url": "https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj"
-        }
-      ],
-      "duration_ms": 202968,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
       },
@@ -1151,6 +1127,30 @@
       "duration_ms": 253440,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "Amba Shepherd",
+          "url": "https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj"
+        }
+      ],
+      "duration_ms": 202968,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M"
     }
   ],
   "unique_name": "This Is Nicky Romero",

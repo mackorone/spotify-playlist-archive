@@ -1,6 +1,6 @@
 {
   "description": "d\u00e1 play que a bagun\u00e7a organizada t\u00e1 liberada ",
-  "num_followers": 1055348,
+  "num_followers": 1055303,
   "original_name": "Sextou",
   "owner": {
     "name": "Spotify",
@@ -823,34 +823,6 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
-        "name": "Crying On The Dancefloor",
-        "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Endless Summer",
-          "url": "https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA"
-        },
-        {
-          "name": "Violet Days",
-          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
-        }
-      ],
-      "duration_ms": 173008,
-      "name": "Crying On The Dancefloor",
-      "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
@@ -875,6 +847,34 @@
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
+        "name": "Crying On The Dancefloor",
+        "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Endless Summer",
+          "url": "https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA"
+        },
+        {
+          "name": "Violet Days",
+          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
+        }
+      ],
+      "duration_ms": 173008,
+      "name": "Crying On The Dancefloor",
+      "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
     },
     {
       "added_at": "2025-03-28 04:58:40",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
+        "name": "My Heart Goes (La Di Da)",
+        "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 148960,
+      "name": "My Heart Goes (La Di Da)",
+      "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 193776,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
-        "name": "My Heart Goes (La Di Da)",
-        "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 148960,
-      "name": "My Heart Goes (La Di Da)",
-      "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
     },
     {
       "added_at": "2025-03-28 04:58:40",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 172597,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 175271,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 172597,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE"
     },
     {
       "added_at": "2025-03-28 04:58:40",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 178625,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
         "name": "OK Not To Be OK",
         "url": "https://open.spotify.com/album/3wCtCJ8O6SlGBWYfzAlsb2"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 159862,
       "name": "OK Not To Be OK",
       "url": "https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
+        "name": "World Of Walker",
+        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 178625,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
     },
     {
       "added_at": "2025-03-28 04:58:40",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
+        "name": "Original Sin",
+        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 171598,
+      "name": "Original Sin",
+      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 176800,
       "name": "Kiss My (Uh Oh)",
       "url": "https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
-        "name": "Original Sin",
-        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 171598,
-      "name": "Original Sin",
-      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
     },
     {
       "added_at": "2025-03-28 04:58:40",

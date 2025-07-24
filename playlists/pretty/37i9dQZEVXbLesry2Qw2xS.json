@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Estonia.",
-  "num_followers": 19154,
+  "num_followers": 19159,
   "original_name": "Top 50 - Estonia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MBMFqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MBRXKAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "\u00f5lleavaja",
-        "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
-      },
-      "artists": [
-        {
-          "name": "triibupasta",
-          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "hugo toom",
-      "url": "https://open.spotify.com/track/47GAYk6gq9ZE6Ij9WWYdGP"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "SUPERSUURE HOOLEGA.",
         "url": "https://open.spotify.com/album/3sGePnnzrWnSEVvuw2oVSm"
@@ -45,7 +29,7 @@
       "url": "https://open.spotify.com/track/5EDMOu7PXIbybCGF8vpgbL"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "\u00f5lleavaja",
         "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
@@ -54,34 +38,14 @@
         {
           "name": "triibupasta",
           "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
-        },
-        {
-          "name": "Maiduk",
-          "url": "https://open.spotify.com/artist/2RYvGHgapA1c9dUXaHd8KY"
         }
       ],
-      "duration_ms": 175263,
-      "name": "ulakas kaunitar",
-      "url": "https://open.spotify.com/track/0jcJEcK0eX5acLVU1VYmbd"
+      "duration_ms": 214400,
+      "name": "hugo toom",
+      "url": "https://open.spotify.com/track/47GAYk6gq9ZE6Ij9WWYdGP"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "Rahvalaul",
-        "url": "https://open.spotify.com/album/7qARyd7hovDcbPRIcu1XMp"
-      },
-      "artists": [
-        {
-          "name": "Kermo Murel",
-          "url": "https://open.spotify.com/artist/5L5CvCkNlaUISVFjUicdEf"
-        }
-      ],
-      "duration_ms": 151741,
-      "name": "Rahvalaul",
-      "url": "https://open.spotify.com/track/6pLUlgilUe0ky5UU6x5qH9"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "parasiit",
         "url": "https://open.spotify.com/album/3RLYPVVEoZ6tOH5x38mZJp"
@@ -101,7 +65,43 @@
       "url": "https://open.spotify.com/track/2qW8hfxkbyrDYowSKMCMMv"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "\u00f5lleavaja",
+        "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
+      },
+      "artists": [
+        {
+          "name": "triibupasta",
+          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+        },
+        {
+          "name": "Maiduk",
+          "url": "https://open.spotify.com/artist/2RYvGHgapA1c9dUXaHd8KY"
+        }
+      ],
+      "duration_ms": 175263,
+      "name": "ulakas kaunitar",
+      "url": "https://open.spotify.com/track/0jcJEcK0eX5acLVU1VYmbd"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "Rahvalaul",
+        "url": "https://open.spotify.com/album/7qARyd7hovDcbPRIcu1XMp"
+      },
+      "artists": [
+        {
+          "name": "Kermo Murel",
+          "url": "https://open.spotify.com/artist/5L5CvCkNlaUISVFjUicdEf"
+        }
+      ],
+      "duration_ms": 151741,
+      "name": "Rahvalaul",
+      "url": "https://open.spotify.com/track/6pLUlgilUe0ky5UU6x5qH9"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "\u00f5lleavaja",
         "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/3llyYmTWZDBGCZH76jF4ck"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "SUPERSUURE HOOLEGA.",
         "url": "https://open.spotify.com/album/3sGePnnzrWnSEVvuw2oVSm"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/0DGsLP0TvRcU23zCme7zR2"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "Punased Bikiinid",
         "url": "https://open.spotify.com/album/61pKrC7x7EApCIYR88gsgi"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/2TpwmZrkepYR0W48Iec8N4"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "Ebapopulaarne",
         "url": "https://open.spotify.com/album/0gCaW7dl3Gey7RRncwn4a3"
@@ -173,27 +173,7 @@
       "url": "https://open.spotify.com/track/4nnBWEm9NoFOxYl453b2XJ"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "Palavaks",
-        "url": "https://open.spotify.com/album/6MDf6jvWb1PO8ot8FKBJcg"
-      },
-      "artists": [
-        {
-          "name": "Clicherik & M\u00e4x",
-          "url": "https://open.spotify.com/artist/2K5ujJoG9L4INBflflfxtk"
-        },
-        {
-          "name": "triibupasta",
-          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
-        }
-      ],
-      "duration_ms": 188090,
-      "name": "Palavaks",
-      "url": "https://open.spotify.com/track/4AlYeC8XICULLr3Kxkjass"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "emotsionaalne elektronmuusika",
         "url": "https://open.spotify.com/album/3JiE4r47p4i2kBmU8TQCXY"
@@ -217,7 +197,27 @@
       "url": "https://open.spotify.com/track/56ygCy6bOYAOTSdi6nRjQa"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "Palavaks",
+        "url": "https://open.spotify.com/album/6MDf6jvWb1PO8ot8FKBJcg"
+      },
+      "artists": [
+        {
+          "name": "Clicherik & M\u00e4x",
+          "url": "https://open.spotify.com/artist/2K5ujJoG9L4INBflflfxtk"
+        },
+        {
+          "name": "triibupasta",
+          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+        }
+      ],
+      "duration_ms": 188090,
+      "name": "Palavaks",
+      "url": "https://open.spotify.com/track/4AlYeC8XICULLr3Kxkjass"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "L\u00e4mmi",
         "url": "https://open.spotify.com/album/1a1M6hOoFGIbWY5P3DrD7y"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/03dUoht4jmfAZmpgCvOIkT"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "\u00f5lleavaja",
         "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
@@ -249,43 +249,7 @@
       "url": "https://open.spotify.com/track/5JhljRLzNxMRHho5AoQzAM"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 182401,
-      "name": "Big Poe (feat. Sk8brd)",
-      "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "kirjadkoju.zip",
-        "url": "https://open.spotify.com/album/4jaa4yLNoQi7PMc4wZSdlV"
-      },
-      "artists": [
-        {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
-        }
-      ],
-      "duration_ms": 147397,
-      "name": "peagi saabun...",
-      "url": "https://open.spotify.com/track/5qih3ineeZsuEgr5TlyeaZ"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
@@ -301,7 +265,7 @@
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "6llekas",
         "url": "https://open.spotify.com/album/766nukWzL7P7uayNpEtrXb"
@@ -317,23 +281,55 @@
       "url": "https://open.spotify.com/track/42L8fRwgmWXnNcq1R5QsJr"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+        "name": "kirjadkoju.zip",
+        "url": "https://open.spotify.com/album/4jaa4yLNoQi7PMc4wZSdlV"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
         }
       ],
-      "duration_ms": 153332,
-      "name": "Sugar On My Tongue",
-      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+      "duration_ms": 147397,
+      "name": "peagi saabun...",
+      "url": "https://open.spotify.com/track/5qih3ineeZsuEgr5TlyeaZ"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "trampoliino",
+        "url": "https://open.spotify.com/album/4QWYnrVSkCNwj5vweJS6Re"
+      },
+      "artists": [
+        {
+          "name": "triibupasta",
+          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+        }
+      ],
+      "duration_ms": 153290,
+      "name": "trampoliino",
+      "url": "https://open.spotify.com/track/1PaVrZirju9QgP7cvjG1MZ"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "Keerleb",
+        "url": "https://open.spotify.com/album/3vEumf5jBYopyV2eMBrRIN"
+      },
+      "artists": [
+        {
+          "name": "Clicherik & M\u00e4x",
+          "url": "https://open.spotify.com/artist/2K5ujJoG9L4INBflflfxtk"
+        }
+      ],
+      "duration_ms": 182244,
+      "name": "Keerleb",
+      "url": "https://open.spotify.com/track/4URODx8BrDkLRFmfYrREL2"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "push it",
         "url": "https://open.spotify.com/album/5z8qzmFPXBk5GhBCiJOTJJ"
@@ -353,71 +349,7 @@
       "url": "https://open.spotify.com/track/7AleqJvqrVBeQitkWntUUc"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "Keerleb",
-        "url": "https://open.spotify.com/album/3vEumf5jBYopyV2eMBrRIN"
-      },
-      "artists": [
-        {
-          "name": "Clicherik & M\u00e4x",
-          "url": "https://open.spotify.com/artist/2K5ujJoG9L4INBflflfxtk"
-        }
-      ],
-      "duration_ms": 182244,
-      "name": "Keerleb",
-      "url": "https://open.spotify.com/track/4URODx8BrDkLRFmfYrREL2"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "trampoliino",
-        "url": "https://open.spotify.com/album/4QWYnrVSkCNwj5vweJS6Re"
-      },
-      "artists": [
-        {
-          "name": "triibupasta",
-          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
-        }
-      ],
-      "duration_ms": 153290,
-      "name": "trampoliino",
-      "url": "https://open.spotify.com/track/1PaVrZirju9QgP7cvjG1MZ"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "oliver",
-        "url": "https://open.spotify.com/album/4wEz8H501EepBZi6it0Y85"
-      },
-      "artists": [
-        {
-          "name": "villemdrillem",
-          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
-        }
-      ],
-      "duration_ms": 173216,
-      "name": "oliver",
-      "url": "https://open.spotify.com/track/4oZfPQ6YL3j4YOaqMBxwcs"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 161051,
-      "name": "Sucka Free",
-      "url": "https://open.spotify.com/track/7DIMKlmJ0CL6eROkbptoqi"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -433,39 +365,7 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Ring Ring Ring",
-      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
@@ -485,27 +385,7 @@
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "SUPERSUURE HOOLEGA.",
-        "url": "https://open.spotify.com/album/3sGePnnzrWnSEVvuw2oVSm"
-      },
-      "artists": [
-        {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
-        },
-        {
-          "name": "Vaiko Eplik",
-          "url": "https://open.spotify.com/artist/4bUkC2pVAl1Hk0uXok7W1t"
-        }
-      ],
-      "duration_ms": 174435,
-      "name": "BACH/BRUNNER",
-      "url": "https://open.spotify.com/track/4dsK7UQYhTU7UmW6h73EbN"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "SUPERSUURE HOOLEGA.",
         "url": "https://open.spotify.com/album/3sGePnnzrWnSEVvuw2oVSm"
@@ -525,23 +405,23 @@
       "url": "https://open.spotify.com/track/3m7hl9t6lEogbc36JOtQMb"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -573,7 +453,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "Suvepalavik",
         "url": "https://open.spotify.com/album/3ChNpddGegzFXp7Y666aRg"
@@ -589,7 +469,59 @@
       "url": "https://open.spotify.com/track/1fySIg6QY2qyDgvChQv6la"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "oliver",
+        "url": "https://open.spotify.com/album/4wEz8H501EepBZi6it0Y85"
+      },
+      "artists": [
+        {
+          "name": "villemdrillem",
+          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
+        }
+      ],
+      "duration_ms": 173216,
+      "name": "oliver",
+      "url": "https://open.spotify.com/track/4oZfPQ6YL3j4YOaqMBxwcs"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "SUPERSUURE HOOLEGA.",
+        "url": "https://open.spotify.com/album/3sGePnnzrWnSEVvuw2oVSm"
+      },
+      "artists": [
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        },
+        {
+          "name": "Vaiko Eplik",
+          "url": "https://open.spotify.com/artist/4bUkC2pVAl1Hk0uXok7W1t"
+        }
+      ],
+      "duration_ms": 174435,
+      "name": "BACH/BRUNNER",
+      "url": "https://open.spotify.com/track/4dsK7UQYhTU7UmW6h73EbN"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "hr maakler",
         "url": "https://open.spotify.com/album/0CissRsTGHKTr5Bwm1bw6k"
@@ -609,23 +541,39 @@
       "url": "https://open.spotify.com/track/1Bv5Gdvm899YYmjQg94172"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 75386,
-      "name": "Mommanem",
-      "url": "https://open.spotify.com/track/3WgFhZfyk5nb6v7hkwPmD4"
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Rock That Body",
+      "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "\u00f5lleavaja",
         "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
@@ -641,55 +589,7 @@
       "url": "https://open.spotify.com/track/4zo6RIT37PhMRN4n2Z1k5b"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 133307,
-      "name": "Stop Playing With Me",
-      "url": "https://open.spotify.com/track/1IF3hx6HU46Pitm0dOdVJO"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
-        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Rock That Body",
-      "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
@@ -709,7 +609,43 @@
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 182401,
+      "name": "Big Poe (feat. Sk8brd)",
+      "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "undressed",
         "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
@@ -725,43 +661,23 @@
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 222124,
-      "name": "Don't Tap That Glass / Tweakin'",
-      "url": "https://open.spotify.com/track/5DRS7YEe1bwGJLDGviT3CD"
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        }
-      ],
-      "duration_ms": 178135,
-      "name": "Don't You Worry Baby (feat. Madison McFerrin)",
-      "url": "https://open.spotify.com/track/45mVT3DCE7AATXgESSdfee"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -801,27 +717,7 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
-      "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 200860,
-      "name": "I'll Take Care of You (feat. Yebba)",
-      "url": "https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h"
-    },
-    {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
@@ -837,23 +733,23 @@
       "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 189553,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+      "duration_ms": 201869,
+      "name": "Ring Ring Ring",
+      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "Sauna Collection",
         "url": "https://open.spotify.com/album/4CWJY1YRrC5U8SCBScB4SX"
@@ -869,27 +765,79 @@
       "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
-        "name": "No Broke Boys",
-        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+        "name": "suburban daredevil",
+        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
       },
       "artists": [
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "wifiskeleton",
+          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
         },
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "i wanna be a jack-o-lantern",
+          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
         }
       ],
-      "duration_ms": 163994,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+      "duration_ms": 90067,
+      "name": "Nope your too late i already died",
+      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "KUHU KADUS STEN?",
+        "url": "https://open.spotify.com/album/6JzKsSDTwFt2tOO5vparW2"
+      },
+      "artists": [
+        {
+          "name": "gameboy tetris",
+          "url": "https://open.spotify.com/artist/5LWs2DNQhJXiG6X2o4XUpQ"
+        },
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        }
+      ],
+      "duration_ms": 163822,
+      "name": "KUHU KADUS STEN?",
+      "url": "https://open.spotify.com/track/63YH4W1jfTXbuS9LNSCTXB"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 161051,
+      "name": "Sucka Free",
+      "url": "https://open.spotify.com/track/7DIMKlmJ0CL6eROkbptoqi"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "heikki???",
+        "url": "https://open.spotify.com/album/4DX67GjJVKqU7C4iUBgxS5"
+      },
+      "artists": [
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        }
+      ],
+      "duration_ms": 142655,
+      "name": "heikki???",
+      "url": "https://open.spotify.com/track/25yBeIWwwD870aYq18jvT1"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
       "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
@@ -909,24 +857,72 @@
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
-      "added_at": "2025-07-22 13:01:11",
+      "added_at": "2025-07-23 13:00:28",
       "album": {
-        "name": "suburban daredevil",
-        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
+        "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
       },
       "artists": [
         {
-          "name": "wifiskeleton",
-          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
-        },
-        {
-          "name": "i wanna be a jack-o-lantern",
-          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
         }
       ],
-      "duration_ms": 90067,
-      "name": "Nope your too late i already died",
-      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "Helesinises taevas on triibud",
+        "url": "https://open.spotify.com/album/6HY8Afbx0juu3Atx1SLTKx"
+      },
+      "artists": [
+        {
+          "name": "AG",
+          "url": "https://open.spotify.com/artist/23t9hwsDogzcB9khqNJzl4"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Helesinises taevas on triibud",
+      "url": "https://open.spotify.com/track/7dvNFGU376N6YxCsOJaNlc"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/5Oyf6M8raXiIpZJAOJtPcn"
+      },
+      "artists": [
+        {
+          "name": "Qotid",
+          "url": "https://open.spotify.com/artist/1pssEG1vKMJhQfwwGhtbNa"
+        }
+      ],
+      "duration_ms": 128126,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/3qBrPz8ulrgiF1hfECAZw3"
+    },
+    {
+      "added_at": "2025-07-23 13:00:28",
+      "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     }
   ],
   "unique_name": "Top 50 - Estonia",

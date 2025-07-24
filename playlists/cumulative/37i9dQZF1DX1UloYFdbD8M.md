@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sushin Shyam
 
-372 songs - 23 hr 27 min
+373 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Chaare](https://open.spotify.com/track/2o6CMAMz3BlEFpzVF0dgWt) | [Bi.lly](https://open.spotify.com/artist/2GKqMm3o0N3lmeLrdwIGGr) | [Chaare](https://open.spotify.com/album/1D6OWj90X6fXJYxqooJAQg) | 1:05 | 2024-08-28 | 2024-12-13 |
 | [Chaaya Makkaani](https://open.spotify.com/track/7uRnNmG9t6vFGv2gdpDPEu) | [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3) | [Chaaya Makkaani](https://open.spotify.com/album/3zm44UwafhPVma414Wp4cI) | 3:26 | 2023-09-09 | 2024-05-25 |
 | [Chaliye Rani](https://open.spotify.com/track/1MkV4LbxSmW0S9mP2DoPAk) | [Himna Hilari](https://open.spotify.com/artist/1VVEKPxaTnYrNeO1dKp9vT), [Hinitha Hilary](https://open.spotify.com/artist/5qfJ6kEOLgOveQ4T1Zec0O), [Ebin Pallichan](https://open.spotify.com/artist/5adupl0QWDO9lNgtKss4sZ) | [Chaliye Rani](https://open.spotify.com/album/5XCeIqWUVCfwwMHGhtZ2wi) | 2:04 | 2025-04-21 |  |
+| [Chanjaal Albikkutti](https://open.spotify.com/track/60QkFnDaHt7fIwLduowiSQ) | [Kuttippa](https://open.spotify.com/artist/4xS2zvc8jaoQwhzBgiQTvL) | [Chanjaal Albikkutti](https://open.spotify.com/album/6dl6T8KlAwVAeINuAYse4B) | 3:56 | 2025-07-23 |  |
 | [Chayapattu](https://open.spotify.com/track/4d8u6nDK0hRliTXQ8lDKdt) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/3KPax7QTCyyEFDeJWuvHXr) | 2:29 | 2023-10-06 | 2024-04-19 |
 | [Chayapattu](https://open.spotify.com/track/4y7DF2YwXJPcYpX9mFl8pW) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 2:29 | 2022-06-23 | 2024-07-13 |
 | [Chekele](https://open.spotify.com/track/0qQbAdaUAXz3niHgqKL6Xj) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:01 | 2022-11-21 | 2024-11-08 |
@@ -247,7 +248,7 @@
 | [Njanum Oru Manushyanalle](https://open.spotify.com/track/3cKxKqXro6RBRl1uO4d0t6) | [ASHKAR](https://open.spotify.com/artist/0yitkCbs1vjgzFMmtpCJI0), [L4TERN](https://open.spotify.com/artist/3ocwwpzYk8POOMqGiPP6N4), [Leo Paulose](https://open.spotify.com/artist/4iGsfSOigexX2JERYuvH0Z) | [Njanum Oru Manushyanalle](https://open.spotify.com/album/6wONsp1aYjw66fK8NsEkyA) | 3:40 | 2025-03-17 | 2025-06-28 |
 | [NOSTALGIA](https://open.spotify.com/track/4AhcfteiLz8y9PZAorMc2R) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [NOSTALGIA](https://open.spotify.com/album/74NCyzwAIHMw1iZPZ5xT2J) | 4:01 | 2025-06-30 |  |
 | [Oblivion](https://open.spotify.com/track/2JXMEXKqT4cnGI1ICepo8C) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Ashwin Renju](https://open.spotify.com/artist/6gX6JbltHfNOeMAK89YFkc) | [Oblivion](https://open.spotify.com/album/4Cqq8afOI5McMl7hQCKYy5) | 4:23 | 2022-09-23 | 2023-07-28 |
-| [Oliye](https://open.spotify.com/track/6nveYGaUTxwElN3jnQsXex) | [Mervin Mathew](https://open.spotify.com/artist/6RKpcajwsrExGkDIR26RYr) | [Oliye](https://open.spotify.com/album/3hPGnDRgBaPkCBIKLeb6FJ) | 4:12 | 2025-05-23 |  |
+| [Oliye](https://open.spotify.com/track/6nveYGaUTxwElN3jnQsXex) | [Mervin Mathew](https://open.spotify.com/artist/6RKpcajwsrExGkDIR26RYr) | [Oliye](https://open.spotify.com/album/3hPGnDRgBaPkCBIKLeb6FJ) | 4:12 | 2025-05-23 | 2025-07-24 |
 | [OLU](https://open.spotify.com/track/0Fdx9OiTsE3zr0G24n5viK) | [Sage End](https://open.spotify.com/artist/1LcEVfkI3SVWHfrnOUxPyE), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [OLU](https://open.spotify.com/album/1XDYboKfWaf7serLJjPujU) | 3:35 | 2025-05-05 |  |
 | [Om Shanti](https://open.spotify.com/track/6uVwy5xIpRsro059KF2NrK) | [Amrutam Gamay](https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5), [Amritha Suressh](https://open.spotify.com/artist/0gWXs0seQiEHCZJiH07xfk), [Abhirami Suresh](https://open.spotify.com/artist/6sPuCo5n7PaYPjd2S3m2K5) | [Om Shanti](https://open.spotify.com/album/0Ll3yLHA6mB9hQZOH7SpmD) | 4:51 | 2024-06-07 | 2024-08-13 |
 | [Ookku \- From "Think Indie"](https://open.spotify.com/track/0yDl4lv4HdqyVwyf6gEDBf) | [Malayali Monkeys](https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI) | [Ookku \(From "Think Indie"\)](https://open.spotify.com/album/7uQ5Jb3a7h0lQSXJDmngI8) | 3:03 | 2024-08-22 | 2025-02-04 |

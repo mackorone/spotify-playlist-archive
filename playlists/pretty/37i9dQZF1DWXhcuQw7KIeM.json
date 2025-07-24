@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 548420,
+  "num_followers": 548550,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-07-04 04:00:15",
       "album": {
+        "name": "Black Thunder",
+        "url": "https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Black Thunder",
+      "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
+    },
+    {
+      "added_at": "2025-07-04 04:00:15",
+      "album": {
         "name": "Shieldmaiden",
         "url": "https://open.spotify.com/album/2pEGtKClaD7eYWnzQgyWo2"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 195514,
       "name": "Shieldmaiden",
       "url": "https://open.spotify.com/track/3GMwtVxonfUVbd9DnAUqFP"
-    },
-    {
-      "added_at": "2025-07-04 04:00:15",
-      "album": {
-        "name": "Black Thunder",
-        "url": "https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Black Thunder",
-      "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
     },
     {
       "added_at": "2025-07-04 04:00:15",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-07-04 04:00:15",
       "album": {
-        "name": "Valhalla Rising",
-        "url": "https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI"
-      },
-      "artists": [
-        {
-          "name": "Nytt Land",
-          "url": "https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp"
-        }
-      ],
-      "duration_ms": 423531,
-      "name": "Valhalla Rising",
-      "url": "https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO"
-    },
-    {
-      "added_at": "2025-07-04 04:00:15",
-      "album": {
         "name": "Snake Pit Poetry",
         "url": "https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 428077,
       "name": "Snake Pit Poetry",
       "url": "https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz"
+    },
+    {
+      "added_at": "2025-07-04 04:00:15",
+      "album": {
+        "name": "Valhalla Rising",
+        "url": "https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI"
+      },
+      "artists": [
+        {
+          "name": "Nytt Land",
+          "url": "https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp"
+        }
+      ],
+      "duration_ms": 423531,
+      "name": "Valhalla Rising",
+      "url": "https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO"
     },
     {
       "added_at": "2025-07-04 04:00:15",

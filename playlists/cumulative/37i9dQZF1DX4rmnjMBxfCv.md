@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: SHAF
 
-271 songs - 17 hr 53 min
+272 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [M3ALLA2 FIKI](https://open.spotify.com/track/2pD9H91mjZjZKxeFaU44RP) | [RABS](https://open.spotify.com/artist/5NnkfNnEiHdhoSnOetQM1R) | [M3ALLA2 FIKI](https://open.spotify.com/album/5xfsxvdJIIA28ss6KuRYUJ) | 4:00 | 2023-02-02 | 2023-06-24 |
 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 | 2025-04-21 |  |
 | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW) | 8:38 | 2022-03-30 | 2023-06-24 |
-| [MAHZLA \(feat\. The Hws & TUFF\)](https://open.spotify.com/track/2qdidpju4IX9v0bDVwFqxs) | [Warchieff](https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [Ma\-Beyn](https://open.spotify.com/artist/56BacvMJfiNke5Sb6VOcQR), [The Hws](https://open.spotify.com/artist/41GhwlgWCOS3zjfvRxFBtg), [TUFF](https://open.spotify.com/artist/2sZDWkPz93gzCxVrD823g8) | [MAHZLA \(feat\. The Hws & TUFF\)](https://open.spotify.com/album/6O9xuUgbQQDqTOHlqZJIjE) | 2:55 | 2025-04-11 |  |
+| [MAHZLA \(feat\. The Hws & TUFF\)](https://open.spotify.com/track/2qdidpju4IX9v0bDVwFqxs) | [Warchieff](https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [Ma\-Beyn](https://open.spotify.com/artist/56BacvMJfiNke5Sb6VOcQR), [The Hws](https://open.spotify.com/artist/41GhwlgWCOS3zjfvRxFBtg), [TUFF](https://open.spotify.com/artist/2sZDWkPz93gzCxVrD823g8) | [MAHZLA \(feat\. The Hws & TUFF\)](https://open.spotify.com/album/6O9xuUgbQQDqTOHlqZJIjE) | 2:55 | 2025-04-11 | 2025-07-24 |
 | [Majnuna](https://open.spotify.com/track/0vRJHjSohvyNnhSQ3HI1Sl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [Randoree](https://open.spotify.com/artist/7Arbq4rNJORXYyGHv9ujPa) | [Majnuna](https://open.spotify.com/album/74GnYkFWUuQkU7C6Mkbi0d) | 1:38 | 2024-12-05 |  |
 | [Maktoub](https://open.spotify.com/track/3YLQqkq1qr9gecj09ltfcd) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Soul Of Winds](https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG) | 5:56 | 2023-06-23 | 2023-08-17 |
 | [Malayeen](https://open.spotify.com/track/62nGR6pKwwwvNNcXahVDnA) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Malayeen](https://open.spotify.com/album/0Mo57Unk5xMf9C4VlE6wDw) | 4:00 | 2022-03-30 | 2022-08-23 |
@@ -275,6 +275,7 @@
 | [Zadfa](https://open.spotify.com/track/2twX1GCsaw0WxZ3lggBwsD) | [ELEXSANDOM](https://open.spotify.com/artist/5ciXAvxKrOBcSTqKr2PAjp), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Zadfa](https://open.spotify.com/album/4gVqB3sJZpglJvtzUv19KG) | 2:20 | 2025-05-11 |  |
 | [اوصف إيه](https://open.spotify.com/track/12l68oU7N5fVszEFBkC7LU) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [اوصف إيه](https://open.spotify.com/album/1MCnD6k9S5iuQT5utEx6RZ) | 3:42 | 2022-03-30 | 2022-11-02 |
 | [اوصف إيه](https://open.spotify.com/track/5tBFzLIvD5aDF1lyE2v919) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [اوصف إيه](https://open.spotify.com/album/7uHOKN0gXmqRq81a5pLRnM) | 3:42 | 2022-08-28 | 2022-11-26 |
+| [حبك لو غلطه](https://open.spotify.com/track/0zY2fgldi8N4JO4Ob6McD1) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [لينا معاد](https://open.spotify.com/album/1PiNzyKUgo41ZnStM6EEY6) | 4:12 | 2025-07-23 |  |
 | [قصة حب \(غربى\)](https://open.spotify.com/track/7MW8VcSqgrDExFBkmqj1ix) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [قصة حب \(غربى\)](https://open.spotify.com/album/2nq9Jhje9ZEQaOR4z1lfs9) | 3:22 | 2022-03-30 | 2022-11-26 |
 | [لاموني](https://open.spotify.com/track/5OsH0PcgKUUnqSP7KM0yCM) | [Talia](https://open.spotify.com/artist/5IiJk1YXeHtE31vo4XBhn8) | [لاموني](https://open.spotify.com/album/3oAQZJwsH6iVQhcTIxtalh) | 3:20 | 2022-03-30 | 2023-06-03 |
 | [مين زيها](https://open.spotify.com/track/2wgkVcguYxkqwOACFo5oPj) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [مين زيها](https://open.spotify.com/album/6kmeeudD3M5dawDy5mzb78) | 3:28 | 2022-03-30 | 2022-11-02 |

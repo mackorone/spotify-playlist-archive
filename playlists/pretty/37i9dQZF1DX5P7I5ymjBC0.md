@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Kaushiki Chakraborty
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,887 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,898 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 47 | [Padharo Mhare Des \- Folk Fusion](https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx) | [Swaraag](https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey) | [Padharo Mhare Des \(Folk Fusion\)](https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N) | 5:48 |
 | 48 | [Dekho Sakhi](https://open.spotify.com/track/65xJV3XPDoSbQCJTzLZ6hi) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Prateek Narsimha](https://open.spotify.com/artist/5CZ3t3rNQcDxr2fFOZ3keO), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X) | [Dekho Sakhi](https://open.spotify.com/album/327X9g5nLaJwhAEQytBl8h) | 4:37 |
 | 49 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 |
-| 50 | [ROOTH GAYE](https://open.spotify.com/track/2iSIacvItNiyVAEL0OPNv1) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 2:19 |
+| 50 | [Ithlati](https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:27 |
 
 Snapshot ID: `aHDGCQAAAACLkCykIe3bePXK+oNISBDd`

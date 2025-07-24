@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106478,
+  "num_followers": 106476,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Rockferry",
-        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
-      },
-      "artists": [
-        {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 179853,
       "name": "Cobrastyle (feat. Mad Cobra) - As featured in Superman",
       "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "The Boy With No Name",
+        "url": "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "BIEN O MAL",
         "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
       },
@@ -859,38 +875,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Boy With No Name",
-        "url": "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Turn The Radio Off",
-        "url": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "Sell Out",
-      "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Beamer (Bad Boys)",
         "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 195047,
       "name": "Beamer (Bad Boys)",
       "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Turn The Radio Off",
+        "url": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Sell Out",
+      "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Emergency EP",
+        "url": "https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 169617,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 220040,
       "name": "papi bones (feat. shygirl)",
       "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Emergency EP",
-        "url": "https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 169617,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "She Don't Dance",
-        "url": "https://open.spotify.com/album/7JuHmjs1ho2kL6DvGWvnmH"
-      },
-      "artists": [
-        {
-          "name": "Everyone You Know",
-          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
-        }
-      ],
-      "duration_ms": 226610,
-      "name": "She Don't Dance",
-      "url": "https://open.spotify.com/track/4XOc8gjhKl7FvdD4CHBYIy"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "6AM",
         "url": "https://open.spotify.com/album/4xI6l2LtSRt7yslMslT0wz"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 146084,
       "name": "Wanna Stay (feat. Dear Sunday)",
       "url": "https://open.spotify.com/track/0fxPhCN2eRixZxxgzZzwiY"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "She Don't Dance",
+        "url": "https://open.spotify.com/album/7JuHmjs1ho2kL6DvGWvnmH"
+      },
+      "artists": [
+        {
+          "name": "Everyone You Know",
+          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
+        }
+      ],
+      "duration_ms": 226610,
+      "name": "She Don't Dance",
+      "url": "https://open.spotify.com/track/4XOc8gjhKl7FvdD4CHBYIy"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Talkie Walkie",
+        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 223373,
+      "name": "Surfing on a Rocket",
+      "url": "https://open.spotify.com/track/0RFduQOfkrP1jhoV0m8US2"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Wrong Time",
         "url": "https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ"
       },
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Talkie Walkie",
-        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 223373,
-      "name": "Surfing on a Rocket",
-      "url": "https://open.spotify.com/track/0RFduQOfkrP1jhoV0m8US2"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "A Little Deeper",
         "url": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Let It Roll",
-      "url": "https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 174653,
       "name": "Malemolencia",
       "url": "https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Let It Roll",
+      "url": "https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh"
     },
     {
       "added_at": "2022-11-02 14:00:00",

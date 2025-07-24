@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAAbiNBFen5TYTpHzl6K0VJP",
+  "snapshot_id": "aH7UgAAAAADE2A552IlprtY6JPvRusnt",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 151706,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 122480,
-      "name": "Viva Viva Rock 'N' Roll",
-      "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After School Session",
         "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry On Stage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 151706,
-      "name": "Go Go Go",
-      "url": "https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7"
+      "duration_ms": 122480,
+      "name": "Viva Viva Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
       "duration_ms": 158560,
       "name": "Swanee River",
       "url": "https://open.spotify.com/track/0wkqsHA4zsWoY5y4EKLfoO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "San Francisco Dues",
-      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "San Francisco Dues",
+      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+        "name": "Chuck Berry In London",
+        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 157240,
-      "name": "Bordeaux In My Pirough",
-      "url": "https://open.spotify.com/track/3RVH1OQ7AH4A4iac4MzqLT"
+      "duration_ms": 157320,
+      "name": "St. Louis Blues",
+      "url": "https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF"
     }
   ],
   "unique_name": "This Is Chuck Berry",

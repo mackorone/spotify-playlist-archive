@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-118 songs - 5 hr 38 min
+119 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Hat Trick](https://open.spotify.com/track/02Y5afO1mCHxKp9ozmBv1Q) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/3EDheqSnBlJIST8dU7baWF) | 2:49 | 2023-12-13 |  |
 | [He Say She Say](https://open.spotify.com/track/2DOwIiI5L9lWsoUnZQlUqr) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 2:24 | 2023-12-16 |  |
 | [He Say She Say](https://open.spotify.com/track/7uJHdZPYExYDB6c23qjSrL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [He Say She Say \(Official Video\)](https://open.spotify.com/album/7o8mAtcvmvKJwEpZVXJRrB) | 2:26 | 2023-12-13 | 2024-01-31 |
-| [HICCUP](https://open.spotify.com/track/3xO0JG5aeKca9gp9SYcljz) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 01: The Show Must Go On](https://open.spotify.com/album/6dqubyVt3aC3niJDXkSB5Q) | 2:10 | 2023-12-13 |  |
+| [HICCUP](https://open.spotify.com/track/3xO0JG5aeKca9gp9SYcljz) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 01: The Show Must Go On](https://open.spotify.com/album/6dqubyVt3aC3niJDXkSB5Q) | 2:10 | 2023-12-13 | 2025-07-24 |
+| [HICCUP](https://open.spotify.com/track/4LMJRxu8w0b9cB6s5rUjrO) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 01: The Show Must Go On](https://open.spotify.com/album/0b5Rqd7gSb8gBS8xCzgYR2) | 2:10 | 2025-07-23 |  |
 | [Honestly](https://open.spotify.com/track/4UlcyqEAKetKwxTq4EXvwp) | [Lindasson](https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7) | [Honestly](https://open.spotify.com/album/7Bw7ts6BuO8Yz9IrRWfaTI) | 2:00 | 2025-06-24 |  |
 | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/track/09aO4VPeWw46qecXpHXEV5) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/album/5NATm6ps7E8oOSmroG4eFv) | 3:04 | 2025-06-24 |  |
 | [I Like That](https://open.spotify.com/track/61SUnUdIUeY4ixS970eQnb) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 03: Mr\. Independent](https://open.spotify.com/album/6ONtu6CXex6rakxf5icamp) | 2:19 | 2023-12-13 |  |

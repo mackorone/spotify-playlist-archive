@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Tony Dayimane
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,580 likes - 98 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,622 likes - 98 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

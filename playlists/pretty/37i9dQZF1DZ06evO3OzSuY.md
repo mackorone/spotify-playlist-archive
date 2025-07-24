@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 
 > This is Zendaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,693 likes - 35 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,697 likes - 35 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 30 | [Bottle You Up](https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:38 |
 | 31 | [This is My Dance Floor](https://open.spotify.com/track/6A4t0Qss5Azkt2D7n0XbFJ) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff) | 3:07 |
 | 32 | [Dig Down Deeper](https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Disney Fairies: Faith, Trust and Pixie Dust](https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ) | 3:02 |
-| 33 | [Fireflies \(featuring Zendaya\)](https://open.spotify.com/track/3ll96DYZ7riZ5IFQ3NRqye) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Silver Soul](https://open.spotify.com/album/2lhFCmvAU470Rm2w9BxBS2) | 4:28 |
-| 34 | [I'm Back](https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O) | 2:26 |
+| 33 | [I'm Back](https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O) | 2:26 |
+| 34 | [Fireflies \(featuring Zendaya\)](https://open.spotify.com/track/3ll96DYZ7riZ5IFQ3NRqye) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Silver Soul](https://open.spotify.com/album/2lhFCmvAU470Rm2w9BxBS2) | 4:28 |
 | 35 | [My Jam \- Track Commentary](https://open.spotify.com/track/6iYBqmCFPD5HzWq9Bfyiab) | [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [My Jam \- Track Commentary](https://open.spotify.com/album/2J9D3akwEAUR4kfYHQvtww) | 2:24 |
 
-Snapshot ID: `aH2DAAAAAABmMT45sYzxBFNeNMCupKx0`
+Snapshot ID: `aH7UgAAAAAA4Ch+oQUbZHacpmD5JZpuh`

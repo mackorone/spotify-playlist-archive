@@ -1,12 +1,12 @@
 {
   "description": "This is Irv Gotti. The essential tracks, all in one playlist.",
-  "num_followers": 132,
+  "num_followers": 133,
   "original_name": "This Is Irv Gotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAADHBr3FLebgPLDcn2Kg0hkD",
+  "snapshot_id": "aH7UgAAAAAAud+twufQ9kZt6c+ZEs5ie",
   "tracks": [
     {
       "added_at": null,
@@ -300,34 +300,6 @@
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         },
         {
-          "name": "Caddillac Tah",
-          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
-        },
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 269906,
-      "name": "Come-N-Go",
-      "url": "https://open.spotify.com/track/2vjRhzgzI2yOykIDLKnJ7b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Irv Gotti Presents...The Remixes",
-        "url": "https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT"
-      },
-      "artists": [
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        },
-        {
           "name": "Ja Rule",
           "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
         },
@@ -343,6 +315,34 @@
       "duration_ms": 223360,
       "name": "No One Does It Better - Remix",
       "url": "https://open.spotify.com/track/6Khtdk7kkYji84hNpnKJB9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Irv Gotti Presents...The Remixes",
+        "url": "https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT"
+      },
+      "artists": [
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        },
+        {
+          "name": "Caddillac Tah",
+          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 269906,
+      "name": "Come-N-Go",
+      "url": "https://open.spotify.com/track/2vjRhzgzI2yOykIDLKnJ7b"
     }
   ],
   "unique_name": "This Is Irv Gotti",

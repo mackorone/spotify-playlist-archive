@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-451 songs - 1 day 2 hr 8 min
+453 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-02 | 2024-11-07 |
 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 | 2023-11-23 | 2024-01-24 |
 | [Butter](https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 2:44 | 2023-11-23 | 2023-11-29 |
+| [Carrying Happiness](https://open.spotify.com/track/6cSE6qGHagStJmrPa0jzu9) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Carrying Happiness](https://open.spotify.com/album/3WQY51GZX8ppESRJzWZydP) | 3:42 | 2025-07-23 |  |
 | [cheers](https://open.spotify.com/track/3abasVZR9LCHo7V6gmdr2s) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [cheers](https://open.spotify.com/album/37baTLzPm1Sxcshl59gNat) | 2:58 | 2025-03-11 | 2025-03-19 |
 | [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 | 2024-01-30 | 2024-02-07 |
 | [Color of our destiny](https://open.spotify.com/track/7b6BdnzuckZVite9Bfd1k5) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Color of our destiny](https://open.spotify.com/album/472ls5csvcogUFt9zKIMzi) | 2:58 | 2024-11-06 | 2024-12-11 |
@@ -260,7 +261,7 @@
 | [それが恋だと言ってくれ！](https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [それが恋だと言ってくれ！](https://open.spotify.com/album/3SibfMHSlt6EwTCn2SdlAy) | 3:13 | 2024-10-23 | 2025-01-09 |
 | [たまものまえ](https://open.spotify.com/track/20YYgPrAUUbunLW1db5Uws) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [たまものまえ](https://open.spotify.com/album/27D4StgCIHT3FNe7TYrmmL) | 3:39 | 2024-03-12 | 2024-04-24 |
 | [ときめき \- Tokimeki](https://open.spotify.com/track/7bBVErajr1mBXK6kpbBYD5) | [Kucci](https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5) | [ときめき \- Tokimeki](https://open.spotify.com/album/7DoC8S2mbv8X0qaVMTpWlP) | 3:47 | 2025-03-26 | 2025-04-03 |
-| [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 | 2025-07-16 |  |
+| [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 | 2025-07-16 | 2025-07-24 |
 | [どうかしてる](https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [どうかしてる](https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI) | 2:30 | 2025-07-10 |  |
 | [なんてね](https://open.spotify.com/track/71TekkQ6MUZf8wsUKhuxhx) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [なんてね](https://open.spotify.com/album/3sGUJFiOE1W7QFuPwI4sAu) | 2:32 | 2024-07-12 | 2024-07-31 |
 | [なんとなく](https://open.spotify.com/track/4UDxmiKbNQhsvgqfHYegi0) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [なんとなく](https://open.spotify.com/album/2Um8i9Y6FdIQgDxEx8OKW4) | 3:35 | 2024-07-02 | 2024-07-31 |
@@ -296,7 +297,7 @@
 | [ショコラカタブラ](https://open.spotify.com/track/5tDluNOXu6r7z7u9NKjPCt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ショコラカタブラ](https://open.spotify.com/album/0bHJgay2GTCHvSgaq6xtYM) | 3:03 | 2024-01-30 | 2024-02-01 |
 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 | 2024-04-17 |  |
 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 | 2024-01-09 |  |
-| [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 | 2023-11-23 |  |
+| [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 | 2023-11-23 | 2025-07-24 |
 | [ダンス・デカダンス](https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ダンス・デカダンス](https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37) | 3:14 | 2024-01-23 | 2024-02-07 |
 | [デイジー](https://open.spotify.com/track/6OalExVqGSXSXxT7lmzTLY) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [デイジー](https://open.spotify.com/album/4BkPgahyVN3J3Xo8fPVzP1) | 2:48 | 2025-05-27 |  |
 | [デッドエンド](https://open.spotify.com/track/505amJN26gbUe9tb9FtZL5) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Nautilus](https://open.spotify.com/album/1e1wT6uxWS5EwnHVeu6K0b) | 4:40 | 2024-03-12 | 2024-03-29 |
@@ -379,6 +380,7 @@
 | [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 | 2024-04-17 | 2024-05-02 |
 | [唱](https://open.spotify.com/track/7o0TPSw494RG2Q4iWmd1v6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:09 | 2024-02-20 | 2024-04-19 |
 | [嘘じゃない](https://open.spotify.com/track/5tB3jH72pfXtVlwDxpiIlq) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [嘘じゃない](https://open.spotify.com/album/0mr3594rcsk9iPlB3Py72x) | 4:18 | 2024-05-23 | 2024-07-31 |
+| [四季回生](https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [四季回生](https://open.spotify.com/album/4voeIX26mHuytm5jUAAhQl) | 2:26 | 2025-07-23 |  |
 | [地獄で会おうぜ](https://open.spotify.com/track/3rn94KRj6Zh8ABgTZCfBvI) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [地獄で会おうぜ](https://open.spotify.com/album/5JdWHojTqndIgX4Bo7rv51) | 3:16 | 2024-05-01 | 2024-06-13 |
 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 | 2024-04-17 | 2025-01-16 |
 | [声明](https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [声明](https://open.spotify.com/album/64WnOkk1bfF32ElFKEBw1F) | 3:35 | 2024-05-01 | 2024-06-05 |

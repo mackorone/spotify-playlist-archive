@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Mikael Karlsson, Terrell Grice, Amber Bullock and more
+> With Sunday Service Choir, Mikael Karlsson, Donald Lawrence & Company and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 249 likes - 50 songs - 4 hr 7 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [Count Your Blessings](https://open.spotify.com/track/5y8apzJP1xF42QHMjSauvN) | [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Jesus Is Born](https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6) | 5:27 |
 | 50 | [Oh How I Love Jesus](https://open.spotify.com/track/74xvmpKKQnm26cVrauYFiU) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [It Ain't Over \(Til God Says It's Over\)](https://open.spotify.com/album/3oqki7YT1d60H53TC8R85V) | 5:19 |
 
-Snapshot ID: `aIBbpAAAAAAS9LwwRHHc/gEYhvlp82ly`
+Snapshot ID: `aIGuBgAAAAAJ6sKnHyhHi3C97UzzZ8Nv`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Jombriel, Maisak, Kénsel Tell Them & Jøtta
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,662 likes - 170 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,598 likes - 170 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TIKITI](https://open.spotify.com/track/6b1L2ZCGDT2SIvoZZNQFv9) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [TIKITI](https://open.spotify.com/album/1G4Xitilt3wm6NoVAwpW9P) | 2:50 |
+| 1 | [TIKITI](https://open.spotify.com/track/6b1L2ZCGDT2SIvoZZNQFv9) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [TIKITI](https://open.spotify.com/album/1G4Xitilt3wm6NoVAwpW9P) | 2:50 |
 | 2 | [Zun Zun](https://open.spotify.com/track/7uQ3MlGpYURF2ED8E5xFIa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Mixteip](https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk) | 3:16 |
 | 3 | [la de arca](https://open.spotify.com/track/4qIMKCnsasl6wE7aT6YZDi) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [la de arca](https://open.spotify.com/album/6SrlJq78kG6BQmUYdcq3Mu) | 2:29 |
 | 4 | [La Ruta](https://open.spotify.com/track/7sDPVFMYuoq9UPLrM1I7Ct) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Ruta](https://open.spotify.com/album/5lgRpUbqo5VRODoEiQeNCW) | 2:41 |

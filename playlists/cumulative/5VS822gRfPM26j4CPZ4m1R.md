@@ -4,7 +4,7 @@
 
 > Playlist
 
-597 songs - 1 day 11 hr 22 min
+598 songs - 1 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Honey](https://open.spotify.com/track/2QQThdEoUDeat6nqYXS64D) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Honey](https://open.spotify.com/album/0WAUyoTN7ZeEKVRacDFE1X) | 3:23 | 2023-10-25 |  |
 | [Honey](https://open.spotify.com/track/5fZvanKBRYTYshL48wGFg8) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Parkview Demos](https://open.spotify.com/album/3Vgnh06FtxYOsr1zkFwVu2) | 3:23 | 2023-10-25 |  |
 | [Honey Honey](https://open.spotify.com/track/1rKhKhQtmLmYd6FiaBP4q8) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [RALPH TV](https://open.spotify.com/album/52Qd94rprAOizb5ocH7Vx4) | 3:05 | 2023-10-25 |  |
+| [honeymoon](https://open.spotify.com/track/5kMY4PErwx0EYP44UvGrLb) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [honeymoon](https://open.spotify.com/album/4hB4Eh9hGAdgt53dJR74Cc) | 4:59 | 2025-07-23 |  |
 | [Hot Summer](https://open.spotify.com/track/2zBmAyxyz8do38MykASVTr) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 2:22 | 2023-10-25 |  |
 | [How Come?](https://open.spotify.com/track/6r3TCbcqFu4O8KlBTKdc1n) | [Stray Fossa](https://open.spotify.com/artist/5UuvCjt4c4BvzGwK4W0ipD) | [How Come?](https://open.spotify.com/album/5lK2Q6HymKUL0s54bTB4Aj) | 5:00 | 2023-10-25 |  |
 | [How It Started](https://open.spotify.com/track/5RZLyrwguH60Ieqe98rg8E) | [Sky Days](https://open.spotify.com/artist/7oWHZ2Uh7Gaf4UL8CRHjX2) | [How It Started](https://open.spotify.com/album/15QpBS7iv70KNOgXcJSjOC) | 3:56 | 2023-10-25 |  |

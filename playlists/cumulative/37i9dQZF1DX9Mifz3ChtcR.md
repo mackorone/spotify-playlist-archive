@@ -4,7 +4,7 @@
 
 > Calming  ambient soundscapes to soothe your little friend.
 
-185 songs - 8 hr 43 min
+190 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Eclipse](https://open.spotify.com/track/1SQsHShBRl2V2ntYD6TDRF) | [Somnolentia](https://open.spotify.com/artist/1k7mX5EwakP9gbdCyulnJ1) | [Eclipse](https://open.spotify.com/album/6ZwQijOQq1etSrZjlsgS2M) | 3:21 | 2025-05-13 |  |
 | [Elastic](https://open.spotify.com/track/6EftNCIAUnD2eLoHvayt3R) | [iavú](https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my) | [Elastic](https://open.spotify.com/album/5r2zaZL1I9lqXxIVWRMkLy) | 3:07 | 2025-05-13 |  |
 | [Ember](https://open.spotify.com/track/4S5toB90ctODOMnjNCVxPC) | [YON](https://open.spotify.com/artist/2cOdd5qCI4APHYIfwOXges) | [Ember](https://open.spotify.com/album/4GSOn8WOct28B3GfJnXUQP) | 3:09 | 2025-05-13 |  |
+| [Enceladus](https://open.spotify.com/track/5no9xanl38TTg0CJU1o0Yn) | [Spatial Dreams](https://open.spotify.com/artist/282ZRlxKvwVEVwifRfdTbu) | [Enceladus](https://open.spotify.com/album/4EXEiRUOdfjwJHC95Vud4m) | 2:47 | 2025-07-23 |  |
 | [Endless Motion](https://open.spotify.com/track/29UVNezH22t8Asto3WFdzl) | [Slepth](https://open.spotify.com/artist/3sKO7LRCv1v7joHE7Hpbql) | [Endless Motion](https://open.spotify.com/album/2O1o8OGsnvX4h69neULuAL) | 2:32 | 2025-05-13 |  |
 | [Enigma](https://open.spotify.com/track/1dJb5jCV1FrlyOMGhuesJQ) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [Enigma](https://open.spotify.com/album/24eOx9NfgwDYTU8qoyWfQV) | 2:42 | 2025-05-13 |  |
 | [Estimate](https://open.spotify.com/track/7lm8gkHUvNKXmVX857S2KU) | [ispíritu](https://open.spotify.com/artist/0OVGamiaCriHwLRXWiorJA) | [Estimate](https://open.spotify.com/album/5OHNeLtXIg5umlCpCRJupX) | 2:46 | 2025-05-13 |  |
@@ -101,6 +102,7 @@
 | [Laomedeia](https://open.spotify.com/track/7Cp2aso3JhhnKnPRvU9LdK) | [Evolutionists](https://open.spotify.com/artist/4bRpigkT2Z3Sq7CjnVN1QD) | [Laomedeia](https://open.spotify.com/album/0PjxDGNRcecZ4P3S5XimqK) | 3:27 | 2025-07-09 |  |
 | [Lavandula](https://open.spotify.com/track/2k6BuTL3w4wCWb3pkNoFP7) | [Blissful Heaven](https://open.spotify.com/artist/4QEyQYiRdLu1c6wzHyp0ds) | [Lavandula](https://open.spotify.com/album/573Iu6Spe7C0jfZbiODwK2) | 3:14 | 2025-06-12 |  |
 | [Life Cycle](https://open.spotify.com/track/7gkmg3tdf2VrPyAUmTu13o) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [Life Cycle](https://open.spotify.com/album/7p3SjcLiPwz4n5kSQCQ6NE) | 3:04 | 2025-05-13 |  |
+| [light in the dark](https://open.spotify.com/track/2ljOB247ATsy9kr3Px2syA) | [low and slow](https://open.spotify.com/artist/0TAAYOCZvxGyDty9o0b2Dr) | [light in the dark](https://open.spotify.com/album/1qdAHgGKpzObO59g9Q8nVf) | 2:19 | 2025-07-23 |  |
 | [Lighthouse](https://open.spotify.com/track/0LNiw2LKUcJG80ciSFQnLu) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Lighthouse](https://open.spotify.com/album/0NiwXfCPPctznzw3f3rOkH) | 2:27 | 2025-05-13 |  |
 | [Lotus](https://open.spotify.com/track/5IwttgCz4FPDkodjrZtLb3) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Lotus](https://open.spotify.com/album/2un9gyChobeTNRw8BN7B95) | 2:19 | 2025-05-13 |  |
 | [Lumen](https://open.spotify.com/track/5QvnghJCIYsdu96RDfT4uM) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Lumen](https://open.spotify.com/album/1gB88fLvXeHPhw0rV2bJnj) | 3:21 | 2025-05-13 |  |
@@ -109,6 +111,7 @@
 | [Marbre D’aube](https://open.spotify.com/track/4xOArpiZ0N1UC6sRAwbNtE) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Marbre D’aube](https://open.spotify.com/album/5GenEVsZz4Ek38mVczOPtv) | 3:18 | 2025-05-13 |  |
 | [Mareal](https://open.spotify.com/track/4iu48eexKCxIFPEJZy7TWA) | [Pause Infinite](https://open.spotify.com/artist/4NTIPVymM4fpFJe8RfWb4h) | [Mareal](https://open.spotify.com/album/7vK0YLeUARrcgfQDGy9VdA) | 2:27 | 2025-05-13 |  |
 | [Meditations Pt 4](https://open.spotify.com/track/7KerNojT5v12nQjmk9OGbm) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Meditations Pt 4](https://open.spotify.com/album/0EVBf4Gj6ot7u6LCRUHUeY) | 3:00 | 2025-05-13 |  |
+| [Memories](https://open.spotify.com/track/5CaLHoQnLcAfitGKUxgA7V) | [Ava Mills](https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj) | [Memories](https://open.spotify.com/album/75e5WZFwDqkfMsqIIdHUiT) | 3:03 | 2025-07-23 |  |
 | [Miss You](https://open.spotify.com/track/0N2yLGwPZFb3K9JZRfJbCW) | [Other Phantom](https://open.spotify.com/artist/5kcDonGebmj0ZGi8e2PCf7) | [Miss You](https://open.spotify.com/album/4SXt6Ns8JE6n4FAxo0N32m) | 2:34 | 2025-05-13 |  |
 | [Moonlight Reverie](https://open.spotify.com/track/36EU3fJ39ihd5ZBOlf7Gc9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Moonlight Reverie](https://open.spotify.com/album/6YHNXDLHpCMJW7GMNkvHN1) | 2:54 | 2025-05-13 |  |
 | [Morpheus](https://open.spotify.com/track/72T19csQhfZSmIPfIxn9Hu) | [Slumber Boy](https://open.spotify.com/artist/5C6uOkvMPOZjPLDLwLga7n) | [Morpheus](https://open.spotify.com/album/1BQgjIdPw0NcCJrVZzmMN4) | 2:40 | 2025-05-13 |  |
@@ -146,6 +149,7 @@
 | [Second Coming](https://open.spotify.com/track/0TQaGzrfAUJ69TxEHdqPoc) | [Rholdyn](https://open.spotify.com/artist/4ktfzrkBglLNINMa5B6yEQ) | [Second Coming](https://open.spotify.com/album/0kNdUbDTATswhc2W8w1tBW) | 3:13 | 2025-05-13 |  |
 | [Sense](https://open.spotify.com/track/1uId9bs7ByBNCdiKALuDa3) | [Noble S](https://open.spotify.com/artist/16I5ZrxxRz1JXlj8emMyKU) | [Sense](https://open.spotify.com/album/4NzBXoDrdZUoB4m3nykMD2) | 3:16 | 2025-05-13 |  |
 | [Silent Radiance](https://open.spotify.com/track/7egeoxBW8HTYgDs8fC3om4) | [Universal Embrace](https://open.spotify.com/artist/5gHFFsg1nxyuK4dwL7eEpY) | [Silent Radiance](https://open.spotify.com/album/12JBg89BnbiQqw2HBdkjt0) | 2:48 | 2025-05-13 |  |
+| [Silkki](https://open.spotify.com/track/6Eto7WwVBdcbP6PsJh7bMK) | [Labyrinthines](https://open.spotify.com/artist/3DWANz0CtvzLItCcONSdQQ) | [Silkki](https://open.spotify.com/album/2ITgGCUBvG2lWw9Y9cilBG) | 2:47 | 2025-07-23 |  |
 | [Silver Orbital](https://open.spotify.com/track/4PGxyTwErYQRE3kFWDZcka) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Silver Orbital](https://open.spotify.com/album/3WqaWT0QflQvwHJgGnb5LA) | 3:03 | 2025-05-13 |  |
 | [Silver Shadow](https://open.spotify.com/track/4NkoscxEk5YNjX0tyIjFi0) | [Hirenth](https://open.spotify.com/artist/6HmKHf9wtZ2IR9LT2U2dW4) | [Silver Shadow](https://open.spotify.com/album/0rbIcwpWK5pBK4epofQEH7) | 2:41 | 2025-05-13 |  |
 | [Skyros](https://open.spotify.com/track/2QlArTbF5oX223uWlvdDBM) | [Pillow Dalliance](https://open.spotify.com/artist/6DM6WLvwOHMENEbAd4jbFN) | [Skyros](https://open.spotify.com/album/3FqhhiBA8NR7fxAA7aMk4J) | 3:04 | 2025-05-13 |  |
@@ -156,6 +160,7 @@
 | [Sova](https://open.spotify.com/track/0aRsStJ9thnpiSPL4cHazY) | [Oak Signum](https://open.spotify.com/artist/778Jcgt9K46ugLXd2DgsKy) | [Sova](https://open.spotify.com/album/5SMakHDUPZnxnQEcCrJquj) | 2:47 | 2025-05-13 |  |
 | [Sparrow Delta 68 Hz \- 71 Hz](https://open.spotify.com/track/4saUdtxUbXP06VC71JW0ef) | [Apaxx](https://open.spotify.com/artist/2myI6PZzbUdW5T4TXdmYU0) | [Sparrow Delta 68 Hz \- 71 Hz](https://open.spotify.com/album/47pIsTgpuxa2xZamadYuG9) | 2:58 | 2025-05-27 |  |
 | [Spirits of Azure](https://open.spotify.com/track/4Yp7BY1uAR2YmNH8aR0CMO) | [Rikkas](https://open.spotify.com/artist/592JIjWn1a5it1yHnV48Us) | [Spirits of Azure](https://open.spotify.com/album/3TwvJuJtfXw7s3y0Sjc6DC) | 2:42 | 2025-05-13 |  |
+| [Stardust Rain](https://open.spotify.com/track/1qzvDxhYZt9G6AbY88KEHj) | [Mirelio](https://open.spotify.com/artist/6HwQXwozxzsGeHM56IUJCm) | [Stardust Rain](https://open.spotify.com/album/7h7qjyb6Pd5MqTe6Zhbtcb) | 2:26 | 2025-07-23 |  |
 | [Stardust Swimmer](https://open.spotify.com/track/3mUSKhO1qRrCrdem0VAYh2) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Stardust Swimmer](https://open.spotify.com/album/6qm6n44iypDFcspqF5Q9T8) | 2:44 | 2025-05-13 |  |
 | [Starry](https://open.spotify.com/track/7gqOZAeyEpffrDXzV0ASmI) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Starry](https://open.spotify.com/album/6lU4ESpDJFPnVagGvHaJB0) | 2:54 | 2025-06-23 |  |
 | [Starswept Silence](https://open.spotify.com/track/1wZpqXXgn6Gc6kew22aB7x) | [Elliott Duncan](https://open.spotify.com/artist/2QoOKA3eotuERltYH8cThZ) | [Starswept Silence](https://open.spotify.com/album/4pdUfy4vbS8Az7ImMzrFXq) | 2:57 | 2025-05-13 |  |

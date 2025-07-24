@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280550,
+  "num_followers": 280539,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAA9MYLUhDbs0awOe9AydPBf",
+  "snapshot_id": "aH7UgAAAAACUmbM6UAJiSHa7lzqadIFY",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vira Lata",
+        "url": "https://open.spotify.com/album/1073rEb0vN7ZPBc2Fcs1ph"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 130978,
+      "name": "Vira Lata",
+      "url": "https://open.spotify.com/track/610qP5fEpQMv7gzyLipesZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -99,26 +119,6 @@
       "duration_ms": 306281,
       "name": "DEIXA ESTAR",
       "url": "https://open.spotify.com/track/1h1uyRSbfQYgckDfb9EeyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vira Lata",
-        "url": "https://open.spotify.com/album/1073rEb0vN7ZPBc2Fcs1ph"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 130978,
-      "name": "Vira Lata",
-      "url": "https://open.spotify.com/track/610qP5fEpQMv7gzyLipesZ"
     },
     {
       "added_at": null,
@@ -839,6 +839,66 @@
     {
       "added_at": null,
       "album": {
+        "name": "Filhos do Arco-\u00cdris - Single",
+        "url": "https://open.spotify.com/album/0232VL1wkzBlLNsgCKiFrY"
+      },
+      "artists": [
+        {
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        },
+        {
+          "name": "Paulo Miklos",
+          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
+        },
+        {
+          "name": "Faf\u00e1 de Bel\u00e9m",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+        },
+        {
+          "name": "Luiza Possi",
+          "url": "https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq"
+        },
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        },
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/6aYrxmkJqzMJ5wWKFKRDiw"
+        },
+        {
+          "name": "Alice Caymmi",
+          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Kell Smith",
+          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
+        },
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "duration_ms": 128225,
+      "name": "Filhos do Arco-\u00cdris",
+      "url": "https://open.spotify.com/track/1lhgFSJoZSPiV8AmaJNdcl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PRISCILLA",
         "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
       },
@@ -923,6 +983,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 179489,
+      "name": "\u00c2nsia",
+      "url": "https://open.spotify.com/track/3KgZPCgxOKqOeR5VEZXK43"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
       },
@@ -939,22 +1015,6 @@
       "duration_ms": 158664,
       "name": "N\u00e3o \u00e9 Papel de Homem - Ao Vivo",
       "url": "https://open.spotify.com/track/01a0s6oTQ1ZgmYCafcyu8I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 179489,
-      "name": "\u00c2nsia",
-      "url": "https://open.spotify.com/track/3KgZPCgxOKqOeR5VEZXK43"
     },
     {
       "added_at": null,
@@ -995,26 +1055,6 @@
       "duration_ms": 192456,
       "name": "Caliente (feat. Pabllo Vittar)",
       "url": "https://open.spotify.com/track/75V0RdaCFKsQZX91mI9AD3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 158544,
-      "name": "Trago seu Amor de Volta (feat. Dilsinho)",
-      "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
     }
   ],
   "unique_name": "This Is Pabllo Vittar",

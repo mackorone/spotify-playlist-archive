@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "Celebrating 10 years of the best new music by Experimental independent artists and labels. <a href=\"spotify:artist:4EHUvmDJ3eLI7PhYyTe66f\">Amanda Mur</a> on cover. Artwork by Thami Nabil",
+  "description": "Celebrating 10 years of the best new music by Experimental independent artists and labels. <a href=\"spotify:artist:2fyKy2t7OhlAGDzFSBTxC9\">Ahmet Ali Arslan</a> on cover. Artwork by Thami Nabil",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -4344,6 +4344,24 @@
       "duration_ms": 298745,
       "name": "Benton Harbor",
       "url": "https://open.spotify.com/track/4ZkxUehqoqnpKUr98xOATF"
+    },
+    {
+      "album": {
+        "name": "Bessing",
+        "url": "https://open.spotify.com/album/4cH0Hi8lerqMIbV13twAID"
+      },
+      "artists": [
+        {
+          "name": "KUNTARI",
+          "url": "https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313256,
+      "name": "Bessing",
+      "url": "https://open.spotify.com/track/12uBMQKWXmxvzxHQv1xhUm"
     },
     {
       "album": {
@@ -12852,6 +12870,24 @@
       "duration_ms": 438499,
       "name": "Free Soul",
       "url": "https://open.spotify.com/track/7pljs8w88hJuYh0dSAgwXb"
+    },
+    {
+      "album": {
+        "name": "From Tbilisi",
+        "url": "https://open.spotify.com/album/33Yjkz3VJGZTcRZkzQs4rj"
+      },
+      "artists": [
+        {
+          "name": "Passepartout Duo",
+          "url": "https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231715,
+      "name": "From Tbilisi",
+      "url": "https://open.spotify.com/track/6AlRNw78ZzZqwQUYBk8cXY"
     },
     {
       "album": {
@@ -24732,7 +24768,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 157623,
       "name": "part of u",
       "url": "https://open.spotify.com/track/19o5GQI0U3EVf0HbCvavqf"
@@ -24934,6 +24970,24 @@
       "duration_ms": 199000,
       "name": "Penetraci\u00f3n",
       "url": "https://open.spotify.com/track/5lx2oEML9ZXAuhAzATmHPT"
+    },
+    {
+      "album": {
+        "name": "Peronospera",
+        "url": "https://open.spotify.com/album/2QxFIXJB8u6hLTm0xauquL"
+      },
+      "artists": [
+        {
+          "name": "DDUMA",
+          "url": "https://open.spotify.com/artist/0IpuoeEIxyOxBICJVARGzG"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183506,
+      "name": "Peronospera",
+      "url": "https://open.spotify.com/track/20Inl2dtYzvW7PekmKHOX5"
     },
     {
       "album": {
@@ -25820,7 +25874,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 259555,
       "name": "PP#1",
       "url": "https://open.spotify.com/track/7wjPWOClyMeZuMWYEFn2Du"
@@ -27848,7 +27902,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 319389,
       "name": "Sailor (for fin)",
       "url": "https://open.spotify.com/track/4SpCTPA8q945CyUwi3fJVt"
@@ -30101,6 +30155,28 @@
     },
     {
       "album": {
+        "name": "Call Me Resurging",
+        "url": "https://open.spotify.com/album/7yuXQ3WAIR8JDvS5DzAP12"
+      },
+      "artists": [
+        {
+          "name": "Brucher\u00f2 nei pascoli",
+          "url": "https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg"
+        },
+        {
+          "name": "Sophia the Robot",
+          "url": "https://open.spotify.com/artist/3KPQiukbLYdCSdzDR8mYVs"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127875,
+      "name": "SOPHIA",
+      "url": "https://open.spotify.com/track/4cWLextkahfaw1YYlPRKiV"
+    },
+    {
+      "album": {
         "name": "Boy Meets the World",
         "url": "https://open.spotify.com/album/4YHVuICEvNju4zdPen0Zkz"
       },
@@ -32246,10 +32322,6 @@
         {
           "name": "Editrix",
           "url": "https://open.spotify.com/artist/114Z5iDTpNa5tbPNSUMCre"
-        },
-        {
-          "name": "Wendy Eisenberg",
-          "url": "https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi"
         }
       ],
       "date_added": "2025-06-13",
@@ -34622,7 +34694,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 230852,
       "name": "Tres",
       "url": "https://open.spotify.com/track/2xGt7oyNvPCt9I2XuhB33n"

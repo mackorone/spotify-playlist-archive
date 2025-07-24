@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 232279,
       "name": "20 Se 30",
       "url": "https://open.spotify.com/track/6u3subExrF1aKMxRtmaEwk"
@@ -466,10 +466,28 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 194723,
       "name": "Bepanaahh",
       "url": "https://open.spotify.com/track/56D5WzK1l3VT6gWFVMvqtQ"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/0ExgP2688LprduMofZctqA"
+      },
+      "artists": [
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125783,
+      "name": "Beqadaran",
+      "url": "https://open.spotify.com/track/6d0gsj7yBS0MqWgIkfVFNG"
     },
     {
       "album": {
@@ -2212,12 +2230,12 @@
       },
       "artists": [
         {
-          "name": "Goldie Sohel",
-          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
-        },
-        {
           "name": "Asees Kaur",
           "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
         }
       ],
       "date_added": "2025-07-18",
@@ -3002,12 +3020,16 @@
           "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
         },
         {
-          "name": "Armaan Sharma",
-          "url": "https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi"
+          "name": "Armaan Lahoria",
+          "url": "https://open.spotify.com/artist/4KLQtsULex87FN5sg05g8C"
         },
         {
           "name": "Himesh Reshammiya",
           "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Armaan Sharma",
+          "url": "https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi"
         },
         {
           "name": "Shabbir Ahmed",
@@ -3322,6 +3344,28 @@
       "duration_ms": 237024,
       "name": "Zamaana Lage - Rewind (From \"Metro ... In Dino\")",
       "url": "https://open.spotify.com/track/7qiMLZ0fpTP5OMewYAo3Tn"
+    },
+    {
+      "album": {
+        "name": "Zaroori",
+        "url": "https://open.spotify.com/album/3dRAFi5yf1iC25WTz9LTBm"
+      },
+      "artists": [
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        },
+        {
+          "name": "Reverse Prodigy",
+          "url": "https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101721,
+      "name": "Zaroori",
+      "url": "https://open.spotify.com/track/639mTbZQtyB943hXWueUm7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd8cOUiye1o2"

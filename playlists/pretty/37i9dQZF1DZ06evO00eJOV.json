@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36846,
+  "num_followers": 36843,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAC+6Sfs/2Ip+nUIMZvunYVy",
+  "snapshot_id": "aH7UgAAAAACwwx4MoabttjDPG/1T34SN",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ag Shame Lovey (Live Remixed)",
-        "url": "https://open.spotify.com/album/0dGDWDL5KogcG3f5DGH744"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 319146,
-      "name": "Ag Shame Lovey",
-      "url": "https://open.spotify.com/track/2AHfwp6WJIYDVu2ZM4MlMS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amadlozi",
         "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gimme Some Volume",
-        "url": "https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO"
+        "name": "Ag Shame Lovey (Live Remixed)",
+        "url": "https://open.spotify.com/album/0dGDWDL5KogcG3f5DGH744"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 301986,
-      "name": "Matshidiso",
-      "url": "https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF"
+      "duration_ms": 319146,
+      "name": "Ag Shame Lovey",
+      "url": "https://open.spotify.com/track/2AHfwp6WJIYDVu2ZM4MlMS"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 331466,
       "name": "Party Time - Kuya Ngokuthi Ungubani",
       "url": "https://open.spotify.com/track/1BNqCfgKVNePaG8AKR1qzw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gimme Some Volume",
+        "url": "https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 301986,
+      "name": "Matshidiso",
+      "url": "https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF"
     },
     {
       "added_at": null,

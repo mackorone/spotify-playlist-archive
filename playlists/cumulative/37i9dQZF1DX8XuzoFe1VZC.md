@@ -4,7 +4,7 @@
 
 > ¡Una inyección de alegría para tus mañanas!
 
-403 songs - 20 hr 26 min
+404 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Cuando Tus Ojos Me Ven](https://open.spotify.com/track/6IoFhWzXm4vMs7YaKrzR2Y) | [uni](https://open.spotify.com/artist/6jeR6yw4TRocXdVOj603mW) | [Cuando Tus Ojos Me Ven](https://open.spotify.com/album/6lfXpaBMaT6JMBqFXOeAoR) | 2:58 | 2024-03-22 | 2024-03-30 |
 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-03-31 | 2025-07-18 |
 | [Daily](https://open.spotify.com/track/75EUTWAAgjjKbhA4nMdeZj) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [Daily](https://open.spotify.com/album/78cwnzEZHkGh1i0YNLefLX) | 2:46 | 2024-05-17 | 2024-06-01 |
+| [DAISIES](https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S) | 2:56 | 2025-07-23 |  |
 | [Dama](https://open.spotify.com/track/2LRlONnL2PJxCMumJ4dzHZ) | [joelle](https://open.spotify.com/artist/3PDji1lPMrS6awaEbXwa45) | [Dama](https://open.spotify.com/album/0Km5dQHnEQTITFHFlcChHB) | 2:45 | 2023-09-01 | 2023-09-28 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-26 | 2023-10-07 |
 | [DE LUNES A LUNES](https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DE LUNES A LUNES](https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9) | 3:08 | 2023-12-06 | 2024-09-21 |
@@ -325,7 +326,7 @@
 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 | 2023-05-26 | 2023-10-09 |
 | [Sin Querer](https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Sin Querer](https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx) | 2:21 | 2024-01-08 | 2025-01-30 |
 | [SINCERAMENTE](https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:19 | 2023-11-10 | 2024-01-09 |
-| [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/album/2j4yf0X00zieL424k90UVn) | 3:37 | 2023-12-15 |  |
+| [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/album/2j4yf0X00zieL424k90UVn) | 3:37 | 2023-12-15 | 2025-07-24 |
 | [Smart](https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Smart \(Remixes\)](https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh) | 2:46 | 2024-04-05 | 2024-08-17 |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2023-03-31 |  |
 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 | 2025-07-18 |  |

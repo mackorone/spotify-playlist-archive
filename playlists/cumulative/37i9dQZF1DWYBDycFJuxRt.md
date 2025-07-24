@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: RADWIMPS \*👉 <a href="https://spice.eplus.jp/articles/339374">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: RADWIMPS \*👉 <a href="https://spice.eplus.jp/articles/339533">連動記事</a>をSPICEでチェック!
 
-11,347 songs - 29 day 13 hr 28 min
+11,349 songs - 29 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [2025/6/4 Mrs\. GREEN APPLEがカバー！ニューアルバムをリリースしたanoからメッセージが到着！紫 今からのメッセージも！OvallのニューEP、CLAN QUEENのニューアルバム、Early Noiseアーティスト7coの新曲も！](https://open.spotify.com/episode/6JV0FV5nj82UsQxrp0NgFy) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 31:28 | 2025-06-04 | 2025-06-11 |
 | [2025/7/16 Vaundy「再会」がリリース！STUTS on the WAVEへのインタビューも！Awich × Ferg × Lupe Fiasco、Kroi、PAS TASTAが楽曲提供したももクロ新曲もピックアップ！](https://open.spotify.com/episode/6Aa69jzzNBu8UPHTPmLrj9) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 45:48 | 2025-07-16 | 2025-07-23 |
 | [2025/7/2 アイナ・ジ・エンドが新曲をリリース！SuchmosのニューEPも！JP THE WAVYのニューミックステープ、Early Noiseアーティストreinaのニューアルバム、日本人アーティストとして初めて『NPR Music Tiny Desk Concerts』に出演したさかいゆうのセッションEPもピックアップ！超ときめき♡宣伝部からのメッセージも到着！](https://open.spotify.com/episode/2mtu0hou5IGb3VSlLqRSUz) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 28:25 | 2025-07-02 | 2025-07-09 |
+| [2025/7/23 RADWIMPSが「命題」をリリース！ziproom × SamRecks、LEX、あいみょん、NulbarichのJQが“Jeremy Quartus”名義で始動した新曲もピックアップ！](https://open.spotify.com/episode/1PpLHx2tXPPQfFeu1wvGqd) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:02 | 2025-07-23 |  |
 | [2025/7/9 KID FRESINOが新曲をリリース！Creepy Nutsの新曲、PUNPEE & BIMのコラボEPも！Furui Riho初のアニメ主題歌や、RADWIMPSの野田洋次郎が書き下ろしたSixTONES の新曲もピックアップ！jo0jiからメッセージも到着！](https://open.spotify.com/episode/4K4HDQ9M5k7yNTP05FAxlF) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 24:53 | 2025-07-09 | 2025-07-16 |
 | [2043](https://open.spotify.com/track/42IgqSzvHhQElRxwOODYSc) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [2043](https://open.spotify.com/album/6tZvb95vFFg5CSmc3LefQv) | 3:50 | 2025-07-15 | 2025-07-23 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
@@ -4849,7 +4850,7 @@
 | [Oujitsu](https://open.spotify.com/track/7l1U8t0MjRDFkQyJuTP6rJ) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Kimi ni Mita Kisetsu](https://open.spotify.com/album/76m0A0Q2uRcOh5bZ5pxR9i) | 3:42 | 2024-02-14 | 2024-02-21 |
 | [Our Broken Promises](https://open.spotify.com/track/0RejMmu9HKED4JvhyShW9A) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Our Broken Promises](https://open.spotify.com/album/3Bb7TlncLQAB3O3d0l1wiu) | 4:09 | 2025-02-25 | 2025-03-05 |
 | [Our Diary](https://open.spotify.com/track/6oGmBP13Gig2kIX2asUtwh) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Hi\-Five](https://open.spotify.com/album/70qmApIGlCP14ch1ZICGRx) | 2:55 | 2024-08-27 | 2024-09-04 |
-| [OUR HEAVEN \- feat\. Daichi Yamamoto](https://open.spotify.com/track/5PrhjJFjOBkT0ZmzuH1Zu5) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [OUR HEAVEN \(feat\. Daichi Yamamoto\)](https://open.spotify.com/album/4SRNt4p7OQGGE2x6bNsZgu) | 4:00 | 2025-07-22 |  |
+| [OUR HEAVEN \- feat\. Daichi Yamamoto](https://open.spotify.com/track/5PrhjJFjOBkT0ZmzuH1Zu5) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [OUR HEAVEN \(feat\. Daichi Yamamoto\)](https://open.spotify.com/album/4SRNt4p7OQGGE2x6bNsZgu) | 4:00 | 2025-07-22 |  |
 | [Our last step](https://open.spotify.com/track/6MTxKdJ21VeHXfRJrBrccy) | [Ikkyu Nakajima](https://open.spotify.com/artist/6k2sSE14muOoOAv0dZ5soM) | [Our last step](https://open.spotify.com/album/6KKe0QesAZSOlRTk3rFmzu) | 3:54 | 2025-03-04 | 2025-03-12 |
 | [Our Life Is Always Right](https://open.spotify.com/track/5f1bMtJMhHD6v2HhtnfSEL) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [MAZQUERADE](https://open.spotify.com/album/2gTj6KswDtJHmPomUBQPjA) | 4:21 | 2024-10-15 | 2024-10-23 |
 | [Our Place](https://open.spotify.com/track/5NP138SXXvwjJUN9yhS1V1) | [EASTOKLAB](https://open.spotify.com/artist/2oP86D3OWdYeX1OG2chPuu) | [Our Place](https://open.spotify.com/album/0LIiMRs1m29orPVNQf8jFD) | 4:22 | 2024-01-09 | 2024-01-17 |
@@ -5894,6 +5895,7 @@
 | [Skyline](https://open.spotify.com/track/4eKbNMZEejC4lWxkRaDyan) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Skyline](https://open.spotify.com/album/6MiQuUPf4xQK3QaVC2f7uO) | 3:57 | 2023-10-04 | 2023-10-11 |
 | [Skyline](https://open.spotify.com/track/5Y7I67xCLNaPTHvUP78AI2) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Skyline](https://open.spotify.com/album/6oKA6EIqSIXyFiDwPnVqwM) | 3:57 | 2023-10-03 | 2023-10-05 |
 | [Skyward](https://open.spotify.com/track/3GG9rhKjngX6bNBFd2XNCg) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Skyward](https://open.spotify.com/album/2TaNO86E7iyqoseUorsgdB) | 3:32 | 2024-10-29 | 2024-11-06 |
+| [SLAM DUNK](https://open.spotify.com/track/0dvPM5OyBYKAwoo5eszlCA) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/1pTD8hn63VyGChIfexGEw4) | 2:57 | 2025-07-23 |  |
 | [SLASH](https://open.spotify.com/track/4vzgKCxeHecT98TgQQN0qM) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH](https://open.spotify.com/album/4saEL9wBL0FnOTR1Rsjts5) | 3:11 | 2024-07-23 | 2024-07-31 |
 | [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-04-11 | 2023-04-19 |
 | [SLAVE](https://open.spotify.com/track/7MSYmY8f6LCzyXoZgZvdt6) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [SLAVE](https://open.spotify.com/album/7fMlquDTSmZwIHd29Op9C1) | 3:34 | 2024-10-01 | 2024-10-09 |

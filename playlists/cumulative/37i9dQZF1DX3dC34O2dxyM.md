@@ -2,7 +2,7 @@
 
 ### [Cuerdas Calmantes Para Bebés](https://open.spotify.com/playlist/37i9dQZF1DX3dC34O2dxyM)
 
-> 
+> Canciones de cuna relajantes con arpa y guitarra.
 
 345 songs - 10 hr 27 min
 

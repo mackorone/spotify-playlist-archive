@@ -4,7 +4,7 @@
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-136 songs - 6 hr 38 min
+137 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2025-07-18 |  |
 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 | 2025-07-18 |  |
 | [Follow The Waves](https://open.spotify.com/track/5kFHq6Z70bf8jKrHHOBfGS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Caden](https://open.spotify.com/artist/3g9TrS2xoUpvNJXvQejXYS) | [Follow The Waves](https://open.spotify.com/album/2w1u1N0UTUrv0sWF7y5ncy) | 2:50 | 2025-07-18 |  |
-| [Forever](https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Forever](https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e) | 3:58 | 2025-07-18 |  |
+| [Forever](https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Forever](https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e) | 3:58 | 2025-07-18 | 2025-07-24 |
 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 | 2025-07-18 |  |
 | [Freddie's Warmup](https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi) | [Freddie's Warmup](https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m) | 2:00 | 2025-07-18 |  |
 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2025-07-18 |  |
@@ -119,6 +119,7 @@
 | [Stars Will Align \- Zerb Remix](https://open.spotify.com/track/3k3jHDTVEo8N7FqByouw05) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy) | [Stars Will Align \(Zerb Remix\)](https://open.spotify.com/album/2uarBvl6p3yHwNGYDpJCEA) | 3:42 | 2025-07-18 |  |
 | [Still Into You](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Still Into You](https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5) | 2:31 | 2025-07-18 |  |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2025-07-18 |  |
+| [Summer](https://open.spotify.com/track/3FUbgm757qZE0pwJ9t9kQF) | [REWIND BE KIND](https://open.spotify.com/artist/3nwbc6lmUsJP2TfaCcMuZo) | [Summer](https://open.spotify.com/album/0ZmOuY4FEWPZQdmJKK1Dh5) | 3:29 | 2025-07-23 |  |
 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 | 2025-07-18 |  |
 | [Superrich](https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f), [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Superrich](https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh) | 2:59 | 2025-07-18 |  |
 | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/track/0D57lQnn110jGaup4NguSI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR) | 3:32 | 2025-07-18 |  |

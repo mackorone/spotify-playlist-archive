@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 118861,
+  "num_followers": 118891,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
+        "name": "Mango Groove",
+        "url": "https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb"
+      },
+      "artists": [
+        {
+          "name": "Mango Groove",
+          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+        }
+      ],
+      "duration_ms": 353266,
+      "name": "Special Star",
+      "url": "https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
         "name": "Neria",
         "url": "https://open.spotify.com/album/5B7lY3JZxODBU5wiC3q8E2"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 351053,
       "name": "Ndihamba Nawe",
       "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf"
-      },
-      "artists": [
-        {
-          "name": "Joni Haastrup",
-          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
-        }
-      ],
-      "duration_ms": 373333,
-      "name": "Greetings",
-      "url": "https://open.spotify.com/track/7lSNZV9U8D7BnzwTIM8zlG"
     }
   ],
   "unique_name": "Classic Afropop",

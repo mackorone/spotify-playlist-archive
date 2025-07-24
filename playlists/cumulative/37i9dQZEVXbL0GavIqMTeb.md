@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-1,347 songs - 3 day 2 hr 18 min
+1,348 songs - 3 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,7 +463,8 @@
 | [Fragancia \(with Jay Wheeler\)](https://open.spotify.com/track/3YNolHalg56UrvPabqw6JP) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Fragancia \(with Jay Wheeler\)](https://open.spotify.com/album/6IvNKfgj37xVwthEmXHcMK) | 3:57 | 2021-05-30 | 2021-07-26 |
 | [Freestyle 2](https://open.spotify.com/track/31sjR1a4RChnmDJxyspqUp) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V) | [Freestyle 2](https://open.spotify.com/album/1xJkLFwNBBNoKSnXfwJzwV) | 2:45 | 2023-11-30 | 2023-12-03 |
 | [Frente a La Chimenea](https://open.spotify.com/track/7ekLlhVAdxH6mRFoDlA1J3) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 1:54 | 2021-12-26 | 2024-12-28 |
-| [Fronteo](https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 3:23 | 2025-07-11 |  |
+| [Fronteo](https://open.spotify.com/track/0AXKoQuC2NQ8S2QRF0Gu02) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love and Sex](https://open.spotify.com/album/04NPh9S2gPzYveqlJYQ0V8) | 3:23 | 2025-07-23 |  |
+| [Fronteo](https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 3:23 | 2025-07-11 | 2025-07-24 |
 | [Frozen](https://open.spotify.com/track/77QG3r1epNDDdjRkt9sGSQ) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Frozen](https://open.spotify.com/album/6x7gJMo32x5117b9xm9Cco) | 2:19 | 2025-04-19 | 2025-05-04 |
 | [Fruto](https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:12 | 2023-10-06 | 2023-12-01 |
 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-07-16 | 2023-07-22 |

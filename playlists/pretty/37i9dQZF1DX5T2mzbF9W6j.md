@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,889 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,886 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 50 | [No co Ty](https://open.spotify.com/track/2riYbbQSpMG2rKL9uKHZn8) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [No co Ty](https://open.spotify.com/album/22xbCPIQgn3GtC218yfKBR) | 2:39 |
 | 51 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 |
 | 52 | [Dziewczyny Nie Płaczą](https://open.spotify.com/track/3HVcdH7cIOBYGsh274XadC) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Dziewczyny Nie Płaczą](https://open.spotify.com/album/3Ci1G2TzjXgOrIPIJMtCMW) | 3:16 |
-| 53 | [Flowers In The Water](https://open.spotify.com/track/1czfrD4LSjHFYHuYkzkrJK) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Flowers In The Water](https://open.spotify.com/album/6fOhPdyTl3T58HFWEXeqmw) | 2:22 |
-| 54 | [Błękit](https://open.spotify.com/track/2MCf7Lv6OKjbozB5U1YdNC) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Błękit](https://open.spotify.com/album/6AwIsJm2zgnyojCJXvQ1xM) | 2:28 |
+| 53 | [Błękit](https://open.spotify.com/track/2MCf7Lv6OKjbozB5U1YdNC) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Błękit](https://open.spotify.com/album/6AwIsJm2zgnyojCJXvQ1xM) | 2:28 |
+| 54 | [Flowers In The Water](https://open.spotify.com/track/1czfrD4LSjHFYHuYkzkrJK) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Flowers In The Water](https://open.spotify.com/album/6fOhPdyTl3T58HFWEXeqmw) | 2:22 |
 | 55 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 |
 | 56 | [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 |
 | 57 | [Little Dreaming](https://open.spotify.com/track/02B3AyjVkk7Z5Ktom1eH0q) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6FJ9yGyRou6MzvOePLeIJe) | 3:23 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 626363,
+  "num_followers": 627256,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 232760,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "The Best Of Don McLean",
-        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 515866,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Fantastic Boney M.",
@@ -1127,6 +1111,22 @@
       "duration_ms": 220733,
       "name": "Rasputin - Single Version",
       "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Best Of Don McLean",
+        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 515866,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Love For Sale",
@@ -1207,6 +1191,22 @@
       "duration_ms": 276080,
       "name": "Ma Baker",
       "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 394266,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "2nd Time Around (Expanded Edition)",
         "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 190058,
       "name": "It's A Shame",
       "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 394266,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1545,22 +1545,6 @@
       "url": "https://open.spotify.com/track/557cxXIeiwh03kI2F2jKdh"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Rockin' All Over The World",
-        "url": "https://open.spotify.com/album/5MsNoPWsiIbO6uz9KA6qDS"
-      },
-      "artists": [
-        {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
-        }
-      ],
-      "duration_ms": 215333,
-      "name": "Rockin' All Over The World",
-      "url": "https://open.spotify.com/track/6YlOxoHWLjH6uVQvxUIUug"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "The Ultimate Bee Gees",
@@ -1575,6 +1559,22 @@
       "duration_ms": 256453,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Rockin' All Over The World",
+        "url": "https://open.spotify.com/album/5MsNoPWsiIbO6uz9KA6qDS"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "Rockin' All Over The World",
+      "url": "https://open.spotify.com/track/6YlOxoHWLjH6uVQvxUIUug"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 413586,
-      "name": "I Want Your Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Main Course",
         "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 222266,
       "name": "Jive Talkin'",
       "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 413586,
+      "name": "I Want Your Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1837,22 +1837,6 @@
       "url": "https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "KC & the Sunshine Band",
-        "url": "https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 317160,
-      "name": "Get Down Tonight - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Go West In the Navy",
@@ -1867,6 +1851,22 @@
       "duration_ms": 339946,
       "name": "In the Navy - Original Version 1979",
       "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "KC & the Sunshine Band",
+        "url": "https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 317160,
+      "name": "Get Down Tonight - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1917,22 +1917,6 @@
       "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "I Remember Yesterday",
@@ -1947,6 +1931,22 @@
       "duration_ms": 355173,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "In The Right Place",
+        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Right Place Wrong Time",
+      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Let The Music Play",
-        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "You See The Trouble With Me",
-      "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "On The Radio: Greatest Hits Volumes I & II",
         "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 296506,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/5fKTkCOpnyJko7jZqpbJnX"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Let The Music Play",
+        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "You See The Trouble With Me",
+      "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx"
-      },
-      "artists": [
-        {
-          "name": "Thelma Houston",
-          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Don't Leave Me This Way",
-      "url": "https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "There Goes Rhymin' Simon",
         "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 213453,
       "name": "Loves Me Like a Rock",
       "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Don't Leave Me This Way",
+      "url": "https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "I Love The Way You Love",
-        "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
-      },
-      "artists": [
-        {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Clean up Woman",
-      "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
       },
@@ -2289,20 +2273,20 @@
       "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Never Can Say Goodbye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
+        "name": "I Love The Way You Love",
+        "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
       },
       "artists": [
         {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Never Can Say Goodbye - Single Version",
-      "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
+      "duration_ms": 169533,
+      "name": "Clean up Woman",
+      "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2319,6 +2303,22 @@
       "duration_ms": 265840,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Never Can Say Goodbye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Never Can Say Goodbye - Single Version",
+      "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
     },
     {
       "added_at": "2021-09-08 13:31:49",

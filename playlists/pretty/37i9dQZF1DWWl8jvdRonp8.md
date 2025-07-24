@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,542 likes - 125 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,667 likes - 125 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 62 | [Para Que No Te Vayas](https://open.spotify.com/track/2WMgMvIKhQW6LmkSCA5Ct6) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:16 |
 | 63 | [Nada Es Igual](https://open.spotify.com/track/3FPyEh683Et820zkVWHBoB) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:06 |
 | 64 | [Más Que Tu Amigo](https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:30 |
-| 65 | [Invéntame](https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:25 |
-| 66 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:48 |
+| 65 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:48 |
+| 66 | [Invéntame](https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:25 |
 | 67 | [Y Ahora Te Vas](https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:54 |
 | 68 | [Antes de Que Te Vayas](https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Antes de Que Te Vayas](https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0) | 3:25 |
 | 69 | [Mi Eterno Amor Secreto \(En Vivo\)](https://open.spotify.com/track/6u6d57Let06W838gmh7XKB) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Mi Eterno Amor Secreto \(En Vivo\)](https://open.spotify.com/album/1uvg6zk4qCvm9oOrt73Dmi) | 3:53 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 92 | [Morenita](https://open.spotify.com/track/5zfHspXrhASrnhkEOpxvAs) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 2:42 |
 | 93 | [Necesito Una Compañera](https://open.spotify.com/track/66W0CGvguqyyKN7P3O6vLg) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Contacto](https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE) | [Necesito Una Compañera](https://open.spotify.com/album/1OZ7ft4l7WygLuF8AUJ80A) | 4:02 |
 | 94 | [Prefiero Ir Sola](https://open.spotify.com/track/5volEhQzyrDIorTRnp4mrt) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 3:20 |
-| 95 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/6xQRigdALidNyqzQUM6m0A) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados \(Live Vol\. 2\)](https://open.spotify.com/album/3TKjCQA01ou9kAAYaXWZ2e) | 3:55 |
-| 96 | [Se Va Muriendo Mi Alma \- En Vivo](https://open.spotify.com/track/4VinpEidS9wmMuqmljyd21) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo Guadalajara \- Monterrey \(Live\)](https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6) | 3:51 |
+| 95 | [Se Va Muriendo Mi Alma \- En Vivo](https://open.spotify.com/track/4VinpEidS9wmMuqmljyd21) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo Guadalajara \- Monterrey \(Live\)](https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6) | 3:51 |
+| 96 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/6xQRigdALidNyqzQUM6m0A) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados \(Live Vol\. 2\)](https://open.spotify.com/album/3TKjCQA01ou9kAAYaXWZ2e) | 3:55 |
 | 97 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:03 |
 | 98 | [Cómo Me Haces Falta](https://open.spotify.com/track/1dtpnvjay5bEhEuui09YWx) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Colección de Covers, Vol\. 1](https://open.spotify.com/album/5wRMWOVabGtz0ulOwZMusZ) | 3:48 |
 | 99 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/6DWA4R2XGw2jY5xTZKpvl5) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359), [José Manuel Zamacona](https://open.spotify.com/artist/7w0DKxrmoa3RVWuvRWm35N) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 3:13 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 120 | [Ladrón De Buena Suerte](https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 3:31 |
 | 121 | [Para Que Seas Feliz](https://open.spotify.com/track/67v0HTNTkJmbhxOipBunXe) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Pleno Vuelo](https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9) | 4:49 |
 | 122 | [Así Como Te Conocí](https://open.spotify.com/track/6xQGFNUwaPUsdIfmmzzRcr) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Pleno Vuelo](https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9) | 4:19 |
-| 123 | [Si Te Pudiera Mentir](https://open.spotify.com/track/7ILswjhqdnwT4MiKBZH4yS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn) | 4:21 |
-| 124 | [Tres Semanas](https://open.spotify.com/track/1OqcfMMZrkxtQFRXFhk2j6) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tres Semanas](https://open.spotify.com/album/2St0cnAHnTIvGeigZz5wkJ) | 3:39 |
+| 123 | [Tres Semanas](https://open.spotify.com/track/1OqcfMMZrkxtQFRXFhk2j6) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tres Semanas](https://open.spotify.com/album/2St0cnAHnTIvGeigZz5wkJ) | 3:39 |
+| 124 | [Amor En Silencio](https://open.spotify.com/track/11GrRFFE78seg4g7IgOEZH) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn) | 3:55 |
 | 125 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:27 |
 
 Snapshot ID: `Z5J8qgAAAAABPH+hUiuYIn4vZmFNvQi2`

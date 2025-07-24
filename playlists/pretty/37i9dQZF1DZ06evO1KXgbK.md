@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,513 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,518 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 39 | [Harper Valley PTA](https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [In the Good Old Days \(When Times Were Bad\)](https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl) | 3:12 |
 | 40 | [Seasons](https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:23 |
 | 41 | [From Here to the Moon and Back \(feat\. Dolly Parton\)](https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [To All The Girls...](https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx) | 4:01 |
-| 42 | [In the Ghetto](https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [My Blue Ridge Mountain Boy](https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7) | 2:48 |
-| 43 | [9 to 5](https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 3:00 |
+| 42 | [9 to 5](https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 3:00 |
+| 43 | [In the Ghetto](https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [My Blue Ridge Mountain Boy](https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7) | 2:48 |
 | 44 | [Lookin' for You \(feat\. Dolly Parton\)](https://open.spotify.com/track/6tTCpZ6peX8JLSHNMn5RwB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Hundred Highways \(Extended Edition\)](https://open.spotify.com/album/1S5rpgQP1fxgEixwIvTEpf) | 3:46 |
 | 45 | [You Are](https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [New Harvest...First Gathering](https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H) | 5:15 |
 | 46 | [It Wasn't God Who Made Honky Tonk Angels](https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 49 | [The Story](https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Cover Stories: Brandi Carlile Celebrates 10 Years of the Story \(An Album to Benefit War Child\)](https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7) | 4:17 |
 | 50 | [The Pain of Loving You \- 2015 Remaster](https://open.spotify.com/track/3zQzQUYoDGIZOUM0BL84mM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 2:33 |
 
-Snapshot ID: `aH2DAAAAAADfjVtGAHus8qR7NGvOB6q3`
+Snapshot ID: `aH7UgAAAAABdgy4JMtLBgLeeUGQU+1n2`

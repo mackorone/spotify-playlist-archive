@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Dato' Sri Siti Nurhaliza, Ade Govinda, Yonnyboii, Malique, aespa, NCT DREAM, NAKI, Fahimi, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,970 likes - 127 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,974 likes - 127 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 62 | [因為你走過來](https://open.spotify.com/track/2OLp94hX626ZPbJWfmiIM8) | [Papaya Duck](https://open.spotify.com/artist/09uL1PjQRBf2t6HwcYLuPU), [啊飄](https://open.spotify.com/artist/5Nn2KsN0krn53NbG2P48fa) | [因為你走過來](https://open.spotify.com/album/23Yn1fD6aFJbsjocszVZSJ) | 3:42 |
 | 63 | [Alligator](https://open.spotify.com/track/6xZCTvGHffVbuUz8MkbuNG) | [Mischief at Midnight](https://open.spotify.com/artist/0i6dLUahkssH0RgFYXFnxP) | [Alligator](https://open.spotify.com/album/2UdpzXaj1RaHPRbquIyEeQ) | 4:17 |
 | 64 | [DR!P](https://open.spotify.com/track/5QJaEfphNcYAEGFGmkS3Rq) | [Danboy Studio](https://open.spotify.com/artist/28CBPsyK4uO1VfWeo6wk86) | [DR!P](https://open.spotify.com/album/0dy4xio2yL0fls5HU5J3OH) | 2:11 |
-| 65 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [KOKORO](https://open.spotify.com/artist/774S82ImwKNZaCkBxzHkQa) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
+| 65 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [KOKORO](https://open.spotify.com/artist/4gULOUdHcpIdWOO170i4E5) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
 | 66 | [Moonlight](https://open.spotify.com/track/3BZkqCUSLzozgQuvR5MW3q) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Moonlight](https://open.spotify.com/album/5zAYhgGJ1e3MopvwahvFQZ) | 2:33 |
 | 67 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 |
 | 68 | [Alone Together](https://open.spotify.com/track/6FdZ6ROBj0l3EpRW6NpCu0) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Top 5](https://open.spotify.com/album/08Qll2maWwJ3Siah405k7c) | 3:00 |

@@ -4,7 +4,7 @@
 
 > a little indie, a little pop\.  Cover: Thomas Day
 
-1,401 songs - 2 day 21 hr 45 min
+1,402 songs - 2 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -876,6 +876,7 @@
 | [Never Better](https://open.spotify.com/track/1pxgpwMbiIEMISagk9tLcV) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Never Better](https://open.spotify.com/album/6jOix6QfFFmpNXx3to7Sct) | 2:51 | 2024-07-26 | 2024-10-19 |
 | [Never Let Go](https://open.spotify.com/track/0nQbr0lYWUHWjeW7i1lscI) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Suddenly Okay](https://open.spotify.com/album/1Xuv9oEVILCRQ7j5iugfPs) | 2:36 | 2024-03-22 | 2024-04-27 |
 | [new friends](https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [new friends](https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt) | 2:45 | 2025-06-27 |  |
+| [New Heart](https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [New Heart](https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ) | 3:04 | 2025-07-23 |  |
 | [Next Semester](https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Next Semester](https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl) | 3:54 | 2024-03-29 | 2024-06-01 |
 | [nice to know you](https://open.spotify.com/track/5YgTlbMcCbpzwEA8D67rxM) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [nice to know you](https://open.spotify.com/album/2RN6cPRMmz7KzCQAdEo9Xp) | 3:15 | 2024-01-05 | 2024-03-16 |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-11 | 2025-02-22 |
@@ -1214,7 +1215,7 @@
 | [The Ballet Girl](https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3) | 3:21 | 2023-01-06 | 2023-03-25 |
 | [The Basics Are Coming Back](https://open.spotify.com/track/0LVjkXEJaDB4xRfsz6CUgB) | [0171](https://open.spotify.com/artist/134QvSuQi0iORVoQQHqXqX) | [The Basics Are Coming Back / Burnout](https://open.spotify.com/album/23x0JjCIYxQkBcASjtskM1) | 3:38 | 2022-03-11 | 2022-03-18 |
 | [The Beginning of Us](https://open.spotify.com/track/2qnNiVC07rM5gxzL9f0mgE) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [The Beginning of Us](https://open.spotify.com/album/4MeY1nCrurVL8oCRNWCBzm) | 2:18 | 2025-06-13 | 2025-07-19 |
-| [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 | 2025-05-16 |  |
+| [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 | 2025-05-16 | 2025-07-24 |
 | [the chase](https://open.spotify.com/track/2oeKs07xK7pO5b7Nxq9zOj) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [the chase](https://open.spotify.com/album/5IWhQ0YxYt1SRc6QODGWKv) | 3:25 | 2022-05-06 | 2022-07-23 |
 | [The Curse](https://open.spotify.com/track/0w1jfF6OgO3cpg8Mc74yfT) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [The Curse](https://open.spotify.com/album/3tdSVisnG7oFhR4pQE5eiI) | 3:46 | 2022-02-25 | 2022-03-26 |
 | [The DJ Is Crying For Help](https://open.spotify.com/track/2fihoO76h66Hio6noF4tQD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The DJ Is Crying For Help](https://open.spotify.com/album/09XyW9pKOCq5Cqq7IITKDB) | 3:40 | 2022-11-18 | 2023-01-28 |

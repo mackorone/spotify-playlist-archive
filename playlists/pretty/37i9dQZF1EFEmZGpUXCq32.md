@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123 likes - 97 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 122 likes - 97 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,11 +99,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 89 | [Walkin](https://open.spotify.com/track/6PHsbjxjYxS9LH5IXW1Xrm) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 6:20 |
 | 90 | [Back When](https://open.spotify.com/track/3k7iWFyEWddfdOSgOgml2t) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 6:18 |
 | 91 | [Nana](https://open.spotify.com/track/3Vu6IeMndcUxdHwKSVbWzM) | [TaRon Lockett](https://open.spotify.com/artist/7n1oDpup4X3kpznXeZy3YL), [B.Slade](https://open.spotify.com/artist/03lJ2xTQTFzBknVjb0FJUt), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Nana](https://open.spotify.com/album/2rOv7QlQ8c6NP51vmSu9DS) | 1:40 |
-| 92 | [Look at the Bright Side](https://open.spotify.com/track/6OayOjfbGTWL498FQl7ENx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 7:46 |
-| 93 | [Blossoming](https://open.spotify.com/track/5qLfXhIURYTGvXi0R3X65J) | [Sadhguru](https://open.spotify.com/artist/0zbbPqp65ZqlfmcshStDNQ) | [Eternal Echoes](https://open.spotify.com/album/6EM63wmKINZdwud5zUiOmb) | 1:12 |
+| 92 | [Blossoming](https://open.spotify.com/track/5qLfXhIURYTGvXi0R3X65J) | [Sadhguru](https://open.spotify.com/artist/0zbbPqp65ZqlfmcshStDNQ) | [Eternal Echoes](https://open.spotify.com/album/6EM63wmKINZdwud5zUiOmb) | 1:12 |
+| 93 | [Look at the Bright Side](https://open.spotify.com/track/6OayOjfbGTWL498FQl7ENx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 7:46 |
 | 94 | [I'm On Your Side](https://open.spotify.com/track/5qLAEju8e3dTbo7526FVnZ) | [Lena Byrd Miles](https://open.spotify.com/artist/6ZI4O5cl4ieBP4IQdH0fYP) | [Brand New](https://open.spotify.com/album/7palBk6YrLey31q9FcuTO4) | 5:03 |
 | 95 | [Where'd You Go](https://open.spotify.com/track/0UzISy5ELKspiS6I80xd6J) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 5:10 |
 | 96 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
 | 97 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `Ab3fSAAAAAC0J+AWCUMB8rqx6DAIqBYB`
+Snapshot ID: `Ab3k3gAAAADgQVyWaMdjoJphR2V7D/y+`

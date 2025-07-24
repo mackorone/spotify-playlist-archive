@@ -1,12 +1,12 @@
 {
   "description": "This is Young Scooter. The essential tracks, all in one playlist.",
-  "num_followers": 4454,
+  "num_followers": 4455,
   "original_name": "This Is Young Scooter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAACmFo6ltAt92i2HqVrsm3O8",
+  "snapshot_id": "aH7UgAAAAADeTuGqFVj8YGBzHAowq/Rt",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 190824,
-      "name": "Drug Deals",
-      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trap God 2",
         "url": "https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 190824,
+      "name": "Drug Deals",
+      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Pledge Allegiance to the Trap, Vol. 5",
         "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
       },
@@ -775,30 +775,6 @@
       "duration_ms": 185077,
       "name": "Imma Ball Forever",
       "url": "https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zaystreet",
-        "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Zaytoven",
-          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 209099,
-      "name": "Black Migo",
-      "url": "https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS"
     },
     {
       "added_at": null,
@@ -839,6 +815,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zaystreet",
+        "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 209099,
+      "name": "Black Migo",
+      "url": "https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Astronaut Status",
         "url": "https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA"
       },
@@ -859,26 +859,6 @@
       "duration_ms": 264946,
       "name": "Birds Take a Bath",
       "url": "https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Young Jefe",
-        "url": "https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q"
-      },
-      "artists": [
-        {
-          "name": "Shy Glizzy",
-          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 213773,
-      "name": "Medellin (feat. Young Scooter)",
-      "url": "https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL"
     },
     {
       "added_at": null,
@@ -923,6 +903,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Young Jefe",
+        "url": "https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q"
+      },
+      "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "Medellin (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
       },
@@ -959,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Peewee Longway",
+          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
+        }
+      ],
+      "duration_ms": 146571,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/7uBxxv1fY6JodMDIuEDUxd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 267867,
       "name": "Both Sides (feat. Future & Young Thug)",
       "url": "https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Peewee Longway",
-          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
-        }
-      ],
-      "duration_ms": 146571,
-      "name": "Touchdown",
-      "url": "https://open.spotify.com/track/7uBxxv1fY6JodMDIuEDUxd"
     },
     {
       "added_at": null,

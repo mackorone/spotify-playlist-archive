@@ -5279,6 +5279,28 @@
     },
     {
       "album": {
+        "name": "Kwechiri",
+        "url": "https://open.spotify.com/album/4ASycUKDxU8xOuDcZYlaTB"
+      },
+      "artists": [
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        },
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Kwechiri",
+      "url": "https://open.spotify.com/track/5IVsnrFCDaMLWh8VdlFLJ7"
+    },
+    {
+      "album": {
         "name": "Lead Me",
         "url": "https://open.spotify.com/album/4s1WzWFA2sLNCUGdfkdxNy"
       },
@@ -5480,7 +5502,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 201100,
       "name": "Look To Me",
       "url": "https://open.spotify.com/track/1VFaJ2a2yVPbjTAkDBxSdn"

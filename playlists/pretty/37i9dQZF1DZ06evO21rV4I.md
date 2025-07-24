@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,615 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,654 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 46 | [Electric \(feat\. Wizkid & London\)](https://open.spotify.com/track/2g59YEtG3OZq3lp4eDj97p) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [London](https://open.spotify.com/artist/48XO5sXDsZ0NgyVmGT5qxW) | [SoundMan Vol\. 1](https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY) | 2:58 |
 | 47 | [Money & Love](https://open.spotify.com/track/213Ymlnss7DUsqG7Ut1HW0) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:11 |
 | 48 | [Ma Lo](https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Spellz](https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J) | [Sugarcane](https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo) | 3:02 |
-| 49 | [Bella](https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 3:03 |
-| 50 | [Work Me Out \(with Wizkid\)](https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:42 |
+| 49 | [Work Me Out \(with Wizkid\)](https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:42 |
+| 50 | [Bella](https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 3:03 |
 
-Snapshot ID: `aH2DAAAAAABYeSblN/b6ENY5lnjy9a4G`
+Snapshot ID: `aH7UgAAAAABFFI9Ldm22GbEQpKSP5ubm`

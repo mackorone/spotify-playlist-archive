@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,269 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,374 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 50 | [Khoobsurat](https://open.spotify.com/track/1besAjT4S4E0TbBPulgqs2) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Stree 2](https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU) | 4:04 |
 | 51 | [Iktara \(From "Wake Up Sid"\)](https://open.spotify.com/track/0bmp0lE3ArELHqda9PBMVG) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [I Love You...Forever](https://open.spotify.com/album/3v8bVKuoU4pdMhMx0hStRN) | 4:13 |
 | 52 | [Ve Kamleya \- Asees Version](https://open.spotify.com/track/0t13TDloNQhmFFLOa4bMhs) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Ve Kamleya \- Asees Version](https://open.spotify.com/album/4rFLZ85c7DH7p7dTzMYanE) | 3:00 |
-| 53 | [O'Meri Laila \- Radio Version](https://open.spotify.com/track/0w82o6lVX8ENxGjWBecP4D) | [Joi Barua](https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v) | [Laila Majnu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO) | 3:11 |
-| 54 | [Timro Pratiksa](https://open.spotify.com/track/5nQA7m7xypeL7dFaGRwJO5) | [Shallum Lama](https://open.spotify.com/artist/4ufyGQgkJxP92QPasJAmMv) | [Timro Pratiksa](https://open.spotify.com/album/1aWGF7IgGYgc9Hmf857WmZ) | 4:01 |
+| 53 | [Timro Pratiksa](https://open.spotify.com/track/5nQA7m7xypeL7dFaGRwJO5) | [Shallum Lama](https://open.spotify.com/artist/4ufyGQgkJxP92QPasJAmMv) | [Timro Pratiksa](https://open.spotify.com/album/1aWGF7IgGYgc9Hmf857WmZ) | 4:01 |
+| 54 | [O'Meri Laila \- Radio Version](https://open.spotify.com/track/0w82o6lVX8ENxGjWBecP4D) | [Joi Barua](https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v) | [Laila Majnu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO) | 3:11 |
 | 55 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
 | 56 | [Khaabon Ke Parinday](https://open.spotify.com/track/14eotumM24MhIgzidgN3Jx) | [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 4:11 |
 | 57 | [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/track/7JJ9Q8QKrfauJWlZiol1Uf) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/album/4Nsj6qnnZXRs8YajlO6PGi) | 3:16 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 69 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
 | 70 | [Kitni Haseen Zindagi](https://open.spotify.com/track/7x5gwdWM7oc6aJ7ZXy9Vnw) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Aks](https://open.spotify.com/album/4GdcSSWz7wOn0ZtOHfmINr) | 4:15 |
 | 71 | [Dhaaga](https://open.spotify.com/track/4wUtptr1RLnHyTlkbUKutH) | [Nilotpal Bora](https://open.spotify.com/artist/2JexWjjyHRNgAiDXNn7rsV), [Hussain Haidry](https://open.spotify.com/artist/2iABRD4RXxrhfiO1TPdFvy) | [Aspirants: Season 1 \(Music From the TVF Original Series\)](https://open.spotify.com/album/3hFz046pdpJkSIGSXtG5jE) | 3:52 |
-| 72 | [Khayaal](https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khayaal](https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN) | 2:42 |
-| 73 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |
+| 72 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |
+| 73 | [Khayaal](https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khayaal](https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN) | 2:42 |
 | 74 | [Tu Aisa Kaise Hai?](https://open.spotify.com/track/7eadaD2SBArRbebB9CP70X) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Tu Aisa Kaise Hai?](https://open.spotify.com/album/27QAFD3cwZHqU6tVe9fA7T) | 3:34 |
 | 75 | [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 |
 

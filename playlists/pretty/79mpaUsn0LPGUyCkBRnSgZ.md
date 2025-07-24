@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 561 songs - 1 day 13 hr 10 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 567 songs - 1 day 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -565,9 +565,15 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 555 | [BUSY/SIRENS](https://open.spotify.com/track/5grLxdzdEocGbwXhYLohqy) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [CARE FOR ME](https://open.spotify.com/album/1crhG7YecAj6ZN0AAYMYsb) | 5:29 |
 | 556 | [Overflow](https://open.spotify.com/track/5kgCqrcWdh2ENYrEBpKzqr) | [Pat and the Pissers](https://open.spotify.com/artist/6Djxo4G9K55aRE1Nd2d62K) | [How It's Done](https://open.spotify.com/album/7J9T5PCqq9HzcgnuT5szHG) | 1:48 |
 | 557 | [woke up knowing everything \(opening theme\)](https://open.spotify.com/track/4N4uNJ3o2DQvs9IDPVOXNn) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [Neighborhood Gods Unlimited](https://open.spotify.com/album/5TgdklWQYwr3eTPmrmnn8t) | 3:09 |
-| 558 | [Watch My Hands](https://open.spotify.com/track/7q2sBotZw4bVLg8Hvkmbnb) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko) | [Magic, Alive!](https://open.spotify.com/album/0RXsRwX4iMCKkSFPoSs8Go) | 1:45 |
-| 559 | [Summer Sun](https://open.spotify.com/track/2palH1jCEezLsedTe5yk6m) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 2:32 |
-| 560 | [June Guitar](https://open.spotify.com/track/1leMmYw98725djni7wSYhq) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:52 |
-| 561 | [Five Dice](https://open.spotify.com/track/76SgK36IT8kYyRhy16ErSN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Five Dice, All Threes](https://open.spotify.com/album/7fA59NGyyUumdoTH3HmWav) | 1:39 |
+| 558 | [Welcome](https://open.spotify.com/track/0wFRKmul13N64vEEnKHO2a) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [SHINBANGUMI](https://open.spotify.com/album/6bgUdri7frTG9Aqo3Xusw7) | 0:40 |
+| 559 | [Watch My Hands](https://open.spotify.com/track/7q2sBotZw4bVLg8Hvkmbnb) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko) | [Magic, Alive!](https://open.spotify.com/album/0RXsRwX4iMCKkSFPoSs8Go) | 1:45 |
+| 560 | [Summer Sun](https://open.spotify.com/track/2palH1jCEezLsedTe5yk6m) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 2:32 |
+| 561 | [June Guitar](https://open.spotify.com/track/1leMmYw98725djni7wSYhq) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:52 |
+| 562 | [Five Dice](https://open.spotify.com/track/76SgK36IT8kYyRhy16ErSN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Five Dice, All Threes](https://open.spotify.com/album/7fA59NGyyUumdoTH3HmWav) | 1:39 |
+| 563 | [New York](https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:32 |
+| 564 | [Gone](https://open.spotify.com/track/7GB9nHKwwLs9mdbjErqK4H) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i) | 4:19 |
+| 565 | [The Wrong Way](https://open.spotify.com/track/36K1BobTaHN7g2pyrGqZKO) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Desperate Youth, Blood Thirsty Babes](https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx) | 4:38 |
+| 566 | [Quartz](https://open.spotify.com/track/0xXmPzAdGlPBaJ0csqYxYs) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 4:00 |
+| 567 | [TECHNOPOLIS（2018 Bob Ludwig Remastering）](https://open.spotify.com/track/2ZFSgNZWT6Jvp3nAc3ncJv) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [Solid State Survivor](https://open.spotify.com/album/5z480Ywi9Hn3EQV8N4UwEN) | 4:14 |
 
-Snapshot ID: `AAAHUd9pnWdcR39K2s3mdtIMHV8CMP9E`
+Snapshot ID: `AAAHWcn1SMKwffzVYqbdYlSVQUzmNwt8`

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 353687,
+  "num_followers": 353733,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Somos Novios",
-        "url": "https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI"
-      },
-      "artists": [
-        {
-          "name": "Las Verdes",
-          "url": "https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Adoro",
         "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 145750,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Somos Novios",
+        "url": "https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI"
+      },
+      "artists": [
+        {
+          "name": "Las Verdes",
+          "url": "https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1235,18 +1235,26 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Llevatela",
-        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
       "artists": [
         {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Llevatela",
-      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
+      "duration_ms": 175000,
+      "name": "Cuando Me Lo Pidas",
+      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1279,26 +1287,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+        "name": "Llevatela",
+        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
       },
       "artists": [
         {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Cuando Me Lo Pidas",
-      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
+      "duration_ms": 138000,
+      "name": "Llevatela",
+      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Serenata con Los Tecolines",
-        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 153053,
-      "name": "Canci\u00f3n del alma",
-      "url": "https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Tres Super Trios",
         "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 172466,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/1LRMRPhC8ZEniqe16Rzlkm"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Serenata con Los Tecolines",
+        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 153053,
+      "name": "Canci\u00f3n del alma",
+      "url": "https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy"
     },
     {
       "added_at": "2024-07-11 15:48:05",

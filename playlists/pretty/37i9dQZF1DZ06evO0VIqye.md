@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,236 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,252 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 38 | [You Don't Know What You've Got](https://open.spotify.com/track/3zGNujVVkUT07mGLgoT5an) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:43 |
 | 39 | [School Days](https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:02 |
 | 40 | [Fake Friends \(feat\. Joan Jett\)](https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Fake Friends](https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR) | 3:08 |
-| 41 | [Tulane](https://open.spotify.com/track/47Q3gt6U0yCnnrUzpyvcHF) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 2:53 |
-| 42 | [Rebel, Rebel](https://open.spotify.com/track/7M73Fj5VKCn37at0myvTCn) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Music from the Original Motion Picture\)](https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja) | 4:10 |
+| 41 | [Rebel, Rebel](https://open.spotify.com/track/7M73Fj5VKCn37at0myvTCn) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Music from the Original Motion Picture\)](https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja) | 4:10 |
+| 42 | [Tulane](https://open.spotify.com/track/47Q3gt6U0yCnnrUzpyvcHF) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 2:53 |
 | 43 | [Good Music](https://open.spotify.com/track/1uizH33y71PDnU3vjTwWjL) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 5:45 |
 | 44 | [Wooly Bully](https://open.spotify.com/track/4Hx70nlFBSkxkI8lwYRYxC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:20 |
-| 45 | [Ridin' With James Dean](https://open.spotify.com/track/5C9C1h2gF9bpVLUXAqWG7W) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 3:17 |
-| 46 | [Different](https://open.spotify.com/track/7z9pbrqVIennjBW8BfqYY2) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Unvarnished \(Expanded Edition\)](https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL) | 3:36 |
-| 47 | [New Orleans](https://open.spotify.com/track/51ReZrIWONjt5fKxVcmjEi) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Glorious Results of a Misspent Youth \(Expanded Edition\)](https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd) | 2:53 |
+| 45 | [New Orleans](https://open.spotify.com/track/51ReZrIWONjt5fKxVcmjEi) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Glorious Results of a Misspent Youth \(Expanded Edition\)](https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd) | 2:53 |
+| 46 | [Ridin' With James Dean](https://open.spotify.com/track/5C9C1h2gF9bpVLUXAqWG7W) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 3:17 |
+| 47 | [Different](https://open.spotify.com/track/7z9pbrqVIennjBW8BfqYY2) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Unvarnished \(Expanded Edition\)](https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL) | 3:36 |
 | 48 | [Science Fiction/Double Feature](https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Dr\. Demento Covered In Punk](https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3) | 3:54 |
 | 49 | [I Love Playin' With Fire](https://open.spotify.com/track/2f145m0AvoZX5tF1Rac2QZ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Album \(Expanded Edition\)](https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G) | 3:02 |
 | 50 | [I Still Dream About You](https://open.spotify.com/track/6y7Jl5Jrmdl0fCFcOVmnbX) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 3:22 |
 
-Snapshot ID: `aH2DAAAAAAA33ODnbbBlut2y306DF0PN`
+Snapshot ID: `aH7UgAAAAAAPLu8VmPlckb0hB4QcRjOv`

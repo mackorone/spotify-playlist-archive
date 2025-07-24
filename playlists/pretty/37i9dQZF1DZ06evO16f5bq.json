@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 155039,
+  "num_followers": 155044,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAAYT87zpevMq8n7FZWFmtYh",
+  "snapshot_id": "aH7UgAAAAAAhMH70hl1MLO1FlNEb/BFt",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "7 Meiota",
+      "url": "https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
@@ -323,30 +347,6 @@
       "duration_ms": 302117,
       "name": "A Cara do Crime (N\u00f3s Incomoda)",
       "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "7 Meiota",
-      "url": "https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG"
     },
     {
       "added_at": null,
@@ -459,30 +459,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "IRRASTRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
+        "name": "Poesia Ac\u00fastica 17",
+        "url": "https://open.spotify.com/album/12r1EaYmRBiavcIMmcwWPU"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
         },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
         }
       ],
-      "duration_ms": 181512,
-      "name": "Vamo Marolar",
-      "url": "https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC"
+      "duration_ms": 597000,
+      "name": "Poesia Ac\u00fastica 17",
+      "url": "https://open.spotify.com/track/6t5G9AQWFjJYPtt1xra4r7"
     },
     {
       "added_at": null,
@@ -539,50 +559,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica 17",
-        "url": "https://open.spotify.com/album/12r1EaYmRBiavcIMmcwWPU"
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
         },
         {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
         }
       ],
-      "duration_ms": 597000,
-      "name": "Poesia Ac\u00fastica 17",
-      "url": "https://open.spotify.com/track/6t5G9AQWFjJYPtt1xra4r7"
+      "duration_ms": 181512,
+      "name": "Vamo Marolar",
+      "url": "https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC"
     },
     {
       "added_at": null,
@@ -791,34 +791,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
+        "name": "Nova Moda",
+        "url": "https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN"
       },
       "artists": [
         {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
         },
         {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 225365,
-      "name": "AK de Bip\u00e9",
-      "url": "https://open.spotify.com/track/45AGZPv5djNJj0CH6sEjjp"
+      "duration_ms": 193333,
+      "name": "Dinheiro e Putaria",
+      "url": "https://open.spotify.com/track/3MGYvpoNOH3Tv5DywjJ0wA"
     },
     {
       "added_at": null,
@@ -847,30 +843,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nova Moda",
-        "url": "https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN"
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
       "artists": [
         {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
         },
         {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
         },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Dinheiro e Putaria",
-      "url": "https://open.spotify.com/track/3MGYvpoNOH3Tv5DywjJ0wA"
+      "duration_ms": 225365,
+      "name": "AK de Bip\u00e9",
+      "url": "https://open.spotify.com/track/45AGZPv5djNJj0CH6sEjjp"
     },
     {
       "added_at": null,
@@ -1339,30 +1339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MPC (M\u00fasica Popular Carioca)",
-        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 154350,
-      "name": "CONJUNT\u00c3O DE TIME",
-      "url": "https://open.spotify.com/track/3bvIkHpcpgw4vFXpAvrwZx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inocente \"Demotape\"",
         "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
@@ -1383,18 +1359,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+        "name": "MPC (M\u00fasica Popular Carioca)",
+        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
       },
       "artists": [
         {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 182973,
-      "name": "quem me dera",
-      "url": "https://open.spotify.com/track/3KtyJBBNlfs5R0H9dgZDWK"
+      "duration_ms": 154350,
+      "name": "CONJUNT\u00c3O DE TIME",
+      "url": "https://open.spotify.com/track/3bvIkHpcpgw4vFXpAvrwZx"
     },
     {
       "added_at": null,
@@ -1423,6 +1407,26 @@
       "duration_ms": 210000,
       "name": "Filho do Dono",
       "url": "https://open.spotify.com/track/0EuRZKWzNptC1ZuIMFKLxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 227552,
+      "name": "bala e fogo",
+      "url": "https://open.spotify.com/track/1p7HNEMov0qf7kZgd0pQR1"
     }
   ],
   "unique_name": "This Is MC Cabelinho",

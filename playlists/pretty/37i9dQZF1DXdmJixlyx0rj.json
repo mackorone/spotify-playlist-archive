@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: HYO)",
-  "num_followers": 29882,
+  "num_followers": 29907,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2025-07-22 06:42:57",
       "album": {
+        "name": "Seven (Weekend Ver.)",
+        "url": "https://open.spotify.com/album/6fJthISWarQBICiU2wncp6"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "Seven (feat. Latto) (Festival Mix)",
+      "url": "https://open.spotify.com/track/79DU9AWxpMpKsGS5yps6sp"
+    },
+    {
+      "added_at": "2025-07-22 06:42:57",
+      "album": {
         "name": "My Universe (David Guetta Remix)",
         "url": "https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 199135,
       "name": "My Universe - David Guetta Remix",
       "url": "https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu"
-    },
-    {
-      "added_at": "2025-07-22 06:42:57",
-      "album": {
-        "name": "Seven (Weekend Ver.)",
-        "url": "https://open.spotify.com/album/6fJthISWarQBICiU2wncp6"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "Seven (feat. Latto) (Festival Mix)",
-      "url": "https://open.spotify.com/track/79DU9AWxpMpKsGS5yps6sp"
     },
     {
       "added_at": "2025-07-22 06:42:57",
@@ -715,26 +715,22 @@
     {
       "added_at": "2025-07-22 06:42:57",
       "album": {
-        "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
-        "url": "https://open.spotify.com/album/4FJWDOLq0eiu0WGrJHqZfo"
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         },
         {
-          "name": "The Cast of Baby Shark's Big Movie",
-          "url": "https://open.spotify.com/artist/2qlOwH6ICaEw63LMC3bBVR"
-        },
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 64389,
-      "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
-      "url": "https://open.spotify.com/track/05w1GGQQl1NEw0hEznuANx"
+      "duration_ms": 208780,
+      "name": "SCIENTIST (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
     },
     {
       "added_at": "2025-07-22 06:42:57",
@@ -759,22 +755,26 @@
     {
       "added_at": "2025-07-22 06:42:57",
       "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+        "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
+        "url": "https://open.spotify.com/album/4FJWDOLq0eiu0WGrJHqZfo"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "The Cast of Baby Shark's Big Movie",
+          "url": "https://open.spotify.com/artist/2qlOwH6ICaEw63LMC3bBVR"
+        },
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
         }
       ],
-      "duration_ms": 208780,
-      "name": "SCIENTIST (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
+      "duration_ms": 64389,
+      "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
+      "url": "https://open.spotify.com/track/05w1GGQQl1NEw0hEznuANx"
     },
     {
       "added_at": "2025-07-22 06:42:57",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-07-22 06:42:57",
       "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
-      },
-      "artists": [
-        {
-          "name": "iiso",
-          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
-        }
-      ],
-      "duration_ms": 144262,
-      "name": "Ash",
-      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
-    },
-    {
-      "added_at": "2025-07-22 06:42:57",
-      "album": {
         "name": "Love Crime",
         "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 154712,
       "name": "Felony",
       "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
+    },
+    {
+      "added_at": "2025-07-22 06:42:57",
+      "album": {
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
+      },
+      "artists": [
+        {
+          "name": "iiso",
+          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
+        }
+      ],
+      "duration_ms": 144262,
+      "name": "Ash",
+      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
     },
     {
       "added_at": "2025-07-22 06:42:57",
@@ -1163,22 +1163,18 @@
     {
       "added_at": "2025-07-22 06:42:57",
       "album": {
-        "name": "Too Far",
-        "url": "https://open.spotify.com/album/15jknj7bcRgBYPk1u3RaBc"
+        "name": "Selected Reworks",
+        "url": "https://open.spotify.com/album/4nHzgkr2avqn7YrZbNlkTO"
       },
       "artists": [
         {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        },
-        {
-          "name": "Noisy Choice",
-          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
+          "name": "Glen Check",
+          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
         }
       ],
-      "duration_ms": 143622,
-      "name": "Too Far",
-      "url": "https://open.spotify.com/track/5w1KPYqxVLZ34Bwc4pNTsq"
+      "duration_ms": 259049,
+      "name": "Vogue Boys And Girls",
+      "url": "https://open.spotify.com/track/6UENRUaDq4Nl7kylkftcsP"
     },
     {
       "added_at": "2025-07-22 06:42:57",
@@ -1199,6 +1195,26 @@
       "duration_ms": 185218,
       "name": "The Feels (Benny Benassi Remix)",
       "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
+    },
+    {
+      "added_at": "2025-07-22 06:42:57",
+      "album": {
+        "name": "Too Far",
+        "url": "https://open.spotify.com/album/15jknj7bcRgBYPk1u3RaBc"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Noisy Choice",
+          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
+        }
+      ],
+      "duration_ms": 143622,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/5w1KPYqxVLZ34Bwc4pNTsq"
     },
     {
       "added_at": "2025-07-22 06:42:57",
@@ -1227,26 +1243,6 @@
     {
       "added_at": "2025-07-22 06:42:57",
       "album": {
-        "name": "STARDUST",
-        "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
-      },
-      "artists": [
-        {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
-        },
-        {
-          "name": "XIAOJUN",
-          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "STARDUST",
-      "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
-    },
-    {
-      "added_at": "2025-07-22 06:42:57",
-      "album": {
         "name": "11111101",
         "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
       },
@@ -1263,18 +1259,22 @@
     {
       "added_at": "2025-07-22 06:42:57",
       "album": {
-        "name": "Selected Reworks",
-        "url": "https://open.spotify.com/album/4nHzgkr2avqn7YrZbNlkTO"
+        "name": "STARDUST",
+        "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
       },
       "artists": [
         {
-          "name": "Glen Check",
-          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        },
+        {
+          "name": "XIAOJUN",
+          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
         }
       ],
-      "duration_ms": 259049,
-      "name": "Vogue Boys And Girls",
-      "url": "https://open.spotify.com/track/6UENRUaDq4Nl7kylkftcsP"
+      "duration_ms": 179000,
+      "name": "STARDUST",
+      "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
     },
     {
       "added_at": "2025-07-22 06:42:57",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-07-22 06:42:57",
       "album": {
-        "name": "LOTTO - The 3rd Album Repackage",
-        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 245189,
-      "name": "Monster - LDN Noise Creeper Bass Remix",
-      "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
-    },
-    {
-      "added_at": "2025-07-22 06:42:57",
-      "album": {
         "name": "Falling In Love (feat. Natalie Major)",
         "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 214758,
       "name": "Falling In Love (feat. Natalie Major)",
       "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
+    },
+    {
+      "added_at": "2025-07-22 06:42:57",
+      "album": {
+        "name": "LOTTO - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 245189,
+      "name": "Monster - LDN Noise Creeper Bass Remix",
+      "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
     },
     {
       "added_at": "2025-07-22 06:42:57",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2025-07-22 06:42:57",
       "album": {
-        "name": "NOXIUS",
-        "url": "https://open.spotify.com/album/2wEWmIGSfzSLMEhkeKNvNd"
+        "name": "Romeo & Juliet (ZEE Remix)",
+        "url": "https://open.spotify.com/album/0yKfzfVChOkRt0axInunfl"
       },
       "artists": [
         {
-          "name": "JISEONG",
-          "url": "https://open.spotify.com/artist/6xpSy57tSPy4slDdY4KTHi"
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
         }
       ],
-      "duration_ms": 175764,
-      "name": "MISSING THE POINT",
-      "url": "https://open.spotify.com/track/2JBWAFuRwzDDHBC0pPvAn7"
+      "duration_ms": 186000,
+      "name": "Romeo & Juliet (ZEE Remix)",
+      "url": "https://open.spotify.com/track/2Amy8o61cSDREo18jQDNAa"
     },
     {
       "added_at": "2025-07-22 06:42:57",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-07-22 06:42:57",
       "album": {
-        "name": "Romeo & Juliet (ZEE Remix)",
-        "url": "https://open.spotify.com/album/0yKfzfVChOkRt0axInunfl"
+        "name": "NOXIUS",
+        "url": "https://open.spotify.com/album/2wEWmIGSfzSLMEhkeKNvNd"
       },
       "artists": [
         {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+          "name": "JISEONG",
+          "url": "https://open.spotify.com/artist/6xpSy57tSPy4slDdY4KTHi"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Romeo & Juliet (ZEE Remix)",
-      "url": "https://open.spotify.com/track/2Amy8o61cSDREo18jQDNAa"
+      "duration_ms": 175764,
+      "name": "MISSING THE POINT",
+      "url": "https://open.spotify.com/track/2JBWAFuRwzDDHBC0pPvAn7"
     },
     {
       "added_at": "2025-07-22 06:42:57",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-07-22 06:42:57",
       "album": {
+        "name": "Love Tune: Rewired",
+        "url": "https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 215190,
+      "name": "Gravity - Garage Remix",
+      "url": "https://open.spotify.com/track/6xuTvKxGKjvjrhbFjPvNcf"
+    },
+    {
+      "added_at": "2025-07-22 06:42:57",
+      "album": {
         "name": "iScreaM Vol.2 : Ridin' Remixes",
         "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 180200,
       "name": "Ridin' - Will Not Fear Remix",
       "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
-    },
-    {
-      "added_at": "2025-07-22 06:42:57",
-      "album": {
-        "name": "Love Tune: Rewired",
-        "url": "https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 215190,
-      "name": "Gravity - Garage Remix",
-      "url": "https://open.spotify.com/track/6xuTvKxGKjvjrhbFjPvNcf"
     },
     {
       "added_at": "2025-07-22 06:42:57",
@@ -1823,22 +1823,30 @@
     {
       "added_at": "2025-07-22 06:42:57",
       "album": {
-        "name": "iScreaM Vol.2 : Ridin' Remixes",
-        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
+        "name": "Rule The World",
+        "url": "https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "JEFFREY SUTORIUS",
+          "url": "https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq"
         },
         {
-          "name": "Minit",
-          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Mbush",
+          "url": "https://open.spotify.com/artist/6oi7xPIPaIqg9yChAS52Bf"
+        },
+        {
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
         }
       ],
-      "duration_ms": 197538,
-      "name": "BOOM - Minit Remix, Bonus Track",
-      "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
+      "duration_ms": 146500,
+      "name": "Rule The World",
+      "url": "https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5"
     },
     {
       "added_at": "2025-07-22 06:42:57",
@@ -1863,22 +1871,22 @@
     {
       "added_at": "2025-07-22 06:42:57",
       "album": {
-        "name": "iScreaM Vol.14 : Peaches Remixes",
-        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
+        "name": "iScreaM Vol.2 : Ridin' Remixes",
+        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
       },
       "artists": [
         {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         },
         {
-          "name": "No2zcat",
-          "url": "https://open.spotify.com/artist/0pYXIFLHuxPH7RCFIBX96H"
+          "name": "Minit",
+          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
         }
       ],
-      "duration_ms": 172293,
-      "name": "Peaches - No2zcat Remix",
-      "url": "https://open.spotify.com/track/5qfPgGDyAQlM48pQM7KO4t"
+      "duration_ms": 197538,
+      "name": "BOOM - Minit Remix, Bonus Track",
+      "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
     },
     {
       "added_at": "2025-07-22 06:42:57",

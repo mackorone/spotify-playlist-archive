@@ -3166,7 +3166,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 121904,
       "name": "Crying Is My Superpower",
       "url": "https://open.spotify.com/track/6idvp9twFDAvotIZI6lAMe"
@@ -3512,7 +3512,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 269280,
       "name": "Don't Fall Asleep",
       "url": "https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa"
@@ -8254,7 +8254,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 198683,
       "name": "Leaving You",
       "url": "https://open.spotify.com/track/7l3XkFbTgakJZgMFC3wHiW"
@@ -14450,6 +14450,24 @@
       "duration_ms": 199800,
       "name": "the sky looked nice today",
       "url": "https://open.spotify.com/track/1R0WKnVaUrZbEyJNHSVlgX"
+    },
+    {
+      "album": {
+        "name": "The Sofa",
+        "url": "https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266306,
+      "name": "The Sofa",
+      "url": "https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh"
     },
     {
       "album": {

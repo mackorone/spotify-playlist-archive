@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Alex Warren, Darin, Shiro & Y4ska och Saga Faye med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,499 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,496 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 
 
-7,478 songs - 19 day 9 hr 56 min
+7,479 songs - 19 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Ain't That Funkin' Kinda Hard on You? \(feat\. Kendrick Lamar & Ice Cube\) \- We Ain't Neva Gonna Stop Remix](https://open.spotify.com/track/6SgQIoLn8kpu8J4wfwGWy8) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Ain't That Funkin' Kinda Hard on You? \(We Ain't Neva Gonna Stop Remix\) \[feat\. Kendrick Lamar & Ice Cube\]](https://open.spotify.com/album/6oeY3dvDGQ5hJxQNHxA8dS) | 5:09 | 2025-01-03 |  |
 | [Ain’t Nothing New](https://open.spotify.com/track/1LRktFWVk7tRMluBz0VuzZ) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Tee's Coney Island](https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP) | 2:21 | 2025-01-15 |  |
 | [AIR](https://open.spotify.com/track/72iLCSMWOE87GGsIKMb2G4) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EVERYD4Y](https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU) | 3:44 | 2025-01-15 |  |
+| [Airplane Mode](https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a) | [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [Holo](https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC) | 2:44 | 2025-07-24 |  |
 | [Airplanes \(feat\. Hayley Williams of Paramore\)](https://open.spotify.com/track/6lV2MSQmRIkycDScNtrBXO) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P) | 3:00 | 2024-12-10 |  |
 | [Alchemy](https://open.spotify.com/track/7LLUvdfRqSO2Bf5tY6CxFz) | [marina](https://open.spotify.com/artist/358xRt5CBUd9I19QYV379n), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Crow Song](https://open.spotify.com/album/0A14rgU2iEJj06M6Of5MBY) | 4:16 | 2025-05-27 |  |
 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 | 2025-04-12 |  |
@@ -7136,7 +7137,7 @@
 | [겨울비 \- Live](https://open.spotify.com/track/1VGxmkvRpIg6lMbQ7kH8zO) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [Kim Jong Seo Live Concert](https://open.spotify.com/album/2dVNeshpH35Um4voPEnbMD) | 6:13 | 2025-01-03 |  |
 | [결혼을 할 거라면](https://open.spotify.com/track/7H8CBvEvjxchu1KLb2uVcX) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [COOL 8ight](https://open.spotify.com/album/2PJQjAmN58hEZkePm2r955) | 3:43 | 2024-12-14 |  |
 | [결혼해줘](https://open.spotify.com/track/2NYcuis4HJl6yM7Uhnzsep) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Again](https://open.spotify.com/album/30HVhWNCycHEKHfxmxp35m) | 4:18 | 2025-01-03 |  |
-| [고래사냥](https://open.spotify.com/track/6s9XHtTmseyLWzfX3IaIQP) | [Song Chang Sik](https://open.spotify.com/artist/6uKCrM3dtEuH1azKTcuLdy) | [송창식 베스트](https://open.spotify.com/album/3yQCtlj0OGG6go9whCDfrW) | 4:35 | 2025-01-15 |  |
+| [고래사냥](https://open.spotify.com/track/6s9XHtTmseyLWzfX3IaIQP) | [Song Chang Sik](https://open.spotify.com/artist/6uKCrM3dtEuH1azKTcuLdy) | [송창식 베스트](https://open.spotify.com/album/3yQCtlj0OGG6go9whCDfrW) | 4:35 | 2025-01-15 | 2025-07-24 |
 | [고백](https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV) | [DELISPICE](https://open.spotify.com/artist/3zH8Xu8C1GnnmfpBqzdLPf) | [Espresso](https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb) | 5:23 | 2025-01-03 |  |
 | [고해](https://open.spotify.com/track/1cEODRpsqyAvzQvYJnDcGu) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/4zDVnS4MFbmPNteEQBknoB) | 5:02 | 2025-01-03 |  |
 | [고해](https://open.spotify.com/track/6wSZU5OaILn51xgAqvoLws) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Memories](https://open.spotify.com/album/73gPVFr5bRXhm2iGL29eK1) | 5:33 | 2025-01-03 |  |

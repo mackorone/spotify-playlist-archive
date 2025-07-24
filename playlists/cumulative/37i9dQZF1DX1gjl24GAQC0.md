@@ -4,7 +4,7 @@
 
 > Is it your favorite oppa or dongsaeng? \(Cover: 윤산하\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-711 songs - 1 day 15 hr 3 min
+713 songs - 1 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Beautiful Strangers](https://open.spotify.com/track/6IYvOX6K6tbBmj00JRU5Rw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: TOGETHER](https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG) | 2:18 | 2025-07-21 |  |
 | [Beauty and the Beast](https://open.spotify.com/track/6cLwgFQvn69ATT9GX7hCIs) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Beauty and the Beast](https://open.spotify.com/album/1y4bPlGZWzzZtVCuHbQ8gS) | 4:24 | 2022-01-26 | 2022-07-29 |
 | [BIBORA](https://open.spotify.com/track/0F2woEmPkBMafpMCmgKc6a) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [Sequence](https://open.spotify.com/album/23325hP3aqsiTottDna0mg) | 3:14 | 2024-01-08 | 2024-01-23 |
+| [BIG BANDS \- Korean Version](https://open.spotify.com/track/65ivb51ZNPZzsuea4qL3QX) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [BIG BANDS \- The 7th Mini Album](https://open.spotify.com/album/7bznUQPHdmQnEPx0AjC9qI) | 2:58 | 2025-07-23 |  |
 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-05-22 |  |
 | [Black Crown](https://open.spotify.com/track/1cSmtCnzmOXKu0pRwQRAZz) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. III\. Ivan](https://open.spotify.com/album/3fViCo8Y9npRg9TjSpOiCo) | 3:58 | 2022-03-22 | 2022-04-21 |
 | [BLACK HEART](https://open.spotify.com/track/4SiGRgJVUUDpMbW6LxJRCH) | [UNB](https://open.spotify.com/artist/6hdEFlC2PPivkwVXt56ksn) | [BLACK HEART](https://open.spotify.com/album/2M5drlXU9sYLhoFnLFauRS) | 3:05 | 2022-03-31 | 2022-04-11 |
@@ -93,7 +94,7 @@
 | [BOOM](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:15 | 2022-01-17 | 2024-06-26 |
 | [Boom Boom Bass](https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 2:32 | 2024-06-17 | 2024-11-13 |
 | [BOOMERANG](https://open.spotify.com/track/0fAFOeAxAL5K8rZlLUMXQH) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [0+1=1 \(I PROMISE YOU\)](https://open.spotify.com/album/7ouvefHVfZlmsmynARuCoe) | 3:03 | 2022-03-31 | 2022-04-21 |
-| [Bora](https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [HOOK](https://open.spotify.com/album/2sro0GXELrNHRYkvju3mVE) | 2:15 | 2025-07-21 |  |
+| [Bora](https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [HOOK](https://open.spotify.com/album/2sro0GXELrNHRYkvju3mVE) | 2:15 | 2025-07-21 | 2025-07-24 |
 | [BOSS](https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:30 | 2022-03-22 | 2024-01-05 |
 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 | 2023-06-20 |  |
 | [BOY](https://open.spotify.com/track/6SqOpxXMMS8axhJoqz8Nel) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER ONE](https://open.spotify.com/album/7IGNNe8FGyEtOZdoUBjLPw) | 3:16 | 2021-12-08 | 2022-07-29 |
@@ -159,7 +160,7 @@
 | [D.D.D](https://open.spotify.com/track/4knqZHNHlEBBEmfETcpTyr) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [DREAMLIKE](https://open.spotify.com/album/4T7BOMEuEfIMsDfomppwtW) | 3:32 | 2022-02-15 | 2022-07-09 |
 | [Daisy](https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [WE:TH](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) | 3:09 | 2021-12-08 | 2022-07-29 |
 | [Dangerous](https://open.spotify.com/track/5unyDrt3v3Yfo7hV20G7DI) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [LIKE INFINITE](https://open.spotify.com/album/4na98IiEj4lAFQS3NKQ5qk) | 3:00 | 2025-03-07 | 2025-03-11 |
-| [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-02-24 |  |
+| [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-02-24 | 2025-07-24 |
 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-04-15 | 2022-10-14 |
 | [DaSH](https://open.spotify.com/track/6j00mQpXjdXuovqU9owUDa) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [ODYSSEY:DaSH](https://open.spotify.com/album/4tr2tGgWohMbeh5wlMj8QO) | 3:29 | 2022-08-17 | 2022-08-23 |
 | [DAYDREAM](https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 3:13 | 2022-03-21 | 2022-04-20 |
@@ -571,6 +572,7 @@
 | [Simon Says](https://open.spotify.com/track/1zedfw5iu7XzKJT8CupEIP) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regulate \- The 1st Album Repackage](https://open.spotify.com/album/5iJsCigDROOTMgUpJ6ex2S) | 3:19 | 2022-01-17 | 2022-07-06 |
 | [Siren](https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Siren](https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO) | 2:27 | 2024-04-05 | 2024-06-25 |
 | [skinz](https://open.spotify.com/track/6muszfo0tVE3bzEN5s0xXk) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [Instinct, Pt\. 2](https://open.spotify.com/album/6s6wvFDZuowpwGclVzbXDv) | 3:23 | 2022-01-14 | 2022-04-18 |
+| [SLAM DUNK](https://open.spotify.com/track/4kZHkv3q9zWEazkRJXJ5UN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/2SG1eu7Mayczz9708mhbYm) | 2:57 | 2025-07-23 |  |
 | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9) | 3:11 | 2024-07-23 | 2025-02-17 |
 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-06-28 | 2025-06-18 |
 | [Smoothie](https://open.spotify.com/track/2S2IfMg6ROIGjgwoCf1Z13) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [iScreaM Vol.31 : Smoothie Remix](https://open.spotify.com/album/1SXuAONZqhv9YDMvfxunRp) | 3:08 | 2024-04-15 | 2024-04-19 |

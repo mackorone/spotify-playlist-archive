@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 > This is Carín León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076,150 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076,350 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 6 | [Despídase bien](https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:51 |
 | 7 | [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/1393rKYgZHNphZrdx1jWoN) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:49 |
 | 8 | [Si Tú Me Vieras](https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Palabra De To's \(Seca\)](https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P) | 3:09 |
-| 9 | [Te Lo Agradezco](https://open.spotify.com/track/14k3Rb7Xgte9fsndjdenmq) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Lo Más Escuchado del 2023](https://open.spotify.com/album/3i1CjH1vT2s05QhuYKoxCE) | 3:03 |
-| 10 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 |
+| 9 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 |
+| 10 | [Te Lo Agradezco](https://open.spotify.com/track/14k3Rb7Xgte9fsndjdenmq) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Lo Más Escuchado del 2023](https://open.spotify.com/album/3i1CjH1vT2s05QhuYKoxCE) | 3:03 |
 | 11 | [Ese Vato No Te Queda](https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ese Vato No Te Queda](https://open.spotify.com/album/4Z9Ib007Z7ZFmYLfyp2qH9) | 3:18 |
 | 12 | [Ahí Estabas Tú](https://open.spotify.com/track/3hwtMoZGYylPlecZGAdW6y) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 1:52 |
 | 13 | [El Tóxico](https://open.spotify.com/track/41QD8eEf8HLLpy20d8j2Kx) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Tóxico](https://open.spotify.com/album/2kYTqAuJhgYQ0p4694Ve8s) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 49 | [REGALO DE DIOS](https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [REGALO DE DIOS](https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16) | 4:30 |
 | 50 | [Ocupo Una Limpia](https://open.spotify.com/track/70e72bFvwBdxU4OlVCkpby) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:34 |
 
-Snapshot ID: `aH2DAAAAAADtHA3vUY1598gfyTL/uTJN`
+Snapshot ID: `aH7UgAAAAADYir8djQAQhhEm0j2XoRkP`

@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 38695,
+  "num_followers": 38700,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,30 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
+        "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
+        "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Truls M\u00f8rk",
+          "url": "https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1"
+        },
+        {
+          "name": "H\u00e5vard Gimse",
+          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
+        }
+      ],
+      "duration_ms": 390200,
+      "name": "Grieg: Cello Sonata in A Minor, Op. 36: II. Andante molto tranquillo",
+      "url": "https://open.spotify.com/track/1dQcZRGntODNgU5Pj7tgHO"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
         "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
         "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
       },
@@ -471,30 +495,6 @@
       "duration_ms": 243000,
       "name": "Holberg Suite, Op. 40: 5. Rigaudon (Allegro con brio)",
       "url": "https://open.spotify.com/track/2fPsJT9Q1d5ferqW3brhQP"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
-        "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
-        "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Truls M\u00f8rk",
-          "url": "https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1"
-        },
-        {
-          "name": "H\u00e5vard Gimse",
-          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
-        }
-      ],
-      "duration_ms": 390200,
-      "name": "Grieg: Cello Sonata in A Minor, Op. 36: II. Andante molto tranquillo",
-      "url": "https://open.spotify.com/track/1dQcZRGntODNgU5Pj7tgHO"
     },
     {
       "added_at": "2025-07-04 11:59:56",
@@ -615,6 +615,26 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
+        "name": "Grieg: Complete Solo Piano Music",
+        "url": "https://open.spotify.com/album/0Dm2WvAosDc72UCCNI3wgs"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Gerhard Oppitz",
+          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Tak/Dank/Gratitude",
+      "url": "https://open.spotify.com/track/1PcO4HCgTut0V6ak4Fk7xB"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
         "name": "Grieg: Lyric Pieces; Sonata; Fugues",
         "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 406666,
       "name": "Holberg Suite, Op. 40: 4. Air (Andante religioso)",
       "url": "https://open.spotify.com/track/00shcLNgwxFoIWDCCiQB6i"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
-        "name": "Grieg: Complete Solo Piano Music",
-        "url": "https://open.spotify.com/album/0Dm2WvAosDc72UCCNI3wgs"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Gerhard Oppitz",
-          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
-        }
-      ],
-      "duration_ms": 287666,
-      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Tak/Dank/Gratitude",
-      "url": "https://open.spotify.com/track/1PcO4HCgTut0V6ak4Fk7xB"
     },
     {
       "added_at": "2025-07-04 11:59:56",
@@ -951,26 +951,6 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
-        "name": "Schumann: Piano Concerto in A Minor, Op. 54",
-        "url": "https://open.spotify.com/album/0CjRmvLs8eDLbAQ89nlwtl"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Evgeny Kissin",
-          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Piano Transcriptions of Songs, Op. 41: No. 3, Jeg elsker dig",
-      "url": "https://open.spotify.com/track/5H2fooY77jr8VaAyfxvqh1"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
         "name": "Grieg: Lyric Pieces; Sonata; Fugues",
         "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 181506,
       "name": "Lyric Pieces, Op. 43: VI. To the Spring",
       "url": "https://open.spotify.com/track/7FdTdDt7bRTFo4x4hmdadD"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
+        "name": "Schumann: Piano Concerto in A Minor, Op. 54",
+        "url": "https://open.spotify.com/album/0CjRmvLs8eDLbAQ89nlwtl"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Piano Transcriptions of Songs, Op. 41: No. 3, Jeg elsker dig",
+      "url": "https://open.spotify.com/track/5H2fooY77jr8VaAyfxvqh1"
     },
     {
       "added_at": "2025-07-04 11:59:56",

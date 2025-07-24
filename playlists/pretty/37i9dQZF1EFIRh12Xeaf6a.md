@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,113 likes - 270 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,115 likes - 270 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 132 | [There Is A Tavern In The Town](https://open.spotify.com/track/4DJLYAE0mMknhKTwRdmt1v) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Those Lazy Hazy Crazy Days Of Summer](https://open.spotify.com/album/5jA1HyOHqWy718lEXH2koC) | 1:36 |
 | 133 | [You Bet I Would](https://open.spotify.com/track/6ZOHEv3K3EaiMpoDpco9fh) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [The 25 Best Songs](https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq) | 2:09 |
 | 134 | [I Don't Think You Know Me \- Second Recorded Version; 2006 Remaster](https://open.spotify.com/track/7yUemsSDDVpsm1ismCVPTl) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:20 |
-| 135 | [Lady](https://open.spotify.com/track/7qdtc71bUp1oyxaO4IzQae) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Rake It In: The Greatestest Hits](https://open.spotify.com/album/1vUPHNLRsdPmhuyqHmmX1M) | 2:22 |
+| 135 | [Lady](https://open.spotify.com/track/1YJFNPGWi5jErLPgGZKuSv) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Rake It In: The Greatestest Hits](https://open.spotify.com/album/1PI3JjctHVS3Z1WyXwCuvI) | 2:22 |
 | 136 | [Blues For A Young Girl Gone](https://open.spotify.com/track/3Y0pyyBki4gOjIqO4u3eTU) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 2:30 |
 | 137 | [I Won't Be](https://open.spotify.com/track/6PYPAsGS9m3G3VIj2Tq4hy) | [The Queers](https://open.spotify.com/artist/1kRABJWDxSnOJFteI351V6) | [Love Songs For the Retarded](https://open.spotify.com/album/7cirEMVoNE7n6FOgqk9rzZ) | 2:07 |
 | 138 | [Screaming and Yelling](https://open.spotify.com/track/2oM2lFz3AscyEWb3aT5nj0) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 1:16 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 269 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 270 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Ab3fSAAAAACRUeM6wNpDJboujlGoi24q`
+Snapshot ID: `Ab3k1AAAAADyIgQjcaKADWHYePTAt5xT`

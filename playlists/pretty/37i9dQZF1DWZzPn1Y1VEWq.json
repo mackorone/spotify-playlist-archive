@@ -1,6 +1,6 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 384591,
+  "num_followers": 384661,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 289760,
-      "name": "Creo",
-      "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Armando Camale\u00f3n",
         "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 237546,
       "name": "Campanas en la Noche",
       "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 289760,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Un Sentimiento",
-        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "El Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "De Bichos Y Flores",
         "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 187066,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Un Sentimiento",
+        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "El Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Parulo",
         "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 174053,
       "name": "Sabros\u00f3n",
       "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "Par Mil",
-      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Mordisco",
         "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Despedazado Por Mil Partes",
-        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 259533,
-      "name": "Lo Fr\u00e1gil De La Locura",
-      "url": "https://open.spotify.com/track/53LovEbSOlvxq2qj8EMWub"
+      "duration_ms": 198706,
+      "name": "Par Mil",
+      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -847,6 +831,22 @@
       "duration_ms": 238506,
       "name": "Sigue Girando",
       "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Despedazado Por Mil Partes",
+        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 259533,
+      "name": "Lo Fr\u00e1gil De La Locura",
+      "url": "https://open.spotify.com/track/53LovEbSOlvxq2qj8EMWub"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "El regreso",
-        "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
         }
       ],
-      "duration_ms": 182680,
-      "name": "Tuyo siempre - En directo 2005",
-      "url": "https://open.spotify.com/track/5cBdKHSiooNsZ3FIWlYdDh"
+      "duration_ms": 180066,
+      "name": "Brujer\u00eda",
+      "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+        "name": "El regreso",
+        "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
       },
       "artists": [
         {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 180066,
-      "name": "Brujer\u00eda",
-      "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
+      "duration_ms": 182680,
+      "name": "Tuyo siempre - En directo 2005",
+      "url": "https://open.spotify.com/track/5cBdKHSiooNsZ3FIWlYdDh"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 225050,
-      "name": "Rub\u00ed",
-      "url": "https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Altos Cumbieros - Cumbia Villera",
         "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 188720,
       "name": "No voy a llorar",
       "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 225050,
+      "name": "Rub\u00ed",
+      "url": "https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
         }
       ],
-      "duration_ms": 247336,
-      "name": "No Se Llama Amor",
-      "url": "https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb"
+      "duration_ms": 192226,
+      "name": "Fue Amor",
+      "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1091,34 +1091,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
       "artists": [
         {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 192226,
-      "name": "Fue Amor",
-      "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 254546,
-      "name": "Basta de Llamarme As\u00ed",
-      "url": "https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0"
+      "duration_ms": 247336,
+      "name": "No Se Llama Amor",
+      "url": "https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1135,6 +1119,22 @@
       "duration_ms": 308337,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 254546,
+      "name": "Basta de Llamarme As\u00ed",
+      "url": "https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Corazon de Papel (Edicion Especial Remasterizada)",
-        "url": "https://open.spotify.com/album/3cAjRkxhlPdzmK7jhPT2XU"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/0D5AiwyGN6UdrGNThCQgC3"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Turfshow",
         "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 224293,
       "name": "Cuatro Personalidades",
       "url": "https://open.spotify.com/track/1kTLi5AdnjOWyJg7oJmi52"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Corazon de Papel (Edicion Especial Remasterizada)",
+        "url": "https://open.spotify.com/album/3cAjRkxhlPdzmK7jhPT2XU"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/0D5AiwyGN6UdrGNThCQgC3"
     },
     {
       "added_at": "2024-06-12 23:26:13",

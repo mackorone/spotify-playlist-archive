@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/4iL0sqHuipLrqy4y8HRYsZ"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223386,
+      "name": "Boys Like You",
+      "url": "https://open.spotify.com/track/3VZYMT2OSYxCKPjXCRNgUb"
+    },
+    {
+      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
       },
@@ -434,7 +452,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 211426,
       "name": "CRUEL",
       "url": "https://open.spotify.com/track/7gtzzW9b5NdZ1WRjPHfFKD"
@@ -607,6 +625,28 @@
     },
     {
       "album": {
+        "name": "Eat Sleep Live Repeat",
+        "url": "https://open.spotify.com/album/3gIC8C4Ont83DTnC9sxaYd"
+      },
+      "artists": [
+        {
+          "name": "LEE SUNG KYOUNG",
+          "url": "https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP"
+        },
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203518,
+      "name": "Eat Sleep Live Repeat",
+      "url": "https://open.spotify.com/track/5ZnlLC9fhvw7MAlfa82XLH"
+    },
+    {
+      "album": {
         "name": "TOAST",
         "url": "https://open.spotify.com/album/7zj1ryzYXQdewJ1bWQaHbJ"
       },
@@ -666,7 +706,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 187061,
       "name": "Fashion Hoarder",
       "url": "https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq"
@@ -1299,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "log",
+        "url": "https://open.spotify.com/album/7fTDNbnZz9cGu4hciG6Mw7"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "Journey For Myself",
+      "url": "https://open.spotify.com/track/4jYrL89ak1hTLAwXOr0zZe"
+    },
+    {
+      "album": {
         "name": "Whiplash - The 5th Mini Album",
         "url": "https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK"
       },
@@ -1772,7 +1830,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 144240,
       "name": "Never Stop Me",
       "url": "https://open.spotify.com/track/1iBzUztYothYmLyDQtGm59"

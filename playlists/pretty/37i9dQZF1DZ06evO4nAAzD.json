@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4296,
+  "num_followers": 4299,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAAsPcoSbydEjA04xi0VzuGC",
+  "snapshot_id": "aH7UgAAAAACFgEAwXz5OBSqqShfvmvAr",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD"
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
       },
       "artists": [
         {
-          "name": "Mc Vittin PV",
-          "url": "https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB"
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         }
       ],
-      "duration_ms": 238075,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM"
+      "duration_ms": 206197,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
     },
     {
       "added_at": null,
@@ -763,26 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Horas",
-        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD"
       },
       "artists": [
         {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+          "name": "Mc Vittin PV",
+          "url": "https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         }
       ],
-      "duration_ms": 206197,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
+      "duration_ms": 238075,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM"
     },
     {
       "added_at": null,
@@ -807,6 +807,54 @@
       "duration_ms": 246620,
       "name": "Faixa Anjo",
       "url": "https://open.spotify.com/track/2sH7zkMT5mtKNEK2j4Oqgy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bailean",
+        "url": "https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/76cadDGwcJerxd4gl7NaHp"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Bailean",
+      "url": "https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MINAS DE OURO",
+        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "duration_ms": 172950,
+      "name": "MELHOR DE MIM",
+      "url": "https://open.spotify.com/track/0IyNFRdJOqcEij32FGPhpD"
     },
     {
       "added_at": null,
@@ -839,54 +887,6 @@
       "duration_ms": 201600,
       "name": "Terror das Faixa Rosa",
       "url": "https://open.spotify.com/track/4g0gHjrnumFFPIOGt0NmWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MINAS DE OURO",
-        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        }
-      ],
-      "duration_ms": 172950,
-      "name": "MELHOR DE MIM",
-      "url": "https://open.spotify.com/track/0IyNFRdJOqcEij32FGPhpD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bailean",
-        "url": "https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/76cadDGwcJerxd4gl7NaHp"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Bailean",
-      "url": "https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR"
     },
     {
       "added_at": null,
@@ -956,21 +956,13 @@
           "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         },
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
           "name": "Pedro Lotto",
           "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
         }
       ],
-      "duration_ms": 182400,
-      "name": "VIDA DE ARTISTA",
-      "url": "https://open.spotify.com/track/09PuQONpor7FhWeB0Ph5Pn"
+      "duration_ms": 166956,
+      "name": "CENA DE FILME",
+      "url": "https://open.spotify.com/track/6B997koCVWsxhUuwcl1tFs"
     },
     {
       "added_at": null,
@@ -1048,13 +1040,21 @@
           "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         },
         {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
           "name": "Pedro Lotto",
           "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
         }
       ],
-      "duration_ms": 166956,
-      "name": "CENA DE FILME",
-      "url": "https://open.spotify.com/track/6B997koCVWsxhUuwcl1tFs"
+      "duration_ms": 182400,
+      "name": "VIDA DE ARTISTA",
+      "url": "https://open.spotify.com/track/09PuQONpor7FhWeB0Ph5Pn"
     },
     {
       "added_at": null,

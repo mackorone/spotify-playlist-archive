@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,123 likes - 242 songs - 12 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,122 likes - 242 songs - 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 53 | [Set In Stone](https://open.spotify.com/track/5fmf2sDbU6cbodUM6On6wg) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 3:41 |
 | 54 | [Accelerate \(feat\. Ty Dolla $ign & 2 Chainz\)](https://open.spotify.com/track/0iSDDumvHTzv6we9Yr1HzY) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:03 |
 | 55 | [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:08 |
-| 56 | [Electric Glow \- Original Mix](https://open.spotify.com/track/48eWZkmFr31aOpFyfkeE0R) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Skyler Stonestreet](https://open.spotify.com/artist/1sY8XHjk6WoA2B5YIGV1S2) | [Metamorphic II](https://open.spotify.com/album/3FDrNsoeak1G0Ua5nSAMnR) | 6:54 |
-| 57 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |
+| 56 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |
+| 57 | [Electric Glow \- Original Mix](https://open.spotify.com/track/48eWZkmFr31aOpFyfkeE0R) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Skyler Stonestreet](https://open.spotify.com/artist/1sY8XHjk6WoA2B5YIGV1S2) | [Metamorphic II](https://open.spotify.com/album/3FDrNsoeak1G0Ua5nSAMnR) | 6:54 |
 | 58 | [Deliver](https://open.spotify.com/track/7eop1iSITujvmKRme0DdKJ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Fifth Harmony](https://open.spotify.com/album/0kHFNaPXHGZitDEqNb88ws) | 3:26 |
 | 59 | [I Got the Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/track/5Yfq9uugLFchtFymQQWxgt) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:46 |
 | 60 | [Got Her Own \(with Victoria Monét\)](https://open.spotify.com/track/3UBE9swDF71ARoV42g6Fcx) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 2:41 |
@@ -219,8 +219,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 209 | [Jeffrey](https://open.spotify.com/track/264ukRrqfqyc8aumMKCyUY) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:39 |
 | 210 | [Mood](https://open.spotify.com/track/7sYqaQ8AlDtOay9KcjEYql) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 4:03 |
 | 211 | [Break My Heart](https://open.spotify.com/track/0YwVv5OCbuCoc1Qyso1Ree) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:43 |
-| 212 | [What's Hannin'](https://open.spotify.com/track/1Bt5SsyEoWBCYEszpiv0cY) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 2:34 |
-| 213 | [Anonymous](https://open.spotify.com/track/2EFhov92KxpKbZvWXCjrpJ) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 2:36 |
+| 212 | [Anonymous](https://open.spotify.com/track/2EFhov92KxpKbZvWXCjrpJ) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 2:36 |
+| 213 | [What's Hannin'](https://open.spotify.com/track/1Bt5SsyEoWBCYEszpiv0cY) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 2:34 |
 | 214 | [Amnesia](https://open.spotify.com/track/52zws8gg9knDauxewOuvNX) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 1:59 |
 | 215 | [Unless It’s You](https://open.spotify.com/track/0dmKU576R699dWtqpGxfAm) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 2:30 |
 | 216 | [Road Trip](https://open.spotify.com/track/4DiTzj5a3YAnDOjx7srHki) | [Hyomin](https://open.spotify.com/artist/1K8kkeM8j0BL8sQ4aR7Vh6) | [Sketch](https://open.spotify.com/album/6pTgLbKoE6GYtVZUvIhwE4) | 3:44 |
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 241 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 242 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `Ab3fSAAAAAA2m35GNjFcqDYhf2JqQ3zI`
+Snapshot ID: `Ab3k1AAAAABQWTxb8JmyNmTgObgkaQ8l`

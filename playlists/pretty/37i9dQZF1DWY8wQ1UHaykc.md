@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Noah
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,034 likes - 180 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,127 likes - 180 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 90 | [Sakit Jiwa](https://open.spotify.com/track/4WQjm8mZBt6kREAt6GkdK2) | [NTRL](https://open.spotify.com/artist/710Oh5ushpaeLgSIcbW8hI) | [11/12](https://open.spotify.com/album/7KScqTiLDVO1l4xwHV53Yy) | 2:10 |
 | 91 | [Selir Hati](https://open.spotify.com/track/44jm7VMs3gZlzZMnwa3Wt3) | [T.R.I.A.D](https://open.spotify.com/artist/3gp2fVD2tUwoq42eZ7DK3l) | [T.R.I.A.D](https://open.spotify.com/album/3wqDej8S1IdtRYUB8srUEY) | 4:04 |
 | 92 | [Sayang](https://open.spotify.com/track/1dDpZbX1MfvWNBqhJhvXgm) | [Supernova](https://open.spotify.com/artist/7kydkMNIMNhr7jDgeOQd4H) | [Bercahaya](https://open.spotify.com/album/7Bk0NnaNXmQHq4WKHy8kWK) | 3:54 |
-| 93 | [Akankah Dia](https://open.spotify.com/track/51naV719uEXPWGG90FlTKS) | [Sidepony](https://open.spotify.com/artist/2cxHAUcweUslsxKiAu2fzs) | [Percayalah](https://open.spotify.com/album/2hOmKUVGCiZi2QCFSNKTJ6) | 3:25 |
+| 93 | [Akankah Dia](https://open.spotify.com/track/51naV719uEXPWGG90FlTKS) | [Sidepony](https://open.spotify.com/artist/0OqP950wV7lxctJvgF8Z2m) | [Percayalah](https://open.spotify.com/album/2hOmKUVGCiZi2QCFSNKTJ6) | 3:25 |
 | 94 | [Tanpa Cinta](https://open.spotify.com/track/2e4xYHvEtqSfl70ntZJMp2) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Semua Tentang Cinta](https://open.spotify.com/album/7niZZvWmVMpCOx7eABTnch) | 4:16 |
 | 95 | [Bawalah Cintaku](https://open.spotify.com/track/0QZEPCT8uhyADw74umgwMT) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Sheila Majid](https://open.spotify.com/artist/6ccyDNcfDQR2yDbF3JV0xl) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 5:16 |
 | 96 | [Mabuk Cinta](https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Satu Hati Sejuta Cinta](https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo) | 3:59 |

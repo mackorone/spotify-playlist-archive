@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: skantia",
-  "num_followers": 72148,
+  "num_followers": 72170,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
+        "name": "BODY DROP (Won't Stop)",
+        "url": "https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "BODY DROP (Won't Stop)",
+      "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
+    },
+    {
+      "added_at": "2025-07-03 23:00:20",
+      "album": {
         "name": "No Warning (feat. Nathan Smoker)",
         "url": "https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 171428,
       "name": "No Warning (feat. Nathan Smoker)",
       "url": "https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B"
-    },
-    {
-      "added_at": "2025-07-03 23:00:20",
-      "album": {
-        "name": "BODY DROP (Won't Stop)",
-        "url": "https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A"
-      },
-      "artists": [
-        {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        }
-      ],
-      "duration_ms": 224914,
-      "name": "BODY DROP (Won't Stop)",
-      "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
     },
     {
       "added_at": "2025-07-03 23:00:20",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2025-07-03 23:00:20",
       "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+        "name": "Goose Chase",
+        "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
       },
       "artists": [
         {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+      "duration_ms": 180344,
+      "name": "Goose Chase",
+      "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
     }
   ],
   "unique_name": "Jump Up!",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,278 songs - 3 day 2 hr 28 min
+1,279 songs - 3 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,9 +184,9 @@
 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 | 2025-03-08 |  |
 | [Digitando](https://open.spotify.com/track/3QpDKVHmf9RDQkJbAUNWzI) | [Gustavo Moura & Rafael](https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T) | [Digitando](https://open.spotify.com/album/1aPgUsmZYO2HRb6QkaZvpM) | 3:15 | 2024-05-23 | 2024-05-25 |
 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 | 2022-02-15 | 2022-02-27 |
-| [Dirty Work](https://open.spotify.com/track/1ImRS2KtSaDZcj9vQTxwFA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1oJztb2MfwieRwHZ1t4NrN) | 3:00 | 2025-06-29 |  |
+| [Dirty Work](https://open.spotify.com/track/1ImRS2KtSaDZcj9vQTxwFA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1oJztb2MfwieRwHZ1t4NrN) | 3:00 | 2025-06-29 | 2025-07-24 |
 | [Dirty Work](https://open.spotify.com/track/1ic3Thr0mG0IsBE98pPcQ2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE) | 3:00 | 2025-07-03 | 2025-07-12 |
-| [Dirty Work](https://open.spotify.com/track/4qtdab2DABnEokwupCl8lG) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 | 2025-06-28 | 2025-07-21 |
+| [Dirty Work](https://open.spotify.com/track/4qtdab2DABnEokwupCl8lG) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 | 2025-06-28 |  |
 | [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/3i2w6O98pzUUmqRJavWF6f) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/1oJztb2MfwieRwHZ1t4NrN) | 3:00 | 2025-06-29 | 2025-07-01 |
 | [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/6kBtuFVssWq2rORvq2ssXS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 | 2025-06-28 | 2025-06-30 |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-26 | 2024-10-28 |
@@ -287,6 +287,7 @@
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-09 | 2023-09-11 |
 | [Get Up](https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 0:36 | 2023-07-22 | 2023-08-10 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-03-13 | 2022-06-26 |
+| [Ghost Girl](https://open.spotify.com/track/5voKDnuTGXBnIZbAqWnb8R) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: TOGETHER](https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG) | 3:06 | 2025-07-23 |  |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-09 | 2022-07-22 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-16 |
 | [Girls Will Be Girls](https://open.spotify.com/track/373C7aTyGRJw7sVT4UG6Fh) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J) | 2:48 | 2025-06-28 | 2025-07-03 |
@@ -955,7 +956,7 @@
 | [同居陌生人 \(ViuTV劇集: 百萬同居計劃歌曲\)](https://open.spotify.com/track/5L3pDOYct21zjioooK0IqX) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [同居陌生人 \(ViuTV劇集: 百萬同居計劃歌曲\)](https://open.spotify.com/album/3EU37B6hp38S984Nxu0iFT) | 3:05 | 2022-12-14 | 2023-06-27 |
 | [呼吸之間](https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [呼吸之間](https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR) | 4:13 | 2022-07-09 | 2022-08-03 |
 | [呼吸有害](https://open.spotify.com/track/4t53NE3uBLkTwW9rUgiHC8) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [呼吸有害](https://open.spotify.com/album/3He2V83TzOwwyrdCJTeJeR) | 3:12 | 2021-03-27\* | 2021-06-18 |
-| [哀傷和愛上算不算同音字](https://open.spotify.com/track/4kIuEUKjGdEcNXf7RxsByr) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [哀傷和愛上算不算同音字](https://open.spotify.com/album/5XPEwc5dNQNnmJUHxBFYgv) | 3:22 | 2025-04-26 |  |
+| [哀傷和愛上算不算同音字](https://open.spotify.com/track/4kIuEUKjGdEcNXf7RxsByr) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [哀傷和愛上算不算同音字](https://open.spotify.com/album/5XPEwc5dNQNnmJUHxBFYgv) | 3:22 | 2025-04-26 | 2025-07-24 |
 | [哪裡只得我共你](https://open.spotify.com/track/6oHNXUrt4s5JJIM1WoOwsZ) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [101](https://open.spotify.com/album/3einZWT5Kn6SEDLXiJ70BD) | 4:30 | 2021-07-10 | 2025-05-18 |
 | [啟示錄](https://open.spotify.com/track/7jV14tGrdN78oPhwsKdKmH) | [Nicholas Tse](https://open.spotify.com/artist/5icAICPWHiBMzTJl7nUPMP) | [Me](https://open.spotify.com/album/6bI7RS4FKWw0Vl45cEOCjG) | 5:16 | 2025-04-27 | 2025-05-01 |
 | [喃嘸師感官漫遊](https://open.spotify.com/track/5jbSWid6JzCiCk3dGgc1aG) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [喃嘸師感官漫遊](https://open.spotify.com/album/1wy1PufTo2DFzDDj3lpTym) | 3:09 | 2024-04-24 | 2024-06-06 |

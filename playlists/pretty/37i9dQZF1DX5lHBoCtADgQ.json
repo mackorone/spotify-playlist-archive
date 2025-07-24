@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 41860,
+  "num_followers": 41888,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,6 @@
     {
       "added_at": "2025-07-03 08:30:54",
       "album": {
-        "name": "Sehreyan Wala",
-        "url": "https://open.spotify.com/album/7BH5M3s2ziaUQBm5R9PCrJ"
-      },
-      "artists": [
-        {
-          "name": "Pallavi Ishpuniyani",
-          "url": "https://open.spotify.com/artist/63r000HgiPQhuzUcZ9MwPf"
-        },
-        {
-          "name": "Avijeet Satapathy",
-          "url": "https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv"
-        }
-      ],
-      "duration_ms": 267241,
-      "name": "Sehreyan Wala",
-      "url": "https://open.spotify.com/track/1aAxE9RbR70oMFXa1JDi8P"
-    },
-    {
-      "added_at": "2025-07-03 08:30:54",
-      "album": {
         "name": "Chan Kithan",
         "url": "https://open.spotify.com/album/34bEDfoNeAjmHWnkmPT5ky"
       },
@@ -683,22 +663,22 @@
     {
       "added_at": "2025-07-03 08:30:54",
       "album": {
-        "name": "Lok Boliyan",
-        "url": "https://open.spotify.com/album/1Msqy9vME2sjOzJVvkfWAR"
+        "name": "Sehreyan Wala",
+        "url": "https://open.spotify.com/album/7BH5M3s2ziaUQBm5R9PCrJ"
       },
       "artists": [
         {
-          "name": "Pal Singh Samaon",
-          "url": "https://open.spotify.com/artist/2Pgn0xL8DGJifVaYpNS5hu"
+          "name": "Pallavi Ishpuniyani",
+          "url": "https://open.spotify.com/artist/63r000HgiPQhuzUcZ9MwPf"
         },
         {
-          "name": "Harinder Hundal",
-          "url": "https://open.spotify.com/artist/2uOb2bGHA6O4ERId5WWAGm"
+          "name": "Avijeet Satapathy",
+          "url": "https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv"
         }
       ],
-      "duration_ms": 566160,
-      "name": "Lok Boliyan",
-      "url": "https://open.spotify.com/track/3GPib79uCC9JiaBRGSiaU4"
+      "duration_ms": 267241,
+      "name": "Sehreyan Wala",
+      "url": "https://open.spotify.com/track/1aAxE9RbR70oMFXa1JDi8P"
     },
     {
       "added_at": "2025-07-03 08:30:54",
@@ -719,6 +699,26 @@
       "duration_ms": 189767,
       "name": "Challa",
       "url": "https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7"
+    },
+    {
+      "added_at": "2025-07-03 08:30:54",
+      "album": {
+        "name": "Lok Boliyan",
+        "url": "https://open.spotify.com/album/1Msqy9vME2sjOzJVvkfWAR"
+      },
+      "artists": [
+        {
+          "name": "Pal Singh Samaon",
+          "url": "https://open.spotify.com/artist/2Pgn0xL8DGJifVaYpNS5hu"
+        },
+        {
+          "name": "Harinder Hundal",
+          "url": "https://open.spotify.com/artist/2uOb2bGHA6O4ERId5WWAGm"
+        }
+      ],
+      "duration_ms": 566160,
+      "name": "Lok Boliyan",
+      "url": "https://open.spotify.com/track/3GPib79uCC9JiaBRGSiaU4"
     },
     {
       "added_at": "2025-07-03 08:30:54",

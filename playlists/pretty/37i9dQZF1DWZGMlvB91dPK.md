@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,237 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,238 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 37 | [ACID](https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt) | [Hyper Jacuzzi](https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1) | [ACID](https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ) | 4:18 |
 | 38 | [Folie](https://open.spotify.com/track/0Ueh3QgfcnrlBipgoWjkDW) | [MIMOSA](https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl) | [Folie](https://open.spotify.com/album/10zfAail7mEa7dOw45R7Mc) | 2:51 |
 | 39 | [Can't Wait](https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [and I can't breathe enough](https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j) | 3:34 |
-| 40 | [Follow No One](https://open.spotify.com/track/61z91eJ0TGByK98iasB1hf) | [DITTER](https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ) | [Follow No One](https://open.spotify.com/album/5EWDjhLV1wSGDQw45Hx4jz) | 3:26 |
-| 41 | [POUR DE BON](https://open.spotify.com/track/2SeDCGCcWkQ0xNFEi0ThYl) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq), [Tonio 8cho](https://open.spotify.com/artist/4BbPpshNwDO8yZUOGuzqdX) | [POUR DE BON](https://open.spotify.com/album/2dQhHCICCWCVT61S5jHMIP) | 2:35 |
+| 40 | [POUR DE BON](https://open.spotify.com/track/2SeDCGCcWkQ0xNFEi0ThYl) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq), [Tonio 8cho](https://open.spotify.com/artist/4BbPpshNwDO8yZUOGuzqdX) | [POUR DE BON](https://open.spotify.com/album/2dQhHCICCWCVT61S5jHMIP) | 2:35 |
+| 41 | [Follow No One](https://open.spotify.com/track/61z91eJ0TGByK98iasB1hf) | [DITTER](https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ) | [Follow No One](https://open.spotify.com/album/5EWDjhLV1wSGDQw45Hx4jz) | 3:26 |
 | 42 | [Pardon](https://open.spotify.com/track/4LrqruvRJpaiLcgpOPPRnR) | [ÉNAÉ](https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM) | [528Hz](https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V) | 3:08 |
 | 43 | [Forever](https://open.spotify.com/track/1xY0IYX9buuQoBABdw2oB2) | [MALVINA](https://open.spotify.com/artist/6LvXqXnw5SEWHhXPz9be4n) | [Forever](https://open.spotify.com/album/7segRmevYXc3m4VAmw7grT) | 4:00 |
 | 44 | [Haunted House](https://open.spotify.com/track/2aJqXLVH09TG9v2bD860iY) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [and I can't breathe enough](https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j) | 3:24 |

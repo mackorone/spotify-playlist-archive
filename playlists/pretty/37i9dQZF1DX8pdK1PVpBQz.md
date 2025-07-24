@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Dylan Atlantis
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,390 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,394 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Still Sweet](https://open.spotify.com/track/4kR1H437UieRbDAcz2s8IP) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO) | [Still Sweet](https://open.spotify.com/album/3BSPrmpXFlCu3OoLSK7Ue8) | 3:01 |
 | 2 | [Mindflower](https://open.spotify.com/track/3xHMMtjr6MCB5TwildjO2V) | [Now Always Fades](https://open.spotify.com/artist/7bdXd6MqOWlETFIx0hpPgy) | [Into The Doldrums](https://open.spotify.com/album/1ljJP9x1MXnzEqwDNkmST1) | 4:14 |
-| 3 | [Burning Up](https://open.spotify.com/track/3UANpPF53vX9a37CfyJELS) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Burnin' Up](https://open.spotify.com/album/4gugYVVz2tMZt5duf7yhsI) | 3:34 |
+| 3 | [Burnin' Up](https://open.spotify.com/track/3UANpPF53vX9a37CfyJELS) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Burnin' Up](https://open.spotify.com/album/4gugYVVz2tMZt5duf7yhsI) | 3:34 |
 | 4 | [SCORPIO SWORD](https://open.spotify.com/track/3QqJzlqCpB72tmbTiftZo5) | [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX) | [SCORPIO SWORD](https://open.spotify.com/album/1LfAgdz7ZvKYDtZdwdhAEd) | 3:37 |
 | 5 | [Far Away Need Some](https://open.spotify.com/track/6fItyzi1ClBjr0vqcU4XX3) | [FELONY.](https://open.spotify.com/artist/1i9pNz3sJuxa6vWz60Dgd4) | [Far Away Need Some](https://open.spotify.com/album/2jEr7N3h8A0jVFv1WNaZpl) | 3:40 |
 | 6 | [Harry and the Jets](https://open.spotify.com/track/6lSAHuOAfFC5DtSQrCsfE3) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [Harry and the Jets](https://open.spotify.com/album/6FQ9I0d2e7pvddqHb3UgIC) | 4:16 |

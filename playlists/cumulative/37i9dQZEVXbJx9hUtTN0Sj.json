@@ -5704,7 +5704,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 107777,
       "name": "Cant Go Broke - Remix",
       "url": "https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz"
@@ -8830,7 +8830,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
@@ -8852,7 +8852,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
@@ -13658,7 +13658,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 110571,
       "name": "has to be you",
       "url": "https://open.spotify.com/track/7hgdBoFN7AE2c6Gwh0zS4P"
@@ -14530,7 +14530,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 189767,
       "name": "High On Me",
       "url": "https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp"
@@ -20977,6 +20977,24 @@
     },
     {
       "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
+    },
+    {
+      "album": {
         "name": "solo",
         "url": "https://open.spotify.com/album/5vgGQQEXOhWB8On731hF6f"
       },
@@ -24308,7 +24326,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 149866,
       "name": "No Me Dejes",
       "url": "https://open.spotify.com/track/6lXNac8TwtO8TLRetFQtz2"
@@ -24752,6 +24770,24 @@
       "duration_ms": 143184,
       "name": "NOW IT'S GONE",
       "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
+    },
+    {
+      "album": {
+        "name": "Now We Are Free",
+        "url": "https://open.spotify.com/album/2hx91zv2MPmgtAQS8Hxtaa"
+      },
+      "artists": [
+        {
+          "name": "KOMET",
+          "url": "https://open.spotify.com/artist/7ASFmpzSDMUmOw4Ru5PPzr"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200187,
+      "name": "Now We Are Free",
+      "url": "https://open.spotify.com/track/0DhS6FGlJkZEWM2gmjB5dD"
     },
     {
       "album": {
@@ -27224,10 +27260,32 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
+    },
+    {
+      "album": {
+        "name": "Soft Machine",
+        "url": "https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0"
+      },
+      "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246786,
+      "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
+      "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
     },
     {
       "album": {
@@ -30253,6 +30311,24 @@
     },
     {
       "album": {
+        "name": "SOLD MY SOUL",
+        "url": "https://open.spotify.com/album/61bHizZ5lcUniZrI15U7WW"
+      },
+      "artists": [
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199550,
+      "name": "SOLD MY SOUL",
+      "url": "https://open.spotify.com/track/2GxSge6HAH6nt64yT83zmA"
+    },
+    {
+      "album": {
         "name": "Soleil Bleu",
         "url": "https://open.spotify.com/album/40MpjIfOWoK6bJ2lnCsEcx"
       },
@@ -30902,7 +30978,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 185942,
       "name": "stay",
       "url": "https://open.spotify.com/track/56PS9rUrkwa1TYG6l1Vb0v"
@@ -33306,7 +33382,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 201230,
       "name": "Tipo Nino Vs Kabrinha",
       "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
@@ -37810,7 +37886,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 126799,
       "name": "YUP AND I DO",
       "url": "https://open.spotify.com/track/6cA7DVYZYEYFKop72MRRRB"

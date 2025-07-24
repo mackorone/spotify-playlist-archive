@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,949 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,957 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 43 | [Isla del Pacífico](https://open.spotify.com/track/5oOpcWXnLzrPzPCk1upLUw) | [La De Roberto](https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Lo Mágico y Lo Místico](https://open.spotify.com/album/4Geye3gQ4G8rz5LTkWCHcL) | 2:51 |
 | 44 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 |
 | 45 | [Verano ´99](https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe) | [VILLAGRÁN](https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Verano ´99](https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A) | 2:43 |
-| 46 | [Tu Loquito Vos Mi Loquita](https://open.spotify.com/track/3NC2VUVsR6BsM1qC3qtqvk) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [Tu Loquito Vos Mi Loquita](https://open.spotify.com/album/3mo2JuYksoOoGepCCFyyhE) | 3:18 |
-| 47 | [UNA CUMBITA](https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [UNA CUMBITA](https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az) | 2:15 |
+| 46 | [UNA CUMBITA](https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [UNA CUMBITA](https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az) | 2:15 |
+| 47 | [Tu Loquito Vos Mi Loquita](https://open.spotify.com/track/3NC2VUVsR6BsM1qC3qtqvk) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [Tu Loquito Vos Mi Loquita](https://open.spotify.com/album/3mo2JuYksoOoGepCCFyyhE) | 3:18 |
 | 48 | [Me Haces Falta](https://open.spotify.com/track/2p5HdaHUaVSpIhSyqSAGjG) | [Wildo Samuel](https://open.spotify.com/artist/3mh9ySoVfvp4pt7HAiflR1), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Basti](https://open.spotify.com/artist/7hLsmdqGDPeCJLiKRGljDb) | [Me Haces Falta](https://open.spotify.com/album/1LAAMDXoeGYZkOsW8omDwW) | 3:24 |
 | 49 | [A Tu Ventana](https://open.spotify.com/track/3Qczr3h4wRl74fio8VFv4b) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Éxitos los Chiches Vallenatos](https://open.spotify.com/album/1KpRYCfdhi4dnnCNdGvdcU) | 4:42 |
 | 50 | [Estamos Solos \(Nderehe'y\)](https://open.spotify.com/track/7KTWO0fIqXdsX1XDtUIzWu) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Estamos Solos \(Nderehe'y\)](https://open.spotify.com/album/1KMbrF7GXhwWcslv5BgjbH) | 2:54 |

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Rayalistisch (Reissue)",
+        "url": "https://open.spotify.com/album/7vrpUK5hOOuI2y1jSGuaVq"
+      },
+      "artists": [
+        {
+          "name": "Raymzter",
+          "url": "https://open.spotify.com/artist/5ZntjOpn1ADiQnLx3W9Eja"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243986,
+      "name": "9 tot 5",
+      "url": "https://open.spotify.com/track/0tUZPEifyYlDfqH0MrvCnh"
+    },
+    {
+      "album": {
         "name": "Algemeen Beskaafd Nederlanz",
         "url": "https://open.spotify.com/album/7C2SA1EWbV9nNSneLx4eiU"
       },
@@ -1876,7 +1894,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 206040,
       "name": "Wij Zijn",
       "url": "https://open.spotify.com/track/3GWUyMwZfzLCUktWzns0jP"

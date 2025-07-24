@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 172800,
+  "num_followers": 172811,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAByZ6Tdl3p85FDW6H6Vy73G",
+  "snapshot_id": "aH7UgAAAAABYQ89c9AnMO2wQ8hlE5GcX",
   "tracks": [
     {
       "added_at": null,
@@ -527,34 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sr. Santos II Sue\u00f1os de Grandeza",
-        "url": "https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 293156,
-      "name": "Wells Fargo",
-      "url": "https://open.spotify.com/track/2tXx1UWEjtZNOak94m7R8g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DEMBO$$",
         "url": "https://open.spotify.com/album/7bp8TEGxs1Q8bCB3HbzghV"
       },
@@ -575,6 +547,30 @@
       "duration_ms": 248589,
       "name": "Dembow y Reggaeton",
       "url": "https://open.spotify.com/track/3OB01aM0Nf7tWds1TLEL3j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/6sId7HxwowQflyXaVS8PUZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Square Houze",
+          "url": "https://open.spotify.com/artist/6yQqyQJiGD4UgKNE02P4Np"
+        }
+      ],
+      "duration_ms": 192650,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/1Khrw3Kue4yG8n3e8S1i1v"
     },
     {
       "added_at": null,
@@ -611,30 +607,6 @@
       "duration_ms": 188600,
       "name": "Fecha",
       "url": "https://open.spotify.com/track/14LaTeixKug7O2jNMK8u1C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/6sId7HxwowQflyXaVS8PUZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Square Houze",
-          "url": "https://open.spotify.com/artist/6yQqyQJiGD4UgKNE02P4Np"
-        }
-      ],
-      "duration_ms": 192650,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/1Khrw3Kue4yG8n3e8S1i1v"
     },
     {
       "added_at": null,
@@ -703,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 194941,
-      "name": "Sigo Enamorau'",
-      "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -743,6 +695,26 @@
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 194941,
+      "name": "Sigo Enamorau'",
+      "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
     },
     {
       "added_at": null,
@@ -923,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BORRACHO Y LOCO",
-        "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "BORRACHO Y LOCO",
-      "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
       },
@@ -983,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BORRACHO Y LOCO",
+        "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "BORRACHO Y LOCO",
+      "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SINF\u00d3NICO (En Vivo)",
         "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
       },
@@ -995,6 +967,54 @@
       "duration_ms": 120101,
       "name": "Noche De Entierro - Sinf\u00f3nico En Vivo",
       "url": "https://open.spotify.com/track/229RHylF8KuiREpa3hY01H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Unica - Remix",
+      "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Underdog - El Subestimado",
+        "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 184480,
+      "name": "Cuando Baila Reggaeton",
+      "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
     },
     {
       "added_at": null,
@@ -1031,54 +1051,6 @@
       "duration_ms": 322906,
       "name": "Bonita - Remix",
       "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Underdog - El Subestimado",
-        "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "Cuando Baila Reggaeton",
-      "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "Unica - Remix",
-      "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
     },
     {
       "added_at": null,
@@ -1127,18 +1099,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SINF\u00d3NICO (En Vivo)",
-        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
+        "name": "Desperte Sin Ti (Remix)",
+        "url": "https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v"
       },
       "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 343615,
-      "name": "Tel\u00e9fono / M\u00edrala Bien / Rakata / Ahora Es / Pam Pam Medley - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/5ALM9Olk2WqEKFtFiLV2q4"
+      "duration_ms": 319586,
+      "name": "Desperte Sin Ti - Remix",
+      "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
     },
     {
       "added_at": null,
@@ -1167,6 +1147,22 @@
       "duration_ms": 240778,
       "name": "LA MAYBACH",
       "url": "https://open.spotify.com/track/0kJAsLcG0lPlYTwGbCwcvt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SINF\u00d3NICO (En Vivo)",
+        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 343615,
+      "name": "Tel\u00e9fono / M\u00edrala Bien / Rakata / Ahora Es / Pam Pam Medley - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/5ALM9Olk2WqEKFtFiLV2q4"
     }
   ],
   "unique_name": "This Is Yandel",

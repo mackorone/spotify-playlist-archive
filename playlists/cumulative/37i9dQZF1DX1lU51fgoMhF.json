@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: \ub3c4\uacbd\uc218(D.O.))",
+  "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: STAYC)",
   "name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "tracks": [
     {
@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "HOOK",
+        "url": "https://open.spotify.com/album/2sro0GXELrNHRYkvju3mVE"
+      },
+      "artists": [
+        {
+          "name": "LEE MINHYUK (HUTA)",
+          "url": "https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Bora",
+      "url": "https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v"
+    },
+    {
+      "album": {
         "name": "Break Ice",
         "url": "https://open.spotify.com/album/3OzSEoUPp5sNGtzXftotKm"
       },
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 180809,
       "name": "Dance The Night Away",
       "url": "https://open.spotify.com/track/2fQdK9TqM1mCURsjEcT0ly"
@@ -2743,6 +2761,24 @@
     },
     {
       "album": {
+        "name": "STAYC Special Single [I WANT IT]",
+        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184984,
+      "name": "I WANT IT",
+      "url": "https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T"
+    },
+    {
+      "album": {
         "name": "I'm Good",
         "url": "https://open.spotify.com/album/5e9LjQT2K7J4kylaBwDdv3"
       },
@@ -3072,7 +3108,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 175106,
       "name": "Klaxon",
       "url": "https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X"
@@ -5216,7 +5252,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 203056,
       "name": "REALLY REALLY",
       "url": "https://open.spotify.com/track/02UNF1uo5f0UNgc1qx5XGt"
@@ -5846,7 +5882,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 173133,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8"
@@ -6836,7 +6872,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 175327,
       "name": "What You Waiting For",
       "url": "https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B"
@@ -7054,6 +7090,24 @@
       "duration_ms": 209306,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2YainWN6brhIOvlSAFHlor"
+    },
+    {
+      "album": {
+        "name": "YOU AND I",
+        "url": "https://open.spotify.com/album/4MoiswkE556lt1PuCCOUIE"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169053,
+      "name": "YOU AND I",
+      "url": "https://open.spotify.com/track/2hHOqDemKev23WuLV8Rhwv"
     },
     {
       "album": {

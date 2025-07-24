@@ -6,7 +6,7 @@
     "name": "solo",
     "url": "https://open.spotify.com/user/vida_bence"
   },
-  "snapshot_id": "AAAAzmZMTrBqAPq398Xk7HVh2J9SkRFS",
+  "snapshot_id": "AAAAz7DzshGO2LJoyUivp87vn1xTVWJr",
   "tracks": [
     {
       "added_at": "2024-10-17 10:14:13",
@@ -2003,6 +2003,26 @@
       "duration_ms": 173653,
       "name": "PLEKNI",
       "url": "https://open.spotify.com/track/2fbc4RDPWdcZC5NVHYGWOA"
+    },
+    {
+      "added_at": "2025-07-23 09:04:12",
+      "album": {
+        "name": "SZ\u00c1MLAK\u00c9PES CSAJOK",
+        "url": "https://open.spotify.com/album/6O1WCKUAizm4thqp0yA1NH"
+      },
+      "artists": [
+        {
+          "name": "JANA",
+          "url": "https://open.spotify.com/artist/3sVMPCOGrvv6saKNwgMiQd"
+        },
+        {
+          "name": "PEAK",
+          "url": "https://open.spotify.com/artist/3zpUJqZcnKyX8FSpbAS0FS"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "SZ\u00c1MLAK\u00c9PES CSAJOK",
+      "url": "https://open.spotify.com/track/693MKbwdGPRXWbCyhbUd3s"
     }
   ],
   "unique_name": "Halo (2)",

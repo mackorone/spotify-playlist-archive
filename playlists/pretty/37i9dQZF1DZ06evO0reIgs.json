@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 82037,
+  "num_followers": 82038,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAADIzkIPQRCVfjUKxbGtybVA",
+  "snapshot_id": "aH7UgAAAAADitmBteKJkaq2+uFfUqA4n",
   "tracks": [
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pode Sair / Pode Ficar",
-        "url": "https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS"
-      },
-      "artists": [
-        {
-          "name": "Math Basso",
-          "url": "https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 173042,
-      "name": "Pode Sair / Pode Ficar",
-      "url": "https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minissaia",
         "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 169133,
       "name": "Passando de Fase",
       "url": "https://open.spotify.com/track/4ByxsdnhZPrxPqic935TJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pode Sair / Pode Ficar",
+        "url": "https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS"
+      },
+      "artists": [
+        {
+          "name": "Math Basso",
+          "url": "https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 173042,
+      "name": "Pode Sair / Pode Ficar",
+      "url": "https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR"
     },
     {
       "added_at": null,
@@ -595,34 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "Sos",
-      "url": "https://open.spotify.com/track/0D0GflJErwCQiH3P3kQ8I5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beira Mar",
         "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
       },
@@ -659,22 +631,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gado",
-        "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
       },
       "artists": [
         {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
         }
       ],
-      "duration_ms": 149538,
-      "name": "Psiu",
-      "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
+      "duration_ms": 211363,
+      "name": "Sos",
+      "url": "https://open.spotify.com/track/0D0GflJErwCQiH3P3kQ8I5"
     },
     {
       "added_at": null,
@@ -699,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gado",
+        "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Psiu",
+      "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -719,26 +719,6 @@
       "duration_ms": 238080,
       "name": "Deixa Ela",
       "url": "https://open.spotify.com/track/6Ko0LtUSamxOleNdwcM5DL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Cais, Pt. 2",
-        "url": "https://open.spotify.com/album/4v6epim36lXU2WcKIESFYg"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "No Cais, Pt. 2",
-      "url": "https://open.spotify.com/track/67E2SsRClw94caRkxBkhf8"
     },
     {
       "added_at": null,
@@ -771,6 +751,26 @@
       "duration_ms": 206829,
       "name": "Ela T\u00e1 Que T\u00e1",
       "url": "https://open.spotify.com/track/3G79AJm9H5lKnngSgBT21L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Cais, Pt. 2",
+        "url": "https://open.spotify.com/album/4v6epim36lXU2WcKIESFYg"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "No Cais, Pt. 2",
+      "url": "https://open.spotify.com/track/67E2SsRClw94caRkxBkhf8"
     },
     {
       "added_at": null,
@@ -867,30 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "Outra Dimens\u00e3o",
-      "url": "https://open.spotify.com/track/3M7c2mwQOZZS5KnXtJqXX4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetisas no Topo 4",
         "url": "https://open.spotify.com/album/3ysU9DYelUV6ML80xGMki9"
       },
@@ -947,6 +923,30 @@
       "duration_ms": 181500,
       "name": "O Que Voc\u00ea Faz",
       "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "Outra Dimens\u00e3o",
+      "url": "https://open.spotify.com/track/3M7c2mwQOZZS5KnXtJqXX4"
     },
     {
       "added_at": null,

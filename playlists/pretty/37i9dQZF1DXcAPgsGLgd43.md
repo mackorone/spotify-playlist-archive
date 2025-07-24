@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,170 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,390 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 81 | [Dame De Eso](https://open.spotify.com/track/5JOnEA0t4lW9ZAR3NB6AhP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Dame De Eso](https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy) | 3:34 |
 | 82 | [Pégate](https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Pégate](https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS) | 3:17 |
 | 83 | [Barahúnda](https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS) | [Monge](https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1) | [Barahúnda](https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv) | 2:19 |
-| 84 | [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 |
-| 85 | [Down](https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Down](https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy) | 2:43 |
-| 86 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 |
-| 87 | [Matadora \- Radio Edit](https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Matadora \(Radio Edit\)](https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV) | 3:00 |
+| 84 | [Down](https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Down](https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy) | 2:43 |
+| 85 | [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 |
+| 86 | [Matadora \- Radio Edit](https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Matadora \(Radio Edit\)](https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV) | 3:00 |
+| 87 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 |
 | 88 | [Fuego](https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u) | [Fuego](https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a) | 2:00 |
 | 89 | [La Luz](https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI) | [La Luz](https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf) | 2:40 |
 | 90 | [O Cajado](https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Aycond](https://open.spotify.com/artist/1ACtC12c3ceV8I49mlX4YO) | [O Cajado](https://open.spotify.com/album/6ltI3dn0un01Y9qS6NxAX9) | 3:13 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 97 | [No Sleep \(No Me Dejan Dormir\)](https://open.spotify.com/track/1JwMrp7fkOKHQRimzi8tuL) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [No Sleep \(No Me Dejan Dormir\)](https://open.spotify.com/album/2wdqTB5LqyomeohvBYjVaH) | 2:38 |
 | 98 | [Quema Quema](https://open.spotify.com/track/0UHgu6IsBEFbgM3yBVGpG5) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG) | [Quema Quema](https://open.spotify.com/album/7G5sNykeQyN6A5AViRTEDL) | 2:53 |
 | 99 | [Bidi Bam](https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Bidi Bam](https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7) | 2:00 |
-| 100 | [Rulay](https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw) | [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [Mydoz](https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb), [Zairah](https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b) | [Rulay](https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN) | 2:45 |
+| 100 | [OBSESION](https://open.spotify.com/track/2Xv7APjqwJ7wY5nr7DGyHH) | [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Aaron Sevilla](https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX), [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP) | [OBSESION](https://open.spotify.com/album/6LUNRiG1rFwl45oQibVRLd) | 3:37 |
 
 Snapshot ID: `aHpeQwAAAABSan8twgyD4EbiRmy0Ra/D`

@@ -1,6 +1,6 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3442258,
+  "num_followers": 3441862,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 163547,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM"
       },
@@ -1691,18 +1675,34 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Like No One Does",
-        "url": "https://open.spotify.com/album/7dXSckW6VGuZlmCiK14Go2"
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
       },
       "artists": [
         {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
-      "duration_ms": 158469,
-      "name": "Like No One Does",
-      "url": "https://open.spotify.com/track/2HnfqILzgKt1CepTlU4oqq"
+      "duration_ms": 163547,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 150781,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/385VOmGbguaPG57TgoW8Lh"
     }
   ],
   "unique_name": "Love Pop",

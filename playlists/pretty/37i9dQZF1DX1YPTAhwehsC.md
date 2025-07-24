@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: B Jack$
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,284 likes - 99 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,232 likes - 99 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

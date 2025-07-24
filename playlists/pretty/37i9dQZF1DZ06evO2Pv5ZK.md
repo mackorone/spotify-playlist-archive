@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,417 likes - 47 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,418 likes - 47 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 17 | [Twenty Eighth Parallel](https://open.spotify.com/track/15I4SzvLAI1mguGr9mgIUq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 5:14 |
 | 18 | [Dreams of Surf](https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 2:43 |
 | 19 | [Tears in Rain](https://open.spotify.com/track/2LxEIWrZkzfc55c3rk05DH) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:00 |
-| 20 | [L'enfant \- Remastered](https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 5:00 |
+| 20 | [Antarctica Echoes \- Remastered](https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 5:52 |
 | 21 | [Eternity](https://open.spotify.com/track/0X6SplektlOd1CwtwuOOaM) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 1:58 |
-| 22 | [Antarctica Echoes \- Remastered](https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 5:52 |
+| 22 | [L'enfant \- Remastered](https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 5:00 |
 | 23 | [Main Titles](https://open.spotify.com/track/6baN5nSUIVTsUyugSuAj7U) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:42 |
 | 24 | [Ask the Mountains](https://open.spotify.com/track/7nnRf1iHM8G8WTVrnkWkbv) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 7:53 |
 | 25 | [The Tao Of Love](https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [China](https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk) | 2:44 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 46 | [12 O'Clock](https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Best Of](https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39) | 5:31 |
 | 47 | [Spanish Harbour](https://open.spotify.com/track/6PKyIEkpoyOh9K47NdHTzG) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 6:42 |
 
-Snapshot ID: `aH2DAAAAAADeL6Vur7H8UyChz3HbxHzf`
+Snapshot ID: `aH7UgAAAAACX0K2Jz0yWkO0rNm0O4iL3`

@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 173186,
-      "name": "712PM",
-      "url": "https://open.spotify.com/track/3FSwpQ9dBZBeBV6UdYHI2R"
+      "duration_ms": 271840,
+      "name": "I'M DAT N****",
+      "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 271840,
-      "name": "I'M DAT N****",
-      "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
+      "duration_ms": 173186,
+      "name": "712PM",
+      "url": "https://open.spotify.com/track/3FSwpQ9dBZBeBV6UdYHI2R"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -851,30 +851,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "BIG30",
-          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 157480,
-      "name": "SRT (feat. BIG30 & Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/0VohK45FIUHEMBbfUw8iBM"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
         "url": "https://open.spotify.com/album/0q6qOUfC4ikWtv62KCnoip"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 161052,
       "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/3J4VKkUpLvomXJbn9ZAypO"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 157480,
+      "name": "SRT (feat. BIG30 & Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/0VohK45FIUHEMBbfUw8iBM"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -951,22 +951,18 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "See Wat I\u2019m Sayin",
-        "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
+        "name": "Pimpin' Ain't Eazy",
+        "url": "https://open.spotify.com/album/5kltcGxaQ7kpkDx05qJlZ0"
       },
       "artists": [
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 146732,
-      "name": "See Wat I\u2019m Sayin",
-      "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
+      "duration_ms": 177000,
+      "name": "Pimpin Ain't Eazy",
+      "url": "https://open.spotify.com/track/5FxKZ4IajYIRDjAWAboiB4"
     }
   ],
   "unique_name": "RJ Barrett's Taste",

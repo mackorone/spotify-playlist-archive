@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 215093,
+  "num_followers": 215110,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 292224,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
         "name": "La Historia Continua",
         "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
       },
@@ -571,6 +587,22 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 283293,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
         "name": "Homenaje",
         "url": "https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ"
       },
@@ -587,18 +619,22 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr"
+        "name": "Para Nunca Olvidar",
+        "url": "https://open.spotify.com/album/3WdWIE9n2ZKWsNUHffAtqD"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Farid Ortiz",
+          "url": "https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN"
+        },
+        {
+          "name": "Negrito Osorio",
+          "url": "https://open.spotify.com/artist/5rqa30CMYcRjwQttr5HlSl"
         }
       ],
-      "duration_ms": 253066,
-      "name": "T\u00fa Vas a Volar",
-      "url": "https://open.spotify.com/track/5jbeMwT4FdbL4X3UgmfluA"
+      "duration_ms": 280426,
+      "name": "Preg\u00fantele a Su Hija",
+      "url": "https://open.spotify.com/track/6ZL4R6iFvVd3R6a6OuPbKv"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -619,22 +655,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 292224,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "El Binomio De Oro",
         "url": "https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv"
       },
@@ -647,6 +667,22 @@
       "duration_ms": 182666,
       "name": "La Creciente",
       "url": "https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "T\u00fa Vas a Volar",
+      "url": "https://open.spotify.com/track/5jbeMwT4FdbL4X3UgmfluA"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -683,22 +719,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 307720,
-      "name": "Las Razones Del Amor",
-      "url": "https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
@@ -731,6 +751,22 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 307720,
+      "name": "Las Razones Del Amor",
+      "url": "https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
       },
@@ -759,22 +795,6 @@
       "duration_ms": 257640,
       "name": "No Le Temas al Amor",
       "url": "https://open.spotify.com/track/0WTm21amOR7KQNh67GA1OP"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 283853,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -835,22 +855,18 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Para Nunca Olvidar",
-        "url": "https://open.spotify.com/album/3WdWIE9n2ZKWsNUHffAtqD"
+        "name": "Grandes Hits - Los Chiches Vallenatos",
+        "url": "https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx"
       },
       "artists": [
         {
-          "name": "Farid Ortiz",
-          "url": "https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN"
-        },
-        {
-          "name": "Negrito Osorio",
-          "url": "https://open.spotify.com/artist/5rqa30CMYcRjwQttr5HlSl"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         }
       ],
-      "duration_ms": 280426,
-      "name": "Preg\u00fantele a Su Hija",
-      "url": "https://open.spotify.com/track/6ZL4R6iFvVd3R6a6OuPbKv"
+      "duration_ms": 288194,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -867,22 +883,6 @@
       "duration_ms": 288533,
       "name": "Te Sorprender\u00e1s",
       "url": "https://open.spotify.com/track/7f4wlBeT8vqUDmom4Q676T"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
-        "name": "Grandes Hits - Los Chiches Vallenatos",
-        "url": "https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        }
-      ],
-      "duration_ms": 288194,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Historia Musical de Los Embajadores Vallenatos",
-        "url": "https://open.spotify.com/album/1ttEZHvwYpa4eUwpSg1PaS"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 258218,
-      "name": "Se Le Moja la Canoa (La Canoa)",
-      "url": "https://open.spotify.com/track/5M7HcDhJzZzhB2JaLQGbRl"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "Mejor Que Antes",
         "url": "https://open.spotify.com/album/3ZVXcUUrYFAfAtG1brH6oF"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 257642,
       "name": "Muchacha Encantadora",
       "url": "https://open.spotify.com/track/5Tt3giholy0v1UAJ1DJwpt"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "Historia Musical de Los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/1ttEZHvwYpa4eUwpSg1PaS"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "duration_ms": 258218,
+      "name": "Se Le Moja la Canoa (La Canoa)",
+      "url": "https://open.spotify.com/track/5M7HcDhJzZzhB2JaLQGbRl"
     },
     {
       "added_at": "2025-06-06 05:39:08",

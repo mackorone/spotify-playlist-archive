@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46075,
+  "num_followers": 46072,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAADlyqCfzSf1lMPFLwwisd7G",
+  "snapshot_id": "aH7UgAAAAAAF+lTNYOkCTbbzWTtUnqqv",
   "tracks": [
     {
       "added_at": null,
@@ -639,30 +639,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dr. Drill",
-        "url": "https://open.spotify.com/album/0uc0wcg2BWv4J8NtrzPRK0"
+        "name": "Meu Sol",
+        "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
       },
       "artists": [
         {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
         },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Insane Tracks",
-          "url": "https://open.spotify.com/artist/1eEi4Stf9m65EW0JwWodYZ"
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
         }
       ],
-      "duration_ms": 251418,
-      "name": "Aulas e Palestras",
-      "url": "https://open.spotify.com/track/0eh5ZxasoT8tJBDEZ6oi6c"
+      "duration_ms": 206643,
+      "name": "Meu Sol",
+      "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
     },
     {
       "added_at": null,
@@ -687,26 +683,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Sol",
-        "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
+        "name": "Dr. Drill",
+        "url": "https://open.spotify.com/album/0uc0wcg2BWv4J8NtrzPRK0"
       },
       "artists": [
         {
-          "name": "Jonathan Ferr",
-          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+          "name": "Insane Tracks",
+          "url": "https://open.spotify.com/artist/1eEi4Stf9m65EW0JwWodYZ"
         }
       ],
-      "duration_ms": 206643,
-      "name": "Meu Sol",
-      "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
+      "duration_ms": 251418,
+      "name": "Aulas e Palestras",
+      "url": "https://open.spotify.com/track/0eh5ZxasoT8tJBDEZ6oi6c"
     },
     {
       "added_at": null,
@@ -859,6 +859,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 214612,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Linhas Inimigas",
+      "url": "https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Non Ducor Duco",
         "url": "https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG"
       },
@@ -887,38 +919,6 @@
       "duration_ms": 243400,
       "name": "Porque Eu Rimo",
       "url": "https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Linhas Inimigas",
-      "url": "https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 214612,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
     },
     {
       "added_at": null,
@@ -1043,6 +1043,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quem Vai Ser?",
+        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Lopes",
+          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 157918,
+      "name": "Quem Vai Ser?",
+      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Azz Veizz",
         "url": "https://open.spotify.com/album/4sGPPuO7iZv7qXr7ace65g"
       },
@@ -1099,26 +1123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem Vai Ser?",
-        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
       },
       "artists": [
-        {
-          "name": "Mar\u00edlia Lopes",
-          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
-        },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Luiz Guima",
+          "url": "https://open.spotify.com/artist/4AyjqXHOB3D1eHD4mNtCjZ"
         }
       ],
-      "duration_ms": 157918,
-      "name": "Quem Vai Ser?",
-      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
+      "duration_ms": 282053,
+      "name": "Hora de Acordar",
+      "url": "https://open.spotify.com/track/4RBXdmsItgDjYh2dHprfhI"
     },
     {
       "added_at": null,
@@ -1147,24 +1167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 187669,
-      "name": "A Lua Atr\u00e1s Do Pr\u00e9dio",
-      "url": "https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+        "name": "Seis Sons",
+        "url": "https://open.spotify.com/album/5TuZ4UVa6g5ZtGBe9YOPKY"
       },
       "artists": [
         {
@@ -1172,13 +1176,13 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Luiz Guima",
-          "url": "https://open.spotify.com/artist/4AyjqXHOB3D1eHD4mNtCjZ"
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
         }
       ],
-      "duration_ms": 282053,
-      "name": "Hora de Acordar",
-      "url": "https://open.spotify.com/track/4RBXdmsItgDjYh2dHprfhI"
+      "duration_ms": 243070,
+      "name": "Ainda Tem",
+      "url": "https://open.spotify.com/track/6yZLNopsiNqLwu8NNoCDEl"
     }
   ],
   "unique_name": "This Is Rashid",

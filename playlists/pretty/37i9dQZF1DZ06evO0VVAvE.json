@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 6023,
+  "num_followers": 6034,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAABJHg4KikePpGXtj4UGbFai",
+  "snapshot_id": "aH7UgAAAAACG3Kd1LkFLy615rKxr0GMC",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 145248,
-      "name": "Introduction",
-      "url": "https://open.spotify.com/track/0Q5fmTDuMkhDGp5geZNCgO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trenches Luv",
         "url": "https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 205714,
       "name": "Trenches Luv",
       "url": "https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 145248,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/0Q5fmTDuMkhDGp5geZNCgO"
     },
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Play (feat. Fave)",
-      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okanlawon, Vol. 2 (Deluxe)",
         "url": "https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 212871,
       "name": "The Way (Remix)",
       "url": "https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Play (feat. Fave)",
+      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
       "duration_ms": 278177,
       "name": "Basic",
       "url": "https://open.spotify.com/track/46d3smHJFMcz3RbANz19nS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give Me No Stress 2.0",
-        "url": "https://open.spotify.com/album/49VGlMgyFKCHuqexCt480e"
-      },
-      "artists": [
-        {
-          "name": "Jayfred",
-          "url": "https://open.spotify.com/artist/1bnbgn11Ow9KZiL0AYiA9R"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 170973,
-      "name": "Give Me No Stress (GMNS)",
-      "url": "https://open.spotify.com/track/2Kzc2qnO9wKvMoDuSHkL5W"
     }
   ],
   "unique_name": "This Is T.I BLAZE",

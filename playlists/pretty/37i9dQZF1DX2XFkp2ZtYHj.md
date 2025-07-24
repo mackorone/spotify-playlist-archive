@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,053 likes - 187 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,424 likes - 187 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 | 186 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 |
 | 187 | [Lift Me Up](https://open.spotify.com/track/0IBr2Sdv4JbwkEM8hEghn4) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Lift Me Up](https://open.spotify.com/album/08gbtfj8eeJjEXFehorp3m) | 2:12 |
 
-Snapshot ID: `aG1FVwAAAAB/VkBifoI9E3XxIAYbmO43`
+Snapshot ID: `aIFLJwAAAAA4E/K9LAoeEJPoWNV9MEbf`

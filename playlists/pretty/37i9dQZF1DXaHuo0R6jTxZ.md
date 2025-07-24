@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,031 likes - 40 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,050 likes - 40 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 25 | [Awel Hob](https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Awel Hob](https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO) | 4:16 |
 | 26 | [Ya Leila Disco](https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:20 |
 | 27 | [Keda Keda Ya Terella](https://open.spotify.com/track/3wlbAd9KLt8UcaZk0Vq5XB) | [Vicka](https://open.spotify.com/artist/1DvYjKqpI2Y3xP0hsqt29n) | [Nubian Legends](https://open.spotify.com/album/2tkQvpsJdhTkF11z83PPuf) | 4:42 |
-| 28 | [Akli Tar](https://open.spotify.com/track/4FSa6KE2uao5dTcQJRaQQ5) | [Alaa Zalzali](https://open.spotify.com/artist/0fGQD0MLEXWiZgMamVcC11) | [Je Suis Malade](https://open.spotify.com/album/5RNaW8jDyrMC7llIQJximN) | 4:08 |
-| 29 | [Lola El Sahar](https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Oriental Party](https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX) | 3:34 |
+| 28 | [Lola El Sahar](https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Oriental Party](https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX) | 3:34 |
+| 29 | [Akli Tar](https://open.spotify.com/track/4FSa6KE2uao5dTcQJRaQQ5) | [Alaa Zalzali](https://open.spotify.com/artist/0fGQD0MLEXWiZgMamVcC11) | [Je Suis Malade](https://open.spotify.com/album/5RNaW8jDyrMC7llIQJximN) | 4:08 |
 | 30 | [Ya Alby](https://open.spotify.com/track/6mFeZYWPxxcncrVdgsm7gK) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Ya Alby](https://open.spotify.com/album/5WzH9MSuo5vX7CUDMHcU37) | 3:57 |
-| 31 | [Yabo Khad](https://open.spotify.com/track/6RxNHl2RBomzslMDUCej8y) | [Fares](https://open.spotify.com/artist/501dBaY3hLn5aEWoOZha1k) | [High Quality Vol 1](https://open.spotify.com/album/1vQWKCqtIJjJYaJlKtFWxN) | 3:45 |
-| 32 | [الدلعونا](https://open.spotify.com/track/7ey7KJqVGCsKDvnMNYHMnq) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [مواويل ودبكة](https://open.spotify.com/album/7q7fTrlnMQzFMwQbka1E0v) | 11:14 |
+| 31 | [الدلعونا](https://open.spotify.com/track/7ey7KJqVGCsKDvnMNYHMnq) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [مواويل ودبكة](https://open.spotify.com/album/7q7fTrlnMQzFMwQbka1E0v) | 11:14 |
+| 32 | [Yabo Khad](https://open.spotify.com/track/6RxNHl2RBomzslMDUCej8y) | [Fares](https://open.spotify.com/artist/501dBaY3hLn5aEWoOZha1k) | [High Quality Vol 1](https://open.spotify.com/album/1vQWKCqtIJjJYaJlKtFWxN) | 3:45 |
 | 33 | [عشان بحبك](https://open.spotify.com/track/218ZPN6u1JxiM8qzHmAzmS) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [عشان باحبك](https://open.spotify.com/album/18A97riBjteV1p5YXfUp1e) | 5:27 |
 | 34 | [فاضل ايه](https://open.spotify.com/track/7gxYjbdGWDKZRi5E1HfScd) | [Talaat Zain](https://open.spotify.com/artist/361np6UFfeQfVBjYoB3cwA) | [تيكي تا](https://open.spotify.com/album/06ViZXDfKo0NcHRtncjwjI) | 4:04 |
 | 35 | [Marasil](https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l) | [Ehab Tawfik](https://open.spotify.com/artist/1NNtOzUioS314Gqo961N2U) | [Marasil](https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss) | 5:09 |

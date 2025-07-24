@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists!
 
-169 songs - 12 hr 10 min
+170 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 | 2024-01-10 |  |
 | [Ligaya](https://open.spotify.com/track/6SHSvo6OGgpneKfsxFGhhk) | [Eraserheads](https://open.spotify.com/artist/7374lH6kwx9uQATYQ9H3Cp) | [Anthology](https://open.spotify.com/album/2DIpgoeZAbwk3wF1qSDj8v) | 4:31 | 2022-06-13 | 2022-06-21 |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2022-04-19 | 2022-06-14 |
-| [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 | 2024-04-17 |  |
+| [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 | 2024-04-17 | 2025-07-24 |
 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 | 2022-04-19 |  |
 | [Magkabilang Mundo](https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 3:56 | 2022-04-19 |  |
 | [Mahika](https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:21 | 2024-03-06 |  |
@@ -109,6 +109,7 @@
 | [Nadarang](https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx) | 3:54 | 2023-01-04 | 2024-04-19 |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2024-04-17 | 2025-01-29 |
 | [Nahuhulog Na Sa'yo](https://open.spotify.com/track/0EFa7HXaZUAzu9q1UdVPBR) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Nahuhulog Na Sa'yo](https://open.spotify.com/album/3QPcdcXJZ4uophss504wCg) | 3:37 | 2023-09-13 | 2024-01-10 |
+| [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 | 2025-07-23 |  |
 | [Nang Dumating Ka](https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Nang Dumating Ka](https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9) | 6:19 | 2022-05-11 | 2023-01-28 |
 | [Ngayong Gabi](https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Ngayong Gabi](https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot) | 4:27 | 2022-06-13 |  |
 | [Ngiti](https://open.spotify.com/track/1YY6iA00Q58TvDEh6rYaWf) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Songs of Love](https://open.spotify.com/album/386MjtGdyMGEqjldwGVfFd) | 3:30 | 2022-04-19 | 2022-07-29 |

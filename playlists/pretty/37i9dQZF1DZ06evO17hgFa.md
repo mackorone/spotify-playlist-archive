@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 
 > This is Billie Holiday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,317 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,335 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 | 37 | [You Don't Know What Love Is](https://open.spotify.com/track/5UPJdlkMWG2G2UwTfGSjOe) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 3:48 |
 | 38 | [Big Stuff](https://open.spotify.com/track/0J2KKCswz5LCx9vpdhcVSF) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday's Greatest Hits](https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl) | 2:30 |
 | 39 | [Foolin' Myself \(with Teddy Wilson & His Orchestra\)](https://open.spotify.com/track/3nIpFMbuhstntUZT4FpuPG) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [A Musical Romance](https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu) | 2:59 |
-| 40 | [I Cover The Waterfront](https://open.spotify.com/track/2ACx6c851YfpUQygrASE6v) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:29 |
+| 40 | [Lover, Come Back To Me](https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:15 |
 | 41 | [Body And Soul](https://open.spotify.com/track/7c7yHHFdYkqBzS1DG3UIFq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Body and Soul](https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3) | 6:18 |
 | 42 | [No More](https://open.spotify.com/track/75yWDS1C4ZXKoJscUK1cdg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday's Greatest Hits](https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl) | 2:45 |
 | 43 | [He's Funny That Way](https://open.spotify.com/track/3jG6okC06hzdqzIRcEzs7H) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [An Evening With Billie Holiday](https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73) | 3:10 |
-| 44 | [Lover, Come Back To Me](https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:15 |
+| 44 | [I Cover The Waterfront](https://open.spotify.com/track/2ACx6c851YfpUQygrASE6v) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:29 |
 | 45 | [Speak Low](https://open.spotify.com/track/17SIqmKU86yUoUq41MyklH) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 4:29 |
 | 46 | [My Sweet Hunk O' Trash \- Single Version](https://open.spotify.com/track/7vVu4cjI5zfOMlQk4EuCwZ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Sy Oliver & His Orchestra](https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC) | [Louis and Friends](https://open.spotify.com/album/3kEj79dO3HIi8MBPmCO0cx) | 3:20 |
 | 47 | [They Can't Take That Away From Me](https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Body and Soul](https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 | 49 | [If The Moon Turns Green](https://open.spotify.com/track/3VVfyUGLBWKkTbGIuoLd1l) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 2:48 |
 | 50 | [Don't Explain](https://open.spotify.com/track/6GLMwwNDbiiBe4D9JcSOwP) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:24 |
 
-Snapshot ID: `aH2DAAAAAADEFoSM6Q3vr82Nercv/5Ow`
+Snapshot ID: `aH7UgAAAAAAzgifb/Q6DH5IX48QZC4/S`

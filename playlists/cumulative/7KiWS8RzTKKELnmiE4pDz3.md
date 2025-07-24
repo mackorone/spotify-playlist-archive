@@ -4,7 +4,7 @@
 
 > 
 
-1,084 songs - 2 day 6 hr 21 min
+1,087 songs - 2 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Addy Geek](https://open.spotify.com/track/5YfRQ05Bn7aqQrbNI6NAO2) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 1:45 | 2023-01-27 | 2023-04-24 |
 | [AEAO](https://open.spotify.com/track/76CSfZPziwSi9hsSkIVTyw) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/1CM4OSWGFBFKb5FigEchJB) | 5:16 | 2023-06-24 | 2023-12-14 |
 | [Again](https://open.spotify.com/track/3si6pZOm5Uf1lKDt47V3zK) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Slime Season](https://open.spotify.com/album/5F9AdIgiSJtnEwYSXBSlSJ) | 2:56 | 2024-10-09 | 2024-11-06 |
+| [Again & Again](https://open.spotify.com/track/5VwMiJhjaThmHsT9zhzjdm) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [ELEVATORS: Act I & II](https://open.spotify.com/album/6Vy4IwMH5C24rOVEcSSqhH) | 3:01 | 2025-07-23 |  |
 | [Ahora Que Te Vayas](https://open.spotify.com/track/3uhLSQbKNbbBh6gm47pd2X) | [Trio Los Jaibos](https://open.spotify.com/artist/5SVbx6F5ArKll70amV3lv7) | [Trio Los Jaibos](https://open.spotify.com/album/04djFIjUp5N8BZGihJAaoM) | 2:48 | 2024-02-14 | 2024-11-06 |
 | [Ahora y siempre](https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:53 | 2024-02-14 | 2024-04-24 |
 | [Aint Stoppin](https://open.spotify.com/track/1XYEfsWLYOkKvwp8NZWBMR) | [TrapStarMula](https://open.spotify.com/artist/58xE7ynDjkStdAD0oMbey4), [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Codeine Over Hoes](https://open.spotify.com/album/6P6Vv0MI9xDTU70zEx8jlM) | 2:15 | 2022-07-28 | 2023-05-09 |
@@ -743,6 +744,7 @@
 | [Porridge](https://open.spotify.com/track/1nkF0p4LX4h39DxwXXjus5) | [Maitchhh, Ion999](https://open.spotify.com/artist/2jJ3dHmsUVS70WcJidjy0P) | [Porridge](https://open.spotify.com/album/57dEzkP0hlWxeE7HbSm5R9) | 3:36 | 2022-06-30 | 2023-12-14 |
 | [Portrayal!](https://open.spotify.com/track/22DtsLext8dWgV3PBYrmxi) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Portrayal!](https://open.spotify.com/album/44Ieuq8XEqoNxkvcN02jBd) | 2:30 | 2023-01-23 | 2023-04-12 |
 | [Pot Roast \(feat\. Key Glock\)](https://open.spotify.com/track/4lGVw2ckNgm2rvVySj7qTP) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:18 | 2023-02-28 | 2023-12-14 |
+| [Potassium](https://open.spotify.com/track/0bVNHQUZ1vFKqo8egd2BEg) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [ELEVATORS: Act I & II](https://open.spotify.com/album/6Vy4IwMH5C24rOVEcSSqhH) | 2:34 | 2025-07-23 |  |
 | [POTHEAD & STONER](https://open.spotify.com/track/7rh1Rw4Xm2cqBaHBcEkT5q) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Da Real Oso](https://open.spotify.com/album/5lGbFVxiM28gqCOdhpGBQ1) | 2:12 | 2024-08-31 | 2025-05-21 |
 | [Pour Maman](https://open.spotify.com/track/2aUuq6RpuAxPDFsJxsBI1X) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Bishouné: Alma del Huila](https://open.spotify.com/album/6VB0QoBXTlER1aYC27Ite8) | 4:53 | 2024-02-16 | 2024-11-06 |
 | [Power Trip](https://open.spotify.com/track/3bDH7eIQ84QWdBeWwffUZD) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 4:24 | 2024-02-21 | 2024-04-24 |
@@ -811,6 +813,7 @@
 | [Rockstar Lifestyle](https://open.spotify.com/track/5I8LS9jiW5xju1lzakh1s3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:12 | 2023-10-27 | 2024-03-05 |
 | [Rockstar Made](https://open.spotify.com/track/3cWmqvMwVQKDigWLSZ3w9h) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2023-12-19 | 2024-04-24 |
 | [Rokstar](https://open.spotify.com/track/34axCSujRVT7YWmDvisjdQ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:13 | 2022-09-12 | 2023-05-09 |
+| [Rollercoasting](https://open.spotify.com/track/66DZF1livhCwXxsEyvmFke) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [ELEVATORS: Act I & II](https://open.spotify.com/album/6Vy4IwMH5C24rOVEcSSqhH) | 2:49 | 2025-07-23 |  |
 | [Ron Artest](https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ron Artest](https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ) | 2:33 | 2023-03-28 | 2023-12-14 |
 | [Round Here](https://open.spotify.com/track/2jJeoy0Xq8sEtn3upQCXge) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [2wo2imes](https://open.spotify.com/artist/4o8uzbQaWtcDX3hbgulrPe) | [2wo Glokks](https://open.spotify.com/album/5CPcnwgYWekR1saI8AxHyj) | 2:34 | 2023-02-09 | 2023-05-09 |
 | [Run + Ran](https://open.spotify.com/track/3kB7daTMGpX2hPRXdZww6M) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/0VotmXUwQt1UHyFH4VVrvt) | 4:04 | 2022-03-01 | 2023-05-09 |

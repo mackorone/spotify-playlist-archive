@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 
 > canciones para andar bien al cien 🙂‍↕️
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,779 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,765 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 | 27 | [Desastres Fabulosos](https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Desastres Fabulosos](https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09) | 2:43 |
 | 28 | [Lejos de la Ciudad \- con Camilo](https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Lejos de la Ciudad \(con Camilo\)](https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu) | 3:07 |
 | 29 | [Nueva Deli](https://open.spotify.com/track/3T3T8z9EHbI8ustj2iSeiX) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Nueva Deli](https://open.spotify.com/album/4hpAcxxtlhHSrKvx2Vmgv9) | 2:37 |
-| 30 | [Jaze, Caloncho \- pensé en ti \(Video Oficial\)](https://open.spotify.com/track/46Z3waLIm9pBhiI5dA6dyt) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Quizá no es para tanto](https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB) | 3:56 |
+| 30 | [pensé en ti \(feat\. Caloncho\)](https://open.spotify.com/track/46Z3waLIm9pBhiI5dA6dyt) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Quizá no es para tanto](https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB) | 3:56 |
 | 31 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 |
 | 32 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 |
 | 33 | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Dance, No One's Watching](https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h) | 3:59 |

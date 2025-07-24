@@ -4,7 +4,7 @@
 
 > Relaxing music and sounds for sleeping.
 
-323 songs - 15 hr 18 min
+324 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Blue Water Floats](https://open.spotify.com/track/1valVbc0kxrTxrT4nf3x9t) | [Placid Warren](https://open.spotify.com/artist/1R1NeLGKtMkDEt6lVqEtyl) | [Blue Water Floats](https://open.spotify.com/album/5pp6y9zMzwkqjKyiECnfxx) | 2:39 | 2022-01-04 |  |
 | [Blue Without You](https://open.spotify.com/track/2CpQl1stZIShcwat5Y6Q8Z) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Blue Without You](https://open.spotify.com/album/6RwqfJCzOrKXUb7ZDA7i5i) | 2:23 | 2022-07-27 |  |
 | [breath II](https://open.spotify.com/track/4CrIobpPe0rRk9vw4IhxbR) | [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo), [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [breath II](https://open.spotify.com/album/7KsROjTRRAm3iNnAJdDXaz) | 1:35 | 2024-10-15 |  |
-| [breath V \- förlåt](https://open.spotify.com/track/6UpMdnOJG0xOgzwwKhlhzU) | [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo) | [breath V \- förlåt](https://open.spotify.com/album/4Cvtk2xvjx3Nh26hjoEzQa) | 3:23 | 2024-12-17 |  |
+| [breath V \- förlåt](https://open.spotify.com/track/6UpMdnOJG0xOgzwwKhlhzU) | [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo) | [breath V \- förlåt](https://open.spotify.com/album/4Cvtk2xvjx3Nh26hjoEzQa) | 3:23 | 2024-12-17 | 2025-07-24 |
 | [Breathe Through the Nightfall](https://open.spotify.com/track/46eTpI7izVIiLof0LhlAOZ) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Beyond the Atmosphere](https://open.spotify.com/album/48L1AM7T0095DDx3rSh3Az) | 3:39 | 2022-01-04 |  |
 | [Buonanotte e sogni d’oro](https://open.spotify.com/track/6pQlRxPMSILxVr7vz3JmGC) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Buonanotte e sogni d’oro](https://open.spotify.com/album/2mqptjD5PxNAeTPzouxYKT) | 3:44 | 2022-01-04 |  |
 | [Canopy](https://open.spotify.com/track/01DELyfvCU3ZJUCDGWNfTz) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Stardust](https://open.spotify.com/album/7C6tnszQFEDAuNpeGUcFUe) | 3:01 | 2022-01-04 | 2022-07-28 |
@@ -125,7 +125,7 @@
 | [Four Days With You](https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL) | [Nina Fiadh](https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ) | [Four Days With You](https://open.spotify.com/album/2829sYIZlhdcS0VZ4oNin2) | 2:52 | 2022-01-04 | 2024-09-06 |
 | [From Ice to Water](https://open.spotify.com/track/3ddCRaKiwydCnvYSy6tL2D) | [Debyah](https://open.spotify.com/artist/3hw1f70k0kbqoslclzORGa) | [From Ice to Water](https://open.spotify.com/album/2eREwlxTjnvkpVI5lFmvZB) | 3:01 | 2022-01-04 |  |
 | [Gavina](https://open.spotify.com/track/3dl8ypgkuvNw4vn3HFE1ky) | [Olec Mün](https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE) | [Gavina](https://open.spotify.com/album/4RteWlcqa9xzb6iKmo0ZAr) | 5:34 | 2022-01-04 | 2022-04-29 |
-| [Gentle Vortex](https://open.spotify.com/track/6wdyLelm2YoQkB0m8bK7vS) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Gentle Vortex](https://open.spotify.com/album/1OwRPJ3z2iVdITKiGfoxor) | 2:35 | 2025-01-31 |  |
+| [Gentle Vortex](https://open.spotify.com/track/6wdyLelm2YoQkB0m8bK7vS) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Gentle Vortex](https://open.spotify.com/album/1OwRPJ3z2iVdITKiGfoxor) | 2:35 | 2025-01-31 | 2025-07-24 |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2022-01-04 | 2024-11-21 |
 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2022-01-04 | 2025-06-17 |
 | [Goodwill](https://open.spotify.com/track/1BfkOTr6W7SyXsfappHLHy) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Goodwill](https://open.spotify.com/album/5AkNMQIU6nLtldzxl4YGYH) | 3:26 | 2022-01-04 |  |
@@ -219,6 +219,7 @@
 | [Once More](https://open.spotify.com/track/4sFZChUARWf571klygS1pG) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Once More](https://open.spotify.com/album/0Hwe1exxKc8Pi8d939lX3Y) | 3:16 | 2025-03-05 |  |
 | [Ons](https://open.spotify.com/track/07UDTaRYJAsIhUZTyZSUzM) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Ons](https://open.spotify.com/album/2cdvRClGJPAHpK0ACSFSfu) | 3:13 | 2022-01-04 | 2022-03-02 |
 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 | 2022-03-16 | 2025-03-06 |
+| [Oxalis](https://open.spotify.com/track/5ta1bh6X3tu1aJcwXAn4eQ) | [Loch Lua](https://open.spotify.com/artist/1JJPFtcxFOpLgrbnhtvyqO) | [Oxalis](https://open.spotify.com/album/4F5if0hg9jBO61FIYlwEi5) | 2:21 | 2025-07-23 |  |
 | [Oxygen](https://open.spotify.com/track/6LJueYS7PEtp9VEnClV0da) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:43 | 2022-01-04 |  |
 | [Oyasumi Nasai](https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 2:44 | 2022-01-04 | 2022-04-29 |
 | [Pardon](https://open.spotify.com/track/2Gv0GXMGtNEcMYjDNVpSRu) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Pardon](https://open.spotify.com/album/1k0MRE52O7Lxth7DSEyYRz) | 2:30 | 2022-01-04 |  |
@@ -252,7 +253,7 @@
 | [Sequoia](https://open.spotify.com/track/0w5Kd5Vqg37VZupZCEZVhi) | [Amos Coelllo](https://open.spotify.com/artist/2YbV6GhzqjW9j2ebq8ua5X) | [Sequoia](https://open.spotify.com/album/6cczip33Jhl51tkYf5tS8E) | 2:46 | 2022-01-04 |  |
 | [Sessiz Tepeler](https://open.spotify.com/track/7KmNEkS0sCpZPFBh2uqZu6) | [Cakir Vardar](https://open.spotify.com/artist/28bBNTIW2aR4EQKrkqpzF7) | [Sessiz Tepeler](https://open.spotify.com/album/4SF3qwneStFulFbf3kIlOP) | 2:50 | 2022-01-04 |  |
 | [Shuǐ](https://open.spotify.com/track/0JkStI9AnkeDIniaKn2akO) | [Zoe Rei](https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq) | [Shuǐ](https://open.spotify.com/album/0KlHKpgm9zU0UMAShB1VPG) | 2:21 | 2022-11-14 | 2024-08-15 |
-| [Sibylline](https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P) | [Corinne Blanchard](https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG) | [Sibylline](https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ) | 2:11 | 2022-01-04 |  |
+| [Sibylline](https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P) | [Corinne Blanchard](https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG) | [Sibylline](https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ) | 2:11 | 2022-01-04 | 2025-07-24 |
 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2022-01-04 |  |
 | [Silent Motion](https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Weightless](https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd) | 2:59 | 2022-01-04 |  |
 | [Sincerity](https://open.spotify.com/track/6LmFMurSx0pVsZCuHolQ1r) | [Pierre Delongpre](https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9) | [Piano and My Heart](https://open.spotify.com/album/6LueQAU32JLzLcf4ONiAsi) | 2:54 | 2022-01-04 | 2025-03-06 |
@@ -274,7 +275,7 @@
 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 | 2022-01-04 | 2022-07-28 |
 | [Suki Desu](https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Sakura](https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka) | 2:16 | 2022-01-04 |  |
 | [Survivor](https://open.spotify.com/track/6goPA6XgFxqaIhaIk1IXhY) | [Mikael Sapin](https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo) | [Survivor](https://open.spotify.com/album/4Ge1CzxVa3ZYyBktNopMjq) | 2:15 | 2022-01-04 | 2022-11-15 |
-| [Sweet dreams](https://open.spotify.com/track/5HbJrEwvAPRiISORiKAaXI) | [DREAMY charlie](https://open.spotify.com/artist/1UBUvukXhNixw4V7h4r808) | [Moonlight](https://open.spotify.com/album/4kA1zuJMBYhC7DfAtwoN2L) | 2:23 | 2022-11-14 |  |
+| [Sweet dreams](https://open.spotify.com/track/5HbJrEwvAPRiISORiKAaXI) | [DREAMY charlie](https://open.spotify.com/artist/1UBUvukXhNixw4V7h4r808) | [Moonlight](https://open.spotify.com/album/4kA1zuJMBYhC7DfAtwoN2L) | 2:23 | 2022-11-14 | 2025-07-24 |
 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 | 2022-03-01 | 2022-04-02 |
 | [Tachocline](https://open.spotify.com/track/4m7TNxKkqSukLG6nyetoa1) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Tachocline](https://open.spotify.com/album/55jBv8TMzpzEUMKxz9CLM5) | 2:55 | 2025-06-16 |  |
 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 | 2022-01-04 |  |

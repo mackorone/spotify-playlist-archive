@@ -4,7 +4,7 @@
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-242 songs - 14 hr 33 min
+244 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [down under](https://open.spotify.com/track/6qYzrae0xc6Z1F4leMwFQ0) | [ざきのすけ。](https://open.spotify.com/artist/2QydRp0HEq0iP0W3XPHZKm) | [down under](https://open.spotify.com/album/27AhflMpFjlR52tv8X7xyR) | 3:15 | 2024-07-18 | 2024-08-10 |
 | [DUNE](https://open.spotify.com/track/3pSE7pqSFVvOTvsvZsVpEm) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl) | 4:22 | 2025-02-11 |  |
 | [FEVER TIME](https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [FEVER TIME](https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x) | 3:44 | 2025-06-24 |  |
-| [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 | 2024-03-19 |  |
+| [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 | 2024-03-19 | 2025-07-24 |
 | [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 | 2023-11-23 | 2024-03-01 |
 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 | 2024-01-16 | 2024-02-07 |
 | [gyakyoutenshi](https://open.spotify.com/track/1osD6bIt8x6TmzHHJjl5u8) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U), [XLII](https://open.spotify.com/artist/08elIxCYp8IdFGvVs2CZIN) | [gyakyoutenshi](https://open.spotify.com/album/6U2UUEQ6cTM70qEVRWTIPc) | 2:49 | 2024-11-19 | 2024-12-18 |
@@ -66,7 +66,7 @@
 | [Mom & Dad](https://open.spotify.com/track/2iqnWaABeoHev1hcKP5BzL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Mom & Dad](https://open.spotify.com/album/51O48NKvrF5rk1rq0FJDUa) | 2:51 | 2025-06-24 |  |
 | [Moonian](https://open.spotify.com/track/4vJYvvpQKltU57dOZAnEwm) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [Blood in the Void](https://open.spotify.com/album/1SA0qxLIkSK0vFfWCFvUmy) | 3:49 | 2025-03-11 |  |
 | [Mouichido](https://open.spotify.com/track/40gt89icqkSFqWWfMlqagb) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Mouichido](https://open.spotify.com/album/3ajk6gGVQzrsD9CjRzs68q) | 4:10 | 2023-11-23 | 2024-04-19 |
-| [Mouiiyo](https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Mouiiyo](https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV) | 2:57 | 2024-12-03 |  |
+| [Mouiiyo](https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Mouiiyo](https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV) | 2:57 | 2024-12-03 | 2025-07-24 |
 | [My Life](https://open.spotify.com/track/2JplDq106PTi3y21zyj6hl) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [I'll Be Cute When You See Me](https://open.spotify.com/album/73gLuSuMKY13uGbfcvkseg) | 3:21 | 2024-01-28 | 2024-03-20 |
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-11-23 | 2024-01-17 |
 | [No.5](https://open.spotify.com/track/5kXmyxToZp5zMN67Pek2UV) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [No.5](https://open.spotify.com/album/7rMxnxMlaCnxSBhqYXxu3H) | 3:05 | 2024-11-05 | 2025-03-26 |
@@ -197,6 +197,7 @@
 | [声命 \- Seimei](https://open.spotify.com/track/2dcQ1Z2RkZOcZ5XrHr1kF8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [声命 \- Seimei](https://open.spotify.com/album/6292rqCtVoA1zudIcunMEA) | 2:57 | 2025-05-27 | 2025-07-13 |
 | [夢の恋人](https://open.spotify.com/track/1k8nHi41KYSvsUFivUuZ3T) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [夢が醒めたら](https://open.spotify.com/album/7cd2jEnLcsoH3BY86ncs7z) | 3:20 | 2024-10-08 | 2024-11-20 |
 | [大人になんてなりたくない](https://open.spotify.com/track/0xHpdLczstT3UOhLa55wq9) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [大人になんてなりたくない](https://open.spotify.com/album/49gaiZ330hLAEQUAosnirV) | 2:19 | 2025-02-25 | 2025-03-12 |
+| [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 | 2025-07-22 |  |
 | [少しだけ](https://open.spotify.com/track/0WLDdeAg7wipOvlNByiMhD) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [少しだけ](https://open.spotify.com/album/2AR2Ep7BpnwSEtbGoC5pmc) | 3:35 | 2024-03-07 | 2024-12-05 |
 | [岡崎京子のあの娘になりたかった](https://open.spotify.com/track/0wykwC7fLm3kn6cw5DfAr5) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [岡崎京子のあの娘になりたかった](https://open.spotify.com/album/60Y0XZI1pKhS7ZDd2YczWC) | 2:51 | 2025-01-07 | 2025-01-15 |
 | [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 | 2025-03-11 | 2025-06-23 |
@@ -228,6 +229,7 @@
 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 | 2024-03-19 |  |
 | [正論さん](https://open.spotify.com/track/3guBJ3pWlpOKxS6aGJH3OD) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [正論さん](https://open.spotify.com/album/0p8hciFFok7dzHLV0LukjH) | 3:39 | 2023-11-23 | 2024-01-17 |
 | [死にたい夜のBGM](https://open.spotify.com/track/5vUSPD4LMOFuRdWg1JtRKO) | [声にならないよ](https://open.spotify.com/artist/6alBVpNiI69zkzqL5x628F) | [寄り添う音楽、心の調律](https://open.spotify.com/album/6XCQNYOTbMa4nFXVnL8tpu) | 4:03 | 2024-02-20 | 2024-02-28 |
+| [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 | 2025-07-22 |  |
 | [浮気したらあかんで](https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [浮気したらあかんで](https://open.spotify.com/album/3Php6RjDZLlQfuKF0TcW34) | 3:13 | 2024-12-03 | 2025-04-07 |
 | [焦動](https://open.spotify.com/track/5jMhr5mbqgytUnPZBcHNmr) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [焦動](https://open.spotify.com/album/3yMtqQIh5pHTIobXvrWxCo) | 4:05 | 2025-01-14 | 2025-07-23 |
 | [燈「独唱」](https://open.spotify.com/track/5S81ZEgJnL7htOyYRBPaF9) | [まおた](https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT) | [燈「独唱」](https://open.spotify.com/album/2o0ObU3yAIpgxumW5ewbGN) | 4:55 | 2024-10-08 | 2024-11-20 |

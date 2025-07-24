@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: NCT DREAM\)
 
-1,362 songs - 3 day 1 hr 33 min
+1,363 songs - 3 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [BEBE](https://open.spotify.com/track/5iXD5rOKV99XGtkaiucHpM) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [S](https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm) | 2:59 | 2025-03-18 | 2025-05-20 |
 | [BEcause](https://open.spotify.com/track/3L74uwShK0JqEUZ5Y2JoDW) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Summer Holiday\]](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) | 3:11 | 2021-07-31 | 2021-09-18 |
 | [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/track/7wb12ZFRhL9Tmt2GedW1RS) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/album/217BpIDe2TpUsAGbCzuFIk) | 2:04 | 2025-03-28 | 2025-05-26 |
-| [BEEP](https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e) | 2:44 | 2025-06-09 |  |
+| [BEEP](https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e) | 2:44 | 2025-06-09 | 2025-07-24 |
 | [Bet You’ll Regret It](https://open.spotify.com/track/2bVH1pUiX20bp2VAm5JcHj) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [F Girl](https://open.spotify.com/album/6z3A3qvpEVKsG1pvIqEyqP) | 2:10 | 2025-06-23 | 2025-07-22 |
 | [Better](https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:19 | 2020-12-01 | 2021-03-18 |
 | [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 | 2022-09-01 | 2022-10-15 |
@@ -586,6 +586,7 @@
 | [I remember](https://open.spotify.com/track/3uXTRQ41tZ7xwGJ1NnKnUC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [I remember](https://open.spotify.com/album/0mJpJJqa0HWqcEujcOF8zO) | 3:31 | 2023-07-07 | 2023-08-26 |
 | [I WANNA KNOW](https://open.spotify.com/track/4ki0EcH3qL0DEbXqZIz1GI) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [EXchange3, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4) | 2:44 | 2024-01-29 | 2024-03-21 |
 | [I WANT](https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I WANT](https://open.spotify.com/album/1BxRutqDtvMJfiovw76gxe) | 3:00 | 2023-07-21 | 2023-12-08 |
+| [I WANT IT](https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:04 | 2025-07-23 |  |
 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 | 2023-09-27 | 2023-10-20 |
 | [I Want U Around \(Feat\. DeVita\)](https://open.spotify.com/track/5zI721DtTDWjLbDvZoWKGZ) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [I Want U Around](https://open.spotify.com/album/0NCuf8EjsH0z06AdgzmQxi) | 3:11 | 2021-06-12 | 2021-07-28 |
 | [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 | 2024-03-29 | 2024-06-25 |

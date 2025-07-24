@@ -1,6 +1,6 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 575023,
+  "num_followers": 575040,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,26 @@
     {
       "added_at": "2025-02-10 10:54:18",
       "album": {
+        "name": "I Lied",
+        "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 234383,
+      "name": "I Lied (with Allison Ponthier)",
+      "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
+    },
+    {
+      "added_at": "2025-02-10 10:54:18",
+      "album": {
         "name": "The Use In Trying",
         "url": "https://open.spotify.com/album/6bQhy4kKZbZ1yZjXhuO2Lm"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
-    },
-    {
-      "added_at": "2025-02-10 10:54:18",
-      "album": {
-        "name": "I Lied",
-        "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        },
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 234383,
-      "name": "I Lied (with Allison Ponthier)",
-      "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
     },
     {
       "added_at": "2025-02-10 10:54:18",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-02-10 10:54:18",
       "album": {
+        "name": "House With No Mirrors",
+        "url": "https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "House With No Mirrors",
+      "url": "https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh"
+    },
+    {
+      "added_at": "2025-02-10 10:54:18",
+      "album": {
         "name": "Let\u2019s Go Home Together",
         "url": "https://open.spotify.com/album/7DrqGKIDV8xq1LwSTlEqlv"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 208692,
       "name": "Let\u2019s Go Home Together",
       "url": "https://open.spotify.com/track/53fP1JzpjywHdJKx1flKCA"
-    },
-    {
-      "added_at": "2025-02-10 10:54:18",
-      "album": {
-        "name": "House With No Mirrors",
-        "url": "https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 227613,
-      "name": "House With No Mirrors",
-      "url": "https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh"
     },
     {
       "added_at": "2025-02-10 10:54:18",

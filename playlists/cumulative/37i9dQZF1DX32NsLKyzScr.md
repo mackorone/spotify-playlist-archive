@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,265 songs - 2 day 20 hr 37 min
+1,266 songs - 2 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Feeling So Real 2024 \- Edit](https://open.spotify.com/track/59shwQBZ8fRkiZXU5E5A6u) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Feeling So Real 2024](https://open.spotify.com/album/2y3iEKYZHffH4dJQfvbQOb) | 3:23 | 2024-11-22 | 2024-11-25 |
 | [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2022-05-13 | 2024-08-03 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-07-15 | 2024-04-19 |
+| [Fever](https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Fever](https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby) | 2:26 | 2025-07-18 |  |
 | [Fever](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Hight](https://open.spotify.com/artist/34SBu2kvAUh84umN8Pi0iI) | [Fever](https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr) | 2:26 | 2023-08-18 | 2024-07-13 |
 | [Fight For](https://open.spotify.com/track/6F3htwbMYqes3xVs5Vorkm) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Fight For](https://open.spotify.com/album/3MVS0kNgm4WMdV04E7Vzu2) | 3:37 | 2021-07-17 | 2021-10-23 |
 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2024-08-30 |  |
@@ -1120,7 +1121,7 @@
 | [This Is Our Legacy](https://open.spotify.com/track/32aKImKoiukzUxnWENXJXb) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ) | [This Is Our Legacy](https://open.spotify.com/album/4Ce0abdgk79C6cH8frg7Eq) | 2:39 | 2021-08-07 | 2021-10-23 |
 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 | 2020-09-21\* | 2021-01-23 |
 | [Through The Storm](https://open.spotify.com/track/3CbqAQnT7oU23IvtcHO0k1) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Through The Storm](https://open.spotify.com/album/4symFkdIp5MM4yxpQITTMb) | 2:13 | 2021-05-15 | 2021-07-24 |
-| [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 | 2024-05-07 |  |
+| [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 | 2024-05-07 | 2025-07-24 |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2021-05-15 |  |
 | [Thunder](https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV), [LRMEO](https://open.spotify.com/artist/5gTqc3p5WdszJ2AtGElosu) | [Thunder](https://open.spotify.com/album/0lnPUG1O0J3zTNgLa6B5Nj) | 2:36 | 2023-05-12 | 2024-07-13 |
 | [Tic Tok](https://open.spotify.com/track/5MLW7gzT9qMsI6t5iJGDOV) | [Jaycen A'mour](https://open.spotify.com/artist/7ptocwnXrzjCWUDGf6T0hE) | [Tic Tok](https://open.spotify.com/album/6UXStpNYrzrsUfmlu9xvL3) | 3:02 | 2020-09-21\* | 2021-02-06 |

@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 196643,
       "name": "Can't Help Lovin' Dat Man",
       "url": "https://open.spotify.com/track/6jIYSUuPHtImxdPAy1tHct"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 197253,
       "name": "Dreams About Change",
       "url": "https://open.spotify.com/track/1TPGqUM9ZzAfAv9FP4PtQN"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 191842,
       "name": "Giving thrills",
       "url": "https://open.spotify.com/track/2mKGI5TnGVSWbloCZlma6B"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 188797,
       "name": "Have You Met Miss Jones",
       "url": "https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 226000,
       "name": "I'm Easy Goin'",
       "url": "https://open.spotify.com/track/1Lk50bFmFIM9wQ5zx6pnCe"
@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 255210,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/5ig6zG9Mpf9Y6PT9pRfSJA"
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 213255,
       "name": "If You Wish For My Despair",
       "url": "https://open.spotify.com/track/4g5RlJIzRKzXssWAQ2UVKc"
@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 222342,
       "name": "Isfahan",
       "url": "https://open.spotify.com/track/4t3Dtmfpj7jTZurwtJVQg5"
@@ -2145,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "It's Raining Again",
+        "url": "https://open.spotify.com/album/4TEqy3aO6h9x9JVHenYL4I"
+      },
+      "artists": [
+        {
+          "name": "Dave Gordon Trio",
+          "url": "https://open.spotify.com/artist/2vQ0rZrPfwWwg0ntFYJzfe"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178774,
+      "name": "It's Raining Again",
+      "url": "https://open.spotify.com/track/7DFCIGfIFWEgo9oY5m7ENr"
+    },
+    {
+      "album": {
         "name": "It's You Or No One",
         "url": "https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r"
       },
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 269175,
       "name": "I\u00b4m Glad There Is You",
       "url": "https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx"
@@ -2250,6 +2268,24 @@
       "duration_ms": 170784,
       "name": "Jazz Odyssey",
       "url": "https://open.spotify.com/track/3n3gfS8H6kpyqF2x5vUdLT"
+    },
+    {
+      "album": {
+        "name": "Just a Passing Thought",
+        "url": "https://open.spotify.com/album/6WBknVqWyoztpbTNtGpZtP"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Static",
+          "url": "https://open.spotify.com/artist/1tlwlaELqls4v44QERlHXk"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168297,
+      "name": "Just a Passing Thought",
+      "url": "https://open.spotify.com/track/5HXzv7EwfMelqiQg7ZthL4"
     },
     {
       "album": {
@@ -2336,7 +2372,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 201369,
       "name": "La Libertad",
       "url": "https://open.spotify.com/track/3BGvwaiA1ovpsyAj0uytZ8"
@@ -2664,7 +2700,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 256424,
       "name": "Looking At Stars",
       "url": "https://open.spotify.com/track/2jR6fh4E32yt77WuKXg6QL"
@@ -2700,7 +2736,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 232159,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/5BN4nwzPH9mjT9uJLI2HUx"
@@ -2862,7 +2898,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 217798,
       "name": "Maybe We'll Meet Again",
       "url": "https://open.spotify.com/track/2ghcpXt1t7oQfHcF5hUBP2"
@@ -2938,6 +2974,24 @@
       "duration_ms": 151904,
       "name": "Mercy, Mercy, Mercy",
       "url": "https://open.spotify.com/track/2G9r3EX4EgIh4qjLrCepoi"
+    },
+    {
+      "album": {
+        "name": "Midnight Kiss",
+        "url": "https://open.spotify.com/album/7qIZh1SsBiFq5djjkz2aFo"
+      },
+      "artists": [
+        {
+          "name": "Neil Chapman Green",
+          "url": "https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180002,
+      "name": "Midnight Kiss",
+      "url": "https://open.spotify.com/track/24cotmQXHqpfCQ7Z5eJxyd"
     },
     {
       "album": {
@@ -3532,7 +3586,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 190428,
       "name": "Pathfinding",
       "url": "https://open.spotify.com/track/3crZQxfAscJX4GLbmiV4F7"
@@ -3712,7 +3766,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 190429,
       "name": "Remembering You",
       "url": "https://open.spotify.com/track/2Glz9Yidu0tZ8ty4YdFill"
@@ -3842,7 +3896,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 205750,
       "name": "Serendipity",
       "url": "https://open.spotify.com/track/3KonwJcO3xhHuNq49osUSD"
@@ -4016,6 +4070,24 @@
       "duration_ms": 193266,
       "name": "Sidewalking",
       "url": "https://open.spotify.com/track/2DotXnuPKoxT5K2yjKvhn8"
+    },
+    {
+      "album": {
+        "name": "Silent Conversations",
+        "url": "https://open.spotify.com/album/5ZiGiz1Hmapc3IHOPPpaix"
+      },
+      "artists": [
+        {
+          "name": "Kupiers & Winter",
+          "url": "https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210289,
+      "name": "Silent Conversations",
+      "url": "https://open.spotify.com/track/0pXoYk7kHx1iY0WiYX543Y"
     },
     {
       "album": {
@@ -4214,7 +4286,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 160413,
       "name": "Sommar och b\u00e5t",
       "url": "https://open.spotify.com/track/5ctxuHXM6daOwGJYUxrwp3"
@@ -4492,7 +4564,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 279789,
       "name": "Sweet Conversation",
       "url": "https://open.spotify.com/track/6U7RcKkQf6OVgTQKtwTV1c"
@@ -4636,7 +4708,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 146303,
       "name": "The Batysphere",
       "url": "https://open.spotify.com/track/7wjyhXjXor4PscmHQrImTy"
@@ -4654,7 +4726,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 193962,
       "name": "The Best Things in Life Are Free",
       "url": "https://open.spotify.com/track/61cdd5FDCdse6DYaN8ZMXe"
@@ -5076,7 +5148,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 290709,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK"
@@ -5148,7 +5220,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 216500,
       "name": "Tidewater",
       "url": "https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6"
@@ -5220,7 +5292,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 192803,
       "name": "Time To Ponder",
       "url": "https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT"
@@ -5314,6 +5386,24 @@
       "duration_ms": 206456,
       "name": "Try To Remember",
       "url": "https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM"
+    },
+    {
+      "album": {
+        "name": "Twisted Minds",
+        "url": "https://open.spotify.com/album/7DA09dWcNpeFIV2Z2U1OiY"
+      },
+      "artists": [
+        {
+          "name": "Nathan Hill Trio",
+          "url": "https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Twisted Minds",
+      "url": "https://open.spotify.com/track/4M3Guny5X0Uzqdv7nEdSib"
     },
     {
       "album": {
@@ -5436,7 +5526,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 216500,
       "name": "We Tried so Hard",
       "url": "https://open.spotify.com/track/6YBKC1DBIvkv8U1stTIIgl"
@@ -5494,7 +5584,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 153060,
       "name": "What A Little Moonlight Can Do",
       "url": "https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd"
@@ -5624,6 +5714,24 @@
       "duration_ms": 217000,
       "name": "Where I Live",
       "url": "https://open.spotify.com/track/76uHBO15FZLTUjiwAJ1Wg4"
+    },
+    {
+      "album": {
+        "name": "Whispered secrets",
+        "url": "https://open.spotify.com/album/3JUKAsugwifD78a05a5Tlh"
+      },
+      "artists": [
+        {
+          "name": "Third Rail Trio",
+          "url": "https://open.spotify.com/artist/6xUJ9flk0CNfQHWGO4wt6X"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175034,
+      "name": "Whispered secrets",
+      "url": "https://open.spotify.com/track/5XZmsuELlpnllH2fLpKuNJ"
     },
     {
       "album": {
@@ -5872,7 +5980,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 179160,
       "name": "You Turned The Tables On Me",
       "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"

@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Aterciopelados",
-  "num_followers": 297981,
+  "num_followers": 297977,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-05-30 04:00:28",
       "album": {
+        "name": "Salida",
+        "url": "https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        }
+      ],
+      "duration_ms": 256986,
+      "name": "Ya No Te Vuelvo a Ver",
+      "url": "https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W"
+    },
+    {
+      "added_at": "2025-05-30 04:00:28",
+      "album": {
         "name": "Brujer\u00eda",
         "url": "https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 173747,
       "name": "Brujer\u00eda",
       "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
-    },
-    {
-      "added_at": "2025-05-30 04:00:28",
-      "album": {
-        "name": "Salida",
-        "url": "https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        }
-      ],
-      "duration_ms": 256986,
-      "name": "Ya No Te Vuelvo a Ver",
-      "url": "https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W"
     },
     {
       "added_at": "2025-05-30 04:00:28",

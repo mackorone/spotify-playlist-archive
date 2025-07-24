@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,348 likes - 186 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,370 likes - 186 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 2 | [Snowbound](https://open.spotify.com/track/1lXxNuOJFycQjvpxkXWhLR) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Snowbound](https://open.spotify.com/album/2WoOWPF3LpfoGLCXtGpXIf) | 2:15 |
 | 3 | [Berceuse](https://open.spotify.com/track/2jNoAlNnlAEKHvl8NSe6Yg) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Berceuse](https://open.spotify.com/album/293aezBYCKLx6osj7IL3od) | 2:43 |
 | 4 | [Beyond](https://open.spotify.com/track/7LI2fD9JTssq4v5oDgIkeq) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Beyond](https://open.spotify.com/album/2gflztD0uo7P987eJrykqF) | 2:25 |
-| 5 | [Silence](https://open.spotify.com/track/0ve3BKlLTiWplrSO9Jgs0o) | [Aubrey Lo](https://open.spotify.com/artist/6aWh9woV6TYKTOsPMYfhfx) | [Silence](https://open.spotify.com/album/7c9rPpBSgHzESsbojRkiqi) | 2:17 |
+| 5 | [Silence](https://open.spotify.com/track/0ve3BKlLTiWplrSO9Jgs0o) | [Aubrey Lo](https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5) | [Silence](https://open.spotify.com/album/7c9rPpBSgHzESsbojRkiqi) | 2:17 |
 | 6 | [Douce Èmeraude](https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Douce Èmeraude](https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx) | 2:45 |
 | 7 | [Alone in the crowd](https://open.spotify.com/track/1hYJR8FJuusobeDp9IBOs6) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Alone in the crowd](https://open.spotify.com/album/3pdsFTTSJLP66YwPMOZvSO) | 2:50 |
 | 8 | [Alder](https://open.spotify.com/track/2TuPzUCUfmhh1d3lqn0DWJ) | [Finn Dubois](https://open.spotify.com/artist/2ek3AbMb8PTzYmJP69gpBE) | [Alder](https://open.spotify.com/album/6uW1dHFYMcBynJexmoRdBl) | 2:59 |

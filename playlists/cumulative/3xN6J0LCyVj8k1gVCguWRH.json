@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "What&#x27;s gonna be the song of the Summer 2025!? A prediction playlist.",
+  "description": "What&#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&#x27;s taste in music. ",
   "name": "Obama\u2019s Summer Playlist 2025",
   "tracks": [
     {
@@ -4722,6 +4722,28 @@
       "duration_ms": 214493,
       "name": "Amin Bird",
       "url": "https://open.spotify.com/track/6NErAb531bcv9ZXmRoZEf3"
+    },
+    {
+      "album": {
+        "name": "Amin Bird (Mousse T. Remix)",
+        "url": "https://open.spotify.com/album/3sYxanZue7laRD6N4Q7flJ"
+      },
+      "artists": [
+        {
+          "name": "Ada Morghe",
+          "url": "https://open.spotify.com/artist/5QAJWFAxwZ3qpTz94t9FPo"
+        },
+        {
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196895,
+      "name": "Amin Bird - Mousse T. Remix",
+      "url": "https://open.spotify.com/track/6FDgdrhTfu8HPbRxDf2mDg"
     },
     {
       "album": {
@@ -56664,7 +56686,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 170400,
       "name": "Move Down Lover",
       "url": "https://open.spotify.com/track/33brTNYpiFxqahoez9R6Vo"
@@ -78580,7 +78602,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 173824,
       "name": "Stay For A While",
       "url": "https://open.spotify.com/track/17CLOw2AcXG4czZ6m8lKiZ"

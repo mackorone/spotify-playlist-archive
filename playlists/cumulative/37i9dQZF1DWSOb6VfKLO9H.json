@@ -1502,12 +1502,12 @@
           "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         },
         {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        },
-        {
           "name": "Jonna Fraser",
           "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
         }
       ],
       "date_added": "2024-07-19",
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 203446,
       "name": "Now She See Me (feat. Sevn Alias & Two Crooks)",
       "url": "https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5"
@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 168014,
       "name": "Speling",
       "url": "https://open.spotify.com/track/0g8FVJPtUXIB1kKQCtBT16"

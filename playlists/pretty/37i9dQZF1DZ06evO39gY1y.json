@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 244898,
+  "num_followers": 244933,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAC1Lgsi6s95RGN0ewc+A/JS",
+  "snapshot_id": "aH7UgAAAAACiHIUszqxGLXpnvDR1cpnS",
   "tracks": [
     {
       "added_at": null,
@@ -1067,18 +1067,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Brujas y Otros H\u00e1bitos",
-        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
+        "name": "Suena En Mi Barrio",
+        "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
       },
       "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Graciela / \"Carta a Mi Abuela\"",
-      "url": "https://open.spotify.com/track/1yZZsjAwvLfeHdOIEdlHGR"
+      "duration_ms": 233142,
+      "name": "Suena En Mi Barrio",
+      "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
     }
   ],
   "unique_name": "This Is Charles Ans",

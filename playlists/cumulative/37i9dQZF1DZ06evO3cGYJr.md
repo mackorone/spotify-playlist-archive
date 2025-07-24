@@ -4,7 +4,7 @@
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 35 min
+111 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,8 +68,9 @@
 | [haunting](https://open.spotify.com/track/44qerQcxwwrUYdAqMtCi8W) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:47 | 2025-04-12 | 2025-05-07 |
 | [haunting](https://open.spotify.com/track/07uHH6Qq1cqNLmKxa0ceZt) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [haunting](https://open.spotify.com/album/6UeeVUS6zYu9fhqTIMe3g4) | 2:51 | 2024-12-15 | 2025-06-21 |
 | [I Feel It](https://open.spotify.com/track/2spKRxUBwrc4pMBBJpPnCC) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [I Feel It](https://open.spotify.com/album/1PfYmdUoCZK9JfQu4z3Vy0) | 4:57 | 2024-12-14 | 2025-07-13 |
-| [I spend too much time on the internet to care about the small things](https://open.spotify.com/track/1QLdKicibmGNy7FFYWQ4qK) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [N0\_L4T3NCY: HALCYON PT\. IV](https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm) | 3:17 | 2025-04-13 |  |
+| [I spend too much time on the internet to care about the small things](https://open.spotify.com/track/1QLdKicibmGNy7FFYWQ4qK) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [N0\_L4T3NCY: HALCYON PT\. IV](https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm) | 3:17 | 2025-04-13 | 2025-07-24 |
 | [I spend too much time on the internet to care about the small things](https://open.spotify.com/track/34R8ji5n7cAog721QglSiy) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [I spend too much time on the internet to care about the small things](https://open.spotify.com/album/4PtMc2ryWi7QGi8fYRI6jY) | 3:17 | 2024-12-14 | 2025-01-07 |
+| [I spend too much time on the internet to care about the small things](https://open.spotify.com/track/3qHOPE9thwIvqfO274o8Gn) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 3:17 | 2025-07-24 |  |
 | [I spend too much time on the internet to care about the small things](https://open.spotify.com/track/7fpBdwBWexTHYW22kF053l) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:17 | 2025-01-07 | 2025-04-13 |
 | [Icarus](https://open.spotify.com/track/4ucwzVfbqZb9ihx5OvDTW3) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 2:42 | 2025-06-24 | 2025-07-22 |
 | [Icarus](https://open.spotify.com/track/74pY6EUBcsWNOj5th9AQyz) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:42 | 2025-03-23 | 2025-06-11 |
@@ -110,7 +111,7 @@
 | [Temporary Forever](https://open.spotify.com/track/6b30rJ7Nhx3EdIzVToFBjg) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:56 | 2025-06-11 |  |
 | [The End of the World As We Know](https://open.spotify.com/track/3NQr6KHpxUEpT4OKQccgfM) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [GARAGE MEMORY: HALCYON PT\. II](https://open.spotify.com/album/7GuKGRqJFUiLCKREzcq9av) | 5:32 | 2024-12-14 |  |
 | [This Far](https://open.spotify.com/track/5pUmJzGwe0DafjRFeP0uAy) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:00 | 2025-06-16 | 2025-06-17 |
-| [This Far](https://open.spotify.com/track/6J1SC7P1ZlPdkS6df0VMuW) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [POP!: HALCYON PT\. III](https://open.spotify.com/album/4tSUFyOFdccu73OdTCu9Q8) | 2:00 | 2024-12-14 |  |
+| [This Far](https://open.spotify.com/track/6J1SC7P1ZlPdkS6df0VMuW) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [POP!: HALCYON PT\. III](https://open.spotify.com/album/4tSUFyOFdccu73OdTCu9Q8) | 2:00 | 2024-12-14 | 2025-07-24 |
 | [Time To Spare](https://open.spotify.com/track/6OMHX8v3S3P8fEEAWXx3ne) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:00 | 2024-12-19 | 2025-06-10 |
 | [Time To Spare](https://open.spotify.com/track/2xoAo5u7Tce4ggNWfVQPQg) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 3:00 | 2025-06-10 |  |
 | [U\_KNOWN \- 2021 Version](https://open.spotify.com/track/2FrS1ydBBI5gPeFSQOL1HN) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:39 | 2025-01-13 |  |

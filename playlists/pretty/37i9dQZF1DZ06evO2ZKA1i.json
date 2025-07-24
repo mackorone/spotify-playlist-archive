@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 297764,
+  "num_followers": 297811,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAD9OxqtkXr2VBSpUwaB3nJ2",
+  "snapshot_id": "aH7UgAAAAAD5nPI4g6P2dZZgbQpKgRQF",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "Nobody's Home",
-      "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The House Of Blue Light",
         "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
       },
@@ -523,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Junkyard Blues (20th Anniversary Remix)",
-        "url": "https://open.spotify.com/album/3AOWNpIOSAJ3Q904pGoIPL"
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
       "artists": [
         {
@@ -532,9 +516,25 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 331522,
-      "name": "Junkyard Blues - 20th Anniversary Remix",
-      "url": "https://open.spotify.com/track/11utQx4r68El6Y8rBMs6ij"
+      "duration_ms": 240026,
+      "name": "Nobody's Home",
+      "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Taste The Band: 35th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 218173,
+      "name": "Gettin' Tighter - 2010 Digital Remaster",
+      "url": "https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Taste The Band: 35th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
+        "name": "Junkyard Blues (20th Anniversary Remix)",
+        "url": "https://open.spotify.com/album/3AOWNpIOSAJ3Q904pGoIPL"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 218173,
-      "name": "Gettin' Tighter - 2010 Digital Remaster",
-      "url": "https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho"
+      "duration_ms": 331522,
+      "name": "Junkyard Blues - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/11utQx4r68El6Y8rBMs6ij"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Do We Think We Are (Remastered)",
-        "url": "https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y"
+        "name": "The Book of Taliesyn",
+        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 326906,
-      "name": "Rat Bat Blue - Remastered",
-      "url": "https://open.spotify.com/track/7eUDIVvnoFyhkNqxXsmaqr"
+      "duration_ms": 391866,
+      "name": "Anthem - 2000 Remaster",
+      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Book of Taliesyn",
-        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
+        "name": "Who Do We Think We Are (Remastered)",
+        "url": "https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 391866,
-      "name": "Anthem - 2000 Remaster",
-      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
+      "duration_ms": 326906,
+      "name": "Rat Bat Blue - Remastered",
+      "url": "https://open.spotify.com/track/7eUDIVvnoFyhkNqxXsmaqr"
     },
     {
       "added_at": null,

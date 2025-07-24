@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Keethan",
-  "num_followers": 15442,
+  "num_followers": 15447,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH9yBAAAAACZa9vNIbi8dVGi8WKaHJtI",
+  "snapshot_id": "aICOeQAAAABBl+WbFA8KWfEZZgOrnAHI",
   "tracks": [
     {
       "added_at": "2025-06-30 11:07:31",
@@ -71,6 +71,26 @@
       "duration_ms": 148173,
       "name": "Origin Story",
       "url": "https://open.spotify.com/track/779aAw1mmWwlit2D48nshG"
+    },
+    {
+      "added_at": "2025-07-23 07:25:45",
+      "album": {
+        "name": "Naattu Nadappu",
+        "url": "https://open.spotify.com/album/5hQB0Tfxcy33uPiP2jHKKg"
+      },
+      "artists": [
+        {
+          "name": "Thuva JB Chandran",
+          "url": "https://open.spotify.com/artist/7jaNjjYdfdqOSC9VH7aEqq"
+        },
+        {
+          "name": "Sam Boy",
+          "url": "https://open.spotify.com/artist/1liOZcWxpBFeI2q4x2G9IQ"
+        }
+      ],
+      "duration_ms": 173172,
+      "name": "Naattu Nadappu",
+      "url": "https://open.spotify.com/track/7tv63NI1EXDBE2ZWc9jwNO"
     },
     {
       "added_at": "2025-07-18 07:03:25",
@@ -923,22 +943,6 @@
       "duration_ms": 231794,
       "name": "Megham",
       "url": "https://open.spotify.com/track/6afBeYKYu5X4KYohcxh42K"
-    },
-    {
-      "added_at": "2025-05-02 05:22:50",
-      "album": {
-        "name": "Drunk in Love",
-        "url": "https://open.spotify.com/album/1igscamj2IHvOoFKKtLORC"
-      },
-      "artists": [
-        {
-          "name": "FSPROD Mithu",
-          "url": "https://open.spotify.com/artist/5eEhZnd5MmSjv35uhBZJ94"
-        }
-      ],
-      "duration_ms": 186579,
-      "name": "Drunk in Love",
-      "url": "https://open.spotify.com/track/0bJqSTla0hIlqPU1Rluq4H"
     },
     {
       "added_at": "2025-05-15 09:03:32",

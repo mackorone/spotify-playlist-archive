@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 37236,
+  "num_followers": 37242,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAABbCyD1yjK/Tr3zSu57t2px",
+  "snapshot_id": "aH7UgAAAAADQ3J/nG+qbLqxjtJRsJtky",
   "tracks": [
     {
       "added_at": null,
@@ -859,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 195097,
+      "name": "Seamless (with Kehlani)",
+      "url": "https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lovers",
         "url": "https://open.spotify.com/album/74OF6f8hif6ZNLAh1JxRvF"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 352866,
       "name": "Two Occasions (Live) - Live Version",
       "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 195097,
-      "name": "Seamless (with Kehlani)",
-      "url": "https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB"
     },
     {
       "added_at": null,

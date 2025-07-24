@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 715356,
+  "num_followers": 715584,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAADdBk3szB/KhhjKUHBYeWbe",
+  "snapshot_id": "aH7UgAAAAAANVcPL12iRAou4QmZGn0S9",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 221880,
-      "name": "Talkin' Tennessee",
-      "url": "https://open.spotify.com/track/1mUTpDe3E8pML637zOFL5D"
+      "duration_ms": 158003,
+      "name": "Ain\u2019t That Some",
+      "url": "https://open.spotify.com/track/1rFH4TZS38gkcLcW02bEm7"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 158003,
-      "name": "Ain\u2019t That Some",
-      "url": "https://open.spotify.com/track/1rFH4TZS38gkcLcW02bEm7"
+      "duration_ms": 221880,
+      "name": "Talkin' Tennessee",
+      "url": "https://open.spotify.com/track/1mUTpDe3E8pML637zOFL5D"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 293706,
-      "name": "Cover Me Up",
-      "url": "https://open.spotify.com/track/5AQNqdpl6SEV9rAHWy7U9w"
+      "duration_ms": 215571,
+      "name": "Thought You Should Know",
+      "url": "https://open.spotify.com/track/4Fm1GxOXJEiJQ3z6LCQbSP"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
       },
       "artists": [
         {
@@ -408,29 +408,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 215571,
-      "name": "Thought You Should Know",
-      "url": "https://open.spotify.com/track/4Fm1GxOXJEiJQ3z6LCQbSP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NASHVILLE, TENNESSEE",
-        "url": "https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ"
-      },
-      "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "Hangin\u2019 On (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/4Jvp2H0HuFpdMxoYSz6agL"
+      "duration_ms": 293706,
+      "name": "Cover Me Up",
+      "url": "https://open.spotify.com/track/5AQNqdpl6SEV9rAHWy7U9w"
     },
     {
       "added_at": null,
@@ -451,6 +431,26 @@
       "duration_ms": 197253,
       "name": "Up Down (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/2RfYofkWwN77WJjR1rpena"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Hangin\u2019 On (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/4Jvp2H0HuFpdMxoYSz6agL"
     },
     {
       "added_at": null,

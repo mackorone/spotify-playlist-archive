@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Kabza De Small, Cassper Nyovest, Travis Scott and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,150 likes - 99 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,192 likes - 99 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 58 | [Encore](https://open.spotify.com/track/1YIRDTj1uIoNAuNw8kWtLv) | [Mahé](https://open.spotify.com/artist/7MmTsgUmbBgLCQc1lhh6yQ) | [Encore](https://open.spotify.com/album/2bshDmo2VuSxfFtOAECVrE) | 3:17 |
 | 59 | [GOING](https://open.spotify.com/track/3K40ExNdW7OLgTsDKAtJaC) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [GOING](https://open.spotify.com/album/5S3NQCNi6QOu9dGvjjtceu) | 2:02 |
 | 60 | [We’ge \(feat\. SjavasDaDeejay\)](https://open.spotify.com/track/4bcHiBGkWxahWG0GQykKsA) | [Slimbouy](https://open.spotify.com/artist/6Z4rpYA5LmCepd8ky4YT9E), [Ag'zo](https://open.spotify.com/artist/7fFBrQbrXeRMqudomlc0As), [M\-Touch](https://open.spotify.com/artist/1WyQuSMk2VrDyfYfdfa4w6), [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0) | [We’ge \(feat\. SjavasDaDeejay\)](https://open.spotify.com/album/1SROzEy16ShvcmKOhQXWu3) | 6:54 |
-| 61 | [My Shayla](https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Mbryo](https://open.spotify.com/artist/7ttqbMfcqUvZdc2aZDg3F3), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [My Shayla](https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95) | 2:33 |
+| 61 | [My Shayla](https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Mbryo](https://open.spotify.com/artist/3x9zvETvpbvSM8xL0pxyDy), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [My Shayla](https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95) | 2:33 |
 | 62 | [I Can Die Now](https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA) | 2:51 |
 | 63 | [Back Home](https://open.spotify.com/track/2UbZE0h06woFYp5KgP34TC) | [Luke Beling](https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V), [Tom Rhodes](https://open.spotify.com/artist/4lsAzbWcYZblSVl1zhT9bc) | [Back Home](https://open.spotify.com/album/0OSmbDdbm4iR7TsWRQC0Wz) | 3:47 |
 | 64 | [Dlozi Lami \(feat\. Asive Mtsolo, Drumatic&Façade, Luzyo Keys & D' Braz\)](https://open.spotify.com/track/2guYGioj2jeEKLpI9bLvF8) | [Ray&Jay](https://open.spotify.com/artist/1gGxd1GallZ8uYhT1P51PG), [Msongi](https://open.spotify.com/artist/5EVpgXduYKQyggrs93bPby), [Katarina RSA](https://open.spotify.com/artist/1zJbAvbBzEchuGsPh9fBm8), [Asive Mtsolo](https://open.spotify.com/artist/1ukzoyzAE7KBqavCyifmED), [Drumatic&Façade](https://open.spotify.com/artist/5ZAUB7yRQT6EaeRBGmNYIx), [Luzyo Keys](https://open.spotify.com/artist/4xejznKspg2TLQn2KOXbNk), [D'braz](https://open.spotify.com/artist/06l0SbL4Tz5E4GVjWJDbGL) | [Dlozi Lami \(feat\. Asive Mtsolo, Drumatic&Façade, Luzyo Keys & D' Braz\)](https://open.spotify.com/album/0YoBJFGUsSahEYt8GrXuhL) | 7:04 |

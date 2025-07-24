@@ -2,7 +2,7 @@
 
 ### [00's Dance Bollywood](https://open.spotify.com/playlist/37i9dQZF1DWTUfv2yzHEe7)
 
-> Groove it to the biggest bangers of the decade\. Cover \- JBJ
+> Groove it to the biggest bangers of the decade\. Cover \- Om Shanti Om
 
 191 songs - 14 hr 4 min
 

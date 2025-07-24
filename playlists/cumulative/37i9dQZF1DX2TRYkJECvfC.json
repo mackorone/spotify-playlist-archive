@@ -313,6 +313,28 @@
     },
     {
       "album": {
+        "name": "All Day Long",
+        "url": "https://open.spotify.com/album/0usUe7Bpf0sajINFBjGDpy"
+      },
+      "artists": [
+        {
+          "name": "Chris Luno",
+          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
+        },
+        {
+          "name": "Louis Vi",
+          "url": "https://open.spotify.com/artist/4EFp2gfmJWBxZ1wr8bffBg"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240750,
+      "name": "All Day Long",
+      "url": "https://open.spotify.com/track/2uJyCN57HxciMjLL7EziSG"
+    },
+    {
+      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/2XqIGqPFhojwErHEhfN9QQ"
       },
@@ -3748,7 +3770,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 220966,
       "name": "Going In Circles - Radio Edit",
       "url": "https://open.spotify.com/track/3PiC11NGRcRxoXl87vnMws"

@@ -4,11 +4,12 @@
 
 > New bops? Girlies said yes pls 🫶 ✨💅
 
-214 songs - 12 hr 30 min
+216 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 ora](https://open.spotify.com/track/0b54d3bmW5cKbntB5Rrp1H) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [MI AMI MI ODI](https://open.spotify.com/album/2DyqXtkT9eESK7W7deh9sZ) | 2:57 | 2025-06-20 | 2025-06-22 |
+| [1965](https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:48 | 2025-07-23 |  |
 | [a thousand years](https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:45 | 2022-03-09 | 2025-01-30 |
 | [About Love \- From The Netflix Film “To All The Boys: P.S\. I Still Love You”](https://open.spotify.com/track/4XII12nbsvJblXfG1I2QR4) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [About Love \(From The Netflix Film “To All The Boys: P.S\. I Still Love You”\)](https://open.spotify.com/album/3UqotmoFHhdvwBHbP70amM) | 3:34 | 2022-03-09 | 2022-07-29 |
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2022-03-09 | 2025-06-21 |
@@ -80,7 +81,7 @@
 | [Heat Waves](https://open.spotify.com/track/5wdzXMLwhcYD8YVZibN4ih) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Tunes of the Summer](https://open.spotify.com/album/2cvfsfnx9gAXxQpIQi0CuQ) | 3:58 | 2022-03-09 | 2022-07-29 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-06-20 |  |
 | [Hide](https://open.spotify.com/track/7GXG38022Aw5g67p1HTpOp) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [Hide](https://open.spotify.com/album/0rrvnWE3Wr2I8twUu80PX1) | 1:51 | 2022-03-09 | 2022-07-28 |
-| [High Fashion](https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [High Fashion](https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M) | 3:18 | 2025-06-20 |  |
+| [High Fashion](https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [High Fashion](https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M) | 3:18 | 2025-06-20 | 2025-07-24 |
 | [High Hopes](https://open.spotify.com/track/3z5V7oSggDeCPeEGiCIu83) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [High Hopes](https://open.spotify.com/album/2lx32jA6XqlM6wXn6fWyCm) | 3:36 | 2022-03-09 | 2022-07-21 |
 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 | 2022-07-21 | 2023-11-03 |
 | [Home](https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [The World From The Side Of The Moon](https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E) | 3:30 | 2022-07-21 | 2024-04-19 |
@@ -131,7 +132,8 @@
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2022-03-09 | 2025-06-21 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-20 |  |
 | [Messiah](https://open.spotify.com/track/1YUgKPbLTDk36tEthUIpxv) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Messiah](https://open.spotify.com/album/1sSOLDIVlkFSqHSiEcEPHd) | 2:56 | 2025-07-02 |  |
-| [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-29 |  |
+| [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-29 | 2025-07-24 |
+| [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-07-23 |  |
 | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W) | 2:31 | 2025-06-20 | 2025-07-04 |
 | [Movement](https://open.spotify.com/track/0SFq19lgG4qbQAZaNZ3xhO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE) | 3:57 | 2022-07-21 | 2025-02-15 |
 | [Movement](https://open.spotify.com/track/1djzKW3eYLyzjjHXazEWWh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:57 | 2022-07-21 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees of the 82nd Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,409 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,411 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 24 | [Pure Love](https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Queer \(Original Score\)](https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9) | 4:34 |
 | 25 | [Overture of Conclave](https://open.spotify.com/track/1zQ0YSxpBwR3i7QIlgEw7v) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 1:27 |
 | 26 | [Main Title \(Shōgun\)](https://open.spotify.com/track/2vrJwQYPVOhmfdM2glDVOT) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \(Original Soundtrack\)](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 1:51 |
-| 27 | [Hum](https://open.spotify.com/track/4XlfoFIWcr4LaSdox2D8X1) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK), [Julia Newman](https://open.spotify.com/artist/1vtV3L1qFm3hrZq5cGm0ll) | [Monsters: The Lyle and Erik Menendez Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Jq2GDZ4mfpwHqlwmpofLu) | 3:27 |
-| 28 | [The Talented Mr\. Ripley \- FIN](https://open.spotify.com/track/227ZJgTdFVs1xy6QTdCegC) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Ripley \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0p3fvO7atTe2UxvHleKsDt) | 3:35 |
+| 27 | [The Talented Mr\. Ripley \- FIN](https://open.spotify.com/track/227ZJgTdFVs1xy6QTdCegC) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Ripley \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0p3fvO7atTe2UxvHleKsDt) | 3:35 |
+| 28 | [Hum](https://open.spotify.com/track/4XlfoFIWcr4LaSdox2D8X1) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK), [Julia Newman](https://open.spotify.com/artist/1vtV3L1qFm3hrZq5cGm0ll) | [Monsters: The Lyle and Erik Menendez Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Jq2GDZ4mfpwHqlwmpofLu) | 3:27 |
 | 29 | [Wallace & Gromit](https://open.spotify.com/track/6DWohjBrR8myDqpYtWXfXX) | [Julian Nott](https://open.spotify.com/artist/5rTSrGxGb29AiNRh0omvKS), [Rupert Gregson\-Williams](https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG), [James Michael Dooley](https://open.spotify.com/artist/1WMsCBVNqqlhDMioUVt239), [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es), [Alastair King](https://open.spotify.com/artist/4o43d8XbIhNhlVGqFe7s8e) | [Wallace & Gromit: The Curse Of The Were\-Rabbit \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/432WkQOMik5HTiAB5cqCxG) | 1:08 |
 | 30 | [Scherzo for a Flightless Bird \(The Penguin Theme\)](https://open.spotify.com/track/2OmmOXE9y2XeMP8EaLcn8v) | [Mick Giacchino](https://open.spotify.com/artist/4E0UqUr5zm3CltCdkaKaV0) | [The Penguin \(Soundtrack from the HBO® Original Series\) \[Expanded Edition\]](https://open.spotify.com/album/3Iqpj3lrnfMLOwL0FuxXaM) | 3:14 |
 | 31 | [No Use](https://open.spotify.com/track/2lefkt1rVzH99r5nxMG1Dj) | [John Hawkes](https://open.spotify.com/artist/0HM33x7ygNCjJ5Pr32Z65J) | [True Detective: Night Country \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/0YYtxCRIwJ7whWUZoSBtqL) | 2:30 |

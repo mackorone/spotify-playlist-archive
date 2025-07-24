@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Cristian D",
-  "num_followers": 139786,
+  "num_followers": 139807,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sempe",
+      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
         "name": "CARR\u00c9 OK",
         "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 160628,
       "name": "CARR\u00c9 OK",
       "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "ZaZa Vibes",
-        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sempe",
-      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -943,6 +943,30 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
+        "name": "Love Doesn't Exist",
+        "url": "https://open.spotify.com/album/0TlTVRoWCe48EuS8o5bEYT"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "Lusho",
+          "url": "https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "duration_ms": 170269,
+      "name": "Tiffany",
+      "url": "https://open.spotify.com/track/1Jidj5J8iTH9LdePcv8iDo"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
         "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
@@ -967,30 +991,6 @@
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema and Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Love Doesn't Exist",
-        "url": "https://open.spotify.com/album/0TlTVRoWCe48EuS8o5bEYT"
-      },
-      "artists": [
-        {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "Lusho",
-          "url": "https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        }
-      ],
-      "duration_ms": 170269,
-      "name": "Tiffany",
-      "url": "https://open.spotify.com/track/1Jidj5J8iTH9LdePcv8iDo"
     },
     {
       "added_at": "2025-07-17 22:00:46",

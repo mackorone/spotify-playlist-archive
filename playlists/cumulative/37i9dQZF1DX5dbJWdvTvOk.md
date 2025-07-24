@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-811 songs - 1 day 10 hr 33 min
+812 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Lima](https://open.spotify.com/track/6qph8rFqnbC7bUOfbmkOYP) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Lima](https://open.spotify.com/album/2hvzHcFgaOuYrcNtj6Noks) | 3:02 | 2024-05-24 |  |
 | [Lingering Bloom](https://open.spotify.com/track/4ZAvg7HUOB3jH9e5niRKgQ) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Lingering Bloom](https://open.spotify.com/album/5uj7kIeWilrFDclzjtKMuR) | 1:44 | 2023-05-12 | 2023-08-26 |
 | [Little Brook](https://open.spotify.com/track/7qNq3sxKEdzYWvxLSLkj0J) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Little Brook](https://open.spotify.com/album/4LFmxQ7oxYlsVgITnOa2SX) | 2:22 | 2023-04-21 |  |
+| [Little Things](https://open.spotify.com/track/62sKhb5SrRgCBpgXTHZ6CJ) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Little Things](https://open.spotify.com/album/2l0atZUwVI7V06hLb0ucli) | 2:36 | 2025-07-22 |  |
 | [Livandi](https://open.spotify.com/track/5dwTEdDifPzXeThnggzJt4) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Livandi](https://open.spotify.com/album/75hU4Ep3z9VSWp8Lr7F8Oi) | 2:07 | 2023-04-21 | 2024-09-26 |
 | [Live Forever](https://open.spotify.com/track/5FPdwD2bN2dhamXq48ahzk) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Live Forever](https://open.spotify.com/album/49dxWodL0FhB1Uzg9iUETV) | 2:43 | 2023-04-21 | 2023-05-13 |
 | [Lobo, Buarque: Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW) | 3:36 | 2022-07-15 | 2023-04-22 |
@@ -713,7 +714,7 @@
 | [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 | 2024-10-23 | 2025-07-23 |
 | [The Hidden Valley](https://open.spotify.com/track/4R7b5uuUvxvER6JksVLDWi) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [The Hidden Valley](https://open.spotify.com/album/3I5xEp9VFZkL52a0DbRKUs) | 2:37 | 2022-12-09 | 2023-04-22 |
 | [The Hourglass](https://open.spotify.com/track/4ZKXTmQ9vGQG4QJEZjhm8u) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [The Hourglass](https://open.spotify.com/album/2JgivIpjbESxpFGEBZrhtK) | 2:14 | 2023-04-21 |  |
-| [The King Of Time](https://open.spotify.com/track/1gx6KSTQ2z9eVLM59C8iYg) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The King Of Time](https://open.spotify.com/album/1Zb0eZyeNYw3s6pEN7SrCw) | 2:22 | 2025-06-11 |  |
+| [The King Of Time](https://open.spotify.com/track/1gx6KSTQ2z9eVLM59C8iYg) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The King Of Time](https://open.spotify.com/album/1Zb0eZyeNYw3s6pEN7SrCw) | 2:22 | 2025-06-11 | 2025-07-24 |
 | [The Lighthouse](https://open.spotify.com/track/4DzBcv4qWnW7RfkWJ8fz2M) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Lighthouse](https://open.spotify.com/album/08uz1pfSwbk4z58608njlQ) | 2:20 | 2023-04-21 | 2023-06-09 |
 | [The Longing](https://open.spotify.com/track/29C5rzt8Y8YiyXFUByk41c) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [The Longing](https://open.spotify.com/album/1THZEd8ksJ873IqMsCtTb2) | 2:56 | 2023-04-21 | 2024-04-26 |
 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 | 2024-06-07 | 2024-12-11 |

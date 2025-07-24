@@ -4,7 +4,7 @@
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-274 songs - 16 hr 28 min
+275 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Amor Sin Fronteras](https://open.spotify.com/track/4dBHzUM0bjAEtTwfy1YZDs) | [Erick Escobar y La Decisión Vallenata](https://open.spotify.com/artist/0g82wlKp1G6jdN3k36iwCG), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [14 Vallenatos Románticos, Vol\. 3](https://open.spotify.com/album/7cSjg2xmqW00pURG1SApjn) | 4:43 | 2023-11-08 | 2024-04-19 |
 | [Amorcito Mio \- En Vivo](https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 3:23 | 2024-07-15 |  |
 | [Ando Pedo Y Ella Esta Aqui](https://open.spotify.com/track/2W3QTyPSI5Zg1a4Cm3UMvd) | [PXNDX](https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj) | [La Revancha Del Principe Charro](https://open.spotify.com/album/3IZaue2sfl2uX7qOYOx9gg) | 3:35 | 2023-06-16 | 2024-07-03 |
+| [Arrastrando La Cobija](https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 3:06 | 2025-06-17 |  |
 | [Arturo Garza Trevino](https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:49 | 2024-07-02 |  |
 | [Así Son Mis Días](https://open.spotify.com/track/4fb3Xk1LAfQoVk42LgD9Zn) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:34 | 2023-06-16 | 2024-07-03 |
 | [Ay Hombe](https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 5:21 | 2023-06-16 | 2024-07-03 |
@@ -106,7 +107,7 @@
 | [Ella](https://open.spotify.com/track/0hODFwvCUqhgKO5ItsEg4W) | [Los Primeritos de Colombia](https://open.spotify.com/artist/55VPstkLrGtMofUyy9QNW8) | [La Fiesta de Maria Dolores](https://open.spotify.com/album/0aIozctoWa0yPo2bL0qIrl) | 3:24 | 2023-11-08 | 2025-06-18 |
 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 | 2023-06-16 | 2024-07-03 |
 | [En Automático](https://open.spotify.com/track/3kGeAU2fVqf72NCoAJdxbT) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p), [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0) | [En Automático](https://open.spotify.com/album/1ZQqsASquT4yZ6mXzWs3af) | 2:30 | 2024-07-15 | 2025-06-18 |
-| [En Eso No Quedamos](https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 2:57 | 2025-06-17 |  |
+| [En Eso No Quedamos](https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 2:57 | 2025-06-17 | 2025-07-24 |
 | [Eras](https://open.spotify.com/track/6Tfdvb0Evy5rjjcoIiXRaO) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [Eras](https://open.spotify.com/album/6zVmmrev2eBuEDBRSCsUUg) | 3:39 | 2023-11-08 | 2025-06-18 |
 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 | 2023-06-16 |  |
 | [Eres un encanto \- En vivo](https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [En vivo desde El Potrero](https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf) | 3:23 | 2023-06-16 | 2025-06-18 |

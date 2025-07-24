@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: U\-zhaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,039 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,040 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,28 +60,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 50 | [あの街って天国](https://open.spotify.com/track/0fCql9UBZhsesDdx7tK4Ez) | [ランチブレイク](https://open.spotify.com/artist/5DbWOnXZohKoHAzgxUj5tZ) | [あの街って天国](https://open.spotify.com/album/3exxuRk0j3YmNNE964IDOn) | 3:31 |
 | 51 | [真珠色](https://open.spotify.com/track/24ig6rx0VPphf6nJ6hIyqt) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [光の路](https://open.spotify.com/album/582c8uDijGKHpheqhprwdm) | 4:00 |
 | 52 | [Natsugao](https://open.spotify.com/track/6delL73ikd0t5fb3XsIRr5) | [Low Lilac](https://open.spotify.com/artist/3WdFRzGipiUDWqmX6gAeAv) | [Natsugao](https://open.spotify.com/album/0vM9VIPGPWH9c2e3dRyTgi) | 4:51 |
-| 53 | [Blur](https://open.spotify.com/track/6uoksVrNY1sJRSGPwbZS8O) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Blur](https://open.spotify.com/album/7dGGUywMPNHdKpLJpoljuO) | 4:09 |
-| 54 | [夏の幻](https://open.spotify.com/track/4cPZnL4hqsb5gGYkg0BCvi) | [the paddles](https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO) | [夏の幻](https://open.spotify.com/album/6b91XQOCaGyOvY55EJBmuM) | 4:26 |
-| 55 | [PERFECT](https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [TIME SLIP](https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo) | 4:28 |
-| 56 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 |
-| 57 | [YOU](https://open.spotify.com/track/14SqqKBjTXkF7Z8pkwYGGw) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [YOU](https://open.spotify.com/album/0dvWzXRKOKHHb0ODMg92x6) | 4:43 |
+| 53 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 |
+| 54 | [Blur](https://open.spotify.com/track/6uoksVrNY1sJRSGPwbZS8O) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Blur](https://open.spotify.com/album/7dGGUywMPNHdKpLJpoljuO) | 4:09 |
+| 55 | [夏の幻](https://open.spotify.com/track/4cPZnL4hqsb5gGYkg0BCvi) | [the paddles](https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO) | [夏の幻](https://open.spotify.com/album/6b91XQOCaGyOvY55EJBmuM) | 4:26 |
+| 56 | [PERFECT](https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [TIME SLIP](https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo) | 4:28 |
+| 57 | [Soulive feat\. 真行寺貴秋](https://open.spotify.com/track/0x0hFrFDgg6PwSwkjMPjQn) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [真行寺貴秋](https://open.spotify.com/artist/2B5eU0ZSLAUqP3QY1Qc5PB) | [Soulive feat\. 真行寺貴秋](https://open.spotify.com/album/4OkBPXViP1vBzOVNpdvb7a) | 3:49 |
 | 58 | [NEON TOKYO](https://open.spotify.com/track/1Vhe6NNoxa3YpSeymrmoVQ) | [FUJIBASE](https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66) | [NEON TOKYO](https://open.spotify.com/album/5YRg8VJpj2k5nybZHHsSdN) | 3:38 |
-| 59 | [Soulive feat\. 真行寺貴秋](https://open.spotify.com/track/0x0hFrFDgg6PwSwkjMPjQn) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [真行寺貴秋](https://open.spotify.com/artist/2B5eU0ZSLAUqP3QY1Qc5PB) | [Soulive feat\. 真行寺貴秋](https://open.spotify.com/album/4OkBPXViP1vBzOVNpdvb7a) | 3:49 |
+| 59 | [YOU](https://open.spotify.com/track/14SqqKBjTXkF7Z8pkwYGGw) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [YOU](https://open.spotify.com/album/0dvWzXRKOKHHb0ODMg92x6) | 4:43 |
 | 60 | [人生は失敗だった](https://open.spotify.com/track/1stY1Q72eXqTG2TwRVP2QQ) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [人生は失敗だった](https://open.spotify.com/album/6o7zKGuuxJMvjbaujRhIWS) | 3:27 |
 | 61 | [sekisei inko](https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sekisei inko](https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9) | 3:27 |
 | 62 | [花粉](https://open.spotify.com/track/3zMFEGYHWW8W0dkcEd7qsC) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [花粉](https://open.spotify.com/album/612j2yQlcZ3I58paV1Iosj) | 4:19 |
 | 63 | [Goodnight](https://open.spotify.com/track/6I4DdTw4emHFtKRga5HX3C) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [Goodnight](https://open.spotify.com/album/50Vd83jb4Q90L39y7ANVxX) | 3:31 |
 | 64 | [AWAKE](https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [AWAKE](https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME) | 3:53 |
-| 65 | [淡雪](https://open.spotify.com/track/4MtS7gCstq3BrVINPW444c) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [淡雪](https://open.spotify.com/album/2RIcS21eGsyF3OhWgKFbYW) | 3:22 |
-| 66 | [Hatch Meets June](https://open.spotify.com/track/7uVh5GUs9ZCbvHTZWz0RhQ) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [Hatch Meets June](https://open.spotify.com/album/7fznNbl57jbwUdSIyXpejd) | 4:56 |
+| 65 | [eeny meeny](https://open.spotify.com/track/1zB528nZpEHqU6OvPgdBI4) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [eeny meeny](https://open.spotify.com/album/3FXVX5ocEWkuTg5eMNDsNX) | 4:16 |
+| 66 | [淡雪](https://open.spotify.com/track/4MtS7gCstq3BrVINPW444c) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [淡雪](https://open.spotify.com/album/2RIcS21eGsyF3OhWgKFbYW) | 3:22 |
 | 67 | [This Minute](https://open.spotify.com/track/5G0vkq5xLCjRVwi3h3ub6e) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [This Minute](https://open.spotify.com/album/3gKS2F4VmAftWojU4A8nZO) | 5:53 |
-| 68 | [24](https://open.spotify.com/track/31KcaweNPqlnEOYjE5CnGa) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [24](https://open.spotify.com/album/4oe0cD7X88Cn2G5AISfqLD) | 3:50 |
+| 68 | [Hatch Meets June](https://open.spotify.com/track/7uVh5GUs9ZCbvHTZWz0RhQ) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [Hatch Meets June](https://open.spotify.com/album/7fznNbl57jbwUdSIyXpejd) | 4:56 |
 | 69 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
-| 70 | [芒果](https://open.spotify.com/track/5Xjpo1WzoZVfBMdsnZSnEp) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [芒果](https://open.spotify.com/album/7tQoofYpcZf451VQxzXzrY) | 2:53 |
-| 71 | [eeny meeny](https://open.spotify.com/track/1zB528nZpEHqU6OvPgdBI4) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [eeny meeny](https://open.spotify.com/album/3FXVX5ocEWkuTg5eMNDsNX) | 4:16 |
+| 70 | [24](https://open.spotify.com/track/31KcaweNPqlnEOYjE5CnGa) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [24](https://open.spotify.com/album/4oe0cD7X88Cn2G5AISfqLD) | 3:50 |
+| 71 | [芒果](https://open.spotify.com/track/5Xjpo1WzoZVfBMdsnZSnEp) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [芒果](https://open.spotify.com/album/7tQoofYpcZf451VQxzXzrY) | 2:53 |
 | 72 | [1985](https://open.spotify.com/track/0enOrXRrfvuOZPWtCTjRHW) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [1985](https://open.spotify.com/album/4FkVzYd8PVAGo5ylgoWSTM) | 3:20 |
-| 73 | [I.K.T.W](https://open.spotify.com/track/2QmWMM0XYxHfIkOvlj4LH7) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [I.K.T.W](https://open.spotify.com/album/127ujdqH3qg0Gg6016dtPa) | 3:21 |
-| 74 | [Johnny＆Ayako](https://open.spotify.com/track/3noH09WtyT45nrha4YoaAs) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Johnny＆Ayako](https://open.spotify.com/album/6gdxQrEByPbQWC4RePGqWJ) | 2:27 |
+| 73 | [Johnny＆Ayako](https://open.spotify.com/track/3noH09WtyT45nrha4YoaAs) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Johnny＆Ayako](https://open.spotify.com/album/6gdxQrEByPbQWC4RePGqWJ) | 2:27 |
+| 74 | [I.K.T.W](https://open.spotify.com/track/2QmWMM0XYxHfIkOvlj4LH7) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [I.K.T.W](https://open.spotify.com/album/127ujdqH3qg0Gg6016dtPa) | 3:21 |
 | 75 | [Take a Look \- Ftlframe Remix](https://open.spotify.com/track/5r2Z801NMhhl8B9xykon4f) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [Ftlframe](https://open.spotify.com/artist/6ueZc2xAm12Ib0e90Bx7P0) | [Take a Look \(Ftlframe Remix\)](https://open.spotify.com/album/1kYAxyDQRCiwEB22T4uJDi) | 2:00 |
 
 Snapshot ID: `aH+niQAAAABUhuEqKtljuwoqmnqpSKy6`

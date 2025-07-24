@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Ya es Viernes, vamos a persinar la pista de baile con estos rolones! Danna Paola en portada 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,024,586 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,712 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 18 | [I Can’t Lose](https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Can't Lose](https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ) | 3:03 |
 | 19 | [Morrita del Antro](https://open.spotify.com/track/5qSHQXuo8Xw81h0FrIWzFl) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Morrita del Antro](https://open.spotify.com/album/4nFz2SizJaRZv7KmNCh5Px) | 3:03 |
 | 20 | [ESTO TAMBIEN ES REGGAETON MEXA](https://open.spotify.com/track/033wAL9AOf65vhGhLIq9uP) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [\(\(\(REXX\)\)\)](https://open.spotify.com/album/4a4gi4zJPboFcefHJZwYBw) | 2:28 |
-| 21 | [TIKITI](https://open.spotify.com/track/6b1L2ZCGDT2SIvoZZNQFv9) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [TIKITI](https://open.spotify.com/album/1G4Xitilt3wm6NoVAwpW9P) | 2:50 |
+| 21 | [TIKITI](https://open.spotify.com/track/6b1L2ZCGDT2SIvoZZNQFv9) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [TIKITI](https://open.spotify.com/album/1G4Xitilt3wm6NoVAwpW9P) | 2:50 |
 | 22 | [Diabla](https://open.spotify.com/track/04VzWruL4xtanaEFgpgaDA) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [LAKELLY](https://open.spotify.com/artist/4jg7aE94hJ1qY93unfcyA5), [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G) | [Diabla](https://open.spotify.com/album/68gtQW3RL7b4xLTaWBzsig) | 4:03 |
 | 23 | [Modo Romántico](https://open.spotify.com/track/5pUedtLoLoZhisVtY7zhyy) | [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Modo Romántico](https://open.spotify.com/album/3IKPdMbD9JAiXMsWB4rXWE) | 3:03 |
 | 24 | [El Maquilero](https://open.spotify.com/track/6JN6R8utVFI1sQMUZqg2Y2) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Maquilero](https://open.spotify.com/album/22P1VXfmhjw0kGQgX0fk11) | 2:52 |

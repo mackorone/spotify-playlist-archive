@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 
 > Move it and groove it to these great tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,951 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,948 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
 | 2 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
 | 3 | [Abracadabra](https://open.spotify.com/track/21gVYvTHXcZWKgxvMmC0FG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 3:28 |
-| 4 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
+| 4 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB) | 3:56 |
 | 5 | [Gnarly \- Clean Edit](https://open.spotify.com/track/4lpRqTVtUNmZ31PSq4lH98) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly \(Clean Edit\)](https://open.spotify.com/album/2h98KUNEJEL1NNfG4IbrDp) | 2:17 |
-| 6 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB) | 3:56 |
+| 6 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
 | 7 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 |
 | 8 | [Firework](https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
 | 9 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 | 39 | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/track/1bxa0TPdBMHPeZFHe0adCw) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/album/40Obfin2HVz6rEL5kIqstb) | 2:54 |
 | 40 | [Better When I'm Dancin'](https://open.spotify.com/track/3Jui3TOVXgDCYeVa3sS28C) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Peanuts Movie \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0V5n3Ch2vFwxT5pVztog3t) | 2:56 |
 | 41 | [It’s Alright \- From The Netflix Film My Little Pony: A New Generation](https://open.spotify.com/track/3pj8yw8GHt28TfX8RE2OaV) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It's Alright \(From The Netflix Film My Little Pony: A New Generation\)](https://open.spotify.com/album/21gDAoF1n6uNZUIR6iDvC7) | 3:13 |
-| 42 | [Espresso](https://open.spotify.com/track/11i0KY6i16UtY5y9WhuJfu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Espresso](https://open.spotify.com/album/1MFBWJ5Z6fjffYj41aKtzX) | 2:34 |
+| 42 | [APT.](https://open.spotify.com/track/30P3Jpkm1Od2KhCgi478f0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 2:44 |
 | 43 | [Wiggle Up, Giddy Up!](https://open.spotify.com/track/4eHpZ7aVEIIjtxK8JrxBWg) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Wiggle Up, Giddy Up!](https://open.spotify.com/album/35Oojm51uhnUPWDEcTnNwN) | 2:37 |
 | 44 | [Last Dance](https://open.spotify.com/track/0YKpv4IxAD40AkWAmBII1N) | [Qai Qai](https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv) | [Last Dance](https://open.spotify.com/album/1YMGrhRO05Gzcm030DLrpJ) | 2:20 |
 | 45 | [It's Raining Tacos Again](https://open.spotify.com/track/2gBSQCNsDZYwlsiZGvQXtT) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [The Raining Tacos Saga](https://open.spotify.com/album/3mEi6JvyJcLoPsOrPgIVyC) | 1:44 |

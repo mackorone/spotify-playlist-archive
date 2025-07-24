@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-215 songs - 12 hr 29 min
+216 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [PREY](https://open.spotify.com/track/0Yk6JcL183ULQMmDQPc3f6) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [PREY](https://open.spotify.com/album/4V1sFZ6ipjNyBLwDH71MJU) | 2:46 | 2024-08-16 |  |
 | [Pull Up](https://open.spotify.com/track/0ZzJ8dgTXvblXbHwCtbd8I) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [Pull Up](https://open.spotify.com/album/6gVP9lRi9rVyzp1Y7mGYA7) | 3:22 | 2023-09-06 | 2024-05-17 |
 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 | 2024-05-24 | 2024-08-24 |
+| [Real World](https://open.spotify.com/track/74qhxY7OA3sFjkfrA1Sh0B) | [noise dept.](https://open.spotify.com/artist/46Un4FFfMc6YURdDdWdYh8) | [Real World](https://open.spotify.com/album/7jQLrXw2y43EjC3DkQyLaI) | 4:49 | 2025-07-23 |  |
 | [Reasons](https://open.spotify.com/track/07wxoKnyPZnrRtzcRX917e) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [MNNR](https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd) | [Reasons](https://open.spotify.com/album/3gYJNB9aT8weYejDegHbTX) | 3:18 | 2023-10-06 | 2024-01-27 |
 | [Reptile](https://open.spotify.com/track/01NzITypb9KJfNjnma5hcj) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Mind Of Madness](https://open.spotify.com/album/1NaeFQSi1Fv66jdscJbzIJ) | 3:02 | 2024-04-30 | 2024-08-24 |
 | [Ride 4 U](https://open.spotify.com/track/2zRPvS8h5HP9Txj6JsUkSI) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Ride 4 U](https://open.spotify.com/album/4JEE8pQukLtamlBB1aANRj) | 3:01 | 2023-08-16 | 2024-05-17 |

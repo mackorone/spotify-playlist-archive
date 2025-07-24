@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,339 likes - 75 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,416 likes - 75 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 71 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 |
 | 72 | [House Of Miracles \- Live](https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles \(Live\)](https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI) | 7:33 |
 | 73 | [Take Courage \(Radio Version\)](https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 4:01 |
-| 74 | [Abide](https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [Kingdom Culture Worship](https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk) | 7:55 |
-| 75 | [Surrounded \(Fight My Battles\) \[Live\]](https://open.spotify.com/track/4GlWqYw49fgrRiB0YzfyMO) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [Moments](https://open.spotify.com/album/4bKpeGX4y9MZmzSYNnU4KC) | 5:49 |
+| 74 | [Surrounded \(Fight My Battles\) \[Live\]](https://open.spotify.com/track/4GlWqYw49fgrRiB0YzfyMO) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [Moments](https://open.spotify.com/album/4bKpeGX4y9MZmzSYNnU4KC) | 5:49 |
+| 75 | [Abide](https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [Kingdom Culture Worship](https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk) | 7:55 |
 
 Snapshot ID: `Zq3mVAAAAADbi/ciHjsYLnYyJV2CbK/t`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506 likes - 335 songs - 19 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 505 likes - 335 songs - 19 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 35 | [Grave](https://open.spotify.com/track/0rpwb2kLgS6KAZsostOj1O) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:13 |
 | 36 | [Need A Boat](https://open.spotify.com/track/0Lt04pLGDo0EnmguFgpv5C) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T) | 3:05 |
 | 37 | [When Someone Stops Loving You](https://open.spotify.com/track/7A55QoGK0vf8lGNtaWZm45) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 3:48 |
-| 38 | [Wonder Woman](https://open.spotify.com/track/38UCGIpo273uGgdBXbi992) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:00 |
-| 39 | [Baggage](https://open.spotify.com/track/0YC7DEF6UKaFVXIV9EMiG5) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:32 |
+| 38 | [Baggage](https://open.spotify.com/track/0YC7DEF6UKaFVXIV9EMiG5) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:32 |
+| 39 | [Wonder Woman](https://open.spotify.com/track/38UCGIpo273uGgdBXbi992) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:00 |
 | 40 | [Buy My Own Drinks](https://open.spotify.com/track/6LhZAoMfux3P3DUxwOI7aG) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Blue Roses](https://open.spotify.com/album/3HNVxd2fKr94wkdhyLH5nf) | 3:22 |
 | 41 | [Grigio Girls](https://open.spotify.com/track/6Xxvdy1m9TX9HTxOzQcfuV) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:00 |
 | 42 | [Ghost Story](https://open.spotify.com/track/3MpZM408Ly3jq76tF9OmZu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:01 |
@@ -183,8 +183,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 173 | [Talk To Me](https://open.spotify.com/track/3a3KPbeco8rQS9bPu2GngI) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Doin' It Right](https://open.spotify.com/album/0t5r1On9AJQclMi7Z3nWF7) | 3:45 |
 | 174 | [His Hands](https://open.spotify.com/track/7LdV3FGsMhxBOsbS4lf4ma) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [That Girl \(Deluxe\)](https://open.spotify.com/album/7jCbgAamUZSkL2SUchiGyF) | 4:15 |
 | 175 | [Throw Your Love Away](https://open.spotify.com/track/6TLBxHeVST12v07Ea9gUrK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:44 |
-| 176 | [Shut Me Up](https://open.spotify.com/track/0wX4YMWniDeyuZg65aVcV1) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Shut Me Up](https://open.spotify.com/album/4uTnjLNnItKKJfGX54hRxU) | 3:09 |
-| 177 | [Very Last Moment In Time](https://open.spotify.com/track/7gTSY2oOJAXSACadaMX4aq) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Speak](https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe) | 3:28 |
+| 176 | [Very Last Moment In Time](https://open.spotify.com/track/7gTSY2oOJAXSACadaMX4aq) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Speak](https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe) | 3:28 |
+| 177 | [Shut Me Up](https://open.spotify.com/track/0wX4YMWniDeyuZg65aVcV1) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Shut Me Up](https://open.spotify.com/album/4uTnjLNnItKKJfGX54hRxU) | 3:09 |
 | 178 | [On A Night Like This](https://open.spotify.com/track/2JDn5eXcun0P7Cbl3BpU5v) | [Sanne Salomonsen](https://open.spotify.com/artist/2tNnhfyBpjjEQEZywjlsCb) | [The Album](https://open.spotify.com/album/5fgADiYWrrEGTuG2o0k4PV) | 4:06 |
 | 179 | [Lonely Alone](https://open.spotify.com/track/1tDJdQc60knIRGXwOlfSIN) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 4:37 |
 | 180 | [Looking For A Lighter](https://open.spotify.com/track/4AzJiwev9fmVbw0X8mWb1P) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [If It Wasn't For You](https://open.spotify.com/album/7ge2IbF35OIlj7Yimy14H7) | 3:03 |
@@ -202,9 +202,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 192 | [Tell Her](https://open.spotify.com/track/5FPq36CbubnbA3QY45D1R4) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [More Love \- Songs from Little Voice Season One](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) | 4:58 |
 | 193 | [Raincoat](https://open.spotify.com/track/5aRNDNKCU7vPlyPPzhOPN1) | [Kelly Sweet](https://open.spotify.com/artist/7rqacjqgs10tZwg7S2DNxR) | [We Are One](https://open.spotify.com/album/0n4l8IEbaht8gU6jKzlp9n) | 3:50 |
 | 194 | [Damage](https://open.spotify.com/track/5wgoyHahv5jmw79VyJp4ve) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 2:48 |
-| 195 | [Greener Grass](https://open.spotify.com/track/5bd2oqoLOlJoPUGPaiQmIp) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 4:04 |
-| 196 | [You Can't Break a Woman](https://open.spotify.com/track/48UVtNxqaWy9PpOhfJXwnu) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Tree](https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm) | 3:13 |
-| 197 | [Dig A Hole](https://open.spotify.com/track/5hBTLtFdMIEcv0MB5fOPPY) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Dig A Hole](https://open.spotify.com/album/6VobrGcLu5Sz4RfMKaiqHR) | 2:51 |
+| 195 | [Dig A Hole](https://open.spotify.com/track/5hBTLtFdMIEcv0MB5fOPPY) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Dig A Hole](https://open.spotify.com/album/6VobrGcLu5Sz4RfMKaiqHR) | 2:51 |
+| 196 | [Greener Grass](https://open.spotify.com/track/5bd2oqoLOlJoPUGPaiQmIp) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 4:04 |
+| 197 | [You Can't Break a Woman](https://open.spotify.com/track/48UVtNxqaWy9PpOhfJXwnu) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Tree](https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm) | 3:13 |
 | 198 | [Like Patsy Would](https://open.spotify.com/track/0VPpa3mKfvg3B73xAGYfT2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Sima Cunningham](https://open.spotify.com/artist/7hCrrpVmgtWF6Y3MZed12l), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Lori](https://open.spotify.com/album/3IVEzHYoqjSQUbRodx4HOh) | 2:54 |
 | 199 | [Somebody New](https://open.spotify.com/track/4wtMEyWDxoxxiQtWywyYNT) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [We're All Somebody From Somewhere](https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2) | 4:11 |
 | 200 | [Good Life](https://open.spotify.com/track/1N23c0ajye7u6jf8ABNLbY) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 3:35 |
@@ -344,4 +344,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 334 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 | 335 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `Ab3fSAAAAAB+OHx5J59sjaRjg5qIFTnR`
+Snapshot ID: `Ab3k3gAAAACvyi2XtfesodfnAgyd4RQg`

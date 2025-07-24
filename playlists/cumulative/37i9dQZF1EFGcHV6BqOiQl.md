@@ -4,11 +4,12 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34ez51Qa142eo2zewgoonx">Mbryo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-42 songs - 2 hr 7 min
+43 songs - 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4 Days](https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [4 Days](https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn) | 2:34 | 2024-05-31 |  |
+| [4 Days](https://open.spotify.com/track/1a4LL4i5E0UreqNtRB97Dr) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [4 Days](https://open.spotify.com/album/4FRZHLigvKsSZX58K1fuew) | 2:34 | 2025-07-23 |  |
+| [4 Days](https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [4 Days](https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn) | 2:34 | 2024-05-31 | 2025-07-24 |
 | [All I'm Saying](https://open.spotify.com/track/0ZIMpCU40d8aCsrb0dPWL4) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Chapter X](https://open.spotify.com/album/7u1jkHWcxmUL7lbNDNyMRY) | 3:56 | 2023-08-21 |  |
 | [All Over](https://open.spotify.com/track/394IT4yrYjwT65ePqKLFbq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM](https://open.spotify.com/album/7FhB7PZyXqiiq5sFAfAqfg) | 2:55 | 2023-08-21 | 2025-06-02 |
 | [All Over](https://open.spotify.com/track/64sNl4VMbqi41L80qFRw0w) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM](https://open.spotify.com/album/3TtgIiEx4g8r4Nn95xxWbT) | 2:55 | 2025-06-01 |  |

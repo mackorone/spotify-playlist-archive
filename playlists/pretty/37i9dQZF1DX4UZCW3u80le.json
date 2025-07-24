@@ -1,6 +1,6 @@
 {
   "description": "Back when we had Kelly Clarkson, Usher, Lady Gaga and *NSYNC on repeat! ",
-  "num_followers": 211449,
+  "num_followers": 211757,
   "original_name": "2000s Pop",
   "owner": {
     "name": "Spotify",
@@ -875,26 +875,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        }
-      ],
-      "duration_ms": 404106,
-      "name": "Stan",
-      "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "FutureSex/LoveSounds Deluxe Edition",
         "url": "https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 276160,
       "name": "My Love (feat. T.I.)",
       "url": "https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 404106,
+      "name": "Stan",
+      "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
-      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/7EXstuWka51pNFzEAidEol"
       },
@@ -1667,22 +1647,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
@@ -1699,18 +1663,38 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Pitbull Starring In Rebelution",
-        "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 237640,
-      "name": "Hotel Room Service",
-      "url": "https://open.spotify.com/track/6Rb0ptOEjBjPPQUlQtQGbL"
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1727,6 +1711,22 @@
       "duration_ms": 204733,
       "name": "Touch My Body",
       "url": "https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237640,
+      "name": "Hotel Room Service",
+      "url": "https://open.spotify.com/track/6Rb0ptOEjBjPPQUlQtQGbL"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "Oops!... I Did It Again",
+        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/2TTYIwTM2iLC1YOyHuhRMt"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "Meet Miley Cyrus",
         "url": "https://open.spotify.com/album/0lB2NEOuH7WRqaWotxmIDH"
       },
@@ -2143,18 +2159,18 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Oops!... I Did It Again",
-        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+        "name": "Jason Derulo",
+        "url": "https://open.spotify.com/album/0aVJmVAeEx78nAA1rAKYf7"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
-      "duration_ms": 206226,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/2TTYIwTM2iLC1YOyHuhRMt"
+      "duration_ms": 221253,
+      "name": "Whatcha Say",
+      "url": "https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2175,22 +2191,6 @@
       "duration_ms": 292373,
       "name": "Fergalicious",
       "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "Jason Derulo",
-        "url": "https://open.spotify.com/album/0aVJmVAeEx78nAA1rAKYf7"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 221253,
-      "name": "Whatcha Say",
-      "url": "https://open.spotify.com/track/67T6l4q3zVjC5nZZPXByU8"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "You Can't Stop The Bum Rush",
-        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
-      },
-      "artists": [
-        {
-          "name": "LEN",
-          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
-        }
-      ],
-      "duration_ms": 265533,
-      "name": "Steal My Sunshine",
-      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "J.Lo",
         "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 262133,
       "name": "I'm Real (feat. Ja Rule) - Murder Remix",
       "url": "https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "You Can't Stop The Bum Rush",
+        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
     },
     {
       "added_at": "2024-07-12 20:54:16",

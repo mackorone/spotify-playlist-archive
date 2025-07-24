@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAACvf1qOGSnOFWJCZ6hzY4Hs",
+  "snapshot_id": "aH7UgAAAAABJJmB5NmwbdJeObBiLtnXA",
   "tracks": [
     {
       "added_at": null,
@@ -276,21 +276,17 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Erick Friedman",
-          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
+          "name": "The Listening Room Ensemble",
+          "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 514733,
-      "name": "Concerto for 2 Violins in D minor, BWV 1043: 2nd movement",
-      "url": "https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2"
+      "duration_ms": 268080,
+      "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
+      "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
     },
     {
       "added_at": null,
@@ -320,8 +316,8 @@
       },
       "artists": [
         {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
         },
         {
           "name": "Clara Rockmore",
@@ -332,9 +328,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 229666,
-      "name": "14 Songs, Op. 34, No. 14. Vocalise: 14 Songs, Op. 34: No. 14, Vocalise (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/69QIXVjGq4o35oajsLgrYv"
+      "duration_ms": 190400,
+      "name": "The Firebird: Berceuse (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/6W1t6X1d24OQJ2E1tXXFmZ"
     },
     {
       "added_at": null,
@@ -372,28 +368,8 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "The Listening Room Ensemble",
-          "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Suite No. 3 in D, BWV 1068: Air on the G String",
-      "url": "https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
-      },
-      "artists": [
-        {
-          "name": "Bob Sherman",
-          "url": "https://open.spotify.com/artist/49c82NBMSDrS5DFGEU1qbg"
+          "name": "Erick Friedman",
+          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
         },
         {
           "name": "Clara Rockmore",
@@ -404,9 +380,29 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 251933,
-      "name": "Impromptu interview with Alexander Schneider",
-      "url": "https://open.spotify.com/track/1T4fEZlWFEdrPh9zRj7cuY"
+      "duration_ms": 514733,
+      "name": "Concerto for 2 Violins in D minor, BWV 1043: 2nd movement",
+      "url": "https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 309920,
+      "name": "Kaddish",
+      "url": "https://open.spotify.com/track/37kvas2O1pnaDrSGLwyhi4"
     },
     {
       "added_at": null,
@@ -416,8 +412,8 @@
       },
       "artists": [
         {
-          "name": "Igor Stravinsky",
-          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
         },
         {
           "name": "Clara Rockmore",
@@ -428,9 +424,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 190400,
-      "name": "The Firebird: Berceuse (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/6W1t6X1d24OQJ2E1tXXFmZ"
+      "duration_ms": 229666,
+      "name": "14 Songs, Op. 34, No. 14. Vocalise: 14 Songs, Op. 34: No. 14, Vocalise (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/69QIXVjGq4o35oajsLgrYv"
     },
     {
       "added_at": null,
@@ -484,17 +480,13 @@
       },
       "artists": [
         {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 309920,
-      "name": "Kaddish",
-      "url": "https://open.spotify.com/track/37kvas2O1pnaDrSGLwyhi4"
+      "duration_ms": 62013,
+      "name": "Concluding Announcements",
+      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
     },
     {
       "added_at": null,
@@ -528,61 +520,49 @@
       },
       "artists": [
         {
-          "name": "Johann Mattheson",
-          "url": "https://open.spotify.com/artist/0YuQmKNAObna6VBbIpp1VY"
+          "name": "Heitor Villa-Lobos",
+          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         },
         {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 127720,
-      "name": "Suite No. 5 in C Minor: V. Air (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/2yQgxybv78OmXgcHxttdDp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
-      },
-      "artists": [
-        {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+          "name": "Dorothy Lawson",
+          "url": "https://open.spotify.com/artist/3XYSA01q5jP99FV0thEsaS"
         },
         {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+          "name": "Robert Burkhardt",
+          "url": "https://open.spotify.com/artist/3SieHSJXe7iWLeUSCJCRAn"
         },
         {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/5qtfc56Rrv5VFcrnr4ZiBK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
-      },
-      "artists": [
+          "name": "Mairi Dorman-Phaneuf",
+          "url": "https://open.spotify.com/artist/5MZaqG2UzmhU8S03XEGiSR"
+        },
         {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+          "name": "Sara Hewitt-Roth",
+          "url": "https://open.spotify.com/artist/4rQ2872nxXeNwm2sGKeMd6"
+        },
+        {
+          "name": "Ludmila Konstantinova",
+          "url": "https://open.spotify.com/artist/2HBmg1eTqBjgewnSGXmNxP"
+        },
+        {
+          "name": "Jessie Reagen",
+          "url": "https://open.spotify.com/artist/0shhbqrr62wgYbSnkkwN17"
+        },
+        {
+          "name": "Peter Sachon",
+          "url": "https://open.spotify.com/artist/2J5Gm1f9pkYSizG49vzjge"
+        },
+        {
+          "name": "Caroline Stinson",
+          "url": "https://open.spotify.com/artist/123M48kw4UoLoLKpcqIKTa"
         }
       ],
-      "duration_ms": 62013,
-      "name": "Concluding Announcements",
-      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
+      "duration_ms": 424453,
+      "name": "Bachianas brasileiras No. 5, W389: I. \u00c1ria (Arr. for Theremin & Cello Ensemble)",
+      "url": "https://open.spotify.com/track/3uXjk6sfXIC9oLLCjrmNtM"
     },
     {
       "added_at": null,
@@ -612,8 +592,8 @@
       },
       "artists": [
         {
-          "name": "Mikhail Glinka",
-          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
         },
         {
           "name": "Clara Rockmore",
@@ -624,9 +604,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 149800,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/0SC43N4foOI5OGSAHYrXve"
+      "duration_ms": 181240,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/5qtfc56Rrv5VFcrnr4ZiBK"
     },
     {
       "added_at": null,
@@ -699,6 +679,54 @@
       "duration_ms": 392533,
       "name": "Symphonie Espagnole: Andante",
       "url": "https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
+          "name": "Mikhail Glinka",
+          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Elegy: Do not tempt me needlessly.",
+      "url": "https://open.spotify.com/track/1x1moJQ5Brxm4c19VI5DM5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
+          "name": "Mikhail Glinka",
+          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 149800,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/0SC43N4foOI5OGSAHYrXve"
     }
   ],
   "unique_name": "This Is Clara Rockmore",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,341,875 likes - 144 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485,048 likes - 144 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 143 | [Ballade Pour Elly](https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK) | [Oscar Sundberg](https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp) | [Ballade Pour Elly](https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ) | 4:03 |
 | 144 | [Harsa](https://open.spotify.com/track/4ynhellTDGYbADxBswSGAS) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Harsa](https://open.spotify.com/album/52TFBADvgZIXGoLIoTs4z6) | 2:04 |
 
-Snapshot ID: `aHqtfwAAAABz5oePb3h1Ti3yZi5oInQn`
+Snapshot ID: `aIFL7AAAAAASnqZnt53arkwtst5w/uDx`

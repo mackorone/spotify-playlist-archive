@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9NmDLwNQnXE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9NmDLwNQnXE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9NmDLwNQnXE)
 
-### [A Sudden Rainstorm](https://open.spotify.com/playlist/37i9dQZF1DX9NmDLwNQnXE)
+### [Storm Sounds for Sleep](https://open.spotify.com/playlist/37i9dQZF1DX9NmDLwNQnXE)
 
 > Relax to the sound of a storm setting in.
 
-437 songs - 19 hr 44 min
+438 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Electrostatic](https://open.spotify.com/track/4Q73bV2I8Bl55TWlBBUyr5) | [Vedhamn Sounds](https://open.spotify.com/artist/1frCifpQ2GtUMzlLcczFcb) | [Electrostatic](https://open.spotify.com/album/7pqQZkINJGaMdr461sNxkv) | 2:43 | 2023-02-13 |  |
 | [Endless Rain Loop](https://open.spotify.com/track/3MU3OGBU2fJS23fIU3JE8s) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [Clean Rain](https://open.spotify.com/album/5ejOmM66rpAkjk3Y8BGzQB) | 3:56 | 2021-11-10 |  |
 | [Energy](https://open.spotify.com/track/6mOyhVD6I8LNa9FOHqXQ1L) | [Sylvie Kaplan](https://open.spotify.com/artist/61hhbYWnINRvkUiYRCd2oA) | [Energy](https://open.spotify.com/album/4MvAHtPjtBjGwNgaWcqPvx) | 1:54 | 2023-02-13 | 2023-06-16 |
-| [Eternal Storm](https://open.spotify.com/track/0QRdzBl9GDhegqN22xI0lz) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Eternal Storm](https://open.spotify.com/album/4AJCJmgWWXCmhkKvnJk24n) | 3:36 | 2021-11-10 |  |
+| [Eternal Storm](https://open.spotify.com/track/0QRdzBl9GDhegqN22xI0lz) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Eternal Storm](https://open.spotify.com/album/4AJCJmgWWXCmhkKvnJk24n) | 3:36 | 2021-11-10 | 2025-07-24 |
 | [Evening Rain In Regent's Park \- Seamless](https://open.spotify.com/track/2mwS92jhBI0Sl32boe5RVL) | [Sounds Of The Royal Parks](https://open.spotify.com/artist/6V13SxJw0847rbZlGn9qrX) | [Regent’s Park Rain](https://open.spotify.com/album/6wDf8enUlIGEpYekOvx0Ej) | 2:50 | 2023-02-13 |  |
 | [Evening Thunderstorm](https://open.spotify.com/track/1SHBqaEqPX6BRyYnHqT3Zi) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Evening Thunderstorm](https://open.spotify.com/album/2ac9q6wrN65u6IGPqR7kdm) | 2:39 | 2021-11-10 | 2023-02-14 |
 | [Exotic Rain](https://open.spotify.com/track/1QqL0tGCIs4ZTfM210rORQ) | [Hawaii Rain](https://open.spotify.com/artist/6nD5OttvcqKRwZCo91p0lR) | [Part 1](https://open.spotify.com/album/61Xw48UHlclilzBtRpzTZK) | 3:21 | 2021-11-10 |  |
@@ -374,6 +374,7 @@
 | [The Mighty Storm](https://open.spotify.com/track/5aBkKR82MfLvIBmJYL5vsz) | [Thunderwards](https://open.spotify.com/artist/5xTEuFn2jsIs8REcyyQpoq) | [The Mighty Storm](https://open.spotify.com/album/2iCrGUGNFBbyHD8IGz4xId) | 2:06 | 2023-02-13 |  |
 | [The Mystique Sounds Of Nature](https://open.spotify.com/track/2uyrDzMP7uzqURcFfYxn8w) | [Moods & Water sounds](https://open.spotify.com/artist/4S8KHt6NF6LYdzJwba3vMp) | [Moods & Water sounds](https://open.spotify.com/album/3nD55ahX3IQVbzZNEvXKfi) | 2:24 | 2021-11-10 | 2024-03-23 |
 | [The Sky's Awake](https://open.spotify.com/track/0GGHxdy1mw6OcS2dVAH0es) | [Drivotra](https://open.spotify.com/artist/11662aaOqDYv2EBHSxJPJV) | [Thunder Nights](https://open.spotify.com/album/1Sp4OvpqqGqGsJbiFj3ICO) | 3:28 | 2021-11-10 |  |
+| [The Thunder and the Lost Boy](https://open.spotify.com/track/5eIc0s0DQZP97ISeDLDGhb) | [It Can Be Done](https://open.spotify.com/artist/5rEZYkp7IH0CYH0bLaEhrj) | [The Thunder and the Lost Boy](https://open.spotify.com/album/5cWatO71VxvCtThaAX8R2z) | 2:16 | 2025-07-23 |  |
 | [Thriftless Thunder](https://open.spotify.com/track/1Our3nKwfAPgzhjEDj2Wyp) | [Amida Nature Sounds](https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK) | [Thriftless Thunder](https://open.spotify.com/album/3xzGpHPg2wIR4uBZnzMyhd) | 1:57 | 2021-11-10 | 2023-06-16 |
 | [Through The Storm And Rain](https://open.spotify.com/track/7Lr2svEwRL2D0FyFeUkTsu) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Natural Serenity](https://open.spotify.com/album/3pJL4HWm5phcV0FEvFd7Iz) | 3:27 | 2021-11-10 | 2024-03-09 |
 | [Thunder & Rain Sound](https://open.spotify.com/track/2SB1XCZHGJIrjNBqzmKQZ8) | [Loop And Shuffle](https://open.spotify.com/artist/0l1B9knLg0tEkhZx03QgjB) | [Loop And Shuffle](https://open.spotify.com/album/1OkfMBc1D314asxVOrEi2m) | 2:21 | 2021-11-10 |  |

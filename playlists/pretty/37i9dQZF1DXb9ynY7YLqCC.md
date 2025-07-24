@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: Rolo Sartoro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,047 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,055 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 55 | [Probaste un Buen Dolor](https://open.spotify.com/track/6vEuaYdwI95ClE5zaIn5Ji) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Venganza Primavera](https://open.spotify.com/album/7bbgqwZ32fIFfvvhmzpYu0) | 3:43 |
 | 56 | [Ni Tan Pronto](https://open.spotify.com/track/36rWoyV5lOo2j346o541r0) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Ni Tan Pronto](https://open.spotify.com/album/5mRuyt7AfONYHanxkXzym0) | 4:20 |
 | 57 | [Veredas](https://open.spotify.com/track/1iv3txvY78PROSNk2AxW3t) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Viaje al Centro de Uno Mismo](https://open.spotify.com/album/7zKNPA1cVOW58Pn4UJTerl) | 5:05 |
-| 58 | [Miras sin ver](https://open.spotify.com/track/0h977C6sVvhYg2fEf3tIO6) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Guerra de Nada](https://open.spotify.com/album/4BpvpQg1SoId37jAosecWu) | 4:11 |
-| 59 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 |
-| 60 | [El último poeta maldito](https://open.spotify.com/track/4i3NV6znz9XgQOpEelbhic) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [El disco maldito](https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN) | 2:16 |
+| 58 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 |
+| 59 | [El último poeta maldito](https://open.spotify.com/track/4i3NV6znz9XgQOpEelbhic) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [El disco maldito](https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN) | 2:16 |
+| 60 | [Miras sin ver](https://open.spotify.com/track/0h977C6sVvhYg2fEf3tIO6) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Guerra de Nada](https://open.spotify.com/album/4BpvpQg1SoId37jAosecWu) | 4:11 |
 | 61 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 |
 | 62 | [Anguilita](https://open.spotify.com/track/468PxWHH3BwWwqQQ5t5VJG) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Miércoles](https://open.spotify.com/album/6H15jq7KmVKCSo6RvPuIjK) | 4:42 |
 | 63 | [Esa Gente](https://open.spotify.com/track/449Ed1jOxFMqlP0gzDuqDM) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Cómo Evitar Que Sangremos](https://open.spotify.com/album/2MuxY6SrvgQpk8oa8nyyt5) | 4:29 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 67 | [Calavera](https://open.spotify.com/track/051m0yMunQHD5Zxc1P1FvZ) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Manuel Moretti](https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk) | [Calavera](https://open.spotify.com/album/6pRRRIq4SoYqXZZTBCF5xV) | 3:37 |
 | 68 | [Mesita del Miravalles](https://open.spotify.com/track/6SmnXXBm7YncpNWmUujfJY) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [Mesita del Miravalles](https://open.spotify.com/album/0XzpwQu58Mfsddh1O405wA) | 3:23 |
 | 69 | [Sangrecaliente](https://open.spotify.com/track/6fkCxYCuTdwS9vAmGE9TYy) | [Revanchistas](https://open.spotify.com/artist/0doxvsFqliwpll9oqvUGEQ) | [De Sangre Caliente](https://open.spotify.com/album/54L6YD2YIuEGajL1v3RIs1) | 4:26 |
-| 70 | [3 Acordes](https://open.spotify.com/track/69OeKslZFI2RPaYDQUGFHh) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP) | [3 Acordes](https://open.spotify.com/album/5oKMFaF7iCoq2JGZuOabNR) | 3:12 |
+| 70 | [Sacrificio y Rock N´Roll](https://open.spotify.com/track/5vFBQCqiP7cRnvH88o4Ecx) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog), [Toti Iglesias](https://open.spotify.com/artist/2B106N6sZ5SeN8fYZl3DmE), [Maximiliano Tymczyszyn](https://open.spotify.com/artist/6jUpz1NJBC2yX07MW2hbg9), [Walter Sidotti](https://open.spotify.com/artist/01gEiG8Qqr24wBUdJZ8qlc), [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Sacrificio y Rock N´Roll](https://open.spotify.com/album/2u93GKmDeIBJAxk95uuCVM) | 4:01 |
 
 Snapshot ID: `Z/iFuQAAAAAFehn81Dl+JYPZpNHQBAkv`

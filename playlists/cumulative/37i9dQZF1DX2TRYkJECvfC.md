@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-614 songs - 2 day 3 hr 10 min
+615 songs - 2 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Air](https://open.spotify.com/track/2tVifODuxy46RFMDFzYMkI) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Air](https://open.spotify.com/album/7KGE6G4CQDvAoWpCg8vjFS) | 3:46 | 2023-05-12 |  |
 | [Alfa](https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa](https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY) | 4:45 | 2023-03-03 | 2024-04-19 |
 | [Alfa \- Original Mix](https://open.spotify.com/track/1UabDxiLk78adOCYuQzhpu) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa EP](https://open.spotify.com/album/6nHbGBXnZxCP0PAq2Wt4rd) | 4:45 | 2021-12-08 | 2023-03-09 |
+| [All Day Long](https://open.spotify.com/track/2uJyCN57HxciMjLL7EziSG) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq), [Louis Vi](https://open.spotify.com/artist/4EFp2gfmJWBxZ1wr8bffBg) | [All Day Long](https://open.spotify.com/album/0usUe7Bpf0sajINFBjGDpy) | 4:00 | 2025-07-18 |  |
 | [All Inclusive](https://open.spotify.com/track/3gXM39jnW18uL5Zyg47wXN) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/2XqIGqPFhojwErHEhfN9QQ) | 6:27 | 2021-12-08 |  |
 | [All Inclusive](https://open.spotify.com/track/4lT5XiuLmM8oeRsjsyuAXy) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ) | 6:27 | 2021-12-08 | 2022-01-15 |
 | [All my secrets](https://open.spotify.com/track/73gFw7VPxLVczMDUBVZ4NT) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [All my secrets](https://open.spotify.com/album/5jq96lwsjAZtU6mVyWEMLq) | 2:54 | 2024-10-04 |  |
@@ -194,7 +195,7 @@
 | [Go](https://open.spotify.com/track/3TjfLlWgtEvsrKAvOeyIHT) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Go](https://open.spotify.com/album/1PxOROyL6nnGbGL0rYrhBM) | 4:34 | 2024-04-12 |  |
 | [Go On and Make It Through](https://open.spotify.com/track/4Adh1Klm7A1JSRT6Pafhq5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Keep Me Warm \(feat\. GAPS\)](https://open.spotify.com/album/3RrLv99FiRd4YjO9NbKSES) | 6:11 | 2022-05-03 | 2022-09-10 |
 | [Going Down \- Original Mix](https://open.spotify.com/track/6qraMlY4ZvQCkWF1Q9Uk9A) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Going Down EP](https://open.spotify.com/album/1YOK5okCvTwpNkLg7xpUYI) | 7:03 | 2021-12-08 | 2024-07-13 |
-| [Going In Circles \- Radio Edit](https://open.spotify.com/track/3PiC11NGRcRxoXl87vnMws) | [Ross Couch](https://open.spotify.com/artist/6n9tw6ZtS39CELDQAKvanX) | [Going In Circles](https://open.spotify.com/album/6uotgb8PA90PIpfHVvec6l) | 3:40 | 2022-10-28 |  |
+| [Going In Circles \- Radio Edit](https://open.spotify.com/track/3PiC11NGRcRxoXl87vnMws) | [Ross Couch](https://open.spotify.com/artist/6n9tw6ZtS39CELDQAKvanX) | [Going In Circles](https://open.spotify.com/album/6uotgb8PA90PIpfHVvec6l) | 3:40 | 2022-10-28 | 2025-07-24 |
 | [Gravity](https://open.spotify.com/track/1HCiKjfdSRGEDtyb1bXwRF) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Gravity](https://open.spotify.com/album/0Yur9nH0TXKubnfNM5YAKS) | 3:57 | 2023-09-22 | 2024-04-19 |
 | [Gravity](https://open.spotify.com/track/31ST3YK94PXjmvsLri3m3y) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Gravity](https://open.spotify.com/album/0tsq8YsDQkVgKQIq65UCbH) | 3:57 | 2023-06-30 | 2024-08-17 |
 | [Gravity \(with Delhia De France\)](https://open.spotify.com/track/6mIce4eaRg6UOFHABNX2xL) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Gravity / Daka](https://open.spotify.com/album/29QX0FyGAT6KSSPyzT8s1Q) | 5:29 | 2021-12-08 | 2024-07-13 |

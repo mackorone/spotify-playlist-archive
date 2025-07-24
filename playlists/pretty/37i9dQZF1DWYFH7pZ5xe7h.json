@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 55419,
+  "num_followers": 55423,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -339,30 +339,6 @@
     {
       "added_at": "2025-07-04 10:57:46",
       "album": {
-        "name": "Mahler 9",
-        "url": "https://open.spotify.com/album/6auyTe4bhTknFxrvBDDzys"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 984626,
-      "name": "Symphony No. 9 in D Major: II. Im Tempo eines gem\u00e4chlichen L\u00e4ndlers. Etwas t\u00e4ppisch und sehr derb - - Live From Walt Disney Concert Hall, Los Angeles / 2012",
-      "url": "https://open.spotify.com/track/3UFqPqVR1641nT488M595r"
-    },
-    {
-      "added_at": "2025-07-04 10:57:46",
-      "album": {
         "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
         "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
       },
@@ -383,6 +359,30 @@
       "duration_ms": 1009173,
       "name": "Mahler: Symphony No. 3 in D Minor: III. Comodo, Scherzando. Ohne Hast",
       "url": "https://open.spotify.com/track/2orh65w2YtrAgTZHVtBEf9"
+    },
+    {
+      "added_at": "2025-07-04 10:57:46",
+      "album": {
+        "name": "Mahler 9",
+        "url": "https://open.spotify.com/album/6auyTe4bhTknFxrvBDDzys"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 984626,
+      "name": "Symphony No. 9 in D Major: II. Im Tempo eines gem\u00e4chlichen L\u00e4ndlers. Etwas t\u00e4ppisch und sehr derb - - Live From Walt Disney Concert Hall, Los Angeles / 2012",
+      "url": "https://open.spotify.com/track/3UFqPqVR1641nT488M595r"
     },
     {
       "added_at": "2025-07-04 10:57:46",
@@ -435,6 +435,30 @@
     {
       "added_at": "2025-07-04 10:57:46",
       "album": {
+        "name": "Liszt & Mahler: Das Himmlische Leben",
+        "url": "https://open.spotify.com/album/4MImFleZOeukwxIEolqXrQ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Anne Schwanewilms",
+          "url": "https://open.spotify.com/artist/3mRERvxAET9zPx7kL90Srv"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+        }
+      ],
+      "duration_ms": 612760,
+      "name": "Das himmlische Leben",
+      "url": "https://open.spotify.com/track/62FkMgQtMOYeKwVT3B3nm6"
+    },
+    {
+      "added_at": "2025-07-04 10:57:46",
+      "album": {
         "name": "Mahler: Orchestral Songs",
         "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
       },
@@ -459,30 +483,6 @@
       "duration_ms": 225720,
       "name": "Lieder eines fahrenden Gesellen: Gieng heut' Morgen \u00fcber's Feld",
       "url": "https://open.spotify.com/track/14IEaSAVPyMd1l2CNSw4At"
-    },
-    {
-      "added_at": "2025-07-04 10:57:46",
-      "album": {
-        "name": "Liszt & Mahler: Das Himmlische Leben",
-        "url": "https://open.spotify.com/album/4MImFleZOeukwxIEolqXrQ"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Anne Schwanewilms",
-          "url": "https://open.spotify.com/artist/3mRERvxAET9zPx7kL90Srv"
-        },
-        {
-          "name": "Charles Spencer",
-          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
-        }
-      ],
-      "duration_ms": 612760,
-      "name": "Das himmlische Leben",
-      "url": "https://open.spotify.com/track/62FkMgQtMOYeKwVT3B3nm6"
     },
     {
       "added_at": "2025-07-04 10:57:46",
@@ -599,34 +599,6 @@
     {
       "added_at": "2025-07-04 10:57:46",
       "album": {
-        "name": "Mahler: Orchestral Songs",
-        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        },
-        {
-          "name": "Kent Nagano",
-          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Lieder eines fahrenden Gesellen: Ich hab' ein gl\u00fchend Messer",
-      "url": "https://open.spotify.com/track/5v8X842NJtDA2daRIXsmyl"
-    },
-    {
-      "added_at": "2025-07-04 10:57:46",
-      "album": {
         "name": "Mahler: Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\"",
         "url": "https://open.spotify.com/album/3VHp7AHPIHyGpvMxTzJKGF"
       },
@@ -667,6 +639,58 @@
     {
       "added_at": "2025-07-04 10:57:46",
       "album": {
+        "name": "Mahler: Songs from Des Knaben Wunderhorn & R\u00fcckert-Lieder / Schubert: Lieder",
+        "url": "https://open.spotify.com/album/6aOEkTx3b2aoP995tRhoL2"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Jessye Norman",
+          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
+        },
+        {
+          "name": "Irwin Gage",
+          "url": "https://open.spotify.com/artist/4uR3qmb8hWYkPh3BQNwAtt"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "R\u00fcckert-Lieder: Liebst du um Sch\u00f6nheit",
+      "url": "https://open.spotify.com/track/4hkQ08cxtPUPiVEdVUwZr8"
+    },
+    {
+      "added_at": "2025-07-04 10:57:46",
+      "album": {
+        "name": "Mahler: Orchestral Songs",
+        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Lieder eines fahrenden Gesellen: Ich hab' ein gl\u00fchend Messer",
+      "url": "https://open.spotify.com/track/5v8X842NJtDA2daRIXsmyl"
+    },
+    {
+      "added_at": "2025-07-04 10:57:46",
+      "album": {
         "name": "Mahler: Das klagende Lied / Berg: Lulu-Suite",
         "url": "https://open.spotify.com/album/4Ov78YRYesjbQrwv3QNRyh"
       },
@@ -703,30 +727,6 @@
       "duration_ms": 241093,
       "name": "Das klagende Lied (2 Movement Version): II. Hochzeitsst\u00fcck: a. Von hohen Felsen ergl\u00e4nzt das Schlo\u00df - Live at Festspielhaus, Salzburg, 2011",
       "url": "https://open.spotify.com/track/30zTMjRPtzMxZzVeVWEt4L"
-    },
-    {
-      "added_at": "2025-07-04 10:57:46",
-      "album": {
-        "name": "Mahler: Songs from Des Knaben Wunderhorn & R\u00fcckert-Lieder / Schubert: Lieder",
-        "url": "https://open.spotify.com/album/6aOEkTx3b2aoP995tRhoL2"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Jessye Norman",
-          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
-        },
-        {
-          "name": "Irwin Gage",
-          "url": "https://open.spotify.com/artist/4uR3qmb8hWYkPh3BQNwAtt"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "R\u00fcckert-Lieder: Liebst du um Sch\u00f6nheit",
-      "url": "https://open.spotify.com/track/4hkQ08cxtPUPiVEdVUwZr8"
     },
     {
       "added_at": "2025-07-04 10:57:46",
@@ -911,30 +911,6 @@
     {
       "added_at": "2025-07-04 10:57:46",
       "album": {
-        "name": "Mahler Symphony No. 5",
-        "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Gyeonggi Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N"
-        },
-        {
-          "name": "Shi-Yeon Sung",
-          "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
-        }
-      ],
-      "duration_ms": 761280,
-      "name": "Symphony No. 5 In C Sharp Minor: 1. Trauermarsch (In gemessenem Schritt. Streng. Wie ein Kondukt - Pl\u00f6tzlich schneller. Leidenschaftlich. Wild - Tempo I)",
-      "url": "https://open.spotify.com/track/6NkqiE2wqfCz0mhjcV0WXj"
-    },
-    {
-      "added_at": "2025-07-04 10:57:46",
-      "album": {
         "name": "Mahler: Symphony No. 1",
         "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
       },
@@ -955,34 +931,6 @@
       "duration_ms": 1155933,
       "name": "Symphony No. 1 in D Major \"Titan\": IV. St\u00fcrmisch Bewegt",
       "url": "https://open.spotify.com/track/5JBo2pA0UXFoYzQQnQZfZ2"
-    },
-    {
-      "added_at": "2025-07-04 10:57:46",
-      "album": {
-        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
-        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Lorin Maazel",
-          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
-        },
-        {
-          "name": "Jessye Norman",
-          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        }
-      ],
-      "duration_ms": 305760,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": IV. Urlicht. Sehr feierlich, aber schlicht",
-      "url": "https://open.spotify.com/track/4j82Pmshbiv9dNumhlw7CL"
     },
     {
       "added_at": "2025-07-04 10:57:46",
@@ -1015,6 +963,30 @@
     {
       "added_at": "2025-07-04 10:57:46",
       "album": {
+        "name": "Mahler Symphony No. 5",
+        "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Gyeonggi Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N"
+        },
+        {
+          "name": "Shi-Yeon Sung",
+          "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
+        }
+      ],
+      "duration_ms": 761280,
+      "name": "Symphony No. 5 In C Sharp Minor: 1. Trauermarsch (In gemessenem Schritt. Streng. Wie ein Kondukt - Pl\u00f6tzlich schneller. Leidenschaftlich. Wild - Tempo I)",
+      "url": "https://open.spotify.com/track/6NkqiE2wqfCz0mhjcV0WXj"
+    },
+    {
+      "added_at": "2025-07-04 10:57:46",
+      "album": {
         "name": "Brahms, Schumann & Mahler: Lieder",
         "url": "https://open.spotify.com/album/2xnacrNX13CxDlq4ZW0S4Q"
       },
@@ -1039,6 +1011,34 @@
       "duration_ms": 145080,
       "name": "R\u00fcckert-Lieder, Op. 44: 1. Ich atmet' einen linden Duft - Live",
       "url": "https://open.spotify.com/track/5Fw8FVg8Z5XnayUWuSJ9FB"
+    },
+    {
+      "added_at": "2025-07-04 10:57:46",
+      "album": {
+        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
+        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        },
+        {
+          "name": "Jessye Norman",
+          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "duration_ms": 305760,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": IV. Urlicht. Sehr feierlich, aber schlicht",
+      "url": "https://open.spotify.com/track/4j82Pmshbiv9dNumhlw7CL"
     },
     {
       "added_at": "2025-07-04 10:57:46",

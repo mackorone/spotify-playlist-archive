@@ -1,6 +1,6 @@
 {
   "description": "Ya llegu\u00e9 de donde andaba... se me concedi\u00f3 volver \ud83d\ude4f\ud83c\udffe",
-  "num_followers": 258917,
+  "num_followers": 258998,
   "original_name": "Llegando al Rancho",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Pura Adrenalina",
-        "url": "https://open.spotify.com/album/1nmowOSmp7OY0cW7MoWHEM"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 157569,
-      "name": "Pura Adrenalina",
-      "url": "https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
@@ -459,22 +443,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Gracias America Sin Fronteras",
-        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "La Puerta Negra",
-      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
         "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
@@ -491,6 +459,38 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "Gracias America Sin Fronteras",
+        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "La Puerta Negra",
+      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "Pura Adrenalina",
+        "url": "https://open.spotify.com/album/1nmowOSmp7OY0cW7MoWHEM"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 157569,
+      "name": "Pura Adrenalina",
+      "url": "https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Imperio",
         "url": "https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 140520,
       "name": "El \u00c1guila Blanca",
       "url": "https://open.spotify.com/track/0crJsMs5FmnMHvQG1itkc0"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 137323,
+      "name": "El Circo",
+      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
         "name": "Mi Satisfacci\u00f3n",
         "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 159466,
       "name": "Compr\u00e9 Una Cantina",
       "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 137323,
-      "name": "El Circo",
-      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Seis Pies Abajo",
-      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 170093,
       "name": "El Primer Tonto",
       "url": "https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Seis Pies Abajo",
+      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "\u00bfQui\u00e9n?",
-        "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 128177,
-      "name": "Coraz\u00f3n Malo",
-      "url": "https://open.spotify.com/track/4ta6IEXPLgo20X6HzicCee"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Su Majestad Mi Banda El Mexicano Con Ustedes...",
         "url": "https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 217521,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/2sWBABI42O6dzqQKXk10jo"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "\u00bfQui\u00e9n?",
+        "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 128177,
+      "name": "Coraz\u00f3n Malo",
+      "url": "https://open.spotify.com/track/4ta6IEXPLgo20X6HzicCee"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "La Noche Que Murio Chicago",
         "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 161226,
       "name": "La Noche Que Murio Chicago",
       "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Al Estilo Rancheron",
+      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
         "name": "Camino Equivocado",
         "url": "https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+        "name": "Ni Mas Rico Ni Mas Pobre",
+        "url": "https://open.spotify.com/album/0RF2k6EX0OWEXJZ6KE3heR"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Los Avila",
+          "url": "https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Al Estilo Rancheron",
-      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
+      "duration_ms": 168720,
+      "name": "Ni Mas Rico Ni Mas Pobre",
+      "url": "https://open.spotify.com/track/0Rc32Z5u0u3aGbyIAm89sA"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -1439,22 +1455,6 @@
       "duration_ms": 206077,
       "name": "Sin Querer Queriendo",
       "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
-        "name": "Ni Mas Rico Ni Mas Pobre",
-        "url": "https://open.spotify.com/album/0RF2k6EX0OWEXJZ6KE3heR"
-      },
-      "artists": [
-        {
-          "name": "Los Avila",
-          "url": "https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Ni Mas Rico Ni Mas Pobre",
-      "url": "https://open.spotify.com/track/0Rc32Z5u0u3aGbyIAm89sA"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Forjando una Historia",
-        "url": "https://open.spotify.com/album/4cuJk8bQyqPBuTom3C16uo"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 186131,
-      "name": "No Importa Tu Madre",
-      "url": "https://open.spotify.com/track/2aCrEvIR8thExGbWJiwcrE"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "De Parranda Con La Banda",
         "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 219080,
       "name": "Que Solo Estoy Sin Ti",
       "url": "https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "Forjando una Historia",
+        "url": "https://open.spotify.com/album/4cuJk8bQyqPBuTom3C16uo"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "duration_ms": 186131,
+      "name": "No Importa Tu Madre",
+      "url": "https://open.spotify.com/track/2aCrEvIR8thExGbWJiwcrE"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -1895,18 +1895,18 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Porque Seguimos Sus Pasos",
-        "url": "https://open.spotify.com/album/07Ic20romYlwWHI3ItVc6l"
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
       "artists": [
         {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 175984,
-      "name": "De Ciudad al Rancho",
-      "url": "https://open.spotify.com/track/28GiGFLWEpScEXPElcFjdA"
+      "duration_ms": 160426,
+      "name": "Desprecio",
+      "url": "https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+        "name": "Porque Seguimos Sus Pasos",
+        "url": "https://open.spotify.com/album/07Ic20romYlwWHI3ItVc6l"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
         }
       ],
-      "duration_ms": 160426,
-      "name": "Desprecio",
-      "url": "https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU"
+      "duration_ms": 175984,
+      "name": "De Ciudad al Rancho",
+      "url": "https://open.spotify.com/track/28GiGFLWEpScEXPElcFjdA"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
+        "name": "Misa De Cuerpo Presente",
+        "url": "https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU"
+      },
+      "artists": [
+        {
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+        }
+      ],
+      "duration_ms": 168360,
+      "name": "Misa De Cuerpo Presente",
+      "url": "https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 143920,
       "name": "Pa Que Te Casabas Juan",
       "url": "https://open.spotify.com/track/7pyAF0dBag9O31t5xKtHsL"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
-        "name": "Misa De Cuerpo Presente",
-        "url": "https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU"
-      },
-      "artists": [
-        {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
-        }
-      ],
-      "duration_ms": 168360,
-      "name": "Misa De Cuerpo Presente",
-      "url": "https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 160392,
-      "name": "Que Chulos Ojos",
-      "url": "https://open.spotify.com/track/2dl2KGfCQ2cleNVXlwFSdh"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "20 \u00c9xitos de Ley (Serie de Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/7wrf7tzBFiEyJwgX4R6cf3"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 143871,
       "name": "A Qui\u00e9n Esperas",
       "url": "https://open.spotify.com/track/3eCY6AUZVvKuFQYVpvMEMV"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 160392,
+      "name": "Que Chulos Ojos",
+      "url": "https://open.spotify.com/track/2dl2KGfCQ2cleNVXlwFSdh"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "Prueba De Fuego",
-        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 231855,
-      "name": "Prueba De Fuego",
-      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
-    },
-    {
-      "added_at": "2024-12-03 18:53:52",
-      "album": {
         "name": "Imprescindibles",
         "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 142640,
       "name": "No Porque Seas T\u00fa",
       "url": "https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5"
+    },
+    {
+      "added_at": "2024-12-03 18:53:52",
+      "album": {
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
     },
     {
       "added_at": "2024-12-03 18:53:52",
@@ -2447,18 +2447,18 @@
     {
       "added_at": "2024-12-03 18:53:52",
       "album": {
-        "name": "15 Super Exitos",
-        "url": "https://open.spotify.com/album/1KSE2b7yXmIQKcvYpINrLp"
+        "name": "Canciones Tristes Canciones",
+        "url": "https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl"
       },
       "artists": [
         {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+          "name": "Banda Roja de Jose Leon",
+          "url": "https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5"
         }
       ],
-      "duration_ms": 236538,
-      "name": "Mil Noches",
-      "url": "https://open.spotify.com/track/07lhQQZmg4ANOJ2ar5RecQ"
+      "duration_ms": 181498,
+      "name": "El Diablo En Una Botella",
+      "url": "https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj"
     }
   ],
   "unique_name": "Llegando al Rancho",

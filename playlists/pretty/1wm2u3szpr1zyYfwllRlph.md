@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 58,684 likes - 135 songs - 6 hr 36 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 58,662 likes - 135 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,10 +138,10 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 | 128 | [Chemical High \- Deluxe Mix](https://open.spotify.com/track/2hx2aaCXj7qaU480Wy7UzX) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Chemical High \(Remix Pack\)](https://open.spotify.com/album/31XCyHeqHVTFQXwpMoLTTF) | 5:42 |
 | 129 | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX) | 2:35 |
 | 130 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 |
-| 131 | [Lonely \(feat\. Sananda Maitreya\)](https://open.spotify.com/track/2tZaIi32T3Fwn6GqD8Jcii) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [Lonely \(feat\. Sananda Maitreya\)](https://open.spotify.com/album/154V38RtyuJFnlK8WsLtT5) | 2:50 |
-| 132 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 |
-| 133 | [Forever](https://open.spotify.com/track/45H1RahLdHlhXfDNDFip1H) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Forever](https://open.spotify.com/album/0wUYDmuHRXBKgz2yIvWp3e) | 3:58 |
+| 131 | [Summer](https://open.spotify.com/track/3FUbgm757qZE0pwJ9t9kQF) | [REWIND BE KIND](https://open.spotify.com/artist/3nwbc6lmUsJP2TfaCcMuZo) | [Summer](https://open.spotify.com/album/0ZmOuY4FEWPZQdmJKK1Dh5) | 3:29 |
+| 132 | [Lonely \(feat\. Sananda Maitreya\)](https://open.spotify.com/track/2tZaIi32T3Fwn6GqD8Jcii) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [Lonely \(feat\. Sananda Maitreya\)](https://open.spotify.com/album/154V38RtyuJFnlK8WsLtT5) | 2:50 |
+| 133 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 |
 | 134 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 135 | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm) | 3:00 |
 
-Snapshot ID: `AAAgFjK35PeFQLQQOUmtiK7gE8L95ZCh`
+Snapshot ID: `AAAgGjfYMTI6lQjrojtLFLrOYyhFmadT`

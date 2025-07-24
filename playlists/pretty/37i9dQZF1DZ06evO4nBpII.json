@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1119414,
+  "num_followers": 1119550,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAABV3sD0dMFp3WtTVB19QU8q",
+  "snapshot_id": "aH7UgAAAAACE4l1aC+4pr34nD6hEfNl9",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 132080,
+      "name": "The Grouch",
+      "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saviors (\u00e9dition de luxe)",
         "url": "https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 129895,
       "name": "Fuck Off - FIDLAR Alt Mix",
       "url": "https://open.spotify.com/track/65yJ2gJrgy5cCR6LAPhbac"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 132080,
-      "name": "The Grouch",
-      "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "Scattered",
+      "url": "https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Fun Mondays",
         "url": "https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 134671,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Scattered",
-      "url": "https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV"
     },
     {
       "added_at": null,

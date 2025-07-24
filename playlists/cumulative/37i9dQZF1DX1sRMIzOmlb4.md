@@ -4,7 +4,7 @@
 
 > The biggest songs in Latin America in 2015\. Cover: Nicky Jam
 
-68 songs - 4 hr 11 min
+69 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc) | 5:15 | 2021-12-16 |  |
 | [Ginza](https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 2:51 | 2021-12-16 | 2024-04-19 |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2021-12-16 |  |
-| [Hasta Que Se Seque el Malecón](https://open.spotify.com/track/3w1D8eAOBDZdb8RP5wbV65) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [El Inmortal](https://open.spotify.com/album/2G2jtQfZVKDTHiMjUIVg7D) | 3:07 | 2024-04-06 |  |
+| [Hasta Que Se Seque el Malecón](https://open.spotify.com/track/3w1D8eAOBDZdb8RP5wbV65) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [El Inmortal](https://open.spotify.com/album/2G2jtQfZVKDTHiMjUIVg7D) | 3:07 | 2024-04-06 | 2025-07-24 |
 | [He Llorado \(Como Un Niño\)](https://open.spotify.com/track/72iOihHEQp0LA0hZcjfLaA) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [The King Is Back \(\#LatinIBIZAte\)](https://open.spotify.com/album/19hfZem3HWzQsPEUlQSKdC) | 3:38 | 2021-12-16 |  |
 | [La Gozadera \(feat\. Marc Anthony\)](https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 3:23 | 2021-12-16 |  |
 | [La Mordidita \(feat\. Yotuel\)](https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [A Quien Quiera Escuchar \(Deluxe Edition\)](https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9) | 3:31 | 2021-12-16 |  |
@@ -54,6 +54,7 @@
 | [Por Fin Te Encontré](https://open.spotify.com/track/2DAULesb1U4Qz4FSTZpEUJ) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Por Fin Te Encontré](https://open.spotify.com/album/6waZU5OJmLrEJqUvy4Zytm) | 4:10 | 2021-12-16 | 2024-04-19 |
 | [Pretextos \(feat\. Cosculluela\)](https://open.spotify.com/track/7HDOS7qOhBxmcsWTv29PSK) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:48 | 2024-04-06 |  |
 | [Quédate](https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:03 | 2021-12-16 |  |
+| [Recuérdame \- Nueva versión](https://open.spotify.com/track/0yS3WAbqrdjr8o3XseOqUK) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Recuérdame \(Nueva versión\)](https://open.spotify.com/album/4OAFqJlWoPYEmBJMwvERAy) | 4:52 | 2024-07-13 |  |
 | [Si No Te Enamoras](https://open.spotify.com/track/6vtFApLsXuSSiBRmpf81nW) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [The Beginning](https://open.spotify.com/album/1sBA4WniS6cBvvSDAsCgrV) | 4:02 | 2024-07-13 |  |
 | [Si No Te Quiere](https://open.spotify.com/track/5BHd0eLqg3c58QwyohoYga) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:46 | 2021-12-16 |  |
 | [Si Pudiera](https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 4:16 | 2021-12-16 |  |

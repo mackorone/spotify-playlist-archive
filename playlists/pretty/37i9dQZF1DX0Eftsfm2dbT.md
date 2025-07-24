@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: LEX
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,984 likes - 92 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,992 likes - 92 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 4 | [hikari](https://open.spotify.com/track/15WwIDmvJi1f4CRdduBbrr) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [hikari](https://open.spotify.com/album/2Md8hYlmgPWzNBR051fKkP) | 3:09 |
 | 5 | [1942 \(feat\. YZERR\)](https://open.spotify.com/track/5C0hw5Fbygeep9k6tKn8zX) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [JUST ALBUM](https://open.spotify.com/album/3cQJs0ELJ6UsgtjNfXVCyu) | 3:30 |
 | 6 | [Wax On Wax Off](https://open.spotify.com/track/6OOVIYZMAaSGan0VblqAaq) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Wax On Wax Off](https://open.spotify.com/album/7KDGCPHPJBulOmsSAOXVHj) | 2:51 |
-| 7 | [OUR HEAVEN \- feat\. Daichi Yamamoto](https://open.spotify.com/track/5PrhjJFjOBkT0ZmzuH1Zu5) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [OUR HEAVEN \(feat\. Daichi Yamamoto\)](https://open.spotify.com/album/4SRNt4p7OQGGE2x6bNsZgu) | 4:00 |
+| 7 | [OUR HEAVEN \- feat\. Daichi Yamamoto](https://open.spotify.com/track/5PrhjJFjOBkT0ZmzuH1Zu5) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [OUR HEAVEN \(feat\. Daichi Yamamoto\)](https://open.spotify.com/album/4SRNt4p7OQGGE2x6bNsZgu) | 4:00 |
 | 8 | [Perfect Blue](https://open.spotify.com/track/2Vatkb4Ag4VcRV6DqEAkA0) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [RYO\-Z](https://open.spotify.com/artist/4sAapCy25wlBnkilgKmtgK) | [STUTS on the WAVE](https://open.spotify.com/album/2Dzf9RWs8KVrLJ4JeyfuxJ) | 3:22 |
 | 9 | [+81 Connect Call\_JUMADIBA](https://open.spotify.com/track/5LRhYqk1HGqsgozlJUCa7W) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [+81 Connect Call\_JUMADIBA](https://open.spotify.com/album/63RxsQq8iMizZUCCYpUyhV) | 0:05 |
 | 10 | [Nah Da](https://open.spotify.com/track/0eCnwKbK1xjkAGMHDsEswv) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [IEGUMO](https://open.spotify.com/album/2kbtZe67VV1wa9IbglPWrW) | 1:32 |

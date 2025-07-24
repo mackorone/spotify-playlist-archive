@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 733387,
+  "num_followers": 733408,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-06-27 04:00:33",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
-    },
-    {
-      "added_at": "2025-06-27 04:00:33",
-      "album": {
         "name": "firstborn",
         "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 213340,
       "name": "sunflower.",
       "url": "https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ"
+    },
+    {
+      "added_at": "2025-06-27 04:00:33",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 156386,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
     },
     {
       "added_at": "2025-06-27 04:00:33",

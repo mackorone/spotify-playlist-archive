@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,352 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,635 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 12 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
 | 13 | [All My Friends](https://open.spotify.com/track/2xqI4s8TsrOhhGoWZYoDS2) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [All My Friends](https://open.spotify.com/album/60emWBk5kYEXwYqoM20mco) | 3:20 |
 | 14 | [Say Tell Me \- Maya Jane Coles Remix](https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Say Tell Me \(Maya Jane Coles Remix\)](https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij) | 4:58 |
-| 15 | [Mutt](https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Mutt](https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD) | 3:20 |
-| 16 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
+| 15 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
+| 16 | [Mutt](https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Mutt](https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD) | 3:20 |
 | 17 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 18 | [The Kind of Love](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [The Kind of Love](https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ) | 3:07 |
 | 19 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 46 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
 | 47 | [i think you can save me](https://open.spotify.com/track/1BUIzWWmPJSE75lrHbaGlP) | [Dimside](https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX) | [i think you can save me](https://open.spotify.com/album/1ulBFo81789hv5mwzhHI7j) | 2:05 |
 | 48 | [Alma](https://open.spotify.com/track/3GJ09kc47vspvwPJbktp7v) | [Departure](https://open.spotify.com/artist/1JJNkpO2gNMM8sTxw795bi) | [Alma](https://open.spotify.com/album/6BWCviT2Tm1jtQI1DZQkYL) | 3:20 |
-| 49 | [Shy](https://open.spotify.com/track/2ZMlMWibWHnxB4qf5zlt3L) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Might Delete Later](https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT) | [Shy](https://open.spotify.com/album/56lt0wA0GO8UguFRdXVBA4) | 3:25 |
-| 50 | [All I Need](https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Things to Come](https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA) | 2:43 |
+| 49 | [All I Need](https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Things to Come](https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA) | 2:43 |
+| 50 | [Shy](https://open.spotify.com/track/2ZMlMWibWHnxB4qf5zlt3L) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Might Delete Later](https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT) | [Shy](https://open.spotify.com/album/56lt0wA0GO8UguFRdXVBA4) | 3:25 |
 
 Snapshot ID: `aHmAiwAAAAAmBEHWvHyfsFnnvMncg06Q`

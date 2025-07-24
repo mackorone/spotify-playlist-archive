@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 
 > 
 
-[solo](https://open.spotify.com/user/vida_bence) - 1 like - 111 songs - 5 hr 38 min
+[solo](https://open.spotify.com/user/vida_bence) - 1 like - 112 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,6 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 | 109 | [Mulatozok \- Intro](https://open.spotify.com/track/54TkoWzZy8JL2Mr8KELnOF) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:23 |
 | 110 | [BALATONLELLE](https://open.spotify.com/track/3IItzNiCPdW55CxkFMLqpR) | [JANA](https://open.spotify.com/artist/3sVMPCOGrvv6saKNwgMiQd), [PEAK](https://open.spotify.com/artist/1lsPHMjIgJVvD2eHD2uHym) | [BALATONLELLE](https://open.spotify.com/album/4HVPxCSlwV9lPGel1WhBsg) | 3:15 |
 | 111 | [PLEKNI](https://open.spotify.com/track/2fbc4RDPWdcZC5NVHYGWOA) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [PLEKNI](https://open.spotify.com/album/67bo12Vu3mBmLrRUuHFk7J) | 2:53 |
+| 112 | [SZÁMLAKÉPES CSAJOK](https://open.spotify.com/track/693MKbwdGPRXWbCyhbUd3s) | [JANA](https://open.spotify.com/artist/3sVMPCOGrvv6saKNwgMiQd), [PEAK](https://open.spotify.com/artist/3zpUJqZcnKyX8FSpbAS0FS) | [SZÁMLAKÉPES CSAJOK](https://open.spotify.com/album/6O1WCKUAizm4thqp0yA1NH) | 3:15 |
 
-Snapshot ID: `AAAAzmZMTrBqAPq398Xk7HVh2J9SkRFS`
+Snapshot ID: `AAAAz7DzshGO2LJoyUivp87vn1xTVWJr`

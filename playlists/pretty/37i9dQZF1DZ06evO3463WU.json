@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 154763,
+  "num_followers": 154786,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAACRKxM0DM2EI+dvSOsFK/6O",
+  "snapshot_id": "aH7UgAAAAAByi+uC5qJ+Hu36kOe6jV5W",
   "tracks": [
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 157175,
+      "name": "Nunca Cambies",
+      "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00e9 Bonito",
         "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 167986,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mas Fuerte Que Nunca",
-        "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 157175,
-      "name": "Nunca Cambies",
-      "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
     },
     {
       "added_at": null,

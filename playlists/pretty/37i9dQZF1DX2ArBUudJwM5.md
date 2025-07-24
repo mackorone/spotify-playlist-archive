@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. K4OS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,564 likes - 62 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,569 likes - 62 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 19 | [Exijo en Mí](https://open.spotify.com/track/7opbky0cN8GieuCchCGz6T) | [Juli Savioli](https://open.spotify.com/artist/3S6Z3tddsHqoza4wkqYiQf) | [Perfección](https://open.spotify.com/album/6pyNb7OYZ3exwzVZG5ghbJ) | 2:08 |
 | 20 | [XOBXO](https://open.spotify.com/track/1hLQvd6uhBybEGGRWa4Iml) | [Fiah](https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [XOBXO](https://open.spotify.com/album/4A00oi9TwsdeJdHchuId0S) | 2:46 |
 | 21 | [SCARYHOT](https://open.spotify.com/track/0CGubjzk4lT6gqaomfcKxy) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [SCARYHOT](https://open.spotify.com/album/5cBry92oiYAS2CmcCRXzbU) | 2:09 |
-| 22 | [EL DÍA QUE ME MUERA](https://open.spotify.com/track/0TcBoNDYHV2OmWNGowR2Td) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [EL DÍA QUE ME MUERA](https://open.spotify.com/album/1OSkaCg5Cao9MjjLxURlLq) | 2:57 |
-| 23 | [Eu Te Amo](https://open.spotify.com/track/39qHq4F57ofEH1fJ2bTcfa) | [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr), [Roxxee](https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg) | [Eu Te Amo](https://open.spotify.com/album/6Rc5ob967SqlQaSZDTD5SD) | 1:53 |
+| 22 | [Eu Te Amo](https://open.spotify.com/track/39qHq4F57ofEH1fJ2bTcfa) | [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr), [Roxxee](https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg) | [Eu Te Amo](https://open.spotify.com/album/6Rc5ob967SqlQaSZDTD5SD) | 1:53 |
+| 23 | [EL DÍA QUE ME MUERA](https://open.spotify.com/track/0TcBoNDYHV2OmWNGowR2Td) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [EL DÍA QUE ME MUERA](https://open.spotify.com/album/1OSkaCg5Cao9MjjLxURlLq) | 2:57 |
 | 24 | [alguien como tú](https://open.spotify.com/track/0xmqY23pIPnEI7jydmC5SY) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Atelier](https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc) | 2:08 |
 | 25 | [U&ME](https://open.spotify.com/track/6NbXVdpQep2wNcmVzWYOSt) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb), [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [U&ME](https://open.spotify.com/album/3dY9oVxZ48j0pMXdZMisf7) | 2:39 |
 | 26 | [BAD CHOICE](https://open.spotify.com/track/5Cjo2bRK9A2ZyPcjh6YlVq) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [TANYA](https://open.spotify.com/album/7jUIaJGpygQbtiUgNcBRNR) | 2:00 |

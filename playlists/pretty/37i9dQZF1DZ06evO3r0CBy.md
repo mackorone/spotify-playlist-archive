@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 
 > This is Rodríguez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,218 likes - 24 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,229 likes - 24 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 20 | [Just One of Those Things](https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:02 |
 | 21 | [Rich Folks Hoax](https://open.spotify.com/track/3S36aqn9EqvHkRCAa86oiF) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 3:05 |
 | 22 | [To Whom It May Concern](https://open.spotify.com/track/0BhwDEYXisE3bcWuV4BSk3) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 3:21 |
-| 23 | [Ecuador \(feat\. Rodriguez\) \- Single Mix](https://open.spotify.com/track/0e3vnSO6QNZtqtWgwPwQip) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [QMusic Top 500 van de 90's](https://open.spotify.com/album/6aCPo37uj2guJ8BAiW4RJB) | 3:31 |
-| 24 | [Sugar Man](https://open.spotify.com/track/6UBajaTgPGAL0by8OExExG) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Thomas de Pourquery](https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Jazz Lounge : pour travailler à la maison](https://open.spotify.com/album/1Oq6ubogSpuGQh0u4zc2uC) | 3:32 |
+| 23 | [Sugar Man](https://open.spotify.com/track/6UBajaTgPGAL0by8OExExG) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Thomas de Pourquery](https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Jazz Lounge : pour travailler à la maison](https://open.spotify.com/album/1Oq6ubogSpuGQh0u4zc2uC) | 3:32 |
+| 24 | [Ecuador \(feat\. Rodriguez\) \- Single Mix](https://open.spotify.com/track/0e3vnSO6QNZtqtWgwPwQip) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [QMusic Top 500 van de 90's](https://open.spotify.com/album/6aCPo37uj2guJ8BAiW4RJB) | 3:31 |
 
-Snapshot ID: `aH2DAAAAAABt5Bx+yu1ZugkHUQPD39Yz`
+Snapshot ID: `aH7UgAAAAAACTMrlPkeQPvFClc2hfrL3`

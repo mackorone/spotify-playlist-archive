@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Panic Shack
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,987 likes - 125 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,997 likes - 125 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Fuck Off](https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO) | 2:03 |
 | 125 | [Che Guevara T\-Shirt](https://open.spotify.com/track/447CJp5XoK2xz8A21mu6Dt) | [Special Features](https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT) | [Che Guevara T\-Shirt](https://open.spotify.com/album/6GmzpO3olDI6OGmsyKAVra) | 2:55 |
 
-Snapshot ID: `aHulvQAAAAAZGZ561mC8W/KcDFOBUnY/`
+Snapshot ID: `aIFRWwAAAAAp4zZAhBf49BYVCN+6xcwj`

@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Araceli Julio FOR EVER! Viva el Ska Latino! Viva Sat\u00e9lite Kingston!",
-  "num_followers": 405231,
+  "num_followers": 405284,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
-        "name": "Sweet and Dandy",
-        "url": "https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 176693,
-      "name": "Pressure Drop",
-      "url": "https://open.spotify.com/track/2EISedV2npKMtvygkykV2r"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
         "name": "Never Look Back",
         "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 143166,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
+        "name": "Sweet and Dandy",
+        "url": "https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 176693,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/2EISedV2npKMtvygkykV2r"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
+        "name": "Ordinary Life",
+        "url": "https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9"
+      },
+      "artists": [
+        {
+          "name": "We Are The Union",
+          "url": "https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs"
+        }
+      ],
+      "duration_ms": 182256,
+      "name": "Morbid Obsessions",
+      "url": "https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
         "name": "Desert Rose",
         "url": "https://open.spotify.com/album/4uAyfl6NyFaVteeadFLOA5"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
-        "name": "Ordinary Life",
-        "url": "https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9"
-      },
-      "artists": [
-        {
-          "name": "We Are The Union",
-          "url": "https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs"
-        }
-      ],
-      "duration_ms": 182256,
-      "name": "Morbid Obsessions",
-      "url": "https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
         "name": "Arcade Perfect",
         "url": "https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 194640,
       "name": "Sound of a Revolution",
       "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
-        "name": "Cold in the City",
-        "url": "https://open.spotify.com/album/55U2sYG01pdlcsY847uw0z"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 206163,
-      "name": "Cold in the City",
-      "url": "https://open.spotify.com/track/15W2XqolwVw2F8TYNMTP7r"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
+        "name": "Cold in the City",
+        "url": "https://open.spotify.com/album/55U2sYG01pdlcsY847uw0z"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 206163,
+      "name": "Cold in the City",
+      "url": "https://open.spotify.com/track/15W2XqolwVw2F8TYNMTP7r"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF"
       },
@@ -1247,26 +1247,6 @@
       "duration_ms": 260250,
       "name": "Im gonna come back to Brixton",
       "url": "https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
-        "name": "\u30c8\u30a4\u30c8\u30a4 (feat.\u30e0\u30ed\u30c4\u30e8\u30b7)",
-        "url": "https://open.spotify.com/album/1DfHJUAqMbM18p48ymnyUA"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "\u30e0\u30ed\u30c4\u30e8\u30b7",
-          "url": "https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "\u30c8\u30a4\u30c8\u30a4 - feat.\u30e0\u30ed\u30c4\u30e8\u30b7",
-      "url": "https://open.spotify.com/track/6Q1fVjB5d2zI4r6nWGorFZ"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
+        "name": "\u30c8\u30a4\u30c8\u30a4 (feat.\u30e0\u30ed\u30c4\u30e8\u30b7)",
+        "url": "https://open.spotify.com/album/1DfHJUAqMbM18p48ymnyUA"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "\u30e0\u30ed\u30c4\u30e8\u30b7",
+          "url": "https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "\u30c8\u30a4\u30c8\u30a4 - feat.\u30e0\u30ed\u30c4\u30e8\u30b7",
+      "url": "https://open.spotify.com/track/6Q1fVjB5d2zI4r6nWGorFZ"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
         "name": "Escape from Everything",
         "url": "https://open.spotify.com/album/4httMcgUvgdYF85BdSHwIy"
       },
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
+        "name": "Oddities",
+        "url": "https://open.spotify.com/album/1wFH2BLGpj5JKadDOvrwIu"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Money Money Money",
+      "url": "https://open.spotify.com/track/2Pm7eVq4Q5Soeksf7bMkae"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
         "name": "SKA DREAM",
         "url": "https://open.spotify.com/album/3H28j4CQIYPGvrS4StXeMz"
       },
@@ -1367,26 +1383,6 @@
       "duration_ms": 158534,
       "name": "SKrAm!",
       "url": "https://open.spotify.com/track/5ROazJQzZ1LqD2muLOEaHy"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
-        "name": "Crossfire",
-        "url": "https://open.spotify.com/album/221u5wiwOUjnFbjXB04dX7"
-      },
-      "artists": [
-        {
-          "name": "Marina P",
-          "url": "https://open.spotify.com/artist/56yITwbimLLYB5gPSwxTRK"
-        },
-        {
-          "name": "The Co-Operators",
-          "url": "https://open.spotify.com/artist/3d2PfQ6lK72nZHjaZrWGve"
-        }
-      ],
-      "duration_ms": 186674,
-      "name": "Crossfire",
-      "url": "https://open.spotify.com/track/0K1okkRcZ3Ruz3YdRFIGn6"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -1423,18 +1419,22 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
-        "name": "Oddities",
-        "url": "https://open.spotify.com/album/1wFH2BLGpj5JKadDOvrwIu"
+        "name": "Crossfire",
+        "url": "https://open.spotify.com/album/221u5wiwOUjnFbjXB04dX7"
       },
       "artists": [
         {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          "name": "Marina P",
+          "url": "https://open.spotify.com/artist/56yITwbimLLYB5gPSwxTRK"
+        },
+        {
+          "name": "The Co-Operators",
+          "url": "https://open.spotify.com/artist/3d2PfQ6lK72nZHjaZrWGve"
         }
       ],
-      "duration_ms": 202893,
-      "name": "Money Money Money",
-      "url": "https://open.spotify.com/track/2Pm7eVq4Q5Soeksf7bMkae"
+      "duration_ms": 186674,
+      "name": "Crossfire",
+      "url": "https://open.spotify.com/track/0K1okkRcZ3Ruz3YdRFIGn6"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
-        "name": "My Last Star",
-        "url": "https://open.spotify.com/album/7kEndc4kgFxnwRQy4rasBx"
-      },
-      "artists": [
-        {
-          "name": "The Slackers",
-          "url": "https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK"
-        }
-      ],
-      "duration_ms": 206853,
-      "name": "My Last Star",
-      "url": "https://open.spotify.com/track/6BrJssMHukMs44WWfCS67L"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
         "name": "God Bless Satan",
         "url": "https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 195527,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
+        "name": "My Last Star",
+        "url": "https://open.spotify.com/album/7kEndc4kgFxnwRQy4rasBx"
+      },
+      "artists": [
+        {
+          "name": "The Slackers",
+          "url": "https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK"
+        }
+      ],
+      "duration_ms": 206853,
+      "name": "My Last Star",
+      "url": "https://open.spotify.com/track/6BrJssMHukMs44WWfCS67L"
     },
     {
       "added_at": "2025-07-11 05:52:37",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-07-11 05:52:37",
       "album": {
-        "name": "I Wanna Be Sedated",
-        "url": "https://open.spotify.com/album/4QCDB58ZDGxTWktNjckKKT"
-      },
-      "artists": [
-        {
-          "name": "The Magnetics",
-          "url": "https://open.spotify.com/artist/122nF1f7d6nNfr39ZednVC"
-        }
-      ],
-      "duration_ms": 151691,
-      "name": "I Wanna Be Sedated",
-      "url": "https://open.spotify.com/track/526ks4uLve1kGxxPIwYK7i"
-    },
-    {
-      "added_at": "2025-07-11 05:52:37",
-      "album": {
         "name": "The Godfather Of Ska Anthology",
         "url": "https://open.spotify.com/album/3e6PGMhDmrtQScMgZvQ6kp"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 280626,
       "name": "Skinhead",
       "url": "https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd"
+    },
+    {
+      "added_at": "2025-07-11 05:52:37",
+      "album": {
+        "name": "I Wanna Be Sedated",
+        "url": "https://open.spotify.com/album/4QCDB58ZDGxTWktNjckKKT"
+      },
+      "artists": [
+        {
+          "name": "The Magnetics",
+          "url": "https://open.spotify.com/artist/122nF1f7d6nNfr39ZednVC"
+        }
+      ],
+      "duration_ms": 151691,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/526ks4uLve1kGxxPIwYK7i"
     },
     {
       "added_at": "2025-07-11 05:52:37",

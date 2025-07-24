@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: mgk
 
-1,637 songs - 3 day 22 hr 21 min
+1,638 songs - 3 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Antidote](https://open.spotify.com/track/75qNRiB12VNzkg52Q13ojm) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Antidote](https://open.spotify.com/album/3tpdQGlDN7S3lGfDqrVaYk) | 1:49 | 2023-12-14 | 2023-12-22 |
 | [Anxiety](https://open.spotify.com/track/09oM7MKKiUMlfmm55WILWN) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Anxiety / Making Miseries](https://open.spotify.com/album/6V1fBbeKJwhXCEKRrFNlZD) | 2:55 | 2024-01-04 | 2024-01-12 |
 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 | 2025-06-12 | 2025-07-18 |
-| [ANYTHING > HUMAN](https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 3:55 | 2024-06-02 |  |
+| [ANYTHING > HUMAN](https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 3:55 | 2024-06-02 | 2025-07-24 |
 | [Apologies](https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Apologies](https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY) | 3:06 | 2025-05-08 |  |
 | [Aren't We Ever Gonna Be More Than Friends?](https://open.spotify.com/track/2Sj1jnHcrphTjyuQ5KQwnC) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Aren't We Ever Gonna Be More Than Friends?](https://open.spotify.com/album/5L1U7MJpibUUZkF9ndBdDL) | 2:49 | 2023-07-27 | 2023-08-04 |
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-01-23 | 2025-06-01 |
@@ -399,7 +399,7 @@
 | [Detox](https://open.spotify.com/track/4hlZuSzSc1amD2v3FbZG1K) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Detox](https://open.spotify.com/album/3OOmT2BtFmAYRpQkkjeYnM) | 3:00 | 2023-12-14 | 2024-02-02 |
 | [Devil In Disguise](https://open.spotify.com/track/25EJEDdf5v9gxyV8jweLrG) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Devil In Disguise](https://open.spotify.com/album/4TzP65zu3xapbdpBqGii7c) | 1:58 | 2023-05-25 | 2023-06-02 |
 | [Diagnosis](https://open.spotify.com/track/7vlddLsCrx8WdhCHgvHd7b) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Diagnosis](https://open.spotify.com/album/3aZsnirge4waNPaR1nvZRE) | 3:09 | 2023-06-30 | 2023-07-07 |
-| [Did I Say Too Much](https://open.spotify.com/track/4f8dJP5n2xlwMYLWVuLsfS) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Did I Say Too Much](https://open.spotify.com/album/2xn4IEQqM44vDqisznRvZn) | 3:08 | 2025-06-05 |  |
+| [Did I Say Too Much](https://open.spotify.com/track/4f8dJP5n2xlwMYLWVuLsfS) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Did I Say Too Much](https://open.spotify.com/album/2xn4IEQqM44vDqisznRvZn) | 3:08 | 2025-06-05 | 2025-07-24 |
 | [DIE ANOTHER DAY \(feat\. RØRY\)](https://open.spotify.com/track/6b3xQ4PB5Dp06St04Kmdks) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs), [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [DIE ANOTHER DAY \(feat\. RØRY\)](https://open.spotify.com/album/49ns6k1p6Al9CUfPkuOfeo) | 3:01 | 2023-11-30 | 2023-12-15 |
 | [Different Game](https://open.spotify.com/track/0RlEBvJKzHxl2cjXXi4A2O) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Different Game](https://open.spotify.com/album/5BJJTXG8u7naVR7EKPL01R) | 4:57 | 2023-03-30 | 2023-04-07 |
 | [Digital Forest](https://open.spotify.com/track/49dxw4snvfZ9DBCceJXPo3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Digital Forest / Sugar Pill](https://open.spotify.com/album/2Ze7DZYjC1b4qNt9ajoXd9) | 2:48 | 2023-05-04 | 2023-05-12 |
@@ -450,7 +450,7 @@
 | [Dystopia](https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu) | 3:09 | 2024-10-24 | 2025-03-03 |
 | [DYWTYLM](https://open.spotify.com/track/4hjJtKO5SdpfVRwP4FZeKI) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [DYWTYLM](https://open.spotify.com/album/0xLXYxkjjIPfVFhbPWvCwy) | 4:00 | 2023-04-20 | 2023-05-28 |
 | [Easy Lighter](https://open.spotify.com/track/3ZPJCJMNaBQZG65nnlGgQ3) | [N.Y.P.D\. 南洋派對](https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY) | [Easy Lighter](https://open.spotify.com/album/0kAocczsJutXrc6QWMjYH6) | 6:21 | 2024-04-11 | 2024-06-21 |
-| [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-03-03 | 2025-07-23 |
+| [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-03-03 |  |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2023-03-16 | 2023-09-22 |
 | [Elevated Heartbreak](https://open.spotify.com/track/71kN8wL4AFqpMsmk9jb33D) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Elevated Heartbreak](https://open.spotify.com/album/2IAhYPxUgFVgKqLVzQV2By) | 3:23 | 2023-06-08 | 2023-06-23 |
 | [Elevator Operator](https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Elevator Operator](https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM) | 3:09 | 2025-01-23 |  |
@@ -1139,6 +1139,7 @@
 | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/track/31HQXEZFHCi93k44JoStvb) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/album/0tQhPUgXN0N0fB8aKTZndT) | 2:57 | 2023-08-03 | 2023-08-11 |
 | [QUIT!!](https://open.spotify.com/track/6GIXiA6ERSW78r9Vz0ps5n) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [QUIT!!](https://open.spotify.com/album/2bnrdd634hDSjoqbOSmNqm) | 2:46 | 2024-01-11 | 2024-02-23 |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-11 | 2024-06-09 |
+| [RAGE](https://open.spotify.com/track/3wtmfJg7Y59193gisXjdmR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [RAGE](https://open.spotify.com/album/15w0umvukS2W8W4LdsIJQx) | 4:08 | 2025-07-17 |  |
 | [Raging Fire](https://open.spotify.com/track/3X8OVMSDJdaI9dmSQJBNL5) | [DURAN](https://open.spotify.com/artist/0xJrq1b8p7EYC9aDVF9tHP) | [Electric Man](https://open.spotify.com/album/6bwdq1YGGRsDEXNhJQ50iC) | 3:22 | 2023-11-30 | 2023-12-08 |
 | [Rain in the River](https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Rain in the River](https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P) | 3:12 | 2025-04-03 | 2025-06-27 |
 | [Rain on the Graves](https://open.spotify.com/track/2DYquEUcjmMjxZYFKPON4L) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Rain on the Graves](https://open.spotify.com/album/13hB30MBr9lEVogRpiNBav) | 5:04 | 2024-01-25 | 2024-02-02 |

@@ -1065,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Uff",
+        "url": "https://open.spotify.com/album/7elw8oxe7Uh9oZldfemFih"
+      },
+      "artists": [
+        {
+          "name": "Osho Jain",
+          "url": "https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221057,
+      "name": "Dekha Hi Nahi",
+      "url": "https://open.spotify.com/track/5zK7gzWMZlT4TUf2iN2Wjw"
+    },
+    {
+      "album": {
         "name": "Dhak Dhak",
         "url": "https://open.spotify.com/album/1bfaIV1LAAiy22ZGGHzSq2"
       },
@@ -3956,7 +3974,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 218550,
       "name": "Roz Roz",
       "url": "https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N"

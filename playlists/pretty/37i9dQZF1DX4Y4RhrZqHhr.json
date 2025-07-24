@@ -1,6 +1,6 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 1154862,
+  "num_followers": 1156133,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "John Ryan",
-          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Fireball (feat. John Ryan)",
-      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
-    },
-    {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "John Ryan",
+          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Fireball (feat. John Ryan)",
+      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
     },
     {
       "added_at": "2025-05-23 04:00:39",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
+        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
+        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 214912,
+      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 194840,
       "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
       "url": "https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB"
-    },
-    {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
-        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
-        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 214912,
-      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
     },
     {
       "added_at": "2025-05-23 04:00:39",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
         "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
-    },
-    {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Only Girl (In The World)",
-      "url": "https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ"
     },
     {
       "added_at": "2025-05-23 04:00:39",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
+        "name": "Take You Dancing",
+        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "Take You Dancing",
+      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 201145,
       "name": "REACT",
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
-    },
-    {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
-        "name": "Take You Dancing",
-        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 190306,
-      "name": "Take You Dancing",
-      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
     },
     {
       "added_at": "2025-05-23 04:00:39",
@@ -2349,26 +2349,6 @@
       "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
     },
     {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
-        "name": "Magnets EP",
-        "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 174444,
-      "name": "Post Malone (feat. RANI)",
-      "url": "https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU"
-    },
-    {
       "added_at": "2025-07-07 03:04:41",
       "album": {
         "name": "Dior (feat. Chrystal)",
@@ -2387,6 +2367,26 @@
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "Magnets EP",
+        "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 174444,
+      "name": "Post Malone (feat. RANI)",
+      "url": "https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU"
     },
     {
       "added_at": "2025-05-23 04:00:39",
@@ -2527,26 +2527,6 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
-        "name": "The Magic Key",
-        "url": "https://open.spotify.com/album/015JXvTq9kGDXlJs0z8fYY"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "One-T",
-          "url": "https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI"
-        }
-      ],
-      "duration_ms": 171211,
-      "name": "The Magic Key",
-      "url": "https://open.spotify.com/track/6vHkJ4L8gqCwedvhXkSCsa"
-    },
-    {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
       },
@@ -2563,6 +2543,26 @@
       "duration_ms": 198483,
       "name": "Forever Baby",
       "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "The Magic Key",
+        "url": "https://open.spotify.com/album/015JXvTq9kGDXlJs0z8fYY"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "One-T",
+          "url": "https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI"
+        }
+      ],
+      "duration_ms": 171211,
+      "name": "The Magic Key",
+      "url": "https://open.spotify.com/track/6vHkJ4L8gqCwedvhXkSCsa"
     },
     {
       "added_at": "2025-05-23 04:00:39",
@@ -2987,6 +2987,26 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/57DmSe1xfynExe60QgpWU0"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
         "name": "Dancing in the Moonlight (feat. NEIMY)",
         "url": "https://open.spotify.com/album/47hMwqG7KVLVzyMjgYUqxM"
       },
@@ -3007,22 +3027,22 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
-        "name": "Mi Gente",
-        "url": "https://open.spotify.com/album/57DmSe1xfynExe60QgpWU0"
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/4qugvZbeFLghKN67aQ6PAb"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
         },
         {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
-      "duration_ms": 189440,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8"
+      "duration_ms": 262000,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/0idc0XRnLRovVqpWnGQ6hC"
     },
     {
       "added_at": "2025-05-23 04:00:39",
@@ -3051,26 +3071,6 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/4qugvZbeFLghKN67aQ6PAb"
-      },
-      "artists": [
-        {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/0idc0XRnLRovVqpWnGQ6hC"
-    },
-    {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
         "name": "Ain't Nobody (Loves Me Better)",
         "url": "https://open.spotify.com/album/3beitV4REkUMQn4BXZlD8F"
       },
@@ -3091,22 +3091,6 @@
     {
       "added_at": "2025-05-23 04:00:39",
       "album": {
-        "name": "Are You With Me",
-        "url": "https://open.spotify.com/album/2Kbo8nu3JuyamYBZoO5ltG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 138842,
-      "name": "Are You With Me - Radio Edit",
-      "url": "https://open.spotify.com/track/477daPpd3DnneaHhvjM35l"
-    },
-    {
-      "added_at": "2025-05-23 04:00:39",
-      "album": {
         "name": "I Got U",
         "url": "https://open.spotify.com/album/5F47pY1Lmj3DXPg1mzLjkE"
       },
@@ -3123,6 +3107,22 @@
       "duration_ms": 285596,
       "name": "I Got U",
       "url": "https://open.spotify.com/track/4r8hRPbidDIoDPphxi78aY"
+    },
+    {
+      "added_at": "2025-05-23 04:00:39",
+      "album": {
+        "name": "Are You With Me",
+        "url": "https://open.spotify.com/album/2Kbo8nu3JuyamYBZoO5ltG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 138842,
+      "name": "Are You With Me - Radio Edit",
+      "url": "https://open.spotify.com/track/477daPpd3DnneaHhvjM35l"
     },
     {
       "added_at": "2025-05-23 04:00:39",

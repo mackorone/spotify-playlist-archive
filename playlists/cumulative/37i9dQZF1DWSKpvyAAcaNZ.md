@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Gary Clark Jr.
 
-329 songs - 20 hr 49 min
+330 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Struggle](https://open.spotify.com/track/6SAeWIxjMvNkzElv4cz43s) | [Leon Timbo](https://open.spotify.com/artist/5sh0bpSEIvnWiJxZKFhJ8S) | [Lovers And Fools, Vol\. 2](https://open.spotify.com/album/514CYU9q0GHkgm481oj3U6) | 4:40 | 2022-06-17 |  |
 | [Struggling With The Bottle](https://open.spotify.com/track/5G1lsldy6mzaL8OXb721vS) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Our Time In The Sun](https://open.spotify.com/album/4zio3LtIBfWx2jroLprxvo) | 2:39 | 2024-11-01 |  |
 | [Sun Sets West](https://open.spotify.com/track/0n7jSBubaAhWeUc8yv2FYC) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF) | 2:28 | 2021-12-17 |  |
+| [Sushi and Coca\-Cola](https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sushi and Coca\-Cola](https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4) | 2:37 | 2025-07-23 |  |
 | [Sweet Southern Sounds](https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Sweet Southern Sounds](https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB) | 5:01 | 2025-02-14 |  |
 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 | 2022-07-22 | 2024-04-19 |
 | [Tell Me](https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/7hLiHJqM7TJJrHxN5o4FWB) | 3:17 | 2021-12-17 |  |

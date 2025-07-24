@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,577 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,622 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 70 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 |
 | 71 | [Mejor Ni Me La Nombren](https://open.spotify.com/track/7y3TuUYfFzF7PgdSz3FplN) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mejor Ni Me La Nombren](https://open.spotify.com/album/5Q7i8xatCEmGh7wX81r4bw) | 3:30 |
 | 72 | [10 PM \- Popular](https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [10 PM \(Popular\)](https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR) | 3:33 |
-| 73 | [2 O 3 Botellas](https://open.spotify.com/track/346bfJqsooK4mXr2SLT3t3) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [2 O 3 Botellas](https://open.spotify.com/album/2kk1iU5HnwFoA80NZUPDe7) | 2:53 |
-| 74 | [No Copio de Nada](https://open.spotify.com/track/7GUU8AOCa3lTVSNlLlsVW0) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv), [King Daga](https://open.spotify.com/artist/1F1Ldin7CSAXrPvhZnEJn3), [JHONA](https://open.spotify.com/artist/4iF9IJDzc3ikrG2OiJfrwT) | [No Copio de Nada](https://open.spotify.com/album/6i0OPQJveV0dkMlOb3jQWF) | 2:47 |
-| 75 | [Veinte Años](https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au) | [Romulo Caicedo](https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF) | [Grandes Éxitos](https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL) | 3:01 |
+| 73 | [Veinte Años](https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au) | [Romulo Caicedo](https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF) | [Grandes Éxitos](https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL) | 3:01 |
+| 74 | [2 O 3 Botellas](https://open.spotify.com/track/346bfJqsooK4mXr2SLT3t3) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [2 O 3 Botellas](https://open.spotify.com/album/2kk1iU5HnwFoA80NZUPDe7) | 2:53 |
+| 75 | [No Copio de Nada](https://open.spotify.com/track/7GUU8AOCa3lTVSNlLlsVW0) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv), [King Daga](https://open.spotify.com/artist/1F1Ldin7CSAXrPvhZnEJn3), [JHONA](https://open.spotify.com/artist/4iF9IJDzc3ikrG2OiJfrwT) | [No Copio de Nada](https://open.spotify.com/album/6i0OPQJveV0dkMlOb3jQWF) | 2:47 |
 | 76 | [La Culpa](https://open.spotify.com/track/5G4ZDg8qtObwMXt0F8Sw4A) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Culpa](https://open.spotify.com/album/6Kq8jaRneZMqYi3YkMvKqb) | 2:37 |
 | 77 | [Mis Borracheras](https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Mis Borracheras](https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli) | 2:47 |
 | 78 | [La Conquista](https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Conquista](https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY) | 3:06 |

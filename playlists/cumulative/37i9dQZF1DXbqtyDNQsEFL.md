@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Nöel Mio
 
-559 songs - 2 day 3 hr 52 min
+560 songs - 2 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Oghene Doh](https://open.spotify.com/track/5ShqFhdzGbOUX9wQir73l8) | [Kaydee Numbere](https://open.spotify.com/artist/6KgXR7hwo14wRciu1TF0ZF) | [A Collection of Singles](https://open.spotify.com/album/4znHaZ87wk9G5AMTsi0MnK) | 3:17 | 2023-12-05 | 2023-12-11 |
 | [Oghene Me](https://open.spotify.com/track/6p6Zqs0sTpKbYY7p3NS4Yg) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Songs from the Place of Prayer](https://open.spotify.com/album/2u8rAcqeoemQsK3E66P1JC) | 4:56 | 2023-12-05 | 2023-12-11 |
 | [Ogo](https://open.spotify.com/track/48cvOppznTu76T12L5RCF9) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE) | [Ogo](https://open.spotify.com/album/1d9pKspTWQ5AryZa5XBaHj) | 6:18 | 2024-11-08 | 2024-12-14 |
+| [OH MY GOD](https://open.spotify.com/track/6QQhpDzhLjUPPCDbmG5OQj) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Tay Nay](https://open.spotify.com/artist/6v2Z6W04FFGH4OmzBT4T1i) | [OH MY GOD](https://open.spotify.com/album/3jA7bdqXtQEOD2n9do3jsE) | 2:40 | 2025-07-18 |  |
 | [Oh When The Saint](https://open.spotify.com/track/2XW2C5YvxXwnhmnjBTX4mX) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e) | [Oh When The Saint](https://open.spotify.com/album/5VwaJl4eBX8IrPnCvmK8Ls) | 2:24 | 2025-07-18 |  |
 | [Okaka](https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okaka](https://open.spotify.com/album/2DsC78HhjWpD2YMImCwemz) | 12:20 | 2023-08-25 | 2024-08-22 |
 | [Okemmuo \- The Spirit of the Spirit](https://open.spotify.com/track/1sK5xKa8ewU1g6oPngoAeq) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/album/6BIkUGVK0K4LRoebCTGG6s) | 5:54 | 2022-10-14 | 2022-11-05 |
@@ -454,7 +455,7 @@
 | [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 | 2022-06-09 |  |
 | [Taking care \- Live at Bliss Experience](https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Taking care \(Live at Bliss Experience\)](https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k) | 5:10 | 2022-06-09 | 2023-06-16 |
 | [Taking Care \- Remix](https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Taking Care](https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd) | 3:42 | 2024-12-31 | 2025-01-07 |
-| [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-09-08 |  |
+| [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-09-08 | 2025-07-24 |
 | [Tare \(Live\)](https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Tare \(Live\)](https://open.spotify.com/album/1rlFzowjP2vHdilHAvSU7v) | 7:57 | 2025-03-28 | 2025-04-04 |
 | [Tate](https://open.spotify.com/track/4V7gzz7gtgVpaFBr4YK1Gi) | [Saint Realest](https://open.spotify.com/artist/0s1xpeEP8VX2sytVILCDBs), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Ah Yami](https://open.spotify.com/album/7tQV02VyNXreMnwXiG8Qxy) | 3:13 | 2023-09-29 | 2024-12-31 |
 | [tethered](https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [tethered](https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA) | 3:45 | 2024-10-18 | 2024-11-22 |

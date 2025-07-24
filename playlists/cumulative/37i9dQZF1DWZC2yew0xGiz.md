@@ -2,7 +2,7 @@
 
 ### [Film & TV Favorites: 90s Black Cinema](https://open.spotify.com/playlist/37i9dQZF1DWZC2yew0xGiz)
 
-> Songs from an iconic era of Black film and TV soundtracks.
+> R.I.P\. Malcolm\-Jamal Warner
 
 98 songs - 7 hr 21 min
 

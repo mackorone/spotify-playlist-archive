@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Madhur Sharma & Aanchal Tyagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,774 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,797 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 82 | [Heeriye](https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK) | [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Heeriye](https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj) | 3:35 |
 | 83 | [Yeh Duniya Jala Do](https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Yeh Duniya Jala Do](https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6) | 3:50 |
 | 84 | [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 |
-| 85 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 |
-| 86 | [Falak](https://open.spotify.com/track/2GkmxOZ0hrTk3ey6fqtgSS) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Kutle Khan](https://open.spotify.com/artist/6RBH1sfqF19q05ODygFOZE), [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Falak](https://open.spotify.com/album/4yf5coqfiRHGShTIhLbwwx) | 3:25 |
+| 85 | [Falak](https://open.spotify.com/track/2GkmxOZ0hrTk3ey6fqtgSS) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Kutle Khan](https://open.spotify.com/artist/6RBH1sfqF19q05ODygFOZE), [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Falak](https://open.spotify.com/album/4yf5coqfiRHGShTIhLbwwx) | 3:25 |
+| 86 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 |
 | 87 | [Shehron Ke Raaz](https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As) | 2:32 |
 | 88 | [Gumshuda](https://open.spotify.com/track/1qChnX5WTdkE2oCCTyFrTu) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Gumshuda](https://open.spotify.com/album/6J4Cv47ly1iUAheQy6yrEW) | 3:48 |
 | 89 | [Mere Ranjhana](https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Mere Ranjhana](https://open.spotify.com/album/2F8arPSNA94kkSPTyShIoj) | 3:42 |

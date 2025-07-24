@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
-[codym2011](https://open.spotify.com/user/codym2011) - 560 likes - 233 songs - 15 hr 45 min
+[codym2011](https://open.spotify.com/user/codym2011) - 559 likes - 234 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,5 +241,6 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 | 231 | [Soft Spot](https://open.spotify.com/track/5aoaku54XYpazH18i9bUXp) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot \(Deluxe Edition\)](https://open.spotify.com/album/4e950bADADtSJ7JI5QxDh8) | 4:22 |
 | 232 | [Shine](https://open.spotify.com/track/1h2s5LF8O9m3hNJIAmF1Uw) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [Eda Hinkova](https://open.spotify.com/artist/4doUjy4CUhKC3Hf0lZMTmq) | [Shine](https://open.spotify.com/album/513wvSixYZZKNwNbpfs1QT) | 3:00 |
 | 233 | [Restart My Heart](https://open.spotify.com/track/0a2Yh4mTBAcQDpBYjFIMLJ) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Restart My Heart](https://open.spotify.com/album/4RRW8Qf7RAgwZ2lZMzVZ1P) | 2:51 |
+| 234 | [Dreamer](https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Down To Earth](https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM) | 4:44 |
 
-Snapshot ID: `AAAA/TqAlNC/gvdtCmG3lj6viTxNZP44`
+Snapshot ID: `AAAA/rhyvslvLh+e1NWP7IhFITt0r58K`

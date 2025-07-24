@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-715 songs - 2 day 20 hr 43 min
+716 songs - 2 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Animus \- Shorter](https://open.spotify.com/track/24rpWUub8ylST1yoHJ9p7Y) | [Polynation](https://open.spotify.com/artist/4Rcol4u0q89lypqKI83GDz) | [Animus](https://open.spotify.com/album/60aRhWwK8oAVRzpLKugTHs) | 4:11 | 2020-01-01 | 2021-02-27 |
 | [Anna Painting](https://open.spotify.com/track/4Q8LnVINko045PEZ9pul8v) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Anna Painting](https://open.spotify.com/album/0CTMk3XKsfG1LfmKu1KCCA) | 7:41 | 2019-09-19 | 2019-09-27 |
 | [Another Life](https://open.spotify.com/track/1Ikxe4XFu0B5zW3FJX7PUO) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Another Life](https://open.spotify.com/album/7658gfBxb1ZihgN0BA1CDg) | 6:24 | 2022-07-01 | 2023-09-30 |
+| [Answers](https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Answers](https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X) | 3:19 | 2025-07-18 |  |
 | [Anxiety](https://open.spotify.com/track/6LyVI2CQj6cI0DKkzGeAKD) | [Hidden Face](https://open.spotify.com/artist/1Itil4naIwgkm48BNTjZ2A) | [Anxiety EP](https://open.spotify.com/album/3kvPvCplHNzVnilOWNdGTy) | 3:35 | 2020-08-08 | 2021-09-11 |
 | [Aphelion](https://open.spotify.com/track/49As5IfsLXTc0kTN6kEaGR) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Aphelion](https://open.spotify.com/album/2jZdn5d3aW3qZg6Q0fXVlE) | 7:34 | 2021-10-11 | 2022-07-26 |
 | [Apricots](https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Apricots](https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc) | 4:06 | 2020-11-03 | 2023-07-01 |
@@ -319,7 +320,7 @@
 | [Irreversible](https://open.spotify.com/track/6nSo8mNsaFLr4oMp8t7C1r) | [Matchy](https://open.spotify.com/artist/5BF9eGIdwa9gt4RAXP8w1n) | [Conjunction Anto EP](https://open.spotify.com/album/1bYml3Sd8fFWmRk05xZxRm) | 7:20 | 2019-08-06\* | 2020-05-28 |
 | [It's a Fine Day](https://open.spotify.com/track/0ZRVNeTUZVdjIdjss3toAS) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [It's a Fine Day](https://open.spotify.com/album/0uU1QLNOmgVTDdFwhcmvAL) | 3:24 | 2022-02-09 | 2022-09-30 |
 | [Jackal](https://open.spotify.com/track/1ENkRAZUZbM5ZwPWvs3u70) | [Lunar Plane](https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy) | [Schneeweiß 10: Presented by Oliver Koletzki](https://open.spotify.com/album/1Xqn8uv8HTsP1iZNAUEU8V) | 7:16 | 2019-08-06\* | 2019-09-19 |
-| [JAZZ IN THE AIR](https://open.spotify.com/track/0xBsZ8t2cgo2dSE2Xim3xO) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [JAZZ IN THE AIR](https://open.spotify.com/album/3hSDnCURfeICFh2Q1by74E) | 5:03 | 2025-04-04 |  |
+| [JAZZ IN THE AIR](https://open.spotify.com/track/0xBsZ8t2cgo2dSE2Xim3xO) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [JAZZ IN THE AIR](https://open.spotify.com/album/3hSDnCURfeICFh2Q1by74E) | 5:03 | 2025-04-04 | 2025-07-24 |
 | [Josef Bonfa](https://open.spotify.com/track/6AJSSI82IndSiIbXti9Kd4) | [Marcus Meinhardt](https://open.spotify.com/artist/4yVEkQ8vCUQtJFRioN4Zhj) | [Josef Bonfa](https://open.spotify.com/album/7JYsQFp3zLwlaV8nCWUta8) | 6:57 | 2020-09-19 | 2020-11-21 |
 | [Jörð](https://open.spotify.com/track/5OLZmxtus5R7j8pcMFJbQm) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Jörð](https://open.spotify.com/album/5E1TQ9FATIlkfYeO6LXT9S) | 5:52 | 2020-04-04 | 2022-04-14 |
 | [June \- Mees Salomé Remix](https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L) | [June \(Mees Salomé Remix\)](https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ) | 7:28 | 2020-01-01 | 2022-02-16 |

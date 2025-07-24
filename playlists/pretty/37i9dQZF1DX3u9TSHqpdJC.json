@@ -1,13 +1,205 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Raissa. Artwork by Paola Saliby",
-  "num_followers": 228802,
+  "description": "The best new pop music from new, independent artists.  Cover: Just For Fun. Artwork by Paola Saliby",
+  "num_followers": 228832,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHvAmQAAAADqg3FcZgtzbqT9/U9BIwFC",
+  "snapshot_id": "aICW5QAAAAB/7jkNei0UA88GtWetXj+C",
   "tracks": [
+    {
+      "added_at": "2025-07-18 16:52:12",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/5cTD9rYrL6H4PKh3fvHdTm"
+      },
+      "artists": [
+        {
+          "name": "Just For Fun",
+          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV"
+    },
+    {
+      "added_at": "2025-07-19 15:58:17",
+      "album": {
+        "name": "Leah Dong",
+        "url": "https://open.spotify.com/album/12tjJHPpzChLDiy3YL6lwp"
+      },
+      "artists": [
+        {
+          "name": "Leah Dong",
+          "url": "https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J"
+        }
+      ],
+      "duration_ms": 203756,
+      "name": "You Were Supposed To Fall In Love With Me",
+      "url": "https://open.spotify.com/track/0SoXqAuZPynaPcE6stG97m"
+    },
+    {
+      "added_at": "2025-07-19 15:49:45",
+      "album": {
+        "name": "driver's seat",
+        "url": "https://open.spotify.com/album/3nelriQC69sPfAIATvQ03d"
+      },
+      "artists": [
+        {
+          "name": "the gluu",
+          "url": "https://open.spotify.com/artist/0f0dMXkQ590BbEKKtAXegb"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "driver's seat",
+      "url": "https://open.spotify.com/track/70tV22xFgUQuLZh1GhtIsC"
+    },
+    {
+      "added_at": "2025-07-23 08:01:41",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/4KQmN2Y1rISbRvSMC4TIUN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Fisher",
+          "url": "https://open.spotify.com/artist/6FT60wBgd1m4UGh219yV3Y"
+        }
+      ],
+      "duration_ms": 194578,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/0cyaM03rObPwVIyi6FPYSn"
+    },
+    {
+      "added_at": "2025-07-18 16:52:12",
+      "album": {
+        "name": "JUST FRIENDS?",
+        "url": "https://open.spotify.com/album/5lQclnPqFCFvh1w4DYC7ha"
+      },
+      "artists": [
+        {
+          "name": "dolphoe",
+          "url": "https://open.spotify.com/artist/0Z37o7UvHfZrbW11TVrfDr"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "JUST FRIENDS?",
+      "url": "https://open.spotify.com/track/5UuX41K7fJC2mJaLDbmdns"
+    },
+    {
+      "added_at": "2025-07-18 16:52:12",
+      "album": {
+        "name": "Less is More",
+        "url": "https://open.spotify.com/album/2lcpy0xLuRBRlBTvNWZbSy"
+      },
+      "artists": [
+        {
+          "name": "Meghan Curtin",
+          "url": "https://open.spotify.com/artist/4aMCwH4geSzHn9U4sHXvzB"
+        }
+      ],
+      "duration_ms": 234382,
+      "name": "Less is More",
+      "url": "https://open.spotify.com/track/5pAhmlaJVD65EKlb6fJi2M"
+    },
+    {
+      "added_at": "2025-07-23 08:01:41",
+      "album": {
+        "name": "Girls Gone Wild",
+        "url": "https://open.spotify.com/album/4iATlDkOaCC5pujOmapT4F"
+      },
+      "artists": [
+        {
+          "name": "Rosetta",
+          "url": "https://open.spotify.com/artist/6Lx5dgRpSaju4zkiSYmYoa"
+        }
+      ],
+      "duration_ms": 163774,
+      "name": "Girls Gone Wild",
+      "url": "https://open.spotify.com/track/7q2PvvuEvuZwuXlwvkKyPm"
+    },
+    {
+      "added_at": "2025-07-23 08:01:41",
+      "album": {
+        "name": "Radio Silent",
+        "url": "https://open.spotify.com/album/5LOO5N92RXbd6Ch3PJ3qa3"
+      },
+      "artists": [
+        {
+          "name": "Nina Caroline",
+          "url": "https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Radio Silent",
+      "url": "https://open.spotify.com/track/4f5VWMO6CqumeMlAd641MQ"
+    },
+    {
+      "added_at": "2025-07-23 08:01:41",
+      "album": {
+        "name": "Collector",
+        "url": "https://open.spotify.com/album/10mER6YXYYRKTrZnYYffPm"
+      },
+      "artists": [
+        {
+          "name": "Molly Frances",
+          "url": "https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh"
+        }
+      ],
+      "duration_ms": 226391,
+      "name": "big mouth",
+      "url": "https://open.spotify.com/track/4uJTsNJJeNnCJp6dG3WJWL"
+    },
+    {
+      "added_at": "2025-07-23 08:01:41",
+      "album": {
+        "name": "What's This Really About",
+        "url": "https://open.spotify.com/album/1FQmyUtauhTMIlQw1zoP6o"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "What's This Really About",
+      "url": "https://open.spotify.com/track/0lIcZEJMNWL1wkjaXZnOjr"
+    },
+    {
+      "added_at": "2025-07-23 08:01:41",
+      "album": {
+        "name": "BURST <3",
+        "url": "https://open.spotify.com/album/1fYqSbROUNRZPKBWj8ZiE8"
+      },
+      "artists": [
+        {
+          "name": "Coupdekat",
+          "url": "https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0"
+        }
+      ],
+      "duration_ms": 118393,
+      "name": "BURST <3",
+      "url": "https://open.spotify.com/track/0BVok2Uwo0mFcXb4AK8udy"
+    },
+    {
+      "added_at": "2025-07-23 08:01:41",
+      "album": {
+        "name": "Have Fun",
+        "url": "https://open.spotify.com/album/5IT2HLRfn5aVbQBcOWjpR1"
+      },
+      "artists": [
+        {
+          "name": "Haydin Travis",
+          "url": "https://open.spotify.com/artist/7uKYKYL02yb8C1o0oTUM1D"
+        }
+      ],
+      "duration_ms": 129343,
+      "name": "Have Fun",
+      "url": "https://open.spotify.com/track/4b9vR7xnNY10ZxwmFtbWuF"
+    },
     {
       "added_at": "2025-07-16 04:00:35",
       "album": {
@@ -57,22 +249,6 @@
       "url": "https://open.spotify.com/track/0Mm5ubBeDFYdzH9DRWoNNv"
     },
     {
-      "added_at": "2025-07-18 16:52:12",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/5cTD9rYrL6H4PKh3fvHdTm"
-      },
-      "artists": [
-        {
-          "name": "Just For Fun",
-          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV"
-    },
-    {
       "added_at": "2025-07-16 04:00:35",
       "album": {
         "name": "Last Time",
@@ -87,22 +263,6 @@
       "duration_ms": 195614,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/3AyaFXej7BWZikIM22qEpi"
-    },
-    {
-      "added_at": "2025-07-18 16:52:12",
-      "album": {
-        "name": "Less is More",
-        "url": "https://open.spotify.com/album/2lcpy0xLuRBRlBTvNWZbSy"
-      },
-      "artists": [
-        {
-          "name": "Meghan Curtin",
-          "url": "https://open.spotify.com/artist/4aMCwH4geSzHn9U4sHXvzB"
-        }
-      ],
-      "duration_ms": 234382,
-      "name": "Less is More",
-      "url": "https://open.spotify.com/track/5pAhmlaJVD65EKlb6fJi2M"
     },
     {
       "added_at": "2025-07-16 04:00:35",
@@ -121,22 +281,6 @@
       "url": "https://open.spotify.com/track/3p8oeg4lwleZwm0TygNK4A"
     },
     {
-      "added_at": "2025-07-19 15:49:45",
-      "album": {
-        "name": "driver's seat",
-        "url": "https://open.spotify.com/album/3nelriQC69sPfAIATvQ03d"
-      },
-      "artists": [
-        {
-          "name": "the gluu",
-          "url": "https://open.spotify.com/artist/0f0dMXkQ590BbEKKtAXegb"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "driver's seat",
-      "url": "https://open.spotify.com/track/70tV22xFgUQuLZh1GhtIsC"
-    },
-    {
       "added_at": "2025-07-02 04:00:05",
       "album": {
         "name": "Dirty Blonde",
@@ -151,38 +295,6 @@
       "duration_ms": 172195,
       "name": "Doe Eyes",
       "url": "https://open.spotify.com/track/09KUPjidRMH7GTEM4Kdwmb"
-    },
-    {
-      "added_at": "2025-07-19 15:58:17",
-      "album": {
-        "name": "Leah Dong",
-        "url": "https://open.spotify.com/album/12tjJHPpzChLDiy3YL6lwp"
-      },
-      "artists": [
-        {
-          "name": "Leah Dong",
-          "url": "https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J"
-        }
-      ],
-      "duration_ms": 203756,
-      "name": "You Were Supposed To Fall In Love With Me",
-      "url": "https://open.spotify.com/track/0SoXqAuZPynaPcE6stG97m"
-    },
-    {
-      "added_at": "2025-07-18 16:52:12",
-      "album": {
-        "name": "JUST FRIENDS?",
-        "url": "https://open.spotify.com/album/5lQclnPqFCFvh1w4DYC7ha"
-      },
-      "artists": [
-        {
-          "name": "dolphoe",
-          "url": "https://open.spotify.com/artist/0Z37o7UvHfZrbW11TVrfDr"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "JUST FRIENDS?",
-      "url": "https://open.spotify.com/track/5UuX41K7fJC2mJaLDbmdns"
     },
     {
       "added_at": "2025-07-16 04:00:35",
@@ -1261,126 +1373,6 @@
       "url": "https://open.spotify.com/track/1WBCT1X3icl0ElsOXxxg25"
     },
     {
-      "added_at": "2025-06-04 04:01:20",
-      "album": {
-        "name": "Photograph",
-        "url": "https://open.spotify.com/album/7EF7xB4lyzSqRWksdrJxg1"
-      },
-      "artists": [
-        {
-          "name": "Aux Sauce",
-          "url": "https://open.spotify.com/artist/4C4j8wgNPriNq0kh1sMYax"
-        },
-        {
-          "name": "sindr",
-          "url": "https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/6L9DuJTLsQHEYe08nkFhw2"
-    },
-    {
-      "added_at": "2025-06-04 04:01:20",
-      "album": {
-        "name": "DOG",
-        "url": "https://open.spotify.com/album/6eqXSYjxaqBuyV2OqFOrBs"
-      },
-      "artists": [
-        {
-          "name": "Carlyn",
-          "url": "https://open.spotify.com/artist/12D87T2sauvafmdyGDhu87"
-        }
-      ],
-      "duration_ms": 225297,
-      "name": "DOG",
-      "url": "https://open.spotify.com/track/7lAQPE5igZvnaBNsgEVhvL"
-    },
-    {
-      "added_at": "2025-06-04 04:01:20",
-      "album": {
-        "name": "Princess Prudence",
-        "url": "https://open.spotify.com/album/1X6FgdI3PQq9rb4dctHcmz"
-      },
-      "artists": [
-        {
-          "name": "Erica Manzoli",
-          "url": "https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ"
-        }
-      ],
-      "duration_ms": 163699,
-      "name": "Princess Prudence",
-      "url": "https://open.spotify.com/track/3qBDvbJW9Vx0yMtKGKUCJc"
-    },
-    {
-      "added_at": "2025-06-04 04:01:20",
-      "album": {
-        "name": "CHERRY",
-        "url": "https://open.spotify.com/album/1WwasiYxIzMBUWOygwl8Z3"
-      },
-      "artists": [
-        {
-          "name": "Ajii",
-          "url": "https://open.spotify.com/artist/06jm2zgKhLkjCOWyt120j8"
-        },
-        {
-          "name": "Jordan Anthony",
-          "url": "https://open.spotify.com/artist/5Ec9nF9JPvOgcpQv8NlNay"
-        }
-      ],
-      "duration_ms": 182507,
-      "name": "CHERRY",
-      "url": "https://open.spotify.com/track/1xR5DM0fHd4JFJBBXvZC24"
-    },
-    {
-      "added_at": "2025-06-04 04:01:20",
-      "album": {
-        "name": "let me love you",
-        "url": "https://open.spotify.com/album/1zWJ9zzQnB5LRgdXq4gc7d"
-      },
-      "artists": [
-        {
-          "name": "Lunar June",
-          "url": "https://open.spotify.com/artist/3pEkJgB6pEHb3sqqP2CP7S"
-        }
-      ],
-      "duration_ms": 146474,
-      "name": "let me love you",
-      "url": "https://open.spotify.com/track/2RYbGQvmeIs1ybAV7oLfKr"
-    },
-    {
-      "added_at": "2025-06-04 04:01:20",
-      "album": {
-        "name": "Taking It Easy",
-        "url": "https://open.spotify.com/album/0mSdps1rVEgwr0PtYGA9vr"
-      },
-      "artists": [
-        {
-          "name": "Meila",
-          "url": "https://open.spotify.com/artist/45z2aQmnsWVBrGxBtV8wVu"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Taking It Easy",
-      "url": "https://open.spotify.com/track/1Qm6oqgMJZQSlAIBgo16xJ"
-    },
-    {
-      "added_at": "2025-06-04 04:01:20",
-      "album": {
-        "name": "And Go Nowhere",
-        "url": "https://open.spotify.com/album/6qwneoJu9dEYJPMTgtuIfA"
-      },
-      "artists": [
-        {
-          "name": "EGOISM",
-          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
-        }
-      ],
-      "duration_ms": 204388,
-      "name": "Getting Older",
-      "url": "https://open.spotify.com/track/51sosOAMXojZXkevZBf00f"
-    },
-    {
       "added_at": "2025-05-28 04:56:13",
       "album": {
         "name": "superstitious / falling in love",
@@ -1399,22 +1391,6 @@
     {
       "added_at": "2025-05-28 04:56:13",
       "album": {
-        "name": "BOUNCE",
-        "url": "https://open.spotify.com/album/0kPmhHtIOqnYqfwZej06Ly"
-      },
-      "artists": [
-        {
-          "name": "Aiko Tomi",
-          "url": "https://open.spotify.com/artist/24jBJ64cYnyWF53EKv6K9t"
-        }
-      ],
-      "duration_ms": 143371,
-      "name": "BOUNCE",
-      "url": "https://open.spotify.com/track/503UZSFMEB9R2NexclrOLn"
-    },
-    {
-      "added_at": "2025-05-28 04:56:13",
-      "album": {
         "name": "The Seven Spirits of Her",
         "url": "https://open.spotify.com/album/6cgUDc9crqMBomAqWjGfU4"
       },
@@ -1427,54 +1403,6 @@
       "duration_ms": 167100,
       "name": "Married to Her Death",
       "url": "https://open.spotify.com/track/3xQYyjx0ns7CRg6k3mu0sL"
-    },
-    {
-      "added_at": "2025-05-28 04:56:13",
-      "album": {
-        "name": "Wise Beyond Words",
-        "url": "https://open.spotify.com/album/7ci25b1MY9O3gAYiSqlKeJ"
-      },
-      "artists": [
-        {
-          "name": "Hendrix Frankenreiter",
-          "url": "https://open.spotify.com/artist/5jQMlfMli0tA6P1Ipp3VDX"
-        }
-      ],
-      "duration_ms": 161451,
-      "name": "Wise Beyond Words",
-      "url": "https://open.spotify.com/track/2XYnqW4wuBbE8mc6M9EWnx"
-    },
-    {
-      "added_at": "2025-05-28 04:56:13",
-      "album": {
-        "name": "Earcandy",
-        "url": "https://open.spotify.com/album/7p0eOkAgv8m9g59wprb0L0"
-      },
-      "artists": [
-        {
-          "name": "Miso Extra",
-          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
-        }
-      ],
-      "duration_ms": 155546,
-      "name": "Done.",
-      "url": "https://open.spotify.com/track/7rxtStGAWSUYhMoXAdIQzj"
-    },
-    {
-      "added_at": "2025-05-28 04:56:13",
-      "album": {
-        "name": "our wedding at the theatre",
-        "url": "https://open.spotify.com/album/7v9LRuV9s4Im9ngsSIkkq9"
-      },
-      "artists": [
-        {
-          "name": "MEYY",
-          "url": "https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5"
-        }
-      ],
-      "duration_ms": 132013,
-      "name": "forever and ever and ever and ever",
-      "url": "https://open.spotify.com/track/5PEGuHYzez9T1MLKgS7bqo"
     },
     {
       "added_at": "2025-05-21 04:00:26",

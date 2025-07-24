@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35167,
+  "num_followers": 35170,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAACj7xco+57mwVSSuNgafVci",
+  "snapshot_id": "aH7UgAAAAAD9bNbzy4FZIDeGtJ6/lzRj",
   "tracks": [
     {
       "added_at": null,
@@ -739,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se o Port\u00e3o Tiver Trancado",
-        "url": "https://open.spotify.com/album/1us003huY5cKbFdB7zaLcB"
-      },
-      "artists": [
-        {
-          "name": "Rennan da Penha",
-          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
-        },
-        {
-          "name": "Mc Menor Thalis",
-          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 103105,
-      "name": "Se o Port\u00e3o Tiver Trancado",
-      "url": "https://open.spotify.com/track/56aS1NYbxpr6F6eeOs7mWA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casal Mandrake",
         "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 139826,
       "name": "Casal Mandrake",
       "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se o Port\u00e3o Tiver Trancado",
+        "url": "https://open.spotify.com/album/1us003huY5cKbFdB7zaLcB"
+      },
+      "artists": [
+        {
+          "name": "Rennan da Penha",
+          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 103105,
+      "name": "Se o Port\u00e3o Tiver Trancado",
+      "url": "https://open.spotify.com/track/56aS1NYbxpr6F6eeOs7mWA"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bota A Lingui\u00e7a Pra Fora",
-        "url": "https://open.spotify.com/album/0E1qFjJ8zCYYgE4lYELJBd"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ Gouveia",
-          "url": "https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem"
-        }
-      ],
-      "duration_ms": 95999,
-      "name": "Bota A Lingui\u00e7a Pra Fora",
-      "url": "https://open.spotify.com/track/5esDSPo55maKLjTDWiv3tO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 213994,
       "name": "Mundo da Fama",
       "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bota A Lingui\u00e7a Pra Fora",
+        "url": "https://open.spotify.com/album/0E1qFjJ8zCYYgE4lYELJBd"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Gouveia",
+          "url": "https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem"
+        }
+      ],
+      "duration_ms": 95999,
+      "name": "Bota A Lingui\u00e7a Pra Fora",
+      "url": "https://open.spotify.com/track/5esDSPo55maKLjTDWiv3tO"
     },
     {
       "added_at": null,
@@ -915,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Novo Imp\u00e9rio",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "J\u00e1 Fui o Amor da sua Vida",
         "url": "https://open.spotify.com/album/7iSuTXWW52Brxz2jBNlHdR"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 125567,
       "name": "J\u00e1 Fui o Amor da sua Vida",
       "url": "https://open.spotify.com/track/4dAT5YcOnoFkaFLOIQA2eM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Novo Imp\u00e9rio",
-          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
     },
     {
       "added_at": null,
@@ -1011,42 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida do Crime",
-        "url": "https://open.spotify.com/album/7fclUkVg10L6zMAgtuW2v8"
-      },
-      "artists": [
-        {
-          "name": "MC Saci",
-          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Dj Tg Da Inestan",
-          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
-        },
-        {
-          "name": "MC Fahah",
-          "url": "https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq"
-        },
-        {
-          "name": "dj stay",
-          "url": "https://open.spotify.com/artist/0e9JMxCh8OjVrZlrV9u3ac"
-        },
-        {
-          "name": "Dj Fiuza",
-          "url": "https://open.spotify.com/artist/2nuDz3WMd4B9RkG6R7l5Wh"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Vida do Crime",
-      "url": "https://open.spotify.com/track/4XzzsqCYlcm1wGJM8oI01h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -1095,6 +1059,42 @@
       "duration_ms": 472615,
       "name": "GR6 Convoca #01 (Relacionamentos)",
       "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vida do Crime",
+        "url": "https://open.spotify.com/album/7fclUkVg10L6zMAgtuW2v8"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Dj Tg Da Inestan",
+          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
+        },
+        {
+          "name": "MC Fahah",
+          "url": "https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq"
+        },
+        {
+          "name": "dj stay",
+          "url": "https://open.spotify.com/artist/0e9JMxCh8OjVrZlrV9u3ac"
+        },
+        {
+          "name": "Dj Fiuza",
+          "url": "https://open.spotify.com/artist/2nuDz3WMd4B9RkG6R7l5Wh"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Vida do Crime",
+      "url": "https://open.spotify.com/track/4XzzsqCYlcm1wGJM8oI01h"
     },
     {
       "added_at": null,
@@ -1287,6 +1287,66 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sexo Sem Estresse",
+        "url": "https://open.spotify.com/album/7i2ULSZwxMk2cKNCwYeRlo"
+      },
+      "artists": [
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "duration_ms": 139403,
+      "name": "Sexo Sem Estresse",
+      "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quarentena do Trator",
+        "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
+      },
+      "artists": [
+        {
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 133100,
+      "name": "Vuco Vuco",
+      "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rel\u00edquias da Marketada",
         "url": "https://open.spotify.com/album/5JIgWCYZs2KsvSllIfjjyZ"
       },
@@ -1359,37 +1419,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quarentena do Trator",
-        "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
+        "name": "Ele Tem Dinheiro",
+        "url": "https://open.spotify.com/album/2nzM2VQjF2KjrnHtxfRDf8"
       },
       "artists": [
         {
-          "name": "Dod\u00f4 Press\u00e3o",
-          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 133100,
-      "name": "Vuco Vuco",
-      "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexo Sem Estresse",
-        "url": "https://open.spotify.com/album/7i2ULSZwxMk2cKNCwYeRlo"
-      },
-      "artists": [
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+          "name": "Filtr Urban",
+          "url": "https://open.spotify.com/artist/4pC2jRKo6FAINrav1ck3FQ"
         },
         {
           "name": "Mc Dricka",
@@ -1398,23 +1434,11 @@
         {
           "name": "Gustah",
           "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Fepache",
-          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
-        },
-        {
-          "name": "2050",
-          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
         }
       ],
-      "duration_ms": 139403,
-      "name": "Sexo Sem Estresse",
-      "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
+      "duration_ms": 118079,
+      "name": "Ele Tem Dinheiro",
+      "url": "https://open.spotify.com/track/6dGrKgJPvDnPrnMiEqTz5t"
     },
     {
       "added_at": null,
@@ -1459,30 +1483,6 @@
       "duration_ms": 155145,
       "name": "De 38 Carregado",
       "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ele Tem Dinheiro",
-        "url": "https://open.spotify.com/album/2nzM2VQjF2KjrnHtxfRDf8"
-      },
-      "artists": [
-        {
-          "name": "Filtr Urban",
-          "url": "https://open.spotify.com/artist/4pC2jRKo6FAINrav1ck3FQ"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 118079,
-      "name": "Ele Tem Dinheiro",
-      "url": "https://open.spotify.com/track/6dGrKgJPvDnPrnMiEqTz5t"
     },
     {
       "added_at": null,

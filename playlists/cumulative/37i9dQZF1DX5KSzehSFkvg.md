@@ -4,7 +4,7 @@
 
 > أحسن أغاني البوب المغربي مجموعين في بوبستارز
 
-189 songs - 10 hr 13 min
+190 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [SBABO NTI](https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [SBABO NTI](https://open.spotify.com/album/7GwYS8AurmMvmGKrh0j7ZG) | 4:13 | 2023-07-07 | 2024-04-08 |
 | [Seddit Lbibane](https://open.spotify.com/track/19qSodZXmR2GqMwzLvLYlJ) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Seddit Lbibane](https://open.spotify.com/album/60T0APAz9FUAKMJcpfpxjt) | 3:08 | 2023-07-07 | 2024-01-26 |
 | [Sharara](https://open.spotify.com/track/5ZYEXWjn0u2W0r9KxjgOjJ) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI) | [Sharara](https://open.spotify.com/album/4g58khCt50ohrpG1G10fzR) | 2:41 | 2023-08-10 | 2023-12-22 |
-| [Siri](https://open.spotify.com/track/4MXXtusvtDflGAwR5hmchC) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Siri](https://open.spotify.com/album/05wbo8BJGYhmLCpu2NER6B) | 3:12 | 2024-02-24 |  |
+| [Siri](https://open.spotify.com/track/4MXXtusvtDflGAwR5hmchC) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Siri](https://open.spotify.com/album/05wbo8BJGYhmLCpu2NER6B) | 3:12 | 2024-02-24 | 2025-07-24 |
 | [Slahi](https://open.spotify.com/track/6lZFFlcjp7inSNs7j5GVp2) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Slahi](https://open.spotify.com/album/6OVVUX1DvBtnsMtCF0UvqB) | 3:15 | 2025-01-03 | 2025-02-19 |
 | [Sur Scène](https://open.spotify.com/track/4WGEf48LVSVHL1lnJwcd79) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Sur Scène](https://open.spotify.com/album/0i3B0umXdZhbmv4sbvdMft) | 4:22 | 2025-06-02 |  |
 | [Symphonia](https://open.spotify.com/track/0FMWWmtZ5PlOKuhtXVeaoD) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Symphonia](https://open.spotify.com/album/4QZfpbH0dWrsNxAXlB04m3) | 3:24 | 2023-10-03 | 2024-08-29 |
@@ -188,6 +188,7 @@
 | [Ya Lil](https://open.spotify.com/track/3hvJHXAuKeSRSShUEl9v0c) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Lil](https://open.spotify.com/album/4jcoGlVZZi1hu3PhxxIeqB) | 2:46 | 2023-07-07 | 2024-05-26 |
 | [Ya Mektoubi](https://open.spotify.com/track/2Ylhm1lBkTkn9UAxKL9akH) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH) | [Ya Mektoubi](https://open.spotify.com/album/4Me68q3TV8r9mPi4nqHI2L) | 3:43 | 2024-09-01 |  |
 | [Ya Sidi Ya Baba](https://open.spotify.com/track/3IbpyNdKawcQKmEpwQO1Ea) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Ya Sidi Ya Baba](https://open.spotify.com/album/08J5WsddktM6tZvFUKx8Uj) | 2:34 | 2023-07-07 | 2024-05-21 |
+| [Yalla Siir](https://open.spotify.com/track/1WxsQ1hr3iji5V8WYslkjf) | [Ahlam Bakkali](https://open.spotify.com/artist/49qdu9NtlQQC1gzLxbvIht) | [Yalla Siir](https://open.spotify.com/album/6wR81KGNCqN2eBXgwoAemu) | 3:18 | 2025-07-23 |  |
 | [Youm Machi Aadi](https://open.spotify.com/track/4PNqyp3pp5c3A8jM8YgsSN) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Youm Machi Aadi](https://open.spotify.com/album/0ezJFnN5nAIrVpz9oyBkqP) | 2:58 | 2023-08-22 | 2023-08-25 |
 | [Zendaya](https://open.spotify.com/track/7oZZcZOMSG743m8awHqWGS) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Zendaya](https://open.spotify.com/album/33hMxOxJZVA8XuvN07tuq9) | 3:04 | 2025-06-03 |  |
 | [Zidini](https://open.spotify.com/track/1b7xtXSt71WhXrL9khIlCK) | [Dunia Batma](https://open.spotify.com/artist/3GCRdccrBJ7DKUQvNMHQmU) | [Zidini](https://open.spotify.com/album/6ezbHGVbpC41VtjbLJn4Vs) | 3:20 | 2023-07-07 | 2024-07-10 |

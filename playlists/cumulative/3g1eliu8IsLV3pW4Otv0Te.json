@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284906,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
+    },
+    {
+      "album": {
         "name": "Summer Vibes 2012",
         "url": "https://open.spotify.com/album/0QiMp7lXHuIiJY0LBGerLb"
       },

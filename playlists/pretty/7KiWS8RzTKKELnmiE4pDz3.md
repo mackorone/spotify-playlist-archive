@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 235 songs - 12 hr 59 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 238 songs - 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,5 +243,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 233 | [Reality Check](https://open.spotify.com/track/4mWqmihBqG4EBRe86NheY6) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Akenya](https://open.spotify.com/artist/2pHQOZq131jMXYSTjP3Ncx) | [Telefone](https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c) | 3:03 |
 | 234 | [U Turn](https://open.spotify.com/track/3m4uDi8X57XVTzAjb9btNh) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Pieces of a Man](https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a) | 2:46 |
 | 235 | [Snotty Rock!](https://open.spotify.com/track/3PiH2mknilvIyEQaUgqZ3M) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [SNOTTY WORLD](https://open.spotify.com/album/4WsroDqYcqI1DpRgRAwqF2) | 2:08 |
+| 236 | [Again & Again](https://open.spotify.com/track/5VwMiJhjaThmHsT9zhzjdm) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [ELEVATORS: Act I & II](https://open.spotify.com/album/6Vy4IwMH5C24rOVEcSSqhH) | 3:01 |
+| 237 | [Potassium](https://open.spotify.com/track/0bVNHQUZ1vFKqo8egd2BEg) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [ELEVATORS: Act I & II](https://open.spotify.com/album/6Vy4IwMH5C24rOVEcSSqhH) | 2:34 |
+| 238 | [Rollercoasting](https://open.spotify.com/track/66DZF1livhCwXxsEyvmFke) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [ELEVATORS: Act I & II](https://open.spotify.com/album/6Vy4IwMH5C24rOVEcSSqhH) | 2:49 |
 
-Snapshot ID: `AAAetMhs0l2AO96I7wv7Oiy0Q7wdtgJV`
+Snapshot ID: `AAAet6kAnozqIBsZtDy9WJUsYkaoQTye`

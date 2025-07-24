@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Timoth\u00e9e Chalamet in A Complete Unknown",
-  "num_followers": 460027,
+  "num_followers": 459935,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -583,18 +583,18 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Don't Worry Baby",
-        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
         }
       ],
-      "duration_ms": 180468,
-      "name": "Don't Worry Baby",
-      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
+      "duration_ms": 223576,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -615,18 +615,18 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW"
+        "name": "Don't Worry Baby",
+        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
       },
       "artists": [
         {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 223576,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM"
+      "duration_ms": 180468,
+      "name": "Don't Worry Baby",
+      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 197540,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Ohio / After The Gold Rush",
         "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 294142,
       "name": "After The Gold Rush",
       "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 197540,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 264930,
+      "name": "Sledgehammer",
+      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "Green Rocky Road",
         "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 260812,
       "name": "A Long December",
       "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 264930,
-      "name": "Sledgehammer",
-      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Your Song (Vapor IKEA Commercial)",
-        "url": "https://open.spotify.com/album/1CVNCYg5s5bYeIbIUM4EUg"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 110110,
-      "name": "Your Song (Vapor IKEA Commercial)",
-      "url": "https://open.spotify.com/track/0U33bmLq4Qjrdwzz0uQiVJ"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Reason to Believe (feat. Courtney Barnett)",
         "url": "https://open.spotify.com/album/3XS1FYnvexIhkkkLEkaEMX"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 149445,
       "name": "Reason to Believe (feat. Courtney Barnett)",
       "url": "https://open.spotify.com/track/7aDf2PpDNfT5NbKEIZVKtW"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Your Song (Vapor IKEA Commercial)",
+        "url": "https://open.spotify.com/album/1CVNCYg5s5bYeIbIUM4EUg"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 110110,
+      "name": "Your Song (Vapor IKEA Commercial)",
+      "url": "https://open.spotify.com/track/0U33bmLq4Qjrdwzz0uQiVJ"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 218750,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 239299,
       "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "Sparks",
-        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 137314,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "We Don't Eat",
         "url": "https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy"
       },
@@ -1867,18 +1883,18 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
+        "name": "God Only Knows",
+        "url": "https://open.spotify.com/album/0OtdpjoYF1GkrDHI0tasR0"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
         }
       ],
-      "duration_ms": 137314,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
+      "duration_ms": 194251,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/2p5BCQgKl8w7SWRUY3H1w8"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1899,22 +1915,6 @@
       "duration_ms": 291093,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/3S7BZqv1qZO5hxku8u8fqB"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "God Only Knows",
-        "url": "https://open.spotify.com/album/0OtdpjoYF1GkrDHI0tasR0"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 194251,
-      "name": "God Only Knows",
-      "url": "https://open.spotify.com/track/2p5BCQgKl8w7SWRUY3H1w8"
     },
     {
       "added_at": "2025-05-02 17:28:32",

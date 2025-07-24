@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328 likes - 95 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 329 likes - 95 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 86 | [One Last Time](https://open.spotify.com/track/3V3J6ObCYR8nx1Sk2LqKBp) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [B\-Sides & Rarities](https://open.spotify.com/album/3vwxBq57O0bRKBqHIRVI4a) | 3:01 |
 | 87 | [Being with You](https://open.spotify.com/track/3vup8i9EeA4bdyKa47dTKu) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:57 |
 | 88 | [Only Love](https://open.spotify.com/track/6yGS34pX74150JW2AT0lSu) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:30 |
-| 89 | [Given Up, Giving Up](https://open.spotify.com/track/6zdyGZuSVvyKFfAZNvHofS) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:52 |
-| 90 | [Carry Me](https://open.spotify.com/track/5UCXNtgoKOkxvXA5mr9Rmf) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:09 |
+| 89 | [Carry Me](https://open.spotify.com/track/5UCXNtgoKOkxvXA5mr9Rmf) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:09 |
+| 90 | [Given Up, Giving Up](https://open.spotify.com/track/6zdyGZuSVvyKFfAZNvHofS) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:52 |
 | 91 | [Falling out of Love](https://open.spotify.com/track/2hDVo59GNn1W3VN1HObnge) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Ain't Love Crazy](https://open.spotify.com/album/4fh8KEvwQCK8LhPUnAnH2p) | 3:13 |
 | 92 | [Mercedes](https://open.spotify.com/track/0kfY0oZBLuvIZz5ccq8khh) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 2:54 |
 | 93 | [Like It Like That](https://open.spotify.com/track/0UG7iUrCSlhZvQK8zpu3gZ) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:47 |
 | 94 | [All I Care About Is You](https://open.spotify.com/track/7MFeKvFDQugbhKLbCqbfPA) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:02 |
 | 95 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 
-Snapshot ID: `Ab3fSAAAAADb7ewfBXaxChs0HGADVQ8o`
+Snapshot ID: `Ab3k3gAAAAAR+cEpcBixaYnG8xVq29yL`

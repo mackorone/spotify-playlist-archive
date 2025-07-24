@@ -4,13 +4,14 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-100 songs - 5 hr 46 min
+101 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [25](https://open.spotify.com/track/53GIVIfxPEgfBlOncqG1by) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [25](https://open.spotify.com/album/57CeXretqkDlILesiRMvv6) | 3:35 | 2025-06-27 |  |
 | [adeline](https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J) | [Katie Koss](https://open.spotify.com/artist/0tF0BK361CxlAYtmu6WADN) | [i'm changing my mind](https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB) | 3:54 | 2025-06-27 |  |
-| [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2025-06-27 |  |
+| [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2025-06-27 | 2025-07-24 |
+| [Amen \- Acoustic](https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Amen \(Acoustic\)](https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO) | 3:30 | 2025-06-27 |  |
 | [Anything To Feel Alive](https://open.spotify.com/track/0ZfCPcY1RrPKdY8L5N79YP) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Anything To Feel Alive](https://open.spotify.com/album/68gQpGGfxAXDokf3PBLCzQ) | 4:20 | 2025-06-27 |  |
 | [Apple Tree](https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Apple Tree](https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx) | 2:58 | 2025-06-27 |  |
 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 | 2025-06-27 |  |

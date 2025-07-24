@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAABf36wj8tFFoNCOIe2QSg8Z",
+  "snapshot_id": "aH7UgAAAAADKQF/6+UMfPM9tdNO7d2bm",
   "tracks": [
     {
       "added_at": null,
@@ -687,38 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 224325,
-      "name": "Is There Anybody Up There?",
-      "url": "https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Suspicion",
-      "url": "https://open.spotify.com/track/2nqQ4j7TSmvUELX2SvzXUl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/747l6AGzZzDh8yBQLJgLgT"
       },
@@ -751,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
       },
       "artists": [
         {
@@ -760,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 227343,
-      "name": "Give God The Blues",
-      "url": "https://open.spotify.com/track/5xUCFRjM0Z9TJt0s1ttakb"
+      "duration_ms": 235893,
+      "name": "Suspicion",
+      "url": "https://open.spotify.com/track/2nqQ4j7TSmvUELX2SvzXUl"
     },
     {
       "added_at": null,
@@ -776,15 +744,15 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 219672,
-      "name": "Cadillac Blue",
-      "url": "https://open.spotify.com/track/2fdAfs7JLnHyuUdwD1btC1"
+      "duration_ms": 224325,
+      "name": "Is There Anybody Up There?",
+      "url": "https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
       },
       "artists": [
         {
@@ -792,9 +760,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 233866,
-      "name": "The Battle Is Over (But The War Goes On)",
-      "url": "https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9"
+      "duration_ms": 227343,
+      "name": "Give God The Blues",
+      "url": "https://open.spotify.com/track/5xUCFRjM0Z9TJt0s1ttakb"
     },
     {
       "added_at": null,
@@ -815,6 +783,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "The Battle Is Over (But The War Goes On)",
+      "url": "https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 219672,
+      "name": "Cadillac Blue",
+      "url": "https://open.spotify.com/track/2fdAfs7JLnHyuUdwD1btC1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wicked",
         "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
       },
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 242129,
-      "name": "Heaven Help Us All",
-      "url": "https://open.spotify.com/track/71jPKFB9OWCTZab7vfI9SF"
+      "duration_ms": 228066,
+      "name": "The Push I Need",
+      "url": "https://open.spotify.com/track/3Ym4ECxUj4HKDBkhflmKFe"
     }
   ],
   "unique_name": "This Is Shemekia Copeland",

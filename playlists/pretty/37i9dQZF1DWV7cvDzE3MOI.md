@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7cvDzE3MOI.md) - [plain]
 
 > Discover the unforgettable melodies of Chopin, including moving ballades, relaxing nocturnes and vibrant concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,852 likes - 68 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,868 likes - 68 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

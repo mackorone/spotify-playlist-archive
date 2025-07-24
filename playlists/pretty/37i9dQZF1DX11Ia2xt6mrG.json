@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Eliangel en portada.",
-  "num_followers": 65947,
+  "num_followers": 65962,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -755,26 +755,6 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "ZENDAYA",
-        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        },
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "ZENDAYA",
-      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
         "name": "Ushua\u00efa",
         "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 178666,
       "name": "Ushua\u00efa",
       "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "ZENDAYA",
+        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "ZENDAYA",
+      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1147,22 +1147,34 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "All I See",
-        "url": "https://open.spotify.com/album/1nzpJdalAkDKxCJTcgggka"
+        "name": "Corrupted",
+        "url": "https://open.spotify.com/album/2MHJfwPN2ruuHa8RTulzFk"
       },
       "artists": [
         {
           "name": "Pato Shoucair",
           "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "TOLED\u00d8",
-          "url": "https://open.spotify.com/artist/7sMwiJQWm6bcQrLb2PGgms"
         }
       ],
-      "duration_ms": 189024,
-      "name": "All I See",
-      "url": "https://open.spotify.com/track/70lvfZR3qneKtNEPZbL4eD"
+      "duration_ms": 200000,
+      "name": "Corrupted",
+      "url": "https://open.spotify.com/track/70KbdYzwNiSd8sayMqa687"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2qWJxA1LE4FCzzfHtWhPsx"
+      },
+      "artists": [
+        {
+          "name": "HAJJ",
+          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3gN1Aw7DmcrIFeDO1yqGZc"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1183,22 +1195,6 @@
       "duration_ms": 192000,
       "name": "Cooler Than Me",
       "url": "https://open.spotify.com/track/2o1ryWmt2wp521jtflMiYq"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2qWJxA1LE4FCzzfHtWhPsx"
-      },
-      "artists": [
-        {
-          "name": "HAJJ",
-          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3gN1Aw7DmcrIFeDO1yqGZc"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1251,38 +1247,22 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "Corrupted",
-        "url": "https://open.spotify.com/album/2MHJfwPN2ruuHa8RTulzFk"
+        "name": "All I See",
+        "url": "https://open.spotify.com/album/1nzpJdalAkDKxCJTcgggka"
       },
       "artists": [
         {
           "name": "Pato Shoucair",
           "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Corrupted",
-      "url": "https://open.spotify.com/track/70KbdYzwNiSd8sayMqa687"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "Nocturna (Remix)",
-        "url": "https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
         },
         {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+          "name": "TOLED\u00d8",
+          "url": "https://open.spotify.com/artist/7sMwiJQWm6bcQrLb2PGgms"
         }
       ],
-      "duration_ms": 235752,
-      "name": "Nocturna - Remix",
-      "url": "https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw"
+      "duration_ms": 189024,
+      "name": "All I See",
+      "url": "https://open.spotify.com/track/70lvfZR3qneKtNEPZbL4eD"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1303,6 +1283,26 @@
       "duration_ms": 143798,
       "name": "PVTIVUELTA",
       "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "Nocturna (Remix)",
+        "url": "https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        },
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "duration_ms": 235752,
+      "name": "Nocturna - Remix",
+      "url": "https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
+        "name": "MiDNiGHT",
+        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 186595,
+      "name": "MiDNiGHT",
+      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
         "name": "Serena",
         "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
       },
@@ -1387,18 +1403,22 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "MiDNiGHT",
-        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+        "name": "G\u00f3zalo (with Deorro)",
+        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 186595,
-      "name": "MiDNiGHT",
-      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
+      "duration_ms": 114000,
+      "name": "G\u00f3zalo (with Deorro)",
+      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1419,26 +1439,6 @@
       "duration_ms": 184347,
       "name": "Star Love",
       "url": "https://open.spotify.com/track/4OiaBX9HD3FUoiFZJWRLoK"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "G\u00f3zalo (with Deorro)",
-        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "G\u00f3zalo (with Deorro)",
-      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "999 (Goer)",
-        "url": "https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb"
-      },
-      "artists": [
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        }
-      ],
-      "duration_ms": 160857,
-      "name": "999 (Goer)",
-      "url": "https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
         "name": "SIN MIRAR (Midnight Generation Remix)",
         "url": "https://open.spotify.com/album/5SOIjOz7nVuNsix1KXBylg"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 292880,
       "name": "SIN MIRAR - Midnight Generation Remix",
       "url": "https://open.spotify.com/track/51KDO4YS0RVlHRt0qaYj6h"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "999 (Goer)",
+        "url": "https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb"
+      },
+      "artists": [
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        }
+      ],
+      "duration_ms": 160857,
+      "name": "999 (Goer)",
+      "url": "https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
+        "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
+        "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
+      "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
         "name": "Franca Barona",
         "url": "https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL"
       },
@@ -1699,22 +1719,22 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
-        "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
+        "name": "Living on Video (The Wookies Remix)",
+        "url": "https://open.spotify.com/album/2z3kKzncLPsYHOTk2QhXzt"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
         },
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Trans-X",
+          "url": "https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI"
         }
       ],
-      "duration_ms": 172320,
-      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
-      "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
+      "duration_ms": 338181,
+      "name": "Living on Video - The Wookies Remix",
+      "url": "https://open.spotify.com/track/2JGthAWXjnTVQK8cwhvftv"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1751,26 +1771,6 @@
       "duration_ms": 318019,
       "name": "guapa - Fcukers Remix",
       "url": "https://open.spotify.com/track/0D9N14fy8z1AWC12c7V2Uf"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "Living on Video (The Wookies Remix)",
-        "url": "https://open.spotify.com/album/2z3kKzncLPsYHOTk2QhXzt"
-      },
-      "artists": [
-        {
-          "name": "The Wookies",
-          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
-        },
-        {
-          "name": "Trans-X",
-          "url": "https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI"
-        }
-      ],
-      "duration_ms": 338181,
-      "name": "Living on Video - The Wookies Remix",
-      "url": "https://open.spotify.com/track/2JGthAWXjnTVQK8cwhvftv"
     },
     {
       "added_at": "2025-07-04 06:00:11",

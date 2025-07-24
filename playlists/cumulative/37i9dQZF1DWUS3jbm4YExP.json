@@ -6891,6 +6891,28 @@
     },
     {
       "album": {
+        "name": "Indifference",
+        "url": "https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Shintaro Sakamoto",
+          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "Indifference",
+      "url": "https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u"
+    },
+    {
+      "album": {
         "name": "Indio",
         "url": "https://open.spotify.com/album/7rm407OvjlSsfUrxv54ChL"
       },
@@ -12712,7 +12734,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 368108,
       "name": "Sh\u0113nzhou V.",
       "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 
 > This is Gojira\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,491 likes - 43 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,580 likes - 43 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 | 18 | [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 |
 | 19 | [Vacuity](https://open.spotify.com/track/16yvB7exWWUBkZ9fFkLVMI) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 4:51 |
 | 20 | [Sphinx](https://open.spotify.com/track/6PhrbFbRW3Cchrv6klsLF5) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 4:00 |
-| 21 | [Magma](https://open.spotify.com/track/56iv5TqfvxVa4zLMs6SvmP) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 6:42 |
-| 22 | [The Axe](https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 4:34 |
+| 21 | [The Axe](https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 4:34 |
+| 22 | [Magma](https://open.spotify.com/track/56iv5TqfvxVa4zLMs6SvmP) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 6:42 |
 | 23 | [Oroborus](https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 5:21 |
 | 24 | [The Chant](https://open.spotify.com/track/41DA32rbYp3PoLCAJeup0J) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:12 |
 | 25 | [From The Sky](https://open.spotify.com/track/2MTneA2YvNBzvd8zDpWE4n) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 5:48 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 | 42 | [Indians](https://open.spotify.com/track/4qto5WBvuqH6fkHGxcaGuo) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 3:58 |
 | 43 | [The link](https://open.spotify.com/track/41lvb0OvnkBSDnbSvy3qlt) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 5:00 |
 
-Snapshot ID: `aH2DAAAAAACDrMpAW3vWOjKEqMGweS0z`
+Snapshot ID: `aH7UgAAAAABl3UVDyDwLyHF5GQDzlaLW`

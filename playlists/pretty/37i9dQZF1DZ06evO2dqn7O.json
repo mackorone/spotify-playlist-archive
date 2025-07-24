@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 56721,
+  "num_followers": 56725,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAAClS84nVawohGT7wk9e3mK7",
+  "snapshot_id": "aH7UgAAAAAB9tS3cAsIOLmlllmd9ye43",
   "tracks": [
     {
       "added_at": null,
@@ -603,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "VHS 2.0",
-        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
+        "name": "X Ambassadors | OurVinyl Sessions",
+        "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
       },
       "artists": [
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "OurVinyl",
+          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
         }
       ],
-      "duration_ms": 233013,
-      "name": "Kerosene Dreams",
-      "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
+      "duration_ms": 235922,
+      "name": "Everything Sounds Like a Love Song (OurVinyl Sessions)",
+      "url": "https://open.spotify.com/track/02pSQGZEwKrwzT9TWHFwis"
     },
     {
       "added_at": null,
@@ -635,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "X Ambassadors | OurVinyl Sessions",
-        "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
+        "name": "VHS 2.0",
+        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
       },
       "artists": [
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "OurVinyl",
-          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
         }
       ],
-      "duration_ms": 235922,
-      "name": "Everything Sounds Like a Love Song (OurVinyl Sessions)",
-      "url": "https://open.spotify.com/track/02pSQGZEwKrwzT9TWHFwis"
+      "duration_ms": 233013,
+      "name": "Kerosene Dreams",
+      "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
     },
     {
       "added_at": null,

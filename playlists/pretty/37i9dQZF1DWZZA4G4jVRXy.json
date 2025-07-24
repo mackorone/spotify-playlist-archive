@@ -1,6 +1,6 @@
 {
   "description": "Pour yourself a mai tai \ud83c\udf79 and festoon yourself with lei \ud83c\udf3a, welcome to the Hawaiian party! \ud83c\udf34\ud83e\udd6d\ud83c\udf89",
-  "num_followers": 134298,
+  "num_followers": 134306,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Kiss Me Love",
-        "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
-      },
-      "artists": [
-        {
-          "name": "Buddy Fo & His Group",
-          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Blue Hawaii",
-      "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Primitiva",
         "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 134506,
       "name": "Llama Serenade",
       "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Kiss Me Love",
+        "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
+      },
+      "artists": [
+        {
+          "name": "Buddy Fo & His Group",
+          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Blue Hawaii",
+      "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
     },
     {
       "added_at": "2021-01-20 03:50:53",

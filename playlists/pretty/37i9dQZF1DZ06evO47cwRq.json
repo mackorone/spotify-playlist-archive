@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 2933328,
+  "num_followers": 2933858,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAABPdUPPrpx6Nd9VEkhuxuC8",
+  "snapshot_id": "aH7UgAAAAADGOU9qV6FsXxyarDy8Xh0H",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIVING THINGS",
         "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 230253,
       "name": "BURN IT DOWN",
       "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "A Place for My Head",
-      "url": "https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
         "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 205733,
       "name": "Numb / Encore",
       "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "A Place for My Head",
+      "url": "https://open.spotify.com/track/5rAxhWcgFng3s570sGO2F8"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Thousand Suns",
-        "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 339853,
-      "name": "The Catalyst",
-      "url": "https://open.spotify.com/track/5bvgRxco3jgSZ3SP8rueDA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIVING THINGS",
         "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 229933,
       "name": "ROADS UNTRAVELED",
       "url": "https://open.spotify.com/track/1dYw8HTRJnFpeEeMtXj99a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Thousand Suns",
+        "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 339853,
+      "name": "The Catalyst",
+      "url": "https://open.spotify.com/track/5bvgRxco3jgSZ3SP8rueDA"
     },
     {
       "added_at": null,

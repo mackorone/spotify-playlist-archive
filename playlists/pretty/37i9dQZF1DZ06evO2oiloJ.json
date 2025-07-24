@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 238010,
+  "num_followers": 238058,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH2DAAAAAACpDGySYc7cwCDURyTIhFjm",
+  "snapshot_id": "aH7UgAAAAADpF2WzLMsVFsvRkDeTX3DJ",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinners",
-        "url": "https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Sinners Movie",
-          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Sinners",
-      "url": "https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 203345,
       "name": "Turks & Caicos (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinners",
+        "url": "https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Sinners Movie",
+          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Sinners",
+      "url": "https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray 4 Love",
-        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Girl Of My Dreams",
-      "url": "https://open.spotify.com/track/09YHm6IkdZko28KdEbXtPb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 153128,
       "name": "Call Your Friends",
       "url": "https://open.spotify.com/track/5W0RVQViQC7xocvAUnIs6Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pray 4 Love",
+        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Girl Of My Dreams",
+      "url": "https://open.spotify.com/track/09YHm6IkdZko28KdEbXtPb"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 136071,
-      "name": "Paint The Sky Red",
-      "url": "https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 160714,
       "name": "Fight The Feeling",
       "url": "https://open.spotify.com/track/4aA7Lrm6rLGHx5kRMVb7NU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 136071,
+      "name": "Paint The Sky Red",
+      "url": "https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is"
     },
     {
       "added_at": null,

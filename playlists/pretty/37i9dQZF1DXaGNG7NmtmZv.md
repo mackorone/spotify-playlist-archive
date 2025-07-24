@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,474 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,517 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 12 | [Never Alone](https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [The Damned, the Shamed](https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW) | 2:50 |
 | 13 | [Break Down the Walls](https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 2:04 |
 | 14 | [Some Came Running](https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA) | [Bane](https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi) | [Give Blood](https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9) | 2:37 |
-| 15 | [World Peace](https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 2:15 |
-| 16 | [Sworn Enemy](https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [As Real As It Gets](https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv) | 3:36 |
+| 15 | [Sworn Enemy](https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [As Real As It Gets](https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv) | 3:36 |
+| 16 | [World Peace](https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 2:15 |
 | 17 | [Wake the Dead](https://open.spotify.com/track/0Ux0LyZRoLFiXfyKZtt6IE) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Wake The Dead](https://open.spotify.com/album/12E474LltJ7NCZD2L2kvR0) | 3:17 |
 | 18 | [You Ignore Them All](https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Sound Of The Republic](https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm) | 3:32 |
 | 19 | [Take a Stand](https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 1:40 |
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 32 | [Chain Letter](https://open.spotify.com/track/7lF14EmytH8hkPGRX8Iu8Z) | [Endicott](https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF) | [Words in Ink Don't Lie](https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu) | 2:35 |
 | 33 | [Welcome To The Party](https://open.spotify.com/track/2eAyeTCOUhZU1HOMCfG4jo) | [Death By Stereo](https://open.spotify.com/artist/6ZnqizbzAJTqXgRTje6IcF) | [Death Is My Only Friend](https://open.spotify.com/album/1qlYQd8Qo8NDI4AJ59gZ0D) | 3:16 |
 | 34 | [Firestorm](https://open.spotify.com/track/3JqjchQJTcGGcFKG7z91TV) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [1991\-2001 \(Forever True\)](https://open.spotify.com/album/5wOwgUbQrGb0YhPBNz3R6H) | 3:51 |
-| 35 | [Less Than Zero](https://open.spotify.com/track/0lvsez8oZ7WSRJcmQNj7D4) | [Most Precious Blood](https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu) | [Nothing in Vain](https://open.spotify.com/album/2ZoSsqN1TZNcGtT7ImdixK) | 2:45 |
+| 35 | [Step Down](https://open.spotify.com/track/2t4jzAAzlt4BasOuHPrJ0k) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch The Surface](https://open.spotify.com/album/76TWjo9O40anFFnKtyACcd) | 3:10 |
 | 36 | [In The Blood](https://open.spotify.com/track/1xeq7bGqYQr89IH2dUwnJf) | [One King Down](https://open.spotify.com/artist/782HAMHn2gK7WqWZZ7aJ9D) | [God Loves Man Kills](https://open.spotify.com/album/74mZMod95TaB70r5reWSdm) | 3:37 |
 | 37 | [Ransom Note](https://open.spotify.com/track/6hLqoz9CEzw6zKKE4gWYSQ) | [Endicott](https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF) | [Words in Ink Don't Lie](https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu) | 2:39 |
-| 38 | [Step Down](https://open.spotify.com/track/2t4jzAAzlt4BasOuHPrJ0k) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch The Surface](https://open.spotify.com/album/76TWjo9O40anFFnKtyACcd) | 3:10 |
-| 39 | [Gomorrah's Season Ends](https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/2PYmeJV6SMsT8YrhNBC2Vi) | 3:29 |
-| 40 | [Chasing the Dragon](https://open.spotify.com/track/2NaSdkhNfzrCFd0p5vKspk) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/1g3661VmArydCMCXltxVJk) | 3:23 |
-| 41 | [Save Us](https://open.spotify.com/track/4wFOby3D08M6keJ3FH6roi) | [Stigmata](https://open.spotify.com/artist/2a3HNMLb9HvUx0IlFwn9Fz) | [The Wounds That Never Heal](https://open.spotify.com/album/76VKJEp7KxcdcMapN0H1nJ) | 4:23 |
-| 42 | [Blistered](https://open.spotify.com/track/0qFcZFSH5P6gT5FnPvCQ7X) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/2dJ2HAbutOrZb3wqbYmRlR) | 2:27 |
+| 38 | [Blistered](https://open.spotify.com/track/0qFcZFSH5P6gT5FnPvCQ7X) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/2dJ2HAbutOrZb3wqbYmRlR) | 2:27 |
+| 39 | [Less Than Zero](https://open.spotify.com/track/0lvsez8oZ7WSRJcmQNj7D4) | [Most Precious Blood](https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu) | [Nothing in Vain](https://open.spotify.com/album/2ZoSsqN1TZNcGtT7ImdixK) | 2:45 |
+| 40 | [Gomorrah's Season Ends](https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/2PYmeJV6SMsT8YrhNBC2Vi) | 3:29 |
+| 41 | [Chasing the Dragon](https://open.spotify.com/track/2NaSdkhNfzrCFd0p5vKspk) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/1g3661VmArydCMCXltxVJk) | 3:23 |
+| 42 | [Save Us](https://open.spotify.com/track/4wFOby3D08M6keJ3FH6roi) | [Stigmata](https://open.spotify.com/artist/2a3HNMLb9HvUx0IlFwn9Fz) | [The Wounds That Never Heal](https://open.spotify.com/album/76VKJEp7KxcdcMapN0H1nJ) | 4:23 |
 | 43 | [The Disconnect](https://open.spotify.com/track/5JI4HbkaBL3ueJ2sXur0b3) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Current Will Carry Us](https://open.spotify.com/album/3yzp4D0TIDi5wgMtqyoqE0) | 3:56 |
 | 44 | [Can't Take It Away](https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C) | [Kill Your Idols](https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT) | [This Is Just the Beginning](https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1) | 1:36 |
 | 45 | [Caboose](https://open.spotify.com/track/4XetuNNt2wx5lkZGS4L5r5) | [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Progression Through Unlearning](https://open.spotify.com/album/7rIYvEhntzeIkIE78b486h) | 2:33 |

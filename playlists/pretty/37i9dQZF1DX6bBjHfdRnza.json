@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 10 years of the best new dance music by independent artists and labels, featuring HU.  Artwork by Rewina Beshue.",
-  "num_followers": 204086,
+  "num_followers": 204218,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHqlLwAAAAC+LPqGTKO1VBElyBQhG4R5",
+  "snapshot_id": "aIEHewAAAABTitBCUWnMJj9hc1yC6qHx",
   "tracks": [
     {
       "added_at": "2025-07-18 04:00:29",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/5TgnPAEtz84lYjljbcu8MG"
     },
     {
+      "added_at": "2025-07-23 16:02:03",
+      "album": {
+        "name": "i just want to dance",
+        "url": "https://open.spotify.com/album/6bHBiU7eHs7ceY8lODmQpn"
+      },
+      "artists": [
+        {
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+        }
+      ],
+      "duration_ms": 159975,
+      "name": "i just want to dance",
+      "url": "https://open.spotify.com/track/4ZBwVxikPVHDOIKp3CVqoX"
+    },
+    {
       "added_at": "2025-07-11 04:00:26",
       "album": {
         "name": "Felt It Again",
@@ -39,6 +55,42 @@
       "duration_ms": 160686,
       "name": "Felt It Again",
       "url": "https://open.spotify.com/track/1Ng0kLgvqPUJGcFhrDGbUR"
+    },
+    {
+      "added_at": "2025-07-23 16:02:03",
+      "album": {
+        "name": "HALF BLOOD",
+        "url": "https://open.spotify.com/album/0KvaKQ6sOPmlZTOvsGjoQA"
+      },
+      "artists": [
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "duration_ms": 208912,
+      "name": "STAR CANNON",
+      "url": "https://open.spotify.com/track/2KZ3vJPCmKh9Him926mDsH"
+    },
+    {
+      "added_at": "2025-07-23 16:02:03",
+      "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/27AIBRCAd2OxJLnuVGpLTY"
+      },
+      "artists": [
+        {
+          "name": "Fold",
+          "url": "https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8"
+        },
+        {
+          "name": "cu.rve",
+          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/3B7DEjXs1lyFLHGqtxjSbq"
     },
     {
       "added_at": "2025-07-16 04:00:36",
@@ -73,24 +125,20 @@
       "url": "https://open.spotify.com/track/2aiiorAu7zLKYanYv47LjN"
     },
     {
-      "added_at": "2025-07-16 15:11:35",
+      "added_at": "2025-07-18 04:00:29",
       "album": {
-        "name": "Southpaw",
-        "url": "https://open.spotify.com/album/700Ft6hfZal0xbzlUCXNpt"
+        "name": "What Can I Do",
+        "url": "https://open.spotify.com/album/1qoacL6w8NLcNTmkyHfWBY"
       },
       "artists": [
         {
-          "name": "Saint Ludo",
-          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
-        },
-        {
-          "name": "Sweetie Irie",
-          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
         }
       ],
-      "duration_ms": 163934,
-      "name": "Southpaw",
-      "url": "https://open.spotify.com/track/5aKNXOuBF2ZemsRMz4MROX"
+      "duration_ms": 243914,
+      "name": "What Can I Do",
+      "url": "https://open.spotify.com/track/6EbED5jPQiMpFftw4qJ7UA"
     },
     {
       "added_at": "2025-07-09 18:17:09",
@@ -125,6 +173,26 @@
       "url": "https://open.spotify.com/track/37P4yZrleSbiQwYWNrSpaM"
     },
     {
+      "added_at": "2025-07-23 16:02:03",
+      "album": {
+        "name": "FADE / PRETTY",
+        "url": "https://open.spotify.com/album/2hHQduqqUOtvPoNxPTs1Jj"
+      },
+      "artists": [
+        {
+          "name": "BLOODY",
+          "url": "https://open.spotify.com/artist/0PVfxLLUgFhUazfpTSJevz"
+        },
+        {
+          "name": "lo arndt",
+          "url": "https://open.spotify.com/artist/4D5snkO2IHDcLFoGX9T5Fv"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "PRETTY",
+      "url": "https://open.spotify.com/track/1ilo2WtKfsQgmNcoTuyfwb"
+    },
+    {
       "added_at": "2025-07-18 04:00:29",
       "album": {
         "name": "All Night",
@@ -139,6 +207,26 @@
       "duration_ms": 247019,
       "name": "All Night",
       "url": "https://open.spotify.com/track/1tnHnmYkpWlVHjB2qkf0iI"
+    },
+    {
+      "added_at": "2025-07-18 04:00:29",
+      "album": {
+        "name": "Meant2Be",
+        "url": "https://open.spotify.com/album/7tRALOjafWOn1OORdBva4l"
+      },
+      "artists": [
+        {
+          "name": "Juno Mamba",
+          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
+        },
+        {
+          "name": "Rino",
+          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
+        }
+      ],
+      "duration_ms": 272157,
+      "name": "Meant2Be",
+      "url": "https://open.spotify.com/track/3Gage5jAwBcaTmjbEebYjI"
     },
     {
       "added_at": "2025-07-11 04:00:26",
@@ -203,6 +291,22 @@
       "duration_ms": 342790,
       "name": "spontaneous combustion!",
       "url": "https://open.spotify.com/track/04wjT0XvCvQjNZtazFMnxX"
+    },
+    {
+      "added_at": "2025-07-09 18:17:09",
+      "album": {
+        "name": "Tu Medice",
+        "url": "https://open.spotify.com/album/1cE5rI8088FcWnyrnwIW5x"
+      },
+      "artists": [
+        {
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+        }
+      ],
+      "duration_ms": 262519,
+      "name": "Tu Medice",
+      "url": "https://open.spotify.com/track/2uoeGOB5Xq5N4eLLIVyRb5"
     },
     {
       "added_at": "2025-07-18 16:38:00",
@@ -273,6 +377,26 @@
       "url": "https://open.spotify.com/track/1uFjhHmje5HzyAqU0SXJ2g"
     },
     {
+      "added_at": "2025-07-16 15:11:35",
+      "album": {
+        "name": "Southpaw",
+        "url": "https://open.spotify.com/album/700Ft6hfZal0xbzlUCXNpt"
+      },
+      "artists": [
+        {
+          "name": "Saint Ludo",
+          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+        },
+        {
+          "name": "Sweetie Irie",
+          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+        }
+      ],
+      "duration_ms": 163934,
+      "name": "Southpaw",
+      "url": "https://open.spotify.com/track/5aKNXOuBF2ZemsRMz4MROX"
+    },
+    {
       "added_at": "2025-07-16 04:00:36",
       "album": {
         "name": "DON'T LIE",
@@ -329,22 +453,6 @@
       "url": "https://open.spotify.com/track/45APUZHL4bFnG8wxvRmwxM"
     },
     {
-      "added_at": "2025-07-09 18:17:09",
-      "album": {
-        "name": "Tu Medice",
-        "url": "https://open.spotify.com/album/1cE5rI8088FcWnyrnwIW5x"
-      },
-      "artists": [
-        {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
-        }
-      ],
-      "duration_ms": 262519,
-      "name": "Tu Medice",
-      "url": "https://open.spotify.com/track/2uoeGOB5Xq5N4eLLIVyRb5"
-    },
-    {
       "added_at": "2025-07-02 15:52:18",
       "album": {
         "name": "Power of Love",
@@ -359,22 +467,6 @@
       "duration_ms": 190150,
       "name": "Power of Love",
       "url": "https://open.spotify.com/track/6LahALik6SzkZY8zSnwb2l"
-    },
-    {
-      "added_at": "2025-07-18 04:00:29",
-      "album": {
-        "name": "What Can I Do",
-        "url": "https://open.spotify.com/album/1qoacL6w8NLcNTmkyHfWBY"
-      },
-      "artists": [
-        {
-          "name": "TATYANA",
-          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
-        }
-      ],
-      "duration_ms": 243914,
-      "name": "What Can I Do",
-      "url": "https://open.spotify.com/track/6EbED5jPQiMpFftw4qJ7UA"
     },
     {
       "added_at": "2025-07-16 04:00:36",
@@ -459,26 +551,6 @@
       "duration_ms": 203076,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/5roCjW0WlA3bgjFDjx8Xuw"
-    },
-    {
-      "added_at": "2025-07-18 04:00:29",
-      "album": {
-        "name": "Meant2Be",
-        "url": "https://open.spotify.com/album/7tRALOjafWOn1OORdBva4l"
-      },
-      "artists": [
-        {
-          "name": "Juno Mamba",
-          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
-        },
-        {
-          "name": "Rino",
-          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
-        }
-      ],
-      "duration_ms": 272157,
-      "name": "Meant2Be",
-      "url": "https://open.spotify.com/track/3Gage5jAwBcaTmjbEebYjI"
     },
     {
       "added_at": "2025-05-30 15:24:22",
@@ -785,22 +857,6 @@
       "url": "https://open.spotify.com/track/4yeL38PURk2TrKQw2WC1Zo"
     },
     {
-      "added_at": "2025-06-28 04:43:14",
-      "album": {
-        "name": "I Just Want You To Smile",
-        "url": "https://open.spotify.com/album/2wc2zJZngG1XrRmn9F5kko"
-      },
-      "artists": [
-        {
-          "name": "Dancing on Lego",
-          "url": "https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5"
-        }
-      ],
-      "duration_ms": 222540,
-      "name": "I Just Want You To Smile",
-      "url": "https://open.spotify.com/track/26jWskVc8NRVYeP2C3noTv"
-    },
-    {
       "added_at": "2025-06-28 05:05:59",
       "album": {
         "name": "RAVER'S DATELINE",
@@ -1081,26 +1137,6 @@
       "url": "https://open.spotify.com/track/0eHbc0W67AaJzVkU6icQlI"
     },
     {
-      "added_at": "2025-06-18 18:11:27",
-      "album": {
-        "name": "BBY",
-        "url": "https://open.spotify.com/album/58X5cnMe69iNTNyXuD4iNN"
-      },
-      "artists": [
-        {
-          "name": "RAUU",
-          "url": "https://open.spotify.com/artist/2o2urqQv41AMJoZ8V5l4Of"
-        },
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 156392,
-      "name": "BBY",
-      "url": "https://open.spotify.com/track/2I96t943912zYjLcMHPnNw"
-    },
-    {
       "added_at": "2025-07-02 15:52:18",
       "album": {
         "name": "Forward",
@@ -1315,22 +1351,6 @@
       "duration_ms": 156280,
       "name": "Need A Freak",
       "url": "https://open.spotify.com/track/33sF5CxnTbJmVVdwGsgbIb"
-    },
-    {
-      "added_at": "2025-06-11 16:07:13",
-      "album": {
-        "name": "Sweat It Out",
-        "url": "https://open.spotify.com/album/664MLChYil6XVJSQZ1K2qr"
-      },
-      "artists": [
-        {
-          "name": "ALEXANDER RYA",
-          "url": "https://open.spotify.com/artist/3wvx6caa5hMf36Ori5nXsY"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Sweat It Out",
-      "url": "https://open.spotify.com/track/4nyzWJpxvJkl6I8KEXwbTf"
     },
     {
       "added_at": "2025-05-14 16:55:36",
@@ -1627,22 +1647,6 @@
       "duration_ms": 166791,
       "name": "Bring The Funk Back",
       "url": "https://open.spotify.com/track/2GWrlPQcDAwmNWfRQ3p4my"
-    },
-    {
-      "added_at": "2025-04-04 19:00:45",
-      "album": {
-        "name": "groove that never stops",
-        "url": "https://open.spotify.com/album/6Wtw2L9uDfz1h60LOFDtaZ"
-      },
-      "artists": [
-        {
-          "name": "Jake Antonio",
-          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "groove that never stops",
-      "url": "https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds"
     },
     {
       "added_at": "2025-05-23 04:00:47",

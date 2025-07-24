@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Linea Personal
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,951 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,017 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 2 | [SECRETO](https://open.spotify.com/track/504VfM2pmclGufjypM5c59) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [SECRETO](https://open.spotify.com/album/7GVR3lkK8tz5kcOa6LnQfG) | 3:28 |
 | 3 | [ADX](https://open.spotify.com/track/1g7FFlgVIIPK3M2cY4iCWy) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [ADX](https://open.spotify.com/album/2vcRnUiMyQorrMStGulWuE) | 3:33 |
 | 4 | [Toca Batear](https://open.spotify.com/track/0EL55H47sEoiuwaRoOC68O) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Toca Batear](https://open.spotify.com/album/7hNK4GPqNuEYvcX0s1SLnT) | 2:55 |
-| 5 | [Paris Hilton](https://open.spotify.com/track/3wXNKzyuuSZoGgnuCI2ly3) | [Angel Cervantes](https://open.spotify.com/artist/0qxDNZighUcPqxQzhIuqKS) | [ANTECEDENTE](https://open.spotify.com/album/6h6mQOGWNmT5saFNmJHfyv) | 3:10 |
+| 5 | [Paris Hilton](https://open.spotify.com/track/3wXNKzyuuSZoGgnuCI2ly3) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [ANTECEDENTE](https://open.spotify.com/album/6h6mQOGWNmT5saFNmJHfyv) | 3:10 |
 | 6 | [Con Bajo Perfil](https://open.spotify.com/track/1V5yzS1Y4dLiVPkXeJ5woJ) | [Los Hnos Rodriguez](https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU) | [Con Bajo Perfil](https://open.spotify.com/album/18y9UuG4cPMBjOlYeAwSh7) | 3:18 |
 | 7 | [Mentality](https://open.spotify.com/track/7LZyqWfp3JkyG3YNpYNIpw) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [Por El Momento](https://open.spotify.com/album/5ajocepPHfcBFFKxtz9wrL) | 2:49 |
 | 8 | [Contigo](https://open.spotify.com/track/7mMrcObHozrz7pJZQyQ4yI) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Contigo](https://open.spotify.com/album/6qo7MJeVYESrUSJeRPuRjq) | 3:12 |

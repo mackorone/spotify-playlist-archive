@@ -1427,6 +1427,28 @@
     },
     {
       "album": {
+        "name": "The Train (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5v9mHG9evQYdfr6lJyczR9"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199626,
+      "name": "Gulabi Ankhen - From \"The Train\"",
+      "url": "https://open.spotify.com/track/5cXL2VUFoS6swssv1lpZZO"
+    },
+    {
+      "album": {
         "name": "Chalti Ka Naam Gaadi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/11ZHFRLEhkwJ19bWoEFrbp"
       },
@@ -2404,7 +2426,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-24",
       "duration_ms": 259250,
       "name": "Koi Ladki Mujhe Kal Raat",
       "url": "https://open.spotify.com/track/0n7zkNUzeEZdzDqI1KiNZJ"

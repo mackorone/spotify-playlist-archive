@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 43017,
+  "num_followers": 43020,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-07-13 01:25:09",
       "album": {
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "El Arte del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
+    },
+    {
+      "added_at": "2024-07-13 01:25:09",
+      "album": {
         "name": "Stop",
         "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 248000,
       "name": "Si la Ves (feat. Sin Bandera)",
       "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
-    },
-    {
-      "added_at": "2024-07-13 01:25:09",
-      "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "El Arte del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
     },
     {
       "added_at": "2024-07-13 01:25:09",

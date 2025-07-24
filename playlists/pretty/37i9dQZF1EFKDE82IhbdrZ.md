@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399 likes - 320 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400 likes - 320 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 34 | [Walking in the Wind](https://open.spotify.com/track/1ZycJRpLOazlLcoFGxGROO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:22 |
 | 35 | [Miss You](https://open.spotify.com/track/3zxrecYFao03IrrcyFiaMU) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Miss You](https://open.spotify.com/album/22anLYKhfIkwUOz8RZtZKq) | 3:02 |
 | 36 | [Diana](https://open.spotify.com/track/6twW4ma6w0mOeejejPK0nY) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:04 |
-| 37 | [Ready to Run](https://open.spotify.com/track/7GtGeeChOx4NS77bqK8SUx) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:16 |
-| 38 | [Don’t Smile](https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:26 |
+| 37 | [Don’t Smile](https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:26 |
+| 38 | [Ready to Run](https://open.spotify.com/track/7GtGeeChOx4NS77bqK8SUx) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:16 |
 | 39 | [Flicker](https://open.spotify.com/track/5BpmwiKR6ns1EtfCQRpNUc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 4:18 |
 | 40 | [Girl Almighty](https://open.spotify.com/track/5UgsZiYk1lkEobuPHmRtWm) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:21 |
 | 41 | [Dance with Me \(feat\. Thomas Rhett & Young Thug\)](https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:50 |
@@ -238,8 +238,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 228 | [Teenage Kings](https://open.spotify.com/track/6DIxdwLvsZdehLrXjbtxvG) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 3:19 |
 | 229 | [Somewhere We Can Be Alone](https://open.spotify.com/track/4JD8cPfPPjkyc8wAeHur1h) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 3:02 |
 | 230 | [Thula Ungakhlai \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/4mU0YSUlZ0RvXMapVj6kYx) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Toast to Our Differences \(Deluxe Edition\)](https://open.spotify.com/album/0ORqx9M6ak7kqDwYUBwvdK) | 0:47 |
-| 231 | [Satisfaction](https://open.spotify.com/track/4POgJyUTI7mVfw82rDK209) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [All Out EP](https://open.spotify.com/album/2MtXlZW7qER88eQvxojeaR) | 5:07 |
-| 232 | [LOS NARCOS](https://open.spotify.com/track/1lG27QZJVXbVieXyi8gHKl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 1:54 |
+| 231 | [LOS NARCOS](https://open.spotify.com/track/1lG27QZJVXbVieXyi8gHKl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 1:54 |
+| 232 | [Satisfaction](https://open.spotify.com/track/4POgJyUTI7mVfw82rDK209) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [All Out EP](https://open.spotify.com/album/2MtXlZW7qER88eQvxojeaR) | 5:07 |
 | 233 | [When Loving You](https://open.spotify.com/track/7hH5PKMBwBGyC6PGeRKuVy) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Love Center](https://open.spotify.com/album/2y5JTyJ84CYPR2EbFuKDCv) | 4:12 |
 | 234 | [I'm F\*\*\*ed Up \- Main Version \- explicit](https://open.spotify.com/track/1uUs2Z0S6AI6CLImiDCRSH) | [Dolla](https://open.spotify.com/artist/5Gc3IYdgY3PVcuf8FPMxDI) | [I'm F\*\*\*ed Up \(Main Version \- explicit\)](https://open.spotify.com/album/5xnWvkUkDjKC3Y6dnL2Aq9) | 3:27 |
 | 235 | [Put Some Music On](https://open.spotify.com/track/4hOdYMuz63sbWjiV0CucOi) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Twenty](https://open.spotify.com/album/03DEKGkvYKs8PQhhCLkuAa) | 4:14 |
@@ -329,4 +329,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 319 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 320 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Ab3fSAAAAADxwx1lLfKM0l0wsYMHuLd5`
+Snapshot ID: `Ab3k1AAAAACTICfjJoyHac9vnyRQL06/`

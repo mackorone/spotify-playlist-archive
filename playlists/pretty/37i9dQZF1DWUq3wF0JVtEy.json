@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 934013,
+  "num_followers": 933949,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,30 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
+        "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
+        "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Space Ducks",
+          "url": "https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "Cocoon - Martin Garrix & Space Ducks Remix",
+      "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
         "name": "Genesis (Don Diablo Edit)",
         "url": "https://open.spotify.com/album/5t5GtF3wm4p8c7wLDMBVvz"
       },
@@ -383,30 +407,6 @@
       "duration_ms": 196876,
       "name": "Genesis - Don Diablo Edit",
       "url": "https://open.spotify.com/track/4aPh4IKYRg2fm4sqxLFo8b"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
-        "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
-        "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        },
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Space Ducks",
-          "url": "https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "Cocoon - Martin Garrix & Space Ducks Remix",
-      "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "Movin",
-        "url": "https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Movin",
-      "url": "https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
         "name": "The Future Is Now - The Truth",
         "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 178560,
       "name": "The Future Is Now",
       "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
+        "name": "Movin",
+        "url": "https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Movin",
+      "url": "https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "Poison Ivy",
-        "url": "https://open.spotify.com/album/3aRfCgXhT54GQq2UxxFdYB"
-      },
-      "artists": [
-        {
-          "name": "SubDocta",
-          "url": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
-        },
-        {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
-        }
-      ],
-      "duration_ms": 243932,
-      "name": "Poison Ivy",
-      "url": "https://open.spotify.com/track/68DQ6HkS9A7WxDnAobzeIC"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
         "name": "Feel The Beat",
         "url": "https://open.spotify.com/album/0lNYFhvrwG8dAeUvAzLznh"
       },
@@ -1203,6 +1183,26 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
+        "name": "Poison Ivy",
+        "url": "https://open.spotify.com/album/3aRfCgXhT54GQq2UxxFdYB"
+      },
+      "artists": [
+        {
+          "name": "SubDocta",
+          "url": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
+        },
+        {
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        }
+      ],
+      "duration_ms": 243932,
+      "name": "Poison Ivy",
+      "url": "https://open.spotify.com/track/68DQ6HkS9A7WxDnAobzeIC"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "C.R.E.A.M.",
-        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
       },
       "artists": [
         {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        },
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
         }
       ],
-      "duration_ms": 149562,
-      "name": "C.R.E.A.M.",
-      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
+      "duration_ms": 181934,
+      "name": "Anywhere You Go",
+      "url": "https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -1275,22 +1279,18 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "Anywhere You Go",
-        "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
+        "name": "C.R.E.A.M.",
+        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
       },
       "artists": [
         {
-          "name": "NUZB",
-          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
-        },
-        {
-          "name": "Merow",
-          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
         }
       ],
-      "duration_ms": 181934,
-      "name": "Anywhere You Go",
-      "url": "https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh"
+      "duration_ms": 149562,
+      "name": "C.R.E.A.M.",
+      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 177187,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
       },
@@ -1359,18 +1375,22 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE"
+        "name": "Welcome To The Future",
+        "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
       "artists": [
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
         }
       ],
-      "duration_ms": 177187,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
+      "duration_ms": 172800,
+      "name": "Welcome To The Future",
+      "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -1391,26 +1411,6 @@
       "duration_ms": 146769,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/2pLjWO7lYfFOJYXZOWJUS1"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
-        "name": "Welcome To The Future",
-        "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Welcome To The Future",
-      "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -1571,6 +1571,34 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1HSw1aVWGMkh1vi7fBG6bo"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        },
+        {
+          "name": "GRX",
+          "url": "https://open.spotify.com/artist/2xgAJkalFHfceCNGETOkyM"
+        },
+        {
+          "name": "Thomas Nan",
+          "url": "https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/6KYAjSvbUR9ODsnNJH3O6P"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
         "name": "Repeating",
         "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
       },
@@ -1607,54 +1635,6 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/1HSw1aVWGMkh1vi7fBG6bo"
-      },
-      "artists": [
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        },
-        {
-          "name": "GRX",
-          "url": "https://open.spotify.com/artist/2xgAJkalFHfceCNGETOkyM"
-        },
-        {
-          "name": "Thomas Nan",
-          "url": "https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/6KYAjSvbUR9ODsnNJH3O6P"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
-        "name": "You Ate That",
-        "url": "https://open.spotify.com/album/56zqI47aElXbKYSaJ6Ebzq"
-      },
-      "artists": [
-        {
-          "name": "SQWAD",
-          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
-        },
-        {
-          "name": "The Melody Men",
-          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "You Ate That",
-      "url": "https://open.spotify.com/track/7yzQDORKaih65753uwmR89"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
         "name": "The Unexplained",
         "url": "https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl"
       },
@@ -1683,22 +1663,22 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
+        "name": "You Ate That",
+        "url": "https://open.spotify.com/album/56zqI47aElXbKYSaJ6Ebzq"
       },
       "artists": [
         {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
         }
       ],
-      "duration_ms": 141666,
-      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
+      "duration_ms": 196875,
+      "name": "You Ate That",
+      "url": "https://open.spotify.com/track/7yzQDORKaih65753uwmR89"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -1723,18 +1703,22 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "HURTS",
-        "url": "https://open.spotify.com/album/7iGXbRdDe5xDcDfFgZCWv9"
+        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
       },
       "artists": [
         {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 145714,
-      "name": "HURTS",
-      "url": "https://open.spotify.com/track/1MHILK2QPFJtOA5O0bRZYN"
+      "duration_ms": 141666,
+      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -1755,6 +1739,22 @@
       "duration_ms": 171076,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
+        "name": "HURTS",
+        "url": "https://open.spotify.com/album/7iGXbRdDe5xDcDfFgZCWv9"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "HURTS",
+      "url": "https://open.spotify.com/track/1MHILK2QPFJtOA5O0bRZYN"
     },
     {
       "added_at": "2025-07-18 04:00:19",
@@ -1911,34 +1911,46 @@
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
+        "name": "808",
+        "url": "https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh"
       },
       "artists": [
         {
           "name": "Tujamo",
           "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
         }
       ],
-      "duration_ms": 176309,
-      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
+      "duration_ms": 176692,
+      "name": "808",
+      "url": "https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0"
     },
     {
       "added_at": "2025-07-18 04:00:19",
       "album": {
-        "name": "All Nighter",
-        "url": "https://open.spotify.com/album/2LExouzWxTSOae5akA2lIm"
+        "name": "Mind Awake, Body Asleep",
+        "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
       },
       "artists": [
         {
-          "name": "NOME.",
-          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
         }
       ],
-      "duration_ms": 145153,
-      "name": "All Nighter",
-      "url": "https://open.spotify.com/track/28BZvLsaXAKGAfy7cucvRo"
+      "duration_ms": 150447,
+      "name": "Mind Awake, Body Asleep",
+      "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
     }
   ],
   "unique_name": "Shuffle Syndrome",

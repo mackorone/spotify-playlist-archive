@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[超棒的企鹅](https://open.spotify.com/user/megustager) - 686 likes - 502 songs - 1 day 10 hr 54 min
+[超棒的企鹅](https://open.spotify.com/user/megustager) - 686 likes - 503 songs - 1 day 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -510,5 +510,6 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 500 | [EdgE of xtAsiE](https://open.spotify.com/track/1cIae1DhPfifIuzIV49DPJ) | [kenta\-v.ez.](https://open.spotify.com/artist/4cN1VW0tv2952s0ywPjQU6) | [Japanese Stream Hardcore Vol.5](https://open.spotify.com/album/0rkTL9lKpjJKMdRQaQXBEk) | 4:58 |
 | 501 | [Divineness](https://open.spotify.com/track/5RpkyjazrAGLmrAZwRdkPR) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Japanese Stream Hardcore Vol.5](https://open.spotify.com/album/0rkTL9lKpjJKMdRQaQXBEk) | 5:14 |
 | 502 | [Hex](https://open.spotify.com/track/5ZS0LsKEK3AuvnX0Q5w5Mh) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Hex](https://open.spotify.com/album/0eG98O2NBz98XgKFWZpMpQ) | 4:06 |
+| 503 | [IGNITE](https://open.spotify.com/track/4Db7S2wX2niEZ8aIoqkzhy) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [IGNITE](https://open.spotify.com/album/5DFjJ4r8PbfXp6R9XsWmLS) | 2:36 |
 
-Snapshot ID: `AAACVNqnQUm4BAZpgKNSo46xdwcsTabh`
+Snapshot ID: `AAACVZSvcfGx4BN67YgJI11VZR51vNkt`

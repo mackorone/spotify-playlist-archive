@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Rubí
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,782 likes - 199 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,723 likes - 199 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 9 | [Uuu](https://open.spotify.com/track/7w1Sm0fn2YWRFcphqTpWbH) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mixteip](https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk) | 1:50 |
 | 10 | [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 |
 | 11 | [Dile Luna](https://open.spotify.com/track/4n0JnrS5az8qhhQRuofBfo) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:07 |
-| 12 | [TIKITI](https://open.spotify.com/track/6b1L2ZCGDT2SIvoZZNQFv9) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [TIKITI](https://open.spotify.com/album/1G4Xitilt3wm6NoVAwpW9P) | 2:50 |
+| 12 | [TIKITI](https://open.spotify.com/track/6b1L2ZCGDT2SIvoZZNQFv9) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [TIKITI](https://open.spotify.com/album/1G4Xitilt3wm6NoVAwpW9P) | 2:50 |
 | 13 | [Whatever For You](https://open.spotify.com/track/1M7oD1A2CyqYbUNCLqF2pl) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Whatever For You](https://open.spotify.com/album/2R7tIpYfhoQmaDInB2XfEW) | 1:43 |
 | 14 | [No Sabes Amar](https://open.spotify.com/track/22BgSDv4q75DO0zn28nOzF) | [Fabriell](https://open.spotify.com/artist/7sR2VU3zdYk41TJ6HcVQF6), [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY) | [No Sabes Amar](https://open.spotify.com/album/01qSZcSgzlUku9NJUspqk2) | 3:23 |
 | 15 | [SiNKRONiZAMOS](https://open.spotify.com/track/606P7BzQuVQ2C0rnG7u66E) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [CÓDiGOS DE MUÑEKA](https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE) | 3:19 |

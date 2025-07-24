@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Artie 5ive, Baby Gang, Noyz Narcos, Ele A, Visino Bianco, Luchetto e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,908 likes - 140 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,912 likes - 140 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

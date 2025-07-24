@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Myd, Carlita",
-  "num_followers": 37050,
+  "num_followers": 37062,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-07-10 23:00:07",
       "album": {
+        "name": "To Survive",
+        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "duration_ms": 238316,
+      "name": "To Survive",
+      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
+    },
+    {
+      "added_at": "2025-07-10 23:00:07",
+      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2025-07-10 23:00:07",
       "album": {
-        "name": "To Survive",
-        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
-      },
-      "artists": [
-        {
-          "name": "Bondax",
-          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
-        }
-      ],
-      "duration_ms": 238316,
-      "name": "To Survive",
-      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
-    },
-    {
-      "added_at": "2025-07-10 23:00:07",
-      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/0uhQ4KqKPF3DQip9sIQ2UC"
       },
@@ -643,6 +643,26 @@
       "duration_ms": 260000,
       "name": "Swim",
       "url": "https://open.spotify.com/track/0OEv3Mpw7qkunUIengDJU3"
+    },
+    {
+      "added_at": "2025-07-10 23:00:07",
+      "album": {
+        "name": "Rolling Thunder",
+        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Rolling Thunder",
+      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
     },
     {
       "added_at": "2025-07-10 23:00:07",
@@ -667,26 +687,6 @@
       "duration_ms": 213000,
       "name": "Monday, Monday",
       "url": "https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj"
-    },
-    {
-      "added_at": "2025-07-10 23:00:07",
-      "album": {
-        "name": "Rolling Thunder",
-        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Rolling Thunder",
-      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
     },
     {
       "added_at": "2025-07-10 23:00:07",
@@ -755,26 +755,6 @@
     {
       "added_at": "2025-07-10 23:00:07",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/0I1kGd5ir00A4OCr1JAthz"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Seint Monet",
-          "url": "https://open.spotify.com/artist/36FUrbueTAg6yUYcJuAkAh"
-        }
-      ],
-      "duration_ms": 222814,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6khIJyIvuoJNFMoOgWuu5G"
-    },
-    {
-      "added_at": "2025-07-10 23:00:07",
-      "album": {
         "name": "Hallucinating Love",
         "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 210994,
       "name": "Peace Talk",
       "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
+    },
+    {
+      "added_at": "2025-07-10 23:00:07",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/0I1kGd5ir00A4OCr1JAthz"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Seint Monet",
+          "url": "https://open.spotify.com/artist/36FUrbueTAg6yUYcJuAkAh"
+        }
+      ],
+      "duration_ms": 222814,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6khIJyIvuoJNFMoOgWuu5G"
     },
     {
       "added_at": "2025-07-10 23:00:07",
@@ -859,38 +859,6 @@
     {
       "added_at": "2025-07-10 23:00:07",
       "album": {
-        "name": "Mutt",
-        "url": "https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Mutt",
-      "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
-    },
-    {
-      "added_at": "2025-07-10 23:00:07",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 218179,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
-    },
-    {
-      "added_at": "2025-07-10 23:00:07",
-      "album": {
         "name": "Stop Thinking Start Feeling",
         "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
       },
@@ -911,22 +879,34 @@
     {
       "added_at": "2025-07-10 23:00:07",
       "album": {
-        "name": "All You Children",
-        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 254142,
-      "name": "All You Children",
-      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
+      "duration_ms": 218179,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
+    },
+    {
+      "added_at": "2025-07-10 23:00:07",
+      "album": {
+        "name": "Mutt",
+        "url": "https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Mutt",
+      "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
     },
     {
       "added_at": "2025-07-10 23:00:07",
@@ -943,6 +923,26 @@
       "duration_ms": 261120,
       "name": "Show the Way",
       "url": "https://open.spotify.com/track/6TTzOzCtZlUXhouvx2mlgy"
+    },
+    {
+      "added_at": "2025-07-10 23:00:07",
+      "album": {
+        "name": "All You Children",
+        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 254142,
+      "name": "All You Children",
+      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
     },
     {
       "added_at": "2025-07-10 23:00:07",
@@ -987,6 +987,26 @@
     {
       "added_at": "2025-07-10 23:00:07",
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 227934,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
+    },
+    {
+      "added_at": "2025-07-10 23:00:07",
+      "album": {
         "name": "Seasoning",
         "url": "https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 198349,
       "name": "pacifico",
       "url": "https://open.spotify.com/track/2UKsvC3OHquxXYSibXWlCG"
-    },
-    {
-      "added_at": "2025-07-10 23:00:07",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 227934,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
     },
     {
       "added_at": "2025-07-10 23:00:07",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-07-10 23:00:07",
       "album": {
-        "name": "The Person You\u2019d Like To Be",
-        "url": "https://open.spotify.com/album/6bQfgbOwJIs6taCSyyA2XQ"
+        "name": "Care For You",
+        "url": "https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
         }
       ],
-      "duration_ms": 197890,
-      "name": "The Person You\u2019d Like To Be",
-      "url": "https://open.spotify.com/track/7645Cs9rO3J1OD2O3CQ10P"
+      "duration_ms": 218678,
+      "name": "Care For You",
+      "url": "https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO"
     },
     {
       "added_at": "2025-07-10 23:00:07",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-07-10 23:00:07",
       "album": {
-        "name": "Care For You",
-        "url": "https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu"
+        "name": "The Person You\u2019d Like To Be",
+        "url": "https://open.spotify.com/album/6bQfgbOwJIs6taCSyyA2XQ"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 218678,
-      "name": "Care For You",
-      "url": "https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO"
+      "duration_ms": 197890,
+      "name": "The Person You\u2019d Like To Be",
+      "url": "https://open.spotify.com/track/7645Cs9rO3J1OD2O3CQ10P"
     }
   ],
   "unique_name": "Indie Electronic ",

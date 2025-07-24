@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,522 likes - 75 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,647 likes - 75 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 31 | [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 |
 | 32 | [Lover Man \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/5PfcpDnzz8VdUoziFWnhrU) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 7:53 |
 | 33 | [Blue And Sentimental \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/4kFv25xG46k1MH0D8741Pb) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Blue And Sentimental \(Remastered\)](https://open.spotify.com/album/5TYNurFvKuz9z5L4Klwsl6) | 7:28 |
-| 34 | [Something I Dreamed Last Night](https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 6:11 |
-| 35 | [Polka Dots And Moonbeams](https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 7:53 |
+| 34 | [Polka Dots And Moonbeams](https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 7:53 |
+| 35 | [Something I Dreamed Last Night](https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 6:11 |
 | 36 | [Violets For Your Furs \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 6:15 |
 | 37 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 5:34 |
 | 38 | [A Lovely Way To Spend An Evening \- Remastered 2008/Rudy Van Gelder Edition](https://open.spotify.com/track/0nEqVExhmcXgfArSMMnwFo) | [Curtis Fuller](https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK) | [The Opener \(Remastered 2008/Rudy Van Gelder Edition\)](https://open.spotify.com/album/3eva44waMaCOJMWbbarsuH) | 6:53 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 45 | [My Foolish Heart](https://open.spotify.com/track/1y0U0HAe5QfTRzOsz74bOt) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Makes It Happen](https://open.spotify.com/album/7uElhe7eCpY1w89SWtBcSr) | 2:46 |
 | 46 | [I Should Care](https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Music For Lovers](https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga) | 7:42 |
 | 47 | [Black Coffee](https://open.spotify.com/track/6zoe2w8ubQOTM7XFGU2tUE) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Profile](https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG) | 4:31 |
-| 48 | [A Handful Of Stars](https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:19 |
-| 49 | [I'm A Fool To Want](https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 5:33 |
-| 50 | [When Sunny Gets Blue](https://open.spotify.com/track/5bYTIjxRYRISkmpS22QqSy) | [Charlie Rouse](https://open.spotify.com/artist/4WjOiUFD5b9kpa8LfdxkvM) | [Yeah!](https://open.spotify.com/album/3rw6xeupXWRAOME9Chqweq) | 5:48 |
+| 48 | [I'm A Fool To Want](https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 5:33 |
+| 49 | [When Sunny Gets Blue](https://open.spotify.com/track/5bYTIjxRYRISkmpS22QqSy) | [Charlie Rouse](https://open.spotify.com/artist/4WjOiUFD5b9kpa8LfdxkvM) | [Yeah!](https://open.spotify.com/album/3rw6xeupXWRAOME9Chqweq) | 5:48 |
+| 50 | [A Handful Of Stars](https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:19 |
 | 51 | [Stella By Starlight](https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:52 |
 | 52 | [Soultrane \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB) | [Tadd Dameron](https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Mating Call \[RVG Remaster\]](https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA) | 5:21 |
 | 53 | [Ernie's Tune](https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 4:16 |

@@ -1,6 +1,6 @@
 {
   "description": "Spotify country fan favorites. Cover: Dierks Bentley",
-  "num_followers": 2218088,
+  "num_followers": 2218125,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-06-29 20:07:20",
       "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 206893,
+      "name": "Merry Go 'Round",
+      "url": "https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh"
+    },
+    {
+      "added_at": "2025-06-29 20:07:20",
+      "album": {
         "name": "Caught Up In The Country",
         "url": "https://open.spotify.com/album/0SeZnTLIuPbHvuuNTJDHLh"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/2BgunkkepMPFpArQj1Dx5s"
-    },
-    {
-      "added_at": "2025-06-29 20:07:20",
-      "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "Merry Go 'Round",
-      "url": "https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh"
     },
     {
       "added_at": "2025-06-29 20:07:20",

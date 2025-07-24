@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,123 likes - 169 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,376 likes - 169 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 168 | [WhirligiG](https://open.spotify.com/track/04DyIqLxOCBoJz6TLniVOc) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Shell Games](https://open.spotify.com/album/1QJkOlBuUBIcs5mE4ePhOo) | 2:39 |
 | 169 | [Me Gusta](https://open.spotify.com/track/2ThRvXmltv1SkilmCu4wr0) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [The Cat's Meow](https://open.spotify.com/album/6S5Saal4XqDxBcTXQd1EoT) | 2:05 |
 
-Snapshot ID: `aFqmYQAAAAATyYl66P0HE3MAxrSztjpL`
+Snapshot ID: `aIFBEQAAAAAIh043QSaEUmbkXFKBbTuo`

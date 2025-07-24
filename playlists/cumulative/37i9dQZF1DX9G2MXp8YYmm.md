@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Anıl Durmuş x Ahmet Hatipoğlu
 
-316 songs - 15 hr 51 min
+317 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Dünya Hevesi](https://open.spotify.com/track/5lH26p9ycFKgsjzmkGFmHp) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Dünya Hevesi](https://open.spotify.com/album/7u9u9vazmcEszj6k1G3TVE) | 3:30 | 2024-06-27 | 2024-07-08 |
 | [Elmas](https://open.spotify.com/track/1AA4IogzY0magQZPq1IgbF) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Elmas](https://open.spotify.com/album/62PySWsXWuEmOp9Hs3JPRq) | 2:52 | 2025-05-08 | 2025-06-06 |
 | [En Gerçeği](https://open.spotify.com/track/2oroizq42YriYCkHhbh83Y) | [Emre Altuğ](https://open.spotify.com/artist/6CtMmrX12kYA3O4kINuWjZ), [Mirkelam](https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0) | [En Gerçeği](https://open.spotify.com/album/3ZyL4YPZzCVWaDXY4ZajV3) | 2:55 | 2025-06-26 | 2025-07-23 |
+| [EPEY ZAMAN GEÇTİ](https://open.spotify.com/track/7rhrsjanrL1wWdkE8Mt9l8) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [EPEY ZAMAN GEÇTİ](https://open.spotify.com/album/4WMkFBgaNQCMveUoQ6WHUv) | 2:40 | 2025-07-17 |  |
 | [Esmer](https://open.spotify.com/track/2QiIcD1oAKlusZ7gPBOPQ8) | [Okan & Volkan](https://open.spotify.com/artist/5U2qYuO4KclXaQTqiGzqUV), [Ahlat](https://open.spotify.com/artist/015PSt8FXZRLBK936dOQUG), [Can Demir](https://open.spotify.com/artist/00UK1NIitQXRyJKMh5tJhV) | [Esmer](https://open.spotify.com/album/4AyoygSAYsKAErO6s6ha67) | 2:02 | 2024-10-10 | 2024-10-13 |
 | [Ey Aşk](https://open.spotify.com/track/5rElOY8KtcQFqlSZ7hgEuC) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 4:07 | 2025-06-26 |  |
 | [Eylül](https://open.spotify.com/track/26Jhjfmce2DvYttkfFdA8s) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Eylül](https://open.spotify.com/album/42LDVOTbeJ1vUJXGGk0vyJ) | 2:54 | 2025-02-20 | 2025-06-20 |
@@ -142,7 +143,7 @@
 | [Gözlerin Silah](https://open.spotify.com/track/3g2CDmjkF0Jbn4a7znSH0F) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Gözlerin Silah](https://open.spotify.com/album/40vrmeBLOD6yG33ADnmumm) | 2:07 | 2024-12-05 | 2025-01-27 |
 | [Gözlerinden Gözlerine](https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Gözlerinden Gözlerine](https://open.spotify.com/album/2FMZfDpMhD6ZCzb1eolrYU) | 2:56 | 2025-01-31 |  |
 | [Güle Güle Anlattım Seni](https://open.spotify.com/track/3cTwNe8huG0WSiwl3NhYsV) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Güle Güle Anlattım Seni](https://open.spotify.com/album/5GtEpsNE9gDVi5pdWPwKtx) | 3:14 | 2024-09-12 | 2024-10-28 |
-| [Gülü Sevdim Dikeni Battı](https://open.spotify.com/track/2I72h0vAqdF0x3GSBs8t2N) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [MELODRAM](https://open.spotify.com/album/0zPAdLw028RRFlspv6SV8H) | 2:20 | 2024-06-27 |  |
+| [Gülü Sevdim Dikeni Battı](https://open.spotify.com/track/2I72h0vAqdF0x3GSBs8t2N) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [MELODRAM](https://open.spotify.com/album/0zPAdLw028RRFlspv6SV8H) | 2:20 | 2024-06-27 | 2025-07-24 |
 | [Hain](https://open.spotify.com/track/7ABENqYsfEzv1KHpnlV3Vj) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Hain](https://open.spotify.com/album/6QQvURc9aYL6RTOEfwF1KD) | 3:21 | 2024-06-27 | 2024-08-04 |
 | [HAİNSİN](https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [HAİNSİN](https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx) | 1:57 | 2025-06-26 |  |
 | [Halim](https://open.spotify.com/track/06mKAmOzCoaBxyvRRr8U6L) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Halim](https://open.spotify.com/album/6tx8KRugMjbWQc7AlcKMXU) | 3:52 | 2025-05-08 | 2025-05-23 |

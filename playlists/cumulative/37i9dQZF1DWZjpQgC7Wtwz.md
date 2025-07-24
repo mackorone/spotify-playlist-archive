@@ -4,7 +4,7 @@
 
 > rolitas perras pa' agarrar cura.
 
-364 songs - 21 hr 2 min
+367 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Aunque no sea conmigo](https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Hijos del pueblo](https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl) | 3:32 | 2021-11-30 | 2024-11-08 |
 | [Ayer Te Pedí](https://open.spotify.com/track/4F7JKx8Fc4HS4EBXnx1Y2n) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Ayer Te Pedí](https://open.spotify.com/album/6GQBDhuC95ZmmNqkQqGRpk) | 3:34 | 2025-05-02 | 2025-06-07 |
 | [Ayer y Hoy](https://open.spotify.com/track/58J23cD4zeeidroDepVhX7) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [15 Éxitos de Siempre Vol\. 5](https://open.spotify.com/album/3QgycjElVQUGvdWWewbHcE) | 2:21 | 2021-11-30 | 2023-01-11 |
+| [Bajo Mil Llaves](https://open.spotify.com/track/5P0DCL3wiAZNKLPXLQPseL) | [Hnos Escobedo](https://open.spotify.com/artist/4XvmETtqty8bAoyh7EEDLn) | [Rompiendo Corazones](https://open.spotify.com/album/5Pko7OXyiltxrVI6AX1yJw) | 2:35 | 2025-07-23 |  |
 | [Barbas Y Botas](https://open.spotify.com/track/1gqus9p1wgFlpAoTcAP7ci) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Barbas Y Botas](https://open.spotify.com/album/4xnyS1V1mrX8F2KejpGU1F) | 3:29 | 2025-03-28 |  |
 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 | 2023-01-10 | 2024-11-08 |
 | [Belleza De Cantina](https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Por Las Damas](https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0) | 3:03 | 2021-11-30 | 2024-11-08 |
@@ -126,6 +127,7 @@
 | [El Que Te Amó](https://open.spotify.com/track/4ewcSHAZ5jL1AEWW8EdquY) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Ley De La Vida](https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F) | 3:04 | 2021-11-30 | 2022-07-27 |
 | [El Ranchero](https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Ranchero](https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn) | 3:55 | 2024-11-07 | 2025-01-16 |
 | [El Rengo Del Gallo Giro](https://open.spotify.com/track/31yKkZ5xrfwE5kPfeAdBkK) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Pisteando En El Rancho](https://open.spotify.com/album/4VeyhffKkQ30n8NroxsEWF) | 4:07 | 2025-01-15 | 2025-05-03 |
+| [El Rey de Mil Coronas](https://open.spotify.com/track/4XAtAGulpEF9bw6D1LsElE) | [Hnos Escobedo](https://open.spotify.com/artist/4XvmETtqty8bAoyh7EEDLn) | [Rompiendo Corazones](https://open.spotify.com/album/5Pko7OXyiltxrVI6AX1yJw) | 3:03 | 2025-07-23 |  |
 | [El Son del Dolor](https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 4:00 | 2021-11-30 | 2024-11-08 |
 | [El Taquicardio](https://open.spotify.com/track/0ZZqH5tN03zxbkuyZo1Gr1) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Narcogobiernos Top 20](https://open.spotify.com/album/1MSwWu1hpONpqF2yE9H780) | 3:00 | 2021-11-30 | 2022-11-19 |
 | [El Vals Del Olvido](https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:29 | 2023-01-10 | 2024-11-08 |
@@ -206,6 +208,7 @@
 | [Manos de Tijera](https://open.spotify.com/track/5ds1Hh3lo4JUF2vflqyayK) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Manos de Tijera](https://open.spotify.com/album/2JdnWfuorkwlQFpiebOzHj) | 3:50 | 2023-11-10 | 2024-04-19 |
 | [Manos de Tijera](https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Manos de Tijera](https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9) | 3:50 | 2023-06-13 | 2023-11-11 |
 | [Marlboro Rojo](https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 3:04 | 2025-06-24 |  |
+| [Me Dediqué a Perderte](https://open.spotify.com/track/69iC3x5dTI289NYIVw6Ven) | [Grupo Anexxado](https://open.spotify.com/artist/5U4SQ3MLlKmphCGAcD1Ls9) | [Me Dediqué a Perderte](https://open.spotify.com/album/6AnEgswzwsejzNWEpNapuH) | 3:47 | 2025-07-23 |  |
 | [Me Dicen Pollito](https://open.spotify.com/track/0urlk3sC8fU001wvwmFVpk) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Me Dicen Pollito](https://open.spotify.com/album/1W6vX4nj4DLuTGcppYujJe) | 4:19 | 2024-11-07 |  |
 | [Me Gusta Tener de a Dos](https://open.spotify.com/track/3cT2AiNvR5CtkBCXqhbB5A) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 2:42 | 2025-01-15 |  |
 | [Me Gustas Mucho](https://open.spotify.com/track/08nmc3UgQC5kBqiqDqk4So) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [XV Recargado](https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd) | 3:09 | 2024-11-07 | 2025-03-08 |
