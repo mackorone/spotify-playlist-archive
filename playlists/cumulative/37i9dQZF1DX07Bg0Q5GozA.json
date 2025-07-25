@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Chet Faker",
+  "description": "New music off the beaten track. Cover: Tame Impala",
   "name": "OFF POP",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 217997,
       "name": "1 DAY 2 LATE",
       "url": "https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G"
+    },
+    {
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "album": {
@@ -4714,7 +4732,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 216727,
       "name": "Die Gondel",
       "url": "https://open.spotify.com/track/65jU76mbVeq9WIfeaTvXuv"
@@ -5430,10 +5448,28 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 206773,
       "name": "Dream Machine",
       "url": "https://open.spotify.com/track/4qmZWX639GLcrQijRgBk9W"
+    },
+    {
+      "album": {
+        "name": "Dream Night",
+        "url": "https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267693,
+      "name": "Dream Night",
+      "url": "https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv"
     },
     {
       "album": {
@@ -5928,6 +5964,24 @@
       "duration_ms": 166112,
       "name": "Eleven Months",
       "url": "https://open.spotify.com/track/1KHQaBn4MPosNqk7TpRHKp"
+    },
+    {
+      "album": {
+        "name": "End Of Summer",
+        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
     },
     {
       "album": {
@@ -9319,6 +9373,32 @@
     },
     {
       "album": {
+        "name": "Some Remixes of Hooked",
+        "url": "https://open.spotify.com/album/3C7anheUQp6Ghz7lbC41oA"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        },
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225500,
+      "name": "Hooked - Joe Goddard Remix",
+      "url": "https://open.spotify.com/track/3saYflaCHSKLsESoFLQZ8T"
+    },
+    {
+      "album": {
         "name": "Hot Evening",
         "url": "https://open.spotify.com/album/7IZ79nalZzDtQhgtCR4Dp1"
       },
@@ -10588,7 +10668,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 225000,
       "name": "In The Nightclub",
       "url": "https://open.spotify.com/track/5NnlfYPuWIdebXXeuEmBn1"
@@ -10668,6 +10748,28 @@
       "duration_ms": 434621,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/02kLWJR4lS4c5kMVEG2WsY"
+    },
+    {
+      "album": {
+        "name": "Interplanetary Affair",
+        "url": "https://open.spotify.com/album/7cNQLA1maPPxtGUzvAeBuA"
+      },
+      "artists": [
+        {
+          "name": "Omri Smadar",
+          "url": "https://open.spotify.com/artist/0qnD30FBRPes7ZFDvsEBAv"
+        },
+        {
+          "name": "Ofer Bymel",
+          "url": "https://open.spotify.com/artist/3ixLn4KKKurwEIohh3mlPt"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Interplanetary Affair",
+      "url": "https://open.spotify.com/track/4gosWl3bnTgRTAtwRfi5Mg"
     },
     {
       "album": {
@@ -11240,6 +11342,24 @@
       "duration_ms": 204899,
       "name": "Just The Once",
       "url": "https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz"
+    },
+    {
+      "album": {
+        "name": "Justify / Catania",
+        "url": "https://open.spotify.com/album/0AaqvRTKWcxOgX6ivK4Xys"
+      },
+      "artists": [
+        {
+          "name": "C.Y.M.",
+          "url": "https://open.spotify.com/artist/2XYuCUX7Ravz8MBo4AkA2G"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287304,
+      "name": "Justify",
+      "url": "https://open.spotify.com/track/0RGyUAFsnfTaiuHk8OW6eD"
     },
     {
       "album": {
@@ -12598,6 +12718,28 @@
       "duration_ms": 224270,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/62zfpf6wMu4nMyPqPAO0L6"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225361,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3fDv3H85PgOOg65JZZP6ki"
     },
     {
       "album": {
@@ -15068,7 +15210,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 220625,
       "name": "No More Tears",
       "url": "https://open.spotify.com/track/1e7gvn8MhPeoLfbC4gHkxV"
@@ -16312,7 +16454,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 230797,
       "name": "Perfectly",
       "url": "https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg"
@@ -16814,6 +16956,28 @@
       "duration_ms": 334625,
       "name": "Rapid Fire",
       "url": "https://open.spotify.com/track/5qSPUKlN8pGdZosV8ILYDU"
+    },
+    {
+      "album": {
+        "name": "Rapture in Blue",
+        "url": "https://open.spotify.com/album/3YDpRt2ZLKsClfoRc4mFRC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253038,
+      "name": "Rapture in Blue",
+      "url": "https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX"
     },
     {
       "album": {
@@ -17658,7 +17822,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 264591,
       "name": "Satellite (feat. Obi Franky)",
       "url": "https://open.spotify.com/track/3G1RtodEV0bvOHjlct2Ein"
@@ -17796,7 +17960,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 256393,
       "name": "Sciall\u00e0",
       "url": "https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78"
@@ -20243,6 +20407,36 @@
     },
     {
       "album": {
+        "name": "Taste On My Lips (feat. Portugal. The Man, Meshell Ndegeocello, Sidibe)",
+        "url": "https://open.spotify.com/album/2d9AXmGQng74PcN8j1ggNV"
+      },
+      "artists": [
+        {
+          "name": "Ya Tseen",
+          "url": "https://open.spotify.com/artist/44MlBczcnULi2g1ECLYSGO"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Sidibe",
+          "url": "https://open.spotify.com/artist/5XWrDs9DhuuC96bXWAS6cj"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197080,
+      "name": "Taste On My Lips (feat. Portugal. The Man, Meshell Ndegeocello, Sidibe)",
+      "url": "https://open.spotify.com/track/3E321h5FvMZ5KvI7uDN9Oz"
+    },
+    {
+      "album": {
         "name": "Teacher",
         "url": "https://open.spotify.com/album/090IwHxNrQckis3foQgJ3C"
       },
@@ -21768,7 +21962,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 186728,
       "name": "Turn Up The Love",
       "url": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
@@ -23222,7 +23416,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 166304,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LJtogguqMPVg0nkW9PFk9"

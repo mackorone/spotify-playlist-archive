@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hThfji1Q6J.md) - [plain]
 
 > 2024年に海外で聴かれた日本の楽曲を総まとめ。Check out the top 50 tracks from Japanese artists, streamed globally in 2024! cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,127 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,124 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

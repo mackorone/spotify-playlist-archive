@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Aimer
 
-778 songs - 2 day 3 hr 28 min
+780 songs - 2 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/track/2VqXiJCKjkEKbI1SChyG4m) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/album/3By2H5WNB4ZpLN5Llmwrr8) | 2:08 | 2023-10-24 | 2024-01-19 |
 | [Cheers!デリシャスパーティ♡プリキュア](https://open.spotify.com/track/2fogdJN46llUQtV4lZ5410) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [デリシャスパーティ♡プリキュア 主題歌シングル 【通常盤】](https://open.spotify.com/album/15JIJms7qoGCJA9iF0jtKY) | 3:48 | 2023-02-07 | 2023-03-08 |
 | [Cherish](https://open.spotify.com/track/1KnpOL0NqjdEBKYayVZEOe) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Cherish](https://open.spotify.com/album/0PDT64aqflb6lyccEUVZEk) | 3:30 | 2022-06-24 | 2022-07-04 |
+| [chuve](https://open.spotify.com/track/0qVuXDsq7xVfQdWvquI3WN) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [chuva](https://open.spotify.com/album/4P58MO8OPoIWTdkBY87p9Z) | 2:42 | 2025-07-24 |  |
 | [Cipher.](https://open.spotify.com/track/2oK2W7Ug1hR4jiWJHaTsdD) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [Cipher](https://open.spotify.com/album/3RdktWru0vjzU1b0epBONw) | 4:42 | 2022-06-21 | 2022-07-28 |
 | [Cipher.](https://open.spotify.com/track/7CYLDpCUxFgawtlri4oT09) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [Cipher](https://open.spotify.com/album/6iRdVAMzvCIlTOU3VghPpo) | 4:42 | 2022-06-12 | 2022-07-20 |
 | [Clear Morning](https://open.spotify.com/track/1d0fFxJjc1r08QqQQjpi69) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Clear Morning](https://open.spotify.com/album/3au1QNUgpjM48lKzx5iG0O) | 4:37 | 2022-06-12 | 2022-07-24 |
@@ -152,6 +153,7 @@
 | [HELLO WORLD](https://open.spotify.com/track/4Fc2uEp6DsKCxWB7day331) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HELLO WORLD](https://open.spotify.com/album/710djdFa2qcgDZvp8UzqLB) | 4:53 | 2024-02-20 | 2024-05-25 |
 | [HELP](https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/2hJ603Bso9KCAAHwQD606w) | 3:47 | 2023-10-03 | 2023-10-18 |
 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 | 2023-10-24 | 2024-01-19 |
+| [her](https://open.spotify.com/track/75ANZAu0Kyh5gjNXMtvVvU) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [her](https://open.spotify.com/album/3GOY8ldMEd2GVYD9vyfAFW) | 3:38 | 2025-07-24 |  |
 | [Hikarakka](https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Hikarakka](https://open.spotify.com/album/5nAEZ6iFcUxS7yFvXfn0Tj) | 3:20 | 2024-01-30 | 2024-02-14 |
 | [hikari no toriru](https://open.spotify.com/track/17kTyDRlOY3gLl1qNCC9B4) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [hikari no toriru](https://open.spotify.com/album/18zrUwavFbepselMuuGsb6) | 3:44 | 2024-01-18 | 2024-02-14 |
 | [Hitorino Yoru \- From CrosSing](https://open.spotify.com/track/4MOSwNhxxovY9ael6QmJ2w) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [Hitorino Yoru \- From CrosSing](https://open.spotify.com/album/6N7xWo1Wl7JxFT4bkcvFiN) | 4:06 | 2024-02-13 | 2024-03-27 |
@@ -605,9 +607,9 @@
 | [僕らが愚かだなんて誰が言った](https://open.spotify.com/track/1iXdAh0ctEUnzfr307V3mB) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [僕らが愚かだなんて誰が言った](https://open.spotify.com/album/7tVIIansxs3RkgIGhrLBZk) | 4:26 | 2022-06-09 | 2022-07-15 |
 | [僕らが愚かだなんて誰が言った](https://open.spotify.com/track/4IdIiPXZ0nzs7fn2RQuKLv) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [僕らが愚かだなんて誰が言った](https://open.spotify.com/album/3e9QtEHcwrweYA2Vtpplf2) | 4:26 | 2022-06-21 | 2022-06-26 |
 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 | 2022-06-09 | 2024-02-14 |
-| [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 | 2023-05-21 |  |
+| [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 | 2023-05-21 | 2025-07-25 |
 | [光るとき](https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [光るとき](https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop) | 5:51 | 2022-06-09 | 2022-07-29 |
-| [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 | 2024-07-19 |  |
+| [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 | 2024-07-19 | 2025-07-25 |
 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 | 2022-06-12 | 2022-09-21 |
 | [制服](https://open.spotify.com/track/17NRaW1lyJdj359L5zk7DL) | [Ayane Sakura](https://open.spotify.com/artist/17uMaak4xTNl5roQnxUVvw) | [VOICE\~声優たちが歌う松田聖子ソング\~ \(Female Edition\)](https://open.spotify.com/album/6fUH571p2INdf32SFdpBQ2) | 3:53 | 2022-07-07 | 2022-07-15 |
 | [去り際のロマンティクス](https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス](https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9) | 4:36 | 2024-04-16 | 2024-07-14 |

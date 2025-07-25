@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Cloud 雲浩影
+> 感受女聲力量。Cover: moon tang
 
-527 songs - 1 day 7 hr 28 min
+530 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [The Bright Side](https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [The Bright Side](https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ) | 4:10 | 2024-06-27 |  |
 | [The Day When We Fall In Love](https://open.spotify.com/track/7C6wqYtVofGYkzyLG9eCbz) | [Sing Sing Rabbit](https://open.spotify.com/artist/4SHdX6y9hMSewXVDSD4kJL), [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [The Day When We Fall In Love](https://open.spotify.com/album/4sM13Rk9bJL6nflJXh9E2c) | 4:20 | 2024-06-27 |  |
 | [The Good Old Days](https://open.spotify.com/track/2P23euWxpV5RE7OzfEpFge) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Trial and Error](https://open.spotify.com/album/0PJ6guMrfzcbROoDiEbmEq) | 4:11 | 2025-07-03 |  |
+| [The Lost Sunglasses](https://open.spotify.com/track/25xshyerJAz3Yled2jWgMl) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7), [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [The Lost Sunglasses](https://open.spotify.com/album/3zU4SsMrLMecHovTdD5Gfm) | 3:51 | 2025-07-24 |  |
 | [Think I'm In Love](https://open.spotify.com/track/4Ip4uvrIqnxGM8RB9rsCrt) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Think I'm In Love](https://open.spotify.com/album/5lfI2lfNkgMpCpfSxsNdje) | 2:21 | 2024-06-27 |  |
 | [Thru The Night](https://open.spotify.com/track/01o9SSY2joYrYCmOFRVfkm) | [Jolie Chan](https://open.spotify.com/artist/1TrGh5nVp4DgmfbIcezkPQ) | [Thru The Night](https://open.spotify.com/album/5IXZoEOyI8kxsfeRWkqfJp) | 2:38 | 2024-06-27 |  |
 | [To be continued](https://open.spotify.com/track/3PFwHgVhnT3TxGnjCr8mYv) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [premiere](https://open.spotify.com/album/5gOWqjfQsYNXSSkxooHfwu) | 3:23 | 2024-06-27 |  |
@@ -191,6 +192,7 @@
 | [一個人行街](https://open.spotify.com/track/2KzcB6TDErJlVTrVnqSBb6) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [自游生物](https://open.spotify.com/album/3KaebcGpZuDfN7WGVqXGFy) | 3:17 | 2024-08-29 |  |
 | [一個人走走（電影《1人婚禮》原創主題曲）](https://open.spotify.com/track/5BwzJ7QTFD6z0i91ORbdsR) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [一個人走走（電影《1人婚禮》原創主題曲）](https://open.spotify.com/album/1isihOJr9Ilh7kmT1hXBgG) | 3:30 | 2024-06-27 |  |
 | [一個傻瓜一個啞 \- Moment remix](https://open.spotify.com/track/2VvyUlfarVDRCNACd8U6EI) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [一個傻瓜一個啞 \(Moment remix\)](https://open.spotify.com/album/5SDjzln631SF2J26vBiYzq) | 3:33 | 2024-06-27 |  |
+| [一口一](https://open.spotify.com/track/1h6tZ0VO1KvyldahaKgYUD) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [一口一](https://open.spotify.com/album/3iv495ecbGF4eSA8CAjNPU) | 3:13 | 2025-07-24 |  |
 | [一圈](https://open.spotify.com/track/24WSKHUGL4Doq6Txbdo1fD) | [Elanne Kong](https://open.spotify.com/artist/4c13SqfZoqbvlFk0UeUIuR) | [一圈](https://open.spotify.com/album/6ZA5Q3c1CoYnJbhAj5C0l3) | 3:48 | 2024-11-28 |  |
 | [一念天堂，二人結界](https://open.spotify.com/track/6HTkrptDYm8zNAfvM0W9aI) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [一念天堂，二人結界](https://open.spotify.com/album/1YqyKe6cqbf2FIzy01Reay) | 4:05 | 2024-07-11 |  |
 | [一手造成](https://open.spotify.com/track/7D0xhG1kyWghQgAbtHXoN4) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [一手造成](https://open.spotify.com/album/3B822JL4gtdMgJVXqdz40o) | 3:38 | 2024-06-27 |  |
@@ -455,6 +457,7 @@
 | [白夜行](https://open.spotify.com/track/1zBbE6deJPlPmZ1A0hCUvV) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [白夜行](https://open.spotify.com/album/7xma6rcCZa9zjp98JKkthT) | 4:09 | 2025-05-01 |  |
 | [白夜行 \- 極夜版](https://open.spotify.com/track/1EOT8dg6JWsphiHgoVTDpk) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [白夜行 \(極夜版\)](https://open.spotify.com/album/1HxprN7zFU5MEqoG1eZTPZ) | 3:41 | 2025-06-27 |  |
 | [白月光](https://open.spotify.com/track/7wreJjj0j7KDurrYbeThHt) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [白月光](https://open.spotify.com/album/4Um2qJEhmwaFWnaS9GGiXK) | 3:45 | 2025-02-20 |  |
+| [白牆](https://open.spotify.com/track/15X9Sr4at9PRBqwsrMxQwt) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [白牆](https://open.spotify.com/album/5cnlQucFJhK9qlwziau55d) | 3:41 | 2025-07-24 |  |
 | [白金卡公主](https://open.spotify.com/track/12tq3AJtqWB8OcdANiG8CN) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [白金卡公主](https://open.spotify.com/album/7qmZp4TkhCLVF3vD6xl1d8) | 4:11 | 2025-01-02 |  |
 | [白髮齊眉](https://open.spotify.com/track/6qTqCB50JejUbmv2HFTVUP) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [白髮齊眉](https://open.spotify.com/album/12ZDGifLDgCZLEzGRBbdfQ) | 3:39 | 2024-06-27 |  |
 | [百妖夜行的修行](https://open.spotify.com/track/7nhmSdSknuP2OB1fnGdREj) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [百妖夜行的修行](https://open.spotify.com/album/0UjpB9oCfLW0UArVf2h3Jv) | 2:59 | 2024-06-27 |  |

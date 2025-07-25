@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 623759,
+  "num_followers": 623852,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-07-04 11:56:24",
       "album": {
-        "name": "Te Mentir\u00eda",
-        "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 218431,
-      "name": "Te Mentir\u00eda",
-      "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
-    },
-    {
-      "added_at": "2025-07-04 11:56:24",
-      "album": {
         "name": "La Lata",
         "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 215666,
       "name": "La Lata",
       "url": "https://open.spotify.com/track/6vuVjYLw5uW8dOFitAtMzc"
+    },
+    {
+      "added_at": "2025-07-04 11:56:24",
+      "album": {
+        "name": "Te Mentir\u00eda",
+        "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 218431,
+      "name": "Te Mentir\u00eda",
+      "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
     },
     {
       "added_at": "2025-07-04 11:56:24",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2025-07-04 11:56:24",
       "album": {
+        "name": "Sencillo",
+        "url": "https://open.spotify.com/album/1LrZFbEAykwB4amfxagu6u"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "Kekelandia",
+          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+        }
+      ],
+      "duration_ms": 230243,
+      "name": "El Amor Se Fue",
+      "url": "https://open.spotify.com/track/4gL6hu70wpAspYTkhcPs0B"
+    },
+    {
+      "added_at": "2025-07-04 11:56:24",
+      "album": {
         "name": "El Maestro",
         "url": "https://open.spotify.com/album/4gSWFSdQ5JnM0PCBlNvNiI"
       },
@@ -1419,22 +1439,6 @@
       "duration_ms": 217986,
       "name": "Hoy Te Vi",
       "url": "https://open.spotify.com/track/5AGrNSSyacwJQXp62xYOh0"
-    },
-    {
-      "added_at": "2025-07-04 11:56:24",
-      "album": {
-        "name": "M\u00e1s Duros Que Nunca",
-        "url": "https://open.spotify.com/album/2TWHx7wSbzKYlygApoBK8C"
-      },
-      "artists": [
-        {
-          "name": "Flor De Piedra",
-          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "La Jarra Loca",
-      "url": "https://open.spotify.com/track/32bLxXrec8cj3Y7U3SHwGV"
     },
     {
       "added_at": "2025-07-04 11:56:24",
@@ -1471,22 +1475,18 @@
     {
       "added_at": "2025-07-04 11:56:24",
       "album": {
-        "name": "Sencillo",
-        "url": "https://open.spotify.com/album/1LrZFbEAykwB4amfxagu6u"
+        "name": "M\u00e1s Duros Que Nunca",
+        "url": "https://open.spotify.com/album/2TWHx7wSbzKYlygApoBK8C"
       },
       "artists": [
         {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        },
-        {
-          "name": "Kekelandia",
-          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+          "name": "Flor De Piedra",
+          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
         }
       ],
-      "duration_ms": 230243,
-      "name": "El Amor Se Fue",
-      "url": "https://open.spotify.com/track/4gL6hu70wpAspYTkhcPs0B"
+      "duration_ms": 238933,
+      "name": "La Jarra Loca",
+      "url": "https://open.spotify.com/track/32bLxXrec8cj3Y7U3SHwGV"
     },
     {
       "added_at": "2025-07-04 11:56:24",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2025-07-04 11:56:24",
       "album": {
+        "name": "El Bombazo",
+        "url": "https://open.spotify.com/album/6g4bKWae6itYgu4gysKLH2"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 269635,
+      "name": "Yo Soy Tu Maestro",
+      "url": "https://open.spotify.com/track/6iUzbEwZnm9NuXdWvuoNem"
+    },
+    {
+      "added_at": "2025-07-04 11:56:24",
+      "album": {
         "name": "Cumbia Callejera",
         "url": "https://open.spotify.com/album/0SA9ksH5xCYE71t8GAN47S"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 179213,
       "name": "Corazon Mentiroso",
       "url": "https://open.spotify.com/track/12vjZJEWFst8vhW4k9saOv"
-    },
-    {
-      "added_at": "2025-07-04 11:56:24",
-      "album": {
-        "name": "El Bombazo",
-        "url": "https://open.spotify.com/album/6g4bKWae6itYgu4gysKLH2"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 269635,
-      "name": "Yo Soy Tu Maestro",
-      "url": "https://open.spotify.com/track/6iUzbEwZnm9NuXdWvuoNem"
     },
     {
       "added_at": "2025-07-04 11:56:24",

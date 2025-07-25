@@ -4273,6 +4273,28 @@
     },
     {
       "album": {
+        "name": "Jiya (Acoustic)",
+        "url": "https://open.spotify.com/album/5XbDHv87fUXMPIkQPh0Jaf"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        },
+        {
+          "name": "UNPLG'd",
+          "url": "https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64807,
+      "name": "Jiya - Acoustic",
+      "url": "https://open.spotify.com/track/2k66hTa45HXKxvw0nkdImV"
+    },
+    {
+      "album": {
         "name": "Jo Tum Mere Ho",
         "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
       },
@@ -10450,7 +10472,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 196159,
       "name": "Tu Jo Mere Sath Hai",
       "url": "https://open.spotify.com/track/2tNKVkeaaRIBRGgVeAL1o3"

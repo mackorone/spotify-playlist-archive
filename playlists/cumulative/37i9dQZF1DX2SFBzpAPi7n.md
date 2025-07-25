@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Slica Gel\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 10CM\) \(핫한 국내 록 음악을 만나보세요!\)
 
-994 songs - 2 day 12 hr 42 min
+997 songs - 2 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [4DL \(four\-dimensional love\)](https://open.spotify.com/track/6uTb0yiIbiGd2G5lTMyO0f) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [Youth Heritage](https://open.spotify.com/album/0lJnKh8v5DHkeRxpuCV3si) | 4:04 | 2024-05-08 | 2024-05-10 |
 | [5 in the morning](https://open.spotify.com/track/4YQN70aa8969if12I9dKDb) | [WOO JEE WON](https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU) | [Just Dream](https://open.spotify.com/album/6MgV3YkvyVKip90eLKZGuN) | 3:35 | 2022-04-22 | 2022-07-27 |
 | [52](https://open.spotify.com/track/0BjtnuipCRCiS02Doe9Auk) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [52](https://open.spotify.com/album/6Hd1Syeatbj9KJXaKTevEN) | 3:36 | 2024-05-08 | 2024-05-10 |
-| [60's Cardin](https://open.spotify.com/track/74RpcwQKmIFSXrzmV6aiYk) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Selected Reworks](https://open.spotify.com/album/4nHzgkr2avqn7YrZbNlkTO) | 3:19 | 2025-07-07 |  |
+| [60's Cardin](https://open.spotify.com/track/74RpcwQKmIFSXrzmV6aiYk) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Selected Reworks](https://open.spotify.com/album/4nHzgkr2avqn7YrZbNlkTO) | 3:19 | 2025-07-07 | 2025-07-25 |
 | [60sec](https://open.spotify.com/track/4OPYyb5mY1DaxbyuXWgXP9) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [Another me](https://open.spotify.com/album/5ULESZIxi0eg7lxQzegvfW) | 3:36 | 2022-04-22 | 2022-07-28 |
 | [707](https://open.spotify.com/track/0SeiziAZgaLJKssu9KYBwC) | [MASO](https://open.spotify.com/artist/5vptj2RdDGFCtqgFfXxgkN) | [707](https://open.spotify.com/album/0yrBK6D5Hs6Jx5MmuEXnz4) | 4:02 | 2024-03-21 | 2024-05-10 |
 | [A DAY \(Feat\. NO:EL\)](https://open.spotify.com/track/47LSp3DyU9PWj7po4ahooz) | [Youngcode](https://open.spotify.com/artist/1tLbXwuFI3FO4TXlVZm5xi), [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV) | [A DAY \(Feat\. NO:EL\)](https://open.spotify.com/album/6DLRPaltNA06Wda74t6huC) | 3:06 | 2024-12-13 | 2025-02-19 |
@@ -134,7 +134,7 @@
 | [Caffeine](https://open.spotify.com/track/1iPyLLD8wEtuQAUrsZ6srD) | [Kim Bada](https://open.spotify.com/artist/5OBvrcugjadLmcYy3ecTXW), [Lanalogue](https://open.spotify.com/artist/0MwiBH4jzg2Ls1cX9LQQzQ) | [BXXL](https://open.spotify.com/album/34UeGS3N096dSc9s3opkVM) | 2:45 | 2022-05-03 | 2022-05-12 |
 | [Call me back](https://open.spotify.com/track/7aDdUvESR5RyNx3W7VL7cK) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Call me back](https://open.spotify.com/album/1kxisGHg83NRPqjf5c6OT8) | 3:23 | 2023-10-11 | 2023-10-17 |
 | [Camelia](https://open.spotify.com/track/7osu6K184SiV1Hve4Lp0KK) | [OmO](https://open.spotify.com/artist/0qd4ZITXi1pNRIuhUst0h7) | [Camelia](https://open.spotify.com/album/6m1RjLrIM0P3z7SToNL32D) | 4:00 | 2024-12-18 | 2025-02-19 |
-| [Can I Be Me?](https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Can I Be Me?](https://open.spotify.com/album/7wnXIsAJu06lWAWRrTziIq) | 3:08 | 2025-07-07 |  |
+| [Can I Be Me?](https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Can I Be Me?](https://open.spotify.com/album/7wnXIsAJu06lWAWRrTziIq) | 3:08 | 2025-07-07 | 2025-07-25 |
 | [CAN'T KEEP SMILING!](https://open.spotify.com/track/6ZPIZDuCF5qcVZIcKgifRN) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [CAN'T KEEP SMILING!](https://open.spotify.com/album/1kkbJxIuCkl14Pd43HCKUQ) | 3:14 | 2025-03-31 | 2025-04-23 |
 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 | 2022-10-07 | 2022-12-13 |
 | [cares](https://open.spotify.com/track/0JSRc0gSUIsXzo4xHe9BUo) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [cares](https://open.spotify.com/album/49jzDG0UlTvh46TVAYZ3cJ) | 4:34 | 2025-03-17 | 2025-04-12 |
@@ -273,6 +273,7 @@
 | [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 | 2024-06-05 | 2024-11-07 |
 | [Fly!](https://open.spotify.com/track/2q4Y6cC3bv8UoXjVZEArgo) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Fly!](https://open.spotify.com/album/6H7O2x05Dg5toCVrSBJST4) | 2:58 | 2022-08-01 | 2022-08-13 |
 | [Folks](https://open.spotify.com/track/2ZBamz4ysAIPWEyILbIt0I) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Put Up a Fight](https://open.spotify.com/album/3drwQJIp5YRtjFIIPishWG) | 3:21 | 2023-03-24 | 2023-05-02 |
+| [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/track/7opKvhH1FUiDCmkMSREqwr) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/album/7z9DTlk05LOOhdU9jQKZUg) | 4:20 | 2025-07-24 |  |
 | [Footsteps](https://open.spotify.com/track/5nqhxQ7tib6VYjiXAw9pyq) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [CLOVER Part 1.5](https://open.spotify.com/album/2EA3CQpxbUQPgnlhuiyrsa) | 2:56 | 2024-11-06 | 2024-12-03 |
 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 | 2022-04-21 |  |
 | [For Pure Pleasure Only](https://open.spotify.com/track/7m4RetwzZtQICsuQyDRJE6) | [Captainrock](https://open.spotify.com/artist/4iAzTuQOAgDedLVgZcssvm) | [For Pure Pleasure Only](https://open.spotify.com/album/13swBIvuORDemR4ZpYE7xO) | 2:42 | 2022-05-03 | 2022-05-07 |
@@ -287,6 +288,7 @@
 | [Fuck Your Neighbor \(FYN\)](https://open.spotify.com/track/6IxBnLGaM1bykNV9g2OxC3) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Fuck Your Neighbor \(FYN\)](https://open.spotify.com/album/448X9wJCby4Sqdb6fxlH3d) | 3:09 | 2025-04-08 | 2025-05-08 |
 | [Fuckers Are Everywhere](https://open.spotify.com/track/6UgjTJdHdoMT5hOr9nF10G) | [Deadbuttons](https://open.spotify.com/artist/1QOnYPjbIcHGpBetj5Szfb) | [Fuckers Are Everywhere](https://open.spotify.com/album/1fPsgAQLSulmieALAGythC) | 2:55 | 2022-05-03 | 2022-07-14 |
 | [FULL MOON \(with NAM WOO HYUN\)](https://open.spotify.com/track/26gNGFadZKRyaYCbsORUE5) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7), [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [FULL MOON \(with NAM WOO HYUN\)](https://open.spotify.com/album/60cdyydHGHG8cj8HTfU4xX) | 4:13 | 2025-02-10 | 2025-03-18 |
+| [G](https://open.spotify.com/track/3TUGNTzbR6hKz5nRzk6lpb) | [LEON](https://open.spotify.com/artist/5uq0Z8ElRQOlg2Yavs3lVd) | [G](https://open.spotify.com/album/5zVFpfpcsqVaOoGOekpLVX) | 2:56 | 2025-07-24 |  |
 | [Gaia](https://open.spotify.com/track/4y7WDTY7z2GBAhSNkCbHH2) | [BØJEONG](https://open.spotify.com/artist/16kfFwTVflpU672fr6Z1cA) | [kin](https://open.spotify.com/album/6wFw220zFDwivl2i8sONE5) | 3:55 | 2024-11-06 | 2024-12-03 |
 | [GANGGANGSULLAE](https://open.spotify.com/track/3Vmlbu7l4vhZfpXZ8d10ad) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [GANGGANGSULLAE](https://open.spotify.com/album/0Kbpx8QDYQIEzzA05MlsCZ) | 3:26 | 2024-04-09 | 2024-05-10 |
 | [Gasoline](https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Gasoline](https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP) | 3:19 | 2024-06-28 | 2024-08-13 |
@@ -506,6 +508,7 @@
 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 | 2024-05-09 | 2024-11-07 |
 | [Love, Spark, Kiss](https://open.spotify.com/track/3gEEX6hcU6Qm2VU0TieZFV) | [SSunder](https://open.spotify.com/artist/1J32y4hGK3ovIslMNGuKDR) | [Love, Spark, Kiss](https://open.spotify.com/album/5UopY0OnaSKW3Cis5BJxQM) | 3:22 | 2022-06-03 | 2022-07-19 |
 | [love.](https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:07 | 2025-03-17 |  |
+| [Loveholic](https://open.spotify.com/track/59yfe3OxXQa1RTKevBDTom) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Loveholic \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/0gMNvUD5nQvc7P4EUeokvu) | 3:35 | 2025-07-24 |  |
 | [Loveholic](https://open.spotify.com/track/2GmT097bJZk0ivdoIQs6DP) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Loveholic](https://open.spotify.com/album/0jylr6oqOhisVaRo07bJGA) | 3:39 | 2025-04-30 | 2025-05-15 |
 | [Lovender](https://open.spotify.com/track/1HPdA41RCEcADEwiwjLic2) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [The 1st Mini Album 'Lovender'](https://open.spotify.com/album/646nLsVkP1hqVp24mYyg53) | 3:20 | 2022-04-22 | 2022-07-29 |
 | [Lovers](https://open.spotify.com/track/2CXhXraeRr7EzV6GCBZBy6) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 4:40 | 2022-04-22 | 2022-07-24 |
@@ -536,7 +539,7 @@
 | [Monday Blues](https://open.spotify.com/track/3O74E8ISHqNjv8WUp52hlY) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [mYmY](https://open.spotify.com/album/73UpAwWuOaZPUqnsfYOO29) | 3:15 | 2024-03-21 | 2024-05-10 |
 | [Money](https://open.spotify.com/track/5QQoeh536jsmB0ziQsLGni) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Money \(Payback X Jung Dong Ha\)](https://open.spotify.com/album/6yyYl76bm43CSnDUejJwCu) | 3:11 | 2023-01-26 | 2023-02-15 |
 | [Monoamory](https://open.spotify.com/track/43DcjLAWHodB5pyzfJfEAA) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [Saya](https://open.spotify.com/album/7MRJH6oHeOvJqEH4WKWDkU) | 3:41 | 2025-02-05 | 2025-03-18 |
-| [Monsoon](https://open.spotify.com/track/3uOyTMOS8K2h8cyUO7jZfH) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Monsoon](https://open.spotify.com/album/0GSUns1MLEoUyxiiD0WFWY) | 3:49 | 2025-07-03 |  |
+| [Monsoon](https://open.spotify.com/track/3uOyTMOS8K2h8cyUO7jZfH) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Monsoon](https://open.spotify.com/album/0GSUns1MLEoUyxiiD0WFWY) | 3:49 | 2025-07-03 | 2025-07-25 |
 | [Moon Shower](https://open.spotify.com/track/263KmXuzo15UKctN8kwmR7) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Moon Shower](https://open.spotify.com/album/07TNiIlsk9H6WJ2KPl1Zv4) | 3:23 | 2023-11-03 | 2023-11-10 |
 | [Moonshot](https://open.spotify.com/track/17wECh3CzqeHm48pqm544P) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Man on the Moon](https://open.spotify.com/album/3sdVDRppHe8ygY7b1NgW7T) | 3:00 | 2022-04-12 | 2025-04-12 |
 | [More](https://open.spotify.com/track/5JUMzqH6U6oO6yKXa0rLZg) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [More](https://open.spotify.com/album/1zvUzhuA4hLQpnl5SL02Sv) | 4:36 | 2022-05-02 | 2022-07-05 |

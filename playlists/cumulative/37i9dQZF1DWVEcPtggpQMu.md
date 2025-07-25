@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap\. <br/>Cover: Tony Dayimane
+> Only the hottest South African rap\. <br/>Cover: DJ Speedsta
 
-1,010 songs - 2 day 5 hr 36 min
+1,012 songs - 2 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [Mad Maxx](https://open.spotify.com/track/0TQqgqL1QQp5lPeNAt2iux) | [jaykatana](https://open.spotify.com/artist/0LTpOj4R3IrWZAkwKqHqLj) | [MAD MAX](https://open.spotify.com/album/78w5UK7oEnwon8ObFmicAW) | 1:03 | 2025-05-01 |  |
 | [made it out \(feat\. A\-Reece\)](https://open.spotify.com/track/6YFCllvSJMVTkXxcU71Eb1) | [BELO SALO](https://open.spotify.com/artist/2up6sbDDhWGQN8lZqjTQdu), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [CHOZEN REJECTboi](https://open.spotify.com/album/0zchz5uDvRphDtLMQfEtpz) | 4:08 | 2023-07-14 | 2023-10-21 |
 | [Madimetja](https://open.spotify.com/track/1sj4nGpBYcaHxealG6Gw6l) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Madimetja](https://open.spotify.com/album/3GRpF93aTLo1vjVAuXFRDz) | 2:31 | 2024-11-28 | 2025-06-20 |
+| [Madimona \(feat\. Allicaltune Drum Roll\)](https://open.spotify.com/track/4J5ORCnrj5jDsBjwM7ijWC) | [Ntate Lesiba](https://open.spotify.com/artist/6dOhvtaOSosUpTmqqVgncm), [Allicaltune Drum Roll](https://open.spotify.com/artist/2DDxFFfEIhPigJDgWE33HS) | [Madimona \(feat\. Allicaltune Drum Roll\)](https://open.spotify.com/album/1qrFLASkLBghSGtVD2B1nR) | 2:59 | 2025-07-24 |  |
 | [MAHLANYENG](https://open.spotify.com/track/6IrlR6uViIIngnZz2PuPgs) | [Chad Da Don](https://open.spotify.com/artist/1RB5sQBUeyxeWQefDmdW3k) | [MAHLANYENG](https://open.spotify.com/album/7weilHsGU9tHfp6LXRkAbs) | 2:34 | 2022-03-17 | 2022-03-25 |
 | [Majabajaba](https://open.spotify.com/track/1JAK0Db556nfNnElO85yvo) | [Stino Le Thwenny](https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m), [Caask Asid](https://open.spotify.com/artist/1mfp5cTzPUaPI2BqCOAkSl) | [Majabajaba](https://open.spotify.com/album/2QHGsGrmwcwQMpvfWlvRdo) | 2:37 | 2024-03-15 | 2024-08-02 |
 | [MAJITA \- Original](https://open.spotify.com/track/61IaDelkfu4zA5dZ8Ide1j) | [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr), [pH Raw X](https://open.spotify.com/artist/4WNN0ElS0Ob6WmiMhS8zBd) | [MAJITA \(Original\)](https://open.spotify.com/album/7JroFrNvwMfsCVo7pmGfsU) | 3:44 | 2023-10-13 | 2024-04-05 |
@@ -748,6 +749,7 @@
 | [SHEIN CART](https://open.spotify.com/track/5R6MkBRdft42dviKDaOatn) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA) | [SHEIN CART](https://open.spotify.com/album/0cn3g9n6qHTBOIaHhtqSZP) | 2:35 | 2024-03-01 | 2024-07-27 |
 | [Sheleni](https://open.spotify.com/track/6K12OWZuNTJukzYjqvkSvD) | [Grixxly](https://open.spotify.com/artist/0xiB1aRWUlJi2H2ZPRxur4), [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C), [Lyrikal Busta](https://open.spotify.com/artist/3o4H51gfvSTJPmhJzewhEw) | [Bear With Me](https://open.spotify.com/album/4aUeJt0ZuMswU54lOJYvGp) | 3:08 | 2025-03-13 |  |
 | [Sheleni](https://open.spotify.com/track/5unHwPs6DwF8rQ1SsazWxs) | [H2O](https://open.spotify.com/artist/3HzZZ331FYGzg4OVS8mgXN) | [Sheleni](https://open.spotify.com/album/6cabRdQHa5FBZwfY1KQZRM) | 3:53 | 2023-01-30 | 2023-02-02 |
+| [SHiNDiNi](https://open.spotify.com/track/2Dp5uF9E95WO3wEBPE000w) | [DJ Speedsta](https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Ney The Bae](https://open.spotify.com/artist/2ejPIS2ocEAjCNhqkEtblo), [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D) | [120 Ocean View Dr.](https://open.spotify.com/album/49wwnX13DEX96uMBBjdn4P) | 3:14 | 2025-07-24 |  |
 | [Shine](https://open.spotify.com/track/5WgiKqflsGLMmer3fYuoEv) | [TSA](https://open.spotify.com/artist/1cdNOdTk0arWa6psF0uopT) | [Shine](https://open.spotify.com/album/6syDmeiWP84KKFvpZ18red) | 2:50 | 2022-02-17 | 2022-03-25 |
 | [SHiRU'S iNTERLUDE](https://open.spotify.com/track/2Fvx7f8fCXxUXS6PiOGivY) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SHiRU'S iNTERLUDE](https://open.spotify.com/album/2SUW9vWQqnhDFUO5kxkhU3) | 2:15 | 2023-11-09 | 2023-11-11 |
 | [Shiselwa](https://open.spotify.com/track/0zyYN9NjBcS5hAXkMVon8Y) | [Stino Le Thwenny](https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m) | [Shiselwa](https://open.spotify.com/album/5ihWXC8zIBCMPY9RcIIvsX) | 3:03 | 2023-05-26 | 2023-06-19 |

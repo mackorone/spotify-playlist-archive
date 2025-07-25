@@ -4,7 +4,7 @@
 
 > Solo artistas independientes, actualizada todos los miércoles. ¡Celebramos 10 años de Fresh Finds con Elem!
 
-7,484 songs - 15 day 20 hr 34 min
+7,485 songs - 15 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1539,6 +1539,7 @@
 | [Cruz y Sed](https://open.spotify.com/track/6pXDM2hIRST00HzhiZ92UD) | [Los Acebos](https://open.spotify.com/artist/5XHVcSAgMdrDfxw4WwsZB0) | [Cruz y Sed](https://open.spotify.com/album/4ctZfa5GYo1hHwznerseaq) | 3:03 | 2024-10-15 | 2024-10-23 |
 | [Cruzaré Todos los Límites](https://open.spotify.com/track/6DUL1GcLnmqbeHVnkXKjik) | [Victoria Lerma](https://open.spotify.com/artist/0k6LayErsqG0p2pgWUmBsF) | [Cruzaré Todos los Límites](https://open.spotify.com/album/276jwEKO3iyJMHG4GWUdPa) | 3:59 | 2022-03-08 | 2022-03-16 |
 | [CRUÏLLA](https://open.spotify.com/track/7Av75Sqf4e00OnMLk2Kz5y) | [Salvatge Cor](https://open.spotify.com/artist/7hDw0AROOXmgMncAfcfgJi) | [CRUÏLLA](https://open.spotify.com/album/17DYH2Nt5mOUZsxjX9PI0A) | 1:52 | 2022-03-08 | 2022-03-23 |
+| [Crève\-cœur](https://open.spotify.com/track/379zAWfgUgOhcBGcfrFrs5) | [Nevver](https://open.spotify.com/artist/5G3lfgfMQhRVTXQwbXvzrW) | [Crève\-cœur](https://open.spotify.com/album/6gAuQx5AxjkLfV38adkAIF) | 4:26 | 2025-07-22 |  |
 | [Crío Cuervos](https://open.spotify.com/track/1t7BihSMV0dlAlP259WKiW) | [Tucci](https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW) | [Crío Cuervos](https://open.spotify.com/album/17GaCOxc4k6GZjvUj0HEld) | 3:58 | 2024-08-13 | 2024-08-21 |
 | [Críptidos](https://open.spotify.com/track/63YR4aMyOXTYfuREmTfv6U) | [marss](https://open.spotify.com/artist/42fqHnPBt8mzcTqHVBq6gX) | [Críptidos](https://open.spotify.com/album/2dTVeALIaOOplcm5R50KOz) | 3:38 | 2022-11-01 | 2022-11-16 |
 | [Cualquier Día Vamos de Entierro](https://open.spotify.com/track/4awKATOpPS9YmTlTfHbGJz) | [Domingo Sobrio](https://open.spotify.com/artist/7pDg7g66mmwtkwpgoJia5H) | [Cualquier Día Vamos de Entierro](https://open.spotify.com/album/4L4YaoReC7U0BSrBQz8yaY) | 3:23 | 2023-09-26 | 2023-10-04 |

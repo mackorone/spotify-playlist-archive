@@ -8315,6 +8315,24 @@
     },
     {
       "album": {
+        "name": "growing still",
+        "url": "https://open.spotify.com/album/02d2LqrUcKC1H2KxCE9Vjx"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166578,
+      "name": "growing still",
+      "url": "https://open.spotify.com/track/3RSxBajUUnUfHPZbriPzWT"
+    },
+    {
+      "album": {
         "name": "gum base",
         "url": "https://open.spotify.com/album/5CobBoECqB5ZMi2RXLnJDQ"
       },
@@ -9106,7 +9124,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 90352,
       "name": "Hope",
       "url": "https://open.spotify.com/track/440V3Kb6STWjXVYkGiph2d"

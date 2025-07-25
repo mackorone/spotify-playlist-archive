@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 478386,
+  "num_followers": 478465,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH7UgAAAAADLQipeAOW8rAM+cNWzF9GB",
+  "snapshot_id": "aIAmAAAAAACCma8/RaiH1vauWTzHCNCT",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "God Of Thunder",
-      "url": "https://open.spotify.com/track/2CJ9wTckMqRjjVVSLTs8QZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psycho Circus",
         "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 330360,
       "name": "Psycho Circus",
       "url": "https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 253840,
+      "name": "God Of Thunder",
+      "url": "https://open.spotify.com/track/2CJ9wTckMqRjjVVSLTs8QZ"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lick It Up",
-        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 274573,
-      "name": "All Hell's Breakin' Loose",
-      "url": "https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crazy Nights",
         "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
       },
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+        "name": "Lick It Up",
+        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 202266,
-      "name": "100,000 Years",
-      "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
+      "duration_ms": 274573,
+      "name": "All Hell's Breakin' Loose",
+      "url": "https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 211800,
       "name": "Hotter Than Hell",
       "url": "https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "100,000 Years",
+      "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
     },
     {
       "added_at": null,

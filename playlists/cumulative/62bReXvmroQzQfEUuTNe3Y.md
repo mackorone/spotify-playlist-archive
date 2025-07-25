@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to for Summer 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-478 songs - 1 day 2 hr 48 min
+479 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Maybe Monday](https://open.spotify.com/track/2ioYTBWUsmd4IvPaTBMr77) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Maybe Monday](https://open.spotify.com/album/3nMnvRbwi4JPencnu4f32D) | 5:25 | 2020-09-13\* | 2021-03-06 |
 | [Mean to Me](https://open.spotify.com/track/4b3DcCqrtubEnebf4lV7JD) | [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Mean to Me](https://open.spotify.com/album/4vHkc4ynf5dGAk8HBWPp7q) | 3:34 | 2021-04-16 |  |
 | [Melt](https://open.spotify.com/track/4YXJZWRPQbrlA84IrQ7p07) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Blasé Boys Club \(Pt\. 1\)](https://open.spotify.com/album/270fFgaAL8AL1mmGK1bld7) | 4:37 | 2023-04-21 |  |
+| [Mess Around \(Baby Baby\)](https://open.spotify.com/track/1Jht2fusiIuJo0KRvjUizH) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Jaquet](https://open.spotify.com/artist/36lN5NolUGQxNHcICDgOTu) | [Mess Around \(Baby Baby\)](https://open.spotify.com/album/62tdT74i7bORfGcsCrGlBY) | 3:41 | 2025-07-24 |  |
 | [Miss You](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Miss You](https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951) | 3:14 | 2023-01-13 |  |
 | [Missing You](https://open.spotify.com/track/4EeeRPXUAUQHkBxu3g1LxT) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Missing You](https://open.spotify.com/album/0xgsaF0tKFiACQO7xr86Vd) | 3:27 | 2021-10-16 | 2021-12-04 |
 | [Missing You](https://open.spotify.com/track/6KSo1lI5GUtlvksaDWM7ZO) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Missing You](https://open.spotify.com/album/71EAlAtXWnvR0bFAZE2Lv2) | 3:27 | 2020-09-13\* | 2021-08-14 |

@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 200620,
       "name": "Birds song forest rain",
       "url": "https://open.spotify.com/track/0NNomsoZvS34EyTZ8ph1xz"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 134304,
       "name": "Countryside Rain",
       "url": "https://open.spotify.com/track/1q0zoEZMN5aMwMSZgW5eBA"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 219154,
       "name": "Cozy Rain",
       "url": "https://open.spotify.com/track/2BnN6W7mZ2vcMnXb7jCmPM"
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 200505,
       "name": "Hard Rain 3",
       "url": "https://open.spotify.com/track/2nqyQEWwRitXReoUdODWzl"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 260735,
       "name": "Light Rain on Wooden Sun Deck",
       "url": "https://open.spotify.com/track/4gAOFrxqx8hoI3SyaHpbcD"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 236436,
       "name": "Lluvia para dormir",
       "url": "https://open.spotify.com/track/54iGu1b1MiDrjiwN6wrekX"
@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 160000,
       "name": "Night In The Rainforest",
       "url": "https://open.spotify.com/track/2x09aarUx5kXoWuyx2taZ7"
@@ -2878,7 +2878,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 200000,
       "name": "Organic Rain",
       "url": "https://open.spotify.com/track/0TxH8hmkh7vJNTVxcl3J8V"
@@ -3656,7 +3656,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-21",
+      "date_removed": null,
       "duration_ms": 224624,
       "name": "rain on me",
       "url": "https://open.spotify.com/track/5ulOTladVBn8y9NQ3WvocP"
@@ -4009,6 +4009,24 @@
     },
     {
       "album": {
+        "name": "Rainy River",
+        "url": "https://open.spotify.com/album/5m65ZybC6eI2nCg1S45QqK"
+      },
+      "artists": [
+        {
+          "name": "Relaxed State",
+          "url": "https://open.spotify.com/artist/3NEmaMSqX5YRPVeqbBKyzY"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154624,
+      "name": "Raindrops on Water",
+      "url": "https://open.spotify.com/track/2MfTWQow2mtK8TgpSCSLCG"
+    },
+    {
+      "album": {
         "name": "Rainy Day Zen: Relaxing Rain Soundscape",
         "url": "https://open.spotify.com/album/2CGrdBC5OnBoSbh886WuYH"
       },
@@ -4092,7 +4110,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 158000,
       "name": "Rainforest Life",
       "url": "https://open.spotify.com/track/5jsF0Abb8ZeWHozhTWlSdF"
@@ -4128,7 +4146,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 297099,
       "name": "Raining At Last",
       "url": "https://open.spotify.com/track/5YMvGUNipPBFQjODEgLMaL"
@@ -4164,7 +4182,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 131500,
       "name": "raining for hours",
       "url": "https://open.spotify.com/track/3L1JHXiqNOJ57w3n2R3HyU"
@@ -4837,6 +4855,24 @@
     },
     {
       "album": {
+        "name": "arkansas rain",
+        "url": "https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY"
+      },
+      "artists": [
+        {
+          "name": "rainbolt",
+          "url": "https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253652,
+      "name": "small stream rain",
+      "url": "https://open.spotify.com/track/3GiI7GQ3oTIQBmuIfSqxd2"
+    },
+    {
+      "album": {
         "name": "Rain Sounds",
         "url": "https://open.spotify.com/album/71OA2dK48YdLK22Q2ZKrkL"
       },
@@ -4999,6 +5035,28 @@
     },
     {
       "album": {
+        "name": "Rainy Day Reflections",
+        "url": "https://open.spotify.com/album/5Xc5lYWtxcJay08tk3WzLc"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180152,
+      "name": "Soothing Rain in Washington",
+      "url": "https://open.spotify.com/track/6dtWs6eQdtO97saoe1iRz5"
+    },
+    {
+      "album": {
         "name": "Soothing Rain Sound For Sleep",
         "url": "https://open.spotify.com/album/0sFZ8Q8H5391qXQRSgsbCw"
       },
@@ -5082,7 +5140,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 124486,
       "name": "Spring Rain Storm",
       "url": "https://open.spotify.com/track/1lFKWqqOiV1RnLqS6MU66B"
@@ -5298,7 +5356,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 204000,
       "name": "The Gentle Rains Of Summer",
       "url": "https://open.spotify.com/track/3FVvaFKKyjafGHkwzj73o4"
@@ -5320,6 +5378,24 @@
       "duration_ms": 144149,
       "name": "The Mystique Sounds Of Nature",
       "url": "https://open.spotify.com/track/2uyrDzMP7uzqURcFfYxn8w"
+    },
+    {
+      "album": {
+        "name": "The Nimbus Part Four",
+        "url": "https://open.spotify.com/album/58f3l3acutVm5ZXbLw95pP"
+      },
+      "artists": [
+        {
+          "name": "Neo Si",
+          "url": "https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "The Nimbus Part Four",
+      "url": "https://open.spotify.com/track/7qRzGy11S8qSinKHXbFAVx"
     },
     {
       "album": {
@@ -5442,7 +5518,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Under Cover Rain Sound",
       "url": "https://open.spotify.com/track/5nIay6DvjF2a9gtCOKVPbP"
@@ -5684,7 +5760,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Yard Rain",
       "url": "https://open.spotify.com/track/10KjBoTmOqTGZ3cfNZODWA"

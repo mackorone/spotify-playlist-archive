@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by J Balvin, Bad Bunny, Myke Towers and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,502 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,538 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 25 | [5AM](https://open.spotify.com/track/4NFAsjGOjZ29JKvbCaA5mz) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [5AM](https://open.spotify.com/album/6vG56hY9KDdspesQKq8iRc) | 3:06 |
 | 26 | [Apollo](https://open.spotify.com/track/5zhKQXm4DwC3hwqRaG90uT) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Apollo](https://open.spotify.com/album/1D5nEbve1oBrIk8SMshLNo) | 2:32 |
 | 27 | [OTRO](https://open.spotify.com/track/4x9oXM2cW8CFvqgxSx91yA) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [OTRO](https://open.spotify.com/album/4aNuUQrYNmS3rsavz5aqx3) | 1:47 |
-| 28 | [EXTRAÑO TUS BESOS](https://open.spotify.com/track/7nZyc2jufgsiwEndgyVLxX) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [Somos Diferentes](https://open.spotify.com/album/5JBMg2fnHJSkROuL14hs4J) | 3:03 |
+| 28 | [EXTRAÑO TUS BESOS](https://open.spotify.com/track/7nZyc2jufgsiwEndgyVLxX) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [Somos Diferentes](https://open.spotify.com/album/5JBMg2fnHJSkROuL14hs4J) | 2:56 |
 | 29 | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR) | 3:33 |
 | 30 | [Mentality](https://open.spotify.com/track/7LZyqWfp3JkyG3YNpYNIpw) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [Por El Momento](https://open.spotify.com/album/5ajocepPHfcBFFKxtz9wrL) | 2:49 |
 | 31 | [D'amor traficante](https://open.spotify.com/track/2X7oDLsSbacbUdXyk4NHdQ) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [D'amor traficante](https://open.spotify.com/album/7GNCiAd8olpU1EyPdzh89n) | 3:30 |

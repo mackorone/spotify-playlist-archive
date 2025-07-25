@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-258 songs - 15 hr 2 min
+259 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Ordinary](https://open.spotify.com/track/1WYDk8XsjBqrlLetgTlPC1) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2025, Vol\. 1](https://open.spotify.com/album/6zVzIXdCpItzGUetIXfsPW) | 3:03 | 2025-06-20 | 2025-07-19 |
 | [P.I.M.P](https://open.spotify.com/track/3pc4KWkfyB9EUKi0JsTyRY) | [Power\-Haus](https://open.spotify.com/artist/1s71OiuXqJ8Catad9h0dlq), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [The Strings 'n' Things Album](https://open.spotify.com/album/6gIUSFzJgnHeF2WjGZQuCW) | 2:08 | 2021-11-19 |  |
 | [Paint It Black](https://open.spotify.com/track/1OuCn2F9BmyTAdM0Jylo9X) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/4YZI5RGjvxQsZmeY8ewpxs) | 2:25 | 2022-12-02 |  |
+| [Paranoid \- Symphony Orchestra Version](https://open.spotify.com/track/2m6tYPyv9CyAvNZe9T7icQ) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Paranoid \(Black Sabbath Tribute Mix\) \[Symphony Orchestra Version\]](https://open.spotify.com/album/1ToTSfmc5iDjzum83oCmNa) | 3:01 | 2025-07-24 |  |
 | [Perfect](https://open.spotify.com/track/33lI804DgErb7NSNWwkzxa) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [Perfect](https://open.spotify.com/album/4HwH5Vg7Ho7F8XlsSW1MPE) | 4:19 | 2021-11-19 |  |
 | [Perfect \- Piano Version](https://open.spotify.com/track/3e1ZTC3nop5f0khsAzEPnv) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Perfect \(Piano Version\)](https://open.spotify.com/album/2mAzDkToDZeWfAyxs7vWES) | 3:38 | 2025-02-28 |  |
 | [Pink + White](https://open.spotify.com/track/6QkbqPBoXQCEkXdeAqYa7Y) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Pink + White](https://open.spotify.com/album/3FumX8Rc1bIO57p41mmf0i) | 2:56 | 2025-04-25 |  |

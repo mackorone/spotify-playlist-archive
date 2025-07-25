@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Barasuara",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Toton Caribo, Wizz Baker, Fresly Nikijuluw",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 237746,
       "name": "Andai Saja",
       "url": "https://open.spotify.com/track/2hb8n44vpefszgLwkEVXhU"
@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 250434,
       "name": "Bersamaku Akan Sedikit Susah",
       "url": "https://open.spotify.com/track/4fiaYzngiqdXqVTtrkrcA8"
@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 201640,
       "name": "Big And Chunky",
       "url": "https://open.spotify.com/track/5wA5mA9v9lPxAaSg1FagG6"
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 256834,
       "name": "Bila",
       "url": "https://open.spotify.com/track/7sieBb2O8zwIQxsKT59YGZ"
@@ -6019,6 +6019,28 @@
     },
     {
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285634,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+    },
+    {
+      "album": {
         "name": "ExtraL (feat. Doechii)",
         "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
       },
@@ -6124,7 +6146,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 150401,
       "name": "falling in love",
       "url": "https://open.spotify.com/track/4HgReMuQv5J6XgrVVBMMIp"
@@ -6486,6 +6508,24 @@
       "duration_ms": 273093,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/47pw9kwbBTcJ1c6LGlQ60k"
+    },
+    {
+      "album": {
+        "name": "Forget Your Plan",
+        "url": "https://open.spotify.com/album/2nftdSlqgiJ2lN8hu3dCEr"
+      },
+      "artists": [
+        {
+          "name": "Adhitia Sofyan",
+          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401520,
+      "name": "Forget Jakarta",
+      "url": "https://open.spotify.com/track/4UucLisbPzUcqYCE6cQX2z"
     },
     {
       "album": {
@@ -7480,6 +7520,28 @@
       "duration_ms": 168616,
       "name": "harga satu pil",
       "url": "https://open.spotify.com/track/4ATEWsJrsTD3L3MBqNd2P9"
+    },
+    {
+      "album": {
+        "name": "ENDIKUP",
+        "url": "https://open.spotify.com/album/2l0w55TW2pUVsaLR2RWvNK"
+      },
+      "artists": [
+        {
+          "name": "Gusti Irwan Wibowo",
+          "url": "https://open.spotify.com/artist/79hiSpofXIj7h1wD5KKsk3"
+        },
+        {
+          "name": "Nehru Rindra",
+          "url": "https://open.spotify.com/artist/5h0yXHwX93cXIV1GLZFW8m"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230438,
+      "name": "Hari Yang Mantap",
+      "url": "https://open.spotify.com/track/6iBK8kzAVuvZvYj6SaGh7y"
     },
     {
       "album": {
@@ -9976,7 +10038,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 138827,
       "name": "Killin' It Girl (Solo Version)",
       "url": "https://open.spotify.com/track/32SrQzg34vQiYjyzjg3wum"
@@ -10402,6 +10464,24 @@
       "duration_ms": 270866,
       "name": "Kurayu Bidadari",
       "url": "https://open.spotify.com/track/1yYFsvN14Z2JD8lEN0qYU2"
+    },
+    {
+      "album": {
+        "name": "Kusuma Wijaya",
+        "url": "https://open.spotify.com/album/1tOARzkD1moNEKrqve9Kjn"
+      },
+      "artists": [
+        {
+          "name": "Nugraha Pawestri",
+          "url": "https://open.spotify.com/artist/0TkqRdoWr44zUsKi89ji80"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265486,
+      "name": "Kusuma Wijaya",
+      "url": "https://open.spotify.com/track/2InRcPbunlEjQ6sGyGIjxV"
     },
     {
       "album": {
@@ -12419,6 +12499,24 @@
     },
     {
       "album": {
+        "name": "Taifun",
+        "url": "https://open.spotify.com/album/6SQaLfIqG305mqG6zY3FMM"
+      },
+      "artists": [
+        {
+          "name": "Barasuara",
+          "url": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270978,
+      "name": "Mengunci Ingatan",
+      "url": "https://open.spotify.com/track/1WYR1Amb1BSBFJ3YvxLvqS"
+    },
+    {
+      "album": {
         "name": "Menjaga Hati",
         "url": "https://open.spotify.com/album/5zAZDy6OPD6u04TCIAo0Ou"
       },
@@ -12718,6 +12816,28 @@
       "duration_ms": 204320,
       "name": "MILLION PLACES",
       "url": "https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT"
+    },
+    {
+      "album": {
+        "name": "Minggu",
+        "url": "https://open.spotify.com/album/20BlkwZZJfzNj6xTxPrehi"
+      },
+      "artists": [
+        {
+          "name": "White Chorus",
+          "url": "https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc"
+        },
+        {
+          "name": "Dzulfahmi",
+          "url": "https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218625,
+      "name": "Minggu",
+      "url": "https://open.spotify.com/track/29oaLVw5BEusRDauIyCfwK"
     },
     {
       "album": {
@@ -15105,6 +15225,24 @@
     },
     {
       "album": {
+        "name": "Pikiran dan Perjalanan",
+        "url": "https://open.spotify.com/album/5dy5oRsWeCss5AvbWcJqr0"
+      },
+      "artists": [
+        {
+          "name": "Barasuara",
+          "url": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272305,
+      "name": "Pikiran dan Perjalanan",
+      "url": "https://open.spotify.com/track/25c343Sb9sYgZHc5b8GhLV"
+    },
+    {
+      "album": {
         "name": "Pikiran Yang Matang",
         "url": "https://open.spotify.com/album/2gdKHKZfqOqGCwJiyEe2K8"
       },
@@ -15532,6 +15670,28 @@
       "duration_ms": 368613,
       "name": "Pujaningsih",
       "url": "https://open.spotify.com/track/7pwegdmSzRXVq1AoYbJ1T2"
+    },
+    {
+      "album": {
+        "name": "Soft Machine",
+        "url": "https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0"
+      },
+      "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246786,
+      "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
+      "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
     },
     {
       "album": {
@@ -16392,7 +16552,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 305578,
       "name": "Rumah Kita (with Tohpati & Czech Symphony Orchestra)",
       "url": "https://open.spotify.com/track/6lzzVdbjMSBgXvCPoXSBUT"
@@ -16916,7 +17076,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 180000,
       "name": "Score Suite",
       "url": "https://open.spotify.com/track/734WuFbTDxTPMU1lBP6e0M"
@@ -22011,6 +22171,28 @@
     },
     {
       "album": {
+        "name": "ENDIKUP",
+        "url": "https://open.spotify.com/album/2l0w55TW2pUVsaLR2RWvNK"
+      },
+      "artists": [
+        {
+          "name": "Gusti Irwan Wibowo",
+          "url": "https://open.spotify.com/artist/79hiSpofXIj7h1wD5KKsk3"
+        },
+        {
+          "name": "Hifdzikhoir",
+          "url": "https://open.spotify.com/artist/58C6H14yuEB7fMu5lninwB"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251605,
+      "name": "We Always Together",
+      "url": "https://open.spotify.com/track/5425TbNdPMsmlmn7PdiXqd"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -22722,7 +22904,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"

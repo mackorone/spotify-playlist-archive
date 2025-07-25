@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-970 songs - 3 day 11 hr 26 min
+972 songs - 3 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,6 +802,7 @@
 | [Suffer The Children](https://open.spotify.com/track/1fxY6M6Rc6j5A6FxETeIuf) | [Sons Of Hidden](https://open.spotify.com/artist/47i1EBwKD20B2RnvmIOQxM) | [Suffer The Children](https://open.spotify.com/album/2jdemYdps3vGUdTr1T5snd) | 6:09 | 2023-05-25 | 2023-07-01 |
 | [Summer](https://open.spotify.com/track/6jdc8hZu0MByXayT4eTkbn) | [TWR72](https://open.spotify.com/artist/3xppiQ1WFn0sPv4ZQJjqzO) | [1991](https://open.spotify.com/album/3Hkk8sgbEdsLXblXkFnVmh) | 7:03 | 2025-07-18 |  |
 | [Sundrugs](https://open.spotify.com/track/7vIfxVOV6LfMldziLGSzz9) | [Omrann](https://open.spotify.com/artist/6mHvxnZBLmZjNigv3ee0o0) | [Iblis](https://open.spotify.com/album/27neMWLO44c3pFpZ7YQl6N) | 6:09 | 2025-01-10 | 2025-05-10 |
+| [Sunrise](https://open.spotify.com/track/3zeZrFy8DILhPuorCFvf1l) | [Sarah Sommers](https://open.spotify.com/artist/3DsFXXoLCX6S7e7bJdSclA) | [VIVID](https://open.spotify.com/album/7shq9tSzN3MhkpO2KB7hNT) | 6:10 | 2025-07-24 |  |
 | [Supernova Remnant](https://open.spotify.com/track/6jMjpqHG45dvu4milTgVK7) | [Andc](https://open.spotify.com/artist/1q8rtG5Bi9w8tINGQAS95H) | [Inner Weirdo Out](https://open.spotify.com/album/3i2DF9nhjtGa2Y49ozqPYK) | 5:18 | 2025-04-04 | 2025-05-10 |
 | [Supraverde](https://open.spotify.com/track/4dL7p2XIfBS7XVQ8hrBHxI) | [Kangding Ray](https://open.spotify.com/artist/20UWNE4rEU7YMO0GHq4F26) | [Ultrachroma](https://open.spotify.com/album/64HtilAoMIBWkXVTAEN1ZD) | 5:43 | 2023-03-17 | 2023-04-15 |
 | [Svanaostur](https://open.spotify.com/track/6In2WplLvEJkj6oLkWzcSf) | [In3dee](https://open.spotify.com/artist/5Sxy43FWdojUnXKvZPkXIp) | [Skúlagata 002](https://open.spotify.com/album/5r3g6CT4Oot53SBCDPC113) | 5:59 | 2025-05-09 | 2025-07-19 |
@@ -886,6 +887,7 @@
 | [Trash Scapes Vocals](https://open.spotify.com/track/0VHQZ6u8Qm2ytDQsqd2NAE) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Berlinette](https://open.spotify.com/album/6VYrpIIWwjFcOrEaFTxsNf) | 1:00 | 2024-07-15 | 2024-10-05 |
 | [Tremora del Terra](https://open.spotify.com/track/5TJ2Kt0RuFn6kvHc6tILDn) | [Illuminatae](https://open.spotify.com/artist/5g7NMUK0d4aFvXsk2x0K2i) | [Over Drive: The Return](https://open.spotify.com/album/4ky4meFHC3SGqn6RvNH84v) | 4:46 | 2025-04-04 | 2025-05-10 |
 | [Trepidation](https://open.spotify.com/track/4vYVhz4SqtofR08nmQB84N) | [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I) | [Trepidation](https://open.spotify.com/album/3XOTIthD2eKHLEwq9gk8wg) | 4:22 | 2023-11-30 | 2024-01-20 |
+| [Tresor](https://open.spotify.com/track/3DuYbjQS2RvJAUWRTCrf5g) | [Sarah Sommers](https://open.spotify.com/artist/3DsFXXoLCX6S7e7bJdSclA) | [VIVID](https://open.spotify.com/album/7shq9tSzN3MhkpO2KB7hNT) | 10:34 | 2025-07-24 |  |
 | [Trigger](https://open.spotify.com/track/327Dhvvu943PTFRJesiXln) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Take a Stand](https://open.spotify.com/album/04guqr7dvVZ1KFHyZRGUC8) | 5:51 | 2025-07-18 |  |
 | [Trigger](https://open.spotify.com/track/2SKaR9NvOBjz15yswF5pZx) | [Slava Oswald](https://open.spotify.com/artist/0dCO2vumtlTJEUanUhJcDJ) | [Trigger](https://open.spotify.com/album/3usCTnq1UsgOa4V1XbzpAM) | 4:57 | 2024-03-13 | 2024-04-13 |
 | [Trinity](https://open.spotify.com/track/5bNtqSPPnBNOV5SPn9CQ38) | [TR/ST](https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu) | [Candy Walls b/w Trinity](https://open.spotify.com/album/5Bt530dQ4mGBw9qh2xGoEE) | 3:20 | 2023-03-17 | 2023-04-15 |

@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-646 songs - 1 day 7 hr 22 min
+647 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [California](https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [California / Rollercoaster](https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga) | 2:20 | 2024-06-07 | 2025-06-20 |
 | [Call Again](https://open.spotify.com/track/31Kunh3BOAccQ5EHXkJkz5) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Both Worlds](https://open.spotify.com/album/141gy9ZTgo1fPLfCBdXKYq) | 3:10 | 2025-02-28 | 2025-06-28 |
 | [Call Me](https://open.spotify.com/track/3ymSx5mCHlWAeb1yF6ZAPb) | [Teemanay](https://open.spotify.com/artist/73mZwsrUqiDDoyD1FMVc7l) | [Call Me](https://open.spotify.com/album/51xSh3oKnYhYi77871elgq) | 2:47 | 2024-06-07 | 2024-09-09 |
+| [Call On Me](https://open.spotify.com/track/4BYukA1XrZsr7O07yqghgM) | [Chrissy Spratt](https://open.spotify.com/artist/1dn9CnVS5B1JTPFOzjhXq6), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [Call On Me](https://open.spotify.com/album/5Vkrn9wvQoHTXVg4MI3DiI) | 2:49 | 2025-07-18 |  |
 | [Can You See Her](https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3) | [Tha Beatsmith](https://open.spotify.com/artist/0jlnkOITm8T6aR98XB1y6O), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Vanity](https://open.spotify.com/album/2NNV633QV0mNfqRDoFx0q0) | 3:44 | 2022-06-09 | 2023-04-28 |
 | [Captain](https://open.spotify.com/track/51yPymXsGbEyh7InU6yRJP) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:21 | 2025-07-04 |  |
 | [Catch Up!](https://open.spotify.com/track/6Ckhwztz0nfuS4XIZNpLeC) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Catch Up! // Lights](https://open.spotify.com/album/0nf3qQAlrY59xIDSV4ug7f) | 2:37 | 2023-06-30 | 2023-11-10 |
@@ -218,7 +219,7 @@
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-06-09 | 2023-09-29 |
 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 | 2025-06-13 |  |
 | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 | 2024-09-06 |  |
-| [Futuristic \(Remix\)](https://open.spotify.com/track/3BGyEi3sWnqDaoPoZslkKO) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR) | [Futuristic \(Remix\)](https://open.spotify.com/album/0lBLVeKUDml58h5NZUX9AH) | 2:57 | 2025-06-27 |  |
+| [Futuristic \(Remix\)](https://open.spotify.com/track/3BGyEi3sWnqDaoPoZslkKO) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR) | [Futuristic \(Remix\)](https://open.spotify.com/album/0lBLVeKUDml58h5NZUX9AH) | 2:57 | 2025-06-27 | 2025-07-25 |
 | [Fé](https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt) | [Fé](https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a) | 2:32 | 2024-10-04 | 2025-02-20 |
 | [Galbi](https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Galbi](https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1) | 2:23 | 2024-05-03 | 2024-11-22 |
 | [Gangnam Style](https://open.spotify.com/track/7wKzYOEaBcSBMHFRR7rUTF) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [That Uzere Boy](https://open.spotify.com/album/67Ba42lVPrFR5NzbuwE3i6) | 2:24 | 2023-07-14 | 2023-08-23 |

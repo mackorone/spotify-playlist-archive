@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZV5KQP9n81oexu6dOST7q.md) - [plain]
 
 > Festival season is begonnen, luister hier naar de 'Summer Sound' van 2025!
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 52,567 likes - 74 songs - 3 hr 38 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 52,555 likes - 74 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

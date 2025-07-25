@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "I've Failed You",
+        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221773,
+      "name": "Empires (Part 2)",
+      "url": "https://open.spotify.com/track/7AseRSsmtc5TkguWR6S84V"
+    },
+    {
+      "album": {
         "name": "Funeral For Yesterday",
         "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
       },

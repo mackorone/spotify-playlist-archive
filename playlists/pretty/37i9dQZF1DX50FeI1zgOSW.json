@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Keethan",
-  "num_followers": 15447,
+  "num_followers": 15452,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aICOeQAAAABBl+WbFA8KWfEZZgOrnAHI",
+  "snapshot_id": "aIIyHwAAAAACGMSNdSaiijDtZeh8m2Jf",
   "tracks": [
     {
       "added_at": "2025-06-30 11:07:31",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/7tv63NI1EXDBE2ZWc9jwNO"
     },
     {
+      "added_at": "2025-07-24 13:16:15",
+      "album": {
+        "name": "Jubee Baby",
+        "url": "https://open.spotify.com/album/4noPrcdL77oVyaFet56KCi"
+      },
+      "artists": [
+        {
+          "name": "Ganesan. S",
+          "url": "https://open.spotify.com/artist/44acENsqsJh2l7J8y8nfIo"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Jubee Baby",
+      "url": "https://open.spotify.com/track/7KKgBtE9lYCfcuHNAQaZMJ"
+    },
+    {
       "added_at": "2025-07-18 07:03:25",
       "album": {
         "name": "Yaaradiyo",
@@ -115,6 +131,22 @@
       "duration_ms": 213563,
       "name": "Yaaradiyo",
       "url": "https://open.spotify.com/track/53FD6AvDk6GhbWbtLWbm7D"
+    },
+    {
+      "added_at": "2025-07-24 12:33:41",
+      "album": {
+        "name": "Orayiram Vali",
+        "url": "https://open.spotify.com/album/1cHS12yGqencjdwcFxGBlL"
+      },
+      "artists": [
+        {
+          "name": "Sinan Saleem Kodathoor",
+          "url": "https://open.spotify.com/artist/0ZeeMRfO5cAPxf0igkHpqV"
+        }
+      ],
+      "duration_ms": 255442,
+      "name": "Orayiram Vali",
+      "url": "https://open.spotify.com/track/4D3CVagaQ64eF9ltxNketq"
     },
     {
       "added_at": "2025-07-22 11:12:04",
@@ -999,22 +1031,6 @@
       "duration_ms": 198000,
       "name": "Uyire",
       "url": "https://open.spotify.com/track/4NECvEaHKVULjEqLXU8dgQ"
-    },
-    {
-      "added_at": "2025-05-02 10:50:53",
-      "album": {
-        "name": "Manasu Mattume",
-        "url": "https://open.spotify.com/album/0g5fCX40MYY9lJxKr09tvi"
-      },
-      "artists": [
-        {
-          "name": "Siennor",
-          "url": "https://open.spotify.com/artist/7llcZ59fwsSv4nEx3mgu31"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Manasu Mattume",
-      "url": "https://open.spotify.com/track/6MPLKOG3Y05uI7wcmwAjZE"
     }
   ],
   "unique_name": "RADAR Tamil",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Jess Gillam
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,387 likes - 69 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,440 likes - 69 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1751,6 +1751,22 @@
     {
       "added_at": "2025-07-18 17:53:05",
       "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/6CxSfaeeQFlzmcn0uc4jSo"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "duration_ms": 244883,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/6iDOGlPGVC380H9ufZUQJb"
+    },
+    {
+      "added_at": "2025-07-18 17:53:05",
+      "album": {
         "name": "Get Off The Internet",
         "url": "https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 187200,
       "name": "The Descent",
       "url": "https://open.spotify.com/track/6xIxr1N7UZaXiwOUNVScsn"
-    },
-    {
-      "added_at": "2025-07-18 17:53:05",
-      "album": {
-        "name": "Try Again",
-        "url": "https://open.spotify.com/album/6CxSfaeeQFlzmcn0uc4jSo"
-      },
-      "artists": [
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 244883,
-      "name": "Try Again",
-      "url": "https://open.spotify.com/track/6iDOGlPGVC380H9ufZUQJb"
     },
     {
       "added_at": "2025-07-18 17:53:05",

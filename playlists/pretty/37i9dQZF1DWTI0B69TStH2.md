@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Świętujemy 10 lat najlepszych muzycznych odkryć od niezależnych artystów\. Cover: <a href="spotify:artist:4SWaZDXBz7FgqxwOi0iVtI">michał od kości</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,596 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,598 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 5 | [Kochaj mnie](https://open.spotify.com/track/2PHPfOJgDAMG8Wg5rkMIm6) | [Mateusz Tomczak](https://open.spotify.com/artist/0o54rxa8ThqyrIhVrQ495r) | [Kochaj mnie](https://open.spotify.com/album/2JsgUVWIBkdXvN246PBFdV) | 3:46 |
 | 6 | [Laba](https://open.spotify.com/track/7EF5RdLFADWDRV7LW9Z2Wj) | [Filip Matyszczak](https://open.spotify.com/artist/2GOZRuExiZr7HyN42FCqIz) | [Laba](https://open.spotify.com/album/4vBqYh1IkpEKYOQQyisZ2M) | 3:05 |
 | 7 | [tracimy sens](https://open.spotify.com/track/6wpF3A7b91RGelXpRvcDNr) | [nefrea](https://open.spotify.com/artist/0LDHuGDQljiQdkLri5BSAW), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [tracimy sens](https://open.spotify.com/album/7cjyOgy8HEkt6Dwu0Gytjz) | 2:30 |
-| 8 | [To taki czas](https://open.spotify.com/track/3OmPhzMnczrhQUy6wmW0DQ) | [OZAYA](https://open.spotify.com/artist/7DUgfXs4ZWJbtMTpwaN5Ce) | [To taki czas](https://open.spotify.com/album/7mgmWzKmdaCwpClO9bRmsX) | 3:32 |
+| 8 | [To taki czas](https://open.spotify.com/track/3OmPhzMnczrhQUy6wmW0DQ) | [OZAYA](https://open.spotify.com/artist/4ahUmHTanQWSoMwlOn5VjG) | [To taki czas](https://open.spotify.com/album/7mgmWzKmdaCwpClO9bRmsX) | 3:32 |
 | 9 | [Wyjechałem Bez Cb](https://open.spotify.com/track/58wSUzbzLTHw5llBAs07cj) | [Lui.Gi](https://open.spotify.com/artist/14oez6IQwzZ010GoAIo35h) | [Wyjechałem Bez Cb](https://open.spotify.com/album/0i69W8kq2dZTZGddyByGIO) | 2:44 |
 | 10 | [Symuluj Jeszcze Raz](https://open.spotify.com/track/3oRraA7vTmlDUlT677Wf8O) | [Czuły Klej](https://open.spotify.com/artist/4oeWd2GiUXAR77gQoDGtCD), [Tender Glue](https://open.spotify.com/artist/5zQ65OpnrKT6Ufbk7ACirt) | [Symuluj Jeszcze Raz](https://open.spotify.com/album/6s2VW0WOLQyIs3MebkAp47) | 3:08 |
 | 11 | [Jabłka](https://open.spotify.com/track/206IHgDaQsdhMC0iID6dlq) | [Kasoil](https://open.spotify.com/artist/6irQVvdoIUnHCFUQWBnMRK), [Ajzeja](https://open.spotify.com/artist/2BIjch36SUB18OSL65fIYS) | [Jabłka](https://open.spotify.com/album/79geJ49wkx53aYvG7s18OQ) | 2:42 |

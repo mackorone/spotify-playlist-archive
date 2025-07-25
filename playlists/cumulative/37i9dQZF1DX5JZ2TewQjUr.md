@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: murmurcup
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: DEREK DALI
 
-1,468 songs - 3 day 10 hr 50 min
+1,473 songs - 3 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Emotionally Unavailable](https://open.spotify.com/track/23LypV9jwnNRmMoaFGpoZG) | [just Min](https://open.spotify.com/artist/30WOLSr0UBs8AKHEIbQB1B) | [Molten](https://open.spotify.com/album/2Hq7v0Kir5SQV7ytrlbtaj) | 3:18 | 2025-06-05 |  |
 | [End it now](https://open.spotify.com/track/1XfTCENmXbktwmgN2fQTKt) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [End it now](https://open.spotify.com/album/6zdqxPTNrRrArO6oQ24n6c) | 3:20 | 2023-08-24 | 2023-11-03 |
 | [end of the story](https://open.spotify.com/track/4pv2Q2F2v2ynb22iFRPprW) | [TigerFoo](https://open.spotify.com/artist/05WBJuCLIZD367mC5mr2FI) | [end of the story](https://open.spotify.com/album/38G08PxKeZXZlciEw0ShMN) | 2:39 | 2025-03-13 | 2025-07-11 |
+| [end of the story \(with Anna hisbbuR\)](https://open.spotify.com/track/16EXh8ewlNXgWMbKVNMlkD) | [norio](https://open.spotify.com/artist/3WWzdMggCvS4H72hLWroiZ), [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [end of the story \(with Anna hisbbuR\)](https://open.spotify.com/album/6SlpUWZS9webLLSdrbXcTO) | 2:40 | 2025-07-24 |  |
 | [End Of The World](https://open.spotify.com/track/7nkzGVZGaGFNUZ2zWzoNfn) | [Daniel Toh](https://open.spotify.com/artist/2j04ll9T2gPPbI5mxl867U) | [End Of The World](https://open.spotify.com/album/5RGNYkWk40vwsczytNOU5a) | 3:56 | 2024-04-04 | 2024-11-15 |
 | [Escaping Encirclements 出重圍](https://open.spotify.com/track/5ZjYlBTBhDFYKWwX509NqQ) | [Gong Gong Gong 工工工](https://open.spotify.com/artist/0amkRUGmrpprSUUMlSuISB), [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Mongkok Duel 旺角龍虎鬥](https://open.spotify.com/album/0J2IaZ1Vb0KRkPGKVe6Ok1) | 5:33 | 2024-10-03 | 2025-02-14 |
 | [Escaping Light](https://open.spotify.com/track/7hjFPdPikQVL4rGzGLUo9c) | [Maddie Lexandra](https://open.spotify.com/artist/0vRCLoTs0fuVFeyu7Rgun7) | [Escaping Light](https://open.spotify.com/album/7aoZYf0B0tnlmLpWvy2oqM) | 3:58 | 2024-02-08 | 2024-05-10 |
@@ -629,6 +630,7 @@
 | [On My Way](https://open.spotify.com/track/1N52PJn3aAJUAafET6LnDD) | [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k), [N.O.L.Y](https://open.spotify.com/artist/3oVNwwOcAofPChamgAzlN1) | [On My Way](https://open.spotify.com/album/5fuxLL2VKGqdOv0qP9jD4u) | 1:59 | 2022-07-14 | 2022-11-04 |
 | [On My Way](https://open.spotify.com/track/3P74CFpJFmolZ0ZdxUPk0z) | [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k), [N.O.L.Y](https://open.spotify.com/artist/3oVNwwOcAofPChamgAzlN1) | [Officially 18](https://open.spotify.com/album/2lh8bfWe7bUp1KtWMjZONq) | 1:59 | 2022-08-18 | 2022-11-04 |
 | [ON MY WAYYY](https://open.spotify.com/track/3PrffNnl6qw9Wwk5qMLgGt) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [ON MY WAYYY](https://open.spotify.com/album/7pOuDzFn6miNFa3Ri1qATX) | 2:44 | 2022-12-29 | 2023-02-24 |
+| [on the road](https://open.spotify.com/track/685uzjXPG88iK426JK5IEs) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [on the road](https://open.spotify.com/album/4HYcnym0xzG4dVjpTmh9hZ) | 3:10 | 2025-07-24 |  |
 | [On You](https://open.spotify.com/track/5kmmPegtTV5yV1lrONBNaS) | [風正](https://open.spotify.com/artist/4bJ89gRIHM14T4ZIzaBoEp) | [On You](https://open.spotify.com/album/1nctAq0ck9kND7JEHXacYM) | 3:27 | 2024-12-19 | 2025-03-14 |
 | [One More Round](https://open.spotify.com/track/35dJ3LvEcV52F5R17IOFRC) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [One More Round](https://open.spotify.com/album/78Zdxbk2r8xrTa4ivaB50Q) | 3:19 | 2023-10-26 | 2024-01-05 |
 | [ONE OF A KIND](https://open.spotify.com/track/40Q2W3Pn6K7YAkz0gmcvW6) | [KAREN YEE](https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh) | [ONE OF A KIND](https://open.spotify.com/album/13x7bzZvUeUUSP0DfRmSdG) | 0:59 | 2024-02-22 | 2024-06-07 |
@@ -835,6 +837,7 @@
 | [That's ok](https://open.spotify.com/track/3RINdYUikBUKApA7U0uiIU) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [Purple Heart](https://open.spotify.com/album/27FcEUK2T1DWv0IYOzW3JW) | 3:14 | 2022-05-26 | 2022-07-29 |
 | [That’s Life](https://open.spotify.com/track/4fyOgvqzyo1U5WNy2fQdAW) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [That's Life](https://open.spotify.com/album/6LV0XTTfXauQKnAYSCDf0A) | 3:06 | 2023-12-28 | 2024-05-10 |
 | [That’s My City](https://open.spotify.com/track/1n53s8k0DCPDlRmbvlemTy) | [Novel Flash](https://open.spotify.com/artist/5XYIw1a2PQZH59E7h5XVwx), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [AION](https://open.spotify.com/album/0ugzhDdaFaXenDixlPZKuU) | 2:56 | 2024-06-06 | 2024-11-15 |
+| [The Apocalypse Love Song \- Live](https://open.spotify.com/track/5p89juEbvkXVSgueqBu60i) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [The Apocalypse Love Song \(Live\)](https://open.spotify.com/album/46Hm2VcRnkpY6q7QJ2ciL6) | 1:59 | 2025-07-24 |  |
 | [The Climber](https://open.spotify.com/track/0clq9tBWpHxzp0IEl6Bmj0) | [Franklin Telescope](https://open.spotify.com/artist/7fgEhDBZy0SV0xyEOopmTL) | [Burst into Your Quirky Soul](https://open.spotify.com/album/0lj00lgAPYpYR9grRCdmeZ) | 4:24 | 2022-05-26 | 2022-07-29 |
 | [The End \(Reprise\)](https://open.spotify.com/track/0dAei4tlI5toTGOfXiUHze) | [lut](https://open.spotify.com/artist/5sBywQe9mQOArGxfF5i30R) | [The End \(Reprise\)](https://open.spotify.com/album/4pdPfhXp77ji8oiY22U9tz) | 4:16 | 2024-06-27 | 2024-11-15 |
 | [the end or the beginning idk \- trentemøller Remix](https://open.spotify.com/track/6NZZTbordbLZy1HuKd3hLv) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [the end or the beginning idk \(trentemøller Remix\)](https://open.spotify.com/album/5JducM3eb5EBHlofPuyhBv) | 3:38 | 2025-05-29 |  |
@@ -1039,6 +1042,7 @@
 | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/track/3jfn6a5nJ1Arc0xWuvsYmi) | [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/album/2QL7B3R6G4TWXHWOyHHOLd) | 3:38 | 2022-05-26 | 2022-07-29 |
 | [佛道說](https://open.spotify.com/track/5tFw3RidRO4E35LEjdUYgM) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [佛道說](https://open.spotify.com/album/23bUb8IAQi2bj9Z3wbvFID) | 3:48 | 2024-06-20 | 2024-11-15 |
 | [你只需要保持可愛](https://open.spotify.com/track/751ZpB5hwmXxxjrJpB8U6s) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [你只需要保持可愛](https://open.spotify.com/album/19SxeODofSVCAQV0IjN0yE) | 3:10 | 2024-06-27 | 2024-11-15 |
+| [你就像陽光 Like Sunshine](https://open.spotify.com/track/6R9mB26hCbX8rhiNv8bRIo) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [你就像陽光 Like Sunshine](https://open.spotify.com/album/6YikJDUZdUsSbPzK9qLgmO) | 3:16 | 2025-07-24 |  |
 | [你離開以後](https://open.spotify.com/track/63p1gPCHMMoE3HcC3OvMMY) | [HeartShine](https://open.spotify.com/artist/2N77bYeH8lzQ2jfhSiqNDB) | [你離開以後](https://open.spotify.com/album/2b81UhACmfpsjzFUfPheLu) | 4:17 | 2022-08-04 | 2022-11-04 |
 | [俄羅斯套娃](https://open.spotify.com/track/0ksaKcX0sLTuSlUrkEAz5D) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [俄羅斯套娃](https://open.spotify.com/album/3nf6gzVG3xePPlqqUA20g0) | 4:04 | 2023-02-24 | 2023-03-18 |
 | [俄羅斯套娃](https://open.spotify.com/track/6ZuN71JnSB8pmtb4wF7ygV) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [俄羅斯套娃](https://open.spotify.com/album/3Vo0ZWEZ91RxiQ4mmdnHCr) | 4:04 | 2022-11-03 | 2023-03-02 |
@@ -1247,6 +1251,7 @@
 | [時間計](https://open.spotify.com/track/5WB57ar8s4gFszp0tBCnn0) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [時間計](https://open.spotify.com/album/2jvVEaHcTs3q3F3WA77RZT) | 3:27 | 2023-01-19 | 2023-05-26 |
 | [晚泣](https://open.spotify.com/track/0wkABgvnW5lDz51bCQW1tW) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [晚泣](https://open.spotify.com/album/2UUWast6pyZ7awtCNLumvz) | 4:26 | 2022-09-15 | 2023-03-18 |
 | [晝夜與黃昏](https://open.spotify.com/track/5UCdGnVUeZCnJaCToDchwy) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls), [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [晝夜與黃昏](https://open.spotify.com/album/729oAs5XPgJuV30fGJKsZT) | 3:47 | 2024-05-30 | 2024-11-15 |
+| [晨光後的故事](https://open.spotify.com/track/2XAyhQ0nyh8p4IJvEvi1rj) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [晨光後的故事](https://open.spotify.com/album/7fzOOB1EPeUFezJJpjXDZt) | 3:23 | 2025-07-24 |  |
 | [晴天小姐](https://open.spotify.com/track/1LqAmDpvkYoklbLzgjQKhp) | [陳浩](https://open.spotify.com/artist/02B3n4s3tZqb73uiLoegXu), [Kada](https://open.spotify.com/artist/1yfE0lrh6W6uD02cud26Tk) | [晴天小姐](https://open.spotify.com/album/1RtXygHeKkunodcxkGRoeY) | 3:40 | 2023-06-01 | 2023-09-01 |
 | [曇花](https://open.spotify.com/track/0ejU94TQggmiyEBVH6S2Z2) | [Stand Up You May Find](https://open.spotify.com/artist/4N8uFkW9rhk9iML23q6pPg), [Vin](https://open.spotify.com/artist/6eOHXXIxesSFctu1YxWMLt) | [曇花](https://open.spotify.com/album/4QFYNdEvtURqVgEMK2vNtT) | 5:00 | 2024-02-22 | 2024-05-10 |
 | [更新作業最後限期](https://open.spotify.com/track/5LvlHUuFtItkQgiLbjJJim) | [未能接通](https://open.spotify.com/artist/1hmX3srvf3H7T95DCUAF8S) | [更新作業最後限期](https://open.spotify.com/album/5vdZEydKnQ34QuS3OMlrZE) | 4:04 | 2022-06-16 | 2022-09-09 |

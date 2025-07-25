@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-969 songs - 3 day 9 hr 59 min
+970 songs - 3 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [Gather \- Edit](https://open.spotify.com/track/71rbXzLu3OUC0jlwTZuqPO) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Gather](https://open.spotify.com/album/2MsjLl6RbKQWLWqN2zLaDA) | 4:31 | 2021-06-04 | 2022-07-29 |
 | [Georgians](https://open.spotify.com/track/6XOcs06duhRLTz6wBBS6M2) | [Holy Moly](https://open.spotify.com/artist/4TglMZiWpNknCUIEQwBeRY) | [Opium / Georgians](https://open.spotify.com/album/6o2QmP04450WY8AQXfrgOF) | 5:05 | 2021-04-21 | 2022-07-29 |
 | [ghost \(feat\. HUMAN\) \- Alex Wann Remix](https://open.spotify.com/track/37v3bXubm5YbjUKQKDJFAM) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [HUMAN](https://open.spotify.com/artist/4rje1ago7T6xEn8SABCTIY), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [ghost \(feat\. HUMAN\) \[Alex Wann Remix\]](https://open.spotify.com/album/72cnTA7svTEtPEVa081Ccf) | 3:52 | 2023-10-06 | 2024-08-30 |
-| [Ginger Me \(Alum\)](https://open.spotify.com/track/1VDNJ1igtPbzElQt5ERhud) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Ginger Me \(Alum\)](https://open.spotify.com/album/7KQT4pPtySGXLMof6sdWxt) | 2:15 | 2025-05-02 |  |
+| [Ginger Me \(Alum\)](https://open.spotify.com/track/1VDNJ1igtPbzElQt5ERhud) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Ginger Me \(Alum\)](https://open.spotify.com/album/7KQT4pPtySGXLMof6sdWxt) | 2:15 | 2025-05-02 | 2025-07-25 |
 | [Give Back](https://open.spotify.com/track/4KNpbJUv1KQPODbcm5iy51) | [Artüria](https://open.spotify.com/artist/05wXpcU2A7ZeTjj0LLoQXs), [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM) | [Ways of Walking EP](https://open.spotify.com/album/4vdGHJExAj5bTrvbTNz6CD) | 6:33 | 2021-08-27 | 2022-07-28 |
 | [Giza](https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Giza](https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw) | 7:12 | 2021-04-21 | 2022-12-17 |
 | [Golden Age](https://open.spotify.com/track/7AETVzErlvjYezA2SQTT8c) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Golden Age EP](https://open.spotify.com/album/7pwmhcdWEwj1oGhULsOWeB) | 3:52 | 2023-03-24 | 2023-04-07 |
@@ -516,6 +516,7 @@
 | [Magic Circus](https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Magic Circus](https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4) | 3:49 | 2024-05-17 | 2025-01-14 |
 | [Magical Signs](https://open.spotify.com/track/1l7Fu5FoMPqocEO9bO5EiG) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Magical Signs / Humans](https://open.spotify.com/album/7pXHM8pLfASnm2NqIqFaKf) | 4:16 | 2023-08-11 | 2023-09-11 |
 | [Maisha \(feat\. Makadem\)](https://open.spotify.com/track/4qEnI06GT3Y7BVMnGKegIl) | [Kronan](https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr), [Makadem](https://open.spotify.com/artist/0mbhGA9S4pADQEqouZqqgL) | [Moves](https://open.spotify.com/album/6A3pqKVomKhcySqeOtaPSd) | 2:36 | 2025-06-19 |  |
+| [Maithori](https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Frigid Armadillo](https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Maithori](https://open.spotify.com/album/1BuOAjhPeakuaULbB4sWL9) | 3:02 | 2025-07-18 |  |
 | [Maiye](https://open.spotify.com/track/2WI1B6gkTvsfwUgL1VbUGX) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Maiye EP](https://open.spotify.com/album/5EN0keN9Vj7axJHl8LgDWa) | 6:22 | 2024-01-12 | 2024-03-27 |
 | [Makatao](https://open.spotify.com/track/0AYHqchYq7j81YuJBwwbAP) | [Sans Souci](https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ) | [Makatao](https://open.spotify.com/album/0Htb5bRGIDhTronNBsN2HP) | 2:58 | 2022-06-10 | 2022-07-28 |
 | [Malaika](https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mugisho](https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw) | [Malaika](https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN) | 2:33 | 2025-06-27 |  |

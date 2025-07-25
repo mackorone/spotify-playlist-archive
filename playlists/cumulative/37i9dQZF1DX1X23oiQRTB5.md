@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Gazo x La Rvfleuze au top de la première playlist de rap français.
+> Genezio x Tiakola au top de la première playlist de rap français.
 
-348 songs - 17 hr 50 min
+349 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 | 2023-02-23 | 2023-10-06 |
 | [Saison](https://open.spotify.com/track/1ajWju5j00x9HeUXzGtuxb) | [HMZ](https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Dans la tempête](https://open.spotify.com/album/3VeiHhDIRUUeg7EyMwNhaQ) | 2:30 | 2025-05-22 |  |
 | [Saison 2](https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:25 | 2024-03-28 | 2025-03-07 |
-| [Saturday](https://open.spotify.com/track/6cZn5XS7yHFQ2QUl2noKKw) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Saturday](https://open.spotify.com/album/5GN4mZzXqHUBFOgczhJjwM) | 2:30 | 2025-03-27 |  |
+| [Saturday](https://open.spotify.com/track/6cZn5XS7yHFQ2QUl2noKKw) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Saturday](https://open.spotify.com/album/5GN4mZzXqHUBFOgczhJjwM) | 2:30 | 2025-03-27 | 2025-07-25 |
 | [Selfie](https://open.spotify.com/track/3r8VoLB4rSYaCWg6nEZWG8) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Selfie](https://open.spotify.com/album/2QW5d3Iczt0ZzhaSc5I6sI) | 2:36 | 2022-09-29 | 2023-02-17 |
 | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:08 | 2025-01-09 | 2025-06-06 |
 | [Sexy Woman](https://open.spotify.com/track/3rcYxqjhN14IdYmRwfWhbi) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Sexy Woman](https://open.spotify.com/album/2xnmWvqnvQSffJ3OxnJpHZ) | 2:31 | 2025-02-20 |  |
@@ -337,6 +337,7 @@
 | [Triste mélancolie \(feat\. Josman\)](https://open.spotify.com/track/2Xbeuuuba5orpOWIBlXoKi) | [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Du peu que j'ai eu, Du mieux que j'ai pu](https://open.spotify.com/album/3MfrrJMMFJKkn1HCeelBM7) | 3:25 | 2024-02-01 | 2024-07-27 |
 | [Trophée](https://open.spotify.com/track/1n1ufFsnSU3mDuDSHroza8) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Trophée](https://open.spotify.com/album/4THFrVEcgnvqFf24q1noUQ) | 3:19 | 2022-07-07 | 2022-08-19 |
 | [Tu Sais](https://open.spotify.com/track/1R1deVa4LzVxzgFIpvS2O3) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Tu Sais](https://open.spotify.com/album/6lqW7JxQYN90kAv278RRFv) | 2:38 | 2025-06-26 |  |
+| [Tu veux quoi](https://open.spotify.com/track/6oUTxLiDzwdZWsQyGFZ03d) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Tu veux quoi](https://open.spotify.com/album/6ufgSwPjlOwa6kbInEqkIv) | 3:29 | 2025-07-24 |  |
 | [Téléphone \- Extrait de CRCLR MVT SAISON II](https://open.spotify.com/track/0FLegMOg3yN9e2zF5p9Vxb) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Téléphone \(Extrait de CRCLR MVT SAISON II\)](https://open.spotify.com/album/6RaA2bknaESIlh1iv5FFcP) | 3:08 | 2022-01-06 | 2022-01-21 |
 | [Un peu d'amour](https://open.spotify.com/track/2S8Mp8yS3W4tDlxpj0sCbY) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Un peu d'amour](https://open.spotify.com/album/0eUrSSgOBnidKw4sviTK7x) | 3:03 | 2024-07-25 | 2024-10-03 |
 | [Under Armour](https://open.spotify.com/track/69Up5djN1jUKRVb2O8GwgU) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Mode Opératoire, vol\. 1](https://open.spotify.com/album/02JVLf0vhEoGxGmoWZn5lq) | 3:13 | 2024-02-08 | 2024-08-23 |

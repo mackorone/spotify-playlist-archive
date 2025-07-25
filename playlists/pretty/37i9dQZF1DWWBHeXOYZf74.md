@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Jim Legxacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,338 likes - 174 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,396 likes - 174 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

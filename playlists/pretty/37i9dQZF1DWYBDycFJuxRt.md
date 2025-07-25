@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: RADWIMPS \*👉 <a href="https://spice.eplus.jp/articles/339533">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,147 likes - 90 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,266 likes - 90 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 63 | [DAWN](https://open.spotify.com/track/5ds7Jf5Hw1LasEjNsxzMhz) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [DAWN](https://open.spotify.com/album/1w2AWmp2NcQkbIGBxa7QYk) | 2:58 |
 | 64 | [Zense wa Busho](https://open.spotify.com/track/62bKAd4SfXrLtIUcgwULxD) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [Zense wa Busho](https://open.spotify.com/album/6l2Y8OnQxU8PdyQOQj4KDh) | 2:48 |
 | 65 | [あなたはかいぶつ](https://open.spotify.com/track/6rFtgBh6kYpved76LwBdcD) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [あなたはかいぶつ](https://open.spotify.com/album/61FYLfucMYMDbalbqs5Wr0) | 2:50 |
-| 66 | [B.U.G.](https://open.spotify.com/track/1XGT4NAcBBqJB934gLxs5v) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [B.U.G.](https://open.spotify.com/album/56J49Hg6pwO4a41EHrU6uH) | 3:46 |
+| 66 | [B.U.G.](https://open.spotify.com/track/1XGT4NAcBBqJB934gLxs5v) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [B.U.G.](https://open.spotify.com/album/56J49Hg6pwO4a41EHrU6uH) | 3:46 |
 | 67 | [Won’t Leave You Behind](https://open.spotify.com/track/3hhQ5qSPv1UK94v3pf9hLW) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Won’t Leave You Behind](https://open.spotify.com/album/6V8t2QOABjy9x9JEqMyyFS) | 3:07 |
 | 68 | [Ponytail](https://open.spotify.com/track/3C4aSXEtx5PeaRTqK3LS2J) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Ponytail](https://open.spotify.com/album/0YIwS3DZCE3zAl042tJYjZ) | 4:40 |
 | 69 | [Numa.](https://open.spotify.com/track/4QKBhgxks5QWxNrL02h5DI) | [Boundary](https://open.spotify.com/artist/7EYH7GNNmSQu0MqLFBupH9) | [Miracle](https://open.spotify.com/album/7qESJPH8x0Dhcjdyr6lQcX) | 3:41 |

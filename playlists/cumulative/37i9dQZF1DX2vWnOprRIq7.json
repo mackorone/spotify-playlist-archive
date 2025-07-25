@@ -4833,6 +4833,28 @@
     },
     {
       "album": {
+        "name": "ESPECTACULAR",
+        "url": "https://open.spotify.com/album/60cgkcmF1mxBx2fiB0rz5U"
+      },
+      "artists": [
+        {
+          "name": "MARTTEIN",
+          "url": "https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160581,
+      "name": "PIZZA PARTY (with Six Sex)",
+      "url": "https://open.spotify.com/track/6R3NX7RBEqt2552Wr0AeIj"
+    },
+    {
+      "album": {
         "name": "Planeta Miamor",
         "url": "https://open.spotify.com/album/0QZwZh8oJFKpqx1b9S8ZcI"
       },

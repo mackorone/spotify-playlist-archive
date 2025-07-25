@@ -2,9 +2,9 @@
 
 ### [R&B Brasil](https://open.spotify.com/playlist/37i9dQZF1DX6EQe4DjJNfI)
 
-> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Delacruz
+> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Bela Maria
 
-293 songs - 15 hr 5 min
+294 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Difícil Lembrar, né?](https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Difícil Lembrar, né?](https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM) | 2:35 | 2022-11-18 | 2023-08-12 |
 | [Dispara](https://open.spotify.com/track/73U0LScJh4nV901IJqbVDS) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Jade.](https://open.spotify.com/artist/4gwfGCGuOO6FEbIKMDg3mV), [Karen Fialho](https://open.spotify.com/artist/24cnkMLmyXSRmdPKkGTYVq) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 2:56 | 2025-01-31 | 2025-05-03 |
 | [distance](https://open.spotify.com/track/2csGWHScSh6YQiR8spiBl5) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [distance](https://open.spotify.com/album/2QnRPIxbznpA6mot8FrsoI) | 3:43 | 2025-05-16 | 2025-06-13 |
-| [Distant Lover Pt\. II](https://open.spotify.com/track/5ez2IWCbto4lXgpzo7FSIy) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Distant Lover Pt\. II](https://open.spotify.com/album/0IZh3n1VUArI0yJ2afCCWl) | 2:58 | 2025-05-13 |  |
+| [Distant Lover Pt\. II](https://open.spotify.com/track/5ez2IWCbto4lXgpzo7FSIy) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Distant Lover Pt\. II](https://open.spotify.com/album/0IZh3n1VUArI0yJ2afCCWl) | 2:58 | 2025-05-13 | 2025-07-25 |
 | [Distante](https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV) | [Milly](https://open.spotify.com/artist/6TvlW0KQY1sJ8LnJdqE9T8), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Distante](https://open.spotify.com/album/4P057UfmWhYcJJzdAvqTp8) | 2:09 | 2023-09-29 | 2023-12-16 |
 | [DOCE VENENO](https://open.spotify.com/track/0vy2VvLYTwgaBATjXx4aPO) | [Nando Prada](https://open.spotify.com/artist/1i9oD8Yn0tTEKrDlguIVBQ) | [DOCE VENENO](https://open.spotify.com/album/51ZDiYnAQWEjMcBVtxJu3C) | 2:20 | 2024-03-22 | 2024-05-18 |
 | [Dói Tanto](https://open.spotify.com/track/3q4BjZzm4VeYTjrfTrqR7j) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Dói Tanto](https://open.spotify.com/album/7FqoofEcHv9SsCLay8uF9s) | 2:38 | 2024-03-15 | 2024-03-30 |
@@ -216,6 +216,7 @@
 | [PURPLE](https://open.spotify.com/track/2J3xuJN4m01hI5aEDurglC) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr), [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [PURPLE](https://open.spotify.com/album/3Jg0zaMttPMi43zvFoN58V) | 2:28 | 2023-11-10 | 2024-03-02 |
 | [Púrpura](https://open.spotify.com/track/4elZOvjR7KDUEw8rMz2tAT) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 3:10 | 2024-10-04 |  |
 | [Quando Te Vi](https://open.spotify.com/track/4jxaQVs4cRH3MDKMZ0kRhj) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Quando Te Vi](https://open.spotify.com/album/41f4UoNwZH0Er1ZLCjMokE) | 3:54 | 2023-08-18 | 2024-02-03 |
+| [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 | 2025-07-25 |  |
 | [Que Falta Você Faz](https://open.spotify.com/track/5BWxwtkreVb8ez9fL5ivrp) | [Annick](https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Que Falta Você Faz](https://open.spotify.com/album/0MuYje3mI6lrvkPGSGqRNx) | 2:03 | 2024-02-02 | 2024-03-16 |
 | [Quem Vai Fazer Você Feliz?](https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8), [Nath Audizio](https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK) | [Quem Vai Fazer Você Feliz?](https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB) | 4:10 | 2022-11-18 | 2024-08-31 |
 | [Quer ou Não Quer?](https://open.spotify.com/track/6P3pUqOjoXYxsYEeqdHriP) | [Manocchio](https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Quer ou Não Quer?](https://open.spotify.com/album/2RrbFaJycZn6RiUgDTNyJK) | 3:30 | 2024-04-26 | 2024-08-10 |

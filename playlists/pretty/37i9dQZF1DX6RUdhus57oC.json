@@ -667,6 +667,22 @@
     {
       "added_at": "2025-04-11 15:22:17",
       "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/2fpijf8Ci9JIaznRWSifT0"
+      },
+      "artists": [
+        {
+          "name": "Leo Mano",
+          "url": "https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM"
+        }
+      ],
+      "duration_ms": 146491,
+      "name": "Infinite",
+      "url": "https://open.spotify.com/track/6FPMx8iE0KmRFecOqkk3td"
+    },
+    {
+      "added_at": "2025-04-11 15:22:17",
+      "album": {
         "name": "Sibylline",
         "url": "https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 131920,
       "name": "Snuggled",
       "url": "https://open.spotify.com/track/75Zh8LLgK1jnGbHsAMN2vv"
-    },
-    {
-      "added_at": "2025-04-11 15:22:17",
-      "album": {
-        "name": "Infinite",
-        "url": "https://open.spotify.com/album/2fpijf8Ci9JIaznRWSifT0"
-      },
-      "artists": [
-        {
-          "name": "Leo Mano",
-          "url": "https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM"
-        }
-      ],
-      "duration_ms": 146491,
-      "name": "Infinite",
-      "url": "https://open.spotify.com/track/6FPMx8iE0KmRFecOqkk3td"
     },
     {
       "added_at": "2025-04-11 15:22:17",

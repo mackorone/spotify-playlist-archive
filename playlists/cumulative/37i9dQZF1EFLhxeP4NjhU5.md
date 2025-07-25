@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-231 songs - 13 hr 14 min
+232 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Noches de Aventura](https://open.spotify.com/track/4iDaYVSL0zwFLacCt0F7h9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:56 | 2022-06-04 |  |
 | [Notón](https://open.spotify.com/track/6A3pjEOJ9gWGIeRdOHPRNO) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Notón](https://open.spotify.com/album/1mtxVEwAaB45BHSCpST8px) | 2:46 | 2024-06-19 |  |
 | [Obsesion](https://open.spotify.com/track/3nd5T9R83RsqZO6O9wuQnb) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:13 | 2022-06-04 |  |
-| [Oh Daddy \- Live](https://open.spotify.com/track/1HqyZT11iKz5OPyMwMNvCS) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Regalo de Madre \(Live\)](https://open.spotify.com/album/4RSb9yc29p9BHvoVMFqGiB) | 5:33 | 2025-07-16 |  |
+| [Oh Daddy](https://open.spotify.com/track/2jOhhdNkBc94SfAcrg5Z28) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 2:58 | 2025-07-24 |  |
+| [Oh Daddy \- Live](https://open.spotify.com/track/1HqyZT11iKz5OPyMwMNvCS) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Regalo de Madre \(Live\)](https://open.spotify.com/album/4RSb9yc29p9BHvoVMFqGiB) | 5:33 | 2025-07-16 | 2025-07-25 |
 | [OTRA NO](https://open.spotify.com/track/3f2K8tmTI3mHzojNYqae4h) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:32 | 2022-06-04 |  |
 | [Otra No \- Remix](https://open.spotify.com/track/60RWKNb06SM5l1GholLL9j) | [JR Music](https://open.spotify.com/artist/381YVefhk6lnkYUUUCrYIY), [Lunayy](https://open.spotify.com/artist/7vmMFafaBHG5wlJ036Y6pS), [BRYYANT MYERS](https://open.spotify.com/artist/303qarU7WRt0aSh3W8GsTw) | [EN OTRO PLANETA](https://open.spotify.com/album/4XaZ1k2smIn6Ukte4SiGWv) | 3:32 | 2023-05-27 | 2023-07-14 |
 | [Pa Ti Estoy](https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:26 | 2025-05-09 |  |

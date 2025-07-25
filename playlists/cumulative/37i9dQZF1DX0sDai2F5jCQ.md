@@ -2,9 +2,9 @@
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Your shortcut to the best new Hip Hop\. Cover: Clipse
+> Your shortcut to the best new Hip Hop\. Cover: Tyler, The Creator
 
-625 songs - 1 day 6 hr 29 min
+626 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [BOSSIN'](https://open.spotify.com/track/27jnzUW6AKDSFfM2p7eZ6v) | [Yung Milla](https://open.spotify.com/artist/3tmKWcTtmvmyM4Erdv8lV5) | [BOSSIN'](https://open.spotify.com/album/5GDMN7TuSvHvPtwV7X6GwE) | 2:37 | 2024-12-05 | 2025-01-17 |
 | [Boujee Lennons \(feat\. 2 Chainz\)](https://open.spotify.com/track/6NJ7MfZt7xdzIRNh3tbuYO) | [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Boujee Lennons](https://open.spotify.com/album/0bj5GYJ233f81yxrCQQyWx) | 3:25 | 2024-06-14 | 2024-08-02 |
 | [BOUNCE](https://open.spotify.com/track/65DCNwcfHaddqW0pEEx9t7) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [BOUNCE](https://open.spotify.com/album/7yoEytuk7oObj3NETYHDtJ) | 2:35 | 2025-03-20 |  |
-| [BOXCUTTER](https://open.spotify.com/track/00LYEmkSq6l0p1ZwKTGJI6) | [King Roman](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [BOXCUTTER](https://open.spotify.com/album/5h62A2c7IO91TFDkinz52Z) | 3:04 | 2025-03-27 |  |
+| [BOXCUTTER](https://open.spotify.com/track/00LYEmkSq6l0p1ZwKTGJI6) | [King Roman](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [BOXCUTTER](https://open.spotify.com/album/5h62A2c7IO91TFDkinz52Z) | 3:04 | 2025-03-27 | 2025-07-25 |
 | [Boys Light Up](https://open.spotify.com/track/4ErGr6NdI8DHIaf9bYuquZ) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Boys Light Up](https://open.spotify.com/album/3GfGjAm40VSALkTTkj1dyQ) | 2:49 | 2023-09-28 | 2024-03-01 |
 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 | 2024-02-22 | 2024-06-01 |
 | [Bring It](https://open.spotify.com/track/3IGcT1DMV7axlr4Wez3hRg) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Bring It](https://open.spotify.com/album/4e3KDT6hOHAkyCVjCpYBjp) | 3:20 | 2025-03-27 |  |
@@ -111,6 +111,7 @@
 | [Call Me Revenge \- Call of Duty: Modern Warfare 3](https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Call Me Revenge \(Call of Duty: Modern Warfare 3\)](https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux) | 2:46 | 2023-10-19 | 2023-12-01 |
 | [Can't Hold Me Down](https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Doodles](https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Can't Hold Me Down](https://open.spotify.com/album/0p8DBORvuoUyEa2GrUFLff) | 3:17 | 2024-09-26 | 2024-11-01 |
 | [Canarsie](https://open.spotify.com/track/4yyZkXQPuxfNhM5tPSFoHJ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Canarsie](https://open.spotify.com/album/7EvGeQSKTCqgwFb4hrO91d) | 2:48 | 2024-01-18 | 2024-04-19 |
+| [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/track/57yu1WujridphAAkPgpkhC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8) | 2:02 | 2025-07-24 |  |
 | [CARIBBEAN](https://open.spotify.com/track/6zyOSOPIBuPLFPO8h1C13l) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [CARIBBEAN](https://open.spotify.com/album/3BgbTu3wBa6cy3w74vydRV) | 1:53 | 2025-03-27 |  |
 | [CARNIVAL](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:24 | 2024-02-15 | 2024-02-17 |
 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-02-16 | 2024-06-22 |

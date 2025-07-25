@@ -4,7 +4,7 @@
 
 > Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
 
-296 songs - 23 hr 7 min
+297 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Sambetta balneare \#2 \- From "La ragazza in prestito" / Remastered 2022](https://open.spotify.com/track/1og6T6IjRwBDqCWWBbsuPJ) | [Armando Trovajoli](https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0) | [Trovajoli Disco Affair](https://open.spotify.com/album/3oBABPRcbDoS1zj4wu1NAM) | 0:44 | 2023-10-01 |  |
 | [Sasà](https://open.spotify.com/track/4uvahxJ5WfmfPf4bmEjgHc) | [Oro](https://open.spotify.com/artist/1hY5l4zl5QFXfIJU9XHtaL) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 3:42 | 2023-10-01 |  |
 | [Saúde](https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Saúde](https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR) | 5:01 | 2021-09-01 | 2023-09-08 |
+| [Sciallà](https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Sciallà](https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99) | 4:16 | 2025-07-24 |  |
 | [Se Tu Vuoi](https://open.spotify.com/track/0YDc4kVUW7J0Yr908XFEUa) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Canto Per Te](https://open.spotify.com/album/2T4GTTm7POJdcUfRKn4EC1) | 3:40 | 2023-10-01 |  |
 | [Sera a Posillipo](https://open.spotify.com/track/0z2Hcipqu5NdpJxuYXV58B) | [Rosa](https://open.spotify.com/artist/7mMRRncwUBxnuIiOeljOdv), [Whodamanny](https://open.spotify.com/artist/2qy5mylsZfOZcHYmzrOUIY), [Mystic Jungle](https://open.spotify.com/artist/0h3E1GEycmeNQ5USViniCF), [Milord](https://open.spotify.com/artist/3Vq6kuFglDGxatnDILEHjL) | [Acqua di sale](https://open.spotify.com/album/0Iz0na6iGxxjiUxQ9QtP39) | 4:45 | 2023-10-01 |  |
 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 | 2021-09-01 | 2023-09-08 |

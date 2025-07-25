@@ -543,22 +543,6 @@
     {
       "added_at": "2024-11-22 12:17:41",
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/44AsT9KZLScslPSkwASMuA"
-      },
-      "artists": [
-        {
-          "name": "Jey Kurmis",
-          "url": "https://open.spotify.com/artist/5tBoZLvUWhT8UP3QSyw8HF"
-        }
-      ],
-      "duration_ms": 205994,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/7cPKLynmNZ5Ia6o7UeBjL8"
-    },
-    {
-      "added_at": "2024-11-22 12:17:41",
-      "album": {
         "name": "Luminescence EP",
         "url": "https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 249339,
       "name": "Luminescence",
       "url": "https://open.spotify.com/track/5n7Qmz7S2ESK7Y4SeZEnvO"
+    },
+    {
+      "added_at": "2024-11-22 12:17:41",
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/44AsT9KZLScslPSkwASMuA"
+      },
+      "artists": [
+        {
+          "name": "Jey Kurmis",
+          "url": "https://open.spotify.com/artist/5tBoZLvUWhT8UP3QSyw8HF"
+        }
+      ],
+      "duration_ms": 205994,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/7cPKLynmNZ5Ia6o7UeBjL8"
     },
     {
       "added_at": "2024-11-22 12:17:41",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-11-22 12:17:41",
       "album": {
-        "name": "Small-Town Girls and Soft Summer Nights",
-        "url": "https://open.spotify.com/album/6isLTenhMfUWI3VQ5KIfvJ"
-      },
-      "artists": [
-        {
-          "name": "Emmeline",
-          "url": "https://open.spotify.com/artist/7fAUd8o33I4t30UMxfIZPR"
-        }
-      ],
-      "duration_ms": 180826,
-      "name": "The Sky Tonight",
-      "url": "https://open.spotify.com/track/4yETyNaa9Aed6veTZFu4hK"
-    },
-    {
-      "added_at": "2024-11-22 12:17:41",
-      "album": {
         "name": "Bff",
         "url": "https://open.spotify.com/album/7jPIgC4AJtuCtwCE1EHwvs"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 151240,
       "name": "Bff",
       "url": "https://open.spotify.com/track/6NvH9j53XhLJq3G5ucuI10"
+    },
+    {
+      "added_at": "2024-11-22 12:17:41",
+      "album": {
+        "name": "Small-Town Girls and Soft Summer Nights",
+        "url": "https://open.spotify.com/album/6isLTenhMfUWI3VQ5KIfvJ"
+      },
+      "artists": [
+        {
+          "name": "Emmeline",
+          "url": "https://open.spotify.com/artist/7fAUd8o33I4t30UMxfIZPR"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "The Sky Tonight",
+      "url": "https://open.spotify.com/track/4yETyNaa9Aed6veTZFu4hK"
     },
     {
       "added_at": "2024-11-22 12:17:41",

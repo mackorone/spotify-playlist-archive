@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 92389,
+  "num_followers": 92417,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,26 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Tu-Ku-Tu-Tu-Ku",
+        "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
+      },
+      "artists": [
+        {
+          "name": "Alan Rosales",
+          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
+        },
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/6U7Nvpt2KXYvTBzlRU2BHI"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "The Virus (Alan Rosales Remix)",
         "url": "https://open.spotify.com/album/6O7PasfSomfuahcbJ20IXA"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 271259,
       "name": "The Virus - Alan Rosales Remix",
       "url": "https://open.spotify.com/track/5rl4Gu9AmRwqdXTaSbqeUZ"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Tu-Ku-Tu-Tu-Ku",
-        "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
-      },
-      "artists": [
-        {
-          "name": "Alan Rosales",
-          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
-        },
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "La Bala",
-      "url": "https://open.spotify.com/track/6U7Nvpt2KXYvTBzlRU2BHI"
     }
   ],
   "unique_name": "Fiesta Tribal",

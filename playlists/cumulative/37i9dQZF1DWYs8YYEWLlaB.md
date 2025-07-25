@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: M Lisa
+> viral, trend ve yükselenler\.  Kapak: BLOK3
 
 195 songs - 10 hr 7 min
 

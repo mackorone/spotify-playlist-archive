@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,203 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,213 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 18 | [Lonely in Gorgeous](https://open.spotify.com/track/1Dl1SlF0wySEhHDrn74f3H) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Lonely in Gorgeous](https://open.spotify.com/album/0WSozCLhgdTtqgB6207YSv) | 3:52 |
 | 19 | [スイマー \- takachi\(muque\)Remix](https://open.spotify.com/track/2LWLeR4CkzXNobcaHf0lQE) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [takachi](https://open.spotify.com/artist/2hek2B1ememFdxKOSx14Lt) | [寓話γ](https://open.spotify.com/album/6MP2s7uj6MnvO5lfCbEZ2m) | 2:54 |
 | 20 | [喧騒 feat\. Aile The Shota](https://open.spotify.com/track/5vB3ShBQUxBZsNlHch2mCI) | [椎乃味醂](https://open.spotify.com/artist/0It67rh1sbAlCG80VXJVrk), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [喧騒 feat\. Aile The Shota](https://open.spotify.com/album/6etaXLGCkosiDOahDRMJC8) | 3:00 |
-| 21 | [B.U.G.](https://open.spotify.com/track/1XGT4NAcBBqJB934gLxs5v) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [B.U.G.](https://open.spotify.com/album/56J49Hg6pwO4a41EHrU6uH) | 3:46 |
+| 21 | [B.U.G.](https://open.spotify.com/track/1XGT4NAcBBqJB934gLxs5v) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [B.U.G.](https://open.spotify.com/album/56J49Hg6pwO4a41EHrU6uH) | 3:46 |
 | 22 | [B.B.M\. \(feat\. ピノキオピー\)](https://open.spotify.com/track/73PSS7LzOveJNlOp7Z3q55) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:06 |
 | 23 | [遊霊婚](https://open.spotify.com/track/0cDMDQnj35KT8WrkSnbzeL) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [遊霊婚](https://open.spotify.com/album/1WqN51nbtp6858wqmDPLYR) | 2:15 |
 | 24 | [薔薇と散る](https://open.spotify.com/track/0fi1lzX45qrp6ZWZWZWwiQ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [薔薇と散る](https://open.spotify.com/album/4oX3vpDuBMy3RB5q8ezIUW) | 3:05 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 28 | [Poker Face](https://open.spotify.com/track/2JZ8odAC7pCQenQZIakrdF) | [あみゅり](https://open.spotify.com/artist/05H9bHkWC2bCGgfLKbIUuT) | [Poker Face](https://open.spotify.com/album/4hXWWBk11hqUrqz3mTJkvD) | 3:02 |
 | 29 | [Plazma](https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Plazma](https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp) | 3:00 |
 | 30 | [亜東京 \(feat\. キタニタツヤ\)](https://open.spotify.com/track/3RUXMUcuFnfMgI20Tx5LeT) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:55 |
-| 31 | [BRIGHTER](https://open.spotify.com/track/6fogrhjCnge5TICLZ7frhL) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx), [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [BRIGHTER](https://open.spotify.com/album/17CTshHASvTqh0FBF10474) | 5:15 |
+| 31 | [BRIGHTER feat\. suisoh](https://open.spotify.com/track/6fogrhjCnge5TICLZ7frhL) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx), [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [BRIGHTER feat\. suisoh](https://open.spotify.com/album/17CTshHASvTqh0FBF10474) | 5:15 |
 | 32 | [モルト](https://open.spotify.com/track/5eY0O5x5oKAFZOYqDX5CpU) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [モルト](https://open.spotify.com/album/0zWrZx0f4gxrhNzbdqOVuy) | 2:29 |
 | 33 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
 | 34 | [BREATHE](https://open.spotify.com/track/1eJMVmUgKPH4dASBvwYbuq) | [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U) | [BREATHE](https://open.spotify.com/album/4olPBIt6b4dC2RQ4y7HV5m) | 3:35 |

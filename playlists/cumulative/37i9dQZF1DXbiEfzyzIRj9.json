@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": " \u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad.   Cover: salute",
+  "description": " \u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad.   Cover: Jamie xx",
   "name": "Altar JP",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 366829,
       "name": "2AM Cruising",
       "url": "https://open.spotify.com/track/6T2Tvws7wkXYpDHtE8ZDDl"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 223531,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/6MIrLGtq5t0I3v3IV28fPk"
@@ -6411,6 +6411,24 @@
     },
     {
       "album": {
+        "name": "Dark Knight",
+        "url": "https://open.spotify.com/album/1Y3sbnvqYJVaIXTEBN8rny"
+      },
+      "artists": [
+        {
+          "name": "Nabewalks",
+          "url": "https://open.spotify.com/artist/3T3MaUXZKyIUMhi1EcGoJb"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "Dark Knight",
+      "url": "https://open.spotify.com/track/64oCCFmyZi5TVkhx96wxp7"
+    },
+    {
+      "album": {
         "name": "DASU",
         "url": "https://open.spotify.com/album/67RyY3ewQ282LklwrRx3Li"
       },
@@ -7006,6 +7024,32 @@
       "duration_ms": 221448,
       "name": "Dirty Cash (Money Talks)",
       "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
+    },
+    {
+      "album": {
+        "name": "Dis Badman",
+        "url": "https://open.spotify.com/album/7rWOE4qznyqy2eggc1jR91"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169554,
+      "name": "Dis Badman",
+      "url": "https://open.spotify.com/track/67OlGJITLmRSqrFmI90Uc2"
     },
     {
       "album": {
@@ -7765,6 +7809,24 @@
     },
     {
       "album": {
+        "name": "Dream Night",
+        "url": "https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267693,
+      "name": "Dream Night",
+      "url": "https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv"
+    },
+    {
+      "album": {
         "name": "Dream Sketches - EP",
         "url": "https://open.spotify.com/album/6Ge4Wimlnh6lI7skPkLAEL"
       },
@@ -8304,7 +8366,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 311656,
       "name": "El House",
       "url": "https://open.spotify.com/track/1DSzKpOXZjYjLal49RcvRx"
@@ -11949,6 +12011,28 @@
     },
     {
       "album": {
+        "name": "gossip",
+        "url": "https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199690,
+      "name": "gossip",
+      "url": "https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q"
+    },
+    {
+      "album": {
         "name": "Got Everything",
         "url": "https://open.spotify.com/album/2frve4kqfLD6NnNE03xPUn"
       },
@@ -12396,7 +12480,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 219894,
       "name": "Hard Work",
       "url": "https://open.spotify.com/track/7pU9cVvLedZy0E0GFJE2K7"
@@ -13324,7 +13408,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 202787,
       "name": "Hypnotised (feat. Linden Jay)",
       "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
@@ -22602,7 +22686,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 319377,
       "name": "Resistance - Extended Mix",
       "url": "https://open.spotify.com/track/63NmwrZioR6yJyDW2cXFR9"
@@ -22850,7 +22934,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 267692,
       "name": "Risky Dice",
       "url": "https://open.spotify.com/track/2BlXpDoccN7pkGjMEgusVi"
@@ -26397,6 +26481,28 @@
     },
     {
       "album": {
+        "name": "Taarsitillugu",
+        "url": "https://open.spotify.com/album/1oj1qSdSgeZbM8CdFBs936"
+      },
+      "artists": [
+        {
+          "name": "Tarrak",
+          "url": "https://open.spotify.com/artist/3FTKo3aheAF0aAxbJWyiP8"
+        },
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327938,
+      "name": "Taarsitillugu",
+      "url": "https://open.spotify.com/track/6KbrGler8kLr12polFq5Se"
+    },
+    {
+      "album": {
         "name": "Tactics for Survival (Karen Nyame KG Remix)",
         "url": "https://open.spotify.com/album/3z17J25vRB6EM8SoPWq6ur"
       },
@@ -29517,6 +29623,24 @@
     },
     {
       "album": {
+        "name": "Vital Loop",
+        "url": "https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236659,
+      "name": "Vital Loop",
+      "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"
+    },
+    {
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/1iEokRazattrY3nivVFgqg"
       },
@@ -30644,6 +30768,24 @@
       "duration_ms": 390826,
       "name": "Whirl - Ruf Dug Remix",
       "url": "https://open.spotify.com/track/6l9IJptNvc1mds57xa4nvs"
+    },
+    {
+      "album": {
+        "name": "Whispers into the Void",
+        "url": "https://open.spotify.com/album/4bSxth2Rb9Vm452Cs62vUj"
+      },
+      "artists": [
+        {
+          "name": "Shinichi Atobe",
+          "url": "https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455173,
+      "name": "Whispers into the Void",
+      "url": "https://open.spotify.com/track/3dwEkEwu9KVcJu2FwBj8CH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-162 songs - 7 hr 41 min
+163 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Drizzling](https://open.spotify.com/track/2czlzoPXzidrNnJ1vLdqV8) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Lightrise \(Rain\)](https://open.spotify.com/album/7JosAVi4UAQ2LT0Bjoyex6) | 3:00 | 2022-11-21 |  |
 | [Drop By Drop](https://open.spotify.com/track/4yrGzEFy7YYNyoSsKe1tRQ) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Rain over Cornwall](https://open.spotify.com/album/2UdIfBZWnq0uNMvkPEirzy) | 3:28 | 2022-11-21 | 2022-12-17 |
 | [Droplet Town](https://open.spotify.com/track/0bh2pEC2JtYLTRvFfk6Y1H) | [Nimbostratus](https://open.spotify.com/artist/5BvEMjeBwQ9W4CLqZPue8Q) | [Rainy Lake](https://open.spotify.com/album/5EUqSpKY5X9WIOlIM29gxo) | 2:48 | 2023-10-11 | 2024-12-18 |
+| [Drops During Dream](https://open.spotify.com/track/0Y2AiBpOVTg69UDxGozu4w) | [Alois](https://open.spotify.com/artist/6WqG9JAQw07tR3BUuwNTHt) | [Drops During Dream](https://open.spotify.com/album/2uZ06TUDBXNc54ueZj8o8i) | 2:20 | 2025-07-24 |  |
 | [Elk Island Rains](https://open.spotify.com/track/6gZxdpFeJmK3sDLFiM7C46) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Calming Rain Harmony](https://open.spotify.com/album/7DRdQShYrQikRl9Vyggemq) | 3:01 | 2023-10-11 |  |
 | [En Paz](https://open.spotify.com/track/0LFxvRcHo2foS0n1zeFQvR) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Sereno](https://open.spotify.com/album/5KLu6QHGCznPcCB9GJvyMM) | 2:35 | 2022-11-21 |  |
 | [Entre Plantas](https://open.spotify.com/track/4it4eEguD6Uh0y2AfuwpNa) | [Radio Pluvialis](https://open.spotify.com/artist/55ZWeI199GqB3xiSig23pa) | [Entre Plantas](https://open.spotify.com/album/2oJzIUJEKI2hj9iUwCvuyE) | 2:40 | 2023-10-11 | 2024-08-30 |
@@ -89,7 +90,7 @@
 | [Marsh Rain](https://open.spotify.com/track/73Jog73qPjjenmScCbRbb6) | [Earth Thunder Sounds 2021](https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u) | [Thunder And Lightning Vol\. 2](https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe) | 2:58 | 2022-11-21 | 2022-12-17 |
 | [Mind Calming Rain](https://open.spotify.com/track/3BrPyPlC5WPyjyfKnSIdPC) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Mind Calming Rainstorms](https://open.spotify.com/album/3Qx3DrWXvBGpnzxHoJqH9k) | 3:00 | 2023-10-11 |  |
 | [Mindful in Rain Forest](https://open.spotify.com/track/40niuYLA6ulrd44iFW1SCU) | [Stormy Dreams \(Rain\)](https://open.spotify.com/artist/6jBF6u1RN8CYqvGxveYII2) | [Even More Stormy Rain](https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve) | 2:20 | 2022-11-21 |  |
-| [Mirage](https://open.spotify.com/track/70e9mOoJhyBmXfGAoYvb2c) | [Rainer & Co](https://open.spotify.com/artist/32kTl7TpcOPnTMNqXXyd6y) | [Aquapeace](https://open.spotify.com/album/0J4YkWLy85IjtD9rMOdU6M) | 2:20 | 2023-10-11 |  |
+| [Mirage](https://open.spotify.com/track/70e9mOoJhyBmXfGAoYvb2c) | [Rainer & Co](https://open.spotify.com/artist/32kTl7TpcOPnTMNqXXyd6y) | [Aquapeace](https://open.spotify.com/album/0J4YkWLy85IjtD9rMOdU6M) | 2:20 | 2023-10-11 | 2025-07-25 |
 | [Morning Rain \(Green Noise\)](https://open.spotify.com/track/6kl9bLSIzREKNdYOtALKdM) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:29 | 2023-06-16 |  |
 | [Mountain Thunderstorm](https://open.spotify.com/track/29XSvNdu4rTuvWgxeiMDM7) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:55 | 2022-11-21 |  |
 | [Night Rain In The Garden](https://open.spotify.com/track/0GdM8G5zBlK3DI18vaFHeT) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [My Secret Garden](https://open.spotify.com/album/0KtKDMceROcLz6Ft4b7aEY) | 2:26 | 2023-02-13 |  |

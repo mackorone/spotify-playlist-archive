@@ -246,7 +246,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 312267,
       "name": "Control Your Destiny (feat. Aktual)",
       "url": "https://open.spotify.com/track/5DhAWr9YOcbqk7077Dcxi5"
@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Noble Justice",
+        "url": "https://open.spotify.com/album/67kCSP1gVssHpc0z0Kqets"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260333,
+      "name": "Godz Handz",
+      "url": "https://open.spotify.com/track/6nFD6fxH5l1fWiWrG85etH"
+    },
+    {
+      "album": {
         "name": "Positive Vibes Only",
         "url": "https://open.spotify.com/album/3Zo7beAfN4fusdgeAWedjd"
       },
@@ -480,7 +498,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 196153,
       "name": "Grow Through It (feat. J.Dot.L & Young Noble)",
       "url": "https://open.spotify.com/track/7950mPHg3yU4JpWkaC95al"
@@ -858,7 +876,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 171083,
       "name": "Outlaw Lifestyle",
       "url": "https://open.spotify.com/track/5kok2Oe0eGVNwJGVfz8Xjw"
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 64128,
       "name": "Rap God",
       "url": "https://open.spotify.com/track/6bDCSfBOCbHgJq3Tv7RQjW"
@@ -1426,7 +1444,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 240014,
       "name": "Ungrateful (feat. Paris Roze & Tony Atlanta)",
       "url": "https://open.spotify.com/track/1tMtQwxPmYVELaHheAo4GA"

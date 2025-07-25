@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 224709,
+  "num_followers": 224773,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Que Gente Averigua",
+        "url": "https://open.spotify.com/album/7mpXUilEGA93vFJDrpQEaK"
+      },
+      "artists": [
+        {
+          "name": "Mon Rivera",
+          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "Lluvia Con Nieve",
+      "url": "https://open.spotify.com/track/1bTfh8IF7GIOuxtQcfXMF4"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Celia y Johnny",
         "url": "https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg"
       },
@@ -219,22 +235,6 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Jala Jala Y Boogaloo",
-        "url": "https://open.spotify.com/album/4UnQVmkl3uH5mEBeAvQbjH"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Ray",
-          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
-        }
-      ],
-      "duration_ms": 307146,
-      "name": "Richie's Jala Jala",
-      "url": "https://open.spotify.com/track/4Mk7napJbsKzRAs38jy0oK"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
       },
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Que Gente Averigua",
-        "url": "https://open.spotify.com/album/7mpXUilEGA93vFJDrpQEaK"
+        "name": "Jala Jala Y Boogaloo",
+        "url": "https://open.spotify.com/album/4UnQVmkl3uH5mEBeAvQbjH"
       },
       "artists": [
         {
-          "name": "Mon Rivera",
-          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
+          "name": "Ricardo Ray",
+          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
         }
       ],
-      "duration_ms": 177680,
-      "name": "Lluvia Con Nieve",
-      "url": "https://open.spotify.com/track/1bTfh8IF7GIOuxtQcfXMF4"
+      "duration_ms": 307146,
+      "name": "Richie's Jala Jala",
+      "url": "https://open.spotify.com/track/4Mk7napJbsKzRAs38jy0oK"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -463,8 +463,8 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "A Man And His Music",
-        "url": "https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89"
+        "name": "With A Little Help From My Friend",
+        "url": "https://open.spotify.com/album/0XmKZ22TgWZ2c1X7dxWPAw"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
         }
       ],
-      "duration_ms": 230573,
-      "name": "El Raton",
-      "url": "https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA"
+      "duration_ms": 282213,
+      "name": "Salome",
+      "url": "https://open.spotify.com/track/2DHrS1przbyBmf6Pf22v8R"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -543,8 +543,8 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "With A Little Help From My Friend",
-        "url": "https://open.spotify.com/album/0XmKZ22TgWZ2c1X7dxWPAw"
+        "name": "A Man And His Music",
+        "url": "https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
         }
       ],
-      "duration_ms": 282213,
-      "name": "Salome",
-      "url": "https://open.spotify.com/track/2DHrS1przbyBmf6Pf22v8R"
+      "duration_ms": 230573,
+      "name": "El Raton",
+      "url": "https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA"
     },
     {
       "added_at": "2024-09-24 20:30:16",

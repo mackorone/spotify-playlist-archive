@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Camille Yembe
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,525 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,520 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 6 | [QUI FERA TAIRE LES KIDZ FUCKED UP??](https://open.spotify.com/track/6aLLPBxLZUK4E8DIKdcbN8) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [COMÈTE](https://open.spotify.com/album/4CKVF1Nic1t4j02iZnfi8Y) | 3:33 |
 | 7 | [SHERIFF](https://open.spotify.com/track/0OLTRDHMkxaxG2lxj9JTWe) | [Sherifflazone](https://open.spotify.com/artist/3LkkxNCsK47Af8vXoIVG0L) | [SHERIFF](https://open.spotify.com/album/3p511CfQ01Bltq9XD4l1II) | 2:10 |
 | 8 | [L'idée de toi](https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [L'idée de toi](https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf) | 2:02 |
-| 9 | [cartoon sex](https://open.spotify.com/track/29e6ReEaYrbFMW1DWpzdAh) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:17 |
+| 9 | [cartoon sex](https://open.spotify.com/track/29e6ReEaYrbFMW1DWpzdAh) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:17 |
 | 10 | [NY1504](https://open.spotify.com/track/1ZQ4VjqMG7v24ynzQoA6Fc) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [NY1504](https://open.spotify.com/album/3NigFUiM9FTxwVdbdY7rIl) | 2:29 |
 | 11 | [Bisou sur la bouche](https://open.spotify.com/track/7fqqRZLmJVUt6q8pkW4cMr) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Plus de bisous sur la bouche](https://open.spotify.com/album/76f3dJq4zjLQrcA5d84DZY) | 2:45 |
 | 12 | [Pêche passion](https://open.spotify.com/track/4hu0o3B2d087RhfDmEdzv9) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Nichen](https://open.spotify.com/album/6eiMp5iV6B2njgjq743EOF) | 2:50 |

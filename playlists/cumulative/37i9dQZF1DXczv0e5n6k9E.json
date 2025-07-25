@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: DIFF, BeTaf Beats",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Bossikan, RICTA",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -126,6 +126,32 @@
       "duration_ms": 144207,
       "name": "2018 (Kano Oti Thelo)",
       "url": "https://open.spotify.com/track/6GXIa26dQgBpyxHxJixPgL"
+    },
+    {
+      "album": {
+        "name": "24-7",
+        "url": "https://open.spotify.com/album/62ZalWfts0xJDxVNqjCL8s"
+      },
+      "artists": [
+        {
+          "name": "Mario Kush",
+          "url": "https://open.spotify.com/artist/1o9oGVl9x0NWqJMrfti1rq"
+        },
+        {
+          "name": "Beef",
+          "url": "https://open.spotify.com/artist/2VNT6clZeYqMfOs75oGxiE"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "24-7",
+      "url": "https://open.spotify.com/track/27FfPE8IojdC9M7fBIb3jT"
     },
     {
       "album": {
@@ -370,7 +396,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 166184,
       "name": "900 HP",
       "url": "https://open.spotify.com/track/0hPrlXWvNoepVF8eidONY5"
@@ -2540,7 +2566,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 134642,
       "name": "Doug MacRay",
       "url": "https://open.spotify.com/track/1Oz8LGzA7mTQt5IgwLAxvZ"
@@ -2942,6 +2968,24 @@
       "duration_ms": 194000,
       "name": "Ergo (The Beginning)",
       "url": "https://open.spotify.com/track/1ZG8uXRoWqnfhCpZuCmyZT"
+    },
+    {
+      "album": {
+        "name": "Erhmia",
+        "url": "https://open.spotify.com/album/3XQSiiFtEjajpU2BHfATAf"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131065,
+      "name": "Erhmia",
+      "url": "https://open.spotify.com/track/2UePKNtKiYpgxpAhuDOxzS"
     },
     {
       "album": {
@@ -3640,7 +3684,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 151898,
       "name": "GANGSTA",
       "url": "https://open.spotify.com/track/2fduNRNDHBMVBtOX4bZNvX"
@@ -4459,6 +4503,36 @@
     },
     {
       "album": {
+        "name": "INA",
+        "url": "https://open.spotify.com/album/62u88PmLPXH0F5eBx63R64"
+      },
+      "artists": [
+        {
+          "name": "HGEMONA$",
+          "url": "https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm"
+        },
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Joanne",
+          "url": "https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "INA",
+      "url": "https://open.spotify.com/track/2OhQ0ASJMdj6TvQMwxi8E9"
+    },
+    {
+      "album": {
         "name": "INDIGO",
         "url": "https://open.spotify.com/album/1976z2IeTXjUnfxbMthwu4"
       },
@@ -4738,6 +4812,28 @@
       "duration_ms": 140947,
       "name": "Jelly",
       "url": "https://open.spotify.com/track/2bcgX04GvadeZcjljz71U6"
+    },
+    {
+      "album": {
+        "name": "Jet Ski",
+        "url": "https://open.spotify.com/album/5k8NMTnkqtihygTdNOS8ec"
+      },
+      "artists": [
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        },
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Jet Ski",
+      "url": "https://open.spotify.com/track/2YdTzMRtxg6ACr8CdhhHk1"
     },
     {
       "album": {
@@ -5058,6 +5154,32 @@
       "duration_ms": 167832,
       "name": "Killer Instict",
       "url": "https://open.spotify.com/track/0JqVQLDT3Y21rTZwGrdjlu"
+    },
+    {
+      "album": {
+        "name": "Kilo Flex",
+        "url": "https://open.spotify.com/album/2QFxDS8OG6G0RjK6a6X6BO"
+      },
+      "artists": [
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Gaglia",
+          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Kilo Flex",
+      "url": "https://open.spotify.com/track/3kIRBFtnyPaS7EZtjrFsja"
     },
     {
       "album": {
@@ -7780,7 +7902,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 193777,
       "name": "PROTI FORA",
       "url": "https://open.spotify.com/track/0orfP9WmV030xZoVcLyaf8"
@@ -10554,7 +10676,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 136000,
       "name": "Ziliara",
       "url": "https://open.spotify.com/track/1ElcwT6b6UEQSSERkzo7Ru"

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 37882,
+  "num_followers": 37926,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-07-18 00:01:18",
       "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170191,
-      "name": "Luvaluvah",
-      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
-    },
-    {
-      "added_at": "2025-07-18 00:01:18",
-      "album": {
         "name": "Candor",
         "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 175666,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
+    },
+    {
+      "added_at": "2025-07-18 00:01:18",
+      "album": {
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 170191,
+      "name": "Luvaluvah",
+      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
     },
     {
       "added_at": "2025-07-18 00:01:18",
@@ -211,22 +211,18 @@
     {
       "added_at": "2025-07-18 00:01:18",
       "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Slow (feat. Ana\u00efs Cardot)",
-      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
+      "duration_ms": 201874,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/51yPymXsGbEyh7InU6yRJP"
     },
     {
       "added_at": "2025-07-18 00:01:18",
@@ -247,18 +243,22 @@
     {
       "added_at": "2025-07-18 00:01:18",
       "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
       "artists": [
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
         }
       ],
-      "duration_ms": 201874,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/51yPymXsGbEyh7InU6yRJP"
+      "duration_ms": 205373,
+      "name": "Slow (feat. Ana\u00efs Cardot)",
+      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
     },
     {
       "added_at": "2025-07-18 00:01:18",
@@ -299,6 +299,38 @@
     {
       "added_at": "2025-07-18 00:01:18",
       "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 187590,
+      "name": "Ashimolowo",
+      "url": "https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv"
+    },
+    {
+      "added_at": "2025-07-18 00:01:18",
+      "album": {
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 176159,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
+    },
+    {
+      "added_at": "2025-07-18 00:01:18",
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -335,22 +367,6 @@
     {
       "added_at": "2025-07-18 00:01:18",
       "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 187590,
-      "name": "Ashimolowo",
-      "url": "https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv"
-    },
-    {
-      "added_at": "2025-07-18 00:01:18",
-      "album": {
         "name": "CKay The Second",
         "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
       },
@@ -367,42 +383,6 @@
     {
       "added_at": "2025-07-18 00:01:18",
       "album": {
-        "name": "No Sign of Weakness",
-        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176159,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
-    },
-    {
-      "added_at": "2025-07-18 00:01:18",
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Bad For You (feat. Jazmine Sullivan)",
-      "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
-    },
-    {
-      "added_at": "2025-07-18 00:01:18",
-      "album": {
         "name": "Moving",
         "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
       },
@@ -415,22 +395,6 @@
       "duration_ms": 140367,
       "name": "Moving",
       "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
-    },
-    {
-      "added_at": "2025-07-18 00:01:18",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/5wYx0Bp7R3lshZPlw2FtaC"
-      },
-      "artists": [
-        {
-          "name": "FRDND",
-          "url": "https://open.spotify.com/artist/1hox0lgv5Ga5J0lsGOzNop"
-        }
-      ],
-      "duration_ms": 151616,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/28n1skz49scCpVdP701hR7"
     },
     {
       "added_at": "2025-07-18 00:01:18",
@@ -459,6 +423,42 @@
     {
       "added_at": "2025-07-18 00:01:18",
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/5wYx0Bp7R3lshZPlw2FtaC"
+      },
+      "artists": [
+        {
+          "name": "FRDND",
+          "url": "https://open.spotify.com/artist/1hox0lgv5Ga5J0lsGOzNop"
+        }
+      ],
+      "duration_ms": 151616,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/28n1skz49scCpVdP701hR7"
+    },
+    {
+      "added_at": "2025-07-18 00:01:18",
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Bad For You (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
+    },
+    {
+      "added_at": "2025-07-18 00:01:18",
+      "album": {
         "name": "So Much Sense",
         "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 168072,
       "name": "So Much Sense",
       "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
-    },
-    {
-      "added_at": "2025-07-18 00:01:18",
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "A Million Blessings",
-      "url": "https://open.spotify.com/track/2hZttcpkiVBA6thTLFDaS9"
     },
     {
       "added_at": "2025-07-18 00:01:18",
@@ -543,6 +527,22 @@
       "duration_ms": 202861,
       "name": "Phenomena",
       "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
+    },
+    {
+      "added_at": "2025-07-18 00:01:18",
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "A Million Blessings",
+      "url": "https://open.spotify.com/track/2hZttcpkiVBA6thTLFDaS9"
     },
     {
       "added_at": "2025-07-18 00:01:18",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-07-18 00:01:18",
       "album": {
+        "name": "Soundgod Fest IV",
+        "url": "https://open.spotify.com/album/23h9PNNngtRFuQouyVFEsv"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "duration_ms": 128660,
+      "name": "Bebe",
+      "url": "https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I"
+    },
+    {
+      "added_at": "2025-07-18 00:01:18",
+      "album": {
         "name": "EMOTIONS",
         "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 194436,
       "name": "Toro - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
-    },
-    {
-      "added_at": "2025-07-18 00:01:18",
-      "album": {
-        "name": "Soundgod Fest IV",
-        "url": "https://open.spotify.com/album/23h9PNNngtRFuQouyVFEsv"
-      },
-      "artists": [
-        {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
-        }
-      ],
-      "duration_ms": 128660,
-      "name": "Bebe",
-      "url": "https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I"
     },
     {
       "added_at": "2025-07-18 00:01:18",
@@ -955,6 +955,30 @@
     {
       "added_at": "2025-07-18 00:01:18",
       "album": {
+        "name": "My Shayla",
+        "url": "https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95"
+      },
+      "artists": [
+        {
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        {
+          "name": "Mbryo",
+          "url": "https://open.spotify.com/artist/3x9zvETvpbvSM8xL0pxyDy"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "My Shayla",
+      "url": "https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ"
+    },
+    {
+      "added_at": "2025-07-18 00:01:18",
+      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m"
       },
@@ -1035,26 +1059,18 @@
     {
       "added_at": "2025-07-18 00:01:18",
       "album": {
-        "name": "My Shayla",
-        "url": "https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95"
+        "name": "Soundtrack to Great Sex",
+        "url": "https://open.spotify.com/album/7GHxdwWkHmX8whDmKFpski"
       },
       "artists": [
         {
-          "name": "Mavins",
-          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
-        },
-        {
-          "name": "Mbryo",
-          "url": "https://open.spotify.com/artist/3x9zvETvpbvSM8xL0pxyDy"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Eli Jae",
+          "url": "https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ"
         }
       ],
-      "duration_ms": 153500,
-      "name": "My Shayla",
-      "url": "https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ"
+      "duration_ms": 144516,
+      "name": "No Yawa",
+      "url": "https://open.spotify.com/track/4UeTcl6NfFc85bZyuaB6BX"
     },
     {
       "added_at": "2025-07-18 00:01:18",
@@ -1071,22 +1087,6 @@
       "duration_ms": 156320,
       "name": "Must Have Been",
       "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"
-    },
-    {
-      "added_at": "2025-07-18 00:01:18",
-      "album": {
-        "name": "Soundtrack to Great Sex",
-        "url": "https://open.spotify.com/album/7GHxdwWkHmX8whDmKFpski"
-      },
-      "artists": [
-        {
-          "name": "Eli Jae",
-          "url": "https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ"
-        }
-      ],
-      "duration_ms": 144516,
-      "name": "No Yawa",
-      "url": "https://open.spotify.com/track/4UeTcl6NfFc85bZyuaB6BX"
     },
     {
       "added_at": "2025-07-18 00:01:18",
@@ -1439,6 +1439,30 @@
     {
       "added_at": "2025-07-18 00:01:18",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/5Vkrn9wvQoHTXVg4MI3DiI"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Spratt",
+          "url": "https://open.spotify.com/artist/1dn9CnVS5B1JTPFOzjhXq6"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/4BYukA1XrZsr7O07yqghgM"
+    },
+    {
+      "added_at": "2025-07-18 00:01:18",
+      "album": {
         "name": "ARABAMBI",
         "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
       },
@@ -1451,30 +1475,6 @@
       "duration_ms": 190226,
       "name": "ARABAMBI",
       "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
-    },
-    {
-      "added_at": "2025-07-18 00:01:18",
-      "album": {
-        "name": "Futuristic (Remix)",
-        "url": "https://open.spotify.com/album/0lBLVeKUDml58h5NZUX9AH"
-      },
-      "artists": [
-        {
-          "name": "Yung D3mz",
-          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
-        },
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        },
-        {
-          "name": "Tera K\u00f2r\u00e1",
-          "url": "https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "Futuristic (Remix)",
-      "url": "https://open.spotify.com/track/3BGyEi3sWnqDaoPoZslkKO"
     }
   ],
   "unique_name": "Afro Chill",

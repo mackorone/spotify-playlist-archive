@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : SenSey'
+> Le R&B français, nouvelle ère\. Photo : RnBoi
 
-517 songs - 1 day 0 hr 30 min
+519 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Câlin \(feat\. Soolking\)](https://open.spotify.com/track/4pqcE2mKv6aEiDkgtObDJK) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Un peu de moi](https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj) | 2:46 | 2023-04-27 | 2023-08-25 |
 | [D.S.L \(feat\. Merveille\)](https://open.spotify.com/track/6ZJ1i1Jjb4AmmW8BHHzgft) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [D.S.L \(feat\. Merveille\)](https://open.spotify.com/album/16UxdYbqp0V1qt8dPcHirV) | 2:28 | 2024-08-29 | 2024-12-13 |
 | [Danger](https://open.spotify.com/track/4Dh4g0Q7JN1fpvUnLltGRd) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Danger](https://open.spotify.com/album/23OL4rzCOj5MFPC4BNVhgz) | 2:30 | 2025-03-20 | 2025-05-23 |
-| [DANGER](https://open.spotify.com/track/3CYyNQoNq0t2eAGVpO53vJ) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [DANGER](https://open.spotify.com/album/17KQY949RowNoL8686pDUf) | 2:29 | 2025-06-26 |  |
+| [DANGER](https://open.spotify.com/track/3CYyNQoNq0t2eAGVpO53vJ) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [DANGER](https://open.spotify.com/album/17KQY949RowNoL8686pDUf) | 2:29 | 2025-06-26 | 2025-07-25 |
 | [Danger](https://open.spotify.com/track/6IZpLClwwfBwe1OJhTlUTZ) | [T2R](https://open.spotify.com/artist/6aH4CaxRV988XUNLVSi1dZ) | [Danger](https://open.spotify.com/album/2n6p53MoLL1s9TEOVUxxrS) | 3:20 | 2025-04-17 | 2025-05-09 |
 | [Dangereuse](https://open.spotify.com/track/1Xbhl1jCBvOP8APtVW3Qlp) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Dangereuse](https://open.spotify.com/album/2jUb2ndTkptvv6VbhgQRTC) | 2:17 | 2023-01-26 | 2023-03-03 |
 | [Dans l'âme \- A COLORS SHOW](https://open.spotify.com/track/1hfC7uB2OPnuaxeKk46NjJ) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [Dans l'âme \- A COLORS SHOW](https://open.spotify.com/album/5ZYw8uJ18yrygOWPeMhnO1) | 3:17 | 2024-01-18 | 2024-03-15 |
@@ -207,7 +207,7 @@
 | [Insomnie \(feat\. Ya Levis\)](https://open.spotify.com/track/08jAdH80Up9QDh4YEKGeiB) | [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Insomnie \(feat\. Ya Levis\)](https://open.spotify.com/album/4e0dL7zfHXkmNidenDkufa) | 2:59 | 2023-09-14 | 2023-12-08 |
 | [Instable](https://open.spotify.com/track/4QnMdkE93o6XUQWCxfoneV) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [Instable](https://open.spotify.com/album/2R73xRr7bH7473XAjVgfeH) | 2:27 | 2024-10-03 | 2025-01-31 |
 | [Inta habibi](https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt) | 2:39 | 2023-01-19 | 2023-03-31 |
-| [Intro](https://open.spotify.com/track/3tPFvwCskHqJTijBhJOlOE) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Elles m'aiment, elle me déteste](https://open.spotify.com/album/43IucnUasnrIBYM1F4XXEt) | 2:46 | 2025-06-12 |  |
+| [Intro](https://open.spotify.com/track/3tPFvwCskHqJTijBhJOlOE) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Elles m'aiment, elle me déteste](https://open.spotify.com/album/43IucnUasnrIBYM1F4XXEt) | 2:46 | 2025-06-12 | 2025-07-25 |
 | [Introspection](https://open.spotify.com/track/1yeJ6DlxBQrDeqPNdqge8N) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Introspection](https://open.spotify.com/album/4E8UsLksU1MlHU2jZDajvO) | 4:16 | 2025-02-27 | 2025-03-21 |
 | [J'ai coupé l'contact](https://open.spotify.com/track/3liR9Cia9UkxjMU3lMFXUh) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [J'ai coupé l'contact](https://open.spotify.com/album/2XmfrnYNdqPJ6wcKEXHu03) | 2:50 | 2024-12-05 | 2025-01-17 |
 | [J'ai cru en toi](https://open.spotify.com/track/4p0dYYUDf1pcG8gaK9YvWK) | [Sirine Jne](https://open.spotify.com/artist/3ZZZzt75IwYr287gQ161CA) | [J'ai cru en toi](https://open.spotify.com/album/5kt9nh7Yf8qYUZ0l68nHGn) | 2:27 | 2023-03-09 | 2023-04-14 |
@@ -411,6 +411,7 @@
 | [Reviens \(feat\. Monsieur Nov\)](https://open.spotify.com/track/2TznxnlgqH0krjbxZ3eKRR) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [CUXI BOY](https://open.spotify.com/album/29kerNnsk9CbEqgtchFlAJ) | 2:35 | 2025-02-13 | 2025-06-27 |
 | [Reviens jamais](https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Reviens jamais](https://open.spotify.com/album/746WkKV7QPnIwwupgfGDaU) | 2:41 | 2024-10-10 | 2025-03-07 |
 | [RODÉO](https://open.spotify.com/track/7MxQsNFwVSMfAE1ZCdu6es) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [RODÉO](https://open.spotify.com/album/0uNtBDNp16EMfJBFg8h8l5) | 2:22 | 2025-04-10 | 2025-05-09 |
+| [Ronaldinho](https://open.spotify.com/track/3DYV381YUwmTpwJEYPboPS) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Ronaldinho](https://open.spotify.com/album/59W5FaqcIBo9pv4BASTzf8) | 3:23 | 2025-07-24 |  |
 | [Roses](https://open.spotify.com/track/6Wt11M63GQsTr4FMR8YyMt) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Roses](https://open.spotify.com/album/7Lfnq16oFlmwsCTYOXkunW) | 3:36 | 2023-05-11 | 2023-06-23 |
 | [S'égarer](https://open.spotify.com/track/5Xd91RDpolFeOh9uXJKPux) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [S'égarer](https://open.spotify.com/album/7m3mfDHqK57CJpYTdyEJlA) | 2:16 | 2024-08-08 | 2024-09-13 |
 | [S.O.S](https://open.spotify.com/track/22cx7Yei6YPRaKLCvyKQMQ) | [Prototype](https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [S.O.S](https://open.spotify.com/album/08ksLbbYidSLVQ3W79Lwt6) | 3:03 | 2024-06-27 | 2024-08-30 |
@@ -425,6 +426,7 @@
 | [Sans limites](https://open.spotify.com/track/2gkshQ8u25t77sNqlPrOuj) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [Sans limites](https://open.spotify.com/album/3d1hq0WwzpXW2GdWIAZqxu) | 3:35 | 2025-02-13 | 2025-03-14 |
 | [Sans se retourner \(feat\. Leto\)](https://open.spotify.com/track/2uwU4OSLfYn1uMchldn0eP) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Story](https://open.spotify.com/album/2RF2jT1Uuyyo9b65GQzJ6y) | 2:50 | 2024-05-16 | 2024-10-11 |
 | [SANS TOI](https://open.spotify.com/track/4IeoMdrZbqqGuTZJTvT2OI) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2), [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [SANS TOI](https://open.spotify.com/album/4rNTWPDhWIjsThUDt0BYja) | 2:58 | 2025-03-06 | 2025-05-09 |
+| [SATANA](https://open.spotify.com/track/1KmxcGCJsDimV7fmcgVHX9) | [Bushibabe](https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl) | [SATANA](https://open.spotify.com/album/7cKPEccUrgoczmttaJQR67) | 2:24 | 2025-07-24 |  |
 | [Scénario](https://open.spotify.com/track/0dDak7CneLpm8WeywAt9mT) | [Ophi](https://open.spotify.com/artist/5s16Xc4BNte6wSYcjBekbn) | [Scénario](https://open.spotify.com/album/5a36s8StDDx3L1MITLlNqX) | 3:07 | 2025-03-20 | 2025-04-18 |
 | [Secret](https://open.spotify.com/track/1zeHHVvlytOKg37iwMBK9y) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [En attendant PM](https://open.spotify.com/album/62FGudHITMLyLr0dZFV8Xa) | 3:02 | 2023-06-22 | 2023-10-20 |
 | [Selfie](https://open.spotify.com/track/1vb6yFE9Rh2nUBzpZEPUPx) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml), [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [Selfie](https://open.spotify.com/album/1B1RaBEv5jO1rK0yPWkhUr) | 2:48 | 2024-03-07 | 2024-05-03 |

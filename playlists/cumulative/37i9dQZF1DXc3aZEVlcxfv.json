@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "All Around",
+        "url": "https://open.spotify.com/album/5H0eZ8emSE3bW2QSkhuFZp"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Jordan May",
+          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164322,
+      "name": "All Around",
+      "url": "https://open.spotify.com/track/3OrBVGYz6opSiyzn4xruDa"
+    },
+    {
+      "album": {
         "name": "All Joy",
         "url": "https://open.spotify.com/album/122hkcSAoi32jiFRRdCtLD"
       },
@@ -228,6 +250,28 @@
       "duration_ms": 181871,
       "name": "Anointed",
       "url": "https://open.spotify.com/track/4CI322Awug5Uma3ynVJYLU"
+    },
+    {
+      "album": {
+        "name": "Anointed (II)",
+        "url": "https://open.spotify.com/album/7w1mi7r30eNP3QZe4ElEeK"
+      },
+      "artists": [
+        {
+          "name": "Daniel Mylez",
+          "url": "https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203702,
+      "name": "Anointed (II)",
+      "url": "https://open.spotify.com/track/3J8xiSgYueHkxQeFkS8eWj"
     },
     {
       "album": {
@@ -561,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Big Things",
+        "url": "https://open.spotify.com/album/5GOTrUvWfFzsDUjMUDXIhL"
+      },
+      "artists": [
+        {
+          "name": "Spirit of Prophecy",
+          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Big Things",
+      "url": "https://open.spotify.com/track/02Vg4F3nXYqdNRr8DqQLtL"
+    },
+    {
+      "album": {
         "name": "Bless",
         "url": "https://open.spotify.com/album/20EtjpYHvCqnEtqa9sqOoO"
       },
@@ -624,7 +686,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 168000,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/7fgogLsPWxBlvCK9SBcMKn"
@@ -1824,7 +1886,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 225958,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/1pFFPEQN4EzdcbeMpF8P45"
@@ -3397,6 +3459,28 @@
     },
     {
       "album": {
+        "name": "IMELA II",
+        "url": "https://open.spotify.com/album/6OX60dnwVdfd9eCAWBWavd"
+      },
+      "artists": [
+        {
+          "name": "Imancee",
+          "url": "https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6"
+        },
+        {
+          "name": "Tevinnmusic",
+          "url": "https://open.spotify.com/artist/1Vw2K0RswB87LX58SylIBB"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129332,
+      "name": "IMELA II",
+      "url": "https://open.spotify.com/track/27PBWDb08rS9fCBOGXQANe"
+    },
+    {
+      "album": {
         "name": "In a Moment",
         "url": "https://open.spotify.com/album/63OTquAxu2oEjdzUsHNSvr"
       },
@@ -3718,7 +3802,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 200689,
       "name": "Kumama",
       "url": "https://open.spotify.com/track/0T1976UbQjxp4gp529DmQ7"
@@ -3976,7 +4060,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 164210,
       "name": "Made Me Glad",
       "url": "https://open.spotify.com/track/5bOzP0pJX3zTS5KnuZ5S3p"
@@ -4648,7 +4732,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 664405,
       "name": "Never Again - Live",
       "url": "https://open.spotify.com/track/0avSfabWivCociv7l1vKRM"
@@ -5218,7 +5302,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 198348,
       "name": "Overdo",
       "url": "https://open.spotify.com/track/7qlJKujY7TFrretwydfJAA"
@@ -5276,7 +5360,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 127013,
       "name": "Pamper",
       "url": "https://open.spotify.com/track/1pULwRUwuK7xx8iCRomQ8V"
@@ -5430,7 +5514,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 170123,
       "name": "Pray",
       "url": "https://open.spotify.com/track/4GPwZy4FAsSNLQygwXyCh2"
@@ -6204,7 +6288,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 217117,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1"

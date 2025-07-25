@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-377 songs - 23 hr 11 min
+379 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [2020](https://open.spotify.com/track/1MI6cDLkjRcDQOnwgsRAqT) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [silence](https://open.spotify.com/album/0JLXXdA1ENNyfyj6oKGbsq) | 4:53 | 2022-05-11 | 2022-07-28 |
 | [5min to heartbreak](https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [5min to heartbreak](https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa) | 3:20 | 2023-04-25 |  |
 | [A day of weather](https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:46 | 2022-05-11 | 2025-03-18 |
-| [A Girl from Seoul](https://open.spotify.com/track/3m674WVMMNhhaTcZ5Vukv4) | [SHAI](https://open.spotify.com/artist/2pK2K73HyG9ftCLTyAwqII) | [A Girl from Seoul](https://open.spotify.com/album/2pXZc4MjDVcJb4yf5WaMZp) | 3:14 | 2024-09-13 |  |
+| [A Girl from Seoul](https://open.spotify.com/track/3m674WVMMNhhaTcZ5Vukv4) | [SHAI](https://open.spotify.com/artist/2pK2K73HyG9ftCLTyAwqII) | [A Girl from Seoul](https://open.spotify.com/album/2pXZc4MjDVcJb4yf5WaMZp) | 3:14 | 2024-09-13 | 2025-07-25 |
 | [A Long Dream](https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy) | 4:18 | 2022-07-22 | 2024-04-19 |
 | [A Long Dream](https://open.spotify.com/track/62dMZURLR5KjObOfBoVHu2) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Summer Plumage](https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq) | 4:18 | 2022-09-05 | 2022-11-13 |
 | [A Long Dream 긴 꿈](https://open.spotify.com/track/0h5XgxN8lwqFCZXyGSCRch) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream 긴 꿈](https://open.spotify.com/album/14MzJLQEjGoWplHYwe3JiJ) | 4:18 | 2022-05-11 | 2022-07-29 |
@@ -117,7 +117,7 @@
 | [Easy Listening \(Feat\. Lee Joon\) \(Monthly Project 2020 May Yoon Jong Shin\)](https://open.spotify.com/track/0mvmY9ih1yrIRH8tgRIejD) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Lee Joon](https://open.spotify.com/artist/122DvZ07Rzf2ZNyCA6hCQM) | [Easy Listening \(Feat\. Lee Joon\) \(Monthly Project 2020 May Yoon Jong Shin\)](https://open.spotify.com/album/1OsF77dJxBQ32ZcG3BoI09) | 5:34 | 2022-05-11 | 2022-07-21 |
 | [Elastic Love](https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [Elastic Love](https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC) | 3:38 | 2022-05-11 |  |
 | [Embracing](https://open.spotify.com/track/5Waqzt9QtbAh7MzuZOC01q) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Embracing](https://open.spotify.com/album/7Bkkj3Tj5I2fGHH0KgwXYD) | 3:22 | 2022-07-22 | 2025-04-18 |
-| [Empty](https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr) | [sucozy](https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ), [subin](https://open.spotify.com/artist/1l9uUtOGIbKxJEPEPwiR55) | [Empty](https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm) | 3:34 | 2022-10-04 |  |
+| [Empty](https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr) | [sucozy](https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ), [subin](https://open.spotify.com/artist/1l9uUtOGIbKxJEPEPwiR55) | [Empty](https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm) | 3:34 | 2022-10-04 | 2025-07-25 |
 | [Even Though A City Full Of Ugly People 미운 사람만 가득한 이 도시에도](https://open.spotify.com/track/7rUCWYEk4xYGqgzSZoCfrJ) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul 선데이서울 Ep.3](https://open.spotify.com/album/2qyuesnAj6Re9a6sy8eA4N) | 3:10 | 2022-05-11 | 2022-07-27 |
 | [Faded Love](https://open.spotify.com/track/0atlweNQsTyvhaXLJZvyba) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB) | 3:53 | 2023-07-13 | 2024-04-19 |
 | [Fairy of Shampoo](https://open.spotify.com/track/5IFCL8jUbhv1nP3cPuda7n) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 4:27 | 2022-05-11 | 2022-07-29 |
@@ -250,6 +250,7 @@
 | [Orange Road \(with YUKIKA\)](https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 4:30 | 2022-07-22 | 2024-04-19 |
 | [Orbit of yours](https://open.spotify.com/track/5EMlw2z81mdTHa5tBLazQ6) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:53 | 2025-05-08 |  |
 | [Our love like tonight](https://open.spotify.com/track/5qtYh6ZnzFGwwwJ8BknAsx) | [SOOIN](https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb) | [Our love like tonight](https://open.spotify.com/album/54q8WeKHUNWYOvTvMLmy6x) | 4:00 | 2022-05-11 | 2024-08-28 |
+| [Overdrive](https://open.spotify.com/track/3SxUFfigBD28FSTPyiMEUm) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 3rd Mini Album 'VarioUS'](https://open.spotify.com/album/2hQrHvM24SifVMH30qCbKU) | 3:31 | 2025-07-24 |  |
 | [Paradise](https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:14 | 2022-05-11 | 2024-08-14 |
 | [Passing Light](https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav) | [NO\_ON](https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz) | [Passing](https://open.spotify.com/album/5oUO7dUg3pRcaO5SnpLef3) | 2:59 | 2022-05-11 | 2025-04-25 |
 | [Pier](https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Pier](https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd) | 2:54 | 2024-09-11 | 2025-04-17 |
@@ -378,6 +379,7 @@
 | [시그널 \(Signal\)](https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:20 | 2022-05-11 |  |
 | [아마추어 \(2017 월간 윤종신 9월호\)](https://open.spotify.com/track/3jK3rSwcTQLM4lf1JP38MZ) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [아마추어 \(2017 월간 윤종신 9월호\)](https://open.spotify.com/album/4x1neNaEBMPtImNK91ZXoT) | 5:16 | 2022-05-11 | 2022-07-26 |
 | [어떤 오후 One Afternoon](https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Lion Heart \- The 5th Album](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) | 3:35 | 2022-05-11 |  |
+| [여름필름 夏のフィルム \(Summer Film\)](https://open.spotify.com/track/24kPqpfBn3DNDAaeqEXaD0) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [여름필름 夏のフィルム \(Summer Film\)](https://open.spotify.com/album/679TRV9xiCqqOIZa2iwFrq) | 3:13 | 2025-07-24 |  |
 | [오늘 너의 두 손을 잡고](https://open.spotify.com/track/5gOyLqY1Y9qQ768QSwMPI0) | [현성민](https://open.spotify.com/artist/47kUNrAocpuIOvyRHpfwxB), [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [오늘 너의 두 손을 잡고](https://open.spotify.com/album/11NsORdJyGvf2k2SQtCTQd) | 3:37 | 2022-05-11 | 2022-07-28 |
 | [우리 둘만 특별하게](https://open.spotify.com/track/7k5i9hzO4rq5Qk3NOTdjo2) | [Sugarbowl](https://open.spotify.com/artist/0SzEYg3WelMs62HakSDhPH) | [lovers 4/6](https://open.spotify.com/album/2heqZChEg4UgSBjLYjQ0UW) | 3:37 | 2022-06-09 | 2022-06-30 |
 | [우리 사랑이 툭 끝나면](https://open.spotify.com/track/4ZXn6hhRmyNTkTcYuiQY3O) | [해인](https://open.spotify.com/artist/6ytR9OnLd6GKqUbY1PyFiS) | [우리 사랑이 툭 끝나면](https://open.spotify.com/album/1Zo5lA52LwDkOCqIh1i53K) | 3:17 | 2024-09-13 | 2024-12-26 |

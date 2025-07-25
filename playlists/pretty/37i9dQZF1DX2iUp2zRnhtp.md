@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 
 > vi leker ikke hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,727 likes - 122 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,726 likes - 122 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 | 121 | [NIGHT ZONE](https://open.spotify.com/track/3T44SrcfxTkUhq3th84LFm) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [NIGHT ZONE](https://open.spotify.com/album/1FPvsVyGvoAqtYfYzJdJ0g) | 2:50 |
 | 122 | [Bianca Er Back \(feat\. Bianca\)](https://open.spotify.com/track/54kEhATVPeurJxcU4Wor11) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Bianca](https://open.spotify.com/artist/7z1VpT9zAtopp4iabFlz1N) | [Bianca Er Back \(feat\. Bianca\)](https://open.spotify.com/album/3f8TfUDwrXDIEsOLM4CNFh) | 2:57 |
 
-Snapshot ID: `aHlyfQAAAABVkt/1BRHjqfOn/NT9uGgK`
+Snapshot ID: `aIIYbwAAAAB+/qDNOmJS8Ygu9iEJCgCA`

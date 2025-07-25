@@ -2,9 +2,9 @@
 
 ### [Afro Rap](https://open.spotify.com/playlist/37i9dQZF1DX3oRZ26ZzwxF)
 
-> Le meilleur du rap africain francophone\. Photo : Kocee
+> Le meilleur du rap africain francophone\. Photo : Himra
 
-95 songs - 4 hr 23 min
+96 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [DINAGONTOH](https://open.spotify.com/track/0w2NbCHORTRKYIWtOXpE1G) | [FETTY ND0SS](https://open.spotify.com/artist/3qnEYx6CH97HzOhFZPWasv) | [LIBANDA](https://open.spotify.com/album/5Ozrs01s4MBs5AyLhOfzi1) | 2:56 | 2025-06-19 |  |
 | [Djan a mis dans](https://open.spotify.com/track/7gaYjKCbwWzEnvcsIsC2Wj) | [ALV](https://open.spotify.com/artist/6fxKwpEMwlIkWqlP4RsptH), [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Djan a mis dans](https://open.spotify.com/album/5w9QYFz27KBUJXWr2TCo4M) | 2:59 | 2025-07-03 |  |
 | [Dohi \(feat\. EBOLOKO, Paterne Maestro & Iba one\)](https://open.spotify.com/track/4f5KVDd6yWAusZfwsTXFuT) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE), [EBOLOKO](https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR), [Paterne Maestro](https://open.spotify.com/artist/77I75BZlpcoggeiSxUUp7r), [Iba One](https://open.spotify.com/artist/3f63uWQYi2tLKaONH44oSv) | [Y'a Pas l'Homme](https://open.spotify.com/album/7qP5Aavx0zxVYJmp5EWrrl) | 2:52 | 2025-05-29 |  |
+| [Dolce Vita](https://open.spotify.com/track/0RfguYMK0cAOAZA7NGm9TF) | [LASACEM](https://open.spotify.com/artist/5mrCvBzYUYXEevDkQ7WNm8), [LCK](https://open.spotify.com/artist/4jIu1edDicJimOBopUX9yw) | [Dolce Vita](https://open.spotify.com/album/5fdmUyXUcj5fKdSan8zVgk) | 2:50 | 2025-07-24 |  |
 | [Dosabado](https://open.spotify.com/track/4aNH8EI5bVz8z7qTQPs5BS) | [Agato](https://open.spotify.com/artist/7sDqcdPnwu8MAy5zulMiNz), [Jojo le barbu](https://open.spotify.com/artist/2paqveSYwcVMiD88ez9IKX) | [Dosabado](https://open.spotify.com/album/4qLyKp3TjAl8mHGKVSQrp9) | 2:25 | 2025-05-29 | 2025-06-20 |
 | [Drill Décalé](https://open.spotify.com/track/59YGtVBwuMBDhU07urpA1d) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [L’hybride](https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg) | 2:44 | 2025-05-29 | 2025-07-04 |
 | [Dur oh](https://open.spotify.com/track/0O83QsqoybKWA4Iz3BN0oG) | [Devone](https://open.spotify.com/artist/42n26sVrqcTkYhNLFQ4UFF), [JM on the Track](https://open.spotify.com/artist/2rB3BVa7a4mvsQ3RCETMXm) | [Dur oh](https://open.spotify.com/album/2V1MhiZz6Ofe62AI7Scu4X) | 2:53 | 2025-07-17 |  |
@@ -78,7 +79,7 @@
 | [Nouvelle Cité](https://open.spotify.com/track/5jrs2QVeDZqkylMDpVqiER) | [Feeligram](https://open.spotify.com/artist/3m6wShphshpCGCSEXQGOlE) | [Nouvelle Cité](https://open.spotify.com/album/1bmqhtAiZaU6Keuvy31JcE) | 3:00 | 2025-07-10 |  |
 | [Nueve All Stars](https://open.spotify.com/track/3ge2z62ntXayt5YRYtpvZJ) | [LePapara](https://open.spotify.com/artist/2J7P5cx3l8PKzQnVo6BEhT), [Kiko](https://open.spotify.com/artist/4P2zZ1OLqeeKDLXc34Yfsv), [Mic Flammez](https://open.spotify.com/artist/0aCyQrsxzZZayiyxMdX5TD), [Willy Baby](https://open.spotify.com/artist/6acKF5kXMMRcZYLRs1G5ya) | [Nueve All Stars](https://open.spotify.com/album/6mS3SMsasMTdKYWbHA7uge) | 4:00 | 2025-05-29 | 2025-06-20 |
 | [Numero 10](https://open.spotify.com/track/407HIkHf9AwjUAjd6I9MoO) | [BLACKY LAMELO](https://open.spotify.com/artist/7E97Mg8YMYEctprZJLP6IM) | [Numero 10](https://open.spotify.com/album/2GqMjOpm8NvQ3TIsU38aou) | 2:36 | 2025-06-26 | 2025-07-11 |
-| [Obili Bandit](https://open.spotify.com/track/5cmoqa1Pg35c6zIo3uritT) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6) | [Obili Bandit](https://open.spotify.com/album/4VFfmdWmXUbQpH5SqBhBCS) | 2:27 | 2025-05-29 |  |
+| [Obili Bandit](https://open.spotify.com/track/5cmoqa1Pg35c6zIo3uritT) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6) | [Obili Bandit](https://open.spotify.com/album/4VFfmdWmXUbQpH5SqBhBCS) | 2:27 | 2025-05-29 | 2025-07-25 |
 | [Oulala](https://open.spotify.com/track/0dFr0hDLBsFYBYZ7uqwelG) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6) | [Oulala](https://open.spotify.com/album/04a4hx64YQGoVHKAwPZVzQ) | 2:25 | 2025-07-10 |  |
 | [PERSONNE M'ATTENDAIT](https://open.spotify.com/track/1fyJZuCFSQOZvQZbgRoN2f) | [KT Gorique](https://open.spotify.com/artist/2UQaGEb3EMAa01ibiQaEsh), [Kadja](https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek), [Riga](https://open.spotify.com/artist/37t8K0CbC1jRSqmDYNEpPX) | [PERSONNE M'ATTENDAIT](https://open.spotify.com/album/07DrSSKYxmGhh1DgWtgUy9) | 2:42 | 2025-06-05 | 2025-06-20 |
 | [Ponce pilate](https://open.spotify.com/track/2PgxG5BNSsJ407TrpfNU5X) | [Mink's](https://open.spotify.com/artist/3R5HSF8rhNgBBgeOo0slI9) | [Ponce pilate](https://open.spotify.com/album/4XP2kJMq9X7P3CHluZ942V) | 2:02 | 2025-06-19 |  |

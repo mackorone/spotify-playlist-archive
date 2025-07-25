@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,794 songs - 5 day 2 hr 14 min
+1,795 songs - 5 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Aquiver](https://open.spotify.com/track/0n7Qqb6srcdrfJcaI69vkp) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Aquiver](https://open.spotify.com/album/3xujpBmJMxRVBlHFehFOhT) | 4:27 | 2020-02-29\* | 2020-03-16 |
 | [Arcade Dreams](https://open.spotify.com/track/0D0kIo64u1uXLNeH0j2JzW) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Arcade Dreams](https://open.spotify.com/album/3DgaITbrxI84EZ9HIf27ml) | 4:03 | 2020-05-18 | 2020-08-20 |
 | [Ardour](https://open.spotify.com/track/2zdqREDAOMvugQI0UObaAK) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v) | [Ascent / Ardour](https://open.spotify.com/album/6hOMI84T4i4mkHknCE1sOf) | 3:59 | 2020-05-25 | 2021-09-11 |
+| [are u alright?](https://open.spotify.com/track/43EvhhuaG1fPTpRsbzXXZ6) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [Jai Cuzco](https://open.spotify.com/artist/2qjkEXePHEV3eMJkFil4be) | [are u alright?](https://open.spotify.com/album/7pSxubD8Db5Gu9OJb2gOYY) | 2:08 | 2025-07-18 |  |
 | [As If It Was You \- Beach House Mix](https://open.spotify.com/track/2h6pldBTUGLH1JxYCZhYzM) | [Schwarz & Funk](https://open.spotify.com/artist/5tOiT7pdFoQN3hf2OWj2fv) | [As If It Was You](https://open.spotify.com/album/6n705GWuhf7HIhzw2nTa1J) | 5:14 | 2020-03-16 | 2022-04-20 |
 | [As You Were \(Original Mix\)](https://open.spotify.com/track/3dow7u5Ike0PlBi9FHwd0p) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [As You Were \(Original Mix\)](https://open.spotify.com/album/1uGA0fISwcTLmOrs0Gn1at) | 3:52 | 2020-05-18 | 2020-07-03 |
 | [Ascend](https://open.spotify.com/track/3hjQojGfx3VRcNQ6TbxyUU) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Ascend](https://open.spotify.com/album/2JmffBnfePm3uUMx3zdTBQ) | 4:41 | 2022-05-20 | 2022-07-29 |
@@ -1246,7 +1247,7 @@
 | [Pleasing](https://open.spotify.com/track/1U9mj5NtcD32HpFdObkP4b) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf), [Stu Pender](https://open.spotify.com/artist/5xuTvhpHtNikqlW5NaMLxb) | [Star\-Crossed](https://open.spotify.com/album/2EoiG8SnGZCVIi5isBBRbN) | 6:08 | 2021-11-12 | 2022-07-21 |
 | [Plectar](https://open.spotify.com/track/4KndhRUQVCFh339T7jYCZv) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Little Devious](https://open.spotify.com/album/0WMWskgipM8eHLvvkdQBqI) | 5:56 | 2020-02-29\* | 2020-03-16 |
 | [Points Beyond](https://open.spotify.com/track/4flMFYGf017exurWgh8scp) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 5:26 | 2021-01-23 | 2022-04-21 |
-| [Polar Lights](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polar Lights](https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2) | 3:10 | 2024-12-06 |  |
+| [Polar Lights](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polar Lights](https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2) | 3:10 | 2024-12-06 | 2025-07-25 |
 | [Polynesia](https://open.spotify.com/track/3MkIlbOnu8UCMt26nOQ31P) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polynesia EP](https://open.spotify.com/album/0sieH424WlEgU2u6Z7YyfS) | 3:22 | 2020-03-17 | 2022-04-21 |
 | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/track/3aVpX48H8kYiAzeOrFql6N) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/album/4BvRQ4EI84ZyvNPLIpZKnF) | 3:18 | 2020-05-18 | 2021-03-10 |
 | [Portals](https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Portals](https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW) | 3:51 | 2024-03-08 | 2024-12-19 |

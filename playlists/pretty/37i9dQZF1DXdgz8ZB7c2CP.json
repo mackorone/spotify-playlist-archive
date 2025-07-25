@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
-  "num_followers": 844358,
+  "num_followers": 844401,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2025-07-18 05:03:49",
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0wSf1WEDoUmpMOMRHlbxSt"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+        }
+      ],
+      "duration_ms": 245511,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/1Sx86xHVVfdwmkttEHvXtK"
+    },
+    {
+      "added_at": "2025-07-18 05:03:49",
+      "album": {
         "name": "LIKE ME",
         "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
       },
@@ -1659,26 +1679,6 @@
       "duration_ms": 235909,
       "name": "Out Of Bounds",
       "url": "https://open.spotify.com/track/3xgcNkLwNfYxbK8w9MlLlk"
-    },
-    {
-      "added_at": "2025-07-18 05:03:49",
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/0wSf1WEDoUmpMOMRHlbxSt"
-      },
-      "artists": [
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        },
-        {
-          "name": "LeyeT",
-          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
-        }
-      ],
-      "duration_ms": 245511,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/1Sx86xHVVfdwmkttEHvXtK"
     },
     {
       "added_at": "2025-07-18 05:03:49",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2025-07-18 05:03:49",
       "album": {
-        "name": "AN INTRODUCTION TO WHOLESOME RIDDIM",
-        "url": "https://open.spotify.com/album/0qA6V5utPUk1KG48JHDdwY"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 208965,
-      "name": "CLOSE YOUR EYES",
-      "url": "https://open.spotify.com/track/7ml6mms5SS6qahrXMYWSVw"
-    },
-    {
-      "added_at": "2025-07-18 05:03:49",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/4wLNOgkbDWPAIoRmJ8PUhS"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 198857,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0ySW1vdmqRwA95VvQOc0GC"
+    },
+    {
+      "added_at": "2025-07-18 05:03:49",
+      "album": {
+        "name": "AN INTRODUCTION TO WHOLESOME RIDDIM",
+        "url": "https://open.spotify.com/album/0qA6V5utPUk1KG48JHDdwY"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 208965,
+      "name": "CLOSE YOUR EYES",
+      "url": "https://open.spotify.com/track/7ml6mms5SS6qahrXMYWSVw"
     },
     {
       "added_at": "2025-07-18 05:03:49",

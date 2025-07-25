@@ -2,7 +2,7 @@
 
 ### [Furry Radio](https://open.spotify.com/playlist/3DkoXgQ0hZhKSNaeqCQZqZ)
 
-> All songs made for furs, by furs\.  Request a song @ FurryRadio.com
+> Made for furs, by furs\.  New Twitter @FurryRadio
 
 367 songs - 19 hr 30 min
 

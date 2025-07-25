@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Masdddho",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Lavora, OMWAWES",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -646,6 +646,28 @@
       "duration_ms": 347317,
       "name": "Apik",
       "url": "https://open.spotify.com/track/7H1j4wzIE8lpvAaLNjGHr6"
+    },
+    {
+      "album": {
+        "name": "Asing",
+        "url": "https://open.spotify.com/album/702qQExxF5zP2pufi1BA71"
+      },
+      "artists": [
+        {
+          "name": "Lavora",
+          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
+        },
+        {
+          "name": "OMWAWES",
+          "url": "https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Asing",
+      "url": "https://open.spotify.com/track/6G0NSuLgeigUIqpwC69ac4"
     },
     {
       "album": {
@@ -6224,7 +6246,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 303870,
       "name": "Pemain ahli",
       "url": "https://open.spotify.com/track/6mdbTxN8rzpozyXzR0KfnR"
@@ -7488,7 +7510,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 339840,
       "name": "Sampe Mbesok",
       "url": "https://open.spotify.com/track/4GHtcnUSpjU70WsitZceOq"
@@ -8337,6 +8359,32 @@
     },
     {
       "album": {
+        "name": "Tak Lalekno Kowe",
+        "url": "https://open.spotify.com/album/4zLpZ6mepMsXwHr7Z214Wm"
+      },
+      "artists": [
+        {
+          "name": "Mala Agatha",
+          "url": "https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB"
+        },
+        {
+          "name": "Icha Cellow",
+          "url": "https://open.spotify.com/artist/4XjarncSrEsoqC518vg2pp"
+        },
+        {
+          "name": "Sringatun Jenang Sumsum",
+          "url": "https://open.spotify.com/artist/5OtPFu5SySOpEYGkQvxFyG"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270720,
+      "name": "Tak Lalekno Kowe",
+      "url": "https://open.spotify.com/track/3CNNCkdfWxHaUm6t4h8l3N"
+    },
+    {
+      "album": {
         "name": "Tak Lali-Lali Salahmu",
         "url": "https://open.spotify.com/album/4XDvNZmu4lZ0fzx1e75RF9"
       },
@@ -8778,7 +8826,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 314000,
       "name": "Tombo Kangen",
       "url": "https://open.spotify.com/track/2Gz4P6O0IjbIEJWGmz6yTZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Mesy, Gilly en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,761 likes - 53 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,755 likes - 53 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

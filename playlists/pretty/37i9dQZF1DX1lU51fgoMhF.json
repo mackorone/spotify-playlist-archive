@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: STAYC)",
-  "num_followers": 254252,
+  "num_followers": 254438,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -691,18 +691,22 @@
     {
       "added_at": "2025-07-23 09:14:00",
       "album": {
-        "name": "TREASURE EP.3 : One To All",
-        "url": "https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg"
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 203933,
-      "name": "WAVE",
-      "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
+      "duration_ms": 161167,
+      "name": "Bet You Wanna (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
     },
     {
       "added_at": "2025-07-23 09:14:00",
@@ -723,22 +727,18 @@
     {
       "added_at": "2025-07-23 09:14:00",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+        "name": "TREASURE EP.3 : One To All",
+        "url": "https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 161167,
-      "name": "Bet You Wanna (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
+      "duration_ms": 203933,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
     },
     {
       "added_at": "2025-07-23 09:14:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-07-23 09:14:00",
       "album": {
-        "name": "ICY BBY",
-        "url": "https://open.spotify.com/album/58G2sRHq3C0Z1srLSRzwuV"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "ICY BBY",
-      "url": "https://open.spotify.com/track/7aQY8ckcvqNu0X20Wac4Zz"
-    },
-    {
-      "added_at": "2025-07-23 09:14:00",
-      "album": {
         "name": "I-LAND Part.1 Signal Song",
         "url": "https://open.spotify.com/album/5hytFjwacV5ObltOLMAqfA"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 217322,
       "name": "Into the I-LAND",
       "url": "https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy"
+    },
+    {
+      "added_at": "2025-07-23 09:14:00",
+      "album": {
+        "name": "ICY BBY",
+        "url": "https://open.spotify.com/album/58G2sRHq3C0Z1srLSRzwuV"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "ICY BBY",
+      "url": "https://open.spotify.com/track/7aQY8ckcvqNu0X20Wac4Zz"
     },
     {
       "added_at": "2025-07-23 09:14:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-07-23 09:14:00",
       "album": {
+        "name": "YOU AND I",
+        "url": "https://open.spotify.com/album/4MoiswkE556lt1PuCCOUIE"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "duration_ms": 169053,
+      "name": "YOU AND I",
+      "url": "https://open.spotify.com/track/2hHOqDemKev23WuLV8Rhwv"
+    },
+    {
+      "added_at": "2025-07-23 09:14:00",
+      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 173133,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8"
-    },
-    {
-      "added_at": "2025-07-23 09:14:00",
-      "album": {
-        "name": "YOU AND I",
-        "url": "https://open.spotify.com/album/4MoiswkE556lt1PuCCOUIE"
-      },
-      "artists": [
-        {
-          "name": "HYOLYN",
-          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
-        }
-      ],
-      "duration_ms": 169053,
-      "name": "YOU AND I",
-      "url": "https://open.spotify.com/track/2hHOqDemKev23WuLV8Rhwv"
     },
     {
       "added_at": "2025-07-23 09:14:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2025-07-23 09:14:00",
       "album": {
-        "name": "Lips (Feat. GISELLE)",
-        "url": "https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        },
-        {
-          "name": "GISELLE",
-          "url": "https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Lips (Feat. GISELLE)",
-      "url": "https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2"
-    },
-    {
-      "added_at": "2025-07-23 09:14:00",
-      "album": {
         "name": "Hands on Me",
         "url": "https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 198420,
       "name": "Why Don\u2019t You Know",
       "url": "https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn"
+    },
+    {
+      "added_at": "2025-07-23 09:14:00",
+      "album": {
+        "name": "Lips (Feat. GISELLE)",
+        "url": "https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "GISELLE",
+          "url": "https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Lips (Feat. GISELLE)",
+      "url": "https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2"
     },
     {
       "added_at": "2025-07-23 09:14:00",

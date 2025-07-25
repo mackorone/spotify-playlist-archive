@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Now featuring our Frequency Zine cover star <a href="https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb?si=65xK280iRHy4t\-eZBCAgsQ">KWN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,523 likes - 130 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,427 likes - 130 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

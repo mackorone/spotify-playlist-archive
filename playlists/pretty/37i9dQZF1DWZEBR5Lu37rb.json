@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 100737,
+  "num_followers": 100844,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Kwela",
-        "url": "https://open.spotify.com/album/06iC7DjKV1ec1s0UZ3eYNA"
-      },
-      "artists": [
-        {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
-        }
-      ],
-      "duration_ms": 242613,
-      "name": "Emlanjeni",
-      "url": "https://open.spotify.com/track/3u4er9DgmXCyTMhBns3Rpp"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Seed - EP",
         "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 196162,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Kwela",
+        "url": "https://open.spotify.com/album/06iC7DjKV1ec1s0UZ3eYNA"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        }
+      ],
+      "duration_ms": 242613,
+      "name": "Emlanjeni",
+      "url": "https://open.spotify.com/track/3u4er9DgmXCyTMhBns3Rpp"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Buyelekhaya",
-        "url": "https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1"
-      },
-      "artists": [
-        {
-          "name": "Nathi",
-          "url": "https://open.spotify.com/artist/4fc9zCrEmJuCfb2Bu1eA2l"
-        }
-      ],
-      "duration_ms": 277760,
-      "name": "Nomvula",
-      "url": "https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 238888,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Buyelekhaya",
+        "url": "https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1"
+      },
+      "artists": [
+        {
+          "name": "Nathi",
+          "url": "https://open.spotify.com/artist/4fc9zCrEmJuCfb2Bu1eA2l"
+        }
+      ],
+      "duration_ms": 277760,
+      "name": "Nomvula",
+      "url": "https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Maproso",
-        "url": "https://open.spotify.com/album/67YqUfHMxGVkIB7WDcdiZO"
-      },
-      "artists": [
-        {
-          "name": "Wakadinali",
-          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
-        },
-        {
-          "name": "Suzanna Owiyo",
-          "url": "https://open.spotify.com/artist/3qt1e2EBBNKSzUNAcG8CFG"
-        }
-      ],
-      "duration_ms": 252428,
-      "name": "Maproso",
-      "url": "https://open.spotify.com/track/530sCffzEuhc9zBBztacgf"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Nomvula",
         "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 198620,
       "name": "ODO",
       "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Maproso",
+        "url": "https://open.spotify.com/album/67YqUfHMxGVkIB7WDcdiZO"
+      },
+      "artists": [
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        },
+        {
+          "name": "Suzanna Owiyo",
+          "url": "https://open.spotify.com/artist/3qt1e2EBBNKSzUNAcG8CFG"
+        }
+      ],
+      "duration_ms": 252428,
+      "name": "Maproso",
+      "url": "https://open.spotify.com/track/530sCffzEuhc9zBBztacgf"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1563,30 +1563,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "FOU DE TOi",
-        "url": "https://open.spotify.com/album/2L0LHGMMygz3CEAirJ1I3x"
-      },
-      "artists": [
-        {
-          "name": "ELEMENT Ele\u00e9eH",
-          "url": "https://open.spotify.com/artist/1YtfiLJ8nbB9hKlD4QpPMU"
-        },
-        {
-          "name": "Ross Kana",
-          "url": "https://open.spotify.com/artist/20k1olYrrwKk6vYxqdTBIE"
-        },
-        {
-          "name": "Bruce Melodie",
-          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
-        }
-      ],
-      "duration_ms": 237812,
-      "name": "FOU DE TOi",
-      "url": "https://open.spotify.com/track/7DhruOVt2cgzOzwNLwM18E"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Slave Becomes A King",
         "url": "https://open.spotify.com/album/3ub6cQMUMtwMbX9zZMJ1jO"
       },
@@ -1607,6 +1583,30 @@
       "duration_ms": 205691,
       "name": "Loyalty (feat. Marioo & Nandy)",
       "url": "https://open.spotify.com/track/0fAXdxnOMYH45IkwEF22eC"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "FOU DE TOi",
+        "url": "https://open.spotify.com/album/2L0LHGMMygz3CEAirJ1I3x"
+      },
+      "artists": [
+        {
+          "name": "ELEMENT Ele\u00e9eH",
+          "url": "https://open.spotify.com/artist/1YtfiLJ8nbB9hKlD4QpPMU"
+        },
+        {
+          "name": "Ross Kana",
+          "url": "https://open.spotify.com/artist/20k1olYrrwKk6vYxqdTBIE"
+        },
+        {
+          "name": "Bruce Melodie",
+          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
+        }
+      ],
+      "duration_ms": 237812,
+      "name": "FOU DE TOi",
+      "url": "https://open.spotify.com/track/7DhruOVt2cgzOzwNLwM18E"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Best of DJ Bongz, Vol. 1",
         "url": "https://open.spotify.com/album/0mcfKi5RkrrFXslOlS5N6R"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 386873,
       "name": "Sobabili",
       "url": "https://open.spotify.com/track/2dyYRTVdDFjnSQ6elduMG1"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
     },
     {
       "added_at": "2025-07-11 08:09:25",

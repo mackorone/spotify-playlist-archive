@@ -3595,6 +3595,32 @@
     },
     {
       "album": {
+        "name": "Dos Elegidos: Mienteme",
+        "url": "https://open.spotify.com/album/3QBQ3yLCpqENu5GRMIJWwp"
+      },
+      "artists": [
+        {
+          "name": "Dos Elegidos",
+          "url": "https://open.spotify.com/artist/4lxrAPSiyuyIvitdtZm2ID"
+        },
+        {
+          "name": "Joel Melody",
+          "url": "https://open.spotify.com/artist/0rcA9xExulHK8nAe6J54ii"
+        },
+        {
+          "name": "Mark Poow",
+          "url": "https://open.spotify.com/artist/6Y0IhGYKvjkuynhtWfFbNL"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Dos Elegidos: Mienteme",
+      "url": "https://open.spotify.com/track/7mPGkoZF8PduIt8wHhtblE"
+    },
+    {
+      "album": {
         "name": "Reggaet\u00f3n Sex",
         "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
       },

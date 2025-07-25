@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,966 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,968 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Прониклась мной](https://open.spotify.com/track/5qC3bVpPy0yTIh3R7xhzEI) | [T\-Fest](https://open.spotify.com/artist/01lZudgXsojt5TBHuygB8r), [Ivan Dorn](https://open.spotify.com/artist/1VZ1TofaV3kj90QJSdg6NG), [DJ INSAMA](https://open.spotify.com/artist/4nt6XoUCCPciUHB58Sm9ms) | [Прониклась мной](https://open.spotify.com/album/6BvDEWNBJ1jbnRV8cv4PjG) | 2:53 |
 | 50 | [цветы](https://open.spotify.com/track/5GoC9yZ1KAqzV9V3Oxornv) | [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [мрачные треды](https://open.spotify.com/album/7CQpALyPsLg8aXe6sHxiMx) | 1:38 |
 
-Snapshot ID: `MBRXKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MBWoqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

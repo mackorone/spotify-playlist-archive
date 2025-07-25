@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2025 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8b49\u672a\u4f86\u5de8\u661f\uff01Cover: \u827e\u871c\u8389 (AMILI)",
+  "description": "2025 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8b49\u672a\u4f86\u5de8\u661f\uff01Cover: \u516c\u9928\u9752\u5c11\u5e74 (GGteens)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 143745,
       "name": "Call 911",
       "url": "https://open.spotify.com/track/7C3Frt7RteNGcXnz6Cfr1r"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 202353,
       "name": "Cat & Mouse",
       "url": "https://open.spotify.com/track/5BY2y6OduBlcXbgCGOwPF5"
@@ -2447,6 +2447,28 @@
     },
     {
       "album": {
+        "name": "I Miss You When I'm Drunk",
+        "url": "https://open.spotify.com/album/2NgQGWiPEouZERPbQ6Ie2T"
+      },
+      "artists": [
+        {
+          "name": "Mandark",
+          "url": "https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks"
+        },
+        {
+          "name": "Julian Moreen",
+          "url": "https://open.spotify.com/artist/1qsIDR6t1OVmSIpO2Dx4W1"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291159,
+      "name": "I Miss You When I'm Drunk",
+      "url": "https://open.spotify.com/track/6HWSeol2q4chCBFtizV1yZ"
+    },
+    {
+      "album": {
         "name": "I'm Alive",
         "url": "https://open.spotify.com/album/494KRb9whsEPJ0IjKS4Dji"
       },
@@ -3918,6 +3940,24 @@
       "duration_ms": 231397,
       "name": "Room247",
       "url": "https://open.spotify.com/track/6iFn69S297cgPduLovu9D6"
+    },
+    {
+      "album": {
+        "name": "Hidden Card \u85cf\u62db",
+        "url": "https://open.spotify.com/album/5tGDjZXlNj85kXxlRPVg7A"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129440,
+      "name": "Rotator (200708)",
+      "url": "https://open.spotify.com/track/2lgafirWBgHZLbSwrelsgL"
     },
     {
       "album": {
@@ -6073,6 +6113,24 @@
     },
     {
       "album": {
+        "name": "\u4f60\u5230\u5e95\u5728\u9078\u64c7\u4ec0\u9ebc",
+        "url": "https://open.spotify.com/album/1rjvwp6Fbsik62WVAGsBFw"
+      },
+      "artists": [
+        {
+          "name": "\u516c\u9928\u9752\u5c11\u5e74 GGteens",
+          "url": "https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253833,
+      "name": "\u4f60\u5230\u5e95\u5728\u9078\u64c7\u4ec0\u9ebc",
+      "url": "https://open.spotify.com/track/3tKi1rBzT8RPtAyId7iOJ7"
+    },
+    {
+      "album": {
         "name": "\u4f60\u54ea\u4f4d?",
         "url": "https://open.spotify.com/album/3eWiFgiKcR03wd33WLRnRE"
       },
@@ -8044,7 +8102,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 163616,
       "name": "\u5b78\u6703\u4e86\u73cd\u60dc",
       "url": "https://open.spotify.com/track/5UH93vUdrxHMVcwiO4a1gQ"
@@ -8280,7 +8338,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 162532,
       "name": "\u5c16\u53eb\u65c5\u793e",
       "url": "https://open.spotify.com/track/2hyneR0wPqu1Sp3xGwnxgX"
@@ -11613,6 +11671,24 @@
     },
     {
       "album": {
+        "name": "\u6688",
+        "url": "https://open.spotify.com/album/1eSK8AOVOFD9UrhqH3wzVV"
+      },
+      "artists": [
+        {
+          "name": "PPlin \u6797\u8283\u9038",
+          "url": "https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185602,
+      "name": "\u7559\u4e0d\u4f4f",
+      "url": "https://open.spotify.com/track/0wXlUJbnnjsvSeWzXwaaVo"
+    },
+    {
+      "album": {
         "name": "\u7562\u7adf\u6df1\u611b\u904e",
         "url": "https://open.spotify.com/album/2OORP00QdIKdoA3QZXifMp"
       },
@@ -12032,7 +12108,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 229230,
       "name": "\u7b49\u4f60\u6703\u4e0d\u6703\u53ea\u662f\u6163\u6027",
       "url": "https://open.spotify.com/track/5GwXSedc16CCVaGFMJpbEa"
@@ -12776,6 +12852,24 @@
       "duration_ms": 271565,
       "name": "\u8acb\u96e2\u958b\u6211",
       "url": "https://open.spotify.com/track/0rlLkJ8H6vDCTvbS8tF8Kp"
+    },
+    {
+      "album": {
+        "name": "\u8718\u86db\u611f\u61c9",
+        "url": "https://open.spotify.com/album/6bYxf7apUtCugOhbkidjZR"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u871c\u8389AMILI",
+          "url": "https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245825,
+      "name": "\u8ca0\u6975\u5148\u751f",
+      "url": "https://open.spotify.com/track/3gGMlG1KD0QzLYMGDxb0jq"
     },
     {
       "album": {

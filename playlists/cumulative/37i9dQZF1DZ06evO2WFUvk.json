@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Euphoria Under the Stars",
+        "url": "https://open.spotify.com/album/2A6MjShDvMsZtRzFkD1p6x"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128673,
+      "name": "Euphoria Under the Stars",
+      "url": "https://open.spotify.com/track/6jVadFriXE41vSRDfGqwAL"
+    },
+    {
+      "album": {
         "name": "Get In",
         "url": "https://open.spotify.com/album/6yhTxkPv6HT28HS4k1hXef"
       },

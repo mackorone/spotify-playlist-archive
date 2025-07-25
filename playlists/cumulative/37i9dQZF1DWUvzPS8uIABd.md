@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-654 songs - 1 day 8 hr 37 min
+657 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Miten sut mielest poistetaan](https://open.spotify.com/track/2FMNFfVVGy7ntA0fbBb4n1) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Miten sut mielest poistetaan](https://open.spotify.com/album/1p73kuTshEB83c1lN8zeBc) | 3:00 | 2024-10-24 | 2025-01-14 |
 | [Mitä helvettii mä teen tääl](https://open.spotify.com/track/4O2Hi3g9RzZV9xKIIosRAv) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Mitä helvettii mä teen tääl](https://open.spotify.com/album/3osIWRkcvBQ6QGBiMCH5I2) | 3:07 | 2024-08-15 | 2024-09-06 |
 | [Mitä meist jää](https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mitä meist jää](https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9) | 2:29 | 2025-02-27 | 2025-06-13 |
+| [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/track/5bQUx5zYTuZnMRlpIk1V6x) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/album/6cdvpSeqA8b1bqMvoDAjPP) | 2:41 | 2025-07-24 |  |
 | [Mitä mä teen?](https://open.spotify.com/track/151zAJhoBwQZ4XC24PY8T9) | [Varkemaa](https://open.spotify.com/artist/1iw4xexBY8lvmWULarOSK7) | [Mitä mä teen? \(sped up\)](https://open.spotify.com/album/0adfYliCmAcrTsb0xVryVy) | 3:39 | 2024-07-16 | 2024-08-16 |
 | [Mitä ollaan?](https://open.spotify.com/track/0wpVMzXfRDofeqxfyGC8pU) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Mitä ollaan?](https://open.spotify.com/album/7AnvBkrBxtMOLXkkmcQIhf) | 2:41 | 2025-06-26 |  |
 | [Mitä sulle jää \(feat\. Mariska\) \[Vain elämää kausi 15\]](https://open.spotify.com/track/6S85VHnJg8uamUXmaHMIqs) | [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC), [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r), [Mariska](https://open.spotify.com/artist/69grVcN5UQeX34dKNyV1ut) | [Mitä sulle jää \(feat\. Mariska\) \[Vain elämää kausi 15\]](https://open.spotify.com/album/3AeeW3aSdcsS84uImflRYL) | 3:24 | 2024-10-24 | 2024-11-01 |
@@ -349,6 +350,7 @@
 | [Muistan kesän](https://open.spotify.com/track/2kgB86SH8fCymAFqT9StVf) | [90's FIN Cover Boyz & Girlz!](https://open.spotify.com/artist/1Zr5kGpWfxy6auQn5bTpmG) | [Muistan kesän](https://open.spotify.com/album/1Zzjq5kVUff5M60FyTqaaw) | 3:12 | 2025-06-19 |  |
 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 | 2025-04-10 |  |
 | [Mun sydämeni tänne jää \(Vain elämää kausi 15\)](https://open.spotify.com/track/1HeC128MEUZobYRPL76UZw) | [Hanna Pakarinen](https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE) | [Mun sydämeni tänne jää \(Vain elämää kausi 15\)](https://open.spotify.com/album/6Tvdnk2LRGGQlMEX22XMFT) | 3:10 | 2024-10-04 | 2024-10-11 |
+| [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 | 2025-07-24 |  |
 | [Mun vuosi \(Vain elämää kausi 15\)](https://open.spotify.com/track/6MRGW2URhcaija2vzfyx6y) | [Costello](https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx) | [Mun vuosi \(Vain elämää kausi 15\)](https://open.spotify.com/album/13ReSV8Cj7n3v54UgvthCd) | 3:35 | 2024-11-28 | 2024-12-06 |
 | [Musta hevonen](https://open.spotify.com/track/1JA6J5kzRNUYagv2WmjxqY) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Musta hevonen](https://open.spotify.com/album/2WnDVAp5xi9mUOKbrBLvZG) | 2:42 | 2025-02-13 | 2025-03-07 |
 | [Mustangi II](https://open.spotify.com/track/1aVlmKGaUZz489HuSoPJgL) | [YOUNGHEARTED](https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX) | [Mustangi II](https://open.spotify.com/album/16zFci2pCEsVfQdqH5D0Ch) | 3:10 | 2024-08-22 | 2024-09-20 |
@@ -479,6 +481,7 @@
 | [Sanat joilla puhutaan](https://open.spotify.com/track/4dJ8cD9Pn8mvTzvcdtLVD5) | [Ida Paul & Kalle Lindroth](https://open.spotify.com/artist/1pbX4qbCZOyiRA0ih5jGfX), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0), [Kalle Lindroth](https://open.spotify.com/artist/49PPHx2WvBFfsk6RKE0lCi) | [Sanat joilla puhutaan](https://open.spotify.com/album/4GmWPlVrwKGO3I14ohGnRV) | 2:52 | 2024-08-09 | 2024-09-27 |
 | [Sano vaan](https://open.spotify.com/track/3bmaYlyaca8hvQ7cUEzHhG) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sano vaan](https://open.spotify.com/album/3SZuNM26rWPkYk5LGoiDjf) | 2:48 | 2024-07-02 | 2024-10-25 |
 | [Sasha](https://open.spotify.com/track/4Bfuv305X5QqEGnufnfBla) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Sasha](https://open.spotify.com/album/1gDeiAIRl8hRfX3gwe7TYz) | 2:32 | 2025-06-02 |  |
+| [Sata Enkelii](https://open.spotify.com/track/4kyyeD1eO2wR6VfRKh4gkq) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sata Enkelii](https://open.spotify.com/album/0qNFBKhnuzQDDgHtXzO2D8) | 2:54 | 2025-07-24 |  |
 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 | 2024-10-17 | 2025-04-25 |
 | [Satama](https://open.spotify.com/track/1osPz2rgtdywUR6ut6eIMU) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Satama](https://open.spotify.com/album/1w9whtxDsbfopzVe6hlWjS) | 2:40 | 2024-07-25 | 2024-11-29 |
 | [Satamiljoonaa puutarhaa](https://open.spotify.com/track/39x6zXiaXKfwJSJpR4FbL8) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Satamiljoonaa puutarhaa](https://open.spotify.com/album/4tylfswbdsNVbacXVqy7md) | 3:10 | 2024-09-12 | 2024-10-04 |

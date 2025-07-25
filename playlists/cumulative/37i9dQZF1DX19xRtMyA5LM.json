@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste tracks in WS\u2757\ufe0fCover: KM",
+  "description": "De beste tracks in WS\u2757\ufe0fCover: SMIB",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 130393,
       "name": "Bandz",
       "url": "https://open.spotify.com/track/0X7knxXVCAIt08kX8LWVC6"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 231496,
       "name": "Big 45",
       "url": "https://open.spotify.com/track/3P7poze29ks7ehISI4Qgpi"
@@ -280,6 +280,40 @@
       "duration_ms": 150000,
       "name": "Blackjack",
       "url": "https://open.spotify.com/track/6EPpXbFmTMNtuICvJuCWhn"
+    },
+    {
+      "album": {
+        "name": "EENDRAGHT MAECKT MAGHT",
+        "url": "https://open.spotify.com/album/76ORhlUMmJgarKyoju9D7H"
+      },
+      "artists": [
+        {
+          "name": "SMIB",
+          "url": "https://open.spotify.com/artist/1z32oeFVVhOGidhdpkmw3t"
+        },
+        {
+          "name": "Ray Fuego",
+          "url": "https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U"
+        },
+        {
+          "name": "Nnelg",
+          "url": "https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP"
+        },
+        {
+          "name": "Loopey",
+          "url": "https://open.spotify.com/artist/0PFINMN0H4OMUvsQuFGFay"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200904,
+      "name": "CHAMPIONS LEAGUE (feat. Chivv)",
+      "url": "https://open.spotify.com/track/4CMEBMzz8j1jz4s0c3ftxZ"
     },
     {
       "album": {
@@ -349,6 +383,32 @@
     },
     {
       "album": {
+        "name": "EENDRAGHT MAECKT MAGHT",
+        "url": "https://open.spotify.com/album/76ORhlUMmJgarKyoju9D7H"
+      },
+      "artists": [
+        {
+          "name": "SMIB",
+          "url": "https://open.spotify.com/artist/1z32oeFVVhOGidhdpkmw3t"
+        },
+        {
+          "name": "Ray Fuego",
+          "url": "https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U"
+        },
+        {
+          "name": "Nnelg",
+          "url": "https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121406,
+      "name": "DE LUCHT VALT",
+      "url": "https://open.spotify.com/track/4OOU4fWirFUnWeqjHKhaCB"
+    },
+    {
+      "album": {
         "name": "Dun Talkin",
         "url": "https://open.spotify.com/album/5MfPtpC7nc4OQqwHmKp2nj"
       },
@@ -408,7 +468,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 145144,
       "name": "Eventjes zien",
       "url": "https://open.spotify.com/track/7tEapg35jKq96yM8nJa28W"
@@ -430,6 +490,32 @@
       "duration_ms": 125142,
       "name": "Fake Of Echt",
       "url": "https://open.spotify.com/track/2PSlfgjJOZElbyPW2Bnuvd"
+    },
+    {
+      "album": {
+        "name": "feelings",
+        "url": "https://open.spotify.com/album/7dSubBkrzYpTIhNyNnnD3e"
+      },
+      "artists": [
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        },
+        {
+          "name": "TADS",
+          "url": "https://open.spotify.com/artist/4PiXfQoM68C9kWwaJNMbQ7"
+        },
+        {
+          "name": "Gianski",
+          "url": "https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206292,
+      "name": "feelings",
+      "url": "https://open.spotify.com/track/0aP0RXFPYNhCmHDLqSliG4"
     },
     {
       "album": {
@@ -876,7 +962,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 134769,
       "name": "Moonwalk",
       "url": "https://open.spotify.com/track/6VRein0n3MIbuXQzs21zmo"
@@ -1099,6 +1185,28 @@
     },
     {
       "album": {
+        "name": "Rooie Tekens",
+        "url": "https://open.spotify.com/album/6u9yVkuABzba88MMZy3J00"
+      },
+      "artists": [
+        {
+          "name": "GP UIT G",
+          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Rooie Tekens",
+      "url": "https://open.spotify.com/track/1kveR5ZpvtT1ImeWTy8Sw9"
+    },
+    {
+      "album": {
         "name": "Sky Dweller",
         "url": "https://open.spotify.com/album/4E17M8EByWHHCGoScjnDhj"
       },
@@ -1196,6 +1304,28 @@
       "duration_ms": 178646,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/0SXbRzCHETN4A8JP3ErH6h"
+    },
+    {
+      "album": {
+        "name": "Theezakjes",
+        "url": "https://open.spotify.com/album/7oQovlHX14Tuu4x8MGbxeJ"
+      },
+      "artists": [
+        {
+          "name": "Esko",
+          "url": "https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj"
+        },
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124732,
+      "name": "Theezakjes",
+      "url": "https://open.spotify.com/track/1DhmAP6wzyk83oSu9aCfV8"
     },
     {
       "album": {
@@ -1302,7 +1432,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 189242,
       "name": "What A Life",
       "url": "https://open.spotify.com/track/4ZeKp5ZPpx0J5Oe6NREaeP"

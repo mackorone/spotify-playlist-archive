@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4EBDgl01wt0jYYC9zOcGNK"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166279,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/5X34M33mDZ310P8Wj3k8tq"
+    },
+    {
+      "album": {
         "name": "All In Again",
         "url": "https://open.spotify.com/album/6Q607fMYWp8ms1brTs0yY6"
       },
@@ -1115,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "brozone",
+        "url": "https://open.spotify.com/album/6sANlSveTjg4CWNoFlbCB2"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149021,
+      "name": "brozone",
+      "url": "https://open.spotify.com/track/1l2XbDb3BAIiWnpD92At4P"
+    },
+    {
+      "album": {
         "name": "Build Me A House",
         "url": "https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17"
       },
@@ -1706,7 +1742,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 208379,
       "name": "Different Ways",
       "url": "https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4"
@@ -1990,6 +2026,42 @@
       "duration_ms": 177143,
       "name": "Downtown - Mahogany Edit",
       "url": "https://open.spotify.com/track/6DkxgtFTXjRmeOqhXcyTbU"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/7AjEEgzswMrJJfcKKxIVjZ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153637,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/40ROAtBj7soL5rbqXQjU4k"
+    },
+    {
+      "album": {
+        "name": "Dreamer Too",
+        "url": "https://open.spotify.com/album/1xTqo5gfVw2TfD4djfavZA"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271360,
+      "name": "Dreamer Too",
+      "url": "https://open.spotify.com/track/2RmS9jVUAVRH5dm02SYsVk"
     },
     {
       "album": {
@@ -2758,7 +2830,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 196178,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/1KNNzjKUcp30V52dcD1jLW"
@@ -3022,10 +3094,28 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 172444,
       "name": "Hands",
       "url": "https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu"
+    },
+    {
+      "album": {
+        "name": "Have A Baby (With Me)",
+        "url": "https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225874,
+      "name": "Have A Baby (With Me)",
+      "url": "https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc"
     },
     {
       "album": {
@@ -3378,7 +3468,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 208000,
       "name": "how it goes",
       "url": "https://open.spotify.com/track/2JYWmiS6iCpCNsutMd15uk"
@@ -5226,6 +5316,28 @@
       "duration_ms": 181598,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/6efGBx7ImAe7IabZmALSOG"
+    },
+    {
+      "album": {
+        "name": "move it along (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195454,
+      "name": "move it along (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs"
     },
     {
       "album": {
@@ -7446,7 +7558,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 219000,
       "name": "Slow Grind",
       "url": "https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx"
@@ -7508,7 +7620,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 227649,
       "name": "So Beautiful",
       "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"

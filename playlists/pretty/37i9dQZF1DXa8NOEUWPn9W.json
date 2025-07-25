@@ -1,6 +1,6 @@
 {
   "description": "House music lives here. United under one roof, featuring Gorgon City",
-  "num_followers": 1962129,
+  "num_followers": 1961998,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
@@ -120,7 +120,7 @@
           "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
         }
       ],
-      "duration_ms": 193576,
+      "duration_ms": 192657,
       "name": "Loveless",
       "url": "https://open.spotify.com/track/4aHbNb41EVPHpd7bDlm0qm"
     },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-07-18 04:00:08",
       "album": {
-        "name": "Savana",
-        "url": "https://open.spotify.com/album/4NpHeyYNVFia8iB3RFQavH"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 150113,
-      "name": "Savana",
-      "url": "https://open.spotify.com/track/6Uz2230ZgSmqQli5SMaIZY"
-    },
-    {
-      "added_at": "2025-07-18 04:00:08",
-      "album": {
         "name": "New Bottega",
         "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 188915,
       "name": "New Bottega",
       "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
+    },
+    {
+      "added_at": "2025-07-18 04:00:08",
+      "album": {
+        "name": "Savana",
+        "url": "https://open.spotify.com/album/4NpHeyYNVFia8iB3RFQavH"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 150113,
+      "name": "Savana",
+      "url": "https://open.spotify.com/track/6Uz2230ZgSmqQli5SMaIZY"
     },
     {
       "added_at": "2025-07-18 04:00:08",
@@ -1443,18 +1443,22 @@
     {
       "added_at": "2025-07-18 04:00:08",
       "album": {
-        "name": "Still Riding",
-        "url": "https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172"
+        "name": "Go Again",
+        "url": "https://open.spotify.com/album/0AmyHld9NcSRLBm5VMXgWS"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Roger Sanchez",
+          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         }
       ],
-      "duration_ms": 217250,
-      "name": "Still Riding",
-      "url": "https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam"
+      "duration_ms": 221190,
+      "name": "Go Again",
+      "url": "https://open.spotify.com/track/1UX8fLMyjf4keyBNNg2dd7"
     },
     {
       "added_at": "2025-07-18 04:00:08",
@@ -1475,22 +1479,18 @@
     {
       "added_at": "2025-07-18 04:00:08",
       "album": {
-        "name": "Go Again",
-        "url": "https://open.spotify.com/album/0AmyHld9NcSRLBm5VMXgWS"
+        "name": "Still Riding",
+        "url": "https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172"
       },
       "artists": [
         {
-          "name": "Roger Sanchez",
-          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 221190,
-      "name": "Go Again",
-      "url": "https://open.spotify.com/track/1UX8fLMyjf4keyBNNg2dd7"
+      "duration_ms": 217250,
+      "name": "Still Riding",
+      "url": "https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam"
     },
     {
       "added_at": "2025-07-18 04:00:08",
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2025-07-18 04:00:08",
       "album": {
-        "name": "Take It Easy on Me",
-        "url": "https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Michael Ekow",
-          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Take It Easy on Me",
-      "url": "https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU"
-    },
-    {
-      "added_at": "2025-07-18 04:00:08",
-      "album": {
         "name": "M\u00e9nage \u00c0 Trois",
         "url": "https://open.spotify.com/album/6tdzoV8uezHAmeNXoEIWrl"
       },
@@ -1975,6 +1955,26 @@
     {
       "added_at": "2025-07-18 04:00:08",
       "album": {
+        "name": "Take It Easy on Me",
+        "url": "https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Michael Ekow",
+          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Take It Easy on Me",
+      "url": "https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU"
+    },
+    {
+      "added_at": "2025-07-18 04:00:08",
+      "album": {
         "name": "Don't Touch That Dial EP",
         "url": "https://open.spotify.com/album/3Oj9Lwh8T2UoU1CQlaBHFl"
       },
@@ -1987,22 +1987,6 @@
       "duration_ms": 194000,
       "name": "Don't Touch That Dial",
       "url": "https://open.spotify.com/track/0YWLB75tVT4fbX0K0kPdH8"
-    },
-    {
-      "added_at": "2025-07-18 04:00:08",
-      "album": {
-        "name": "She's A Bad Mama Jama",
-        "url": "https://open.spotify.com/album/2MgqRp7d0yT7fbvHY3RF8t"
-      },
-      "artists": [
-        {
-          "name": "Si\u00e2n Owen",
-          "url": "https://open.spotify.com/artist/3V078Un8f8Q8RPfCM78wA1"
-        }
-      ],
-      "duration_ms": 144394,
-      "name": "She's A Bad Mama Jama",
-      "url": "https://open.spotify.com/track/3zuL8wnCbFPlZ5wH2EFn0P"
     },
     {
       "added_at": "2025-07-18 04:00:08",
@@ -2023,6 +2007,22 @@
       "duration_ms": 181846,
       "name": "Dame M\u00e1s (Gasolina)",
       "url": "https://open.spotify.com/track/5wGwW2DK549Mg9vyNzBCnt"
+    },
+    {
+      "added_at": "2025-07-18 04:00:08",
+      "album": {
+        "name": "She's A Bad Mama Jama",
+        "url": "https://open.spotify.com/album/2MgqRp7d0yT7fbvHY3RF8t"
+      },
+      "artists": [
+        {
+          "name": "Si\u00e2n Owen",
+          "url": "https://open.spotify.com/artist/3V078Un8f8Q8RPfCM78wA1"
+        }
+      ],
+      "duration_ms": 144394,
+      "name": "She's A Bad Mama Jama",
+      "url": "https://open.spotify.com/track/3zuL8wnCbFPlZ5wH2EFn0P"
     },
     {
       "added_at": "2025-07-18 04:00:08",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2025-07-18 04:00:08",
       "album": {
+        "name": "Front 2 Back",
+        "url": "https://open.spotify.com/album/0GjU9EI6COpbjnLEh049Ct"
+      },
+      "artists": [
+        {
+          "name": "Jordan Peak",
+          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
+        }
+      ],
+      "duration_ms": 179770,
+      "name": "Front 2 Back",
+      "url": "https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW"
+    },
+    {
+      "added_at": "2025-07-18 04:00:08",
+      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/3OBsgXDSLQGIa8HZVP4Zk9"
       },
@@ -2079,46 +2095,6 @@
       "duration_ms": 199976,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/4OhBEzAyBJn7D0n1bIXQX7"
-    },
-    {
-      "added_at": "2025-07-18 04:00:08",
-      "album": {
-        "name": "Curveball",
-        "url": "https://open.spotify.com/album/2yvW9f49ZMXQb1uPi8CG1l"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        },
-        {
-          "name": "Locky",
-          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "Curveball",
-      "url": "https://open.spotify.com/track/2RQuDieFWnJFOX5c3CcMG2"
-    },
-    {
-      "added_at": "2025-07-18 04:00:08",
-      "album": {
-        "name": "Front 2 Back",
-        "url": "https://open.spotify.com/album/0GjU9EI6COpbjnLEh049Ct"
-      },
-      "artists": [
-        {
-          "name": "Jordan Peak",
-          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
-        }
-      ],
-      "duration_ms": 179770,
-      "name": "Front 2 Back",
-      "url": "https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW"
     },
     {
       "added_at": "2025-07-18 04:00:08",
@@ -2143,6 +2119,30 @@
       "duration_ms": 255754,
       "name": "King Steps (DESIREE Remix)",
       "url": "https://open.spotify.com/track/0DOYGfGpp5wD4qJ7akSrcx"
+    },
+    {
+      "added_at": "2025-07-18 04:00:08",
+      "album": {
+        "name": "Curveball",
+        "url": "https://open.spotify.com/album/2yvW9f49ZMXQb1uPi8CG1l"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "Curveball",
+      "url": "https://open.spotify.com/track/2RQuDieFWnJFOX5c3CcMG2"
     },
     {
       "added_at": "2025-07-18 04:00:08",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2025-07-18 04:00:08",
       "album": {
-        "name": "Don't You Want My Love",
-        "url": "https://open.spotify.com/album/7bHOgHyrQ7N7Os1uJWBVtP"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "Don't You Want My Love",
-      "url": "https://open.spotify.com/track/3hQ18r26uEFyUMjWL5OUiF"
-    },
-    {
-      "added_at": "2025-07-18 04:00:08",
-      "album": {
         "name": "Nothing Better Than Music",
         "url": "https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3"
       },
@@ -2455,6 +2439,22 @@
     {
       "added_at": "2025-07-18 04:00:08",
       "album": {
+        "name": "Don't You Want My Love",
+        "url": "https://open.spotify.com/album/7bHOgHyrQ7N7Os1uJWBVtP"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "Don't You Want My Love",
+      "url": "https://open.spotify.com/track/3hQ18r26uEFyUMjWL5OUiF"
+    },
+    {
+      "added_at": "2025-07-18 04:00:08",
+      "album": {
         "name": "Out In The Streets",
         "url": "https://open.spotify.com/album/7d194iurh335XjLVGe0IRq"
       },
@@ -2471,18 +2471,38 @@
     {
       "added_at": "2025-07-18 04:00:08",
       "album": {
-        "name": "Baile De Fantome EP",
-        "url": "https://open.spotify.com/album/2nRQyfyyHQL2E69yDNBuWx"
+        "name": "Smoke (feat. Clubhouse)",
+        "url": "https://open.spotify.com/album/48CqJENcAOPSawQIaeJowz"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+          "name": "Imad",
+          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+        },
+        {
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
+        },
+        {
+          "name": "Jardin Du Son",
+          "url": "https://open.spotify.com/artist/5dg8iorcRlVo2JZOgIpU2x"
+        },
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        },
+        {
+          "name": "Anton Khabbaz",
+          "url": "https://open.spotify.com/artist/6a9TboOy56IJPOQXnwv3Zu"
+        },
+        {
+          "name": "Dylan Lee",
+          "url": "https://open.spotify.com/artist/0B364Wkwz2uTpEW6KN8pFR"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Baile De Fantome",
-      "url": "https://open.spotify.com/track/0q3HI1pBWomC3MiAEciBkF"
+      "duration_ms": 244000,
+      "name": "Smoke (feat. Clubhouse)",
+      "url": "https://open.spotify.com/track/4IMVC2fbZO6rVw9dE3piCZ"
     }
   ],
   "unique_name": "Housewerk",

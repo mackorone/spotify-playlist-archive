@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,746 songs - 10 day 22 hr 25 min
+4,749 songs - 10 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,7 @@
 | [BILIS](https://open.spotify.com/track/54lO5XuDJskB1fWvmzeRru) | [mario cyrus](https://open.spotify.com/artist/17SI9H35F9VeNTvLqH1dx5) | [tres veces tres cruces](https://open.spotify.com/album/2a6QKV1IF6gmpAcgMbKBDy) | 2:17 | 2025-02-06 | 2025-02-08 |
 | [Billion Streams Freestyle](https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:06 | 2024-08-23 | 2024-08-31 |
 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 | 2025-02-07 | 2025-02-15 |
+| [BIRTHDAY](https://open.spotify.com/track/4GfscdpaWdBjSovc3UNoas) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [BIRTHDAY](https://open.spotify.com/album/2YxzQz0dgcUu6RmR2zc9jD) | 2:27 | 2025-07-24 |  |
 | [BITCH](https://open.spotify.com/track/1A52hRsdNSKGG9kk2KjoJa) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5) | [BITCH](https://open.spotify.com/album/4Otta360UtYGlUraxL2YDt) | 2:57 | 2025-02-21 | 2025-02-28 |
 | [BITCH IM SKINNY](https://open.spotify.com/track/4EjeNCNFvF8rdxSPIW4ojd) | [NICO B.](https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe) | [BITCH IM SKINNY](https://open.spotify.com/album/2R9E374yfZKhSlU9GhpcRY) | 2:29 | 2024-05-17 | 2024-05-25 |
 | [Bits](https://open.spotify.com/track/3gLMTFc0VCWUo0L83x1M2Z) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Bits](https://open.spotify.com/album/3aDfBGXmnnghbM8ozQhS9M) | 3:38 | 2025-06-27 | 2025-07-05 |
@@ -2509,7 +2510,7 @@
 | [Love to Death](https://open.spotify.com/track/7ymuSgXlOoI4tZGCafwzWv) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Love to Death](https://open.spotify.com/album/5yeGMj1vnXgSGjrkIdaMWL) | 3:33 | 2025-04-25 | 2025-05-10 |
 | [Love You Got](https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Love You Got](https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG) | 4:33 | 2024-07-12 | 2024-07-19 |
 | [LOVE.](https://open.spotify.com/track/5rNGrALFy6N737H9kY8f0h) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [LOVE.](https://open.spotify.com/album/1pcA22jLAwafeYagzaQhij) | 3:26 | 2025-02-14 | 2025-02-22 |
-| [Loveless](https://open.spotify.com/track/4aHbNb41EVPHpd7bDlm0qm) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Loveless](https://open.spotify.com/album/3J7RqdFl8npQPq43yPTngZ) | 3:13 | 2025-07-18 |  |
+| [Loveless](https://open.spotify.com/track/4aHbNb41EVPHpd7bDlm0qm) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Loveless](https://open.spotify.com/album/3J7RqdFl8npQPq43yPTngZ) | 3:12 | 2025-07-18 |  |
 | [LOVEO](https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LOVEO](https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr) | 2:53 | 2024-05-03 | 2024-05-18 |
 | [Lover](https://open.spotify.com/track/7AWaNIEuvoBCS4koRVDfbH) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Lover](https://open.spotify.com/album/1O9vAGeUFOerYsIC88NEvy) | 3:40 | 2025-05-22 | 2025-05-31 |
 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 | 2025-06-27 | 2025-07-05 |
@@ -3491,6 +3492,7 @@
 | [Ridículo](https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Ridículo](https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ) | 2:39 | 2025-02-14 | 2025-02-22 |
 | [RIFLE BISEXUAL](https://open.spotify.com/track/6pqgf8uPS0HskkP2pxvbU6) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS), [Icy Vedo](https://open.spotify.com/artist/1bnzmAfNDUuhvuSNBMsMlN), [yyy891](https://open.spotify.com/artist/5eBluOvPk819K9BZB1XV9v), [Somadamantina](https://open.spotify.com/artist/6aZlwGumthiTDOQ5iaCI5x) | [RIFLE BISEXUAL](https://open.spotify.com/album/4TlfpGKyDSF85g1QLT5sul) | 6:51 | 2024-08-23 | 2024-08-31 |
 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 | 2024-10-11 | 2024-10-19 |
+| [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-07-24 |  |
 | [Rio](https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rio](https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl) | 3:08 | 2025-01-24 | 2025-02-01 |
 | [Rio's Song](https://open.spotify.com/track/0OvcBAU72rGpFIaUdPNZQM) | [The Hard Quartet](https://open.spotify.com/artist/2fU2w19foGHouVAiJR7DJ6) | [Rio's Song](https://open.spotify.com/album/2dQllyKhiLT3Ox3asp9HFZ) | 2:17 | 2024-08-20 | 2024-08-31 |
 | [RIP KP](https://open.spotify.com/track/79ntb6PIEy0xSr0DZgIZer) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [RIP KP](https://open.spotify.com/album/3AgWdgUIlQJVHdsdieSHdl) | 2:18 | 2025-06-06 | 2025-06-28 |
@@ -4227,6 +4229,7 @@
 | [Titiritar](https://open.spotify.com/track/7cJDcvC6nSbkx4quEn7vTk) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Titiritar](https://open.spotify.com/album/55kodOr5aKPVSKUuHa608P) | 3:01 | 2024-05-17 | 2024-05-25 |
 | [To](https://open.spotify.com/track/1ZlXoEAlyz908rAsRewXLz) | [Fusa Nocta](https://open.spotify.com/artist/563VyZf3Wz1lmwmp9YW7wo), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590) | [To](https://open.spotify.com/album/3JWDfgG3KU2zxSxLf7YqZM) | 2:58 | 2024-07-12 | 2024-07-19 |
 | [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-05-31 | 2024-06-12 |
+| [To Be Free](https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Be Free](https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb) | 4:15 | 2025-07-24 |  |
 | [to be seen](https://open.spotify.com/track/2cRShN9bomoLuFfeR7CaD0) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [to be seen](https://open.spotify.com/album/5JJnU438NU09ZVv4OuoYCQ) | 3:23 | 2024-10-25 | 2024-11-09 |
 | [To Love Somebody \- Music From The Motion Picture](https://open.spotify.com/track/7FyQqFixAnYRi64pcM63Nx) | [Joaquin Phoenix](https://open.spotify.com/artist/3j507n6aQUbtVxQv2Q6Usv), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joker: Folie à Deux \(Music From The Motion Picture\)](https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc) | 1:49 | 2024-10-04 | 2024-10-12 |
 | [To The Moon](https://open.spotify.com/track/24N1h7w6arNjmwuUFk0lc4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [To The Moon](https://open.spotify.com/album/2G2P07ht3IeibH1sa9p08r) | 2:28 | 2024-05-03 | 2024-05-18 |

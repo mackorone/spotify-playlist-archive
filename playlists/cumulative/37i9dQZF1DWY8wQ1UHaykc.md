@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Noah
 
-206 songs - 14 hr 7 min
+207 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Kau Adalah \(feat\. Rayi Putra\)](https://open.spotify.com/track/2WoRw2nWZoj5ty0rOQP4FQ) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [EXPLORE!](https://open.spotify.com/album/6TXaOwBLoyJrD6vem7L8Ba) | 4:02 | 2024-01-05 |  |
 | [Kau Tigakan Cinta](https://open.spotify.com/track/7F3RSsk4kgdWDF0h8xvalZ) | [Elkasih](https://open.spotify.com/artist/3VHrNovOUrILgQxTyVsZGs) | [Kau Tigakan Cinta](https://open.spotify.com/album/5c1SVP01BdGT3chGeQhlHE) | 3:36 | 2024-01-05 | 2024-04-19 |
 | [Kau Yang Memilih Aku](https://open.spotify.com/track/11pHfMjhABy0jBZYdQORuX) | [Syahrini](https://open.spotify.com/artist/1m4Yv3TVgz8GZG7OAMK7mA) | [Kau Yang Memilih Aku](https://open.spotify.com/album/4wZohsQVTFQAU7xCbkQgyp) | 4:25 | 2024-11-22 |  |
+| [Kaulah Kamuku \(feat\. Mikha Angelo\)](https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC), [Mikha Angelo](https://open.spotify.com/artist/1TsPGD8cCf3JaSGrC7sLkf) | [For You](https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd) | 3:38 | 2025-07-24 |  |
 | [Kekasih Bayangan](https://open.spotify.com/track/3BErcieh7kIQIMq64vEbCY) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Kekasih Bayangan](https://open.spotify.com/album/0rFXD2kEean8BJDo94teEQ) | 4:43 | 2024-01-05 |  |
 | [Kepompong](https://open.spotify.com/track/7orcUlTZrNNph2bF3bihrG) | [sind3ntosca](https://open.spotify.com/artist/5u5fTfK2EBGx3PbEHIEiqd) | [8 Menit Lalu](https://open.spotify.com/album/1XnMKW4MDd1oAnurHGuqBI) | 3:51 | 2024-07-19 |  |
 | [Kesempurnaan Cinta](https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kesempurnaan Cinta](https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs) | 3:36 | 2024-01-05 | 2024-04-19 |

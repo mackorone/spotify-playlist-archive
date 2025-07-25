@@ -9901,6 +9901,28 @@
     },
     {
       "album": {
+        "name": "Bella Mar 12",
+        "url": "https://open.spotify.com/album/5eMSgnTyLgLQgMog32lx3q"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        },
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232301,
+      "name": "Soulnote",
+      "url": "https://open.spotify.com/track/6MEQnyDmSH8062mjmcWNLO"
+    },
+    {
+      "album": {
         "name": "Little Devious",
         "url": "https://open.spotify.com/album/0WMWskgipM8eHLvvkdQBqI"
       },
@@ -10862,7 +10884,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 335409,
       "name": "The Little Mushroom That Got Away",
       "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"

@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Mató a un Policía Motorizado.
 
-364 songs - 1 day 3 hr 25 min
+365 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Fumar de Día \- En Vivo](https://open.spotify.com/track/0n1UrWMX0Njj3kVMc24tOE) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Sesión Saldias \(En Vivo\)](https://open.spotify.com/album/206rMmryQBWqNoIMNsOS8q) | 3:01 | 2022-04-01 | 2022-07-14 |
 | [Guadalupe \- En Vivo](https://open.spotify.com/track/08umrOL0yYBjKmbcLPucff) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 4:44 | 2022-04-01 | 2022-06-08 |
 | [Haciendo Cosas Raras \(En Vivo\)](https://open.spotify.com/track/6HPRbXuKskFavEFdrme7UC) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [22/12/18 Flores \(En Vivo\)](https://open.spotify.com/album/3CMK0ejRCOSYNFlPonwahd) | 3:00 | 2022-04-01 | 2022-07-13 |
-| [Hasta Estallar \(En Vivo\)](https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd) | 4:40 | 2023-08-10 |  |
+| [Hasta Estallar \(En Vivo\)](https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd) | 4:40 | 2023-08-10 | 2025-07-25 |
 | [Hombre al Agua \(Sinfónico en Vivo\)](https://open.spotify.com/track/5wi2cktKirlyirlUTsTHCg) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [14 Episodios Sinfónicos / En Vivo / Auditorio Nacional de México / Febrero 2002](https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO) | 7:11 | 2022-08-19 | 2023-10-07 |
 | [Homero \- En Vivo Luna Park](https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otra Noche en la Luna \(Episodio II\)](https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy) | 4:19 | 2022-04-01 |  |
 | [Incinerador \- En Vivo, La Trastienda](https://open.spotify.com/track/481sJW9cptyMhr5GqtDU4X) | [La Chancha Muda](https://open.spotify.com/artist/3q7B22drORYGk4srVegr3T) | [La Chancha Muda \(En Vivo, La Trastienda\)](https://open.spotify.com/album/4W74DLNQlKJ2ykYJ1EMwCT) | 2:43 | 2022-06-24 | 2022-07-15 |
@@ -311,6 +311,7 @@
 | [Solo Aqui \- En Vivo](https://open.spotify.com/track/1pIjHr3eZygWJ2DSisk7nJ) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Solo Aquí \(En Vivo\)](https://open.spotify.com/album/3vzJeKwWUT44LdPCQrUki0) | 4:07 | 2024-10-10 |  |
 | [Solo Voy \- En Vivo](https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Vivo X la 25](https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2) | 4:22 | 2022-04-01 |  |
 | [Sorojchi \- En Vivo en La Ballena Azul](https://open.spotify.com/track/6rBDvf4uw2TQq1WFa8TfBD) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera en Vivo en La Ballena Azul](https://open.spotify.com/album/7DKXSTitkkj1Rm7NcY27zv) | 4:58 | 2022-09-23 | 2022-10-06 |
+| [Soul To Squeeze \- Live Session](https://open.spotify.com/track/298qp1imftpBMCjsv3nCzj) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Soul To Squeeze \(Live Session\)](https://open.spotify.com/album/2RpTEQ5itzQ7ucui9gQC28) | 4:54 | 2025-07-24 |  |
 | [Soy Animal \- Live Usina del Arte](https://open.spotify.com/track/4S2enajs4ZHxiTXpwCRbBG) | [Adicta](https://open.spotify.com/artist/0BntHNt56FCbTMjSWq2iIG), [Zeta Bosio](https://open.spotify.com/artist/4IV0sLaMj3z30QiPFhonSd), [Fabio Rey](https://open.spotify.com/artist/4oB80tqG4R95ykA6PDrZLL) | [Soy Animal \(Live Usina del Arte\)](https://open.spotify.com/album/4YhNDyXQpdhDKgd0cku5Ia) | 3:43 | 2022-04-01 | 2022-07-29 |
 | [Strangerdanger \- En Vivo](https://open.spotify.com/track/16KeH2DTffqLuGOtOnHxLZ) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Strangerdanger \(En Vivo\)](https://open.spotify.com/album/01GM7YDRe55MZHxHgjFgG7) | 3:04 | 2022-04-01 | 2023-12-18 |
 | [Sucio y Desprolijo \- En Vivo Cosquín Rock](https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Sucio y Desprolijo \(En Vivo Cosquín Rock\)](https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR) | 5:33 | 2022-04-01 |  |

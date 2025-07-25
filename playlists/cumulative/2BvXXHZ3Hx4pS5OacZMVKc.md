@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-406 songs - 21 hr 4 min
+407 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Sinister](https://open.spotify.com/track/5UJe4xKCeK9LshHzyoxMmy) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [SVRT](https://open.spotify.com/artist/0IMi6kEmTfnK7LylEoy59Z), [Chilly](https://open.spotify.com/artist/68XjmGeWauzvqJuWYMuxtA) | [Sinister](https://open.spotify.com/album/2FGXfyoyL7GtjF6Gu69b9e) | 2:55 | 2023-08-10 |  |
 | [Sirens](https://open.spotify.com/track/6FVWvpApDE9hSbWDcPhfb3) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [Amber Jay](https://open.spotify.com/artist/7DLxDPwjWekXl5meKBu2Ob) | [Sirens](https://open.spotify.com/album/4y1FYMRG7RWebnQuACdKDw) | 4:34 | 2025-06-19 |  |
 | [SKY BRI](https://open.spotify.com/track/1coVU0d7tAtEfvfT6Oatwy) | [ALVYN](https://open.spotify.com/artist/3lS0YzBEO1IglsFgrAMSrE), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [SKY BRI](https://open.spotify.com/album/4NtUUouJ4lRqrju5xQXShZ) | 1:47 | 2023-08-10 | 2023-12-09 |
+| [Sky Verse](https://open.spotify.com/track/0gcif66qXbBzhRE4WAphwE) | [Lieless](https://open.spotify.com/artist/3AVDMWWNOYjcp2mtGLdM9C), [Luuna](https://open.spotify.com/artist/24CTvD1KOZbbAcoeuc4V3S), [Yarimov](https://open.spotify.com/artist/2mNRczRlW0G5nkWtpMm1aM) | [Sky Verse](https://open.spotify.com/album/2Sr8DfdKGH2cSl7AfdBvgm) | 1:41 | 2025-07-24 |  |
 | [SLASH](https://open.spotify.com/track/6fYk1h3xgXatisxwR5G77O) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SLASH](https://open.spotify.com/album/5ml9nZdFPLJdUdWT8nf0Dx) | 4:11 | 2022-10-28 | 2023-08-11 |
 | [SLASH \(Halloween Scary Song\)](https://open.spotify.com/track/0JsFqQbe4Vm67mtZmDrkcx) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SLASH \(Halloween Scary Song\)](https://open.spotify.com/album/6lxHhKlkZAcKv1ae4DptMH) | 4:11 | 2022-02-03 | 2022-10-29 |
 | [Slow Down](https://open.spotify.com/track/1zAljZbhp0j8EBSDEcsRLI) | [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy) | [Slow Down](https://open.spotify.com/album/0HpjiDTMrVazgCn2wT4evB) | 3:37 | 2023-08-10 | 2023-12-09 |

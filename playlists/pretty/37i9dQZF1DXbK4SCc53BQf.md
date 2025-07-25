@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,292 likes - 65 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,316 likes - 65 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 60 | [Absoluto](https://open.spotify.com/track/5utdSmqXGbCLDIus7U82DD) | [Bruno Mansur](https://open.spotify.com/artist/36iawkpOrs8yq35WUwSWua), [Kevin López](https://open.spotify.com/artist/3Dg16IGa1fCJ91x0JFlnD1) | [Absoluto](https://open.spotify.com/album/4PllLhV4CKScbqcYqffkov) | 4:47 |
 | 61 | [Vamos \- Live](https://open.spotify.com/track/6xYZTyp7eR0bVS59qC7Sci) | [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK), [Joseph Espinoza](https://open.spotify.com/artist/3ecc3WKGzs3ejPlL3M17R3), [Shirley H](https://open.spotify.com/artist/4FhCP4VyiJjmYSy0SqW7aM) | [Vamos \(En Vivo\)](https://open.spotify.com/album/2JNqgvnSb9iPjL6WDYTNsM) | 4:41 |
 | 62 | [El Gozo Que Yo Queria](https://open.spotify.com/track/6lf0U3BKM3i0wPc6jr3SQ6) | [Altar Vivo](https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr) | [El Gozo Que Yo Queria](https://open.spotify.com/album/1mnea2dZLEZCUmYP4KYW0t) | 3:20 |
-| 63 | [Contigo](https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Contigo](https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw) | 2:27 |
+| 63 | [Contigo](https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X) | [ANMILY](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Contigo](https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw) | 2:27 |
 | 64 | [Nueva vida](https://open.spotify.com/track/7cE2dtrfKER31utLWdKDHE) | [Pablo Cifuentes](https://open.spotify.com/artist/0e3gPGSlQZEcsaohevhUMt) | [Nueva vida](https://open.spotify.com/album/0HESFuQ7m8CrUmLh2QqMRq) | 3:34 |
 | 65 | [La Puerta Jubilar](https://open.spotify.com/track/0XEv5UiFeT2HGv1sJ5RJuE) | [Marcela Gael](https://open.spotify.com/artist/3TifTnauGsDPu1cPGER7hv) | [La Puerta Jubilar](https://open.spotify.com/album/7fEHti6To6lppufr6Y5P71) | 3:24 |
 

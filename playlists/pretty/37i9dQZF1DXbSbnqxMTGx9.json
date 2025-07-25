@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3134637,
+  "num_followers": 3134923,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Reggae Classics",
-        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
-      },
-      "artists": [
-        {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/7BECNKQnIHCREUGA0Zty7g"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Hail H.I.M",
         "url": "https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 255800,
       "name": "Hail H.I.M - 2002 Remastered Version",
       "url": "https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+        }
+      ],
+      "duration_ms": 161560,
+      "name": "I Can See Clearly Now - Edit",
+      "url": "https://open.spotify.com/track/7BECNKQnIHCREUGA0Zty7g"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1543,6 +1543,54 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Burnin' (The Definitive Remasters)",
+        "url": "https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Bunny Wailer Sings The Wailers",
+        "url": "https://open.spotify.com/album/5rM5qPO90wib9kRdESozAt"
+      },
+      "artists": [
+        {
+          "name": "Bunny Wailer",
+          "url": "https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Mellow Mood",
+      "url": "https://open.spotify.com/track/0OKMUpT5jHO3g5MePDoDXr"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/5IdwXEZnCs41jsRzYg6IVM"
       },
@@ -1587,54 +1635,6 @@
       "duration_ms": 155490,
       "name": "Beat Down Babylon",
       "url": "https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Reggae Greats - Toots & The Maytals",
-        "url": "https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "Pressure Drop",
-      "url": "https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Burnin' (The Definitive Remasters)",
-        "url": "https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Super Reggae & Soul Hits",
-        "url": "https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP"
-      },
-      "artists": [
-        {
-          "name": "Dennis Brown",
-          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
-        }
-      ],
-      "duration_ms": 163826,
-      "name": "Lips of Wine",
-      "url": "https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76"
     }
   ],
   "unique_name": "Reggae Classics",

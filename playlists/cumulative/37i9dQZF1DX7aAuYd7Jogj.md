@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-958 songs - 1 day 22 hr 19 min
+961 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Embodied Awareness](https://open.spotify.com/track/2Qp9Ysar36Ak7e8Coi5LST) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Embodied Awareness](https://open.spotify.com/album/7IViHgd7L2ouFj34Iua3nG) | 3:15 | 2024-02-27 | 2025-04-12 |
 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2023-04-06 | 2024-01-18 |
 | [Embraced](https://open.spotify.com/track/0N6hrwzFK8jpb8slS526ne) | [Matt Ullman](https://open.spotify.com/artist/3xSQWEeYHabo0FngiA3V4f) | [Embraced](https://open.spotify.com/album/1cm3AakOoDrn2dYaphUgNe) | 3:19 | 2024-05-20 | 2024-07-10 |
+| [Emotional Intelligence](https://open.spotify.com/track/7cyQ7irn0EWtIIVQVak7SQ) | [Meloleon](https://open.spotify.com/artist/0KB7j94GTdhFMPEEmBMGAI) | [Emotional Intelligence](https://open.spotify.com/album/2UC3YnwQNZ0zE7v1Aj2Upu) | 3:01 | 2025-07-24 |  |
 | [Emotional privilege](https://open.spotify.com/track/0T6MlMNUB10hPTou6NaMRL) | [Jody R](https://open.spotify.com/artist/0PRbFVcIjvJfd4NaHLBxjJ) | [Emotional privilege](https://open.spotify.com/album/2zLe2Cg7gGiBJIuqzIIOLO) | 2:56 | 2024-01-17 | 2025-01-23 |
 | [En el Espacio](https://open.spotify.com/track/5ZRWtriBKg5blYLi2UDLMP) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [En el Espacio](https://open.spotify.com/album/7q0vBgCyzRg8iufFApO4J5) | 3:02 | 2024-01-17 | 2024-07-10 |
 | [Encircled](https://open.spotify.com/track/34B2XFpwTgzk4Gv3Ek8KLM) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Encircled](https://open.spotify.com/album/1Ec0A4YevmFmbkWUTRHre2) | 2:47 | 2025-05-27 |  |
@@ -297,6 +298,7 @@
 | [Essence](https://open.spotify.com/track/2EnLnhNkVlMlqwpz4b8lct) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Deep Healing Sessions Vol 2](https://open.spotify.com/album/5K63oXlxc0jMxHooauDXva) | 3:30 | 2023-04-06 | 2024-01-18 |
 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2023-04-06 | 2024-01-18 |
 | [Estimate](https://open.spotify.com/track/7lm8gkHUvNKXmVX857S2KU) | [ispíritu](https://open.spotify.com/artist/0OVGamiaCriHwLRXWiorJA) | [Estimate](https://open.spotify.com/album/5OHNeLtXIg5umlCpCRJupX) | 2:46 | 2025-02-04 |  |
+| [Etera](https://open.spotify.com/track/375O8dkwGSfO89EH4BoOt7) | [Drift State](https://open.spotify.com/artist/4SfF4brNdtcM85Lp1pAOCX) | [Etera](https://open.spotify.com/album/6N8rYJElCz1m5pcSz9VaZm) | 2:48 | 2025-07-24 |  |
 | [Eternal Light](https://open.spotify.com/track/7hdzLz89yAPsnBsNlXwP43) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Eternal Light](https://open.spotify.com/album/1SDjxeoJMd9mNqkOW60dVz) | 2:56 | 2024-08-30 |  |
 | [Eternal Moonlight](https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF) | [Rettifilo Flo](https://open.spotify.com/artist/1tu4alzACrKXmfff1nKbFE) | [Eternal Moonlight](https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK) | 2:58 | 2024-05-04 | 2025-04-12 |
 | [Eternal Rest](https://open.spotify.com/track/0cmhNtPuQPQPeJl536CvVX) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Eternal Rest](https://open.spotify.com/album/31zDFGa0tjwiRQc897Pri9) | 3:18 | 2024-12-03 |  |
@@ -434,6 +436,7 @@
 | [Imagination](https://open.spotify.com/track/4lQzFqLkWkySwksrnuwIUn) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Imagination](https://open.spotify.com/album/7FtteL9w25Y1jvVdqLjheK) | 2:29 | 2024-03-06 |  |
 | [Imagination](https://open.spotify.com/track/0g7ZjaAeHZqoYQ86Q2qBnq) | [Sleepscape Symphony](https://open.spotify.com/artist/57tR56LFbxldGWF23lI3YM) | [Imagination](https://open.spotify.com/album/73S2vjYmPD67aHdc0LohTd) | 3:01 | 2024-05-20 | 2024-07-10 |
 | [Imagine Nuvem](https://open.spotify.com/track/0BjyXBAXWTvEOgX1KPhadD) | [Clémence Alheoux](https://open.spotify.com/artist/3ciGAvpM5PtG4bvpTF6wdK) | [Imagine Nuvem](https://open.spotify.com/album/0GlOjrFZe7mT9XC2TRPvcu) | 3:09 | 2023-04-06 | 2024-04-06 |
+| [In Another Universe](https://open.spotify.com/track/0AjSouQfaxxagCjemCJYC0) | [Noni Ammin](https://open.spotify.com/artist/6mUFb0nVX1RQqNS0jC5D0R) | [In Another Universe](https://open.spotify.com/album/6hjskRipbGqgb4xPpra1pm) | 2:37 | 2025-07-24 |  |
 | [In Balance](https://open.spotify.com/track/5ipYoy8xS7FCAZqGJl0cvg) | [Corda Una](https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N) | [The Deep Blue](https://open.spotify.com/album/2v3A2xyIhcjed6SeROftkB) | 2:46 | 2023-04-06 | 2024-05-05 |
 | [In Ether](https://open.spotify.com/track/08JyiystzBP00f3boEYPKS) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [In Ether](https://open.spotify.com/album/7xFS9jgV4AwJsDSZTCjLrA) | 2:46 | 2025-02-04 |  |
 | [in the hide](https://open.spotify.com/track/2FojeY4xeZC2wrwIgTDDVU) | [Rossyx](https://open.spotify.com/artist/2vvcM0Ac0BOQIFpBeRO9vu) | [hieroglyphs](https://open.spotify.com/album/7yKRy1HLte1sQeFXTiUmnA) | 2:51 | 2023-04-06 | 2024-02-09 |

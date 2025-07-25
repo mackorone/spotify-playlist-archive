@@ -1,6 +1,6 @@
 {
   "description": "Piesele potrivite pentru zilele \u0219i nop\u021bile tale chill de var\u0103 ",
-  "num_followers": 21140,
+  "num_followers": 21141,
   "original_name": "O var\u0103 chill",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-07-10 21:00:09",
       "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2025-07-10 21:00:09",
+      "album": {
         "name": "S\u0103 Fii Tu",
         "url": "https://open.spotify.com/album/6I4zfBx882UTwS6OtuC64X"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 200592,
       "name": "S\u0103 Fii Tu",
       "url": "https://open.spotify.com/track/4lDQR1LAHAx0wGR2VlgP0A"
-    },
-    {
-      "added_at": "2025-07-10 21:00:09",
-      "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2025-07-10 21:00:09",

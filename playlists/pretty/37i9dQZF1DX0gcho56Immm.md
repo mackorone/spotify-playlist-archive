@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Fade Evare
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,645 likes - 132 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,751 likes - 132 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

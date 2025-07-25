@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯
 
-955 songs - 1 day 21 hr 22 min
+956 songs - 1 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,6 +714,7 @@
 | [Salamanca \(feat\. Kalle Kinos\)](https://open.spotify.com/track/0tdvfMvVdOeumuvcoNGcZm) | [Eevil Stöö](https://open.spotify.com/artist/0hD2uZfgcwrRRMcPYQ45pf), [Kalle Kinos](https://open.spotify.com/artist/5bGcZ1xdf9Y65oh7iSimi6) | [Salamanca \(feat\. Kalle Kinos\)](https://open.spotify.com/album/7knOC9zgTGZljLrwlHJz6g) | 2:56 | 2024-08-01 | 2024-08-16 |
 | [Samat farkut](https://open.spotify.com/track/4PU603QsewPewj6q147WwF) | [Nelma U](https://open.spotify.com/artist/5nDJjSWGoWmMhIi4h5SaLV) | [Samat farkut](https://open.spotify.com/album/436o2iTRXdYlXmFsec6FPA) | 2:24 | 2024-03-21 | 2024-04-05 |
 | [Samoilla silmil](https://open.spotify.com/track/13LbLU6tKyeukKbshFT0FO) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Samoilla silmil](https://open.spotify.com/album/0W3qVNLadZJP3CkPlxkdqf) | 2:46 | 2025-06-12 |  |
+| [Sata Enkelii](https://open.spotify.com/track/4kyyeD1eO2wR6VfRKh4gkq) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sata Enkelii](https://open.spotify.com/album/0qNFBKhnuzQDDgHtXzO2D8) | 2:54 | 2025-07-24 |  |
 | [Sata ongelmaa](https://open.spotify.com/track/2mpPYjUSTD2163kPttv2JZ) | [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn), [Tohtori Getto](https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY), [Joosu J](https://open.spotify.com/artist/2zbQ8DbFuJiXSd8Sjc33qa) | [Sata ongelmaa](https://open.spotify.com/album/2j4Q72EbCk4BT1c2gpSSZx) | 3:06 | 2024-07-18 | 2024-09-06 |
 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 | 2024-10-17 | 2025-04-18 |
 | [Sattumaa](https://open.spotify.com/track/6MMUqkEBUSnUwcMJYZvM9F) | [Shakkii](https://open.spotify.com/artist/4KuEJiNFPf7C6bAAl6G49T) | [Sattumaa](https://open.spotify.com/album/39BvTFfIYfvCho4grrwoQJ) | 3:08 | 2024-02-22 | 2024-03-08 |

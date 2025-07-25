@@ -976,7 +976,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 207007,
       "name": "Call You",
       "url": "https://open.spotify.com/track/49LfEfjcR0iLKNIEaWvBAe"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 133161,
       "name": "Crush",
       "url": "https://open.spotify.com/track/4BuT5v6lb1LYYtzHntnhfx"
@@ -1198,10 +1198,32 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 199973,
       "name": "CWWDBI",
       "url": "https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y"
+    },
+    {
+      "album": {
+        "name": "Daitarn",
+        "url": "https://open.spotify.com/album/3y7pMrwrSgyGfNDVfKO7cU"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203592,
+      "name": "Daitarn",
+      "url": "https://open.spotify.com/track/1e11DOVqj6bIxTuoGdYDcI"
     },
     {
       "album": {
@@ -1410,7 +1432,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 310400,
       "name": "Die Welt Brennt",
       "url": "https://open.spotify.com/track/7oAM2GxHCTKTLU3gXvkuuj"
@@ -2050,6 +2072,28 @@
       "duration_ms": 369140,
       "name": "Frei",
       "url": "https://open.spotify.com/track/3zuaDpUbBX1yepWVGdBYQG"
+    },
+    {
+      "album": {
+        "name": "French Kiss",
+        "url": "https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116521,
+      "name": "French Kiss",
+      "url": "https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx"
     },
     {
       "album": {
@@ -2934,7 +2978,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 177792,
       "name": "Keeping Your Head Up",
       "url": "https://open.spotify.com/track/6xwNMLT4ekMXv4lXZFI63Q"
@@ -3444,6 +3488,24 @@
       "duration_ms": 165049,
       "name": "MIRAGE",
       "url": "https://open.spotify.com/track/3McrQoWYs6qGmuWEAVnRSJ"
+    },
+    {
+      "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/6IqKIMMASEDxZuMkPQyQkg"
+      },
+      "artists": [
+        {
+          "name": "Conrad Taylor",
+          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/4BIygQShBWiPBdGAXt5TBp"
     },
     {
       "album": {
@@ -5300,7 +5362,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 233846,
       "name": "Toter Schmetterling",
       "url": "https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94"
@@ -5398,7 +5460,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 326620,
       "name": "Transition",
       "url": "https://open.spotify.com/track/7MC2ZDjvreeUGGvMpz5IhU"

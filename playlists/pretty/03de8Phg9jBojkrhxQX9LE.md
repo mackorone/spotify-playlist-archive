@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,538 likes - 151 songs - 8 hr 14 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,537 likes - 151 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 16 | [Ready Fi Dem](https://open.spotify.com/track/6QPJimu9kcsFB135uTtQxY) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Ready Fi Dem](https://open.spotify.com/album/0Bc88Ams6CRC4864sN6JLL) | 2:36 |
 | 17 | [Mannequin Love \- Hudson Mohawke Remix](https://open.spotify.com/track/5mq9LgY2s6ywKrtkBK3jTl) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Mannequin Love \(Hudson Mohawke Remix\)](https://open.spotify.com/album/3G8sNb4pMzLhAK17gZm1UI) | 4:19 |
 | 18 | [Love Is The Answer](https://open.spotify.com/track/6a7PmyP5DI0pcxzggmayAW) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Mugatu](https://open.spotify.com/artist/7D9ngVaGtYtFIZUsPMNECh), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Love Is The Answer](https://open.spotify.com/album/70dttx3coC8SIxSWJU42WN) | 3:19 |
-| 19 | [Loveless](https://open.spotify.com/track/4aHbNb41EVPHpd7bDlm0qm) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Loveless](https://open.spotify.com/album/3J7RqdFl8npQPq43yPTngZ) | 3:13 |
+| 19 | [Loveless](https://open.spotify.com/track/4aHbNb41EVPHpd7bDlm0qm) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Loveless](https://open.spotify.com/album/3J7RqdFl8npQPq43yPTngZ) | 3:12 |
 | 20 | [Drinking To Get Drunk](https://open.spotify.com/track/74UOSZYTg7ZvqLmxdqFuT7) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Drinking To Get Drunk](https://open.spotify.com/album/7aVwCoTaALsMdLYkpx82Jl) | 3:26 |
 | 21 | [INTERLOPER](https://open.spotify.com/track/5H6iYgErtz6byQPsE1DdTa) | [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd) | [INTERLOPER](https://open.spotify.com/album/306vdXdPyoP51Y3JBiHPdW) | 3:14 |
 | 22 | [Clap Your Hands](https://open.spotify.com/track/54K9jnCgyW5c6AA5Xy0rpw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clap Your Hands](https://open.spotify.com/album/0b7kPvHDTOPqbK6Amuz5if) | 4:37 |

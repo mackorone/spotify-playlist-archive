@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: ",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Zimmer90",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 114545,
       "name": "30",
       "url": "https://open.spotify.com/track/7yj210hrb5Itkz9XWRUazN"
+    },
+    {
+      "album": {
+        "name": "35",
+        "url": "https://open.spotify.com/album/7u4hqIxjAhGbRE2LuFKH9C"
+      },
+      "artists": [
+        {
+          "name": "JOSY",
+          "url": "https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "35",
+      "url": "https://open.spotify.com/track/1ZFuZQo00dMlO9TD6oXAMi"
     },
     {
       "album": {
@@ -1557,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Cool Car, Stupid Decisions",
+        "url": "https://open.spotify.com/album/0tS8Cweosvwi84h2NMzKg0"
+      },
+      "artists": [
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132968,
+      "name": "Cool Car, Stupid Decisions",
+      "url": "https://open.spotify.com/track/30eU5auguA6zk7jJX9YiyA"
+    },
+    {
+      "album": {
         "name": "coq au vin",
         "url": "https://open.spotify.com/album/1GreCrihbUzlxlT6sI6RRM"
       },
@@ -2309,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Feel Myself",
+        "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164002,
+      "name": "Feel Myself",
+      "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
+    },
+    {
+      "album": {
         "name": "Feet Up",
         "url": "https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R"
       },
@@ -2476,7 +2530,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 232453,
       "name": "Forrest Gump",
       "url": "https://open.spotify.com/track/2z6bOGp2SoQJuIH0TvxlsC"
@@ -2932,7 +2986,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 137204,
       "name": "Haus am Meer",
       "url": "https://open.spotify.com/track/5pB99KzpJkc7IOVTcCaUVh"
@@ -2972,7 +3026,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 173045,
       "name": "Headbanger",
       "url": "https://open.spotify.com/track/26RIjpOPLFygAMiUVeXoRq"
@@ -5548,7 +5602,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 129854,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/2rltMhQFEAV7UtuXGjcmyO"
@@ -6401,6 +6455,24 @@
     },
     {
       "album": {
+        "name": "Sun Is Gone",
+        "url": "https://open.spotify.com/album/0vWqpUqVXx9mSCwbNq2TlB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Sun Is Gone",
+      "url": "https://open.spotify.com/track/5hUEi4BzzroXKvvkIScbaw"
+    },
+    {
+      "album": {
         "name": "Survival Mode (Intro)",
         "url": "https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0"
       },
@@ -7164,7 +7236,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 219142,
       "name": "viele",
       "url": "https://open.spotify.com/track/38zw0z87YOu2zDY2DbgiyV"
@@ -7718,6 +7790,24 @@
       "duration_ms": 151242,
       "name": "WITCH",
       "url": "https://open.spotify.com/track/06JsKnlqdAYvbhWWwzXyM4"
+    },
+    {
+      "album": {
+        "name": "Worst Day",
+        "url": "https://open.spotify.com/album/6M6IYyNGPujN908evSqmLm"
+      },
+      "artists": [
+        {
+          "name": "Laura Nahr",
+          "url": "https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137240,
+      "name": "Worst Day",
+      "url": "https://open.spotify.com/track/34WEgaMkqYHT9316Pf9gxT"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11677,
+  "num_followers": 11687,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/5xMDM5NhrHaiQ9yrcf7uKj"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Hannah",
-          "url": "https://open.spotify.com/artist/2XHuhBOiADOIR91vFkNq6Q"
-        }
-      ],
-      "duration_ms": 233092,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/1Z8I2cvV9JQZqB1YA0O3PY"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "Double-sidedness",
         "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 199064,
       "name": "Deep Sea (Feat. BE'O)",
       "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/5xMDM5NhrHaiQ9yrcf7uKj"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Hannah",
+          "url": "https://open.spotify.com/artist/2XHuhBOiADOIR91vFkNq6Q"
+        }
+      ],
+      "duration_ms": 233092,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/1Z8I2cvV9JQZqB1YA0O3PY"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

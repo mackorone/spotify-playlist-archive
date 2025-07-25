@@ -867,22 +867,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "blue night",
-        "url": "https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH"
-      },
-      "artists": [
-        {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "escape",
-      "url": "https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "\u6cab\u96ea",
         "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 184266,
       "name": "\u6cab\u96ea",
       "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "blue night",
+        "url": "https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "escape",
+      "url": "https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3Qbyc7jDRAi4akv2JPbsV4"
-      },
-      "artists": [
-        {
-          "name": "Olivia Marsh",
-          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
-        }
-      ],
-      "duration_ms": 155413,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1G2kMwKAoqgHLPwi0hviHJ"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
         "url": "https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 286000,
       "name": "SNOW SOUND",
       "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3Qbyc7jDRAi4akv2JPbsV4"
+      },
+      "artists": [
+        {
+          "name": "Olivia Marsh",
+          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
+        }
+      ],
+      "duration_ms": 155413,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1G2kMwKAoqgHLPwi0hviHJ"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1331,18 +1331,22 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u706b\u9b45\u87f2",
-        "url": "https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG"
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/70yCi0GqnN1zp4rYNlL0Bv"
       },
       "artists": [
         {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+          "name": "Linus",
+          "url": "https://open.spotify.com/artist/5xkIt3pe76h4JgWeKpKm4L"
+        },
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/61HMESIuiKbI3sUAow6K8j"
         }
       ],
-      "duration_ms": 190553,
-      "name": "\u706b\u9b45\u87f2",
-      "url": "https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU"
+      "duration_ms": 277741,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/4Vum4ZzIKBE1hNucaj5T3h"
     }
   ],
   "unique_name": "Winter is Here #\u771f\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",

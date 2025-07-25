@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Cardec Drums
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,843 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,857 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 38 | [Donante de Sangre](https://open.spotify.com/track/1HtO3fFig35Hj12m6luK0u) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Donante de Sangre](https://open.spotify.com/album/2YWkq261ekVyIFsm9LpvB6) | 3:47 |
 | 39 | [Made In GOD](https://open.spotify.com/track/6CjxnZfFZoXdfVkfg5Lj69) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Made in GOD](https://open.spotify.com/album/5H897ItzqtzCXPkYfuUBDr) | 2:45 |
 | 40 | [ETERNA](https://open.spotify.com/track/7GxfGsrQ76ysCjC0NJvLZ2) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [ETERNA](https://open.spotify.com/album/1rCtffXPBfGSzQ9EYpqAMU) | 2:52 |
-| 41 | [NIVELES](https://open.spotify.com/track/6VjmUArbO9i5KoDoiZOkfg) | [Wxlf](https://open.spotify.com/artist/7qznACJ6acDAbx0LV39BrM), [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [NIVELES](https://open.spotify.com/album/565P31ZLjV8xSN0zYzRhqI) | 3:17 |
+| 41 | [NIVELES](https://open.spotify.com/track/6VjmUArbO9i5KoDoiZOkfg) | [Wxlf](https://open.spotify.com/artist/7qznACJ6acDAbx0LV39BrM), [ANMILY](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [NIVELES](https://open.spotify.com/album/565P31ZLjV8xSN0zYzRhqI) | 3:17 |
 | 42 | [Vamo a Ve´](https://open.spotify.com/track/4IGMLAvw4kCwdQuvGPSF6n) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [El Varón Jonatan](https://open.spotify.com/artist/5t31e0PQ4BNPmxs29YHj7t) | [Vamo a Ve´](https://open.spotify.com/album/4ShD95ZnpUwTzDsiO0HhdB) | 2:43 |
 | 43 | [Conmigo](https://open.spotify.com/track/3sseODfORH068xlDZykeXz) | [Kenny Rivers](https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9) | [Conmigo](https://open.spotify.com/album/6x4RUz4MAkT8SkQS2z1kfM) | 2:52 |
 | 44 | [Llama \- Remix](https://open.spotify.com/track/2Vljoc3nf8IoCX1OYUxzIp) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [Llama \(Remix\)](https://open.spotify.com/album/3nKmCo8C4gnEQhmtSoRAK4) | 4:30 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 69 | [Luna Que Me Alumbra](https://open.spotify.com/track/1QJXOveHlGy5N9Lie82Gm2) | [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt), [Lemuel Amaury](https://open.spotify.com/artist/0XrJ1hYeE7gqPA77uNADqe) | [Luna Que Me Alumbra](https://open.spotify.com/album/3DSh6c9bEuPAfwBGHs6sAZ) | 2:59 |
 | 70 | [Picheo](https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Picheo](https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul) | 4:00 |
 | 71 | [DIEZ TRES](https://open.spotify.com/track/52i6fFvKp73lA7TbyRcd6K) | [Barajas](https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [DIEZ TRES](https://open.spotify.com/album/4cySlWwwNv3D2XtmoNsGEK) | 3:54 |
-| 72 | [Mírame](https://open.spotify.com/track/2R9gEY83plghuqlEVHedMa) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Mírame](https://open.spotify.com/album/4VKiCYuoQomndlrSjGlkx5) | 3:20 |
+| 72 | [Mírame](https://open.spotify.com/track/2R9gEY83plghuqlEVHedMa) | [ANMILY](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Mírame](https://open.spotify.com/album/4VKiCYuoQomndlrSjGlkx5) | 3:20 |
 | 73 | [Atención](https://open.spotify.com/track/5E08DLe25KCMU2HTSRcYGk) | [Peniel el Victorioso](https://open.spotify.com/artist/77t0jmxk0wFrKFbDWGsHKd) | [Kairos](https://open.spotify.com/album/6lniOncu5GkrEIdC56cnfB) | 3:34 |
 | 74 | [Tuyo \- Remix](https://open.spotify.com/track/5qSX9n1khCEJY3QQHfob9Z) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Tuyo \(Remix\)](https://open.spotify.com/album/3GVhKm1yGltRwaOflbaRl3) | 4:04 |
 | 75 | [Confieso](https://open.spotify.com/track/6xnc3Jj9JC4VTfrubr6A7b) | [Chriss Romel](https://open.spotify.com/artist/0NTbnIoTbuIUZuI295yYYq), [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Confieso](https://open.spotify.com/album/2MGAkl3o8HycOthPj15z2y) | 3:42 |

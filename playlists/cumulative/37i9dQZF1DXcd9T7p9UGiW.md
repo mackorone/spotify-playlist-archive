@@ -2,9 +2,9 @@
 
 ### [Gone Abroad ](https://open.spotify.com/playlist/37i9dQZF1DXcd9T7p9UGiW)
 
-> Catching flights and going global\. Cover: Shallipopi & Rauw Alejandro
+> Catching flights and going global\. Cover: Asake
 
-709 songs - 1 day 13 hr 45 min
+710 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Bad Habits \- Kooldrink Amapiano Remix](https://open.spotify.com/track/6OvZNs4JjdyebEiIi0jcaR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Bad Habits \(The Remixes\)](https://open.spotify.com/album/1cvxALyvpgUpRqxix4vhLK) | 5:27 | 2021-10-08 | 2023-02-11 |
 | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc) | 3:46 | 2022-03-03 | 2023-03-04 |
 | [Baddies](https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Baddies](https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ) | 3:27 | 2025-05-16 | 2025-06-27 |
+| [BADMAN GANGSTA](https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BADMAN GANGSTA](https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01) | 2:23 | 2025-07-25 |  |
 | [Bag of Money](https://open.spotify.com/track/6oB9epBZc6bnBjAgUCiIq0) | [DJ HABIBEATS](https://open.spotify.com/artist/6TuJEVeUBF7uFjMWiMX0st), [Cheekychizzy](https://open.spotify.com/artist/5z6nZumE4lrnP3Nqcqdhz1), [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Bag of Money](https://open.spotify.com/album/2HgmRP7SL9z330M3mxghds) | 3:05 | 2024-08-25 | 2024-09-13 |
 | [Bailando \- Latin Urbano Remix](https://open.spotify.com/track/3D7q9QbalMOtCBNAsgLjY8) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Bailando \(Latin Urbano Remix\)](https://open.spotify.com/album/6X8mPyaTmPedCn0oWimxao) | 3:07 | 2024-03-15 | 2024-03-29 |
 | [Balance](https://open.spotify.com/track/6kk1R9DfjKYr95Y9B1WJRl) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Balance](https://open.spotify.com/album/0CfBvMQaTMRD7dG2hphjYn) | 2:44 | 2024-10-12 | 2024-11-29 |

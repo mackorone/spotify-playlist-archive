@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH7UgAAAAADIsJovualdT3NE8XnGltPV",
+  "snapshot_id": "aIAmAAAAAABVL5+LLJkZwOKlDBOodmxs",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Not to Love",
-        "url": "https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 183793,
-      "name": "Who Not to Love",
-      "url": "https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cross My Heart I Hope U Die",
         "url": "https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx"
       },
@@ -391,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gospel According to Meg Smith",
-        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
+        "name": "Who Not to Love",
+        "url": "https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v"
       },
       "artists": [
         {
@@ -400,9 +384,25 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 230703,
-      "name": "Joni",
-      "url": "https://open.spotify.com/track/3TBCjahLhF8sNJWqoKj0zE"
+      "duration_ms": 183793,
+      "name": "Who Not to Love",
+      "url": "https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gospel According to Meg Smith",
+        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 148357,
+      "name": "cupids on cocaine",
+      "url": "https://open.spotify.com/track/1a8I2Xf2oz9wUcYUJq5vxF"
     },
     {
       "added_at": null,

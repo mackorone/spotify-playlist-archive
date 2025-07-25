@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Dil Ke Behlane Ki",
+        "url": "https://open.spotify.com/album/48AZkKOndaRtYysnmyWqnl"
+      },
+      "artists": [
+        {
+          "name": "Gayatri Asokan",
+          "url": "https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224874,
+      "name": "Dil Ke Behlane Ki",
+      "url": "https://open.spotify.com/track/0j8bQyja91hw3OM4GaTx37"
+    },
+    {
+      "album": {
         "name": "Paniya",
         "url": "https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW"
       },
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 387099,
       "name": "Ithlati",
       "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"

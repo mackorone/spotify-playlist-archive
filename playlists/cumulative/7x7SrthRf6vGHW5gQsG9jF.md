@@ -4,7 +4,7 @@
 
 > mostly rock
 
-921 songs - 2 day 10 hr 56 min
+922 songs - 2 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Highway Star, Speed Star](https://open.spotify.com/track/24mssXlFWI2yqDxIKyxdOz) | [Cymbals](https://open.spotify.com/artist/6SMP2z9rViDs6YNCXtCj29), [内田晴元](https://open.spotify.com/artist/0tyFs1AR7CN6SJktxcE11Z), [小泉一郎](https://open.spotify.com/artist/2kTBUEN2ycoPRCxkfR1mVo), [米山美弥子](https://open.spotify.com/artist/1RY91WE9NFfgt9eqPYINLB) | [Mr.Noone Special（通常盤）](https://open.spotify.com/album/44fNzdefeOROF0CrZkGTqI) | 4:21 | 2025-03-15 |  |
 | [hijouni kireina JYOCHO](https://open.spotify.com/track/1FFFMOE45o7eC9hVsiAqOm) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [hijouni kireina JYOCHO](https://open.spotify.com/album/1GE28SVfYaWwsdKgs2RZf6) | 1:26 | 2024-05-13 |  |
 | [hikage](https://open.spotify.com/track/6wPwe1ZdDlMN3PvbQO3kQs) | [Uchu Nekoko](https://open.spotify.com/artist/1JP8TbSISsEiRBI1duEbw7), [宇宙ネコ子](https://open.spotify.com/artist/3xSs5iXfAy7FPN8cUqBEfm) | [Hino Ataru Basyo Ni Kiteyo](https://open.spotify.com/album/7BbCwi8jHHtRbrkumZcVe5) | 4:28 | 2024-09-13 |  |
-| [Hikari](https://open.spotify.com/track/2FA1QEFGkhIXXPj6OnoP53) | [Princess Ketamine](https://open.spotify.com/artist/2VRJCeIzOtfUI3mZnEmfqy), [CVN](https://open.spotify.com/artist/19W7Iq71CaCJpLRiYp55rr), [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Hikari](https://open.spotify.com/album/5vYseIVfkkBnBXj9nbdyU7) | 3:34 | 2024-04-25 |  |
+| [Hikari](https://open.spotify.com/track/2FA1QEFGkhIXXPj6OnoP53) | [Princess Ketamine](https://open.spotify.com/artist/2VRJCeIzOtfUI3mZnEmfqy), [CVN](https://open.spotify.com/artist/19W7Iq71CaCJpLRiYp55rr), [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Hikari](https://open.spotify.com/album/5vYseIVfkkBnBXj9nbdyU7) | 3:34 | 2024-04-25 | 2025-07-25 |
 | [hikari](https://open.spotify.com/track/6sYJbalTgvb6uJtCIqfySm) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Night Flow](https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24) | 4:07 | 2024-05-03 |  |
 | [Hino ataru basyo ni kiteyo](https://open.spotify.com/track/5LirOGHqAIck3p6YLWv9J1) | [Uchu Nekoko](https://open.spotify.com/artist/1JP8TbSISsEiRBI1duEbw7), [宇宙ネコ子](https://open.spotify.com/artist/3xSs5iXfAy7FPN8cUqBEfm) | [Hino Ataru Basyo Ni Kiteyo](https://open.spotify.com/album/7BbCwi8jHHtRbrkumZcVe5) | 3:00 | 2024-06-04 |  |
 | [HINOIRI's Thema](https://open.spotify.com/track/6EEYqaQPKW6igXafw0iKL7) | [VELTPUNCH](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [GOLD ALBUM 1997\-2012](https://open.spotify.com/album/5rtMlhUkyKWl7OgrPBBEUb) | 5:02 | 2024-03-17 |  |
@@ -342,6 +342,7 @@
 | [natsu no hachiouji](https://open.spotify.com/track/7pvSYCA4GGrXksdIc0fPpL) | [my dead girlfriend](https://open.spotify.com/artist/0s4Ma1D3irgqrQCRBUhc73) | [natsuhachi](https://open.spotify.com/album/6J6DEjKpuffIQsSliNCj7p) | 6:46 | 2023-12-22 |  |
 | [navy bluish apocalypse](https://open.spotify.com/track/3msTsgQaQKrFvn8QBLBNdg) | [lical](https://open.spotify.com/artist/4QXbaOKt3DNKEPgAUhpNuP) | [filmeld filament](https://open.spotify.com/album/2FR2GqsDtJTNcZQ9Qb92PL) | 3:07 | 2024-05-03 |  |
 | [Ne](https://open.spotify.com/track/4sFgVvFCSgL9D1qH1Srqhh) | [.........](https://open.spotify.com/artist/6pwR1E7p5tJacVqGv22CFs) | [Blank](https://open.spotify.com/album/2K5lKrTrHnXD4J5cO1IGAm) | 5:27 | 2024-04-25 |  |
+| [Needle of Words](https://open.spotify.com/track/0KRpwQle4Ob0QwY9mP80rd) | [Nanatsukaze](https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH) | [Needle of Words](https://open.spotify.com/album/676VYNo0uR1lMHCowR3ZFT) | 2:52 | 2025-07-24 |  |
 | [NEO\-FUTURE](https://open.spotify.com/track/6Z4IC371m1gZZz8ufd01Ku) | [Soutaiseiriron](https://open.spotify.com/artist/1bj13qFAwnyM3ILOiFnn1Y) | [NEO\-FUTURE](https://open.spotify.com/album/4WEiAbnI7dE4axE3LjLxbG) | 4:30 | 2024-06-04 |  |
 | [Neon Light \(feat\. TOTO HOSHIMIYA\)](https://open.spotify.com/track/0bGz1hZdCmCIhbgumBqmDp) | [TEMPLIME](https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6), [TOTO HOSHIMIYA](https://open.spotify.com/artist/09gvLxpkcp3FZbavLiXEpR) | [alpha e.p.](https://open.spotify.com/album/2Q67w5QYiVYBbDGnOS5eP6) | 4:27 | 2024-06-30 |  |
 | [nero](https://open.spotify.com/track/5JrjlQdiSIbhiviLl5U4PF) | [フレネシ](https://open.spotify.com/artist/1YoSYNmMHPZEa2WNNUS1oP) | [キュプラ](https://open.spotify.com/album/758SQhbduGjDqXcWrbIDuM) | 4:11 | 2023-12-31 |  |
@@ -704,7 +705,7 @@
 | [ベッドルームの夢 \- New Recording](https://open.spotify.com/track/3JbFDLcCrHDCjAvctgOUFj) | [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [LSC](https://open.spotify.com/album/4JUwxGL7K3YrIUUZCVXQ5v) | 4:07 | 2023-12-12 |  |
 | [マッカメッカ](https://open.spotify.com/track/56DoXdZ66AItz9FEQEbB6D) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [ネオンと虎](https://open.spotify.com/album/5ljjOdeykuMJVdVcPf86gw) | 4:30 | 2024-02-04 |  |
 | [マリタイム](https://open.spotify.com/track/6l6xNYpald2fjjcT9hzCdL) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [マリタイム](https://open.spotify.com/album/2fKISIgwmy2sG3JXgXj5zT) | 4:53 | 2024-05-18 |  |
-| [マージナル](https://open.spotify.com/track/4FZ9NWdgh2NYkqho3y9Zhh) | [フレネシ](https://open.spotify.com/artist/1YoSYNmMHPZEa2WNNUS1oP) | [キュプラ](https://open.spotify.com/album/758SQhbduGjDqXcWrbIDuM) | 2:19 | 2023-12-29 |  |
+| [マージナル](https://open.spotify.com/track/4FZ9NWdgh2NYkqho3y9Zhh) | [フレネシ](https://open.spotify.com/artist/1YoSYNmMHPZEa2WNNUS1oP) | [キュプラ](https://open.spotify.com/album/758SQhbduGjDqXcWrbIDuM) | 2:19 | 2023-12-29 | 2025-07-25 |
 | [ミスターフィクサー](https://open.spotify.com/track/2wYg9CDuRgBbDHCJCfEB5y) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [Utopia](https://open.spotify.com/album/7KFxoDPMi5xFdXmp6euuWM) | 3:40 | 2023-05-14 |  |
 | [ミネルヴァ](https://open.spotify.com/track/7ayJDx5LDpquCVorzs8X6b) | [People In The Box](https://open.spotify.com/artist/07PkYuHKeec24az6lKeUS5) | [Tabula Rasa](https://open.spotify.com/album/3CkOXkxjPtm8Kzp0py1WNW) | 3:27 | 2023-11-24 |  |
 | [メズマライザー \(feat\. 初音ミク&重音テト\)](https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [メズマライザー](https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL) | 2:36 | 2024-10-06 |  |

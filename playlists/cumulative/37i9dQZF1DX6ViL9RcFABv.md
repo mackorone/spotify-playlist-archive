@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Nininho Vaz Maia
+> Uma playlist de pura alma pop! Foto: Aragão, Mariana Pereira
 
-289 songs - 15 hr 19 min
+290 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Devolve\-me o Amanhã](https://open.spotify.com/track/0HlNrk1bsxFIIkOJqjb4EL) | [André ViaMonte](https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct), [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF) | [Devolve\-me o Amanhã](https://open.spotify.com/album/3baRkCpqQHcLXUGaN62yXW) | 3:12 | 2025-01-17 | 2025-02-28 |
 | [Dis\-Le Moi](https://open.spotify.com/track/62uQynm27mu2GH2RsTUh7v) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Dis\-Le Moi](https://open.spotify.com/album/46UUw87srhq0eswxMN4Tcp) | 3:20 | 2024-06-27 | 2024-11-01 |
 | [Distinu](https://open.spotify.com/track/7e3OHWrl8Bp2WzGG5QGAku) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Voyage \(Part I\)](https://open.spotify.com/album/71gGikHweFFDc1Xy9iUfon) | 3:30 | 2024-08-01 | 2025-03-07 |
+| [Diz a Laranja Ao Limão](https://open.spotify.com/track/64Amb91ZHcUyPm7PywAv3j) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [Luís Fialho](https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8) | [Clementina, Vol\. 1](https://open.spotify.com/album/7qiuiKzCkXYBoRv2FnVsXm) | 2:55 | 2025-07-24 |  |
 | [Diz\-Me Como](https://open.spotify.com/track/4dc3yCOyQSpH1aSVx5ioUZ) | [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I), [João Não](https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC) | [O Lobo Um Dia Irá Comer A Lua](https://open.spotify.com/album/33ebkdg5pqXKTgP0espZVB) | 3:06 | 2024-10-03 | 2024-10-25 |
 | [Diz\-se aí ..\. \(Dois Pares de Botas\)](https://open.spotify.com/track/3XU0AFp8OqH4SD3BbVUANw) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [Joana Almeirante](https://open.spotify.com/artist/4sjur6yJyz7QCyNpiG5Ynm) | [Diz\-se aí ..\. \(Dois Pares de Botas\)](https://open.spotify.com/album/00ko18V7emW5bHIc85eLfo) | 3:17 | 2024-10-10 | 2024-11-08 |
 | [do raso ao fundo](https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [do raso ao fundo](https://open.spotify.com/album/4sFjKzaNO0TAS6y8MPKUfK) | 4:05 | 2025-04-24 | 2025-06-27 |
@@ -104,7 +105,7 @@
 | [Dois Dedos de Testa](https://open.spotify.com/track/2EZpQC4js7nOZmysa2001d) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Dois Dedos De Testa](https://open.spotify.com/album/7hXKkcdTAx5P2Kk3t1Vg2I) | 3:15 | 2024-06-27 | 2024-10-25 |
 | [El corazón por delante](https://open.spotify.com/track/26miS6DXixXA2WbJNz1qi0) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Sílvia & Salvador](https://open.spotify.com/album/2M9MtUS5qtnVWe0GmOt5xS) | 4:59 | 2025-05-15 | 2025-06-27 |
 | [Ela não sabe, pois não?](https://open.spotify.com/track/10xWn4Ju0hK96COGlHm70s) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Bichinho \(para onde vai o amor?\)](https://open.spotify.com/album/5KWY5ZZLf16US8jaR3bjoR) | 3:05 | 2024-06-27 |  |
-| [engana\-me que eu gosto](https://open.spotify.com/track/6l3tclHzDfT7c6P9mU9LGa) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [8/80](https://open.spotify.com/album/6dZ7rnyWMmWkmd9t78ZkZn) | 3:23 | 2025-06-05 |  |
+| [engana\-me que eu gosto](https://open.spotify.com/track/6l3tclHzDfT7c6P9mU9LGa) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [8/80](https://open.spotify.com/album/6dZ7rnyWMmWkmd9t78ZkZn) | 3:23 | 2025-06-05 | 2025-07-25 |
 | [Entre O Passado E O Futuro](https://open.spotify.com/track/0CohDEhfKQFP1cuJ5NEoPs) | [João Só](https://open.spotify.com/artist/3iDVVJyqrMCzLkV5s4x1he) | [Entre O Passado E O Futuro](https://open.spotify.com/album/1RGsfRn9pL5WrFJUutdu4V) | 2:38 | 2024-08-29 | 2024-09-20 |
 | [ESPELHO](https://open.spotify.com/track/5Q80Y8egSGr1MEO2KvCYGE) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [ESPELHO](https://open.spotify.com/album/3ex5jxr25geXOcxNXFD8Nv) | 2:52 | 2024-06-27 | 2024-07-19 |
 | [Espera Por Mim](https://open.spotify.com/track/3qCz2wp2u8FK4d6g2cLDHP) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Espera Por Mim](https://open.spotify.com/album/55yJIiWoQwa7XnTovpZ07z) | 3:36 | 2024-06-27 | 2024-08-02 |

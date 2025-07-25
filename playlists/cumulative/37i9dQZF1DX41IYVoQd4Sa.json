@@ -991,6 +991,28 @@
     },
     {
       "album": {
+        "name": "In Stereo",
+        "url": "https://open.spotify.com/album/44B9VnE86HRFjcYVEEg0lz"
+      },
+      "artists": [
+        {
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+        },
+        {
+          "name": "Tom Sanders",
+          "url": "https://open.spotify.com/artist/7JPYQ0pXUIZVWVE1fRT7FU"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266213,
+      "name": "In Stereo",
+      "url": "https://open.spotify.com/track/6VBbmDuYFGj4xAxLM79JB7"
+    },
+    {
+      "album": {
         "name": "iPhone (\u0622\u064a\u0641\u0648\u0646)",
         "url": "https://open.spotify.com/album/41vJ98xdJ01oLTLIiF9Lgn"
       },
@@ -1989,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05d9\u05da \u05d6\u05d4 \u05e9\u05db\u05d5\u05db\u05d1",
+        "url": "https://open.spotify.com/album/5vgMkQMVq81dTddGUQGpeh"
+      },
+      "artists": [
+        {
+          "name": "\u05e8\u05e2\u05e9 \u05dc\u05d1\u05df",
+          "url": "https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "\u05d0\u05d9\u05da \u05d6\u05d4 \u05e9\u05db\u05d5\u05db\u05d1",
+      "url": "https://open.spotify.com/track/7fAnulls4PtbCncz43fhHa"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05dc\u05d1\u05d9",
         "url": "https://open.spotify.com/album/2LgPeo7Kk22ksXeNO5AA8R"
       },
@@ -2097,6 +2137,32 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05e4\u05d7\u05d3 \u05de\u05d4\u05e8\u05d9\u05e7",
+        "url": "https://open.spotify.com/album/0tD2xOql8gl7qAwQMv2YlP"
+      },
+      "artists": [
+        {
+          "name": "Roy Rieck",
+          "url": "https://open.spotify.com/artist/3BrPNWMlwJ2ZZWSQZksoqI"
+        },
+        {
+          "name": "Nitzan Eisenberg",
+          "url": "https://open.spotify.com/artist/4apB1JEe0qBaPVg7tqoVYx"
+        },
+        {
+          "name": "Ran Raiten",
+          "url": "https://open.spotify.com/artist/2EroXRbQDioUIlAOKPViPB"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198602,
+      "name": "\u05d0\u05e4\u05e8\u05d5\u05e8\u05d9\u05e7",
+      "url": "https://open.spotify.com/track/7agNJLn66STrmFnPuoPUtQ"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05e4\u05e8\u05d9\u05dc",
         "url": "https://open.spotify.com/album/49yXdVs72GtN97p8drkDT4"
       },
@@ -2188,7 +2254,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 151783,
       "name": "\u05d1\u05d5\u05d0 \u05d0\u05dc\u05d9\u05d9 \u05e4\u05e8\u05e4\u05e8 \u05e0\u05d7\u05de\u05d3",
       "url": "https://open.spotify.com/track/0vNyWsVeCZ5NbMqxf9Cput"
@@ -3842,7 +3908,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 196914,
       "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
@@ -3860,7 +3926,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 259724,
       "name": "\u05dc\u05d2\u05dc\u05d2\u05dc \u05d0\u05ea \u05d6\u05d4 \u05d4\u05dc\u05d0\u05d4",
       "url": "https://open.spotify.com/track/2e2mGleQVxuZ2G5c7r3ekR"
@@ -4892,7 +4958,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 179053,
       "name": "\u05e4\u05e6\u05e6\u05d4",
       "url": "https://open.spotify.com/track/2tO6AEppCq2NMlLtaXUC4N"
@@ -5228,6 +5294,24 @@
       "duration_ms": 263853,
       "name": "\u05e9\u05de\u05e9 \u05e7\u05d8\u05e0\u05d4",
       "url": "https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy"
+    },
+    {
+      "album": {
+        "name": "\u05ea\u05d1\u05d9\u05d0\u05d5 \u05d9\u05d5\u05ea\u05e8",
+        "url": "https://open.spotify.com/album/6w83IjmEhjoFnmlDZc19CT"
+      },
+      "artists": [
+        {
+          "name": "Hila Ruach",
+          "url": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186959,
+      "name": "\u05ea\u05d1\u05d9\u05d0\u05d5 \u05d9\u05d5\u05ea\u05e8",
+      "url": "https://open.spotify.com/track/4eV72E8RwT0gxFTVEEOhFz"
     },
     {
       "album": {

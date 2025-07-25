@@ -1709,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Community",
+        "url": "https://open.spotify.com/album/3YJsElodAkklrVP8dCMEkJ"
+      },
+      "artists": [
+        {
+          "name": "Astred",
+          "url": "https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128989,
+      "name": "Community",
+      "url": "https://open.spotify.com/track/0bWk4AyfrgCiAYNyJpvW7T"
+    },
+    {
+      "album": {
         "name": "Consapevolezza",
         "url": "https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X"
       },
@@ -2498,6 +2516,24 @@
       "duration_ms": 191111,
       "name": "Eloudius",
       "url": "https://open.spotify.com/track/6Tl3O3dPqIdJWljoejNX0k"
+    },
+    {
+      "album": {
+        "name": "Elysian",
+        "url": "https://open.spotify.com/album/5euhn9Cqj26wcP0l3d6HK8"
+      },
+      "artists": [
+        {
+          "name": "Astralis Flow",
+          "url": "https://open.spotify.com/artist/3eKqQudeGj5deVk7gdUZxK"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Elysian",
+      "url": "https://open.spotify.com/track/6ZOOPD3TEYhXzclWtU4Vqi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-593 songs - 22 hr 57 min
+595 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Gifts](https://open.spotify.com/track/5A4HO3cB7QFH1pJio7eJPN) | [zakori](https://open.spotify.com/artist/1yw7x5O6btobGfIvuNiXms) | [Lofi Lullaby](https://open.spotify.com/album/6KOidWLkTlLSUQXI0hu9iq) | 2:07 | 2023-03-20 |  |
 | [gin mood](https://open.spotify.com/track/5YAr1nEOeBQLsrqntj7Nyz) | [yori yoi hi](https://open.spotify.com/artist/0l5qxcD2fZRiXhbtJOkI5r) | [gin mood](https://open.spotify.com/album/6Taeo2fE2zaGNtHg7jTYVs) | 2:40 | 2021-11-11 | 2025-07-19 |
 | [Girasoles](https://open.spotify.com/track/3YAT7ZuCsfFQCF9DnQCpBB) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Girasoles](https://open.spotify.com/album/3Umn5tilaSDrOEdXObGBFv) | 2:03 | 2022-10-28 | 2025-07-18 |
+| [glow](https://open.spotify.com/track/0HD6mjmxgblAsOTK4MY9FB) | [vädur](https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ) | [glow](https://open.spotify.com/album/4O707Eyu3kvfO75hB6N9Yd) | 1:55 | 2025-07-24 |  |
 | [Goiaba](https://open.spotify.com/track/4KCGYOHGExcKUlFkNajeVO) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7HKTZkhWHbRZmWgCifVwfv) | 2:19 | 2022-09-16 |  |
 | [Goiaba](https://open.spotify.com/track/6nE6Gdm1JlMSS3mFfW2158) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7AeffHlBxwhazA5z5WikxD) | 2:19 | 2022-11-11 | 2024-04-19 |
 | [Golden](https://open.spotify.com/track/4wNhZBHX5nljSBTCbf4Z0x) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Golden](https://open.spotify.com/album/2FqmKUkGYBuudgPtF1X1eL) | 2:13 | 2022-08-19 | 2024-06-29 |
@@ -279,7 +280,7 @@
 | [limelight](https://open.spotify.com/track/2D6U1ScmjRJ5QLrYhMCQDe) | [Louis Loux](https://open.spotify.com/artist/4TSSTLGRVNcu07DrrYni5V) | [limelight](https://open.spotify.com/album/5yMQnvnMglKwQ7V9pVALVX) | 2:24 | 2023-12-08 | 2025-02-08 |
 | [Limited Time Only](https://open.spotify.com/track/7wiolaEKwMpf1buxKaDUhA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Limited Time Only](https://open.spotify.com/album/6TAj2O65OHQReNLVGck44m) | 3:33 | 2022-07-01 | 2022-08-19 |
 | [Lint](https://open.spotify.com/track/7JtmJQRQOIrI3yfNyoqfw1) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Lint](https://open.spotify.com/album/2uPymhchLS7jEbOJgqJdrF) | 2:42 | 2021-11-11 | 2022-09-03 |
-| [Little Bee](https://open.spotify.com/track/3FInpBbpMTFvx5P4zxJY8B) | [Aborre](https://open.spotify.com/artist/12nFi1kyqz3Tb3KByPPjpv) | [nilson](https://open.spotify.com/album/5rnlaVpE86lSfW0BFRdb60) | 1:46 | 2022-04-08 |  |
+| [Little Bee](https://open.spotify.com/track/3FInpBbpMTFvx5P4zxJY8B) | [Aborre](https://open.spotify.com/artist/12nFi1kyqz3Tb3KByPPjpv) | [nilson](https://open.spotify.com/album/5rnlaVpE86lSfW0BFRdb60) | 1:46 | 2022-04-08 | 2025-07-25 |
 | [Little Gizmo](https://open.spotify.com/track/6esyeDe38f70UQ6SrwNqxB) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [Little Gizmo](https://open.spotify.com/album/0MzAoikBA5kimZwGw4gBud) | 2:49 | 2024-01-12 |  |
 | [Llama Drama](https://open.spotify.com/track/3BIigRWvCUldxIeQkzSEMa) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Llama Drama](https://open.spotify.com/album/1JjljDOBIiFcWw7j3Qrxcw) | 2:07 | 2021-11-11 | 2023-10-24 |
 | [Lo Que Queda](https://open.spotify.com/track/2O5U7PvbZI0zgwZwbI7rCr) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm), [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU) | [Lo Que Queda](https://open.spotify.com/album/3djr31EpN79WlmnWgGjxXB) | 2:09 | 2024-06-28 | 2025-01-11 |
@@ -407,6 +408,7 @@
 | [Really Get Going](https://open.spotify.com/track/69Go42QZw7dC2Ehl0pZhCi) | [Steefann](https://open.spotify.com/artist/6bQY0OdvrUz4BUlajKcLfF) | [Really Get Going](https://open.spotify.com/album/4MACdcvjpSigHwHLxWDhyx) | 2:35 | 2021-11-11 |  |
 | [rebounce](https://open.spotify.com/track/2tW8wzVmE4NZNX2dCpDyz4) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:02 | 2021-11-11 | 2022-05-20 |
 | [Red Dove](https://open.spotify.com/track/7LebLMIwvYvoWbBd9GYtxW) | [Greenland](https://open.spotify.com/artist/58WLeCP383TOf9KPchxyLl) | [Red Dove](https://open.spotify.com/album/7GJpLw4jMbTx00deI5jpOa) | 2:02 | 2021-11-11 | 2022-09-03 |
+| [red velvet](https://open.spotify.com/track/7hmGiIswHFcMf4KnFnaokm) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [red velvet](https://open.spotify.com/album/7DYmG0ObB9dRpmRhW8SO0Y) | 1:54 | 2025-07-24 |  |
 | [redstarts anthem](https://open.spotify.com/track/3SaPKXrGjouLEhpLteWeOu) | [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX), [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [redstarts anthem](https://open.spotify.com/album/4Ovaj9N6dqvSY30QzRJr9D) | 2:30 | 2024-07-26 | 2024-09-07 |
 | [Redwoods](https://open.spotify.com/track/11gVIeL9FfqhF45zmjm6xT) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Redwoods](https://open.spotify.com/album/6Kk4bJJTGPRq1Z3X0EtpRN) | 2:38 | 2022-05-27 | 2023-10-13 |
 | [Rekindle](https://open.spotify.com/track/32NjCJKVmst3MIm1PK4Fy7) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Rekindle](https://open.spotify.com/album/3ZpE4lhlbVCQqBhwJUMVun) | 2:21 | 2024-12-17 |  |
@@ -489,7 +491,7 @@
 | [sunburn](https://open.spotify.com/track/4U5WqVdkISyQaKIlAOICAt) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [sunburn](https://open.spotify.com/album/6NZfxSxsfouv5exah4wkzZ) | 2:10 | 2023-09-22 |  |
 | [Sundance](https://open.spotify.com/track/2yJaItXbZgD9yjdtFfUNgO) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sundance](https://open.spotify.com/album/5tzEGQEodiqOjSe0HEpAaC) | 2:02 | 2024-09-06 |  |
 | [sunday am](https://open.spotify.com/track/1gr9Risxpt6BfHdu5VxtAx) | [SLKBTS](https://open.spotify.com/artist/4hYblY3tnJxMJEPXIu1ikR) | [sunday am](https://open.spotify.com/album/2HAaftOkwFzPXYuBeifJU8) | 1:58 | 2021-11-11 |  |
-| [SUNDAY SUN](https://open.spotify.com/track/4qOYZ6B8I1uXM8lP3jztCq) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [SUNDAY SUN](https://open.spotify.com/album/1SX0d2TR62aUzWVGEGGiXk) | 2:16 | 2024-09-06 |  |
+| [SUNDAY SUN](https://open.spotify.com/track/4qOYZ6B8I1uXM8lP3jztCq) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [SUNDAY SUN](https://open.spotify.com/album/1SX0d2TR62aUzWVGEGGiXk) | 2:16 | 2024-09-06 | 2025-07-25 |
 | [Sundown Avenue](https://open.spotify.com/track/0eb3ipy85WFgCcV0JZFL7y) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Train of Liberation](https://open.spotify.com/album/48FgL60ydhm7ScPE1Zkao9) | 2:55 | 2021-11-11 | 2024-08-31 |
 | [Sunlight](https://open.spotify.com/track/7jSono8RS7mhnOMr2A5SHk) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Sunlight](https://open.spotify.com/album/5T7xtmPY9xQnd0wyKNnzmX) | 2:24 | 2024-06-28 |  |
 | [Sunny](https://open.spotify.com/track/0JXVthIPNVYB76jj2oxbKY) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Sunny](https://open.spotify.com/album/3R5VARmC4zQ45PWlphX0vR) | 2:33 | 2022-10-15 | 2023-10-24 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 123957,
+  "num_followers": 123967,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Aut\u00e9ntico Rock. Grandes \u00c9xitos del Rock Paraguayo",
+        "url": "https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ"
+      },
+      "artists": [
+        {
+          "name": "S.K.A.",
+          "url": "https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Que Divague",
+      "url": "https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 251626,
       "name": "Ni Contigo, Ni Sin Ti",
       "url": "https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Aut\u00e9ntico Rock. Grandes \u00c9xitos del Rock Paraguayo",
-        "url": "https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ"
-      },
-      "artists": [
-        {
-          "name": "S.K.A.",
-          "url": "https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Que Divague",
-      "url": "https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2"
     },
     {
       "added_at": "2025-03-14 20:46:39",

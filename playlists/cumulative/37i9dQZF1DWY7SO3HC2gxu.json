@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Best blends of Electronic music across East Africa. Cover: DJ Mura & Big Nyagz",
+  "description": "Best blends of Electronic music across Africa. Cover: Tina Ardor",
   "name": "Oontz",
   "tracks": [
     {
@@ -886,7 +886,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 320031,
       "name": "Es Vedra",
       "url": "https://open.spotify.com/track/6K6UHR9tV2S43WK5GWpI80"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 453495,
       "name": "Forever - &Lez Remix",
       "url": "https://open.spotify.com/track/3TFhBDI23s6lCFOvtu6o5b"
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 246000,
       "name": "Gorah",
       "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 181935,
       "name": "Jibambe - Radio Edit",
       "url": "https://open.spotify.com/track/1KyPWkT6IccS8XebxjDMdV"
@@ -1785,6 +1785,36 @@
     },
     {
       "album": {
+        "name": "Kesho Tamu (Rameff Original Remix)",
+        "url": "https://open.spotify.com/album/27J66HrCJkI4YwcchlZs0t"
+      },
+      "artists": [
+        {
+          "name": "TALULAH",
+          "url": "https://open.spotify.com/artist/1K8uicuoMqnSpi6TXUZboZ"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Rameff",
+          "url": "https://open.spotify.com/artist/0DWY0d4hBQovhQ9hMc41tv"
+        },
+        {
+          "name": "CHUMA",
+          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295161,
+      "name": "Kesho Tamu - Rameff Original Remix",
+      "url": "https://open.spotify.com/track/1Fkuw99wHMgc86LHOHKrG8"
+    },
+    {
+      "album": {
         "name": "Kibogoyo (Funkky Remix)",
         "url": "https://open.spotify.com/album/5DtX7nWHKR6N38wkvg24ob"
       },
@@ -1895,6 +1925,28 @@
     },
     {
       "album": {
+        "name": "Kiwache Kisonge",
+        "url": "https://open.spotify.com/album/7xFYBWsymEnAg5qfehKMTQ"
+      },
+      "artists": [
+        {
+          "name": "Iborian",
+          "url": "https://open.spotify.com/artist/36mP4oRFl8IveYlzp9SwGR"
+        },
+        {
+          "name": "Jemedari",
+          "url": "https://open.spotify.com/artist/4bNK3KE81iSO3uXXUhH0UI"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220165,
+      "name": "Kiwache Kisonge - Radio Edit",
+      "url": "https://open.spotify.com/track/25czmtF57DG14NOvibExz1"
+    },
+    {
+      "album": {
         "name": "Kolowa",
         "url": "https://open.spotify.com/album/1kZGThqXqwXiJuEE3zlxue"
       },
@@ -1948,7 +2000,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 376000,
       "name": "Kula - Tony Shades Remix",
       "url": "https://open.spotify.com/track/6Hu7KdszWs8YTmgjOKwnwD"
@@ -1978,6 +2030,32 @@
       "duration_ms": 182439,
       "name": "Kumbaya",
       "url": "https://open.spotify.com/track/4y6rZU5JCcDrksYDq7CMAY"
+    },
+    {
+      "album": {
+        "name": "Kute (Instant Touch SA Remix)",
+        "url": "https://open.spotify.com/album/3z7qFHhyBuoPSFoDLmXxdg"
+      },
+      "artists": [
+        {
+          "name": "Ayah True Soul",
+          "url": "https://open.spotify.com/artist/4yDOGNUg6p2tf83iLGTjjT"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        },
+        {
+          "name": "Instant Touch SA",
+          "url": "https://open.spotify.com/artist/19KmTb9GBqJfPkjbPl2Huo"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450374,
+      "name": "Kute - Instant Touch SA Remix",
+      "url": "https://open.spotify.com/track/05m8ybL6yNWZD9odUeHscd"
     },
     {
       "album": {
@@ -3394,7 +3472,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 183233,
       "name": "O.D",
       "url": "https://open.spotify.com/track/3nmMU6AXk6Sok53h1QTMlR"
@@ -3608,6 +3686,28 @@
       "duration_ms": 195129,
       "name": "Pepo",
       "url": "https://open.spotify.com/track/1rN3DJ6IXLuvVPIgG3SBLe"
+    },
+    {
+      "album": {
+        "name": "PILIPILI",
+        "url": "https://open.spotify.com/album/6PrhVGGZFCNwQ1wv8nEdMP"
+      },
+      "artists": [
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321391,
+      "name": "Pilipili",
+      "url": "https://open.spotify.com/track/65w3FtXtziGjst2FoNaUpg"
     },
     {
       "album": {
@@ -4822,6 +4922,36 @@
       "duration_ms": 260000,
       "name": "Tu Ta Le",
       "url": "https://open.spotify.com/track/0n6ZENBExJur3dt3soebKB"
+    },
+    {
+      "album": {
+        "name": "Tuliza",
+        "url": "https://open.spotify.com/album/1LXdEkvW3d3eVdowMatSLM"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6NI",
+          "url": "https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q"
+        },
+        {
+          "name": "Jerome Sydor",
+          "url": "https://open.spotify.com/artist/2pkf9r1fZ6BBgmoYhbVuFX"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "kam",
+          "url": "https://open.spotify.com/artist/3DWT9SZoA2lOKM32hTseMp"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171726,
+      "name": "Tuliza",
+      "url": "https://open.spotify.com/track/4wlSzuD1Tp7MGnhv96VMHF"
     },
     {
       "album": {

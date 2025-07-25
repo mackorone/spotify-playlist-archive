@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Francis Mercier
 
-270 songs - 16 hr 8 min
+271 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Fanm Chè](https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Trap King](https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK) | 3:06 | 2021-12-06 | 2025-05-27 |
 | [Fe Led](https://open.spotify.com/track/3gFODw0PFnJtCroUWvzrgW) | [Team Lobey](https://open.spotify.com/artist/1q19J01Xlgo5Ck1Hvs3wl2), [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa), [Gio\-K](https://open.spotify.com/artist/7cnGhb65N4hiSdJ2QWdGxI) | [Fe Led](https://open.spotify.com/album/0rMl5eZaDXYeUu4QHbDnj4) | 2:51 | 2023-09-24 | 2024-01-03 |
 | [Fem voyé](https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 3:54 | 2022-07-14 |  |
+| [FENOMENAL](https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5) | [ÄSHH](https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK) | [FENOMENAL](https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY) | 3:07 | 2025-04-04 |  |
 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 | 2021-12-06 |  |
 | [Fly Away](https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX) | [Fly Away](https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB) | 2:38 | 2021-12-06 | 2023-02-18 |
 | [Foli](https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol) | [Daniel Prophete](https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga) | [Foli](https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm) | 2:57 | 2023-06-09 | 2024-02-24 |
@@ -162,7 +163,7 @@
 | [MiMi Miaww](https://open.spotify.com/track/2a1rMqQOgb3qyXmBSicii1) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [MiMi Miaww](https://open.spotify.com/album/4NnAXDysCCzGhxLYisCuoj) | 4:24 | 2021-12-06 | 2022-05-13 |
 | [Miscalculated](https://open.spotify.com/track/6jbyBrXQPHK3s0V0OfGp0P) | [Mike Squires](https://open.spotify.com/artist/59Q1RHoClIRbIUlf29cFsY), [Wasionkey](https://open.spotify.com/artist/29SpRodaj3Wqtwq2fWlyty), [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [Miscalculated](https://open.spotify.com/album/1beccBq6D639FKHHNTnPeH) | 2:55 | 2023-06-09 | 2023-09-10 |
 | [Moun Mwen](https://open.spotify.com/track/4jfE63lTCeD90ZlBhM5trG) | [Mebel Brun](https://open.spotify.com/artist/31Xfnn2aa7WHVFZYJ3Ibcm) | [Moun Mwen](https://open.spotify.com/album/5iRxy8wbqOhyODknptpWPw) | 2:28 | 2025-04-04 |  |
-| [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 | 2022-07-14 |  |
+| [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 | 2022-07-14 | 2025-07-25 |
 | [Mr Diablo](https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Mr Diablo](https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa) | 2:46 | 2021-12-06 | 2025-03-08 |
 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 | 2021-12-06 |  |
 | [Na Va Wè Yo](https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA) | [ManitoNation](https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3), [Paul Beaubrun](https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot), [Kabysh](https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD) | [Trip Tropikal](https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn) | 4:12 | 2021-12-06 |  |

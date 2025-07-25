@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,243 songs - 1 day 23 hr 25 min
+1,244 songs - 1 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [green velvet](https://open.spotify.com/track/6v5wgMNhYbZk92SPY88lNm) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [green velvet](https://open.spotify.com/album/2B893F73aIVF7MJ36y9evq) | 2:11 | 2023-12-08 | 2024-07-27 |
 | [grey river](https://open.spotify.com/track/359aPW7nGVpE1OFKAxdPoy) | [Jimmy Neil](https://open.spotify.com/artist/5HfkIGeF9udNWGX8tXCwBT) | [grey river](https://open.spotify.com/album/2y8GSOdl7qsn7lSnrf9knE) | 2:08 | 2021-11-10 | 2022-05-27 |
 | [growing old](https://open.spotify.com/track/436s982u8353CoFO599stn) | [lil frenchie](https://open.spotify.com/artist/1VomLPCcUmzUWELhpgxHZ1) | [growing old](https://open.spotify.com/album/3cAel2wTxAaNLKOO1MSsRZ) | 2:06 | 2022-10-28 | 2023-04-12 |
+| [growing still](https://open.spotify.com/track/3RSxBajUUnUfHPZbriPzWT) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [growing still](https://open.spotify.com/album/02d2LqrUcKC1H2KxCE9Vjx) | 2:46 | 2025-07-24 |  |
 | [gum base](https://open.spotify.com/track/6LyviQusG58OfxFrffz2qq) | [lonely call](https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM) | [gum base](https://open.spotify.com/album/5CobBoECqB5ZMi2RXLnJDQ) | 1:56 | 2022-01-27 | 2023-03-02 |
 | [gumball](https://open.spotify.com/track/6ydtA9AvPhmPy8N4WOmLCR) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Two Dolla$](https://open.spotify.com/album/1fFaLQJWtZgGElW4gI1Of8) | 3:51 | 2023-02-17 | 2025-07-16 |
 | [Habitual](https://open.spotify.com/track/6mD3Y8GFnYQUXGRTMjaCYN) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Habitual](https://open.spotify.com/album/0ep27p9MXF8EjDy4qXpE0m) | 1:54 | 2022-11-11 | 2022-12-10 |
@@ -485,7 +486,7 @@
 | [Hometown Cafe](https://open.spotify.com/track/6jjpHma6BEh62xBJeasFyf) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ) | [Hometown Cafe](https://open.spotify.com/album/2sdFvHsLUhvyR7O1S3RC0m) | 2:35 | 2021-11-10 | 2022-10-15 |
 | [honey sweet](https://open.spotify.com/track/6HMReqwhFiDYjXm9Yp008x) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [honey sweet](https://open.spotify.com/album/68VuJvWiekf22ADYco8THc) | 1:55 | 2023-10-13 |  |
 | [Hoot](https://open.spotify.com/track/5a9FIXaP7vA1k00fxsHRuH) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Light of Dawn](https://open.spotify.com/album/5oqNd0jD06nuviPzb0fOFE) | 1:49 | 2022-05-13 | 2022-07-29 |
-| [Hope](https://open.spotify.com/track/440V3Kb6STWjXVYkGiph2d) | [Mr\. Jello](https://open.spotify.com/artist/36L95dDAJG3EJ2tstIZpFj), [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Hope](https://open.spotify.com/album/57vqKi8jLGQjrr7fRkT6lN) | 1:30 | 2023-03-16 |  |
+| [Hope](https://open.spotify.com/track/440V3Kb6STWjXVYkGiph2d) | [Mr\. Jello](https://open.spotify.com/artist/36L95dDAJG3EJ2tstIZpFj), [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Hope](https://open.spotify.com/album/57vqKi8jLGQjrr7fRkT6lN) | 1:30 | 2023-03-16 | 2025-07-25 |
 | [Hope](https://open.spotify.com/track/153ikHLHd0r3dhycyYuLfn) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Hope](https://open.spotify.com/album/1CALuWpHb0s5Hjjk5FA08D) | 2:12 | 2022-07-01 |  |
 | [Hopeful Lullaby](https://open.spotify.com/track/3IQJOIoRIRte0umcKHCFjQ) | [Chetco Effect](https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7) | [Hopeful Lullaby](https://open.spotify.com/album/2EvMIbvNjPoQkH7uxKVcGm) | 2:08 | 2025-07-15 |  |
 | [Horizons](https://open.spotify.com/track/3xDyvJ4bLvJuyjncFeg8iB) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Horizons](https://open.spotify.com/album/6EhaOcENiKT6Mp2krYnHyp) | 2:31 | 2022-09-16 | 2023-10-06 |

@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 손이지유\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,518 songs - 4 day 2 hr 27 min
+1,519 songs - 4 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Because We're All First Time](https://open.spotify.com/track/2EcVyHkJ2GN9qP8M7nROZv) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E) | [Attitude \#3](https://open.spotify.com/album/7cmVY1jQTw4EaKKqm1wr6U) | 3:55 | 2023-01-10 | 2023-02-25 |
 | [Because You Don't Love Me](https://open.spotify.com/track/4qSK8cVMEECClvHmFXUqdP) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Because You Don't Love Me](https://open.spotify.com/album/1I4k4k18DkFJBYBAhqW6v3) | 3:43 | 2023-06-22 | 2023-11-16 |
 | [Because You're Not Here](https://open.spotify.com/track/1qCp5eczpNpcGnRkia5tCo) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/60w4ZxJnDrtlq7klh2e62m) | 4:18 | 2022-03-24 | 2022-04-21 |
-| [Become a faded painting](https://open.spotify.com/track/4AzXm1ny4CahvZXzgv63KI) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [Become a faded painting](https://open.spotify.com/album/2pDQFS9D5AGTG1rBWmcsiL) | 3:48 | 2025-05-09 |  |
+| [Become a faded painting](https://open.spotify.com/track/4AzXm1ny4CahvZXzgv63KI) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [Become a faded painting](https://open.spotify.com/album/2pDQFS9D5AGTG1rBWmcsiL) | 3:48 | 2025-05-09 | 2025-07-25 |
 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 | 2023-05-16 | 2023-09-19 |
 | [Begin to snow](https://open.spotify.com/track/2p45sMAYpkYpk1Oq72ulbK) | [Jo Hwanji](https://open.spotify.com/artist/5akSWTgM0AKiKKfSjEdplh) | [Begin to snow](https://open.spotify.com/album/40uF1cLo4ePEhzbH70rg4V) | 3:24 | 2023-01-11 | 2023-02-25 |
 | [beginning and end](https://open.spotify.com/track/6WBlLE5l2dxxdzt4j6GdKD) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [my fuxxxxx romance](https://open.spotify.com/album/3AQTZVGPEZIpeLz43JsrKY) | 4:40 | 2024-04-19 | 2024-09-14 |
@@ -190,12 +190,13 @@
 | [Broke up today \(Feat\. TANAKA\)](https://open.spotify.com/track/6Fatc7VHs0sc8TWx8Wc8BC) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz), [TANAKA](https://open.spotify.com/artist/5FZYWdNeBGAItqlOdEKNKT) | [Broke up today](https://open.spotify.com/album/5aAP9LRBp8gYfEJKCBL0u3) | 4:17 | 2023-09-27 | 2023-12-14 |
 | [Broke Up, Met Again \(prod\. DOKO\) \- You Remix Version](https://open.spotify.com/track/7vgez1qM4xypCv921l7688) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Broke Up, Met Again](https://open.spotify.com/album/3b6gNzdvqczZecDmziSvvx) | 3:13 | 2022-08-03 | 2022-12-27 |
 | [Bud](https://open.spotify.com/track/7jkrMzk3hPTQOiOmhjNiMM) | [Park Hyungsik](https://open.spotify.com/artist/63CIh5694oJLXgtyXkp92Z) | [Our Blooming Youth \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/51ftN67dKvQHlG9Cz5AnGE) | 3:55 | 2023-04-26 | 2023-09-12 |
+| [Burden](https://open.spotify.com/track/2tbYDW5Y8jN0XbpT5lPYdt) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [Head over Heels, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/4jMRD0aqyZQDOxz5rke3s1) | 4:46 | 2025-07-24 |  |
 | [Burden](https://open.spotify.com/track/35wAnH3OfMXvPgJq6urVkG) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [My fuxxxxx romance 01](https://open.spotify.com/album/6QEoy9NgTE3tpCoHgb4crc) | 4:28 | 2022-03-31 | 2022-06-13 |
 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 | 2022-07-07 | 2022-08-12 |
 | [But I'll Miss You](https://open.spotify.com/track/7AyxUdou9NrGU64bTc9dsT) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Maum, Part\. 2](https://open.spotify.com/album/25eO6EK4Lt8NLyzStPpcQN) | 4:09 | 2021-12-20 | 2022-06-23 |
 | [Butterfly](https://open.spotify.com/track/15jxI2XwZfYo7FGKex8IEf) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [화양연화 The Most Beautiful Moment In Life, Pt\. 2](https://open.spotify.com/album/1sBSHQEpD9pQOrJIv4qyFs) | 3:58 | 2022-01-17 | 2022-02-22 |
 | [Butterfly](https://open.spotify.com/track/6FUFNToiiQKYqhPvWKVy9u) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Wedding Impossible \(Original Soundtrack Special\)](https://open.spotify.com/album/4SjPoZdHsCXFOz1Nb6ZKSo) | 3:39 | 2024-03-05 | 2024-07-12 |
-| [By My Side](https://open.spotify.com/track/7gnX5DpYwAguO3sfF4b7fY) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [By My Side](https://open.spotify.com/album/202mC12o8Px1mbBaGdQyku) | 3:43 | 2025-04-08 |  |
+| [By My Side](https://open.spotify.com/track/7gnX5DpYwAguO3sfF4b7fY) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [By My Side](https://open.spotify.com/album/202mC12o8Px1mbBaGdQyku) | 3:43 | 2025-04-08 | 2025-07-25 |
 | [By your side](https://open.spotify.com/track/4GQMxRSsNLW4abwsEjWflv) | [415](https://open.spotify.com/artist/4ZAakh9PB0owkUsmGcYXKh) | [By your side \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.7](https://open.spotify.com/album/35KfS2ZS6PitvgGRbatNxo) | 4:06 | 2022-07-07 | 2022-08-13 |
 | [By your side](https://open.spotify.com/track/0fJUrrGavib2kyGF7RY1Iv) | [Joo Hyung Jin](https://open.spotify.com/artist/6UvEfwKbmtK2NEUaKhhXD0) | [By your side](https://open.spotify.com/album/4PysUWj8vK3fX1K0My6XHR) | 3:37 | 2022-07-07 | 2022-07-23 |
 | [By your side](https://open.spotify.com/track/2OAbhTVIWlwoGkhqMuqBEt) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Melo Movie \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5PlWD3jtXFnEGFm00Y6End) | 4:08 | 2025-02-14 | 2025-06-12 |

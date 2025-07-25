@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient electric guitar.
 
-937 songs - 1 day 23 hr 2 min
+940 songs - 1 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Anomaly](https://open.spotify.com/track/5UqCq6DWkMfFEFxNhQi8zZ) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Dear Avalanche](https://open.spotify.com/album/1Q4lWl84CNsZDDXQCm9VLe) | 2:54 | 2019-05-26\* | 2019-06-19 |
 | [Another Day](https://open.spotify.com/track/2O07AvxSLB2UNfANa6SzLi) | [Francis Flo](https://open.spotify.com/artist/1WNWDUJZnaNuOhfcoug5hJ) | [Another Day](https://open.spotify.com/album/3qyY3grfJEQY889AdFXXwN) | 1:53 | 2024-03-14 | 2025-04-24 |
 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 | 2019-12-07 | 2020-08-07 |
-| [Another Paradise](https://open.spotify.com/track/4wO3UB5XHF7UjpTcZIASwy) | [Perseus](https://open.spotify.com/artist/4blTYEYufm69zg2U7ruiDm) | [Another Paradise](https://open.spotify.com/album/6XYR0GcxVOryzNqppnoxBv) | 2:45 | 2024-05-11 |  |
+| [Another Paradise](https://open.spotify.com/track/4wO3UB5XHF7UjpTcZIASwy) | [Perseus](https://open.spotify.com/artist/4blTYEYufm69zg2U7ruiDm) | [Another Paradise](https://open.spotify.com/album/6XYR0GcxVOryzNqppnoxBv) | 2:45 | 2024-05-11 | 2025-07-25 |
 | [Any Given Place](https://open.spotify.com/track/2WltUi1jhpoiksDrlJUBlr) | [Of Water](https://open.spotify.com/artist/0vrr0Uu8SDXaogmsFovyC2) | [Beyond Exploding Stars](https://open.spotify.com/album/1eiqm039IN4hvY85s8VgQP) | 3:04 | 2019-05-26\* | 2020-04-13 |
 | [Anymore](https://open.spotify.com/track/2R3iMcMPdgcfBa8xIX7n1s) | [Napolia](https://open.spotify.com/artist/7yyohycQq12ZbZJZOISJ83) | [Anymore](https://open.spotify.com/album/0dAiHin0kW6QS9I36siHO0) | 2:24 | 2025-05-21 |  |
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2019-05-26\* | 2020-01-03 |
@@ -65,7 +65,7 @@
 | [Atmosphere](https://open.spotify.com/track/19g2Q1yE3LlRykOa5sLL7C) | [Savione](https://open.spotify.com/artist/3BqdrzfJnVqaTOI84wcjVg) | [Atmosphere](https://open.spotify.com/album/6onogylUTUOmrp6Fwb6F5j) | 2:32 | 2023-11-24 | 2024-11-07 |
 | [Auburn Sky](https://open.spotify.com/track/42BtxDRqFTbE6Jb6rd9QOZ) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Auburn Sky](https://open.spotify.com/album/1EIqmvGv55MS2yreh82mh0) | 2:42 | 2020-06-19 | 2023-11-25 |
 | [Augury](https://open.spotify.com/track/1ELJ66txni1o86RVvdcgHb) | [Lynx XII](https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa) | [Augury](https://open.spotify.com/album/02lgvATBKD2B6sHurWBiza) | 2:36 | 2023-08-18 | 2024-10-15 |
-| [Aura Moment](https://open.spotify.com/track/7CrGYLDzOWzRz5ZfUHtqrv) | [Starstrum](https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3) | [Aura Moment](https://open.spotify.com/album/7JZ88iNPG4PFuFey1x0BBT) | 2:13 | 2025-04-01 |  |
+| [Aura Moment](https://open.spotify.com/track/7CrGYLDzOWzRz5ZfUHtqrv) | [Starstrum](https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3) | [Aura Moment](https://open.spotify.com/album/7JZ88iNPG4PFuFey1x0BBT) | 2:13 | 2025-04-01 | 2025-07-25 |
 | [autumn hillside](https://open.spotify.com/track/7KI8MEZj4X30JSdveJsxm1) | [Harry Bloom](https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja) | [autumn hillside](https://open.spotify.com/album/2qzlnZT2wRJRVEOeuITplQ) | 2:39 | 2025-07-16 |  |
 | [Aviator](https://open.spotify.com/track/2VbF4zSuWtSio8BFi1rdIK) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Aviator](https://open.spotify.com/album/1k7NvTe7qDi5BfR811HC28) | 2:47 | 2024-12-04 |  |
 | [Awaken](https://open.spotify.com/track/00ZtJgQax06A96l8sMcmlB) | [William Duhamel](https://open.spotify.com/artist/2MJK51yXcbWpaiL0MWCAtp) | [Awaken](https://open.spotify.com/album/3R9k9HgJhVjdeHKIeVP4ZK) | 2:09 | 2020-01-09 | 2022-11-18 |
@@ -584,6 +584,7 @@
 | [Orbits](https://open.spotify.com/track/6jFX2sHOzh7tpIIOomlrqJ) | [Halfway Escape](https://open.spotify.com/artist/1zT5lkgp3zNJ592XVPVKUP) | [Orbits](https://open.spotify.com/album/5jHLPPk51g8j1xkVKgKPwR) | 3:24 | 2020-08-07 | 2023-07-14 |
 | [Origins](https://open.spotify.com/track/0U5OKIZb2n35xNBmsxuSiH) | [Yavannah](https://open.spotify.com/artist/2i9RUDCIF8Aqr3sq19hTZI) | [Origins](https://open.spotify.com/album/5wdRzws51iFoyCB87klzVQ) | 3:30 | 2024-05-11 | 2024-12-05 |
 | [Orion's Belt](https://open.spotify.com/track/2p36nzolzAlLbaFAQiqfPd) | [Lykke Juno](https://open.spotify.com/artist/6cJCpDjNQBjGqBNB453M9J) | [Orion's Belt](https://open.spotify.com/album/5SrmFEQRtxMlegiboE6oX4) | 1:58 | 2023-03-31 | 2023-07-29 |
+| [Osaka](https://open.spotify.com/track/5mvEdy8gChsE3fffMps5UJ) | [Egon Alram](https://open.spotify.com/artist/4fHSfGpd33bVmfX6nKObBs) | [Osaka](https://open.spotify.com/album/7rTxTCZnhp3DSfVSfdv1Pd) | 2:43 | 2025-07-24 |  |
 | [Oscillation](https://open.spotify.com/track/0rZ0wSyuHnIb5ViR9EDdgH) | [Mimber](https://open.spotify.com/artist/4L3x3vTCpJgWtpD1wd4L01) | [Oscillation](https://open.spotify.com/album/6IMdxAN1dBLS1l0doB7D8y) | 2:23 | 2024-02-13 | 2024-09-03 |
 | [ouma](https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS) | [Fall Ball](https://open.spotify.com/artist/4fuQaoYKyoJhGu6Vabhrv3) | [ouma](https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ) | 2:57 | 2021-12-22 | 2023-11-25 |
 | [Outdoors](https://open.spotify.com/track/5FWfUeYvoKI9PCM6NHf5HS) | [Pete McMurray](https://open.spotify.com/artist/0axEcnxjPL29xOVtOW2RSN) | [Outdoors](https://open.spotify.com/album/0C53oSDfBf1TAOH89CuEWN) | 2:10 | 2025-06-04 |  |
@@ -601,6 +602,7 @@
 | [Peachy](https://open.spotify.com/track/7ixI1nWnubE4nfehyyUNWS) | [Magnus Hartman](https://open.spotify.com/artist/0mAdUTIB13jBSnfdYp7xKl) | [Peachy](https://open.spotify.com/album/1ZLYPJyp23gtazyzlwqbsX) | 2:30 | 2025-06-12 |  |
 | [Perfect Instance](https://open.spotify.com/track/1DprJIKazijA5UkXiR6oQ6) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Perfect Instance](https://open.spotify.com/album/0q4lFbtl9ODtQVnwan4Nqr) | 4:13 | 2019-06-19\* | 2019-12-11 |
 | [Periphescence](https://open.spotify.com/track/2DhT22DtGdRKULjuScdht0) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [The Coachlight Woods](https://open.spotify.com/album/5rvAkp5i9TmfeLkzfV1Ig4) | 3:58 | 2019-05-26\* | 2019-06-19 |
+| [Perpetual calendar](https://open.spotify.com/track/0InteXDxIbGkBvGeBxqQlw) | [BBG's](https://open.spotify.com/artist/0rKBlryjOUk7Oy1v0RCG0o) | [Perpetual calendar](https://open.spotify.com/album/1VNg437QcUpmgq3ItqDCSZ) | 2:08 | 2025-07-24 |  |
 | [Perspectives](https://open.spotify.com/track/2JqdZwV26f3hc8JiyicOKB) | [Stellar Luminous](https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN) | [Perspectives](https://open.spotify.com/album/7DGnNlBGabh8WBs2Mk5Qcn) | 2:14 | 2025-06-12 |  |
 | [Petrichor](https://open.spotify.com/track/2GKVta6SrAVlOKHD8velxH) | [At The End Of Times, Nothing](https://open.spotify.com/artist/249C09TWxdBKs7Z5BN2MU6) | [Everything We See Will Die](https://open.spotify.com/album/6prMVW3OJCHsRwLYTg6SLa) | 3:40 | 2019-05-26\* | 2020-08-07 |
 | [Petrichor](https://open.spotify.com/track/22KKy6ftT0i4nyGNCbwc1B) | [Cecelya](https://open.spotify.com/artist/03aCAywaPegfs9yvJ66eCp) | [Petrichor](https://open.spotify.com/album/0EeoPgnFgCP1TNJsBdelJ7) | 1:58 | 2019-06-19\* | 2023-07-29 |
@@ -770,6 +772,7 @@
 | [Sustainable](https://open.spotify.com/track/4bA8sob1x8iLZJVMbVVetn) | [Gabriel Stone](https://open.spotify.com/artist/2n5cofsnSYMHUF8C9TmIA1) | [Sustainable](https://open.spotify.com/album/10IfJhJYCIexK1MhCKQR3W) | 2:23 | 2025-04-11 |  |
 | [swinging for the fences](https://open.spotify.com/track/4ibnFZ5jTdnyuQO4p7OifJ) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [swinging for the fences](https://open.spotify.com/album/3yAVYrjvUOTa3yisFrnEsz) | 2:34 | 2024-06-11 | 2025-02-15 |
 | [synergy](https://open.spotify.com/track/1rpHkU5rHv0aPQwD65Ld1y) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [Indigo](https://open.spotify.com/album/3VqCSYcMBzgKhWtlPVbjCN) | 3:04 | 2022-07-08 | 2023-09-26 |
+| [Tagliamento](https://open.spotify.com/track/1ctz9vfbGpAElwDirHPfW1) | [Lucky Lorry](https://open.spotify.com/artist/6PUceEgT1fjREE1tIxHMMt) | [Tagliamento](https://open.spotify.com/album/6zb57bL180pR9qfBvtXJcF) | 2:15 | 2025-07-24 |  |
 | [Takeoff](https://open.spotify.com/track/4iKSrwTBu0vLSqmZUXSGXr) | [Silo Silo](https://open.spotify.com/artist/3boXA17PQlju7JHXMHO5xA) | [Takeoff](https://open.spotify.com/album/28DQzrwSKkeHBikKirM1Bh) | 3:14 | 2020-06-19 | 2024-03-27 |
 | [taming the tiger](https://open.spotify.com/track/5iR4ziuzYZO1VondRmrvsc) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Under And Can't Roll](https://open.spotify.com/album/04IciDXb3cgCpsdfavYvom) | 2:17 | 2021-09-14 | 2024-05-12 |
 | [Target](https://open.spotify.com/track/60tHXabTlAhzlkXRDWl9cp) | [Tom Kalani](https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc) | [Target](https://open.spotify.com/album/3kI4ax7CduZsv6bqHvcbGK) | 3:03 | 2020-01-03 | 2020-10-27 |

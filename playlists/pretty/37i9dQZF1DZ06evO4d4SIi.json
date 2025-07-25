@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 48540,
+  "num_followers": 48569,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH7UgAAAAABQiW+8LnkbhO3d7kfEKArI",
+  "snapshot_id": "aIAmAAAAAACfL0p+ro6VunNzuIOct0EK",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Learn The Hard Way",
-        "url": "https://open.spotify.com/album/5FjaXd6Hjfzta2vJiPB7ra"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "Learn The Hard Way",
-      "url": "https://open.spotify.com/track/3xB2R2tf0T2TXaB4AWoPjT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "About A Woman (& A Good Ol' Boy)",
         "url": "https://open.spotify.com/album/7vWt3Oe027TmVOxBBVKrIC"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 187917,
       "name": "Ain't A Bad Life",
       "url": "https://open.spotify.com/track/0tKsXVJc0aqLQ2NYOIOTPt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Learn The Hard Way",
+        "url": "https://open.spotify.com/album/5FjaXd6Hjfzta2vJiPB7ra"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 168680,
+      "name": "Learn The Hard Way",
+      "url": "https://open.spotify.com/track/3xB2R2tf0T2TXaB4AWoPjT"
     },
     {
       "added_at": null,

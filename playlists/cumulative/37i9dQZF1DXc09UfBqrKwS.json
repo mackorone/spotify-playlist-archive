@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 173238,
       "name": "Cosmic Cascade",
       "url": "https://open.spotify.com/track/2jdMMPWv4rsspn5XKcN6tC"
@@ -3994,7 +3994,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 203733,
       "name": "Enigmus",
       "url": "https://open.spotify.com/track/7Cw2C3KEvbcXVEBERuAWzt"
@@ -11241,6 +11241,24 @@
     },
     {
       "album": {
+        "name": "Stillwater",
+        "url": "https://open.spotify.com/album/7DUldEFJ5S2zN00a3RpmKi"
+      },
+      "artists": [
+        {
+          "name": "Author S",
+          "url": "https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "Stillwater",
+      "url": "https://open.spotify.com/track/6GdxSpl3FY43E6IkHEpWrU"
+    },
+    {
+      "album": {
         "name": "Stimmung",
         "url": "https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA"
       },
@@ -12622,6 +12640,24 @@
       "duration_ms": 193036,
       "name": "Weightless Dreams",
       "url": "https://open.spotify.com/track/3ruyqcT2OOhu1RjNRxdvt5"
+    },
+    {
+      "album": {
+        "name": "Weightless Hours",
+        "url": "https://open.spotify.com/album/0CW9ihaepJWNxQci3niiHr"
+      },
+      "artists": [
+        {
+          "name": "Dreamhaven",
+          "url": "https://open.spotify.com/artist/2LzHq1MhzyPCKQnzfk1R5Z"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155943,
+      "name": "Weightless Hours",
+      "url": "https://open.spotify.com/track/0co6X6NlJx2knESquaPjnS"
     },
     {
       "album": {

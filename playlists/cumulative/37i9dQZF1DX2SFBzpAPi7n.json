@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Slica Gel) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: 10CM) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 199765,
       "name": "60's Cardin",
       "url": "https://open.spotify.com/track/74RpcwQKmIFSXrzmV6aiYk"
@@ -2368,7 +2368,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 188000,
       "name": "Can I Be Me?",
       "url": "https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy"
@@ -4919,6 +4919,28 @@
     },
     {
       "album": {
+        "name": "Follow Your Steps (Feat. BIBI)",
+        "url": "https://open.spotify.com/album/7z9DTlk05LOOhdU9jQKZUg"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Follow Your Steps (Feat. BIBI)",
+      "url": "https://open.spotify.com/track/7opKvhH1FUiDCmkMSREqwr"
+    },
+    {
+      "album": {
         "name": "CLOVER Part 1.5",
         "url": "https://open.spotify.com/album/2EA3CQpxbUQPgnlhuiyrsa"
       },
@@ -5176,6 +5198,24 @@
       "duration_ms": 253000,
       "name": "FULL MOON (with NAM WOO HYUN)",
       "url": "https://open.spotify.com/track/26gNGFadZKRyaYCbsORUE5"
+    },
+    {
+      "album": {
+        "name": "G",
+        "url": "https://open.spotify.com/album/5zVFpfpcsqVaOoGOekpLVX"
+      },
+      "artists": [
+        {
+          "name": "LEON",
+          "url": "https://open.spotify.com/artist/5uq0Z8ElRQOlg2Yavs3lVd"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "G",
+      "url": "https://open.spotify.com/track/3TUGNTzbR6hKz5nRzk6lpb"
     },
     {
       "album": {
@@ -9245,6 +9285,24 @@
     },
     {
       "album": {
+        "name": "Loveholic (Original Soundtrack from Just For Meeting You)",
+        "url": "https://open.spotify.com/album/0gMNvUD5nQvc7P4EUeokvu"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Loveholic",
+      "url": "https://open.spotify.com/track/59yfe3OxXQa1RTKevBDTom"
+    },
+    {
+      "album": {
         "name": "Loveholic",
         "url": "https://open.spotify.com/album/0jylr6oqOhisVaRo07bJGA"
       },
@@ -9812,7 +9870,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 229746,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/3uOyTMOS8K2h8cyUO7jZfH"

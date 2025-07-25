@@ -4,7 +4,7 @@
 
 > Listen to the future.
 
-195 songs - 10 hr 40 min
+199 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [BETTER](https://open.spotify.com/track/5CxL6DDmUBX8XbFy6NVNUa) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [License to Cry](https://open.spotify.com/album/1Zl2RonBqGsdZrSijOkeDI) | 3:19 | 2025-04-15 |  |
 | [Better Than To Brood](https://open.spotify.com/track/5X91VCyEmMssotEVwgQvHK) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Slipped Through My Fingers](https://open.spotify.com/album/0q0l36UDzuF5EUuwqu7DVr) | 3:09 | 2025-04-15 |  |
 | [better than u](https://open.spotify.com/track/7h7WqKE1VcH5mSUntNZXe0) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [better than u](https://open.spotify.com/album/2M1M1b8IG5nvXcKFvR99ea) | 3:02 | 2025-06-06 |  |
+| [BOATS](https://open.spotify.com/track/3c2gQW2lGozYEdHwrHwFAY) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd), [d0my](https://open.spotify.com/artist/1qgcFvdiH5hS2Nkf4mZ5Gx) | [FUN N FRENS](https://open.spotify.com/album/2FhWYE5T1lmT4fX56QQUDi) | 4:22 | 2025-07-24 |  |
 | [Breathtaker](https://open.spotify.com/track/5EpHXpnrzfcIwdT9iPL5wO) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [BEFORE I SEE](https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p) | 3:23 | 2024-10-10 | 2024-12-05 |
 | [brozone](https://open.spotify.com/track/4ZE2OPr5oeQbzeGZkQNAQU) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 3:42 | 2024-06-27 | 2024-12-05 |
 | [Buih Jadi Permadani](https://open.spotify.com/track/5HjUZ1cxdN4hrmdsXACNUw) | [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij), [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Buih Jadi Permadani](https://open.spotify.com/album/0Ln5cqHxEjFcHGe7PqIgju) | 6:01 | 2024-11-28 | 2024-12-05 |
@@ -74,6 +75,7 @@
 | [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 | 2025-02-13 | 2025-04-16 |
 | [FOR REAL](https://open.spotify.com/track/4kur5V464OTAgBXrGVsQNV) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [FOR REAL](https://open.spotify.com/album/2TzyBYYqPp3ZARHD5z0vKL) | 2:41 | 2024-06-27 | 2024-12-05 |
 | [Forever Person](https://open.spotify.com/track/5D3WS25ZPlgUVp3vDyPFH8) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's Pouring](https://open.spotify.com/album/60u6CvUZEwYU5Q0u3n7i7N) | 2:34 | 2025-03-27 | 2025-04-16 |
+| [FUN N FRENS](https://open.spotify.com/track/1YpGkjqF6hT6rRFD4AHfPk) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [FUN N FRENS](https://open.spotify.com/album/2FhWYE5T1lmT4fX56QQUDi) | 0:40 | 2025-07-24 |  |
 | [Future Somebody](https://open.spotify.com/track/4lW3yXHQfYvnq1njjxU07M) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Future Somebody](https://open.spotify.com/album/6oNuFaEPjjlNH9XeT1Aiab) | 2:22 | 2024-06-27 | 2024-12-05 |
 | [Gerimis Mengundang \- Ska Reggae](https://open.spotify.com/track/2FxX2nIJ8iqR13gcz96Gb0) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Gerimis Mengundang \(Ska Reggae\)](https://open.spotify.com/album/761clLaYSuG9COhmMyOZag) | 5:17 | 2024-10-31 | 2024-12-05 |
 | [Get Loose](https://open.spotify.com/track/6HkECn6elRsylPQmDGmDxq) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES), [SoundClout](https://open.spotify.com/artist/3LcwAiTjlQTT25TtU39kSB), [PravOnTheLoose](https://open.spotify.com/artist/5HvJGgEq2XovGcbdGmWKXg) | [Get Loose](https://open.spotify.com/album/6bPxTPEqF4jd5ugFWShH0A) | 3:15 | 2024-10-24 | 2024-12-05 |
@@ -114,6 +116,7 @@
 | [Like Me](https://open.spotify.com/track/49bLYLbZ20ewRBaaj5kX5Q) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [BEFORE I SEE](https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p) | 3:20 | 2024-10-10 | 2024-12-05 |
 | [LOSING FEELINGS](https://open.spotify.com/track/7bKeqLu2NQOME2TnwkoKmS) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [lamin](https://open.spotify.com/artist/5fhS2j2Yz5Wsg0vISg63hT) | [LOSING FEELINGS](https://open.spotify.com/album/1oo63K1kPBISER5tXwlBr1) | 2:05 | 2025-04-15 |  |
 | [lupakanku](https://open.spotify.com/track/7fJmvjxfNVVv9Kvr2DgPhR) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [lupakanku](https://open.spotify.com/album/2S9K7ZvBc0mP5ACdvef4gI) | 3:32 | 2025-06-05 |  |
+| [MADELINE](https://open.spotify.com/track/3D824LVyFynyKdvMBgEYHe) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [FUN N FRENS](https://open.spotify.com/album/2FhWYE5T1lmT4fX56QQUDi) | 2:59 | 2025-07-24 |  |
 | [MAJOR](https://open.spotify.com/track/1SIwlryejNmakfYwW3hTTl) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [MAJOR](https://open.spotify.com/album/3j7NuPl15ipyBD2zd5FSpx) | 2:27 | 2024-06-27 | 2024-12-05 |
 | [Manis](https://open.spotify.com/track/2DC4XhFNBcnF1mIINob0ZI) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Manis](https://open.spotify.com/album/2hUGh46dEXYxupRcLKEh41) | 3:06 | 2024-11-21 | 2024-12-05 |
 | [Manjaku](https://open.spotify.com/track/62M7xd1Z0ttgB0W6dGPKOC) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Tabby](https://open.spotify.com/artist/6BAq3z4cxDc18TzodScekT) | [Manjaku](https://open.spotify.com/album/1tTj8roApYZg4rwQd6Qlgu) | 2:48 | 2025-04-15 |  |
@@ -199,6 +202,7 @@
 | [YOU](https://open.spotify.com/track/57FgDnAbBNRPUeebknnRn5) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [Emotions](https://open.spotify.com/album/1BzliMgMIAzl5fotON2A0T) | 2:20 | 2024-12-04 | 2025-04-16 |
 | [YOU DO YOU](https://open.spotify.com/track/0GZpnLnXIytDsMHCwleJe2) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [YOU DO YOU](https://open.spotify.com/album/4FEiUf5kjPxVRNnEB601GR) | 2:50 | 2025-04-15 |  |
 | [You Make Me Feel](https://open.spotify.com/track/06jSAhKCHJJtRt0lzvMxKQ) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [You Make Me Feel](https://open.spotify.com/album/0sjMCJ99RMaMZIxwR3qcPa) | 2:14 | 2024-06-27 | 2025-04-16 |
+| [YOURS \(TONIGHT\)](https://open.spotify.com/track/15tHdxOUY51MdJkxbA73jX) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [YOURS \(TONIGHT\)](https://open.spotify.com/album/7xTtkJm1dgJOOn7jInhU2n) | 3:07 | 2025-07-24 |  |
 | [一刹那花火](https://open.spotify.com/track/4wlVJSRfM8aJXbgLEJPPiW) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [一刹那花火](https://open.spotify.com/album/7hslljYtbnZlTheevJpUgf) | 3:02 | 2025-04-15 |  |
 | [渣男太累](https://open.spotify.com/track/2qHgnAqNXpduoXj1VolQrv) | [Laurence Larson](https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw), [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [渣男太累](https://open.spotify.com/album/1qR6574TLpI236TY0pEEFM) | 3:33 | 2025-04-15 |  |
 | [近距離戀愛](https://open.spotify.com/track/4FgKG4iuhGntHDCFgSncUp) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [近距離戀愛](https://open.spotify.com/album/6jZk2p03akG7v8BFcBgGKM) | 2:47 | 2025-04-15 |  |

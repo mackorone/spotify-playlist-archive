@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Finessekid",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Clavish",
   "name": "Rap UK",
   "tracks": [
     {
@@ -434,6 +434,24 @@
       "duration_ms": 187554,
       "name": "17 (feat. LD & Rv)",
       "url": "https://open.spotify.com/track/0jrqHgpcNVSD6Fv71f8PdL"
+    },
+    {
+      "album": {
+        "name": "1942",
+        "url": "https://open.spotify.com/album/4PP4Ch7eYmvU59hvw3KXyq"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169230,
+      "name": "1942",
+      "url": "https://open.spotify.com/track/52kfQoyVkYz1advJIwgsWC"
     },
     {
       "album": {
@@ -2166,7 +2184,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 118849,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/6jBy6OXWqs0UphUSUtOa8P"
@@ -8560,7 +8578,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 184620,
       "name": "City Needs Me",
       "url": "https://open.spotify.com/track/2refE6Svm5kAzuOhyqHUUN"
@@ -20009,6 +20027,24 @@
     },
     {
       "album": {
+        "name": "NON-STOP JUGG",
+        "url": "https://open.spotify.com/album/1Ynqp7ZecZaB1w5aQcuqt4"
+      },
+      "artists": [
+        {
+          "name": "TFace",
+          "url": "https://open.spotify.com/artist/6u6CpsGYc3s2bJNESCR1t0"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "It's Crazy",
+      "url": "https://open.spotify.com/track/1cs0o1oLBYWLNSNKUobYCD"
+    },
+    {
+      "album": {
         "name": "It's Crazy",
         "url": "https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ"
       },
@@ -28021,6 +28057,24 @@
     },
     {
       "album": {
+        "name": "Nyash (Shake)",
+        "url": "https://open.spotify.com/album/1Q9ozMNbrnlyEk0GfB6mUE"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154782,
+      "name": "Nyash (Shake)",
+      "url": "https://open.spotify.com/track/6YQqQqf144nqrDo1j9L4VW"
+    },
+    {
+      "album": {
         "name": "Obito",
         "url": "https://open.spotify.com/album/2gQZLOGBJSazqlaQP5cSzc"
       },
@@ -32342,7 +32396,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 124583,
       "name": "Red Riding Hood",
       "url": "https://open.spotify.com/track/6FLT1FNkyRcKNcsYTmgFxq"
@@ -37434,6 +37488,24 @@
       "duration_ms": 191733,
       "name": "Super Trapper",
       "url": "https://open.spotify.com/track/0900H13mmvGWQqHwR2U2i5"
+    },
+    {
+      "album": {
+        "name": "Good Influence",
+        "url": "https://open.spotify.com/album/1SZxSBHO3TiL3oqOVz6Ken"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136488,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/35lMEgdnxPCBd220h7cTFG"
     },
     {
       "album": {
@@ -43768,7 +43840,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 154285,
       "name": "YNGDS",
       "url": "https://open.spotify.com/track/2ulnQ6dGMrTxJpryCuq4gE"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": " \u0625\u062d\u0646\u0627 \u0641\u0648\u0642 \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0645\u0627\u0641\u064a\u0634 \u063a\u064a\u0631\u0646\u0627 \u0641\u064a \u0627\u0644\u0633\u064a\u0646! \u063a\u0644\u0627\u0641: \u0632\u064a\u0627\u062f \u0638\u0627\u0638\u0627 \u0648 \u0641\u0644\u064a\u0643\u0633",
+  "description": " \u0625\u062d\u0646\u0627 \u0641\u0648\u0642 \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0645\u0627\u0641\u064a\u0634 \u063a\u064a\u0631\u0646\u0627 \u0641\u064a \u0627\u0644\u0633\u064a\u0646! \u063a\u0644\u0627\u0641: \u0645\u0631\u0648\u0627\u0646 \u0628\u0627\u0628\u0644\u0648",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -52,10 +52,28 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 121600,
       "name": "101",
       "url": "https://open.spotify.com/track/7duqDhzS0yeRaqHP1ILimW"
+    },
+    {
+      "album": {
+        "name": "EN7RAF",
+        "url": "https://open.spotify.com/album/5SvfhMVSkxKJMXJLpgEPrn"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "101 (Bonus)",
+      "url": "https://open.spotify.com/track/02nPHrZ759wD7ucDxLZLZp"
     },
     {
       "album": {
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 113142,
       "name": "BONO",
       "url": "https://open.spotify.com/track/2Jsw1sLDq7Kzb05xkNS6LP"
@@ -3458,7 +3476,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 174902,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/5ETFNSZAqO6A66VrgXkd6v"
@@ -6166,7 +6184,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 133619,
       "name": "SWISSRA",
       "url": "https://open.spotify.com/track/0lGBH3NhfXHdOM1GswMqh3"
@@ -6678,6 +6696,24 @@
       "duration_ms": 154953,
       "name": "W Bashot",
       "url": "https://open.spotify.com/track/3bhQZfZf8NEiZDkwAafdpe"
+    },
+    {
+      "album": {
+        "name": "6 Shohour",
+        "url": "https://open.spotify.com/album/06wzYMLZWW2AawVYKlPkcz"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118695,
+      "name": "Wala Yehemak",
+      "url": "https://open.spotify.com/track/7FeflOB46MGCh7Wzj1JuOW"
     },
     {
       "album": {

@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125160,
+  "num_followers": 125159,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUYGiy59PlZWTZ+PQD+JoykPxmgbSF",
+  "snapshot_id": "AAAUYXw/nsjN6QHY4PnuJhgK8tJqWJkR",
   "tracks": [
+    {
+      "added_at": "2025-07-24 14:15:39",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/69JrGNnFGdbfFdOeqwEt8h"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Zen/it",
+          "url": "https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82"
+        },
+        {
+          "name": "ANYLIA",
+          "url": "https://open.spotify.com/artist/5vmyToEQFm8oFq7IurCMNX"
+        }
+      ],
+      "duration_ms": 154089,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/02ACX88wFNYy3CAcE3GgTh"
+    },
     {
       "added_at": "2025-07-23 14:41:43",
       "album": {

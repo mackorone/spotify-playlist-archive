@@ -1,6 +1,6 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 146033,
+  "num_followers": 146091,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
+        "name": "Ultimate",
+        "url": "https://open.spotify.com/album/3AUHDaXUhZimlDLFh4sTDV"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 293573,
+      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\"",
+      "url": "https://open.spotify.com/track/2niWeDbz2OMvOwH57tbCm4"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
         "name": "Ladies & Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/5MRiPO4wmZXzSo8ybow8UP"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 248066,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5QN44mkwFWRhJ0H1VuGoho"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "Ultimate",
-        "url": "https://open.spotify.com/album/3AUHDaXUhZimlDLFh4sTDV"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 293573,
-      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\"",
-      "url": "https://open.spotify.com/track/2niWeDbz2OMvOwH57tbCm4"
     }
   ],
   "unique_name": "Lentos",

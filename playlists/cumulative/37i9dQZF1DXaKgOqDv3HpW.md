@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-382 songs - 18 hr 29 min
+385 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Acacia](https://open.spotify.com/track/2sNM2lnVgJmPJVQcxtktia) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Acacia](https://open.spotify.com/album/7a4ED2FDeYHgEKMejdSCwy) | 3:30 | 2022-03-21 |  |
 | [Acceptance](https://open.spotify.com/track/5QeQFwJ4WN1CCtqalohl5y) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Acceptance](https://open.spotify.com/album/07D4Pc9dTzMWGdnZuXnP9m) | 3:07 | 2022-02-18 | 2023-02-04 |
 | [Across the Universe](https://open.spotify.com/track/6xt5700M0EDbE6X9PhBDPl) | [Xion Star](https://open.spotify.com/artist/5JOkHNCgllgCtpF85jWSiU) | [Across the Universe](https://open.spotify.com/album/36QCipr8da5UDGTZYWDXLG) | 2:17 | 2025-06-12 |  |
+| [Aetherlight](https://open.spotify.com/track/4SDZ4WOXj9Gp77Az6Kx63w) | [Evanesce](https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8) | [Aetherlight](https://open.spotify.com/album/6FF7h3CwG1GDbFPm4dCzro) | 2:49 | 2025-07-24 |  |
 | [Aften](https://open.spotify.com/track/0cipYhbiItpgZCvngDFwoQ) | [Greger Amundsen](https://open.spotify.com/artist/5IcUzhhyVe0zIftxL9eGS7) | [Aften](https://open.spotify.com/album/3SImClzt0t5gfomsktsmrB) | 2:59 | 2022-02-18 | 2024-12-03 |
 | [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 | 2022-02-18 | 2023-01-14 |
 | [Alba](https://open.spotify.com/track/6ENapwu75Tswvvf6QTJpOq) | [Albin Urías](https://open.spotify.com/artist/5phmOQdhQEBnfAev0uSbX6) | [Alba](https://open.spotify.com/album/2SBc0Uq0p0ACrRFVcMKhiy) | 2:48 | 2022-02-18 | 2025-01-30 |
@@ -116,6 +117,7 @@
 | [Ecos de Meditación](https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 2:40 | 2023-06-09 | 2024-11-29 |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2022-02-18 | 2022-07-09 |
 | [Elemental Control](https://open.spotify.com/track/6JMQQ8Y7ALaPBJJguEETbX) | [Gates of Heaven](https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j) | [Sleep Odyssey](https://open.spotify.com/album/148nvIMcvVwONRTeWfp3R2) | 2:28 | 2022-02-18 | 2025-06-26 |
+| [Elysian](https://open.spotify.com/track/6ZOOPD3TEYhXzclWtU4Vqi) | [Astralis Flow](https://open.spotify.com/artist/3eKqQudeGj5deVk7gdUZxK) | [Elysian](https://open.spotify.com/album/5euhn9Cqj26wcP0l3d6HK8) | 2:24 | 2025-07-24 |  |
 | [Encre du Soir](https://open.spotify.com/track/3SHXYoA3FgvUSNTaLP0UWP) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Encre du Soir](https://open.spotify.com/album/7gtXlDWUTk8pvL6GXYtP4E) | 2:27 | 2025-04-09 |  |
 | [Energy Flow](https://open.spotify.com/track/40h00jcXu8OP6xdoyh2ocf) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Energy Flow](https://open.spotify.com/album/7lUZbR3ktavR7OQOktECGO) | 2:34 | 2025-02-05 |  |
 | [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 | 2022-02-18 | 2024-11-29 |
@@ -333,6 +335,7 @@
 | [Stratosphere](https://open.spotify.com/track/7doPDvbDidcSQklSmuZE17) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [Stratosphere](https://open.spotify.com/album/2xshTZEMF4Wi3DQ7wmMDTE) | 2:48 | 2022-12-20 | 2025-01-08 |
 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 | 2022-02-18 | 2025-01-08 |
 | [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 | 2022-11-11 |  |
+| [Symmetry](https://open.spotify.com/track/1CCSe5AG4kD61bTgpFyx35) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Symmetry](https://open.spotify.com/album/4XYroOUTyEZoNKUUaVKvpM) | 2:34 | 2025-07-24 |  |
 | [Tempus Serenum](https://open.spotify.com/track/1PG6E1BiA2n46RCF4SWqbq) | [Abstract Mountain View](https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS) | [Tempus Serenum](https://open.spotify.com/album/7360CWJynw9kpgzbu4lH2K) | 2:32 | 2024-06-10 | 2025-01-08 |
 | [Thalassa Waves](https://open.spotify.com/track/5l8B3rek4BkRV1M6SIDRS1) | [Daughters of Selene](https://open.spotify.com/artist/3lI1xSSNBAtlRjboRaCFvd) | [Thalassa Waves](https://open.spotify.com/album/6HIe8Mw3hdp7fQAprIGots) | 3:03 | 2025-05-15 |  |
 | [The Broken](https://open.spotify.com/track/5zYA6XdGJbTF5zJGbLyjL3) | [Juni](https://open.spotify.com/artist/68kbxgcI5HmdfhnfW3vkbv) | [The Broken](https://open.spotify.com/album/18FKM6nTXUBpyKRE5185Fb) | 3:03 | 2022-09-02 |  |

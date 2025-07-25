@@ -2063,6 +2063,28 @@
     },
     {
       "album": {
+        "name": "are u alright?",
+        "url": "https://open.spotify.com/album/7pSxubD8Db5Gu9OJb2gOYY"
+      },
+      "artists": [
+        {
+          "name": "puulse",
+          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
+        },
+        {
+          "name": "Jai Cuzco",
+          "url": "https://open.spotify.com/artist/2qjkEXePHEV3eMJkFil4be"
+        }
+      ],
+      "date_added": "2025-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128225,
+      "name": "are u alright?",
+      "url": "https://open.spotify.com/track/43EvhhuaG1fPTpRsbzXXZ6"
+    },
+    {
+      "album": {
         "name": "As If It Was You",
         "url": "https://open.spotify.com/album/6n705GWuhf7HIhzw2nTa1J"
       },
@@ -25252,7 +25274,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 190819,
       "name": "Polar Lights",
       "url": "https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi"

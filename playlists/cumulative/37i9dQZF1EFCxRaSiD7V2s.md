@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-345 songs - 18 hr 1 min
+346 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Get Some](https://open.spotify.com/track/1olwhdNhqA1E3g6ridWmNO) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/7rdPIeFMS57uEnVATKUPW7) | 3:30 | 2024-11-29 |  |
 | [Get Some](https://open.spotify.com/track/3HvsMKDeOrKVjOzhvLBjes) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 3:30 | 2021-12-27 | 2022-09-06 |
 | [Get Some](https://open.spotify.com/track/77sJtGCqzPZfh3UVHKDNlC) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/4ij4VMWlPhY62tfGIjeqEZ) | 3:30 | 2022-09-05 | 2024-11-30 |
-| [ghost](https://open.spotify.com/track/6v4qTiWdbVtcmyvuEj7Pjr) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [ghost](https://open.spotify.com/album/21dohvigVSO4quwWu1nOrL) | 3:10 | 2021-12-27 |  |
+| [ghost](https://open.spotify.com/track/4Luf9kGwfb55yB3DTiHswV) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [ghost](https://open.spotify.com/album/6vliE8Wz6FvU7swb7Uemr2) | 3:10 | 2025-07-24 |  |
+| [ghost](https://open.spotify.com/track/6v4qTiWdbVtcmyvuEj7Pjr) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [ghost](https://open.spotify.com/album/21dohvigVSO4quwWu1nOrL) | 3:10 | 2021-12-27 | 2025-07-25 |
 | [Ghosts](https://open.spotify.com/track/0c8msQ2gqWJOlrPUV7IxIY) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Ty Demo](https://open.spotify.com/artist/1CDjqsIRe0IQ3bgpShCv1o) | [It's Dangerous To Go Alone](https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv) | 3:26 | 2023-02-15 |  |
 | [Ghosts](https://open.spotify.com/track/5Ghqz1ktEs8F0R6fZPnIgS) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Ty Demo](https://open.spotify.com/artist/1CDjqsIRe0IQ3bgpShCv1o) | [Ghosts](https://open.spotify.com/album/4yXClBXbLxBXL5ht3zMejO) | 3:26 | 2022-06-15 | 2023-02-16 |
 | [Gingerbread](https://open.spotify.com/track/1q4tITdOKrFl8EtnPhlyk2) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 3:13 | 2021-12-27 |  |

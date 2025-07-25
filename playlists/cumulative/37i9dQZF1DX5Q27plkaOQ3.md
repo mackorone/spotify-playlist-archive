@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with DJ DIESEL aka Shaquille O'Neal 🏆
 
-1,098 songs - 2 day 12 hr 15 min
+1,099 songs - 2 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [EVIL EMPIRE](https://open.spotify.com/track/7DcnddUxZUXuCoE9vtkTex) | [THE RESISTANCE](https://open.spotify.com/artist/4VU3TBTKad327N0Ql1P1ew) | [EVIL EMPIRE](https://open.spotify.com/album/2ufPF1NIS93YdihlOwEpve) | 3:07 | 2025-02-07 | 2025-04-05 |
 | [Excalibur](https://open.spotify.com/track/0URVvPEQafAqfYVBVoWyI0) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Excalibur](https://open.spotify.com/album/0l9LvoGnkAS5xe1KjLT7SU) | 3:08 | 2023-06-09 | 2023-09-17 |
 | [F\*ck This Pit Up](https://open.spotify.com/track/2n7Z2jFpB7J12zrkYy7e7V) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe) | [F\*ck This Pit Up](https://open.spotify.com/album/58EKmbsJMOMf7OjdX7rG8F) | 2:52 | 2024-05-31 | 2025-03-17 |
+| [F\*ckin Lovely](https://open.spotify.com/track/7b7gjABvXF5c8S0dz2PWtF) | [FuntCase](https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [F\*ckin Lovely](https://open.spotify.com/album/4f0rsThtwA3GxNJov7sN4n) | 3:58 | 2025-07-18 |  |
 | [F.Y.U.](https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [F.Y.U.](https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q) | 2:41 | 2023-11-17 |  |
 | [Face Lift](https://open.spotify.com/track/7AGiUADvmOw5MjhGOQKtOr) | [Codd Dubz](https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5), [Decimate](https://open.spotify.com/artist/6JvIjkaONqopTk15bnpLjz), [XAE](https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT) | [Face Lift](https://open.spotify.com/album/29EfXY9bvJuHDVWI3dD4Ok) | 3:24 | 2024-05-17 | 2024-07-06 |
 | [Face Myself](https://open.spotify.com/track/78IOX6MF4vbG5DuGusxxvA) | [Emorfik](https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Face Myself](https://open.spotify.com/album/4AckUOlUcONloKs2CVvGrr) | 4:34 | 2024-09-13 | 2024-11-09 |
@@ -893,7 +894,7 @@
 | [Sonic Beef](https://open.spotify.com/track/5ge5D4RdUvclju1DBaTFcM) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Sonic Beef](https://open.spotify.com/album/6A4dA3DHUvVBavZOOWrOZK) | 3:13 | 2024-06-14 | 2025-02-01 |
 | [Sonic Resonator](https://open.spotify.com/track/6ykdS4Q9JVgnpPmHO17nnT) | [Stoned Level](https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd) | [Sonic Resonator](https://open.spotify.com/album/0bS0E0ck7AvTPlLHbgaMHY) | 3:19 | 2024-05-10 | 2024-05-25 |
 | [SOS](https://open.spotify.com/track/2PFb529GawSghUq9dFJULp) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk), [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [SOS](https://open.spotify.com/album/3LU0ZNiP5XDlT2pOBuSgUb) | 4:05 | 2025-03-07 |  |
-| [SOUL \- VIP](https://open.spotify.com/track/0lXmfQgODj6QRrKhoU2r3z) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl), [Ravenscoon](https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ), [Born I](https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM), [Seeka](https://open.spotify.com/artist/0lGI9pL6y2gJxqUJI9jAhc) | [SOUL \(VIP\)](https://open.spotify.com/album/5w0qevZzzAOypKs239X484) | 2:22 | 2024-05-03 |  |
+| [SOUL \- VIP](https://open.spotify.com/track/0lXmfQgODj6QRrKhoU2r3z) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl), [Ravenscoon](https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ), [Born I](https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM), [Seeka](https://open.spotify.com/artist/0lGI9pL6y2gJxqUJI9jAhc) | [SOUL \(VIP\)](https://open.spotify.com/album/5w0qevZzzAOypKs239X484) | 2:22 | 2024-05-03 | 2025-07-25 |
 | [Space](https://open.spotify.com/track/105lPQTSIrlhH5h6ftGpJ5) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [Space EP](https://open.spotify.com/album/3h55iRZXKe5yumnY9gohj3) | 3:50 | 2021-12-17 | 2022-07-28 |
 | [Space Invaderz](https://open.spotify.com/track/4RxSuFPvkE7k4nOVQoXTJo) | [WonkyWilla](https://open.spotify.com/artist/2Aa5prvbqcjMJTHURdKyOO), [SARGE](https://open.spotify.com/artist/1c1FyA1z7jqNoS06u8X7Fm) | [Space Invaderz](https://open.spotify.com/album/49tN8oLgHLxWe7vG8aKzgF) | 2:16 | 2025-06-28 |  |
 | [Space Whip](https://open.spotify.com/track/3ImEoNEyJXzpqkAwITnXCh) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Space Whip](https://open.spotify.com/album/4pil9OvSbry2tBPvhkmG4W) | 2:50 | 2025-07-12 |  |

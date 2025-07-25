@@ -1,6 +1,6 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 911080,
+  "num_followers": 911224,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -329,22 +329,6 @@
       "url": "https://open.spotify.com/track/6q2T5xXao6mTS6LLE88L84"
     },
     {
-      "added_at": "2025-01-09 23:56:12",
-      "album": {
-        "name": "\u042d\u0442\u0430\u0436\u0438",
-        "url": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
-      },
-      "artists": [
-        {
-          "name": "Molchat Doma",
-          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-        }
-      ],
-      "duration_ms": 202845,
-      "name": "\u0422\u0430\u043d\u0446\u0435\u0432\u0430\u0442\u044c",
-      "url": "https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Floodland",
@@ -359,6 +343,22 @@
       "duration_ms": 295250,
       "name": "Lucretia My Reflection - Vinyl Version",
       "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
+    },
+    {
+      "added_at": "2025-01-09 23:56:12",
+      "album": {
+        "name": "\u042d\u0442\u0430\u0436\u0438",
+        "url": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        }
+      ],
+      "duration_ms": 202845,
+      "name": "\u0422\u0430\u043d\u0446\u0435\u0432\u0430\u0442\u044c",
+      "url": "https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/48Val8qkmAPc5VQjhaIMOT"
     },
     {
-      "added_at": "2025-01-09 23:56:12",
-      "album": {
-        "name": "Anthology XV",
-        "url": "https://open.spotify.com/album/0mQk86eyVYXHeMhXd9ddy1"
-      },
-      "artists": [
-        {
-          "name": "The Awakening",
-          "url": "https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc"
-        }
-      ],
-      "duration_ms": 252579,
-      "name": "Vampyre Girl (2014)",
-      "url": "https://open.spotify.com/track/62qDZVPCa0w6cIbzPN0Izl"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Adrenaline",
@@ -1159,6 +1143,22 @@
       "duration_ms": 180107,
       "name": "The Witch",
       "url": "https://open.spotify.com/track/3wnntc87QqNIh12CUsuqzq"
+    },
+    {
+      "added_at": "2025-01-09 23:56:12",
+      "album": {
+        "name": "Anthology XV",
+        "url": "https://open.spotify.com/album/0mQk86eyVYXHeMhXd9ddy1"
+      },
+      "artists": [
+        {
+          "name": "The Awakening",
+          "url": "https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc"
+        }
+      ],
+      "duration_ms": 252579,
+      "name": "Vampyre Girl (2014)",
+      "url": "https://open.spotify.com/track/62qDZVPCa0w6cIbzPN0Izl"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Wings Of Joy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq"
-      },
-      "artists": [
-        {
-          "name": "Cranes",
-          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "Watersong",
-      "url": "https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 220960,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Wings Of Joy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq"
+      },
+      "artists": [
+        {
+          "name": "Cranes",
+          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "Watersong",
+      "url": "https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY"
     },
     {
       "added_at": "2021-10-15 04:04:50",

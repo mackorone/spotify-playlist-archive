@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > living in the new skullcrusher 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,578 likes - 138 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,595 likes - 138 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

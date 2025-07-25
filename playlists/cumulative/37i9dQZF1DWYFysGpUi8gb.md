@@ -2,9 +2,9 @@
 
 ### [melomania](https://open.spotify.com/playlist/37i9dQZF1DWYFysGpUi8gb)
 
-> underground and experimental\. greetings from TTSSFU.
+> underground and experimental\. greetings from mark william lewis.
 
-397 songs - 1 day 1 hr 5 min
+401 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Bedwetter](https://open.spotify.com/track/0Pkkje3ykyNs1reEKq2Xih) | [Makeshift Art Bar](https://open.spotify.com/artist/64eXjwiYuMUVSpJ3pP6FNH) | [Bedwetter](https://open.spotify.com/album/3boYoDjJRkzVCRtruIGDXX) | 5:26 | 2025-01-17 | 2025-05-02 |
 | [bemused](https://open.spotify.com/track/018wrdyua60eGU0rNbOnGB) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [bemused / due dilettante](https://open.spotify.com/album/4WtnCpNN3rlUGfAeBDi0sI) | 2:46 | 2025-05-20 |  |
 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 | 2025-02-03 | 2025-03-25 |
-| [Big Empty Heart](https://open.spotify.com/track/4XRpa4lNmh7PdqY38JK1r1) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Big Empty Heart](https://open.spotify.com/album/6RewjHHTNImBs12whGYd8U) | 2:48 | 2025-06-18 |  |
+| [Big Empty Heart](https://open.spotify.com/track/4XRpa4lNmh7PdqY38JK1r1) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Big Empty Heart](https://open.spotify.com/album/6RewjHHTNImBs12whGYd8U) | 2:48 | 2025-06-18 | 2025-07-25 |
 | [BIG FISH](https://open.spotify.com/track/3gGtZis4nJpIMGGM2g0lcm) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [BIG FISH](https://open.spotify.com/album/3YOYvZEPsU7hMRiTmf9GWb) | 3:10 | 2024-09-05 | 2024-11-23 |
 | [Big In The Suburbs](https://open.spotify.com/track/5pqWWz46yO1aEWNFLSKnwW) | [Welly](https://open.spotify.com/artist/65LFWKj4j7xul6eSIN4IOI) | [Big In The Suburbs](https://open.spotify.com/album/1XdglB6kgGO6psjbDfLIzQ) | 5:01 | 2024-11-22 | 2025-03-25 |
 | [Big In The Suburbs](https://open.spotify.com/track/7uYPCSuAHoKShmp5ixRUuR) | [Welly](https://open.spotify.com/artist/65LFWKj4j7xul6eSIN4IOI) | [Big In The Suburbs](https://open.spotify.com/album/5dkpvLTqrmgDwOCbjbA2NW) | 5:01 | 2025-03-24 | 2025-06-07 |
@@ -116,6 +116,7 @@
 | [Doesn't Matter](https://open.spotify.com/track/3AUOtnJpvgmbLuOlAZwnlz) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Doesn't Matter](https://open.spotify.com/album/63V6HXdY4aNnHDjSUvQg64) | 3:26 | 2024-06-14 | 2024-11-23 |
 | [Dog Dribble](https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Dog Dribble](https://open.spotify.com/album/4V4EexnVzsOU4nPFvfst23) | 4:15 | 2024-11-22 | 2025-03-25 |
 | [Dogs](https://open.spotify.com/track/3wKHZRuRmIe7pR9V55wVrE) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd), [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Dogs](https://open.spotify.com/album/0Bu37cEkAfk8UGuSlMx9cm) | 3:33 | 2024-09-26 | 2025-03-25 |
+| [Dogs In Heaven](https://open.spotify.com/track/14aI471gbVhilXXhaV5vww) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [Dogs In Heaven](https://open.spotify.com/album/3bhQKuDSclCvuunld6lR4g) | 2:08 | 2025-07-24 |  |
 | [Dogstar](https://open.spotify.com/track/2AyEU2UDBgWaaGNgnSY4Uo) | [Hank](https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK) | [Spiralic](https://open.spotify.com/album/4jvLHICHqUvvRm6L9OOuMm) | 5:39 | 2025-07-04 |  |
 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 | 2024-06-14 | 2024-12-06 |
 | [Don't Want To Dance](https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Don't Want To Dance](https://open.spotify.com/album/4m480I6O0EuUWLuFJf7Yuf) | 3:02 | 2025-01-17 | 2025-02-22 |
@@ -167,7 +168,7 @@
 | [Grief In Phantasia](https://open.spotify.com/track/5fpWCZHGKmGjeoRqOM5eQN) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Grief In Phantasia](https://open.spotify.com/album/27sdYbobl75RNO0pv7Z3Wu) | 5:07 | 2024-06-14 | 2024-09-06 |
 | [haha](https://open.spotify.com/track/3vKAnMOGw7ys5fKxxSMBu3) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [haha](https://open.spotify.com/album/2RSOqEmQIEq3rWzHhW9h3b) | 2:01 | 2025-06-06 |  |
 | [Happy Birthday](https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Happy Birthday](https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb) | 4:06 | 2025-03-24 | 2025-07-05 |
-| [Hate Goodbyes](https://open.spotify.com/track/0NlEsQabHwAR9JpZgFGRwl) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Hate Goodbyes](https://open.spotify.com/album/07w74aZOr10AawZOJND2BY) | 3:47 | 2025-07-04 |  |
+| [Hate Goodbyes](https://open.spotify.com/track/0NlEsQabHwAR9JpZgFGRwl) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Hate Goodbyes](https://open.spotify.com/album/07w74aZOr10AawZOJND2BY) | 3:47 | 2025-07-04 | 2025-07-25 |
 | [Headspace](https://open.spotify.com/track/6Ciqo08MA2NF2lgWiNi8u4) | [cruush](https://open.spotify.com/artist/09SorScmrKs8yZMG9hdr6N) | [Headspace](https://open.spotify.com/album/649jLqVMfUAXVgJ3zgqegv) | 4:39 | 2024-06-14 | 2024-12-06 |
 | [Heat](https://open.spotify.com/track/7dKK4YlK5ancC7qWhAVF3C) | [Powerplant](https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx) | [Heat](https://open.spotify.com/album/03c2hK6Otkae2V4QGLGce4) | 3:46 | 2025-07-10 |  |
 | [Heat Of The Summer](https://open.spotify.com/track/0q7FGknqGU4TQ54U8QBAOu) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Heat Of The Summer](https://open.spotify.com/album/7kIMB282kj8yCSLEataOyB) | 2:36 | 2025-07-04 |  |
@@ -259,6 +260,7 @@
 | [Not Ideal](https://open.spotify.com/track/0v4nAgyFbCbkztikjnhtjR) | [Mên An Tol](https://open.spotify.com/artist/4CFcHsL8xqUWQC4vIZWPOs) | [Not Ideal](https://open.spotify.com/album/66N0dtqwchNl09eMvKpOR3) | 3:06 | 2025-07-17 |  |
 | [Nuclear War](https://open.spotify.com/track/00jps4o6aCLxqeZsHMsePN) | [Human Interest](https://open.spotify.com/artist/7whqwnuFmUxP5ZdBzyFsKc) | [Nuclear War](https://open.spotify.com/album/5fFHU9LVGjISlQ1Ci9YEAd) | 4:05 | 2024-08-16 | 2025-03-25 |
 | [Numbers](https://open.spotify.com/track/3mtinwYvP8NmmRG34v0Hak) | [Worldpeace DMT](https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV), [Rowan Please](https://open.spotify.com/artist/5h8WnKGTQVO9PUOZ97lZl8) | [The Velvet Underground & Rowan](https://open.spotify.com/album/7M7sO9hbmm6tk1rra1mJt5) | 2:32 | 2025-07-10 |  |
+| [O Calamity](https://open.spotify.com/track/1KU2XPV05MaSqwNb8XUB84) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [O Calamity](https://open.spotify.com/album/5R0ms89hsqlHfwNNkw4cKH) | 2:24 | 2025-07-24 |  |
 | [Oar](https://open.spotify.com/track/5siVDeXRKTbNH2x64jmAjD) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Oar](https://open.spotify.com/album/30GQIVpFXmNtlb9JuzlRwn) | 2:53 | 2024-06-14 | 2024-10-07 |
 | [Ode To Clio](https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Ode To Clio](https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP) | 3:17 | 2024-07-26 | 2025-01-17 |
 | [Of The Sorrows](https://open.spotify.com/track/3liBzXCnXG0oserFPXFS8R) | [For Those I Love](https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ) | [Of The Sorrows](https://open.spotify.com/album/74FsSXffJtdMdsUHmn9NBY) | 5:33 | 2025-05-23 |  |
@@ -268,7 +270,7 @@
 | [Passing Judgment](https://open.spotify.com/track/2br7c0YcCucYv0YhoXExad) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Passing Judgment](https://open.spotify.com/album/4Png2UTnbV4CKSnMSEcRf1) | 3:58 | 2024-06-14 | 2024-10-07 |
 | [Pay The Rent](https://open.spotify.com/track/3ahP5Gp5HASvudye0Ngbqx) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Pay The Rent](https://open.spotify.com/album/2ya1sQMlrSpp11ZGLa1oCd) | 5:20 | 2025-02-21 | 2025-05-02 |
 | [Peace Song](https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Peace Song](https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm) | 3:10 | 2024-11-22 | 2025-03-25 |
-| [POLLYANNA](https://open.spotify.com/track/7ggizWy14VEWyYOe3nv3JN) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [POLLYANNA](https://open.spotify.com/album/0rFP4aCWtantJJwjYLfK3V) | 4:24 | 2025-06-18 |  |
+| [POLLYANNA](https://open.spotify.com/track/7ggizWy14VEWyYOe3nv3JN) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [POLLYANNA](https://open.spotify.com/album/0rFP4aCWtantJJwjYLfK3V) | 4:24 | 2025-06-18 | 2025-07-25 |
 | [Pool Scene](https://open.spotify.com/track/7mgfQPMLFRC5grfunmZY9r) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Conditions III](https://open.spotify.com/album/2VNwMwgB3XbKeJh3sCsrpR) | 4:58 | 2025-02-21 | 2025-05-09 |
 | [Pools of Colour](https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:48 | 2024-06-14 | 2024-11-23 |
 | [Post Spa 2](https://open.spotify.com/track/6QyCbvxIh8dWKH5peN4MnK) | [SODA BOYZ](https://open.spotify.com/artist/7DEeEeUuLybw43aLsrkdjY) | [Post Spa 2](https://open.spotify.com/album/2LDNwBspcRjit08fiadgmB) | 3:13 | 2025-03-24 | 2025-05-21 |
@@ -300,6 +302,7 @@
 | [Selling Shovels](https://open.spotify.com/track/6OLfxKILVcEUVEUPqikgYc) | [Silverbacks](https://open.spotify.com/artist/4HrCsxMRWFsSi8Vf0qBjK4) | [Selling Shovels](https://open.spotify.com/album/1YPMTEHiTJ4mj3ZB3ItXm9) | 4:22 | 2024-07-12 | 2024-11-23 |
 | [Sequence Of Voices](https://open.spotify.com/track/5MvxKOp6Dm44goQYzGK2gJ) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Sequence Of Voices](https://open.spotify.com/album/36chJr3Y6r5I0Kw1hSwHmy) | 3:33 | 2025-04-16 |  |
 | [Serious Life](https://open.spotify.com/track/6N8esMyHyR0cE9aCeR9DB7) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Serious Life](https://open.spotify.com/album/7Ktz0TFok5KuRbaj4Gn2Jb) | 4:03 | 2025-06-18 |  |
+| [Seventeen](https://open.spotify.com/track/2XZDtVBGje3OFEeuUBBAFG) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Seventeen](https://open.spotify.com/album/2veKfKqnyMmbREK1N4GvTz) | 3:22 | 2025-07-24 |  |
 | [Shade in Me](https://open.spotify.com/track/5rjjofnmqtlooLAtWVOnrq) | [Slate](https://open.spotify.com/artist/2qf9rIU7fNJBZvqptGu863) | [Shade in Me](https://open.spotify.com/album/7cw97Zw99jHUtfv20KWz3u) | 3:59 | 2024-06-14 | 2024-11-23 |
 | [Shapeshifting](https://open.spotify.com/track/5jAgSZqT5gyYcx5x0OfODS) | [Human Interest](https://open.spotify.com/artist/7whqwnuFmUxP5ZdBzyFsKc) | [Shapeshifting](https://open.spotify.com/album/2cYDKTReDdf8J8Cautc4kF) | 3:18 | 2024-06-14 | 2024-12-06 |
 | [She Took You To Narnia](https://open.spotify.com/track/74o4kHeG83ZduHZ0jlrqT4) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [She Took You To Narnia](https://open.spotify.com/album/6xyhXu98hMeNrKziYkISsg) | 3:26 | 2024-06-14 | 2024-12-06 |
@@ -335,7 +338,7 @@
 | [Steamroller](https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 3:25 | 2024-06-14 | 2024-09-06 |
 | [Still Young](https://open.spotify.com/track/11SAxa6nhAplqESOByl0h1) | [Joni](https://open.spotify.com/artist/1K9ioYi2XAVkS3Ky53IELe) | [Still Young](https://open.spotify.com/album/6qodqIWpzHO6nv9mn0P1XV) | 4:03 | 2025-03-24 | 2025-06-07 |
 | [Strobe Lights](https://open.spotify.com/track/3GJIr0dKOgBzIGJIYZN7Yb) | [Borough Council](https://open.spotify.com/artist/3IFJ7fiCYTHMD2AOmVaxlI) | [Strobe Lights](https://open.spotify.com/album/7ltYQhxKcZxV1eWQmBVBsM) | 3:47 | 2024-07-12 | 2025-01-17 |
-| [Stroom](https://open.spotify.com/track/2c2x2KQdf8vTi0WlENNHXQ) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Stroom](https://open.spotify.com/album/2n2FkT870hnN8lryVswMyK) | 1:57 | 2025-05-30 |  |
+| [Stroom](https://open.spotify.com/track/2c2x2KQdf8vTi0WlENNHXQ) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Stroom](https://open.spotify.com/album/2n2FkT870hnN8lryVswMyK) | 1:57 | 2025-05-30 | 2025-07-25 |
 | [Stuck In My Ways](https://open.spotify.com/track/0hzifRG1nDOufBwjQ3Gz87) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Stuck In My Ways](https://open.spotify.com/album/1yaH7AEnH9Bg5bqEwS6AQN) | 3:06 | 2025-06-18 |  |
 | [Sugar Sandwich](https://open.spotify.com/track/0YjWw115kqMWebWvXKC7is) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [Skinwalker](https://open.spotify.com/album/0NrTb5PevrUBFnL3DXOyFG) | 2:25 | 2024-06-14 | 2024-12-06 |
 | [Surrender](https://open.spotify.com/track/383sR9dPZ2SwPoKrNfRnQm) | [Qlowski](https://open.spotify.com/artist/1IhMuqG9tnQDPmiOkdOaQ4) | [Surrender](https://open.spotify.com/album/1Fyc10uv4bNsdjrl6yZND5) | 3:43 | 2024-09-26 | 2025-03-25 |
@@ -376,6 +379,7 @@
 | [Too Much Time](https://open.spotify.com/track/3OJM4X5aYNnmg3SA8oxLzn) | [Search Results](https://open.spotify.com/artist/26WnkHydmkuHAgHS0ZbZjM) | [Too Much Time](https://open.spotify.com/album/4qMqj77elwDNBM4lHqVh92) | 3:34 | 2025-05-01 | 2025-07-11 |
 | [TORMENTOR](https://open.spotify.com/track/4FcQeSZNS22TDJbjm5qw3I) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [TORMENTOR](https://open.spotify.com/album/2RqLDB8NYtRMd0MoALQzEc) | 5:10 | 2024-11-22 | 2025-03-25 |
 | [Total euphoria](https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Total euphoria](https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv) | 4:30 | 2025-03-18 | 2025-06-19 |
+| [Trash TV](https://open.spotify.com/track/4qM7Iig1Uw8XesVVZr4yt6) | [Hex Girlfriend](https://open.spotify.com/artist/5a4wwtDgBVk5RKDQzWxYbE) | [Trash TV](https://open.spotify.com/album/1CPV9kx5Kyh2nRHmv45Qlh) | 2:42 | 2025-07-24 |  |
 | [Trevor](https://open.spotify.com/track/78qdlTeBkvgZXe9nMTgN6f) | [YARD](https://open.spotify.com/artist/36aHdS6WBzKMBA9pt1FYFS) | [Trevor](https://open.spotify.com/album/5k9ql2i9ynuPoHeCDD8h2m) | 5:31 | 2025-03-24 | 2025-05-21 |
 | [Trying](https://open.spotify.com/track/6W5THMvSEH6WMj2vwqWZTz) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Trying](https://open.spotify.com/album/6BZuOzwSbvmWQFU6FXO1YL) | 3:33 | 2024-08-16 | 2024-10-07 |
 | [Tunnel Vision](https://open.spotify.com/track/0tldm2ZKydRvESpRMOncFb) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Tunnel Vision](https://open.spotify.com/album/6QFWj6X7L5n1PuV3JRRoXQ) | 4:10 | 2025-02-21 | 2025-05-02 |

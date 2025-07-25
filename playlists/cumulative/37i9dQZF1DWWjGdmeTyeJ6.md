@@ -2,7 +2,7 @@
 
 ### [Fresh Finds](https://open.spotify.com/playlist/37i9dQZF1DWWjGdmeTyeJ6)
 
-> Celebrating 10 years of the best new music by independent artists and labels\. Cover:
+> Celebrating 10 years of the best new music by independent artists and labels\. Cover: Storm Henshaw
 
 8,602 songs - 19 day 10 hr 8 min
 

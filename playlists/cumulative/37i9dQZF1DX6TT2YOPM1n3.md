@@ -2,9 +2,9 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Home to Pakistani Hits\. Cover: Amna Riaz
+> Home to Pakistani Hits\. Cover: Afusic
 
-222 songs - 14 hr 58 min
+224 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [REFUNDS \(feat\. Rap Demon & KR$NA\)](https://open.spotify.com/track/0S8hbC2ki67o9X9NSK8v2I) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 4:16 | 2024-04-26 | 2024-05-07 |
 | [Regardless](https://open.spotify.com/track/1N5IwvKPg7PZeGi9Pvzvdo) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Regardless](https://open.spotify.com/album/6vbJkwWBaS7iKBHfQJM9ua) | 3:44 | 2025-06-29 |  |
 | [REGRETS](https://open.spotify.com/track/4bd507BxqB2MBHzVqMGdVV) | [Jevin Gill](https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [REGRETS / PROMISES](https://open.spotify.com/album/3OYSPm7fN0pnMxwkw7pEhw) | 4:02 | 2024-10-21 |  |
-| [Rocket Launcher](https://open.spotify.com/track/1oHlhSevYO99K6RG2w0RXN) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Rocket Launcher](https://open.spotify.com/album/0A65EHDQRYwVEB19JOhMKw) | 2:48 | 2025-06-29 |  |
+| [Rehmat](https://open.spotify.com/track/4r8mhO7cHAztTNMGxpq46g) | [Aizaz Ahmad](https://open.spotify.com/artist/3xkvwr9tqSLpMjvQ9TCKmm), [Aqib Afzal](https://open.spotify.com/artist/2DywjxmlsN1lyybhEzBiJ9) | [Rehmat](https://open.spotify.com/album/3dVI0e0Zn6m08ZoNPQEXFc) | 3:25 | 2025-07-24 |  |
+| [Rocket Launcher](https://open.spotify.com/track/1oHlhSevYO99K6RG2w0RXN) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Rocket Launcher](https://open.spotify.com/album/0A65EHDQRYwVEB19JOhMKw) | 2:48 | 2025-06-29 | 2025-07-25 |
 | [ROOP](https://open.spotify.com/track/51EAvQ6RYU14VwUaMJHsnD) | [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROOP](https://open.spotify.com/album/4SkBxlilZZsloBNShyEXuE) | 2:32 | 2025-04-11 |  |
 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 | 2024-02-02 |  |
 | [Sajan Das Na](https://open.spotify.com/track/4TNzipbkHuhp5DtHcZ9osE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Sajan Das Na](https://open.spotify.com/album/3yTNiZtxLJMpOKc5dZJf9w) | 3:56 | 2023-05-04 | 2023-11-30 |
@@ -224,6 +225,7 @@
 | [Woh Lamhe \- Remix](https://open.spotify.com/track/723pP4FLUQv1qSAnQtgl78) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Zeher \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PsWxlYQv7GXgaoIJOFL13) | 5:20 | 2023-05-04 | 2023-05-23 |
 | [Ya Allah Ya Rehman](https://open.spotify.com/track/7MXYMRDNVXJg9euepwFmpS) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Chain of Light](https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77) | 10:47 | 2024-09-20 | 2024-09-24 |
 | [Ya Gaus Ya Meeran](https://open.spotify.com/track/6cA7JGt2iP1Euus9ArO9IF) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Chain of Light](https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77) | 9:32 | 2024-09-20 | 2024-09-24 |
+| [Yaadaan](https://open.spotify.com/track/33iXUGxUN8riJxRJLGreQJ) | [Qasim Virk](https://open.spotify.com/artist/3fgWQfCWOIB5CAcGXfR2fX) | [Yaadaan](https://open.spotify.com/album/2yMoUTimwxnReOw5D9n1eu) | 3:42 | 2025-07-24 |  |
 | [Yaadein Teri](https://open.spotify.com/track/15RnJMUkiOyDJwVjkCfgri) | [Mubeen Butt](https://open.spotify.com/artist/3V31XUiNbWuxPmFuZVCDmF) | [Yaadein Teri](https://open.spotify.com/album/1HFEZH0LEZnjjfatiYUvb8) | 4:04 | 2023-12-21 | 2024-12-29 |
 | [Yaar Di Akh](https://open.spotify.com/track/2FNmlA73WxtL50tt02nO2o) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Yaar Di Akh](https://open.spotify.com/album/4bw3hIEEPoVU1hhRFuszyl) | 3:54 | 2024-06-21 | 2024-08-10 |
 | [Yeh Jism](https://open.spotify.com/track/4sRcdrQrFilYpMIybCwgKU) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Jism 2](https://open.spotify.com/album/0jnPWcGep7AperEjb23Ors) | 3:50 | 2023-05-04 | 2023-06-27 |

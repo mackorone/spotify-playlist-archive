@@ -2,7 +2,7 @@
 
 ### [Caliente](https://open.spotify.com/playlist/37i9dQZF1DWVGjWxwGtpup)
 
-> Tous les hits latino du moment sont ici\. Photo : J Balvin
+> Tous les hits latino du moment sont ici\. Photo : Nicky Jam & Beéle
 
 286 songs - 14 hr 50 min
 

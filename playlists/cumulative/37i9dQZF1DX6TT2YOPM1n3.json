@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Home to Pakistani Hits. Cover: Amna Riaz",
+  "description": "Home to Pakistani Hits. Cover: Afusic",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -3701,6 +3701,28 @@
     },
     {
       "album": {
+        "name": "Rehmat",
+        "url": "https://open.spotify.com/album/3dVI0e0Zn6m08ZoNPQEXFc"
+      },
+      "artists": [
+        {
+          "name": "Aizaz Ahmad",
+          "url": "https://open.spotify.com/artist/3xkvwr9tqSLpMjvQ9TCKmm"
+        },
+        {
+          "name": "Aqib Afzal",
+          "url": "https://open.spotify.com/artist/2DywjxmlsN1lyybhEzBiJ9"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205910,
+      "name": "Rehmat",
+      "url": "https://open.spotify.com/track/4r8mhO7cHAztTNMGxpq46g"
+    },
+    {
+      "album": {
         "name": "Rocket Launcher",
         "url": "https://open.spotify.com/album/0A65EHDQRYwVEB19JOhMKw"
       },
@@ -3716,7 +3738,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 168157,
       "name": "Rocket Launcher",
       "url": "https://open.spotify.com/track/1oHlhSevYO99K6RG2w0RXN"
@@ -4666,6 +4688,24 @@
       "duration_ms": 572133,
       "name": "Ya Gaus Ya Meeran",
       "url": "https://open.spotify.com/track/6cA7JGt2iP1Euus9ArO9IF"
+    },
+    {
+      "album": {
+        "name": "Yaadaan",
+        "url": "https://open.spotify.com/album/2yMoUTimwxnReOw5D9n1eu"
+      },
+      "artists": [
+        {
+          "name": "Qasim Virk",
+          "url": "https://open.spotify.com/artist/3fgWQfCWOIB5CAcGXfR2fX"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Yaadaan",
+      "url": "https://open.spotify.com/track/33iXUGxUN8riJxRJLGreQJ"
     },
     {
       "album": {

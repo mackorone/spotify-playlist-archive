@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: JO YURI) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: ZEROBASEONE (\uc81c\ub85c\ubca0\uc774\uc2a4\uc6d0)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -10540,6 +10540,32 @@
       "duration_ms": 197763,
       "name": "All Night (feat. Saweetie)",
       "url": "https://open.spotify.com/track/6LVyJEhOjfMByQoVt3ma12"
+    },
+    {
+      "album": {
+        "name": "Meaningless",
+        "url": "https://open.spotify.com/album/3fvbcb90Pu1rv5e1SeYgij"
+      },
+      "artists": [
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        },
+        {
+          "name": "Hollow Young",
+          "url": "https://open.spotify.com/artist/2LsV2BYhHlt1wGqVBu8Dwe"
+        },
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "All of It Lost Its Meaning",
+      "url": "https://open.spotify.com/track/7v0lV6tdbmpSHk8KUy0cDp"
     },
     {
       "album": {
@@ -29032,7 +29058,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 256560,
       "name": "Bright",
       "url": "https://open.spotify.com/track/4rxsHJySeEBgumZXwmeJnf"
@@ -34011,6 +34037,24 @@
     },
     {
       "album": {
+        "name": "Can\u2032t Help It",
+        "url": "https://open.spotify.com/album/4OEsWK01M5qzFt75rFdSDw"
+      },
+      "artists": [
+        {
+          "name": "EVAN",
+          "url": "https://open.spotify.com/artist/1xRAYSLSBU6hqXDVlDNlJh"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Can\u2032t Help It",
+      "url": "https://open.spotify.com/track/6furMWkgf2eFHymVvPUXnl"
+    },
+    {
+      "album": {
         "name": "Can't Smile",
         "url": "https://open.spotify.com/album/60vmoSS3qM37rvPm0BdxsN"
       },
@@ -37374,7 +37418,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 150000,
       "name": "City Dream",
       "url": "https://open.spotify.com/track/4LbXsiuvy88MC5qS3tMJn8"
@@ -43864,7 +43908,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 129595,
       "name": "Dakkado",
       "url": "https://open.spotify.com/track/295WB2XwhivMZtQi31ZDTT"
@@ -51219,6 +51263,24 @@
     },
     {
       "album": {
+        "name": "Conversion Part.2",
+        "url": "https://open.spotify.com/album/2zoDLHhB8jBwp2gul82PGW"
+      },
+      "artists": [
+        {
+          "name": "ASC2NT",
+          "url": "https://open.spotify.com/artist/4w6MZBLb4aIZpffyA52Doq"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191506,
+      "name": "DON'T MOVE",
+      "url": "https://open.spotify.com/track/0BxA7X4Sd1vPWS1CLDec8S"
+    },
+    {
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/1iAuetaxhsYUgaoD7elfxx"
       },
@@ -55196,7 +55258,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 235000,
       "name": "Drowning In The Blue",
       "url": "https://open.spotify.com/track/28CLo28emj5VO5SEPmmMCd"
@@ -55692,7 +55754,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 202000,
       "name": "Dummy Dummy (feat. Kim Dong Han, Kim Sang Gyun, Kwon Hyun Bin, Takada Kenta)",
       "url": "https://open.spotify.com/track/0wCPxLV6fk6L2ufDrRI7Jd"
@@ -68845,6 +68907,28 @@
     },
     {
       "album": {
+        "name": "Follow Your Steps (Feat. BIBI)",
+        "url": "https://open.spotify.com/album/7z9DTlk05LOOhdU9jQKZUg"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Follow Your Steps (Feat. BIBI)",
+      "url": "https://open.spotify.com/track/7opKvhH1FUiDCmkMSREqwr"
+    },
+    {
+      "album": {
         "name": "Following the Falling Stars",
         "url": "https://open.spotify.com/album/05AcGWNMof0OQDy6htuI26"
       },
@@ -77158,6 +77242,24 @@
       "duration_ms": 162405,
       "name": "GOOD LOOP",
       "url": "https://open.spotify.com/track/3QKvQ95PHL35gxUBFQSB0v"
+    },
+    {
+      "album": {
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM"
     },
     {
       "album": {
@@ -89988,7 +90090,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 170000,
       "name": "Hundred Reasons",
       "url": "https://open.spotify.com/track/2A1YVk2cVTJt2luDUnbEsW"
@@ -96610,7 +96712,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 158000,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/7FWkNrV0hhT6cByHOajn4J"
@@ -98657,6 +98759,24 @@
     },
     {
       "album": {
+        "name": "BXXCH x RICH 2 (Original Television Soundtrack) Pt.3",
+        "url": "https://open.spotify.com/album/58rE7ZIrs0nix4BHZPUBo6"
+      },
+      "artists": [
+        {
+          "name": "YERI",
+          "url": "https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "I'm Like You",
+      "url": "https://open.spotify.com/track/6B4LmWoUuTnWYv5FkCkmky"
+    },
+    {
+      "album": {
         "name": "soft ballad",
         "url": "https://open.spotify.com/album/6WpV4XvCobBbcd6m2kUIjj"
       },
@@ -98794,7 +98914,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 188938,
       "name": "I'm Not Pretty",
       "url": "https://open.spotify.com/track/6fWfOmGI6bOHLY6I4751mK"
@@ -111074,7 +111194,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 162000,
       "name": "king of mystery play",
       "url": "https://open.spotify.com/track/2A405fOj0xWUu3zOnI7eNS"
@@ -114352,7 +114472,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 163369,
       "name": "Left unsaid (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/4l1kxi8BziQRbDmov4CXeh"
@@ -130212,7 +130332,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 138550,
       "name": "Master of Goodbyes",
       "url": "https://open.spotify.com/track/6019pzU2HEV5JiLhR0GXfY"
@@ -141920,7 +142040,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 228544,
       "name": "NamgungFEFERE (feat. Japanese Breakfast)",
       "url": "https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi"
@@ -150379,6 +150499,24 @@
     },
     {
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/5S3W2sTbInY60QftvfwMMo"
+      },
+      "artists": [
+        {
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/25vjk37K7j82h07ymi7wcA"
+    },
+    {
+      "album": {
         "name": "ON MY WAY",
         "url": "https://open.spotify.com/album/7KQZhjiFBn5a2l2a1qJn4l"
       },
@@ -155822,7 +155960,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 159341,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/1iT3UWfZUSGYHjpIdYLbg9"
@@ -163560,7 +163698,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 154329,
       "name": "PUBG: BATTLEGROUNDS Hot Drop Anthem (Original Soundtrack)",
       "url": "https://open.spotify.com/track/3MZV29Px9MDOrEasd3NIJP"
@@ -164994,7 +165132,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 244588,
       "name": "Rain at Dawn",
       "url": "https://open.spotify.com/track/5pz5K9F6BlXSJO7YCNpmzM"
@@ -165374,7 +165512,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 185482,
       "name": "Rainbow Light",
       "url": "https://open.spotify.com/track/20HQ4WME7YIOGSf7yZJhuT"
@@ -183926,7 +184064,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 177013,
       "name": "Snowy Summer",
       "url": "https://open.spotify.com/track/54zyXasoWKZAYt43c8GQvd"
@@ -184604,7 +184742,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 187567,
       "name": "Solace",
       "url": "https://open.spotify.com/track/3lOiu8K5n6SpBqQYmzG39C"
@@ -188718,6 +188856,24 @@
     {
       "album": {
         "name": "Star",
+        "url": "https://open.spotify.com/album/2hWkypf4yWF97kCl6zwKdi"
+      },
+      "artists": [
+        {
+          "name": "Halsoon",
+          "url": "https://open.spotify.com/artist/0sNCNblXQopxO3mIssE1dG"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/4u2nXngbGnQKokROP2tKut"
+    },
+    {
+      "album": {
+        "name": "Star",
         "url": "https://open.spotify.com/album/5pqORiTMVUmhwZ0ZNYxU8G"
       },
       "artists": [
@@ -191004,6 +191160,24 @@
       "duration_ms": 186453,
       "name": "STEP (Feat. Kim Seungmin)",
       "url": "https://open.spotify.com/track/7JBp689KpbTpQHDU3a48RQ"
+    },
+    {
+      "album": {
+        "name": "STEP IT UP",
+        "url": "https://open.spotify.com/album/3MBiIPA9X5spqqQmnPlDu0"
+      },
+      "artists": [
+        {
+          "name": "IDID",
+          "url": "https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "STEP IT UP",
+      "url": "https://open.spotify.com/track/1FCj33CWl1pCJnDZZGpF1y"
     },
     {
       "album": {
@@ -198992,7 +199166,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 224026,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/1lvcsObmN9xiD3AtDLfROo"
@@ -205244,7 +205418,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 233386,
       "name": "The Prince\u2019s Dream",
       "url": "https://open.spotify.com/track/1C6bmCRXI8Ct1ZHpPuxheg"
@@ -220955,6 +221129,24 @@
     },
     {
       "album": {
+        "name": "My Girlfriend is the Man (Original Soundtrack) Part.1",
+        "url": "https://open.spotify.com/album/66Za5iGmqLGxRhR9VVHeLw"
+      },
+      "artists": [
+        {
+          "name": "JUNGSOOMIN",
+          "url": "https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204013,
+      "name": "Wandering Star",
+      "url": "https://open.spotify.com/track/4hCf0Tts6xdxXLl59W928H"
+    },
+    {
+      "album": {
         "name": "Wandering Youth",
         "url": "https://open.spotify.com/album/0ip2nIDp24gqxNieGpq56A"
       },
@@ -221966,7 +222158,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 197000,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU"
@@ -222864,6 +223056,24 @@
       "duration_ms": 229160,
       "name": "We can't break up like this",
       "url": "https://open.spotify.com/track/1Ubqu7uegpwyeiPFL76Xqm"
+    },
+    {
+      "album": {
+        "name": "We Can\u2032t Explain",
+        "url": "https://open.spotify.com/album/6vfXeNsfChwn0DmWBYYGqM"
+      },
+      "artists": [
+        {
+          "name": "JAY",
+          "url": "https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "We Can\u2032t Explain",
+      "url": "https://open.spotify.com/track/7zKbBfzWVyOqxO8eTQ2pW3"
     },
     {
       "album": {
@@ -228490,6 +228700,24 @@
       "duration_ms": 151292,
       "name": "White BM",
       "url": "https://open.spotify.com/track/3LDMnVMx0Fw0ZiACLRrZPK"
+    },
+    {
+      "album": {
+        "name": "White cat",
+        "url": "https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "White cat",
+      "url": "https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15"
     },
     {
       "album": {
@@ -245500,7 +245728,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 150666,
       "name": "\ubcf4\uace0\uc2f6\ub2e4",
       "url": "https://open.spotify.com/track/0rYXZ28O1prqBX4ALPL6z4"

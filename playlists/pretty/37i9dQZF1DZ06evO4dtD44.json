@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 61264,
+  "num_followers": 61272,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH7UgAAAAAAz3fh1nQ3hgqn8XnYvdI//",
+  "snapshot_id": "aIAmAAAAAAB5sxtVj7eTlIZNy7FOhqIs",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coisa Mais Linda",
+        "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 145180,
+      "name": "Insensatez",
+      "url": "https://open.spotify.com/track/1jHKEk6kxgS9KB78dE669J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jazz 'Round Midnight: Bossa Nova",
         "url": "https://open.spotify.com/album/0kDL9koNtkkIUSUhyM61GY"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 264226,
       "name": "It Might As Well Be Spring - Live At Carnegie Hall",
       "url": "https://open.spotify.com/track/0Tc4zN8q4CD71XJ7Wbjotz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coisa Mais Linda",
-        "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 145180,
-      "name": "Insensatez",
-      "url": "https://open.spotify.com/track/1jHKEk6kxgS9KB78dE669J"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "Nao Vou Pra Casa",
-      "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coisa Mais Linda",
         "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jo\u00e3o Voz E Viol\u00e3o",
+        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "Nao Vou Pra Casa",
+      "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jo\u00e3o Gilberto",
         "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
       },
@@ -871,26 +871,6 @@
       "duration_ms": 397453,
       "name": "Undi\u00fa",
       "url": "https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Getz / Gilberto \u201876",
-        "url": "https://open.spotify.com/album/6N2glPSb8ojSxzvGM0h8t8"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 345851,
-      "name": "Aguas de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/7yJUX5pmBnJ53YCGkJWLHN"
     },
     {
       "added_at": null,
@@ -923,6 +903,26 @@
       "duration_ms": 107560,
       "name": "Saudade F\u00eaz Um Samba",
       "url": "https://open.spotify.com/track/7r2HdCkn6sF10POTjvlhne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Getz / Gilberto \u201876",
+        "url": "https://open.spotify.com/album/6N2glPSb8ojSxzvGM0h8t8"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 345851,
+      "name": "Aguas de Mar\u00e7o",
+      "url": "https://open.spotify.com/track/7yJUX5pmBnJ53YCGkJWLHN"
     },
     {
       "added_at": null,

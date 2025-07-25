@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "Don't Make Me Ill",
+      "url": "https://open.spotify.com/track/1iJZlwuYQ9UsooAPRGbMJU"
+    },
+    {
+      "album": {
         "name": "Bodies",
         "url": "https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP"
       },
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 147133,
       "name": "Your Name Here",
       "url": "https://open.spotify.com/track/03clzUiJrTQDkckYgEznfO"

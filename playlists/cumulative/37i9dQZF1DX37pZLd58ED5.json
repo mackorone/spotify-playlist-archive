@@ -1949,6 +1949,36 @@
     },
     {
       "album": {
+        "name": "NO REGULAR MUSIC 2",
+        "url": "https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1"
+      },
+      "artists": [
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        },
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "FERRARI BIANCA (feat. Astro, Tony Boy)",
+      "url": "https://open.spotify.com/track/7bwTvJZlF36cnyIevQf6OY"
+    },
+    {
+      "album": {
         "name": "PLAZA",
         "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
       },
@@ -2480,7 +2510,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 175636,
       "name": "LA MIA BANDA 2",
       "url": "https://open.spotify.com/track/4r5bAGZrT7CvyUfzBozm2d"
@@ -4461,6 +4491,24 @@
     },
     {
       "album": {
+        "name": "Santosubito/Rubik",
+        "url": "https://open.spotify.com/album/460j2qXDyJTel5aqN7Og5j"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279815,
+      "name": "Santosubito/Rubik",
+      "url": "https://open.spotify.com/track/5Cy6JEcPV3Q9BYhDTpWF8Y"
+    },
+    {
+      "album": {
         "name": "SCUSE",
         "url": "https://open.spotify.com/album/6QCxhx2XPYnL8SSNZoVkOC"
       },
@@ -4684,7 +4732,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 225886,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2bb4acPdB8EXjUW2V7nRKc"
@@ -5018,13 +5066,17 @@
         {
           "name": "thasup",
           "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
         }
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179210,
-      "name": "Tu ed io (feat. thasup)",
+      "name": "Tu ed io (feat. thasup, Finesse)",
       "url": "https://open.spotify.com/track/4JFt4pwBLb2Zsy44QRBG88"
     },
     {

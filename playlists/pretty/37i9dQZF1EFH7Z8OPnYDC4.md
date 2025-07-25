@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554 likes - 327 songs - 19 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 555 likes - 327 songs - 19 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -282,8 +282,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 272 | [Sleepy Head](https://open.spotify.com/track/45XVueHaqIJ4F5RA8f1pvi) | [Mary Martin](https://open.spotify.com/artist/5s5YiEevlFdOSFbJB0UBqw), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP) | [Mary Martin Sings / Richard Rodgers Plays](https://open.spotify.com/album/2putGK7O1pn6afKg8aT6xi) | 3:32 |
 | 273 | [Thank You so Much](https://open.spotify.com/track/7qy2nwVyUScahd4lZveFZu) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Do I Hear a Waltz?](https://open.spotify.com/album/1NegeJLFMQC13QOWUjXGN0) | 1:54 |
 | 274 | [Moon of My Delight \(Chee\-Chee\)](https://open.spotify.com/track/1zOQBrLaw0D3Z1Jf0U15Mg) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Frederica von Stade](https://open.spotify.com/artist/5LUjwmTidlIffhKkvXZo8k), [John McGlinn](https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Rodgers & Hart: Songs from the Shows](https://open.spotify.com/album/6FryivWKDolkOwJz81KoBY) | 3:46 |
-| 275 | [Ships That Pass](https://open.spotify.com/track/53ojEaouWcmvp1he9Is6cB) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea, Vol\. 3](https://open.spotify.com/album/6LXxzBOThAxE9FfhL3Fq4g) | 4:45 |
-| 276 | [Christmas at Hampton Court](https://open.spotify.com/track/1tA5Jsex1hDBT47lM78fSh) | [Penny Fuller](https://open.spotify.com/artist/42nRzPYRMbawP660nsynTK), [Michael John](https://open.spotify.com/artist/5kejBttR77PkI9XPA2lNLu), [Glenn Close](https://open.spotify.com/artist/5gYZraqDisF60MICASfpWe) | [Rex \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz) | 4:20 |
+| 275 | [Christmas at Hampton Court](https://open.spotify.com/track/1tA5Jsex1hDBT47lM78fSh) | [Penny Fuller](https://open.spotify.com/artist/42nRzPYRMbawP660nsynTK), [Michael John](https://open.spotify.com/artist/5kejBttR77PkI9XPA2lNLu), [Glenn Close](https://open.spotify.com/artist/5gYZraqDisF60MICASfpWe) | [Rex \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz) | 4:20 |
+| 276 | [Ships That Pass](https://open.spotify.com/track/53ojEaouWcmvp1he9Is6cB) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea, Vol\. 3](https://open.spotify.com/album/6LXxzBOThAxE9FfhL3Fq4g) | 4:45 |
 | 277 | [The Sound of Music \- From "The Sound of Music"](https://open.spotify.com/track/2ie2DPp8oYLtD58nwx6eIH) | [Shona Lindsay](https://open.spotify.com/artist/6t1FbxO8OOaBLNMS2AcNWV), [National Symphony Orchestra](https://open.spotify.com/artist/58n1bNWH1HPQmx5R9uJ7Gi), [Martin Yates](https://open.spotify.com/artist/5XFFT4yEQNLtmedN1FF29Q) | [Simply Broadway](https://open.spotify.com/album/5vXFcCf7G5CpzN7MWC6ZD3) | 3:16 |
 | 278 | [Everybody Loves Leona](https://open.spotify.com/track/2MOWOZtSVxJ4VXhXxtpsJ3) | [Rose Marie Jun](https://open.spotify.com/artist/0Vr2OpTxZP05kXh7FazHmJ) | [The Story So Far...](https://open.spotify.com/album/2zXRkiLc7kdek7Gv97suTW) | 2:41 |
 | 279 | [Careless Rhapsody](https://open.spotify.com/track/2SoYHwYcuQ2LaqYnXuF2f2) | [Original Cast](https://open.spotify.com/artist/1SaAaqbo2pHpm2ovncyGFU) | [By Jupiter \(1967 Off\-Broadway Revival Cast Recording\)](https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl) | 4:11 |
@@ -336,4 +336,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 326 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 327 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `Ab3k3gAAAABdaTy6wgllK2rhQXZ0qUe3`
+Snapshot ID: `Ab3qfgAAAADka0nzNU4JqucWEIUG5cEd`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ATLAS",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Daou Pittaya",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 221000,
       "name": "5 A.M.",
       "url": "https://open.spotify.com/track/7pESqINqmOONXp4sxLlXpx"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 270026,
       "name": "BOSS IN THE BUILDING",
       "url": "https://open.spotify.com/track/30yBnzk52RdXseGmXBuMgn"
@@ -2287,6 +2287,24 @@
     },
     {
       "album": {
+        "name": "Moonlight (From \"\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d Only You\")",
+        "url": "https://open.spotify.com/album/4WaXszEsesYEkI5EMUwKHF"
+      },
+      "artists": [
+        {
+          "name": "\u0e2b\u0e25\u0e34\u0e07\u0e2b\u0e25\u0e34\u0e07 \u0e04\u0e2d\u0e07",
+          "url": "https://open.spotify.com/artist/1St0LTo9RMbzZWv6hvBuh5"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229859,
+      "name": "Moonlight - From \"\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d Only You\"",
+      "url": "https://open.spotify.com/track/1RoQ4rXuqDcRRD317ZzIuO"
+    },
+    {
+      "album": {
         "name": "Move In Or Move On",
         "url": "https://open.spotify.com/album/7AZ0SveImdNSLqPCBgQSBL"
       },
@@ -3740,7 +3758,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 158823,
       "name": "Woh oh oh",
       "url": "https://open.spotify.com/track/5bX6cVBRNkMuLBeyQqc2i6"
@@ -6022,6 +6040,24 @@
       "duration_ms": 228000,
       "name": "\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e17\u0e35\u0e48\u0e23\u0e2d\u0e1d\u0e19 (spring)",
       "url": "https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi"
+    },
+    {
+      "album": {
+        "name": "\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27 \u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32 (I\u2019m Good)",
+        "url": "https://open.spotify.com/album/5X0wKDAHXF8QcTIUrY5prK"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27 \u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32 (I\u2019m Good)",
+      "url": "https://open.spotify.com/track/3sbTe6C4kfaGoGSKmDCqY5"
     },
     {
       "album": {
@@ -12096,6 +12132,28 @@
       "duration_ms": 204263,
       "name": "\u0e40\u0e2d\u0e32\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e21\u0e32\u0e27\u0e07",
       "url": "https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2d\u0e32\u0e2d\u0e22\u0e39\u0e48 (FROM \"PIT BABE THE SERIES 2\")",
+        "url": "https://open.spotify.com/album/1XPRGlLUKPobECq7QHniFU"
+      },
+      "artists": [
+        {
+          "name": "POOH KRITTIN",
+          "url": "https://open.spotify.com/artist/6cZzFAzXSQVYHKaHhQ6eiD"
+        },
+        {
+          "name": "PAVEL NARET",
+          "url": "https://open.spotify.com/artist/0mDuh8eyHZFnYRvNPVjfb1"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188125,
+      "name": "\u0e40\u0e2d\u0e32\u0e2d\u0e22\u0e39\u0e48 - FROM \"PIT BABE THE SERIES 2\"",
+      "url": "https://open.spotify.com/track/71ygLDw3mWpArn7T5SObIZ"
     },
     {
       "album": {

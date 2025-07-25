@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 44892,
+  "num_followers": 44905,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,26 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 181606,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 211756,
       "name": "Free",
       "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 181606,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170191,
-      "name": "Luvaluvah",
-      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
         "name": "Prince of the Street",
         "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 133624,
       "name": "Realness",
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 170191,
+      "name": "Luvaluvah",
+      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 205373,
       "name": "Slow (feat. Ana\u00efs Cardot)",
       "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
+        "name": "Soundgod Fest IV",
+        "url": "https://open.spotify.com/album/23h9PNNngtRFuQouyVFEsv"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "duration_ms": 128660,
+      "name": "Bebe",
+      "url": "https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
         "name": "EMOTIONS",
         "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 232500,
       "name": "ADDICTED (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
-        "name": "Soundgod Fest IV",
-        "url": "https://open.spotify.com/album/23h9PNNngtRFuQouyVFEsv"
-      },
-      "artists": [
-        {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
-        }
-      ],
-      "duration_ms": 128660,
-      "name": "Bebe",
-      "url": "https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
         "name": "Viva Lavida",
         "url": "https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 173858,
       "name": "Free of Charge",
       "url": "https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "Alhaji",
-        "url": "https://open.spotify.com/album/2x89WyCjViUviC7YjEZlxm"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 143414,
-      "name": "Alhaji",
-      "url": "https://open.spotify.com/track/1fl2s61uhH6Ob4bU6f8TMT"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
         "name": "Vex For U (feat. Fireboy DML & Ayo Maff)",
         "url": "https://open.spotify.com/album/6yhDNq8JsOA3fd8xW4JgPB"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 185739,
       "name": "Vex For U (feat. Fireboy DML & Ayo Maff)",
       "url": "https://open.spotify.com/track/6wN5G9LhuljafQRHzb4K6s"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "Alhaji",
+        "url": "https://open.spotify.com/album/2x89WyCjViUviC7YjEZlxm"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 143414,
+      "name": "Alhaji",
+      "url": "https://open.spotify.com/track/1fl2s61uhH6Ob4bU6f8TMT"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "TIME",
-        "url": "https://open.spotify.com/album/1U6WUqfS0r6nqlqWcwZ9vI"
-      },
-      "artists": [
-        {
-          "name": "Shine TTW",
-          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "TIME",
-      "url": "https://open.spotify.com/track/4ilVnBX3jLEEdkRwRWEA4A"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
         "name": "Oroma",
         "url": "https://open.spotify.com/album/4gGIM7deWJhmmVli9JGskW"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 136800,
       "name": "Oroma",
       "url": "https://open.spotify.com/track/3o24yEM5aaiJIkJvdVmOH8"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/1U6WUqfS0r6nqlqWcwZ9vI"
+      },
+      "artists": [
+        {
+          "name": "Shine TTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/4ilVnBX3jLEEdkRwRWEA4A"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "The Game Needs You",
-        "url": "https://open.spotify.com/album/6ugTlnX34eEh3pmI7sTXD2"
-      },
-      "artists": [
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Maami",
-      "url": "https://open.spotify.com/track/1pGlMq4KhvvATHvET7SQVv"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
         "name": "My Shayla",
         "url": "https://open.spotify.com/album/5QdAd20r4hhVvaLFyicr95"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 153500,
       "name": "My Shayla",
       "url": "https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "The Game Needs You",
+        "url": "https://open.spotify.com/album/6ugTlnX34eEh3pmI7sTXD2"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "Maami",
+      "url": "https://open.spotify.com/track/1pGlMq4KhvvATHvET7SQVv"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-07-18 00:01:20",
       "album": {
-        "name": "Love Me Now",
-        "url": "https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 145325,
-      "name": "Love Me Now",
-      "url": "https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
         "name": "JAILER (feat. Victony)",
         "url": "https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et"
       },
@@ -1419,6 +1403,38 @@
       "duration_ms": 235294,
       "name": "JAILER (feat. Victony)",
       "url": "https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "Love Me Now",
+        "url": "https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 145325,
+      "name": "Love Me Now",
+      "url": "https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6"
+    },
+    {
+      "added_at": "2025-07-18 00:01:20",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/1oSbIm8m4CzrGvMzQE2Mua"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/2MZxCMrS6tUqA9rL3fj18j"
     },
     {
       "added_at": "2025-07-18 00:01:20",
@@ -1483,22 +1499,6 @@
       "duration_ms": 196000,
       "name": "Talk",
       "url": "https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da"
-    },
-    {
-      "added_at": "2025-07-18 00:01:20",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/1oSbIm8m4CzrGvMzQE2Mua"
-      },
-      "artists": [
-        {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/2MZxCMrS6tUqA9rL3fj18j"
     }
   ],
   "unique_name": "Lovin' Beats",

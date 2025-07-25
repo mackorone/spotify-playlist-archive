@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/1s2jwVSrmxKxxvvDoMWl32.md) - [plain]
 | 39 | [Hunted Down \- Remastered](https://open.spotify.com/track/4nnDr2vyxvKudkOH4CQv3K) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Screaming Life/Fopp](https://open.spotify.com/album/2yN7nOorUYUHWZdbZLeOB1) | 2:42 |
 | 40 | [\(Right On\) Thru](https://open.spotify.com/track/7wSIf6tKCqWreKm9oKmuIJ) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Smell The Magic](https://open.spotify.com/album/1pXoAahgLu9ewP3HVt3md5) | 3:15 |
 
-Snapshot ID: `AAAA+IEFEPTAIDYDQoLw7Dh0Wph85xZ4`
+Snapshot ID: `AAAA+SeyrPHLC+MWQ95auMSApA1fwInP`

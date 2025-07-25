@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: Blood Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,251 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,282 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 9 | [The Shiver](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [The Shiver](https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB) | 2:47 |
 | 10 | [Broward Boyy](https://open.spotify.com/track/1j4MGX0RSMzR4X4KTSyi9o) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 1:38 |
 | 11 | [Spyhopping](https://open.spotify.com/track/6kJEvDtOGOMGgzSQ0YugVQ) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Spyhopping](https://open.spotify.com/album/1UFyhMzU6UxAZlPA02BqNA) | 2:25 |
-| 12 | [particule](https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [particule](https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM) | 2:59 |
+| 12 | [particule](https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [particule](https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM) | 2:59 |
 | 13 | [It Moves](https://open.spotify.com/track/6WQD0mv7t3cKfpXRBvC7ER) | [PARADE](https://open.spotify.com/artist/14U7RjL155yioIUM00QSpU) | [It Moves](https://open.spotify.com/album/0FediBQF091idHevFrmFfP) | 3:28 |
 | 14 | [Falter](https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Falter](https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc) | 2:41 |
 | 15 | [CATCH AND RELEASE](https://open.spotify.com/track/0xFDEEdNrcqK6OKPQGsyok) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [CATCH AND RELEASE](https://open.spotify.com/album/4jUocI6n5D4jEWx4GqYtpu) | 2:24 |

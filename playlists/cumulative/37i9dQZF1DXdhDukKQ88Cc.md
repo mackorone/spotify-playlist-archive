@@ -4,7 +4,7 @@
 
 > 🔥 de største nye rap hits i dk 🔥
 
-382 songs - 16 hr 26 min
+383 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Litty](https://open.spotify.com/track/1k29wQgAkP5c27GAJLqLkk) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Litty](https://open.spotify.com/album/6mSi7RytoP8vC4AFgSCI25) | 2:28 | 2025-01-23 | 2025-04-18 |
 | [Livet Er Kort](https://open.spotify.com/track/2TJwLuMXC0CZHmz5AgxELA) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:20 | 2024-02-22 | 2024-05-14 |
 | [Locked Up](https://open.spotify.com/track/334QzlFMweexntGh2LIJ5M) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Locked Up](https://open.spotify.com/album/5Hj9ytqhsh8Sx2pd0iHWLs) | 2:57 | 2025-01-09 | 2025-06-27 |
+| [Long Nights](https://open.spotify.com/track/7jICWCM3vdbmjL5q4uvvaj) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX) | [Long Nights](https://open.spotify.com/album/6hCIrCm4S9DP4HwZ97mXaf) | 3:22 | 2025-07-24 |  |
 | [LOSSES](https://open.spotify.com/track/6jiJlhoKrtnqbEwn9rwLzg) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [N1YA](https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY) | 2:59 | 2025-07-10 |  |
 | [Love](https://open.spotify.com/track/1jrlr7S194gDbRzX7Z1R68) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9), [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh), [Dinero](https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi) | [Love](https://open.spotify.com/album/0iMw6rVmD1PzLnGslYulZJ) | 2:45 | 2025-05-29 | 2025-06-20 |
 | [LUVSONG](https://open.spotify.com/track/3XOxeC6xvm4S31778TY5nb) | [Blak](https://open.spotify.com/artist/6IH1y7lDZ4f5emA2chtADV), [Balken](https://open.spotify.com/artist/6HSzwxpDlQc3ysjM6HcTeF) | [LUVSONG](https://open.spotify.com/album/0661vyyGKpbinzjUat85ia) | 2:33 | 2025-05-22 | 2025-06-20 |
@@ -291,7 +292,7 @@
 | [Purple Rain \(Stadig Lay\)](https://open.spotify.com/track/4xcXzfGf4ciBBaIOfvgrmk) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Purple Rain \(Stadig Lay\)](https://open.spotify.com/album/6Ormh81VLPFjapNBQUNfS1) | 2:47 | 2024-04-18 | 2024-04-26 |
 | [Puto Criminel \(feat\. ZUUZ\)](https://open.spotify.com/track/4PJqYYdcQ1rubq1O0S8AVu) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn), [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Puto Criminel \(feat\. ZUUZ\)](https://open.spotify.com/album/1ZjCCgHb5cOFqbFLhM4F22) | 1:53 | 2023-09-21 | 2023-12-14 |
 | [Puttin In Work](https://open.spotify.com/track/5Sk88myPHrySWHk2HfEE7C) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [Puttin In Work](https://open.spotify.com/album/5LJWJ8tyD6fFMRitusW3Tr) | 2:41 | 2024-07-25 | 2024-09-13 |
-| [Ramt I Natten](https://open.spotify.com/track/4Kwwp0MxTDm3Qppvbr8ETg) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [Luqa Dhere](https://open.spotify.com/artist/5siqoZNodIfbCqL0POuRJa), [Akiba](https://open.spotify.com/artist/6345d96wPs1wcEtwVyJCv7) | [Ramt I Natten](https://open.spotify.com/album/4bs0E4fBxwGuuYbaRBoUVX) | 2:37 | 2025-07-17 |  |
+| [Ramt I Natten](https://open.spotify.com/track/4Kwwp0MxTDm3Qppvbr8ETg) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [Luqa Dhere](https://open.spotify.com/artist/5siqoZNodIfbCqL0POuRJa), [Akiba](https://open.spotify.com/artist/6345d96wPs1wcEtwVyJCv7) | [Ramt I Natten](https://open.spotify.com/album/4bs0E4fBxwGuuYbaRBoUVX) | 2:37 | 2025-07-17 | 2025-07-25 |
 | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/track/3b7vV6z96LzkMXHDHFnI98) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/album/2pJqGNMut48lMvxFWu8A99) | 2:26 | 2024-10-04 | 2025-05-16 |
 | [Remontada](https://open.spotify.com/track/2SVWPpH1edfYve9fiDKBhn) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Remontada](https://open.spotify.com/album/3JcDTRMCskUc1pp3pNBaW9) | 2:05 | 2025-02-06 |  |
 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 | 2024-07-11 | 2025-04-18 |

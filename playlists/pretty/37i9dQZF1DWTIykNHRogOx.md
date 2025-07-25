@@ -2,36 +2,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo: Alex Montembault
+> Les  meilleures nouveautés de la chanson française\. Photo: Tessa B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,275 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,277 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [chez moi](https://open.spotify.com/track/2zUemNbVSNPExW2w7xOnTF) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [chez moi](https://open.spotify.com/album/4hUwnS6ng7YmYuJxOksp65) | 3:32 |
-| 2 | [Juste avant de tomber](https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Juste avant de tomber](https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ) | 4:02 |
-| 3 | [Devant nous](https://open.spotify.com/track/7ubQv0YHkA16nAV71oYUs4) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [Devant nous](https://open.spotify.com/album/5dwOshnXhrbMlLaKkBwPCD) | 2:36 |
-| 4 | [Évidemment](https://open.spotify.com/track/62DJGlOgqUfGm1CiuREznh) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Est\-ce que quelqu'un m'entend ?](https://open.spotify.com/album/2yMg4BHzIx08hgwly5JsG5) | 3:27 |
-| 5 | [J'veux tout savoir](https://open.spotify.com/track/1lzRKxLpVfYG1w8ZCKaabi) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [J'veux tout savoir](https://open.spotify.com/album/3amQWaEVgIcfpWfTQcUrgT) | 3:19 |
-| 6 | [D'autres vies que la tienne](https://open.spotify.com/track/2GZRdXYNhK1SbqOVu9DdIn) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [La fresque](https://open.spotify.com/album/2k52LVvL6DAD2I10T4bWcK) | 3:19 |
-| 7 | [Partir un jour](https://open.spotify.com/track/1QG5eDtayEWVHGOTBdupkU) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Partir un jour](https://open.spotify.com/album/7FMjqci1hqh973l85VoQYf) | 3:32 |
-| 8 | [mes nuits à toi](https://open.spotify.com/track/2yCPDgKuOtM0KQcktQocb5) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [dans ma maison](https://open.spotify.com/album/5sa26UmvekC0g0AeJsxArm) | 2:52 |
-| 9 | [dans la lucarne](https://open.spotify.com/track/1K6krYTfuMN4WpDUOxmDOs) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [dans la lucarne](https://open.spotify.com/album/6efJmiQI6o9Vv4rXAh7r11) | 2:23 |
+| 1 | [J'ai grandi](https://open.spotify.com/track/1rXroIXLQcLA6dADmkJGgw) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [J'ai grandi](https://open.spotify.com/album/1nE1MnSNJN7K6HnoKodMJl) | 2:22 |
+| 2 | [Le lundi au soleil](https://open.spotify.com/track/4Q50Sr8134kzmb971o6GJv) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Parenthèses](https://open.spotify.com/album/7yxHHSSB4poItMD3ejJyjk) | 3:44 |
+| 3 | [chez moi](https://open.spotify.com/track/2zUemNbVSNPExW2w7xOnTF) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [chez moi](https://open.spotify.com/album/4hUwnS6ng7YmYuJxOksp65) | 3:32 |
+| 4 | [Juste avant de tomber](https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Juste avant de tomber](https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ) | 4:02 |
+| 5 | [Devant nous](https://open.spotify.com/track/7ubQv0YHkA16nAV71oYUs4) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [Devant nous](https://open.spotify.com/album/5dwOshnXhrbMlLaKkBwPCD) | 2:36 |
+| 6 | [Évidemment](https://open.spotify.com/track/62DJGlOgqUfGm1CiuREznh) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Est\-ce que quelqu'un m'entend ?](https://open.spotify.com/album/2yMg4BHzIx08hgwly5JsG5) | 3:27 |
+| 7 | [J'veux tout savoir](https://open.spotify.com/track/1lzRKxLpVfYG1w8ZCKaabi) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [J'veux tout savoir](https://open.spotify.com/album/3amQWaEVgIcfpWfTQcUrgT) | 3:19 |
+| 8 | [D'autres vies que la tienne](https://open.spotify.com/track/2GZRdXYNhK1SbqOVu9DdIn) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [La fresque](https://open.spotify.com/album/2k52LVvL6DAD2I10T4bWcK) | 3:19 |
+| 9 | [J'ai tenté mais](https://open.spotify.com/track/3bF05KrShPH4BL3at4l9GB) | [Bonneville](https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V) | [J'ai tenté mais](https://open.spotify.com/album/0X1VrZroA9FedsQOSgjKsL) | 3:04 |
 | 10 | [Rien du tout](https://open.spotify.com/track/3rdXzSYY67g5M8sf31dxW8) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Rien du tout](https://open.spotify.com/album/0sjiM772ZsXVAF2apGzM2k) | 3:20 |
-| 11 | [J'ai tenté mais](https://open.spotify.com/track/3bF05KrShPH4BL3at4l9GB) | [Bonneville](https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V) | [J'ai tenté mais](https://open.spotify.com/album/0X1VrZroA9FedsQOSgjKsL) | 3:04 |
-| 12 | [pas assez de toi](https://open.spotify.com/track/19Z9JUc7IvI5KmYSg6HXms) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [pas assez de toi](https://open.spotify.com/album/6nv6PS50Hyh34ZIAzjuXUy) | 2:55 |
-| 13 | [Lettre à soi](https://open.spotify.com/track/75qYFNmfceZZtxrRa3Js2y) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Lettre à soi](https://open.spotify.com/album/0qv0FYdpQgpFpMuk9uFOXz) | 3:43 |
+| 11 | [dans la lucarne](https://open.spotify.com/track/1K6krYTfuMN4WpDUOxmDOs) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [dans la lucarne](https://open.spotify.com/album/6efJmiQI6o9Vv4rXAh7r11) | 2:23 |
+| 12 | [Partir un jour](https://open.spotify.com/track/1QG5eDtayEWVHGOTBdupkU) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Partir un jour](https://open.spotify.com/album/7FMjqci1hqh973l85VoQYf) | 3:32 |
+| 13 | [mes nuits à toi](https://open.spotify.com/track/2yCPDgKuOtM0KQcktQocb5) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [dans ma maison](https://open.spotify.com/album/5sa26UmvekC0g0AeJsxArm) | 2:52 |
 | 14 | [ton ventre](https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [ton ventre](https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV) | 2:55 |
-| 15 | [Le lundi au soleil](https://open.spotify.com/track/4Q50Sr8134kzmb971o6GJv) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Parenthèses](https://open.spotify.com/album/7yxHHSSB4poItMD3ejJyjk) | 3:44 |
+| 15 | [Lettre à soi](https://open.spotify.com/track/75qYFNmfceZZtxrRa3Js2y) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Lettre à soi](https://open.spotify.com/album/0qv0FYdpQgpFpMuk9uFOXz) | 3:43 |
 | 16 | [L'inconnu en personne \- Radio Edit](https://open.spotify.com/track/69IZjDKBWn809QMckwd4Tz) | [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [L'inconnu en personne](https://open.spotify.com/album/2T5Id14bRWzmUDloWyi26O) | 3:36 |
-| 17 | [On peut comme ça](https://open.spotify.com/track/7Fa90Xad7G9ayAYvZ9nwl6) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [On peut comme ça](https://open.spotify.com/album/3gXoxSvcNA04j16k0U8sZT) | 4:04 |
+| 17 | [pas assez de toi](https://open.spotify.com/track/19Z9JUc7IvI5KmYSg6HXms) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [pas assez de toi](https://open.spotify.com/album/6nv6PS50Hyh34ZIAzjuXUy) | 2:55 |
 | 18 | [Saisons](https://open.spotify.com/track/2YJIsskQ7aoEBWTGhn38Gw) | [Jeanne Gabrielle](https://open.spotify.com/artist/01DNT67EQW5Pcj6BIXHfnZ) | [Saisons](https://open.spotify.com/album/35KgRdnce5gzdP3yT3KZCB) | 3:26 |
-| 19 | [La bohème](https://open.spotify.com/track/1Fv7n2VwpfN7dyhNTOYvFm) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [La bohème](https://open.spotify.com/album/2L6vtG68KIy1vLgCPGtPpB) | 2:40 |
-| 20 | [Deux ailes à Ella](https://open.spotify.com/track/25o0EUIimN9sL43v63diz3) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP) | [Instant](https://open.spotify.com/album/1zud2YbK4ULbu4HDmwmKY7) | 7:28 |
-| 21 | [Paris Amour](https://open.spotify.com/track/3uJvgK0JVKNVbOHQe0RPfR) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [Paris Amour](https://open.spotify.com/album/5UPeTy8r4aoKnZtRP6PnMa) | 3:40 |
-| 22 | [LA NUIT](https://open.spotify.com/track/4cc2PUXzaw7hgUsbYScfFd) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [LA NUIT \(La Venue de l’avenir \- musique originale\)](https://open.spotify.com/album/6FEqYXlwRZfx9ro7cXNZru) | 3:12 |
-| 23 | [J'ai grandi](https://open.spotify.com/track/1rXroIXLQcLA6dADmkJGgw) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [J'ai grandi](https://open.spotify.com/album/1nE1MnSNJN7K6HnoKodMJl) | 2:22 |
-| 24 | [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 |
+| 19 | [Deux ailes à Ella](https://open.spotify.com/track/25o0EUIimN9sL43v63diz3) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP) | [Instant](https://open.spotify.com/album/1zud2YbK4ULbu4HDmwmKY7) | 7:28 |
+| 20 | [On peut comme ça](https://open.spotify.com/track/7Fa90Xad7G9ayAYvZ9nwl6) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [On peut comme ça](https://open.spotify.com/album/3gXoxSvcNA04j16k0U8sZT) | 4:04 |
+| 21 | [La bohème](https://open.spotify.com/track/1Fv7n2VwpfN7dyhNTOYvFm) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [La bohème](https://open.spotify.com/album/2L6vtG68KIy1vLgCPGtPpB) | 2:40 |
+| 22 | [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 |
+| 23 | [Paris Amour](https://open.spotify.com/track/3uJvgK0JVKNVbOHQe0RPfR) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [Paris Amour](https://open.spotify.com/album/5UPeTy8r4aoKnZtRP6PnMa) | 3:40 |
+| 24 | [LA NUIT](https://open.spotify.com/track/4cc2PUXzaw7hgUsbYScfFd) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [LA NUIT \(La Venue de l’avenir \- musique originale\)](https://open.spotify.com/album/6FEqYXlwRZfx9ro7cXNZru) | 3:12 |
 | 25 | [Promis juré](https://open.spotify.com/track/6ybZdo0nUd5fdsuVrOUW6r) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Ex æquo](https://open.spotify.com/album/577bgbkPYgJf71s0AeOdim) | 3:11 |
 | 26 | [Disparaître \- Version piano](https://open.spotify.com/track/0oLPNB6Aw1WapxGdtxWUXu) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI), [romān](https://open.spotify.com/artist/7ot2qoHpkZwyqiot2Mwtbz) | [Disparaître \(Version piano\)](https://open.spotify.com/album/23dB4MqyzNPISBwC7MVsO6) | 3:07 |
 | 27 | [à l'autre bout du tel](https://open.spotify.com/track/6QJsYlhcItli06ip5r5GPA) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [à l'autre bout du tel](https://open.spotify.com/album/0Lg0PUYJtcHY2YQdpPyOum) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [Good to know](https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [No Big Deal](https://open.spotify.com/album/2wUOMqXHDCLA50klefUDFU) | 3:06 |
 | 50 | [Le cri des loups](https://open.spotify.com/track/6VRAP4mDcZ7sGFNx0meRTT) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [Jeanne](https://open.spotify.com/album/7xXNd8BRyL9n1RpDEpM2X8) | 4:14 |
 
-Snapshot ID: `aHlyewAAAAAGSfoBPv4K9UWNqHrdm562`
+Snapshot ID: `aIKs/gAAAADrHBWA7ccYUFjGxNCfIfr4`

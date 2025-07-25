@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ?si=1cW3Be3bQVO767h02t-IRg\">Zwide</a>",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV?si=kFhV6iyIQECznS2XFlFFjQ\">Ntencane</a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -662,6 +662,32 @@
       "duration_ms": 349831,
       "name": "Buza Kunyoko",
       "url": "https://open.spotify.com/track/3MwXl9gwg7aG1NBHcGKaZo"
+    },
+    {
+      "album": {
+        "name": "Khotha La (A Tribute To Mjikjelwa)",
+        "url": "https://open.spotify.com/album/11zqEpEOTNUX5lzw68rZJe"
+      },
+      "artists": [
+        {
+          "name": "Ntencane",
+          "url": "https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV"
+        },
+        {
+          "name": "Mjolisi",
+          "url": "https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr"
+        },
+        {
+          "name": "Mnqobi Yazo",
+          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280720,
+      "name": "COME DUZE",
+      "url": "https://open.spotify.com/track/0n4FUypXWTfC1pBdc63Kag"
     },
     {
       "album": {
@@ -1618,7 +1644,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 268840,
       "name": "Imizi Yobaba",
       "url": "https://open.spotify.com/track/7AAZlyNmveOi5BRPbxFApQ"

@@ -2917,6 +2917,24 @@
     },
     {
       "album": {
+        "name": "Coastline",
+        "url": "https://open.spotify.com/album/3a2eWnc5vJWVJtZSfOgWTv"
+      },
+      "artists": [
+        {
+          "name": "Lone Tusker",
+          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/4Osd2TTF3qHsdPi0mMk6TN"
+    },
+    {
+      "album": {
         "name": "Cold Heart",
         "url": "https://open.spotify.com/album/1Kk56qikcuSd1W3UukLVYK"
       },
@@ -16524,6 +16542,32 @@
       "duration_ms": 133333,
       "name": "So Long",
       "url": "https://open.spotify.com/track/2MgAhjcBonrPzFM7hmjvz5"
+    },
+    {
+      "album": {
+        "name": "So Many Faces",
+        "url": "https://open.spotify.com/album/0G6UldF6wGE2Yq1Fu2xQob"
+      },
+      "artists": [
+        {
+          "name": "hiraeth",
+          "url": "https://open.spotify.com/artist/6U3EeZZGfO99IFDMIBaSms"
+        },
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        },
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "So Many Faces",
+      "url": "https://open.spotify.com/track/0Cg1lcCNWLSdXUdPGE1Rgd"
     },
     {
       "album": {

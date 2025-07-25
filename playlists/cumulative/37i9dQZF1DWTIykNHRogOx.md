@@ -2,7 +2,7 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo: Alex Montembault
+> Les  meilleures nouveautés de la chanson française\. Photo: Tessa B.
 
 201 songs - 11 hr 4 min
 

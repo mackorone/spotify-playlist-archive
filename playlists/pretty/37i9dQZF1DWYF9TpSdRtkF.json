@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\".  THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 18022,
+  "num_followers": 18027,
   "original_name": "THE IDOLM@STER MILLION LIVE! ",
   "owner": {
     "name": "Spotify",
@@ -1139,18 +1139,22 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 01 Brand New Theater!",
-        "url": "https://open.spotify.com/album/1Qf0OVZGtS3qhAYgUPabnW"
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 06 Cleasky",
+        "url": "https://open.spotify.com/album/00KZ35DyzALroEalMDTVmh"
       },
       "artists": [
         {
-          "name": "765 MILLION ALLSTARS",
-          "url": "https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU"
+          "name": "\u5cf6\u539f\u30a8\u30ec\u30ca (CV.\u89d2\u5143\u660e\u65e5\u9999)",
+          "url": "https://open.spotify.com/artist/5qK6C6COeVNyWWCiaBBJ12"
+        },
+        {
+          "name": "Miya Miyao (CV: Choucho Kiritani)",
+          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
         }
       ],
-      "duration_ms": 309200,
-      "name": "Brand New Theater!",
-      "url": "https://open.spotify.com/track/4otzfY3aH0sR0u8lIXe1EI"
+      "duration_ms": 305120,
+      "name": "\u8679\u8272letters",
+      "url": "https://open.spotify.com/track/4uqBeio8KU8GgiI7cBpf6X"
     },
     {
       "added_at": "2025-03-26 16:49:37",
@@ -1175,22 +1179,18 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 06 Cleasky",
-        "url": "https://open.spotify.com/album/00KZ35DyzALroEalMDTVmh"
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 01 Brand New Theater!",
+        "url": "https://open.spotify.com/album/1Qf0OVZGtS3qhAYgUPabnW"
       },
       "artists": [
         {
-          "name": "\u5cf6\u539f\u30a8\u30ec\u30ca (CV.\u89d2\u5143\u660e\u65e5\u9999)",
-          "url": "https://open.spotify.com/artist/5qK6C6COeVNyWWCiaBBJ12"
-        },
-        {
-          "name": "Miya Miyao (CV: Choucho Kiritani)",
-          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
+          "name": "765 MILLION ALLSTARS",
+          "url": "https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU"
         }
       ],
-      "duration_ms": 305120,
-      "name": "\u8679\u8272letters",
-      "url": "https://open.spotify.com/track/4uqBeio8KU8GgiI7cBpf6X"
+      "duration_ms": 309200,
+      "name": "Brand New Theater!",
+      "url": "https://open.spotify.com/track/4otzfY3aH0sR0u8lIXe1EI"
     },
     {
       "added_at": "2025-03-26 16:49:37",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER COLLECTION Vol.1 -765PRO ALLSTARS-",
+        "url": "https://open.spotify.com/album/6gAX4TjRvOVccyI2CVgvGH"
+      },
+      "artists": [
+        {
+          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Just be myself!!",
+      "url": "https://open.spotify.com/track/6Yp3ZF9yqNNjEEl5JQr1XE"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER WAVE 05 ARCANA",
         "url": "https://open.spotify.com/album/6dPf4D4ahsUrXfXacWhKNu"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 315373,
       "name": "Fermata in Rapsodia",
       "url": "https://open.spotify.com/track/4GMcLqgV3bTDvBeWbDMO3N"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER COLLECTION Vol.1 -765PRO ALLSTARS-",
-        "url": "https://open.spotify.com/album/6gAX4TjRvOVccyI2CVgvGH"
-      },
-      "artists": [
-        {
-          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
-          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Just be myself!!",
-      "url": "https://open.spotify.com/track/6Yp3ZF9yqNNjEEl5JQr1XE"
     },
     {
       "added_at": "2025-03-26 16:49:37",
@@ -1567,30 +1567,30 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
-        "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 (Brand New Ver.)",
-        "url": "https://open.spotify.com/album/5M761lw0DidVCkXofyhDu5"
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv"
       },
       "artists": [
         {
-          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
-          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
+        },
+        {
+          "name": "\u4e09\u6d66\u3042\u305a\u3055 (CV.\u305f\u304b\u306f\u3057\u667a\u79cb)",
+          "url": "https://open.spotify.com/artist/0JDHqVJ5LibV1fFKoEKEDv"
         },
         {
           "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
           "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
         },
         {
-          "name": "Kotoha Tanaka (CV: Risa Taneda)",
-          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
-        },
-        {
-          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
-          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+          "name": "Roco (CV: Atsuki Nakamura)",
+          "url": "https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh"
         }
       ],
-      "duration_ms": 301573,
-      "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 - Brand New Ver.",
-      "url": "https://open.spotify.com/track/6qik4NVB7AHXb6MyeWafRC"
+      "duration_ms": 240706,
+      "name": "\u7523\u58f0\u3068\u30af\u30e9\u30d6",
+      "url": "https://open.spotify.com/track/7nt9V516i7KBjlFpbjTLFa"
     }
   ],
   "unique_name": "THE IDOLM@STER MILLION LIVE! ",

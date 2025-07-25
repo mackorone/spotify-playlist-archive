@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Dil Ke Behlane Ki",
+        "url": "https://open.spotify.com/album/48AZkKOndaRtYysnmyWqnl"
+      },
+      "artists": [
+        {
+          "name": "Gayatri Asokan",
+          "url": "https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224874,
+      "name": "Dil Ke Behlane Ki",
+      "url": "https://open.spotify.com/track/0j8bQyja91hw3OM4GaTx37"
+    },
+    {
+      "album": {
         "name": "Dil Lagta Hi Nahi",
         "url": "https://open.spotify.com/album/3zW2rhHAI9vwmL8VPQaIv3"
       },
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 274674,
       "name": "Is Nahin Ka",
       "url": "https://open.spotify.com/track/0NShVQ20TXqbOtGP3uCh8k"
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 256133,
       "name": "Isse Pehle",
       "url": "https://open.spotify.com/track/4KCtJWeuJTh4n7geCGG4nO"
@@ -3798,7 +3816,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 297000,
       "name": "Wo Baat Kahan",
       "url": "https://open.spotify.com/track/4P2ye5Ocy41bUThs9r96Kz"

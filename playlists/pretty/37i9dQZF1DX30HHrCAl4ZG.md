@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Rainbow Kitten Surprise
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,432 likes - 115 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,307 likes - 115 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 152028,
+  "num_followers": 152062,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -803,30 +803,6 @@
     {
       "added_at": "2025-06-19 17:25:17",
       "album": {
-        "name": "Symphony From The Heart",
-        "url": "https://open.spotify.com/album/4JeqOC5WYg5h6dEOgD1dTL"
-      },
-      "artists": [
-        {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
-        },
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        },
-        {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
-        }
-      ],
-      "duration_ms": 251091,
-      "name": "Kau Selalu Di Hati",
-      "url": "https://open.spotify.com/track/0rWP5ruLWqfARc6lOr0XXv"
-    },
-    {
-      "added_at": "2025-06-19 17:25:17",
-      "album": {
         "name": "Nadhif",
         "url": "https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 261476,
       "name": "Lagu Pernikahan Kita",
       "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
+    },
+    {
+      "added_at": "2025-06-19 17:25:17",
+      "album": {
+        "name": "Symphony From The Heart",
+        "url": "https://open.spotify.com/album/4JeqOC5WYg5h6dEOgD1dTL"
+      },
+      "artists": [
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        },
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 251091,
+      "name": "Kau Selalu Di Hati",
+      "url": "https://open.spotify.com/track/0rWP5ruLWqfARc6lOr0XXv"
     }
   ],
   "unique_name": "galau rabak",

@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3417,
+  "num_followers": 3418,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH7UgAAAAADL5UN0QroY+FO38q4UNYVp",
+  "snapshot_id": "aIAmAAAAAAD2+36LVdWq0WMspmR6rOJ+",
   "tracks": [
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 311560,
-      "name": "Children of the Night",
-      "url": "https://open.spotify.com/track/5YcEeu42eisgNHJeesoJDS"
+      "duration_ms": 268506,
+      "name": "Dance Turned Into a Romance",
+      "url": "https://open.spotify.com/track/0ac0IMOQCG2Xt5H9Ja70pU"
     },
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 268506,
-      "name": "Dance Turned Into a Romance",
-      "url": "https://open.spotify.com/track/0ac0IMOQCG2Xt5H9Ja70pU"
+      "duration_ms": 311560,
+      "name": "Children of the Night",
+      "url": "https://open.spotify.com/track/5YcEeu42eisgNHJeesoJDS"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 231053,
+      "name": "You're the Only Bargain I've Got",
+      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soul Central, Vol. 1",
         "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 231053,
-      "name": "You're the Only Bargain I've Got",
-      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
@@ -743,98 +743,6 @@
       "duration_ms": 254533,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music Merchant A-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 173520,
-      "name": "Taster of the Honey (Not Keeper of the Bee)",
-      "url": "https://open.spotify.com/track/6sjotJtpxuxZ3h2J9j65nI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soul Central, Vol. 1",
-        "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
-      },
-      "artists": [
-        {
-          "name": "Chris Ballin",
-          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
-        },
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
-        },
-        {
-          "name": "Dean Edwards",
-          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
-        },
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        },
-        {
-          "name": "Anthony Drakes",
-          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
-        },
-        {
-          "name": "Julianne",
-          "url": "https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR"
-        },
-        {
-          "name": "The Sound Principle",
-          "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
-        },
-        {
-          "name": "Richard Anthony Davis",
-          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Could You Be Mine?",
-      "url": "https://open.spotify.com/track/592L5UVwLVl6kmxB8E2z7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Somewhere Alone Tonight",
-      "url": "https://open.spotify.com/track/7p8yn1qom6ABw7zFTYvM6b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On Target (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "What a Fool",
-      "url": "https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW"
     },
     {
       "added_at": null,
@@ -899,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good to the Last Drop",
-        "url": "https://open.spotify.com/album/2ZdN4EryvKNzKfzp3bfDGw"
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
       "artists": [
         {
@@ -908,9 +816,41 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 190293,
-      "name": "My Own Special Way",
-      "url": "https://open.spotify.com/track/1Sk0lvi9prK86bgkzGA4q4"
+      "duration_ms": 245600,
+      "name": "Somewhere Alone Tonight",
+      "url": "https://open.spotify.com/track/7p8yn1qom6ABw7zFTYvM6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Target (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "What a Fool",
+      "url": "https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Merchant A-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 173520,
+      "name": "Taster of the Honey (Not Keeper of the Bee)",
+      "url": "https://open.spotify.com/track/6sjotJtpxuxZ3h2J9j65nI"
     },
     {
       "added_at": null,
@@ -955,6 +895,66 @@
       "duration_ms": 271120,
       "name": "The More I Get To Know You",
       "url": "https://open.spotify.com/track/69VxpJEzI5FQnsMi9oKx4Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good to the Last Drop",
+        "url": "https://open.spotify.com/album/2ZdN4EryvKNzKfzp3bfDGw"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 190293,
+      "name": "My Own Special Way",
+      "url": "https://open.spotify.com/track/1Sk0lvi9prK86bgkzGA4q4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Central, Vol. 1",
+        "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
+      },
+      "artists": [
+        {
+          "name": "Chris Ballin",
+          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
+        },
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
+        },
+        {
+          "name": "Dean Edwards",
+          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
+        },
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        },
+        {
+          "name": "Anthony Drakes",
+          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
+        },
+        {
+          "name": "Julianne",
+          "url": "https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR"
+        },
+        {
+          "name": "The Sound Principle",
+          "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
+        },
+        {
+          "name": "Richard Anthony Davis",
+          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Could You Be Mine?",
+      "url": "https://open.spotify.com/track/592L5UVwLVl6kmxB8E2z7Y"
     }
   ],
   "unique_name": "This Is The Jones Girls",

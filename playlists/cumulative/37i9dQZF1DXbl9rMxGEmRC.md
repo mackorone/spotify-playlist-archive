@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics\. Cover: Behemoth
 
-717 songs - 2 day 13 hr 30 min
+718 songs - 2 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Chaos Horrific](https://open.spotify.com/track/4Zsix11Dx5iiS0X7EclZSF) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Chaos Horrific](https://open.spotify.com/album/2OsBHxwlW8kJx2YCnhH7rI) | 3:32 | 2023-09-22 | 2024-11-26 |
 | [Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes](https://open.spotify.com/track/3DeAaXxQH2jmtWLKezKqa1) | [Nile](https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE) | [Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes](https://open.spotify.com/album/1xkFCu7kOfF55Qp5uZ3qZy) | 3:50 | 2024-06-03 |  |
 | [Chapter I: Escape](https://open.spotify.com/track/50wNXncjCWM87QlNQ5bmKq) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter I: Escape](https://open.spotify.com/album/6RetrQBkhFn2SXftzZODXG) | 4:26 | 2022-01-21 | 2022-04-15 |
-| [Chapter III: Nest](https://open.spotify.com/track/5YDmEeIn2zJrsxO1rvfzrj) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter III: Nest](https://open.spotify.com/album/09XAlMXjuegy1rbEZf94Sj) | 3:43 | 2022-04-15 | 2025-07-20 |
+| [Chapter III: Nest](https://open.spotify.com/track/5YDmEeIn2zJrsxO1rvfzrj) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter III: Nest](https://open.spotify.com/album/09XAlMXjuegy1rbEZf94Sj) | 3:43 | 2022-04-15 |  |
 | [Charlatan](https://open.spotify.com/track/1mArDDUhC84ngoB7pKQZNi) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Memento Mori](https://open.spotify.com/album/6waKeYu2QeKF53fvZFPT6C) | 4:11 | 2023-09-01 | 2023-10-23 |
 | [Chernobyl Blues \- Live at Slipper Room](https://open.spotify.com/track/4coCbcc2diO04CaUquMQ4W) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [An Evening With Imperial Triumphant \(Live at Slipper Room\)](https://open.spotify.com/album/1gKZvyVWVA4rtfJNRWe08H) | 7:32 | 2021-12-17 | 2022-07-29 |
 | [Chief Rebel Angel](https://open.spotify.com/track/4szPYZmj6OIASA80fLsK57) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [Divided You'll Stand & United You'll Fall](https://open.spotify.com/album/0ygHMxnxuQmY8ob8WnWf7P) | 4:21 | 2025-07-04 |  |
@@ -144,7 +144,7 @@
 | [Cursed](https://open.spotify.com/track/1TaLL0z52wvVRNcmLl0HJF) | [Naraka](https://open.spotify.com/artist/7Js05ttQyRt4Pczu0F2LRo) | [Cursed](https://open.spotify.com/album/3KWgXdrDm75vJbSxWwZvf2) | 5:11 | 2021-12-17 | 2022-03-11 |
 | [Cut the Cord](https://open.spotify.com/track/1ohdTjNFu2TvMDD74Mp0FU) | [Necrot](https://open.spotify.com/artist/5jWIRPU5rVBm6ky8Atq7AW) | [Drill the Skull](https://open.spotify.com/album/07c4UOdjYSOBIzdfiw2pME) | 5:16 | 2024-03-22 | 2024-06-17 |
 | [Cycle of Suffering](https://open.spotify.com/track/33N9eYEFkNqQvFedpH82kU) | [Carnation](https://open.spotify.com/artist/7s6SmrbyQvp26jN5EbnU9u) | [Cycle of Suffering](https://open.spotify.com/album/31JVSJMrlzxxqPQuOJy2AN) | 4:05 | 2023-10-09 | 2023-11-11 |
-| [Daar Waar We Komen Om Te Sterven](https://open.spotify.com/track/5ymbrUt7r6MtEpmcAkpevY) | [Walg](https://open.spotify.com/artist/6sSvlAu7Q8NDcNkn3C0TvZ) | [III](https://open.spotify.com/album/0U4EIKdYGhQQQRr6x83rfb) | 4:44 | 2025-01-30 |  |
+| [Daar Waar We Komen Om Te Sterven](https://open.spotify.com/track/5ymbrUt7r6MtEpmcAkpevY) | [Walg](https://open.spotify.com/artist/6sSvlAu7Q8NDcNkn3C0TvZ) | [III](https://open.spotify.com/album/0U4EIKdYGhQQQRr6x83rfb) | 4:44 | 2025-01-30 | 2025-07-25 |
 | [Damned In Black](https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Damned In Black](https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau) | 6:51 | 2022-07-13 |  |
 | [Dark Medieval Times](https://open.spotify.com/track/3lVL1Jr6osIOLAbPHXUDkr) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Dark Medieval Times](https://open.spotify.com/album/0xXdL2dhLdLfAgw9wAB6bC) | 8:11 | 2022-07-13 | 2022-07-29 |
 | [Dark Medieval Times \- Remastered 2021](https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Dark Medieval Times \(Remastered 2021\)](https://open.spotify.com/album/1PI7BARhjM3hpdvt6dGtYl) | 8:11 | 2022-07-13 | 2023-08-19 |
@@ -328,7 +328,7 @@
 | [Immer Treu](https://open.spotify.com/track/04yFun0kpmuxmfP8z4Gve3) | [Varg](https://open.spotify.com/artist/4QjcHVaUB35395GeUoRIfZ) | [Immer Treu](https://open.spotify.com/album/56md3R00zHzNSpWvQqIkv7) | 4:19 | 2023-09-01 | 2023-09-27 |
 | [In Abeyance](https://open.spotify.com/track/5kMqGe9AgwZmgYSl6cQu1o) | [Cryptopsy](https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN) | [In Abeyance](https://open.spotify.com/album/6TxLiQzD4gg3dHNCuTA4GF) | 2:55 | 2023-07-07 | 2023-10-10 |
 | [In Death's Embrace](https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9) | 5:42 | 2022-07-13 |  |
-| [In Disgust They Shine](https://open.spotify.com/track/0acfT7q9Esypmz0kzUBGz1) | [Putridity](https://open.spotify.com/artist/7aQXgfLHE9x6gKrrE2zf6q) | [In Disgust They Shine](https://open.spotify.com/album/0KtFzZwvaIdPKzfmKTS10a) | 2:37 | 2025-07-04 |  |
+| [In Disgust They Shine](https://open.spotify.com/track/0acfT7q9Esypmz0kzUBGz1) | [Putridity](https://open.spotify.com/artist/7aQXgfLHE9x6gKrrE2zf6q) | [In Disgust They Shine](https://open.spotify.com/album/0KtFzZwvaIdPKzfmKTS10a) | 2:37 | 2025-07-04 | 2025-07-25 |
 | [In Honour of the Fallen](https://open.spotify.com/track/4lYuiV1H112f1k9dJ9fBkK) | [Graveworm](https://open.spotify.com/artist/4XJZ7zUJzQuayqyAVJowKX) | [Killing Innocence](https://open.spotify.com/album/5Ded74WQAVnklzatKOU8Ss) | 5:50 | 2023-04-28 |  |
 | [In Silence Descend](https://open.spotify.com/track/3TljLrW52unHaNTusZiUuY) | [Vananidr](https://open.spotify.com/artist/6hCTxV61iKPjRhEEdwroGJ) | [In Silence Descent](https://open.spotify.com/album/5An2g3IWiTGSg9Ebcuv2iI) | 4:02 | 2024-11-25 | 2025-07-14 |
 | [In The House Of Angel Flesh](https://open.spotify.com/track/5jlAbtmWF05Ygp7Oo7EUxR) | [Agriculture](https://open.spotify.com/artist/23Skjj6LyKEVkNIUFrLBUY) | [In The House Of Angel Flesh](https://open.spotify.com/album/0jt9B9d7qLpodAyZR6b6eM) | 5:26 | 2024-06-03 | 2025-07-05 |
@@ -365,6 +365,7 @@
 | [KILLING PEOPLE FOR THE BETTERMENT OF THE PLANET](https://open.spotify.com/track/2KIFDLjfHIIkRum4fNmonY) | [Cxrpse](https://open.spotify.com/artist/69B0S7YBt4xKC2HCJMISyv) | [KILLING PEOPLE FOR THE BETTERMENT OF THE PLANET](https://open.spotify.com/album/0pOdTGdqc1p8iizWzoE64G) | 1:54 | 2022-11-25 | 2023-02-04 |
 | [Kingdom](https://open.spotify.com/track/0DfUFmR3IAi6qqXyStk0y9) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Kingdom](https://open.spotify.com/album/0YWKSnXJ6VUlc0rCGdfmZW) | 5:51 | 2022-08-26 | 2024-06-04 |
 | [Know\-Nothing Ingrate](https://open.spotify.com/track/4cjhlFdjALnp8QZ4DnSlC5) | [Six Feet Under](https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI) | [Know\-Nothing Ingrate](https://open.spotify.com/album/3egY0jVJXAwceGEr30GY4Y) | 2:22 | 2024-03-22 | 2025-07-05 |
+| [Krásno](https://open.spotify.com/track/3hwQRPHb7bISgyLooGcv1V) | [Besna](https://open.spotify.com/artist/6ObFKojgIwvXycbRH0lQhA), [Jakub Tirco](https://open.spotify.com/artist/0q1Ueb46rFG29potDJywoU) | [Krásno](https://open.spotify.com/album/0xcHaw8JAslSjSuOlNWKzp) | 4:50 | 2025-07-04 |  |
 | [Ksar Al\-Kufar](https://open.spotify.com/track/209JHbDe9Y5gJkWnVpxmSx) | [Necrowretch](https://open.spotify.com/artist/0cIx910hgtpgvicBJv3ybq) | [Ksar Al\-Kufar](https://open.spotify.com/album/7uxKxIqVeps6DWbaggpNKm) | 4:21 | 2023-12-15 | 2025-03-08 |
 | [L'Envol](https://open.spotify.com/track/49y4jrXiUxJ1XqzUmtcQje) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les Chants de l'Aurore](https://open.spotify.com/album/24nGcIMJdnThRbgxpovlpy) | 8:02 | 2024-07-03 |  |
 | [Labyrinth of Stone](https://open.spotify.com/track/0sIT4kW3fa9jgDOEsIVJJo) | [Fallujah](https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU) | [Labyrinth of Stone](https://open.spotify.com/album/17qNRU2LfnOuZUFmD4LRPY) | 5:45 | 2025-07-04 |  |

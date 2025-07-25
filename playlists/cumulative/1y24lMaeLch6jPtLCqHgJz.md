@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-415 songs - 20 hr 57 min
+416 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [For You](https://open.spotify.com/track/1P9BHeZL8lbQG8k49KMShY) | [Rimnes](https://open.spotify.com/artist/6goEtrCPrw8Xzy9brOmEow) | [For You](https://open.spotify.com/album/7A7EJr3xD9zwD2pk4RgnNf) | 3:31 | 2023-12-15 | 2024-01-10 |
 | [Forever](https://open.spotify.com/track/2ZuyWj6ageq2TqvHdx5WFm) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Forever \(feat\. Crooked Bangs\)](https://open.spotify.com/album/12GplONMUz7ZXOumsh2FWc) | 2:23 | 2023-02-06 | 2023-07-29 |
 | [Freak Out](https://open.spotify.com/track/7nKebovNjReaVLlRsZyPLK) | [Zack Torrez](https://open.spotify.com/artist/28Wd6TGd4pQWRk702jYWbJ), [Larza](https://open.spotify.com/artist/6R2p1HQ7vmhCyLEH9ilRKJ), [Garret](https://open.spotify.com/artist/6MRl1Arw7JPqMXJDqTVrXr), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe) | [For The Love Of Progressive EP 3.0](https://open.spotify.com/album/4uK9gvqTHZl0AhHxsFi9Nc) | 3:09 | 2024-12-12 |  |
+| [Freeze Time \- Cuebrick & Manse Remix](https://open.spotify.com/track/6aIE4b3Ifwxab3nTkU873L) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Alice Berg](https://open.spotify.com/artist/0YdFvpH7MvXv5vBsfGvt7g), [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM) | [Freeze Time \(Cuebrick & Manse Remix\)](https://open.spotify.com/album/0EXrkLNOuJQCvKwfnagQIg) | 3:23 | 2025-07-24 |  |
 | [Gave Up On Me](https://open.spotify.com/track/7MGLho1DPEestpKZiXqQVe) | [Axity](https://open.spotify.com/artist/4TEOItM1eSa55pK44NiEhp), [William Viggo](https://open.spotify.com/artist/3pH7NiFkTXsqSSzfI9kcjd), [Protocol Lab](https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr) | [Gave Up On Me](https://open.spotify.com/album/08kvFZIEdCtbEfr4YJnI2z) | 3:24 | 2025-05-02 |  |
 | [Ghost](https://open.spotify.com/track/0fGFbjbq3cXsdDXxhISEQI) | [Reinn](https://open.spotify.com/artist/2liXii9VDQQTx5kAvF3dIO) | [For The Love Of Progressive EP 2.0](https://open.spotify.com/album/4XaWowqTcNMXCUn98Txb3T) | 4:00 | 2024-09-12 |  |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2024-09-25 |  |

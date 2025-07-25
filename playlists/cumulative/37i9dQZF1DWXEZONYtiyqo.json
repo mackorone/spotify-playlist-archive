@@ -1673,6 +1673,32 @@
     },
     {
       "album": {
+        "name": "Don't Leave (Kylie)",
+        "url": "https://open.spotify.com/album/3fr8O4xvV0CCAipaAkF8ZS"
+      },
+      "artists": [
+        {
+          "name": "Akcent",
+          "url": "https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK"
+        },
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        },
+        {
+          "name": "Misha Miller",
+          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188106,
+      "name": "Don't Leave - Kylie",
+      "url": "https://open.spotify.com/track/3TcF1tFvOdhTUMIaCRBFbN"
+    },
+    {
+      "album": {
         "name": "Dor",
         "url": "https://open.spotify.com/album/0Di16WwT0ga845P9SZKu9v"
       },
@@ -2440,6 +2466,24 @@
       "duration_ms": 190743,
       "name": "Idem",
       "url": "https://open.spotify.com/track/63LTZSnj3GdCVg8Am43CPF"
+    },
+    {
+      "album": {
+        "name": "Iluzie",
+        "url": "https://open.spotify.com/album/1bS1SesVsnfelzOPUAik9M"
+      },
+      "artists": [
+        {
+          "name": "Ruby",
+          "url": "https://open.spotify.com/artist/1kpfvsGkNIdxTAnTRnsKLK"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177916,
+      "name": "Iluzie",
+      "url": "https://open.spotify.com/track/1awMO1eWN1buV4MuLaIaDG"
     },
     {
       "album": {
@@ -3345,6 +3389,28 @@
     },
     {
       "album": {
+        "name": "M\u0103rie",
+        "url": "https://open.spotify.com/album/3peJXWhNsf424R38KOyJwf"
+      },
+      "artists": [
+        {
+          "name": "Cristian Porcari",
+          "url": "https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7"
+        },
+        {
+          "name": "Mark Stam",
+          "url": "https://open.spotify.com/artist/2TfjCSwYNNsUvw3uhjK9mh"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "M\u0103rie",
+      "url": "https://open.spotify.com/track/1H7PkDnUtiAcjBaIXvGENz"
+    },
+    {
+      "album": {
         "name": "Neinten\u021bionat",
         "url": "https://open.spotify.com/album/4W4P0MLEzgp1aHyP8l2dRv"
       },
@@ -3414,7 +3480,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 177600,
       "name": "Nimeni",
       "url": "https://open.spotify.com/track/7vW00drwifTzdfBkBmtFyl"
@@ -4326,7 +4392,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 179104,
       "name": "Prin Bucuresti",
       "url": "https://open.spotify.com/track/0E1Q4Se6b7Y1xehxBtBhVl"
@@ -4996,7 +5062,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 196909,
       "name": "Te-am desenat",
       "url": "https://open.spotify.com/track/0Cuc3pVieq02jC2l7ReUwK"

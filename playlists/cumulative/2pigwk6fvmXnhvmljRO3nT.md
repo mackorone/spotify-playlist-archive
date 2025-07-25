@@ -4,7 +4,7 @@
 
 > 
 
-7,479 songs - 19 day 9 hr 58 min
+7,480 songs - 19 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3894,7 +3894,7 @@
 | [My Sacrifice](https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Weathered](https://open.spotify.com/album/2ENlJXygQX6en4iziijet6) | 4:54 | 2024-12-14 |  |
 | [My Savages](https://open.spotify.com/track/6UgVTEP2WQl1okEuImI8Hg) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Monster](https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q) | 3:24 | 2025-01-03 |  |
 | [My Shit](https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 2:08 | 2024-12-10 |  |
-| [My Song](https://open.spotify.com/track/2EQWbkcNoKPOXQtJM7nqRV) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 4:44 | 2025-01-03 |  |
+| [My Song](https://open.spotify.com/track/2EQWbkcNoKPOXQtJM7nqRV) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 4:44 | 2025-01-03 |  |
 | [My Soul, Your Beats!](https://open.spotify.com/track/4jYQqcYSoYy8iAwB5DloJz) | [Lia](https://open.spotify.com/artist/1Z0sSjjlCFNG4WvU0DUG8t), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [My Soul, Your Beats!/Brave Song](https://open.spotify.com/album/5rn7v6LwXJyliAMpZom8jw) | 4:35 | 2025-01-30 |  |
 | [My Way \(feat\. Monty\)](https://open.spotify.com/track/1WoOzgvz6CgH4pX6a1RKGp) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Monty](https://open.spotify.com/artist/1Wnfj5qZsp8nPsGBBRRa4W) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:33 | 2025-01-03 |  |
 | [My Way \- 2008 Remastered](https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(2008 Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 4:36 | 2025-01-03 |  |
@@ -6629,6 +6629,7 @@
 | [きらり](https://open.spotify.com/track/3ciqhcLmXP4hVGBD98QlEj) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [きらり](https://open.spotify.com/album/1fokTD5rDI2bHnFH1QSbPy) | 3:51 | 2025-01-03 |  |
 | [きらり](https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 3:51 | 2025-01-03 |  |
 | [ここから、ここから](https://open.spotify.com/track/2dzf7W5dhalC2Ap7Xzajk0) | [玉木マリ\(CV:水瀬いのり\)](https://open.spotify.com/artist/4NWpE4yoDn3dZGq7VGZx5x), [小淵沢報瀬\(CV:花澤香菜\)](https://open.spotify.com/artist/1UfJ7p7f2bGcYSkIayANn8), [三宅日向\(CV:井口裕香\)](https://open.spotify.com/artist/7r3cqpsjY440vtROHi8IJL), [白石結月\(CV:早見沙織\)](https://open.spotify.com/artist/0kCAiZgz2lE3XCJNUdWB4c) | [TVアニメ「宇宙よりも遠い場所」エンディングテーマ「ここから、ここから」](https://open.spotify.com/album/3Tr6R0K8QPAmOOEWp8PidI) | 4:36 | 2025-05-23 |  |
+| [このまま夢で feat\. AAAMYYY](https://open.spotify.com/track/7mYt61pj41CSwSiOovNzk0) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [NOTE](https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa) | 3:54 | 2025-07-24 |  |
 | [ごまかし](https://open.spotify.com/track/2xxaEkevNabHj6CDgX0BZT) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Re Bon Voyage](https://open.spotify.com/album/0cFsKEvhK04mcktNzfBv8I) | 4:13 | 2025-01-15 |  |
 | [ずっとずっとずっと](https://open.spotify.com/track/2He9deEfdXYWxnTUi0oOb0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ずっとずっとずっと](https://open.spotify.com/album/0M301Q5tEcjOINfUsJGiyo) | 3:48 | 2025-01-15 |  |
 | [そっけない](https://open.spotify.com/track/2ntXQnx4ZUraj1u5Hwqjem) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF) | 6:32 | 2025-01-15 |  |

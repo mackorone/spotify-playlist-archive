@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "2025 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover:  Rover",
+  "description": "2025 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover:  Billy Choi",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -3290,6 +3290,28 @@
       "duration_ms": 235353,
       "name": "\u516d\u5ea6\u76f8\u9694\u7406\u8ad6",
       "url": "https://open.spotify.com/track/5xPanuB9wjmTaZslFji92G"
+    },
+    {
+      "album": {
+        "name": "\u5206\u624b (Remix)",
+        "url": "https://open.spotify.com/album/2zFWkEEqD2chvQjmoxpTf6"
+      },
+      "artists": [
+        {
+          "name": "Billy Choi",
+          "url": "https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw"
+        },
+        {
+          "name": "Claudia Koh",
+          "url": "https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192209,
+      "name": "\u5206\u624b - Remix",
+      "url": "https://open.spotify.com/track/1I0sJkUcwSAALlKHRtXirN"
     },
     {
       "album": {

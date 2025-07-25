@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Claudia Bouvette
 
-3,416 songs - 7 day 12 hr 34 min
+3,417 songs - 7 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [Confetti \(VF\)](https://open.spotify.com/track/5Avs3gR4TlMVBZMp0YvsHN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti \(VF\)](https://open.spotify.com/album/4VJNLOXqF1aKhk2BIxMeuI) | 3:04 | 2023-05-05 | 2023-06-09 |
 | [confettis \(hey ho hey\)](https://open.spotify.com/track/6XqNQEPsnrRESrG75HJgDt) | [Fovelle](https://open.spotify.com/artist/6LoMfV6BitdhcaKkme41PS), [Ramon Chicharron](https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s), [TDH](https://open.spotify.com/artist/1pFYAdXD5dgTdJBa68uHfq) | [confettis \(hey ho hey\)](https://open.spotify.com/album/0Iil8DzHWziaanaWishAv5) | 2:16 | 2024-06-07 | 2024-06-15 |
 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-10 | 2024-07-06 |
+| [Connectés](https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Dégât](https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4) | 2:38 | 2025-07-18 |  |
 | [CONNEXION](https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [CONNEXION](https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog) | 2:55 | 2024-01-05 | 2024-02-04 |
 | [Conscious Rapper](https://open.spotify.com/track/6eOF8UldTq4hw1OePXRchT) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Conscious Rapper](https://open.spotify.com/album/4D0XzP2BdjFmTBXRZWOXce) | 3:34 | 2024-06-14 | 2024-06-29 |
 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 | 2023-09-22 | 2023-11-18 |
@@ -1997,7 +1998,7 @@
 | [Marée Haute](https://open.spotify.com/track/2euRY17DDcQYzQO3sH4Pro) | [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg) | [Marée Haute](https://open.spotify.com/album/1RD0y2GK4OTiSD3CluNKvT) | 3:47 | 2022-06-17 | 2022-07-02 |
 | [Mascarade \(feat\. Lous and The Yakuza\) \- Radio Edit](https://open.spotify.com/track/45qyXu23cbQYUqfovmA3Yv) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Mascarade \(feat\. Lous and The Yakuza\)](https://open.spotify.com/album/2YR8IS9wuFnWN8qIjXVmd2) | 2:35 | 2022-01-28 | 2022-02-12 |
 | [Massa Den](https://open.spotify.com/track/431YCp0xVRhVoiiDSTsK3d) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Massa Den](https://open.spotify.com/album/4KYwRNKbYvlf3p2KpzhbrA) | 3:30 | 2023-04-14 | 2023-05-20 |
-| [MASTERCLASS](https://open.spotify.com/track/3WTapDvfbfqiYoTFD4AEnE) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [MASTERCLASS](https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF) | 2:50 | 2025-05-09 |  |
+| [MASTERCLASS](https://open.spotify.com/track/3WTapDvfbfqiYoTFD4AEnE) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [MASTERCLASS](https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF) | 2:50 | 2025-05-09 | 2025-07-25 |
 | [Masterpiece](https://open.spotify.com/track/0au6ZQtQNZf6sKl7rK1BoN) | [Clay Scott](https://open.spotify.com/artist/4751jD6ITmr9aYnauAfTwA), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Clay Scott](https://open.spotify.com/album/6MmCYro1YtIJEbzbdiF7QP) | 2:55 | 2023-04-14 | 2023-05-20 |
 | [Mastic](https://open.spotify.com/track/4FTs3CddpHa2XnuY6LYj1G) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [COCO JOJO](https://open.spotify.com/album/2QZYxEoqTwj45Ajifa0hxg) | 3:26 | 2021-12-31 | 2022-01-22 |
 | [Matata](https://open.spotify.com/track/2r8eknpCO79WImm5i9Aaiz) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Matata](https://open.spotify.com/album/6loazP7tFix6vicTNHi2Qs) | 3:26 | 2024-03-29 | 2024-05-25 |

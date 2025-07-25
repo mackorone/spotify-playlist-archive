@@ -2116,6 +2116,24 @@
     {
       "album": {
         "name": "ghost",
+        "url": "https://open.spotify.com/album/6vliE8Wz6FvU7swb7Uemr2"
+      },
+      "artists": [
+        {
+          "name": "Zachary Knowles",
+          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190969,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/4Luf9kGwfb55yB3DTiHswV"
+    },
+    {
+      "album": {
+        "name": "ghost",
         "url": "https://open.spotify.com/album/21dohvigVSO4quwWu1nOrL"
       },
       "artists": [
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 190969,
       "name": "ghost",
       "url": "https://open.spotify.com/track/6v4qTiWdbVtcmyvuEj7Pjr"

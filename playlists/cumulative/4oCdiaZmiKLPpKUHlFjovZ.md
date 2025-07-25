@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring, Ski Mask The Slump God, XXXTENTACION, Money Man &amp; Rio Da Yung Og.
 
-168 songs - 7 hr 26 min
+170 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2023-06-23 | 2024-01-20 |
 | [Let's Go](https://open.spotify.com/track/76TJAFvcsT53qPU0bAR4an) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Let's Go](https://open.spotify.com/album/4D0xJxkAhrO1mFJBDR0UQO) | 2:20 | 2024-01-19 | 2024-04-25 |
 | [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 | 2024-04-24 |  |
+| [Life Is Beautiful](https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:06 | 2025-07-24 |  |
 | [Light It Up](https://open.spotify.com/track/4WqqEI17dnY2UhKrckXyfc) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Light It Up](https://open.spotify.com/album/4l8OSFStfoqtKozWoaOmpO) | 2:15 | 2025-07-11 | 2025-07-16 |
 | [MADE BY RICH GOD](https://open.spotify.com/track/24Qa5EPrnrbvHoiEfbzf02) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [MADE BY RICH GOD](https://open.spotify.com/album/5S9y8ypcsF1gncyr6fQ1mJ) | 1:54 | 2024-06-01 | 2025-02-01 |
 | [Major \(feat\. Key Glock\)](https://open.spotify.com/track/3Yt2ph8Ko0JBANpdawzSF2) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Role Model](https://open.spotify.com/album/27YzHBsMfq6RvPQxWiK9sC) | 3:15 | 2024-01-19 |  |
@@ -126,6 +127,7 @@
 | [Players Holiday '25 \(feat\. Larry June, Kamaiyah, Saweetie, LaRussell, G\-Eazy, thủy & Ymtk\)](https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [YMTK](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV) | [Players Holiday '25 \(feat\. Larry June, Kamaiyah, Saweetie, LaRussell, G\-Eazy, thủy & Ymtk\)](https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy) | 3:45 | 2024-11-18 |  |
 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 | 2024-11-18 |  |
 | [Pressure](https://open.spotify.com/track/4FYhPppqSSvjmi46jWOhjM) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Wait, There's More](https://open.spotify.com/album/3lalL7rvTnf3QAKbqraKBJ) | 3:17 | 2024-04-24 | 2025-03-05 |
+| [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 | 2025-07-24 |  |
 | [Psilocybin](https://open.spotify.com/track/4yiMqpWedLgroh2cGXcT2v) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Psilocybin](https://open.spotify.com/album/2a2X4S69knPtrLufy84coS) | 2:18 | 2023-09-29 | 2025-02-01 |
 | [Psilocybin](https://open.spotify.com/track/6VEEzKXbaLIzRjCYXYlzi6) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [GHETTO](https://open.spotify.com/album/0aLRZQl5n4zKvejDignqyK) | 2:18 | 2023-10-13 | 2024-06-15 |
 | [raise your hands](https://open.spotify.com/track/3IEALkYIYBPaJQka035lCX) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [310degrees](https://open.spotify.com/album/13AhshxPGH647ftmQdhSdv) | 1:28 | 2024-10-10 | 2025-02-01 |

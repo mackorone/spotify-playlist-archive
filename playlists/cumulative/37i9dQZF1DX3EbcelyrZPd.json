@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Platform",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jux",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -5965,6 +5965,24 @@
     },
     {
       "album": {
+        "name": "MVUA",
+        "url": "https://open.spotify.com/album/2IqvrWY8WnDmcy5kaj3zbl"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198736,
+      "name": "MVUA",
+      "url": "https://open.spotify.com/track/3WtzLuNn57NdACSZchtit3"
+    },
+    {
+      "album": {
         "name": "The Evolution",
         "url": "https://open.spotify.com/album/4s92V0ea3iKn1qVJed1AsI"
       },
@@ -7622,7 +7640,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 242033,
       "name": "No One",
       "url": "https://open.spotify.com/track/12mDXHABGzTSBPoLB0A6Wm"
@@ -9943,6 +9961,24 @@
     },
     {
       "album": {
+        "name": "THANK YOU",
+        "url": "https://open.spotify.com/album/6FEI0UTWUmRe9WYSMu6UBp"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173880,
+      "name": "THANK YOU",
+      "url": "https://open.spotify.com/track/4Oc9isOrrbdR2I93JMsOc9"
+    },
+    {
+      "album": {
         "name": "This Love",
         "url": "https://open.spotify.com/album/5QBvP8LsJEAVTp4dohusx2"
       },
@@ -11656,7 +11692,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 191489,
       "name": "Yule - Remix",
       "url": "https://open.spotify.com/track/7t4SpN8c927O7Y3ymBsXnG"

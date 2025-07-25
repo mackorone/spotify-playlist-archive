@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH7UgAAAAADUBDCsZHDZSpjKgImdiTd5",
+  "snapshot_id": "aIAmAAAAAABHIg/Oq5371l24gg0ejV51",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perdidos",
+        "url": "https://open.spotify.com/album/7LqMN0wuOj2BD6wfFjuAIN"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 182204,
+      "name": "Corrido",
+      "url": "https://open.spotify.com/track/17h52G05P7ciWya6HQXALG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Toque M\u00e1gico",
         "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdidos",
-        "url": "https://open.spotify.com/album/7LqMN0wuOj2BD6wfFjuAIN"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 188786,
-      "name": "Blues del Borracho",
-      "url": "https://open.spotify.com/track/09Laz5xAi1PJYIMhXima4r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tex Tex 3",
         "url": "https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H"
       },
@@ -499,22 +499,6 @@
       "duration_ms": 194246,
       "name": "Ya Te Rogue",
       "url": "https://open.spotify.com/track/3lBWJL1zvWsmLml9uiBjmp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
-        "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 264480,
-      "name": "Dinero - En Vivo",
-      "url": "https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ"
     },
     {
       "added_at": null,
@@ -544,9 +528,25 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 182204,
-      "name": "Corrido",
-      "url": "https://open.spotify.com/track/17h52G05P7ciWya6HQXALG"
+      "duration_ms": 188786,
+      "name": "Blues del Borracho",
+      "url": "https://open.spotify.com/track/09Laz5xAi1PJYIMhXima4r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
+        "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 264480,
+      "name": "Dinero - En Vivo",
+      "url": "https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00fabete al Tren",
-        "url": "https://open.spotify.com/album/6scq5eOKVsFPlzmgZtjdxC"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "Fast Food",
-      "url": "https://open.spotify.com/track/5tZQcnx2HRbeRwBp8P24U9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rebel Cats Y Sus Amigos",
         "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00fabete al Tren",
+        "url": "https://open.spotify.com/album/6scq5eOKVsFPlzmgZtjdxC"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "Fast Food",
+      "url": "https://open.spotify.com/track/5tZQcnx2HRbeRwBp8P24U9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "*86",
         "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 228920,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/6xzN2GeFUEzrCobeGICtFz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Toque M\u00e1gico",
+        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "Ahora Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/5yAxyJy2Q94AJM2NKlsYZK"
     },
     {
       "added_at": null,
@@ -807,22 +823,6 @@
       "duration_ms": 311760,
       "name": "Funky, Pt. 1 - En Vivo",
       "url": "https://open.spotify.com/track/5gYOs5IL03sXdbsYT58xeI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Toque M\u00e1gico",
-        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 167706,
-      "name": "Ahora Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/5yAxyJy2Q94AJM2NKlsYZK"
     }
   ],
   "unique_name": "This Is Tex Tex",

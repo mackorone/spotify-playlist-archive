@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: LEX
 
-1,816 songs - 3 day 20 hr 25 min
+1,818 songs - 3 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1243,6 +1243,7 @@
 | [ROYAL FLUSH](https://open.spotify.com/track/0Htze74vxmlDlgwXYkownT) | [MARU](https://open.spotify.com/artist/5X1eK77oLGeWOEwJVOYGKg), [GOTIT](https://open.spotify.com/artist/2WpoGvKZpFZmgrGbbNEoxR), [I\-SET\-I](https://open.spotify.com/artist/0ZLIdOlHwRo8AfwleOyFxd), [WOODSMAN](https://open.spotify.com/artist/1sFJ34m5sLOI1oGdwaaxbq), [CHOICE](https://open.spotify.com/artist/1Nry2ZCKoR1DxZB00m8GuZ) | [PLAY THE GAME](https://open.spotify.com/album/6yuFhqEVTS5ICyAuYdR1tw) | 4:25 | 2025-02-12 | 2025-02-19 |
 | [RTTB Freestyle](https://open.spotify.com/track/0unxgpb5GGdx1y8ahOIYG3) | [L.O.S.T](https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV), [M3R](https://open.spotify.com/artist/0YjscyVinO9rRbTTRSHIUm), [ROBBIN](https://open.spotify.com/artist/1KGG30JmCcnQ1OiqhbxIbB) | [RTTB Freestyle](https://open.spotify.com/album/6YqH9Oa6IHq0BREeImxOei) | 1:59 | 2024-08-26 | 2024-10-02 |
 | [Rumination](https://open.spotify.com/track/4Hcgda1Xfhh9g5LpzEcvdw) | [ZAKINO](https://open.spotify.com/artist/6DFJacprZITt6mRXR6KGnI), [miffrino](https://open.spotify.com/artist/0Nkjj09OavnMp7iah0YtRT), [NAGAN SERVER](https://open.spotify.com/artist/0pY8tTGXwN1CvSlIcmNHKx) | [2](https://open.spotify.com/album/6kZzlZDhlsuaHjTtKUPsNH) | 3:48 | 2025-05-28 | 2025-06-04 |
+| [Run \(feat\. Gottz & MUD\)](https://open.spotify.com/track/3li8S07E2MCMXzPWnPwuDI) | [Gottz ＆ MUD](https://open.spotify.com/artist/3Ieu7FyYG3wYUb4NB2abjg), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Run \(feat\. Gottz & MUD\)](https://open.spotify.com/album/4sTy8jrVBAhPtGcy403KAV) | 3:00 | 2025-07-25 |  |
 | [Run From My Pain](https://open.spotify.com/track/5rHG1sGaBJoewM5DqRQvKT) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB), [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F) | [Run From My Pain](https://open.spotify.com/album/1q5ZFnLdqKd8kzKd46KvwW) | 3:02 | 2023-12-26 | 2023-12-30 |
 | [Run From My Pain](https://open.spotify.com/track/6Jj0C8PFJoTzcfIo4GW4my) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB), [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F) | [Run From My Pain](https://open.spotify.com/album/6yP4FqzPk8cnLzToGv8Kza) | 3:02 | 2023-12-28 | 2024-01-12 |
 | [Run it](https://open.spotify.com/track/0z2xLndFODvkbD1Q7x33pZ) | [LazyWii](https://open.spotify.com/artist/7uHOum5FsgkGwkc2UfdkSL), [Kojoe](https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu) | [NICETY \(Deluxe\)](https://open.spotify.com/album/0S0ppafw7E8YEWfcDE5FYN) | 3:52 | 2025-03-04 | 2025-03-19 |
@@ -1546,6 +1547,7 @@
 | [Voxers](https://open.spotify.com/track/7iyCCy5g5NgEcyyN2gCkiz) | [COE Choppa Capone](https://open.spotify.com/artist/5HRfZ3oZtnwaaYSt5hge5S) | [PARAVOX \-Original Soundtrack\-](https://open.spotify.com/album/3oF0RgyvgqVX3QxID3H2rQ) | 1:53 | 2025-03-13 | 2025-04-02 |
 | [VVS PRIDE](https://open.spotify.com/track/55JY5TGyXVGUH3kJFfLwIF) | [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq) | [VVS PRIDE](https://open.spotify.com/album/3NOBi1pKIrl9OYwagsciVf) | 2:45 | 2024-07-23 | 2024-08-16 |
 | [W](https://open.spotify.com/track/5mCXfhRYeuwzA74b3DKDVE) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [W](https://open.spotify.com/album/48KNeBoDvYOSXaaWzk27kX) | 3:19 | 2025-03-04 | 2025-03-19 |
+| [W.A.Y.N.Y.S/Wayny Vibes, Lil Wayny](https://open.spotify.com/track/6qLPdD3s2BKLWC1eXMT5f2) | [WAYNYS](https://open.spotify.com/artist/03SftY6vwKPSwjG9EiSeuG) | [W.A.Y.N.Y.S](https://open.spotify.com/album/6t0X7J8r7PQ8d9yQXkQmbI) | 3:00 | 2025-07-25 |  |
 | [wait4me](https://open.spotify.com/track/31aK27LYNykyLlSnZxQU5i) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB), [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [Memo](https://open.spotify.com/album/5T1R5hlk0mAt4uaBmxGrdw) | 3:07 | 2024-01-24 | 2024-02-21 |
 | [wait4me](https://open.spotify.com/track/61CqHbAAZ3gKo6VtIZqRW7) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB), [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [Memo](https://open.spotify.com/album/6O0mwea9nUXcOtWv1jN3pj) | 3:07 | 2024-01-23 | 2024-01-25 |
 | [WAKE UP \(feat\. ROAR\)](https://open.spotify.com/track/4S5NUHDQni0UwYowWkqqvj) | [rirugiliyangugili](https://open.spotify.com/artist/2ojo5MBGfvdfO3Iql07wu9), [ROAR](https://open.spotify.com/artist/2uXVymFjJxoA4W2aXtBUUy) | [WAKE UP \(feat\. ROAR\)](https://open.spotify.com/album/0ntKRQqWLISoRPVTbGNhbC) | 2:23 | 2025-02-04 | 2025-02-12 |

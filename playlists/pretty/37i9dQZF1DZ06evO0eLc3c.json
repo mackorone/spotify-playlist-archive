@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 52095,
+  "num_followers": 52115,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH7UgAAAAADtN9PcCs+HDmWkhi95e4XW",
+  "snapshot_id": "aIAmAAAAAABN29fZZmFsV2IqI0dwJrUu",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 293280,
-      "name": "Wing",
-      "url": "https://open.spotify.com/track/3CKLNsnMOpi4yPZepcHDth"
+      "duration_ms": 257903,
+      "name": "Dead To The World",
+      "url": "https://open.spotify.com/track/4mJvTXNFDhmUkUIpokZ314"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 257903,
-      "name": "Dead To The World",
-      "url": "https://open.spotify.com/track/4mJvTXNFDhmUkUIpokZ314"
+      "duration_ms": 293280,
+      "name": "Wing",
+      "url": "https://open.spotify.com/track/3CKLNsnMOpi4yPZepcHDth"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 290543,
-      "name": "Up There Down There",
-      "url": "https://open.spotify.com/track/3G1qf3HSMxuTpOrTfh3TPt"
+      "duration_ms": 331103,
+      "name": "The Jackson Song",
+      "url": "https://open.spotify.com/track/6Ijgxl0HgCMHqB4gae0T1x"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 331103,
-      "name": "The Jackson Song",
-      "url": "https://open.spotify.com/track/6Ijgxl0HgCMHqB4gae0T1x"
+      "duration_ms": 290543,
+      "name": "Up There Down There",
+      "url": "https://open.spotify.com/track/3G1qf3HSMxuTpOrTfh3TPt"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 244031,
-      "name": "Wild Leaves",
-      "url": "https://open.spotify.com/track/057qO32zoehoIz6lKdvP3t"
+      "duration_ms": 468863,
+      "name": "Where Duty Calls",
+      "url": "https://open.spotify.com/track/3kdwpUPHqdjUJwkYUUaHSI"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Pumping",
-      "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trampin'",
         "url": "https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 309493,
       "name": "Peaceable Kingdom",
       "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Pumping",
+      "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Distant Fingers",
-      "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hey Joe / Piss Factory",
         "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 281026,
       "name": "Piss Factory",
       "url": "https://open.spotify.com/track/5KLKSxNQQqg8hOaHVqEwuk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Distant Fingers",
+      "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "These Are The Words (From \"Pope Francis: A Man of His Word\")",
+        "url": "https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 265293,
+      "name": "These Are The Words - From \"Pope Francis: A Man of His Word\"",
+      "url": "https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Radio Ethiopia",
         "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "These Are The Words (From \"Pope Francis: A Man of His Word\")",
-        "url": "https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 265293,
-      "name": "These Are The Words - From \"Pope Francis: A Man of His Word\"",
-      "url": "https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Banga",
         "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
       },
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 426466,
-      "name": "Poppies",
-      "url": "https://open.spotify.com/track/6Y2b9a0krc2a0nQEnAWRZE"
+      "duration_ms": 312440,
+      "name": "Citizen Ship",
+      "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
     }
   ],
   "unique_name": "This Is Patti Smith",

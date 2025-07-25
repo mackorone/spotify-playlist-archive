@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat  🔁  Marco Mengoni, Rkomi e Sayf in cover
+> I brani italiani che abbiamo on repeat  🔁  Samurai Jay in cover
 
-344 songs - 17 hr 31 min
+345 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Mezzo secondo](https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Mezzo secondo](https://open.spotify.com/album/0X7Cr7xdDJigfJti8X0j49) | 3:26 | 2024-07-01 | 2024-09-20 |
 | [Mi Ami Mi Odi](https://open.spotify.com/track/1oHT9T42XDgyL2cOWEkfXu) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Mi Ami Mi Odi](https://open.spotify.com/album/2TPANvT33Btxc1596fjAwe) | 3:31 | 2025-04-03 |  |
 | [Milano](https://open.spotify.com/track/553jvkYRVqqgzuPRLOcZCG) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Milano](https://open.spotify.com/album/4aUkFfFxRJxakxSsvuWtdO) | 3:27 | 2025-03-06 | 2025-03-21 |
-| [Milano Baby \(feat\. Joan Thiele\)](https://open.spotify.com/track/5ccDm3bBhSgU2z9W5n6pLM) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Mentre Los Angeles Brucia](https://open.spotify.com/album/2O1iWxwf8rcqR6SYksKSb1) | 3:49 | 2025-06-26 |  |
+| [Milano Baby \(feat\. Joan Thiele\)](https://open.spotify.com/track/5ccDm3bBhSgU2z9W5n6pLM) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Mentre Los Angeles Brucia](https://open.spotify.com/album/2O1iWxwf8rcqR6SYksKSb1) | 3:49 | 2025-06-26 | 2025-07-25 |
 | [Mille Notti](https://open.spotify.com/track/0Jp5rqBHsyyAtNrjCodjDj) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Mille Notti](https://open.spotify.com/album/6YOMnbetcTF9tp8Nei72Zd) | 2:53 | 2024-08-01 | 2024-12-06 |
 | [Mille Problemi \(feat\. Irama, Joshua, Tormento\)](https://open.spotify.com/track/20RGXOQnS7sWMJyRGluLa1) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [Manifesto](https://open.spotify.com/album/0SgiOs3fQQ3Rw6oj4nfeIF) | 3:10 | 2025-07-03 |  |
 | [MILLE VOTE ANCORA](https://open.spotify.com/track/3BJ5P3bL0Q8OUemXVwjucQ) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [MILLE VOTE ANCORA](https://open.spotify.com/album/2p5SxGXydxUaria6k51asC) | 3:12 | 2025-02-12 | 2025-05-30 |
@@ -259,6 +259,7 @@
 | [Popolare](https://open.spotify.com/track/4SNJQnHUMKnVt2Zb6Ge5IQ) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Popolare](https://open.spotify.com/album/395qqtbnGrzuSND5MwXwfa) | 2:25 | 2025-05-26 |  |
 | [POSTI VUOTI](https://open.spotify.com/track/3bXpBkWuxmutEWvTqAIdaz) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [POSTI VUOTI](https://open.spotify.com/album/46XsHt96qs6Z1dsdkw0eRC) | 3:16 | 2024-10-24 | 2025-02-12 |
 | [POSTO MIO](https://open.spotify.com/track/3Npk1eTTxSkRNYet4PW2yY) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [CASA GOSPEL](https://open.spotify.com/album/0kmMczYmvnPMU45OhnStJh) | 3:20 | 2024-12-13 | 2025-04-25 |
+| [Pretty Girl](https://open.spotify.com/track/3YeRgjA4ECkbmpCbVJGLJc) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Pretty Girl](https://open.spotify.com/album/7iAHmVwut5poPWisZw8ZZD) | 2:38 | 2025-07-24 |  |
 | [PRONTO COME VA](https://open.spotify.com/track/6CvJtmzjDkWCeGt4nT2l1O) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [PRONTO COME VA](https://open.spotify.com/album/7GYhXN89GS5QQBqd1xv62f) | 2:57 | 2025-05-15 |  |
 | [PUNK LOVE STORIA](https://open.spotify.com/track/76axnsywKEligswiOVYW2M) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv) | 3:15 | 2024-10-17 | 2025-01-03 |
 | [pupille](https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [pupille](https://open.spotify.com/album/7JTUUekkfQj1HkQhbGVugt) | 2:49 | 2024-08-29 | 2024-10-18 |

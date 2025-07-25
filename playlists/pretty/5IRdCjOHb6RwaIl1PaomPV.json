@@ -1,13 +1,141 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. Featuring new music from TDJ and Kablito, plus the latest cuts from Eartheater and ALCATRAZ.",
-  "num_followers": 50818,
+  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Joon Gloom and Miss Madeline &amp; Chase Icon, plus the latest cuts from Clara Kimera \u00actinbed, TDJ, and more.",
+  "num_followers": 50817,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAc96ljnR10xb7aIqC4+0+8njchfQLJ",
+  "snapshot_id": "AAAdCCv9BJG41fOVV7LYn+ikMnmlRvgy",
   "tracks": [
+    {
+      "added_at": "2025-07-24 21:44:30",
+      "album": {
+        "name": "Joker",
+        "url": "https://open.spotify.com/album/6vndf1r9x2NuLwgo5ItjdG"
+      },
+      "artists": [
+        {
+          "name": "Joon Gloom",
+          "url": "https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu"
+        }
+      ],
+      "duration_ms": 201972,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/6FmaQ1FesE0j6Au0Kh9LOb"
+    },
+    {
+      "added_at": "2025-07-24 21:44:26",
+      "album": {
+        "name": "\u00c6RO",
+        "url": "https://open.spotify.com/album/61vLkSuJkjpk692UHjAgMW"
+      },
+      "artists": [
+        {
+          "name": "yaego",
+          "url": "https://open.spotify.com/artist/3F5cNbKjtYHvv43yu5BhKp"
+        }
+      ],
+      "duration_ms": 181656,
+      "name": "musica electronica",
+      "url": "https://open.spotify.com/track/259kNeFoQp9TyTZdDBBznX"
+    },
+    {
+      "added_at": "2025-07-24 21:44:32",
+      "album": {
+        "name": "STRAWBERRY LEMONADE",
+        "url": "https://open.spotify.com/album/4pWoMdeKkPNZVoZouJCtDm"
+      },
+      "artists": [
+        {
+          "name": "Miss Madeline",
+          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
+        },
+        {
+          "name": "Chase Icon",
+          "url": "https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ"
+        }
+      ],
+      "duration_ms": 188806,
+      "name": "STILLETTO PUMPS IN THE POOL",
+      "url": "https://open.spotify.com/track/0BF6uBRfBi5MtfvSJVMidl"
+    },
+    {
+      "added_at": "2025-07-24 21:45:09",
+      "album": {
+        "name": "angel candles",
+        "url": "https://open.spotify.com/album/5nVv2lLlDlzEREyU2wnTiZ"
+      },
+      "artists": [
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        },
+        {
+          "name": "notinbed",
+          "url": "https://open.spotify.com/artist/0e7T2sPaxQSpePLh4AhMg8"
+        }
+      ],
+      "duration_ms": 129595,
+      "name": "angel candles",
+      "url": "https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq"
+    },
+    {
+      "added_at": "2025-07-24 21:45:15",
+      "album": {
+        "name": "no one belongs here more than you",
+        "url": "https://open.spotify.com/album/5Q4RAPlCuk2l3FyIYwie49"
+      },
+      "artists": [
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        },
+        {
+          "name": "notinbed",
+          "url": "https://open.spotify.com/artist/0e7T2sPaxQSpePLh4AhMg8"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "no one belongs here more than you",
+      "url": "https://open.spotify.com/track/7po0gVTO9jOCYmBNuXoGNk"
+    },
+    {
+      "added_at": "2025-07-24 21:45:30",
+      "album": {
+        "name": "Eteus",
+        "url": "https://open.spotify.com/album/43XncZ8pkqtqKFaO6Mk1xP"
+      },
+      "artists": [
+        {
+          "name": "not even noticed",
+          "url": "https://open.spotify.com/artist/2pAV7s3FEruu2LJW6JQGFo"
+        }
+      ],
+      "duration_ms": 273529,
+      "name": "Eteus",
+      "url": "https://open.spotify.com/track/7vcbfLcTMpI4pxPQMQNdWf"
+    },
+    {
+      "added_at": "2025-07-24 21:45:43",
+      "album": {
+        "name": "HELSINKI HARDCORE",
+        "url": "https://open.spotify.com/album/2mEz2Ia0pUEwRNxOcI5WFM"
+      },
+      "artists": [
+        {
+          "name": "Glayden",
+          "url": "https://open.spotify.com/artist/5GsNEQd9Q8J3Yi721r1Tsj"
+        },
+        {
+          "name": "Paul Seul",
+          "url": "https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi"
+        }
+      ],
+      "duration_ms": 216372,
+      "name": "4 THE HARDCORE",
+      "url": "https://open.spotify.com/track/2ariTzgOy9LW7FoHgC8xbk"
+    },
     {
       "added_at": "2025-06-27 16:41:24",
       "album": {
@@ -41,7 +169,7 @@
         },
         {
           "name": "Busu",
-          "url": "https://open.spotify.com/artist/5e8GCP3fIVdnQmLWt69X0U"
+          "url": "https://open.spotify.com/artist/0dO6OEk896aswa3orK3zVG"
         }
       ],
       "duration_ms": 187777,
@@ -1377,26 +1505,6 @@
       "url": "https://open.spotify.com/track/4mwswlM0HATHu9SabiiXiY"
     },
     {
-      "added_at": "2025-03-07 22:46:40",
-      "album": {
-        "name": "The Hurtless",
-        "url": "https://open.spotify.com/album/5Ds7ysplk7bMOVwWv4UnfN"
-      },
-      "artists": [
-        {
-          "name": "Harto Fali\u00f3n",
-          "url": "https://open.spotify.com/artist/0wAEYYaHOqYJhHaSvpZUwP"
-        },
-        {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
-        }
-      ],
-      "duration_ms": 89806,
-      "name": "Like Lain",
-      "url": "https://open.spotify.com/track/22Hyu44S9WlUAE6EHCmS8z"
-    },
-    {
       "added_at": "2025-03-07 22:47:04",
       "album": {
         "name": "LomeLaval",
@@ -1453,26 +1561,6 @@
       "url": "https://open.spotify.com/track/4zhTF6LpMWHPuXWY8mNrY7"
     },
     {
-      "added_at": "2025-02-14 16:22:43",
-      "album": {
-        "name": "afraid (feat. nate sib)",
-        "url": "https://open.spotify.com/album/3wUZg9qN8bFDXHh109BaOv"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        },
-        {
-          "name": "nate sib",
-          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "afraid (feat. nate sib)",
-      "url": "https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G"
-    },
-    {
       "added_at": "2025-02-14 16:24:36",
       "album": {
         "name": "Halo",
@@ -1523,90 +1611,6 @@
       "duration_ms": 168226,
       "name": "cherry cola",
       "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
-    },
-    {
-      "added_at": "2024-11-16 01:04:49",
-      "album": {
-        "name": "never goes away",
-        "url": "https://open.spotify.com/album/1QXYV1u9xU4bPP3FmimTzb"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 235880,
-      "name": "never goes away",
-      "url": "https://open.spotify.com/track/2jcHQX9RCMAl0PgioVMC0a"
-    },
-    {
-      "added_at": "2025-01-25 23:36:11",
-      "album": {
-        "name": "BIMYOU (Remixes)",
-        "url": "https://open.spotify.com/album/2tyZMOtWrxFlGQVpw3EqGt"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        },
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        }
-      ],
-      "duration_ms": 182319,
-      "name": "take your vibes and go - Taiki Nulight Remix",
-      "url": "https://open.spotify.com/track/1gHKO4NhJgzwNMDnYHs0y1"
-    },
-    {
-      "added_at": "2024-12-18 18:26:26",
-      "album": {
-        "name": "take your vibes and go (DJ ADHD & Chlo\u00e9 Robinson Remix)",
-        "url": "https://open.spotify.com/album/4rV58lqDzRYmLD1ToaqL06"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        },
-        {
-          "name": "DJ ADHD",
-          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
-        },
-        {
-          "name": "Chlo\u00e9 Robinson",
-          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "take your vibes and go - DJ ADHD & Chlo\u00e9 Robinson Remix",
-      "url": "https://open.spotify.com/track/1P5uvuPPTtbG8gPfWuODtq"
     },
     {
       "added_at": "2025-01-27 00:38:02",
@@ -1711,38 +1715,6 @@
       "duration_ms": 88275,
       "name": "under your spell - opium remix",
       "url": "https://open.spotify.com/track/5lJpGEs6n6bDixr48LpCWH"
-    },
-    {
-      "added_at": "2025-01-25 23:36:05",
-      "album": {
-        "name": "Nuclear Daisies",
-        "url": "https://open.spotify.com/album/0C7POl3J3CmtKZvuDScWiF"
-      },
-      "artists": [
-        {
-          "name": "Nuclear Daisies",
-          "url": "https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Heaven in Your Head",
-      "url": "https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF"
-    },
-    {
-      "added_at": "2025-01-25 23:36:19",
-      "album": {
-        "name": "When You Sleep",
-        "url": "https://open.spotify.com/album/1VPAKIvzR4qGR9fxnk0iHc"
-      },
-      "artists": [
-        {
-          "name": "Pastel Ghost",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-        }
-      ],
-      "duration_ms": 244153,
-      "name": "When You Sleep",
-      "url": "https://open.spotify.com/track/1hbciWy4syeBJeWubluRoX"
     },
     {
       "added_at": "2024-12-18 18:26:41",

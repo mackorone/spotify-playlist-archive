@@ -22177,6 +22177,24 @@
     },
     {
       "album": {
+        "name": "Nordhemsgatan leder rakt in i himlen",
+        "url": "https://open.spotify.com/album/5LxzOjxSKOHTXsIPltxaRZ"
+      },
+      "artists": [
+        {
+          "name": "Nisse Hasselgren",
+          "url": "https://open.spotify.com/artist/4v5w0Jq7clg8opEwcfrGs2"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279563,
+      "name": "Nordhemsgatan leder rakt in i himlen",
+      "url": "https://open.spotify.com/track/3sScQoU8Ak03HNpwU5EQpx"
+    },
+    {
+      "album": {
         "name": "NOSTALGI",
         "url": "https://open.spotify.com/album/4yLwv3kbaczSeyrbdXin8U"
       },
@@ -31706,7 +31724,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 181042,
       "name": "Tills idag",
       "url": "https://open.spotify.com/track/6VS8Y3icddJzgUPHgM35Ds"

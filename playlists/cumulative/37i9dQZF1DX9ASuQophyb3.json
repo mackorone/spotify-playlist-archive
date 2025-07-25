@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Murat Dalk\u0131l\u0131\u00e7",
+  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: EDIS x Zeynep Bast\u0131k ",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -180,7 +180,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 165266,
       "name": "Akl\u0131m Hep Onda",
       "url": "https://open.spotify.com/track/3e95JlOEKVfoebYjEFC5Dj"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 257000,
       "name": "Akl\u0131m Seferde",
       "url": "https://open.spotify.com/track/6tSElGbzRF94AguIjnJC8G"
@@ -488,6 +488,24 @@
       "duration_ms": 218000,
       "name": "A\u015fk\u0131n Ad\u0131",
       "url": "https://open.spotify.com/track/0GzQCRy3OdLENn7tNlhFQn"
+    },
+    {
+      "album": {
+        "name": "A\u015fk\u0131na Destan",
+        "url": "https://open.spotify.com/album/2taY4vXAx90UqNiXyWNOKj"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Sandal",
+          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174036,
+      "name": "A\u015fk\u0131na Destan",
+      "url": "https://open.spotify.com/track/215Fb7rnOHnXlgdF6kzMBc"
     },
     {
       "album": {
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 159633,
       "name": "Duymuyor Beni",
       "url": "https://open.spotify.com/track/5WW1DoKTUataphGlJZNRUq"
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 153375,
       "name": "Han\u00e7er",
       "url": "https://open.spotify.com/track/3czQaxqJhJeFiSg8cyDdYY"
@@ -3317,6 +3335,24 @@
     },
     {
       "album": {
+        "name": "M\u0131h Gibi",
+        "url": "https://open.spotify.com/album/6771ksAfxojdZl7NllEkuI"
+      },
+      "artists": [
+        {
+          "name": "Zakkum",
+          "url": "https://open.spotify.com/artist/70Ya7DKJEo20SAkxjirYnu"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229942,
+      "name": "M\u0131h Gibi",
+      "url": "https://open.spotify.com/track/1BnnKXbwzzzTopN0WbLIVk"
+    },
+    {
+      "album": {
         "name": "N'olur Anla",
         "url": "https://open.spotify.com/album/6CEmCMIgMRC8xpscUgE8if"
       },
@@ -3995,6 +4031,46 @@
     },
     {
       "album": {
+        "name": "Seni D\u00fc\u015f\u00fcnd\u00fcm",
+        "url": "https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH"
+      },
+      "artists": [
+        {
+          "name": "\u00c7a\u011fla",
+          "url": "https://open.spotify.com/artist/6z5LOKPoOll2mbBqsQrMqp"
+        },
+        {
+          "name": "Do\u011fu Swag",
+          "url": "https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196857,
+      "name": "Seni D\u00fc\u015f\u00fcnd\u00fcm",
+      "url": "https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr"
+    },
+    {
+      "album": {
+        "name": "Seni G\u00f6rmeden",
+        "url": "https://open.spotify.com/album/2lhuxO6JhzcQ0KEFcEY2eM"
+      },
+      "artists": [
+        {
+          "name": "Sezer Sar\u0131g\u00f6z",
+          "url": "https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147586,
+      "name": "Seni G\u00f6rmeden",
+      "url": "https://open.spotify.com/track/3iI4EZW4zQ755c5hKPE5ab"
+    },
+    {
+      "album": {
         "name": "Seni Seven Kimdi",
         "url": "https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML"
       },
@@ -4154,7 +4230,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 152050,
       "name": "Sevda Treni",
       "url": "https://open.spotify.com/track/1E14MPC2yAEbABOqVf4U0n"
@@ -4545,6 +4621,24 @@
     },
     {
       "album": {
+        "name": "Varsa Yoksa Sen",
+        "url": "https://open.spotify.com/album/4xr8EGXGnQyZyas2w0oVaJ"
+      },
+      "artists": [
+        {
+          "name": "Erol Evgin",
+          "url": "https://open.spotify.com/artist/6zzBsqAEDo53s2dSeZzWvo"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190390,
+      "name": "Varsa Yoksa Sen",
+      "url": "https://open.spotify.com/track/1W6C0vA1499mHFIBfwVemk"
+    },
+    {
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4XjYiO58q1YBE31SNDh6g5"
       },
@@ -4785,6 +4879,28 @@
     },
     {
       "album": {
+        "name": "YAPAR MISIN?",
+        "url": "https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC"
+      },
+      "artists": [
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        },
+        {
+          "name": "Murat Boz",
+          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157948,
+      "name": "YAPAR MISIN?",
+      "url": "https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8"
+    },
+    {
+      "album": {
         "name": "Yarem",
         "url": "https://open.spotify.com/album/2cVkr3JnyqqACqhK4s0wm4"
       },
@@ -4919,6 +5035,28 @@
     },
     {
       "album": {
+        "name": "Yatakta Kardiyo",
+        "url": "https://open.spotify.com/album/6cvnpW0P8x9KKjYA0dSdsF"
+      },
+      "artists": [
+        {
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
+        },
+        {
+          "name": "Zeynep Bast\u0131k",
+          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207171,
+      "name": "Yatakta Kardiyo",
+      "url": "https://open.spotify.com/track/676VUuntnKLSYPeQCadLAU"
+    },
+    {
+      "album": {
         "name": "Yaz\u0131k",
         "url": "https://open.spotify.com/album/1188ZVfe2Bte1RZWKzZChy"
       },
@@ -4966,7 +5104,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 226920,
       "name": "Ya\u015fayal\u0131m Hemen!",
       "url": "https://open.spotify.com/track/7oDmKzzYltDonIhmlBtkp1"

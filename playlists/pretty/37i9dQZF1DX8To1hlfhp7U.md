@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,018 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,034 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 46 | [Tell Me Honestly](https://open.spotify.com/track/2vYOc06QkjMCSQjpf7hISL) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Tell Me Honestly](https://open.spotify.com/album/3JpW1WY2iNxgVGUNQFw37S) | 3:45 |
 | 47 | [Drivery](https://open.spotify.com/track/0FM03KSpwsiW8i8OUmqI0D) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Drivery](https://open.spotify.com/album/2cGxd3OOROZQYmSG4mEMI9) | 3:03 |
 | 48 | [Nakhreya Mari](https://open.spotify.com/track/5ysIp2rJDfWkXVsYAMisa9) | [DJ Sanj](https://open.spotify.com/artist/1kfqHPfj8yygKGMD3NrDE5), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [American Desi 2](https://open.spotify.com/album/3B8IuIAIkLnBxvtmqC0yXO) | 2:59 |
-| 49 | [BROSKI](https://open.spotify.com/track/3pliB4yT7hYbwBI6qycYtg) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [BROSKI](https://open.spotify.com/album/0bMlUYMYxF07MlN3RkNlik) | 2:37 |
-| 50 | [Chandigarh Returns](https://open.spotify.com/track/1YtCsXITbeFUa8x0fLDZWx) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Chandigarh Returns](https://open.spotify.com/album/4OWvJ8TGXHfZpwf5ijtYlD) | 3:37 |
+| 49 | [Chandigarh Returns](https://open.spotify.com/track/1YtCsXITbeFUa8x0fLDZWx) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Chandigarh Returns](https://open.spotify.com/album/4OWvJ8TGXHfZpwf5ijtYlD) | 3:37 |
+| 50 | [BROSKI](https://open.spotify.com/track/3pliB4yT7hYbwBI6qycYtg) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [BROSKI](https://open.spotify.com/album/0bMlUYMYxF07MlN3RkNlik) | 2:37 |
 
 Snapshot ID: `aH6KYQAAAACGvzJLyKSf7YzQd/OAfoCn`

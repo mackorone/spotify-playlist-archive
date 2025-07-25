@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The biggest Dancehall playlist in the world\. Cover: Konshens
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,600,086 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,600,071 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 35 | [Deceitful](https://open.spotify.com/track/7axvgBaBH9Qpbbub8s8gSz) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt), [9MR](https://open.spotify.com/artist/1hBmokyEMieW8SaOVyxp8l) | [Deceitful](https://open.spotify.com/album/6kCkndhxsM5Iknqar8rzPB) | 2:51 |
 | 36 | [God Nah Sleep](https://open.spotify.com/track/4eMFo2OlaFSRYmTYAoNJbV) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [God Nah Sleep](https://open.spotify.com/album/77VoG6elcFERW1OhcRevuG) | 3:31 |
 | 37 | [Road Runner](https://open.spotify.com/track/68ZpiCWoEtGhl8s1uaMXux) | [Yeza](https://open.spotify.com/artist/36jYC060pMMY4uSbkj50cu), [Rorystonelove](https://open.spotify.com/artist/31hI4ZIjeMbbfxXgSsaRJC) | [Road Runner](https://open.spotify.com/album/28ok5rJgmNe4pZ3OvoyAPY) | 2:58 |
-| 38 | [SHH](https://open.spotify.com/track/3WIzbftFKoXhx4qDgp32jt) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [SHH](https://open.spotify.com/album/3KiLOCRpCb5tWbduNmPhgX) | 3:00 |
+| 38 | [SHH \- with intro](https://open.spotify.com/track/3WIzbftFKoXhx4qDgp32jt) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [SHH \(with intro\)](https://open.spotify.com/album/3KiLOCRpCb5tWbduNmPhgX) | 3:00 |
 | 39 | [Nursery Rhymes](https://open.spotify.com/track/0l7DsApSOJ4G7vPzFXMszj) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Nursery Rhymes](https://open.spotify.com/album/0CHcleLL9nuyElanBqucCX) | 2:24 |
 | 40 | [Gogo](https://open.spotify.com/track/1bDaEMD1EmC3xQoSq0Hfce) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Gogo](https://open.spotify.com/album/0KQRMSiOnN7TGZDAqQinYD) | 2:36 |
 | 41 | [Walk Out](https://open.spotify.com/track/2VhF9BHXtQBp7OtIievozf) | [ReniGAD](https://open.spotify.com/artist/57sumTgxSpKI0Su0ggOtl3), [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Walk Out](https://open.spotify.com/album/4Ny7iUZ8gClDzRYtM9NEmm) | 2:10 |

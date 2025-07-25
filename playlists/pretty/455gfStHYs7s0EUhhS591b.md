@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 56,570 likes - 203 songs - 12 hr 6 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 56,563 likes - 202 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,6 +210,5 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 | 200 | [Strangers](https://open.spotify.com/track/4yMHaZOLDSDSDrQDj5hr4D) | [Sam Wiseman](https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47), [ANDREWBATES](https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv) | [Strangers](https://open.spotify.com/album/1sjYj345gHTVjhelEKkR8S) | 3:02 |
 | 201 | [Rosaires \- Chill Out Mix](https://open.spotify.com/track/5cRRdBYpzTx5BsIioqi62c) | [Aly & Fila](https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h) | [The Chill Out](https://open.spotify.com/album/7iuN6L1BhulqayAqKmDT22) | 3:54 |
 | 202 | [Kora](https://open.spotify.com/track/7jHFgSqTGmp8znQ7JOPvzM) | [Anthelix](https://open.spotify.com/artist/47hKZZ8qty3gj4uxTCzgS9) | [Kora](https://open.spotify.com/album/3mXqrjDGNvZd1dnVKNsGhY) | 3:25 |
-| 203 | [Entusiasme \(Vallée De L’Armes\)](https://open.spotify.com/track/0kZIcCyIgs0KgJTmvN5imF) | [HABITAT](https://open.spotify.com/artist/7r25k57LP5UsSNSzVems6d) | [Entusiasme \(Vallée De L’Armes\)](https://open.spotify.com/album/6V2Y7OYLUYJX1s7b5uWohK) | 1:55 |
 
-Snapshot ID: `AAByAO8AbJY/miqAfjSNOqHx2CVTOYaK`
+Snapshot ID: `AAByBIrqY5zqu7uEDRP7XWHNCsRyhXct`

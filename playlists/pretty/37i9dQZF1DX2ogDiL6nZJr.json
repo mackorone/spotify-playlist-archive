@@ -1,6 +1,6 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 841215,
+  "num_followers": 841533,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-06-05 07:11:48",
       "album": {
+        "name": "A.M. RADIO",
+        "url": "https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "A.M. RADIO",
+      "url": "https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP"
+    },
+    {
+      "added_at": "2025-06-05 07:11:48",
+      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
-    },
-    {
-      "added_at": "2025-06-05 07:11:48",
-      "album": {
-        "name": "A.M. RADIO",
-        "url": "https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "A.M. RADIO",
-      "url": "https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP"
     },
     {
       "added_at": "2025-06-05 07:11:48",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-06-05 07:11:48",
       "album": {
-        "name": "You Might",
-        "url": "https://open.spotify.com/album/7otKscInqHObpSN9hIWjte"
-      },
-      "artists": [
-        {
-          "name": "MarkMoon",
-          "url": "https://open.spotify.com/artist/3ihkk6803aRrmiHduMZ7hQ"
-        }
-      ],
-      "duration_ms": 119212,
-      "name": "You Might",
-      "url": "https://open.spotify.com/track/6KGCgcXf60keh5Zu48ch1K"
-    },
-    {
-      "added_at": "2025-06-05 07:11:48",
-      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/4XjE4JTb2fp7C7ZITLZOwW"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 203534,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0BgEkiedrF5W0tjkvhAUVw"
+    },
+    {
+      "added_at": "2025-06-05 07:11:48",
+      "album": {
+        "name": "You Might",
+        "url": "https://open.spotify.com/album/7otKscInqHObpSN9hIWjte"
+      },
+      "artists": [
+        {
+          "name": "MarkMoon",
+          "url": "https://open.spotify.com/artist/3ihkk6803aRrmiHduMZ7hQ"
+        }
+      ],
+      "duration_ms": 119212,
+      "name": "You Might",
+      "url": "https://open.spotify.com/track/6KGCgcXf60keh5Zu48ch1K"
     },
     {
       "added_at": "2025-06-05 07:11:48",

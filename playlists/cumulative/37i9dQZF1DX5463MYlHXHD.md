@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 La Repandilla & Sound De Barrio.
 
-339 songs - 18 hr 56 min
+340 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [La Mejor de Todas](https://open.spotify.com/track/3JfGUpclRKRkhp4QdqHckz) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [La Repandilla](https://open.spotify.com/album/7wUrqsk3ts4yUYsKNWnWpi) | 3:28 | 2024-03-05 |  |
 | [La Morocha](https://open.spotify.com/track/4JRibFMCuyMseKEGWAJ4C7) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [La Morocha](https://open.spotify.com/album/059QWHlbZgszSAf3rQ50Ag) | 2:17 | 2024-03-08 | 2024-03-16 |
 | [La Motito de Carlitos](https://open.spotify.com/track/1x9OQtBbG9UEOF0Hgpew6h) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Lo Peor](https://open.spotify.com/album/4YY5w9pSiVeWyNvAbIigBc) | 3:56 | 2023-05-26 | 2024-03-06 |
+| [La Noche](https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [La Noche](https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL) | 2:44 | 2025-07-25 |  |
 | [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 | 2025-07-11 |  |
 | [La Pollera de Jimmy](https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Homenaje a Colombia](https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7) | 3:52 | 2024-03-05 |  |
 | [La Que Quiero](https://open.spotify.com/track/1H69uZDuS45Am8HF5CFXnx) | [Lautaro LR](https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100) | [La Que Quiero](https://open.spotify.com/album/4asWvx1PseI23skzfVbDkr) | 2:43 | 2023-11-17 | 2023-11-25 |
@@ -344,7 +345,7 @@
 | [Yo Fumo](https://open.spotify.com/track/2AOiUFvBd1AbUtEnmwqhaI) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Yo Fumo](https://open.spotify.com/album/33FknRCSpak207j4cmiApB) | 3:10 | 2023-05-26 | 2023-06-13 |
 | [Yo Me Enamoré](https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:12 | 2023-05-26 | 2024-03-09 |
 | [Yo Soy Tu Maestro](https://open.spotify.com/track/1wx86LuGFnu2TF2M9bTuFV) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [El Bombazo](https://open.spotify.com/album/2Y7eqGrF7FWxMLYwI1hYn0) | 4:29 | 2024-03-05 | 2024-04-19 |
-| [YO SOY TU MAESTRO \- Remix](https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [YO SOY TU MAESTRO \(Remix\)](https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG) | 3:25 | 2023-09-15 |  |
+| [YO SOY TU MAESTRO \- Remix](https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [YO SOY TU MAESTRO \(Remix\)](https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG) | 3:25 | 2023-09-15 | 2025-07-25 |
 | [Zapada 3](https://open.spotify.com/track/5lV1gffVy0Tygf7OJONcp7) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Marquino](https://open.spotify.com/artist/4jaw5iogUkmoylPtcoBtJS), [Soy el Manu](https://open.spotify.com/artist/6vYsRTPWrNVTckLCWr8WNp) | [Zapada 3](https://open.spotify.com/album/1EYq1D8HcXFwMG9zw9wJ0H) | 5:18 | 2024-12-20 | 2025-05-10 |
 | [Zum Zum](https://open.spotify.com/track/2flPgnGSGMhh5CM2npJ7dL) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [Ciro deejay](https://open.spotify.com/artist/0fA39HYLC2eZKcUwps0DAD) | [Zum Zum](https://open.spotify.com/album/10b8bStXIQuBo76Mtb5rIp) | 2:33 | 2023-09-22 | 2023-10-14 |
 

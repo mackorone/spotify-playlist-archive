@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "arkansas rain",
+        "url": "https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY"
+      },
+      "artists": [
+        {
+          "name": "rainbolt",
+          "url": "https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244931,
+      "name": "arkansas forest reserve downpour",
+      "url": "https://open.spotify.com/track/3hSEPqX0iqXLcFIaVjFAQ3"
+    },
+    {
+      "album": {
         "name": "Rainy Summer Days",
         "url": "https://open.spotify.com/album/6TpQ6fU21enN1K6iDu9Mij"
       },
@@ -1048,6 +1066,24 @@
       "duration_ms": 240000,
       "name": "Deep Forest Soft Rain Birds Chirp Away",
       "url": "https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH"
+    },
+    {
+      "album": {
+        "name": "arkansas rain",
+        "url": "https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY"
+      },
+      "artists": [
+        {
+          "name": "rainbolt",
+          "url": "https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183901,
+      "name": "dense leaf canopy",
+      "url": "https://open.spotify.com/track/03iPmLyIVO7H74oPOnOP4G"
     },
     {
       "album": {
@@ -3230,7 +3266,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 135168,
       "name": "The Millpond VI",
       "url": "https://open.spotify.com/track/5dEqC0Eg2Djg5PJ0Q963y1"

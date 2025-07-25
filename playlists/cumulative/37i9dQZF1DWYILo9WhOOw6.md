@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-178 songs - 8 hr 50 min
+180 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Forever Care Delta 59\-63hz](https://open.spotify.com/track/4DNSv2RHAHDHcOchbU2qRW) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Forever Care Delta 59\-63hz](https://open.spotify.com/album/2xTqxqnZxHsYYN4ZMDY9Ng) | 2:48 | 2024-07-26 |  |
 | [Fragancia Delta 91Hz \- 94 Hz](https://open.spotify.com/track/5ThUIvyrQ0vmFRyUaAgQeT) | [Rerose](https://open.spotify.com/artist/6LcZxTjlhi7vsqM2acZonn) | [Fragancia Delta 91Hz \- 94 Hz](https://open.spotify.com/album/2VGGX8pqpJTIYluUNaoRj7) | 2:06 | 2025-06-04 |  |
 | [Gamma Sinus 70 Hz \- 170 Hz](https://open.spotify.com/track/5mWrcUdd6VebJRdvuRiXM9) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Theta Aum](https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit) | 3:16 | 2023-01-20 |  |
+| [Gates Of Heaven Delta \(63\-67hz\)](https://open.spotify.com/track/3A8dBDkD5y9nZ1eVMieoNX) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Gates Of Heaven Delta \(63\-67hz\)](https://open.spotify.com/album/0Ml7FzzeReYs5xXpFMKwDm) | 2:38 | 2025-07-24 |  |
 | [Healing Vision Delta Binaural 1.5 Hz](https://open.spotify.com/track/6vEQpGqGuoKzspnuTUiLfM) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Healing Vision Delta Binaural 1.5 Hz](https://open.spotify.com/album/6NsxFGlv0p01c63ELnFbOT) | 4:09 | 2024-07-15 |  |
 | [Higher Dreams \(Delta Waves\)](https://open.spotify.com/track/6Zw4Jka2SBzuEeEquCobrB) | [Higher Dreams](https://open.spotify.com/artist/0FflPWbB901dNyJ5vLQMGs) | [Higher Dreams](https://open.spotify.com/album/5qdxTZUkIRXux6K5bWFxLb) | 2:34 | 2023-01-20 |  |
 | [Immediate Healing \(Binaural Delta 103\-105 Hz\)](https://open.spotify.com/track/60WolCTrYCccH9prcupLpT) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Immediate Healing \(Binaural Delta 103\-105 Hz\)](https://open.spotify.com/album/5z2m5vcPIXUKQpqwc3ZA18) | 3:12 | 2025-03-26 |  |
@@ -164,6 +165,7 @@
 | [Sleep Architect \(Delta Waves\)](https://open.spotify.com/track/4OmIx94FGulyQCG4p8DD0U) | [Dreamstatic](https://open.spotify.com/artist/24sCSCuOs5lxNXY5SsMUdj) | [Dreamstatic](https://open.spotify.com/album/3GnJyk0lcbxS6J7PvzsPGa) | 3:12 | 2023-01-20 |  |
 | [Sleep with Peace](https://open.spotify.com/track/6ZrQJUmZV9Zzd4sGifErEj) | [Hypnosis Therapy](https://open.spotify.com/artist/4BqilCCtLl5MiIEZVVYPmn) | [Deep Sleep: Body & Mind Healing with Binaural Beats](https://open.spotify.com/album/6Ns28NOPCQwnn5ns5ddQ5j) | 2:09 | 2023-01-20 |  |
 | [Slo Delta 54.9 Hz\-55.1 Hz](https://open.spotify.com/track/0Y6ubSpr5MO8aaJl7ObDKA) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Slo Delta 54.9 Hz\-55.1 Hz](https://open.spotify.com/album/5N2FiYNjnW30HSvXooHsZY) | 3:28 | 2024-07-26 |  |
+| [Slow Delta 60.5 \- 61.4](https://open.spotify.com/track/5kh8ZBrOov8HExoBt6bzkf) | [univrs](https://open.spotify.com/artist/2kdMlGUxFXECU2qFg2R1Xn) | [Slow Delta 60.5 \- 61.4](https://open.spotify.com/album/3Gj0PPjdoKXa8uGhWW6BUK) | 2:16 | 2025-07-24 |  |
 | [Slow Delta Soothe 96Hz \- 98Hz](https://open.spotify.com/track/6VEEg3q83KL26gj3zuT7Fn) | [Northern Sines](https://open.spotify.com/artist/6TWxyoPlukVztmpleDmXl3) | [Slow Delta Soothe 96Hz \- 98Hz](https://open.spotify.com/album/3epBpB6BhuQH5mAI3QqqDt) | 3:02 | 2023-01-20 |  |
 | [Smooth Sailing Delta 86 Hz \- 88 Hz](https://open.spotify.com/track/5CJijPm0eKKvT6ybT964Mg) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Smooth Sailing Delta 86 Hz \- 88 Hz](https://open.spotify.com/album/5QjgkhOnm3wzE5TvKvKRYD) | 2:52 | 2025-01-09 |  |
 | [Soothe Away Delta 70\-74hz](https://open.spotify.com/track/2Sh6YjOXu5yQuLEFFIZ6ff) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Soothe Away Delta](https://open.spotify.com/album/0rYDjfWkZl6YiUhVquIGw8) | 2:33 | 2024-12-18 |  |

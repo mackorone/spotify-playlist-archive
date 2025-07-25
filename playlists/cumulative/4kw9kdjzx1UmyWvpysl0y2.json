@@ -617,6 +617,32 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/69JrGNnFGdbfFdOeqwEt8h"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Zen/it",
+          "url": "https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82"
+        },
+        {
+          "name": "ANYLIA",
+          "url": "https://open.spotify.com/artist/5vmyToEQFm8oFq7IurCMNX"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154089,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/02ACX88wFNYy3CAcE3GgTh"
+    },
+    {
+      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/7I7CPbDYjhgk6wuecUzxwJ"
       },

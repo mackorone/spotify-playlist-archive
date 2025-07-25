@@ -220,7 +220,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 155562,
       "name": "A Puros Likes",
       "url": "https://open.spotify.com/track/5hoL8J4IVIKyKwjkQXhKy4"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 155370,
       "name": "Algo Contigo",
       "url": "https://open.spotify.com/track/5LpfVyyFQDLmTSbIjgiRcw"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 141501,
       "name": "Amigo Remix",
       "url": "https://open.spotify.com/track/3J3yRkO999AgZT4LMum1Yc"
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "Como si no nos am\u00e1ramos",
       "url": "https://open.spotify.com/track/0xsA8UB6GyQ1xCl3uJ7zeG"
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 181354,
       "name": "CUMBIA DE BARRIO",
       "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
@@ -3798,7 +3798,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 131062,
       "name": "En Otra Vida",
       "url": "https://open.spotify.com/track/0Lb1srW9JidPuK0pmVRQcZ"
@@ -3824,6 +3824,24 @@
       "duration_ms": 158399,
       "name": "Enamorao Total",
       "url": "https://open.spotify.com/track/6xnpkBUhIvcDSVbqJvYC2v"
+    },
+    {
+      "album": {
+        "name": "ENAMORARSE PARA QUE",
+        "url": "https://open.spotify.com/album/32Prq4dvBeioGhPUARQieZ"
+      },
+      "artists": [
+        {
+          "name": "VIUS",
+          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184239,
+      "name": "ENAMORARSE PARA QUE",
+      "url": "https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk"
     },
     {
       "album": {
@@ -4196,7 +4214,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 175263,
       "name": "Flasheaste Amor",
       "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
@@ -4470,7 +4488,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 149160,
       "name": "Hasta la luna",
       "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
@@ -6246,7 +6264,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 209009,
       "name": "Locura Sin Techo - Remix",
       "url": "https://open.spotify.com/track/4Q2STXSjuRAE17aCIhGfHu"
@@ -6264,7 +6282,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 131004,
       "name": "Locuras contigo",
       "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
@@ -7252,7 +7270,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 147157,
       "name": "Mil Males",
       "url": "https://open.spotify.com/track/0JCngRTr2hdBxUhsc5zLjp"
@@ -7466,7 +7484,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 234626,
       "name": "M\u00e1rchate ahora",
       "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
@@ -8826,7 +8844,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 147109,
       "name": "Pechito Partido",
       "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
@@ -8888,7 +8906,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 160733,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
@@ -9118,7 +9136,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 155350,
       "name": "Piel a Piel",
       "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
@@ -9298,7 +9316,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 207272,
       "name": "Por Que Te Vas",
       "url": "https://open.spotify.com/track/3ygcJRUQlV2SqiB6pBFkQB"
@@ -9338,7 +9356,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 153876,
       "name": "POR QU\u00c9 LLORAS?",
       "url": "https://open.spotify.com/track/0zY9gEaGRD9aIG0qZwgEDp"
@@ -9486,7 +9504,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 156325,
       "name": "Promet\u00ed",
       "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
@@ -9512,7 +9530,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 215306,
       "name": "Pruebita de Amor - Remix",
       "url": "https://open.spotify.com/track/61uBjnpTM4RuLnVj1mrCkj"
@@ -9574,7 +9592,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 206471,
       "name": "Pu\u00f1o De Diamantes",
       "url": "https://open.spotify.com/track/3eumA02V1WiYGE7cGlnJRT"
@@ -10818,7 +10836,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 159396,
       "name": "Si Te Vuelvo a Llamar",
       "url": "https://open.spotify.com/track/70B2wI5RkccQVGhq0PEJQi"
@@ -11066,7 +11084,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 193347,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
@@ -11284,6 +11302,28 @@
       "duration_ms": 177710,
       "name": "So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/3zNKOVI1wWhfrgv6pPXAgy"
+    },
+    {
+      "album": {
+        "name": "Supuestamente",
+        "url": "https://open.spotify.com/album/5WgJsoyMhj8zYdRJjSSist"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Supuestamente",
+      "url": "https://open.spotify.com/track/75fbmsSedxEdayE8ytGbDn"
     },
     {
       "album": {
@@ -12138,7 +12178,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 205613,
       "name": "Tomate el Palo (feat. Leo Garc\u00eda)",
       "url": "https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b"
@@ -12418,7 +12458,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 176229,
       "name": "Tu Favorito",
       "url": "https://open.spotify.com/track/1ybAexrk6lpUW0xqssj9Ph"
@@ -13229,6 +13269,28 @@
     },
     {
       "album": {
+        "name": "VIAJEMOS EN EL TIEMPO #2 | C\u00e1sate Conmigo",
+        "url": "https://open.spotify.com/album/2bni1x1fcaOh0WWCplqzXl"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152696,
+      "name": "VIAJEMOS EN EL TIEMPO #2 | C\u00e1sate Conmigo",
+      "url": "https://open.spotify.com/track/78U6wIRpfUkdjYdcexWTXe"
+    },
+    {
+      "album": {
         "name": "Vida de Rico",
         "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
       },
@@ -13240,7 +13302,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 187426,
       "name": "Vida de Rico",
       "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"

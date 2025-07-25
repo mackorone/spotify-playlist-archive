@@ -175,6 +175,32 @@
     },
     {
       "album": {
+        "name": "CORTAVENTO",
+        "url": "https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF"
+      },
+      "artists": [
+        {
+          "name": "JOCA",
+          "url": "https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181537,
+      "name": "BADU & 3000",
+      "url": "https://open.spotify.com/track/2EunXugitKqwBZLyPyl1yQ"
+    },
+    {
+      "album": {
         "name": "Gambiarra Chic, Pt. 2",
         "url": "https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi"
       },

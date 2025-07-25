@@ -2,9 +2,9 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Il Mago Del Gelato
+> The best jazz new releases\. Cover: Lusaint
 
-790 songs - 2 day 8 hr 25 min
+791 songs - 2 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 | 2025-06-19 |  |
 | [Just Coolin’](https://open.spotify.com/track/1nvGD6MpBrI0tSwiGIcZxQ) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Just Coolin’](https://open.spotify.com/album/1foQFrVtku49UFDayrWuNa) | 6:48 | 2022-04-14 | 2022-04-22 |
 | [Just in Time](https://open.spotify.com/track/3qF3gCZxWzt9j60XfjtohG) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Just in Time](https://open.spotify.com/album/3xjdQF7MrWRdBYiZyDZ75O) | 3:11 | 2023-01-19 | 2023-04-14 |
+| [Just Like You](https://open.spotify.com/track/1Mr8z0evbafjEIqH2RpESs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Just Like You](https://open.spotify.com/album/0gTKZUy948X2MFOTVxlWRq) | 2:30 | 2025-07-24 |  |
 | [Just Me This Year](https://open.spotify.com/track/0pVUyPxZk9qYINtd0nsWhG) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:07 | 2023-03-16 | 2023-06-23 |
 | [Just One of Those Things](https://open.spotify.com/track/5lXB6VECoq3guxWmuCmBOL) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO), [Andrea Rea Trio](https://open.spotify.com/artist/1fVvnDjO9UR9VzEsRFCwfG), [Joe Rehmer](https://open.spotify.com/artist/2X9guPdoOHugu34oKnxgWa), [Marcello Di Leonardo](https://open.spotify.com/artist/4Nf1TXdpJFjkLmUgXdXeSU) | [Just One of Those Things](https://open.spotify.com/album/2O9rzxiqE9GI1dDK5thSQ0) | 5:22 | 2022-08-18 | 2022-11-18 |
 | [Just the Beginning](https://open.spotify.com/track/5Kah2gopowr7IVS1ZBEOlo) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Just the Beginning](https://open.spotify.com/album/2UJs0fSUEiBDy9MKcugiQF) | 3:26 | 2023-06-22 | 2023-09-29 |
@@ -659,7 +660,7 @@
 | [Tatomania](https://open.spotify.com/track/3cl6XYDzDz99aCSGPhKRMI) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp), [Royal Quartet](https://open.spotify.com/artist/3ahem2BMD7mqwGTwKjS1LD) | [Tatomania](https://open.spotify.com/album/2DphcE8z7lMDmGzYBcwqf9) | 4:18 | 2024-07-25 | 2024-10-11 |
 | [Tattoo](https://open.spotify.com/track/7pYL98wrOlPg9rElkNTn5t) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Lover + Tattoo](https://open.spotify.com/album/6Le1QNBHfDZiDlZocTuuNV) | 3:48 | 2024-08-22 | 2024-12-06 |
 | [Temperature High](https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Temperature High](https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD) | 3:10 | 2023-08-17 | 2023-11-10 |
-| [Ten Little Minutes](https://open.spotify.com/track/4nw894W61lrqNH9KnH3yvU) | [Jay\-Jay Johanson](https://open.spotify.com/artist/4hzC9WUUy3cFituT71tzB4) | [Ten Little Minutes](https://open.spotify.com/album/1LPq4OVMmTlXn6PZ3Tw5l4) | 3:49 | 2025-04-24 |  |
+| [Ten Little Minutes](https://open.spotify.com/track/4nw894W61lrqNH9KnH3yvU) | [Jay\-Jay Johanson](https://open.spotify.com/artist/4hzC9WUUy3cFituT71tzB4) | [Ten Little Minutes](https://open.spotify.com/album/1LPq4OVMmTlXn6PZ3Tw5l4) | 3:49 | 2025-04-24 | 2025-07-25 |
 | [Teo](https://open.spotify.com/track/445N8tdrFPPQiEXm8x8vES) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [Teo](https://open.spotify.com/album/1nhW2dBhlBtfuzB4GwlHy4) | 3:35 | 2023-09-28 | 2024-01-26 |
 | [Teo](https://open.spotify.com/track/3O90QPnqAyFoTlpU9nBPkt) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3) | [The Source](https://open.spotify.com/album/5e2gQsP9jvj5telqe9zERG) | 6:04 | 2023-01-26 | 2023-04-14 |
 | [Tess's Torch Song](https://open.spotify.com/track/496FwwjWBFWAo0jR0jEVGE) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn) | 2:54 | 2022-10-10 | 2023-01-20 |

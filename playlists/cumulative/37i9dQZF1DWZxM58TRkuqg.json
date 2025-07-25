@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Wijaya 80",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: MALIQ & D'Essentials",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 234972,
       "name": "1 dari 1000",
       "url": "https://open.spotify.com/track/73sNYWU4Qe1WEiUyMMNz6q"
+    },
+    {
+      "album": {
+        "name": "123456",
+        "url": "https://open.spotify.com/album/23mJFFYLo7WPVPaHSrG4z3"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204345,
+      "name": "123456",
+      "url": "https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O"
     },
     {
       "album": {
@@ -1380,7 +1398,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 244045,
       "name": "Bulan, Bawa Aku Pulang",
       "url": "https://open.spotify.com/track/1G2CdAuRwr7Dem2CIZlYrt"
@@ -1782,7 +1800,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 212803,
       "name": "Denganmu Saja",
       "url": "https://open.spotify.com/track/4omzwua07r446XUkL5wWZd"
@@ -2907,6 +2925,24 @@
     },
     {
       "album": {
+        "name": "Jalan, Pulang",
+        "url": "https://open.spotify.com/album/5p8fWLTb6EF1VyKigzsKP1"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204336,
+      "name": "Jalan, Pulang",
+      "url": "https://open.spotify.com/track/4ZxPYWXCWzyrqCfMoqPbSm"
+    },
+    {
+      "album": {
         "name": "Jangan Lupa Pulang (Live at Aquarius Studio)",
         "url": "https://open.spotify.com/album/4sitdgmK4736e8SGpmdJfX"
       },
@@ -3012,7 +3048,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 201048,
       "name": "Jatuh Sejatuh - Jatuhnya",
       "url": "https://open.spotify.com/track/1tibSQyyS5FRcW70OZXWrQ"
@@ -3060,6 +3096,24 @@
       "duration_ms": 307826,
       "name": "Jika",
       "url": "https://open.spotify.com/track/4Qb0GwIiuaRNFTW2HI1lMA"
+    },
+    {
+      "album": {
+        "name": "Jika Bukan Karenamu",
+        "url": "https://open.spotify.com/album/0AUUtiiCcjBj27ncscvyjK"
+      },
+      "artists": [
+        {
+          "name": "Geisha",
+          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198928,
+      "name": "Jika Bukan Karenamu",
+      "url": "https://open.spotify.com/track/7iVUpVWUKjUnYAd8vnH24P"
     },
     {
       "album": {
@@ -3248,6 +3302,32 @@
       "duration_ms": 238293,
       "name": "Karena Kamu (Love Recalls Version)",
       "url": "https://open.spotify.com/track/5B7qLPqBd0DxhDuK7VCPch"
+    },
+    {
+      "album": {
+        "name": "Kasih Aba Aba",
+        "url": "https://open.spotify.com/album/7epsFufhjXWBTRp8i4IkmM"
+      },
+      "artists": [
+        {
+          "name": "Naykilla",
+          "url": "https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq"
+        },
+        {
+          "name": "Tenxi",
+          "url": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
+        },
+        {
+          "name": "Jemsii",
+          "url": "https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176608,
+      "name": "Kasih Aba Aba",
+      "url": "https://open.spotify.com/track/5rhwXZP0luMucnEPnYJpbI"
     },
     {
       "album": {
@@ -4475,6 +4555,32 @@
     },
     {
       "album": {
+        "name": "mejikuhibiniu",
+        "url": "https://open.spotify.com/album/1DZHkeHPjLkuclwTVtjIOK"
+      },
+      "artists": [
+        {
+          "name": "Tenxi",
+          "url": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
+        },
+        {
+          "name": "Suisei",
+          "url": "https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi"
+        },
+        {
+          "name": "Jemsii",
+          "url": "https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196477,
+      "name": "mejikuhibiniu",
+      "url": "https://open.spotify.com/track/278PwGlIm7MxVTZud18Rx4"
+    },
+    {
+      "album": {
         "name": "Melangitkanmu",
         "url": "https://open.spotify.com/album/39dqeYCRARABzKQEazIV8Z"
       },
@@ -4696,6 +4802,24 @@
       "duration_ms": 294000,
       "name": "Mencintaimu - (From: 2nd Miracle in Cell No.7)",
       "url": "https://open.spotify.com/track/2gsRMFzelZuRQo8r11RsLr"
+    },
+    {
+      "album": {
+        "name": "Unreleased",
+        "url": "https://open.spotify.com/album/0uHVsjIOPkXKP5aAGmaira"
+      },
+      "artists": [
+        {
+          "name": "Mike Mohede",
+          "url": "https://open.spotify.com/artist/0uGUpFXAdhKMgiHwbueiuf"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242217,
+      "name": "Mengapa",
+      "url": "https://open.spotify.com/track/5MRdQwlU8ArU5Tl6tIr5Nv"
     },
     {
       "album": {
@@ -5590,7 +5714,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 259599,
       "name": "Rahasia Hati (New Version)",
       "url": "https://open.spotify.com/track/5ljoPIZmzmXVoTdF7ebfwE"
@@ -6642,7 +6766,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 222920,
       "name": "Setelah Kau Pergi",
       "url": "https://open.spotify.com/track/5yHaKQv2PU3Gzvv7dU0kYG"
@@ -7423,6 +7547,24 @@
     },
     {
       "album": {
+        "name": "Tanda Tanya",
+        "url": "https://open.spotify.com/album/3ceYHINL0M5RcqWMbr6f7j"
+      },
+      "artists": [
+        {
+          "name": "Rizwan Fadilah",
+          "url": "https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182487,
+      "name": "Tanda Tanya",
+      "url": "https://open.spotify.com/track/2lkSPwVOSK1HJZwCG12O9w"
+    },
+    {
+      "album": {
         "name": "Tangan-Tangan Ucap Perpisahan",
         "url": "https://open.spotify.com/album/494cHwcF82CGtJ6wNkcQck"
       },
@@ -7452,7 +7594,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 258924,
       "name": "Tanpa Balasmu (\"Tabayyun\" Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/2Z2vWGrrWkYOMilkXvhbH4"
@@ -7488,7 +7630,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 191500,
       "name": "Tanpa Bicara - Acoustic Version",
       "url": "https://open.spotify.com/track/3rZakDmhQjz0UbUjl6eROP"
@@ -7593,6 +7735,28 @@
     },
     {
       "album": {
+        "name": "Tegar",
+        "url": "https://open.spotify.com/album/14h1mJ5zYP7AuzXxRAs16A"
+      },
+      "artists": [
+        {
+          "name": "Tissa Biani",
+          "url": "https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM"
+        },
+        {
+          "name": "Sita Nursanti",
+          "url": "https://open.spotify.com/artist/0pafVQFBPn1LXwdpTMSqJM"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198324,
+      "name": "Tegar",
+      "url": "https://open.spotify.com/track/2Og0MMoa1xYEBDpUIlzLgy"
+    },
+    {
+      "album": {
         "name": "Terakhir Kali",
         "url": "https://open.spotify.com/album/3l2z82HMmmq1diaA1D29BB"
       },
@@ -7626,6 +7790,24 @@
       "duration_ms": 220010,
       "name": "Teramini",
       "url": "https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk"
+    },
+    {
+      "album": {
+        "name": "Jalaran Sadrah",
+        "url": "https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC"
+      },
+      "artists": [
+        {
+          "name": "Barasuara",
+          "url": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281173,
+      "name": "Terbuang Dalam Waktu",
+      "url": "https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH"
     },
     {
       "album": {

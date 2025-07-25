@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=jEAaALyDShKOKDWVzZyCCg">Mlindo The Vocalist</a>
 
-697 songs - 2 day 1 hr 47 min
+698 songs - 2 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Amagents](https://open.spotify.com/track/5dVd3tBZQhOctXiq2jwrhD) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm) | [Amagents](https://open.spotify.com/album/0rgt2gSlZTttcQTg2xsvGK) | 3:43 | 2022-06-27 | 2023-06-23 |
 | [Amahloni](https://open.spotify.com/track/7qYFj3ijTlltgINFai7Omj) | [Liema Pantsi](https://open.spotify.com/artist/1trh8FXuIayeiWAZy0NRFj), [Nhlanhla Dube](https://open.spotify.com/artist/4POG2vYRKNJB5gcA877Qcp), [Enhle Mlambo](https://open.spotify.com/artist/1otdowLbex3Y7NWfBQ7MTi), [TICOZET](https://open.spotify.com/artist/5zMr7qKAUyZQlFRjPehWk0) | [Amahloni](https://open.spotify.com/album/5e1cqHH8nXDeper2yVGMFo) | 4:02 | 2025-04-24 |  |
 | [Amalanga](https://open.spotify.com/track/6TptXPkegwMj4Pyn35QLzq) | [Calvin Mangena](https://open.spotify.com/artist/5mo5ML6eCYXlZdU1kuvcPu), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Amalanga](https://open.spotify.com/album/0hBF2GKu3RT6hZsZz42nvw) | 3:02 | 2023-09-14 | 2024-07-12 |
-| [Amalanga Awafani](https://open.spotify.com/track/2FoqiT7VPClTZFLlHwIHx9) | [Mkevisto](https://open.spotify.com/artist/62IU2LiHchvimHdQtPct6F), [Mna](https://open.spotify.com/artist/4hEm0YA9c2chLKLJCa5KZ9) | [Amalanga Awafani](https://open.spotify.com/album/4p7cIchXkafBkwx9QY5H8W) | 6:29 | 2025-04-24 |  |
+| [Amalanga Awafani](https://open.spotify.com/track/2FoqiT7VPClTZFLlHwIHx9) | [Mkevisto](https://open.spotify.com/artist/62IU2LiHchvimHdQtPct6F), [Mna](https://open.spotify.com/artist/4hEm0YA9c2chLKLJCa5KZ9) | [Amalanga Awafani](https://open.spotify.com/album/4p7cIchXkafBkwx9QY5H8W) | 6:29 | 2025-04-24 | 2025-07-25 |
 | [Amalobolo](https://open.spotify.com/track/7g4TQSi0sO8Ju4gWed3YG9) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Amalobolo](https://open.spotify.com/album/0CLBWzVbiIp3ZT9aubfOY1) | 4:19 | 2023-03-09 | 2023-04-28 |
 | [Amalobolo](https://open.spotify.com/track/11wimQmyafLaiXvGsgUv0q) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v) | [Amalobolo](https://open.spotify.com/album/4T76XTHVURPGheBs1dCoiL) | 3:23 | 2022-08-25 | 2022-10-21 |
 | [Amanxeba Othando \(feat\. Mduduzi Ncube\)](https://open.spotify.com/track/0NH6wxjDcflP9Ymw8UQu4b) | [Bekezela](https://open.spotify.com/artist/4iZu4DzXizc1qAOSpa3qCX), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Asiwine](https://open.spotify.com/album/0Ug7YS6FRnN7QVH4HbAxKr) | 3:20 | 2022-08-04 | 2022-10-29 |
@@ -433,6 +433,7 @@
 | [Ngiyatisola](https://open.spotify.com/track/28ct4TYD21H6TxGjPJwLFY) | [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN) | [Ngiyatisola](https://open.spotify.com/album/3AKvurqxhEhOhTuiM8VlNu) | 4:27 | 2023-08-31 | 2023-10-13 |
 | [Ngiyeza](https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Ngiyeza](https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR) | 4:41 | 2023-01-19 | 2023-08-18 |
 | [Ngizmisele](https://open.spotify.com/track/0sSFSV3NiP2i9PzSk65BPa) | [Puleng Phoofolo](https://open.spotify.com/artist/4PV6IJwluKGjXmKLhKFa0E), [Phoka Ea Borwa](https://open.spotify.com/artist/2gTjDZTAufBXDydffPgkq3) | [Ngizmisele](https://open.spotify.com/album/3PQg91Te4i6mqvN3hzoZTH) | 3:45 | 2025-07-04 |  |
+| [Ngizohlala Nawe \(feat\. Princess Meloh\)](https://open.spotify.com/track/5lfeivPGO7gXCbMfxKGAlH) | [NKR](https://open.spotify.com/artist/3thrhTKemjuoEqfhGZu3i6), [Ayarhkay](https://open.spotify.com/artist/1MD4g1fBpnN0xXpQiQt8pf), [Olefied Khetha](https://open.spotify.com/artist/7encSKpRGCkRR4yF13Shr9), [Princess Meloh](https://open.spotify.com/artist/0KW7KKNYz8POQOtq6Ps6jj) | [Ngizohlala Nawe \(feat\. Princess Meloh\)](https://open.spotify.com/album/6xOYZWbIr7js9wii3B14fv) | 5:01 | 2025-07-25 |  |
 | [Ngizokthanda](https://open.spotify.com/track/4MRDfU114k3dd6jGHgEtva) | [Linda Gcwensa](https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv) | [Ngizokthanda](https://open.spotify.com/album/27db3O40tFLHEEo8bCRgiy) | 3:39 | 2022-09-29 | 2023-02-17 |
 | [Ngthathe](https://open.spotify.com/track/3TCNa3iSMFdoFiNFebLjnD) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Ngthathe](https://open.spotify.com/album/4whjsnrucpJJUOs0UIvviT) | 4:19 | 2023-02-23 | 2023-07-08 |
 | [Nguwe](https://open.spotify.com/track/3p0svXb6H7pdUlA6mjeUTc) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Nguwe](https://open.spotify.com/album/3NOlureYDWIeBPt3CTuTDr) | 3:40 | 2023-03-17 | 2023-07-28 |

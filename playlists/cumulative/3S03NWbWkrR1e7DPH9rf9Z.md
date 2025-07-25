@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-201 songs - 9 hr 51 min
+202 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Follow The Rhythm](https://open.spotify.com/track/7rkFwGFRVkmOsenN6nkSHf) | [Castor & Pollux](https://open.spotify.com/artist/6fHUILCpBvfSHB48AEciPG), [JaySic](https://open.spotify.com/artist/5OgXwDsd6Emt2JDOZgKhmY), [Jason Robert](https://open.spotify.com/artist/6iZXOmbBpTTsKGqG8Jtb3Z) | [Follow The Rhythm](https://open.spotify.com/album/2EnoxOt4bCkIOGnlcHA4ru) | 2:46 | 2025-07-04 |  |
 | [Found myself](https://open.spotify.com/track/1QnZ3x8AOd7EiS3WUcaiUa) | [SixCap](https://open.spotify.com/artist/1Q4td6MS7PJuJeNyjzmh8s) | [Found myself](https://open.spotify.com/album/02EmsUivrblicHCubLlsFj) | 2:37 | 2025-07-04 |  |
 | [Freaks](https://open.spotify.com/track/4wbA8wvhhsHib3em69PUqa) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Freaks](https://open.spotify.com/album/26epLAiWNANFcI5FBfbyTi) | 2:06 | 2025-07-04 |  |
+| [Freeze Time \- Cuebrick & Manse Remix](https://open.spotify.com/track/6aIE4b3Ifwxab3nTkU873L) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Alice Berg](https://open.spotify.com/artist/0YdFvpH7MvXv5vBsfGvt7g), [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM) | [Freeze Time \(Cuebrick & Manse Remix\)](https://open.spotify.com/album/0EXrkLNOuJQCvKwfnagQIg) | 3:23 | 2025-07-24 |  |
 | [Fuga](https://open.spotify.com/track/6hiZThRLPZtTFiwiMBfZJj) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN) | [Ela Sabe EP](https://open.spotify.com/album/134y2ihwAlwkjbLlCmkk2x) | 2:03 | 2025-07-04 |  |
 | [Future Rave Is Now](https://open.spotify.com/track/5phqs1kTBLOWhG7FD3MVDv) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Future Rave Is Now](https://open.spotify.com/album/05GxrCfoBcSwBNeiDO0tEm) | 4:40 | 2025-07-04 |  |
 | [Get Down](https://open.spotify.com/track/2lo3onFA6cUu0RjrRhKM8N) | [2ACES](https://open.spotify.com/artist/5dHy2mDWei8fmwzE3fsrC3), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Get Down](https://open.spotify.com/album/3xqNE8jim4IWo0AkA3N9Lw) | 2:58 | 2025-07-04 |  |

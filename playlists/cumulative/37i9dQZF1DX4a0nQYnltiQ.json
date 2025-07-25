@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "The #1 Destination for the best melodies in the world. Cover: AMARIA BB",
+  "description": "The #1 Destination for the best melodies in the world. Cover: Leigh-Anne",
   "name": "Essence",
   "tracks": [
     {
@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Been A Minute",
+        "url": "https://open.spotify.com/album/3thXFp5MbhUtv0C5eCJSHG"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Been A Minute",
+      "url": "https://open.spotify.com/track/492y99GG1u1giNjvFC3WiR"
+    },
+    {
+      "album": {
         "name": "Beneath Your Surface / If You Exist",
         "url": "https://open.spotify.com/album/2lfxmUGNqeFrsJZXQ2XTZH"
       },
@@ -310,7 +328,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 176480,
       "name": "Choosin'",
       "url": "https://open.spotify.com/track/6ixs1OVZpJ4gIPDdpzZqvn"
@@ -364,7 +382,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 160007,
       "name": "Crush",
       "url": "https://open.spotify.com/track/75M3g2qnWgOiwaAdCEsDNz"
@@ -404,6 +422,24 @@
       "duration_ms": 178410,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/3VLC9OBGZr4aRSJFbZpPHg"
+    },
+    {
+      "album": {
+        "name": "Don't Play The Fool",
+        "url": "https://open.spotify.com/album/6eDHUSZ3qKX6vwDxWYSC9z"
+      },
+      "artists": [
+        {
+          "name": "Demae",
+          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219785,
+      "name": "Don't Play The Fool",
+      "url": "https://open.spotify.com/track/2a3FBmnHFLJ3dxB7QUHlgh"
     },
     {
       "album": {
@@ -635,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
+    },
+    {
+      "album": {
         "name": "I know",
         "url": "https://open.spotify.com/album/6d007bzGban8JqmIvrubZW"
       },
@@ -650,7 +704,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 195929,
       "name": "I know",
       "url": "https://open.spotify.com/track/1sfC1pBC9jUn5QUGbW4Inq"
@@ -896,7 +950,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 173445,
       "name": "NIGHT OFF",
       "url": "https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq"
@@ -1411,6 +1465,24 @@
     },
     {
       "album": {
+        "name": "Mabel (Mixtape)",
+        "url": "https://open.spotify.com/album/1ldMaOBeKQNU3cpGCsN6hq"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251973,
+      "name": "Turn Me Up",
+      "url": "https://open.spotify.com/track/2WIykpFBlqQ0m7EfAKoev1"
+    },
+    {
+      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/3LBfn842eEw7Rcc6tVCa60"
       },
@@ -1440,7 +1512,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 145173,
       "name": "Until the End",
       "url": "https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer"

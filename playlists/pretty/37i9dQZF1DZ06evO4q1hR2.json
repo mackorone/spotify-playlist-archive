@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 69149,
+  "num_followers": 69204,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH7UgAAAAAAaIH3ptPNNu7B0uyLClhVp",
+  "snapshot_id": "aIAmAAAAAAAXEdtWzXvxd8wBDuoOe9LD",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 136760,
+      "name": "Hablando Claro",
+      "url": "https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prohibido (En Vivo)",
         "url": "https://open.spotify.com/album/7ij7uJXtBAxjZswsqYLfxl"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 178202,
       "name": "Prohibido (En Vivo)",
       "url": "https://open.spotify.com/track/2oaXSRWXf0pjmODxwKBxmq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 136760,
-      "name": "Hablando Claro",
-      "url": "https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "El Borrego",
-      "url": "https://open.spotify.com/track/7pdDsYNYQPf50Bwza8ErYm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Te Ha Dado Esa Mujer",
         "url": "https://open.spotify.com/album/4pq7pkqVX2VkbwRoESuCH1"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 200545,
       "name": "Qu\u00e9 Te Ha Dado Esa Mujer",
       "url": "https://open.spotify.com/track/6RxkpvxZ4qN2MTa7o8KVqz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "El Borrego",
+      "url": "https://open.spotify.com/track/7pdDsYNYQPf50Bwza8ErYm"
     },
     {
       "added_at": null,

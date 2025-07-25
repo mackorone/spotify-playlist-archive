@@ -1,13 +1,29 @@
 {
   "description": "This is Slipknot. The essential tracks, all in one playlist.",
-  "num_followers": 1043377,
+  "num_followers": 1043595,
   "original_name": "This Is Slipknot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH7UgAAAAAAlWrCwhswBeug9uY7iPAma",
+  "snapshot_id": "aIAmAAAAAAC3pXeZeaiiahtW0iuQF6ly",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prosthetics (Demo)",
+        "url": "https://open.spotify.com/album/4mkbid66ndHNU59JnnPeRE"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 335666,
+      "name": "Prosthetics - Demo",
+      "url": "https://open.spotify.com/track/39ggqY0jePP4abSpnfenvN"
+    },
     {
       "added_at": null,
       "album": {

@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-413 songs - 1 day 0 hr 15 min
+414 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [好多話想對你講](https://open.spotify.com/track/4yqKs33VoYAgBkF8SUwrWH) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu) | [好多話想對你講](https://open.spotify.com/album/1UxbkWXnkQf7Lf8ZIXESuM) | 3:59 | 2025-05-08 | 2025-06-07 |
 | [好想 \- 戲劇《好想和你在一起》片頭曲](https://open.spotify.com/track/1gWK2W3UnyatosWIjz4Gda) | [Kuo Shu\-Yao](https://open.spotify.com/artist/2YyCcOAo9HUfReP3xbe65c) | [好想 \(戲劇《好想和你在一起》片頭曲\)](https://open.spotify.com/album/7l5FZcosIcto7LiMwkaE6k) | 4:06 | 2022-06-13 | 2022-06-18 |
 | [如果月亮會說話](https://open.spotify.com/track/6i6Lrq6Lkfsjw4WCLOr6zp) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [如果月亮會說話](https://open.spotify.com/album/14Obw8mKb6Ko18PDc9Tkaz) | 3:02 | 2024-10-24 |  |
+| [妳和吉他](https://open.spotify.com/track/4Awqso6WrJx5digvN6RSOi) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [妳和吉他](https://open.spotify.com/album/6eGFNZ1B6g8ZWqDCGxr9yj) | 3:09 | 2025-07-24 |  |
 | [妳看這是我的女朋友](https://open.spotify.com/track/5Ru7JmXWYeGBmwrysslteo) | [祁聖翰](https://open.spotify.com/artist/3MWlzbPRqwOGSn6II9duXc) | [妳看這是我的女朋友](https://open.spotify.com/album/6586J9hr3zPm1I1jo8yFiP) | 3:11 | 2022-06-20 | 2022-07-24 |
 | [孔雀鱼](https://open.spotify.com/track/1KvBUNDawviLSW1UoO6JKF) | [Jyin Poh](https://open.spotify.com/artist/29cY2K49rS8htpEHUtn0Mj) | [一半太阳一半月亮](https://open.spotify.com/album/38dSEm9KOAhRqw04pbRVPS) | 3:49 | 2022-06-06 | 2022-07-29 |
 | [寶藏男孩](https://open.spotify.com/track/0IrXd9WPd91uRJ4huLFU7e) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH) | [寶藏男孩](https://open.spotify.com/album/34g5tiDSPmDY8LOYKFJm2g) | 3:21 | 2023-07-31 | 2023-08-08 |
@@ -319,7 +320,7 @@
 | [海绵宝宝](https://open.spotify.com/track/71dfmgOUiooQLv7ty0utOO) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/5W7iavXoJXfMRL9rhTQWCi) | 3:18 | 2023-06-05 | 2024-04-19 |
 | [海绵宝宝](https://open.spotify.com/track/7kKXZL7nkWcm7wx8zNqwNc) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/7GKyJqtbiA17PS4COyAwfd) | 3:18 | 2022-06-06 | 2022-07-28 |
 | [渐暖](https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX) | [時代少年團](https://open.spotify.com/artist/6I36DXLxkJxYeq82tDH4zz) | [渐暖](https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd) | 3:10 | 2022-06-13 |  |
-| [溫泉](https://open.spotify.com/track/04GpBu5gm14iLJRfmwi4RS) | [許嵩](https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV), [劉美麟](https://open.spotify.com/artist/5VjJhwgGrlT9YJCEPoAL3G) | [溫泉](https://open.spotify.com/album/59R817eQRIXIiAemtJKp6x) | 4:43 | 2022-06-06 |  |
+| [溫泉](https://open.spotify.com/track/04GpBu5gm14iLJRfmwi4RS) | [許嵩](https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV), [劉美麟](https://open.spotify.com/artist/5VjJhwgGrlT9YJCEPoAL3G) | [溫泉](https://open.spotify.com/album/59R817eQRIXIiAemtJKp6x) | 4:43 | 2022-06-06 | 2025-07-25 |
 | [漫漫](https://open.spotify.com/track/2WORLa1qchGvuJIACGl5jW) | [Q.luv](https://open.spotify.com/artist/3FmagrgN5BnN7CtSHN1gBh) | [漫漫](https://open.spotify.com/album/3AkF5v0TqtZT7RVabxEK0M) | 3:20 | 2024-01-15 | 2024-01-29 |
 | [漫畫家](https://open.spotify.com/track/7ECQQiLn4LeQtWRSKIYI8e) | [有感覺](https://open.spotify.com/artist/7uSnXddSw3Vrj8tM7tynMy) | [漫畫家](https://open.spotify.com/album/2a46sQ6QQw86SdZND2T4aE) | 3:57 | 2022-06-27 | 2022-07-05 |
 | [為你著迷](https://open.spotify.com/track/2GlPXdHY1psEVf1Ox9A2JA) | [Daniel Lo](https://open.spotify.com/artist/5ecXGNDkVKndKd0lvODR89), [卓文萱](https://open.spotify.com/artist/5XHBjJm3bCgQCjpnInCxfT) | [體驗](https://open.spotify.com/album/2rB04GT8cvE8HM8g0f8pKf) | 4:34 | 2022-06-27 | 2022-07-01 |

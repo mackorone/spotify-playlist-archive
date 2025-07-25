@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 
 > Ambient drone to make you feel weightless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,158 likes - 208 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,246 likes - 208 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 | 35 | [Iridescent Passage](https://open.spotify.com/track/0RsVTuIcFhkKDvTP6W2cvw) | [pinefield](https://open.spotify.com/artist/3EfAZgGGxA1yRAX5T3Ah3N) | [Iridescent Passage](https://open.spotify.com/album/4nruzmtezANMzcx8kHfyoi) | 2:37 |
 | 36 | [Estuaries](https://open.spotify.com/track/4mZtRHGHhqgbIrOgZY7OEG) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Estuaries](https://open.spotify.com/album/1zFFRN9xj0EGJloPm3CNiL) | 3:33 |
 | 37 | [Celestial Silence](https://open.spotify.com/track/2ZDVsZgCA1tQ0akgVxxlzA) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Celestial Silence](https://open.spotify.com/album/0IWhVnatzsGbfvDrGklbwi) | 2:42 |
-| 38 | [Celestial Tides](https://open.spotify.com/track/23ew6FqfWK92kzXWw1Lgi8) | [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD) | [Celestial Tides](https://open.spotify.com/album/658NBj0E1TFeNV2uRpe755) | 2:38 |
+| 38 | [Celestial Tides](https://open.spotify.com/track/23ew6FqfWK92kzXWw1Lgi8) | [tenebrae](https://open.spotify.com/artist/0Pot957YoZubiuyhOPCIay) | [Celestial Tides](https://open.spotify.com/album/658NBj0E1TFeNV2uRpe755) | 2:38 |
 | 39 | [Glowing Serenity](https://open.spotify.com/track/3uB7A1ZPamTIQKCjPg8LG8) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Glowing Serenity](https://open.spotify.com/album/4tlf1Tm9VYTpFILVuRoglN) | 2:45 |
 | 40 | [Lightbeams](https://open.spotify.com/track/5nbZ3p6GLmCsGlCnueESvT) | [Avvaken](https://open.spotify.com/artist/3V4slVRtEqnIeps8KRgnRG) | [Lightbeams](https://open.spotify.com/album/0YsAuPO8U5cMeqorjja8Or) | 3:07 |
 | 41 | [Plasma](https://open.spotify.com/track/1eHF7Zqk6wmvgHUE4YriVf) | [Lux Alba](https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz) | [Plasma](https://open.spotify.com/album/68CdU4KH60BeSPn70cG6Au) | 2:37 |

@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 194736,
       "name": "A Girl from Seoul",
       "url": "https://open.spotify.com/track/3m674WVMMNhhaTcZ5Vukv4"
@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 214736,
       "name": "Empty",
       "url": "https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr"
@@ -4597,6 +4597,24 @@
     },
     {
       "album": {
+        "name": "The 3rd Mini Album 'VarioUS'",
+        "url": "https://open.spotify.com/album/2hQrHvM24SifVMH30qCbKU"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211346,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/3SxUFfigBD28FSTPyiMEUm"
+    },
+    {
+      "album": {
         "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
         "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
       },
@@ -7026,6 +7044,24 @@
       "duration_ms": 215940,
       "name": "\uc5b4\ub5a4 \uc624\ud6c4 One Afternoon",
       "url": "https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY"
+    },
+    {
+      "album": {
+        "name": "\uc5ec\ub984\ud544\ub984 \u590f\u306e\u30d5\u30a3\u30eb\u30e0 (Summer Film)",
+        "url": "https://open.spotify.com/album/679TRV9xiCqqOIZa2iwFrq"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193758,
+      "name": "\uc5ec\ub984\ud544\ub984 \u590f\u306e\u30d5\u30a3\u30eb\u30e0 (Summer Film)",
+      "url": "https://open.spotify.com/track/24kPqpfBn3DNDAaeqEXaD0"
     },
     {
       "album": {

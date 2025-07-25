@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-321 songs - 18 hr 15 min
+322 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Creator](https://open.spotify.com/track/1mbLvyFNIifliPtmMmRQN9) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Tricky Trials \(Original Game Soundtrack\)](https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst) | 2:57 | 2024-05-02 |  |
 | [Cubism](https://open.spotify.com/track/1kNX0OJo68zyYfeyTDyp78) | [Qisano](https://open.spotify.com/artist/4lxIvq3a7DcynJVycpSpML) | [Cubism](https://open.spotify.com/album/758JEaGEMDLXtFFCLxs1wc) | 3:25 | 2025-06-29 |  |
 | [Culling!](https://open.spotify.com/track/74hrlXt0b4gf3hJcqjYcom) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:08 | 2025-05-20 |  |
+| [Cure \(VIVINOS \- ALNST Original Soundtrack Part.7\)](https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF) | [AKUGETSU](https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp), [PARK BYEONG HOON](https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2) | [Cure \(VIVINOS \- ALNST Original Soundtrack Part.7\)](https://open.spotify.com/album/4dLW62kTXGOTpmFoHIDULe) | 4:07 | 2025-07-24 |  |
 | [curtain call](https://open.spotify.com/track/24NKOHv5J6YUXfYbHUEEhg) | [KANKAN](https://open.spotify.com/artist/2fmKgANQggORAvCBJCUOuD), [yowanecity](https://open.spotify.com/artist/7tZujezUi8x3PLTW0E0nyr) | [curtain call](https://open.spotify.com/album/4KKlVYEQF5TqfhPQHA9bAR) | 3:19 | 2024-07-01 |  |
 | [damn](https://open.spotify.com/track/7dNxxkapvf5eRkw24PHSpy) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 4:19 | 2023-11-20 |  |
 | [Dance In The Game](https://open.spotify.com/track/7kSYwyMv5dnc5aORNwZb15) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ZAQPOT](https://open.spotify.com/album/623vd5so8U7NFy7tFWmTgV) | 3:28 | 2023-10-07 |  |

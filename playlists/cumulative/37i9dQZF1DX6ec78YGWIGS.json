@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: FMK",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Angela Torres",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Blame Me",
+        "url": "https://open.spotify.com/album/6dWME0p4bey7a8iH529T5x"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135015,
+      "name": "Blame Me",
+      "url": "https://open.spotify.com/track/0olZLDossSmVrs0NQbCF5m"
+    },
+    {
+      "album": {
         "name": "BONNIE & CLYDE",
         "url": "https://open.spotify.com/album/7tkGoDNDIO4xvoWUo2sSFN"
       },
@@ -1666,6 +1684,28 @@
       "duration_ms": 224725,
       "name": "COSAS QUE NO TE DIJE",
       "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
+    },
+    {
+      "album": {
+        "name": "COSITA LINDA",
+        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139483,
+      "name": "COSITA LINDA",
+      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
     },
     {
       "album": {
@@ -2407,6 +2447,28 @@
     },
     {
       "album": {
+        "name": "Dresscode",
+        "url": "https://open.spotify.com/album/2v1DCO1ljOsAzeHZe4kgs0"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180836,
+      "name": "Dresscode",
+      "url": "https://open.spotify.com/track/4FKcnUuw9Kxvb8cjsGyCRu"
+    },
+    {
+      "album": {
         "name": "DUMBAI",
         "url": "https://open.spotify.com/album/32jPIll7NE64gqohc6twQC"
       },
@@ -2616,7 +2678,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 195185,
       "name": "El\u00e1stico",
       "url": "https://open.spotify.com/track/3ApFiXaRRWgDboSybvH7Ii"
@@ -2652,7 +2714,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 157746,
       "name": "en la cara",
       "url": "https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6"
@@ -2932,6 +2994,28 @@
       "duration_ms": 152339,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/67PVHYTRLs1ysVBigqSOau"
+    },
+    {
+      "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/0VZfowPKfOyElAYN7M6CY4"
+      },
+      "artists": [
+        {
+          "name": "Eicost",
+          "url": "https://open.spotify.com/artist/0rGQtr18BoWHl2SNLy70Bn"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140700,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/0OULNjWE33RNGFWh9p9cpV"
     },
     {
       "album": {
@@ -5424,7 +5508,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 171847,
       "name": "Montecarlo",
       "url": "https://open.spotify.com/track/0I0EAJKaGTSxdfMJhZqus7"
@@ -5859,6 +5943,24 @@
     },
     {
       "album": {
+        "name": "NO ME OLVIDES",
+        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172766,
+      "name": "NO ME OLVIDES",
+      "url": "https://open.spotify.com/track/4HiMbzniEtE5memDJwvQDD"
+    },
+    {
+      "album": {
         "name": "No Soy Yo",
         "url": "https://open.spotify.com/album/6zD7MCeIQcvPsTYcVLmbTa"
       },
@@ -6256,6 +6358,24 @@
       "duration_ms": 159677,
       "name": "Olvidate",
       "url": "https://open.spotify.com/track/6YHiWnXQyF0yM4oxGk54X4"
+    },
+    {
+      "album": {
+        "name": "NO ME OLVIDES",
+        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132290,
+      "name": "OOPS!",
+      "url": "https://open.spotify.com/track/3sSDoM8C5OyagBQHzBufW7"
     },
     {
       "album": {
@@ -7246,7 +7366,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 190546,
       "name": "REPLAY",
       "url": "https://open.spotify.com/track/3LIVZogvUUJ996kjjMAmJv"
@@ -7902,7 +8022,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 178007,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/0Pfk6RzGNhwEP6HeEGH7Ya"
@@ -8470,7 +8590,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 183880,
       "name": "Triste",
       "url": "https://open.spotify.com/track/4ydnzwO3B2AkhvGwxKs8qG"
@@ -9005,6 +9125,28 @@
     },
     {
       "album": {
+        "name": "voltaje",
+        "url": "https://open.spotify.com/album/3fuDLusWAKkcWK9AkyvOt0"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "voltaje",
+      "url": "https://open.spotify.com/track/7jNIfTV83ZxdldW1cY8PXc"
+    },
+    {
+      "album": {
         "name": "Bellas Artes Malas Vidas",
         "url": "https://open.spotify.com/album/6nQnNie5sdURxPiMW9cp0Y"
       },
@@ -9170,7 +9312,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 144491,
       "name": "Ya No Vuelvas",
       "url": "https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV"

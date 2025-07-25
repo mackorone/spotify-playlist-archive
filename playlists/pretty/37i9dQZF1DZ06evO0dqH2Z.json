@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4263,
+  "num_followers": 4260,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH7UgAAAAADrYhNB4Vppx30mLI7sxQpR",
+  "snapshot_id": "aIAmAAAAAABw2yuLyAZIAQpyYaUlNjBN",
   "tracks": [
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balance and Composure & Tigers Jaw Split",
-        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+        "name": "Belongs To The Dead",
+        "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 169840,
-      "name": "Dent",
-      "url": "https://open.spotify.com/track/6Anb5Hz5Z7VvjBtzD3jBMo"
+      "duration_ms": 150047,
+      "name": "Okay Paddy",
+      "url": "https://open.spotify.com/track/4wy6NAhezeoaHb5Uez0MK2"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belongs To The Dead",
-        "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 150047,
-      "name": "Okay Paddy",
-      "url": "https://open.spotify.com/track/4wy6NAhezeoaHb5Uez0MK2"
+      "duration_ms": 169840,
+      "name": "Dent",
+      "url": "https://open.spotify.com/track/6Anb5Hz5Z7VvjBtzD3jBMo"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake Death",
-        "url": "https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 128520,
-      "name": "Fake Death",
-      "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Clothes",
         "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 159151,
       "name": "Swear",
       "url": "https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake Death",
+        "url": "https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 128520,
+      "name": "Fake Death",
+      "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Studio 4 Acoustic Session",
-        "url": "https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 228928,
-      "name": "Carry You Over",
-      "url": "https://open.spotify.com/track/6k8PzX1lx7tqzyY1l7O8u5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belongs To The Dead",
         "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 180070,
       "name": "Danielson",
       "url": "https://open.spotify.com/track/1Bpq1VpKteNzOLkqz9BHDK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Studio 4 Acoustic Session",
+        "url": "https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 228928,
+      "name": "Carry You Over",
+      "url": "https://open.spotify.com/track/6k8PzX1lx7tqzyY1l7O8u5"
     },
     {
       "added_at": null,

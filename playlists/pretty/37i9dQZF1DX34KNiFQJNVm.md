@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Kevin o Chris, Filipe Ret, Poesia Acústica 17 e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,123,517 likes - 88 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,123,511 likes - 88 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

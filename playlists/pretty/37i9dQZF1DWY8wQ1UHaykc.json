@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu terpopuler dari dekade 2010an. Cover: Noah",
-  "num_followers": 274127,
+  "num_followers": 274204,
   "original_name": "Ngetren di 2010an",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aG6gKQAAAADbN7nHrkAiAAt7g/wwQwh2",
+  "snapshot_id": "aILFIgAAAAB7cTE+CBnzmEJvfI1LGMAZ",
   "tracks": [
     {
       "added_at": "2025-07-09 17:00:25",
@@ -23,6 +23,26 @@
       "duration_ms": 266286,
       "name": "Separuh Aku",
       "url": "https://open.spotify.com/track/4sJmv194lQKWjytpaxH1Vj"
+    },
+    {
+      "added_at": "2025-07-24 23:43:30",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd"
+      },
+      "artists": [
+        {
+          "name": "Fatin",
+          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+        },
+        {
+          "name": "Mikha Angelo",
+          "url": "https://open.spotify.com/artist/1TsPGD8cCf3JaSGrC7sLkf"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Kaulah Kamuku (feat. Mikha Angelo)",
+      "url": "https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q"
     },
     {
       "added_at": "2025-07-09 17:00:25",

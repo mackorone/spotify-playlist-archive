@@ -2,9 +2,9 @@
 
 ### [Alt\. Ghana](https://open.spotify.com/playlist/37i9dQZF1DWTNJatHBkbx9)
 
-> From the alternative scene in Ghana\. Cover: Mister Kay
+> From the alternative scene in Ghana\. Cover:Amaarae
 
-212 songs - 10 hr 31 min
+213 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,13 +73,14 @@
 | [Fortified](https://open.spotify.com/track/3QQI0IgPr82JQr9xRAuRE9) | [Freddie Gambini](https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg) | [Fortified](https://open.spotify.com/album/25npZ3uCUPutKiwEGHalxP) | 2:44 | 2024-10-04 | 2024-11-08 |
 | [Gbonyo Party](https://open.spotify.com/track/74UDz0eNWuVPowvxAo9qTk) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Tsotsoo](https://open.spotify.com/album/57y1bzHoBIHFlMEz5APeCc) | 2:07 | 2024-05-10 | 2024-06-01 |
 | [Ghana Bop](https://open.spotify.com/track/2tB0TY5qVlyn4Zvk7d3b7Z) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:44 | 2024-05-10 | 2024-07-27 |
+| [Girlie\-Pop!](https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Girlie\-Pop!](https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23) | 2:03 | 2025-07-25 |  |
 | [Give It Back](https://open.spotify.com/track/0GamHHdEZTOeKl6fSCY0I3) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Chief Kellz](https://open.spotify.com/artist/4eHWOufqo0n5FnfpEl25Ly) | [Tsotsoo](https://open.spotify.com/album/57y1bzHoBIHFlMEz5APeCc) | 3:43 | 2024-05-10 | 2025-04-12 |
 | [Go Away](https://open.spotify.com/track/1p8VRVuGMKDNTaZ35vJA8Y) | [Josh Blakk](https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l) | [Catch\-22](https://open.spotify.com/album/74tStMqQnvvgYjMXRd6XZo) | 2:45 | 2025-05-23 | 2025-07-18 |
 | [Godzilla \(feat\. Darkovibes, KiddBlack\)](https://open.spotify.com/track/5uKodxytjsjSl9yiOHnbJG) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Même Tape](https://open.spotify.com/album/6rTmz2G8NKu9GkrAA5Yumv) | 3:21 | 2024-05-10 | 2024-08-09 |
 | [Gold Coast](https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Gold Coast](https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x) | 3:40 | 2024-07-12 | 2024-10-19 |
 | [Hankipanki \- Remix](https://open.spotify.com/track/1AvXjAlNaFNlDpSMO4qPum) | [Josh Blakk](https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [O.N.E \(Deluxe\)](https://open.spotify.com/album/7MxR3T4j6QRmjsPftzciOI) | 3:39 | 2024-06-14 | 2024-07-12 |
 | [Hearted](https://open.spotify.com/track/1RKOvN96zUyfaSNgU307F6) | [Yhaw hero](https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d) | [Hearted](https://open.spotify.com/album/7pASSzJEyzmpt0x5Ev9AIq) | 3:19 | 2024-07-12 | 2025-02-22 |
-| [Heaven Dey Burn](https://open.spotify.com/track/74oL9AzjWzMu8C24lbya03) | [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV), [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [Heaven Dey Burn](https://open.spotify.com/album/43uMX8GO386A1UoeiDgSlR) | 5:37 | 2025-01-31 |  |
+| [Heaven Dey Burn](https://open.spotify.com/track/74oL9AzjWzMu8C24lbya03) | [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV), [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [Heaven Dey Burn](https://open.spotify.com/album/43uMX8GO386A1UoeiDgSlR) | 5:37 | 2025-01-31 | 2025-07-25 |
 | [Hello](https://open.spotify.com/track/15GZYiGVvGfR2FpIQQ4TPX) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Hello](https://open.spotify.com/album/42x6GlAegX4dxYKB0R4ALK) | 3:09 | 2024-05-10 | 2024-05-17 |
 | [Here I Stand](https://open.spotify.com/track/6p5SGpqNHHX9r2RcSpGax4) | [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [Here I Stand](https://open.spotify.com/album/0SMjKGc2Hq9NpmmZK3aqaR) | 3:08 | 2024-05-10 | 2024-05-24 |
 | [How Dare You](https://open.spotify.com/track/3zx16CX0uPhOxNvpYq6d64) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [How Dare You](https://open.spotify.com/album/5r1Xarkef6UT6W3jcT2h1t) | 2:27 | 2024-05-10 | 2024-09-13 |

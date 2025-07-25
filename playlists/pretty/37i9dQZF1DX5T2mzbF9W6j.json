@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 111886,
+  "num_followers": 111892,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-07-04 09:45:05",
       "album": {
+        "name": "No co Ty",
+        "url": "https://open.spotify.com/album/22xbCPIQgn3GtC218yfKBR"
+      },
+      "artists": [
+        {
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
+        }
+      ],
+      "duration_ms": 159374,
+      "name": "No co Ty",
+      "url": "https://open.spotify.com/track/2riYbbQSpMG2rKL9uKHZn8"
+    },
+    {
+      "added_at": "2025-07-04 09:45:05",
+      "album": {
         "name": "Underneath The Blue (feat. Joe Cleere)",
         "url": "https://open.spotify.com/album/0MlrZBUO8EqGlN19gbFnFt"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 142898,
       "name": "Underneath The Blue (feat. Joe Cleere)",
       "url": "https://open.spotify.com/track/0LbdqwL82dT9RWREPQd9zS"
-    },
-    {
-      "added_at": "2025-07-04 09:45:05",
-      "album": {
-        "name": "No co Ty",
-        "url": "https://open.spotify.com/album/22xbCPIQgn3GtC218yfKBR"
-      },
-      "artists": [
-        {
-          "name": "Oskar Cyms",
-          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
-        }
-      ],
-      "duration_ms": 159374,
-      "name": "No co Ty",
-      "url": "https://open.spotify.com/track/2riYbbQSpMG2rKL9uKHZn8"
     },
     {
       "added_at": "2025-07-04 09:45:05",

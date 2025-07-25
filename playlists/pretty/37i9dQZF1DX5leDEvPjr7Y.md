@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5leDEvPjr7Y.md) - [plain]
 
 > A playlist by <a href="spotify:artist:4e9vQfyvvDlcQAkjSdFE4x">Maya Hawke</a> inspired by "Big Idea" from her new album <a href="spotify:album:5AyYM1rZBAiLO0EcgLEaJ2">Chaos Angel</a> \. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,918 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,927 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

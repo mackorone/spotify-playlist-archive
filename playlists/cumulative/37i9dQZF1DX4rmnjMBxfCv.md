@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: SHAF
 
-272 songs - 17 hr 58 min
+273 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Entaha \(Salvatore Ganacci MDLBEAST Remix\)](https://open.spotify.com/track/19k16k7aJEjAkOnSxKxyc7) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI), [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Entaha \(Salvatore Ganacci MDLBEAST Remix\)](https://open.spotify.com/album/5tM7NQ9Bmwxe2HMUf44ltE) | 3:49 | 2023-08-16 | 2024-01-13 |
 | [Enti Malathi](https://open.spotify.com/track/4HoXdGDFqgDkUAOPoBAEOi) | [Khair Music \- جماعة خير](https://open.spotify.com/artist/31qZDM1859ctdIDL4ClF0g) | [A Curse](https://open.spotify.com/album/72cv8te4gVqt65jQCgQBE2) | 4:23 | 2022-03-30 | 2022-11-26 |
 | [Enty We Ana](https://open.spotify.com/track/0FAabsNs2RITfLn3JWr9Hk) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathallah](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [Enty We Ana](https://open.spotify.com/album/0ndoSnI8RohdBRCmlXfdBH) | 5:05 | 2022-03-30 | 2022-08-23 |
-| [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-04-21 |  |
+| [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-04-21 | 2025-07-25 |
 | [Faqat Ala Bali](https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp) | [Gharam Electric](https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7) | [Faqat Ala Bali](https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P) | 6:43 | 2022-11-08 | 2023-06-24 |
 | [Fe Einy \- Deep House](https://open.spotify.com/track/3fOFvpwuPppmFHpNm5Rfni) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Fe Einy](https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt) | 2:50 | 2023-02-02 | 2023-06-24 |
 | [Fe Hetta Tanya](https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Hetta Tanya](https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF) | 4:17 | 2022-03-30 | 2023-06-24 |
@@ -227,6 +227,7 @@
 | [Sidi Mansour](https://open.spotify.com/track/4uMXGB6AahafnnA0Jh8otb) | [Kurd Maverick](https://open.spotify.com/artist/6A3TktZj6p8D0bmbcfZEKE) | [Sidi Mansour](https://open.spotify.com/album/3PgKiozTIGWLXXZ9QK30x6) | 2:22 | 2025-05-15 |  |
 | [Silent](https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP) | [Silent](https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR) | 2:52 | 2022-03-30 | 2022-11-26 |
 | [Sleepwalker](https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Ketamine Girl](https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2) | 3:32 | 2023-08-16 | 2023-11-17 |
+| [Sobhano](https://open.spotify.com/track/4emnEdckjB80lTJyECGuW4) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Mesh Tabee3y](https://open.spotify.com/album/6v61DYXmWE0FQtSsu2szS9) | 5:13 | 2025-07-24 |  |
 | [Solfa \(Tila\)](https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rindss](https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Solfa \(Tila\)](https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw) | 3:14 | 2025-02-28 |  |
 | [Souf](https://open.spotify.com/track/75dgthlOwHnf7uOmSbC6gL) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Souf](https://open.spotify.com/album/1UaTYGyWIJz42vjz6g2JCo) | 4:02 | 2025-04-11 |  |
 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 | 2024-03-03 | 2025-06-13 |

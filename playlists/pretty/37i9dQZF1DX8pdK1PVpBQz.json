@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Dylan Atlantis",
-  "num_followers": 28394,
+  "num_followers": 28399,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIA3+wAAAAAJnUpea6zeEB1KJx/5i7/p",
+  "snapshot_id": "aIH75gAAAAAfJz7WNKZYo6GN3BJI/5TG",
   "tracks": [
     {
       "added_at": "2025-07-22 14:00:33",
@@ -167,6 +167,22 @@
       "duration_ms": 214104,
       "name": "This Place Is Ours",
       "url": "https://open.spotify.com/track/4m5fy1ZShRdL2XaDVk9J10"
+    },
+    {
+      "added_at": "2025-07-24 09:24:54",
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA"
+      },
+      "artists": [
+        {
+          "name": "sleepazoid",
+          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
+        }
+      ],
+      "duration_ms": 250268,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/4luxOEfutsNhpklD0kox93"
     },
     {
       "added_at": "2025-07-15 14:00:19",
@@ -1623,26 +1639,6 @@
       "duration_ms": 210504,
       "name": "GHOSTBUSTA",
       "url": "https://open.spotify.com/track/7lrJE84A81l3nWZp1p5KFW"
-    },
-    {
-      "added_at": "2025-07-15 14:00:19",
-      "album": {
-        "name": "legitimate dj behaviour",
-        "url": "https://open.spotify.com/album/6DDSY0wf9AfisUw79jKTiz"
-      },
-      "artists": [
-        {
-          "name": "HARLEY GIRL",
-          "url": "https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao"
-        },
-        {
-          "name": "Hey Baby",
-          "url": "https://open.spotify.com/artist/04yeLehSl0kPL2mXyio7oU"
-        }
-      ],
-      "duration_ms": 158694,
-      "name": "in the city",
-      "url": "https://open.spotify.com/track/2lxxRy7IAA1wwMTqXJIFx9"
     }
   ],
   "unique_name": "Fresh Finds AU & NZ",

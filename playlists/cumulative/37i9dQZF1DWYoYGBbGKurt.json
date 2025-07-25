@@ -10505,6 +10505,24 @@
     },
     {
       "album": {
+        "name": "escape",
+        "url": "https://open.spotify.com/album/7vaiznSfiBHbBB0WJ36xFZ"
+      },
+      "artists": [
+        {
+          "name": "Lily of The Valley",
+          "url": "https://open.spotify.com/artist/5aaaOy8v47CPgiLzGZriXH"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161379,
+      "name": "escape",
+      "url": "https://open.spotify.com/track/55aZtxTW9S0w80j5rswRtN"
+    },
+    {
+      "album": {
         "name": "Escape To The Sky",
         "url": "https://open.spotify.com/album/1KYq3bCj42k7VqMJ8nZNhU"
       },
@@ -14024,6 +14042,24 @@
       "duration_ms": 155965,
       "name": "Growing",
       "url": "https://open.spotify.com/track/0hspihM9DkbOFPEFxk2uT3"
+    },
+    {
+      "album": {
+        "name": "growing still",
+        "url": "https://open.spotify.com/album/02d2LqrUcKC1H2KxCE9Vjx"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166578,
+      "name": "growing still",
+      "url": "https://open.spotify.com/track/3RSxBajUUnUfHPZbriPzWT"
     },
     {
       "album": {
@@ -19804,7 +19840,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 154500,
       "name": "looking for...",
       "url": "https://open.spotify.com/track/4wxPvXFOupZ7kWVndRIS2m"
@@ -26777,6 +26813,24 @@
     },
     {
       "album": {
+        "name": "Quiet",
+        "url": "https://open.spotify.com/album/71hJra7ZqJ4B5DkD4Ow7KQ"
+      },
+      "artists": [
+        {
+          "name": "Soft Dunes",
+          "url": "https://open.spotify.com/artist/6VxhYRvoYXiPFKVKGzzhPI"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Quiet",
+      "url": "https://open.spotify.com/track/43Lk7K3hE0j50Y8YkX5CrR"
+    },
+    {
+      "album": {
         "name": "Quiet Pulse",
         "url": "https://open.spotify.com/album/53X8PzRYZrcqmXrMgRuBuT"
       },
@@ -30052,7 +30106,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 170376,
       "name": "snoozed",
       "url": "https://open.spotify.com/track/6HroDUYsLg9I6qtcfwIkmn"
@@ -30750,7 +30804,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 127500,
       "name": "Soulfood",
       "url": "https://open.spotify.com/track/5AtMwGsUnxxvmlsPR2dPC0"

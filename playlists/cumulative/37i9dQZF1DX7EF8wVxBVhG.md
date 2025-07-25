@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-354 songs - 17 hr 46 min
+356 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Crystal Creek \(Gamma Drone L184Hz R209Hz\)](https://open.spotify.com/track/0wxy4docDeKk9o7373vSKo) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Halcyon Daydream](https://open.spotify.com/album/1DjC6VA3VUrBr5xgQCV9SF) | 4:24 | 2020-12-03 | 2021-06-04 |
 | [Crystalimbic \(Beta Waves\)](https://open.spotify.com/track/4YIUdBVmNnowkHiXLivf2c) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Crystalimbic](https://open.spotify.com/album/79S0cgTQtXbwY4IC2REGFI) | 3:17 | 2021-02-10 | 2024-11-08 |
 | [Cycles \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/track/1JY5XG8cu7ly1fYlDhhpSL) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Cycles \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/album/2WQPXMgT7qgMMrZjBiMD14) | 2:10 | 2023-03-10 | 2023-10-20 |
+| [Daylight 92Hz \- 100 Hz](https://open.spotify.com/track/0ic9DdsIpyrGJ9CGKdV7cF) | [Rerose](https://open.spotify.com/artist/6LcZxTjlhi7vsqM2acZonn) | [Daylight 92Hz \- 100 Hz](https://open.spotify.com/album/4iTQPv9ocnTxzu91LtmUYr) | 2:04 | 2025-07-24 |  |
 | [Deep \- Alpha sinus 15 \- 40hz](https://open.spotify.com/track/3VgpWSXHxj0xHjpD6ib37F) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Fields](https://open.spotify.com/album/1WDadxIT9t8fskmLJYCVCe) | 4:08 | 2021-05-06 | 2021-09-02 |
 | [Deep Focus Alpha Sinus 92Hz \- 99Hz](https://open.spotify.com/track/2Bp0ZhtzZz4hz8DrF8L5Xo) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:17 | 2021-09-02 |  |
 | [Deep Ocean \- Alpha Sinus 112Hz \- 119Hz](https://open.spotify.com/track/6hYIZ3STECmS3aIZFY9sGF) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Deep Ocean](https://open.spotify.com/album/5FpueKwppPw5WOl7XONwWP) | 2:56 | 2021-02-24 | 2022-03-19 |
@@ -311,6 +312,7 @@
 | [Power Beta Sinus](https://open.spotify.com/track/7qikjgjcQ3ZVcI1miI6kKi) | [Mindful Minded](https://open.spotify.com/artist/0gaBoYga4NzxdfQmuw9Iht) | [Aum Mantra Beta Sinus](https://open.spotify.com/album/2Ns9IEot9OdpZqLrTSseWZ) | 1:48 | 2021-02-03 | 2021-06-18 |
 | [Pure 57hz Gamma 85.815hz \- 143.02hz](https://open.spotify.com/track/3yyWDFI8VZRjietUhlIS4K) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [432hz Gama Waves](https://open.spotify.com/album/5hXNqqanZ7b8fXcOhzznRA) | 3:25 | 2021-04-10 | 2021-05-06 |
 | [Quiet Arrival \(Alpha Binaural 116 Hz \- 124 Hz\)](https://open.spotify.com/track/4ZnNZmV9HbPMYdRaDVxvnE) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Quiet Arrival \(Alpha Binaural 116 Hz \- 124 Hz\)](https://open.spotify.com/album/6IPwSmMVscFzZibe8FsjdS) | 3:50 | 2025-05-16 |  |
+| [Red Stars 95 \- 102 hz](https://open.spotify.com/track/5xE3tvpYLQqgUfpj3eKPF2) | [ÆSCN](https://open.spotify.com/artist/0nqKzcHzWluUbZzzdnKAIq) | [Red Stars 95 \- 102 hz](https://open.spotify.com/album/3YsYL5CP9n4Fm9JLnC1j9c) | 2:53 | 2025-07-24 |  |
 | [reflection \- Binaural Alpha Sinus 90Hz \- 98Hz](https://open.spotify.com/track/3LYevpQVcwmiH4S0OGTqnP) | [Pixeo](https://open.spotify.com/artist/2CdpLUBjbFoWgopv6lTTYf) | [Binaural Reflections](https://open.spotify.com/album/3dxCxziHGfiIaqaJM4eTGL) | 2:18 | 2021-06-18 | 2024-08-31 |
 | [Relaxed Flow Alpha 8Hz](https://open.spotify.com/track/3CZ6xE0YWhxwNZub2wVK3h) | [Sonic Gateway](https://open.spotify.com/artist/7k8bVHxTFUtko95PtysFOY) | [Subconscious Bliss](https://open.spotify.com/album/1cx79V42UvggJV8k6GUFxv) | 2:05 | 2021-08-05 | 2021-09-02 |
 | [Rem Theta 60 Hz \- 66 Hz](https://open.spotify.com/track/5YuGjPPKLwG9MudhO6yEqd) | [Naumanni](https://open.spotify.com/artist/5rXoIHL4cf1t1FHhiXiHOh) | [Rem Theta 60 Hz \- 66 Hz](https://open.spotify.com/album/5Krufo1z7IvhTpDj2RPgew) | 2:33 | 2025-06-17 |  |

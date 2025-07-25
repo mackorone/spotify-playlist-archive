@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-1,015 songs - 2 day 1 hr 35 min
+1,018 songs - 2 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Decipio](https://open.spotify.com/track/6yIapt71wzgrXfUVpaQoiT) | [Palaestrio](https://open.spotify.com/artist/5sXyHDr8pH922zvnRRLCb4) | [Decipio](https://open.spotify.com/album/6UMkRmzBaWDK89m3qVaEoE) | 3:20 | 2023-10-13 | 2024-07-16 |
 | [Decrease](https://open.spotify.com/track/3SSVWjIChzBgblu62DP6Dy) | [M\. Suremei](https://open.spotify.com/artist/5BlPckrd8L7D9g7I3Xc66X) | [Decrease](https://open.spotify.com/album/7Mx85vPdcZg1Vri3yxsTsG) | 2:57 | 2024-04-05 | 2025-04-12 |
 | [Deep Dive](https://open.spotify.com/track/5XpGnwCqMlGFi1x4YdlKFE) | [Ambienetic](https://open.spotify.com/artist/68sYM79L5H6v9c3x6IC0XD) | [Deep Dive](https://open.spotify.com/album/5QAkFwDV1ZSsxC1XyVu0sG) | 2:41 | 2021-11-10 | 2024-01-18 |
-| [Deep in Thought](https://open.spotify.com/track/5qBfZmizXEAc0X9jssVxPY) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Deep in Thought](https://open.spotify.com/album/2hOBkUc8kPwfNgvREJtRcc) | 2:56 | 2024-03-20 |  |
+| [Deep in Thought](https://open.spotify.com/track/5qBfZmizXEAc0X9jssVxPY) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Deep in Thought](https://open.spotify.com/album/2hOBkUc8kPwfNgvREJtRcc) | 2:56 | 2024-03-20 | 2025-07-25 |
 | [Deep rest](https://open.spotify.com/track/5TcqlIHwuNPh2Tcl6NgeJF) | [Mentitoso](https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL) | [Deep rest](https://open.spotify.com/album/2hYb3gWbv4ylpbYtlJpTkT) | 2:51 | 2024-09-11 |  |
 | [Deep Sleeper](https://open.spotify.com/track/7lwl3ScD69HlJQtk7h49nw) | [Tranquomo](https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3) | [Deep Sleeper](https://open.spotify.com/album/4GD1oZku0kELvN5DzXWVJV) | 2:43 | 2021-11-10 | 2024-04-06 |
 | [Deep Soul](https://open.spotify.com/track/3982hLjimRRPGIfInxlzyh) | [Sydney Woods](https://open.spotify.com/artist/4TmYC9ChYdsrhNwEKkKs2z) | [Deep Soul](https://open.spotify.com/album/7GjFApBQPjiEoZg1fvIXlr) | 2:43 | 2021-11-10 | 2024-01-18 |
@@ -316,6 +316,7 @@
 | [Elusion](https://open.spotify.com/track/7pPFhgsWnalylOU55IJGRd) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Elusion](https://open.spotify.com/album/0QsjebOtINMUtZ2g68XGGx) | 2:51 | 2023-08-04 | 2024-07-16 |
 | [Embraced](https://open.spotify.com/track/0N6hrwzFK8jpb8slS526ne) | [Matt Ullman](https://open.spotify.com/artist/3xSQWEeYHabo0FngiA3V4f) | [Embraced](https://open.spotify.com/album/1cm3AakOoDrn2dYaphUgNe) | 3:19 | 2024-05-20 | 2025-04-12 |
 | [Emerald Isles](https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Emerald Isles](https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd) | 3:53 | 2021-11-10 | 2022-03-25 |
+| [Emotional Intelligence](https://open.spotify.com/track/7cyQ7irn0EWtIIVQVak7SQ) | [Meloleon](https://open.spotify.com/artist/0KB7j94GTdhFMPEEmBMGAI) | [Emotional Intelligence](https://open.spotify.com/album/2UC3YnwQNZ0zE7v1Aj2Upu) | 3:01 | 2025-07-24 |  |
 | [Enchanted Twilight](https://open.spotify.com/track/6oHJlzLp4vt0W9DQENDtin) | [Ethereal Nexus](https://open.spotify.com/artist/2n6EstH6raQHsVPAz4zIYI) | [Enchanted Twilight](https://open.spotify.com/album/3Stp2UVAUbJuMrhJsj3jrD) | 2:42 | 2024-02-27 | 2025-01-23 |
 | [Encircled](https://open.spotify.com/track/34B2XFpwTgzk4Gv3Ek8KLM) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Encircled](https://open.spotify.com/album/1Ec0A4YevmFmbkWUTRHre2) | 2:47 | 2025-05-27 |  |
 | [Encore Une Fois](https://open.spotify.com/track/5aB3pTdKskrxVVfoOGl4bN) | [Alanna Brooks](https://open.spotify.com/artist/1xTG3LpQV7sTX86GrPnDEH) | [Heaven On Earth](https://open.spotify.com/album/2ZMy6y5uSEXUkYLpVYTHGA) | 3:20 | 2023-04-21 | 2023-08-19 |
@@ -335,6 +336,7 @@
 | [Essence](https://open.spotify.com/track/6dklA8QKFaS9iYIshadCPR) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Essence](https://open.spotify.com/album/4qm5Gh0BzhDGJ3dt4dTIvW) | 2:57 | 2023-06-30 | 2024-05-21 |
 | [Essence](https://open.spotify.com/track/6KTyy609tEMRS3jRuAJ6t2) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Essence](https://open.spotify.com/album/00vq3SlNRiYIOtGJCH5bjQ) | 2:51 | 2024-01-18 | 2025-02-05 |
 | [Estimate](https://open.spotify.com/track/7lm8gkHUvNKXmVX857S2KU) | [ispíritu](https://open.spotify.com/artist/0OVGamiaCriHwLRXWiorJA) | [Estimate](https://open.spotify.com/album/5OHNeLtXIg5umlCpCRJupX) | 2:46 | 2025-02-04 |  |
+| [Etera](https://open.spotify.com/track/375O8dkwGSfO89EH4BoOt7) | [Drift State](https://open.spotify.com/artist/4SfF4brNdtcM85Lp1pAOCX) | [Etera](https://open.spotify.com/album/6N8rYJElCz1m5pcSz9VaZm) | 2:48 | 2025-07-24 |  |
 | [Eternal Drift](https://open.spotify.com/track/3F8dD3bpSN4MiQtZJ4TRS1) | [Koen Parker](https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB) | [Eternal Drift](https://open.spotify.com/album/59Yown2MHetdJBLUXqGdeq) | 1:33 | 2021-11-10 | 2023-07-29 |
 | [Eternal Glow](https://open.spotify.com/track/6utIEcZZHk4AbF3fBVIlNM) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Eternal Glow](https://open.spotify.com/album/2sKXwQiIpJjRiUYnKF2OqV) | 2:47 | 2021-11-10 | 2024-01-18 |
 | [Eternal Light](https://open.spotify.com/track/7hdzLz89yAPsnBsNlXwP43) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Eternal Light](https://open.spotify.com/album/1SDjxeoJMd9mNqkOW60dVz) | 2:56 | 2024-08-30 | 2024-12-04 |
@@ -470,6 +472,7 @@
 | [Imagination](https://open.spotify.com/track/2ReSb2FXHx7n7tnhUUK66A) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Imagination](https://open.spotify.com/album/3v4GX1G3JqaBClvBqsSUzr) | 2:30 | 2024-07-22 | 2024-08-31 |
 | [Imagination](https://open.spotify.com/track/0g7ZjaAeHZqoYQ86Q2qBnq) | [Sleepscape Symphony](https://open.spotify.com/artist/57tR56LFbxldGWF23lI3YM) | [Imagination](https://open.spotify.com/album/73S2vjYmPD67aHdc0LohTd) | 3:01 | 2024-05-20 | 2024-07-10 |
 | [Imber Night Shift](https://open.spotify.com/track/5MsecUGfxZ2hGBoXPlJUEI) | [Imber Ora](https://open.spotify.com/artist/1U9Zsa9gXKdn6Q31FUbLEh) | [Imber Night Shift](https://open.spotify.com/album/44mkmiKRd9gb0t2N6po3mK) | 2:53 | 2021-11-10 | 2024-02-08 |
+| [In Another Universe](https://open.spotify.com/track/0AjSouQfaxxagCjemCJYC0) | [Noni Ammin](https://open.spotify.com/artist/6mUFb0nVX1RQqNS0jC5D0R) | [In Another Universe](https://open.spotify.com/album/6hjskRipbGqgb4xPpra1pm) | 2:37 | 2025-07-24 |  |
 | [In Balance](https://open.spotify.com/track/5ipYoy8xS7FCAZqGJl0cvg) | [Corda Una](https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N) | [The Deep Blue](https://open.spotify.com/album/2v3A2xyIhcjed6SeROftkB) | 2:46 | 2023-03-23 | 2024-02-08 |
 | [In Ether](https://open.spotify.com/track/08JyiystzBP00f3boEYPKS) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [In Ether](https://open.spotify.com/album/7xFS9jgV4AwJsDSZTCjLrA) | 2:46 | 2025-02-04 |  |
 | [In Harmonia](https://open.spotify.com/track/6HTMLB6SXelf8e7DwItkex) | [Ageena](https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2) | [In Harmonia](https://open.spotify.com/album/4qsclK5lCs78aCzyYOZKgp) | 2:19 | 2022-09-02 | 2024-05-05 |
@@ -630,7 +633,7 @@
 | [Night Mind](https://open.spotify.com/track/6jD6Rk6mDkYM44raG3m9jA) | [Brisbois](https://open.spotify.com/artist/3kp0L0gzhW88FsfpD4H0kH) | [Night Mind](https://open.spotify.com/album/0MWCo1sR8DN8cL7Ptf9qkd) | 2:24 | 2023-05-19 | 2024-07-10 |
 | [Night Orchid](https://open.spotify.com/track/3mF4kP1RXVBG8jaFYLLe6W) | [Dream Agent](https://open.spotify.com/artist/3c38G2ko0FlIdDYqW0Xqx4) | [Night Orchid](https://open.spotify.com/album/01XBO3Sz7SHzAwDoqfUwGk) | 2:43 | 2025-05-27 |  |
 | [Night Shadows](https://open.spotify.com/track/2KSQYtfavJ5aCX5EaEyRgG) | [The Calming](https://open.spotify.com/artist/1MyGOa9AuDmi82QJU0RPc9) | [Night Shadows](https://open.spotify.com/album/6VlJI99TZ4dm9YPNX1NuET) | 2:55 | 2024-03-06 | 2024-12-31 |
-| [Night Sky](https://open.spotify.com/track/1k7vD3V5JdcYYodfmkBANS) | [Aleksy Nowak](https://open.spotify.com/artist/2CXq4IRNqG54c9NBHuBWLw) | [Night Sky](https://open.spotify.com/album/78aA74Ncr1sdYKEWxQGWMU) | 3:19 | 2024-07-22 |  |
+| [Night Sky](https://open.spotify.com/track/1k7vD3V5JdcYYodfmkBANS) | [Aleksy Nowak](https://open.spotify.com/artist/2CXq4IRNqG54c9NBHuBWLw) | [Night Sky](https://open.spotify.com/album/78aA74Ncr1sdYKEWxQGWMU) | 3:19 | 2024-07-22 | 2025-07-25 |
 | [Nightlight](https://open.spotify.com/track/7ucDH3T6TmA6bCBCBBlDwy) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Nightlight](https://open.spotify.com/album/4Epm7oEoA46x3R90Tp3HNY) | 2:47 | 2023-10-13 | 2024-02-08 |
 | [Nightscape, Pt\. 1](https://open.spotify.com/track/1NBoFhYZy1gugrVWBpvV0B) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [Nightscape](https://open.spotify.com/album/4mgoGgYqfrfTi6Ozdl73OE) | 2:26 | 2024-07-09 |  |
 | [Nikad ne Zaboravi](https://open.spotify.com/track/717ijFnuktEjgu8yn7Qvw6) | [Nadia Bulic](https://open.spotify.com/artist/40kJyvmOynMTDFT8bBuk4d) | [Nikad ne Zaboravi](https://open.spotify.com/album/4x8sORIXCiVndueGBD78mU) | 2:22 | 2021-11-10 | 2024-04-06 |

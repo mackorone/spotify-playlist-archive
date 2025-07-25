@@ -4,7 +4,7 @@
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-466 songs - 21 hr 48 min
+467 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Es regnet, es regnet](https://open.spotify.com/track/4cDNhjC0sczUlUYYcTEQA2) | [Frank und seine Freunde](https://open.spotify.com/artist/3suvpngo1bNM6i7vh4hy7y) | [Die 44 beliebtesten Kinderlieder](https://open.spotify.com/album/3ILmIMWpPWUhmm0pgR4urO) | 1:14 | 2023-08-31 | 2024-11-08 |
 | [Es schneit](https://open.spotify.com/track/4NhNX3C9Ue4gatgwHQobyY) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Winterkinder ...auf der Suche nach Weihnachten](https://open.spotify.com/album/7h4CEzgecVSP9JwpFepdx6) | 2:16 | 2023-12-27 | 2025-02-27 |
 | [Farben sind für alle da](https://open.spotify.com/track/6KZGys3AguPnmO6GbRHbbR) | [Senta](https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU) | [Farben sind für alle da](https://open.spotify.com/album/05cdYGqMPrH1Mr7CpaUpEC) | 2:03 | 2024-07-05 | 2024-07-13 |
+| [Ferien](https://open.spotify.com/track/2qYVigDCjtxXDKWE6N5zPq) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Ferien](https://open.spotify.com/album/2qWrW1gQliBhhheAI2umsU) | 2:09 | 2025-07-24 |  |
 | [Ferien / Vacanza](https://open.spotify.com/track/5pAbtjJXW7GJt0B1oZwNde) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH), [Vanessa Civiello](https://open.spotify.com/artist/1l1II36cuf6nD406cfMNAu), [Team Karacho](https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR) | [Ferien / Vacanza](https://open.spotify.com/album/34Jh1lTXZcsHxQUaiXGr99) | 2:44 | 2025-07-16 |  |
 | [Ferien!](https://open.spotify.com/track/3Yi0KHkf6ngSK78cCLDX9T) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w), [Sandy Cheeks](https://open.spotify.com/artist/5ojB40V0H7NlfEC9iBIRFO) | [Radio Bikini Bottom](https://open.spotify.com/album/4NuiuZxmMrPItU9ZeEZkal) | 3:34 | 2024-08-26 |  |
 | [Fiesta Mexicana \- Party Mix](https://open.spotify.com/track/5ZQwvlmLOyJbkEdeojxNOs) | [Die Partykapitäne](https://open.spotify.com/artist/6Gqid9ys2LpElX5QJnmzK1) | [Fiesta Mexicana](https://open.spotify.com/album/3m5htAX9IYtWTcdMf8YYo9) | 3:26 | 2024-02-06 | 2024-02-16 |
@@ -441,7 +442,7 @@
 | [Wenn der Sommer kommt](https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 3:06 | 2023-06-28 |  |
 | [Wenn die Fledermäuse tanzen](https://open.spotify.com/track/4MeA9SGzhfPXmwYOJGolZo) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena Und Die Bambus Bären Bande](https://open.spotify.com/album/5zMipqCNwLqTYXMSo3qJpa) | 2:42 | 2023-10-16 | 2024-11-05 |
 | [Wenn es Frühling wird im Hasenland](https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Hasengeschichte \- Die Lieder](https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt) | 2:37 | 2024-03-01 | 2025-06-03 |
-| [Wenn ich den See seh'](https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Wenn ich den See seh'](https://open.spotify.com/album/7FpzmPcNIwl0zMUl742zRR) | 2:23 | 2024-07-12 |  |
+| [Wenn ich den See seh'](https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Wenn ich den See seh'](https://open.spotify.com/album/7FpzmPcNIwl0zMUl742zRR) | 2:23 | 2024-07-12 | 2025-07-25 |
 | [Wenn Monster tanzen](https://open.spotify.com/track/3VSmTFC8aXgHXaAHm8MBSE) | [Körperklaus](https://open.spotify.com/artist/3bNx1ltylwrKGmVI2I0zsg) | [Wackeldackel Hitparade](https://open.spotify.com/album/6E0XZUnRSEr8QjWvjGwtEs) | 3:31 | 2023-10-16 | 2024-11-05 |
 | [Wer hilft jetzt dem Weihnachtsmann?](https://open.spotify.com/track/3BqKpjxNJidrnE6S4pgj9k) | [Keks & Kumpels](https://open.spotify.com/artist/2W6UwHeegSNuolXHmMGX2X) | [Hits für Kids im Winter](https://open.spotify.com/album/5VT5dIWNXWFTBhwIl1WAM6) | 2:50 | 2023-11-14 | 2023-12-30 |
 | [Wickie \(Titellied\)](https://open.spotify.com/track/4eZjGXmOMZZ5YFS0efibn7) | [Christian Bruhn](https://open.spotify.com/artist/2yooWDszjKIoSiu44pfwa2) | [TV Friends Forever \- TV Hits For Kids](https://open.spotify.com/album/2VoLPjDdXS5pSaMvCMqUw3) | 2:04 | 2024-02-06 | 2024-02-16 |

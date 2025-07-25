@@ -1910,7 +1910,7 @@
 - [EDM Top 100](/playlists/pretty/6P9kL0w6D5JnjAUGVQKXgD.md)
 - [EDM in India](/playlists/pretty/37i9dQZF1DX0nXUs2Fdn6S.md)
 - [EJ\#3?](/playlists/pretty/1Isxwx6KPIdsb79GOLL0nS.md)
-- [EL INFIERNO: DIABLOS CAMPEÓN 🏆🔥👹](/playlists/pretty/37i9dQZF1DX1KDoWqpOwcW.md)
+- [EL INFIERNO X Julián Ornelas 🥵🔥👹](/playlists/pretty/37i9dQZF1DX1KDoWqpOwcW.md)
 - [EL ROCK NO HA MUERTO](/playlists/pretty/37i9dQZF1DX11wyL5eCLSa.md)
 - [EM Fotboll 2012](/playlists/pretty/0NYlvGXveeyvhb5G80LPtA.md)
 - [ENSEMBLE STARS!!](/playlists/pretty/37i9dQZF1DX7LKmJoYL4Nn.md)

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Odetto",
+  "description": "The best French indie tracks right now. Cover : Miel de Montagne",
   "name": "Made in France",
   "tracks": [
     {
@@ -1591,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Call Home",
+        "url": "https://open.spotify.com/album/6tdbZk4ryyTyvLPNlq2zYX"
+      },
+      "artists": [
+        {
+          "name": "Broken Back",
+          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130819,
+      "name": "Call Home",
+      "url": "https://open.spotify.com/track/2HHjnH85IOAmmD6IhPiGuS"
+    },
+    {
+      "album": {
         "name": "call it a night",
         "url": "https://open.spotify.com/album/5ghiXxNIxCM24yk7uAvWC6"
       },
@@ -1730,7 +1748,7 @@
       },
       "artists": [
         {
-          "name": "Miki",
+          "name": "miki",
           "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
         }
       ],
@@ -4506,6 +4524,24 @@
       "duration_ms": 166615,
       "name": "Hiroshima",
       "url": "https://open.spotify.com/track/6FOcmhnINLjPcsMbbwUzVA"
+    },
+    {
+      "album": {
+        "name": "Hoagy's Place",
+        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185640,
+      "name": "Hoagy's Place",
+      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
     },
     {
       "album": {
@@ -8658,7 +8694,7 @@
       },
       "artists": [
         {
-          "name": "Miki",
+          "name": "miki",
           "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
         }
       ],
@@ -9325,6 +9361,24 @@
     },
     {
       "album": {
+        "name": "Reine de coeur",
+        "url": "https://open.spotify.com/album/1MjzVUab8UODANWJwzLJIy"
+      },
+      "artists": [
+        {
+          "name": "DO not DO",
+          "url": "https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220267,
+      "name": "Reine de coeur",
+      "url": "https://open.spotify.com/track/4ijiy4rTznlodLjywA9coq"
+    },
+    {
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I"
       },
@@ -9586,7 +9640,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 132631,
       "name": "Sailing To Paradise",
       "url": "https://open.spotify.com/track/4umZOehq0E93U3F2fNmIS1"
@@ -11008,7 +11062,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 228181,
       "name": "The First Picture of You",
       "url": "https://open.spotify.com/track/5nrJvKAjTYbdnF4MWVruZV"
@@ -11440,6 +11494,28 @@
       "duration_ms": 194360,
       "name": "Tout m'ennuie",
       "url": "https://open.spotify.com/track/2tGnmde5psWfpwxjAApQ42"
+    },
+    {
+      "album": {
+        "name": "Tout tout",
+        "url": "https://open.spotify.com/album/0xGZ5eae8XAktN3zgVuB80"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        },
+        {
+          "name": "Blas\u00e9",
+          "url": "https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211162,
+      "name": "Tout tout",
+      "url": "https://open.spotify.com/track/5sZtirdGoDKeQ70hQX2W1M"
     },
     {
       "album": {
@@ -11894,7 +11970,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 182760,
       "name": "Venus",
       "url": "https://open.spotify.com/track/0XVfjgNXQN5TFZM5tODTSk"
@@ -11988,7 +12064,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 199213,
       "name": "Vinyle",
       "url": "https://open.spotify.com/track/63YoTNZTVXMeiVw8s7fd2V"
@@ -12467,6 +12543,24 @@
     },
     {
       "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/3ztmbTWLXlWgOwPwm2xjYB"
+      },
+      "artists": [
+        {
+          "name": "Hugo Santini",
+          "url": "https://open.spotify.com/artist/3FgHSMFtAZLDFlx438W3Hn"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160021,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/2Gau4oIYKr8ZHQhbx02Q6c"
+    },
+    {
+      "album": {
         "name": "You Make Me Feel So Good",
         "url": "https://open.spotify.com/album/4Gz6ZJpblwIcONuElYTlPq"
       },
@@ -12504,7 +12598,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 140204,
       "name": "Young Kids",
       "url": "https://open.spotify.com/track/0fyOhR6FmhkaXceDMiag2y"

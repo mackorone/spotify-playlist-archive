@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-200 songs - 9 hr 32 min
+202 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [April Rain](https://open.spotify.com/track/7KB9VZg79SNkaBesrOOJMT) | [Beatrice Birds](https://open.spotify.com/artist/3hNMJQgn87uH4qAjdbkjUL) | [April Rain](https://open.spotify.com/album/5Dgk3JIGt2uzlxaxmNMBdY) | 2:06 | 2022-07-04 |  |
 | [Archipelago Waves](https://open.spotify.com/track/3Na4wOerW2kOPEPBOZnYqR) | [Ice Wave Isac](https://open.spotify.com/artist/3ZgZHtsTSsa0k5vqEKtG2y) | [Discover The Waves](https://open.spotify.com/album/3bgKEP7dzNP3NJenUsQtC8) | 1:12 | 2022-07-04 | 2023-06-20 |
 | [Archipelago Waves](https://open.spotify.com/track/6pcIq19lQuURRdl1ZD3i46) | [Ice Wave Isac](https://open.spotify.com/artist/3ZgZHtsTSsa0k5vqEKtG2y) | [Discover The Waves](https://open.spotify.com/album/0kyGKFxKbKcTGv8OkiQEYf) | 1:12 | 2022-03-25 | 2022-07-29 |
+| [arkansas forest reserve downpour](https://open.spotify.com/track/3hSEPqX0iqXLcFIaVjFAQ3) | [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [arkansas rain](https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY) | 4:04 | 2025-07-24 |  |
 | [Atlanta Rain](https://open.spotify.com/track/07CtNdTuh11zJQlwoVkLCW) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Rainy Summer Days](https://open.spotify.com/album/6TpQ6fU21enN1K6iDu9Mij) | 2:50 | 2022-03-25 |  |
 | [Averse Sombre](https://open.spotify.com/track/0XdxWj0BQOdVKhaAbQYlwF) | [Créateurs De Pluie](https://open.spotify.com/artist/6LNyPA7N6f4dCGIqNdYkdK) | [Pluie Confortable](https://open.spotify.com/album/5YCyQJq6BlyEqb8et9l216) | 2:41 | 2022-03-25 |  |
 | [Beruhigender Bach](https://open.spotify.com/track/4O2wSXouI7mosBQGx4tZ0N) | [Calming Water Sounds](https://open.spotify.com/artist/2eorj5qDKWRsb9BAfdssbx) | [Chill Day by the River](https://open.spotify.com/album/59E3mxZ1mPRpAPYONamokv) | 2:27 | 2022-03-25 | 2022-07-05 |
@@ -65,6 +66,7 @@
 | [Creek Rain With Brids And Thunder \- Seamless](https://open.spotify.com/track/5cbC6ObMsFLXW9co3vlUMk) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [When It Pours It Rains](https://open.spotify.com/album/20BqShqyjjbjVXMIRVGwyB) | 2:06 | 2024-08-15 |  |
 | [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 | 2023-09-20 |  |
 | [Deep Forest Soft Rain Birds Chirp Away](https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH) | [Nature Noise](https://open.spotify.com/artist/6DRwKWnvWIApUcEUqbyM5Z) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 4:00 | 2022-03-25 | 2022-04-29 |
+| [dense leaf canopy](https://open.spotify.com/track/03iPmLyIVO7H74oPOnOP4G) | [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [arkansas rain](https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY) | 3:03 | 2025-07-24 |  |
 | [Distant Thunder in the East of the City](https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Rain](https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4) | 3:03 | 2022-03-25 | 2024-03-27 |
 | [Down Stream](https://open.spotify.com/track/7x50aLAvwia2rd5YX5Jz2a) | [Drifting Streams](https://open.spotify.com/artist/7GdXNgwObAO7mvdQcDT0Yo) | [Down Stream](https://open.spotify.com/album/51pQpU9fLo5xTjSBQ4NwtP) | 5:14 | 2022-03-25 |  |
 | [Dripping Wet Leaves and Thunder](https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Thunderstorms vol II](https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg) | 3:48 | 2022-03-25 |  |
@@ -185,7 +187,7 @@
 | [Temperate Rainforest Sounds](https://open.spotify.com/track/3av7HNGWI6Xvg8eXt9NOYr) | [Zen Sound Bath](https://open.spotify.com/artist/5doBUpyyFeJlgY7LakBaGE) | [Temperate Rainforest Sounds](https://open.spotify.com/album/0LY9Tily5yuPkUxAa4jyou) | 3:11 | 2024-12-03 |  |
 | [Tempête profonde](https://open.spotify.com/track/1mSKUbvJG5Gmde0Kh9RDeQ) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Pluie sauvage](https://open.spotify.com/album/79cchmHisOerpyMolzpLZl) | 2:58 | 2022-07-04 |  |
 | [The Cuckoo by the Lagoon](https://open.spotify.com/track/6jwd9j7uqU3uo7VQTEgxZQ) | [Actors of Nature](https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS) | [The Cuckoo by the Lagoon](https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5) | 1:09 | 2022-03-25 | 2023-06-20 |
-| [The Millpond VI](https://open.spotify.com/track/5dEqC0Eg2Djg5PJ0Q963y1) | [Elberry](https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP) | [The Millpond VI](https://open.spotify.com/album/2Uoy8TmdDdzeWv3r9VqOpr) | 2:15 | 2025-07-21 |  |
+| [The Millpond VI](https://open.spotify.com/track/5dEqC0Eg2Djg5PJ0Q963y1) | [Elberry](https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP) | [The Millpond VI](https://open.spotify.com/album/2Uoy8TmdDdzeWv3r9VqOpr) | 2:15 | 2025-07-21 | 2025-07-25 |
 | [The Millpond VII](https://open.spotify.com/track/2dNizJkyRarfT8qtOBLsHm) | [Elberry](https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP) | [The Millpond VII](https://open.spotify.com/album/7rditgWAg73FfmUDMAUmY9) | 2:18 | 2025-07-21 |  |
 | [The Millpond XI](https://open.spotify.com/track/3eeuBEStklq9Kjf7Bknx8K) | [Elberry](https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP) | [The Millpond XI](https://open.spotify.com/album/26YJnlSqCFh2jdkCql4hMh) | 2:05 | 2025-07-21 |  |
 | [The Singing Birds](https://open.spotify.com/track/5bT75sYxgRTGyFE9bMdeEI) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Nectar Rain](https://open.spotify.com/album/3hDnVO9C6LWboK7VP3GnBD) | 2:32 | 2022-03-25 |  |

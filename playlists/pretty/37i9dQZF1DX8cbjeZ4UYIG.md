@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,792 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,849 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 47 | [No Good \(Start the Dance\) \[Remastered\]](https://open.spotify.com/track/1qHKYuAeVf0XISmgwaacHf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [More Music for the Jilted Generation](https://open.spotify.com/album/6wZgpIgQWZzq8qKJrU7ELd) | 6:17 |
 | 48 | [Ebeneezer Goode \- Beat Edit](https://open.spotify.com/track/3cJiAK4ogUaUrx2E0lDvUt) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3) | [Ebeneezer Goode \- EP](https://open.spotify.com/album/15y6aeJMkWSFhCTjR1VgWV) | 3:54 |
 | 49 | [Let Me Be Your Fantasy](https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Deliverance](https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn) | 7:50 |
-| 50 | [Keep The Fire Burning \- Original 12\-Inch Versions](https://open.spotify.com/track/0nOqKydHOJHPGm3zd2SAej) | [The House Crew](https://open.spotify.com/artist/4pApMs2qTlqTGwdHEJVeS4) | [Techno Party](https://open.spotify.com/album/2DSwIAQeu4bwSSgSplcFCW) | 6:31 |
+| 50 | [Something Good](https://open.spotify.com/track/1ufw4MHpNrimD5e6pna6JA) | [Utah Saints](https://open.spotify.com/artist/2KB6LGMBaOYYYdvvgyptFH) | [UTAH SAINTS](https://open.spotify.com/album/5PuJ1ocyfvAmgVEazfKoqZ) | 5:55 |
 
 Snapshot ID: `ZpExBwAAAABuhqb5oexvcs5dwb3+0ANR`

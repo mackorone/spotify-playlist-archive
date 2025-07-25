@@ -2,9 +2,9 @@
 
 ### [Suomi\-indie tänään](https://open.spotify.com/playlist/37i9dQZF1DWWHpR486dzm3)
 
-> Suomi\-indien tuoreimpia helmiä\. Kannessa Vesta.
+> Suomi\-indien tuoreimpia helmiä\. Kannessa Arppa.
 
-866 songs - 2 day 4 hr 12 min
+869 songs - 2 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [Juna](https://open.spotify.com/track/0EvTOW8zLmTEaHKu4oy5ro) | [Maija Pokela](https://open.spotify.com/artist/0QThDEqaMXQFHELNtupMAv) | [Juna](https://open.spotify.com/album/1CuQyS7Rj9Ew9JzOLJiugU) | 4:28 | 2025-01-09 | 2025-02-21 |
 | [Juon mun kyyneliin](https://open.spotify.com/track/0xMSYUiybH7d1e87Unqf3q) | [Musta hanhi](https://open.spotify.com/artist/7hqTWrzRtJbctP8T7R6slG) | [Juon mun kyyneliin](https://open.spotify.com/album/18GeyJkbfkMLVrRyBfgsn7) | 2:43 | 2025-04-24 | 2025-05-30 |
 | [Just just elossa](https://open.spotify.com/track/21boHrmbqz9hYIc0BQrFlu) | [Ihme\-Liisa](https://open.spotify.com/artist/73wCCcgduxxUbZMjw2Dax4) | [Just just elossa](https://open.spotify.com/album/5NDJYnjxJdunVbwIkm3jV5) | 3:16 | 2024-11-21 | 2025-01-17 |
-| [Jyväskylä Skyline](https://open.spotify.com/track/3AWBu6hGvJCeZFIVXlvtKa) | [Brian](https://open.spotify.com/artist/3RuPdmaVfN2BRUZlwDrljk) | [Jyväskylä Skyline](https://open.spotify.com/album/67APCrt7mapUnBNMswBIDU) | 3:51 | 2025-03-27 |  |
+| [Jyväskylä Skyline](https://open.spotify.com/track/3AWBu6hGvJCeZFIVXlvtKa) | [Brian](https://open.spotify.com/artist/3RuPdmaVfN2BRUZlwDrljk) | [Jyväskylä Skyline](https://open.spotify.com/album/67APCrt7mapUnBNMswBIDU) | 3:51 | 2025-03-27 | 2025-07-25 |
 | [Jäljellä](https://open.spotify.com/track/6GNR7BbxSHFvKe6fhx19KI) | [Sonja Selene](https://open.spotify.com/artist/5xhxgugC1UFNupTURflnZX) | [Jäljellä](https://open.spotify.com/album/5JJExMtVa7gx5HJH1SPVYU) | 3:02 | 2024-10-31 | 2024-12-06 |
 | [JÄLKI](https://open.spotify.com/track/3WNfOko6UjhFsTPglhZkEK) | [ellimaria](https://open.spotify.com/artist/5txapey7WYMTo4QhiLKhKg) | [JÄLKI](https://open.spotify.com/album/0dbtdE9evryMWhVvMq8jnb) | 4:17 | 2025-01-16 | 2025-02-21 |
 | [Jälkikirjoitus](https://open.spotify.com/track/7ho5nA1hnC2e21ITrV42A5) | [Bereniken hiukset](https://open.spotify.com/artist/1u3jvlJ8h7RRFfNx3zrip5) | [Jälkikirjoitus](https://open.spotify.com/album/3TfneeYWEpSN9INv4lgzdr) | 4:35 | 2024-10-24 | 2024-12-06 |
@@ -401,7 +401,7 @@
 | [Liian ylpeä](https://open.spotify.com/track/2ddlikIS6FF54uJMJxAu7o) | [KVART](https://open.spotify.com/artist/0HaYQHwyoIvPp9PMZYZQHs) | [Liian ylpeä](https://open.spotify.com/album/0rjviSDU8XJsMnxrsFNKV2) | 3:46 | 2025-07-03 | 2025-07-11 |
 | [Liidetään](https://open.spotify.com/track/0wlzitCwdKVirvh7Yo6sU5) | [Ikävalko](https://open.spotify.com/artist/2xOofwXB1WKd0KUhZ5pPd4) | [Liidetään](https://open.spotify.com/album/3Ba5qHEXGUKAo9cf9EfwO8) | 3:15 | 2024-08-08 | 2024-08-23 |
 | [liikaa](https://open.spotify.com/track/08bp9DVZmDG5NwPtrCsh6g) | [viola](https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP) | [liikaa](https://open.spotify.com/album/6kuGraNnzii1qi6dCtvzve) | 3:15 | 2025-02-13 | 2025-04-04 |
-| [Liikkuva Linna](https://open.spotify.com/track/58SvOxXLT0373c96Y2VrFh) | [Harjula](https://open.spotify.com/artist/1gLpevGKJgl5g0oTqVbolp) | [Liikkuva Linna](https://open.spotify.com/album/0e1h1kTCHOPrIqKyP8Ryaf) | 3:11 | 2025-04-10 |  |
+| [Liikkuva Linna](https://open.spotify.com/track/58SvOxXLT0373c96Y2VrFh) | [Harjula](https://open.spotify.com/artist/1gLpevGKJgl5g0oTqVbolp) | [Liikkuva Linna](https://open.spotify.com/album/0e1h1kTCHOPrIqKyP8Ryaf) | 3:11 | 2025-04-10 | 2025-07-25 |
 | [Liikuppa, liikuppa, likka rukka](https://open.spotify.com/track/78o3RMCYZeYYqPQvTxV2YB) | [Junna](https://open.spotify.com/artist/6a3tnnSLLKO2JwPTIDNfYj) | [Liikuppa, liikuppa, likka rukka](https://open.spotify.com/album/2YzyIjvD4QGL843uSreiXL) | 2:55 | 2024-07-02 | 2024-08-02 |
 | [Limerenssi](https://open.spotify.com/track/7D7Dw5ozJ7RzoLH1W907w9) | [Katuhaukka2984](https://open.spotify.com/artist/1j6hmf2kMS6A6gUlId5wv3), [Mikael Islet](https://open.spotify.com/artist/6RSy34O1bzFEcZh4wMNhwx) | [Limerenssi](https://open.spotify.com/album/54dW79XsMTrCzJOOgY2ISR) | 3:04 | 2024-08-15 | 2024-09-20 |
 | [Linnalaine neiččy](https://open.spotify.com/track/2U9lxdzkaEcBE3CW6COLdX) | [Dänkki Briha](https://open.spotify.com/artist/2GYqRFibbCXFZdqNMoulxX) | [Future Kantele Hiisi Master](https://open.spotify.com/album/1KID781bdPsq4f7TnPCGtN) | 2:58 | 2025-04-17 | 2025-05-09 |
@@ -462,6 +462,7 @@
 | [Merenneito](https://open.spotify.com/track/5LbGsP0guVvJrs2AYq0Y5B) | [Itcevät](https://open.spotify.com/artist/1dqKlPZyKIsxrmEkk1brEp) | [Merenneito](https://open.spotify.com/album/4IspOhCi597njsuVD0QzBi) | 3:40 | 2024-10-17 | 2024-11-29 |
 | [Mermaid](https://open.spotify.com/track/4F5FGKY1rpozFz0zNZVoKJ) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Mermaid](https://open.spotify.com/album/5Ig2dW1s1Sa0VjQNXOyEJx) | 4:09 | 2025-05-01 | 2025-06-06 |
 | [Metsäharju](https://open.spotify.com/track/56ppx9x81s2OhyOFxZDRIu) | [Suisto](https://open.spotify.com/artist/3fgGRAdwG3yg5RvoHgHVaG) | [Metsäharju / Oi pojat](https://open.spotify.com/album/1Qoir8p8rpgk9Y7rTqNBcD) | 4:22 | 2024-07-18 | 2024-09-06 |
+| [Mikko uskoo rakkauteen](https://open.spotify.com/track/4Xu12aFulOPAn9HxhRsiNO) | [Brian](https://open.spotify.com/artist/3RuPdmaVfN2BRUZlwDrljk) | [Mikko uskoo rakkauteen](https://open.spotify.com/album/7LwvgWkGKsGdcDvFQnXURp) | 2:27 | 2025-07-24 |  |
 | [Miksei tnä](https://open.spotify.com/track/7z7LRxlZbAzHYkRLbJgRaU) | [Meemio](https://open.spotify.com/artist/4HUuVRCNyRjCHAYX6ExFtj), [Lempi Elo](https://open.spotify.com/artist/2Uy3vg4OPMHIKwPwMR1D3s) | [Miksei tnä](https://open.spotify.com/album/4EMN6YeK3kwXHvDqNsId24) | 4:11 | 2025-03-13 | 2025-04-18 |
 | [Miksi kaikki on toisin?](https://open.spotify.com/track/76ZO54nb6sAUIHYoIAUiwV) | [Hemmo Helle](https://open.spotify.com/artist/0W4EcCpnI18YkZVVuhwhOf) | [Miksi kaikki on toisin?](https://open.spotify.com/album/5U4J2yrItJrI8NWnhDdqhy) | 3:09 | 2025-05-29 | 2025-06-13 |
 | [Mikä tarina](https://open.spotify.com/track/4ylmzrJfqLvLIomOQO7Lyn) | [Sonja Selene](https://open.spotify.com/artist/5xhxgugC1UFNupTURflnZX) | [Mikä tarina](https://open.spotify.com/album/5IY8qRunIxb9ZnwG0RvMwJ) | 3:09 | 2025-01-09 | 2025-02-07 |
@@ -516,6 +517,7 @@
 | [Nights](https://open.spotify.com/track/6e8XvMq1viYrgkS3K1eZVF) | [Amos Blomqvist](https://open.spotify.com/artist/0LIJtV591GKTw8cdqorMWi) | [Nights](https://open.spotify.com/album/7rLgFC2XWZ9PDldpfpED7E) | 2:42 | 2024-07-02 | 2024-07-05 |
 | [Niin kutsuttu elämäni](https://open.spotify.com/track/5VSJGaqFwk75Sck5xolx6P) | [Haamuvaltakunta](https://open.spotify.com/artist/3KpS96KUnk3FELrpnJV06b) | [Niin kutsuttu elämäni](https://open.spotify.com/album/0izCid7KUYWaUWDnaoO65y) | 3:46 | 2025-02-20 | 2025-03-28 |
 | [Niinkö se on](https://open.spotify.com/track/4nd6e9YvUEeuR0mtP5fNJu) | [Uusi Fantasia](https://open.spotify.com/artist/7K1JNuo3rYr7MNgIXAyysC), [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Niinkö se on](https://open.spotify.com/album/33THwx65YG8Y7ulkpod0Xg) | 3:31 | 2024-11-21 | 2025-01-03 |
+| [Noidankehä](https://open.spotify.com/track/1lCyfTKHPZIY5nox7hN5O7) | [Marikerttu](https://open.spotify.com/artist/6M5dxfdLvA4FVeFwmX8scL) | [Noidankehä](https://open.spotify.com/album/30t7C8BHUXf3q4tbBybQTj) | 2:27 | 2025-07-24 |  |
 | [Norjalaista puuta](https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Norjalaista puuta](https://open.spotify.com/album/36yFPOq7YIsFpIodxohXzu) | 2:45 | 2024-07-02 | 2024-07-05 |
 | [Nostalgiaa](https://open.spotify.com/track/0lwVSjuuMPWdxYXf1Xv6eq) | [Jenni Karjalainen & Kaverit](https://open.spotify.com/artist/5FGlL7n9pvZNYE3hJ04OqM), [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Nostalgiaa](https://open.spotify.com/album/7BiJx0FVmId9ASIuBSIE0o) | 3:44 | 2024-11-28 | 2025-02-07 |
 | [Not A Child](https://open.spotify.com/track/2XJZJgU4p7DwlwU3WFeTXg) | [Janita](https://open.spotify.com/artist/20launVwj1rz0z4lIr8UVH) | [Mad Equation](https://open.spotify.com/album/2kG8nyRK6g0tiUBiCBHzTc) | 3:37 | 2025-05-15 | 2025-06-06 |
@@ -743,6 +745,7 @@
 | [The Blue Cafe](https://open.spotify.com/track/2XAjxqJavmn3CGzUEnN5Hh) | [Mr\. Dad](https://open.spotify.com/artist/2fOBIIJjLrqWQQmoEUoZPp) | [The Blue Cafe](https://open.spotify.com/album/0OIIeN56QmSh2tmuPPXW4k) | 3:08 | 2024-12-12 | 2025-02-07 |
 | [The Call](https://open.spotify.com/track/5143CewK5u1C3pdlF8vBLb) | [Rosettes](https://open.spotify.com/artist/5IGpCYZ0wnD5WPtLZZZry4) | [Lifestyles](https://open.spotify.com/album/0El65s7m33i3Z35eQF4OmM) | 4:20 | 2025-04-03 | 2025-05-09 |
 | [The Last Christmas](https://open.spotify.com/track/5A5nTcX10qoYavLqHHr8ut) | [Solemn Golem](https://open.spotify.com/artist/786SwvDh1YFMLciXStwYGM) | [The Last Christmas](https://open.spotify.com/album/2SNkesgHTXhnpfsRBotaRd) | 6:39 | 2024-12-19 | 2025-02-07 |
+| [The Man](https://open.spotify.com/track/1oBceZTuKOEXOfHEp5Xthl) | [Joel Sundkvist](https://open.spotify.com/artist/7uuTT33JCupBqe9tB9CZUM) | [The Man](https://open.spotify.com/album/4sPm6xQARbqr7kKdD1koJ9) | 2:56 | 2025-07-24 |  |
 | [The One](https://open.spotify.com/track/6hRFf9TeQ78H3s7q8yN4Tg) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [The One](https://open.spotify.com/album/5jsA5tFQJKDqpimcW38qSF) | 3:17 | 2024-07-02 | 2024-07-12 |
 | [The Ruins of Us](https://open.spotify.com/track/0Xl0Fu6D6SAUiLi8o4pzyZ) | [Timi Tamminen](https://open.spotify.com/artist/5O7fwjbK3owt98nv9SJrkz) | [Short Goodbyes to Long Lies](https://open.spotify.com/album/1B2XOt8tFPa5HUK4jSsCnl) | 4:37 | 2024-09-26 | 2024-10-11 |
 | [The Truth About My Fall](https://open.spotify.com/track/63Z6Q5FzVfTXT5IP6u8fj4) | [Eidetic Dreams](https://open.spotify.com/artist/67I4GVTOFCKsOf6Bs6Y47I) | [The Truth About My Fall](https://open.spotify.com/album/5FZGglErglFgpjmeUyQaoq) | 4:08 | 2025-02-27 | 2025-03-28 |
@@ -818,7 +821,7 @@
 | [Veli Seppä](https://open.spotify.com/track/6vCJDPcsUzbHQHkiIavLWb) | [Matias Väisänen](https://open.spotify.com/artist/53U7ka99wWcJ11TZakh728), [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD) | [Veli Seppä](https://open.spotify.com/album/5Kn7edp1r5WFcqNRNzo8M1) | 3:08 | 2024-12-05 | 2025-02-07 |
 | [Veljeni leijonamieli](https://open.spotify.com/track/7IimghRgHCA2EkkXGS3KeM) | [Ville Kalli](https://open.spotify.com/artist/1q217EGYIek2TqfzXDSutC) | [Veljeni leijonamieli](https://open.spotify.com/album/1BgNPi8c5Vynw5ng4AE84A) | 2:59 | 2024-07-25 | 2024-08-16 |
 | [Vi Är Finnjävlar](https://open.spotify.com/track/3vHsF9d0jiek3xzT1YNAQp) | [Drug Store Raid](https://open.spotify.com/artist/53dLQQZFdX3WuK7RjFB5UP) | [Vi Är Finnjävlar](https://open.spotify.com/album/6AVbeae6SoZ7qJ072N7Ctx) | 2:23 | 2024-08-22 | 2024-09-20 |
-| [Vieläkin](https://open.spotify.com/track/3iTUTPAUsrp8i3tQFp1Pbd) | [Saaga](https://open.spotify.com/artist/3qDwZXi3BD5dXRq5aAkpjn) | [Vieläkin](https://open.spotify.com/album/1HoilH6XNWD8y0QjP1w9wD) | 2:41 | 2025-05-08 |  |
+| [Vieläkin](https://open.spotify.com/track/3iTUTPAUsrp8i3tQFp1Pbd) | [Saaga](https://open.spotify.com/artist/3qDwZXi3BD5dXRq5aAkpjn) | [Vieläkin](https://open.spotify.com/album/1HoilH6XNWD8y0QjP1w9wD) | 2:41 | 2025-05-08 | 2025-07-25 |
 | [Vihje](https://open.spotify.com/track/4nGvIgi4JPqCHx2nPTMJsn) | [Vera Wall](https://open.spotify.com/artist/2ZkLg3MpOV7sAwKIoEqhN8) | [Vihje](https://open.spotify.com/album/531uuY7ijJ2ChplpVoLFM9) | 4:01 | 2025-06-12 |  |
 | [Vihreä Maa](https://open.spotify.com/track/06Homiz7XWOncuAM5COzkO) | [Toinen Minä](https://open.spotify.com/artist/3K9wW0sJAijYzvONudfys5) | [Vihreä Maa](https://open.spotify.com/album/6VYdQ7vhUzCmD3NnECAqO4) | 3:30 | 2025-03-20 | 2025-04-25 |
 | [Viisaat lapset](https://open.spotify.com/track/2YUFL03F9q5HdiiwL3uzUl) | [Sanni Reilin](https://open.spotify.com/artist/3iYdKXNnpMDCv5e9h6UVPP) | [Viisaat lapset](https://open.spotify.com/album/3WTH4tOTrReGth1hQyyJll) | 2:23 | 2024-07-04 | 2024-08-09 |

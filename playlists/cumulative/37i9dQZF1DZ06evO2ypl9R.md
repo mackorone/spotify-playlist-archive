@@ -4,12 +4,13 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-57 songs - 5 hr 5 min
+58 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Day Without U](https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 3:37 | 2025-06-28 |  |
 | [A Time To Remember \- Remix](https://open.spotify.com/track/2igFnucx4r1uHG40yilbGy) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Blue Note Revisited](https://open.spotify.com/album/7DNMdBpvFLtwdu9FCUBQ1h) | 4:43 | 2025-06-28 |  |
+| [Amnesia](https://open.spotify.com/track/2S7PGZYwLFzzqjp0WCP4XO) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF) | 5:13 | 2025-07-25 |  |
 | [April](https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Elements Beyond](https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw) | 7:50 | 2025-06-28 |  |
 | [Auto Machine](https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF) | 9:50 | 2025-06-28 |  |
 | [Bag Of Filters](https://open.spotify.com/track/7cLAZXxyRgQRGv4l2GOKfu) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 5:46 | 2025-06-28 |  |
@@ -55,7 +56,7 @@
 | [Serenade](https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 4:18 | 2025-06-28 |  |
 | [Sistagurl](https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Prism EP](https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby) | 5:40 | 2025-06-28 |  |
 | [Syrundipetty](https://open.spotify.com/track/1TCadeu1dkZ4kEnrHY2Ndn) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [The Quieter You Become, the More You Hear](https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO) | 3:42 | 2025-07-03 |  |
-| [Tailor Made \(feat\. Ziyon\) \- Yoruba Soul Mix](https://open.spotify.com/track/7LHRfkAwPA03d3szjedeIj) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy), [Oupa Joseph Makwela](https://open.spotify.com/artist/7woR57CQwbHK44u90T6Cfv), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Tailor Made \(feat\. Ziyon\) \[Yoruba Soul Mix\]](https://open.spotify.com/album/39lvxaQs2ThEN927h7Xars) | 5:14 | 2025-07-08 |  |
+| [Tailor Made \(feat\. Ziyon\) \- Yoruba Soul Mix](https://open.spotify.com/track/7LHRfkAwPA03d3szjedeIj) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy), [Oupa Joseph Makwela](https://open.spotify.com/artist/7woR57CQwbHK44u90T6Cfv), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Tailor Made \(feat\. Ziyon\) \[Yoruba Soul Mix\]](https://open.spotify.com/album/39lvxaQs2ThEN927h7Xars) | 5:14 | 2025-07-08 | 2025-07-25 |
 | [Tech This Out Pt.1 \- Yoruba Soul Mix](https://open.spotify.com/track/2Kbdo2TT9vQ0lUAu8RC27E) | [Karizma](https://open.spotify.com/artist/7bccAT6TPXO9MPsj6Ky1oe), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 10:34 | 2025-06-28 | 2025-07-02 |
 | [The Roads Of Kenya](https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 2:51 | 2025-06-28 |  |
 | [The Sickness](https://open.spotify.com/track/53jWOPMHXJqQ0BBeHZgW0j) | [Rich Medina](https://open.spotify.com/artist/79s8bIiHdwNsqLNHpwvqBF), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade presents Racially Charged](https://open.spotify.com/album/5kB8MxUqLacpzOeQo9PqpX) | 4:03 | 2025-06-28 |  |

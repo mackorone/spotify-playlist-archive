@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Prosthetics (Demo)",
+        "url": "https://open.spotify.com/album/4mkbid66ndHNU59JnnPeRE"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335666,
+      "name": "Prosthetics - Demo",
+      "url": "https://open.spotify.com/track/39ggqY0jePP4abSpnfenvN"
+    },
+    {
+      "album": {
         "name": "All Hope Is Gone (10th Anniversary)",
         "url": "https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk"
       },

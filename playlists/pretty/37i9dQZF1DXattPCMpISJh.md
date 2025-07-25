@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,162 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,211 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 37 | [HIGH SCHOOL.](https://open.spotify.com/track/2EdjwyRcg3ZqBVsupTxh7S) | [Miranda Powell](https://open.spotify.com/artist/0ooh81WuZPO0SfrChHB1YO), [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj) | [HIGH SCHOOL.](https://open.spotify.com/album/6hedKKC6Npmec14EZzKdMz) | 3:16 |
 | 38 | [Hotel Dream Girl](https://open.spotify.com/track/4NN6lhuYIIXrL1dLISYLHl) | [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Hotel Dream Girl](https://open.spotify.com/album/2vbqvXDyk9nwrSj76jkSlA) | 3:43 |
 | 39 | [Come Alive](https://open.spotify.com/track/0THqo8t9diPsxUzJaRMuAH) | [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA), [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [Come Alive](https://open.spotify.com/album/2pH3M9jjYrEGYIvFiouJ6A) | 3:44 |
-| 40 | [Survive \[Feat\. Walk Off The Earth\]](https://open.spotify.com/track/2qVZY6UtkkwV3wi2r2cocx) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Duality](https://open.spotify.com/album/124LdmYiB3SM7x2EefHBoa) | 3:17 |
+| 40 | [Survive \[Feat\. Walk off the Earth\]](https://open.spotify.com/track/2qVZY6UtkkwV3wi2r2cocx) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Duality](https://open.spotify.com/album/124LdmYiB3SM7x2EefHBoa) | 3:17 |
 | 41 | [Lately](https://open.spotify.com/track/1vnMD8Nk8FN44hJDya1cuP) | [Revel Day](https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw) | [Lately](https://open.spotify.com/album/3b7R0UvZGomnzGfTWevliY) | 3:32 |
 | 42 | [I Am](https://open.spotify.com/track/6MVk4SW25q1CNENQE1RHyv) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [I Am](https://open.spotify.com/album/06AscAzNNnjwtxfzXgrElI) | 2:03 |
 | 43 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\) \- Extended Version](https://open.spotify.com/track/0wKCTce0iM4zvsI91qlp3X) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\) \[Extended Version\]](https://open.spotify.com/album/6q3RTRma8OfHW8PAFYUKqS) | 7:11 |

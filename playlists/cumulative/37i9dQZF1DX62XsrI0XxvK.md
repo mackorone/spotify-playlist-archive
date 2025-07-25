@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Fathan Maulana, Monica Kirana
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Rayi Putra
 
-137 songs - 8 hr 17 min
+140 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Blue](https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Blue](https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y) | 3:40 | 2025-05-08 |  |
 | [Bring It On](https://open.spotify.com/track/7jjSkcLMIVQT0w9LlsfL9q) | [SEBY](https://open.spotify.com/artist/2gyoZB0qaowphecujZAzTd) | [A to Z](https://open.spotify.com/album/5Uwg2KxTq43qPGJkAYWrlR) | 4:08 | 2025-05-08 |  |
 | [BUKIT BINTANG](https://open.spotify.com/track/4Of5JPjcIxFEXOfOnovH1a) | [Tarrarin](https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f) | [BUKIT BINTANG](https://open.spotify.com/album/3EdLgSYC680ajncQZlnUms) | 3:33 | 2024-10-03 |  |
+| [Buktinya Baik\-Baik Saja](https://open.spotify.com/track/3cn9Fhd4UbxokJLDFLYZgK) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV) | [Buktinya Baik\-Baik Saja](https://open.spotify.com/album/70gWvpQaa7gQtr4jOuAnZd) | 3:25 | 2025-07-24 |  |
 | [BULAN](https://open.spotify.com/track/0sbqnT2yCqhZbMcDHrZTFd) | [Raina Gumay](https://open.spotify.com/artist/1ANlamE7Sj9Kf70tVz35Ck) | [BULAN](https://open.spotify.com/album/3jIpal5Mo7hWXSypXGXJku) | 3:06 | 2025-02-21 |  |
 | [Caught In Distress](https://open.spotify.com/track/1wJuaDeHSCN5fqZkBR0Qwu) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9) | [Caught In Distress](https://open.spotify.com/album/1vr2ljTHi4yTfcUHdqSsqy) | 3:36 | 2024-12-06 | 2025-05-30 |
 | [Cerita](https://open.spotify.com/track/6Sa1QuExIuLuZwyDrmgbN3) | [TADI](https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF) | [Cerita](https://open.spotify.com/album/5RLgxuk2wPeTU9KxSuNF01) | 3:19 | 2024-10-03 | 2025-05-02 |
@@ -58,6 +59,7 @@
 | [I Got It](https://open.spotify.com/track/4Ls4LzbMz0EeOzAU56SOQZ) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [I Got It](https://open.spotify.com/album/08lXeWhZXYVe6SSVF7EFxX) | 3:00 | 2025-02-14 |  |
 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 | 2025-07-17 |  |
 | [Issa Goodbye](https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Issa Goodbye](https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx) | 3:36 | 2024-10-03 | 2025-05-02 |
+| [Istriku](https://open.spotify.com/track/21j9SPUJscVwCfxqvopLhc) | [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [Istriku](https://open.spotify.com/album/7IgG6liynzLii4TvTVbKEa) | 2:43 | 2025-07-24 |  |
 | [Jadian](https://open.spotify.com/track/3kCvSqFu12N46Tih7acHO9) | [UNCLS](https://open.spotify.com/artist/5QElOJwHxsR83o8CcNHo0p), [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Jadian](https://open.spotify.com/album/4UxZp5OMWr6NegAtQHBi1B) | 3:16 | 2024-10-03 | 2025-05-02 |
 | [Jalan Terbaik](https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Jalan Terbaik](https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et) | 4:50 | 2024-10-03 |  |
 | [Jangan Jatuh Cinta Di Jakarta](https://open.spotify.com/track/7jVreiuVEbCk86gW9IRpou) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Jangan Jatuh Cinta Di Jakarta](https://open.spotify.com/album/1ulNzGRi72yRkgzyQsogJv) | 3:07 | 2025-02-14 |  |
@@ -134,6 +136,7 @@
 | [Telusuri](https://open.spotify.com/track/3hDVCLFmUEX5olJm6GbYup) | [Gisela Sabrina](https://open.spotify.com/artist/3qSA2bcj5wWZ9sYCbn5fMF) | [Telusuri](https://open.spotify.com/album/56eC8QzirZUcKn7d0rqcuG) | 4:01 | 2024-10-03 | 2025-05-02 |
 | [Terlambat Sudah](https://open.spotify.com/track/3OGuS5aNjsncDLJfburqTo) | [Alfin Harce](https://open.spotify.com/artist/42eVd9A0XjQMzlPErbPIvy), [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Terlambat Sudah](https://open.spotify.com/album/4FQnWd3nDjvwQW0s91eExP) | 3:41 | 2024-10-03 | 2025-05-02 |
 | [Terlena](https://open.spotify.com/track/2BCvg2cfrJ0wFrRiOQyU9G) | [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7) | [Kasitau](https://open.spotify.com/album/3AWoEbNv1rF4sZ1Wrg751k) | 3:27 | 2025-04-24 |  |
+| [Text Me \(When It's Over\)](https://open.spotify.com/track/6JjHBg0GsvwjpnczvBhtbv) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Text Me \(When It's Over\)](https://open.spotify.com/album/1ERnC3W3zKYuepZvBvBemw) | 3:04 | 2025-07-24 |  |
 | [Thing I Desire](https://open.spotify.com/track/0S7dD8zNVFIWOyoi06MNEQ) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Thing I Desire](https://open.spotify.com/album/5pQjlI6nRKo113Opt38Oiy) | 3:51 | 2024-10-03 | 2025-05-02 |
 | [Time Flies](https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Time Flies](https://open.spotify.com/album/6qE7AdkTHRdOh40JYZctFQ) | 4:15 | 2025-06-20 |  |
 | [Touch \(feat\. Khole\)](https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Khole](https://open.spotify.com/artist/2y7W9mNUWNLFFrWPxg1l6c) | [Touch \(feat\. Khole\)](https://open.spotify.com/album/1zt6yq7LpII2AJqG6PJxEw) | 3:30 | 2025-05-01 |  |

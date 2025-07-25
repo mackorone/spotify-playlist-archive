@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Birds song forest rain",
+        "url": "https://open.spotify.com/album/0rIdJAjdSjd8cePzPzrUOk"
+      },
+      "artists": [
+        {
+          "name": "Sound Of The Woods",
+          "url": "https://open.spotify.com/artist/3fRd8qPNSLClRFaxvFFLPL"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "Birds song forest rain",
+      "url": "https://open.spotify.com/track/0NNomsoZvS34EyTZ8ph1xz"
+    },
+    {
+      "album": {
         "name": "Nature Sounds: Total Relaxation",
         "url": "https://open.spotify.com/album/1i9EbDW7l9X23ZJm25sLQg"
       },
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 157671,
       "name": "Early Birds Light Wind",
       "url": "https://open.spotify.com/track/2nwyDCSpu0vXIxN0IbzyHJ"
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 271200,
       "name": "Morning in the Mist",
       "url": "https://open.spotify.com/track/0mmPcIKxcOliobshml5PAM"
@@ -2034,6 +2052,24 @@
       "duration_ms": 180558,
       "name": "Rain Forest Birds",
       "url": "https://open.spotify.com/track/2C9TaqPP3rgZriyjBxAlIT"
+    },
+    {
+      "album": {
+        "name": "Mellow Forest Rain",
+        "url": "https://open.spotify.com/album/1QgH2hp8LfklCAr7h90gEO"
+      },
+      "artists": [
+        {
+          "name": "Sacred Nature",
+          "url": "https://open.spotify.com/artist/7lAi4aNlwZqQLch98sKi5Z"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Rainforest Life",
+      "url": "https://open.spotify.com/track/5jsF0Abb8ZeWHozhTWlSdF"
     },
     {
       "album": {

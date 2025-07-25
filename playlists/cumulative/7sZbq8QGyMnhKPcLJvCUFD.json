@@ -12423,6 +12423,32 @@
     },
     {
       "album": {
+        "name": "Sky Verse",
+        "url": "https://open.spotify.com/album/2Sr8DfdKGH2cSl7AfdBvgm"
+      },
+      "artists": [
+        {
+          "name": "Lieless",
+          "url": "https://open.spotify.com/artist/3AVDMWWNOYjcp2mtGLdM9C"
+        },
+        {
+          "name": "Luuna",
+          "url": "https://open.spotify.com/artist/24CTvD1KOZbbAcoeuc4V3S"
+        },
+        {
+          "name": "Yarimov",
+          "url": "https://open.spotify.com/artist/2mNRczRlW0G5nkWtpMm1aM"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101896,
+      "name": "Sky Verse",
+      "url": "https://open.spotify.com/track/0gcif66qXbBzhRE4WAphwE"
+    },
+    {
+      "album": {
         "name": "Skyline Pt. II",
         "url": "https://open.spotify.com/album/27xStxx2AghnORK2ESJhbg"
       },

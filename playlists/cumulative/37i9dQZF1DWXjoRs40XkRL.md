@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-383 songs - 1 day 11 hr 45 min
+384 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aakhiyaan Laagi](https://open.spotify.com/track/3SeyoWxJ18DVuoHRkj2Zgc) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Aakhiyaan Laagi](https://open.spotify.com/album/4blxL5lxD7ihKqoFqT9k0A) | 3:05 | 2024-03-15 | 2025-05-23 |
 | [Aan Milo Sajna](https://open.spotify.com/track/3IIqpaAs6d5ZFSW8NExVN8) | [Rishabh Srivastava](https://open.spotify.com/artist/4heuryKQnH5KRfVWO6Rmjl) | [Aan Milo Sajna](https://open.spotify.com/album/2cj2Ig40zfQualDkWWI4Vj) | 3:37 | 2024-08-18 | 2024-09-21 |
 | [Aao Sajan](https://open.spotify.com/track/00SWo3RjHsRBUvvR1Sg5Us) | [Manasi Shah](https://open.spotify.com/artist/6NtTwYPmadVqUOjyIjcdLs) | [Aao Sajan](https://open.spotify.com/album/5V9VzKeL3tkW3lLy1X2Z0z) | 3:33 | 2025-06-03 | 2025-07-14 |
-| [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 | 2022-05-17 |  |
+| [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 | 2022-05-17 | 2025-07-25 |
 | [Aaye Na Balam](https://open.spotify.com/track/7lVPuhH2BjjDEVzBZBPJaL) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Vaishnavi](https://open.spotify.com/artist/5cOsPxjOTOovRWboflO8CZ) | [Aaye Na Balam](https://open.spotify.com/album/00oSm4ubHzQkPJMRuobGky) | 3:00 | 2024-03-06 | 2024-09-10 |
 | [Ab Mori Chhaad De](https://open.spotify.com/track/07Ssi0muLx96jEPFDqTNPf) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Ab Mori Chhaad De](https://open.spotify.com/album/5pf1eQ4E1YMSJvVLBecgVx) | 4:17 | 2022-12-13 | 2023-06-03 |
 | [Adaaein](https://open.spotify.com/track/4He5EVmJ89k2BelkpXJlLl) | [Aakash Aman](https://open.spotify.com/artist/0QO3f7rvsqC3tw1KnHu8oK) | [Adaaein](https://open.spotify.com/album/7aU4BE6L1rM9cbvBdfKaDt) | 4:09 | 2024-02-19 | 2024-04-19 |
@@ -198,6 +198,7 @@
 | [Mangal Din](https://open.spotify.com/track/79XHrJNsROhUxi0UPXor4v) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Sivaangi Krishnakumar](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Aarambh](https://open.spotify.com/album/23tB4HqO2xE8DqUkXyhzyc) | 4:35 | 2025-01-06 | 2025-05-31 |
 | [Mann](https://open.spotify.com/track/1wvwV1zCrgFHNkEvHyvczs) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Mann](https://open.spotify.com/album/05JCEd68U0G4WM2UOwEIOV) | 4:42 | 2024-03-08 | 2025-05-25 |
 | [Mann Bheetar](https://open.spotify.com/track/2yhih9jbMZKK9DqpwSTkgP) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:29 | 2022-05-17 | 2023-09-12 |
+| [Mann Me Ram](https://open.spotify.com/track/7vygdp1e2wgonVze2cQ1hC) | [Manjusha Patil](https://open.spotify.com/artist/3LDjhTMmzOTXWXcnteHHcU), [Tanmay Bhave](https://open.spotify.com/artist/4joZ6xKAZk3ngu9H5cFppD) | [Mann Me Ram](https://open.spotify.com/album/4Kn1eUbziZf0tiPnzmAijV) | 7:16 | 2025-07-24 |  |
 | [Manwa](https://open.spotify.com/track/4vKwFMgFL0DkOFK2tYnm4z) | [Arth](https://open.spotify.com/artist/0evALJa0ucQicv1y7aZ06Z), [Krutartha](https://open.spotify.com/artist/2eGe7l1wgPrBMM7wTFs5Wr), [Shreyansh Kothari](https://open.spotify.com/artist/4xLhys8QEzlSbtyemH4Usd) | [Manwa](https://open.spotify.com/album/32wwi38EZ7cTTw4B6ZSlPE) | 3:02 | 2023-03-03 | 2023-10-21 |
 | [Manwa](https://open.spotify.com/track/0Qfl0FJrYkiFP2csaljFik) | [prithviraj singh sisodiya](https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd), [Nitisha Agrawal](https://open.spotify.com/artist/0IaVqHLA6RAfCDsBboz6Tq) | [Manwa](https://open.spotify.com/album/5p40JSqFMyw8n3QC8ovxSV) | 2:44 | 2023-10-27 | 2024-07-11 |
 | [Manwa](https://open.spotify.com/track/1UN27M8r8rmgtBQj8hju5H) | [prithviraj singh sisodiya](https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd), [Nitisha Agrawal](https://open.spotify.com/artist/0IaVqHLA6RAfCDsBboz6Tq) | [Manwa](https://open.spotify.com/album/05kEeVeIPUs5BpSHw29RG7) | 2:44 | 2024-02-20 | 2024-04-19 |

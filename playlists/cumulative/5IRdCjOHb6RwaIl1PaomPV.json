@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. Featuring new music from TDJ and Kablito, plus the latest cuts from Eartheater and ALCATRAZ.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Joon Gloom and Miss Madeline &amp; Chase Icon, plus the latest cuts from Clara Kimera \u00actinbed, TDJ, and more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -202,6 +202,28 @@
       "duration_ms": 203618,
       "name": "365",
       "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+    },
+    {
+      "album": {
+        "name": "HELSINKI HARDCORE",
+        "url": "https://open.spotify.com/album/2mEz2Ia0pUEwRNxOcI5WFM"
+      },
+      "artists": [
+        {
+          "name": "Glayden",
+          "url": "https://open.spotify.com/artist/5GsNEQd9Q8J3Yi721r1Tsj"
+        },
+        {
+          "name": "Paul Seul",
+          "url": "https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216372,
+      "name": "4 THE HARDCORE",
+      "url": "https://open.spotify.com/track/2ariTzgOy9LW7FoHgC8xbk"
     },
     {
       "album": {
@@ -666,7 +688,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 178826,
       "name": "afraid (feat. nate sib)",
       "url": "https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G"
@@ -936,6 +958,28 @@
       "duration_ms": 339611,
       "name": "Andrea",
       "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
+    },
+    {
+      "album": {
+        "name": "angel candles",
+        "url": "https://open.spotify.com/album/5nVv2lLlDlzEREyU2wnTiZ"
+      },
+      "artists": [
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        },
+        {
+          "name": "notinbed",
+          "url": "https://open.spotify.com/artist/0e7T2sPaxQSpePLh4AhMg8"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129595,
+      "name": "angel candles",
+      "url": "https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq"
     },
     {
       "album": {
@@ -3353,7 +3397,7 @@
         },
         {
           "name": "Busu",
-          "url": "https://open.spotify.com/artist/5e8GCP3fIVdnQmLWt69X0U"
+          "url": "https://open.spotify.com/artist/0dO6OEk896aswa3orK3zVG"
         }
       ],
       "date_added": "2025-06-27",
@@ -4378,6 +4422,24 @@
       "duration_ms": 113293,
       "name": "ENIGMA 2 DOGMA",
       "url": "https://open.spotify.com/track/1k2WLwBkZtZMkK5ixTNp5Z"
+    },
+    {
+      "album": {
+        "name": "Eteus",
+        "url": "https://open.spotify.com/album/43XncZ8pkqtqKFaO6Mk1xP"
+      },
+      "artists": [
+        {
+          "name": "not even noticed",
+          "url": "https://open.spotify.com/artist/2pAV7s3FEruu2LJW6JQGFo"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273529,
+      "name": "Eteus",
+      "url": "https://open.spotify.com/track/7vcbfLcTMpI4pxPQMQNdWf"
     },
     {
       "album": {
@@ -6138,7 +6200,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 194181,
       "name": "Heaven in Your Head",
       "url": "https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF"
@@ -7365,6 +7427,24 @@
     },
     {
       "album": {
+        "name": "Joker",
+        "url": "https://open.spotify.com/album/6vndf1r9x2NuLwgo5ItjdG"
+      },
+      "artists": [
+        {
+          "name": "Joon Gloom",
+          "url": "https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201972,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/6FmaQ1FesE0j6Au0Kh9LOb"
+    },
+    {
+      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/2WSIg0kGzxbkFdn6Kf8JrP"
       },
@@ -8066,7 +8146,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 89806,
       "name": "Like Lain",
       "url": "https://open.spotify.com/track/22Hyu44S9WlUAE6EHCmS8z"
@@ -9311,6 +9391,24 @@
     },
     {
       "album": {
+        "name": "\u00c6RO",
+        "url": "https://open.spotify.com/album/61vLkSuJkjpk692UHjAgMW"
+      },
+      "artists": [
+        {
+          "name": "yaego",
+          "url": "https://open.spotify.com/artist/3F5cNbKjtYHvv43yu5BhKp"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181656,
+      "name": "musica electronica",
+      "url": "https://open.spotify.com/track/259kNeFoQp9TyTZdDBBznX"
+    },
+    {
+      "album": {
         "name": "Farm Fantasies",
         "url": "https://open.spotify.com/album/4iQOiiyHbLlwLTnPUDZPEo"
       },
@@ -9544,7 +9642,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 235880,
       "name": "never goes away",
       "url": "https://open.spotify.com/track/2jcHQX9RCMAl0PgioVMC0a"
@@ -9714,6 +9812,28 @@
       "duration_ms": 108169,
       "name": "No Clarity",
       "url": "https://open.spotify.com/track/0tnT8B415mZyOYETy2ulVv"
+    },
+    {
+      "album": {
+        "name": "no one belongs here more than you",
+        "url": "https://open.spotify.com/album/5Q4RAPlCuk2l3FyIYwie49"
+      },
+      "artists": [
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        },
+        {
+          "name": "notinbed",
+          "url": "https://open.spotify.com/artist/0e7T2sPaxQSpePLh4AhMg8"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "no one belongs here more than you",
+      "url": "https://open.spotify.com/track/7po0gVTO9jOCYmBNuXoGNk"
     },
     {
       "album": {
@@ -13183,6 +13303,28 @@
     },
     {
       "album": {
+        "name": "STRAWBERRY LEMONADE",
+        "url": "https://open.spotify.com/album/4pWoMdeKkPNZVoZouJCtDm"
+      },
+      "artists": [
+        {
+          "name": "Miss Madeline",
+          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
+        },
+        {
+          "name": "Chase Icon",
+          "url": "https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188806,
+      "name": "STILLETTO PUMPS IN THE POOL",
+      "url": "https://open.spotify.com/track/0BF6uBRfBi5MtfvSJVMidl"
+    },
+    {
+      "album": {
         "name": "FAST TRAX 3",
         "url": "https://open.spotify.com/album/4Wu3A2zAzOPrws6F9QLxqq"
       },
@@ -13466,7 +13608,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 184615,
       "name": "take your vibes and go - DJ ADHD & Chlo\u00e9 Robinson Remix",
       "url": "https://open.spotify.com/track/1P5uvuPPTtbG8gPfWuODtq"
@@ -13568,7 +13710,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 182319,
       "name": "take your vibes and go - Taiki Nulight Remix",
       "url": "https://open.spotify.com/track/1gHKO4NhJgzwNMDnYHs0y1"
@@ -15232,7 +15374,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 244153,
       "name": "When You Sleep",
       "url": "https://open.spotify.com/track/1hbciWy4syeBJeWubluRoX"

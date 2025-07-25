@@ -6,7 +6,7 @@
     "name": "dio",
     "url": "https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i"
   },
-  "snapshot_id": "AAAFSfU5yio2PG88P5pq+TDcCP1B54V+",
+  "snapshot_id": "AAAFTKiHKg1tiBUJVRVX8knLXm7y4THK",
   "tracks": [
     {
       "added_at": "2023-10-19 14:38:14",
@@ -4745,22 +4745,6 @@
       "url": "https://open.spotify.com/track/3aghTcuPKHL4Ea8Fku0nPe"
     },
     {
-      "added_at": "2023-12-29 16:40:47",
-      "album": {
-        "name": "\u30ad\u30e5\u30d7\u30e9",
-        "url": "https://open.spotify.com/album/758SQhbduGjDqXcWrbIDuM"
-      },
-      "artists": [
-        {
-          "name": "\u30d5\u30ec\u30cd\u30b7",
-          "url": "https://open.spotify.com/artist/1YoSYNmMHPZEa2WNNUS1oP"
-        }
-      ],
-      "duration_ms": 139386,
-      "name": "\u30de\u30fc\u30b8\u30ca\u30eb",
-      "url": "https://open.spotify.com/track/4FZ9NWdgh2NYkqho3y9Zhh"
-    },
-    {
       "added_at": "2023-12-31 16:24:16",
       "album": {
         "name": "\u30b2\u30f3\u30c0\u30a4",
@@ -7135,30 +7119,6 @@
       "duration_ms": 236343,
       "name": "\u3081\u308d\u3081\u308d\u30b0\u30eb\u30fc\u30f4",
       "url": "https://open.spotify.com/track/3wNZrPcyObjsZRLG7h6Vq6"
-    },
-    {
-      "added_at": "2024-04-25 07:56:05",
-      "album": {
-        "name": "Hikari",
-        "url": "https://open.spotify.com/album/5vYseIVfkkBnBXj9nbdyU7"
-      },
-      "artists": [
-        {
-          "name": "Princess Ketamine",
-          "url": "https://open.spotify.com/artist/2VRJCeIzOtfUI3mZnEmfqy"
-        },
-        {
-          "name": "CVN",
-          "url": "https://open.spotify.com/artist/19W7Iq71CaCJpLRiYp55rr"
-        },
-        {
-          "name": "NTsKi",
-          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
-        }
-      ],
-      "duration_ms": 214100,
-      "name": "Hikari",
-      "url": "https://open.spotify.com/track/2FA1QEFGkhIXXPj6OnoP53"
     },
     {
       "added_at": "2024-04-25 07:58:46",
@@ -14875,6 +14835,22 @@
       "duration_ms": 228146,
       "name": "\u98db\u7fd4",
       "url": "https://open.spotify.com/track/1gMy9ccSflz0l4R2HJtw0N"
+    },
+    {
+      "added_at": "2025-07-24 16:23:35",
+      "album": {
+        "name": "Needle of Words",
+        "url": "https://open.spotify.com/album/676VYNo0uR1lMHCowR3ZFT"
+      },
+      "artists": [
+        {
+          "name": "Nanatsukaze",
+          "url": "https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH"
+        }
+      ],
+      "duration_ms": 172124,
+      "name": "Needle of Words",
+      "url": "https://open.spotify.com/track/0KRpwQle4Ob0QwY9mP80rd"
     }
   ],
   "unique_name": "japan",

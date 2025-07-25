@@ -330,7 +330,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 254257,
       "name": "Blessings (feat. Nontokozo Mkhize)",
       "url": "https://open.spotify.com/track/2Q04f7HbmxalpjfrPhJMN4"
@@ -748,10 +748,28 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 355500,
       "name": "Igama Lakho - Live",
       "url": "https://open.spotify.com/track/0rpD7PM4FoyHNFp86OHOK4"
+    },
+    {
+      "album": {
+        "name": "Unusual (Live / Deluxe)",
+        "url": "https://open.spotify.com/album/0eCphxZCFCyS6yOpEKM9OS"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325013,
+      "name": "Igama Lakho - Live At Carnival City / 2024",
+      "url": "https://open.spotify.com/track/3Q8ul10d4bUgCZc4MytcRT"
     },
     {
       "album": {
@@ -766,7 +784,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 393053,
       "name": "In This Place - Live At Carnival City, 2024",
       "url": "https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON"
@@ -2298,7 +2316,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 482367,
       "name": "Uloyiko Lwami 2.0 (Live)",
       "url": "https://open.spotify.com/track/6xEXoF9hY3AZ7MF9xEw3rZ"
@@ -2356,6 +2374,40 @@
       "duration_ms": 507000,
       "name": "Umkhuleko We Bandla",
       "url": "https://open.spotify.com/track/2CFDmYlaldjUNC00kNmVRe"
+    },
+    {
+      "album": {
+        "name": "Unamandla uMoya Oyingcwele",
+        "url": "https://open.spotify.com/album/42l3h4dclhz3e80X6ZfUbP"
+      },
+      "artists": [
+        {
+          "name": "Ayanda Shange",
+          "url": "https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ"
+        },
+        {
+          "name": "Koketso Shange",
+          "url": "https://open.spotify.com/artist/3FZ1mWIJJW00p5EGrmUQcz"
+        },
+        {
+          "name": "Novangeli",
+          "url": "https://open.spotify.com/artist/0iwGpPNDo0NC5HfcougFaG"
+        },
+        {
+          "name": "Thando Matiwane",
+          "url": "https://open.spotify.com/artist/5minoDryVnmbdtRAfXverS"
+        },
+        {
+          "name": "Thobile Dlamini",
+          "url": "https://open.spotify.com/artist/6dk9lEnemkUQWq0bOvXHgA"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243840,
+      "name": "Unamandla uMoya Oyingcwele",
+      "url": "https://open.spotify.com/track/7IdwDsjgFKRiz6SAuMi0rC"
     },
     {
       "album": {

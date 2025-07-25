@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Amaeya",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Nezsa",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 159652,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2fZ7XuCUiahqDANyfVd7mv"
@@ -3602,7 +3602,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 157000,
       "name": "Broken Souls",
       "url": "https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v"
@@ -4420,7 +4420,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 163383,
       "name": "Clingy",
       "url": "https://open.spotify.com/track/47T1ubQyQImtj2kZ0WRWd9"
@@ -4834,7 +4834,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 135576,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/7d918PzAZdGEIlaENCH9SE"
@@ -5534,7 +5534,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 148571,
       "name": "DND",
       "url": "https://open.spotify.com/track/5c86UmBcVZJkpUttaeKsKo"
@@ -5986,7 +5986,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 190344,
       "name": "DYANA",
       "url": "https://open.spotify.com/track/31d1jnHHtwc43kLjZDNuRs"
@@ -10900,7 +10900,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 159151,
       "name": "In My Soul",
       "url": "https://open.spotify.com/track/6OXQRSvzxPmnxMXNckRCt6"
@@ -14996,7 +14996,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 105454,
       "name": "MUMU",
       "url": "https://open.spotify.com/track/5ztFQVJKGuOTE68Wl4YUgZ"
@@ -15972,6 +15972,24 @@
       "duration_ms": 137147,
       "name": "No Religion",
       "url": "https://open.spotify.com/track/6JcsgUcIpOR0f3K1OZRAfP"
+    },
+    {
+      "album": {
+        "name": "No Reminding",
+        "url": "https://open.spotify.com/album/6FDqeyCmNqw0otcJ2r2VQp"
+      },
+      "artists": [
+        {
+          "name": "nezsa",
+          "url": "https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "No Reminding",
+      "url": "https://open.spotify.com/track/0vWY2y9Ns6JFA18ttQQdcA"
     },
     {
       "album": {
@@ -19490,7 +19508,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 165431,
       "name": "Reflection Station",
       "url": "https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU"
@@ -20808,7 +20826,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 175483,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/5UlIQlThsFv7qCEhQbR5EG"
@@ -22820,7 +22838,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 175161,
       "name": "Te Nu Mo",
       "url": "https://open.spotify.com/track/0oyZYjXFFwUhwyDDfxGdU1"

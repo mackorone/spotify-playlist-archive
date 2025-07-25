@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe?si=Ryxw\-idLS1mm6km64D6KHQ>Sinach</a>
 
-218 songs - 1 day 1 hr 56 min
+219 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,10 +110,11 @@
 | [Imela](https://open.spotify.com/track/48t4nNLGMs6UQcnn6cSCmK) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Mercy Peter](https://open.spotify.com/artist/6th52hnATS4dveuzJJZr04) | [Imela](https://open.spotify.com/album/1t9RvjiXTXN79Fp1gPHenK) | 5:07 | 2024-06-21 | 2025-01-10 |
 | [In the Room \(Rendition\)](https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [In the Room \(Rendition\)](https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA) | 6:11 | 2024-12-20 |  |
 | [In You](https://open.spotify.com/track/6bsrCda8VgcBLtI5c3HCyn) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [In You](https://open.spotify.com/album/4sKh0lvHz8RmO3BOpETpZS) | 2:39 | 2024-05-17 | 2024-06-07 |
-| [In You Oh Lord I Put My Trust](https://open.spotify.com/track/4RvV5rgSP7MH5MeR8vr2Mi) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [In You Oh Lord I Put My Trust](https://open.spotify.com/album/3Z0hoVuTRobV8NT0a9jNdO) | 4:08 | 2025-05-30 |  |
+| [In You Oh Lord I Put My Trust](https://open.spotify.com/track/4RvV5rgSP7MH5MeR8vr2Mi) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [In You Oh Lord I Put My Trust](https://open.spotify.com/album/3Z0hoVuTRobV8NT0a9jNdO) | 4:08 | 2025-05-30 | 2025-07-25 |
 | [Intimacy](https://open.spotify.com/track/3kvQ1aWiP1OHawDszvNEeO) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Intimacy](https://open.spotify.com/album/4msg6xi048k2ZrXiw3plqA) | 7:19 | 2025-03-07 | 2025-06-12 |
 | [Izurukeme \- Live](https://open.spotify.com/track/5K0wzd1xT77UkkTHHEtrxt) | [Grace Akakam](https://open.spotify.com/artist/6RxBaERGqQUh8s7IW6ebDV), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Izurukeme \(Live\)](https://open.spotify.com/album/7jl1P747R49lZOXW9nfFsO) | 5:38 | 2025-02-28 | 2025-04-11 |
 | [JEHOVAH \- Live](https://open.spotify.com/track/2JlbhEVXc1RWeSP3pWokpp) | [Johnnie Akpanke](https://open.spotify.com/artist/6TXNfPNDp6K9oLGk9bb1PJ), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [JEHOVAH \(Live\)](https://open.spotify.com/album/0sZru6q0svg8q0Zp3YwGQL) | 10:01 | 2025-07-11 |  |
+| [Jesu \- Live](https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Generation Intimacy \(Live\)](https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ) | 13:37 | 2025-07-25 |  |
 | [Jesu Doh \(Revisitation\)](https://open.spotify.com/track/2ff0oDG7KHh5G6Sn4Tn6KH) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Jesu Doh \(Revisitation\)](https://open.spotify.com/album/3EuYKNMSaFJjncOA1yZktn) | 5:23 | 2024-12-27 | 2025-06-06 |
 | [Jesus](https://open.spotify.com/track/5tsBzcAXwo3UGRSPT4TbXV) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Lion of Judah](https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy) | 7:34 | 2024-05-09 | 2024-06-14 |
 | [Jesus Oyoyooh \(You are worthy\)](https://open.spotify.com/track/7bpSRQfKXx2hLP3622Ad3s) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Jesus Oyoyooh \(You are worthy\)](https://open.spotify.com/album/7qswxW7semeVCfFmmy9Y4c) | 12:09 | 2024-11-01 | 2025-01-03 |

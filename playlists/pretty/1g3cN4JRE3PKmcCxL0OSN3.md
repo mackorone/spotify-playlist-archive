@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 
 > 16&\#x2F;09&\#x2F;24 😔
 
-[charlie xcx](https://open.spotify.com/user/blank808) - 0 likes - 1,509 songs - 3 day 16 hr 40 min
+[charlie xcx](https://open.spotify.com/user/blank808) - 0 likes - 1,510 songs - 3 day 16 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1517,5 +1517,6 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 | 1507 | [ride the dragon](https://open.spotify.com/track/15TXFTdwGEEL4jH9erTRnK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:08 |
 | 1508 | [I might say something stupid featuring the 1975 & jon hopkins](https://open.spotify.com/track/2uRHJmdkGIajVibmUv9HDx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR) | 4:10 |
 | 1509 | [Love Is Everywhere](https://open.spotify.com/track/2ZSDtC0XZnpokAMwRtgqzh) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:14 |
+| 1510 | [Look at the Sky](https://open.spotify.com/track/5lXNcc8QeM9KpAWNHAL0iS) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 5:09 |
 
-Snapshot ID: `AAAFXKZdFYraO8NcGAzkQEoo7bMkwPgl`
+Snapshot ID: `AAAFXakwEkGI7v55nsuV4YXuwguWyhU0`

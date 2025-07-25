@@ -1801,6 +1801,24 @@
     },
     {
       "album": {
+        "name": "Unusual (Live / Deluxe)",
+        "url": "https://open.spotify.com/album/0eCphxZCFCyS6yOpEKM9OS"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325013,
+      "name": "Igama Lakho - Live At Carnival City / 2024",
+      "url": "https://open.spotify.com/track/3Q8ul10d4bUgCZc4MytcRT"
+    },
+    {
+      "album": {
         "name": "Iwo Lalagbara (Live)",
         "url": "https://open.spotify.com/album/5WdY8B71pH9TVWfN2Amu2s"
       },
@@ -3199,6 +3217,28 @@
     },
     {
       "album": {
+        "name": "OGBENINIJA (Live)",
+        "url": "https://open.spotify.com/album/7wjvc2ChqysG3czFDAqY3m"
+      },
+      "artists": [
+        {
+          "name": "Manus Akpanke",
+          "url": "https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL"
+        },
+        {
+          "name": "Tee Worship",
+          "url": "https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 607218,
+      "name": "OGBENINIJA - Live",
+      "url": "https://open.spotify.com/track/6AxRxDndsYJKlK7pvQNBn0"
+    },
+    {
+      "album": {
         "name": "Ogo",
         "url": "https://open.spotify.com/album/6lCqBg5DySvDfvZXNXSURk"
       },
@@ -3742,7 +3782,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 347532,
       "name": "Song Of My Father (Live) - Revisitation",
       "url": "https://open.spotify.com/track/7eBpg6M5HmQ24lKbV4p8af"

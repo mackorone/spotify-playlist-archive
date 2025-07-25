@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The hottest Hip Hop from Yugen Blakrok, Clipse, Cassper Nyovest and more.",
+  "description": "The hottest Hip Hop from TOSS, Maglera Doe Boy & Young Stunna, Tyler The Creator, and more.",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -3213,6 +3213,32 @@
     },
     {
       "album": {
+        "name": "Hermano",
+        "url": "https://open.spotify.com/album/5WMiWwu5SQGjkDnBt158fo"
+      },
+      "artists": [
+        {
+          "name": "TOSS",
+          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "Hermano",
+      "url": "https://open.spotify.com/track/3jiXyd7yAiExtvvf81Ci4G"
+    },
+    {
+      "album": {
         "name": "Heyy",
         "url": "https://open.spotify.com/album/3oBEWrK0AXOXa8ADodU0ue"
       },
@@ -4405,6 +4431,28 @@
     },
     {
       "album": {
+        "name": "Madimona (feat. Allicaltune Drum Roll)",
+        "url": "https://open.spotify.com/album/1qrFLASkLBghSGtVD2B1nR"
+      },
+      "artists": [
+        {
+          "name": "Ntate Lesiba",
+          "url": "https://open.spotify.com/artist/6dOhvtaOSosUpTmqqVgncm"
+        },
+        {
+          "name": "Allicaltune Drum Roll",
+          "url": "https://open.spotify.com/artist/2DDxFFfEIhPigJDgWE33HS"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179725,
+      "name": "Madimona (feat. Allicaltune Drum Roll)",
+      "url": "https://open.spotify.com/track/4J5ORCnrj5jDsBjwM7ijWC"
+    },
+    {
+      "album": {
         "name": "MAJITA (Original)",
         "url": "https://open.spotify.com/album/7JroFrNvwMfsCVo7pmGfsU"
       },
@@ -4504,7 +4552,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 77333,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/12ZIeKfjEj0KOyA1E7IjWb"
@@ -5620,7 +5668,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 147961,
       "name": "Passenger Princess (feat. Smino)",
       "url": "https://open.spotify.com/track/4XXARhW0U9SKGQJcnYIDAC"
@@ -7318,6 +7366,24 @@
       "duration_ms": 189153,
       "name": "Sucka Or Sum",
       "url": "https://open.spotify.com/track/4vIBtcC2KzJY4Va98bvI8P"
+    },
+    {
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
       "album": {

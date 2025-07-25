@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,941 songs - 4 day 4 hr 33 min
+1,942 songs - 4 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1194,6 +1194,7 @@
 | [Nog av dig](https://open.spotify.com/track/2yVzrs8JmfflnKOUfrsvfr) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Nog av dig](https://open.spotify.com/album/5AEdNin0vKVAA6avdScXNy) | 2:54 | 2024-08-15 | 2024-09-21 |
 | [None Of These Guys](https://open.spotify.com/track/4YxCwmfbo4FcAeaK0vFJFV) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 2:42 | 2024-02-08 | 2024-04-05 |
 | [Nonono](https://open.spotify.com/track/3yfMnmyvUPamwT4aXCORmk) | [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Nonono](https://open.spotify.com/album/2uDilBq2pCCTzXA3RdKCwT) | 4:02 | 2021-12-16 | 2022-02-22 |
+| [Nordhemsgatan leder rakt in i himlen](https://open.spotify.com/track/3sScQoU8Ak03HNpwU5EQpx) | [Nisse Hasselgren](https://open.spotify.com/artist/4v5w0Jq7clg8opEwcfrGs2) | [Nordhemsgatan leder rakt in i himlen](https://open.spotify.com/album/5LxzOjxSKOHTXsIPltxaRZ) | 4:39 | 2025-07-24 |  |
 | [NOSTALGI](https://open.spotify.com/track/4TqpAtvf3o2bQp255k4V8n) | [Ella Rammelt](https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE) | [NOSTALGI](https://open.spotify.com/album/4yLwv3kbaczSeyrbdXin8U) | 2:26 | 2024-05-23 | 2024-06-21 |
 | [Not Yet](https://open.spotify.com/track/3fwMbqUEH5U2jgOLq0Pfj3) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Not Yet](https://open.spotify.com/album/0UAfkJm7kBBQqWYCX5ZVDv) | 3:08 | 2024-03-21 | 2024-05-03 |
 | [not your fault](https://open.spotify.com/track/2jtHAE1bwV0qPnpg1KCMkH) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [not your fault](https://open.spotify.com/album/0Qq8puDyqqdmAWMUirix5o) | 3:45 | 2022-03-10 | 2022-04-21 |
@@ -1703,7 +1704,7 @@
 | [Till Solen Brinner Ut](https://open.spotify.com/track/2DTa2kupO7EwBcVDJrENJ2) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Till Solen Brinner Ut](https://open.spotify.com/album/6PlbjhdgIeBavM5EcNztvB) | 3:19 | 2022-09-29 | 2022-10-07 |
 | [Tillbaka till Stockholm](https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Slutscen](https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ) | 3:07 | 2024-06-06 | 2024-08-09 |
 | [Tillräcklig](https://open.spotify.com/track/5KTWAnAjNvWpJ5oTlzkOUU) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Tillräcklig](https://open.spotify.com/album/5fwPOg0afgFvEnVZFY6Dqa) | 2:46 | 2023-10-26 | 2024-02-09 |
-| [Tills idag](https://open.spotify.com/track/6VS8Y3icddJzgUPHgM35Ds) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Tills idag](https://open.spotify.com/album/1zstzUYTyLI9VMLMmZL0Ki) | 3:01 | 2025-05-08 |  |
+| [Tills idag](https://open.spotify.com/track/6VS8Y3icddJzgUPHgM35Ds) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Tills idag](https://open.spotify.com/album/1zstzUYTyLI9VMLMmZL0Ki) | 3:01 | 2025-05-08 | 2025-07-25 |
 | [Tillsammans](https://open.spotify.com/track/3ibHLzsA6cJzAtJSwpRzpZ) | [Tim Damerau](https://open.spotify.com/artist/17YXRoI6Gj8EXyQM1lpxNZ), [Linnea Andersson](https://open.spotify.com/artist/3TKl5dwSBx0gQG0O4qNon4) | [Tillsammans](https://open.spotify.com/album/2QO70oJcBK5tRNHZWk3Z2t) | 3:21 | 2024-01-18 | 2024-02-04 |
 | [Tillsammans](https://open.spotify.com/track/77l26wJl8mAWROEuZvMBIl) | [Tim Damerau](https://open.spotify.com/artist/17YXRoI6Gj8EXyQM1lpxNZ), [Linnea Andersson](https://open.spotify.com/artist/3TKl5dwSBx0gQG0O4qNon4) | [Tillsammans](https://open.spotify.com/album/4Mxr4PtZv8WDmX2yrm0rJ8) | 3:21 | 2024-02-08 | 2024-02-23 |
 | [Tilt](https://open.spotify.com/track/0eQadZfhWLntMvsEjYDRLk) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Tilt](https://open.spotify.com/album/0AC4E1o8yb9e0RMmqxcgXI) | 3:34 | 2022-04-28 | 2022-07-29 |

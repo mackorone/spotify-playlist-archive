@@ -1835,6 +1835,28 @@
     },
     {
       "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/3SDLtpMyD7UmxcASwCnWK0"
+      },
+      "artists": [
+        {
+          "name": "ill quentin",
+          "url": "https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH"
+        },
+        {
+          "name": "Leston",
+          "url": "https://open.spotify.com/artist/5vU7O06Mto29k2V4oBBbDZ"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155298,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/6QL34AOizNSdOSnJpNK69L"
+    },
+    {
+      "album": {
         "name": "Temor",
         "url": "https://open.spotify.com/album/04x545owsC3bnx17iQdnMj"
       },

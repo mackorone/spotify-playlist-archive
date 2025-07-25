@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: \nKokoroko",
+  "description": "The best from Britain's vibrant scene. Cover: \nVenna",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 296168,
       "name": "31. Bleep (01)",
       "url": "https://open.spotify.com/track/2YB0vJrpjfXt5cQGicZdCU"
@@ -400,6 +400,24 @@
       "duration_ms": 163043,
       "name": "After This",
       "url": "https://open.spotify.com/track/0iXcE8BgY3pk6GdRNNjeQa"
+    },
+    {
+      "album": {
+        "name": "Wu Wei",
+        "url": "https://open.spotify.com/album/6vpHWq7UHPBQ5ohdU31VnM"
+      },
+      "artists": [
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96529,
+      "name": "Agave Flute",
+      "url": "https://open.spotify.com/track/0QFqGiwrunHgwpflzQhgmQ"
     },
     {
       "album": {
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 276625,
       "name": "Beautiful Sunday",
       "url": "https://open.spotify.com/track/3LAL1nIrnaJGAQmN7cJutg"
@@ -1782,7 +1800,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 322223,
       "name": "Butterflies (feat. Tim Bernardes)",
       "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
@@ -2802,7 +2820,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 188230,
       "name": "Darkest Nights",
       "url": "https://open.spotify.com/track/3XlQoBHOf0QnUm0JrMuXyu"
@@ -2960,7 +2978,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 320826,
       "name": "Decay",
       "url": "https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd"
@@ -3374,7 +3392,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 202698,
       "name": "Dreambend",
       "url": "https://open.spotify.com/track/4ufGGHCXkK2v1gONKMcCyV"
@@ -5954,7 +5972,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-19",
+      "date_removed": null,
       "duration_ms": 289933,
       "name": "In The Breaks",
       "url": "https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc"
@@ -6354,7 +6372,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 291279,
       "name": "Jela Kubwa Na Viboko",
       "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
@@ -6838,7 +6856,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 156279,
       "name": "Lag\u00f4",
       "url": "https://open.spotify.com/track/0pW0Hui92jkwKyE0PZh60c"
@@ -7082,7 +7100,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 253313,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN"
@@ -8576,7 +8594,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 232068,
       "name": "My Type",
       "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
@@ -9143,6 +9161,24 @@
     },
     {
       "album": {
+        "name": "Brown Penny",
+        "url": "https://open.spotify.com/album/0Fk5K3WqlJpul1nRUgOOSm"
+      },
+      "artists": [
+        {
+          "name": "Brown Penny",
+          "url": "https://open.spotify.com/artist/2GKfcKmg033I05MZPVHM5d"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262911,
+      "name": "Nowadays",
+      "url": "https://open.spotify.com/track/4n0jArV3iicpREgHp99uRe"
+    },
+    {
+      "album": {
         "name": "Submerge",
         "url": "https://open.spotify.com/album/33U1cvheAyAUQnXoanTKj4"
       },
@@ -9176,7 +9212,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 210447,
       "name": "ode to rahsaan",
       "url": "https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU"
@@ -9284,7 +9320,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 277106,
       "name": "Old Friend; The Sea",
       "url": "https://open.spotify.com/track/6GBvm9H1J9pIIfDWcaF3Pp"
@@ -9396,7 +9432,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 156688,
       "name": "open this wall",
       "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
@@ -9414,7 +9450,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 168218,
       "name": "Orange-coloured day",
       "url": "https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy"
@@ -13711,6 +13747,28 @@
     },
     {
       "album": {
+        "name": "Twisting (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225613,
+      "name": "Twisting (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj"
+    },
+    {
+      "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
       },
@@ -14270,7 +14328,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 236015,
       "name": "We Have Each Other",
       "url": "https://open.spotify.com/track/5uTLVdv9ILqGxYIK2xDCuG"
@@ -14444,7 +14502,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 188181,
       "name": "When It Comes Together",
       "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"

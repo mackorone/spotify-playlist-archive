@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-993 songs - 2 day 2 hr 50 min
+999 songs - 2 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Cove](https://open.spotify.com/track/2dslILOVDhmXVEds5LUuDj) | [Mareina](https://open.spotify.com/artist/1cxHZRpXrZwfKsbKFLpL36) | [Cove](https://open.spotify.com/album/4JOBNTgnUIbHD8KBq0YgiA) | 2:47 | 2024-03-14 |  |
 | [Cradle of Silence](https://open.spotify.com/track/6O6DIp2Lhcw57u6IkF0IJu) | [Reso Nata](https://open.spotify.com/artist/6qKvE5RybnVZLSPVoFJrCz) | [Cradle of Silence](https://open.spotify.com/album/5W8UjXslZMr17hJQDaPv6b) | 2:41 | 2025-02-10 |  |
 | [Creation](https://open.spotify.com/track/1Q2nWimBEhOpUsl4u8Bumw) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Creation](https://open.spotify.com/album/2MmtENlcU7GpS2CjVzu76f) | 3:19 | 2024-11-19 | 2025-05-14 |
+| [Creatore](https://open.spotify.com/track/1slqaSwCKMNKWjUUY5HIOP) | [Ali Silva](https://open.spotify.com/artist/5aaCY6n423kFCerv4V5Gqc) | [Creatore](https://open.spotify.com/album/4u3rEVKDjzkwKCQSc8f3rz) | 2:58 | 2025-07-24 |  |
 | [Creeping into Dusk](https://open.spotify.com/track/6NBjJ9EPr0FyxhbFeCqwwM) | [A Dancing Beggar](https://open.spotify.com/artist/728YMd5rIL5FkGaRLNdAv8) | [Follow The Dark as If It Were Light](https://open.spotify.com/album/6VRg2NbI3EiWql4S9zmctY) | 5:33 | 2019-05-26\* | 2019-06-29 |
 | [Crimson Slumber](https://open.spotify.com/track/0iZ9jDhTP6IpdUGIO5oa3O) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Crimson Slumber](https://open.spotify.com/album/2R0P2QzAUPsUbuRevACYJc) | 2:47 | 2025-02-28 |  |
 | [Cristales](https://open.spotify.com/track/2y4BjmOnbJB2SfgXpPK859) | [Alter Ego](https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj) | [Alter Ego EP](https://open.spotify.com/album/4NYzqT293AyVwWVxoKC9yP) | 1:43 | 2020-01-09 | 2023-04-07 |
@@ -368,6 +369,7 @@
 | [Forest Canvas](https://open.spotify.com/track/0Y67hBf8raOl4JYVvohHR2) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 3:59 | 2020-01-03 | 2021-06-16 |
 | [Forgotten Years](https://open.spotify.com/track/0IaOmXNdNpq5TxRpKYfLjN) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Daydream In Silver](https://open.spotify.com/album/0W2X2Yarkdype9wknwGETD) | 3:10 | 2019-05-26\* | 2020-01-03 |
 | [Fortress](https://open.spotify.com/track/1pLbdZxfqP0jPqCbJB4A5N) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [The One We Got](https://open.spotify.com/album/1dAqoThlD7EKzg0Kg03NY3) | 3:20 | 2019-05-26\* | 2023-02-25 |
+| [Fortuna](https://open.spotify.com/track/3tbEsSw1pUHDRld3gPkMdP) | [Sonorous Drone](https://open.spotify.com/artist/2eHQj6ufTBhAxqRRqMJIZx) | [Fortuna](https://open.spotify.com/album/6U1Nj5c8xI2AzOu8k7XzZk) | 3:11 | 2025-07-24 |  |
 | [Foton](https://open.spotify.com/track/67DTlUlAPqjtNCC7zVdStU) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Texturalista](https://open.spotify.com/album/3dRDX0QndBDdTIda56G5xy) | 1:49 | 2019-12-07 | 2020-05-18 |
 | [Foundation](https://open.spotify.com/track/15TwhLj4nBzXJ6LNkkMrF2) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Foundation](https://open.spotify.com/album/07XoLy9tPwoHGrweiqjA2Q) | 3:06 | 2024-01-29 |  |
 | [four](https://open.spotify.com/track/2199hIaiQRnAbJaOS44MPt) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [four](https://open.spotify.com/album/195r62JIPqm8a7cANxzqfN) | 3:00 | 2019-05-26\* | 2020-01-03 |
@@ -555,6 +557,7 @@
 | [Meditative Violin](https://open.spotify.com/track/6mJnhJKcWpe4JjT6YhqsxY) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Meditative Violin](https://open.spotify.com/album/7xnYck98Ol39ZB44PB95mI) | 2:45 | 2020-01-09 | 2020-05-18 |
 | [Meeting Marynae](https://open.spotify.com/track/0IYJ7Thxg7UKODefmWZOXA) | [Galeine](https://open.spotify.com/artist/2EZSBMFNvFTUXkyMMtWkCU) | [Meeting Marynae](https://open.spotify.com/album/5mVoB2U1OVrJvPkybhNzUn) | 3:16 | 2022-08-15 | 2025-01-09 |
 | [Mellifluous](https://open.spotify.com/track/1vSqYZ2q0cvwlWNAzkzeOq) | [Opus Monik](https://open.spotify.com/artist/2dh3BSBT3YA8IaxyWYlVzO) | [Mellifluous](https://open.spotify.com/album/1xGh7wtH1lMtdhmvf6w35S) | 1:58 | 2019-05-26\* | 2021-10-13 |
+| [Meridian](https://open.spotify.com/track/7AooP6MplcgFyNEV2eHvpi) | [Ziraphine](https://open.spotify.com/artist/11GUbolCBySYUL4wIUv1Ex) | [Meridian](https://open.spotify.com/album/5Yptqti5yYf2y7jcfTKLV4) | 2:25 | 2025-07-24 |  |
 | [Metric](https://open.spotify.com/track/4zSOtBBAs9EyMUpNwbp6ta) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Metric](https://open.spotify.com/album/3mRR2xufUTCLv6ZVqJgwJY) | 2:24 | 2021-11-26 | 2025-02-11 |
 | [Midnight Waves](https://open.spotify.com/track/0epB3Nk6gNkfzVpHiTIHqT) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Visions](https://open.spotify.com/album/7k4or19D1uKrAzdzf1iIkk) | 2:39 | 2019-12-07 | 2020-05-18 |
 | [Midsommarnatt](https://open.spotify.com/track/6UyDL0wkh12ox8TJpvnQpu) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Midsommarnatt](https://open.spotify.com/album/4RaBFPWiRSoLrLEZJFO14K) | 2:14 | 2019-07-27 | 2023-05-03 |
@@ -869,6 +872,7 @@
 | [Tell Me And I'll Forget](https://open.spotify.com/track/5ZMpJvJRpTs8jPCFDbUqfM) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Time Is But A Wellspring](https://open.spotify.com/album/1ipPYMrH02EkcMGcfYBCkp) | 2:52 | 2019-05-26\* | 2022-07-29 |
 | [Temple of Peace](https://open.spotify.com/track/0qLkLemmQaimQxGy7wXDzM) | [Gloans](https://open.spotify.com/artist/5NrEcEpRQsyX8B7hZoLFU0) | [Temple of Peace](https://open.spotify.com/album/4QjpazE0HSSTudOpoAjLe1) | 3:11 | 2020-05-09 | 2023-05-03 |
 | [The Art Of Love](https://open.spotify.com/track/7hXKIp3IX3nrvHkq34zbMG) | [Sahlene Williams](https://open.spotify.com/artist/0kuiVox1gz055r46Oqulfw) | [The Art Of Love](https://open.spotify.com/album/3z0G27tIIhecHLJi9ppTKT) | 3:05 | 2019-05-26\* | 2022-09-15 |
+| [The Brightest Shadow](https://open.spotify.com/track/0hYWqes6gVJiAc6I8Nl98P) | [Isoflimmasy](https://open.spotify.com/artist/5cRByeIrAELSSOwZ9ch3Wc) | [The Brightest Shadow](https://open.spotify.com/album/1wFJQ7WupjUMvJB9c3vRKQ) | 2:26 | 2025-07-24 |  |
 | [The Chosen One](https://open.spotify.com/track/3Jd4MNurRgeTF61GpVTIpb) | [Vincent Brahn](https://open.spotify.com/artist/4hHUuocKrz925cz7rAhoju) | [Lake Navis](https://open.spotify.com/album/45SgBkBj04nt7ZxfTsfpuh) | 3:14 | 2019-05-26\* | 2020-01-03 |
 | [The Cradle](https://open.spotify.com/track/16fzJ5HF36qfBX0ttZad6m) | [Enlightment Spirits](https://open.spotify.com/artist/0OLeckavC2DOpjGiVUTqTF) | [The Cradle](https://open.spotify.com/album/1X4qRvNyOdhiISK1D6Tdpo) | 2:04 | 2020-01-03 | 2023-05-03 |
 | [The Day is Done](https://open.spotify.com/track/5cVKlN0vdJiXiwc3F4HcYX) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [The Day is Done](https://open.spotify.com/album/5cC2JD0wxNRmC5fdRnCn0U) | 3:31 | 2022-07-15 | 2024-09-12 |
@@ -980,6 +984,7 @@
 | [Whalus](https://open.spotify.com/track/0SpMQOXBNSSrFD0n7xIxL4) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Whalus](https://open.spotify.com/album/0hlEqr684mPySDKXqmON9w) | 1:51 | 2022-03-04 | 2023-07-29 |
 | [What Matters Most](https://open.spotify.com/track/3rPFA1lIlvYgmQbblz3sDp) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [What Matters Most](https://open.spotify.com/album/4uKx9Kfx0M03BSYctWm3iJ) | 3:15 | 2022-02-15 | 2025-03-01 |
 | [When Crickets Sing](https://open.spotify.com/track/0nXETrkCqANlPdWDDFmhCY) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [Gentle Stream](https://open.spotify.com/album/2gBUn1kftYn7xkpvDfV70V) | 2:56 | 2019-12-07 | 2020-07-11 |
+| [Where We Belong](https://open.spotify.com/track/3Ppzgjcve0izbr0bM4EJkl) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Where We Belong](https://open.spotify.com/album/78CuO9neQSQTPXyhhPUTCO) | 3:02 | 2025-07-24 |  |
 | [Whispered Dreams](https://open.spotify.com/track/0wz1CgXFr0aSu1UzqEGG4C) | [El Ambiente](https://open.spotify.com/artist/65DwviFYxUr0wAh3Du1y2J) | [Whispered Dreams](https://open.spotify.com/album/4gGMNIuAR2JqtKBPIfiDYA) | 3:13 | 2022-09-13 | 2023-07-29 |
 | [White Clouds](https://open.spotify.com/track/0oc8j70828V2wJgp7PIWEk) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [White Clouds](https://open.spotify.com/album/54uMaCxZWeMGRzGaOQSEUe) | 2:59 | 2020-01-09 | 2022-12-10 |
 | [White Dove](https://open.spotify.com/track/0TXwtGVDlyxefhSQb8QCA3) | [TN2020](https://open.spotify.com/artist/5OhsS6nG8LaW0V6QtxIFr0) | [White Dove](https://open.spotify.com/album/3VxlCszbdAMtaEhlYRxFTY) | 3:30 | 2020-07-11 | 2022-10-08 |
@@ -998,6 +1003,7 @@
 | [Wrapped in Warmth](https://open.spotify.com/track/6vUO4F4h0Fg01FyiWFa8hb) | [Multicolored Dreams](https://open.spotify.com/artist/6sIcU8P0T1TcAjOHEkAt3Q) | [Wrapped in Warmth](https://open.spotify.com/album/6gX6pglJXaKDnCdC6x2Ls6) | 3:32 | 2020-08-08 | 2021-09-14 |
 | [Yanti](https://open.spotify.com/track/04dyKBHVyTJYzi3QY70FJ5) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Yantira](https://open.spotify.com/album/64OGduuqW2XzE0Lyi5Jihl) | 3:28 | 2019-05-26\* | 2020-01-03 |
 | [Yoga](https://open.spotify.com/track/1OVUdRhh2HebvcNyzOYNwO) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Yoga](https://open.spotify.com/album/00nTdYPvE6THW7xIPKL9zE) | 3:48 | 2024-06-10 | 2025-05-14 |
+| [Yonder Somnus Song](https://open.spotify.com/track/550fejjiCJQaSHJdncYoUA) | [Ayla Nenura](https://open.spotify.com/artist/0xHbH4Lf2B7lHMjMMT1gRs) | [Yonder Somnus Song](https://open.spotify.com/album/11artDvuUKT8zQDoADDR18) | 2:47 | 2025-07-24 |  |
 | [Zauberer](https://open.spotify.com/track/6cPMumXMqkeN8sKAE29uOB) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Zauberer](https://open.spotify.com/album/12DWmZRocdbO2edqiokY8M) | 3:28 | 2019-05-26\* | 2020-01-03 |
 | [Zentrovert](https://open.spotify.com/track/0TV6pAwcHotS0Mhd4YP1bd) | [Chuck Namaste](https://open.spotify.com/artist/156kibEzCQReW228ztwjKK) | [Capricorn Sonata](https://open.spotify.com/album/3TKnynG4exN0O9j5KbSPmO) | 3:18 | 2020-05-09 | 2023-05-03 |
 | [Éther Ardent](https://open.spotify.com/track/4K9OOUsAqIbU5N8eXw47Qw) | [Shimmerweave](https://open.spotify.com/artist/7wcPlyyyXe4zqgOuHHwJ5s) | [Éther Ardent](https://open.spotify.com/album/3dRUwAZN5a5Vdg0qAKgxn4) | 2:18 | 2025-01-29 |  |

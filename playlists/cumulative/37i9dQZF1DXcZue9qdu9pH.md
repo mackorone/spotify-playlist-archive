@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-134 songs - 7 hr 26 min
+135 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 | 2023-06-30 | 2024-05-04 |
 | [Not My Own](https://open.spotify.com/track/4LJCnfBCGR7k1cWMbZ6OxQ) | [ro](https://open.spotify.com/artist/1m4s5VPSqT6GcF5fm9qKXB), [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Not My Own](https://open.spotify.com/album/2MnS88RNdCYeYP12wnxp2D) | 2:16 | 2023-06-30 |  |
 | [NYDFRYSTL](https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [NYDFRYSTL](https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I) | 1:48 | 2023-12-15 | 2024-06-14 |
-| [Oasis](https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [OASIS](https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV) | 2:30 | 2023-11-10 |  |
+| [Oasis](https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [OASIS](https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV) | 2:30 | 2023-11-10 | 2025-07-25 |
 | [OASIS](https://open.spotify.com/track/4mY9viBrQYRVOOINLmwI1I) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 3:34 | 2023-06-30 | 2023-09-02 |
 | [Oh Shoot](https://open.spotify.com/track/4kHKic91jzEObqoLgYzROV) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Oh Shoot](https://open.spotify.com/album/5Hq2dnXCD2b5HVhy8wwP9U) | 2:49 | 2023-10-20 | 2024-07-16 |
 | [Perfect](https://open.spotify.com/track/7aYgfQTQIuoi9FojUgE7lY) | [Faith Kimani](https://open.spotify.com/artist/3B5MbmvxoqmqByCtU4temj), [TY1NE](https://open.spotify.com/artist/4Cc5wSjyKdtkmQjuBLAo5B) | [Perfect](https://open.spotify.com/album/07lMSOElGW77832xvtCJes) | 2:50 | 2024-06-13 | 2025-07-04 |
@@ -134,6 +134,7 @@
 | [UCHUMI NI MBAYA](https://open.spotify.com/track/6DXRuErErntN421fotfSY4) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [UCHUMI NI MBAYA](https://open.spotify.com/album/5tqDC86E1wrPERlqZMO2Rn) | 2:33 | 2023-06-30 | 2024-08-02 |
 | [Unga](https://open.spotify.com/track/31wcbX1ryS3piaC3FN4oZI) | [Michelle Gatuiku](https://open.spotify.com/artist/04KS7CODE7DDZ3VvgRrbiT) | [Unga](https://open.spotify.com/album/5ZzEvegnSkHHKseHWJBk1G) | 3:34 | 2023-06-30 | 2024-03-23 |
 | [Uwanja wa Mchezo \(Pieces of Me\)](https://open.spotify.com/track/5Z8CRMyENwmwn82JXS7Ffj) | [Le'Laika](https://open.spotify.com/artist/21wMFiTF8hZHW1ZM2XE6Ul), [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl) | [Uwanja wa Mchezo \(Pieces of Me\)](https://open.spotify.com/album/1uSU3Vj8y76b2KnbYg9Rw5) | 2:57 | 2024-02-08 | 2025-06-14 |
+| [Wa Nyonia](https://open.spotify.com/track/4oyO1JIYJxzcYA6y0VZDD6) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Nyona](https://open.spotify.com/album/4XimS41pHdNcGhrUZ6uyRg) | 5:38 | 2025-07-24 |  |
 | [Wanting You](https://open.spotify.com/track/7hmU5Fney0C23kqklkXeHt) | [Ondi](https://open.spotify.com/artist/0Kmrssj2JXxBoJ6W2MlW63) | [Tangawizi](https://open.spotify.com/album/5P2OgT54MbjstTwfl6nw27) | 4:59 | 2023-06-30 | 2024-02-09 |
 | [We're Changing](https://open.spotify.com/track/6wrzXoMKu9bZ5cbUXVckqH) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Things I Should've Said](https://open.spotify.com/album/4yvOcGMKAl1zsU2laXyvNM) | 2:44 | 2024-08-23 |  |
 | [what about us](https://open.spotify.com/track/2fNDML0aFVVowxSRcEv7FV) | [Donado Stone](https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 2:37 | 2024-10-17 |  |

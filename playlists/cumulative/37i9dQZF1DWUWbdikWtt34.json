@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Mansyur S",
+  "description": "Dendang Dangdut teratas. Cover: Lesti",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 324568,
       "name": "Ada Rindu",
       "url": "https://open.spotify.com/track/4lTELaWuppMIZVkwp9Wg2S"
+    },
+    {
+      "album": {
+        "name": "Ada Yang Punya",
+        "url": "https://open.spotify.com/album/1KbX92WGlqW6jqozBnC0Y3"
+      },
+      "artists": [
+        {
+          "name": "Lesti",
+          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243147,
+      "name": "Ada Yang Punya",
+      "url": "https://open.spotify.com/track/3l6pWg1lq08PH5QrlviCJC"
     },
     {
       "album": {
@@ -682,7 +700,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 217090,
       "name": "Cinta Palsu",
       "url": "https://open.spotify.com/track/7BrsMnzb83KxyC8lvEzXqg"
@@ -1607,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Hidupku Sepi Tanpamu",
+        "url": "https://open.spotify.com/album/5HiVbQ8a54APVHVBVUXNXB"
+      },
+      "artists": [
+        {
+          "name": "Cantika Davinca",
+          "url": "https://open.spotify.com/artist/0bjubqi4GobeZDopJU6vjN"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292214,
+      "name": "Hidupku Sepi Tanpamu",
+      "url": "https://open.spotify.com/track/5p5c0U6pLEwNhZT05P5lGC"
+    },
+    {
+      "album": {
         "name": "Hitam Bukan Putih",
         "url": "https://open.spotify.com/album/3CEIR3DRSKg4maA0avJSm4"
       },
@@ -2236,6 +2272,24 @@
       "duration_ms": 258381,
       "name": "Madu Merah - Cover",
       "url": "https://open.spotify.com/track/0718TQnNieFp7nFiCA8I9h"
+    },
+    {
+      "album": {
+        "name": "Malam Tanpa Bintang",
+        "url": "https://open.spotify.com/album/4s2mz0O9b03YfqNHiL73s0"
+      },
+      "artists": [
+        {
+          "name": "Roni Pasla",
+          "url": "https://open.spotify.com/artist/1KnmVYEsRWps2jJTdn6OHO"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244677,
+      "name": "Malam Tanpa Bintang",
+      "url": "https://open.spotify.com/track/7JEszQM1r9RfIFg6kniFQs"
     },
     {
       "album": {
@@ -3042,7 +3096,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 197118,
       "name": "Peluk Aku",
       "url": "https://open.spotify.com/track/0DGeqjxmICnJZWUFbc5kJh"

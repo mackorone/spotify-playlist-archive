@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Deutschrap f\u00fcr die emotions. Cover: CIVO",
+  "description": "Deutschrap f\u00fcr die emotions. Cover: Chapo102",
   "name": "Rap in deep",
   "tracks": [
     {
@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-09",
+      "date_removed": null,
       "duration_ms": 165390,
       "name": "Gar nicht mal so gl\u00fccklich (feat. Estikay)",
       "url": "https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM"
@@ -1791,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "I love you",
+        "url": "https://open.spotify.com/album/6vFpopNgLLqkLAsLrEPyYz"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139203,
+      "name": "I love you",
+      "url": "https://open.spotify.com/track/1RBqjJBhQpOw5J8GnSMzV0"
+    },
+    {
+      "album": {
         "name": "Ich brauche dich",
         "url": "https://open.spotify.com/album/4dAv7gO2ACUpUV43hxflTN"
       },
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 157700,
       "name": "Jasmin",
       "url": "https://open.spotify.com/track/6rjpIgtN4FOujp5DbZZnCh"
@@ -2316,7 +2334,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 125546,
       "name": "Langweilig",
       "url": "https://open.spotify.com/track/2xi78SPNsrUSB5vXXCapx3"
@@ -3872,7 +3890,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 152647,
       "name": "So wie du",
       "url": "https://open.spotify.com/track/4De7M9SBUs3UAPOigflw4U"
@@ -4556,6 +4574,24 @@
       "duration_ms": 128641,
       "name": "Wenn der Himmel weint",
       "url": "https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN"
+    },
+    {
+      "album": {
+        "name": "Wenn der Sommer kommt",
+        "url": "https://open.spotify.com/album/4Y8mOkxmMxsxSKZUFXajEF"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142184,
+      "name": "Wenn der Sommer kommt",
+      "url": "https://open.spotify.com/track/3pCpRmb7MCYcTqjBLmOthv"
     },
     {
       "album": {

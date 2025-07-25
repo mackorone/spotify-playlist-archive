@@ -4,7 +4,7 @@
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Marte in cover.
 
-202 songs - 9 hr 35 min
+203 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Tutto Ok](https://open.spotify.com/track/5jzjIA5ygCPfRUCNvhT262) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Glocky vs Kiddo](https://open.spotify.com/album/53DRh8HCYyMHCyMF7HbHJe) | 2:34 | 2025-05-13 |  |
 | [Tuttoscorre](https://open.spotify.com/track/39syG1EEGZECGdb4Us59DH) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 2:54 | 2025-05-13 |  |
 | [uhm?](https://open.spotify.com/track/25dKoA2z4fHXHlZux3XrJm) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [uhm?](https://open.spotify.com/album/6q8C1btD0CTSWvjSheZItc) | 2:49 | 2025-06-20 |  |
+| [UNA CAN](https://open.spotify.com/track/7iGJ3ajScp5UusRzy4bNLg) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [UNA CAN](https://open.spotify.com/album/6hkpooX6NXqRigNHzQuKVD) | 2:41 | 2025-07-24 |  |
 | [VENERE](https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [VENERE](https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql) | 2:48 | 2023-11-23 | 2024-04-24 |
 | [Vento](https://open.spotify.com/track/5t5qgKLqicCX7qrbYR3GHM) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC) | [Vento](https://open.spotify.com/album/0tEm7FepTMZ4JgfloAAQrJ) | 2:33 | 2022-08-31 | 2023-04-12 |
 | [Victoria \(feat\. Artie 5ive\)](https://open.spotify.com/track/1r5WCFulDtvAdCNmJfH1wA) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Umile](https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9) | 2:48 | 2024-04-23 | 2025-05-14 |

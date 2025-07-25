@@ -1,15 +1,31 @@
 {
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP?si=FNMMgZ7zRsSFpkU_AVHWEQ\">SPINALL</a>",
-  "num_followers": 24205,
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI?si=HUkkftvyRfOlI0i3TNRJNw\">Chella</a>",
+  "num_followers": 24217,
   "original_name": "Amapiano to the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH9stAAAAAAmy+UaBwsiEEuk12mhXPHV",
+  "snapshot_id": "aIKtBwAAAADXFe250xj/t+9NmRYa6Ylv",
   "tracks": [
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "Loyal",
+        "url": "https://open.spotify.com/album/4gYliBmMW5PvtrRbOn5Ish"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "duration_ms": 160134,
+      "name": "Loyal",
+      "url": "https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
@@ -33,7 +49,31 @@
       "url": "https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "OHA",
+        "url": "https://open.spotify.com/album/2t6rnLyJp4PKsF7A3JND2u"
+      },
+      "artists": [
+        {
+          "name": "Keith Turner",
+          "url": "https://open.spotify.com/artist/438yboVhqZFEStk5fljvfh"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "BGRZ",
+          "url": "https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz"
+        }
+      ],
+      "duration_ms": 173423,
+      "name": "OHA",
+      "url": "https://open.spotify.com/track/1Q6a8kdmPutPY1XU57JzxW"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Yebo",
         "url": "https://open.spotify.com/album/5gEOoIrRiVchscug7tbhb0"
@@ -65,7 +105,7 @@
       "url": "https://open.spotify.com/track/5gmKbf0xU7lN4hJueFRchB"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "JUJU (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
@@ -89,7 +129,27 @@
       "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "Tonge Nyama (feat. Marioo)",
+        "url": "https://open.spotify.com/album/06ApcBlzPY37llD7aFCrGm"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "duration_ms": 208141,
+      "name": "Tonge Nyama (feat. Marioo)",
+      "url": "https://open.spotify.com/track/5d2HXfPrOJfwEyIJXjdm3l"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Back to Back",
         "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
@@ -105,7 +165,23 @@
       "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "Omorr",
+        "url": "https://open.spotify.com/album/7D66okDCalcqLr74TmjHXc"
+      },
+      "artists": [
+        {
+          "name": "Rayen Drapper",
+          "url": "https://open.spotify.com/artist/5q4vaBtxc1QBQADgAw8Idw"
+        }
+      ],
+      "duration_ms": 181132,
+      "name": "Omorr",
+      "url": "https://open.spotify.com/track/6JQLzBPHvpO2gpAYegs0r8"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "HAUSAPIANO (Remix)",
         "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
@@ -125,7 +201,7 @@
       "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Jo Vibe Remix",
         "url": "https://open.spotify.com/album/2DtfoxVGDXVooE1143c3mz"
@@ -145,7 +221,27 @@
       "url": "https://open.spotify.com/track/0Z9FI7KCUie4rowDZMJvbK"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "LATINA",
+        "url": "https://open.spotify.com/album/3SmQlQU5ZNl1WgKvQg0ZTw"
+      },
+      "artists": [
+        {
+          "name": "JC Machin",
+          "url": "https://open.spotify.com/artist/2FEnjKB2FwfbtfpCkUlEvi"
+        },
+        {
+          "name": "Jhorrmountain",
+          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "LATINA",
+      "url": "https://open.spotify.com/track/3j0U8FQQzheQ4vzNxRaQSE"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Funds (feat. ODUMODUBLVCK & Chike)",
         "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
@@ -169,7 +265,27 @@
       "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "Comma Tu-Tapel",
+        "url": "https://open.spotify.com/album/567dO2feNci1iRkbOjRgPW"
+      },
+      "artists": [
+        {
+          "name": "Gambo",
+          "url": "https://open.spotify.com/artist/4neYBnBpddvie2eAxU7p20"
+        },
+        {
+          "name": "Edem",
+          "url": "https://open.spotify.com/artist/5gb4BlH3ixp1oGLlzfeppl"
+        }
+      ],
+      "duration_ms": 116814,
+      "name": "Comma Tu-Tapel",
+      "url": "https://open.spotify.com/track/5VRnnMNH85DXPgkljQhtG8"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Oblee (Remix)",
         "url": "https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC"
@@ -197,7 +313,27 @@
       "url": "https://open.spotify.com/track/3NbhGCx2XzyxwzL8YT8rCU"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "KEROSENE",
+        "url": "https://open.spotify.com/album/7jReirhUtytItxVqQGiTg8"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 158608,
+      "name": "KEROSENE",
+      "url": "https://open.spotify.com/track/1o17ns83QiAuDt84MkdJ5K"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Egwu",
         "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
@@ -217,27 +353,7 @@
       "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Full Time Job",
-        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        }
-      ],
-      "duration_ms": 185068,
-      "name": "Back Outside",
-      "url": "https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
@@ -257,7 +373,7 @@
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Management",
         "url": "https://open.spotify.com/album/7HRbB37rfjzopeNej7TPsg"
@@ -277,31 +393,7 @@
       "url": "https://open.spotify.com/track/7L1DT2ByQ331AJkDfjvI5N"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "SOAK (feat. Ocean Banks)",
-        "url": "https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD"
-      },
-      "artists": [
-        {
-          "name": "Kardinal Offishall",
-          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
-        },
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        },
-        {
-          "name": "Ocean Banks",
-          "url": "https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK"
-        }
-      ],
-      "duration_ms": 156947,
-      "name": "SOAK (feat. Ocean Banks)",
-      "url": "https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Kautaka",
         "url": "https://open.spotify.com/album/194quVbCyP8bv2di4w7DEA"
@@ -325,67 +417,27 @@
       "url": "https://open.spotify.com/track/1CFb8yXaAWFHicsHC3mtiz"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
-        "name": "Joy Is Coming",
-        "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
       "artists": [
         {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Joy Is Coming",
-      "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 163539,
-      "name": "MACHO (feat. NLE Choppa)",
-      "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
+      "duration_ms": 174253,
+      "name": "Bad Girl (feat. Asake)",
+      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "E DON STILL ENTER",
-        "url": "https://open.spotify.com/album/1qaI9Qp7HRspj5ABuMt9ck"
-      },
-      "artists": [
-        {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        },
-        {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
-        },
-        {
-          "name": "M.J",
-          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
-        }
-      ],
-      "duration_ms": 165066,
-      "name": "E DON STILL ENTER",
-      "url": "https://open.spotify.com/track/1rTtAqU8YnDyG86nuwuXyx"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
@@ -413,23 +465,67 @@
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
-        "name": "NEXT OF KIN (iberibe)",
-        "url": "https://open.spotify.com/album/4kFdja44tCEFyDUF7kh2AA"
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
       "artists": [
         {
-          "name": "DennyB",
-          "url": "https://open.spotify.com/artist/4CpA6KhbohKW7a1huUT7oU"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 154671,
-      "name": "NEXT OF KIN - iberibe",
-      "url": "https://open.spotify.com/track/2f7mw3DfVvqbdmKJP2rQ1C"
+      "duration_ms": 163539,
+      "name": "MACHO (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "Be There Still",
+        "url": "https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Be There Still",
+      "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "E DON STILL ENTER",
+        "url": "https://open.spotify.com/album/1qaI9Qp7HRspj5ABuMt9ck"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+        }
+      ],
+      "duration_ms": 165066,
+      "name": "E DON STILL ENTER",
+      "url": "https://open.spotify.com/track/1rTtAqU8YnDyG86nuwuXyx"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Wishi Wishi (feat. Scotts Maphuma & Young Stunna)",
         "url": "https://open.spotify.com/album/4bhZZ9oHQ6wb8Lpke7nQql"
@@ -461,7 +557,39 @@
       "url": "https://open.spotify.com/track/34eKUydsaj9GeMTT1ybutO"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "Joy Is Coming",
+        "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Joy Is Coming",
+      "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "NEXT OF KIN (iberibe)",
+        "url": "https://open.spotify.com/album/4kFdja44tCEFyDUF7kh2AA"
+      },
+      "artists": [
+        {
+          "name": "DennyB",
+          "url": "https://open.spotify.com/artist/4CpA6KhbohKW7a1huUT7oU"
+        }
+      ],
+      "duration_ms": 154671,
+      "name": "NEXT OF KIN - iberibe",
+      "url": "https://open.spotify.com/track/2f7mw3DfVvqbdmKJP2rQ1C"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Lovely Day",
         "url": "https://open.spotify.com/album/5ZIDU5LTJUk6gIepgKOw2K"
@@ -477,7 +605,7 @@
       "url": "https://open.spotify.com/track/1oMZ3xBPCFg2lTkUFIP9WN"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Scandalous",
         "url": "https://open.spotify.com/album/23LJTZeK62QdiOb54SxFr1"
@@ -493,83 +621,7 @@
       "url": "https://open.spotify.com/track/73Nb5bFbRraFozlvFFjku4"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Alafia",
-        "url": "https://open.spotify.com/album/1sifad6wPjLS6E0yuqXkbz"
-      },
-      "artists": [
-        {
-          "name": "Molz Magic",
-          "url": "https://open.spotify.com/artist/058elXWsHrQCpFt8HhpAqP"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Alafia",
-      "url": "https://open.spotify.com/track/47szOe19u2hUz5gZL2sjk3"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Provlima",
-        "url": "https://open.spotify.com/album/1vWti4ObjjU16Y5stX4Tdv"
-      },
-      "artists": [
-        {
-          "name": "DDS",
-          "url": "https://open.spotify.com/artist/3yRQ9atnRYWSky76tZyxeH"
-        },
-        {
-          "name": "Tapi",
-          "url": "https://open.spotify.com/artist/5ttNCO67vEZZ5untFIc7mo"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Provlima",
-      "url": "https://open.spotify.com/track/6gqtmCRFeab74v3Jrj4noO"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Mikono Juu",
-        "url": "https://open.spotify.com/album/15vlSxBKyWfUS1yBvcAf4f"
-      },
-      "artists": [
-        {
-          "name": "JJ PAULO",
-          "url": "https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm"
-        }
-      ],
-      "duration_ms": 135933,
-      "name": "Mikono Juu",
-      "url": "https://open.spotify.com/track/20bPutllJZ3T8nrwwgGYVJ"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Everything For The Family",
-        "url": "https://open.spotify.com/album/4y4aBtnFTvBlaIsytwMLL7"
-      },
-      "artists": [
-        {
-          "name": "Jianbo",
-          "url": "https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft"
-        },
-        {
-          "name": "Hilts",
-          "url": "https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot"
-        },
-        {
-          "name": "Big Animal Theory",
-          "url": "https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4"
-        }
-      ],
-      "duration_ms": 166857,
-      "name": "Pray 4 Change",
-      "url": "https://open.spotify.com/track/0YCDIsi9Cg8PS3w4L6iLYU"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Visit Bongo",
         "url": "https://open.spotify.com/album/0ZY5xnqRphPOYRkrHF0LiW"
@@ -585,27 +637,7 @@
       "url": "https://open.spotify.com/track/28FbGQIV3NC2U2X5HAtHvw"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Yarobi",
-        "url": "https://open.spotify.com/album/13Ghk4dgW7s5B4MQtJTFMl"
-      },
-      "artists": [
-        {
-          "name": "AlhajiDickson",
-          "url": "https://open.spotify.com/artist/0ReyhqL0NIJvT56BX6mZGR"
-        },
-        {
-          "name": "Leksyd",
-          "url": "https://open.spotify.com/artist/0HPvJssFcB6ejR8GUfulTq"
-        }
-      ],
-      "duration_ms": 175804,
-      "name": "Yarobi",
-      "url": "https://open.spotify.com/track/5ZQPBlyYAP72ykmrFAdUQE"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Ngishutheni",
         "url": "https://open.spotify.com/album/0Bh02aEI0DPVw0Jik91EkY"
@@ -629,7 +661,7 @@
       "url": "https://open.spotify.com/track/3JW9hNUjUN51X9jZyn2HVV"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Azul (feat. Bean RSA, Prime De 1st & Big Nuz)",
         "url": "https://open.spotify.com/album/4XnS3gO1nmWPgS8u4VqOM8"
@@ -657,7 +689,7 @@
       "url": "https://open.spotify.com/track/0Cjt0yz3YXwAEcwWksi4nr"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "ROUGH DANCE",
         "url": "https://open.spotify.com/album/6Lup5BNjP9nF3ZIAENceF9"
@@ -689,27 +721,7 @@
       "url": "https://open.spotify.com/track/7uyScF14QVoYWUE51t3XYi"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Repare",
-        "url": "https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 202245,
-      "name": "Repare",
-      "url": "https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Uyaphapha Marn (feat. Scotts Maphuma & Kabelo Sings)",
         "url": "https://open.spotify.com/album/6NG399UcNIP6WDH5R9JiJV"
@@ -741,23 +753,7 @@
       "url": "https://open.spotify.com/track/1F3J7D5byxTWbEyhpizptk"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Kancane",
-        "url": "https://open.spotify.com/album/0a0l3PwrkBguKxhIgtm9Yn"
-      },
-      "artists": [
-        {
-          "name": "Craig Isto",
-          "url": "https://open.spotify.com/artist/6VpPEumiAuTa48CV90GzY9"
-        }
-      ],
-      "duration_ms": 147905,
-      "name": "Kancane",
-      "url": "https://open.spotify.com/track/5Ms3sQma5tXR67jLAjqWaj"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Malunde",
         "url": "https://open.spotify.com/album/0ZUkgfEvhVfZt13HTxrFk0"
@@ -785,7 +781,7 @@
       "url": "https://open.spotify.com/track/4SNuYEPry1aKf6mjRPz3J6"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "BOOM SZN",
         "url": "https://open.spotify.com/album/4AbqCuadep10TXiKFADpkS"
@@ -817,7 +813,7 @@
       "url": "https://open.spotify.com/track/5BPMWG6VX6xgbWNwVvhTDc"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Ngibolekeni (feat. Seun1401, LeeMcKrazy, Blxckie, Pcee, Madumane & Kabelo Sings)",
         "url": "https://open.spotify.com/album/3AXBbWsHeukq7B3ojJbfI0"
@@ -865,7 +861,7 @@
       "url": "https://open.spotify.com/track/4QdFYz1hjkDVDTqAKmIdOx"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Phuthuma (feat. Young Jonn) [Remix]",
         "url": "https://open.spotify.com/album/3a48Fmv8bwVvp9ov8f4sO0"
@@ -889,159 +885,7 @@
       "url": "https://open.spotify.com/track/4Mp8RpZBADIR3J691SgqT1"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Bad Girl (feat. Asake)",
-      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Piki Piki",
-        "url": "https://open.spotify.com/album/02h0OPWKVn1Rm0777wYapn"
-      },
-      "artists": [
-        {
-          "name": "Mustbedubz",
-          "url": "https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF"
-        },
-        {
-          "name": "Lintonto",
-          "url": "https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4"
-        },
-        {
-          "name": "Xman Rsa",
-          "url": "https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730"
-        },
-        {
-          "name": "Gentle Slope",
-          "url": "https://open.spotify.com/artist/2fvNXz9jmIjAQvZrcGdbQ3"
-        },
-        {
-          "name": "Sgijalo musiq",
-          "url": "https://open.spotify.com/artist/59xzA7gDPLp3THtiZDFgMM"
-        }
-      ],
-      "duration_ms": 345000,
-      "name": "Piki Piki",
-      "url": "https://open.spotify.com/track/4d6MlNXvSMliZpgqdXBlNv"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Be There Still",
-        "url": "https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Be There Still",
-      "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Piano Supreme",
-        "url": "https://open.spotify.com/album/4ADGJ2aOUnuHKGq6cY22N0"
-      },
-      "artists": [
-        {
-          "name": "Bluenax",
-          "url": "https://open.spotify.com/artist/4X1DmCmbbP3c7asjJzo0Id"
-        },
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        }
-      ],
-      "duration_ms": 240875,
-      "name": "Piano Supreme",
-      "url": "https://open.spotify.com/track/4THKBi4PU1AFUyVleNk8BZ"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Protect my vibe",
-        "url": "https://open.spotify.com/album/4XLwyOW2qgm97e2mquUzuM"
-      },
-      "artists": [
-        {
-          "name": "MJ Wemoto",
-          "url": "https://open.spotify.com/artist/1K4l5pezBhs1hisWkoRbTe"
-        },
-        {
-          "name": "Boddhi Satva",
-          "url": "https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn"
-        },
-        {
-          "name": "Kaysha",
-          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
-        },
-        {
-          "name": "Bantu Nkazi",
-          "url": "https://open.spotify.com/artist/0EusCKr9ugmT9rp5ObIkrH"
-        }
-      ],
-      "duration_ms": 319285,
-      "name": "Protect my Vibe - Beatzstrumental",
-      "url": "https://open.spotify.com/track/0ZB8f600KmK4Y4DKT5fmrI"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Na Scra",
-        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Na Scra",
-      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Relationship",
-        "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
-      },
-      "artists": [
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Relationship",
-      "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Biri Marung (Edit) (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii)",
         "url": "https://open.spotify.com/album/5ij2sDcWlxsVQF5UKSQKbc"
@@ -1085,7 +929,87 @@
       "url": "https://open.spotify.com/track/44Z9yOoNfCafT8nPZCimMs"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "Relationship",
+        "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
+      },
+      "artists": [
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Relationship",
+      "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "Piki Piki",
+        "url": "https://open.spotify.com/album/02h0OPWKVn1Rm0777wYapn"
+      },
+      "artists": [
+        {
+          "name": "Mustbedubz",
+          "url": "https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF"
+        },
+        {
+          "name": "Lintonto",
+          "url": "https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4"
+        },
+        {
+          "name": "Xman Rsa",
+          "url": "https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730"
+        },
+        {
+          "name": "Gentle Slope",
+          "url": "https://open.spotify.com/artist/2fvNXz9jmIjAQvZrcGdbQ3"
+        },
+        {
+          "name": "Sgijalo musiq",
+          "url": "https://open.spotify.com/artist/59xzA7gDPLp3THtiZDFgMM"
+        }
+      ],
+      "duration_ms": 345000,
+      "name": "Piki Piki",
+      "url": "https://open.spotify.com/track/4d6MlNXvSMliZpgqdXBlNv"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "Protect my vibe",
+        "url": "https://open.spotify.com/album/4XLwyOW2qgm97e2mquUzuM"
+      },
+      "artists": [
+        {
+          "name": "MJ Wemoto",
+          "url": "https://open.spotify.com/artist/1K4l5pezBhs1hisWkoRbTe"
+        },
+        {
+          "name": "Boddhi Satva",
+          "url": "https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn"
+        },
+        {
+          "name": "Kaysha",
+          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+        },
+        {
+          "name": "Bantu Nkazi",
+          "url": "https://open.spotify.com/artist/0EusCKr9ugmT9rp5ObIkrH"
+        }
+      ],
+      "duration_ms": 319285,
+      "name": "Protect my Vibe - Beatzstrumental",
+      "url": "https://open.spotify.com/track/0ZB8f600KmK4Y4DKT5fmrI"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "WHY LOVE",
         "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
@@ -1101,7 +1025,67 @@
       "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "SOAK (feat. Ocean Banks)",
+        "url": "https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        },
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        },
+        {
+          "name": "Ocean Banks",
+          "url": "https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK"
+        }
+      ],
+      "duration_ms": 156947,
+      "name": "SOAK (feat. Ocean Banks)",
+      "url": "https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "Piano Supreme",
+        "url": "https://open.spotify.com/album/4ADGJ2aOUnuHKGq6cY22N0"
+      },
+      "artists": [
+        {
+          "name": "Bluenax",
+          "url": "https://open.spotify.com/artist/4X1DmCmbbP3c7asjJzo0Id"
+        },
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        }
+      ],
+      "duration_ms": 240875,
+      "name": "Piano Supreme",
+      "url": "https://open.spotify.com/track/4THKBi4PU1AFUyVleNk8BZ"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
+      "album": {
+        "name": "Na Scra",
+        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Na Scra",
+      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
+    },
+    {
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "HAUSAPIANO",
         "url": "https://open.spotify.com/album/5388hvdjmbFfloBwdKDFGH"
@@ -1117,27 +1101,27 @@
       "url": "https://open.spotify.com/track/7BQnaquuCho6dWfkkhuxxl"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
-        "name": "KEROSENE",
-        "url": "https://open.spotify.com/album/7jReirhUtytItxVqQGiTg8"
+        "name": "Full Time Job",
+        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
       },
       "artists": [
         {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         },
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
         }
       ],
-      "duration_ms": 158608,
-      "name": "KEROSENE",
-      "url": "https://open.spotify.com/track/1o17ns83QiAuDt84MkdJ5K"
+      "duration_ms": 185068,
+      "name": "Back Outside",
+      "url": "https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE"
     },
     {
-      "added_at": "2025-07-17 22:00:46",
+      "added_at": "2025-07-24 22:00:39",
       "album": {
         "name": "Feel D Mood",
         "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"

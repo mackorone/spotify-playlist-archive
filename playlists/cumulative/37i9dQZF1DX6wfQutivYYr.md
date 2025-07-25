@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Cesare ed Elisa sulla cover della playlist più grande in Italia 🏆
+> Alessandra Amoroso e Serena Brancale sulla cover della playlist più grande in Italia 🏆
 
 225 songs - 11 hr 37 min
 

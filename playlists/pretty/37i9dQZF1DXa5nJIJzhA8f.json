@@ -1,6 +1,6 @@
 {
   "description": "Meticulously selected by Spotify music experts.\n",
-  "num_followers": 19999,
+  "num_followers": 20146,
   "original_name": "Editors' Picks: Best Songs of the Year So Far",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-06-30 01:25:23",
       "album": {
-        "name": "oyster",
-        "url": "https://open.spotify.com/album/6pfeou37tIaZ3cBjomd0cb"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 244473,
-      "name": "shoreline",
-      "url": "https://open.spotify.com/track/1YRALFKBLxi5jxfNZyz4M3"
-    },
-    {
-      "added_at": "2025-06-30 01:25:23",
-      "album": {
         "name": "Cruel Love",
         "url": "https://open.spotify.com/album/5uPvGiPcHdEqwtFolFtru1"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 279067,
       "name": "Cruel Love",
       "url": "https://open.spotify.com/track/10NDK7nxUJzG4Csso2zxJM"
+    },
+    {
+      "added_at": "2025-06-30 01:25:23",
+      "album": {
+        "name": "oyster",
+        "url": "https://open.spotify.com/album/6pfeou37tIaZ3cBjomd0cb"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 244473,
+      "name": "shoreline",
+      "url": "https://open.spotify.com/track/1YRALFKBLxi5jxfNZyz4M3"
     },
     {
       "added_at": "2025-06-30 01:25:23",

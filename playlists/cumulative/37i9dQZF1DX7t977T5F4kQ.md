@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest and recent Ghana party starters\. Cover: Medikal
+> The hottest and recent Ghana party starters\. Cover:Samini
 
-524 songs - 1 day 3 hr 10 min
+525 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [Sugarcane \- Remix](https://open.spotify.com/track/6NuG2JgERZZXvvjmtjOFix) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 4:11 | 2023-06-02 | 2024-03-15 |
 | [Suloli](https://open.spotify.com/track/5BrImD8IsViJmOmODTZJTo) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Suloli](https://open.spotify.com/album/3WHNl4napJQ87W8Hxl5bnF) | 2:44 | 2024-11-29 | 2025-01-31 |
 | [Summer ABA](https://open.spotify.com/track/6g91DkaLUfwlJd8bvBMOzI) | [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Summer ABA](https://open.spotify.com/album/5EzDnJUDyoTXOiGHyVQNjM) | 2:36 | 2024-05-03 | 2024-05-17 |
+| [Summer King](https://open.spotify.com/track/359yyhLrzLN1rACBedxvtZ) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l) | [Summer King](https://open.spotify.com/album/5KR07AW7hTmwJW9fUuZFeY) | 2:07 | 2025-07-25 |  |
 | [Super Super](https://open.spotify.com/track/5uTchNrLEREPxobWrFQHx8) | [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Super Super](https://open.spotify.com/album/3dZj1zWLCn0LlGIUNayrUT) | 2:20 | 2023-05-12 | 2023-06-10 |
 | [Survivor](https://open.spotify.com/track/4juj2vcoKlRyW2toW951Wg) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Survivor](https://open.spotify.com/album/5uaAvmMxqIOtqu2Vh3omBc) | 2:30 | 2025-03-07 | 2025-03-22 |
 | [Survivor](https://open.spotify.com/track/2FUyod5LVoX1JcgesHVfKk) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Survivor](https://open.spotify.com/album/4dhy5PaAbgs0hloWYFWkmO) | 2:25 | 2022-11-04 | 2023-02-24 |
@@ -474,7 +475,7 @@
 | [Thy Grace](https://open.spotify.com/track/6MBpgxXASTwAB4XSgIsBCH) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Thy Grace](https://open.spotify.com/album/0YSrY0F9lGpMn4w6t0jZ9R) | 3:18 | 2022-11-04 | 2022-12-02 |
 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 | 2023-10-27 | 2025-03-08 |
 | [Tin Ton Tan](https://open.spotify.com/track/1OV4OqoiuEJhoQBpZS8j5T) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Tin Ton Tan](https://open.spotify.com/album/2DDegqb6gVx8tpm8Pf8CfV) | 3:15 | 2024-05-03 |  |
-| [Tobinco](https://open.spotify.com/track/32FnB6UFAo9RC1DoP2KfDp) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Tobinco](https://open.spotify.com/album/03Oxk0R8ECMuzePW0kT4PT) | 3:00 | 2025-01-31 |  |
+| [Tobinco](https://open.spotify.com/track/32FnB6UFAo9RC1DoP2KfDp) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Tobinco](https://open.spotify.com/album/03Oxk0R8ECMuzePW0kT4PT) | 3:00 | 2025-01-31 | 2025-07-25 |
 | [Tomorrow](https://open.spotify.com/track/4F1qhy14MdQoYcgrJUGt3a) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Tomorrow](https://open.spotify.com/album/6rXRhlh1NEEI5eLb6UdRVk) | 2:28 | 2023-05-12 | 2023-09-15 |
 | [Too Late](https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Too Late](https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR) | 3:14 | 2024-11-08 |  |
 | [Tornado](https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Tornado](https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35) | 2:38 | 2023-04-27 | 2023-05-20 |

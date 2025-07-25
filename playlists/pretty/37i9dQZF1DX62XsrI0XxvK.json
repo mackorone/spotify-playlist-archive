@@ -1,13 +1,45 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Fathan Maulana, Monica Kirana",
-  "num_followers": 13089,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Rayi Putra",
+  "num_followers": 13091,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHkyoQAAAACzuqrFJM8hL/s6zikdZusU",
+  "snapshot_id": "aIKQzAAAAAChfvymHY80ZY98FQIxISgX",
   "tracks": [
+    {
+      "added_at": "2025-07-24 20:00:12",
+      "album": {
+        "name": "Istriku",
+        "url": "https://open.spotify.com/album/7IgG6liynzLii4TvTVbKEa"
+      },
+      "artists": [
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+        }
+      ],
+      "duration_ms": 163257,
+      "name": "Istriku",
+      "url": "https://open.spotify.com/track/21j9SPUJscVwCfxqvopLhc"
+    },
+    {
+      "added_at": "2025-07-24 20:00:12",
+      "album": {
+        "name": "Buktinya Baik-Baik Saja",
+        "url": "https://open.spotify.com/album/70gWvpQaa7gQtr4jOuAnZd"
+      },
+      "artists": [
+        {
+          "name": "Glenn Samuel",
+          "url": "https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV"
+        }
+      ],
+      "duration_ms": 205442,
+      "name": "Buktinya Baik-Baik Saja",
+      "url": "https://open.spotify.com/track/3cn9Fhd4UbxokJLDFLYZgK"
+    },
     {
       "added_at": "2025-07-17 17:28:01",
       "album": {
@@ -27,6 +59,22 @@
       "duration_ms": 168000,
       "name": "Figaro",
       "url": "https://open.spotify.com/track/13BOpGnIOTDvQPNtOuX4K6"
+    },
+    {
+      "added_at": "2025-07-24 20:00:12",
+      "album": {
+        "name": "Text Me (When It's Over)",
+        "url": "https://open.spotify.com/album/1ERnC3W3zKYuepZvBvBemw"
+      },
+      "artists": [
+        {
+          "name": "Cassette Tape",
+          "url": "https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2"
+        }
+      ],
+      "duration_ms": 184008,
+      "name": "Text Me (When It's Over)",
+      "url": "https://open.spotify.com/track/6JjHBg0GsvwjpnczvBhtbv"
     },
     {
       "added_at": "2025-07-17 17:28:01",

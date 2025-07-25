@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Narivetta",
-  "num_followers": 500537,
+  "num_followers": 501215,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH9DqQAAAADEtDHi+YstKneZw/jlXG72",
+  "snapshot_id": "aIIlpAAAAACr5oCTBnqBzc/SFgSQtYvr",
   "tracks": [
     {
       "added_at": "2025-05-07 08:53:45",
@@ -103,6 +103,30 @@
       "duration_ms": 184800,
       "name": "Onam Mood (From \"Sahasam\")",
       "url": "https://open.spotify.com/track/3ayM2UERJjqknotVSPgJ0S"
+    },
+    {
+      "added_at": "2025-07-24 12:23:00",
+      "album": {
+        "name": "Sambrani Penthiri (From \"Vyasana Sametham Bandhu Mithradhikal\")",
+        "url": "https://open.spotify.com/album/7MgR3eZpNyoHsCu82IeST2"
+      },
+      "artists": [
+        {
+          "name": "Ankit Menon",
+          "url": "https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV"
+        },
+        {
+          "name": "Adheef Muhamed",
+          "url": "https://open.spotify.com/artist/6Vaa0LrrwLHwX69gYjghH4"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 197307,
+      "name": "Sambrani Penthiri (From \"Vyasana Sametham Bandhu Mithradhikal\")",
+      "url": "https://open.spotify.com/track/3BsfEFFYuKfZ7lH48Dm9kG"
     },
     {
       "added_at": "2025-07-14 08:44:00",
@@ -1111,30 +1135,6 @@
       "duration_ms": 243133,
       "name": "Parudeesa - From \"Bheeshma Parvam\"",
       "url": "https://open.spotify.com/track/3atpk0CnzPpRVbzq3l3EMq"
-    },
-    {
-      "added_at": "2024-03-19 09:28:30",
-      "album": {
-        "name": "Jaada (From \"Aavesham\")",
-        "url": "https://open.spotify.com/album/2i0rwB9IgecxcaRYeeGAas"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Sreenath Bhasi",
-          "url": "https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 162791,
-      "name": "Jaada - From \"Aavesham\"",
-      "url": "https://open.spotify.com/track/3b38fvc4ky0er6WEBruHMf"
     },
     {
       "added_at": "2023-12-02 04:21:45",

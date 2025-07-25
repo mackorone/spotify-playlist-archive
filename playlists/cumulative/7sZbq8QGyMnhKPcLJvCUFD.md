@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-736 songs - 1 day 13 hr 3 min
+737 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [Sirens](https://open.spotify.com/track/6FVWvpApDE9hSbWDcPhfb3) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [Amber Jay](https://open.spotify.com/artist/7DLxDPwjWekXl5meKBu2Ob) | [Sirens](https://open.spotify.com/album/4y1FYMRG7RWebnQuACdKDw) | 4:34 | 2025-06-19 |  |
 | [SKY BRI](https://open.spotify.com/track/7ryzeQvWJM6F6rSTcJlT3f) | [ALVYN](https://open.spotify.com/artist/3lS0YzBEO1IglsFgrAMSrE), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [SKY BRI](https://open.spotify.com/album/6dQHhOOldwSP8sZfzhDHTI) | 1:50 | 2023-08-08 | 2023-12-14 |
 | [Sky High](https://open.spotify.com/track/61k7xAKMsuvTf2j2YnieSi) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu) | [Sky High](https://open.spotify.com/album/1R34FPrGkG7Q0vDJ9xCfrF) | 3:56 | 2023-08-08 | 2024-01-04 |
+| [Sky Verse](https://open.spotify.com/track/0gcif66qXbBzhRE4WAphwE) | [Lieless](https://open.spotify.com/artist/3AVDMWWNOYjcp2mtGLdM9C), [Luuna](https://open.spotify.com/artist/24CTvD1KOZbbAcoeuc4V3S), [Yarimov](https://open.spotify.com/artist/2mNRczRlW0G5nkWtpMm1aM) | [Sky Verse](https://open.spotify.com/album/2Sr8DfdKGH2cSl7AfdBvgm) | 1:41 | 2025-07-24 |  |
 | [Skyline Pt\. II](https://open.spotify.com/track/0lr3uoQGBxdiYrhmjSat9Q) | [Kovan](https://open.spotify.com/artist/3VH7DkvWrs6jHZFrORa9tW), [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Skyline Pt\. II](https://open.spotify.com/album/27xStxx2AghnORK2ESJhbg) | 3:15 | 2025-01-21 |  |
 | [snake eyes](https://open.spotify.com/track/5GpJ4hQliOMpemRVqrDyBy) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [snake eyes](https://open.spotify.com/album/2vuH7JCmiZnZ2BpXw9PGz5) | 2:15 | 2025-06-27 |  |
 | [So Good](https://open.spotify.com/track/0C6275GUv27JP82Vc6jXnF) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [So Good](https://open.spotify.com/album/7GuUaitLe4QQQWhwbIs000) | 2:52 | 2025-04-29 |  |

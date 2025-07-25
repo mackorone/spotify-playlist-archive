@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 63922,
+  "num_followers": 63921,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH7UgAAAAACi06ra78GMJUtbQQHYQ/Rg",
+  "snapshot_id": "aIAmAAAAAABhQeThNq363S1h3agNTD0J",
   "tracks": [
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucky (feat. Ximena Sari\u00f1ana)",
-        "url": "https://open.spotify.com/album/71rd7bVayawEfo4pf58Kyt"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 189013,
-      "name": "Lucky (feat. Ximena Sari\u00f1ana)",
-      "url": "https://open.spotify.com/track/4hVnZf324hXy6TyVx2oncO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bombas",
         "url": "https://open.spotify.com/album/1TL0RBLKmWLnmFJpgYVbnM"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 245857,
       "name": "Bombas",
       "url": "https://open.spotify.com/track/3ilXa3veR2A3prB3pWgyqA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucky (feat. Ximena Sari\u00f1ana)",
+        "url": "https://open.spotify.com/album/71rd7bVayawEfo4pf58Kyt"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 189013,
+      "name": "Lucky (feat. Ximena Sari\u00f1ana)",
+      "url": "https://open.spotify.com/track/4hVnZf324hXy6TyVx2oncO"
     },
     {
       "added_at": null,

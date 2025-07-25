@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Vesta.",
+  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Arppa.",
   "name": "Suomi-indie t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -5042,7 +5042,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 231983,
       "name": "Jyv\u00e4skyl\u00e4 Skyline",
       "url": "https://open.spotify.com/track/3AWBu6hGvJCeZFIVXlvtKa"
@@ -7298,7 +7298,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 191205,
       "name": "Liikkuva Linna",
       "url": "https://open.spotify.com/track/58SvOxXLT0373c96Y2VrFh"
@@ -8401,6 +8401,24 @@
     },
     {
       "album": {
+        "name": "Mikko uskoo rakkauteen",
+        "url": "https://open.spotify.com/album/7LwvgWkGKsGdcDvFQnXURp"
+      },
+      "artists": [
+        {
+          "name": "Brian",
+          "url": "https://open.spotify.com/artist/3RuPdmaVfN2BRUZlwDrljk"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147024,
+      "name": "Mikko uskoo rakkauteen",
+      "url": "https://open.spotify.com/track/4Xu12aFulOPAn9HxhRsiNO"
+    },
+    {
+      "album": {
         "name": "Miksei tn\u00e4",
         "url": "https://open.spotify.com/album/4EMN6YeK3kwXHvDqNsId24"
       },
@@ -9390,6 +9408,24 @@
       "duration_ms": 211011,
       "name": "Niink\u00f6 se on",
       "url": "https://open.spotify.com/track/4nd6e9YvUEeuR0mtP5fNJu"
+    },
+    {
+      "album": {
+        "name": "Noidankeh\u00e4",
+        "url": "https://open.spotify.com/album/30t7C8BHUXf3q4tbBybQTj"
+      },
+      "artists": [
+        {
+          "name": "Marikerttu",
+          "url": "https://open.spotify.com/artist/6M5dxfdLvA4FVeFwmX8scL"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147210,
+      "name": "Noidankeh\u00e4",
+      "url": "https://open.spotify.com/track/1lCyfTKHPZIY5nox7hN5O7"
     },
     {
       "album": {
@@ -13563,6 +13599,24 @@
     },
     {
       "album": {
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/4sPm6xQARbqr7kKdD1koJ9"
+      },
+      "artists": [
+        {
+          "name": "Joel Sundkvist",
+          "url": "https://open.spotify.com/artist/7uuTT33JCupBqe9tB9CZUM"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176962,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/1oBceZTuKOEXOfHEp5Xthl"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/5jsA5tFQJKDqpimcW38qSF"
       },
@@ -14960,7 +15014,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 161413,
       "name": "Viel\u00e4kin",
       "url": "https://open.spotify.com/track/3iTUTPAUsrp8i3tQFp1Pbd"

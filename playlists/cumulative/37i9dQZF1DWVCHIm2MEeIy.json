@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "This is our playground! \ud83e\udea9\u200a Cover: Adriatique, Bipolar Sunshine",
+  "description": "This is our playground! \ud83e\udea9\u200a Cover: Anyma",
   "name": "Electronic Circus",
   "tracks": [
     {
@@ -8368,7 +8368,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 285235,
       "name": "Roll the Dice - Konstantin Sibold Remix",
       "url": "https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4"
@@ -9604,7 +9604,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-17",
+      "date_removed": null,
       "duration_ms": 251904,
       "name": "Sweet Disposition - John Summit & Silver Panda Remix",
       "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
@@ -10038,7 +10038,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 206890,
       "name": "The Underground",
       "url": "https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT"
@@ -10894,6 +10894,24 @@
       "duration_ms": 173601,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j"
+    },
+    {
+      "album": {
+        "name": "Wanjiru EP",
+        "url": "https://open.spotify.com/album/1Fsv5P92sqjxrVXw3R5bqg"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159848,
+      "name": "Wanjiru",
+      "url": "https://open.spotify.com/track/4MCu5xXQ0WD5FQ3selk5mD"
     },
     {
       "album": {

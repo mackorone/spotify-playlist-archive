@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Dylan Atlantis
 
-4,147 songs - 9 day 12 hr 16 min
+4,148 songs - 9 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [30FT](https://open.spotify.com/track/7GaDMSvNwrW3LtHD7ENLDZ) | [Sammi Constantine](https://open.spotify.com/artist/0YffB1XSvRrtNRYj4998W6) | [30FT](https://open.spotify.com/album/5h0HrDfbsKzH4tbxFpa4nb) | 2:34 | 2023-10-04 | 2023-10-20 |
 | [321](https://open.spotify.com/track/0SDbuFHOjOoK3UgWU3w279) | [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo), [VOLDY](https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA) | [321](https://open.spotify.com/album/1y9ISkjX3NkvMiM9JxlcMw) | 2:40 | 2025-03-18 | 2025-04-23 |
 | [3:33](https://open.spotify.com/track/3kXDAfHlPhkwwjTB1oYkQD) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX) | [3:33](https://open.spotify.com/album/2daMcpwyko12ipMkXkh0GQ) | 2:22 | 2023-03-08 | 2023-04-05 |
+| [3AM](https://open.spotify.com/track/4luxOEfutsNhpklD0kox93) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [3AM](https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA) | 4:10 | 2025-07-24 |  |
 | [4AM Child](https://open.spotify.com/track/7G7AUtqq5rUFEtSxSekTUd) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Big Speak](https://open.spotify.com/album/606BvrH9jzJ4NLtJNRmzsa) | 3:34 | 2024-12-04 | 2025-01-08 |
 | [4AM Child](https://open.spotify.com/track/7bja6vslF1B9Qw0ZAv7fAk) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [4AM Child](https://open.spotify.com/album/65F2mqOBUj6uZORsv4CE5r) | 3:34 | 2024-07-02 | 2024-08-28 |
 | [4EVA](https://open.spotify.com/track/2LftHOFPfXdPtPK6yCnZXj) | [thndo](https://open.spotify.com/artist/4NKTT4ovD0uyL6YssNGF2n) | [4EVA](https://open.spotify.com/album/5VK922NbC81kfS2tCnDAM0) | 2:39 | 2023-06-07 | 2023-07-01 |
@@ -1852,7 +1853,7 @@
 | [In My Reach](https://open.spotify.com/track/6dnfP8ZoOtrAYThlOoKnCM) | [Phebe Starr](https://open.spotify.com/artist/5buTKeJ19EBEcckqTe0XqP) | [In My Reach](https://open.spotify.com/album/0zX2jtE76EGXnbe53pabXb) | 2:54 | 2023-11-15 | 2023-11-30 |
 | [In Our Own Backyard](https://open.spotify.com/track/4ApefEche3lwf2eSiptDAR) | [TUSHAR](https://open.spotify.com/artist/4Z4QSQuaIocs1CPUEM8shD) | [In Our Own Backyard](https://open.spotify.com/album/095Z4UO1NFP2FFrR9VYqj7) | 3:32 | 2022-05-25 | 2022-06-16 |
 | [In Response](https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [In Response](https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa) | 3:34 | 2023-02-15 | 2023-03-08 |
-| [in the city](https://open.spotify.com/track/2lxxRy7IAA1wwMTqXJIFx9) | [HARLEY GIRL](https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao), [Hey Baby](https://open.spotify.com/artist/04yeLehSl0kPL2mXyio7oU) | [legitimate dj behaviour](https://open.spotify.com/album/6DDSY0wf9AfisUw79jKTiz) | 2:38 | 2025-06-03 |  |
+| [in the city](https://open.spotify.com/track/2lxxRy7IAA1wwMTqXJIFx9) | [HARLEY GIRL](https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao), [Hey Baby](https://open.spotify.com/artist/04yeLehSl0kPL2mXyio7oU) | [legitimate dj behaviour](https://open.spotify.com/album/6DDSY0wf9AfisUw79jKTiz) | 2:38 | 2025-06-03 | 2025-07-25 |
 | [In The Dark](https://open.spotify.com/track/1hGxNmp8ObCbhnQ1CQUf98) | [Soma](https://open.spotify.com/artist/23pMHdWBS71N6BsOmYjNYa) | [In The Dark](https://open.spotify.com/album/6SBXsz52xePJP4OhBfqQdW) | 2:59 | 2023-10-19 | 2023-11-23 |
 | [In The Darkness](https://open.spotify.com/track/4OpNBybcQK6lGIRKIJ7lE0) | [Solomon France](https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp) | [In The Darkness](https://open.spotify.com/album/35A9hmZK4tYda4MAMseMyH) | 3:32 | 2023-02-01 | 2023-02-23 |
 | [In The Garden](https://open.spotify.com/track/3FSiIYUyTLVqF32ngACZGW) | [Aloe Vera](https://open.spotify.com/artist/6FVEH6CSRyJv1A0hwMntTg) | [In The Garden](https://open.spotify.com/album/2hjsTKJDILYWYZ2RyQ1OmE) | 2:38 | 2025-01-14 | 2025-03-12 |

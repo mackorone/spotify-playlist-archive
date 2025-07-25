@@ -1,12 +1,12 @@
 {
   "description": "Tune into the Hottest tracks of Kollywood!\nCover : Retro",
-  "num_followers": 994266,
+  "num_followers": 994465,
   "original_name": "Hot Hits Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aH9SCwAAAABrA4hzg6GXPM5aLZ4P2rtz",
+  "snapshot_id": "aIJDcAAAAAAT0Yx5IhJkTMrQbCyTzUCX",
   "tracks": [
     {
       "added_at": "2025-07-22 08:55:39",
@@ -79,6 +79,30 @@
       "duration_ms": 241223,
       "name": "Muththa Mazhai",
       "url": "https://open.spotify.com/track/5BEz37uGx2cfFe5YAPWlHW"
+    },
+    {
+      "added_at": "2025-07-24 14:30:08",
+      "album": {
+        "name": "Chikitu (From \"Coolie\") (Tamil)",
+        "url": "https://open.spotify.com/album/3P9Jdtp9NVxqWVEusCbw5K"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "T. Rajendar",
+          "url": "https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "duration_ms": 216081,
+      "name": "Chikitu (From \"Coolie\") (Tamil)",
+      "url": "https://open.spotify.com/track/5L9BSBipkfupud0335Mhjj"
     },
     {
       "added_at": "2025-03-28 08:16:01",
@@ -1175,22 +1199,6 @@
       "duration_ms": 224095,
       "name": "Jimikki Ponnu",
       "url": "https://open.spotify.com/track/7fRIo7WyDxXn3r233GCcdL"
-    },
-    {
-      "added_at": "2024-10-03 13:11:51",
-      "album": {
-        "name": "Kgf Chapter 2",
-        "url": "https://open.spotify.com/album/1CdnFGEFzIpGRzpEL1qNub"
-      },
-      "artists": [
-        {
-          "name": "Ananya Bhat",
-          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
-        }
-      ],
-      "duration_ms": 212351,
-      "name": "Mehabooba",
-      "url": "https://open.spotify.com/track/6y6zXps3xIZ7Fw8ykuwWPY"
     }
   ],
   "unique_name": "Hot Hits Tamil",

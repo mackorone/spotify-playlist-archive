@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 230964,
       "name": "2043",
       "url": "https://open.spotify.com/track/42IgqSzvHhQElRxwOODYSc"
@@ -1762,6 +1762,10 @@
         {
           "name": "Ichika Nito",
           "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        },
+        {
+          "name": "sasanomaly",
+          "url": "https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ"
         }
       ],
       "date_added": "2025-07-22",
@@ -23654,7 +23658,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 218543,
       "name": "\u304b\u307e\u308f\u306a\u3044\u3088",
       "url": "https://open.spotify.com/track/2LBhA2vHo8RK8C55TRASp7"
@@ -25734,6 +25738,24 @@
       "duration_ms": 176345,
       "name": "\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/3Vy8LQ1tRy5GEmd7guZMee"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u30b9\u30af\u30ea\u30f3\u30e9\u30d6",
+        "url": "https://open.spotify.com/album/0pXS9wggwAh0h3fcmEynnc"
+      },
+      "artists": [
+        {
+          "name": "ammo",
+          "url": "https://open.spotify.com/artist/3482dVicMV9A5tThd1ufSx"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217516,
+      "name": "\u30a2\u30a4\u30b9\u30af\u30ea\u30f3\u30e9\u30d6",
+      "url": "https://open.spotify.com/track/7DaqBgmokoW6GGaHOfPUNI"
     },
     {
       "album": {
@@ -42298,6 +42320,24 @@
       "duration_ms": 178219,
       "name": "\u8d85\u6700\u60aa",
       "url": "https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo"
+    },
+    {
+      "album": {
+        "name": "\u8e0a\u308b\u661f\u5c51",
+        "url": "https://open.spotify.com/album/6gMOD2dhzWK3MVHnv4gluV"
+      },
+      "artists": [
+        {
+          "name": "9mm Parabellum Bullet",
+          "url": "https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179840,
+      "name": "\u8e0a\u308b\u661f\u5c51",
+      "url": "https://open.spotify.com/track/6dtkxRYHEB4it4cPFw7FP7"
     },
     {
       "album": {

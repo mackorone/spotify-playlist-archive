@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover: Medikal",
+  "description": "The hottest and recent Ghana party starters. Cover:Samini",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -9361,6 +9361,24 @@
     },
     {
       "album": {
+        "name": "Summer King",
+        "url": "https://open.spotify.com/album/5KR07AW7hTmwJW9fUuZFeY"
+      },
+      "artists": [
+        {
+          "name": "Samini",
+          "url": "https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Summer King",
+      "url": "https://open.spotify.com/track/359yyhLrzLN1rACBedxvtZ"
+    },
+    {
+      "album": {
         "name": "Super Super",
         "url": "https://open.spotify.com/album/3dZj1zWLCn0LlGIUNayrUT"
       },
@@ -9668,7 +9686,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 180062,
       "name": "Tobinco",
       "url": "https://open.spotify.com/track/32FnB6UFAo9RC1DoP2KfDp"

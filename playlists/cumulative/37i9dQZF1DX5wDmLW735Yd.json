@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Bou",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Friction",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -90,6 +90,24 @@
       "duration_ms": 209302,
       "name": "2Drill",
       "url": "https://open.spotify.com/track/4RfQl2zZ3zEtti8kLIzyWo"
+    },
+    {
+      "album": {
+        "name": "Stop Me",
+        "url": "https://open.spotify.com/album/2wDHaqeiIA86LISpFzcVpE"
+      },
+      "artists": [
+        {
+          "name": "Harriet Jaxxon",
+          "url": "https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129201,
+      "name": "4 Me",
+      "url": "https://open.spotify.com/track/26bL8XQSyFjdWUhwO9de8J"
     },
     {
       "album": {
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 212413,
       "name": "Back To Life (feat. Julia Church)",
       "url": "https://open.spotify.com/track/5zsfgeZ8D7G6aE0FXF0mAZ"
@@ -3009,6 +3027,28 @@
     },
     {
       "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4sdOB0zTTdmqLyPs8tHXAJ"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        },
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201131,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/71ZLUITpAp9J4woBHXnTLa"
+    },
+    {
+      "album": {
         "name": "Cards On The Table",
         "url": "https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox"
       },
@@ -3736,6 +3776,24 @@
       "duration_ms": 270344,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/1xXSTCnBN8amcIXyscLJT8"
+    },
+    {
+      "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/6qhndQjbYPIuNuv4Rjfpj4"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183620,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/4H8UCydV1B54wpzkqurvdW"
     },
     {
       "album": {
@@ -5882,7 +5940,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 246669,
       "name": "Feed My Soul",
       "url": "https://open.spotify.com/track/01X9jZr6ryojYaPfUowGBV"
@@ -6574,7 +6632,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 245517,
       "name": "Freak Out",
       "url": "https://open.spotify.com/track/0CCf2rqQQj1f49fFGmcLe8"
@@ -11034,6 +11092,28 @@
       "duration_ms": 209655,
       "name": "Mac 19",
       "url": "https://open.spotify.com/track/0cfzsbbOnqe8Ly6quaBKDk"
+    },
+    {
+      "album": {
+        "name": "Made In Romania",
+        "url": "https://open.spotify.com/album/6qvNbpaphoupqIIxxCTkXx"
+      },
+      "artists": [
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        },
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147318,
+      "name": "Made In Romania",
+      "url": "https://open.spotify.com/track/3UdvaAWbTRWQdtbuElsqSU"
     },
     {
       "album": {
@@ -17296,7 +17376,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 202858,
       "name": "Stop & Search",
       "url": "https://open.spotify.com/track/2Vo4v0z35aGBQ5uSyfiE2k"

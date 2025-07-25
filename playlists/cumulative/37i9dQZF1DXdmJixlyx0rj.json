@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: HYO)",
+  "description": "New & best K-Electronic music is here. (Cover: Yves)",
   "name": "Electronii[K]",
   "tracks": [
     {
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 246614,
       "name": "E E A (Feat. JUE)",
       "url": "https://open.spotify.com/track/0nQSuLnjOAWdV1gtaNqDzO"
@@ -3143,6 +3143,28 @@
     },
     {
       "album": {
+        "name": "MOLLAK",
+        "url": "https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX"
+      },
+      "artists": [
+        {
+          "name": "Jvcki Wai",
+          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
+        },
+        {
+          "name": "vangdale",
+          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Narak",
+      "url": "https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm"
+    },
+    {
+      "album": {
         "name": "Naro",
         "url": "https://open.spotify.com/album/7iMoYjNMFSKSW7ewvLBSqU"
       },
@@ -3312,7 +3334,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 312204,
       "name": "O.Y.S.T.E.R",
       "url": "https://open.spotify.com/track/6uIJf1K0s97Edqoy1p7NPG"
@@ -4112,7 +4134,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 170440,
       "name": "SEROTONIN",
       "url": "https://open.spotify.com/track/1HRJkKOY3sDx6ELjasWIxE"
@@ -4582,7 +4604,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 190238,
       "name": "There For You - Club Mix",
       "url": "https://open.spotify.com/track/4gObgFsFGdKd1qgNEYfNLt"
@@ -4962,6 +4984,24 @@
       "duration_ms": 225000,
       "name": "Whiplash (Steve Aoki Remix)",
       "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
+    },
+    {
+      "album": {
+        "name": "White cat",
+        "url": "https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "White cat",
+      "url": "https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15"
     },
     {
       "album": {

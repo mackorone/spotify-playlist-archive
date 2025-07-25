@@ -2,7 +2,7 @@
 
 ### [Hot Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
 
-> Hottest Hindi music that India is listening to\. Cover \- Stree 2
+> Hottest Hindi music that India is listening to\. Cover \- Saiyaara
 
 430 songs - 1 day 3 hr 55 min
 

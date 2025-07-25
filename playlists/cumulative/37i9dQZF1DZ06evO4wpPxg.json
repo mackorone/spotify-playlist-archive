@@ -322,7 +322,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 140109,
       "name": "Blow Gabriel",
       "url": "https://open.spotify.com/track/2DGkqGTj4xgZy3vIE7zR9Y"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 429053,
       "name": "Children of Zion",
       "url": "https://open.spotify.com/track/0GNpSjVmmjbB0fXGndfqln"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 173293,
       "name": "Down By the Riverside",
       "url": "https://open.spotify.com/track/239fEEHvXCc6YCM3xoryXd"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 205732,
       "name": "I'm Going Down To The Banks Of The River - Live",
       "url": "https://open.spotify.com/track/35JxXNUXfVK0PUpuNOte1Y"
@@ -3238,7 +3238,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 170826,
       "name": "Marine Band",
       "url": "https://open.spotify.com/track/3PmkzxGGW4bJOhTyxyD3yY"
@@ -3598,10 +3598,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 276178,
       "name": "Oh Glory, How Happy I Am",
       "url": "https://open.spotify.com/track/4wYAJRS9VZA1gY2bQppjjz"
+    },
+    {
+      "album": {
+        "name": "Demons & Angels - the Music of Rev. Gary Davis",
+        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276362,
+      "name": "Oh Glory, How Happy I Am",
+      "url": "https://open.spotify.com/track/30BoxMAKNWj0szlFeFhvXv"
     },
     {
       "album": {
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 234186,
       "name": "People That Use to See, Can't See No More",
       "url": "https://open.spotify.com/track/35lZLaX1j2W2emwnaf0V9f"

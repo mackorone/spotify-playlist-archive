@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ?si=1cW3Be3bQVO767h02t\-IRg">Zwide</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV?si=kFhV6iyIQECznS2XFlFFjQ">Ntencane</a>
 
-251 songs - 20 hr 0 min
+252 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [BENG'DAKIWE](https://open.spotify.com/track/4Hv4Gwl4awcQzzazJ054Vg) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF), [Sne Ntuli](https://open.spotify.com/artist/7a3R5VMZYPhutTAMipMBAc) | [SILENT TREATMENT](https://open.spotify.com/album/74adsdahGKpJXVlKB6Wxlh) | 4:51 | 2025-04-24 |  |
 | [BO GIRL](https://open.spotify.com/track/6CrL5WAQNE2a94i7tqbi67) | [uMjabulisi](https://open.spotify.com/artist/7hgZmJWaqjihq01cTFgyD6) | [Ningaphiki Nami](https://open.spotify.com/album/12840tLE83NAKIiNZuEqZ8) | 4:08 | 2023-01-30 | 2023-12-02 |
 | [Buza Kunyoko](https://open.spotify.com/track/3MwXl9gwg7aG1NBHcGKaZo) | [Sgwebo Sentambo](https://open.spotify.com/artist/5p55hGi2rq290OvBwMpLps), [King Shaka](https://open.spotify.com/artist/5iVLqqv8xXE8vQ43Psq5wL) | [Ikhumbi Ekweletayo](https://open.spotify.com/album/5nxPey17l6lXWUCsNqm6lF) | 5:49 | 2023-01-30 | 2024-04-23 |
+| [COME DUZE](https://open.spotify.com/track/0n4FUypXWTfC1pBdc63Kag) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Khotha La \(A Tribute To Mjikjelwa\)](https://open.spotify.com/album/11zqEpEOTNUX5lzw68rZJe) | 4:40 | 2025-07-25 |  |
 | [Dali Ungavumi](https://open.spotify.com/track/2yTHNZL9n8zd1LXRa6LT2W) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Zothando](https://open.spotify.com/artist/2JKuODJH36pqK6s3gLcnVe) | [Dali Ungavumi](https://open.spotify.com/album/4TMSarXXnwy2RN5qD6tsKd) | 5:43 | 2023-01-30 |  |
 | [Diona x5](https://open.spotify.com/track/2PQl2BRgemS4sFZTFS703p) | [Mtshengiseni](https://open.spotify.com/artist/0b7Ds3CZPJOmh8hqOq9md4) | [Maskandi Greats Vol.1](https://open.spotify.com/album/3GzuoeKRn8eQF0KAR0N4o6) | 6:52 | 2018-09-25 | 2023-06-16 |
 | [Diona x5](https://open.spotify.com/track/6KNmb4IaJ7K6gCd6to0HCx) | [Mtshengiseni](https://open.spotify.com/artist/0b7Ds3CZPJOmh8hqOq9md4) | [Maskandi Greats Vol.1](https://open.spotify.com/album/0a5bBJWcVbTOpc2cA6NtAh) | 6:52 | 2018-09-25 | 2022-07-29 |
@@ -89,7 +90,7 @@
 | [Imikhuba](https://open.spotify.com/track/4SlVGHwa8dQDr8hAa8ZiDf) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [The Ultimate Collection: Phuzekhemisi](https://open.spotify.com/album/4abzxM3Cy35Dg5Mmjwg8ud) | 4:11 | 2018-09-25 | 2022-11-13 |
 | [Imikhuba](https://open.spotify.com/track/5DWe8RsOB3zQ8nGT870FwD) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Bayede Zulu](https://open.spotify.com/album/1CYUKc8tPKmyRAVxOMLbWd) | 4:11 | 2018-09-25 | 2022-07-29 |
 | [Imikhuba](https://open.spotify.com/track/5z4GRjPgqAm9ZtPjcaqZPi) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Bayede Zulu](https://open.spotify.com/album/4uFTqak3z6hgboKo0aNwcr) | 4:11 | 2018-09-25 | 2023-02-01 |
-| [Imizi Yobaba](https://open.spotify.com/track/7AAZlyNmveOi5BRPbxFApQ) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Alingeni](https://open.spotify.com/album/2NCLT1NSdnD5BlKYZT0ije) | 4:28 | 2024-11-07 |  |
+| [Imizi Yobaba](https://open.spotify.com/track/7AAZlyNmveOi5BRPbxFApQ) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Alingeni](https://open.spotify.com/album/2NCLT1NSdnD5BlKYZT0ije) | 4:28 | 2024-11-07 | 2025-07-25 |
 | [Impi Yomndeni](https://open.spotify.com/track/7ag6ASRzcuWXamzvNEXQzL) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 6:03 | 2018-09-25 | 2023-05-12 |
 | [Ingezo Emahostela \(feat\. Sgwebo Sentambo\)](https://open.spotify.com/track/05kQlUT2mMwkvjRX8bkzba) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt), [Sgwebo Sentambo](https://open.spotify.com/artist/5p55hGi2rq290OvBwMpLps) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 4:55 | 2018-09-25 | 2023-02-01 |
 | [Ingoma Yami](https://open.spotify.com/track/7D4L8U9A7aXiveWURPTWRT) | [Intabayasedubai](https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK), [Proud](https://open.spotify.com/artist/4HqpRY96WEihkALTCJWf1B), [Dee R](https://open.spotify.com/artist/37SSMC2YqEFtW8o4yzkDLF), [Cwenga Bass](https://open.spotify.com/artist/69NnlRckDxjd87vXxuMr5S) | [Ingoma Yami](https://open.spotify.com/album/4muR1XrReEmHA8MmSPrf04) | 5:00 | 2025-03-27 |  |

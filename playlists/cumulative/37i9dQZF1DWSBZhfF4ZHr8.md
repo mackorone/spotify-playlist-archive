@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française\. Photo: Eloïz
+> Les meilleures nouveautés de la variété française\. Photo: Gims
 
-299 songs - 14 hr 42 min
+302 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Crash Dans Tes Bras](https://open.spotify.com/track/3SySzHH2kUy1JplgpVc8Rr) | [Elissa Lauper](https://open.spotify.com/artist/7mtFeidhCmzKSONpngSXoa) | [Crash Dans Tes Bras](https://open.spotify.com/album/5JmoeCP9fG3PrBEcusvb2c) | 2:49 | 2024-07-25 | 2024-08-02 |
 | [Dans mes bras](https://open.spotify.com/track/5wvaUSx5FPRzIklTsErxzc) | [Ycare](https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB) | [Dans mes bras](https://open.spotify.com/album/6nLAMAFs1J7P9PLlnV3EjC) | 3:08 | 2025-02-13 | 2025-04-18 |
 | [Dans tes yeux](https://open.spotify.com/track/7edwJhO0eZpCMtfj3wcXuv) | [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [II](https://open.spotify.com/album/4bur9otz02TklVA57a7bYO) | 2:54 | 2024-12-05 | 2025-01-10 |
+| [Dans un autre monde](https://open.spotify.com/track/2FImV41l1nKv3gLzhT1BCs) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Dans un autre monde](https://open.spotify.com/album/5scTVjfrAmCWhFznxEAIRM) | 3:22 | 2025-07-24 |  |
 | [De l'or sur tes doigts](https://open.spotify.com/track/2G6aZJ8ucftHam37rA16ln) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [De l'or sur tes doigts](https://open.spotify.com/album/2xndNSOprEsjyGoemVgo6D) | 3:42 | 2025-04-24 | 2025-07-11 |
 | [Demain](https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 2:27 | 2025-01-16 | 2025-04-11 |
 | [Demi\-mot](https://open.spotify.com/track/5p6cWSgjztQhEapqGD7INp) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [Demi\-mot](https://open.spotify.com/album/2nOhzMsnpcAKpdeXAknWsM) | 3:08 | 2024-12-12 | 2025-03-01 |
@@ -83,7 +84,7 @@
 | [Et moi](https://open.spotify.com/track/173fbv2LkD0gNW5PW7ggcL) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Vers les jours heureux](https://open.spotify.com/album/0AXW1FZJRsIsRyenQtyEHt) | 3:15 | 2024-11-28 | 2025-01-10 |
 | [Et si tu sens \- écrit par Grégory Lemarchal](https://open.spotify.com/track/4APtnl8hCS4PPBjaOGb1XV) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Et si tu sens \(écrit par Grégory Lemarchal\)](https://open.spotify.com/album/2whXeqwissI9TOYiw7RFoP) | 3:26 | 2024-11-28 | 2025-01-31 |
 | [Eternel amoureux](https://open.spotify.com/track/35YvnXPvHe5O4Xh3WsNFQK) | [Roulez Jeunesse](https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle) | [Eternel amoureux](https://open.spotify.com/album/2t47wy2zXVEYKkpbgJSkfF) | 2:43 | 2025-03-06 | 2025-06-06 |
-| [Excuse\-moi](https://open.spotify.com/track/5fi8cNrNlNOYHtgNzqFu1Q) | [Cenzo](https://open.spotify.com/artist/7ChUrEb8MmLmLGloTbj9oL) | [Les papillons dorment en hiver](https://open.spotify.com/album/5KuhrDFckGPJZi0WCSDZv8) | 2:23 | 2025-06-12 |  |
+| [Excuse\-moi](https://open.spotify.com/track/5fi8cNrNlNOYHtgNzqFu1Q) | [Cenzo](https://open.spotify.com/artist/7ChUrEb8MmLmLGloTbj9oL) | [Les papillons dorment en hiver](https://open.spotify.com/album/5KuhrDFckGPJZi0WCSDZv8) | 2:23 | 2025-06-12 | 2025-07-25 |
 | [Facile à danser](https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Facile à danser](https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf) | 3:13 | 2024-06-27 | 2024-07-27 |
 | [Falbala](https://open.spotify.com/track/3zDHDOpx6NhjLamk3F4kPP) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Falbala](https://open.spotify.com/album/2EA2AKC2rCIsHZGhgcJyeL) | 2:28 | 2025-06-26 |  |
 | [Fashionista](https://open.spotify.com/track/747tXUosf24taPFSdrNWOa) | [Paola](https://open.spotify.com/artist/7izxlZDhSich8F2ukPd3pc) | [Fashionista](https://open.spotify.com/album/2zoBNbOH6Yx6UTBEEvj2jo) | 2:32 | 2024-10-10 | 2025-01-10 |
@@ -121,6 +122,7 @@
 | [Je t'accuse](https://open.spotify.com/track/4QPBfQaSKEw56Vvo0i2XsL) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Je t'accuse](https://open.spotify.com/album/5AV57sv3V86WhdZhUTrdEh) | 2:49 | 2025-04-24 | 2025-07-04 |
 | [Je t'aimais, je t'aime, je t'aimerai \(Charles, Ebony, Emma & Marine\)](https://open.spotify.com/track/4B0pjx0g6xnGLSfMag56EL) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [L'album de la promo 2024](https://open.spotify.com/album/7LXBJT1FsiJaudUCY2rHZQ) | 3:27 | 2024-12-05 | 2025-01-10 |
 | [Je t'aime](https://open.spotify.com/track/4qGzHySKdaIZGGTUy6um9z) | [Lamomali](https://open.spotify.com/artist/7DxGG5hXfOSgepxXa7UqRF), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Balla Diabaté](https://open.spotify.com/artist/315I2IHM3SKeXen5SdTerA) | [Lamomali Totem](https://open.spotify.com/album/4VJJRtcT8tGXwxGkHq51Hy) | 3:21 | 2025-04-24 | 2025-05-23 |
+| [Joli rêve](https://open.spotify.com/track/5WEmSLGnZ8LiXuBDv5p7M6) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Tout dire \(Version Deluxe\)](https://open.spotify.com/album/2gtaaPpY13C7vyPw734gI4) | 2:59 | 2025-07-24 |  |
 | [Jusqu'à l'Os](https://open.spotify.com/track/6pfEffhUGyMoeFbw2ETRbV) | [June The Girl](https://open.spotify.com/artist/5YAuSUk0Vn6sZBId4I9cni) | [Jusqu'à l'Os](https://open.spotify.com/album/0QyVZfw0eKVvqDOAY37QNZ) | 2:45 | 2025-04-24 | 2025-07-18 |
 | [J’ai changé](https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 3:07 | 2025-01-09 | 2025-03-01 |
 | [L'air de rien](https://open.spotify.com/track/64e47MxS86ySGBkJfNsT7u) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS), [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [L'air de rien](https://open.spotify.com/album/6CQsUt6kGFaN027MwZAVMF) | 2:32 | 2025-05-15 | 2025-07-11 |
@@ -132,7 +134,7 @@
 | [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2024-06-27 | 2024-08-30 |
 | [La Différence \- Single Version](https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [La Différence](https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX) | 3:36 | 2025-01-09 | 2025-03-07 |
 | [LA DONNE](https://open.spotify.com/track/4jolz1beeQ18zASUMbmwDE) | [Allan](https://open.spotify.com/artist/7tJ1ZtOt4EOPyQnT8LE6rH) | [JE RAME, JE TANGUE](https://open.spotify.com/album/1c3l6TYCRVmoXQhhcnAALy) | 2:55 | 2024-06-27 | 2024-10-04 |
-| [La Fame](https://open.spotify.com/track/3FG1lZoFuZnAuYxLthz3Bf) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [La Fame](https://open.spotify.com/album/45fh9oIHclTqQIvnYtf749) | 3:27 | 2025-05-08 |  |
+| [La Fame](https://open.spotify.com/track/3FG1lZoFuZnAuYxLthz3Bf) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [La Fame](https://open.spotify.com/album/45fh9oIHclTqQIvnYtf749) | 3:27 | 2025-05-08 | 2025-07-25 |
 | [La fin de l'été](https://open.spotify.com/track/5kRUEtzHzCPYLJCdLNpkcE) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [La fin de l'été](https://open.spotify.com/album/4hymmlzwGaYW2F04ZRlqfU) | 3:38 | 2024-09-19 | 2024-11-15 |
 | [La Maritza](https://open.spotify.com/track/7tfWYniAzrV1Y3D8KPSezd) | [Laura Ferré](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [La Maritza](https://open.spotify.com/album/3uJRyfJOG1keI0Ld4w78mB) | 2:54 | 2025-06-05 | 2025-07-11 |
 | [La Pieva \(Chez moi\)](https://open.spotify.com/track/6E07sstGEhWgGwvAovMgyr) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [La Pieva \(Chez moi\)](https://open.spotify.com/album/6KpbzNOiNP1jQkkPWzfVHW) | 3:21 | 2024-06-27 | 2024-09-13 |
@@ -196,6 +198,7 @@
 | [Normal \- Version Lino](https://open.spotify.com/track/7yfiUVhb4ULrdspsNdVKh0) | [Laurent Lamarca](https://open.spotify.com/artist/1oxqdAQ96XPo1bAS8S9xDX) | [Normal \(Version Lino\)](https://open.spotify.com/album/23h206XG2Hm9E24wOdNOn5) | 3:43 | 2024-06-27 | 2024-07-27 |
 | [Nous](https://open.spotify.com/track/2D3CdwBVjoqbisAd0zIyji) | [Alexy Large](https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2) | [Nous](https://open.spotify.com/album/1gR8XeSRNR9PI7hzuclqss) | 2:56 | 2025-02-13 | 2025-03-28 |
 | [Nous](https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Nous](https://open.spotify.com/album/1is67cSsBtCg203117l5QH) | 2:35 | 2025-06-12 |  |
+| [Nous deux](https://open.spotify.com/track/2QsSPfjrYW84b3y2hYFHek) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux](https://open.spotify.com/album/1wi40HUkdCT8VXNkMn497R) | 2:50 | 2025-07-24 |  |
 | [Nous on sait](https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Nous on sait](https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx) | 3:02 | 2024-06-27 | 2024-09-20 |
 | [Nouveau départ](https://open.spotify.com/track/4Ty8Q0KsyuNHmBLlPK13fi) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Nouveau départ](https://open.spotify.com/album/2mpuYLosZM3qj8iBnCH7i4) | 2:38 | 2024-09-05 | 2024-11-22 |
 | [Nouveau jour](https://open.spotify.com/track/7yRk1Wz8zcP3Oq8Y6osHHi) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Nouveau jour](https://open.spotify.com/album/0Ex2lKs81gEUxA9Xbe8S8p) | 2:06 | 2025-06-12 |  |
@@ -269,7 +272,7 @@
 | [Toi & moi](https://open.spotify.com/track/5qcL5a9rOlEFUa5nUQENMe) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [Vie vagabonde](https://open.spotify.com/album/7J3ml36yPGEYvaFzlTOF1l) | 3:12 | 2025-07-10 |  |
 | [TOI MA PEINE](https://open.spotify.com/track/0af4vgQfrSkEoU6WoAu2CU) | [Gloria](https://open.spotify.com/artist/2yWU3Z3NKkz1g49LzGFRU4) | [TOI MA PEINE](https://open.spotify.com/album/0BGwBsRnSkNUAB2ygDS9Po) | 2:45 | 2024-11-07 | 2025-01-31 |
 | [Ton regard](https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ton regard](https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH) | 2:33 | 2024-06-27 | 2024-10-04 |
-| [Toucher la lune](https://open.spotify.com/track/3xms7bWYWPxiITm6lsl3xp) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Toucher la lune](https://open.spotify.com/album/62FxTQ1bwHlhbO49TkC1sh) | 2:48 | 2025-04-10 |  |
+| [Toucher la lune](https://open.spotify.com/track/3xms7bWYWPxiITm6lsl3xp) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Toucher la lune](https://open.spotify.com/album/62FxTQ1bwHlhbO49TkC1sh) | 2:48 | 2025-04-10 | 2025-07-25 |
 | [Tour du Monde](https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Tour du Monde](https://open.spotify.com/album/6PDyNaRKTKWiT0SFggT1FY) | 2:31 | 2024-11-07 | 2025-01-17 |
 | [Tour du monde \(feat\. Ronisia\)](https://open.spotify.com/track/5SuyFU4CGBodJOaAeGBI7J) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Adrénaline](https://open.spotify.com/album/37MDglqBpeVjrOdA0votKm) | 2:47 | 2025-03-20 | 2025-06-13 |
 | [Tourne Tourne](https://open.spotify.com/track/0RAYTKZxMhS5nWbPP2Ojuz) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [CARDIO DRAME](https://open.spotify.com/album/0t4I2vTPNL4IKMXCVNSCvY) | 2:29 | 2025-03-13 | 2025-06-06 |

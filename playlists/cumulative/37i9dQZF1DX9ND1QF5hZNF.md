@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-277 songs - 14 hr 20 min
+278 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Jungle](https://open.spotify.com/track/5f4ZzMG8zZXYXjBwLmd0aq) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Jungle](https://open.spotify.com/album/5wWAu59EvtfplSILL5S2mi) | 3:04 | 2022-12-20 | 2023-05-13 |
 | [just listen.\. \- LUV HRTS Remix](https://open.spotify.com/track/7ophkf51svGuvdMfYKZM1c) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8) | [just listen.\. \(LUV HRTS Remix\)](https://open.spotify.com/album/2JbwDsYk3PjnmT4Qcrcs4r) | 3:03 | 2025-07-10 | 2025-07-19 |
 | [Kalabancoro](https://open.spotify.com/track/3DidOh90QTm6XAnD40gyJv) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Kalabancoro](https://open.spotify.com/album/3EzEdhl8VSwHjUkVvlCAA6) | 3:06 | 2025-06-19 |  |
-| [Kids of the Sun](https://open.spotify.com/track/7j0LmNibEdZWB9KNOVZ9vP) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB) | [Kids of the Sun](https://open.spotify.com/album/5Zc30hxnYShaLQ9FcDQEgA) | 2:39 | 2025-06-19 |  |
+| [Kids of the Sun](https://open.spotify.com/track/7j0LmNibEdZWB9KNOVZ9vP) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB) | [Kids of the Sun](https://open.spotify.com/album/5Zc30hxnYShaLQ9FcDQEgA) | 2:39 | 2025-06-19 | 2025-07-25 |
+| [La La La Love](https://open.spotify.com/track/2ZcU1WV5y30r3Q1gv0Se7d) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a) | [La La La Love](https://open.spotify.com/album/4j5mJTZOFK2LQkdPfrhvWQ) | 2:20 | 2025-07-24 |  |
 | [La Plage](https://open.spotify.com/track/3lZcokYiL7reR3j3Lbtfzl) | [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Riviera](https://open.spotify.com/album/4vMrFjqzYp9DhRRKQ0uDKl) | 3:13 | 2023-05-12 | 2023-10-06 |
 | [lazy days](https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [lazy days](https://open.spotify.com/album/7kVqLYOuteo8X1RFyGdHEC) | 2:04 | 2024-08-29 | 2025-01-10 |
 | [Leave a Smile](https://open.spotify.com/track/2Qp0s8Qr7CMynidI7925H2) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Leave a Smile](https://open.spotify.com/album/4PdWkqJdqKB3arKBSI3qkx) | 2:27 | 2022-12-20 | 2025-05-02 |

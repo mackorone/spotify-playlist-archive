@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Amaarae
 
-888 songs - 1 day 19 hr 13 min
+889 songs - 1 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Ghost](https://open.spotify.com/track/1657TMy2s7p8ttQ6At4205) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Ghost](https://open.spotify.com/album/5M0tWFBo6ItzgyrCmf0Av6) | 3:28 | 2022-12-02 | 2023-02-11 |
 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-23 | 2024-06-14 |
 | [girl on a mission](https://open.spotify.com/track/71cG0LyiL0ozOwKAxyM5Fe) | [SOLIS4EVR](https://open.spotify.com/artist/3ZbW5RPoVdTdsR7JmRtoms), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Mowalola](https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh) | [GHOST TOWN](https://open.spotify.com/album/35awOR0VhAbhvlloOv4Zow) | 2:46 | 2024-06-14 | 2025-03-15 |
+| [Girlie\-Pop!](https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Girlie\-Pop!](https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23) | 2:03 | 2025-07-25 |  |
 | [Gkw](https://open.spotify.com/track/7iP4xI5k3ofKaaUzY1dxNk) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Gkw / Winning Bread](https://open.spotify.com/album/511ZnBegulQv9yKnYlb3NQ) | 2:59 | 2022-06-30 | 2022-09-24 |
 | [Go \(feat\. DETO BLACK\)](https://open.spotify.com/track/1MqLj8SILJe4lmjP9TG5i2) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Movement](https://open.spotify.com/album/0zCMHfHJO5WP7d6NuJwbeB) | 3:02 | 2023-10-27 | 2023-11-16 |
 | [Gold Coast](https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Gold Coast](https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x) | 3:40 | 2024-07-12 | 2024-11-08 |
@@ -524,7 +525,7 @@
 | [Motorola Money](https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Motorola Money](https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG) | 1:50 | 2024-05-03 | 2024-08-31 |
 | [MOVIE SHIT](https://open.spotify.com/track/4BzyX8FYzcyH2Tji7nobmQ) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Manu](https://open.spotify.com/artist/3vwaL3a8MQN6lAPoLBAD5C) | [Movie Shit](https://open.spotify.com/album/1GcjPesJvdRibkyL7ecglt) | 2:36 | 2021-12-02 | 2022-03-12 |
 | [MpenZi TuLiA](https://open.spotify.com/track/6vDog8XGNVs8j7BpY0cSbn) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0) | [Love Letters III](https://open.spotify.com/album/6u35zLK6Y8h4KDRYZMDaDi) | 3:12 | 2025-03-14 |  |
-| [MUMU](https://open.spotify.com/track/5ztFQVJKGuOTE68Wl4YUgZ) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [MUMU](https://open.spotify.com/album/5rQN2sh6OBLgSHggI1SWh3) | 1:45 | 2025-07-18 |  |
+| [MUMU](https://open.spotify.com/track/5ztFQVJKGuOTE68Wl4YUgZ) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [MUMU](https://open.spotify.com/album/5rQN2sh6OBLgSHggI1SWh3) | 1:45 | 2025-07-18 | 2025-07-25 |
 | [Murdershiro](https://open.spotify.com/track/1cahvfY79jaa4tHHfG4qn1) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [DEZ](https://open.spotify.com/artist/1j1xNJdPZ64qZURqg9kZRT), [Supersun](https://open.spotify.com/artist/5Mocd84qJxrPbghU0PXHo6) | [Oasis Park I](https://open.spotify.com/album/4Y7oEESgWR8bduTm7fNZxV) | 3:23 | 2022-06-23 | 2022-07-01 |
 | [My Ability](https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [My Ability](https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc) | 3:19 | 2023-06-22 | 2023-09-22 |
 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 | 2024-05-17 | 2024-10-26 |

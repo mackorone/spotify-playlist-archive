@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-572 songs - 1 day 8 hr 2 min
+573 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Jaun Kahaan](https://open.spotify.com/track/0468cWjc8U95lKGbUeH9bU) | [Nikita Ahuja](https://open.spotify.com/artist/1N9scLdWZukQAQ0p4ZeUUx), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Manohar Rao](https://open.spotify.com/artist/1uj0OPTnnHxeJdvLdaMZNF) | [SORA](https://open.spotify.com/album/5mPpTBPEiOyCWAjI61ggXw) | 3:38 | 2024-11-12 | 2024-12-12 |
 | [Jharokhe Se](https://open.spotify.com/track/57MfzNA2MA3Yez6tfSecJy) | [Sharad](https://open.spotify.com/artist/3jHpFYyoxkwd3nFSiyq0V9) | [Jharokhe Se](https://open.spotify.com/album/5yn1s3VtxX4GXWZ6yLbyEc) | 3:51 | 2023-11-24 | 2023-12-09 |
 | [Jhoothi Chai](https://open.spotify.com/track/5ISTUCwZ9SzLgoY0wdwYLN) | [Meiyang Chang](https://open.spotify.com/artist/4kil03O4zZQwIsvj3SGCxH) | [Jhoothi Chai](https://open.spotify.com/album/2MzAQ0GKFGqTBB2Y7lOB7o) | 2:56 | 2023-09-20 | 2023-11-25 |
+| [Jiya \- Acoustic](https://open.spotify.com/track/2k66hTa45HXKxvw0nkdImV) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Jiya \(Acoustic\)](https://open.spotify.com/album/5XbDHv87fUXMPIkQPh0Jaf) | 1:04 | 2025-07-24 |  |
 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 | 2024-08-02 |  |
 | [Juda nehi hu](https://open.spotify.com/track/7J24bbx5NFY0mSQb0POBg6) | [Himpol Kalita](https://open.spotify.com/artist/5dTQOtRKiAdus7MuKqE83b) | [Juda nehi hu](https://open.spotify.com/album/1dNlr4Afpv1rwqOoDGg1I7) | 2:29 | 2024-09-03 | 2025-02-14 |
 | [Kaagaz Ke Phool](https://open.spotify.com/track/6doiO8LvoZLTfNg2TekxSZ) | [Mohnissh Zzade](https://open.spotify.com/artist/0vk40I5yG2WaD0nNy7IM4H) | [Kaagaz Ke Phool](https://open.spotify.com/album/4CsrGLeMjPrnjuIXqAOxUG) | 4:07 | 2025-03-17 | 2025-05-30 |
@@ -513,7 +514,7 @@
 | [Tu Hi Bataa](https://open.spotify.com/track/4fYXlzFQbUQtztEKRhZVZB) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Hi Bataa](https://open.spotify.com/album/3CMJ3Av3LO1Dtmz4WlbMnn) | 2:27 | 2023-05-17 | 2023-08-09 |
 | [Tu Hi Tu Unplugged Version](https://open.spotify.com/track/2Wr3oKxthfi4U8MvAkaTty) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Anjana Ankur Singh](https://open.spotify.com/artist/3XAfGV9ChPNFOLynwBI2WP) | [Tu Hi Tu Unplugged Version](https://open.spotify.com/album/4Du26jfERYaQOud3TvTKHg) | 3:06 | 2024-03-04 | 2024-04-27 |
 | [Tu Jae Jahan](https://open.spotify.com/track/1X0ZbfKmPJHNCy385PH7z9) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Tu Jae Jahan](https://open.spotify.com/album/1xi3ZzJ6rzFeTCvSaU1flo) | 2:55 | 2023-06-20 | 2023-07-20 |
-| [Tu Jo Mere Sath Hai](https://open.spotify.com/track/2tNKVkeaaRIBRGgVeAL1o3) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Tu Jo Mere Sath Hai](https://open.spotify.com/album/40nHmHreiid0xbbe8hLbFg) | 3:16 | 2025-03-07 |  |
+| [Tu Jo Mere Sath Hai](https://open.spotify.com/track/2tNKVkeaaRIBRGgVeAL1o3) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Tu Jo Mere Sath Hai](https://open.spotify.com/album/40nHmHreiid0xbbe8hLbFg) | 3:16 | 2025-03-07 | 2025-07-25 |
 | [Tu Jo Mila](https://open.spotify.com/track/6TcBL3NDg3OimfoNiYOAQW) | [Dhi Harmony](https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY) | [Tu Jo Mila](https://open.spotify.com/album/0Dzmn1tHBaEeLc9b8lVB8M) | 3:23 | 2024-05-06 | 2024-06-29 |
 | [Tu Jo Mila Hai](https://open.spotify.com/track/3VnFhbuHMcNtqtdp4t4jFs) | [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV), [Maanuni](https://open.spotify.com/artist/0RAKDApsLaVDbTPbtlLReP) | [Tu Jo Mila Hai](https://open.spotify.com/album/4e3aIxckh2Ox1SsPiwwN19) | 3:31 | 2025-04-22 | 2025-05-06 |
 | [Tu Jo Paas \(Raw\)](https://open.spotify.com/track/3i8GG9i2cUpNDIitAJ533b) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Jo Paas \(Raw\)](https://open.spotify.com/album/6UUAbYF6ooSr9rqqW7rceU) | 3:34 | 2023-07-07 | 2024-04-01 |

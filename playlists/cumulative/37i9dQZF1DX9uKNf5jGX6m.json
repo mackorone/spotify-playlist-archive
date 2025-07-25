@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Aetherlight",
+        "url": "https://open.spotify.com/album/6FF7h3CwG1GDbFPm4dCzro"
+      },
+      "artists": [
+        {
+          "name": "Evanesce",
+          "url": "https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Aetherlight",
+      "url": "https://open.spotify.com/track/4SDZ4WOXj9Gp77Az6Kx63w"
+    },
+    {
+      "album": {
         "name": "After Dark Ram",
         "url": "https://open.spotify.com/album/5rto44fN3emc6lQcC1KxOc"
       },
@@ -4347,6 +4365,24 @@
     },
     {
       "album": {
+        "name": "Elysian",
+        "url": "https://open.spotify.com/album/5euhn9Cqj26wcP0l3d6HK8"
+      },
+      "artists": [
+        {
+          "name": "Astralis Flow",
+          "url": "https://open.spotify.com/artist/3eKqQudeGj5deVk7gdUZxK"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Elysian",
+      "url": "https://open.spotify.com/track/6ZOOPD3TEYhXzclWtU4Vqi"
+    },
+    {
+      "album": {
         "name": "Elysian Fields",
         "url": "https://open.spotify.com/album/3HifXQLQNh2hEj4kcKkNv4"
       },
@@ -6410,7 +6446,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 131428,
       "name": "Hjarta",
       "url": "https://open.spotify.com/track/3f2G3OMu792Qi3A4cvrXyq"
@@ -13650,7 +13686,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 176000,
       "name": "Star Stars",
       "url": "https://open.spotify.com/track/1QEZAFj1GzKUkMgM9cFgTW"
@@ -13978,6 +14014,24 @@
       "duration_ms": 244500,
       "name": "Sylarna",
       "url": "https://open.spotify.com/track/3qbZGh0o76ZCq2dI32cF9o"
+    },
+    {
+      "album": {
+        "name": "Symmetry",
+        "url": "https://open.spotify.com/album/4XYroOUTyEZoNKUUaVKvpM"
+      },
+      "artists": [
+        {
+          "name": "Luna Novina",
+          "url": "https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154313,
+      "name": "Symmetry",
+      "url": "https://open.spotify.com/track/1CCSe5AG4kD61bTgpFyx35"
     },
     {
       "album": {
@@ -16008,7 +16062,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 135723,
       "name": "Within Reach",
       "url": "https://open.spotify.com/track/3exsS4AVm9MhF7iW7R0WqT"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,095 songs - 3 day 7 hr 0 min
+1,096 songs - 3 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Cruising \(Laurel Halo Remix\)](https://open.spotify.com/track/3gTiMrkrXPZxC6YR1xEk4Q) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Cruising Laurel Halo Remixes](https://open.spotify.com/album/1oUmasBlScYKT66WvOdtVG) | 6:22 | 2021-08-20 | 2022-07-09 |
 | [Cryptic](https://open.spotify.com/track/0tLLYilow7DCMHpgybsZVG) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Something Wrong Here](https://open.spotify.com/album/1GJU08DeMaBYe1GmQrEQNg) | 3:13 | 2019-05-26\* | 2020-08-26 |
 | [CTG](https://open.spotify.com/track/5JlEWsqXWnIT4rPTJF3bny) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Iúri Oliveira](https://open.spotify.com/artist/6OUoXZid4ik4nXQ4FuYLPg) | [CTG](https://open.spotify.com/album/7xdjpdKWXPxXYynt2DDFG0) | 3:18 | 2021-05-09 |  |
-| [Cup of Joe](https://open.spotify.com/track/5cwtgZnXsn2vVfuQZPSFt3) | [Hermanito](https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j) | [Cup of Joe](https://open.spotify.com/album/4JtOw2t4gAgOPs3SWxhp8N) | 3:46 | 2021-07-13 |  |
+| [Cup of Joe](https://open.spotify.com/track/5cwtgZnXsn2vVfuQZPSFt3) | [Hermanito](https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j) | [Cup of Joe](https://open.spotify.com/album/4JtOw2t4gAgOPs3SWxhp8N) | 3:46 | 2021-07-13 | 2025-07-25 |
 | [Cura](https://open.spotify.com/track/1k2sSU3ZMwYQLJBe3VvUF7) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Cura](https://open.spotify.com/album/3XNjNIxqlAxkus63k1VnIa) | 1:31 | 2019-06-19\* | 2020-08-26 |
 | [Cure for the Itch](https://open.spotify.com/track/3rpnfXSECgapxeGeRgUYqy) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 | 2019-07-25 | 2020-10-19 |
 | [Curves](https://open.spotify.com/track/14gFoEG2vJmqM7LaYRJ49m) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Infinite Falling Ground Pt.2](https://open.spotify.com/album/1uCUD9nJxidOu4zhKBm3m3) | 3:17 | 2024-08-23 | 2025-04-05 |
@@ -1040,6 +1040,7 @@
 | [Vinyl](https://open.spotify.com/track/1BuayIlgZp7H4kuOgmCpge) | [Adrian Roland](https://open.spotify.com/artist/6BOm2bSNuYGS9IeyER3cq2) | [Vinyl](https://open.spotify.com/album/1q94s3rNr164SzFcHEqzpu) | 1:04 | 2019-07-25 |  |
 | [Violo](https://open.spotify.com/track/5syPwaSJSzNSB6ufaE6sI9) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Madre](https://open.spotify.com/album/5qxNqr74lxcQefXV9hqRiP) | 7:07 | 2021-05-27 | 2022-04-18 |
 | [Visages Visages](https://open.spotify.com/track/41EeXkqV9iXLKdQv36EEAP) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Visages Visages](https://open.spotify.com/album/5lYGHwWDorsrfjWB4gkj9c) | 5:59 | 2025-06-09 |  |
+| [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 | 2025-07-25 |  |
 | [Voices In My Head](https://open.spotify.com/track/0JUO6DhIHlpZ4GJWWhr2RG) | [Vikram Dhakal](https://open.spotify.com/artist/4rAXFOfQ4Q5hwOF492tEuI) | [Voices In My Head](https://open.spotify.com/album/1bBeLI0tu55M0Sd7bd7uxB) | 2:57 | 2020-08-26 | 2020-11-06 |
 | [VORTEX](https://open.spotify.com/track/3YN1Cwvr9XAudtMFhyHmHi) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [TENGGER](https://open.spotify.com/album/5Cziq0Bc2fJOcTgVDZ1COh) | 5:16 | 2023-09-29 |  |
 | [Voyage de la planète](https://open.spotify.com/track/3gCofca5qSvByjfLbdxmds) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Voyage de la planète](https://open.spotify.com/album/0pcfZtOOtLD1tsEqUzkFtF) | 7:38 | 2019-06-21 | 2020-10-22 |

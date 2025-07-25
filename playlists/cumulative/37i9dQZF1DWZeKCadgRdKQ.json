@@ -686,7 +686,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 165000,
       "name": "Another Paradise",
       "url": "https://open.spotify.com/track/4wO3UB5XHF7UjpTcZIASwy"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 133767,
       "name": "Aura Moment",
       "url": "https://open.spotify.com/track/7CrGYLDzOWzRz5ZfUHtqrv"
@@ -10397,6 +10397,24 @@
     },
     {
       "album": {
+        "name": "Osaka",
+        "url": "https://open.spotify.com/album/7rTxTCZnhp3DSfVSfdv1Pd"
+      },
+      "artists": [
+        {
+          "name": "Egon Alram",
+          "url": "https://open.spotify.com/artist/4fHSfGpd33bVmfX6nKObBs"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163368,
+      "name": "Osaka",
+      "url": "https://open.spotify.com/track/5mvEdy8gChsE3fffMps5UJ"
+    },
+    {
+      "album": {
         "name": "Oscillation",
         "url": "https://open.spotify.com/album/6IMdxAN1dBLS1l0doB7D8y"
       },
@@ -10704,6 +10722,24 @@
       "duration_ms": 238724,
       "name": "Periphescence",
       "url": "https://open.spotify.com/track/2DhT22DtGdRKULjuScdht0"
+    },
+    {
+      "album": {
+        "name": "Perpetual calendar",
+        "url": "https://open.spotify.com/album/1VNg437QcUpmgq3ItqDCSZ"
+      },
+      "artists": [
+        {
+          "name": "BBG's",
+          "url": "https://open.spotify.com/artist/0rKBlryjOUk7Oy1v0RCG0o"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128020,
+      "name": "Perpetual calendar",
+      "url": "https://open.spotify.com/track/0InteXDxIbGkBvGeBxqQlw"
     },
     {
       "album": {
@@ -13746,6 +13782,24 @@
       "duration_ms": 184374,
       "name": "synergy",
       "url": "https://open.spotify.com/track/1rpHkU5rHv0aPQwD65Ld1y"
+    },
+    {
+      "album": {
+        "name": "Tagliamento",
+        "url": "https://open.spotify.com/album/6zb57bL180pR9qfBvtXJcF"
+      },
+      "artists": [
+        {
+          "name": "Lucky Lorry",
+          "url": "https://open.spotify.com/artist/6PUceEgT1fjREE1tIxHMMt"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135454,
+      "name": "Tagliamento",
+      "url": "https://open.spotify.com/track/1ctz9vfbGpAElwDirHPfW1"
     },
     {
       "album": {

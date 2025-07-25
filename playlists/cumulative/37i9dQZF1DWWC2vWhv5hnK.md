@@ -4,7 +4,7 @@
 
 > Enjoy music from "Kaiju No\. 8"! ©防衛隊第３部隊 ©松本直也／集英社
 
-111 songs - 11 hr 37 min
+112 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [\#４　MCカフカ役 福西勝也＆キコル役 ファイルーズあい 「ごめんなさい。私、完璧にポッドキャストできなかった。」「ミーム化させようとすな！」](https://open.spotify.com/episode/7hzpcvAmsOOsCqIyhhKtkt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 39:29 | 2024-05-07 | 2024-05-13 |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-03-28 |  |
 | [Bath Talk](https://open.spotify.com/track/1KbNCpte3dCr4kC4rfzUFs) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Tadashi Machida](https://open.spotify.com/artist/0Fmm7YVAOysjZz3d7CPnRW) | [「怪獣8号」オリジナル・サウンドトラック](https://open.spotify.com/album/4r7MuwiXbYJpPJT61bB5Pc) | 1:02 | 2024-06-25 |  |
+| [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/track/0baR1QmlC8CruupaxA1IYA) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Beautiful Colors \(from Kaiju No\. 8\)](https://open.spotify.com/album/2jljUUaSxmuX3aoDQNak4e) | 2:37 | 2025-07-24 |  |
 | [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:17 | 2024-03-13 | 2024-04-19 |
 | [Counting Stars](https://open.spotify.com/track/6zH1ROVhEcUXLb7FeVeaRx) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 4:17 | 2024-04-13 | 2024-04-29 |
 | [Fanfare of Defense Force](https://open.spotify.com/track/6sdQxGHBmDmRWZnIKHGKPA) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Ensemble FOVE](https://open.spotify.com/artist/6q6FKLC39VIDZXz2vX2ZOZ) | [「怪獣8号」オリジナル・サウンドトラック](https://open.spotify.com/album/4r7MuwiXbYJpPJT61bB5Pc) | 2:06 | 2024-06-25 |  |

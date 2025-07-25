@@ -9648,7 +9648,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 135692,
       "name": "Chill",
       "url": "https://open.spotify.com/track/74tpC8vZ6DJUILzGG9uvp4"
@@ -23332,7 +23332,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 211646,
       "name": "INTRO (La Bella Vita)",
       "url": "https://open.spotify.com/track/1lslS1hUsIvAScXvWVTLt2"
@@ -27510,7 +27510,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 184799,
       "name": "LIFE IS LIFE (feat. Nerissima Serpe & Papa V)",
       "url": "https://open.spotify.com/track/0XvfITMZy29MKaVWjpeg9X"
@@ -53624,6 +53624,24 @@
       "duration_ms": 187941,
       "name": "YAMAHA",
       "url": "https://open.spotify.com/track/3z2P3UbxsrQI9LVDFi7dfk"
+    },
+    {
+      "album": {
+        "name": "YAMAL",
+        "url": "https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg"
+      },
+      "artists": [
+        {
+          "name": "Le-one",
+          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "YAMAL",
+      "url": "https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy"
     },
     {
       "album": {

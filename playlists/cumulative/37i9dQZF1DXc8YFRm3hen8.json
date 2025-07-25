@@ -2939,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "La Chica Diablo",
+        "url": "https://open.spotify.com/album/6lPJyWNMaCoyFDWUyWuONg"
+      },
+      "artists": [
+        {
+          "name": "Bronca",
+          "url": "https://open.spotify.com/artist/7DLavjCepvelLcRV2Gnt6R"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220074,
+      "name": "La Chica Diablo",
+      "url": "https://open.spotify.com/track/709BCJ6RV5c6xxuByvRjMO"
+    },
+    {
+      "album": {
         "name": "La Conquista del Espacio",
         "url": "https://open.spotify.com/album/0hUTkPlrlHbLkrKB8JLTXQ"
       },
@@ -3670,7 +3688,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 362240,
       "name": "Los Salieris De Charly",
       "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
@@ -4390,7 +4408,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 178800,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
@@ -4974,10 +4992,28 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-25",
       "duration_ms": 192601,
       "name": "Pinta",
       "url": "https://open.spotify.com/track/1WTgiBnT3YO8L7O52Fq7Ow"
+    },
+    {
+      "album": {
+        "name": "piso 20",
+        "url": "https://open.spotify.com/album/2NGY5QHTcAjg68I9XkiBJ1"
+      },
+      "artists": [
+        {
+          "name": "reybruja",
+          "url": "https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141762,
+      "name": "piso 20",
+      "url": "https://open.spotify.com/track/41IgY1X91cTDj1qwlvKiqS"
     },
     {
       "album": {
@@ -6454,6 +6490,28 @@
       "duration_ms": 206200,
       "name": "Un Poco de Amor Franc\u00e9s",
       "url": "https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX"
+    },
+    {
+      "album": {
+        "name": "Un sentimiento",
+        "url": "https://open.spotify.com/album/0vDJHu8EmKAvBzEiqK8zOh"
+      },
+      "artists": [
+        {
+          "name": "PONCH",
+          "url": "https://open.spotify.com/artist/59bZdQuMto4gL0mpd93PPW"
+        },
+        {
+          "name": "Juanse",
+          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Un Sentimiento",
+      "url": "https://open.spotify.com/track/6Ik1gf8vDiClZseITcDVWz"
     },
     {
       "album": {
