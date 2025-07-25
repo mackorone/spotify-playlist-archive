@@ -1,4 +1,4 @@
-## Playlists \(8696\)
+## Playlists \(8697\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -8227,6 +8227,7 @@
 - [lofi sleep](/playlists/pretty/37i9dQZF1DX2PQDq3PdrHQ.md)
 - [lofi summer haze](/playlists/pretty/37i9dQZF1DX8NMUtC3b3gL.md)
 - [longing](/playlists/pretty/37i9dQZF1DX0WptpmbS17O.md)
+- [love songs not to dedicate to](/playlists/pretty/2iEpvfwUF4YvtZMksADkRb.md)
 - [lush](/playlists/pretty/37i9dQZF1DX1LY1d1nRWvR.md)
 - [mEMOries](/playlists/pretty/37i9dQZF1DWYAyGN1XM1YS.md)
 - [madera y miel](/playlists/pretty/37i9dQZF1DX2xKqsL1SVWb.md)
