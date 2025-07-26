@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,280 likes - 125 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,567 likes - 125 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 16 | [Tu Última Canción](https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Tu Última Canción](https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa) | 4:22 |
 | 17 | [Supe Perder](https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 2:57 |
 | 18 | [Enamorado De Un Fantasma](https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Enamorado De Un Fantasma](https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d) | 4:29 |
-| 19 | [La Loca](https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 4:14 |
+| 19 | [Deja Una Rosa En Tu Balcón](https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Hasta La Eternidad \(Clásicos Digitalizados\)](https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN) | 3:59 |
 | 20 | [Tu Cárcel](https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:32 |
 | 21 | [Como Te Recuerdo](https://open.spotify.com/track/3CH8ti307xUz5NlaHoQBPR) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Como Te Recuerdo](https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M) | 5:05 |
-| 22 | [Deja Una Rosa En Tu Balcón](https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Hasta La Eternidad \(Clásicos Digitalizados\)](https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN) | 3:59 |
+| 22 | [La Loca](https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 4:14 |
 | 23 | [Nunca Voy a Olvidarte](https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 2:20 |
 | 24 | [Como La Flor](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 |
 | 25 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 4:29 |
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 31 | [Con El Corazón En La Mano](https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 3:17 |
 | 32 | [Contra El Dragón](https://open.spotify.com/track/7I7Cs5Xr776qavPMjNJknC) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Los Sonidos De Su Espíritu](https://open.spotify.com/album/1JmNtIeUHlp2vHxddTj5iA) | 3:46 |
 | 33 | [Amor Sin Palabras](https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 3:13 |
-| 34 | [Amigo Bronco \- Remasterizado](https://open.spotify.com/track/1m0k0m72IIC6eew8pPMXLe) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Bronco Amigo](https://open.spotify.com/album/5SHCgn1IOthKEpBkLIrhOK) | 3:47 |
-| 35 | [Dame Un Beso Y Dime Adiós](https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Serie 32: Yndio](https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE) | 3:27 |
+| 34 | [Dame Un Beso Y Dime Adiós](https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Serie 32: Yndio](https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE) | 3:27 |
+| 35 | [Amigo Bronco \- Remasterizado](https://open.spotify.com/track/1m0k0m72IIC6eew8pPMXLe) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Bronco Amigo](https://open.spotify.com/album/5SHCgn1IOthKEpBkLIrhOK) | 3:47 |
 | 36 | [Y Tú Con Él](https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Para Ti](https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM) | 3:37 |
 | 37 | [Un Millon de Rosas](https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:29 |
 | 38 | [Nubes De Algodón](https://open.spotify.com/track/6ix0BzodvL1XYM4tvWLIwn) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Entre Nubes](https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc) | 3:20 |
-| 39 | [Celoso](https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD) | [Grupo Toppaz De Reynaldo Flores](https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY) | [Celoso](https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV) | 2:48 |
-| 40 | [Contigo O Sin Ti](https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Contigo O Sin Ti](https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ) | 3:38 |
+| 39 | [Contigo O Sin Ti](https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Contigo O Sin Ti](https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ) | 3:38 |
+| 40 | [Celoso](https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD) | [Grupo Toppaz De Reynaldo Flores](https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY) | [Celoso](https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV) | 2:48 |
 | 41 | [Doy La Vida Por Un Beso](https://open.spotify.com/track/5WejEyXB6jW1CTmCVPRHRP) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Mas Alla Del Tiempo Y La Distancia](https://open.spotify.com/album/5As1BGh84PNzMhuuhYQdmt) | 3:45 |
 | 42 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
 | 43 | [Rosas Blancas](https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [En Su Punto](https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ) | 3:53 |

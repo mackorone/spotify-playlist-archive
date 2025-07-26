@@ -2,9 +2,9 @@
 
 ### [State of Jazz](https://open.spotify.com/playlist/37i9dQZF1DX7YCknf2jT6s)
 
-> New jazz for open minds\. Cover: Kokoroko
+> New jazz for open minds\. Cover: Braxton Cook
 
-1,775 songs - 5 day 23 hr 49 min
+1,776 songs - 5 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -762,6 +762,7 @@
 | [JERICHO](https://open.spotify.com/track/6ggQiv5Hr3CHTqI7sFfnxV) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [JERICHO](https://open.spotify.com/album/2GSNn4nuV4BzdgIJoZZgYT) | 2:39 | 2023-09-22 | 2024-01-05 |
 | [Jib Set](https://open.spotify.com/track/3h1Pl7YeuxQcwyoa0AR4LW) | [Daniel Hersog Jazz Orchestra](https://open.spotify.com/artist/4kw8f5dfYQrxXDJbKnTYXy), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Noah Preminger](https://open.spotify.com/artist/2WUAJpHBpYwRyY17woH3f0) | [Open Spaces \(Folk Songs Reimagined\)](https://open.spotify.com/album/1GR2qWrFdhwTK0BDg77ci0) | 8:27 | 2023-06-23 | 2023-07-22 |
 | [Jike'lemaweni](https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Zenzile: The Reimagination of Miriam Makeba](https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297) | 4:28 | 2022-03-11 | 2022-06-11 |
+| [Josh’s Tune](https://open.spotify.com/track/190iJqbTyMlJOOZoTcSkg5) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Joshua Crumbly](https://open.spotify.com/artist/4SSEcx8fIWKSSYSmvHJSC4) | [Josh's Tune](https://open.spotify.com/album/3hkBepv9YfYCyuRTEEzXjt) | 3:54 | 2025-07-25 |  |
 | [Joy](https://open.spotify.com/track/27Zoi47EO5CdnhJ7HACKL6) | [Sam Cohen](https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP), [Cochemea](https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A), [Oliver Hill](https://open.spotify.com/artist/2VU3r8yjy2Hxu7jswHkfMX) | [Joy](https://open.spotify.com/album/48HXPC32L3gxEWsoiWcALl) | 3:41 | 2024-12-13 | 2025-03-15 |
 | [Joy Road](https://open.spotify.com/track/0Bh4RCRlTcWUDNCu3CPgW6) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T) | [Strata Records \- the Sound of Detroit \- Reimagined by Jazzanova](https://open.spotify.com/album/4YLG5PwYbMJQeQe3NyVUP3) | 3:53 | 2022-04-22 | 2022-08-20 |
 | [joycelyn's dance](https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [joycelyn's dance](https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ) | 3:18 | 2024-04-05 | 2024-05-11 |
@@ -936,7 +937,7 @@
 | [Mint Chip](https://open.spotify.com/track/2zOTvrEoWKxPtKzZ1v1YK9) | [Gregory Uhlmann](https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S) | [Mint Chip](https://open.spotify.com/album/2tjJEBK4H5AWNg67vmvk7b) | 3:34 | 2024-02-09 | 2024-03-02 |
 | [MiNt cHoCoLaTe \(feat\. Conway the Machine\)](https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [MiNt cHoCoLaTe \(feat\. Conway The Machine\)](https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA) | 3:33 | 2023-12-15 | 2024-04-13 |
 | [Mirages](https://open.spotify.com/track/0k5EgyCKDWP1RCjpTzAPyv) | [Grand Discovery](https://open.spotify.com/artist/6M79SZ509xyT6yq3VxpqU8), [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Mirages](https://open.spotify.com/album/4ObfObixfY5IT99cjmhiAr) | 3:05 | 2024-11-15 | 2025-02-08 |
-| [Misanthrope's Hymn](https://open.spotify.com/track/53CgYJu6NYV0lBP9AbezO4) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Office Party Music](https://open.spotify.com/album/55KuwnjdlmkjUDM1adx1pZ) | 6:09 | 2024-09-27 |  |
+| [Misanthrope's Hymn](https://open.spotify.com/track/53CgYJu6NYV0lBP9AbezO4) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Office Party Music](https://open.spotify.com/album/55KuwnjdlmkjUDM1adx1pZ) | 6:09 | 2024-09-27 | 2025-07-26 |
 | [Misanthrope's Hymn](https://open.spotify.com/track/55gPsGRHeTmZv33UeoFYxP) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Misanthrope's Hymn](https://open.spotify.com/album/3IgLL4Xq4uP9uYrguIwKvI) | 6:09 | 2024-08-23 | 2024-09-14 |
 | [Miscellaneous \(Live\)](https://open.spotify.com/track/13EHxipY8tNTgJBtOrVMQi) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Floris van der Vlugt](https://open.spotify.com/artist/2s0GB9h7qb9UAum2R2Z06O), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197) | [Undertones \(Live\)](https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw) | 3:22 | 2022-02-18 | 2022-04-29 |
 | [Mischief](https://open.spotify.com/track/68xOMknCX6P1tC5KIe9Use) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Mischief](https://open.spotify.com/album/7bRHMCxk3iNWiQduBnOT8s) | 2:36 | 2023-08-25 | 2023-10-07 |

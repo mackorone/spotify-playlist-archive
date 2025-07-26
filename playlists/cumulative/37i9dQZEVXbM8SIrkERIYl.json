@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-25",
+      "date_removed": null,
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
@@ -3444,7 +3444,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 182401,
       "name": "Big Poe (feat. Sk8brd)",
       "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
@@ -3686,7 +3686,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 182008,
       "name": "Bloodline (with Jelly Roll)",
       "url": "https://open.spotify.com/track/2qPQcfUgizNDOIv1orkTAd"
@@ -4930,7 +4930,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/1wOp7yTVyH176bW1z9WAiv"
@@ -5180,7 +5180,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 282497,
       "name": "Changes - 2013 Remaster",
       "url": "https://open.spotify.com/track/3b7wNR330iKhql9dEdbNci"
@@ -5928,6 +5928,28 @@
       "duration_ms": 210213,
       "name": "Collide",
       "url": "https://open.spotify.com/track/5sv0WnUs74Orn6GoPmC5im"
+    },
+    {
+      "album": {
+        "name": "Xperience",
+        "url": "https://open.spotify.com/album/7zfsdVDL2btThtzjQppjT4"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "PAPA",
+          "url": "https://open.spotify.com/artist/2WQfUqU0HCYbiOA2w9zmBp"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240760,
+      "name": "Come On Over",
+      "url": "https://open.spotify.com/track/3nNzvDJXuV8TNMtgkjalqS"
     },
     {
       "album": {
@@ -7980,7 +8002,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -9116,7 +9138,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 226653,
       "name": "Everywhere - 2017 Remaster",
       "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
@@ -11012,7 +11034,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 194760,
       "name": "GO BABY",
       "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
@@ -14653,6 +14675,24 @@
     },
     {
       "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354213,
+      "name": "Iron Man - 2009 Remaster",
+      "url": "https://open.spotify.com/track/755bvJDSA3LNcNuFgBT9LK"
+    },
+    {
+      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -14664,7 +14704,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 355303,
       "name": "Iron Man - 2012 - Remaster",
       "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
@@ -15160,6 +15200,24 @@
       "duration_ms": 195170,
       "name": "Jonah",
       "url": "https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q"
+    },
+    {
+      "album": {
+        "name": "Independence Day",
+        "url": "https://open.spotify.com/album/29Nx0v2T1WBGvO4ZewkxBT"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233386,
+      "name": "Jowenna",
+      "url": "https://open.spotify.com/track/3b6WpyfDootGVWTPUQ38vH"
     },
     {
       "album": {
@@ -16952,6 +17010,28 @@
       "duration_ms": 129557,
       "name": "London Shutdown",
       "url": "https://open.spotify.com/track/7DDXuwcEDMYmrMLhhOnIvk"
+    },
+    {
+      "album": {
+        "name": "Born and Raised II (The Rebirth)",
+        "url": "https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223050,
+      "name": "Lonely Days",
+      "url": "https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT"
     },
     {
       "album": {
@@ -19337,6 +19417,24 @@
     },
     {
       "album": {
+        "name": "Xperience",
+        "url": "https://open.spotify.com/album/7zfsdVDL2btThtzjQppjT4"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223413,
+      "name": "Morning Ride",
+      "url": "https://open.spotify.com/track/3L1b8FSECnjZgs03oGZBMV"
+    },
+    {
+      "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
       },
@@ -19536,7 +19634,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 302647,
       "name": "Mr. Crowley",
       "url": "https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL"
@@ -20340,7 +20438,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
@@ -21774,7 +21872,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 167720,
       "name": "Paranoid - 2009 Remaster",
       "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
@@ -21792,7 +21890,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
@@ -22208,7 +22306,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
@@ -26098,7 +26196,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
@@ -27052,7 +27150,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 161051,
       "name": "Sucka Free",
       "url": "https://open.spotify.com/track/7DIMKlmJ0CL6eROkbptoqi"
@@ -27070,7 +27168,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 153332,
       "name": "Sugar On My Tongue",
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
@@ -27518,6 +27616,24 @@
       "duration_ms": 203573,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
+    },
+    {
+      "album": {
+        "name": "Born & Raised",
+        "url": "https://open.spotify.com/album/0J1lLuvXebQmFLwm1Vn7QM"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272377,
+      "name": "Sweet Darlin'",
+      "url": "https://open.spotify.com/track/16xm2K8WsZl4OBojftNxeV"
     },
     {
       "album": {
@@ -31255,6 +31371,24 @@
     },
     {
       "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475000,
+      "name": "War Pigs - 2009 Remaster",
+      "url": "https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne"
+    },
+    {
+      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -31266,7 +31400,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 474359,
       "name": "War Pigs / Luke's Wall - 2012 - Remaster",
       "url": "https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1"
@@ -32914,7 +33048,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"

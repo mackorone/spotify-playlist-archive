@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 43985,
+  "num_followers": 43996,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAA05WZZQgsl4RE/wvF7Fyb5",
+  "snapshot_id": "aIF3gAAAAABB/ZktCMsRhrhGJ1wroADw",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Caes Muy Bien",
-        "url": "https://open.spotify.com/album/3nXfTqiKI0vkCxHZQj74O2"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Me Caes Muy Bien",
-      "url": "https://open.spotify.com/track/43fkBqA49nXFi3Ju4i4R6w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 185076,
       "name": "Deli",
       "url": "https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Caes Muy Bien",
+        "url": "https://open.spotify.com/album/3nXfTqiKI0vkCxHZQj74O2"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Me Caes Muy Bien",
+      "url": "https://open.spotify.com/track/43fkBqA49nXFi3Ju4i4R6w"
     },
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El Audi",
-        "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "En El Audi",
-      "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pica",
         "url": "https://open.spotify.com/album/3A7OG7pA70ldH6OudLhiQG"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 199912,
       "name": "Pica",
       "url": "https://open.spotify.com/track/40VX50kHlByBKYWSoa6I5B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En El Audi",
+        "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "En El Audi",
+      "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bootie in Your Face (No Rock Drop)",
-        "url": "https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 221236,
-      "name": "Bootie in Your Face - No Rock Drop",
-      "url": "https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camaron Pelao",
         "url": "https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 210349,
       "name": "Camaron Pelao",
       "url": "https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bootie in Your Face (No Rock Drop)",
+        "url": "https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 221236,
+      "name": "Bootie in Your Face - No Rock Drop",
+      "url": "https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cooler Than Me",
-        "url": "https://open.spotify.com/album/7LKF88fJJvIQIUVhTFXAl6"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/2o1ryWmt2wp521jtflMiYq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PINK",
         "url": "https://open.spotify.com/album/07ZVt89JXh0m1h8pCGYQgo"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 221428,
       "name": "PINK",
       "url": "https://open.spotify.com/track/5JIywJ2IgYvFVNk8cU3CyA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cooler Than Me",
+        "url": "https://open.spotify.com/album/7LKF88fJJvIQIUVhTFXAl6"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/2o1ryWmt2wp521jtflMiYq"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 225159,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BAMBOLE - TAAO REMIX",
         "url": "https://open.spotify.com/album/5myy2cSK0vcmyS8LvhwJN2"
       },
@@ -827,48 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reflect",
-        "url": "https://open.spotify.com/album/6Xhh9hPXHtndhX6Qvs7Ocx"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Dear Sara",
-          "url": "https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S"
-        }
-      ],
-      "duration_ms": 189797,
-      "name": "You Are Not Alone (feat. Dear Sara)",
-      "url": "https://open.spotify.com/track/310TW3iypnMo8laEWughHb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ORRO",
-        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Jeon",
-          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Rumba (feat. Jeon)",
-      "url": "https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn Out",
-        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
       },
       "artists": [
         {
@@ -876,9 +820,9 @@
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 172115,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,
@@ -899,6 +843,26 @@
       "duration_ms": 229099,
       "name": "Turn Back Time (feat. Teemu)",
       "url": "https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORRO",
+        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Jeon",
+          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Rumba (feat. Jeon)",
+      "url": "https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk"
     },
     {
       "added_at": null,
@@ -927,6 +891,42 @@
       "duration_ms": 176571,
       "name": "Shakalaka (feat. Max Styler)",
       "url": "https://open.spotify.com/track/6d1fBXY4DRbPPzQTMYN0ap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn Out",
+        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 172115,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reflect",
+        "url": "https://open.spotify.com/album/6Xhh9hPXHtndhX6Qvs7Ocx"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Dear Sara",
+          "url": "https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S"
+        }
+      ],
+      "duration_ms": 189797,
+      "name": "You Are Not Alone (feat. Dear Sara)",
+      "url": "https://open.spotify.com/track/310TW3iypnMo8laEWughHb"
     },
     {
       "added_at": null,
@@ -1051,14 +1051,10 @@
     {
       "added_at": null,
       "album": {
-        "name": "Left Right",
-        "url": "https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ"
+        "name": "Knockout",
+        "url": "https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2"
       },
       "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
@@ -1068,13 +1064,13 @@
           "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
         },
         {
-          "name": "Fatman Scoop",
-          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
         }
       ],
-      "duration_ms": 155827,
-      "name": "Left Right",
-      "url": "https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa"
+      "duration_ms": 143359,
+      "name": "Knockout",
+      "url": "https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus"
     }
   ],
   "unique_name": "This Is Deorro",

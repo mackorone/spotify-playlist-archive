@@ -181,6 +181,28 @@
     },
     {
       "album": {
+        "name": "A New Day (feat. Celine Dion)",
+        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207223,
+      "name": "A New Day (feat. Celine Dion)",
+      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
+    },
+    {
+      "album": {
         "name": "About To Lose It",
         "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
       },

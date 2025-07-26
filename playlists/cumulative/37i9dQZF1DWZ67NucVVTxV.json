@@ -1421,6 +1421,28 @@
     },
     {
       "album": {
+        "name": "BADMAN GANGSTA",
+        "url": "https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143575,
+      "name": "BADMAN GANGSTA",
+      "url": "https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG"
+    },
+    {
+      "album": {
         "name": "TBH (To Be Honest)",
         "url": "https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r"
       },
@@ -7468,7 +7490,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 143138,
       "name": "KOSELOMI RMX",
       "url": "https://open.spotify.com/track/0YLa9X8vIx1KH4La4cCJPm"
@@ -8550,6 +8572,28 @@
       "duration_ms": 190621,
       "name": "Many Man - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+    },
+    {
+      "album": {
+        "name": "Trustn God",
+        "url": "https://open.spotify.com/album/7o3klRMAbNadUbQOIjnJlb"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173397,
+      "name": "Many Many Things",
+      "url": "https://open.spotify.com/track/4uzKhhLD4m4ZgIOmUzXDBP"
     },
     {
       "album": {
@@ -12304,7 +12348,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 170013,
       "name": "Sha Na (with Minz)",
       "url": "https://open.spotify.com/track/3UArau2uq69qp4UaptkKAL"
@@ -13386,7 +13430,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 143621,
       "name": "The Guy",
       "url": "https://open.spotify.com/track/4aYfllHbH1K6BGsdJzwATE"

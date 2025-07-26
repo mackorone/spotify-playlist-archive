@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto:Mizzy Miles, Slow J, Gson",
+  "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Deejay Telio, Wet Bed Gang",
   "name": "Rap Tuga Hits",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 158114,
       "name": "1 de Abril",
       "url": "https://open.spotify.com/track/5ZxHzpxIEr0rxGJN8Jsdjy"
@@ -374,6 +374,24 @@
       "duration_ms": 173859,
       "name": "Adora a bunda, odeia o rosto",
       "url": "https://open.spotify.com/track/791WFhCnv7eZTPe5U8XbB4"
+    },
+    {
+      "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294368,
+      "name": "Agradecido",
+      "url": "https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T"
     },
     {
       "album": {
@@ -820,7 +838,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 204281,
       "name": "Borboletas",
       "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 265011,
       "name": "Estrela Maior",
       "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
@@ -2550,7 +2568,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 206315,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
@@ -3647,6 +3665,24 @@
     },
     {
       "album": {
+        "name": "Olhar",
+        "url": "https://open.spotify.com/album/2YSlXAnI7ssYmEVpPYm1Cm"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219106,
+      "name": "Olhar",
+      "url": "https://open.spotify.com/track/0FcroTfQvvXDfnEh0KUJfb"
+    },
+    {
+      "album": {
         "name": "Oskey",
         "url": "https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex"
       },
@@ -4535,6 +4571,24 @@
     },
     {
       "album": {
+        "name": "SWEET LIKE SUGAR",
+        "url": "https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170723,
+      "name": "SWEET LIKE SUGAR",
+      "url": "https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX"
+    },
+    {
+      "album": {
         "name": "Sweet Spot",
         "url": "https://open.spotify.com/album/2qK6Eff85oD0PcsmFbv4Dj"
       },
@@ -5258,6 +5312,28 @@
       "duration_ms": 336528,
       "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
       "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
+    },
+    {
+      "album": {
+        "name": "\u00c1lcool & Prazer",
+        "url": "https://open.spotify.com/album/0XeovriAuYVi3f2yyHGv70"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263767,
+      "name": "\u00c1lcool & Prazer",
+      "url": "https://open.spotify.com/track/2qBcNRJBCID8n68NZWbh1S"
     },
     {
       "album": {

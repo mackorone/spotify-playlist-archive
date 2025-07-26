@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Mansa Jimmy
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,666 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,694 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 8 | [Jaan Se Zyada](https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Jaan Se Zyada](https://open.spotify.com/album/7zFdhMVq9hnCkIbV1qyWd1) | 2:53 |
 | 9 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
 | 10 | [Main Heer Teri](https://open.spotify.com/track/3BAmJqcRP0Mf11YAungMFq) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX) | [Main Heer Teri](https://open.spotify.com/album/4vtES0Tr90HiRlgdXmeMY7) | 3:26 |
-| 11 | [Better With You](https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Ansh4sure](https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA) | [Better With You](https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3) | 2:54 |
+| 11 | [Better With You](https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Ansh4sure](https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Better With You](https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3) | 2:54 |
 | 12 | [Dariya](https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [CIRCLES](https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t) | 2:52 |
 | 13 | [Kya Hi Hai](https://open.spotify.com/track/29SvIDiQWM8qoGaN0TvXRh) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Kya Hi Hai](https://open.spotify.com/album/7c9Q4FXPaX6EAafvJuu0VQ) | 3:19 |
 | 14 | [Kya Kahein](https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Kya Kahein](https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk) | 3:07 |

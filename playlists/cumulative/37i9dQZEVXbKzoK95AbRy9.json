@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 198678,
       "name": "Apaguei Pra Todos - Ao Vivo",
       "url": "https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 167528,
       "name": "Aquele Lugar - Ao Vivo",
       "url": "https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn"
@@ -1510,6 +1510,28 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "album": {
+        "name": "Turma no Quintal (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1N4vxCa92pFS7jdcLBTOqu"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216818,
+      "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1N19UVD4GRBFT6UrDaX6rk"
     },
     {
       "album": {
@@ -2410,7 +2432,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -4092,7 +4114,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 133615,
       "name": "Fica De Quat\u00e3o",
       "url": "https://open.spotify.com/track/7KTYk6K4TSK56iNecGe2R2"
@@ -4420,7 +4442,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 171335,
       "name": "Gosta De Rua - Ao Vivo",
       "url": "https://open.spotify.com/track/4VNRWHoiKHZJIoQHPbmJIv"
@@ -4774,7 +4796,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -4814,7 +4836,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
@@ -7868,7 +7890,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 195692,
       "name": "Pirocada Quente",
       "url": "https://open.spotify.com/track/2Z1DmmPWD3Lm0dWAxMfjxG"
@@ -8652,7 +8674,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 127771,
       "name": "Ritmo da Sanfoninha (Fomfomrom)",
       "url": "https://open.spotify.com/track/4NjI4qbTN70oQZ8Alt9cdC"

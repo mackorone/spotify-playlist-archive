@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 590695,
+  "num_followers": 590961,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
         "name": "C\u2019est si bon",
         "url": "https://open.spotify.com/album/1ONj7ygR1DJ7KvR0p1j5mI"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "Dreaming Wide Awake",
         "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 178240,
       "name": "I'm Confessin'",
       "url": "https://open.spotify.com/track/5mgx7i86Ei9kDDrbm9LrRn"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -871,22 +887,6 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "Creole Love Call",
         "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 240666,
       "name": "One Day I Fly Away",
       "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "Lumi\u00e9re",
-        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
       },
       "artists": [
         {
-          "name": "Emily Sage",
-          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
         }
       ],
-      "duration_ms": 196250,
-      "name": "Lumi\u00e9re",
-      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
+      "duration_ms": 221832,
+      "name": "I've Drawn Your Face",
+      "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+        "name": "Lumi\u00e9re",
+        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
       },
       "artists": [
         {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+          "name": "Emily Sage",
+          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
         }
       ],
-      "duration_ms": 221832,
-      "name": "I've Drawn Your Face",
-      "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
+      "duration_ms": 196250,
+      "name": "Lumi\u00e9re",
+      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
         "name": "Coming Back To You",
         "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 220600,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
+        "name": "Old Cape Cod",
+        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 209043,
+      "name": "Old Cape Cod",
+      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
         "name": "Remembering You",
         "url": "https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 240080,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
-        "name": "Old Cape Cod",
-        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 209043,
-      "name": "Old Cape Cod",
-      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "Tis Autumn",
-        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
-      },
-      "artists": [
-        {
-          "name": "Belle-Skinner",
-          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
-        }
-      ],
-      "duration_ms": 130162,
-      "name": "Tis Autumn",
-      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "Lonely Waltz",
         "url": "https://open.spotify.com/album/1O5FU2y0MJNOnPjFVicYfJ"
       },
@@ -1455,6 +1439,38 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
+        "name": "Passion World",
+        "url": "https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 492520,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "Tis Autumn",
+        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
+      },
+      "artists": [
+        {
+          "name": "Belle-Skinner",
+          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
+        }
+      ],
+      "duration_ms": 130162,
+      "name": "Tis Autumn",
+      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
         "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 380066,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
-        "name": "Passion World",
-        "url": "https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 492520,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 388114,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "I Only Have Eyes For You",
         "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 250745,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
+      },
+      "artists": [
+        {
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+        }
+      ],
+      "duration_ms": 388114,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "The Age of Anxiety",
-        "url": "https://open.spotify.com/album/2P2qPNDdZw930hLCy2ddux"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 324826,
-      "name": "The Age Of Anxiety",
-      "url": "https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP"
       },
@@ -1679,22 +1663,18 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "Wild Is Love",
-        "url": "https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec"
+        "name": "The Age of Anxiety",
+        "url": "https://open.spotify.com/album/2P2qPNDdZw930hLCy2ddux"
       },
       "artists": [
         {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        },
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Wild Is Love",
-      "url": "https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk"
+      "duration_ms": 324826,
+      "name": "The Age Of Anxiety",
+      "url": "https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -1715,6 +1695,26 @@
       "duration_ms": 371391,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/0Ah1nUp7WQOMCPbQIGf9od"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "Wild Is Love",
+        "url": "https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Wild Is Love",
+      "url": "https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "Love is Never Too Late",
-        "url": "https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 217275,
-      "name": "Love is Never Too Late",
-      "url": "https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "It's the Talk of the Town",
         "url": "https://open.spotify.com/album/7Gq2fHvO6W7MF4H5H1wdub"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 424173,
       "name": "It's the Talk of the Town",
       "url": "https://open.spotify.com/track/5vXDA2Sqm05uQaoayLGKQJ"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "Love is Never Too Late",
+        "url": "https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 217275,
+      "name": "Love is Never Too Late",
+      "url": "https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "You Better Go Now",
-        "url": "https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU"
-      },
-      "artists": [
-        {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
-        }
-      ],
-      "duration_ms": 170070,
-      "name": "You Better Go Now",
-      "url": "https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 226656,
       "name": "Blue in Green",
       "url": "https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "You Better Go Now",
+        "url": "https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "duration_ms": 170070,
+      "name": "You Better Go Now",
+      "url": "https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96"
     },
     {
       "added_at": "2025-06-27 08:22:05",
@@ -2427,30 +2427,6 @@
     {
       "added_at": "2025-06-27 08:22:05",
       "album": {
-        "name": "The Boy Next Door",
-        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
-      },
-      "artists": [
-        {
-          "name": "Burt Bacharach",
-          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
-        },
-        {
-          "name": "David",
-          "url": "https://open.spotify.com/artist/7lWeQXC5Y8S7FBi9k2eGFv"
-        },
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 252840,
-      "name": "What The World Needs Now Is Love",
-      "url": "https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ"
-    },
-    {
-      "added_at": "2025-06-27 08:22:05",
-      "album": {
         "name": "There Is No Future",
         "url": "https://open.spotify.com/album/29uDWhdwCQ3aC6NspRGkfV"
       },
@@ -2475,6 +2451,30 @@
       "duration_ms": 300826,
       "name": "There Is No Future",
       "url": "https://open.spotify.com/track/4GNxanwS4whzAEAwGg6xDK"
+    },
+    {
+      "added_at": "2025-06-27 08:22:05",
+      "album": {
+        "name": "The Boy Next Door",
+        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
+      },
+      "artists": [
+        {
+          "name": "Burt Bacharach",
+          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
+        },
+        {
+          "name": "David",
+          "url": "https://open.spotify.com/artist/7lWeQXC5Y8S7FBi9k2eGFv"
+        },
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 252840,
+      "name": "What The World Needs Now Is Love",
+      "url": "https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ"
     },
     {
       "added_at": "2025-06-27 08:22:05",

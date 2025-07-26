@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Jane Handcock",
+  "description": "The soulful tunes to ease you into your day. Cover: Vedo",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -552,10 +552,28 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 200520,
       "name": "All I Want Is You [Feat. October London]",
       "url": "https://open.spotify.com/track/2YKgKQeaYc2sIZIGooyLw0"
+    },
+    {
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4EBDgl01wt0jYYC9zOcGNK"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166279,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/5X34M33mDZ310P8Wj3k8tq"
     },
     {
       "album": {
@@ -1358,7 +1376,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 220338,
       "name": "Best For Us",
       "url": "https://open.spotify.com/track/1ZExgSbVQ0Ku5gjryLeKpQ"
@@ -1634,6 +1652,28 @@
       "duration_ms": 192854,
       "name": "Breakfast - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4pXaDCpq459IkaUp84VM5m"
+    },
+    {
+      "album": {
+        "name": "Lotus Ave",
+        "url": "https://open.spotify.com/album/7ieH9abbSBHx9CceUjPn9D"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        },
+        {
+          "name": "Hydra",
+          "url": "https://open.spotify.com/artist/04IZ5jHUHqhsKtfpOsbztY"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224893,
+      "name": "Breaking My Own Heart - feat. Hydra",
+      "url": "https://open.spotify.com/track/6jzWtQEYhdMi7o5YYZKNK2"
     },
     {
       "album": {
@@ -3998,7 +4038,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 213000,
       "name": "Fist Bump (feat. Free Nationals) - Radio Edit",
       "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
@@ -4486,7 +4526,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 231099,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6r0qKA2fBMaemwQFfENRRA"
@@ -4610,6 +4650,24 @@
       "duration_ms": 130671,
       "name": "Give It To You",
       "url": "https://open.spotify.com/track/5z132ZK3Vwn6oV2ZQMkwPb"
+    },
+    {
+      "album": {
+        "name": "Give My Love",
+        "url": "https://open.spotify.com/album/0SAKY6VQtSx24WIdr7xpDi"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205265,
+      "name": "Give My Love",
+      "url": "https://open.spotify.com/track/69MuwX7oKDP5Ek6So1fAFy"
     },
     {
       "album": {
@@ -4802,6 +4860,24 @@
       "duration_ms": 152405,
       "name": "God Herself",
       "url": "https://open.spotify.com/track/10bH3xbZFCRWpOLecfKpLe"
+    },
+    {
+      "album": {
+        "name": "God's Favorite",
+        "url": "https://open.spotify.com/album/2E7ATWlgmm7HpBBKKuvLZK"
+      },
+      "artists": [
+        {
+          "name": "Joe Leone",
+          "url": "https://open.spotify.com/artist/641Je4lEYQI0NWz8VclwMF"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217914,
+      "name": "God's Favorite",
+      "url": "https://open.spotify.com/track/5OVGK4hviEh8EaZ1LVdXhe"
     },
     {
       "album": {
@@ -5500,7 +5576,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 228266,
       "name": "Hey Girl(s)",
       "url": "https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ"
@@ -5748,7 +5824,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 188012,
       "name": "Hotel Lobby",
       "url": "https://open.spotify.com/track/1YjGMLIu5NmX7A0p6AQsCJ"
@@ -7246,7 +7322,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 228518,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
@@ -8765,6 +8841,24 @@
     },
     {
       "album": {
+        "name": "Mississippi",
+        "url": "https://open.spotify.com/album/72KVasmNk7gNk4ccwOzEqx"
+      },
+      "artists": [
+        {
+          "name": "Jamal Roberts",
+          "url": "https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209545,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/2mUmgRb8J6Y1TUbyP3rJXI"
+    },
+    {
+      "album": {
         "name": "Misty in Matakana",
         "url": "https://open.spotify.com/album/2CeQ9LUeYO38eVaw9gKpyR"
       },
@@ -8950,6 +9044,28 @@
       "duration_ms": 273132,
       "name": "More Than Twice",
       "url": "https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm"
+    },
+    {
+      "album": {
+        "name": "move it along (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195454,
+      "name": "move it along (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs"
     },
     {
       "album": {
@@ -9642,7 +9758,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 317966,
       "name": "No Business",
       "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
@@ -11334,6 +11450,24 @@
       "duration_ms": 317386,
       "name": "Samson",
       "url": "https://open.spotify.com/track/48AkypfLAIJVsCSo10HFgW"
+    },
+    {
+      "album": {
+        "name": "e\u2022pit\u2022o\u2022me",
+        "url": "https://open.spotify.com/album/04767Bip35J4QmOy6TrFDI"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186268,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/0ZMpB94p1TstjSSVSCyNjR"
     },
     {
       "album": {
@@ -14007,6 +14141,28 @@
     },
     {
       "album": {
+        "name": "Twisting (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225613,
+      "name": "Twisting (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj"
+    },
+    {
+      "album": {
         "name": "Nina",
         "url": "https://open.spotify.com/album/2juR45dpHx8G0zs17a4SLn"
       },
@@ -15550,10 +15706,32 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 178278,
       "name": "You\u2019re Invited (feat. Kenyon Dixon)",
       "url": "https://open.spotify.com/track/1sSLrVeHhhfKxFGwx7u5pW"
+    },
+    {
+      "album": {
+        "name": "e\u2022pit\u2022o\u2022me",
+        "url": "https://open.spotify.com/album/04767Bip35J4QmOy6TrFDI"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178278,
+      "name": "You\u2019re Invited (feat. Kenyon Dixon)",
+      "url": "https://open.spotify.com/track/3caSdwYEaJvT1Et1QmGkvm"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaXDsfv6nvZ5"

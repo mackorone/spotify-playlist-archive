@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-21",
-  "description": "Lo que diga el coraz\u00f3n \u2764\ufe0f\ud83d\udc94 Cover: Calle 24",
+  "description": "Lo que diga el coraz\u00f3n \u2764\ufe0f\ud83d\udc94 Cover: Angel Cervantes",
   "name": "Tumbado Rom\u00e1ntico",
   "tracks": [
     {
@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 124973,
       "name": "Ando Free",
       "url": "https://open.spotify.com/track/4d3hhn6sEfrxEv11zGVJC7"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 177230,
       "name": "Dormir No He Podido",
       "url": "https://open.spotify.com/track/5sRv4AqGhldtlXHmCmM57h"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 197365,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 235161,
       "name": "En Mi Mente 24/7",
       "url": "https://open.spotify.com/track/0PmEIPY3MNUMyYp2P74msY"
@@ -1506,6 +1506,24 @@
       "duration_ms": 163551,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
+    },
+    {
+      "album": {
+        "name": "MACALLAN",
+        "url": "https://open.spotify.com/album/3TOBtZ0INJ5buOsWcSagam"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189298,
+      "name": "MACALLAN",
+      "url": "https://open.spotify.com/track/3WsrcYFPa0sXqaTbVr9bGo"
     },
     {
       "album": {
@@ -2299,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "ANTECEDENTE",
+        "url": "https://open.spotify.com/album/6h6mQOGWNmT5saFNmJHfyv"
+      },
+      "artists": [
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Paris Hilton",
+      "url": "https://open.spotify.com/track/3wXNKzyuuSZoGgnuCI2ly3"
+    },
+    {
+      "album": {
         "name": "PENSANDO Y PENSANDO",
         "url": "https://open.spotify.com/album/6ImDSXC8NMv7gdwNIuXtMO"
       },
@@ -2448,6 +2484,24 @@
       "duration_ms": 205482,
       "name": "Por Nada Te Cambio",
       "url": "https://open.spotify.com/track/7EuzjgPCCn4302zxRQdzeI"
+    },
+    {
+      "album": {
+        "name": "POR SUS BESOS",
+        "url": "https://open.spotify.com/album/4cSbE15ekeLLRncLno6AJI"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186142,
+      "name": "POR SUS BESOS",
+      "url": "https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt"
     },
     {
       "album": {
@@ -2703,6 +2757,28 @@
     },
     {
       "album": {
+        "name": "SECRETO",
+        "url": "https://open.spotify.com/album/7GVR3lkK8tz5kcOa6LnQfG"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208451,
+      "name": "SECRETO",
+      "url": "https://open.spotify.com/track/504VfM2pmclGufjypM5c59"
+    },
+    {
+      "album": {
         "name": "Palabra De To's (Seca)",
         "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
       },
@@ -2776,6 +2852,24 @@
       "duration_ms": 216624,
       "name": "sirena",
       "url": "https://open.spotify.com/track/2UxNQwHpIG3QUFbZCTaocB"
+    },
+    {
+      "album": {
+        "name": "SONR\u00cdE <3",
+        "url": "https://open.spotify.com/album/78Nm7rz6BdWJgHXcImsPrT"
+      },
+      "artists": [
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178120,
+      "name": "SONR\u00cdE <3",
+      "url": "https://open.spotify.com/track/73dvoIH9lGoNqA5JLJw7Jt"
     },
     {
       "album": {
@@ -3256,7 +3350,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 176191,
       "name": "Ya Estando Bien Loco",
       "url": "https://open.spotify.com/track/6d4CZTrDAdaPZOHdZBCOl0"

@@ -4,7 +4,7 @@
 
 > Zakkum ve haftanın en iyi çıkışları!
 
-2,325 songs - 4 day 20 hr 46 min
+2,326 songs - 4 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -888,7 +888,7 @@
 | [HASIM ARAMADAYIM](https://open.spotify.com/track/2r3Nk6lg36LKiATtxIDwZc) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [HASIM ARAMADAYIM](https://open.spotify.com/album/3c49CVRnSJH6V9gpj52dBf) | 2:14 | 2025-04-17 | 2025-04-25 |
 | [Hasret](https://open.spotify.com/track/6qqdqDzhlxEXsbsdvyoJHh) | [Emil Rosé](https://open.spotify.com/artist/3TNTPduFxe8yaox2f6NxNC), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Hasret](https://open.spotify.com/album/3r0c6iGAPhN5M8oFkipqK8) | 3:08 | 2025-06-19 | 2025-06-27 |
 | [Hasret](https://open.spotify.com/track/6J6bdHQPjKdDEg8pyacqC3) | [Nakkaf](https://open.spotify.com/artist/6uDPjK6lHpHCqoLA6HxXFo), [Ados](https://open.spotify.com/artist/4jtv7mIerRdHNQOkFtKyDW) | [Hasret](https://open.spotify.com/album/3fROhuuweAScogi8VoSNCz) | 3:08 | 2025-05-22 | 2025-05-30 |
-| [Hasret Fırtınası](https://open.spotify.com/track/0InpMx4duyd0J4af227YsK) | [Özgür Alter](https://open.spotify.com/artist/1G4N1ivudfEFnnnVKg0NrY) | [Hasret Fırtınası](https://open.spotify.com/album/2XShvbSHS7p1KjEtrq88m6) | 3:23 | 2025-07-24 |  |
+| [Hasret Fırtınası](https://open.spotify.com/track/0InpMx4duyd0J4af227YsK) | [Özgür Alter](https://open.spotify.com/artist/1G4N1ivudfEFnnnVKg0NrY) | [Hasret Fırtınası](https://open.spotify.com/album/2XShvbSHS7p1KjEtrq88m6) | 3:25 | 2025-07-24 |  |
 | [Hasret ve Taş](https://open.spotify.com/track/1FEPlJwMVrWaa80JoHwsrs) | [Kezzo](https://open.spotify.com/artist/6IFL211nZF4xuxG0u8G6HH) | [Hasret ve Taş](https://open.spotify.com/album/5D13NMw11YLLKRK8ZPcZpy) | 2:55 | 2025-04-17 | 2025-04-25 |
 | [HASRETİNDEN](https://open.spotify.com/track/4kD1zNH3TAfQ9SwGyUAwB9) | [Kali Vibes](https://open.spotify.com/artist/4UwfCi35podDiPvUEBRnrS) | [HASRETİNDEN](https://open.spotify.com/album/26NvgsvdhlrRKHxm6WUHpv) | 2:17 | 2025-05-08 | 2025-05-16 |
 | [Hassiktir](https://open.spotify.com/track/5m4siUuKFaiQ1RMUzUQrM7) | [Asil Slang](https://open.spotify.com/artist/3e9tJNBWrydJK3VKpkyWyT) | [Hassiktir](https://open.spotify.com/album/7jKWL8EZKU8wCgZAxxJ7fa) | 2:51 | 2025-05-15 | 2025-05-23 |
@@ -1819,6 +1819,7 @@
 | [STRANGERS \(feat\. TINI\)](https://open.spotify.com/track/682vct7cxeNq8i3RHKg61a) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [STRANGERS \(feat\. TINI\)](https://open.spotify.com/album/4kI1jopbfhA5sBlvvPhQAO) | 3:21 | 2025-05-15 | 2025-05-23 |
 | [Suburbs](https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Suburbs](https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9) | 3:04 | 2025-07-10 | 2025-07-18 |
 | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/track/0dC9OuZL5Qh70N37wtwGHJ) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/album/1QTFFa1qM6luiHOk5ey5ue) | 3:04 | 2025-07-10 | 2025-07-18 |
+| [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 | 2025-07-24 |  |
 | [SUKUNA ITADORI](https://open.spotify.com/track/6GyaylJPnwV5MLSVogeOqS) | [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK) | [SUKUNA ITADORI](https://open.spotify.com/album/4Si5MoanBRQh5u6dwISIwV) | 1:57 | 2025-05-01 | 2025-05-09 |
 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 | 2025-06-26 | 2025-07-04 |
 | [Sunday Love](https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sunday Love](https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD) | 5:16 | 2025-06-12 | 2025-06-20 |

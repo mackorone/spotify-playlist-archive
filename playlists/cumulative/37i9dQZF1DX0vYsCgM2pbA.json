@@ -643,6 +643,28 @@
     },
     {
       "album": {
+        "name": "Butterfly Wings (Franc Moody Remix)",
+        "url": "https://open.spotify.com/album/6Oo3cX5rOtUITuwQbjz4Wz"
+      },
+      "artists": [
+        {
+          "name": "FELIVAND",
+          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212493,
+      "name": "Butterfly Wings - Franc Moody Remix",
+      "url": "https://open.spotify.com/track/5iOOpXSpuKOcvrVMi28AIr"
+    },
+    {
+      "album": {
         "name": "Can't Do Without (My Baby)",
         "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
       },
@@ -5132,7 +5154,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 173793,
       "name": "Under The Milky Way - Leo Portela Remix",
       "url": "https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB"

@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 193208,
       "name": "Compa\u00f1era",
       "url": "https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y"
@@ -4851,6 +4851,24 @@
     },
     {
       "album": {
+        "name": "Por El Resto De Mi vida",
+        "url": "https://open.spotify.com/album/4JkR41pL0UwuXspJCe4pp1"
+      },
+      "artists": [
+        {
+          "name": "Carlos Zaur",
+          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202874,
+      "name": "Por El Resto De Mi Vida",
+      "url": "https://open.spotify.com/track/08kCK0cGR1oaOFHotsNyzL"
+    },
+    {
+      "album": {
         "name": "Por el Resto de Tu Vida",
         "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
       },
@@ -6361,6 +6379,28 @@
     },
     {
       "album": {
+        "name": "tu amor me da paz",
+        "url": "https://open.spotify.com/album/60pmaWLTyguqSTl7HBUXXN"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195413,
+      "name": "tu amor me da paz",
+      "url": "https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ"
+    },
+    {
+      "album": {
         "name": "Tu Amor No Vale un Bolero",
         "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
       },
@@ -6834,7 +6874,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 225476,
       "name": "Viejitos",
       "url": "https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun"

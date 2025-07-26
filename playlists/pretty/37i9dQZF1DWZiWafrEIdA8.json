@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11687,
+  "num_followers": 11691,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "The Firstfruit - The 1st Album",
-        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
-      },
-      "artists": [
-        {
-          "name": "MARK",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Raincouver",
-      "url": "https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "Nerdy Love",
         "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 196373,
       "name": "Nerdy Love",
       "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "The Firstfruit - The 1st Album",
+        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Raincouver",
+      "url": "https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "RE:UP",
-        "url": "https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Good Night (Feat. BE'O)",
-      "url": "https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "Action!",
         "url": "https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 190812,
       "name": "Action! (Feat. GRAY)",
       "url": "https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "RE:UP",
+        "url": "https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Good Night (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -823,26 +823,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "365&7",
-        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "365&7 (Feat. JAMIE)",
-      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 229575,
       "name": "Time limit (Feat. Leellamarz, Loco)",
       "url": "https://open.spotify.com/track/1jQg7ImfH2OVpp9lu9mOj0"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "365&7",
+        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "365&7 (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
+        "name": "HANGANG",
+        "url": "https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 200488,
+      "name": "HANGANG",
+      "url": "https://open.spotify.com/track/6nSHtgTH5a959xPucs6Ilb"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
         "name": "H1GHR : BLUE TAPE",
         "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 188106,
       "name": "Oscar",
       "url": "https://open.spotify.com/track/2Wqnhu5dRQDAQi8Ej6HnVQ"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
-        "name": "HANGANG",
-        "url": "https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg"
-      },
-      "artists": [
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 200488,
-      "name": "HANGANG",
-      "url": "https://open.spotify.com/track/6nSHtgTH5a959xPucs6Ilb"
     },
     {
       "added_at": "2025-04-09 05:00:26",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,037 likes - 98 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,043 likes - 98 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rona Merah Langit](https://open.spotify.com/track/2qLERqFBztNjBKuZNMaqQK) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Pengantar Purifikasi Pikir](https://open.spotify.com/album/3pCz8FhvLwuXLgkJheTKQk) | 5:35 |
 | 2 | [Hingga Ujung Waktu](https://open.spotify.com/track/6vqPXMmtwipyeg4pkdQ2S1) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [07 Des](https://open.spotify.com/album/59MdGM9vovHOEqp40fpthI) | 4:26 |
 | 3 | [Tak Ada Yang Sepertimu](https://open.spotify.com/track/5Yh1sTQAU3BTIKMp3K5ZOX) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 3:11 |
-| 4 | [123456](https://open.spotify.com/track/2CFpkbOfYe23ZoMfufNKVB) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [1 Hari Yang Cerah](https://open.spotify.com/album/3BSay8BCZZFWaLlSIqt4D2) | 3:39 |
+| 4 | [123456 \(New Version\)](https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [123456 \(New Version\)](https://open.spotify.com/album/23mJFFYLo7WPVPaHSrG4z3) | 3:24 |
 | 5 | [I'm Falling In Love](https://open.spotify.com/track/2TGP2lCeouJD2hzEfn0WIz) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Apa Artinya Cinta? \(Original Soundtrack\)](https://open.spotify.com/album/1zcts6uNvhLKyBThcWIFZU) | 3:50 |
 | 6 | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/track/3XHiujhh7sB8tTCwtI6YEI) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/album/4e35vUR8z4q56iY2xgvbNA) | 3:58 |
 | 7 | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/track/0peDS2F3fH9U5YKSF9SZmm) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f) | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/album/5XvTmKurqOPaImImbDBDFv) | 4:04 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 | 97 | [Remaja](https://open.spotify.com/track/1SaQZoFXNu7ZAxxKImzFgf) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot) | 3:38 |
 | 98 | [Sampai Jadi Debu \(Menampilkan Gardika Gigih\)](https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:48 |
 
-Snapshot ID: `aHXDWQAAAABR5tvcs6K+GbssAxShuNwI`
+Snapshot ID: `aIMpVwAAAACB7B4C3PcfPCaVagKut425`

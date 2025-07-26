@@ -1,6 +1,6 @@
 {
   "description": "This week's top new releases, including Tyler, The Creator, OneRepublic, Nej, and more.",
-  "num_followers": 46363,
+  "num_followers": 46540,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,30 @@
     {
       "added_at": "2025-07-24 22:00:47",
       "album": {
+        "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
+        "url": "https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 219968,
+      "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
+      "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
+    },
+    {
+      "added_at": "2025-07-24 22:00:47",
+      "album": {
         "name": "Gyals",
         "url": "https://open.spotify.com/album/0N2PTmXDSeVMVA7ma62qG3"
       },
@@ -690,6 +714,10 @@
         {
           "name": "Eno",
           "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
+        },
+        {
+          "name": "Geenaro & Ghana Beats",
+          "url": "https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz"
         },
         {
           "name": "Summer Cem",
@@ -1792,7 +1820,7 @@
           "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 166231,
+      "duration_ms": 165517,
       "name": "Big Bag",
       "url": "https://open.spotify.com/track/10dWn0syXPIp0TfdPFx4Lq"
     },

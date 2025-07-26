@@ -1,33 +1,13 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 52950,
+  "num_followers": 53005,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAACr6YWrvIYxvECqbLiVlM6w",
+  "snapshot_id": "aIF3gAAAAAC9M//+DNPw95mZdvp61QC7",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home (feat. Shaboozey)",
-        "url": "https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Home (feat. Shaboozey)",
-      "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
-    },
     {
       "added_at": null,
       "album": {
@@ -83,6 +63,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Home (feat. Shaboozey)",
+        "url": "https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Home (feat. Shaboozey)",
+      "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 296185,
-      "name": "SWEET \u2605 HONEY \u2605 BUCKIIN'",
-      "url": "https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 197403,
       "name": "Amen",
       "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 296185,
+      "name": "SWEET \u2605 HONEY \u2605 BUCKIIN'",
+      "url": "https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl"
     },
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Bar Song (Tipsy) [Remix]",
-        "url": "https://open.spotify.com/album/0oNjcrEbdpkDuDYypawNah"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 163863,
-      "name": "A Bar Song (Tipsy) [Remix}",
-      "url": "https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 156721,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/213uaappJODsexwkR9rxhS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Bar Song (Tipsy) [Remix]",
+        "url": "https://open.spotify.com/album/0oNjcrEbdpkDuDYypawNah"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 163863,
+      "name": "A Bar Song (Tipsy) [Remix}",
+      "url": "https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr"
     },
     {
       "added_at": null,

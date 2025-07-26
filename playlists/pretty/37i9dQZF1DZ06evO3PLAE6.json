@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11488,
+  "num_followers": 11491,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAAihOG0/CjEs2m7SUCm8sew",
+  "snapshot_id": "aIF3gAAAAABfK9NS2Qk0bEocwzEahN98",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/4cnOOtSM3k3qFBbE4zNOgO"
+        "name": "Wreck & Ruin",
+        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
       },
       "artists": [
         {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        },
-        {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 175832,
-      "name": "Whispering Voice",
-      "url": "https://open.spotify.com/track/1CNckFP5VsvL6jrMX7ESsY"
+      "duration_ms": 155693,
+      "name": "The Quiet Life",
+      "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
     },
     {
       "added_at": null,
@@ -603,22 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wreck & Ruin",
-        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/4cnOOtSM3k3qFBbE4zNOgO"
       },
       "artists": [
         {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
         },
         {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 155693,
-      "name": "The Quiet Life",
-      "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
+      "duration_ms": 175832,
+      "name": "Whispering Voice",
+      "url": "https://open.spotify.com/track/1CNckFP5VsvL6jrMX7ESsY"
     },
     {
       "added_at": null,

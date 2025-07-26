@@ -4,7 +4,7 @@
 
 > Traditional country sounds from artists of yesterday and today.
 
-208 songs - 11 hr 58 min
+210 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 | 2022-02-17 |  |
 | [Any Man Of Mine](https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:06 | 2022-02-17 |  |
 | [Baby Do](https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Baby Do](https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG) | 3:28 | 2022-03-18 | 2022-08-21 |
+| [Bar Star](https://open.spotify.com/track/2WtSCFXxKqjzfl2vZRkzcW) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Bar Star](https://open.spotify.com/album/1xcS7YZLIRIARfz4yHoLhW) | 2:52 | 2025-07-25 |  |
 | [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 | 2022-02-17 |  |
 | [Before I Knew It](https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Twang](https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S) | 3:21 | 2022-03-25 | 2022-04-20 |
 | [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 | 2022-02-17 |  |
@@ -37,13 +38,14 @@
 | [Country Again](https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 3:41 | 2022-02-17 |  |
 | [Country In The Girl](https://open.spotify.com/track/0qxFuP4qRzvXAlRdlAdd1c) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Country In The Girl](https://open.spotify.com/album/4R0KEBRAfTa41LbAat49Yc) | 3:26 | 2022-02-17 | 2022-05-06 |
 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 | 2022-02-17 |  |
+| [Dale Dickens \(RIP\)](https://open.spotify.com/track/6RFEp3DeSQcMGEr97WtTqM) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Dale Dickens \(RIP\)](https://open.spotify.com/album/1iutbAZnuqdVVghCzPDoJL) | 2:01 | 2025-07-25 |  |
 | [Damn Strait](https://open.spotify.com/track/0gNrujgnSfw4LuSvd0Jbs6) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Same Truck](https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU) | 3:50 | 2022-02-17 |  |
 | [Damn Strait](https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Damn Strait](https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y) | 3:50 | 2022-04-15 | 2023-09-16 |
 | [Dancing Away with My Heart](https://open.spotify.com/track/3ss88YLxa2pYOtyKgyKIjM) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Hell on an Angel](https://open.spotify.com/album/1V6RHh2eMlzWTgcEPgOAbu) | 3:47 | 2022-02-17 | 2022-11-13 |
 | [Dear Miss Loretta](https://open.spotify.com/track/0qcxQHmYOp7okI0Eu6Dk69) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:40 | 2022-02-17 |  |
 | [Demons](https://open.spotify.com/track/42qQfL7lQefUOXvqtSyrWM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Ben Haggard](https://open.spotify.com/artist/2RtEucMpDtN3H68hDwFdnc) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 3:24 | 2022-03-04 | 2022-07-29 |
 | [Do It Anyway](https://open.spotify.com/track/0ZHZ91i5e2RDtN4ljog9Dc) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Do It Anyway](https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y) | 2:52 | 2023-11-17 | 2024-08-17 |
-| [Do It Anyway](https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP), [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Do It Anyway](https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT) | 2:50 | 2024-08-16 |  |
+| [Do It Anyway](https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP), [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Do It Anyway](https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT) | 2:50 | 2024-08-16 | 2025-07-26 |
 | [Doin' Life with You](https://open.spotify.com/track/16aSIrIcOHdqLZcsHz3QxY) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Doin' Life with You](https://open.spotify.com/album/2nbbwy9Ja5K9vnOCd27uhS) | 4:01 | 2024-09-06 | 2024-10-31 |
 | [Don't Close Your Eyes](https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Don't Close Your Eyes](https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ) | 4:12 | 2022-05-13 |  |
 | [Don't Tell Me What To Do](https://open.spotify.com/track/7Mh25N4Iuv7lDtpVbfDyvL) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Put Yourself In My Place](https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz) | 3:11 | 2022-02-17 | 2022-07-28 |
@@ -205,7 +207,7 @@
 | [What I Thank \(When I Drank\)](https://open.spotify.com/track/4vpMUn7giEsphJbZrkZSlg) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [What I Thank \(When I Drank\)](https://open.spotify.com/album/4wf2uxNmb8foN97Z7TPcfK) | 3:17 | 2023-06-09 |  |
 | [Where That Came From](https://open.spotify.com/track/6vNJDp8znmaQp2vAXHRPGd) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Where That Came From](https://open.spotify.com/album/0ijAqKhMaahw0WCyuntRlB) | 3:11 | 2024-05-17 |  |
 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 | 2022-02-17 |  |
-| [Who You Thought I Was](https://open.spotify.com/track/4dXIIUOtekoc54xIktc559) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life is a Record \(Deluxe Edition\)](https://open.spotify.com/album/2Zor1BSChR147LVFyIzrpy) | 3:09 | 2022-02-19 |  |
+| [Who You Thought I Was](https://open.spotify.com/track/4dXIIUOtekoc54xIktc559) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life is a Record \(Deluxe Edition\)](https://open.spotify.com/album/2Zor1BSChR147LVFyIzrpy) | 3:09 | 2022-02-19 | 2025-07-26 |
 | [Whole Lotta You](https://open.spotify.com/track/3ECYvcf518GveIlB2MT64l) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Triston Marez](https://open.spotify.com/album/0MLWqiGjmaYa46WL2Rv56N) | 3:17 | 2022-02-17 | 2022-06-06 |
 | [Why Not Me](https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:29 | 2022-02-17 |  |
 | [Wild One](https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 2:45 | 2022-02-17 |  |

@@ -4,7 +4,7 @@
 
 > Le meilleur de la musique d'hier et d'aujourd'hui pour un été parfait.
 
-369 songs - 21 hr 21 min
+370 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2023-07-27 | 2023-08-17 |
 | [Don't Forget Me](https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:10 | 2023-11-09 | 2024-03-01 |
 | [Don't Look Back In Anger \- Remastered](https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:49 | 2024-01-18 | 2025-02-14 |
-| [Don't Worry \(with Ray Dalton\) \- Radio Edit](https://open.spotify.com/track/63CSozvYUEudPp12679UVF) | [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Don't Worry \(feat\. Ray Dalton\)](https://open.spotify.com/album/7rtYhYGbnV4OPbqIhendi8) | 3:34 | 2025-05-01 |  |
+| [Don't Worry \(with Ray Dalton\) \- Radio Edit](https://open.spotify.com/track/63CSozvYUEudPp12679UVF) | [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Don't Worry \(feat\. Ray Dalton\)](https://open.spotify.com/album/7rtYhYGbnV4OPbqIhendi8) | 3:34 | 2025-05-01 | 2025-07-26 |
 | [Drive By](https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 3:15 | 2025-05-01 |  |
 | [Eat Your Young](https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:03 | 2023-09-14 | 2024-02-02 |
 | [Elizabeth Taylor](https://open.spotify.com/track/4uYkkmsSIZSu935D0enBH8) | [Clare Maguire](https://open.spotify.com/artist/1iL8p9yzijWY1XnqVgHF5P) | [Stranger Things Have Happened](https://open.spotify.com/album/5g6PwCWmNZcioR78bz6lgg) | 4:27 | 2023-11-09 | 2024-04-19 |
@@ -372,6 +372,7 @@
 | [Why Do the Bad Things Feel Good](https://open.spotify.com/track/4tlqyokGNPlVU2kciN4J2N) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Why Do the Bad Things Feel Good](https://open.spotify.com/album/3skESfWDfea0zr9H54Ql0Z) | 3:21 | 2023-12-21 | 2024-02-22 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-22 | 2024-11-08 |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-11-16 | 2024-03-15 |
+| [Wonderwall \- Remastered](https://open.spotify.com/track/0A6sqSxlqml1wjQLjuM4BH) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Time Flies..\. 1994\-2009 \(Remastered\)](https://open.spotify.com/album/6nznHVahdEzZ7Qwv9TrOW4) | 4:21 | 2025-07-17 |  |
 | [World On Fire](https://open.spotify.com/track/7CYvA2dKCUZUxfUohwyFU0) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [World On Fire](https://open.spotify.com/album/1C3X6pwfOwQVBCrFRAIuWh) | 3:18 | 2023-09-14 | 2023-10-01 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2023-10-12 | 2024-03-29 |
 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2024-06-13 | 2024-07-05 |

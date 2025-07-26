@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-425 songs - 1 day 2 hr 34 min
+426 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [7 Years](https://open.spotify.com/track/57IKN5kmhY7bUmiGgqNeLU) | [The Church Sisters](https://open.spotify.com/artist/7leSTijl25o8A1uihttutk) | [7 Years](https://open.spotify.com/album/02rUB4rphqzHbDCkHegQDS) | 3:42 | 2021-12-10 | 2022-07-29 |
 | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR) | 3:36 | 2022-09-09 |  |
 | [A Country Boy Can Survive](https://open.spotify.com/track/5Xa9KNhvOogPz6hklgiHXO) | [Monarch Cast](https://open.spotify.com/artist/7Dw7t1oeEFmhuqDntWaxyX), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [A Country Boy Can Survive](https://open.spotify.com/album/0BqsK35y12o3kJ6fePAeai) | 4:14 | 2022-01-07 | 2022-05-09 |
+| [A Lesson In Leavin’](https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [A Lesson In Leavin'](https://open.spotify.com/album/3rfYnj51q8xxwyn0NFjIyu) | 3:24 | 2025-07-25 |  |
 | [Ain't Going Down \(Til the Sun Comes up\)](https://open.spotify.com/track/3klE9CXDio6dDgY9yU1wKU) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Ain't Goin' Down \(Til the Sun Comes up\)](https://open.spotify.com/album/7DuXhaPbr8SI066tDEwubh) | 3:05 | 2022-03-18 | 2022-08-16 |
 | [Ain't No Sunshine](https://open.spotify.com/track/3em0PT5T4WjJWZl8aTtVzZ) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [After Dark](https://open.spotify.com/album/35bKt6TLADU51iQ6Z3Of5S) | 3:45 | 2022-03-25 | 2022-04-20 |
 | [Ain't Nothing 'Bout You \(with Megan Moroney\)](https://open.spotify.com/track/0R51yMOPP9LixmZgGmyWv5) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:31 | 2024-11-15 |  |
@@ -266,7 +267,7 @@
 | [Nobody Knows](https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Nobody Knows](https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP) | 3:43 | 2022-03-25 | 2022-10-04 |
 | [Not Over You \(feat\. Gavin DeGraw\) \(feat\. Gavin DeGraw\)](https://open.spotify.com/track/0IiB5z6d30qELn5yTe2wjM) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Slow Me Down](https://open.spotify.com/album/78bfZn6WFHAwutuhbD36sD) | 3:52 | 2021-12-10 | 2022-07-27 |
 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 | 2025-02-07 |  |
-| [Nothing Else Matters](https://open.spotify.com/track/08QgUCPjEW1JnXRwVuzRVw) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Nothing Else Matters](https://open.spotify.com/album/6poT82LErL1xylnfgoVNqQ) | 8:14 | 2021-12-10 |  |
+| [Nothing Else Matters](https://open.spotify.com/track/08QgUCPjEW1JnXRwVuzRVw) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Nothing Else Matters](https://open.spotify.com/album/6poT82LErL1xylnfgoVNqQ) | 8:14 | 2021-12-10 | 2025-07-26 |
 | [Nothing Else Matters](https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Nothing Else Matters](https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg) | 8:14 | 2022-07-08 | 2024-04-19 |
 | [Nothing Else Matters](https://open.spotify.com/track/4I33cAPZnrDBGIO9lSr3H7) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [The Metallica Blacklist](https://open.spotify.com/album/7N32mF0BlA3BOhlSyCiHgf) | 6:52 | 2021-12-10 | 2022-07-29 |
 | [On and On](https://open.spotify.com/track/7AiZcV5BSDVxNjW3kKNvsv) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [On and On](https://open.spotify.com/album/2o6drPabKBPi6Gx8A9qqxX) | 3:01 | 2021-12-10 | 2022-07-18 |

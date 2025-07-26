@@ -1,33 +1,13 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 54306,
+  "num_followers": 54392,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAACttCQTAJUk5gIyuZ3paiN+",
+  "snapshot_id": "aIF3gAAAAAC32dh9ESYVO9x6AEgViBpD",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 188263,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
-    },
     {
       "added_at": null,
       "album": {
@@ -135,6 +115,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 188263,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHY LOVE",
         "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
       },
@@ -147,26 +147,6 @@
       "duration_ms": 210000,
       "name": "WHY LOVE",
       "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 178225,
-      "name": "Bandana",
-      "url": "https://open.spotify.com/track/2qWwuCVeMjF9mUT0S5Iqvl"
     },
     {
       "added_at": null,
@@ -203,6 +183,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 178225,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/2qWwuCVeMjF9mUT0S5Iqvl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 174253,
       "name": "Bad Girl (feat. Asake)",
       "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 197154,
-      "name": "Mentally",
-      "url": "https://open.spotify.com/track/6IEYlownuHoYdpMikoyj58"
     },
     {
       "added_at": null,
@@ -271,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 197154,
+      "name": "Mentally",
+      "url": "https://open.spotify.com/track/6IEYlownuHoYdpMikoyj58"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Omo Ope",
         "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
       },
@@ -287,30 +287,6 @@
       "duration_ms": 166153,
       "name": "Omo Ope (feat. Olamide)",
       "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Happiness (feat. Asake & Gunna)",
-        "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 174743,
-      "name": "Happiness (feat. Asake & Gunna)",
-      "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
     },
     {
       "added_at": null,
@@ -347,6 +323,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Happiness (feat. Asake & Gunna)",
+        "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 174743,
+      "name": "Happiness (feat. Asake & Gunna)",
+      "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -359,26 +359,6 @@
       "duration_ms": 182976,
       "name": "Worldwide",
       "url": "https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Stubborn",
-      "url": "https://open.spotify.com/track/6LTnqcYe8dq4QC5Lh7vneM"
     },
     {
       "added_at": null,
@@ -415,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Stubborn",
+      "url": "https://open.spotify.com/track/6LTnqcYe8dq4QC5Lh7vneM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -427,26 +427,6 @@
       "duration_ms": 171385,
       "name": "Mood",
       "url": "https://open.spotify.com/track/5obTyAhp9xms15FjibgrBy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 156212,
-      "name": "NO COMPETITION (feat. Asake)",
-      "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
     },
     {
       "added_at": null,
@@ -487,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 156212,
+      "name": "NO COMPETITION (feat. Asake)",
+      "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -499,26 +499,6 @@
       "duration_ms": 204279,
       "name": "Uhh Yeahh",
       "url": "https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bust Down",
-        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Bust Down",
-      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
     },
     {
       "added_at": null,
@@ -539,6 +519,26 @@
       "duration_ms": 199452,
       "name": "Get it Right (feat. Asake)",
       "url": "https://open.spotify.com/track/3raxjPdY70b4a9ks1Bd0mz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bust Down",
+        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Bust Down",
+      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
     },
     {
       "added_at": null,

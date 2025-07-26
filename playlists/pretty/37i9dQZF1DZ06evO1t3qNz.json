@@ -1,29 +1,13 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 44477,
+  "num_followers": 44586,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAADeseP3xNWNEgBuN0+kFCW6",
+  "snapshot_id": "aIF3gAAAAACyWJ1/aCDDoaYVT/JL5R3v",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heroin",
-        "url": "https://open.spotify.com/album/4haogKoKcT5t0vGVJkBBY2"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 256079,
-      "name": "Heroin",
-      "url": "https://open.spotify.com/track/5LkXpdUpSCHOO1yJI5aLbV"
-    },
     {
       "added_at": null,
       "album": {
@@ -203,26 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
-        "url": "https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9"
+        "name": "Heroin",
+        "url": "https://open.spotify.com/album/4haogKoKcT5t0vGVJkBBY2"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
           "name": "Jessie Murph",
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 204325,
-      "name": "Heartbroken (feat. Jessie Murph & Polo G)",
-      "url": "https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc"
+      "duration_ms": 256079,
+      "name": "Heroin",
+      "url": "https://open.spotify.com/track/5LkXpdUpSCHOO1yJI5aLbV"
     },
     {
       "added_at": null,
@@ -243,22 +219,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Texas (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
+        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
+        "url": "https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9"
       },
       "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
         {
           "name": "Jessie Murph",
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         },
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 198106,
-      "name": "Texas (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
+      "duration_ms": 204325,
+      "name": "Heartbroken (feat. Jessie Murph & Polo G)",
+      "url": "https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc"
     },
     {
       "added_at": null,
@@ -311,18 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sip",
-        "url": "https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0"
+        "name": "Texas (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
       },
       "artists": [
         {
           "name": "Jessie Murph",
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 172163,
-      "name": "Sip",
-      "url": "https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX"
+      "duration_ms": 198106,
+      "name": "Texas (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
     },
     {
       "added_at": null,
@@ -375,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys And Angels",
-        "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
+        "name": "Sip",
+        "url": "https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0"
       },
       "artists": [
         {
@@ -384,9 +368,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 133973,
-      "name": "Cowboys And Angels",
-      "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
+      "duration_ms": 172163,
+      "name": "Sip",
+      "url": "https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX"
     },
     {
       "added_at": null,
@@ -416,9 +400,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 142970,
-      "name": "Couldn't Be Worse",
-      "url": "https://open.spotify.com/track/3u1E2H69WN9FDjIaaqCN2n"
+      "duration_ms": 241291,
+      "name": "The Man That Came Back",
+      "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
     },
     {
       "added_at": null,
@@ -439,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Look Who's Cryin' Now",
-        "url": "https://open.spotify.com/album/539ihh7Uywx0dY2NFAJbID"
+        "name": "Cowboys And Angels",
+        "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
       },
       "artists": [
         {
@@ -448,9 +432,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 141724,
-      "name": "Look Who's Cryin' Now",
-      "url": "https://open.spotify.com/track/6Q0j526ymBAvizdCHmoM9x"
+      "duration_ms": 133973,
+      "name": "Cowboys And Angels",
+      "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
     },
     {
       "added_at": null,
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 241291,
-      "name": "The Man That Came Back",
-      "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
+      "duration_ms": 142970,
+      "name": "Couldn't Be Worse",
+      "url": "https://open.spotify.com/track/3u1E2H69WN9FDjIaaqCN2n"
     },
     {
       "added_at": null,
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Look Who's Cryin' Now",
+        "url": "https://open.spotify.com/album/539ihh7Uywx0dY2NFAJbID"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 141724,
+      "name": "Look Who's Cryin' Now",
+      "url": "https://open.spotify.com/track/6Q0j526ymBAvizdCHmoM9x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/52ohvbnHKQp8iMybNwDd4e"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 157662,
       "name": "Upgrade",
       "url": "https://open.spotify.com/track/72jFoOulGip53D9qZWMvi2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobriety",
-        "url": "https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 126361,
-      "name": "Sobriety",
-      "url": "https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
       "duration_ms": 172710,
       "name": "Best Behavior",
       "url": "https://open.spotify.com/track/1SI0nGEG4roMUv1P3h6yNQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobriety",
+        "url": "https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 126361,
+      "name": "Sobriety",
+      "url": "https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX"
     },
     {
       "added_at": null,

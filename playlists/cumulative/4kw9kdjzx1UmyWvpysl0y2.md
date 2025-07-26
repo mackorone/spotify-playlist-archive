@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,033 songs - 2 day 9 hr 58 min
+1,034 songs - 2 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [Flying](https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Flying](https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw) | 3:04 | 2022-05-23 | 2022-08-03 |
 | [Focus](https://open.spotify.com/track/07k7gIv8XStlvnEg0RCTPl) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Focus](https://open.spotify.com/album/7Bg9AsWPf5woCRpDs8UFks) | 3:58 | 2022-04-20 | 2022-06-30 |
 | [Foggy Morning](https://open.spotify.com/track/2K3CQS80oYdLDLEmQnEk8B) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Foggy Morning](https://open.spotify.com/album/1YcTybk2o4IELX4vG55rZ0) | 4:16 | 2023-03-21 | 2023-06-14 |
-| [Follow](https://open.spotify.com/track/6C6Ixhekm3a9jSjpPM3U97) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Follow](https://open.spotify.com/album/0av69MlAvGnUj1CnFXdEui) | 3:03 | 2025-05-01 |  |
+| [Follow](https://open.spotify.com/track/6C6Ixhekm3a9jSjpPM3U97) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Follow](https://open.spotify.com/album/0av69MlAvGnUj1CnFXdEui) | 3:03 | 2025-05-01 | 2025-07-26 |
 | [Follow The Princess](https://open.spotify.com/track/5ZsxH6fMtuPuYRgf5J7bub) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Not Now Please](https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84) | [Follow The Princess](https://open.spotify.com/album/2LxCos1KHu0QscEpxALzEm) | 3:33 | 2023-09-11 | 2024-01-11 |
 | [Fool Me](https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Fool Me](https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh) | 2:13 | 2023-03-08 | 2023-05-30 |
 | [For Me \- VIP](https://open.spotify.com/track/5ZI2uKHpKza44XVsRZy7lM) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [Where U Are \(Deluxe\)](https://open.spotify.com/album/44mrlkVIPFnIttUdp1X4i3) | 3:00 | 2022-05-10 | 2022-07-21 |
@@ -811,7 +811,7 @@
 | [SLEEPER](https://open.spotify.com/track/5vkaCS15NjWCJzEAEFbP4q) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 2:52 | 2022-10-20 | 2023-01-07 |
 | [Slip Away](https://open.spotify.com/track/316uf691AwTyNmSmcr6ceL) | [Arlow](https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ), [Kid Spirit](https://open.spotify.com/artist/6biLxqgIjSH15QbzXE8v8A) | [Slip Away](https://open.spotify.com/album/7zLGfYzZkeMd6rVaYgA2c9) | 3:22 | 2022-10-18 | 2022-12-17 |
 | [Smile](https://open.spotify.com/track/5P45OGJSEG8LUsdulhp6sJ) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Lalo](https://open.spotify.com/artist/2of5gwyLkBz7D4phC09h3f) | [Smile](https://open.spotify.com/album/7qTMw9yGynm49gjq2MyUC2) | 3:25 | 2022-09-08 | 2022-11-09 |
-| [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 | 2025-05-02 |  |
+| [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 | 2025-05-02 | 2025-07-26 |
 | [Snakes & Ladders](https://open.spotify.com/track/5pTSuqFgMdCYszgtpqo5NW) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Snakes & Ladders](https://open.spotify.com/album/75SOx68GKRsHhu4ErYOe3A) | 3:02 | 2023-07-04 | 2023-12-14 |
 | [Snowflake](https://open.spotify.com/track/4VvZTuzlS4YxA47LWp589i) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Snowflake](https://open.spotify.com/album/4PczSQmF1bDcTTZw93cYjA) | 3:42 | 2024-05-28 | 2024-08-17 |
 | [SO ABSURD](https://open.spotify.com/track/4jzBFkBWHnMovc9fnND3Tm) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [SO ABSURD](https://open.spotify.com/album/5OkjBm4prdIorIAYptLT81) | 2:32 | 2023-10-04 | 2024-01-19 |
@@ -842,6 +842,7 @@
 | [Starchild](https://open.spotify.com/track/0Tc7wokiNSXzOkaQrakz57) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb), [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [Starchild](https://open.spotify.com/album/6o9JVjW0gznZ4Dzd34pbLZ) | 3:44 | 2025-01-30 | 2025-05-01 |
 | [Starlight](https://open.spotify.com/track/128BW48JmONhjYQzUUwigC) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Starlight](https://open.spotify.com/album/1x8nvALQ0zTvYavj5bz8QW) | 4:00 | 2022-08-02 | 2022-10-19 |
 | [stay](https://open.spotify.com/track/4F25Cp06qeW8WfgNBugAqv) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak](https://open.spotify.com/album/40yb4Nu3r6xYGf2jQhzWCC) | 3:51 | 2023-04-11 | 2023-07-05 |
+| [Stay Focused](https://open.spotify.com/track/4XJflZeNOUAIhm09BSEsJu) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Stay Focused](https://open.spotify.com/album/52TpkDuLJnr60jik1BSeOb) | 3:47 | 2025-07-25 |  |
 | [Stay With Me](https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Stay With Me](https://open.spotify.com/album/4kl1z0x4B1d83FaTA8L3Bc) | 3:50 | 2023-10-11 | 2024-01-26 |
 | [Stealing Fire](https://open.spotify.com/track/6aTN1V5VCHjn8q73XsXTCT) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Stealing Fire](https://open.spotify.com/album/57dawWYMECpg7ZGKWNH2q4) | 3:51 | 2024-10-18 | 2025-01-28 |
 | [STEREO](https://open.spotify.com/track/7BF0YStgkz3SbuEWkodlP5) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [STEREO](https://open.spotify.com/album/1O3gAtGtFNMteLPa1YjXAH) | 2:58 | 2023-11-29 | 2024-03-14 |

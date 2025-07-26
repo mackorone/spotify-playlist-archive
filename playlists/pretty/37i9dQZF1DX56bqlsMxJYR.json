@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1329187,
+  "num_followers": 1329614,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "From Elvis in Memphis",
         "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 261279,
       "name": "Suspicious Minds",
       "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 149373,
-      "name": "Surfin' U.S.A. - Remastered 2001",
-      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "More of The Monkees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 167373,
       "name": "I'm a Believer - 2006 Remaster",
       "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 149373,
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Hey Lover / Stand by Me",
-        "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
-      },
-      "artists": [
-        {
-          "name": "The Daughters Of Eve",
-          "url": "https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Hey Lover",
-      "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Hey Lover / Stand by Me",
+        "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
+      },
+      "artists": [
+        {
+          "name": "The Daughters Of Eve",
+          "url": "https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Hey Lover",
+      "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 126960,
       "name": "La Bamba - Single Version",
       "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
         "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 216266,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Sings Top Ten",
         "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 178440,
       "name": "What Becomes Of The Brokenhearted",
       "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6"
-      },
-      "artists": [
-        {
-          "name": "B.J. Thomas",
-          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
-        }
-      ],
-      "duration_ms": 167413,
-      "name": "Hooked On A Feeling",
-      "url": "https://open.spotify.com/track/5P6t1QIImaKAyphhE1QiY7"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 133746,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6"
+      },
+      "artists": [
+        {
+          "name": "B.J. Thomas",
+          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
+        }
+      ],
+      "duration_ms": 167413,
+      "name": "Hooked On A Feeling",
+      "url": "https://open.spotify.com/track/5P6t1QIImaKAyphhE1QiY7"
     },
     {
       "added_at": "2024-07-12 06:11:58",

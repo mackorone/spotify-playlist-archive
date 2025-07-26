@@ -4,7 +4,7 @@
 
 > Best of Desi Hip\-Hop! Cover: Raftaar & Chaar Diwaari
 
-409 songs - 22 hr 56 min
+411 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Hukam](https://open.spotify.com/track/3CslTKRGmBGgEsCUnCfn67) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Hukam](https://open.spotify.com/album/1ljKOIBhak9Howa3dSDsGF) | 3:50 | 2021-12-03 | 2023-05-26 |
 | [HUNDO](https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [HUNDO](https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN) | 2:23 | 2024-11-08 | 2024-11-23 |
 | [I Guess](https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [I Guess](https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk) | 3:06 | 2024-01-05 |  |
+| [I'M JUST A WOMAN FORREAL](https://open.spotify.com/track/67YKyDXxXYTh1nKJiKT9Uo) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [I'M JUST A WOMAN FORREAL](https://open.spotify.com/album/6zPaAMjj5t6DCDOt9dJIOw) | 3:09 | 2025-07-25 |  |
 | [IDK](https://open.spotify.com/track/5M5KcxyvfSr3aAdLSRFkxY) | [Adi](https://open.spotify.com/artist/2i8w4xEkYMvVkUypgB4k1Z), [Dishaan](https://open.spotify.com/artist/7DQId5IjxE3bl0dABc9gvT), [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [IDK](https://open.spotify.com/album/0YxyQZGWryg9pq0ScnRLh0) | 2:45 | 2025-01-13 | 2025-03-04 |
 | [if it wasn't up to me w/ Timbaland](https://open.spotify.com/track/1T3WtdkcvqvTgoz1ghReYY) | [zefaan](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [if it wasn't up to me w/ Timbaland](https://open.spotify.com/album/0844RLE2gcYhGX34rodPeN) | 2:18 | 2024-11-22 |  |
 | [Illegal](https://open.spotify.com/track/6L7EJzsVd50jBakdBHFDC4) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [DNW Vol\. 1](https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1) | 2:53 | 2024-11-22 | 2025-03-22 |
@@ -323,6 +324,7 @@
 | [Ram Ram](https://open.spotify.com/track/06EgOhKj59Jk0AUSzly2Jn) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 3:33 | 2024-06-28 | 2025-04-19 |
 | [RAUSI LAYO](https://open.spotify.com/track/2Pv4SzIwfCEKMTUHZQsWn2) | [Jamesy](https://open.spotify.com/artist/3Z3yPo3SbczpDs4FpY9ixA) | [RISKTAPE](https://open.spotify.com/album/58tPbamRoUkTyNFWLb9N7Q) | 2:57 | 2025-03-03 | 2025-05-24 |
 | [REAL SHI](https://open.spotify.com/track/4Ox50ESB2MQlybbU0HEHZF) | [OtaaL](https://open.spotify.com/artist/2EsJnc4nxzib2w52GbJfzO), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [NO REMORSE](https://open.spotify.com/album/1kAlPyvPOUkphqKNBvfnjS) | 2:29 | 2025-03-21 |  |
+| [Reckless \(feat\. Denzel Curry\)](https://open.spotify.com/track/3LrAGrfCLRDhQoDxS5Nz3B) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Monsoon Season](https://open.spotify.com/album/0AVJyPXZnYYxrqwqhcTzfX) | 2:32 | 2025-07-25 |  |
 | [REFUNDS \(feat\. Rap Demon & KR$NA\)](https://open.spotify.com/track/0S8hbC2ki67o9X9NSK8v2I) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 4:16 | 2024-04-26 | 2024-08-10 |
 | [REGRETS](https://open.spotify.com/track/4bd507BxqB2MBHzVqMGdVV) | [Jevin Gill](https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [REGRETS / PROMISES](https://open.spotify.com/album/3OYSPm7fN0pnMxwkw7pEhw) | 4:02 | 2024-12-12 |  |
 | [Rider](https://open.spotify.com/track/4HgGRoPXYSEZlyaKz26qNQ) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:02 | 2021-12-03 | 2023-01-13 |

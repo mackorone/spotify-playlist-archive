@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Maanu, Ali Sethi
 
-247 songs - 13 hr 7 min
+248 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Andheron Mein](https://open.spotify.com/track/0UzKyVyttN8GClScxoWIe9) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Andheron Mein](https://open.spotify.com/album/6lDVhXqNeGnZSKjamdgTaf) | 2:55 | 2024-06-28 | 2024-11-08 |
 | [ANGEL DUST](https://open.spotify.com/track/0AnXn5586TXikxvmMGjgFC) | [Madlock Gilani](https://open.spotify.com/artist/69QGbimZ7ZZJ9w02ET3kpx) | [ANGEL DUST](https://open.spotify.com/album/71opIMTE7qVomRda5TumWf) | 2:45 | 2024-06-28 | 2024-08-10 |
 | [Arz e Dil](https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo) | [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek), [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Arz e Dil](https://open.spotify.com/album/3CSAcvKVgNVR3rneunfvt9) | 3:35 | 2024-06-28 | 2025-01-17 |
+| [Ashna](https://open.spotify.com/track/6STG64AUnwdk6zQuNyK2lC) | [Zahoor](https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Ashna](https://open.spotify.com/album/3AqFFDWxqHQTpXYktGeObV) | 3:05 | 2025-07-25 |  |
 | [Awazein](https://open.spotify.com/track/21FsCvvfIcIJ2Ro0FaZVhB) | [Amna Askari](https://open.spotify.com/artist/1APOwzQ3mP56pRkFIueZbh) | [Awazein](https://open.spotify.com/album/6ba06qKiokFmgg7zg6Sz3o) | 3:07 | 2024-11-07 | 2025-01-17 |
 | [babu](https://open.spotify.com/track/35E2OUOy1POX7TlpujvSNB) | [bitrees](https://open.spotify.com/artist/1yPiZF9ZTUZImr0zBoNogb) | [political pollution](https://open.spotify.com/album/6DvoAkju3axxF6zsEWOvhU) | 2:26 | 2024-09-09 | 2024-09-14 |
 | [Baby](https://open.spotify.com/track/0BbbAbw9ISKQuELWzKI22B) | [Raafay Israr](https://open.spotify.com/artist/53CSmkUOcrOUOwaDW0Eh57) | [Baby](https://open.spotify.com/album/78ojKhpjH5LNqUcJcYiPiM) | 2:49 | 2024-09-09 | 2024-09-14 |

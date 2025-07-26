@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  LU Artwork: Isu Kim
 
-3,465 songs - 8 day 11 hr 6 min
+3,467 songs - 8 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2120,6 +2120,7 @@
 | [Ngada't Kamatay](https://open.spotify.com/track/0hpnE7BlImzkzCNH18g7dk) | [Es Clive](https://open.spotify.com/artist/5RpVpYJ4mBo4aowwt4C4TD) | [Ngada't Kamatay](https://open.spotify.com/album/3yAM3eP8PT6upXlPO7PM3c) | 2:59 | 2023-09-07 | 2023-09-29 |
 | [Ngiti](https://open.spotify.com/track/67gfgb76lYSkw8UBLsojFm) | [Felixxx](https://open.spotify.com/artist/3biDNHYKyXIitZUQj0SWqW) | [Ngiti](https://open.spotify.com/album/0coPmrouKYNZhTIhYbWpIm) | 2:52 | 2023-08-31 | 2023-09-22 |
 | [Ngiti](https://open.spotify.com/track/6Hc9QD61sms24Wac2f8t0g) | [Love Eat Pray](https://open.spotify.com/artist/5P28DBsKBKrmUx7PQsC3Tp) | [Ngiti](https://open.spotify.com/album/07lnSNff8NoetfiSIPoKdq) | 5:36 | 2022-05-19 | 2022-06-17 |
+| [Nicole](https://open.spotify.com/track/6eO5l7vGhr5yFSs5Aruoa3) | [H.Y.P.E.®](https://open.spotify.com/artist/49FM9DdkH5WN0zmEoVPbW5) | [Nicole](https://open.spotify.com/album/3NPsQYW9fcP3Amn5imKozk) | 3:57 | 2025-07-24 |  |
 | [Nicole](https://open.spotify.com/track/1SicMZ4lFFOhfm4xgIqSPC) | [KOLAR!S](https://open.spotify.com/artist/4zjGJb2jgFthbymEY2lx3i) | [Nicole](https://open.spotify.com/album/2KBGcFnQL3USMCiITwu7Na) | 4:29 | 2022-10-13 | 2023-02-03 |
 | [Night Bloom](https://open.spotify.com/track/5jwSZNxOQDvupDEFYEkGHU) | [Mica Caldito](https://open.spotify.com/artist/6XdTCrSBB4lV5MVqZEuygi) | [Night Bloom](https://open.spotify.com/album/4FfVdOdCpeC01MlrDkn05e) | 5:25 | 2023-06-08 | 2023-06-23 |
 | [Night Club](https://open.spotify.com/track/30vytrvYtDlNpticjEFNPg) | [SWKY Shins](https://open.spotify.com/artist/4T9mQvyEgTGdKXKbHUosGl) | [Night Club](https://open.spotify.com/album/1ngpNyWs4m6na1CujbnEZI) | 3:18 | 2024-06-06 | 2024-07-05 |
@@ -2150,6 +2151,7 @@
 | [No rules](https://open.spotify.com/track/1vRVxUN7aVAHIxV9OUBGWA) | [Gabrang](https://open.spotify.com/artist/3NXJl8OEGG2gYYYwXkWcCP) | [No rules](https://open.spotify.com/album/76JikGslA3Jfz3ac5yBYSo) | 1:37 | 2025-02-27 | 2025-04-11 |
 | [NO SCRIMMAGE](https://open.spotify.com/track/4fS2acUwaZ1yNOaznmmg2Y) | [Reybones](https://open.spotify.com/artist/6lvOqMW970QG4KjXhiWMuA) | [NO SCRIMMAGE](https://open.spotify.com/album/6bIdAEWpOpYf2xb8Gqjd5y) | 2:39 | 2023-06-29 | 2023-07-14 |
 | [No Shxt](https://open.spotify.com/track/2Qm41ylSpTIX86bnOytgB3) | [Verse Ave](https://open.spotify.com/artist/0DiSgxjqPbKuxw2otfc9kj), [Jaye Arthur](https://open.spotify.com/artist/7mcqCEN9CtJqAkudwMYd1H), [Jiro](https://open.spotify.com/artist/3E49X23tuVGPk4US3HkGl8), [Jaymes Karl](https://open.spotify.com/artist/5NBbtkLi1b0P5nez11CfzF), [Icy D](https://open.spotify.com/artist/0DrnDxPyiRdLOa75RPrA2e) | [No Shxt](https://open.spotify.com/album/0CgtxdOVexGEB1ACBKYoF0) | 3:46 | 2023-05-18 | 2023-06-02 |
+| [NO SLEEP](https://open.spotify.com/track/4bAvXYTKrGIAJRWc1tRz1p) | [Vince Noriega](https://open.spotify.com/artist/1dUYa3FKkH6WMCTSJJnl57) | [NO SLEEP](https://open.spotify.com/album/4f5nRzDmLZHIV8JgyEz2oK) | 2:59 | 2025-07-24 |  |
 | [No Slowin' Down](https://open.spotify.com/track/0TRpR6iyPlaDvKnHhWqC8Y) | [Buhay Cali](https://open.spotify.com/artist/0PQSNKPMeRPp06IzUS2za4) | [No Slowin' Down](https://open.spotify.com/album/2bNMwK9YmQ00IIVF8qB7bo) | 2:21 | 2022-10-13 | 2023-02-03 |
 | [No Stopping Anytime](https://open.spotify.com/track/5lomVpwGCtIvWClHQUrYtr) | [DALEDO](https://open.spotify.com/artist/505vOeJdZZ2GXGrfBlNbJt) | [No Stopping Anytime](https://open.spotify.com/album/4gtQEjLVIx4kvkI4Bpiq7e) | 3:16 | 2025-05-22 | 2025-06-27 |
 | [no sugar](https://open.spotify.com/track/5U99G2l1KJJXPiQs8aC6Eq) | [amplepanic](https://open.spotify.com/artist/2Y21uKeaRKjFFJN6aBtgS6) | [no sugar](https://open.spotify.com/album/6lnedEZ3qxSGC9Y4jFfykW) | 2:31 | 2022-06-16 | 2022-08-27 |

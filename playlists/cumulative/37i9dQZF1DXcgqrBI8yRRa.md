@@ -4,7 +4,7 @@
 
 > As heard on the FYP\.  Cover: Rema & Drake
 
-831 songs - 1 day 22 hr 36 min
+832 songs - 1 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2021-10-19 | 2022-07-15 |
 | [EX BOYFRIEND](https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [EX BOYFRIEND](https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq) | 2:14 | 2022-07-01 | 2023-02-04 |
 | [Excellent](https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Excellent](https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4) | 2:40 | 2025-03-31 | 2025-06-28 |
-| [Eze Abata](https://open.spotify.com/track/1aQZLDDr7jzMNbU4pzv92M) | [Amb\. Sis\. Chinyere Udoma](https://open.spotify.com/artist/4IWeky4mkNYQ8mdYq8rqp6) | [Eze Abata](https://open.spotify.com/album/6FzzVeo6Mz3MNTOMu5fy1a) | 8:16 | 2025-07-04 |  |
+| [Eze Abata](https://open.spotify.com/track/1aQZLDDr7jzMNbU4pzv92M) | [Amb\. Sis\. Chinyere Udoma](https://open.spotify.com/artist/4IWeky4mkNYQ8mdYq8rqp6) | [Eze Abata](https://open.spotify.com/album/6FzzVeo6Mz3MNTOMu5fy1a) | 8:16 | 2025-07-04 | 2025-07-26 |
 | [F o r C e r t a i n](https://open.spotify.com/track/2d93r7U06Wx7uJfU2q9Nza) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/1CTk9dG2nyaUovNIQfBzqb) | 3:39 | 2024-05-08 | 2025-01-22 |
 | [Fairy](https://open.spotify.com/track/735Ji1GzLR9nvteGdbqy8U) | [Myaap](https://open.spotify.com/artist/2QgCj5pd8aIys9jvr3A1GZ) | [Fairy](https://open.spotify.com/album/1RmNOVzmUpRHczpGYiUd10) | 2:22 | 2025-05-16 | 2025-06-28 |
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 | 2023-01-24 | 2023-02-17 |
@@ -309,6 +309,7 @@
 | [Ghetto \- Afrobeat Remix](https://open.spotify.com/track/13c0E4GpI2kv3gxgur2V15) | [E.K.E.](https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Ghetto \(Afrobeat Remix\)](https://open.spotify.com/album/4D4jNzxu1UiWShLgN2mpzx) | 2:19 | 2025-03-07 | 2025-03-08 |
 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 | 2025-04-29 | 2025-06-28 |
 | [Girl \(feat\. Wizkid\)](https://open.spotify.com/track/1a0QPUqSpP67GFJ9eAcvOE) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:54 | 2024-09-29 | 2024-10-06 |
+| [Girl on Fya](https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Girl On Fya](https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7) | 2:04 | 2025-07-25 |  |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 | 2023-07-06 | 2023-11-23 |
 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 | 2023-07-06 | 2023-11-23 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-09-08 | 2022-11-29 |

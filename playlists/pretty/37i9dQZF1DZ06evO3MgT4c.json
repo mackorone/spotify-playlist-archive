@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 436215,
+  "num_followers": 436234,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAAgxIlSxbJVwvOslQV7C+gx",
+  "snapshot_id": "aIF3gAAAAADJrm8I+D8+pbXbrFsZ3Euq",
   "tracks": [
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culture III (Deluxe)",
+        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 229434,
+      "name": "How We Coming",
+      "url": "https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Set The Trends (Remix) [feat. \u200eMigos & Juelz Santana]",
         "url": "https://open.spotify.com/album/7JZ79IAZ6xFXBqbzsb06YE"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 217815,
       "name": "We Set The Trends (feat. Migos & \u200eJuelz Santana) - Remix",
       "url": "https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture III (Deluxe)",
-        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 229434,
-      "name": "How We Coming",
-      "url": "https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k"
     },
     {
       "added_at": null,

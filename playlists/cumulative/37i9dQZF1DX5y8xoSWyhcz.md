@@ -4,13 +4,15 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,323 songs - 2 day 20 hr 15 min
+1,326 songs - 2 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 2 365 4 Me](https://open.spotify.com/track/6TtDPG6eFqDGooeyKYXaea) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80) | [Kennen's Cassettes](https://open.spotify.com/album/6ex0UfSwjQz35e3ksthUxW) | 2:54 | 2021-01-30 | 2021-04-10 |
+| [1\-800\-LOVECLUB](https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [1\-800\-LOVECLUB](https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83) | 3:28 | 2025-07-25 |  |
 | [1001](https://open.spotify.com/track/7igCO03QlSBWIJkEho0c0z) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [1001](https://open.spotify.com/album/7nqJMtyMIGyeGZk7XS0Plh) | 3:24 | 2021-04-10 | 2021-06-05 |
 | [11:45 in Nolita](https://open.spotify.com/track/1CBZo2mVGLyk1QLp6ZDXEB) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Flight Tag](https://open.spotify.com/album/2UBuPuR4sKbSRxJPtdJfR0) | 2:15 | 2022-04-22 | 2023-02-25 |
+| [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-07-25 |  |
 | [123](https://open.spotify.com/track/7dcYzQESWxba1b2Y794gYI) | [Izabel](https://open.spotify.com/artist/3YTr9y6XOl88xxHv246Vlf) | [123](https://open.spotify.com/album/0HPec1mbtwFvsoBBUX2UbY) | 2:36 | 2021-07-04 | 2021-10-02 |
 | [19](https://open.spotify.com/track/708hXPrY8mxgKSvAZUq4Yz) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [I Hate Spring](https://open.spotify.com/album/39ZrOscgMZEODhz6nEKS5Q) | 3:04 | 2021-04-30 | 2021-08-28 |
 | [19](https://open.spotify.com/track/10EdVzRkRir2KJe6N8ws65) | [Wander All Winter.](https://open.spotify.com/artist/0s6YDxpGpZ3UltZhGEYEJm), [Alexa Cirri](https://open.spotify.com/artist/7F0YTBNcxOtJz1YhGiU6xu) | [17\-19](https://open.spotify.com/album/4g5AmD1gJ0RAhEZBZUSRmt) | 3:22 | 2021-05-29 | 2021-06-12 |
@@ -101,7 +103,7 @@
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-21 | 2025-03-29 |
 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-04 |  |
 | [Back To My Bed](https://open.spotify.com/track/0NHBjddjKTkJQvEb5oTilt) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Back To My Bed](https://open.spotify.com/album/6xT0yZwxV34C84SOdIoEUh) | 3:22 | 2020-10-29\* | 2021-02-06 |
-| [Backseat](https://open.spotify.com/track/4jnpDGtUTtloIQHq8TdbNW) | [Olive B](https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz) | [Backseat](https://open.spotify.com/album/5vByKX383Uixr7KVphjpns) | 3:08 | 2023-12-15 |  |
+| [Backseat](https://open.spotify.com/track/4jnpDGtUTtloIQHq8TdbNW) | [Olive B](https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz) | [Backseat](https://open.spotify.com/album/5vByKX383Uixr7KVphjpns) | 3:08 | 2023-12-15 | 2025-07-26 |
 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 | 2022-09-09 | 2023-05-06 |
 | [Backyard Boy](https://open.spotify.com/track/0y9fkzOaaQy4Up22BGUbIp) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [BeVerly Hills BoYfRiEnd](https://open.spotify.com/album/49iY1LaAv4G5dXAs6eyeml) | 2:09 | 2020-10-29\* | 2021-02-27 |
 | [BAD KIDS](https://open.spotify.com/track/3s4WVKaSU112SfRBjvyXKp) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [BAD KIDS](https://open.spotify.com/album/3EN3hLzUkJuBTbu14HvZIz) | 1:47 | 2022-02-18 | 2022-05-20 |
@@ -400,6 +402,7 @@
 | [Fold](https://open.spotify.com/track/325sNEWNzA8q5XvQpX8CxI) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Fold](https://open.spotify.com/album/6Hta8XMZvDB2Tv2DvGFiva) | 2:55 | 2023-10-06 | 2023-12-16 |
 | [Food for Thought!](https://open.spotify.com/track/7kqND83w6pGMFLJk9FGEKG) | [Graham Maude](https://open.spotify.com/artist/6FVfuomyRl6eTey7gmnWbb) | [Food for Thought!](https://open.spotify.com/album/2I6eaGVOnYptpQYhrtAAoH) | 4:06 | 2021-07-04 | 2021-08-21 |
 | [For Me](https://open.spotify.com/track/5p7CXqeafsP4Q83zyWo2Fc) | [Yung Trip](https://open.spotify.com/artist/3juBA3263XAXLwN9ZisLll) | [For Me](https://open.spotify.com/album/51bfRLjJwKpcREYP0nWdDD) | 3:30 | 2024-03-01 | 2025-04-26 |
+| [for sale 2 own](https://open.spotify.com/track/2OgwHWIvzwoMANPqIrvYSS) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [for sale 2 own](https://open.spotify.com/album/4bQY42D7Egu7z85iNg2pz3) | 2:39 | 2025-07-25 |  |
 | [For The Good](https://open.spotify.com/track/32wNxsULE8I9Fd8aU0o7JW) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [For The Good](https://open.spotify.com/album/0RjCuHSyUalAewW06tJbCH) | 0:53 | 2022-05-27 | 2023-08-26 |
 | [Forever](https://open.spotify.com/track/1Oc7I0lPIuUDSH3fGZe7Yn) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [When I Close My Eyes](https://open.spotify.com/album/6JkrpiVpnhPrCpiVtDPN2f) | 2:49 | 2021-10-19 | 2022-01-29 |
 | [forever&more](https://open.spotify.com/track/0UMFm4ndFr3PH5VsVYnCNG) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [forever&more](https://open.spotify.com/album/2ox1YSN2qTOg170HnzqqI3) | 2:55 | 2021-07-31 | 2022-01-15 |
@@ -644,7 +647,7 @@
 | [Jet Lag](https://open.spotify.com/track/3AvUUJ8HopzSeDTi9aFiCN) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Jet Lag](https://open.spotify.com/album/3OACbRi43tEvh5GrPsWrJq) | 2:41 | 2021-02-06 | 2021-03-27 |
 | [Judge Me](https://open.spotify.com/track/0sWwA3apfTCkLMMrivpPeJ) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Judge Me](https://open.spotify.com/album/1koBXSMqbuHkIbQhaTQ7V5) | 3:20 | 2022-02-04 | 2022-03-19 |
 | [Julian, king of manhattan](https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:08 | 2022-07-22 | 2023-10-21 |
-| [july](https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century: the epilogue](https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11) | 2:45 | 2023-12-15 |  |
+| [july](https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century: the epilogue](https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11) | 2:45 | 2023-12-15 | 2025-07-26 |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-07-26 |  |
 | [jupiter](https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [DIVE \(deluxe\)](https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6) | 3:02 | 2025-01-24 |  |
 | [Just Another Thursday](https://open.spotify.com/track/6IK8tNU8rayRzWblczyUcp) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Just Another Thursday](https://open.spotify.com/album/4pERR8qSsioJ2JwV5WD5Mp) | 3:30 | 2023-02-24 | 2024-07-06 |
@@ -1226,7 +1229,7 @@
 | [Uncall It](https://open.spotify.com/track/6dJC1unKk2kWnaA5goiXly) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Uncall It](https://open.spotify.com/album/5JdqxFr49wq2SnOCObPYA4) | 2:36 | 2022-06-03 | 2022-10-15 |
 | [under the sofa](https://open.spotify.com/track/7ixdafOgj1QY1KM6t18RRU) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [waiting room](https://open.spotify.com/album/43x88JZCCwG3IfXHlyXc6A) | 1:39 | 2023-03-31 | 2023-07-29 |
 | [Undershare \(feat\. ELIO\)](https://open.spotify.com/track/7Mdvvkp2wAHUnFwdZ6nrr1) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Undershare \(feat\. ELIO\)](https://open.spotify.com/album/6kQpLd2JF29RNgBjJ8fFfv) | 3:39 | 2022-09-16 | 2023-11-11 |
-| [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-28 |  |
+| [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-28 | 2025-07-26 |
 | [UNKNOWN](https://open.spotify.com/track/0Z8h8JgHnvyYXY0VLT0YXH) | [prettyboys](https://open.spotify.com/artist/2gEcnCymek6QgS9DfQF3UZ) | [UNKNOWN](https://open.spotify.com/album/3indV6cCInris0c4k2cWpy) | 3:32 | 2021-10-30 | 2022-02-15 |
 | [Unseen](https://open.spotify.com/track/3YiB0GUZX89rt6MoXS2XMf) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [Unseen](https://open.spotify.com/album/7uMgVPX5AGSStBDgmOf6q4) | 2:49 | 2022-05-13 | 2023-07-08 |
 | [untitled](https://open.spotify.com/track/4pJcFEzvPTTpxAncONKdrk) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [untitled](https://open.spotify.com/album/1AzTLu2HMYvWizUxKPMKNP) | 2:44 | 2021-04-24 | 2021-09-18 |

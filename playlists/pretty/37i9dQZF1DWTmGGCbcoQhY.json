@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1368368,
+  "num_followers": 1368504,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,38 @@
   },
   "snapshot_id": "aCbUbwAAAADn7UDGhEiKKcNYU2/zL5iD",
   "tracks": [
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/5RBuvCYvuCfjews8uBowfU"
+      },
+      "artists": [
+        {
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+        }
+      ],
+      "duration_ms": 287896,
+      "name": "En Mi Escritorio (La Carta)",
+      "url": "https://open.spotify.com/track/2C6li2i3dNYUJdkwFznNw3"
+    },
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
@@ -31,50 +63,18 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/5RBuvCYvuCfjews8uBowfU"
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
       },
       "artists": [
         {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+          "name": "Grupo Cumbia Nova",
+          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
         }
       ],
-      "duration_ms": 287896,
-      "name": "En Mi Escritorio (La Carta)",
-      "url": "https://open.spotify.com/track/2C6li2i3dNYUJdkwFznNw3"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Destilando Amor",
-        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Todo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
+      "duration_ms": 253884,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -111,18 +111,18 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+        "name": "Destilando Amor",
+        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
         }
       ],
-      "duration_ms": 216106,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
+      "duration_ms": 247893,
+      "name": "Todo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -143,18 +143,18 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
-          "name": "Grupo Cumbia Nova",
-          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 253884,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
+      "duration_ms": 216106,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 267415,
       "name": "No Me Llames Mas",
       "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "17 A\u00f1os",
-      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Los Reyes De Los Sonidos",
         "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 204680,
       "name": "Besar Tu Piel",
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "17 A\u00f1os",
+      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "20 Rosas",
-      "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 305253,
       "name": "\u00c1ngel Malvado",
       "url": "https://open.spotify.com/track/3VHLSQsQXQWnEMQwrM5R8p"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "20 Rosas",
+      "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
-      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Lo Mas Ka-Bron Sonidero",
         "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 300906,
       "name": "Soy Maraquero",
       "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
+      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Sin Mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX"
-      },
-      "artists": [
-        {
-          "name": "Mexikolombia",
-          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
-        }
-      ],
-      "duration_ms": 196597,
-      "name": "Al\u00e9jate de Mi",
-      "url": "https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "El Ritmo Mamalon",
         "url": "https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 193375,
       "name": "El Ritmo Mamalon",
       "url": "https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Sin Mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX"
+      },
+      "artists": [
+        {
+          "name": "Mexikolombia",
+          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
+        }
+      ],
+      "duration_ms": 196597,
+      "name": "Al\u00e9jate de Mi",
+      "url": "https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR"
+        "name": "Fake Lover",
+        "url": "https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz"
       },
       "artists": [
         {
           "name": "Super Lamas",
           "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        },
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
         }
       ],
-      "duration_ms": 253333,
+      "duration_ms": 204280,
       "name": "Todo Lo Encuentro En Ti",
-      "url": "https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds"
+      "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1123,22 +1127,18 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Fake Lover",
-        "url": "https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz"
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR"
       },
       "artists": [
         {
           "name": "Super Lamas",
           "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        },
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
         }
       ],
-      "duration_ms": 204280,
+      "duration_ms": 253333,
       "name": "Todo Lo Encuentro En Ti",
-      "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
+      "url": "https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1944,9 +1944,9 @@
           "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 207266,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
+      "duration_ms": 228400,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1967,6 +1967,22 @@
       "duration_ms": 299284,
       "name": "Estupido (feat. Janeth Guadalupe)",
       "url": "https://open.spotify.com/track/7jkSmurPDivppMGamGnmdN"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Del Barrio Para El Barrio (Vol. 1)",
+        "url": "https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy"
+      },
+      "artists": [
+        {
+          "name": "Bohio",
+          "url": "https://open.spotify.com/artist/3jqJRfRSqVyayyOCOuGwwt"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Enbrujo De Cumbia",
+      "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -2003,6 +2019,22 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
         "name": "Exitos Sonideros, Vol. 1",
         "url": "https://open.spotify.com/album/10vSYmCwnxyQXCeMtq6a92"
       },
@@ -2015,38 +2047,6 @@
       "duration_ms": 224104,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/10UiP7h6szsk0CitFO8NM2"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Del Barrio Para El Barrio (Vol. 1)",
-        "url": "https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy"
-      },
-      "artists": [
-        {
-          "name": "Bohio",
-          "url": "https://open.spotify.com/artist/3jqJRfRSqVyayyOCOuGwwt"
-        }
-      ],
-      "duration_ms": 199653,
-      "name": "Enbrujo De Cumbia",
-      "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
     },
     {
       "added_at": "2025-05-16 06:00:15",

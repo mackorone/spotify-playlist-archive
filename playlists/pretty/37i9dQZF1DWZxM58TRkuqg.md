@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: MALIQ & D'Essentials
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,760 likes - 102 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,767 likes - 102 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jalan, Pulang](https://open.spotify.com/track/4ZxPYWXCWzyrqCfMoqPbSm) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Jalan, Pulang](https://open.spotify.com/album/5p8fWLTb6EF1VyKigzsKP1) | 3:24 |
 | 2 | [Sudah Tau](https://open.spotify.com/track/3f2ThU1SdM8bLtdyGdGbh9) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Sudah Tau](https://open.spotify.com/album/7btfnFJXpGmUgDdbs1iUAX) | 4:11 |
-| 3 | [123456](https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [123456](https://open.spotify.com/album/23mJFFYLo7WPVPaHSrG4z3) | 3:24 |
+| 3 | [123456 \(New Version\)](https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [123456 \(New Version\)](https://open.spotify.com/album/23mJFFYLo7WPVPaHSrG4z3) | 3:24 |
 | 4 | [like an orchid / kembali \- Baila's Lullaby](https://open.spotify.com/track/0Pvg96gOZIBHrlcWfXivQm) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [orchids \(lullabies\)](https://open.spotify.com/album/5xAs8lHAgIS31jlaXBnYYD) | 2:34 |
 | 5 | [Tanda Tanya](https://open.spotify.com/track/2lkSPwVOSK1HJZwCG12O9w) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanda Tanya](https://open.spotify.com/album/3ceYHINL0M5RcqWMbr6f7j) | 3:02 |
 | 6 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 |

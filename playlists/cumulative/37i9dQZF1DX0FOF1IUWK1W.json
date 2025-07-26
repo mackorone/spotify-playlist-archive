@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Mc Pedrinho e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Panda, \u00cdcaro e Gilmar e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -3271,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "Ao Vivo Em Uberl\u00e2ndia Vol. 01",
+        "url": "https://open.spotify.com/album/6nVk02INL9nxhppU0Sqi5o"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165452,
+      "name": "Dama do Baralho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Nj2zoYULwyYnJTU3AZf6B"
+    },
+    {
+      "album": {
         "name": "DAN\u00c7A PRA ME PROVOCAR",
         "url": "https://open.spotify.com/album/5LjiaU620s0bLVN0zf57O5"
       },
@@ -3880,7 +3898,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 75461,
       "name": "DIA DEL\u00cdCIA",
       "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
@@ -7940,7 +7958,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 103727,
       "name": "MONTAGEM BAIL\u00c3O",
       "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
@@ -13678,6 +13696,32 @@
       "duration_ms": 191523,
       "name": "Vai L\u00e1 Em Casa Hoje",
       "url": "https://open.spotify.com/track/2wSCalnGOnXdAJC0Fn8OUY"
+    },
+    {
+      "album": {
+        "name": "VAI NO CH\u00c3O BANDIDA",
+        "url": "https://open.spotify.com/album/7Cm2qf3lcohOwS1DZS5HiZ"
+      },
+      "artists": [
+        {
+          "name": "Dj Guuh",
+          "url": "https://open.spotify.com/artist/58SW6CcsQsZthOpEf0KASk"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Mc Talib\u00e3",
+          "url": "https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "VAI NO CH\u00c3O BANDIDA",
+      "url": "https://open.spotify.com/track/5bPVaf87iW31GGfmk2yqsd"
     },
     {
       "album": {

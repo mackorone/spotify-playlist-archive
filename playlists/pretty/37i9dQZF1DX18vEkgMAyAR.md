@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,507 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,502 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 42 | [So Cool](https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9) | [So Cool](https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx) | 3:27 |
 | 43 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
 | 44 | [Can't Hurry Love](https://open.spotify.com/track/7385EDnK2hsXZT1yBUX4EB) | [Lloyd Cele](https://open.spotify.com/artist/3Ep2ZktnezHzTyx4oAFddg) | [Can't Hurry Love](https://open.spotify.com/album/5p9MT9gZX1J7X4QLj7A414) | 3:01 |
-| 45 | [Queen \- Dan Kye Remix](https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Queen \(Dan Kye Remix\)](https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K) | 5:27 |
-| 46 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 |
-| 47 | [Demons](https://open.spotify.com/track/2kOoRJBEfRmF8jdBbxmhFl) | [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN), [Luna Florentino](https://open.spotify.com/artist/3qgDJXJmuGCfHwWB8cR1oS) | [Demons](https://open.spotify.com/album/3Xm5k3rl3jUOOjqd9EqUYw) | 2:47 |
-| 48 | [The Loudest Thing](https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps) | [Kris Angelis](https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [The Loudest Thing](https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF) | 2:52 |
+| 45 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 |
+| 46 | [Queen \- Dan Kye Remix](https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Queen \(Dan Kye Remix\)](https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K) | 5:27 |
+| 47 | [The Loudest Thing](https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps) | [Kris Angelis](https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [The Loudest Thing](https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF) | 2:52 |
+| 48 | [Demons](https://open.spotify.com/track/2kOoRJBEfRmF8jdBbxmhFl) | [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN), [Luna Florentino](https://open.spotify.com/artist/3qgDJXJmuGCfHwWB8cR1oS) | [Demons](https://open.spotify.com/album/3Xm5k3rl3jUOOjqd9EqUYw) | 2:47 |
 | 49 | [Hold Your Hand](https://open.spotify.com/track/4BrrFkmWqNgwPQZRS196bO) | [Kyle Deutsch](https://open.spotify.com/artist/5TlcIPcqqUiWfHmGOOAGOL), [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh), [Paniik](https://open.spotify.com/artist/37V3VUWtqtyZS6Rw3IdEzt) | [Hold Your Hand](https://open.spotify.com/album/6E3ZQtNmLcFu3VDEPKtHWb) | 3:00 |
 | 50 | [You & I](https://open.spotify.com/track/1KyLPWLT2H7xMVk92YineV) | [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9), [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR) | [La Musica](https://open.spotify.com/album/6XazW7KRkCIZ4Tp7XjoYfG) | 3:32 |
 | 51 | [Never Too Far](https://open.spotify.com/track/6EfVcvhMtH0PA7JVyD8TJb) | [Njakes](https://open.spotify.com/artist/291CLsx8NHL2Aq1T9jgFCe), [whoswyLee](https://open.spotify.com/artist/6BleoYognZGVWnzcwannnO) | [Jump With Abandon](https://open.spotify.com/album/7nqJc3yvF0NLJvGyLylBi6) | 3:55 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 55 | [Watermelon Sugar](https://open.spotify.com/track/1e9oZCCiX42nJl0AcqriVo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Watermelon Sugar](https://open.spotify.com/album/659e2eKbsMH0vYCs5qgFmy) | 2:54 |
 | 56 | [Future](https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Everything's Blurred But You](https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O) | 3:29 |
 | 57 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 |
-| 58 | [Don't Answer](https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don't Answer](https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6) | 3:42 |
-| 59 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/2lujnKdLiRVjcueFs648AW) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5qfhVKlZEaGiHFCZ86oKts) | 2:42 |
+| 58 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/2lujnKdLiRVjcueFs648AW) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5qfhVKlZEaGiHFCZ86oKts) | 2:42 |
+| 59 | [Don't Answer](https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don't Answer](https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6) | 3:42 |
 | 60 | [My Way](https://open.spotify.com/track/67CZNsG3SQ1S8O2BsjTo4R) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [My Way](https://open.spotify.com/album/1l9oYbtssYCsKBChiBseJm) | 3:30 |
 
 Snapshot ID: `Zj2/8QAAAACqUivLBDm5DW6+8XO84A8Z`

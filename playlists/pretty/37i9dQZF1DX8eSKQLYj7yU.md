@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 
 > Celebrate the season with your favorite bluegrass artists from yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,977 likes - 108 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,976 likes - 108 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 | 25 | [Noel](https://open.spotify.com/track/6rBVHLd5C59n3e1uAQRA9W) | [Darin and Brooke Aldridge](https://open.spotify.com/artist/5pwpynH9ZDP8ECECyMJFHK) | [Hometown Holiday](https://open.spotify.com/album/4AL5JfV4LMi0caIWNCr0B8) | 4:06 |
 | 26 | [Tis The Season \(To Stir The Pot\)](https://open.spotify.com/track/0c0aHFw1S9mmpiEXCXVa8S) | [Rachel McIntyre Smith](https://open.spotify.com/artist/1z8eldHhK2nqKa26VIcJde) | [Tis The Season \(To Stir The Pot\)](https://open.spotify.com/album/74NpXLeZdCW3oVvLcsuXeu) | 2:45 |
 | 27 | [Mountain City Christmas](https://open.spotify.com/track/0T4cwulcoGwfH7W2yfgbAu) | [The Kody Norris Show](https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha) | [Mountain City Christmas](https://open.spotify.com/album/1a0NinAKIeM3p9ClgY8IT9) | 2:18 |
-| 28 | [The Little Drummer Boy](https://open.spotify.com/track/2bZWdzlwiKDGmqZyJZ13Ue) | [New Direction](https://open.spotify.com/artist/1ZQaFElI3bcS8iO1FxOB6q) | [Is it Christmas Yet?](https://open.spotify.com/album/0oAWk3IeZV5XnmOCVkZzs1) | 3:49 |
+| 28 | [The Little Drummer Boy](https://open.spotify.com/track/2bZWdzlwiKDGmqZyJZ13Ue) | [New Direction](https://open.spotify.com/artist/1ZQaFElI3bcS8iO1FxOB6q), [Brice Hursey](https://open.spotify.com/artist/7g9KP9F6MZtTygtRJpozNV), [Sarah Drye](https://open.spotify.com/artist/3uj2I7SBEiHSR2ZQvgGl7M) | [Is it Christmas Yet?](https://open.spotify.com/album/0oAWk3IeZV5XnmOCVkZzs1) | 3:49 |
 | 29 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/4LcV6eQmlIhg6GmsMZk80I) | [Tim and James](https://open.spotify.com/artist/1DFceeewfUdsmpFhhlAoQz) | [A Tim and James Christmas](https://open.spotify.com/album/0EKETzcEkbK9H7GtDpPPk1) | 2:51 |
 | 30 | [White Christmas](https://open.spotify.com/track/3Tzb4Ke9hd7Sb2GdXa7h8l) | [Claire Lynch Band](https://open.spotify.com/artist/2DRNg4SA1jQn4DRGAH0f3U) | [Holiday!](https://open.spotify.com/album/0ecnmzXmUVhrfdQ8nxWLq1) | 4:34 |
 | 31 | [It's The Most Wonderful Time of The Year](https://open.spotify.com/track/3RRX56GEJCVKShHsSwnT4m) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [It's The Most Wonderful Time of The Year](https://open.spotify.com/album/7mfH9Dtk2szE2dnyrJBZdY) | 3:16 |

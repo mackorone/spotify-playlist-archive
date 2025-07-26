@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-322 songs - 18 hr 19 min
+323 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Little Sly](https://open.spotify.com/track/2ATyWYSGQCmVLPPQQ7lNzG) | [Saica](https://open.spotify.com/artist/7qEEzVU8qrl6cgQypPkvK5) | [A Little Sly](https://open.spotify.com/album/2aFR7ecyJ3eAXDk5I8Z3NS) | 2:01 | 2025-05-05 |  |
 | [Absolute Territory](https://open.spotify.com/track/32zqrDpYvNr8BuOClDpavD) | [Ken Ashcorp](https://open.spotify.com/artist/1x2YcZB1QpRZB3HT9gdUCQ) | [Absolute Territory](https://open.spotify.com/album/2N8HOZgX1QWpighqf7Tvo7) | 4:28 | 2022-09-24 |  |
 | [ACHE IN PULSE](https://open.spotify.com/track/0Iqcphch06zxuUFcljKjaI) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID Concept mini album 〈Episode 1〉『AZUL』](https://open.spotify.com/album/4ya3KKbjM08YUpv1IiCvp0) | 3:28 | 2023-11-08 |  |
+| [Aishite Aishite Aishite](https://open.spotify.com/track/4gpvY7b9wHA9G1ZsMDu15b) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 4:18 | 2025-07-25 |  |
 | [aishiteitanoni](https://open.spotify.com/track/16kqUisnDZz1DC789Ks1lE) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [aishiteitanoni](https://open.spotify.com/album/4hDLuHOt6Mo98I2SVufLji) | 3:39 | 2025-04-09 |  |
 | [Akujiki](https://open.spotify.com/track/565shq9eUdoknV8W0rUViP) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [COLONY](https://open.spotify.com/album/495aKAiAHJRIia2Ks5fRCK) | 3:23 | 2024-12-03 |  |
 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 | 2022-09-02 |  |

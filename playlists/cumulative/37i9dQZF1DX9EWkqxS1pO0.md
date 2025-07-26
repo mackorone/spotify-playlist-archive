@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Encam Potkal
 
-271 songs - 13 hr 37 min
+272 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Hayal Etmek Güzel \- Surf Arabesk 1.3](https://open.spotify.com/track/2ETGa2vlZx4UBySs8S9qum) | [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb), [Abkountry](https://open.spotify.com/artist/5aqQNbKTyAIbtWysPRhF2S) | [Hayal Etmek Güzel \(Surf Arabesk 1.3\)](https://open.spotify.com/album/1XxwfbQ5Km783RjWnm72HL) | 4:29 | 2024-06-20 |  |
 | [Hayran](https://open.spotify.com/track/7w3J1DNzTMGQLcgps5iDGO) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Hayran](https://open.spotify.com/album/5E7qFRELNfuGFoVy5ABB75) | 1:56 | 2025-03-06 | 2025-05-02 |
 | [Hayran](https://open.spotify.com/track/46achL0ohwWzbyC4VvNR01) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Hayran](https://open.spotify.com/album/6oFOEKBQnaHhNcQTKUv7vk) | 2:12 | 2025-01-09 | 2025-07-18 |
-| [Her Şey Ters Gidiyor](https://open.spotify.com/track/53es3MIKs7IAVvZ9Ok78gV) | [Derin Mevzu](https://open.spotify.com/artist/72Q2kgEHumnBXH25PYPY3z) | [Her Şey Ters Gidiyor](https://open.spotify.com/album/5wu1jC1x4UdsYc06pBOOG5) | 2:14 | 2024-11-14 |  |
+| [Her Şey Ters Gidiyor](https://open.spotify.com/track/53es3MIKs7IAVvZ9Ok78gV) | [Derin Mevzu](https://open.spotify.com/artist/72Q2kgEHumnBXH25PYPY3z) | [Her Şey Ters Gidiyor](https://open.spotify.com/album/5wu1jC1x4UdsYc06pBOOG5) | 2:14 | 2024-11-14 | 2025-07-26 |
 | [Hiç Sevmedim De](https://open.spotify.com/track/7BwBF2GXWfmmstmHlFilsW) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Hiç Sevmedim De](https://open.spotify.com/album/2Mc3fYrXXYtzzcRcShgEEf) | 2:44 | 2025-04-18 | 2025-05-16 |
 | [HİÇ Mİ?](https://open.spotify.com/track/4hcUG6G5C81RXjWBShj6wM) | [Öykü](https://open.spotify.com/artist/4RhGRpWkUswnIi6vHMa0Jr) | [HİÇ Mİ?](https://open.spotify.com/album/4wFdN1fXaF83zbizlgu5eJ) | 2:09 | 2025-07-15 |  |
 | [Işığın Kendisi](https://open.spotify.com/track/7HyH3W2vcx9A4i5BG0EZd7) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Işığın Kendisi](https://open.spotify.com/album/2F9LlyUGEDDFvu4busTwHX) | 3:05 | 2025-03-06 | 2025-04-13 |
@@ -172,6 +172,7 @@
 | [Sen Bana Gel](https://open.spotify.com/track/3c2XYZJJGNeYgeGHVhXybE) | [Derin Mevzu](https://open.spotify.com/artist/72Q2kgEHumnBXH25PYPY3z) | [Sen Bana Gel](https://open.spotify.com/album/7LW9aMu7Rr5CBdOlVJhbTB) | 2:35 | 2025-04-10 | 2025-05-02 |
 | [Sen Bela Mısın?](https://open.spotify.com/track/3ewPneS2cQMOAzo8QahwA2) | [Alaca](https://open.spotify.com/artist/1sUkLgaVgfmxRqlaZpLOHP), [Ahmet Balci](https://open.spotify.com/artist/0V8MPLRHPb0ei3CcLxoxQU) | [Sen Bela Mısın?](https://open.spotify.com/album/2hw3ZM855f9rTFPSkx776f) | 2:07 | 2025-05-29 | 2025-07-18 |
 | [Sen De Duysan](https://open.spotify.com/track/2AjxQZgvrh0URRqVlDv4SE) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [Sen De Duysan](https://open.spotify.com/album/03NTqiplIlk3pWEDAgrQX4) | 3:27 | 2024-06-20 | 2024-09-07 |
+| [sen o değilsin](https://open.spotify.com/track/3Xg9NYwlg81098vb43VhvR) | [Robin](https://open.spotify.com/artist/5PwJjK4M32I7e467AwW67Y) | [sen o değilsin](https://open.spotify.com/album/13MsEj0bmpLttD1BIQ6izF) | 3:08 | 2025-07-24 |  |
 | [sendin izlerim](https://open.spotify.com/track/4bQtBQfboIxsdKwLP7Do8s) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa), [Cotard](https://open.spotify.com/artist/0OR34vxRvcPuyDK9s7EuQ8) | [mani](https://open.spotify.com/album/39HaoKUrwGZnMpxgiqPvpH) | 2:35 | 2024-06-20 | 2024-09-06 |
 | [Seni Sevmek Kaldı](https://open.spotify.com/track/5BEqptwkS8PnvKY6s5hqJF) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [Seni Sevmek Kaldı](https://open.spotify.com/album/4QsAQhdmqreEcmJ7tJ2BDK) | 3:02 | 2024-08-15 | 2024-10-24 |
 | [Seni Unutamadım](https://open.spotify.com/track/2TSihn4foVahsS8Uau6876) | [Piiz](https://open.spotify.com/artist/3K2LeXoWGM9YnbtrRj4WS3) | [Seni Unutamadım](https://open.spotify.com/album/4JHiqViEOv2I69jxRxlypN) | 3:32 | 2024-09-27 | 2024-10-09 |

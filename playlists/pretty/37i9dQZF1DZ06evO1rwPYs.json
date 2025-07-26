@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 105927,
+  "num_followers": 105937,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAADjkfGkuCvWRoLAHPsd+7QQ",
+  "snapshot_id": "aIF3gAAAAAATSrTxqoafSP2Zf4d0cz5W",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida Es Un Carnaval (Baile Total)",
-        "url": "https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Az\u00facar Negra",
-      "url": "https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carnaval De Exitos",
         "url": "https://open.spotify.com/album/4O1Y013q4dkng1GGwaEgwM"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 232400,
       "name": "Que Le Den Candela",
       "url": "https://open.spotify.com/track/1gMOBywJqIUBLOnFpGqMLK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Vida Es Un Carnaval (Baile Total)",
+        "url": "https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "Az\u00facar Negra",
+      "url": "https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw"
     },
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Din\u00e1mica!",
+        "url": "https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "No Hay Nada Mejor",
+      "url": "https://open.spotify.com/track/5CMpOH70qypRlGJBqTxUFx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2En1",
         "url": "https://open.spotify.com/album/3LTZ2KOyO71W1p5LepHuSM"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 358226,
       "name": "El #100",
       "url": "https://open.spotify.com/track/1KtmahhSHKA4iGAIrBi88P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Din\u00e1mica!",
-        "url": "https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "No Hay Nada Mejor",
-      "url": "https://open.spotify.com/track/5CMpOH70qypRlGJBqTxUFx"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Az\u00facar! Caliente",
-        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 180973,
-      "name": "En El Baj\u00edo",
-      "url": "https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuba's Queen Of Rhythm",
         "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 163666,
       "name": "Tuya, Y M\u00e1s Que Tuya",
       "url": "https://open.spotify.com/track/3LOXS93O7RRoAUatm5DBps"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Az\u00facar! Caliente",
+        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 180973,
+      "name": "En El Baj\u00edo",
+      "url": "https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva la Reina de la Salsa",
-        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Bemba Color\u00e1",
-      "url": "https://open.spotify.com/track/6Accdr7Gaply5Ottq7ZmKV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuba's Queen Of Rhythm",
         "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Viva la Reina de la Salsa",
+        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Bemba Color\u00e1",
+      "url": "https://open.spotify.com/track/6Accdr7Gaply5Ottq7ZmKV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE"
       },
@@ -779,26 +779,6 @@
       "duration_ms": 278253,
       "name": "Vasos Vacios",
       "url": "https://open.spotify.com/track/6fbXUe5U907TzwyLeUw4NA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Tierna, Conmovedora, Bamboleadora",
-        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Desvelo De Amor",
-      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": null,
@@ -843,6 +823,26 @@
       "duration_ms": 159266,
       "name": "Y Mi Negro Esta Cansao",
       "url": "https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Tierna, Conmovedora, Bamboleadora",
+        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Desvelo De Amor",
+      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": null,

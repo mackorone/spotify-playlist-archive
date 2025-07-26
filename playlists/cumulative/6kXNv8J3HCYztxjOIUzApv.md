@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-300 songs - 18 hr 47 min
+302 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Needles](https://open.spotify.com/track/6V8oQXzymTzpEZOsiBiyJT) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:13 | 2023-05-17 |  |
 | [Never Gonna Learn](https://open.spotify.com/track/0XHnYbXteyBDfVvk9EGaPu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:18 | 2021-10-01 | 2023-01-04 |
 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR) | [Never Gonna Learn EP](https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW) | 3:34 | 2022-01-24 |  |
+| [New Disease](https://open.spotify.com/track/17mzKJARvVNR7eDyPqBpIG) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [New Disease](https://open.spotify.com/album/23L4tjuxXU9eTZ1Zs1VZDf) | 3:13 | 2025-07-25 |  |
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2022-03-08 | 2023-01-04 |
 | [Nightmare](https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Nightmare](https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc) | 3:07 | 2023-02-03 |  |
 | [Not My Problem \(feat\. Travis Barker\)](https://open.spotify.com/track/6bh6ikJRlhImSFjsNBJy5b) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Not My Problem \(feat\. Travis Barker\)](https://open.spotify.com/album/4fXdiWjzTk2avnWi9WKSAr) | 3:25 | 2021-08-20 | 2024-04-10 |
@@ -243,6 +244,7 @@
 | [The American Nightmare](https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Silver Scream](https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz) | 4:09 | 2022-01-24 |  |
 | [The Boom Went The Boom \(feat\. Phil Collen\)](https://open.spotify.com/track/5kC045Ohl32Sn4a2vOjsUt) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd), [Phil Collen](https://open.spotify.com/artist/5ZedcFUHfB6ejLwD668YpN) | [The Boom Went The Boom \(feat\. Phil Collen\)](https://open.spotify.com/album/5V36Ru7RN4gc8bAWEnKODF) | 3:39 | 2023-10-06 |  |
 | [The Comeback \(feat\. Craig Mabbitt of Escape The Fate\)](https://open.spotify.com/track/6IFN3NtLjOHFpTmgZfGz2N) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [The Comeback \(feat\. Craig Mabbitt of Escape The Fate\)](https://open.spotify.com/album/2Rwy7b6mf4bstYZ7eUe2Hq) | 4:15 | 2021-08-20 |  |
+| [The Duelist](https://open.spotify.com/track/3iQLR1D3L0iremvqRF0HXE) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Duelist](https://open.spotify.com/album/4OgDOuY3NUpKbG0YSYl2kv) | 3:55 | 2025-07-25 |  |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 | 2023-01-03 |  |
 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 | 2022-08-19 |  |
 | [The End](https://open.spotify.com/track/30ixK9SJmGcMcSAP4Ksf8G) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Battles](https://open.spotify.com/album/65sRfjCFFqSrVYY7YjYe6y) | 3:58 | 2021-08-20 |  |

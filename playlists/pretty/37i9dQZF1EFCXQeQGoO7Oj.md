@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,156 likes - 477 songs - 1 day 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,153 likes - 477 songs - 1 day 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 99 | [Ghost Town](https://open.spotify.com/track/0ALTA9qTr8AQ8BmGifY2O8) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High](https://open.spotify.com/album/6hN2y18fg4KVGMaltxfdXZ) | 3:28 |
 | 100 | [Greedy](https://open.spotify.com/track/7aLT0tLcS40Penaplqu2cZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 3:34 |
 | 101 | [Dancing With Our Hands Tied](https://open.spotify.com/track/7I7JbDv63ZJJsSi24DyJrz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:31 |
-| 102 | [bad idea](https://open.spotify.com/track/7EQpvVujgytLVY8vKiDHAg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 4:27 |
-| 103 | [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:53 |
+| 102 | [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:53 |
+| 103 | [bad idea](https://open.spotify.com/track/7EQpvVujgytLVY8vKiDHAg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 4:27 |
 | 104 | [New Romantics](https://open.spotify.com/track/0qAIiGFKLdV1xpNlEhjpq8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:50 |
 | 105 | [That Way \- Bonus Track](https://open.spotify.com/track/2ajzBr7vwHTEBeqDzcsNRC) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:32 |
 | 106 | [Va Va Voom](https://open.spotify.com/track/2jATUzETZL49e6SywauZKE) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded \(Deluxe\)](https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8) | 3:03 |
@@ -198,8 +198,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 188 | [The One](https://open.spotify.com/track/44kgtDJyAFv4Z01z7bIxco) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:46 |
 | 189 | [Who's In Your Head](https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Who's In Your Head](https://open.spotify.com/album/3olWRKG2KFhJoWsSRpCpja) | 3:03 |
 | 190 | [Nobody Love](https://open.spotify.com/track/0AXym3uMYhCOngivsnwjkz) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Unbreakable Smile](https://open.spotify.com/album/30QwSnTFUhCGee32ng1tvL) | 3:23 |
-| 191 | [Army](https://open.spotify.com/track/1PzKBUHhyD035EQM9GNMfV) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:57 |
-| 192 | [dandelion](https://open.spotify.com/track/3fxDcaiomBMomHdMeCSsZ2) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(a cappella version\)](https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD) | 3:24 |
+| 191 | [dandelion](https://open.spotify.com/track/3fxDcaiomBMomHdMeCSsZ2) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(a cappella version\)](https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD) | 3:24 |
+| 192 | [Army](https://open.spotify.com/track/1PzKBUHhyD035EQM9GNMfV) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:57 |
 | 193 | [Coloratura](https://open.spotify.com/track/0jH7gF7KCk2Lom9gimaKms) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 10:17 |
 | 194 | [Show Me Love \- Radio Version](https://open.spotify.com/track/3gKL2RRGnquktudCkkBC0X) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/3cGycfFRPPd5uCxVkn284R) | 3:51 |
 | 195 | [We've Got It Goin' On \- Radio Edit](https://open.spotify.com/track/2rtDTRFjBoqyj2rgi5mOAF) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:39 |
@@ -250,8 +250,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 240 | [IF NOT FOR YOU](https://open.spotify.com/track/5UdJ8CYTtVk5zzqhbPMA18) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:14 |
 | 241 | [For Now](https://open.spotify.com/track/2kVIolfEUjIiYDEPZLTQHg) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:36 |
 | 242 | [Vacation](https://open.spotify.com/track/326ICMkp2gWSYcJdba9s7d) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Vacation](https://open.spotify.com/album/1CPu7lwOIp84AQyBtQvbpg) | 3:37 |
-| 243 | [the boy is mine \(with Brandy, Monica\) \- Remix](https://open.spotify.com/track/4TkvdQwcxXxusi8JG6mMj7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [eternal sunshine \(slightly deluxe and also live\)](https://open.spotify.com/album/3L2iweH45rVdTBPldbY6dp) | 3:33 |
-| 244 | [It's Gotta Be You](https://open.spotify.com/track/2vZALCthE0GRzGXXGK67Qt) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 2:57 |
+| 243 | [It's Gotta Be You](https://open.spotify.com/track/2vZALCthE0GRzGXXGK67Qt) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 2:57 |
+| 244 | [the boy is mine \(with Brandy, Monica\) \- Remix](https://open.spotify.com/track/4TkvdQwcxXxusi8JG6mMj7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [eternal sunshine \(slightly deluxe and also live\)](https://open.spotify.com/album/3L2iweH45rVdTBPldbY6dp) | 3:33 |
 | 245 | [Don't Wanna Lose You Now](https://open.spotify.com/track/6gPVAM9CNj1uQQtGK0eYzZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:55 |
 | 246 | [Love Me](https://open.spotify.com/track/2lrMNui7pK7P7KDWrp86Ru) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:52 |
 | 247 | [Give Me Mercy](https://open.spotify.com/track/3qGiNlNOuGjVocanXiM7mB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 3:36 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 476 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 | 477 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 
-Snapshot ID: `Ab3qkgAAAAAU2am+73I4MxvwDgTMFq7u`
+Snapshot ID: `Ab3wHgAAAACYppwVPnybxDXaWayNkwVK`

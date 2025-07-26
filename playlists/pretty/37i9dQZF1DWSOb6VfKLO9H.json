@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 98895,
+  "num_followers": 98966,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -395,30 +395,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
+        "name": "Co\u00f1o",
+        "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
       },
       "artists": [
         {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
         },
         {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+          "name": "Jhorrmountain",
+          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
         },
         {
-          "name": "Brysa",
-          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
-        },
-        {
-          "name": "Ashafar",
-          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
         }
       ],
-      "duration_ms": 173534,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
+      "duration_ms": 137595,
+      "name": "Co\u00f1o",
+      "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -443,26 +439,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Co\u00f1o",
-        "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
       },
       "artists": [
         {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
         },
         {
-          "name": "Jhorrmountain",
-          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
         },
         {
-          "name": "Adje",
-          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+        },
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
         }
       ],
-      "duration_ms": 137595,
-      "name": "Co\u00f1o",
-      "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
+      "duration_ms": 173534,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Boot",
-        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
-      },
-      "artists": [
-        {
-          "name": "Fmg",
-          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
-        }
-      ],
-      "duration_ms": 197637,
-      "name": "Boot",
-      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Wat Is Je Naam",
         "url": "https://open.spotify.com/album/7DSXNoQCBYILBZGG83t53t"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 157935,
       "name": "Wat Is Je Naam",
       "url": "https://open.spotify.com/track/4SlqfJkQNAS7A5cvjBvQ3C"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Boot",
+        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "duration_ms": 197637,
+      "name": "Boot",
+      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
     },
     {
       "added_at": "2024-07-19 06:38:33",

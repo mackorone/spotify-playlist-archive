@@ -4,7 +4,7 @@
 
 > Made for furs, by furs\.  New Twitter @FurryRadio
 
-367 songs - 19 hr 30 min
+368 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Isn't Life Grand?](https://open.spotify.com/track/61wOkxKIdAJf6R167CHYnt) | [Far Below Perfect](https://open.spotify.com/artist/2AFyXKmMqK5wo0657AvyJw) | [I've Been To Hell Before...](https://open.spotify.com/album/3A9rfPhGC6RCgBTLGt7MgR) | 2:42 | 2024-10-21 |  |
 | [It's Not Over](https://open.spotify.com/track/1bDeWHt2U0kmrbzYESGBTb) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [It's Not Over](https://open.spotify.com/album/3Ou1ImPGFCZTuPlf7z0K7K) | 4:13 | 2024-02-18 |  |
 | [Joyful Bytes Remix \- Multi Fox Remix](https://open.spotify.com/track/4yIOiovEnQRhCO4i6cJd4L) | [Crazyjump15](https://open.spotify.com/artist/5U9kEd81S4XlSMR0Ielhip), [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Joyful Bytes Remix \(Multi Fox Remix\)](https://open.spotify.com/album/0AQqN7bjOCaBVYohR8dYhM) | 2:50 | 2025-02-22 |  |
+| [junk](https://open.spotify.com/track/0wHvcNpZpYHaBtGMBTwo0B) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [junk](https://open.spotify.com/album/0LDlUwMHU7FrhVpPFYAybu) | 2:11 | 2025-07-25 |  |
 | [Just a Little Better](https://open.spotify.com/track/13jSiZCcJYHaBYUWYdc637) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Forgive Me Please](https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7) | 3:08 | 2023-09-25 |  |
 | [JUST ARTIST STRUGGLES](https://open.spotify.com/track/2wZUYejbABGk8QPZZbadFa) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [JUST ARTIST STRUGGLES](https://open.spotify.com/album/0jP65We8pL1jznmxY2YsNp) | 2:16 | 2024-07-22 |  |
 | [Just Be Competent](https://open.spotify.com/track/2q5JF3bRPDeAS8EO8KIjEH) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Just Be Competent](https://open.spotify.com/album/1y1d8qRhQtD3UkkUFHsJOS) | 2:36 | 2025-01-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > New year, same Kitty\. Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,345 likes - 115 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,416 likes - 115 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 97 | [Bad Ones \(feat\. Tegan and Sara\)](https://open.spotify.com/track/31AYjxq6VkR57EgcwAJFmO) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Bunny](https://open.spotify.com/album/6ycHu5HE3kRz1HC2E5gtXo) | 4:32 |
 | 98 | [GOOD](https://open.spotify.com/track/71hoNUltGAiXxpdKBjbYvs) | [Erin McCarley](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) | [GOOD](https://open.spotify.com/album/2lnPx91gy6GkNoOzxKtfwL) | 3:56 |
 | 99 | [Human Right](https://open.spotify.com/track/0e866bvP5rorqKS0pPjvr5) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Faint of Heart](https://open.spotify.com/album/6Oo2L6mlblKkGSWj49Q7mn) | 3:13 |
-| 100 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
+| 100 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
 | 101 | [Chinatown](https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Gemini](https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W) | 3:18 |
 | 102 | [You Should Be Dancing](https://open.spotify.com/track/1M82mSdyGaJGapTkPNTfY0) | [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [To All The Boys: P.S\. I Still Love You \(Music From The Netflix Film\)](https://open.spotify.com/album/37QF4ERcZXyv3i4s22akY5) | 3:14 |
 | 103 | [As I'll Ever Be \- From The Netflix Film “To All The Boys: P.S\. I Still Love You”](https://open.spotify.com/track/5I2lEwnYNP2xCELWSMRMe4) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [To All The Boys: P.S\. I Still Love You \(Music From The Netflix Film\)](https://open.spotify.com/album/37QF4ERcZXyv3i4s22akY5) | 2:26 |

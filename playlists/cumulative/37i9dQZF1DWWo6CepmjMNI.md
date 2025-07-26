@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: LAILIN
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: JOYE
 
-234 songs - 16 hr 51 min
+237 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Maki](https://open.spotify.com/track/1ptqTo8wIWk3gxtW9E3hL9) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM), [Nidnoi](https://open.spotify.com/artist/1Gomo74qEHakGEZYDs2lxW) | [The New Color](https://open.spotify.com/album/7hQgeNv9XZ3aiJ86ARFgwJ) | 3:47 | 2025-07-11 | 2025-07-19 |
 | [me \(flowers\) you](https://open.spotify.com/track/3kGyVXw6BufGKIewx3ihxE) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [me \(flowers\) you](https://open.spotify.com/album/1Rtgj5SdlEEYChtp1GqYeI) | 4:36 | 2024-12-13 | 2025-01-25 |
 | [MULTIVERSE](https://open.spotify.com/track/3LHLTMAXL0mO5uadLo59nL) | [TOFU \(TH\)](https://open.spotify.com/artist/4sgxvN6gh4YfyJ3Xe3Qof9), [Young Petch](https://open.spotify.com/artist/09AhYMLR8sNHNJbhYXZcID) | [MULTIVERSE](https://open.spotify.com/album/1Xoxc2oJCLBJnoLZZ8jxDz) | 4:51 | 2024-11-28 | 2025-03-01 |
-| [Nearby Me](https://open.spotify.com/track/4noqj66fyiTataoAXIHL6W) | [nearbychair](https://open.spotify.com/artist/52THB7FifPvAgjfk4JOqdG) | [Me \(And You\)](https://open.spotify.com/album/5gDqtvlmIHMq5TpnEjyoTd) | 5:49 | 2025-07-11 |  |
+| [Nearby Me](https://open.spotify.com/track/4noqj66fyiTataoAXIHL6W) | [nearbychair](https://open.spotify.com/artist/52THB7FifPvAgjfk4JOqdG) | [Me \(And You\)](https://open.spotify.com/album/5gDqtvlmIHMq5TpnEjyoTd) | 5:49 | 2025-07-11 | 2025-07-26 |
+| [Neon](https://open.spotify.com/track/6mxcmQmJanVsmySIlAA4nG) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [Neon](https://open.spotify.com/album/79tXYEdO6Be0QmvLAMnb9v) | 4:00 | 2025-07-25 |  |
 | [Night Drive](https://open.spotify.com/track/7ayIUc03E8IinoiUDG2j6c) | [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [Night Drive](https://open.spotify.com/album/1TM1qazICftPwAhrhgeQtm) | 2:42 | 2024-06-21 | 2025-01-10 |
 | [NOISE CANCELLING](https://open.spotify.com/track/4M6UHs4hOdufqwjElfKseZ) | [TOFU \(TH\)](https://open.spotify.com/artist/4sgxvN6gh4YfyJ3Xe3Qof9) | [NOISE CANCELLING](https://open.spotify.com/album/7Jl5enjlOnil6RheLKFyft) | 3:36 | 2025-06-13 |  |
 | [Only Love \(feat\. NOTEP\)](https://open.spotify.com/track/5ITpMOVPxbZkAczlEwB3wD) | [Venn](https://open.spotify.com/artist/33fZW25rYAC3XsuAul1RuQ), [NOTEP](https://open.spotify.com/artist/1ka1gR7aUmYayVLNPr3PYs) | [Only Love \(feat\. NOTEP\)](https://open.spotify.com/album/5W4ZTAjJerxiETzUnOfaid) | 4:36 | 2024-11-08 | 2025-02-01 |
@@ -76,7 +77,7 @@
 | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/track/4lBQGMyb8kKOic9ZRtkoK5) | [Fahlithh](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/album/5aZoshdk9gwpBXXtRWz48k) | 3:45 | 2025-07-11 |  |
 | [คืนที่สองเราเต้นรำ \(1Night\)](https://open.spotify.com/track/7tN2lVM53EY0vFtObxxIEG) | [GOODMORNING](https://open.spotify.com/artist/5qpHMe5u9Cf9QNQiyFcqMf) | [คืนที่สองเราเต้นรำ \(1Night\)](https://open.spotify.com/album/1teI8blyB4bMMQ6tCsH2A3) | 3:54 | 2024-06-21 | 2025-04-12 |
 | [คืนสุดท้าย](https://open.spotify.com/track/0eaMXaoL2DH75hhl2pYpbt) | [SURI SURII](https://open.spotify.com/artist/5kdt00mGiFal5y8jxanHsQ) | [คืนสุดท้าย](https://open.spotify.com/album/0fgIfJLKkcTj47BAHwVLry) | 4:17 | 2025-07-18 |  |
-| [จนลืมไปว่าฉัน..](https://open.spotify.com/track/7hqnbHXT2jgWhEExrYuXAp) | [Goofy Glasses](https://open.spotify.com/artist/4aEnphaAdk7T24VMJm7Ouo) | [จนลืมไปว่าฉัน..](https://open.spotify.com/album/7wUz4TmoPNUbgnwkDiSqld) | 5:05 | 2025-07-18 |  |
+| [จนลืมไปว่าฉัน..](https://open.spotify.com/track/7hqnbHXT2jgWhEExrYuXAp) | [Goofy Glasses](https://open.spotify.com/artist/4aEnphaAdk7T24VMJm7Ouo) | [จนลืมไปว่าฉัน..](https://open.spotify.com/album/7wUz4TmoPNUbgnwkDiSqld) | 5:05 | 2025-07-18 | 2025-07-26 |
 | [จะได้บอกลาสักที \(done\)](https://open.spotify.com/track/2GMgbkn4qdTV5PuG9ggkdw) | [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [จะได้บอกลาสักที \(done\)](https://open.spotify.com/album/4ak31D4lpQ5PbTMTlCGLzh) | 3:50 | 2024-06-21 | 2024-10-12 |
 | [จับมือฉันในวันที่โลกแตกสลาย](https://open.spotify.com/track/7h5hVqASUr1YAb5Y1PD5IG) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [จับมือฉันในวันที่โลกแตกสลาย](https://open.spotify.com/album/4shgJhtV2pJQQ2HIgylbhL) | 3:31 | 2024-12-20 | 2025-02-13 |
 | [จับมือฉันไว้](https://open.spotify.com/track/68zDVn6aPQRLIhpd1by36V) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [จับมือฉันไว้](https://open.spotify.com/album/0iDiM9ntw1LwtGitcSdbhX) | 3:32 | 2025-03-07 | 2025-04-05 |
@@ -126,7 +127,8 @@
 | [ผู้ชม](https://open.spotify.com/track/23hHRScGll3GDtCcfVxeAv) | [World Nopparuj](https://open.spotify.com/artist/4YJf8IYiDgp0THhDwwRodb), [Khem Freehand](https://open.spotify.com/artist/2c1mD0pzkcaoMHbfUzi6Ih) | [ผู้ชม](https://open.spotify.com/album/1aoBuh75sH3YVll8tj4eDu) | 5:40 | 2025-03-07 |  |
 | [ผู้ที่ศรัทธาในพระเจ้า แต่หมดกำลังอธิษฐาน](https://open.spotify.com/track/5lB51wzR4OxghE3qvREaaj) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ผู้ที่ศรัทธาในพระเจ้า แต่หมดกำลังอธิษฐาน](https://open.spotify.com/album/0eBVwsYfR3cDooFjZJGyyZ) | 4:06 | 2024-06-21 | 2025-04-26 |
 | [ผ่านไปถึงเธอ \(Think of\)](https://open.spotify.com/track/4DuHeUrU05aCgsNdFlsbLC) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [ผ่านไปถึงเธอ \(Think of\)](https://open.spotify.com/album/7LM8buWUHZvHPERQOdIKjK) | 3:31 | 2025-04-04 | 2025-06-07 |
-| [ฝันนิรันดร์](https://open.spotify.com/track/65sVaJheVJ5SX3Ow5qBEFW) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [ฝันนิรันดร์](https://open.spotify.com/album/0L6wi7PvLrPEAst3KwCgVU) | 4:00 | 2025-06-27 |  |
+| [ฝันที่ไม่เคยจริง](https://open.spotify.com/track/62qcoz57lBPuJoLt0OLY3y) | [Le Fronce](https://open.spotify.com/artist/2A9lXDMTOlqUbRPFtKvL3c) | [ฝันที่ไม่เคยจริง](https://open.spotify.com/album/2VgdSvziISGKQIeoVZ1Rx8) | 4:01 | 2025-07-25 |  |
+| [ฝันนิรันดร์](https://open.spotify.com/track/65sVaJheVJ5SX3Ow5qBEFW) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [ฝันนิรันดร์](https://open.spotify.com/album/0L6wi7PvLrPEAst3KwCgVU) | 4:00 | 2025-06-27 | 2025-07-26 |
 | [ฝันไป](https://open.spotify.com/track/2VP1vuiq8XKnOVyiwctD7h) | [Vitamin D from The Sun](https://open.spotify.com/artist/5zngLj3BO0BHiyuXaPEQYJ) | [ฝันไป \- Single](https://open.spotify.com/album/6msuekm9iwP2z7jSl5heFs) | 5:25 | 2024-06-21 | 2025-02-22 |
 | [พรุ่งนี้ที่ไม่มีฉัน \- Love Getaway](https://open.spotify.com/track/7ByZTcfU7kI04NcxCqj03J) | [Apollo Thirteen](https://open.spotify.com/artist/0B6mKOEMvQU8Kfyg03ZQSF) | [พรุ่งนี้ที่ไม่มีฉัน \(Love Getaway\)](https://open.spotify.com/album/29nJTlNCjHfBTKRMIrl862) | 4:33 | 2024-11-22 | 2024-11-29 |
 | [พหลโยธิน](https://open.spotify.com/track/4nbIr7LBvsRN40LdDWKE5o) | [Chili sauce with mackerel](https://open.spotify.com/artist/4HYi53mjmSBq5dUk3hdFCh) | [พหลโยธิน](https://open.spotify.com/album/7omNMRJUilFdXCNA7M7E0N) | 4:27 | 2025-07-04 |  |
@@ -198,6 +200,7 @@
 | [เธอมองนาฬิกา](https://open.spotify.com/track/2giiZU3ufvysvV6Pltqkv8) | [macaw and the flowers](https://open.spotify.com/artist/3u8LeIuojQOVvjSAVBKmci) | [เธอมองนาฬิกา](https://open.spotify.com/album/1YqHbNnhb02QHuv6T0Nr8W) | 3:43 | 2024-09-27 | 2024-10-19 |
 | [เธอรักฉัน? \(Fond\)](https://open.spotify.com/track/6w3W8uAQX2zCjJjUpMDSmn) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [เธอรักฉัน? \(Fond\)](https://open.spotify.com/album/3cMxfyCj5VBpfpKA2utPzO) | 4:44 | 2025-07-18 |  |
 | [เธอเป็นคนเดียว](https://open.spotify.com/track/6AU9y6tL0TrKmVZbG7LcGD) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [เธอเป็นคนเดียว](https://open.spotify.com/album/5dNn8oIyc0NA7hmZtQrNCz) | 3:20 | 2025-06-27 | 2025-07-12 |
+| [เบบี๋เธอฟังก่อน \- Hold On](https://open.spotify.com/track/4PwrJaDUlR5zzpmI78sYGY) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [เบบี๋เธอฟังก่อน \(Hold On\)](https://open.spotify.com/album/5nHc9Hh8HK1G3IfFZhUxUR) | 4:40 | 2025-07-25 |  |
 | [เปียก \(When it Rains\)](https://open.spotify.com/track/5xmwTim7B0P53CebEJsKze) | [MAN IN PHARMACY](https://open.spotify.com/artist/1AGzRS5zJLTwySvklwcgxU) | [เปียก \(When it Rains\)](https://open.spotify.com/album/4EaHgeUoO6Y5TwHrqjknlM) | 3:16 | 2024-11-15 | 2024-12-14 |
 | [เพลงรักที่เธอไม่เอา และเพลงเศร้าที่เขาไม่อิน](https://open.spotify.com/track/2uKpuyzGp90yYdSv7A1w2C) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [เพลงรักที่เธอไม่เอา และเพลงเศร้าที่เขาไม่อิน](https://open.spotify.com/album/4LjGYqkzwWWLB75UK82Gat) | 3:40 | 2024-11-08 |  |
 | [เพลงรักนิรันดร์ กับคำบอกรักของฉันในวัย 80](https://open.spotify.com/track/6paXQeuhshazXjplp6OTXX) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X), [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [เพลงรักนิรันดร์ กับคำบอกรักของฉันในวัย 80](https://open.spotify.com/album/3XJDmq6lMLE9FbvTdqiw4T) | 3:39 | 2024-08-02 | 2024-09-14 |

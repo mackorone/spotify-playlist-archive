@@ -6109,24 +6109,6 @@
     },
     {
       "album": {
-        "name": "The Spectrum of Love",
-        "url": "https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t"
-      },
-      "artists": [
-        {
-          "name": "Peter J\u00f6back",
-          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
-        }
-      ],
-      "date_added": "2025-07-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193114,
-      "name": "Spectrum of Love",
-      "url": "https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr"
-    },
-    {
-      "album": {
         "name": "Spin The Bottle",
         "url": "https://open.spotify.com/album/2PhwRImFoeE9HvSMsyrjfz"
       },
@@ -6566,6 +6548,24 @@
       "duration_ms": 168188,
       "name": "The Player",
       "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
+    },
+    {
+      "album": {
+        "name": "The Spectrum of Love",
+        "url": "https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t"
+      },
+      "artists": [
+        {
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193114,
+      "name": "The Spectrum of Love",
+      "url": "https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr"
     },
     {
       "album": {

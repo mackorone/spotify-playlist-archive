@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,095 likes - 40 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,124 likes - 40 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 7 | [Ana Le Habiby](https://open.spotify.com/track/7cjCNwAwKNjgxfjt1TzK4e) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Ya Reit](https://open.spotify.com/album/10Vt1wAg974t1k5A8Z1jwp) | 3:02 |
 | 8 | [Douha alia](https://open.spotify.com/track/2iz9jESHTKPur1zuTzJkru) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [let me rai](https://open.spotify.com/album/2ZjDMSjs84eCv6SVGvxExW) | 4:17 |
 | 9 | [Moush Hadaaf](https://open.spotify.com/track/3pozehDmGhW7KSCbYbDW6j) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 5:20 |
-| 10 | [Malhomsh Fel Tayeb](https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Yashak Amar](https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi) | 6:12 |
-| 11 | [مواعدانى](https://open.spotify.com/track/6nLo8pZ7r5dPZnlEGBchip) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [مشينا](https://open.spotify.com/album/3KZuogULhgXrMIOvArGEC7) | 4:17 |
+| 10 | [مواعدانى](https://open.spotify.com/track/6nLo8pZ7r5dPZnlEGBchip) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [مشينا](https://open.spotify.com/album/3KZuogULhgXrMIOvArGEC7) | 4:17 |
+| 11 | [Malhomsh Fel Tayeb](https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Yashak Amar](https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi) | 6:12 |
 | 12 | [Eskandarany](https://open.spotify.com/track/7ASLjRJBMltLFRyDKmOdbo) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Layalyki](https://open.spotify.com/album/4GrJfxi95PEpCKmi2WVZGq) | 3:48 |
 | 13 | [Kolak Ala Badhak \- Remastered 2000](https://open.spotify.com/track/2sFFcde1ToI6DVCzvWwePM) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Ba'Ad Al Hob](https://open.spotify.com/album/2Ro807NACs4StaffbQUd8A) | 5:49 |
 | 14 | [Nafs El Makan](https://open.spotify.com/track/2XPnzYLx2hLHVLz6REezsr) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 4:35 |

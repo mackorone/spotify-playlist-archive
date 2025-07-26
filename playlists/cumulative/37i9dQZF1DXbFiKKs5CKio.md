@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-150 songs - 8 hr 33 min
+151 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Pânico](https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Pânico](https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5) | 3:03 | 2023-10-27 | 2025-03-02 |
 | [Pôr Do Sol](https://open.spotify.com/track/5qTFpdZGb94SFWQ7AFqYPt) | [Carol Olly](https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Pôr Do Sol](https://open.spotify.com/album/1I0fKlFwD13sGC8kHQ77lS) | 2:31 | 2023-12-15 | 2024-02-03 |
 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 | 2024-02-02 |  |
-| [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 | 2025-05-02 |  |
+| [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 | 2025-05-02 | 2025-07-26 |
+| [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 | 2025-07-25 |  |
 | [Quebrados](https://open.spotify.com/track/7gcL9v9OW5iNigeVBL7BB9) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Dinho](https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p), [MANSUR](https://open.spotify.com/artist/3YNBgvlJB70alobYMUDmmO) | [Escuro Brilhante, Último Dia no Orfanato Tia Guga](https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob) | 3:53 | 2023-12-15 | 2024-03-23 |
 | [Quem diria](https://open.spotify.com/track/7jQ3qAyxy3gbYNGw6ysO5E) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [SALVE\-SE!](https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3) | 2:50 | 2024-05-24 |  |
 | [Quer Saber](https://open.spotify.com/track/71ppt3UJSaN6vKK8QYvncu) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Quer Saber](https://open.spotify.com/album/0dYLcytZcb8EZqTVa0t0r4) | 2:56 | 2023-09-15 | 2023-10-16 |

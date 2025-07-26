@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 
 > This is Sly & The Family Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,411 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,416 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 26 | [The Same Thing \(Makes You Laugh, Makes You Cry\)](https://open.spotify.com/track/5FuDvELQSwjYo36HORMqiy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:42 |
 | 27 | [Fun](https://open.spotify.com/track/70AM9U6VMFtSyjCYc34srx) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:21 |
 | 28 | [Luv N' Haight \- Single Version](https://open.spotify.com/track/2SNjUokqJifysK3qsjyK4F) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 4:02 |
-| 29 | [Loose Booty](https://open.spotify.com/track/2bODSpA5V6atKBN5WKinQG) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:46 |
-| 30 | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/track/3gXwZLVJ8YMcOWlWVtTVhA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/album/3o5qY8Oz7zJxKeb8bZKmtC) | 2:48 |
+| 29 | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/track/3gXwZLVJ8YMcOWlWVtTVhA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/album/3o5qY8Oz7zJxKeb8bZKmtC) | 2:48 |
+| 30 | [Loose Booty](https://open.spotify.com/track/2bODSpA5V6atKBN5WKinQG) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:46 |
 | 31 | [I Cannot Make It](https://open.spotify.com/track/12guwaqWe3xZUPdnfSw0n4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:18 |
 | 32 | [Somebody's Watching You](https://open.spotify.com/track/5DCAUoDMRiBiezamBZX4yt) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 3:20 |
-| 33 | [Time For Livin'](https://open.spotify.com/track/1oQjAXbu9xARHLpKH73N1p) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:17 |
-| 34 | [It Takes All Kinds](https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:57 |
+| 33 | [It Takes All Kinds](https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:57 |
+| 34 | [Time For Livin'](https://open.spotify.com/track/1oQjAXbu9xARHLpKH73N1p) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:17 |
 | 35 | [If This Room Could Talk](https://open.spotify.com/track/6tLOKNQHVDFZgbjLxFoze4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:10 |
 | 36 | [Color Me True](https://open.spotify.com/track/7e3gIQQIuGnVUUcGUOJNgM) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 3:08 |
 | 37 | [Love City](https://open.spotify.com/track/0RfvI47szEhLTEnD7WTIco) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 49 | [Are You Ready](https://open.spotify.com/track/2vG9xnkx7v0780lL9zWRZa) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:49 |
 | 50 | [Say You Will](https://open.spotify.com/track/1l9EHaWsZ2LSiULI97ymRB) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:18 |
 
-Snapshot ID: `aIAmAAAAAADyhxHoNIsWw/51ey9lTTtK`
+Snapshot ID: `aIF3gAAAAABlwaVtFX6+sfYZYlTIcKkK`

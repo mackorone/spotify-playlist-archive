@@ -1609,6 +1609,28 @@
     },
     {
       "album": {
+        "name": "BADMAN GANGSTA",
+        "url": "https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143575,
+      "name": "BADMAN GANGSTA",
+      "url": "https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG"
+    },
+    {
+      "album": {
         "name": "Balablu",
         "url": "https://open.spotify.com/album/6bf4XCYj8Y5wvbhrFKW7S9"
       },
@@ -7655,6 +7677,24 @@
     },
     {
       "album": {
+        "name": "Joanna",
+        "url": "https://open.spotify.com/album/4jx7OVgEkhlCi1RNYbB3dz"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "Joanna",
+      "url": "https://open.spotify.com/track/5wdi9qkuMENGOx4Ko1brQ2"
+    },
+    {
+      "album": {
         "name": "Jolie",
         "url": "https://open.spotify.com/album/181bermR5Tqlsp90dHgvdP"
       },
@@ -11046,7 +11086,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 192000,
       "name": "Olufunmi (The Missing Recipe)",
       "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
@@ -15548,7 +15588,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 96521,
       "name": "Well",
       "url": "https://open.spotify.com/track/5GJpGaP79iINgsXERqERlc"

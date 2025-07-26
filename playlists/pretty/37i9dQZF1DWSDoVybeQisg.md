@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,225,576 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,693 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 70 | [Sunshine Of Your Love](https://open.spotify.com/track/4gxtH5mCSqVPTsqGcWKVOC) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Gold](https://open.spotify.com/album/5dkntf76VkS2C85Xzjud9E) | 4:10 |
 | 71 | [I'd Love To Change The World](https://open.spotify.com/track/3s9ri7hKv6ijDn2k89veEU) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [The Best Of Ten Years After](https://open.spotify.com/album/23K9VQeaaFKzmyEg2Z4V0u) | 3:43 |
 | 72 | [Eight Miles High](https://open.spotify.com/track/5v3utF8InHZKd8JZJK5rCx) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Fifth Dimension](https://open.spotify.com/album/1MpYGjBsBZm2wW8fvf10OO) | 3:34 |
-| 73 | [Venus In Furs](https://open.spotify.com/track/3x5IM9VEpsFLhkzy9YT2F0) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary \(Super Deluxe Edition\)](https://open.spotify.com/album/02O0Ea7JGwlLq8faAiv1MN) | 5:12 |
-| 74 | [Somebody to Love](https://open.spotify.com/track/4yrloqLBKS7Pi3z7g2HDga) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Best Of](https://open.spotify.com/album/387wE7UNIyqL4w8UnX2n4N) | 2:58 |
-| 75 | [We Love You \- Stereo Version](https://open.spotify.com/track/7D9zQOnM8fDzNHtI1rondd) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Singles 1965\-1967](https://open.spotify.com/album/2EXY5L6GbdSrRR3mo5Bes5) | 4:35 |
+| 73 | [Nights In White Satin \- Single Edit](https://open.spotify.com/track/6clw4A52XQ9tLBPHBM8SYG) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Nights In White Satin Hit Pac](https://open.spotify.com/album/2cYCHa8cPrvU2Vrw4xahof) | 4:24 |
+| 74 | [Venus In Furs](https://open.spotify.com/track/3x5IM9VEpsFLhkzy9YT2F0) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary \(Super Deluxe Edition\)](https://open.spotify.com/album/02O0Ea7JGwlLq8faAiv1MN) | 5:12 |
+| 75 | [Somebody to Love](https://open.spotify.com/track/4yrloqLBKS7Pi3z7g2HDga) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Best Of](https://open.spotify.com/album/387wE7UNIyqL4w8UnX2n4N) | 2:58 |
 
 Snapshot ID: `ZpFlIQAAAAASinX1Jadzn6MrCOc99vZG`

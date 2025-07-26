@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Natanael Cano en portada.",
+  "description": "Bienvenidx a la trampa mexa. Victor Mendivil en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -360,6 +360,24 @@
       "duration_ms": 163000,
       "name": "Afuera Que Tengan Miedo",
       "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
+    },
+    {
+      "album": {
+        "name": "Al Cien",
+        "url": "https://open.spotify.com/album/4Mk5iUw85mHFGnx3e0TmRL"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "Al Cien",
+      "url": "https://open.spotify.com/track/1Q8owsEuxlCHkfnM3OaSUX"
     },
     {
       "album": {
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 78110,
       "name": "Canci\u00f3n para Sentirte Trillonario",
       "url": "https://open.spotify.com/track/04ikA7z7scbinLvcpem6aV"
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 159767,
       "name": "Capitulo 1",
       "url": "https://open.spotify.com/track/0tc0TLXNmx2qYEnzz94QjW"
@@ -1472,6 +1490,44 @@
       "duration_ms": 220000,
       "name": "Ceniza",
       "url": "https://open.spotify.com/track/1COvCOGGV38hOhUoGoNYTG"
+    },
+    {
+      "album": {
+        "name": "CHANCHULLO",
+        "url": "https://open.spotify.com/album/6zjVKT3Rbt4oyw5y4FjIaA"
+      },
+      "artists": [
+        {
+          "name": "Onemillionkisses",
+          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
+        },
+        {
+          "name": "Freddy Moreno",
+          "url": "https://open.spotify.com/artist/2kLRl0AbP8D7Fqyohb0Shf"
+        },
+        {
+          "name": "GlobalBoy Da Glowop",
+          "url": "https://open.spotify.com/artist/6axE366zCZhhvFJ304IMvq"
+        },
+        {
+          "name": "Ca$h300",
+          "url": "https://open.spotify.com/artist/2ibj4Ar8ndNTRSzDDpZjv2"
+        },
+        {
+          "name": "GoldenVato",
+          "url": "https://open.spotify.com/artist/2XmvJnNQlbfLL0NIsryD6b"
+        },
+        {
+          "name": "Stridah",
+          "url": "https://open.spotify.com/artist/72UBiSC3uyu5LRxdFAS2Y7"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "CHANCHULLO",
+      "url": "https://open.spotify.com/track/2pIRdv31rkYsXDapg1Wd4t"
     },
     {
       "album": {
@@ -3112,7 +3168,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 99259,
       "name": "Flow Mexicano",
       "url": "https://open.spotify.com/track/3CBylMtRArk0HA9QgqYZUM"
@@ -3754,7 +3810,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 185454,
       "name": "Inigualable",
       "url": "https://open.spotify.com/track/2LymV41jT8FinUdLs2uQ1k"
@@ -3860,6 +3916,32 @@
       "duration_ms": 106085,
       "name": "Jesse Pinkman",
       "url": "https://open.spotify.com/track/65KOvUgvf4iFub3KiiL5JP"
+    },
+    {
+      "album": {
+        "name": "Jim Carrey",
+        "url": "https://open.spotify.com/album/6pgHlKbKXw0bqlvuiFmYtf"
+      },
+      "artists": [
+        {
+          "name": "T.O.N.A",
+          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
+        },
+        {
+          "name": "Jarabe kidd",
+          "url": "https://open.spotify.com/artist/5absue45Q798sotcg1d0FD"
+        },
+        {
+          "name": "Boss Fimbres",
+          "url": "https://open.spotify.com/artist/00iKC66DpYIgYz7Tmml7tr"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114500,
+      "name": "Jim Carrey",
+      "url": "https://open.spotify.com/track/5P0nz8mXvqnNez94ccLA2O"
     },
     {
       "album": {
@@ -5911,6 +5993,32 @@
     },
     {
       "album": {
+        "name": "OTAKU",
+        "url": "https://open.spotify.com/album/5QqySUSCa3UyQwPV7W4Wy2"
+      },
+      "artists": [
+        {
+          "name": "El Belicoso",
+          "url": "https://open.spotify.com/artist/3E63mgo0ttd5t81GVt2e8h"
+        },
+        {
+          "name": "4x4TRO",
+          "url": "https://open.spotify.com/artist/11JKRp2mLOF7Y4rpiBbYTX"
+        },
+        {
+          "name": "Alan Tapia",
+          "url": "https://open.spotify.com/artist/0cxCPREY2PemRshthTTnSr"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127730,
+      "name": "OTAKU",
+      "url": "https://open.spotify.com/track/1S8VD7a0pIL9Ryu6neHtKn"
+    },
+    {
+      "album": {
         "name": "Otro A\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/2WYkE3aHETy7z27SYm1uge"
       },
@@ -6588,6 +6696,28 @@
       "duration_ms": 83928,
       "name": "Quehacer",
       "url": "https://open.spotify.com/track/2ApMbu401bqRcFYUgmSP7J"
+    },
+    {
+      "album": {
+        "name": "Tutankamon",
+        "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234285,
+      "name": "Quien Diria",
+      "url": "https://open.spotify.com/track/7in3iob45LtO2p6njGZiUT"
     },
     {
       "album": {
@@ -7306,7 +7436,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 170668,
       "name": "Solo Bend\u00edceme",
       "url": "https://open.spotify.com/track/5mFZIW8pZtC7sXbfrXjUKt"

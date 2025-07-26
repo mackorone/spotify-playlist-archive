@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,664 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,721 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 8 | [Ma préférence](https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Jaloux](https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb) | 3:26 |
 | 9 | [Quand on arrive en ville \- Remasterisé en 2009](https://open.spotify.com/track/62QQEK5BZPtOw0CvrBe9ho) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7), [Nanette Workman](https://open.spotify.com/artist/4KM2fWVoNDDdgrKmk41Ygy), [Starmania](https://open.spotify.com/artist/4VOX5R6FyddOOtzKgY8OGv) | [Starmania \(Remasterisé en 2009\)](https://open.spotify.com/album/1KfEKYPClCYGHtJWTi6PCQ) | 3:37 |
 | 10 | [Qui saura](https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:20 |
-| 11 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 |
-| 12 | [Mon vieux](https://open.spotify.com/track/6xs2iOXaBfCeVKeyfo2VNE) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [Mon Vieux](https://open.spotify.com/album/1DJRvlJg6vGlXWQihVdMtb) | 3:30 |
+| 11 | [Mon vieux](https://open.spotify.com/track/6xs2iOXaBfCeVKeyfo2VNE) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [Mon Vieux](https://open.spotify.com/album/1DJRvlJg6vGlXWQihVdMtb) | 3:30 |
+| 12 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 |
 | 13 | [Ce n'est rien](https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Niagara](https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU) | 3:34 |
 | 14 | [Je vais t'aimer](https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La vieille](https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm) | 5:27 |
 | 15 | [Message personnel \- Remasterisé en 2013](https://open.spotify.com/track/1E1fwQ5Wmls13iEf4QjL9y) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Message personnel \(Version Deluxe\)](https://open.spotify.com/album/6tU1iGwcfWjFasYGnoVj6k) | 4:16 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 30 | [La dernière séance](https://open.spotify.com/track/1LMMoxkBJe9NfGEQikGK0B) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [La Derniere Séance](https://open.spotify.com/album/4dXFPlxD8HLFgPGjHQfmnq) | 3:33 |
 | 31 | [Monday, Tuesday..\. Laissez\-moi danser](https://open.spotify.com/track/22MpysBy1FI7PJpWAZnE23) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 3:53 |
 | 32 | [Si maman si \- Remasterisé en 2004](https://open.spotify.com/track/6NvKOWV0UnBPAaO76D4JxS) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Dancing Disco \(Remasterisé en 2004\)](https://open.spotify.com/album/2OV5w1EvwvFUcn0PEoFAxB) | 2:58 |
-| 33 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [Tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 |
-| 34 | [L'oiseau et l'enfant](https://open.spotify.com/track/7Hy0CZtFcREucLDXB5jp6m) | [Marie Myriam](https://open.spotify.com/artist/0wii8BDuICYKZfGicr0MCa) | [Sentimentale](https://open.spotify.com/album/6yBjoyFjOb4HQVs1GVdLzQ) | 3:03 |
+| 33 | [L'oiseau et l'enfant](https://open.spotify.com/track/7Hy0CZtFcREucLDXB5jp6m) | [Marie Myriam](https://open.spotify.com/artist/0wii8BDuICYKZfGicr0MCa) | [Sentimentale](https://open.spotify.com/album/6yBjoyFjOb4HQVs1GVdLzQ) | 3:03 |
+| 34 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [Tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 |
 | 35 | [Allô maman bobo](https://open.spotify.com/track/6feRXBskplLVuNov74Rep3) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Jamais Content](https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw) | 3:31 |
 | 36 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 |
 | 37 | [On ira tous au paradis](https://open.spotify.com/track/58bRgUVRgeHrrGfqR7v96k) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Best Of 2003](https://open.spotify.com/album/6uoHpvJlZvaREOR1Z3Lu8i) | 4:33 |

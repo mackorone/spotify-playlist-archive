@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 
 > This is Victor Thompson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,620 likes - 41 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,621 likes - 41 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 13 | [Deep Yoruba Worship Medley](https://open.spotify.com/track/5BDOhkYpiCFySsKi2FYB1Q) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Deep Yoruba Worship Medley](https://open.spotify.com/album/4UvAfaTdKi7UyMEJS4bAgN) | 10:20 |
 | 14 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
 | 15 | [You make all things Beautiful \(Piano Session\)](https://open.spotify.com/track/4j1hTnAQnnvNTtoqcZw0n5) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [You make all things Beautiful \(Piano Session\)](https://open.spotify.com/album/6PkBjfA81nOpI1LDAo5VFk) | 1:27 |
-| 16 | [Absolutely Nothing](https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 3:54 |
+| 16 | [I Will Worship](https://open.spotify.com/track/1TUQfTS06a0sJXu89nUmqY) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 5:04 |
 | 17 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
 | 18 | [Fall in Love](https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Fall in Love](https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL) | 3:18 |
 | 19 | [20Minutes Spontaneous Deep Worship](https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [20Minutes Spontaneous Deep Worship](https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr) | 21:10 |
-| 20 | [I Will Worship](https://open.spotify.com/track/1TUQfTS06a0sJXu89nUmqY) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 5:04 |
+| 20 | [Absolutely Nothing](https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 3:54 |
 | 21 | [Onyeoma](https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 3:13 |
 | 22 | [ALONE WITH GOD \(Spontaneous Worship\)](https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ALONE WITH GOD \(Spontaneous Worship\)](https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM) | 42:06 |
 | 23 | [Urhobo/Isoko Worship Medley](https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Urhobo/Isoko Worship Medley](https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY) | 6:03 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 34 | [Halle](https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:49 |
 | 35 | [YOU ARE ALWAYS THERE FOR ME \(MEDLEY\)](https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [YOU ARE ALWAYS THERE FOR ME \(MEDLEY\)](https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q) | 41:49 |
 | 36 | [BLESSINGS](https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [BLESSINGS](https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU) | 13:44 |
-| 37 | [Great is Your Faithfulness](https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk), [Dejaks](https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux) | [Great is Your Faithfulness](https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl) | 19:07 |
+| 37 | [You are Lifted \(Spontaneous Worship\)](https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [You are Lifted \(Spontaneous Worship\)](https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng) | 41:01 |
 | 38 | [Na You](https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:44 |
-| 39 | [You are Lifted \(Spontaneous Worship\)](https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [You are Lifted \(Spontaneous Worship\)](https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng) | 41:01 |
+| 39 | [Great is Your Faithfulness](https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk), [Dejaks](https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux) | [Great is Your Faithfulness](https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl) | 19:07 |
 | 40 | [Help Me To Remember](https://open.spotify.com/track/5cq2NNiAb2WfVaCOjkATmG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Help Me To Remember](https://open.spotify.com/album/0CW4S74Fg0iIOCOfnO503P) | 3:29 |
 | 41 | [Nkosi](https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:02 |
 
-Snapshot ID: `aIAmAAAAAABVN18uRP5BRUx07ZDvPFXa`
+Snapshot ID: `aIF3gAAAAAC3UfbzVO64QJZWKZYL+RKF`

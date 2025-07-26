@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 
 > This is Eslabon Armado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,716 likes - 49 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,744 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 | 46 | [No Dudes de Ti](https://open.spotify.com/track/6q1rr8W0TudmxomRdHxUWP) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:09 |
 | 47 | [NO VOY A ODIARTE](https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:46 |
 | 48 | [Ganas Que Te Tengo](https://open.spotify.com/track/1sS5aMT5JWYSHwrTbxGGsn) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 3:59 |
-| 49 | [La Diabla](https://open.spotify.com/track/1e6iopg5dmxbqJ1Mbhypab) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:27 |
+| 49 | [SOY UN P\*ENDEJO](https://open.spotify.com/track/2kIIq27nnGnz12ucXWUFYZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Dame un Chanze](https://open.spotify.com/album/2wgHxzpgMrisLHnHbfbxrD) | 4:28 |
+| 50 | [La Diabla](https://open.spotify.com/track/1e6iopg5dmxbqJ1Mbhypab) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:27 |
 
-Snapshot ID: `aIAmAAAAAABPgP4kLkg9lpmtRrj6+xNv`
+Snapshot ID: `aIF3gAAAAACCHZiCIAvtWTl7WORjS02d`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Kokoroko",
+  "description": "New jazz for open minds. Cover: Braxton Cook",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -17101,6 +17101,28 @@
     },
     {
       "album": {
+        "name": "Josh's Tune",
+        "url": "https://open.spotify.com/album/3hkBepv9YfYCyuRTEEzXjt"
+      },
+      "artists": [
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "name": "Joshua Crumbly",
+          "url": "https://open.spotify.com/artist/4SSEcx8fIWKSSYSmvHJSC4"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234829,
+      "name": "Josh\u2019s Tune",
+      "url": "https://open.spotify.com/track/190iJqbTyMlJOOZoTcSkg5"
+    },
+    {
+      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/48HXPC32L3gxEWsoiWcALl"
       },
@@ -21068,7 +21090,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 369253,
       "name": "Misanthrope's Hymn",
       "url": "https://open.spotify.com/track/53CgYJu6NYV0lBP9AbezO4"

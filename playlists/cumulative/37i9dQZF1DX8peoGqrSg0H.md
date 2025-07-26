@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: Daou Pittaya
 
-732 songs - 1 day 19 hr 10 min
+733 songs - 1 day 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,7 +441,7 @@
 | [มีแค่เธอก็พอ \(365 Days\) \- Magic Ver.](https://open.spotify.com/track/4sCLtvADVVmNkBw9epqKVa) | [Ice Paris](https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n), [SMEW](https://open.spotify.com/artist/7I8cyXAoAtRWIXvcHUatTe) | [มีแค่เธอก็พอ \(365 Days\) \[Magic Ver.\]](https://open.spotify.com/album/1qM79NyTqRwCUdwT3JkJIs) | 3:50 | 2024-02-15 | 2024-02-23 |
 | [มีใจทำไมไม่จีบ \(ASAP\)](https://open.spotify.com/track/6KUxEHbQ76q30sYfeWGxIb) | [MOBYe](https://open.spotify.com/artist/3Z5VM48ceWJTBmVqoZKAK5) | [มีใจทำไมไม่จีบ \(ASAP\)](https://open.spotify.com/album/6wH4ykL8qBofLjDRhCwKXz) | 3:28 | 2024-05-23 | 2024-06-06 |
 | [มือสมัครรัก \(Rookie Lover\)](https://open.spotify.com/track/77yIepsg0RoYeHLEQuBktT) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [มือสมัครรัก \(Rookie Lover\)](https://open.spotify.com/album/5Lq2qDJoDpNNrsZiK3B58y) | 3:22 | 2024-07-11 | 2024-08-02 |
-| [ยอม \(Surrender\)](https://open.spotify.com/track/6UuJgXnKGdAWeRwD8asDI3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ยอม \(Surrender\)](https://open.spotify.com/album/4RGH9K61U4bFJ6nbtWlgcq) | 3:15 | 2024-07-18 |  |
+| [ยอม \(Surrender\)](https://open.spotify.com/track/6UuJgXnKGdAWeRwD8asDI3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ยอม \(Surrender\)](https://open.spotify.com/album/4RGH9K61U4bFJ6nbtWlgcq) | 3:15 | 2024-07-18 | 2025-07-26 |
 | [ยอมแค่เธอ \(Loser\)](https://open.spotify.com/track/0ko2QIbamfYiRwG4eQcY4q) | [ATK](https://open.spotify.com/artist/5QKuqbXQ3cujnmrGOh4Qx1) | [ยอมแค่เธอ \(Loser\)](https://open.spotify.com/album/1B0vAYFcnVbFg5ySoLi8mX) | 3:53 | 2023-09-15 | 2023-09-23 |
 | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/track/1wMKxgl9ao5Rou5rHQo1cS) | [Mark Methathavach](https://open.spotify.com/artist/5CMGEfQ5n3LJqKcld9Z5Xl) | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/album/46EkpoOFyV88Tnoe6HlW5d) | 4:21 | 2022-06-23 | 2022-07-15 |
 | [ยิ่งคบยิ่งไม่รัก \(Why?\)](https://open.spotify.com/track/22R3FVEbVtgv9CY4NHlBJ8) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [ยิ่งคบยิ่งไม่รัก \(Why?\)](https://open.spotify.com/album/1N9UUSSVk5rc4qFOGO1Oye) | 3:25 | 2025-05-01 |  |
@@ -546,6 +546,7 @@
 | [หากว่าเราไม่คิดถึงกัน](https://open.spotify.com/track/2RzvMRIJoCpxSN9hAjfJlF) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [หากว่าเราไม่คิดถึงกัน](https://open.spotify.com/album/5BJVpgDdWIVwIe8OiVJDWD) | 4:27 | 2022-05-26 | 2022-06-10 |
 | [หากเธอเคยรักใคร \(IF YOU LOVE\)](https://open.spotify.com/track/08OtCoRVu0sHp8dmCddtvg) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC), [Koen](https://open.spotify.com/artist/0Uz2jjlCiSOpsxSD7qOEB0) | [หากเธอเคยรักใคร \(IF YOU LOVE\)](https://open.spotify.com/album/49h8RHuCZSrOZKqsE9q8JM) | 3:35 | 2022-05-26 | 2023-03-03 |
 | [หายใจ \(May I miss you?\)](https://open.spotify.com/track/6BujdqsVd1IhZLkwMWxR6W) | [Project M.O.N](https://open.spotify.com/artist/58jnr1VHhzoBq20AjK8Fzt), [GELER.K](https://open.spotify.com/artist/7CXKNexA4rZXfOIOXm1bNh), [TATAM](https://open.spotify.com/artist/2M7005RIPbhTCIkF1BhLyD), [Meiji FLI:P](https://open.spotify.com/artist/4uvSrPQXb8MB6VmsDBpGxr), [Rawee Kangsanarak](https://open.spotify.com/artist/7byxvu8gyCRFwe0GxR1Bm6) | [หายใจ \(May I miss you?\)](https://open.spotify.com/album/12frl5mcdze5ObVDn6mjKe) | 3:32 | 2024-07-11 | 2024-07-19 |
+| [หายใจทิ้ง \(boys just wanna be boys\) \- From บัส ซิ่ง เจแปน](https://open.spotify.com/track/19olaj8Ee2wkdH0pEszTBW) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [หายใจทิ้ง \(boys just wanna be boys\) \[From บัส ซิ่ง เจแปน\]](https://open.spotify.com/album/4bpzKbwpk4Iaw1iUJPENSE) | 3:52 | 2025-07-25 |  |
 | [ห้องแห่งความลับ](https://open.spotify.com/track/5jniDwjvBr0L70gvtLoLE5) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ห้องแห่งความลับ](https://open.spotify.com/album/3OCN0ekRQ9jKpGKIhFR3lU) | 3:31 | 2024-03-14 | 2024-03-27 |
 | [ห้ามใจไม่อยู่](https://open.spotify.com/track/2hteglfTJmJmqac9pXz7rb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ห้ามใจไม่อยู่](https://open.spotify.com/album/0WoTqqnZsmcudqviK2jBcN) | 3:40 | 2022-05-26 | 2022-07-29 |
 | [ห้ามใจไม่อยู่](https://open.spotify.com/track/3xVsS8m92jEGMh3DXGe1PW) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ห้ามใจไม่อยู่](https://open.spotify.com/album/2oBrpIpHLArLyXiMLx4Knq) | 3:40 | 2022-07-28 | 2022-11-16 |

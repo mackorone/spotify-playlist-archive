@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Gloria Estefan
 
-310 songs - 22 hr 26 min
+311 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Canciones Viejas](https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 4:20 | 2022-01-01 | 2024-11-19 |
 | [Carro de Fuego](https://open.spotify.com/track/4guUX2YppY1kPGpjDaenhQ) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Bueno y Más](https://open.spotify.com/album/5YYL0N32bGmdz3b2kmsQpC) | 4:30 | 2022-01-01 |  |
 | [Carro de Fuego](https://open.spotify.com/track/6vXGxfr6aYO3Nq2jKXkdC5) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Bueno y Más](https://open.spotify.com/album/2L8Z97iqrz7OMo4OpbCFEg) | 4:30 | 2022-05-20 | 2024-04-19 |
+| [Carrusel](https://open.spotify.com/track/55fdpNzyRJOTr5DnIwWHYK) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA) | [Swingkete Vol\. 1 \- Maratón](https://open.spotify.com/album/3swn9BL0MqR8K0wcKUJwGi) | 4:20 | 2025-07-25 |  |
 | [Cartas Sobre La Mesa](https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cartas Sobre La Mesa](https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi) | 3:11 | 2022-01-21 |  |
 | [Casi Te Envidio](https://open.spotify.com/track/58unXNsISeHfI2jdqm9nb9) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Salsa Legends](https://open.spotify.com/album/3ZnHSlfoWoE0XkHXNqV6S2) | 5:20 | 2022-01-01 | 2022-07-29 |
 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 | 2022-05-20 | 2024-04-19 |
@@ -208,7 +209,7 @@
 | [Pa'lante y Pa'tras \- Remix](https://open.spotify.com/track/61adK2aayDAKjms9aMaCt8) | [N'Klabe](https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q), [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Nuestra Esquina](https://open.spotify.com/album/6cMmm1Y4VdgChoFTmlMonr) | 3:33 | 2022-01-01 | 2022-07-29 |
 | [Pa'lla Voy](https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh) | 4:06 | 2022-01-01 |  |
 | [Para Siempre \- Salsa Version](https://open.spotify.com/track/19vnwyhSF3mVIgF6b3wEw1) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Para Siempre \(Salsa Version\)](https://open.spotify.com/album/1lWsVWyrhSDvw4YGO00qC8) | 4:29 | 2024-10-25 |  |
-| [Pasándola bien](https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Pasándola bien](https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j) | 2:54 | 2023-05-12 |  |
+| [Pasándola bien](https://open.spotify.com/track/0ZVS1pGOVYik44LHZiDQW4) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Pasándola bien](https://open.spotify.com/album/1tgtGOkTnvu2RtQkQpiF0j) | 2:54 | 2023-05-12 | 2025-07-26 |
 | [Paula C.](https://open.spotify.com/track/0umkHdiZRtXBxyDGmLBkwc) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/2BRXfbwZl8Rqv4Spi8kB8u) | [SALSA PLUS!](https://open.spotify.com/album/0Q8OYG3pgYUyntttMXCjD8) | 5:36 | 2022-01-01 | 2022-07-26 |
 | [Paula C.](https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c) | [SALSWING!](https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI) | 5:36 | 2022-09-09 | 2022-11-13 |
 | [Peligro](https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro](https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu) | 3:20 | 2022-04-29 | 2022-11-20 |

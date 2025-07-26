@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: laurie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,943 likes - 77 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,792 likes - 77 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 35 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 |
 | 36 | [Saiyyan Na Maane](https://open.spotify.com/track/1k2YAgMhCzveYZkNcloocK) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Amritanshu Dutta](https://open.spotify.com/artist/5cHoOoSamSybu8lGD4yfB1) | [Saiyyan Na Maane](https://open.spotify.com/album/1vL10WzZmWzUi2Ez5QfpEn) | 2:47 |
 | 37 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
-| 38 | [Lay Your Light](https://open.spotify.com/track/537zoPq0ugohYdOvOSyR5y) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [No, I'm Not Crying](https://open.spotify.com/album/4Zlk0ggvfpHAPlexTOF35u) | 2:53 |
-| 39 | [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 |
+| 38 | [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 |
+| 39 | [Lay Your Light](https://open.spotify.com/track/537zoPq0ugohYdOvOSyR5y) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [No, I'm Not Crying](https://open.spotify.com/album/4Zlk0ggvfpHAPlexTOF35u) | 2:53 |
 | 40 | [Hooked](https://open.spotify.com/track/2eCESimcY5kb5j6EwR4E4E) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Hooked](https://open.spotify.com/album/259hWQhXBOcAcNMM299FbZ) | 2:24 |
 | 41 | [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 |
 | 42 | [Sorry My Honey](https://open.spotify.com/track/0l1E1oeXx5G5sGfvrS2Lb8) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Sorry My Honey](https://open.spotify.com/album/5wJJtnYBJRoVG20i8JLONk) | 3:33 |

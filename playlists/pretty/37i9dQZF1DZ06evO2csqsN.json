@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 36873,
+  "num_followers": 36900,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAACPKn8fhNS48OkVMQ+mmhzf",
+  "snapshot_id": "aIF3gAAAAADngh7kNbQnvVN2cbxRLXcw",
   "tracks": [
     {
       "added_at": null,
@@ -911,6 +911,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "C3",
+        "url": "https://open.spotify.com/album/43dGPsOTtISEn742j6BEqH"
+      },
+      "artists": [
+        {
+          "name": "Jacob Latimore",
+          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 187354,
+      "name": "Don't Wanna Leave (feat. Mulatto)",
+      "url": "https://open.spotify.com/track/3BO6Gl62sn2d9IAnh1QqnY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Get Enough (feat. Latto)",
         "url": "https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC"
       },
@@ -927,6 +947,26 @@
       "duration_ms": 207284,
       "name": "Can't Get Enough (feat. Latto)",
       "url": "https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Sex Lies (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
     },
     {
       "added_at": null,
@@ -955,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "Sex Lies (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boom Pt. 2 (feat. Latto)",
         "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 132000,
       "name": "Boom Pt. 2 (feat. Latto)",
       "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "C3",
-        "url": "https://open.spotify.com/album/43dGPsOTtISEn742j6BEqH"
-      },
-      "artists": [
-        {
-          "name": "Jacob Latimore",
-          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 187354,
-      "name": "Don't Wanna Leave (feat. Mulatto)",
-      "url": "https://open.spotify.com/track/3BO6Gl62sn2d9IAnh1QqnY"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > When the dancefloor calls your name, that's amore.
 
-197 songs - 16 hr 25 min
+198 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Dancin' All The Night \- Original Extended Version](https://open.spotify.com/track/21br0MBSr0o05d073b2ld8) | [Paul Sharada](https://open.spotify.com/artist/6Ka73Uf6EKU9GW8zTTRobK) | [80's Dance Story Original Italo Hits](https://open.spotify.com/album/0rcYpBkTkKMUv5W32JPcaY) | 6:19 | 2022-02-11 | 2022-02-22 |
 | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 | 2024-04-04 |  |
 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 | 2022-02-11 |  |
-| [Desiderio](https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Desiderio](https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG) | 4:25 | 2024-04-04 |  |
+| [Desiderio](https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Desiderio](https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG) | 4:25 | 2024-04-04 | 2025-07-26 |
 | [Destiny](https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO) | [Vivien Vee](https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d) | [Destiny \(Original\) \- Single](https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8) | 4:39 | 2022-10-07 | 2023-05-18 |
 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 | 2022-02-11 | 2025-02-28 |
 | [Discamore](https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Discamore](https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU) | 3:44 | 2022-06-17 |  |
@@ -158,6 +158,7 @@
 | [Sequenzer Dream](https://open.spotify.com/track/7fdfRaVdkyheun62BMDLth) | [Aldo Bergamachine](https://open.spotify.com/artist/61xxNR0VR7Nz0sI5FyXy66) | [Astromoog](https://open.spotify.com/album/0jta0ryUn1qVuaqlteavhp) | 4:36 | 2022-02-11 | 2022-07-14 |
 | [Sexergy](https://open.spotify.com/track/6uu4NKyUPn3bMVGEQBbFL1) | [NEW HOOK](https://open.spotify.com/artist/7emhT5um7BSV4bVeahXTPa) | [Ombra Intl 016](https://open.spotify.com/album/5uZjutxTEk4gWLaZGwZnmc) | 7:14 | 2022-02-11 | 2022-07-29 |
 | [She Can't Love You](https://open.spotify.com/track/3CX1FiiXSbvKjsXRYwApAP) | [Chemise](https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS) | [She Can't Love You](https://open.spotify.com/album/7dL0O0sGYCCXxI7FUo1sC5) | 5:25 | 2022-02-11 |  |
+| [Soldier for Love](https://open.spotify.com/track/5GjD6EKIMA2NxPyorOhdwH) | [Nuovo Testamento](https://open.spotify.com/artist/70MnQHSuHcHizcq5qma5vA) | [Trouble](https://open.spotify.com/album/5R2sk5Pcyz820kMjxobQUN) | 3:12 | 2025-07-25 |  |
 | [Splendida giornata](https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vado al massimo \(Remastered\)](https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM) | 4:39 | 2022-10-07 |  |
 | [Splendido splendente](https://open.spotify.com/track/4djSKkGTA9ZtI22q96L1Tn) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido divino \(Gli Indimenticabili\)](https://open.spotify.com/album/3bjLuBoH2Imh21OsGWM94s) | 3:27 | 2023-10-06 | 2024-04-19 |
 | [Splendido splendente](https://open.spotify.com/track/6cTDaZELhhgPxzdPn5lruI) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido divino \(Gli Indimenticabili\)](https://open.spotify.com/album/0f4Wz3ZaGjPDMEBs0OrZqs) | 3:27 | 2022-07-01 | 2023-11-04 |

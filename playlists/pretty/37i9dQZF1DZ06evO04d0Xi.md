@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,535 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,536 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 36 | [Adorai, Adonai](https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 5:05 |
 | 37 | [Seu Lugar](https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Sonhos](https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC) | 3:26 |
 | 38 | [Tempo de Crescer](https://open.spotify.com/track/2BGIItsqoZ3eRVUpgNJAUk) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:11 |
-| 39 | [Jesus, Meu Primeiro Amor](https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 6:56 |
-| 40 | [Enquanto Eu Chorava](https://open.spotify.com/track/2dlSQSCnYr2gejkAG4HPOJ) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Glória](https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ) | 4:39 |
+| 39 | [Enquanto Eu Chorava](https://open.spotify.com/track/2dlSQSCnYr2gejkAG4HPOJ) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Glória](https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ) | 4:39 |
+| 40 | [Jesus, Meu Primeiro Amor](https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 6:56 |
 | 41 | [Unidos Pelo Amor](https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV) | [Marina De Oliveira](https://open.spotify.com/artist/2Nj5eY05IUPK0AZKBzR9xB), [Novo Som](https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl), [Alex Gonzaga](https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Brother Simion](https://open.spotify.com/artist/1pEaPL16IqfzG8ze1Xp3gZ), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Banda & Voz](https://open.spotify.com/artist/4NAh7PnUxqDfRCM2DfQg5E), [Ellas](https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT), [Raquel Mello](https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Marina de Oliveira \- Gospel Collection Ao Vivo](https://open.spotify.com/album/4PcFH8X4A19i8WMtkT967n) | 3:02 |
 | 42 | [Santo \(Holy\)](https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:44 |
 | 43 | [Tua Face](https://open.spotify.com/track/20ULhBcBQ0WYvTRNXUdNrt) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Milagre](https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 49 | [Vinho e Pão](https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Paixão de Cristo \- O Musical](https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO) | 3:13 |
 | 50 | [Redenção](https://open.spotify.com/track/4UYh7Ra4xRvIk6G1Z1Zlvy) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 5:14 |
 
-Snapshot ID: `aIAmAAAAAABFNmtVj8D0w+RKwSkrD8sz`
+Snapshot ID: `aIF3gAAAAABRrBe8mhv0wtBCxlTfTsai`

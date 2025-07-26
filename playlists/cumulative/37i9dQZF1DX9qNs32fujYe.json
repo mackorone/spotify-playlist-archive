@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Amon Amarth",
+  "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Sabaton",
   "name": "Heavy Metal",
   "tracks": [
     {
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 237115,
       "name": "Atonement",
       "url": "https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 231186,
       "name": "Blood Dynasty",
       "url": "https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA"
@@ -4094,7 +4094,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
@@ -5339,6 +5339,24 @@
     },
     {
       "album": {
+        "name": "Eternity (2025 Remaster)",
+        "url": "https://open.spotify.com/album/4DB7BKts42j2zGW4yBRTzU"
+      },
+      "artists": [
+        {
+          "name": "Kamelot",
+          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342093,
+      "name": "Eternity - 2025 Remaster",
+      "url": "https://open.spotify.com/track/7bqFVDJNQYZ0H8YOuijESK"
+    },
+    {
+      "album": {
         "name": "Evenfall",
         "url": "https://open.spotify.com/album/6vnH6OAOT6uLuGMTODFoKN"
       },
@@ -6216,7 +6234,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 215786,
       "name": "Fresh Blood, Fresh Pussy",
       "url": "https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p"
@@ -8706,7 +8724,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 302466,
       "name": "In Waves",
       "url": "https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs"
@@ -10524,7 +10542,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 478186,
       "name": "Midnight Messiah",
       "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
@@ -12162,7 +12180,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 201466,
       "name": "Opaline",
       "url": "https://open.spotify.com/track/3LMWOBPxDCAdJXaQfcSjk1"
@@ -16237,6 +16255,24 @@
     },
     {
       "album": {
+        "name": "More Balls to Picasso",
+        "url": "https://open.spotify.com/album/01fx7s6x1cHsu7pPuM31B8"
+      },
+      "artists": [
+        {
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386437,
+      "name": "Tears of the Dragon - 2025 Reimagined Version",
+      "url": "https://open.spotify.com/track/1lG0H7zj17dnckJtANNX6A"
+    },
+    {
+      "album": {
         "name": "Templars",
         "url": "https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI"
       },
@@ -16562,6 +16598,24 @@
       "duration_ms": 652040,
       "name": "The Drapery Falls",
       "url": "https://open.spotify.com/track/1kLXoAje5Z4mlZOAFgZZj3"
+    },
+    {
+      "album": {
+        "name": "The Duelist",
+        "url": "https://open.spotify.com/album/4OgDOuY3NUpKbG0YSYl2kv"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "The Duelist",
+      "url": "https://open.spotify.com/track/3iQLR1D3L0iremvqRF0HXE"
     },
     {
       "album": {
@@ -18235,6 +18289,24 @@
     },
     {
       "album": {
+        "name": "The Return of Gor Gor",
+        "url": "https://open.spotify.com/album/3BXP8puT6OR8NfBKAejNsJ"
+      },
+      "artists": [
+        {
+          "name": "Gwar",
+          "url": "https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206185,
+      "name": "Tyrant King",
+      "url": "https://open.spotify.com/track/43S1Zw11WVZxVxoMczFXTu"
+    },
+    {
+      "album": {
         "name": "Nemesis",
         "url": "https://open.spotify.com/album/37qdr3nW8foSCx7SRHP5La"
       },
@@ -18358,6 +18430,24 @@
       "duration_ms": 389947,
       "name": "UNHALL\u00d8WED",
       "url": "https://open.spotify.com/track/7F50EgojtGvz0imM1Koix8"
+    },
+    {
+      "album": {
+        "name": "Universe (Gravity for Hearts)",
+        "url": "https://open.spotify.com/album/5mTkKf7IMfVMLC5lj8OSPF"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504360,
+      "name": "Universe (Gravity For Hearts)",
+      "url": "https://open.spotify.com/track/5ILKpilzQD9l9ZrRI9dXEO"
     },
     {
       "album": {

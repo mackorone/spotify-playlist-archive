@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: I Prevail",
+  "description": "For full-volume lovers. Cover: Bush",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -182,6 +182,24 @@
       "duration_ms": 216771,
       "name": "1987",
       "url": "https://open.spotify.com/track/3yn4cBZTTeCZf2sD70Mnes"
+    },
+    {
+      "album": {
+        "name": "2 LITER SPITE",
+        "url": "https://open.spotify.com/album/69iRuCRfkznWMQs3yBkrGv"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "2 LITER SPITE",
+      "url": "https://open.spotify.com/track/5arHMhKsZiD5spn1cX8cAl"
     },
     {
       "album": {
@@ -974,7 +992,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 182650,
       "name": "All The Love Is Gone",
       "url": "https://open.spotify.com/track/5YSEFmTZBt1Ne3p0S9ZQMr"
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 199334,
       "name": "Bad Behavior",
       "url": "https://open.spotify.com/track/0yaRBGoeOXAwCt6dnpUPnr"
@@ -2736,7 +2754,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 163871,
       "name": "bored. tired. torn.",
       "url": "https://open.spotify.com/track/204TjMh4AG3S9hizWFegYa"
@@ -6154,7 +6172,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 295269,
       "name": "Encore, Thank You, Goodnight.",
       "url": "https://open.spotify.com/track/77cp85MHuYvJ4NpPsCrPe9"
@@ -6926,6 +6944,28 @@
       "duration_ms": 230909,
       "name": "Feel Me Now",
       "url": "https://open.spotify.com/track/0Qc7UYagLJkUM8xZ3b7gKJ"
+    },
+    {
+      "album": {
+        "name": "Fell So Hard, Felt So Right (feat. Story Of The Year)",
+        "url": "https://open.spotify.com/album/7n9UbsXl8JjbGhi1eStE3t"
+      },
+      "artists": [
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        },
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182266,
+      "name": "Fell So Hard, Felt So Right - feat. Story Of The Year",
+      "url": "https://open.spotify.com/track/2u8zwyH0Kwgs43ZMI4ikQw"
     },
     {
       "album": {
@@ -8069,6 +8109,24 @@
     },
     {
       "album": {
+        "name": "Gnash",
+        "url": "https://open.spotify.com/album/0DXRyUTkBoNnd5ju9m8cun"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162706,
+      "name": "Gnash",
+      "url": "https://open.spotify.com/track/6Yu7zrXznYyNuzkpcwTuUp"
+    },
+    {
+      "album": {
         "name": "God Has Cut You Down",
         "url": "https://open.spotify.com/album/3sUqSrGGTG11juyEzJJclL"
       },
@@ -8428,7 +8486,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 170835,
       "name": "GREED",
       "url": "https://open.spotify.com/track/5qpCWNd0ueIuJUC3O2Y2bx"
@@ -11020,6 +11078,24 @@
       "duration_ms": 243522,
       "name": "Keep Sweet",
       "url": "https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m"
+    },
+    {
+      "album": {
+        "name": "Keep Swinging",
+        "url": "https://open.spotify.com/album/2j2eTwYU491DDJjTnfCJsB"
+      },
+      "artists": [
+        {
+          "name": "Saving Abel",
+          "url": "https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166101,
+      "name": "Keep Swinging",
+      "url": "https://open.spotify.com/track/1tSxKX7htqEKDD6sjgsT6y"
     },
     {
       "album": {
@@ -16290,7 +16366,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 194493,
       "name": "Puppets Can\u2019t Control You",
       "url": "https://open.spotify.com/track/1J5xY3cpHnTnfPTkUnktwI"
@@ -20441,6 +20517,24 @@
     },
     {
       "album": {
+        "name": "The Great Unknown",
+        "url": "https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181956,
+      "name": "The Great Unknown",
+      "url": "https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ"
+    },
+    {
+      "album": {
         "name": "The Grey",
         "url": "https://open.spotify.com/album/0sZZRx6viGLYvf5tC7YvCl"
       },
@@ -20712,6 +20806,24 @@
       "duration_ms": 187696,
       "name": "The News",
       "url": "https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7"
+    },
+    {
+      "album": {
+        "name": "The Only Heaven You'll Know",
+        "url": "https://open.spotify.com/album/7rBKkQ3Vz9D6jbPwoEWRnI"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "The Only Heaven You'll Know",
+      "url": "https://open.spotify.com/track/4w1kRlzCTYQKXKXX2UULcK"
     },
     {
       "album": {

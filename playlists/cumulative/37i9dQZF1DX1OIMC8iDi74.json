@@ -4189,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "FANTASY",
+        "url": "https://open.spotify.com/album/1ifr9S1hzNzP8OFDvICTIS"
+      },
+      "artists": [
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "FANTASY",
+      "url": "https://open.spotify.com/track/2C2l5SMJiX1hZ6KgJfHOUe"
+    },
+    {
+      "album": {
         "name": "The Resonance VII",
         "url": "https://open.spotify.com/album/5SjR0EUzWxrlNFLgfwbUJq"
       },
@@ -6002,7 +6020,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 133241,
       "name": "HELL GIRL II",
       "url": "https://open.spotify.com/track/0kUTnb69wAs0a04O5q6pT1"
@@ -6574,6 +6592,24 @@
       "duration_ms": 226973,
       "name": "I Do Coke",
       "url": "https://open.spotify.com/track/3PvhJcV5xv7E1ImIfbRYeM"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/7ppqY6iceiQ8tNOa37Z8cM"
+      },
+      "artists": [
+        {
+          "name": "Squired",
+          "url": "https://open.spotify.com/artist/23Ud9TI3CpiqMUY6tBZEb6"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219512,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/1qWhEtxVYh6BYqllIlmRNu"
     },
     {
       "album": {
@@ -7806,7 +7842,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 269142,
       "name": "let u gooo",
       "url": "https://open.spotify.com/track/4o1d1W2tesysSQ9UcLqX8B"
@@ -8404,6 +8440,28 @@
       "duration_ms": 164400,
       "name": "LOUD",
       "url": "https://open.spotify.com/track/0G2Rh4K8prhlCQb8GRyCiH"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/66THnJ6tUFpM0n7YlZ5NCE"
+      },
+      "artists": [
+        {
+          "name": "Pao",
+          "url": "https://open.spotify.com/artist/0BjwyQkvPnw7b6SE1Zz1xr"
+        },
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/2czOL6q2yctL61Emg8u2tb"
     },
     {
       "album": {
@@ -9362,7 +9420,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 152651,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR"
@@ -10267,6 +10325,24 @@
     },
     {
       "album": {
+        "name": "OSCILLATOR",
+        "url": "https://open.spotify.com/album/4AawpCZgMKFzYhovl68zUZ"
+      },
+      "artists": [
+        {
+          "name": "Zoey808",
+          "url": "https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "OSCILLATOR",
+      "url": "https://open.spotify.com/track/6kEHYYDQ4m4GpG0OSsQKER"
+    },
+    {
+      "album": {
         "name": "Out of Order",
         "url": "https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM"
       },
@@ -10688,6 +10764,24 @@
       "duration_ms": 136805,
       "name": "Prize",
       "url": "https://open.spotify.com/track/7kweAeNokxeIoJOUuS45Dy"
+    },
+    {
+      "album": {
+        "name": "PULL UP",
+        "url": "https://open.spotify.com/album/2hjbAfaTc8FA1pokmcNKdW"
+      },
+      "artists": [
+        {
+          "name": "Jokr",
+          "url": "https://open.spotify.com/artist/0h36ZMicwkdzCIXBbQ2qDX"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "PULL UP",
+      "url": "https://open.spotify.com/track/7lOPCmdNlQUZAsVui7Guiq"
     },
     {
       "album": {
@@ -11298,7 +11392,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 171428,
       "name": "Roots",
       "url": "https://open.spotify.com/track/6L9jkip4WYoTK55kOY22au"
@@ -15626,7 +15720,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 219718,
       "name": "Your Lovin'",
       "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"

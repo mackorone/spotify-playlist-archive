@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "morrxs chidxs haciendo m\u00fasica chida. KNYA en portada.",
+  "description": "morrxs chidxs haciendo m\u00fasica chida. Majo Rivas en portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -606,7 +606,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 150000,
       "name": "amar t duele",
       "url": "https://open.spotify.com/track/3CwrAtQNT5y6uOd6WREZ2E"
@@ -1558,6 +1558,24 @@
       "duration_ms": 167368,
       "name": "Cortisol (Did It To Myself)",
       "url": "https://open.spotify.com/track/2vy6puTin4AtNDcDcclh1R"
+    },
+    {
+      "album": {
+        "name": "crisis EXistencial",
+        "url": "https://open.spotify.com/album/74wxSYpQK3BjuzWybyvMin"
+      },
+      "artists": [
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195936,
+      "name": "crisis EXistencial",
+      "url": "https://open.spotify.com/track/0wFt3NziYE88OQBfraoZ2b"
     },
     {
       "album": {
@@ -2896,7 +2914,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 263186,
       "name": "JAM CLUB BANDAM",
       "url": "https://open.spotify.com/track/6ur4ZudnVO2CjWwSCfs3GU"
@@ -4374,7 +4392,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 233250,
       "name": "Pacto de Dos",
       "url": "https://open.spotify.com/track/1W5K6dsQUSeNrDdIEhGtpX"
@@ -4947,6 +4965,24 @@
     },
     {
       "album": {
+        "name": "RIKISIMA",
+        "url": "https://open.spotify.com/album/70dM2LSWSAdaeK0W6GVaUQ"
+      },
+      "artists": [
+        {
+          "name": "Julia Amoroso",
+          "url": "https://open.spotify.com/artist/6chzluS9BC5JE8m6DWSUzF"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151912,
+      "name": "RIKISIMA",
+      "url": "https://open.spotify.com/track/3qhwPyhikkOHeTb41RWgm1"
+    },
+    {
+      "album": {
         "name": "Samai",
         "url": "https://open.spotify.com/album/7H1Xrcuj7sfqOItXL2DAHD"
       },
@@ -4980,6 +5016,24 @@
       "duration_ms": 159999,
       "name": "SAMPLE",
       "url": "https://open.spotify.com/track/7BJnKDg5L76sozy9KPzJXN"
+    },
+    {
+      "album": {
+        "name": "Santa Fe",
+        "url": "https://open.spotify.com/album/4EftGeyrHdEWWBegEIpVzQ"
+      },
+      "artists": [
+        {
+          "name": "Majo Rivas",
+          "url": "https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151346,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/7pVYLvktKK2V3BsXyXjOSU"
     },
     {
       "album": {
@@ -5256,6 +5310,32 @@
       "duration_ms": 147692,
       "name": "Sinto Sua Falta",
       "url": "https://open.spotify.com/track/1HvbqvEeE20J2dZpZSve3y"
+    },
+    {
+      "album": {
+        "name": "Sobre ti",
+        "url": "https://open.spotify.com/album/46LFeBEJA40wbTOZ9Nvx2H"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        },
+        {
+          "name": "Lunaem",
+          "url": "https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr"
+        },
+        {
+          "name": "Anish",
+          "url": "https://open.spotify.com/artist/3DW1mYPTqXp0z1saaE6VgZ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Sobre ti",
+      "url": "https://open.spotify.com/track/2jB70RhkcGs277hms0JuHQ"
     },
     {
       "album": {
@@ -6056,7 +6136,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 228655,
       "name": "Un Hombre Invisible",
       "url": "https://open.spotify.com/track/3y2UzU2wDd4ISArarf97xB"

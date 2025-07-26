@@ -5739,6 +5739,24 @@
     },
     {
       "album": {
+        "name": "Double Life",
+        "url": "https://open.spotify.com/album/7o0wr8KDp8DRX7scKNB04Z"
+      },
+      "artists": [
+        {
+          "name": "Night Moves",
+          "url": "https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/6HBObMmgy2AqWWFenhO5hQ"
+    },
+    {
+      "album": {
         "name": "Death and the Lady",
         "url": "https://open.spotify.com/album/3yI1n33Vr05wh6gU22BD6M"
       },
@@ -17660,6 +17678,28 @@
       "duration_ms": 340248,
       "name": "Oh France",
       "url": "https://open.spotify.com/track/4EwVCBiXHzunO6vZrM7xEX"
+    },
+    {
+      "album": {
+        "name": "Oh Light, Oh Light",
+        "url": "https://open.spotify.com/album/1ICixlJTDPGLWXLMCymGM5"
+      },
+      "artists": [
+        {
+          "name": "James Yorkston",
+          "url": "https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw"
+        },
+        {
+          "name": "Johanna S\u00f6derberg",
+          "url": "https://open.spotify.com/artist/5rdooMl2nQgTmhpklY2PVL"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198720,
+      "name": "Oh Light, Oh Light",
+      "url": "https://open.spotify.com/track/0UURbEqpXDw3VR05gDmAP4"
     },
     {
       "album": {

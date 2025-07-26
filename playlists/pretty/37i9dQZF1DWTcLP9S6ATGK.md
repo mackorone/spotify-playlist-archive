@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Budi Doremi
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,300 likes - 108 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,468 likes - 108 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [123456](https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [123456](https://open.spotify.com/album/23mJFFYLo7WPVPaHSrG4z3) | 3:24 |
+| 1 | [123456 \(New Version\)](https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [123456 \(New Version\)](https://open.spotify.com/album/23mJFFYLo7WPVPaHSrG4z3) | 3:24 |
 | 2 | [Lagu Orang Dewasa](https://open.spotify.com/track/4ANcqjCVvYH0wGGFewvSvt) | [Calvin Jeremy](https://open.spotify.com/artist/5R0U4DSRlKGCFcyJa4z4yD) | [Lagu Orang Dewasa](https://open.spotify.com/album/5YwzYvSVuWEUsl9LT5VEUG) | 2:49 |
 | 3 | [Tanda Tanya](https://open.spotify.com/track/2lkSPwVOSK1HJZwCG12O9w) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanda Tanya](https://open.spotify.com/album/3ceYHINL0M5RcqWMbr6f7j) | 3:02 |
 | 4 | [Simpan Dulu Rindu](https://open.spotify.com/track/5VMlyJVSWTOdH9jQj2fd15) | [Nuh...](https://open.spotify.com/artist/2xlEdRN74IYuAOrLjSNnjT) | [Simpan Dulu Rindu](https://open.spotify.com/album/1S0Ma0Q16iKUbI3YEBQ8Gq) | 4:12 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 13 | [Kamar Kost Kenangan](https://open.spotify.com/track/2HKjpUsflqYo0kOxQLXKTw) | [Ligea](https://open.spotify.com/artist/7hLgy5SoxWG2nYanRBiouX) | [Kamar Kost Kenangan](https://open.spotify.com/album/0vjf1NPMQ4nglpqEBRr7mV) | 4:11 |
 | 14 | [Belah Hati](https://open.spotify.com/track/7sqF7pqr1nxuJYSnEUhTVU) | [Ruth Garcia](https://open.spotify.com/artist/3VhvDHThiOy3cUZvAR1ZKq) | [Belah Hati](https://open.spotify.com/album/0GYLu0yNzy7lmWaqhxaooe) | 3:36 |
 | 15 | [Nyaman](https://open.spotify.com/track/03336qCYmxdKLltmhFB6Tu) | [Agatha Chelsea](https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX) | [Nyaman](https://open.spotify.com/album/5FNfJXs969ISWp9k70jrNz) | 3:24 |
-| 16 | [Cinta Sejati Takkan Mati](https://open.spotify.com/track/7dpp297nSdsTnLLKzyHzvz) | [Agus Subiyanto](https://open.spotify.com/artist/72dNzUqlWyBypqSlrDt4lR), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Cinta Sejati Takkan Mati](https://open.spotify.com/album/7KvyQagqJlR7mcagxOYHQy) | 4:35 |
+| 16 | [Cinta Sejati Takkan Mati](https://open.spotify.com/track/7dpp297nSdsTnLLKzyHzvz) | [Agus Subiyanto](https://open.spotify.com/artist/72dNzUqlWyBypqSlrDt4lR), [Pasha](https://open.spotify.com/artist/0UO2FX8p9mbsDj1Q8fSIhv) | [Cinta Sejati Takkan Mati](https://open.spotify.com/album/7KvyQagqJlR7mcagxOYHQy) | 4:35 |
 | 17 | [Little by Little](https://open.spotify.com/track/14OP5wOfh1zmkaNxRhazuz) | [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui) | [Midnight's Promises](https://open.spotify.com/album/7L8u8SoGZjEGBi9yFI0Cxo) | 3:20 |
 | 18 | [Aku Tetap Setia](https://open.spotify.com/track/17PuVfor28TRn93YPsKD8P) | [Dadali](https://open.spotify.com/artist/4J4X9maePktDRDgRBI004W) | [Aku Tetap Setia](https://open.spotify.com/album/4gHuQc7x4ICdGyWKQhQxKd) | 3:59 |
 | 19 | [Ga Romantis](https://open.spotify.com/track/3INOT0PotbLg3HXsyYx0gi) | [Indra Sinaga](https://open.spotify.com/artist/2abJPNlO0AZ5rxcKas2hOw) | [Ga Romantis](https://open.spotify.com/album/1xMUzSUbwxeaqwT9XC4MiQ) | 3:47 |

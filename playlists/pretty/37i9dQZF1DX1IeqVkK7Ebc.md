@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > The clink of ice in your drink
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,945 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,935 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 57 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
 | 58 | [Nature](https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:46 |
 | 59 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
-| 60 | [Want You For Life](https://open.spotify.com/track/71J2AeYis1MV4jISAm986M) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Want You For Life](https://open.spotify.com/album/3jHSiEahdW8Es6wj66PSxs) | 3:21 |
-| 61 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 |
+| 60 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 |
+| 61 | [Want You For Life](https://open.spotify.com/track/71J2AeYis1MV4jISAm986M) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Want You For Life](https://open.spotify.com/album/3jHSiEahdW8Es6wj66PSxs) | 3:21 |
 | 62 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 |
 | 63 | [Same Mouth](https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Same Mouth](https://open.spotify.com/album/0gpl7Z4SNjlyELHad9yiWn) | 2:36 |
 | 64 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 |
-| 65 | [Azizam \- Acoustic](https://open.spotify.com/track/2IQz2JtlZ4GjMuXcusYF2i) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam \(Acoustic\)](https://open.spotify.com/album/4vsBt7vutpoO2ebjuTinkn) | 2:40 |
-| 66 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \(Magic City Edition\)](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 |
+| 65 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \(Magic City Edition\)](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 |
+| 66 | [Azizam \- Acoustic](https://open.spotify.com/track/2IQz2JtlZ4GjMuXcusYF2i) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam \(Acoustic\)](https://open.spotify.com/album/4vsBt7vutpoO2ebjuTinkn) | 2:40 |
 | 67 | [Spend My Nights](https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Spend My Nights](https://open.spotify.com/album/4r4KOVmcgTNU3rT6YNFPPX) | 2:30 |
 | 68 | [Deeper](https://open.spotify.com/track/2M5JKIOgkmIDd4uE3a3RtR) | [JERUB](https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd) | [Deeper](https://open.spotify.com/album/7hDyIzUK0iXuZtKks5NFAh) | 3:10 |
 | 69 | [White Lies](https://open.spotify.com/track/2LNBTi5zqgHG7Zy4EbJoWT) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [White Lies](https://open.spotify.com/album/4epYWA0O8RiZ5iH5JZIpOr) | 2:57 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 77 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 |
 | 78 | [2 much 2 handle](https://open.spotify.com/track/0A28TOFc5aTmeUuMaIKYwk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [2 much 2 handle](https://open.spotify.com/album/6nyI7UeD5jHxEitLg7m9ua) | 2:20 |
 | 79 | [I Believe](https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:07 |
-| 80 | [Church in the Morning](https://open.spotify.com/track/3xSRAS1Phe2NuC6xq7IS9V) | [Jack Dean](https://open.spotify.com/artist/4Qqd73y2C4EJsGkM1HfElZ) | [Church in the Morning](https://open.spotify.com/album/3JGjyCYhWBO9aVnUBdrDUE) | 2:38 |
+| 80 | [Puppy](https://open.spotify.com/track/0yKTlrVWVszD7PftN5SEhH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn) | 3:55 |
 
 Snapshot ID: `aG0rRQAAAABU1PmOb8I8TUrkSXPDLIrT`

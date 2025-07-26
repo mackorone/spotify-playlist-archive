@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,460 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,591 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 44 | [Guys Like You Make Us Look Bad](https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [His Last Walk](https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM) | 3:55 |
 | 45 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
 | 46 | [Act Appalled](https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [Juturna](https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP) | 3:20 |
-| 47 | [Boiled Frogs](https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:57 |
-| 48 | [Bulls Make Money, Bears Make Money, Pigs Get Slaughtered](https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [Bone Palace Ballet: Grand Coda](https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk) | 3:28 |
+| 47 | [Bulls Make Money, Bears Make Money, Pigs Get Slaughtered](https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [Bone Palace Ballet: Grand Coda](https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk) | 3:28 |
+| 48 | [Boiled Frogs](https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:57 |
 | 49 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
 | 50 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 |
 | 51 | [Ambrosia](https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [On Frail Wings Of Vanity And Wax](https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa) | 3:05 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 89 | [Let The Evil Go East](https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg) | [Greeley Estates](https://open.spotify.com/artist/2l7ALCv1HxcE32kc3b7vag) | [Go West Young Man, Let The Evil Go East](https://open.spotify.com/album/3ApC6jMB269oXLXZK0hkPZ) | 3:20 |
 | 90 | [Apathy Is a Cold Body](https://open.spotify.com/track/3nZI9YTYInLiCdjGx7v9tK) | [Poison The Well](https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx) | [You Come Before You \(U.S\. Version\)](https://open.spotify.com/album/1jWoSWzUjyq2v2jnmRv3p8) | 5:00 |
 | 91 | [Medicating](https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw) | [Boys Night Out](https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ) | [Trainwreck](https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P) | 4:00 |
-| 92 | [Pages](https://open.spotify.com/track/1xJULOj0c01wovNn42lOsC) | [There For Tomorrow](https://open.spotify.com/artist/0lYXa6aa87Tz8Jzv1nW4HM) | [There For Tomorrow \(Deluxe Edition\)](https://open.spotify.com/album/0ZRygrECnzHvuOjRXnQtkd) | 3:31 |
-| 93 | [Smile In Your Sleep](https://open.spotify.com/track/0ZPQSy5xo686GSo8ia4gaj) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/62bbJz79Ph3Mx6hsvhg5ba) | 3:14 |
+| 92 | [Smile In Your Sleep](https://open.spotify.com/track/0ZPQSy5xo686GSo8ia4gaj) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/62bbJz79Ph3Mx6hsvhg5ba) | 3:14 |
+| 93 | [Pages](https://open.spotify.com/track/1xJULOj0c01wovNn42lOsC) | [There For Tomorrow](https://open.spotify.com/artist/0lYXa6aa87Tz8Jzv1nW4HM) | [There For Tomorrow \(Deluxe Edition\)](https://open.spotify.com/album/0ZRygrECnzHvuOjRXnQtkd) | 3:31 |
 | 94 | [Escape Artists Never Die](https://open.spotify.com/track/34RIandjffS6fEMitjZnvF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 5:17 |
 | 95 | [Hang 'Em High](https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp) | [A Static Lullaby](https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb) | [A Static Lullaby](https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ) | 3:59 |
 | 96 | [I Am Hollywood](https://open.spotify.com/track/0FKGUcrMijjbZYlJyZEJHR) | [He Is Legend](https://open.spotify.com/artist/53cAPynhUIC5WFgPPfbp2r) | [I Am Hollywood](https://open.spotify.com/album/6tooAA6e8rMEkgbMrsdo3r) | 2:41 |
 | 97 | [Counting 5\-4\-3\-2\-1](https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 3:19 |
 | 98 | [No Son Of Mine](https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 3:23 |
 | 99 | [Planning a Prison Break](https://open.spotify.com/track/02bp2Aq5cFTUfDnOYJxuuL) | [The Receiving End Of Sirens](https://open.spotify.com/artist/57fbnHozNJMl16yNzt4agV) | [Between the Heart and the Synapse](https://open.spotify.com/album/1M5DYiubn2ko8OpUs0lhEt) | 5:18 |
-| 100 | [The Latest Plague](https://open.spotify.com/track/3gYpsnUoDr1XJLw7f4EpZT) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Heroine](https://open.spotify.com/album/77vtFRBkyaKfj899Gp0xZ4) | 3:19 |
+| 100 | [Robots 3 Humans 0](https://open.spotify.com/track/7g2HoVn3w2eItlOGSoqP4L) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [The Anti Mother](https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4) | 4:29 |
 
 Snapshot ID: `Zv8MEwAAAAD52Ob5pyqpOK0KRIRtXnMN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,465 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,472 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [Feelings \- A COLORS SHOW](https://open.spotify.com/track/6pM36Gc15BBIwefH7Zy4GI) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Feelings \- A COLORS SHOW](https://open.spotify.com/album/5LJvUFehOgLrzRpDzMAH9o) | 3:26 |
 | 50 | [Another Level](https://open.spotify.com/track/7vuoXyvpNMhZJScAdeN0dz) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Patoranking](https://open.spotify.com/album/4AQnC9nJPONOcveexfbjYm) | 4:05 |
 
-Snapshot ID: `aIAmAAAAAAAjWHCVAMogE+d2CwvmLeO4`
+Snapshot ID: `aIF3gAAAAACq0jbjY+6AhTd8FWh0rJtN`

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=\_Bm2yIUuTyuvKe816A31UQ>Onos</a>
 
-522 songs - 1 day 17 hr 50 min
+523 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Ekwueme](https://open.spotify.com/track/2iM3JrGHGpEVW8zR22zkhZ) | [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc), [Ransom papi](https://open.spotify.com/artist/3QKg4PyjjtQ5fUmzTDpskf) | [Ekwueme](https://open.spotify.com/album/2XSQC92Cgl1nCz5aWNQr06) | 2:45 | 2025-06-06 | 2025-07-11 |
 | [Ekwueme](https://open.spotify.com/track/4C6PTGpwmwPxRC0pRBwp28) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A) | [EKWUEME](https://open.spotify.com/album/6LMZJFPE2SwUEOFxYrDkPy) | 9:45 | 2025-06-13 |  |
 | [El\-Roi](https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [El\-Roi](https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD) | 3:44 | 2024-05-03 | 2025-06-06 |
-| [ELIYAH](https://open.spotify.com/track/4VcrZkamuQXvxDhQFV8d9V) | [Funmi Reks](https://open.spotify.com/artist/1W7gXp0BPYb8wyQAnv4eGt) | [ELIYAH](https://open.spotify.com/album/1MYoiymSXTzSjo8jZgxJwC) | 5:15 | 2025-07-04 |  |
+| [ELIYAH](https://open.spotify.com/track/4VcrZkamuQXvxDhQFV8d9V) | [Funmi Reks](https://open.spotify.com/artist/1W7gXp0BPYb8wyQAnv4eGt) | [ELIYAH](https://open.spotify.com/album/1MYoiymSXTzSjo8jZgxJwC) | 5:15 | 2025-07-04 | 2025-07-26 |
 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-09-15 | 2024-03-16 |
 | [Emmanuel](https://open.spotify.com/track/6c5UMnCmZBski9aytlYIra) | [Nsikan Louis](https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B) | [Emmanuel](https://open.spotify.com/album/1BITuUt6zjCQP1cTcy8cgc) | 5:25 | 2024-01-05 | 2024-03-19 |
 | [Emmanuel Reloaded](https://open.spotify.com/track/6AsF3FYa3dpc31GwRPUjnF) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Emmanuel Reloaded](https://open.spotify.com/album/2xbcCQD5ATKq4Z6AYl6RfB) | 9:19 | 2025-06-06 | 2025-06-27 |
@@ -193,6 +193,7 @@
 | [Holy \(Most High\)](https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 4:13 | 2024-01-12 | 2024-06-07 |
 | [Holy \(My Adoration\)](https://open.spotify.com/track/3r93TcH9pQruKXQfTqoSoQ) | [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a) | [Holy \(My Adoration\)](https://open.spotify.com/album/5UMTElqx0nb4a81NBrdiWy) | 3:04 | 2025-06-06 |  |
 | [Holy Father](https://open.spotify.com/track/1gKWVPpNDVw0C6W3834jSo) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Holy Father](https://open.spotify.com/album/2EKWdSnVWyo3tl9Ro82yJs) | 2:41 | 2024-07-19 | 2024-10-24 |
+| [Holy Ghost](https://open.spotify.com/track/7qMtGAM3HregKdmlxslezQ) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Lady Audri](https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke) | [Holy Ghost](https://open.spotify.com/album/1PdYsNFHkhnqtpmDUmt5Hb) | 2:51 | 2025-07-18 |  |
 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 | 2024-11-15 | 2025-06-20 |
 | [Holy Spirit Come and Stay](https://open.spotify.com/track/4uxMYXzf8mXIpDp2O3zmsS) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [Holy Spirit Come and Stay](https://open.spotify.com/album/3hV9iIimP66jcwdS2nplQJ) | 4:32 | 2025-05-23 |  |
 | [Home](https://open.spotify.com/track/3rKKtRTL4MaQRkEb74GLP0) | [Jordan Praise](https://open.spotify.com/artist/7fG249hsXVMxhDYXtCfPzr) | [Home](https://open.spotify.com/album/766dgkiseXkzBGcGvZicLu) | 3:07 | 2025-05-09 |  |

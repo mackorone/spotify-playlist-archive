@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-791 songs - 1 day 14 hr 26 min
+793 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A New Tomorrow](https://open.spotify.com/track/6iq4LVdxruZvsSt84aCCqW) | [Dormantia](https://open.spotify.com/artist/12FwCUGACuerxilzPp3UgN) | [A New Tomorrow](https://open.spotify.com/album/4nEYU3MjOoJ360A2ovMH6r) | 2:52 | 2023-03-23 | 2024-02-09 |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2023-03-23 | 2024-05-05 |
 | [A Peaceful Space](https://open.spotify.com/track/2RGH3CpTwZac0WSu27KY74) | [Laurent Emmmerling](https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn) | [A Peaceful Space](https://open.spotify.com/album/64CA3RsK23wuS4dWuVhsCL) | 2:46 | 2024-12-17 | 2025-07-20 |
+| [A Sky Inside](https://open.spotify.com/track/0JAo9MefKP0TdcklH2BBRL) | [Starfield Echo](https://open.spotify.com/artist/4rEMs74XRhiHTEycuIVyAh) | [A Sky Inside](https://open.spotify.com/album/4p4i5aXparmdP3ZJYL2Hbd) | 2:55 | 2025-07-24 |  |
 | [A Solid State](https://open.spotify.com/track/0j7itsX7DkAsHJQQGL4XJe) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [A Solid State](https://open.spotify.com/album/31b43Zr4Eb7nNEnsX6GywM) | 2:53 | 2023-03-23 | 2024-03-21 |
 | [A Special Place](https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [A Special Place](https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB) | 2:26 | 2024-07-09 | 2025-01-09 |
 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2023-03-23 | 2024-05-05 |
@@ -80,6 +81,7 @@
 | [Atwined](https://open.spotify.com/track/1heAYXQYiL5e2VBRClCaif) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Atwined](https://open.spotify.com/album/6TTy6hUzyFliywFJLXfYsk) | 2:20 | 2023-03-23 | 2024-02-09 |
 | [Auguries](https://open.spotify.com/track/0r6dzNmVBGVqNAe86v1YVw) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Auguries](https://open.spotify.com/album/4h4VsyU4i64AH1leEjfBSa) | 2:46 | 2024-03-06 | 2024-07-16 |
 | [Aura Serena](https://open.spotify.com/track/0ZeAWj2BGa6VoJUBzN4bZE) | [Coêlie Couvez](https://open.spotify.com/artist/76RIL7v2EFaMgfcMdLfIXq) | [Aura Serena](https://open.spotify.com/album/3ogABRGwm1rntxXBNxOFVX) | 2:36 | 2024-02-08 | 2024-11-07 |
+| [Aurora Lenta](https://open.spotify.com/track/15iQzqps9VrV0zrzatLVqY) | [Through Quiet Tides](https://open.spotify.com/artist/2eHOuxkLbI8rJGWwAN41Gi) | [Aurora Lenta](https://open.spotify.com/album/2uiBjxqRg9W5wlyLp29aPO) | 2:47 | 2025-07-24 |  |
 | [Awha](https://open.spotify.com/track/0qagB5q8Pb3ws2FV2UXlDZ) | [Ember Nova](https://open.spotify.com/artist/4RJoq6yWNYmSjrgp41bgMN) | [Awha](https://open.spotify.com/album/5hYApWwpP6I3xsNFBgKF7k) | 2:52 | 2025-01-22 | 2025-05-26 |
 | [Balance Of Life](https://open.spotify.com/track/1Hue36yxMqCh9xX6TQ39pP) | [Baba Hall](https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV) | [Balance Of Life](https://open.spotify.com/album/79n1gHtnuCU27pmq5wNHNw) | 3:02 | 2024-07-15 | 2025-01-02 |
 | [Barefoot](https://open.spotify.com/track/4C97XW6FKoCdgyXoTgB6bV) | [Don Salfva](https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW) | [Barefoot](https://open.spotify.com/album/1voQMtrtjwjSzDq6urVhSV) | 2:59 | 2024-05-20 | 2025-02-02 |
@@ -138,7 +140,7 @@
 | [Cielo Notturno](https://open.spotify.com/track/5rE6VrSoUWVbN8zeqgCG8u) | [Callisto Mazzi](https://open.spotify.com/artist/0m0GtPOIUqS9mroE1ErOBn) | [Cielo Notturno](https://open.spotify.com/album/6QSEzNGp3z498l0xYouILT) | 3:08 | 2023-03-23 | 2024-02-09 |
 | [Ciels de Saphir](https://open.spotify.com/track/1WS6k1CpsOfxX61GeWKOR0) | [Fabuluxe](https://open.spotify.com/artist/4MwFbGn1PGHhaKAkhtEVDP) | [Ciels de Saphir](https://open.spotify.com/album/0td05C3nbN8gNEOsZ3DwC5) | 2:24 | 2025-04-09 | 2025-06-29 |
 | [Circularity](https://open.spotify.com/track/3U86GGu0IZtCmd1vxrK9ki) | [Labyrinthines](https://open.spotify.com/artist/3DWANz0CtvzLItCcONSdQQ) | [Circularity](https://open.spotify.com/album/0KyjYyFGkwwE4Qyfn5TWLc) | 2:55 | 2025-06-12 |  |
-| [Cirrus](https://open.spotify.com/track/3Q8gucbG6FdXmjisrfs36g) | [Tom Schiller](https://open.spotify.com/artist/6BxwLDTDUg7sDUQFATt4wZ) | [Cirrus](https://open.spotify.com/album/3pzZB5OIKoOHBgwCZGAYwy) | 2:40 | 2025-06-12 |  |
+| [Cirrus](https://open.spotify.com/track/3Q8gucbG6FdXmjisrfs36g) | [Tom Schiller](https://open.spotify.com/artist/6BxwLDTDUg7sDUQFATt4wZ) | [Cirrus](https://open.spotify.com/album/3pzZB5OIKoOHBgwCZGAYwy) | 2:40 | 2025-06-12 | 2025-07-26 |
 | [Clairvoyance](https://open.spotify.com/track/1ATwyUWpAnvpCGgsSsQ7Ms) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Clairvoyance](https://open.spotify.com/album/7EZZUbyw3E8fuMC1ubbKwO) | 3:36 | 2024-06-18 | 2024-12-28 |
 | [Clarify](https://open.spotify.com/track/5dnYuaLxgQCzwpbO1qsS0d) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Clarify](https://open.spotify.com/album/6Co30XY2obzBGDs429fPgM) | 2:12 | 2025-01-08 |  |
 | [Clear Mind](https://open.spotify.com/track/3nE5djRtJ8ye65bNGG5j76) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Goodnight](https://open.spotify.com/album/661sIW9bDfiwExa9kF2z71) | 3:14 | 2023-03-23 | 2024-01-18 |
@@ -558,7 +560,7 @@
 | [Quiescence](https://open.spotify.com/track/0rHeQqMBDmxvatRfwKePNl) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Quiescence](https://open.spotify.com/album/7xihxBicgKRqZ9ZGUiSln4) | 3:37 | 2025-04-23 |  |
 | [Quiet](https://open.spotify.com/track/4hVDM9NxyjKOcfp3etvJn7) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Quiet](https://open.spotify.com/album/5lyWODszd0IhEWQb8bVkj8) | 3:05 | 2024-12-03 | 2025-05-28 |
 | [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2023-03-23 | 2024-02-09 |
-| [Quiet Eternity](https://open.spotify.com/track/0IsHOUWhLv4ynUlpUJihhr) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Quiet Eternity](https://open.spotify.com/album/6X6SOB4FBFQK6pr7Fk8obr) | 3:17 | 2024-12-17 |  |
+| [Quiet Eternity](https://open.spotify.com/track/0IsHOUWhLv4ynUlpUJihhr) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Quiet Eternity](https://open.spotify.com/album/6X6SOB4FBFQK6pr7Fk8obr) | 3:17 | 2024-12-17 | 2025-07-26 |
 | [Quiet Lights](https://open.spotify.com/track/24AJr6RHcOOQG2dobtxFi4) | [Marzell Fischer](https://open.spotify.com/artist/0RzYpNqdYSyg9P4PtKlO1s) | [Quiet Lights](https://open.spotify.com/album/1nB1Z0e3yKPyXDlp5YLI4G) | 2:19 | 2023-03-23 | 2024-03-21 |
 | [Quietness](https://open.spotify.com/track/27ZLSp1tyjQQpm4doIhFCY) | [Coseae](https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09) | [Quietness](https://open.spotify.com/album/7qBTeldiyet58KcNxEgbav) | 2:54 | 2024-07-09 | 2025-05-22 |
 | [Radiance](https://open.spotify.com/track/2dE7f4gdVvdP6l5PBpBhYf) | [Kenton](https://open.spotify.com/artist/3GFWDsoRkUif3Xnlj9Wxk8) | [Radiance](https://open.spotify.com/album/3WoRPqPIJnQZf5LlsHAHd5) | 2:58 | 2024-02-08 | 2024-07-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Break up songs, the best cure for a broken heart!",
-  "num_followers": 442257,
+  "num_followers": 442250,
   "original_name": "Breakup Songs \ud83d\udc94",
   "owner": {
     "name": "Filtr Norway",
     "url": "https://open.spotify.com/user/sonymusic"
   },
-  "snapshot_id": "AAAHlOZCfs+PP2IX/Dn5OHfXcow1f1Lr",
+  "snapshot_id": "AAAHlgdTRdrODE/LslSId2KUpQRjlnQG",
   "tracks": [
     {
       "added_at": "2025-07-24 09:24:40",
@@ -1659,6 +1659,38 @@
       "duration_ms": 142909,
       "name": "HVA HAR SKJEDD MED OSS TO",
       "url": "https://open.spotify.com/track/7hVUWnMNUl7KIRyvhlVOju"
+    },
+    {
+      "added_at": "2025-07-25 11:07:53",
+      "album": {
+        "name": "Icarus",
+        "url": "https://open.spotify.com/album/6dOw1Yt8emqoiDLOulwIHq"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 155346,
+      "name": "Next Life",
+      "url": "https://open.spotify.com/track/15ioRljMDBXZUYkaZMIOgj"
+    },
+    {
+      "added_at": "2025-07-25 11:24:58",
+      "album": {
+        "name": "be a bitch",
+        "url": "https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 184406,
+      "name": "be a bitch",
+      "url": "https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU"
     }
   ],
   "unique_name": "Breakup Songs \ud83d\udc94",

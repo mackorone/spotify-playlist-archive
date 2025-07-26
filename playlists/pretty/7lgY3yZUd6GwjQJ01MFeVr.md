@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,229 likes - 101 songs - 5 hr 21 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,230 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 100 | [Betrayal](https://open.spotify.com/track/7uWM2ITKJdXGA6jjv50N0V) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Betrayal](https://open.spotify.com/album/3Q6tNsnuWm0bpYS5RAJlYc) | 3:00 |
 | 101 | [Lonely Cowboy](https://open.spotify.com/track/4b4qenweAK0E90SiuUtrLy) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 4:53 |
 
-Snapshot ID: `AAAcAU1a36gPdqksG2lubpGkLoVoLw47`
+Snapshot ID: `AAAcIEfuV8tKB2VxqWciI0wcDnxWH7CB`

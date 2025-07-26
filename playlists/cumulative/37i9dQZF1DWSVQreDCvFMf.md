@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Solace Out The Door
 
-463 songs - 1 day 5 hr 2 min
+466 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Awatin](https://open.spotify.com/track/5q0b9HzHrJ0COmFx7Hsulg) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Awatin](https://open.spotify.com/album/1BM6cU2S8UkM89MSqUB0ld) | 4:52 | 2025-01-31 | 2025-05-12 |
 | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi) | 4:57 | 2024-07-02 | 2024-09-07 |
 | [Aya](https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Aya](https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR) | 3:50 | 2024-09-24 | 2025-02-26 |
+| [Ayoko Magmadali](https://open.spotify.com/track/5v0DTg7KJdp0rxY0DcJDr2) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Ayoko Magmadali](https://open.spotify.com/album/2jsr3JYfTQKDnsaAXL97XW) | 2:24 | 2025-07-25 |  |
 | [Ayos Lang](https://open.spotify.com/track/1k1emHrNUbvDBVihKDBR2f) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Ayos Lang](https://open.spotify.com/album/6PIFh1ebIsEIArIFojLg8W) | 3:13 | 2025-03-28 | 2025-06-21 |
 | [Bababa](https://open.spotify.com/track/19BGZtnvH41wHrlW4h6SiG) | [1621](https://open.spotify.com/artist/02NMfOlZLaiwrDvQsZxXOI) | [Bababa](https://open.spotify.com/album/6Kf1U9GPu7ra3YcwrUbDyz) | 2:10 | 2025-04-22 | 2025-07-13 |
 | [Babalik](https://open.spotify.com/track/5jCT5oKgrvvQF11ThHJgds) | [Keanna Mag](https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v) | [Babalik](https://open.spotify.com/album/24pfBSNtLlKielvr1FciMU) | 4:37 | 2025-07-12 |  |
@@ -220,6 +221,7 @@
 | [Langit](https://open.spotify.com/track/0mwJVnMPx7dUODRpBfFLzi) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Langit](https://open.spotify.com/album/0TXzVqUogh7QWTFdg8NtIS) | 4:18 | 2024-07-02 | 2024-09-25 |
 | [Larawan](https://open.spotify.com/track/7KGw4emQ399EbF331j3b6d) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Larawan](https://open.spotify.com/album/3XARO9hODVmLRGVGX5w1gC) | 3:22 | 2025-03-21 | 2025-05-31 |
 | [LASIK](https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:45 | 2025-06-02 |  |
+| [LASING NA SA'YO](https://open.spotify.com/track/30ceUZfn5o5m0v2e0A4yEq) | [LU](https://open.spotify.com/artist/2PFOavJcy4B4Eom96N7vDl), [Off The Record](https://open.spotify.com/artist/0h2lW8O3gilzdOjbgLYivM) | [LASING NA SA'YO](https://open.spotify.com/album/7qR85SeauTbSnHXDDl0vP7) | 4:07 | 2025-07-25 |  |
 | [Last Christmas](https://open.spotify.com/track/6Qup707RazMQCWMZ634P41) | [Bugoy Drilon](https://open.spotify.com/artist/0kRAKgEOVI43Qkz9PLmPt8) | [Last Christmas](https://open.spotify.com/album/6rHFVlylIzRnNgk042i8jT) | 2:26 | 2024-12-25 | 2025-03-01 |
 | [Lederhosen \(feat\. ivoimpreso\)](https://open.spotify.com/track/2H7BnU6vKUxUS1RyIBNb9b) | [barb.](https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33), [Ivo Impreso](https://open.spotify.com/artist/55tfcOHVK67vg8BQZ7sZBV) | [Lederhosen \(feat\. ivoimpreso\)](https://open.spotify.com/album/2ALHofwweByHLJDXAkyF5J) | 3:56 | 2025-03-21 | 2025-05-31 |
 | [Let Me Down Easy](https://open.spotify.com/track/0VA4cCl0VCKzAstFBTRQSW) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Plain Girl](https://open.spotify.com/album/65ocMvFK1JMXvWac79SFjP) | 3:04 | 2025-01-31 | 2025-04-16 |
@@ -447,6 +449,7 @@
 | [Triumph](https://open.spotify.com/track/3JU64RR6S7P3y4ne7V5OMG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Triumph](https://open.spotify.com/album/6jvr0yp0tK9JHnoXLqMDbG) | 2:53 | 2024-10-18 | 2025-02-01 |
 | [Tulala](https://open.spotify.com/track/1h4HjBPTY2crZXkfyh86EU) | [VVINK](https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW) | [Tulala](https://open.spotify.com/album/3ka5uNHtmufUj96APhPy7P) | 3:26 | 2025-07-12 |  |
 | [Tumalon](https://open.spotify.com/track/3jY7hKSQ1Iqm8GXgs8lYHb) | [Solace Out The Door](https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c) | [Tumalon](https://open.spotify.com/album/6369WTiMYEJdEL4Sv0CSis) | 3:38 | 2024-12-12 | 2025-05-31 |
+| [Tunay](https://open.spotify.com/track/05jB2EjtotNv4schTAcb4a) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Tunay](https://open.spotify.com/album/2oW8IH7dqReTFtoLFQ6fhq) | 2:54 | 2025-07-25 |  |
 | [Tungo](https://open.spotify.com/track/7GHmdjKA61hiAHz8eeVPpq) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Tungo](https://open.spotify.com/album/4MPcLwldS79h2yL76EY032) | 2:47 | 2025-02-12 | 2025-05-03 |
 | [Twenties](https://open.spotify.com/track/0NzTdXtgZLKP6IcyFyGytS) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Twenties](https://open.spotify.com/album/376cAL4mCqmNTi7nRlz2v2) | 3:21 | 2025-06-20 |  |
 | [twin flames](https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [twin flames](https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1) | 2:53 | 2024-07-26 | 2024-11-09 |

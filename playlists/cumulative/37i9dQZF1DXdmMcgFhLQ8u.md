@@ -4,7 +4,7 @@
 
 > These country songs know exactly how you feel\. Cover: Riley Green
 
-187 songs - 11 hr 3 min
+188 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Memory I Don't Mess With](https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Memory I Don't Mess With](https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif) | 3:00 | 2021-12-03 |  |
 | [Mercy](https://open.spotify.com/track/2VIPU72L6tIR4w8J8ap6Kp) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:37 | 2021-12-03 |  |
 | [Miss That Girl](https://open.spotify.com/track/2l2Izjvt7Vj4Q9823SZ6XE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [FLOWER SHOPS \(THE ALBUM\): Two Dozen Roses](https://open.spotify.com/album/50uRwBAbSJNhpdgpFf9NQr) | 2:17 | 2023-08-18 | 2023-12-14 |
+| [Miss You Man](https://open.spotify.com/track/5LTVOVj96FP3GOYJyjbbQz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Miss You Man](https://open.spotify.com/album/7F291iQJw9GS7fN6dz8MNc) | 3:24 | 2025-07-25 |  |
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2021-12-03 |  |
 | [Need You Now](https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/5RypFF6rN9MUxFe4aAWA28) | 3:56 | 2022-04-01 |  |
 | [Need You Now](https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 3:56 | 2022-07-25 | 2024-04-19 |
@@ -137,7 +138,7 @@
 | [She Got the Best of Me](https://open.spotify.com/track/698eQRku24PIYPQPHItKlA) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:03 | 2021-12-03 |  |
 | [Should’ve Known Better](https://open.spotify.com/track/6ihxXxSjslaVYd3oaAHCMT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 3:01 | 2021-12-03 | 2024-04-28 |
 | [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 | 2025-02-05 |  |
-| [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 | 2021-12-03 |  |
+| [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 | 2021-12-03 | 2025-07-26 |
 | [Some People Do](https://open.spotify.com/track/5xI2WO75cIHhGX55MlaIgU) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:16 | 2021-12-03 | 2022-07-29 |
 | [Somebody Should Leave](https://open.spotify.com/track/16PnvRZnezJqHiWpgPFzjg) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Reba McEntire's Greatest Hits](https://open.spotify.com/album/2MLqNKbNHiFxU2W25KkW3o) | 3:34 | 2022-04-01 | 2022-04-20 |
 | [Someday When I Stop Loving You](https://open.spotify.com/track/0FvYbfE2siVMEoXM8j0p5u) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:02 | 2021-12-03 | 2022-07-22 |

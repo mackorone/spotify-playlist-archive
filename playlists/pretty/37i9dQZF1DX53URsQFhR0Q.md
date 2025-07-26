@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,320 likes - 50 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,328 likes - 50 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 24 | [Aseda Nwom](https://open.spotify.com/track/05R11rW0YAZNhjE3HpcGHm) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:01 |
 | 25 | [Awurade Kasa](https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 7:42 |
 | 26 | [Nyame Do Me](https://open.spotify.com/track/38phUOSqABmZbQwFVzQ1QZ) | [Isaac Ampong](https://open.spotify.com/artist/7KnEsTKSEB2oUgYW2fsXho) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:24 |
-| 27 | [Enyi Me Mma](https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:31 |
+| 27 | [Bue Kwan Ma Me](https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 6:17 |
 | 28 | [Meda Wase](https://open.spotify.com/track/70KR4uRhhDOjBYv8fK50SL) | [Hannah Marfo](https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK) | [Akristofoo Adooso](https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw) | 5:07 |
 | 29 | [Menyame Nhyiraba](https://open.spotify.com/track/68B3urp2uXgEDenOfqhdQi) | [Philipa Baafi](https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0) | [Ghana Gospel Mix](https://open.spotify.com/album/5ycAL9zH0ilBJ4wKjTDxpY) | 5:09 |
 | 30 | [Hold On](https://open.spotify.com/track/0HEB4FVrCze9RKUCuivkFW) | [Bernice Offei](https://open.spotify.com/artist/1s3k29zZeWqgAuxLms45Ex) | [Hold On](https://open.spotify.com/album/4UDMqjPmRx3jJlKIUbWfGn) | 7:38 |
 | 31 | [Di Wo Hene](https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu) | [Comfort Annor](https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:28 |
-| 32 | [Bue Kwan Ma Me](https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 6:17 |
+| 32 | [Enyi Me Mma](https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:31 |
 | 33 | [Akristofoo Adooso](https://open.spotify.com/track/7E889Da9t6o7vx8HdaDryH) | [Hannah Marfo](https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK) | [Akristofoo Adooso](https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw) | 7:22 |
 | 34 | [Go Higher](https://open.spotify.com/track/7GwaFLRJJq0Z0d2g3MfcE2) | [Philipa Baafi](https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:55 |
 | 35 | [Mema Meni So](https://open.spotify.com/track/3Rr1Y9nXzMpjqZcsKvzydb) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [Holy Ghost](https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0) | 5:18 |

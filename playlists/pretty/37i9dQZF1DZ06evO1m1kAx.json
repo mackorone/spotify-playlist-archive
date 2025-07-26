@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 7359,
+  "num_followers": 7363,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABkDVd/oFTa6MinzEfWFo9Q",
+  "snapshot_id": "aIF3gAAAAACE2XlDnskabKB6doU+I97F",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
+        "name": "Worry Me",
+        "url": "https://open.spotify.com/album/6XUaZvaQMG42gPY1KqVP9p"
       },
       "artists": [
         {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+          "name": "DJ Jimmy Jatt",
+          "url": "https://open.spotify.com/artist/1ZwLoNSj1T8R4D303zVVMp"
         },
         {
-          "name": "HI Idibia",
-          "url": "https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 237740,
-      "name": "Oyi (feat. HI Idibia)",
-      "url": "https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR"
+      "duration_ms": 193044,
+      "name": "Worry Me",
+      "url": "https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu"
     },
     {
       "added_at": null,
@@ -407,30 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worry Me",
-        "url": "https://open.spotify.com/album/6XUaZvaQMG42gPY1KqVP9p"
-      },
-      "artists": [
-        {
-          "name": "DJ Jimmy Jatt",
-          "url": "https://open.spotify.com/artist/1ZwLoNSj1T8R4D303zVVMp"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 193044,
-      "name": "Worry Me",
-      "url": "https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
@@ -440,33 +420,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "HI Idibia",
+          "url": "https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8"
         }
       ],
-      "duration_ms": 225827,
-      "name": "We Must Groove (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grass 2 Grace",
-        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
-        }
-      ],
-      "duration_ms": 271720,
-      "name": "No Shakin",
-      "url": "https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV"
+      "duration_ms": 237740,
+      "name": "Oyi (feat. HI Idibia)",
+      "url": "https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR"
     },
     {
       "added_at": null,
@@ -491,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grass 2 Grace",
+        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "duration_ms": 271720,
+      "name": "No Shakin",
+      "url": "https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gaga Shuffle",
         "url": "https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO"
       },
@@ -507,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 225827,
+      "name": "We Must Groove (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unstoppable International",
         "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
       },
@@ -519,26 +519,6 @@
       "duration_ms": 289384,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/3mhjJw2JU1cpTfrPA29Jcc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cupid Stories",
-        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
-      },
-      "artists": [
-        {
-          "name": "Bracket",
-          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Remember (feat. 2face)",
-      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
     },
     {
       "added_at": null,
@@ -587,6 +567,26 @@
       "duration_ms": 218462,
       "name": "Dance in the Rain",
       "url": "https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cupid Stories",
+        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
+      },
+      "artists": [
+        {
+          "name": "Bracket",
+          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Remember (feat. 2face)",
+      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oya Come Make We Go",
-        "url": "https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
-        }
-      ],
-      "duration_ms": 259773,
-      "name": "Oya Come Make We Go",
-      "url": "https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNSTOPPABLE",
         "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 261276,
       "name": "Enter the Place (feat. Sound Sultan)",
       "url": "https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oya Come Make We Go",
+        "url": "https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "duration_ms": 259773,
+      "name": "Oya Come Make We Go",
+      "url": "https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m"
     },
     {
       "added_at": null,
@@ -815,26 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS"
+        "name": "UNSTOPPABLE",
+        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 212498,
-      "name": "Abeg Abeg (feat. 2Baba & Timaya)",
-      "url": "https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW"
+      "duration_ms": 236564,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz"
     },
     {
       "added_at": null,
@@ -883,18 +875,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNSTOPPABLE",
-        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS"
       },
       "artists": [
         {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 236564,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz"
+      "duration_ms": 212498,
+      "name": "Abeg Abeg (feat. 2Baba & Timaya)",
+      "url": "https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW"
     },
     {
       "added_at": null,

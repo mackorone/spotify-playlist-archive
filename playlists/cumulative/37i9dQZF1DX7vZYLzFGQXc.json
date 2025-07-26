@@ -9799,6 +9799,24 @@
     },
     {
       "album": {
+        "name": "glow",
+        "url": "https://open.spotify.com/album/4lVFscTohMpTPU2DLT0gyo"
+      },
+      "artists": [
+        {
+          "name": "ddbb",
+          "url": "https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/5mZo3Q91x343f30VaNGN5q"
+    },
+    {
+      "album": {
         "name": "Go Away",
         "url": "https://open.spotify.com/album/27xdsCEB2SykoL0p7phq0e"
       },
@@ -11474,7 +11492,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 199075,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/0fqFpVkTs8dY5SZMmyY9Bh"
@@ -11626,7 +11644,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 205090,
       "name": "I Can't Lie",
       "url": "https://open.spotify.com/track/3P77RtWC2S8Fa87UHyXBFn"
@@ -16870,6 +16888,24 @@
       "duration_ms": 218181,
       "name": "MOTEL CALIFORNIA",
       "url": "https://open.spotify.com/track/4ptwR85sZUJghuTezDReht"
+    },
+    {
+      "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/5f3UPSNId36pblBYOBQVu0"
+      },
+      "artists": [
+        {
+          "name": "heeju",
+          "url": "https://open.spotify.com/artist/7K57siwKn5EnZAGr6dD9Ct"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166992,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/2i9YP5Olads9g9bEE6Gxm0"
     },
     {
       "album": {

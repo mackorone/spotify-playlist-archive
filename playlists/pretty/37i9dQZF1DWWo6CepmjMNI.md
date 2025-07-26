@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: LAILIN
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: JOYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,102 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,107 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [พหลโยธิน](https://open.spotify.com/track/4nbIr7LBvsRN40LdDWKE5o) | [Chili sauce with mackerel](https://open.spotify.com/artist/4HYi53mjmSBq5dUk3hdFCh) | [พหลโยธิน](https://open.spotify.com/album/7omNMRJUilFdXCNA7M7E0N) | 4:27 |
-| 2 | [boohoo \(จำไว้เลย\)](https://open.spotify.com/track/2iVVlPFUbce9jO8vk2E9m0) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [boohoo \(จำไว้เลย\)](https://open.spotify.com/album/18jiO1Q8waxP9sSoDqSGAB) | 4:55 |
-| 3 | [เธอรักฉัน? \(Fond\)](https://open.spotify.com/track/6w3W8uAQX2zCjJjUpMDSmn) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [เธอรักฉัน? \(Fond\)](https://open.spotify.com/album/3cMxfyCj5VBpfpKA2utPzO) | 4:44 |
-| 4 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 |
-| 5 | [คืนสุดท้าย](https://open.spotify.com/track/0eaMXaoL2DH75hhl2pYpbt) | [SURI SURII](https://open.spotify.com/artist/5kdt00mGiFal5y8jxanHsQ) | [คืนสุดท้าย](https://open.spotify.com/album/0fgIfJLKkcTj47BAHwVLry) | 4:17 |
-| 6 | [ปล่อย](https://open.spotify.com/track/3VQMlUWUtNRYsoboqKbZG9) | [RAIDISA](https://open.spotify.com/artist/3JwR9z3M5yuvGzcbVJ4A2i) | [ปล่อย](https://open.spotify.com/album/7LnUHC59hLAW1sVQxNARfW) | 4:39 |
-| 7 | [จนลืมไปว่าฉัน..](https://open.spotify.com/track/7hqnbHXT2jgWhEExrYuXAp) | [Goofy Glasses](https://open.spotify.com/artist/4aEnphaAdk7T24VMJm7Ouo) | [จนลืมไปว่าฉัน..](https://open.spotify.com/album/7wUz4TmoPNUbgnwkDiSqld) | 5:05 |
-| 8 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 |
-| 9 | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/track/4lBQGMyb8kKOic9ZRtkoK5) | [Fahlithh](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/album/5aZoshdk9gwpBXXtRWz48k) | 3:45 |
-| 10 | [Nearby Me](https://open.spotify.com/track/4noqj66fyiTataoAXIHL6W) | [nearbychair](https://open.spotify.com/artist/52THB7FifPvAgjfk4JOqdG) | [Me \(And You\)](https://open.spotify.com/album/5gDqtvlmIHMq5TpnEjyoTd) | 5:49 |
-| 11 | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/album/3zZ4G3SpnWIfl3MxG85km0) | 3:48 |
-| 12 | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/track/0vlOayuyvmAubvpuikwni8) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/album/3ai9E8B5K9LTbr4IVxQ8wK) | 3:51 |
-| 13 | [Summer](https://open.spotify.com/track/09SJ0bGwvb3qvhxBfdibqx) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [Summer](https://open.spotify.com/album/1nUtWJ4pT2emQjQDKWVldA) | 4:33 |
-| 14 | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/track/4LiBQyn6xxusJnzmIDnRT6) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/album/2SjUAS5K9R9dpckSx0zA4p) | 3:36 |
-| 15 | [ฝันนิรันดร์](https://open.spotify.com/track/65sVaJheVJ5SX3Ow5qBEFW) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [ฝันนิรันดร์](https://open.spotify.com/album/0L6wi7PvLrPEAst3KwCgVU) | 4:00 |
+| 1 | [ปล่อย](https://open.spotify.com/track/3VQMlUWUtNRYsoboqKbZG9) | [RAIDISA](https://open.spotify.com/artist/3JwR9z3M5yuvGzcbVJ4A2i) | [ปล่อย](https://open.spotify.com/album/7LnUHC59hLAW1sVQxNARfW) | 4:39 |
+| 2 | [คืนสุดท้าย](https://open.spotify.com/track/0eaMXaoL2DH75hhl2pYpbt) | [SURI SURII](https://open.spotify.com/artist/5kdt00mGiFal5y8jxanHsQ) | [คืนสุดท้าย](https://open.spotify.com/album/0fgIfJLKkcTj47BAHwVLry) | 4:17 |
+| 3 | [Neon](https://open.spotify.com/track/6mxcmQmJanVsmySIlAA4nG) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [Neon](https://open.spotify.com/album/79tXYEdO6Be0QmvLAMnb9v) | 4:00 |
+| 4 | [พหลโยธิน](https://open.spotify.com/track/4nbIr7LBvsRN40LdDWKE5o) | [Chili sauce with mackerel](https://open.spotify.com/artist/4HYi53mjmSBq5dUk3hdFCh) | [พหลโยธิน](https://open.spotify.com/album/7omNMRJUilFdXCNA7M7E0N) | 4:27 |
+| 5 | [เบบี๋เธอฟังก่อน \- Hold On](https://open.spotify.com/track/4PwrJaDUlR5zzpmI78sYGY) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [เบบี๋เธอฟังก่อน \(Hold On\)](https://open.spotify.com/album/5nHc9Hh8HK1G3IfFZhUxUR) | 4:40 |
+| 6 | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/track/4lBQGMyb8kKOic9ZRtkoK5) | [Fahlithh](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/album/5aZoshdk9gwpBXXtRWz48k) | 3:45 |
+| 7 | [ฝันที่ไม่เคยจริง](https://open.spotify.com/track/62qcoz57lBPuJoLt0OLY3y) | [Le Fronce](https://open.spotify.com/artist/2A9lXDMTOlqUbRPFtKvL3c) | [ฝันที่ไม่เคยจริง](https://open.spotify.com/album/2VgdSvziISGKQIeoVZ1Rx8) | 4:01 |
+| 8 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 |
+| 9 | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/track/0vlOayuyvmAubvpuikwni8) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/album/3ai9E8B5K9LTbr4IVxQ8wK) | 3:51 |
+| 10 | [boohoo \(จำไว้เลย\)](https://open.spotify.com/track/2iVVlPFUbce9jO8vk2E9m0) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [boohoo \(จำไว้เลย\)](https://open.spotify.com/album/18jiO1Q8waxP9sSoDqSGAB) | 4:55 |
+| 11 | [เธอรักฉัน? \(Fond\)](https://open.spotify.com/track/6w3W8uAQX2zCjJjUpMDSmn) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [เธอรักฉัน? \(Fond\)](https://open.spotify.com/album/3cMxfyCj5VBpfpKA2utPzO) | 4:44 |
+| 12 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 |
+| 13 | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/album/3zZ4G3SpnWIfl3MxG85km0) | 3:48 |
+| 14 | [Summer](https://open.spotify.com/track/09SJ0bGwvb3qvhxBfdibqx) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [Summer](https://open.spotify.com/album/1nUtWJ4pT2emQjQDKWVldA) | 4:33 |
+| 15 | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/track/4LiBQyn6xxusJnzmIDnRT6) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/album/2SjUAS5K9R9dpckSx0zA4p) | 3:36 |
 | 16 | [เตียงสีขาว \(ROM\)](https://open.spotify.com/track/4W3wTU3qXwR9BdTqMZacXB) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [เตียงสีขาว \(ROM\)](https://open.spotify.com/album/6yBvzGc1gAp5ytTORtcjua) | 5:33 |
 | 17 | [มิถุนา \(Amygdala\)](https://open.spotify.com/track/25GbVBQ3uetWjmMIaZAJN3) | [Jurassic.Pew](https://open.spotify.com/artist/0CXegTSxxcMLVXHjtnxC1Q) | [มิถุนา \(Amygdala\)](https://open.spotify.com/album/3wTVRAUB8LRtfouX1zcSaj) | 3:49 |
 | 18 | [NOISE CANCELLING](https://open.spotify.com/track/4M6UHs4hOdufqwjElfKseZ) | [TOFU \(TH\)](https://open.spotify.com/artist/4sgxvN6gh4YfyJ3Xe3Qof9) | [NOISE CANCELLING](https://open.spotify.com/album/7Jl5enjlOnil6RheLKFyft) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [เจ็บเก่ง](https://open.spotify.com/track/2m91Zioo3qjub8B5TpO8DC) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [เจ็บเก่ง \(Hurt\)](https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C) | 3:45 |
 | 50 | [ดอกไม้ของเรา](https://open.spotify.com/track/0ayDqcjc5Sif6k0BozklKN) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [ดอกไม้ของเรา](https://open.spotify.com/album/2qRRzS3sK16Ab7FFtvVXqC) | 4:42 |
 
-Snapshot ID: `aHoXSAAAAABPvSTrOiArv3meJzUojQFl`
+Snapshot ID: `aINlrAAAAAA7gHipZOK732FHrLLlvUrj`

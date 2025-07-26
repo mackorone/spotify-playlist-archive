@@ -4,7 +4,7 @@
 
 > Level up your gaming with these afro tracks\. Cover: Chella
 
-179 songs - 9 hr 21 min
+180 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Fuji Vibe](https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 5:22 | 2024-10-21 | 2025-06-10 |
 | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET) | 3:26 | 2025-01-09 |  |
 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 | 2025-03-31 |  |
+| [Girl on Fya](https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Girl On Fya](https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7) | 2:04 | 2025-07-25 |  |
 | [Glidin’ \(feat\. slowthai\)](https://open.spotify.com/track/5zOqYPTcgiTAZfnKUbaNSf) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Glidin’ \(feat\. slowthai\)](https://open.spotify.com/album/0DwjDbtMXpRYzO3HXTuzmu) | 3:17 | 2025-04-29 |  |
 | [Go Crazy](https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Crazy](https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y) | 2:14 | 2025-07-04 |  |
 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 | 2025-06-27 |  |
@@ -169,7 +170,7 @@
 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 | 2025-05-26 |  |
 | [TBH!](https://open.spotify.com/track/0zgqOEBPOAvU5vch5URzlt) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [TBH!](https://open.spotify.com/album/1KB4yswp0hKkKERpHPTNou) | 1:33 | 2024-10-21 | 2025-03-15 |
 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 | 2024-10-21 | 2025-03-15 |
-| [Too Correct](https://open.spotify.com/track/3jZ6HPh1hWZJCuKJKS6Ey0) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Twelve A.M](https://open.spotify.com/album/6ZOAzx00nKsqJYRTW3wknJ) | 3:28 | 2024-10-21 |  |
+| [Too Correct](https://open.spotify.com/track/3jZ6HPh1hWZJCuKJKS6Ey0) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Twelve A.M](https://open.spotify.com/album/6ZOAzx00nKsqJYRTW3wknJ) | 3:28 | 2024-10-21 | 2025-07-26 |
 | [Train](https://open.spotify.com/track/5R2wKKaRmOR2qDJKAPyXDl) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE), [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [No Love In Lagos](https://open.spotify.com/album/3OB64tBkIABfzlcWTYfr9N) | 3:10 | 2024-10-21 | 2025-03-15 |
 | [Trepidation \- Single Edit](https://open.spotify.com/track/0kSDqVS3um3zpxOdIzGLM5) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q), [Msafiri Zawose](https://open.spotify.com/artist/11ouELfzx4OsUjTQNlOa8w) | [Trepidation](https://open.spotify.com/album/49RJwvinSYLCPDN3PB3C8q) | 3:03 | 2025-04-29 | 2025-07-05 |
 | [Trouble](https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Trouble](https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK) | 3:43 | 2024-10-21 | 2025-03-15 |

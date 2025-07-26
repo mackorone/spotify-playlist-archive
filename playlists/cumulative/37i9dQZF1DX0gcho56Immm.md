@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Fade Evare
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: james K
 
-141 songs - 8 hr 2 min
+144 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Do you wanna](https://open.spotify.com/track/6zlAetX5aprkyBGdUu0sKd) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Great Doubt](https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP) | 3:21 | 2025-03-13 |  |
 | [dog\-tired](https://open.spotify.com/track/4ckNiDVC9gYumzgg9qZTQH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:21 | 2025-04-24 |  |
 | [Don't Let This Feeling](https://open.spotify.com/track/33040QumosMtuIENd4dG4D) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [Don't Let This Feeling](https://open.spotify.com/album/6A60dXBiLWris444qgDKaa) | 2:52 | 2025-03-13 |  |
+| [Doom Bikini](https://open.spotify.com/track/740QhlNMaY3mERdoQ7B5M5) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Doom Bikini](https://open.spotify.com/album/3YNUpHeTZEwmQMtmJy5fDm) | 4:56 | 2025-07-25 |  |
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-13 | 2025-06-07 |
 | [Dust Yourself Off](https://open.spotify.com/track/2NjB3X18j4ShmR962a38c3) | [Martha Skye Murphy](https://open.spotify.com/artist/4riGlB4lkpPDgJscJid8FA) | [Um](https://open.spotify.com/album/6Y0J5WRcTykUZ47wZFrxN3) | 2:05 | 2025-03-13 |  |
 | [Embarrassed Dog](https://open.spotify.com/track/5dBCI9rpjUHrBtQkgGlQ7A) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 2:00 | 2025-03-13 |  |
@@ -98,6 +99,7 @@
 | [Not Offended](https://open.spotify.com/track/4wDTwzp2JuuD4UKAP2jrD8) | [Mija Milovic](https://open.spotify.com/artist/2OOCBx8T5zRIv2tLXF8l59) | [Not Offended](https://open.spotify.com/album/68o9R9l54MZKYsV0xD5zR0) | 3:05 | 2025-06-19 |  |
 | [Nothing's Really Over, Not With Anyone](https://open.spotify.com/track/58FryVfE2TK3vRu64yWkBY) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Catharsis](https://open.spotify.com/album/66gqu98OyVLm1yrfDKtdOm) | 2:22 | 2025-03-13 |  |
 | [Ocean Apart](https://open.spotify.com/track/6rWPWP8A3c78e1UBXY0QSO) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 3:11 | 2025-06-26 |  |
+| [Open Air Backseat](https://open.spotify.com/track/1fJu2Da9yY5wdCWH8gHS4E) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Open Air Backseat](https://open.spotify.com/album/32QRugnY3lGwqLvBRCgtuQ) | 3:06 | 2025-07-25 |  |
 | [Orbit With You](https://open.spotify.com/track/5xztDcEC4sgXximb2D4a7g) | [FRUM](https://open.spotify.com/artist/5bLn7G1fMLphqWKHVsf36r) | [Whirlpool](https://open.spotify.com/album/7H4WKgNSU90vCS3Jp4sidl) | 2:59 | 2025-05-22 |  |
 | [Organs](https://open.spotify.com/track/3XrEOFbHz26fgR8UTmPxmP) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:47 | 2025-03-13 |  |
 | [Perfectly Blue](https://open.spotify.com/track/2TmoPdRP4g4L6RFMNI7Q1w) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Perfectly Blue](https://open.spotify.com/album/41QqoYgZKBZyd74WtB0vq2) | 3:23 | 2025-03-13 | 2025-05-16 |
@@ -124,7 +126,7 @@
 | [Stranglers](https://open.spotify.com/track/4VnMFlkMkhNa821NMvkTjE) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Rain Money Dogs](https://open.spotify.com/album/79USiXeKEd2sgnEzStvmFj) | 3:35 | 2025-05-29 |  |
 | [Sun Tan](https://open.spotify.com/track/5Vcly7T9MwGfvEMYk90RrI) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Sun Tan](https://open.spotify.com/album/06o9hDDvMetaUcbnATlFtg) | 3:37 | 2025-06-06 |  |
 | [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 | 2025-03-13 |  |
-| [Talk About It](https://open.spotify.com/track/0CMB8RuAsWGJ27KGI11ssZ) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Talk About It](https://open.spotify.com/album/4JmfHt2VTxhIPVXompKDoN) | 3:57 | 2025-05-15 |  |
+| [Talk About It](https://open.spotify.com/track/0CMB8RuAsWGJ27KGI11ssZ) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Talk About It](https://open.spotify.com/album/4JmfHt2VTxhIPVXompKDoN) | 3:57 | 2025-05-15 | 2025-07-26 |
 | [The artist is absent \- 89 seconds rewrite](https://open.spotify.com/track/2ukYn5UsXjyaTskqf8x9Xe) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [The artist is absent](https://open.spotify.com/album/7egg349kHYANI2fdTjQXSk) | 2:35 | 2025-04-03 |  |
 | [the end or the beginning idk \- trentemøller Remix](https://open.spotify.com/track/6NZZTbordbLZy1HuKd3hLv) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [the end or the beginning idk \(trentemøller Remix\)](https://open.spotify.com/album/5JducM3eb5EBHlofPuyhBv) | 3:38 | 2025-05-29 |  |
 | [The Future](https://open.spotify.com/track/1aaGeVnP4r66IgNvVoyL6T) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [The Future](https://open.spotify.com/album/5VGi3079D9C2xp1bggAujV) | 4:13 | 2025-04-24 |  |
@@ -140,6 +142,7 @@
 | [under your spell](https://open.spotify.com/track/7rC4bw9lF0zMF0BOJxPYsH) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [under your spell](https://open.spotify.com/album/4sWgv3Wjp4DxmtnQAtqfJg) | 3:47 | 2025-04-10 |  |
 | [Until June](https://open.spotify.com/track/4reIkCla73IpG17FZel0Hf) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Until June](https://open.spotify.com/album/7xlOzPNL2DyzVzwNoAvFJC) | 3:48 | 2025-05-29 |  |
 | [Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Fetish / Valley Serpent](https://open.spotify.com/album/3B4hYM7ShimSOicikAu1Gq) | 2:27 | 2025-06-26 |  |
+| [Watching You](https://open.spotify.com/track/0SsKmpQnyk4AAOY11yXS40) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Cleo](https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K) | 3:20 | 2025-07-25 |  |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-03-13 |  |
 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 | 2025-04-17 |  |
 | [X.U.Y.](https://open.spotify.com/track/7D1UX739Xu5b9ZbjqodwWT) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [See / X.U.Y.](https://open.spotify.com/album/5LDnunPgPjbR973c1NStVV) | 3:48 | 2025-04-17 |  |

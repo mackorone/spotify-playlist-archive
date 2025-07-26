@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1455471,
+  "num_followers": 1455886,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,30 @@
     {
       "added_at": "2025-07-14 14:37:12",
       "album": {
+        "name": "Now We Are Free",
+        "url": "https://open.spotify.com/album/4l7OptP4yIil0hbZ79XdMB"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Blademasterz",
+          "url": "https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Now We Are Free",
+      "url": "https://open.spotify.com/track/2oIgEdj37KobaBDji7Ulj9"
+    },
+    {
+      "added_at": "2025-07-14 14:37:12",
+      "album": {
         "name": "It Must Have Been Love (feat. Charla K)",
         "url": "https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy"
       },
@@ -899,30 +923,6 @@
       "duration_ms": 176000,
       "name": "It Must Have Been Love (feat. Charla K)",
       "url": "https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF"
-    },
-    {
-      "added_at": "2025-07-14 14:37:12",
-      "album": {
-        "name": "Now We Are Free",
-        "url": "https://open.spotify.com/album/4l7OptP4yIil0hbZ79XdMB"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Blademasterz",
-          "url": "https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "Now We Are Free",
-      "url": "https://open.spotify.com/track/2oIgEdj37KobaBDji7Ulj9"
     },
     {
       "added_at": "2025-07-14 14:37:12",
@@ -1435,30 +1435,6 @@
     {
       "added_at": "2025-07-14 14:37:12",
       "album": {
-        "name": "Miss You (Remix)",
-        "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Yosuf",
-          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
-        },
-        {
-          "name": "Dionysus",
-          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Miss You - Remix",
-      "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
-    },
-    {
-      "added_at": "2025-07-14 14:37:12",
-      "album": {
         "name": "HEAR THIZ MF",
         "url": "https://open.spotify.com/album/03OA9l45Pee4ix15dXhtxX"
       },
@@ -1479,6 +1455,30 @@
       "duration_ms": 143264,
       "name": "HEAR THIZ MF",
       "url": "https://open.spotify.com/track/6694BDIOC1J5OgyMWVqK2a"
+    },
+    {
+      "added_at": "2025-07-14 14:37:12",
+      "album": {
+        "name": "Miss You (Remix)",
+        "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Yosuf",
+          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
+        },
+        {
+          "name": "Dionysus",
+          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Miss You - Remix",
+      "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
     },
     {
       "added_at": "2025-07-14 14:37:12",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2025-07-14 14:37:12",
       "album": {
-        "name": "Boom Boom Boom",
-        "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 181787,
-      "name": "Boom Boom Boom",
-      "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
-    },
-    {
-      "added_at": "2025-07-14 14:37:12",
-      "album": {
         "name": "LEFT TO RIGHT",
         "url": "https://open.spotify.com/album/2ZaFxebkvtmCCZSRem1qY3"
       },
@@ -1875,18 +1855,22 @@
     {
       "added_at": "2025-07-14 14:37:12",
       "album": {
-        "name": "HOOYAH",
-        "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
       },
       "artists": [
         {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
         }
       ],
-      "duration_ms": 104400,
-      "name": "HOOYAH",
-      "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
+      "duration_ms": 181787,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
     },
     {
       "added_at": "2025-07-14 14:37:12",
@@ -1907,6 +1891,22 @@
       "duration_ms": 226583,
       "name": "Symphony Of Life",
       "url": "https://open.spotify.com/track/1v5FsB6y2kNrLVjtQuuKE8"
+    },
+    {
+      "added_at": "2025-07-14 14:37:12",
+      "album": {
+        "name": "HOOYAH",
+        "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 104400,
+      "name": "HOOYAH",
+      "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
     },
     {
       "added_at": "2025-07-14 14:37:12",
@@ -2027,42 +2027,26 @@
     {
       "added_at": "2025-07-14 14:37:12",
       "album": {
-        "name": "Body Move",
-        "url": "https://open.spotify.com/album/0P5w4jlC0azTCXjNfC4OFj"
+        "name": "The Age Of Love (Brennan Heart & ANDY SVGE Remix)",
+        "url": "https://open.spotify.com/album/4pk35uSAFZ7Q2MweAdCWN3"
       },
       "artists": [
         {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+          "name": "Age Of Love",
+          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
         },
         {
-          "name": "TwinTigerz",
-          "url": "https://open.spotify.com/artist/0pEKh68H0lmNrnAwV2aU4B"
-        }
-      ],
-      "duration_ms": 229548,
-      "name": "Body Move",
-      "url": "https://open.spotify.com/track/7oqIwI5vvNXUjnt8EZHVrh"
-    },
-    {
-      "added_at": "2025-07-14 14:37:12",
-      "album": {
-        "name": "The Tunnel",
-        "url": "https://open.spotify.com/album/3jmkZoQR95gXny1yMmXXiV"
-      },
-      "artists": [
-        {
-          "name": "Adaro",
-          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
         },
         {
-          "name": "Jordan Jade",
-          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
+          "name": "ANDY SVGE",
+          "url": "https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp"
         }
       ],
-      "duration_ms": 179612,
-      "name": "The Tunnel",
-      "url": "https://open.spotify.com/track/6ldvSkajnSb7ntkImkQjBP"
+      "duration_ms": 187200,
+      "name": "The Age Of Love - Brennan Heart & ANDY SVGE Remix",
+      "url": "https://open.spotify.com/track/4h1igBodAXxo1IKsbV5h4Q"
     },
     {
       "added_at": "2025-07-14 14:37:12",
@@ -2087,26 +2071,42 @@
     {
       "added_at": "2025-07-14 14:37:12",
       "album": {
-        "name": "The Age Of Love (Brennan Heart & ANDY SVGE Remix)",
-        "url": "https://open.spotify.com/album/4pk35uSAFZ7Q2MweAdCWN3"
+        "name": "The Tunnel",
+        "url": "https://open.spotify.com/album/3jmkZoQR95gXny1yMmXXiV"
       },
       "artists": [
         {
-          "name": "Age Of Love",
-          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
+          "name": "Adaro",
+          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
         },
         {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "ANDY SVGE",
-          "url": "https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp"
+          "name": "Jordan Jade",
+          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
         }
       ],
-      "duration_ms": 187200,
-      "name": "The Age Of Love - Brennan Heart & ANDY SVGE Remix",
-      "url": "https://open.spotify.com/track/4h1igBodAXxo1IKsbV5h4Q"
+      "duration_ms": 179612,
+      "name": "The Tunnel",
+      "url": "https://open.spotify.com/track/6ldvSkajnSb7ntkImkQjBP"
+    },
+    {
+      "added_at": "2025-07-14 14:37:12",
+      "album": {
+        "name": "Body Move",
+        "url": "https://open.spotify.com/album/0P5w4jlC0azTCXjNfC4OFj"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "TwinTigerz",
+          "url": "https://open.spotify.com/artist/0pEKh68H0lmNrnAwV2aU4B"
+        }
+      ],
+      "duration_ms": 229548,
+      "name": "Body Move",
+      "url": "https://open.spotify.com/track/7oqIwI5vvNXUjnt8EZHVrh"
     },
     {
       "added_at": "2025-07-14 14:37:12",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2025-07-14 14:37:12",
       "album": {
-        "name": "G.L.Y.",
-        "url": "https://open.spotify.com/album/7gGZW6T6rXjDSMGaqOvBUe"
-      },
-      "artists": [
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "G.L.Y.",
-      "url": "https://open.spotify.com/track/0XacYFLW0WdPqXTajmmdw5"
-    },
-    {
-      "added_at": "2025-07-14 14:37:12",
-      "album": {
         "name": "WHERE DID YOU GO",
         "url": "https://open.spotify.com/album/6omkRAcLFb68qKKfskT6gq"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 204750,
       "name": "WHERE DID YOU GO",
       "url": "https://open.spotify.com/track/4sNBmBaD30oS78qxIVmEi0"
+    },
+    {
+      "added_at": "2025-07-14 14:37:12",
+      "album": {
+        "name": "G.L.Y.",
+        "url": "https://open.spotify.com/album/7gGZW6T6rXjDSMGaqOvBUe"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "G.L.Y.",
+      "url": "https://open.spotify.com/track/0XacYFLW0WdPqXTajmmdw5"
     },
     {
       "added_at": "2025-07-14 14:37:12",
@@ -2579,6 +2579,26 @@
     {
       "added_at": "2025-07-14 14:37:12",
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/62ES2BliQ2zIPbEJxLJ7m4"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "NLCK",
+          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
+        }
+      ],
+      "duration_ms": 182015,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1KtCYs1x2zZB0QXiSY6IN3"
+    },
+    {
+      "added_at": "2025-07-14 14:37:12",
+      "album": {
         "name": "Rebel or Redeem",
         "url": "https://open.spotify.com/album/3Fp0HIEF4G5BjbPnPAbWup"
       },
@@ -2599,26 +2619,6 @@
       "duration_ms": 162187,
       "name": "Rebel or Redeem",
       "url": "https://open.spotify.com/track/0AJFoiDPSkGPleUAljfqm1"
-    },
-    {
-      "added_at": "2025-07-14 14:37:12",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/62ES2BliQ2zIPbEJxLJ7m4"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        },
-        {
-          "name": "NLCK",
-          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
-        }
-      ],
-      "duration_ms": 182015,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/1KtCYs1x2zZB0QXiSY6IN3"
     },
     {
       "added_at": "2025-07-14 14:37:12",
@@ -2787,38 +2787,6 @@
     {
       "added_at": "2025-07-14 14:37:12",
       "album": {
-        "name": "Het Ergste Moet Nog Komen",
-        "url": "https://open.spotify.com/album/4e8qeRn6hayzXt7moP00Op"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        }
-      ],
-      "duration_ms": 211144,
-      "name": "Justify",
-      "url": "https://open.spotify.com/track/0iAbHZkWVZG6uJLGj4aZlq"
-    },
-    {
-      "added_at": "2025-07-14 14:37:12",
-      "album": {
-        "name": "Do Whatcha Say",
-        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
-      },
-      "artists": [
-        {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
-        }
-      ],
-      "duration_ms": 164300,
-      "name": "Do Whatcha Say",
-      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
-    },
-    {
-      "added_at": "2025-07-14 14:37:12",
-      "album": {
         "name": "Ik Ga Harder (feat. Jayh)",
         "url": "https://open.spotify.com/album/6IsvaafTSWnfBgOVkplYiX"
       },
@@ -2847,6 +2815,38 @@
     {
       "added_at": "2025-07-14 14:37:12",
       "album": {
+        "name": "Do Whatcha Say",
+        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
+      },
+      "artists": [
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        }
+      ],
+      "duration_ms": 164300,
+      "name": "Do Whatcha Say",
+      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
+    },
+    {
+      "added_at": "2025-07-14 14:37:12",
+      "album": {
+        "name": "Het Ergste Moet Nog Komen",
+        "url": "https://open.spotify.com/album/4e8qeRn6hayzXt7moP00Op"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        }
+      ],
+      "duration_ms": 211144,
+      "name": "Justify",
+      "url": "https://open.spotify.com/track/0iAbHZkWVZG6uJLGj4aZlq"
+    },
+    {
+      "added_at": "2025-07-14 14:37:12",
+      "album": {
         "name": "Apologize",
         "url": "https://open.spotify.com/album/2BIcvpImPWZgqa2mi791Ti"
       },
@@ -2871,26 +2871,6 @@
     {
       "added_at": "2025-07-14 14:37:12",
       "album": {
-        "name": "Party Till Midnight",
-        "url": "https://open.spotify.com/album/7k8jG1JAjmd88lHk5kBpbz"
-      },
-      "artists": [
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        },
-        {
-          "name": "Audiotricz",
-          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
-        }
-      ],
-      "duration_ms": 188129,
-      "name": "Party Till Midnight",
-      "url": "https://open.spotify.com/track/0yIpkAQNsMfkROSqSJG6Jx"
-    },
-    {
-      "added_at": "2025-07-14 14:37:12",
-      "album": {
         "name": "HEAR THE NOISE",
         "url": "https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye"
       },
@@ -2907,6 +2887,26 @@
       "duration_ms": 166988,
       "name": "HEAR THE NOISE",
       "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
+    },
+    {
+      "added_at": "2025-07-14 14:37:12",
+      "album": {
+        "name": "Party Till Midnight",
+        "url": "https://open.spotify.com/album/7k8jG1JAjmd88lHk5kBpbz"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Audiotricz",
+          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+        }
+      ],
+      "duration_ms": 188129,
+      "name": "Party Till Midnight",
+      "url": "https://open.spotify.com/track/0yIpkAQNsMfkROSqSJG6Jx"
     },
     {
       "added_at": "2025-07-14 14:37:12",
@@ -2975,22 +2975,22 @@
     {
       "added_at": "2025-07-14 14:37:12",
       "album": {
-        "name": "The Final Dose",
-        "url": "https://open.spotify.com/album/54xJCXszt42VOHFmLtpgU5"
+        "name": "BEUK D\u2019R IN",
+        "url": "https://open.spotify.com/album/2qZv9BX5KsakUEFgRGGSiT"
       },
       "artists": [
         {
-          "name": "Juyen Sebulba",
-          "url": "https://open.spotify.com/artist/5DrDb5tvBFk7sJxsMyA06r"
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
         },
         {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+          "name": "EZG",
+          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
         }
       ],
-      "duration_ms": 117019,
-      "name": "DO YOU LIKE ZAAG?",
-      "url": "https://open.spotify.com/track/2e8egSL6DTWLAjgsdC9YHE"
+      "duration_ms": 165660,
+      "name": "BEUK D\u2019R IN",
+      "url": "https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk"
     },
     {
       "added_at": "2025-07-14 14:37:12",
@@ -3019,18 +3019,22 @@
     {
       "added_at": "2025-07-14 14:37:12",
       "album": {
-        "name": "Sandstorm",
-        "url": "https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a"
+        "name": "The Final Dose",
+        "url": "https://open.spotify.com/album/54xJCXszt42VOHFmLtpgU5"
       },
       "artists": [
         {
-          "name": "Sub Sonik",
-          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+          "name": "Juyen Sebulba",
+          "url": "https://open.spotify.com/artist/5DrDb5tvBFk7sJxsMyA06r"
+        },
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
         }
       ],
-      "duration_ms": 188774,
-      "name": "Sandstorm",
-      "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
+      "duration_ms": 117019,
+      "name": "DO YOU LIKE ZAAG?",
+      "url": "https://open.spotify.com/track/2e8egSL6DTWLAjgsdC9YHE"
     }
   ],
   "unique_name": "Hardstyle Bangers",

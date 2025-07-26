@@ -4,7 +4,7 @@
 
 > Jazz house is our love language  🌳  with Chaos In The CBD
 
-126 songs - 8 hr 26 min
+128 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [I'M SORRY](https://open.spotify.com/track/17PF2BxCI4klUDl3JgbIIt) | [Your friend daao](https://open.spotify.com/artist/1YK6LlpClehFPoCkFttVdw) | [I'M SORRY](https://open.spotify.com/album/00iQTzEuuPwCFlQGaJb9ub) | 3:53 | 2025-02-28 | 2025-03-22 |
 | [If You Can't Trust Your Heart](https://open.spotify.com/track/5ls3ZBVoHvImuSA6S971sv) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [If You Can't Trust Your Heart](https://open.spotify.com/album/2HsJVqCOokqKz6sNgFRMVr) | 2:58 | 2025-02-21 |  |
 | [In The House of Waterfalls](https://open.spotify.com/track/3AhnJRinzJNzvTVIJqCBD3) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [In The House of Waterfalls](https://open.spotify.com/album/48afQIVKyqdTdu7DrKId9m) | 5:07 | 2025-02-21 |  |
-| [In the shade.](https://open.spotify.com/track/7qkVjJLBZH64MlwtY2oAxu) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [In the shade.](https://open.spotify.com/album/2F9PeLfWzyBQBuH6tmeZng) | 2:42 | 2025-05-30 |  |
+| [In the shade.](https://open.spotify.com/track/7qkVjJLBZH64MlwtY2oAxu) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [In the shade.](https://open.spotify.com/album/2F9PeLfWzyBQBuH6tmeZng) | 2:42 | 2025-05-30 | 2025-07-26 |
 | [Inner Light](https://open.spotify.com/track/4qRRX6SWTlmNVN8DKTHJqP) | [WheelUP](https://open.spotify.com/artist/5azPv1y5kPJljpHQmy5K32) | [Inner Light](https://open.spotify.com/album/0XobeWnTuxWo9mDeVuQ5Cx) | 4:00 | 2025-05-30 |  |
 | [Jazz Feel](https://open.spotify.com/track/3wBbSVC0FmbcQ0zlkBrNdC) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Jazz Feel](https://open.spotify.com/album/5Son32jRjljMaKwXfjmgRp) | 2:34 | 2025-03-28 |  |
 | [jazz is for ordinary people](https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp) | 2:44 | 2025-02-21 |  |
@@ -106,7 +106,7 @@
 | [Rhodes, 3AM](https://open.spotify.com/track/2RkW8H3tq7sVtqKNaL0iXn) | [Hokuto Sato](https://open.spotify.com/artist/6Dx27W6zWaZDopif8H7N8H) | [Years](https://open.spotify.com/album/3drdxf9dVPHUx8RgdH7P3y) | 5:39 | 2025-02-28 |  |
 | [Rise Up](https://open.spotify.com/track/6JT715eygcNEXD49ft9VVp) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [The Color of Sound](https://open.spotify.com/album/6hVUBys8AtFvmKGVimFVPl) | 5:03 | 2025-02-21 |  |
 | [Salve](https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Salve](https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8) | 3:13 | 2025-04-18 |  |
-| [Samba Breakfast \- Bonus Track](https://open.spotify.com/track/2wPA16bUf17UmtdlNh6ASV) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Samba Breakfast \(Bonus Track\)](https://open.spotify.com/album/4GmZJrUmzBH5q1Cjlzxqsl) | 3:07 | 2025-06-27 |  |
+| [Samba Breakfast \- Bonus Track](https://open.spotify.com/track/2wPA16bUf17UmtdlNh6ASV) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Samba Breakfast \(Bonus Track\)](https://open.spotify.com/album/4GmZJrUmzBH5q1Cjlzxqsl) | 3:07 | 2025-06-27 | 2025-07-26 |
 | [Saw You for the First Time](https://open.spotify.com/track/44t34AtBWG4TKMF5Xc97kV) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/5OTN5IJFRgdjHsr4iaVGFo) | 6:44 | 2025-02-21 | 2025-03-22 |
 | [Shelter](https://open.spotify.com/track/1NUYg3LhwCupGjxisQTa0w) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Shelter](https://open.spotify.com/album/38cSJDqR52DWEufIBNfpqe) | 3:49 | 2025-02-21 |  |
 | [Simulacra](https://open.spotify.com/track/6uofhCrZ39bK4azqoG9naC) | [Palmate](https://open.spotify.com/artist/02mNGa8lfssm5rnhwZhVNw) | [Simulacra](https://open.spotify.com/album/7zQFTAlzMr0Gs0pKPR0txL) | 3:23 | 2025-04-04 |  |
@@ -132,6 +132,8 @@
 | [We and The Sea](https://open.spotify.com/track/65B61dm7yda9zq0DE6QZCO) | [S\-Pazz](https://open.spotify.com/artist/1ffTeCgQT9dcVyl4Cm3M0L) | [We and The Sea](https://open.spotify.com/album/4PEoNVQo1eFLtJUEVPfRmD) | 5:24 | 2025-02-21 |  |
 | [We Can Make It Happen](https://open.spotify.com/track/4lrCbQ95wplebijZj2PnCk) | [lovetempo](https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY) | [Live Or Die By Love](https://open.spotify.com/album/5MfghNciw5uWTAtcdh5fO2) | 4:32 | 2025-02-21 | 2025-03-22 |
 | [we still wanna dance](https://open.spotify.com/track/1NqKuaIJkJXB7yxYLNyKyR) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [we still wanna dance](https://open.spotify.com/album/0vBGL6ey5Qg1FY1eksUwc7) | 7:37 | 2025-04-18 | 2025-06-21 |
+| [What a Mess \- Milan93 Remix](https://open.spotify.com/track/6xMJBgV703zfA2Qh9h47sJ) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [What a Mess \(Milan93 Remix\)](https://open.spotify.com/album/5GyP21VKq7OBuxzgpTrBXf) | 3:07 | 2025-07-25 |  |
+| [Where are our voices.](https://open.spotify.com/track/20QuH7i9VEeBw9DpPvoCCA) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Where are our voices.](https://open.spotify.com/album/19NTRRctuvp2Cqk1Rfg9AH) | 2:24 | 2025-07-25 |  |
 | [Why they fly.](https://open.spotify.com/track/3wQed3BQzgZR1NXWubLvlC) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Why they fly.](https://open.spotify.com/album/41Fvn0ICyKC4Kuvu9ZRuWQ) | 1:44 | 2025-02-28 | 2025-04-26 |
 | [Would appear to be jazz.](https://open.spotify.com/track/7zM1h1j8HCCj7y27NC0J4t) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Would appear to be jazz.](https://open.spotify.com/album/2tdNyBAIoCMhXwAJtAO8vH) | 2:39 | 2025-04-25 |  |
 

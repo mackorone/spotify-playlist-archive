@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: grentperez
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,527 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,490 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 2 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 |
 | 3 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
 | 4 | [The Moment \(with KOKORO\)](https://open.spotify.com/track/5pehVxoK7Pck4PS1jef4WX) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI), [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [KOKORO](https://open.spotify.com/artist/4gULOUdHcpIdWOO170i4E5) | [The Moment \(with KOKORO\)](https://open.spotify.com/album/1CrOKTHLIPtpAbVAXQzp9K) | 3:40 |
-| 5 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 |
-| 6 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 |
-| 7 | [Who Knew Dancing Was A Sin](https://open.spotify.com/track/09qCrdsapK16DbhzFBzvMA) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Who Knew Dancing Was A Sin](https://open.spotify.com/album/2agANvTRbWcM7wzBgaSRFA) | 3:14 |
-| 8 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 |
-| 9 | [Girl at the Station](https://open.spotify.com/track/4YndX31W5FCh50t0hUzc4m) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [Girl at the Station \(feat\. Jeremy Passion\)](https://open.spotify.com/album/00YLlPSAmX70mh67Tra6gK) | 2:25 |
-| 10 | [On The Run](https://open.spotify.com/track/4WVjWMEhBSn3p99hD4v15b) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [On The Run](https://open.spotify.com/album/1bY412UI4q6K8rX2hrRVW6) | 3:19 |
-| 11 | [Olive Tree](https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Olive Tree](https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG) | 4:01 |
-| 12 | [White Lies](https://open.spotify.com/track/2LNBTi5zqgHG7Zy4EbJoWT) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [White Lies](https://open.spotify.com/album/4epYWA0O8RiZ5iH5JZIpOr) | 2:57 |
-| 13 | [Be Alright](https://open.spotify.com/track/0bMVmNosAnBxQR33fHcqYM) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Be Alright](https://open.spotify.com/album/35GvFcCqZCZgrIOIoeGYlX) | 3:43 |
+| 5 | [Sushi and Coca\-Cola](https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sushi and Coca\-Cola](https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4) | 2:37 |
+| 6 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 |
+| 7 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 |
+| 8 | [Who Knew Dancing Was A Sin](https://open.spotify.com/track/09qCrdsapK16DbhzFBzvMA) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Who Knew Dancing Was A Sin](https://open.spotify.com/album/2agANvTRbWcM7wzBgaSRFA) | 3:14 |
+| 9 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 |
+| 10 | [Girl at the Station](https://open.spotify.com/track/4YndX31W5FCh50t0hUzc4m) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [Girl at the Station \(feat\. Jeremy Passion\)](https://open.spotify.com/album/00YLlPSAmX70mh67Tra6gK) | 2:25 |
+| 11 | [On The Run](https://open.spotify.com/track/4WVjWMEhBSn3p99hD4v15b) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [On The Run](https://open.spotify.com/album/1bY412UI4q6K8rX2hrRVW6) | 3:19 |
+| 12 | [Olive Tree](https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Olive Tree](https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG) | 4:01 |
+| 13 | [White Lies](https://open.spotify.com/track/2LNBTi5zqgHG7Zy4EbJoWT) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [White Lies](https://open.spotify.com/album/4epYWA0O8RiZ5iH5JZIpOr) | 2:57 |
 | 14 | [Big Dipper](https://open.spotify.com/track/3dH6J7zTb9v1M3zV4Aimvr) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Big Dipper](https://open.spotify.com/album/08xdtJQENlsg6GD8NHnFOJ) | 3:08 |
 | 15 | [Girl of the Hour](https://open.spotify.com/track/5DToj6deasn1CaLqldIWCJ) | [Tabitha Meeks](https://open.spotify.com/artist/5XLLTtjICh1Hsk7NSJW5vv) | [Girl of the Hour](https://open.spotify.com/album/0d9BIuBugjnp2DDW2LlYES) | 3:03 |
 | 16 | [The Reason](https://open.spotify.com/track/2SMdyHYWF4YBLJ7olnlcC7) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [The Reason](https://open.spotify.com/album/5VjdVYkbB9hbUHdMgAAgj3) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Hello](https://open.spotify.com/track/1H4fnvmxwS2CoJMrZu44mb) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Hello](https://open.spotify.com/album/7jRUkMkhGxRbXklc8SbPKd) | 3:30 |
 | 100 | [Dream Boy](https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Dream Boy](https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1) | 3:24 |
 
-Snapshot ID: `aHnGxwAAAADt0ekadKUHWTL7zU6e4qLs`
+Snapshot ID: `aIMBaAAAAAB6vZHEbs5YVFptFoPpsVCA`

@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Daniel Caesar
 
-953 songs - 2 day 3 hr 14 min
+954 songs - 2 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,6 +768,7 @@
 | [Stuck Wit U](https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Stuck Wit U](https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C) | 3:33 | 2023-05-11 | 2023-08-18 |
 | [Stupid Dumb](https://open.spotify.com/track/6RFvRQfwSV5kvF9NodnZnb) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Stupid Dumb](https://open.spotify.com/album/0fJZgO2wJlvVXalnpdoc9i) | 2:44 | 2024-10-10 | 2025-02-21 |
 | [SUGAR DIVE](https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [SUGAR DIVE](https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39) | 3:14 | 2023-03-16 | 2023-05-05 |
+| [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 | 2025-07-24 |  |
 | [Suh Good](https://open.spotify.com/track/2ArkqDS78Ro7JOeidqzVTS) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Suh Good](https://open.spotify.com/album/1l8jGRft5ufwHFYR0sPkeu) | 2:29 | 2024-12-05 | 2024-12-13 |
 | [Suitable](https://open.spotify.com/track/6SvHJZNQfAZiFcZmuFGa6v) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Suitable](https://open.spotify.com/album/1jN5or6nocHJEg2sHYf67n) | 3:04 | 2023-03-16 | 2023-04-07 |
 | [Suite Life \(Familiar\) \- Bonus Track](https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 2:34 | 2023-07-06 | 2023-11-02 |

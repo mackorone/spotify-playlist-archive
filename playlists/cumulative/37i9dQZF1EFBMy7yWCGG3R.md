@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-369 songs - 20 hr 23 min
+370 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,8 @@
 | [Sorry \- Latino Remix](https://open.spotify.com/track/3grxgV6Ot8KqtysApjYLs1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Sorry \(Latino Remix\)](https://open.spotify.com/album/6GY8rrxuEzSJI08F0rfigi) | 3:39 | 2023-12-30 |  |
 | [Sorry To Me Too](https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Sorry To Me Too](https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS) | 3:29 | 2023-12-30 |  |
 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 | 2023-12-30 |  |
-| [spelling bee](https://open.spotify.com/track/3bAfnBQ6xfpCznOyxoeCXG) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [he's still just not that into you!](https://open.spotify.com/album/7kFo0ZTLAPAhZQ8gIIBQru) | 3:04 | 2025-07-17 |  |
+| [spelling bee](https://open.spotify.com/track/33OStqVx8yvu6egc2WBt6F) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [he's still just not that into you!](https://open.spotify.com/album/1AFQW8SO3gppdkZC8XPxP8) | 3:04 | 2025-07-25 |  |
+| [spelling bee](https://open.spotify.com/track/3bAfnBQ6xfpCznOyxoeCXG) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [he's still just not that into you!](https://open.spotify.com/album/7kFo0ZTLAPAhZQ8gIIBQru) | 3:04 | 2025-07-17 | 2025-07-26 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-02-14 | 2025-02-24 |
 | [Sports car](https://open.spotify.com/track/4il87YHqSV9UqbBkXM7z7m) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:45 | 2025-02-23 | 2025-03-20 |
 | [Sports car](https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:45 | 2025-03-19 |  |

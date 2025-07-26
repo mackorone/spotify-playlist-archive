@@ -907,6 +907,28 @@
     },
     {
       "album": {
+        "name": "Blossom Leaf",
+        "url": "https://open.spotify.com/album/0QArFPkChB6ghJgljg2Kr3"
+      },
+      "artists": [
+        {
+          "name": "Naga",
+          "url": "https://open.spotify.com/artist/1cFwGz4dRovWtCxBdaTOK1"
+        },
+        {
+          "name": "C4C",
+          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111283,
+      "name": "Blossom Leaf",
+      "url": "https://open.spotify.com/track/3OnTCa1IOuflK7lOTUZ8FT"
+    },
+    {
+      "album": {
         "name": "Hanagasumi",
         "url": "https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8"
       },
@@ -2068,7 +2090,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 175384,
       "name": "Forest Calling",
       "url": "https://open.spotify.com/track/4kr8NRrZomnZQ9FWBXprIV"
@@ -3777,6 +3799,28 @@
     },
     {
       "album": {
+        "name": "Yokai",
+        "url": "https://open.spotify.com/album/10hDUaGD1vcvRuhWHSwo7r"
+      },
+      "artists": [
+        {
+          "name": "Flitz&Suppe",
+          "url": "https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84"
+        },
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161194,
+      "name": "Mujinas Ramen Shop",
+      "url": "https://open.spotify.com/track/5xyhG7nGl3A8pvFFCEbTdl"
+    },
+    {
+      "album": {
         "name": "Legends of the Past",
         "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
       },
@@ -3994,7 +4038,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 139384,
       "name": "Nature's Temple",
       "url": "https://open.spotify.com/track/3mIYJNmhjPSbJhS03sv3Ko"
@@ -5123,6 +5167,28 @@
     },
     {
       "album": {
+        "name": "Shuriken",
+        "url": "https://open.spotify.com/album/0U1Lgqy5h5yb5u47Xw1uX8"
+      },
+      "artists": [
+        {
+          "name": "Naga",
+          "url": "https://open.spotify.com/artist/1cFwGz4dRovWtCxBdaTOK1"
+        },
+        {
+          "name": "Azuku",
+          "url": "https://open.spotify.com/artist/45JKsJ0fN2Ur7q9hAG6g5s"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142445,
+      "name": "Shuriken",
+      "url": "https://open.spotify.com/track/6cc2EcISyOVGAyIub0Xl8z"
+    },
+    {
+      "album": {
         "name": "Re - Feel",
         "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
       },
@@ -5232,7 +5298,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 198857,
       "name": "Snow in My Shoe",
       "url": "https://open.spotify.com/track/2WW3yzfcOk082LANurmdzT"
@@ -5772,7 +5838,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 168000,
       "name": "Temple Breeze",
       "url": "https://open.spotify.com/track/3C8saCblXpf5ysZX4XCmG8"
@@ -6750,7 +6816,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 124765,
       "name": "Zhuki",
       "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"

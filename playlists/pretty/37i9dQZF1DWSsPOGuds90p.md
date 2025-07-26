@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsPOGuds90p.md) - [plain]
 
 > soms moet het er even uit
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,602 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,600 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsPOGuds90p.md) - [plain]
 | 27 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 |
 | 28 | [You'll Get There in The End](https://open.spotify.com/track/38sEWCPwGb4scoqbwnAYOo) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [You'll Get There in The End](https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n) | 3:06 |
 | 29 | [Me, Myself & You](https://open.spotify.com/track/4dsgZlMA69Hb2VppaZyfSN) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Me, Myself & You](https://open.spotify.com/album/7cczplDsPconF6IdWikvOd) | 2:35 |
-| 30 | [Let's Take A Shower](https://open.spotify.com/track/6H6XCGMF9e4IDOfG582u4f) | [Norah Hendriks](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Every Single Thing](https://open.spotify.com/album/38DNTfhFTj6PYFzLrZiRX5) | 3:50 |
+| 30 | [Let's Take A Shower](https://open.spotify.com/track/6H6XCGMF9e4IDOfG582u4f) | [Norah Hendriks](https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC) | [Every Single Thing](https://open.spotify.com/album/38DNTfhFTj6PYFzLrZiRX5) | 3:50 |
 | 31 | [small](https://open.spotify.com/track/0zmhbBZjEEMxZLac83gLRQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [small](https://open.spotify.com/album/3h7ozNB6Vvbw2sTWTtxQCk) | 3:33 |
 | 32 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 |
 | 33 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |

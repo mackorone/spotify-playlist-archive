@@ -2,13 +2,13 @@
 
 ### [Hot Hits Naija ](https://open.spotify.com/playlist/37i9dQZF1DWZCOSaet9tpB)
 
-> Nigeria's hottest tracks\.  Cover: Burna boy
+> Nigeria's hottest tracks\.  Cover: Ayra Starr
 
-515 songs - 1 day 0 hr 40 min
+516 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 WORK \- Remix](https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [1 WORK \(Remix\)](https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls) | 2:16 | 2025-07-04 |  |
+| [1 WORK \- Remix](https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [1 WORK \(Remix\)](https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls) | 2:16 | 2025-07-04 | 2025-07-26 |
 | [1999](https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [R2 Sept 12](https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB) | 2:42 | 2024-04-26 | 2024-05-15 |
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-15 | 2023-06-20 |
 | [24/7](https://open.spotify.com/track/3bCbycN2nBKSeixp5sDmMi) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body, Soul & Spirit](https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ) | 2:26 | 2023-11-17 | 2023-12-08 |
@@ -237,6 +237,7 @@
 | [Holy Ghost](https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg) | 3:06 | 2023-11-10 | 2024-04-19 |
 | [Holy Ghost](https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm) | 3:06 | 2024-04-19 | 2024-11-29 |
 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 | 2025-02-26 | 2025-03-15 |
+| [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 | 2025-07-25 |  |
 | [I Salute \(feat\. Zlatan\)](https://open.spotify.com/track/5o3dCqgRTiSt6MC3Gi0jzj) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [I Salute \(feat\. Zlatan\)](https://open.spotify.com/album/57rCVdacl4vjhnT8UVb2n6) | 3:07 | 2023-04-20 | 2023-05-12 |
 | [IDK \(feat\. Zlatan\)](https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:00 | 2024-01-15 | 2024-07-17 |
 | [If I Be You](https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Be You](https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E) | 2:16 | 2024-04-26 | 2024-05-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sayf, Neffa, Sadturs e KIID, Clementino, Disme e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,923 likes - 144 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,948 likes - 144 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 18 | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/track/4kjNUtCESsc43Akyjstr8E) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/album/1CbkJFWbNADgydCD7cOoyP) | 3:03 |
 | 19 | [TIC TAC TOE \(feat\. Low\-Red\)](https://open.spotify.com/track/3WygvwOYzE75B7FtnAjead) | [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [BIG FRRR](https://open.spotify.com/album/2ekLFd6OWgUTEa97NMBPgL) | 2:00 |
 | 20 | [SCUSE](https://open.spotify.com/track/488WUia85rkkokhw5jeJ5G) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SCUSE](https://open.spotify.com/album/6QCxhx2XPYnL8SSNZoVkOC) | 2:04 |
-| 21 | [DOLCE COME IL MIELE](https://open.spotify.com/track/1ZyldS65EilAjdyHbEgnVr) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2), [LDO](https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z) | [GRANDE ANIMA](https://open.spotify.com/album/2WF5JxZ1sTKj4lV3Wpirma) | 3:12 |
+| 21 | [DOLCE COME IL MIELE \(feat\. SETTEMBRE\)](https://open.spotify.com/track/1ZyldS65EilAjdyHbEgnVr) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [LDO](https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z), [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [GRANDE ANIMA](https://open.spotify.com/album/2WF5JxZ1sTKj4lV3Wpirma) | 3:12 |
 | 22 | [MOMO DESIGN](https://open.spotify.com/track/1yGreSMP5Vle6mURU2bMdC) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7) | [MOMO DESIGN](https://open.spotify.com/album/3G8Ej9TUqVEKGwcwYfg9SG) | 2:03 |
 | 23 | [Lupare \(feat\. IvanBi\)](https://open.spotify.com/track/2sLyF6Upnl1DR8mNBRk0yK) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [VGL](https://open.spotify.com/artist/2UBRm5C4xz5j21IEf5UonV), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [PNTWINS](https://open.spotify.com/album/43jNfQrxWhj6m0Yms8PJDn) | 3:14 |
 | 24 | [Eco](https://open.spotify.com/track/23R4KWD5ZHKY9yBcwEAHHn) | [Stef 5k](https://open.spotify.com/artist/0KmrWcgpXXda7k3urHvzbh) | [Eco](https://open.spotify.com/album/2UniW9JgSHKCc0GpwbSgD9) | 2:04 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 81 | [Dove si va](https://open.spotify.com/track/7hZiiiS4ZfFbR6bwRSOtHg) | [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY) | [Dove si va](https://open.spotify.com/album/56472p5UVAiu1kUmq4hEaq) | 2:40 |
 | 82 | [Pit Stop Sulla Costa](https://open.spotify.com/track/2VwtGCqpn4u8xE0i3GGQWP) | [Giovane Feddini](https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u), [Big Swords](https://open.spotify.com/artist/1KirHVZN99OA7acYpT42Kx), [Toni Zeno](https://open.spotify.com/artist/3EjtKBJgiLErF6cprWuHXG) | [Pit Stop Sulla Costa](https://open.spotify.com/album/27GI4zUV3JF7JnawR1fvr9) | 3:50 |
 | 83 | [ADHD/1HW](https://open.spotify.com/track/59fLTra95Twpe0L8iLP0UA) | [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT) | [ADHD/1HW](https://open.spotify.com/album/4ZLFgt2EzZxEzBzk7gHdqJ) | 2:22 |
-| 84 | [CALABRIFORNIA](https://open.spotify.com/track/4QF8bJql8KaUOvkaGZwg04) | [Trankilo](https://open.spotify.com/artist/1ZDLyljVwUmmnVafwA8m4L), [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr) | [CALABRIFORNIA](https://open.spotify.com/album/4uToEsImCApiJQpp6iRwJy) | 2:27 |
+| 84 | [CALABRIFORNIA \(feat\. SKT\)](https://open.spotify.com/track/4QF8bJql8KaUOvkaGZwg04) | [Trankilo](https://open.spotify.com/artist/1ZDLyljVwUmmnVafwA8m4L), [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr) | [CALABRIFORNIA \(feat\. SKT\)](https://open.spotify.com/album/4uToEsImCApiJQpp6iRwJy) | 2:27 |
 | 85 | [Scary Movie](https://open.spotify.com/track/6jv7tyMdKwDBdru8F4hKqU) | [Leam](https://open.spotify.com/artist/5unMeXu4SMNZXy64Ad48VO) | [Scary Movie](https://open.spotify.com/album/358ZJt2jdujaFNvUl1kSlh) | 1:54 |
 | 86 | [Grano Saraceno](https://open.spotify.com/track/5LD8cEDQOnxkrpDGCaXmFu) | [Totó Valentino](https://open.spotify.com/artist/4TR1rLViZ0TMo5gdvSVVZr) | [Grano Saraceno](https://open.spotify.com/album/7CRdsL9yqR2ZS1Ktom84CG) | 2:24 |
 | 87 | [HOOLIGANS](https://open.spotify.com/track/1YTGtbQO8qh55gY8o9IMFQ) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8) | [ADHD](https://open.spotify.com/album/0qZU3KB0TjdpqmZRIa9QFC) | 3:01 |

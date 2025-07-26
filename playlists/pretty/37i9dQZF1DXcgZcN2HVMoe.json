@@ -1,6 +1,6 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 378038,
+  "num_followers": 378119,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "Brush Fire",
+        "url": "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Brush Fire",
+      "url": "https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "Don't Put It All On Me (feat. Fleet Foxes)",
         "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 218151,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Born and Raised",
         "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Brush Fire",
-        "url": "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB"
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 190426,
-      "name": "Brush Fire",
-      "url": "https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF"
+      "duration_ms": 218151,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "I Lied",
-        "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        },
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 234383,
-      "name": "I Lied (with Allison Ponthier)",
-      "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -1023,22 +1003,22 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Sunshine In The Room",
-        "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
+        "name": "I Lied",
+        "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         },
         {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
         }
       ],
-      "duration_ms": 182955,
-      "name": "Sunshine In The Room (feat. Jon Batiste)",
-      "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
+      "duration_ms": 234383,
+      "name": "I Lied (with Allison Ponthier)",
+      "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1055,6 +1035,26 @@
       "duration_ms": 228000,
       "name": "cardigan - cabin in candlelight version",
       "url": "https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Sunshine In The Room",
+        "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 182955,
+      "name": "Sunshine In The Room (feat. Jon Batiste)",
+      "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Waiting (Demo)",
-        "url": "https://open.spotify.com/album/1wncWM9JUHEyyo83zellqP"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 101475,
-      "name": "Waiting - Demo",
-      "url": "https://open.spotify.com/track/6sqjaO9q52sNKJ8S4x53DD"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 330066,
       "name": "Birch",
       "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Waiting (Demo)",
+        "url": "https://open.spotify.com/album/1wncWM9JUHEyyo83zellqP"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 101475,
+      "name": "Waiting - Demo",
+      "url": "https://open.spotify.com/track/6sqjaO9q52sNKJ8S4x53DD"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "Turning Onto You (HNNY Remix)",
         "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1751,30 +1751,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb",
-          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
-        },
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        },
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 243973,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Iridesce / Famous",
         "url": "https://open.spotify.com/album/5nioohlHYXy7BwGbX4hfpg"
       },
@@ -1795,6 +1771,30 @@
       "duration_ms": 233760,
       "name": "Famous",
       "url": "https://open.spotify.com/track/3qbToOWJKKc0HtruELjlE1"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb",
+          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
+        },
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 243973,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Equus Asinus",
-        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 166027,
-      "name": "Unlike Anything",
-      "url": "https://open.spotify.com/track/5r7wJLf1cKlIzio4e0xfje"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 168798,
       "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Equus Asinus",
+        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 166027,
+      "name": "Unlike Anything",
+      "url": "https://open.spotify.com/track/5r7wJLf1cKlIzio4e0xfje"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "All Around You",
-        "url": "https://open.spotify.com/album/1N2018a6LgCjSaZbuyTzSR"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 193791,
-      "name": "All Around You",
-      "url": "https://open.spotify.com/track/5S1kM0JFOhktFalTjOZH0L"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "To a T (Stripped)",
         "url": "https://open.spotify.com/album/5Je7IFgOXGPdf9JzyxNflb"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 232528,
       "name": "Black And White - Stripped",
       "url": "https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "All Around You",
+        "url": "https://open.spotify.com/album/1N2018a6LgCjSaZbuyTzSR"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 193791,
+      "name": "All Around You",
+      "url": "https://open.spotify.com/track/5S1kM0JFOhktFalTjOZH0L"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Speaking of You",
-        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 265726,
-      "name": "Speaking of You",
-      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 174146,
       "name": "Safeword",
       "url": "https://open.spotify.com/track/3FIcE9t4VtHLVNwaMSRALs"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Speaking of You",
+        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 265726,
+      "name": "Speaking of You",
+      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 226957,
+      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 226957,
-      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Abilene",
-        "url": "https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw"
-      },
-      "artists": [
-        {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
       },
@@ -2327,18 +2311,18 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Silver Deliverer",
-        "url": "https://open.spotify.com/album/5uLwNwP8hIrIUJNFHCNOiS"
+        "name": "Abilene",
+        "url": "https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw"
       },
       "artists": [
         {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
         }
       ],
-      "duration_ms": 340402,
-      "name": "Lasso",
-      "url": "https://open.spotify.com/track/7q5qLkQPSTOcPEJDfyTbQR"
+      "duration_ms": 256000,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2355,6 +2339,22 @@
       "duration_ms": 247250,
       "name": "Wild Honey (Acoustic)",
       "url": "https://open.spotify.com/track/5yP0mhRJkEEzGlCQLyC9Mn"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Silver Deliverer",
+        "url": "https://open.spotify.com/album/5uLwNwP8hIrIUJNFHCNOiS"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 340402,
+      "name": "Lasso",
+      "url": "https://open.spotify.com/track/7q5qLkQPSTOcPEJDfyTbQR"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2427,6 +2427,22 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "Queen of Silver Linings",
+        "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "duration_ms": 212964,
+      "name": "Queen of Silver Linings",
+      "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
         "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
@@ -2447,22 +2463,6 @@
       "duration_ms": 270426,
       "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
       "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Queen of Silver Linings",
-        "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
-      },
-      "artists": [
-        {
-          "name": "Amy Allen",
-          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
-        }
-      ],
-      "duration_ms": 212964,
-      "name": "Queen of Silver Linings",
-      "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2707,22 +2707,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 193972,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "LEMONS",
         "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
       },
@@ -2735,6 +2719,22 @@
       "duration_ms": 239213,
       "name": "Walking Home to You",
       "url": "https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 193972,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2871,38 +2871,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "ONE DAY HOME",
-        "url": "https://open.spotify.com/album/6DgYpISZEFRp4EF9jyQa7P"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 227224,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/1s1KBqj1PxgGQnmE3HC3Iv"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "JVC",
-        "url": "https://open.spotify.com/album/5P3HlykmoZNiNXG4nAa2Ry"
-      },
-      "artists": [
-        {
-          "name": "Jack Van Cleaf",
-          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
-        }
-      ],
-      "duration_ms": 248745,
-      "name": "Smoker",
-      "url": "https://open.spotify.com/track/1VshXQJLBCge1YWpbwJlig"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Hold Space (Live Acoustic)",
         "url": "https://open.spotify.com/album/5WVojDixFdPVRiiGq976S5"
       },
@@ -2919,6 +2887,22 @@
       "duration_ms": 193432,
       "name": "Hold Space - Live Acoustic",
       "url": "https://open.spotify.com/track/3Eyis5vCi3NfeQktrFtSwU"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Love Is Tall",
+        "url": "https://open.spotify.com/album/7vXTmI0oKrlEZzxW8UJ6Kp"
+      },
+      "artists": [
+        {
+          "name": "Oshima Brothers",
+          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "Love Is Tall",
+      "url": "https://open.spotify.com/track/3H3DQ2bzxJJ8yW198ZwTH3"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2943,18 +2927,34 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Love Is Tall",
-        "url": "https://open.spotify.com/album/7vXTmI0oKrlEZzxW8UJ6Kp"
+        "name": "JVC",
+        "url": "https://open.spotify.com/album/5P3HlykmoZNiNXG4nAa2Ry"
       },
       "artists": [
         {
-          "name": "Oshima Brothers",
-          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
         }
       ],
-      "duration_ms": 153533,
-      "name": "Love Is Tall",
-      "url": "https://open.spotify.com/track/3H3DQ2bzxJJ8yW198ZwTH3"
+      "duration_ms": 248745,
+      "name": "Smoker",
+      "url": "https://open.spotify.com/track/1VshXQJLBCge1YWpbwJlig"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "ONE DAY HOME",
+        "url": "https://open.spotify.com/album/6DgYpISZEFRp4EF9jyQa7P"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 227224,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/1s1KBqj1PxgGQnmE3HC3Iv"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -3151,18 +3151,18 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+        "name": "Never Gonna Change",
+        "url": "https://open.spotify.com/album/0SxiadbHhDU6dvWChJAezR"
       },
       "artists": [
         {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+          "name": "Kate York",
+          "url": "https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha"
         }
       ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
+      "duration_ms": 209571,
+      "name": "Never Gonna Change",
+      "url": "https://open.spotify.com/track/66itGczd1PDI7441zMYaeI"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -3183,18 +3183,18 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Never Gonna Change",
-        "url": "https://open.spotify.com/album/0SxiadbHhDU6dvWChJAezR"
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
       },
       "artists": [
         {
-          "name": "Kate York",
-          "url": "https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha"
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
         }
       ],
-      "duration_ms": 209571,
-      "name": "Never Gonna Change",
-      "url": "https://open.spotify.com/track/66itGczd1PDI7441zMYaeI"
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -3215,22 +3215,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Something Simple",
-        "url": "https://open.spotify.com/album/21Fj4477nfc4wOV6UZjL0u"
-      },
-      "artists": [
-        {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Something Simple",
-      "url": "https://open.spotify.com/track/4a1HMAk6ABM11NPJvBkkeT"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Way to the Way",
         "url": "https://open.spotify.com/album/3CWgExtidV8MWBaSbwo29M"
       },
@@ -3243,6 +3227,22 @@
       "duration_ms": 254545,
       "name": "Way to the Way",
       "url": "https://open.spotify.com/track/2LU6SdGdA3faORkSDY6tw6"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Something Simple",
+        "url": "https://open.spotify.com/album/21Fj4477nfc4wOV6UZjL0u"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Something Simple",
+      "url": "https://open.spotify.com/track/4a1HMAk6ABM11NPJvBkkeT"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -3295,6 +3295,22 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "American Recordings",
+        "url": "https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 123301,
+      "name": "Chicago Flood",
+      "url": "https://open.spotify.com/track/0rMXSI71nsDlBDkKbCUd4d"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
       },
@@ -3307,26 +3323,6 @@
       "duration_ms": 169226,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/7y2JsiZ8cKGQp0vmmcMJcB"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Swollen (feat. Julia Gargano)",
-        "url": "https://open.spotify.com/album/2FCf6fQqRvQt4L0CZOcAYq"
-      },
-      "artists": [
-        {
-          "name": "Francisco Martin",
-          "url": "https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE"
-        },
-        {
-          "name": "Julia Gargano",
-          "url": "https://open.spotify.com/artist/54IqzX9ecr68nJoastw0Nz"
-        }
-      ],
-      "duration_ms": 230917,
-      "name": "Swollen (feat. Julia Gargano)",
-      "url": "https://open.spotify.com/track/1XZG6gPL5pKw7MLRXCK1yX"
     }
   ],
   "unique_name": "Morning Coffee",

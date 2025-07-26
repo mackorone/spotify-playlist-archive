@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 
 > Aquí no hay nostalgia, ¡se vino la pachanga!, y el <a href="spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM">Rock Sónico</a> también!
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,847 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,874 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 77 | [Cosa Peligrosa](https://open.spotify.com/track/4HE5NQxOYHA5kqMiS2xFSi) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 3:23 |
 | 78 | [Corazón \- Remastered 2001](https://open.spotify.com/track/6SyQSl0pIpARrRDSvet4sN) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Reyes de la Canción](https://open.spotify.com/album/1ttVc5nDYMHWcLq2u0bKNj) | 4:44 |
 | 79 | [Pensé Que Se Trataba De Cieguitos](https://open.spotify.com/track/4vTjD2aIaRySj7tVo70w4D) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [La Dicha En Movimiento](https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo) | 2:20 |
-| 80 | [Un Poco Loco](https://open.spotify.com/track/48NK3TYEBDBCEwoDPIcC5p) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [Un Poco Loco](https://open.spotify.com/album/4MgEbkH0Fxs1QZ6bWQswGc) | 4:16 |
+| 80 | [Te Quiero Tanto, No Me Preguntes Más](https://open.spotify.com/track/0sKaMeuhSx79DcDYClZl4s) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [La Vida Vale La Pena](https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B) | 3:29 |
 
 Snapshot ID: `Zmot3gAAAABLEcUwgcskGK89xtpVGWIr`

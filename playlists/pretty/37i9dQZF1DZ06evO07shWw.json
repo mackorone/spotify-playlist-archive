@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAB1mE9PVsfZZyxuIMXVcZB8",
+  "snapshot_id": "aIF3gAAAAAD1VFGMnYa8WuT4mxn9ei3D",
   "tracks": [
     {
       "added_at": null,
@@ -83,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catch 22",
-        "url": "https://open.spotify.com/album/1BpLEq3RV91FPE7TQd9WDv"
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 197564,
-      "name": "Catch 22",
-      "url": "https://open.spotify.com/track/6PwQarviIfpD5dqUeGnf01"
+      "duration_ms": 196162,
+      "name": "Feel Like This",
+      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
     },
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+        "name": "Catch 22",
+        "url": "https://open.spotify.com/album/1BpLEq3RV91FPE7TQd9WDv"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 196162,
-      "name": "Feel Like This",
-      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
+      "duration_ms": 197564,
+      "name": "Catch 22",
+      "url": "https://open.spotify.com/track/6PwQarviIfpD5dqUeGnf01"
     },
     {
       "added_at": null,

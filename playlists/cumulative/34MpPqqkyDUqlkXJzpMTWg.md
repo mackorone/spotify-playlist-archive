@@ -4,7 +4,7 @@
 
 > Winter is coming, met muziek van Dean Lewis, Son Mieux, Taylor Swift, Lewis Capaldi &amp; Olivia Rodrigo.
 
-81 songs - 4 hr 35 min
+82 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Deze Plek](https://open.spotify.com/track/2ZQ5M9zQx8NoWR6R0mZXS8) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/15A4ydTd2lAUKmuoYgtlDb) | 3:09 | 2025-05-30 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2025-05-30 |  |
 | [Don't Fall Asleep](https://open.spotify.com/track/7iQGsTQ28BFI9rG55IEKgk) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Don't Fall Asleep](https://open.spotify.com/album/3fsOA4Q8v6Ly0ylE1ldYFY) | 4:29 | 2025-05-30 |  |
+| [d£aler](https://open.spotify.com/track/7t4OevReiAuDGgntaUJFh6) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/3dXiBODwl4T0kIQIzFTPMI) | 2:40 | 2025-07-25 |  |
 | [Eenzame Nacht](https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Eenzame Nacht](https://open.spotify.com/album/7lFEE4QYgFBzMuwbGbSljV) | 3:19 | 2025-05-30 |  |
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-07-16 |  |
 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 | 2025-05-30 |  |

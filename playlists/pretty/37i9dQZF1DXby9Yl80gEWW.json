@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 57754,
+  "num_followers": 57778,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Lone Soldier",
-        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
-      },
-      "artists": [
-        {
-          "name": "David Grier",
-          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Smith Chapel",
-      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Songs from Horizon",
         "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 132794,
       "name": "Winds Forever Blow",
       "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Lone Soldier",
+        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
+      },
+      "artists": [
+        {
+          "name": "David Grier",
+          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Smith Chapel",
+      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Your Daughters & Your Sons",
         "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 265960,
       "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
       "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "58957: The Bluegrass Guitar Collection",
+        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
+      },
+      "artists": [
+        {
+          "name": "Tony Rice Unit",
+          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
+        }
+      ],
+      "duration_ms": 156932,
+      "name": "Blackberry Blossom",
+      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 267954,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "58957: The Bluegrass Guitar Collection",
-        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice Unit",
-          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
-        }
-      ],
-      "duration_ms": 156932,
-      "name": "Blackberry Blossom",
-      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1155,38 +1155,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Carried Along",
-        "url": "https://open.spotify.com/album/64cccOqmeYXREYN26KpuVr"
-      },
-      "artists": [
-        {
-          "name": "Upstream Drifters",
-          "url": "https://open.spotify.com/artist/27UTxNP8rZVzxGRsQxWgoh"
-        }
-      ],
-      "duration_ms": 216388,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/0VsLJhLnWLNQelIqhPK8rB"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Telluride Sessions",
-        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
-      },
-      "artists": [
-        {
-          "name": "Strength In Numbers",
-          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Blue Men Of The Sahara",
-      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
@@ -1207,6 +1175,22 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Telluride Sessions",
+        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
+      },
+      "artists": [
+        {
+          "name": "Strength In Numbers",
+          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Blue Men Of The Sahara",
+      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Concrete and Steel",
         "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 251047,
       "name": "Concrete and Steel",
       "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Carried Along",
+        "url": "https://open.spotify.com/album/64cccOqmeYXREYN26KpuVr"
+      },
+      "artists": [
+        {
+          "name": "Upstream Drifters",
+          "url": "https://open.spotify.com/artist/27UTxNP8rZVzxGRsQxWgoh"
+        }
+      ],
+      "duration_ms": 216388,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0VsLJhLnWLNQelIqhPK8rB"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Saltbush Express",
-        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Fix",
-          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
-        }
-      ],
-      "duration_ms": 171823,
-      "name": "Saltbush Express",
-      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Things Are Simple",
         "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 288026,
       "name": "Along Came Sonny",
       "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Saltbush Express",
+        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Fix",
+          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
+        }
+      ],
+      "duration_ms": 171823,
+      "name": "Saltbush Express",
+      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Dillsboro Blues",
+        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
+      },
+      "artists": [
+        {
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Dillsboro Blues",
+      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Whiskey in the Jar",
         "url": "https://open.spotify.com/album/4Mo5PNFWTgo4RDkEVyip6Q"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 135453,
       "name": "Whiskey In The Jar",
       "url": "https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Dillsboro Blues",
-        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
-      },
-      "artists": [
-        {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Dillsboro Blues",
-      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
     },
     {
       "added_at": "2025-02-21 05:00:42",

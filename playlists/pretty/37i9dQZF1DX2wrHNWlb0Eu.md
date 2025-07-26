@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,985 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,989 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 3 | [เวลาเธอยิ้ม \(You Had Me At Hello\)](https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 3:47 |
 | 4 | [แค่คุณ](https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [Uprising](https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X) | 3:58 |
 | 5 | [Onlyfan](https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [Onlyfan](https://open.spotify.com/album/50SYtRSfmgAulnJCvzsYZi) | 2:08 |
-| 6 | [Luxury](https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [Luxury](https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk) | 4:06 |
-| 7 | [ลูกอม](https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn) | [Whatcharawalee](https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM) | [Legend](https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1) | 4:07 |
+| 6 | [ลูกอม](https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn) | [Whatcharawalee](https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM) | [Legend](https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1) | 4:07 |
+| 7 | [Luxury](https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [Luxury](https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk) | 4:06 |
 | 8 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |
 | 9 | [The Trouble is..ปัญหาของฉัน \- From "หนึ่งในร้อย"](https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [The Trouble is..ปัญหาของฉัน \(From "หนึ่งในร้อย"\)](https://open.spotify.com/album/335bL8LroVIpabaucNBXxf) | 3:10 |
-| 10 | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK) | 3:43 |
-| 11 | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [สยาโม](https://open.spotify.com/artist/4AJ2vsPrlHwJMpGB4RHuvG) | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros) | 3:05 |
-| 12 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 |
+| 10 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 |
+| 11 | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK) | 3:43 |
+| 12 | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [สยาโม](https://open.spotify.com/artist/4AJ2vsPrlHwJMpGB4RHuvG) | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros) | 3:05 |
 | 13 | [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 |
 | 14 | [รักแรกพบ \(Knock Knock\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/6jo2rnrIYLXUUcJOpuTfaq) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 2:37 |
 | 15 | [นิโคติน](https://open.spotify.com/track/6R9YzJHkfYoN6PianPhTdB) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [นิโคติน \- Single](https://open.spotify.com/album/5e0anFANpCnBAv5pEAVc34) | 3:36 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 87 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \- Single](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 |
 | 88 | [ยิ่งรู้จักยิ่งรักเธอ](https://open.spotify.com/track/5a7QupGpMLTyaq3EvXIOhi) | [Da Endorphine](https://open.spotify.com/artist/7z9oTDasH4sBISUE2Hxrki) | [Thai Music Top Download](https://open.spotify.com/album/2FAAa8DzjRwUhM9hH7pwfQ) | 4:20 |
 | 89 | [น้ำหอม](https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [น้ำหอม \- Single](https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka) | 3:27 |
-| 90 | [ดวงใจ](https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv) | [Palmy](https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od) | [ดวงใจ \- Single](https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ) | 3:27 |
-| 91 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 |
+| 90 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 |
+| 91 | [ดวงใจ](https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv) | [Palmy](https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od) | [ดวงใจ \- Single](https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ) | 3:27 |
 | 92 | [ฝนตกไหม](https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ฝนตกไหม \- Single](https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj) | 4:21 |
 | 93 | [ข้าน้อยสมควรตาย](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 3:51 |
 | 94 | [ลั่นทม \(เพลงประกอบละคร หอมกลิ่นความรัก\)](https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ลั่นทม \- Single](https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs) | 4:37 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 97 | [แค่เธอเข้ามา \(Worth The Wait\)](https://open.spotify.com/track/6a5f2v5IlyeEXQRn65MFdS) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [ผู้เดียว](https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv) | 3:25 |
 | 98 | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1), [วิน รัตนพล](https://open.spotify.com/artist/4DjUSzKP28JRUYJKh2VwP0) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 5:26 |
 | 99 | [เรา](https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [เรา \- Single](https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8) | 5:06 |
-| 100 | [คนในฝัน \(เพลงประกอบละคร ฝันเฟื่อง\)](https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON) | [Mr.Team](https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH) | [Best of MR.TEAM](https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl) | 4:03 |
+| 100 | [ทะเลสีดำ](https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB), [Tar Paradox](https://open.spotify.com/artist/2f5oej9D24zxBJ0cyDSNgJ) | [Urban Lullaby](https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p) | 3:47 |
 
 Snapshot ID: `aHDzmAAAAAD23IAKX+hioUCp2iYvWC/U`

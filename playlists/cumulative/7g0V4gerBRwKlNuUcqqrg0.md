@@ -4,7 +4,7 @@
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-81 songs - 4 hr 38 min
+84 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 | 2025-07-04 |  |
 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 | 2025-07-04 |  |
 | [Down to be wrong](https://open.spotify.com/track/4vLA9tU4dvNvl3ssMTrMql) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/0aSLhfcnbZmgmzxuyzZjgg) | 4:09 | 2025-07-04 |  |
+| [d£aler](https://open.spotify.com/track/7t4OevReiAuDGgntaUJFh6) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/3dXiBODwl4T0kIQIzFTPMI) | 2:40 | 2025-07-25 |  |
 | [From The Start](https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:49 | 2025-07-04 |  |
 | [Good To You](https://open.spotify.com/track/0c8lSIQejPTJPKJ8fgA7eW) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Good To You](https://open.spotify.com/album/3tObTrR6FqKbPYJUHRKcbg) | 3:44 | 2025-07-04 |  |
 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 | 2025-07-04 |  |
@@ -66,6 +67,7 @@
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/5Mq63YSs7vGy71ZPisNJF6) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\) \[Live at London Stadium\] \[Extended Intro Version\]](https://open.spotify.com/album/217vf9PyKMExLgDughPYl6) | 5:39 | 2025-07-04 |  |
 | [Running](https://open.spotify.com/track/02givixTza4EAvCigV40A8) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Running](https://open.spotify.com/album/2DEfaEDze4pLZVstB5L9sz) | 2:28 | 2025-07-04 |  |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-07-04 |  |
+| [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 | 2025-07-25 |  |
 | [Sleepless City](https://open.spotify.com/track/6BZVXqng1IJ5PRNUjKFlIC) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Something Good](https://open.spotify.com/album/7uHDUPls4X3mraMagaEw99) | 2:37 | 2025-07-04 |  |
 | [Slow Motion](https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Slow Motion](https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf) | 2:31 | 2025-07-04 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:57 | 2025-07-04 |  |
@@ -77,6 +79,7 @@
 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 | 2025-07-14 |  |
 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 | 2025-07-04 |  |
 | [This Song](https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [This Song](https://open.spotify.com/album/5PawlLnqcZnrqiAEDLwH2G) | 3:33 | 2025-07-04 |  |
+| [To Be Free](https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Be Free](https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb) | 4:15 | 2025-07-25 |  |
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2025-07-04 |  |
 | [Turbulentie](https://open.spotify.com/track/01IWBNOH5JcGbLbafHHJqr) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Turbulentie](https://open.spotify.com/album/7fcv7MQ7LmjTGgrcuhJ4Zh) | 3:01 | 2025-07-04 |  |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-07-04 |  |

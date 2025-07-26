@@ -4,7 +4,7 @@
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-380 songs - 1 day 1 hr 54 min
+381 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Black Hole Sun](https://open.spotify.com/track/7fURZRPkB2S70sYR1naKTK) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown](https://open.spotify.com/album/1xHWwGSoF1DNE4hqgBRkJX) | 5:18 | 2023-03-28 |  |
 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 | 2023-03-28 |  |
 | [Black Rainbow](https://open.spotify.com/track/3xNwSLvN6QsZ6BgUbQKRm3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:24 | 2025-03-24 |  |
+| [Black Sabbath \- 2014 Remaster](https://open.spotify.com/track/0xIZPPBfLqQEAj1BLmGrNc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 6:18 | 2025-07-25 |  |
 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 | 2023-03-28 |  |
 | [Blackened](https://open.spotify.com/track/0Tp7uSZK21LZTbZRBNb9ud) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 6:40 | 2023-03-28 |  |
 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 | 2023-07-31 |  |

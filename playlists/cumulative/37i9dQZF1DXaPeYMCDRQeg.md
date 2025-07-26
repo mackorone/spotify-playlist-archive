@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-374 songs - 1 day 0 hr 14 min
+376 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ass Like That](https://open.spotify.com/track/6YQmDvj6XVAKSPLzjjLrFj) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:40 | 2023-02-10 | 2024-02-01 |
 | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn) | 5:17 | 2021-12-15 | 2022-07-29 |
 | [Attention](https://open.spotify.com/track/7tr8SXmP9j0uVqUU0qoapb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 3:36 | 2024-04-24 |  |
+| [Aweh](https://open.spotify.com/track/66prH4Oa24RKnJbMR1iXzY) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:04 | 2025-07-25 |  |
 | [Baby](https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:25 | 2021-12-15 | 2023-02-11 |
 | [Back At One](https://open.spotify.com/track/6mwA6YiKDjAUG8kWvRRUPh) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo) | 4:23 | 2022-03-14 | 2023-02-11 |
 | [Back Door](https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Fuck A Friendzone 2](https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj) | 2:25 | 2025-02-14 | 2025-05-24 |
@@ -121,7 +122,7 @@
 | [Footsteps in the Dark, Pts\. 1 & 2](https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Go for Your Guns](https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l) | 5:06 | 2023-02-10 | 2025-02-09 |
 | [For Us](https://open.spotify.com/track/5dhLYxwEBWoobdpm0sLR1O) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 4:33 | 2024-01-31 | 2024-12-21 |
 | [FOREVER](https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [FOREVER](https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1) | 4:00 | 2022-11-18 | 2023-02-11 |
-| [Forever My Lady](https://open.spotify.com/track/2pY99npaZKTVAyw2DhV9Bo) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Forever My Lady](https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7) | 5:20 | 2024-01-31 |  |
+| [Forever My Lady](https://open.spotify.com/track/2pY99npaZKTVAyw2DhV9Bo) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Forever My Lady](https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7) | 5:20 | 2024-01-31 | 2025-07-26 |
 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 | 2024-01-31 |  |
 | [From A Woman](https://open.spotify.com/track/5YVmVthPhqjBUrqB2Rp5di) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:02 | 2024-11-05 | 2024-12-18 |
 | [Fuckin' Sound](https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 2:44 | 2022-03-11 | 2023-02-11 |
@@ -236,6 +237,7 @@
 | [My Heart Belongs To U](https://open.spotify.com/track/5aVnC5HP5LtiGsx6OUyfUr) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Diary Of A Mad Band](https://open.spotify.com/album/41pgxrq2gjdSsGnqofrHGj) | 5:02 | 2021-12-15 | 2023-02-11 |
 | [My Life](https://open.spotify.com/track/7ytES33eLYS9WaZLKqWfYM) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:17 | 2021-12-15 | 2023-02-11 |
 | [My Rock](https://open.spotify.com/track/0Pnb9c3hqio8fJ4v7FlQoi) | [Mikhala Jené](https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy) | [The Missing Peace](https://open.spotify.com/album/1K9fJvIjA5fnKo6KmOTss1) | 3:28 | 2022-10-14 | 2023-02-11 |
+| [n da morning](https://open.spotify.com/track/2BcLIOfKXWk7mz5HSyhAKO) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [n da morning](https://open.spotify.com/album/3dPpOhzZ93SSz2E5qD47HR) | 2:11 | 2025-07-25 |  |
 | [N Side](https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 3:44 | 2022-03-14 | 2023-02-11 |
 | [N Side](https://open.spotify.com/track/18t9EUBOfOPRv4nrJUpRAq) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [N Side](https://open.spotify.com/album/0oBHAZtvWGE21oxQpq2laq) | 3:44 | 2021-12-15 | 2022-07-25 |
 | [N Side](https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:44 | 2021-12-15 | 2022-10-13 |
@@ -308,7 +310,7 @@
 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-02 | 2025-05-15 |
 | [SPIDER\-MAN SUPERMAN](https://open.spotify.com/track/4GqhG9rDuRUoNyDSMJ0Brq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:23 | 2025-03-20 |  |
 | [Spin \(feat\. Victoria Monét\)](https://open.spotify.com/track/3VU5hcDFXuX8aDwfn7GDeY) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:07 | 2025-04-15 | 2025-05-03 |
-| [Spin \(feat\. Victoria Monét\)](https://open.spotify.com/track/6Pgbh88U9MnYiUu0uRNkLs) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 3:07 | 2025-07-17 |  |
+| [Spin \(feat\. Victoria Monét\)](https://open.spotify.com/track/6Pgbh88U9MnYiUu0uRNkLs) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 3:07 | 2025-07-17 | 2025-07-26 |
 | [Sponsor](https://open.spotify.com/track/6VWFODoLzBjcFl77Egk6ir) | [Leaf](https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l) | [Sponsor](https://open.spotify.com/album/5f7RPcK9NES4zGvyGFTlzu) | 2:33 | 2025-05-23 | 2025-07-12 |
 | [Stay](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 | 2023-02-13 | 2024-02-01 |
 | [Stay](https://open.spotify.com/track/6VGRrR4FQ9SBRKfUhFRRqN) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [Stay](https://open.spotify.com/album/3oxVdNKT0zaQBL1rMnyn7p) | 3:37 | 2025-05-23 | 2025-07-05 |

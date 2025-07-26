@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,789 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,833 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 59 | [Girls Like Us](https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [Run Fast](https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f) | 3:19 |
 | 60 | [What Kind of Monster Are You?](https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd) | [Slant 6](https://open.spotify.com/artist/2wJzS4RYv4vtk5uo13IlkY) | [Soda Pop \* Rip Off](https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ) | 2:03 |
 | 61 | [Be Yr Mama](https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 2:52 |
-| 62 | [Love Thing](https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr) | 1:39 |
-| 63 | [Complicated](https://open.spotify.com/track/3XvrUSWE6QZvCv4scH43JA) | [Heavens To Betsy](https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ) | [Calculated](https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB) | 6:24 |
+| 62 | [Complicated](https://open.spotify.com/track/3XvrUSWE6QZvCv4scH43JA) | [Heavens To Betsy](https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ) | [Calculated](https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB) | 6:24 |
+| 63 | [Love Thing](https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr) | 1:39 |
 | 64 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
 | 65 | [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 |
 | 66 | [Step Close Now](https://open.spotify.com/track/2MLvTgBG6p4VNgdA1edkQc) | [Dolly Mixture](https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv) | [Demonstration Tapes](https://open.spotify.com/album/4Y1WtRvazalwwq6XwTR9SU) | 1:58 |
 | 67 | [My Baby \(Axe Nice\)](https://open.spotify.com/track/1yGOXn0GWEcXTejNMHYoR4) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Mannequin Pussy](https://open.spotify.com/album/3JWT3gPoEcgonA0Y2JREmK) | 0:59 |
 | 68 | [Getting Nowhere Fast](https://open.spotify.com/track/0xF9xdi5cI0fi7ZgC7MrzZ) | [Girls At Our Best!](https://open.spotify.com/artist/5DYT0cYfntdC8sxyIOAhiC) | [Pleasure](https://open.spotify.com/album/3X3iZ9MRMFk75oqiSpeKuV) | 2:00 |
-| 69 | [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 |
-| 70 | [Alabama Movies](https://open.spotify.com/track/0lHJ9bP1Ph6FMFCF1l97Wa) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [Fuzz Steilacoom](https://open.spotify.com/album/3obbLp8QVZ6R0JhK252pfY) | 3:40 |
+| 69 | [Alabama Movies](https://open.spotify.com/track/0lHJ9bP1Ph6FMFCF1l97Wa) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [Fuzz Steilacoom](https://open.spotify.com/album/3obbLp8QVZ6R0JhK252pfY) | 3:40 |
+| 70 | [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 |
 | 71 | [Mr\. Moneybag$](https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH) | [Emily's Sassy Lime](https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe) | [Desperate, Scared, but Social](https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq) | 1:51 |
 | 72 | [Organs](https://open.spotify.com/track/369ZHVk9UlOxmRcjs6XeUr) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [xxx](https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC) | 4:39 |
 | 73 | [Seafood](https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 2:32 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 90 | [Celebrity Skin](https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj) | 2:42 |
 | 91 | [Second Skin](https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB) | [The Gits](https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m) | [Frenching the Bully](https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO) | 2:57 |
 | 92 | [Gimme Brains](https://open.spotify.com/track/2ICGarWJwQiIGMl07os7sQ) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4) | 2:16 |
-| 93 | [Not Too Soon](https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5g52sH6fashPtboffeqjlZ) | 3:10 |
+| 93 | [Oh Me I'm Never](https://open.spotify.com/track/7M8kwE3DzZgTHJG8DHEfr6) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/4D8uWnkkXw0hBIUe4AYvIU) | 2:57 |
 | 94 | [Cute Boy Discount](https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1) | [Cold Cold Hearts](https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa) | [Cold Cold Hearts](https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod) | 3:17 |
-| 95 | [Worship The Whip](https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Worship The Whip](https://open.spotify.com/album/1vIPDQMaaSaGCxMqvq9MFB) | 3:01 |
-| 96 | [Supermodel \- Superficial](https://open.spotify.com/track/7a6Dhd4897ZBnlkA9H6BYe) | [Voodoo Queens](https://open.spotify.com/artist/713dOrzih7UQvUmok0Hft4) | [Kenuwee Head](https://open.spotify.com/album/1OHILieJzT08QXlAvPXcKc) | 3:20 |
-| 97 | [Current Affair](https://open.spotify.com/track/0HINeS16DfBP7DGCSC6QVx) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Sienna](https://open.spotify.com/artist/0aiQeYnP7FNRD8BwG90wdG) | [Current Affair \(feat\. Sienna\)](https://open.spotify.com/album/3pyiSjhhlYmUvGo3i8Mhy9) | 2:49 |
-| 98 | [Pillow Case Kisser](https://open.spotify.com/track/1uXSrZF3qd7ZLXURZw1BzP) | [Skinned Teen](https://open.spotify.com/artist/7os5CJbSzqsNlcVJd99aV1) | [Bazooka Smooth!](https://open.spotify.com/album/3J9UlDltpkop6xK3Ew8sBj) | 1:38 |
+| 95 | [Not Too Soon](https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5g52sH6fashPtboffeqjlZ) | 3:10 |
+| 96 | [Worship The Whip](https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Worship The Whip](https://open.spotify.com/album/1vIPDQMaaSaGCxMqvq9MFB) | 3:01 |
+| 97 | [Supermodel \- Superficial](https://open.spotify.com/track/7a6Dhd4897ZBnlkA9H6BYe) | [Voodoo Queens](https://open.spotify.com/artist/713dOrzih7UQvUmok0Hft4) | [Kenuwee Head](https://open.spotify.com/album/1OHILieJzT08QXlAvPXcKc) | 3:20 |
+| 98 | [Current Affair](https://open.spotify.com/track/0HINeS16DfBP7DGCSC6QVx) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Sienna](https://open.spotify.com/artist/0aiQeYnP7FNRD8BwG90wdG) | [Current Affair \(feat\. Sienna\)](https://open.spotify.com/album/3pyiSjhhlYmUvGo3i8Mhy9) | 2:49 |
 | 99 | [Bitch Theme](https://open.spotify.com/track/3wu6pRZrOAAet8YxeZ49nv) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/0er043d9DCecxrz0XVsPos) | 1:31 |
-| 100 | [Oh Me I'm Never](https://open.spotify.com/track/7M8kwE3DzZgTHJG8DHEfr6) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/4D8uWnkkXw0hBIUe4AYvIU) | 2:57 |
+| 100 | [Pillow Case Kisser](https://open.spotify.com/track/1uXSrZF3qd7ZLXURZw1BzP) | [Skinned Teen](https://open.spotify.com/artist/7os5CJbSzqsNlcVJd99aV1) | [Bazooka Smooth!](https://open.spotify.com/album/3J9UlDltpkop6xK3Ew8sBj) | 1:38 |
 
 Snapshot ID: `ZwRGVwAAAAAXG/tys3wAd+Po9junj5Hs`

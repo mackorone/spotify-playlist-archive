@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1213962,
+  "num_followers": 1214048,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAAG6PWOfkU7G7FZpm+ymH1b",
+  "snapshot_id": "aIF3gAAAAAAoNZOkZ/hobJ1VXD4a0lXC",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilogy: Past, Present & Future",
-        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/0Ab4lEHfPY98aqtQrKQbUu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 170346,
       "name": "Young At Heart",
       "url": "https://open.spotify.com/track/4AdqsEH40jfERiDkzyY0Ur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trilogy: Past, Present & Future",
+        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/0Ab4lEHfPY98aqtQrKQbUu"
     },
     {
       "added_at": null,

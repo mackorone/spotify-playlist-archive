@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 46 | [U Get Me High](https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hypnotic Eye](https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa) | 4:11 |
 | 47 | [Nightwatchman](https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 3:57 |
 | 48 | [The Wild One, Forever](https://open.spotify.com/track/6I3JRwx6jAF3wozmy6uiYW) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty And The Heartbreakers](https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER) | 3:03 |
-| 49 | [Friend of the Devil \- Live](https://open.spotify.com/track/4BhTu6NjUUBOn62QnbQZGA) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Live Anthology](https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh) | 5:41 |
-| 50 | [Thirteen Days](https://open.spotify.com/track/5khakanIneOQaelzgiG7LK) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 3:35 |
+| 49 | [Thirteen Days](https://open.spotify.com/track/5khakanIneOQaelzgiG7LK) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 3:35 |
+| 50 | [Friend of the Devil \- Live](https://open.spotify.com/track/4BhTu6NjUUBOn62QnbQZGA) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Live Anthology](https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh) | 5:41 |
 
-Snapshot ID: `aIAmAAAAAACNSsBQeH9jiUsUmAqq7zlH`
+Snapshot ID: `aIF3gAAAAADkfeRLlrZkhAe75iyTN1tE`

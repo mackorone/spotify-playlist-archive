@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 
 > This is AJULIACOSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,891 likes - 34 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,896 likes - 34 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 33 | [Queen Chavosa \- Remix](https://open.spotify.com/track/2898k850lyu9U35V7zzSDY) | [DJ LOBA BOSS](https://open.spotify.com/artist/11SgixCrxwumlVChArMqLV), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Queen Chavosa \(Remix\)](https://open.spotify.com/album/7ffZmm7UZXYVytqHoYgwFv) | 1:41 |
 | 34 | [Fábrica de Jóia](https://open.spotify.com/track/0qUV0nO4WQuoIiwZp9BhXr) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Ocean](https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg) | [EU VIM DE GR](https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn) | 2:45 |
 
-Snapshot ID: `aIAmAAAAAADRhIp0SQ86VMu5LANMqhT8`
+Snapshot ID: `aIF3gAAAAAAgsO2HzlEfbtD22BgNZUY0`

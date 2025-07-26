@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-70 songs - 3 hr 23 min
+71 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX) | 2:57 | 2024-01-29 |  |
 | [LVLY](https://open.spotify.com/track/4245mprsIXRpaSg9U89ow1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/7LmVnv26vUmzSfnTjeF3AD) | 3:19 | 2024-01-29 |  |
 | [M.I.A](https://open.spotify.com/track/2HKLLlg6erdvg9CXcTEY3E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 2:09 | 2025-06-29 | 2025-07-11 |
-| [M.I.A](https://open.spotify.com/track/4vyQ2NdodXhtMGsaaMBqSt) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 2:09 | 2025-07-10 |  |
+| [M.I.A](https://open.spotify.com/track/4vyQ2NdodXhtMGsaaMBqSt) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 2:09 | 2025-07-10 | 2025-07-26 |
+| [M.I.A](https://open.spotify.com/track/6Ch2BnmFIePyh9HRDQg8oP) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/7zDBcYSeMAVESJXnVJnzM4) | 2:09 | 2025-07-25 |  |
 | [Matty Healy](https://open.spotify.com/track/20Do7D6tZkclXfNBa9z45X) | [Georgia Twinn](https://open.spotify.com/artist/2O0h682EGdSff234pcv201) | [Matty Healy](https://open.spotify.com/album/6dBjAT41RnXZcYvdU4NpGI) | 2:30 | 2024-01-29 |  |
 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 | 2024-01-29 |  |
 | [Meherbaan](https://open.spotify.com/track/46hWgb9J4Lf5bAnEV4dY2T) | [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5) | [Meherbaan](https://open.spotify.com/album/1lI6lP0ODvHbBzSXuzqIWy) | 2:33 | 2024-01-29 |  |

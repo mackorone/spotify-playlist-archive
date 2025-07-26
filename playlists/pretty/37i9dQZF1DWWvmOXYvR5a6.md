@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: HAON\(김하온\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,578 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,592 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 | 63 | [Breezy\~ \(feat\. BIG Naughty & Kid Milli\)](https://open.spotify.com/track/2lJmi3TMCA28VbvXID8HIM) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [DAFT LOVE](https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX) | 2:46 |
 | 64 | [maybe baby](https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [E](https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw) | 1:52 |
 | 65 | [Infrared Camera](https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 3:25 |
-| 66 | [Baby](https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Baby](https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO) | 3:09 |
-| 67 | [Trade](https://open.spotify.com/track/2YpSa1Jtz5j2i0CuVzb0A2) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Angel](https://open.spotify.com/album/3tbIma0WBMW2aClgAwYfqA) | 2:37 |
+| 66 | [Trade](https://open.spotify.com/track/2YpSa1Jtz5j2i0CuVzb0A2) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Angel](https://open.spotify.com/album/3tbIma0WBMW2aClgAwYfqA) | 2:37 |
+| 67 | [Baby](https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Baby](https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO) | 3:09 |
 | 68 | [CALL ME BACK](https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [GIRL](https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv) | 3:47 |
 | 69 | [Show Must Go On](https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Show Must Go On](https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC) | 2:46 |
 | 70 | [FRIENDS](https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [FRIENDS](https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV) | 3:10 |
 | 71 | [Run away](https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 2:25 |
-| 72 | [GMK \(feat\. CHANGMO\)](https://open.spotify.com/track/0vTiOnO5rVakyOhAskGO9J) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [House of Girls, Episode 4](https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu) | 2:40 |
-| 73 | [MBT](https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [MBT](https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4) | 2:22 |
-| 74 | [Gray So Gray \(Feat\. Younha\)](https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:12 |
+| 72 | [MBT](https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [MBT](https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4) | 2:22 |
+| 73 | [Gray So Gray \(Feat\. Younha\)](https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:12 |
+| 74 | [GMK \(feat\. CHANGMO\)](https://open.spotify.com/track/0vTiOnO5rVakyOhAskGO9J) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [House of Girls, Episode 4](https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu) | 2:40 |
 | 75 | [Because](https://open.spotify.com/track/08xMOoUaMWWlNStVUdBTBC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Because](https://open.spotify.com/album/5uwBi26yP09mvt51AAQtY9) | 3:16 |
 | 76 | [LEAN \(feat\. JIN\)](https://open.spotify.com/track/3yy15ttmCS6NcV0zSLL0Is) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Jin](https://open.spotify.com/artist/4UUCW8mTsouClJtN0wZDsi) | [LEAN](https://open.spotify.com/album/4LLAP4kRPh15D5LyMPGxK7) | 4:38 |
 | 77 | [Ring Ring](https://open.spotify.com/track/0lJvkAuv7HLOz13qdmbpNx) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Ring Ring](https://open.spotify.com/album/16dV4I2SPOOR4X1oiSIkXS) | 2:51 |

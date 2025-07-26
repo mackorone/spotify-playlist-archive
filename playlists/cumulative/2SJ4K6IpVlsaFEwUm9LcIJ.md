@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-663 songs - 1 day 14 hr 40 min
+664 songs - 1 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [Wishing Well](https://open.spotify.com/track/64w8GIJRkm6zejGjxLVN3K) | [Chris Cohen](https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF) | [Paint a Room](https://open.spotify.com/album/3sZZlLS1JY1MPWOGWe8mtQ) | 2:38 | 2024-10-23 | 2024-11-14 |
 | [With You \- Demo](https://open.spotify.com/track/0fxf9dkUc8r8AHWPx7Cdkn) | [NumbDome](https://open.spotify.com/artist/2dt0CUEEL1u22uqRoocBQP) | [Pretty Place Demos](https://open.spotify.com/album/2aSMfYhkI2RwV6ucurrWV2) | 2:03 | 2024-07-16 | 2024-09-08 |
 | [Wood Cabin](https://open.spotify.com/track/2DvjHHtTjwlrMXyFKxPvXr) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Good Humor](https://open.spotify.com/album/35hVWd3uQFdosmj27cQIdZ) | 4:07 | 2025-03-20 | 2025-05-09 |
+| [Wound Up Here \(By Holdin On\)](https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Wound Up Here \(By Holdin On\)](https://open.spotify.com/album/4wnZf8zsBvVItY3kAqzXLP) | 3:28 | 2025-07-25 |  |
 | [Wristwatch](https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:42 | 2024-09-07 | 2024-11-14 |
 | [Writers Are A Funny Breed](https://open.spotify.com/track/1aP0wJDXGkwZw8N8Pcualq) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 5:29 | 2025-01-24 | 2025-03-02 |
 | [X.U.Y.](https://open.spotify.com/track/7D1UX739Xu5b9ZbjqodwWT) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [See / X.U.Y.](https://open.spotify.com/album/5LDnunPgPjbR973c1NStVV) | 3:48 | 2025-04-20 | 2025-05-09 |

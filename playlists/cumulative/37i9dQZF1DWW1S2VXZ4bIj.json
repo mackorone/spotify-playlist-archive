@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Whal & Dolph",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PROXIE",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
+    {
+      "album": {
+        "name": "1 OF 1",
+        "url": "https://open.spotify.com/album/4K9YECaZ2GRmWyfYLyNOrk"
+      },
+      "artists": [
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        },
+        {
+          "name": "SURIYA MQT",
+          "url": "https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "1 OF 1",
+      "url": "https://open.spotify.com/track/5kMl8givhqRWmrDTKauySB"
+    },
     {
       "album": {
         "name": "1%",
@@ -23,6 +45,24 @@
     },
     {
       "album": {
+        "name": "11 \u0e40\u0e14\u0e37\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/0bgVb0rvVsxrhRdFG02Ypr"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247770,
+      "name": "11 \u0e40\u0e14\u0e37\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/4NzwOTubRJexdYkjkNbFuL"
+    },
+    {
+      "album": {
         "name": "1ove",
         "url": "https://open.spotify.com/album/6DBdWNSnVdyq623o65arIE"
       },
@@ -38,7 +78,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 234666,
       "name": "1ove",
       "url": "https://open.spotify.com/track/6qE5SAV22VPyfCafgXrkZS"
@@ -278,7 +318,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 220000,
       "name": "Bad B*tch (feat. JIGSAW STORY)",
       "url": "https://open.spotify.com/track/0zkUZQD8jdybN6shYhhRGM"
@@ -1683,6 +1723,28 @@
     },
     {
       "album": {
+        "name": "Like Damn",
+        "url": "https://open.spotify.com/album/1GBsH8MY0SQY2BL9O6lafz"
+      },
+      "artists": [
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "The BESTS",
+          "url": "https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149268,
+      "name": "Like Damn",
+      "url": "https://open.spotify.com/track/4wlmpwdyng4B4bObMnP3OS"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
@@ -2172,7 +2234,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 228618,
       "name": "Never A Waste Of Time",
       "url": "https://open.spotify.com/track/0tx994lxYbZrefbRphz5ra"
@@ -3672,7 +3734,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 162500,
       "name": "WHITE RABBIT",
       "url": "https://open.spotify.com/track/39VNot2WGk4Xj1ncP0Hj47"
@@ -4006,7 +4068,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 246730,
       "name": "\u0e01\u0e47\u0e41\u0e04\u0e48\u0e1e\u0e39\u0e14\u0e21\u0e32 (feat. The TOYS)",
       "url": "https://open.spotify.com/track/4eHSk6QunWx0Riz8VnrN6G"
@@ -5091,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27 \u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32 (I\u2019m Good)",
+        "url": "https://open.spotify.com/album/5X0wKDAHXF8QcTIUrY5prK"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27 \u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32 (I\u2019m Good)",
+      "url": "https://open.spotify.com/track/3sbTe6C4kfaGoGSKmDCqY5"
+    },
+    {
+      "album": {
         "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
         "url": "https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE"
       },
@@ -5338,7 +5418,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 271285,
       "name": "\u0e16\u0e49\u0e32\u0e04\u0e19\u0e08\u0e30\u0e43\u0e0a\u0e48 (\u0e21\u0e31\u0e19\u0e43\u0e0a\u0e48\u0e44\u0e1b\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27)",
       "url": "https://open.spotify.com/track/1wTRpzquoCMqL7u132d7Pq"
@@ -6475,6 +6555,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e19\u0e49\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/0cbds87mfwZcnIGfe7NrCG"
+      },
+      "artists": [
+        {
+          "name": "\u0e42\u0e01\u0e4a\u0e30 \u0e19\u0e34\u0e1e\u0e19\u0e18\u0e4c",
+          "url": "https://open.spotify.com/artist/21y6UjoeRSIEKmkGD1KmKb"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214337,
+      "name": "\u0e23\u0e31\u0e01\u0e19\u0e49\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/7CfldwMr1T6JaiHVkMCsqY"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
         "url": "https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm"
       },
@@ -7208,6 +7306,24 @@
       "duration_ms": 208741,
       "name": "\u0e2b\u0e32\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e44\u0e14\u0e49\u0e04\u0e23\u0e2d\u0e1a\u0e04\u0e23\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/467XT84TTQHkdifhD7eUgQ"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e32\u0e22\u0e43\u0e08\u0e17\u0e34\u0e49\u0e07 (boys just wanna be boys) [From \u0e1a\u0e31\u0e2a \u0e0b\u0e34\u0e48\u0e07 \u0e40\u0e08\u0e41\u0e1b\u0e19]",
+        "url": "https://open.spotify.com/album/4bpzKbwpk4Iaw1iUJPENSE"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232890,
+      "name": "\u0e2b\u0e32\u0e22\u0e43\u0e08\u0e17\u0e34\u0e49\u0e07 (boys just wanna be boys) - From \u0e1a\u0e31\u0e2a \u0e0b\u0e34\u0e48\u0e07 \u0e40\u0e08\u0e41\u0e1b\u0e19",
+      "url": "https://open.spotify.com/track/19olaj8Ee2wkdH0pEszTBW"
     },
     {
       "album": {

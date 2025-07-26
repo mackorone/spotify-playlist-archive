@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: MAX & JAY \(ENHYPEN\)\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Bradley Simpson & HONGJOONG of ATEEZ\)
 
-246 songs - 13 hr 0 min
+247 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All Good\-JP Ver.\-](https://open.spotify.com/track/0UtMa8PmILmB188rSCBVb2) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [All Good\-JP Ver.\-](https://open.spotify.com/album/7HUcINwctfzAmaDrXiZm71) | 3:25 | 2021-12-20 | 2022-02-25 |
 | [All My Life \(Stray Kids Remix\)](https://open.spotify.com/track/5OHNBi6tsE0acRA9Kt4ybC) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [All My Life \(Remixes\) \(feat\. Burna Boy\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 3:37 | 2023-10-20 |  |
 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 | 2024-01-19 |  |
+| [Almost \- w/ HONGJOONG of ATEEZ](https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Almost \(w/ HONGJOONG of ATEEZ\)](https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp) | 3:16 | 2025-07-25 |  |
 | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a) | 3:18 | 2025-06-27 |  |
 | [Amigos \(with Becky G\)](https://open.spotify.com/track/60DPrTJRHzpGPSJXLiSdDX) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Amigos \(with Becky G\)](https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam) | 2:31 | 2023-11-17 |  |
 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 | 2024-12-06 |  |
@@ -164,7 +165,7 @@
 | [PARTY](https://open.spotify.com/track/3iQbIF9CvyOPRkiM9fvA3B) | [PimryPie](https://open.spotify.com/artist/7z8ogkK79YxSjsssdusjdm), [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [PARTY](https://open.spotify.com/album/7cLnshDajDNJpTHY8bLoiM) | 3:15 | 2023-02-10 | 2024-08-14 |
 | [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/track/5ZjPVDronecWpciN3fmf5D) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/album/4BCEq5okdDEMSjqlg9oUZ2) | 2:52 | 2024-09-13 |  |
 | [Perfect World](https://open.spotify.com/track/0hpYo5x9iNMGz52fRrflbT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/012FDe5q7Af7H9dy47DjVJ) | 3:02 | 2021-12-20 | 2024-11-19 |
-| [Pivot \(Feat\. Armani White\)](https://open.spotify.com/track/54ltqcipQbEqZz3IhnzyB8) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Pivot \(Feat\. Armani White\)](https://open.spotify.com/album/1ycCc4K1haLD4RX3ZcgmLi) | 2:56 | 2024-11-18 |  |
+| [Pivot \(Feat\. Armani White\)](https://open.spotify.com/track/54ltqcipQbEqZz3IhnzyB8) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Pivot \(Feat\. Armani White\)](https://open.spotify.com/album/1ycCc4K1haLD4RX3ZcgmLi) | 2:56 | 2024-11-18 | 2025-07-26 |
 | [Please Don't Change \(feat\. DJ Snake\)](https://open.spotify.com/track/0k0GtcnyQLMiXrdEDbLXmJ) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:26 | 2023-11-03 |  |
 | [POPPY \- Japanese Ver.](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY \(Japanese Ver.\)](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) | 2:59 | 2022-12-05 | 2024-12-07 |
 | [PRESENTE \- Spanish Version](https://open.spotify.com/track/5X8BW1ms0Tu18Le3r6vTgx) | [777 \(Triple Seven\)](https://open.spotify.com/artist/1Y5rgGFlx3ws6zMNoqxa4G) | [PRESENTE](https://open.spotify.com/album/4ZLRadM9Wi5L4mCEHGi4Xt) | 3:14 | 2021-12-20 | 2022-03-17 |

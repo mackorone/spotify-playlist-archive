@@ -2010,7 +2010,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 217044,
       "name": "Bom",
       "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
@@ -6562,7 +6562,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 233416,
       "name": "Hey kid, Close your eyes (with Lee Sun Hee)",
       "url": "https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk"
@@ -8880,7 +8880,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 188000,
       "name": "Leo (feat. BAEKHYUN)",
       "url": "https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF"
@@ -14771,6 +14771,24 @@
     },
     {
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2hWkypf4yWF97kCl6zwKdi"
+      },
+      "artists": [
+        {
+          "name": "Halsoon",
+          "url": "https://open.spotify.com/artist/0sNCNblXQopxO3mIssE1dG"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/4u2nXngbGnQKokROP2tKut"
+    },
+    {
+      "album": {
         "name": "Bloom #2",
         "url": "https://open.spotify.com/album/03AgU7Tf0ttLOCKpLD7npM"
       },
@@ -15238,6 +15256,24 @@
       "duration_ms": 177744,
       "name": "Summer breeze",
       "url": "https://open.spotify.com/track/5C8xuGNeqqTCJ4cw9jx6Mh"
+    },
+    {
+      "album": {
+        "name": "summer vacation",
+        "url": "https://open.spotify.com/album/7dFvSsggIwQ8YZdOqBUEfJ"
+      },
+      "artists": [
+        {
+          "name": "Ju Yoon Ha",
+          "url": "https://open.spotify.com/artist/2G6zefY3cizYXTcpWNtNMP"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223831,
+      "name": "summer vacation",
+      "url": "https://open.spotify.com/track/2ZWeUrqm5Qhc7rR8YRnxOZ"
     },
     {
       "album": {
@@ -15826,6 +15862,24 @@
       "duration_ms": 288262,
       "name": "The Best Days",
       "url": "https://open.spotify.com/track/5c6hk38nrbJBRsEUfq7lpH"
+    },
+    {
+      "album": {
+        "name": "The Breaking Point of a Lie",
+        "url": "https://open.spotify.com/album/2RSWpsjpEjsOgk4qT3GTTQ"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc2e0\uc758",
+          "url": "https://open.spotify.com/artist/6aWQyaPSRTLH1vayDeeI93"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207375,
+      "name": "The Breaking Point of a Lie",
+      "url": "https://open.spotify.com/track/2iUz6MdZUtVN77xmCXiUJs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,800 songs - 4 day 2 hr 11 min
+1,801 songs - 4 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1162,7 +1162,7 @@
 | [Nichane](https://open.spotify.com/track/18mE2O1ogNq2OFW71jfyS0) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 3:05 | 2023-06-24 | 2023-06-27 |
 | [Nifi](https://open.spotify.com/track/1BhnBaTsEXx7AddmTJgHvI) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:24 | 2022-01-29 | 2022-01-31 |
 | [NIKEY](https://open.spotify.com/track/3pkKb7bj2eVQjNaHOGzYSf) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 4:33 | 2024-02-10 | 2024-11-05 |
-| [NINAO](https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/1zNMg3ouAmuzATO21HkNa3) | 2:47 | 2025-02-27 |  |
+| [NINAO](https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/1zNMg3ouAmuzATO21HkNa3) | 2:47 | 2025-02-27 | 2025-07-26 |
 | [Niya](https://open.spotify.com/track/7raUFkCEhCAuizf45DLu0Q) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [360](https://open.spotify.com/album/398Fh5aL7eVdWRNosUR6pm) | 3:20 | 2021-05-23 | 2021-05-25 |
 | [Niya \(feat\. ElGrandeToto\)](https://open.spotify.com/track/1gOnmylQfRosw6DLJff6af) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Intégral 2 \#POV](https://open.spotify.com/album/1Pp29brafMioAYDYXJSM1D) | 3:12 | 2023-06-25 | 2023-11-29 |
 | [Niya \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3OaHQoMlGe9jnk12UNEvJd) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Niya \(feat\. ElGrandeToto\)](https://open.spotify.com/album/6r9TDL8g5fBwFPCwFqgvc9) | 3:12 | 2023-06-17 | 2023-06-26 |
@@ -1381,6 +1381,7 @@
 | [RS3](https://open.spotify.com/track/2fe4vq7z5vXpZoFBPtlDaU) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [RS3](https://open.spotify.com/album/2OsLIuY9JqqkpI0f9KTflW) | 3:52 | 2021-09-27 | 2022-05-05 |
 | [RS6](https://open.spotify.com/track/4jga8vZBHI77wVLjclVvQO) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 3:48 | 2025-06-14 |  |
 | [RS6](https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [RS6](https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi) | 3:48 | 2025-05-10 | 2025-06-15 |
+| [RUINART](https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [7/7 : 24/24](https://open.spotify.com/album/0u2KFP9XvLHwQshJy1wDTM) | 2:54 | 2025-07-25 |  |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-07-08 |
 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 | 2021-04-16 | 2021-05-05 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-03 | 2022-08-14 |

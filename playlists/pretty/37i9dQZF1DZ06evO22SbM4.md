@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 
 > This is Bailey Zimmerman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,380 likes - 27 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,420 likes - 27 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 | 2 | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ) | 3:01 |
 | 3 | [Rock and A Hard Place](https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:27 |
 | 4 | [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 |
-| 5 | [Comin' In Cold](https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Comin' In Cold](https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK) | 3:00 |
-| 6 | [Ashes](https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Ashes](https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg) | 3:03 |
+| 5 | [Ashes](https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Ashes](https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg) | 3:03 |
+| 6 | [Comin' In Cold](https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Comin' In Cold](https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK) | 3:00 |
 | 7 | [Fall In Love](https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 |
 | 8 | [Holding On](https://open.spotify.com/track/2j8pCpVtMjKchtmuu64BnY) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holding On](https://open.spotify.com/album/5PUFR2sBnMOdRAoM5jDQN0) | 3:50 |
 | 9 | [Never Comin' Home](https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Never Comin' Home](https://open.spotify.com/album/4GhGSIS6nha0XoeSQHRyq8) | 3:14 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 | 26 | [Trainwreck](https://open.spotify.com/track/6uhtKcSdQMFpnX8Gj3QBxF) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:30 |
 | 27 | [From The Fall](https://open.spotify.com/track/1NYf23TIqL4hyIw8rppZ2S) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:48 |
 
-Snapshot ID: `aIAmAAAAAAC3u8Z+TXq3MCm5SNDJR/vR`
+Snapshot ID: `aIF3gAAAAACvPjVbhRK1GnsjgiXeREM0`

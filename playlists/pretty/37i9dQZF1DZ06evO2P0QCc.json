@@ -1,13 +1,29 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 119149,
+  "num_followers": 119186,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABbydlf3MQLzD993H2DZ6FL",
+  "snapshot_id": "aIF3gAAAAACA1IQI8CQDq/tnGZW+Y/t3",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brindo por ti (Sonando desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/6jhwA4nrC2k3K4CzFwQPW9"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Brindo por ti - Sonando desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/3W8oqGTpqbVhDoikGdOkln"
+    },
     {
       "added_at": null,
       "album": {
@@ -267,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amar o Morir",
-        "url": "https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u"
+        "name": "Aunque No Sea Conmigo",
+        "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
       },
       "artists": [
         {
@@ -276,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 252266,
-      "name": "Brindo por ti",
-      "url": "https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic"
+      "duration_ms": 251680,
+      "name": "Aunque No Sea Conmigo",
+      "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
     },
     {
       "added_at": null,
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aunque No Sea Conmigo",
-        "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 251680,
-      "name": "Aunque No Sea Conmigo",
-      "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unidad, Cerveza y Ska",
         "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
       },
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Busco Amor",
+        "url": "https://open.spotify.com/album/2vALxKJpED66tqUiDLLzXw"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 222138,
+      "name": "Busco Amor",
+      "url": "https://open.spotify.com/track/7xSg3RsbKQW7psMXu85oqM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A La Larga Te Acostumbras",
         "url": "https://open.spotify.com/album/1bp7ROjR99ipXFrSuRGhvM"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 186613,
       "name": "Tengo Un Amor",
       "url": "https://open.spotify.com/track/7jpqYcKRXHfGl0pP32h0xZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Busco Amor",
-        "url": "https://open.spotify.com/album/2vALxKJpED66tqUiDLLzXw"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 222138,
-      "name": "Busco Amor",
-      "url": "https://open.spotify.com/track/7xSg3RsbKQW7psMXu85oqM"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 172771,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blanco y Negro",
         "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 154897,
       "name": "Ara\u00f1a Ska",
       "url": "https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 172771,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
     },
     {
       "added_at": null,

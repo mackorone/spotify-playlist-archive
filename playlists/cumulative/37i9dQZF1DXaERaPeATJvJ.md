@@ -4,7 +4,7 @@
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: The Morning After
 
-178 songs - 12 hr 27 min
+180 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,10 @@
 | [Etalase](https://open.spotify.com/track/5TmBVcWadjsHGgAqxYZDwn) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Centralismo](https://open.spotify.com/album/4cgfCWFWpaUsbNouFsKdsr) | 6:55 | 2024-03-22 | 2024-04-05 |
 | [Fallen Japanese](https://open.spotify.com/track/2b5zeSMZrwA9ygkrG5Kc5E) | [Sajama Cut](https://open.spotify.com/artist/33lCWREMjKEXJHUMbSkZle) | [The Osaka Journals](https://open.spotify.com/album/43Prz8VTzCcSjELmqhoLUZ) | 2:40 | 2021-11-25 |  |
 | [Firefiles](https://open.spotify.com/track/4Vg4wDdSihxcGQhXHSEzMj) | [risky summerbee & the honeythief](https://open.spotify.com/artist/08nbcEsElBbqPXrXnPVYdy) | [The Place I Wanna Go](https://open.spotify.com/album/1EtoolKNgWx0OoIJNDtZWt) | 3:44 | 2022-04-14 |  |
+| [Forget Jakarta](https://open.spotify.com/track/4UucLisbPzUcqYCE6cQX2z) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [Forget Your Plan](https://open.spotify.com/album/2nftdSlqgiJ2lN8hu3dCEr) | 6:41 | 2025-07-25 |  |
 | [Funny Little Dream](https://open.spotify.com/track/2W3Oq3vWsxCD7qGuy9jLTU) | [Funny Little Dream](https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ) | [Funny Little Dream](https://open.spotify.com/album/3kCSZ4uIMazjsWt8zz46eM) | 3:10 | 2023-03-02 | 2024-04-19 |
 | [Funny Little Dream](https://open.spotify.com/track/6c9Migc6BSfWp1pMIr7DuM) | [Funny Little Dream](https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ) | [Funny Little Dream](https://open.spotify.com/album/29AM4873XavAXXXvr446D0) | 3:10 | 2022-07-30 |  |
+| [Gaze](https://open.spotify.com/track/6cebiKUXkoLYlaxzDfEPtS) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [Forget Your Plan](https://open.spotify.com/album/2nftdSlqgiJ2lN8hu3dCEr) | 5:09 | 2025-07-25 |  |
 | [Gesneriana](https://open.spotify.com/track/4jazdSJh7enogGmipPHYDA) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Los Skut Leboys](https://open.spotify.com/album/2y7GNu8un0dk53CP4jnV4U) | 4:10 | 2024-03-24 | 2024-04-05 |
 | [Hanya Kau](https://open.spotify.com/track/3UfR1fCPSLK4AXyl5QtKqN) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [V2.05](https://open.spotify.com/album/72g5NvgwUJDA45iqYPltFG) | 4:17 | 2021-11-25 |  |
 | [Hayya The Great](https://open.spotify.com/track/2yJOF7LndHE56BhPaO0Djm) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Quo Vadis, SORE?](https://open.spotify.com/album/53TkUEJhzjqYY6ljR3XoKS) | 3:27 | 2024-03-24 | 2024-04-05 |

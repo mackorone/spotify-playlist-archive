@@ -2,12 +2,13 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Jigsaw Story, MONICA
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Z9
 
-184 songs - 10 hr 59 min
+186 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1 OF 1](https://open.spotify.com/track/5kMl8givhqRWmrDTKauySB) | [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY), [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P) | [1 OF 1](https://open.spotify.com/album/4K9YECaZ2GRmWyfYLyNOrk) | 4:21 | 2025-07-25 |  |
 | [2AM \(คุณเคยรักใครมากๆมั้ย?\)](https://open.spotify.com/track/50D7ptFXhgR9GZ9g7G20SF) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D) | [2AM \(คุณเคยรักใครมากๆมั้ย?\)](https://open.spotify.com/album/3CDUojnPiIiyslUq2WuTWb) | 3:53 | 2024-12-16 | 2025-02-01 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-07 | 2025-03-07 |
 | [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 | 2025-03-24 | 2025-04-25 |
@@ -25,12 +26,12 @@
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-21 | 2025-03-24 |
 | [Chill](https://open.spotify.com/track/1QIUF20HdqMA0CJvkBOHNb) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:39 | 2025-04-24 | 2025-07-12 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 | 2025-02-28 |
-| [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl) | 4:13 | 2025-01-30 |  |
+| [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl) | 4:13 | 2025-01-30 | 2025-07-26 |
 | [DAISIES](https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S) | 2:56 | 2025-07-11 |  |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2024-10-04 |
 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 | 2024-06-20 | 2025-06-14 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-19 | 2025-07-05 |
-| [Dirty Work](https://open.spotify.com/track/1ImRS2KtSaDZcj9vQTxwFA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1oJztb2MfwieRwHZ1t4NrN) | 3:00 | 2025-07-04 |  |
+| [Dirty Work](https://open.spotify.com/track/1ImRS2KtSaDZcj9vQTxwFA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/1oJztb2MfwieRwHZ1t4NrN) | 3:00 | 2025-07-04 | 2025-07-26 |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-25 | 2024-11-09 |
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-04 | 2024-12-17 |
 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-13 | 2025-05-09 |
@@ -57,6 +58,7 @@
 | [I’m OK // Not OK \- Headphones Version](https://open.spotify.com/track/4eXfkqFZLTixR89GpkjKgE) | [BOYdPOD](https://open.spotify.com/artist/31esXlsRlVAFFGS7lx4BOS), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [I’m OK // Not OK \(Headphones Version\)](https://open.spotify.com/album/5FqyaQKzUJtMJkXqpGMA2k) | 5:16 | 2025-06-06 |  |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-11 |  |
 | [LIAR](https://open.spotify.com/track/5dpJemvWkTEM3qIKSbKB82) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [LIAR](https://open.spotify.com/album/5ykB9BRD65FWWxEuiED21R) | 3:31 | 2024-09-13 | 2024-10-12 |
+| [Like Damn](https://open.spotify.com/track/4wlmpwdyng4B4bObMnP3OS) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [The BESTS](https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE) | [Like Damn](https://open.spotify.com/album/1GBsH8MY0SQY2BL9O6lafz) | 2:29 | 2025-07-25 |  |
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-09 |  |
 | [Living Death](https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Living Death](https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y) | 4:18 | 2025-04-28 |  |
 | [Loop \(ฉันจึงวนกลับมา\)](https://open.spotify.com/track/0Fye2qtgBqOzHxb4cPSjWb) | [ASIA7](https://open.spotify.com/artist/5ghOUzxpnQmnPQDwC1thIz) | [Loop \(ฉันจึงวนกลับมา\) \- Single](https://open.spotify.com/album/05DGgZgqUX2HbssDax9YoL) | 3:50 | 2024-09-26 | 2025-02-13 |

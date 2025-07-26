@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Shadient
+> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
 
-180 songs - 10 hr 8 min
+181 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Gassed Up](https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Gassed Up](https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b) | 3:58 | 2023-12-01 | 2025-05-03 |
 | [Get Started](https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Get Started](https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI) | 2:56 | 2025-05-02 |  |
 | [Give Thanks, Give Praise](https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 3:41 | 2025-01-30 |  |
+| [Glass Veins](https://open.spotify.com/track/7mNnbHvAHVr6oTpGsNhhIg) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [CABLE](https://open.spotify.com/artist/2spFq4vwnf6DXIl5iJOkaJ) | [Glass Veins](https://open.spotify.com/album/5ZZaeoU9S11FSKSYYxn0US) | 3:08 | 2025-07-25 |  |
 | [Go Back \(feat\. Julia Church\) \- YDG Remix](https://open.spotify.com/track/4ASH49SxktKD1YzIbqUP0N) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\) \[YDG Remix\]](https://open.spotify.com/album/7aqNYVhP6oZGvfSk9Zxo5B) | 3:30 | 2024-11-29 |  |
 | [Going Out To The Ravers \(feat\. Everyone You Know\)](https://open.spotify.com/track/2VMGrvCgpiTVwnyuIsU9fm) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [London Sound](https://open.spotify.com/album/5jguHiPnYKnCubpuOZskLY) | 3:09 | 2024-01-26 | 2024-11-09 |
 | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd) | 2:56 | 2023-12-01 |  |

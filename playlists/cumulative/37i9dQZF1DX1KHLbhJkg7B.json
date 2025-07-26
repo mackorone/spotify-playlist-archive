@@ -169,6 +169,28 @@
     },
     {
       "album": {
+        "name": "A Lesson In Leavin'",
+        "url": "https://open.spotify.com/album/3rfYnj51q8xxwyn0NFjIyu"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        },
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204603,
+      "name": "A Lesson In Leavin\u2019",
+      "url": "https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A"
+    },
+    {
+      "album": {
         "name": "Ain't Goin' Down (Til the Sun Comes up)",
         "url": "https://open.spotify.com/album/7DuXhaPbr8SI066tDEwubh"
       },
@@ -4988,7 +5010,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 494800,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/08QgUCPjEW1JnXRwVuzRVw"

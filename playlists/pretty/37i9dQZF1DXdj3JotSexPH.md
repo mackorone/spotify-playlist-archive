@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 
 > اضغط للبدء
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,181 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,179 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 50 | [Butterflies](https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Butterflies](https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm) | 3:15 |
 | 51 | [Arc](https://open.spotify.com/track/1XvNkXo2iNQgNNxxqX7pIe) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Arc](https://open.spotify.com/album/3eHNdHMGISbfsjN9J4USOm) | 4:34 |
 | 52 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
-| 53 | [Lammah](https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Lammah](https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM) | 3:41 |
-| 54 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 |
+| 53 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 |
+| 54 | [Lammah](https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Lammah](https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM) | 3:41 |
 | 55 | [Mahma Sar](https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb) | [Abadi Al Johar](https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf) | [Mahma Sar](https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn) | 4:00 |
 | 56 | [GG Geena](https://open.spotify.com/track/7BCTs4GX9kQ3hvojt5vlLH) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [GG Geena](https://open.spotify.com/album/7Ea8OkBsX5UAw5G2aJ14b4) | 1:59 |
 | 57 | [Bekhtisar](https://open.spotify.com/track/0tGbQm1mkA0is0MGnAbodj) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Estihala](https://open.spotify.com/album/5dRiSqLu89aJE6ZFWIHzBE) | 4:52 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 68 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 |
 | 69 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 |
 | 70 | [3al hady](https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [3al hady](https://open.spotify.com/album/1Ae5dRJaDBUqCjTE33f15F) | 2:48 |
-| 71 | [شفت](https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw) | [شفت](https://open.spotify.com/album/6CnP4TxSVUVg13UrMTPRfX) | 2:03 |
-| 72 | [Sheila Sattar](https://open.spotify.com/track/3WIAH5gwrFhd4tJz0oyEZ9) | [Telfaz11](https://open.spotify.com/artist/5PVYhzRlwWI7OWgPBDDQkh), [Hussain Al Labeed](https://open.spotify.com/artist/57RLY6gST8c5vCtPygoHuy), [Abdulaziz Al Shehri](https://open.spotify.com/artist/6XbUXannvTDg5AzUWsal0t) | [Sattar](https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr) | 1:39 |
+| 71 | [Sheila Sattar](https://open.spotify.com/track/3WIAH5gwrFhd4tJz0oyEZ9) | [Telfaz11](https://open.spotify.com/artist/5PVYhzRlwWI7OWgPBDDQkh), [Hussain Al Labeed](https://open.spotify.com/artist/57RLY6gST8c5vCtPygoHuy), [Abdulaziz Al Shehri](https://open.spotify.com/artist/6XbUXannvTDg5AzUWsal0t) | [Sattar](https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr) | 1:39 |
+| 72 | [شفت](https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw) | [شفت](https://open.spotify.com/album/6CnP4TxSVUVg13UrMTPRfX) | 2:03 |
 | 73 | [FLOATING](https://open.spotify.com/track/6dH6sNqJ0V70apdyR7mMSZ) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS) | [Floating](https://open.spotify.com/album/2VRJeL1urQDxXkIvPCCa6s) | 3:11 |
 | 74 | [Loop](https://open.spotify.com/track/2Pi4fHuWK9k8Wg2NvUx9dn) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Kitab](https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI) | 3:02 |
 | 75 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn) | 1:01 |

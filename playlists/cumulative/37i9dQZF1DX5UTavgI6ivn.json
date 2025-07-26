@@ -185,6 +185,64 @@
     },
     {
       "album": {
+        "name": "500",
+        "url": "https://open.spotify.com/album/6UU5WaASeqWGapJJUHhQDv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Estereobeat",
+          "url": "https://open.spotify.com/artist/4i70orTITjlYP1lDoHPsZr"
+        },
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        },
+        {
+          "name": "Laura Mar\u00e9",
+          "url": "https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO"
+        },
+        {
+          "name": "Olga Luc\u00eda Vives",
+          "url": "https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22"
+        },
+        {
+          "name": "L'Omy",
+          "url": "https://open.spotify.com/artist/7Cqqd8uYKo6L22O2W344CP"
+        },
+        {
+          "name": "Gloria Torres",
+          "url": "https://open.spotify.com/artist/388q18M1GyE5HH0HUNCbGt"
+        },
+        {
+          "name": "Pao Lacera",
+          "url": "https://open.spotify.com/artist/26d1QbDDLGpKCnrosyitr1"
+        },
+        {
+          "name": "Rashid Zawady",
+          "url": "https://open.spotify.com/artist/5mWuIQUeeFNHePrEtBZ9ly"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488710,
+      "name": "500",
+      "url": "https://open.spotify.com/track/1nYVcYalhPt8EJKxv6wIqj"
+    },
+    {
+      "album": {
         "name": "506",
         "url": "https://open.spotify.com/album/38coX6excq4obQR4Z7sww7"
       },
@@ -2387,6 +2445,36 @@
     },
     {
       "album": {
+        "name": "El Embustero RMX",
+        "url": "https://open.spotify.com/album/4kh6zY4pspQVF3KKHzjQXn"
+      },
+      "artists": [
+        {
+          "name": "Yeison Maje",
+          "url": "https://open.spotify.com/artist/4bV3t2Z8IKptPZKtRxDtZi"
+        },
+        {
+          "name": "Ciro Qui\u00f1onez",
+          "url": "https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK"
+        },
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222893,
+      "name": "El Embustero RMX",
+      "url": "https://open.spotify.com/track/72q1JMsCJbKNbWgzipGi6x"
+    },
+    {
+      "album": {
         "name": "EL HECHIZO",
         "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
       },
@@ -3284,7 +3372,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 225812,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
@@ -4040,7 +4128,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -4756,7 +4844,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 192213,
       "name": "Mujeriego",
       "url": "https://open.spotify.com/track/1bygAjLggvdiFzDdBX155d"
@@ -5236,10 +5324,32 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 168099,
       "name": "NOS DESCONOXIMOS",
       "url": "https://open.spotify.com/track/27CpmKxBYrVMveaWeClewo"
+    },
+    {
+      "album": {
+        "name": "Noventa (with J Balvin)",
+        "url": "https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146700,
+      "name": "Noventa (with J Balvin)",
+      "url": "https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp"
     },
     {
       "album": {
@@ -5384,7 +5494,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 186463,
       "name": "Oe Beb\u00e9",
       "url": "https://open.spotify.com/track/57pj5sOWSCAqZm088LMcE4"
@@ -5406,6 +5516,28 @@
       "duration_ms": 156577,
       "name": "OHNANA",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/71t5su830WyBTzVLZQxOb5"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180361,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/04hcwA2QczjJkiEFoaK6qC"
     },
     {
       "album": {
@@ -5630,6 +5762,24 @@
       "duration_ms": 156000,
       "name": "palacio <3",
       "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
+    },
+    {
+      "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167180,
+      "name": "Papasito",
+      "url": "https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t"
     },
     {
       "album": {
@@ -6569,6 +6719,24 @@
     },
     {
       "album": {
+        "name": "Se Acab\u00f3",
+        "url": "https://open.spotify.com/album/51DJQhb22aSZFsz6tTBY23"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166571,
+      "name": "Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/2T6BBNQW4t81x2ddqWrGzs"
+    },
+    {
+      "album": {
         "name": "SE ME OLVIDA",
         "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
       },
@@ -6726,7 +6894,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
@@ -7962,7 +8130,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 194000,
       "name": "Verano 23",
       "url": "https://open.spotify.com/track/33D8RI7wFKjzh8zvbSE1mN"
@@ -8244,6 +8412,24 @@
       "duration_ms": 215000,
       "name": "X TI",
       "url": "https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx"
+    },
+    {
+      "album": {
+        "name": "Cruce de Caminos",
+        "url": "https://open.spotify.com/album/5AwLil0ISb4xv118YW3QVW"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218146,
+      "name": "Y Si Te Quedas, \u00bfQu\u00e9?",
+      "url": "https://open.spotify.com/track/0Y9c9SRQgswjlt4BzCsJv4"
     },
     {
       "album": {

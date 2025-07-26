@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Aimer
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,116 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,115 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 44 | [ネオラダイト](https://open.spotify.com/track/2P9e9zkpqTLyHzpCq9CfR4) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [ネオラダイト](https://open.spotify.com/album/0qrP4ztyiLy8sa9nEICOgX) | 3:23 |
 | 45 | [ハレの日に \- Harenohini](https://open.spotify.com/track/41bU6Anbt3NPBdGLzpEcal) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [ハレの日に \- Harenohini](https://open.spotify.com/album/3aaRYkHau7tGCBcVMAlTWY) | 4:37 |
 | 46 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 |
-| 47 | [サマータイムゴースト](https://open.spotify.com/track/13RKaJCGLEPNoAcWn4j42R) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [サマータイムゴースト](https://open.spotify.com/album/7jEn46nEzzuVcfbiJ2Kd4h) | 3:09 |
-| 48 | [スノウドロップ](https://open.spotify.com/track/7pfswWE0zmNze4HnPtvJzl) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [スノウドロップ](https://open.spotify.com/album/42M8N9jUgF0L5uIQPvBoqn) | 2:59 |
+| 47 | [スノウドロップ](https://open.spotify.com/track/7pfswWE0zmNze4HnPtvJzl) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [スノウドロップ](https://open.spotify.com/album/42M8N9jUgF0L5uIQPvBoqn) | 2:59 |
+| 48 | [サマータイムゴースト](https://open.spotify.com/track/13RKaJCGLEPNoAcWn4j42R) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [サマータイムゴースト](https://open.spotify.com/album/7jEn46nEzzuVcfbiJ2Kd4h) | 3:09 |
 | 49 | [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 |
 | 50 | [TC: Weight of the World \- English Version](https://open.spotify.com/track/17XFNf783Yi942wEADQbFr) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi), [MONACA](https://open.spotify.com/artist/51YzpymjYYIUZ6WYMyiAbQ) | [TC: Weight of the World \(English Version\)](https://open.spotify.com/album/3ETClfIiLTcHPOXkiYym6I) | 5:06 |
 

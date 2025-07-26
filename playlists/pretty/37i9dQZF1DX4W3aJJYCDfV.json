@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Tyler The Creator, Tame Impala, CMAT and more!",
-  "num_followers": 917756,
+  "num_followers": 919348,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIK7DgAAAAA+EbB7PJ5DZ7BvaUDOKsSJ",
+  "snapshot_id": "aINFYQAAAAAAm9DP2kRiqT69cPzg06op",
   "tracks": [
     {
       "added_at": "2025-07-24 23:00:30",
@@ -71,6 +71,26 @@
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2025-07-25 05:23:08",
+      "album": {
+        "name": "Which One",
+        "url": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 169134,
+      "name": "Which One (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
     },
     {
       "added_at": "2025-07-24 23:00:30",
@@ -253,7 +273,7 @@
         },
         {
           "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce"
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
       "duration_ms": 195454,
@@ -449,6 +469,30 @@
       "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
     },
     {
+      "added_at": "2025-07-25 08:50:41",
+      "album": {
+        "name": "Dis Badman",
+        "url": "https://open.spotify.com/album/7rWOE4qznyqy2eggc1jR91"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "duration_ms": 169554,
+      "name": "Dis Badman",
+      "url": "https://open.spotify.com/track/67OlGJITLmRSqrFmI90Uc2"
+    },
+    {
       "added_at": "2025-07-24 23:00:30",
       "album": {
         "name": "brozone",
@@ -531,6 +575,30 @@
       "duration_ms": 153637,
       "name": "Drama",
       "url": "https://open.spotify.com/track/40ROAtBj7soL5rbqXQjU4k"
+    },
+    {
+      "added_at": "2025-07-24 23:00:30",
+      "album": {
+        "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
+        "url": "https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 219968,
+      "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
+      "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
     },
     {
       "added_at": "2025-07-24 23:00:30",

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 1165837,
+  "num_followers": 1166999,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Please Hammer Don't Hurt 'Em",
-        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
-      },
-      "artists": [
-        {
-          "name": "MC Hammer",
-          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "U Can't Touch This",
-      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Hooray For Boobies",
         "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 260506,
       "name": "The Bad Touch",
       "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Please Hammer Don't Hurt 'Em",
+        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Boombastic",
-        "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Boombastic",
-      "url": "https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Children (Dance Vault Mixes)",
         "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 243266,
       "name": "Children",
       "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Boombastic",
+        "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Boombastic",
+      "url": "https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "PopArt: The Hits",
-        "url": "https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 304080,
-      "name": "Go West - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Back For Good",
         "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 230266,
       "name": "You're My Heart, You're My Soul '98",
       "url": "https://open.spotify.com/track/1bNYIF1HZlWJe8ZKmTIFfT"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "PopArt: The Hits",
+        "url": "https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 304080,
+      "name": "Go West - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1447,6 +1447,34 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "The Best Of Suzanne Vega - Tried And True",
+        "url": "https://open.spotify.com/album/7dC869HdAWI9T2jmNy7zqO"
+      },
+      "artists": [
+        {
+          "name": "DNA",
+          "url": "https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL"
+        },
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        },
+        {
+          "name": "Neal Slateford",
+          "url": "https://open.spotify.com/artist/4a09epliVikRqsBczNwZb2"
+        },
+        {
+          "name": "Nick Batt",
+          "url": "https://open.spotify.com/artist/1VOvPysGbgHhsfKA6NaKnl"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Tom's Diner - 7\" Version",
+      "url": "https://open.spotify.com/track/4sutLmjkVKRN6pOAMo2joC"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
       },
@@ -1479,34 +1507,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "The Best Of Suzanne Vega - Tried And True",
-        "url": "https://open.spotify.com/album/7dC869HdAWI9T2jmNy7zqO"
-      },
-      "artists": [
-        {
-          "name": "DNA",
-          "url": "https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL"
-        },
-        {
-          "name": "Suzanne Vega",
-          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
-        },
-        {
-          "name": "Neal Slateford",
-          "url": "https://open.spotify.com/artist/4a09epliVikRqsBczNwZb2"
-        },
-        {
-          "name": "Nick Batt",
-          "url": "https://open.spotify.com/artist/1VOvPysGbgHhsfKA6NaKnl"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Tom's Diner - 7\" Version",
-      "url": "https://open.spotify.com/track/4sutLmjkVKRN6pOAMo2joC"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
       },
@@ -1519,26 +1519,6 @@
       "duration_ms": 245000,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "You Don't Know Me (feat. Duane Harden)",
-        "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Duane Harden",
-          "url": "https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
-      "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1563,18 +1543,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Pronounced Jah-Nay",
-        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
+        "name": "You Don't Know Me (feat. Duane Harden)",
+        "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
       },
       "artists": [
         {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Duane Harden",
+          "url": "https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0"
         }
       ],
-      "duration_ms": 252400,
-      "name": "Hey Mr. D.J.",
-      "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
+      "duration_ms": 242333,
+      "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
+      "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1591,6 +1575,22 @@
       "duration_ms": 268910,
       "name": "Informer",
       "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Pronounced Jah-Nay",
+        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
+      },
+      "artists": [
+        {
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Hey Mr. D.J.",
+      "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Born Slippy (Nuxx) [Radio Edit]",
-        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 264187,
-      "name": "Born Slippy (Nuxx) - Radio Edit",
-      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -2027,18 +2011,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Sunchyme",
-        "url": "https://open.spotify.com/album/6TtZuP1WRvIScmqLlUwet2"
+        "name": "Born Slippy (Nuxx) [Radio Edit]",
+        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
       },
       "artists": [
         {
-          "name": "Dario G",
-          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
         }
       ],
-      "duration_ms": 235850,
-      "name": "Sunchyme",
-      "url": "https://open.spotify.com/track/2YOuBWIyHgyvHnLMpjzBf2"
+      "duration_ms": 264187,
+      "name": "Born Slippy (Nuxx) - Radio Edit",
+      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2055,6 +2039,22 @@
       "duration_ms": 219466,
       "name": "We've Got It Goin' On - Radio Edit",
       "url": "https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Sunchyme",
+        "url": "https://open.spotify.com/album/6TtZuP1WRvIScmqLlUwet2"
+      },
+      "artists": [
+        {
+          "name": "Dario G",
+          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
+        }
+      ],
+      "duration_ms": 235850,
+      "name": "Sunchyme",
+      "url": "https://open.spotify.com/track/2YOuBWIyHgyvHnLMpjzBf2"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "Don't Turn Around",
-      "url": "https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Move Until We Fly",
         "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 240773,
       "name": "I Promised Myself",
       "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "Don't Turn Around",
+      "url": "https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2423,6 +2423,30 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Pablo Flores",
+          "url": "https://open.spotify.com/artist/1zTUYXZHltJuaK4ONIzKDu"
+        },
+        {
+          "name": "Javier Garza",
+          "url": "https://open.spotify.com/artist/7d6UVb1wJfBBglIebDp5Cz"
+        }
+      ],
+      "duration_ms": 271266,
+      "name": "Mar\u00eda - Pablo Flores Spanglish Radio Edit",
+      "url": "https://open.spotify.com/track/4bNqBlJkoueiFla9YsyNg9"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -2451,30 +2475,6 @@
       "duration_ms": 298691,
       "name": "Strike It Up",
       "url": "https://open.spotify.com/track/742hY2twqAjwNYnKkQdilj"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Pablo Flores",
-          "url": "https://open.spotify.com/artist/1zTUYXZHltJuaK4ONIzKDu"
-        },
-        {
-          "name": "Javier Garza",
-          "url": "https://open.spotify.com/artist/7d6UVb1wJfBBglIebDp5Cz"
-        }
-      ],
-      "duration_ms": 271266,
-      "name": "Mar\u00eda - Pablo Flores Spanglish Radio Edit",
-      "url": "https://open.spotify.com/track/4bNqBlJkoueiFla9YsyNg9"
     },
     {
       "added_at": "2024-07-12 16:20:49",

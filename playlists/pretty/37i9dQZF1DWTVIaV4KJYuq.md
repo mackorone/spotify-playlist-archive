@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,270 likes - 110 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,226 likes - 110 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 59 | [What a Wonderful World](https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC) | [Sawyer Fredericks](https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn) | [What a Wonderful World](https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7) | 2:42 |
 | 60 | [Man in the Mirror](https://open.spotify.com/track/4XTqOeJ9nLeNCHy2fXYi5T) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Man in the Mirror](https://open.spotify.com/album/5VleQQSPbU6LEzONZK38F5) | 3:30 |
 | 61 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 |
-| 62 | [Helplessly Hoping](https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Helplessly Hoping](https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA) | 2:39 |
-| 63 | [Tiny Dancer \- Live at Newport Music Festival, Newport, RI \- July 2002](https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [Ben Folds Live](https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8) | 5:23 |
+| 62 | [Tiny Dancer \- Live at Newport Music Festival, Newport, RI \- July 2002](https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [Ben Folds Live](https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8) | 5:23 |
+| 63 | [Helplessly Hoping](https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Helplessly Hoping](https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA) | 2:39 |
 | 64 | [My City of Ruins](https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ) | 4:16 |
 | 65 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 |
 | 66 | [More Than a Woman](https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [More Than a Woman](https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM) | 3:44 |
@@ -109,14 +109,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 99 | [Heart Of Glass \(Live from the iHeart Festival\)](https://open.spotify.com/track/5i7ThJfYLAzp2DyZuFpF6j) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Heart Of Glass / Midnight Sky](https://open.spotify.com/album/4shNUtOEh07Rco2Jy5ArAF) | 3:33 |
 | 100 | [Hallelujah](https://open.spotify.com/track/74X1epeRufHckhuX1KFD04) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 6:53 |
 | 101 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 |
-| 102 | [Can't Help Falling in Love](https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Can't Help Falling in Love](https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L) | 2:53 |
-| 103 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
+| 102 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 |
+| 103 | [Can't Help Falling in Love](https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Can't Help Falling in Love](https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L) | 2:53 |
 | 104 | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/track/6IsiCdn42x5fGWTUqkyDwj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/album/5ZF0y8MDRFSecx7HFqqryV) | 4:50 |
-| 105 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 |
+| 105 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
 | 106 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
 | 107 | [This Must Be the Place \(Naive Melody\) \[by Talking Heads\]](https://open.spotify.com/track/0udJrKQOgJz6TwZXuhi7IM) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [7" Singles](https://open.spotify.com/album/7JE9DRRB2m7IG1lvlztQ8q) | 3:26 |
 | 108 | [Strangers \- From "Life In A Day"](https://open.spotify.com/track/7yntS3BLfzBAKaHsIvYzjw) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Strangers \(From "Life In A Day"\)](https://open.spotify.com/album/5gZVsnYndVV84cOFYrJ8wX) | 3:12 |
-| 109 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 |
-| 110 | [Always On My Mind](https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 3:26 |
+| 109 | [Always On My Mind](https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 3:26 |
+| 110 | [Mr\. Sandman](https://open.spotify.com/track/1ibQiWl2i50MGt3SpRuE0D) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Mr\. Sandman](https://open.spotify.com/album/2fdSGlrhEbkEC9an1uPg9b) | 3:26 |
 
 Snapshot ID: `ZxHdQAAAAABKnnFrYWY5K+EyWhdcd0R+`

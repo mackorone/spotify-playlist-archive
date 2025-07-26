@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-415 songs - 21 hr 25 min
+416 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [a lesson in chemistry](https://open.spotify.com/track/4PoCaIK1ATTxQvqtTTXFzz) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [a lesson in chemistry](https://open.spotify.com/album/2slYBTkG0mGdQEmQVe6dD3) | 2:07 | 2024-04-26 | 2024-08-03 |
 | [A New Beginning](https://open.spotify.com/track/01mzzX5T9vowx3uevmqo0t) | [Yetti](https://open.spotify.com/artist/1Z98Ovf0sHPSZU3DTIbeQ0) | [A New Beginning](https://open.spotify.com/album/61bVRwC7C50fnZxcjawHy1) | 3:58 | 2024-07-27 | 2024-08-03 |
 | [A New Day](https://open.spotify.com/track/3de5XKUSr25gWW0iz1HJI8) | [Tarmo](https://open.spotify.com/artist/0NHfTSgBcrto4B2AflArL7), [Starmode](https://open.spotify.com/artist/5q30AIpvZ2Au7MiWSLzTUB) | [A New Day](https://open.spotify.com/album/02StessRCTBIt7VpsjH3Uf) | 2:14 | 2024-02-09 | 2024-03-14 |
+| [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0) | 3:27 | 2025-07-25 |  |
 | [About To Lose It](https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [About To Lose It](https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY) | 3:15 | 2025-02-21 |  |
 | [Act A Fool](https://open.spotify.com/track/21muZspAq0wIHfn2WvkMg8) | [Charlie Powell](https://open.spotify.com/artist/7elzzq09RJe28w2d7kNRru) | [Act A Fool](https://open.spotify.com/album/6W8PoI7IqO1emJsHFUnNCh) | 2:31 | 2025-01-10 |  |
 | [Adidas & Pearls](https://open.spotify.com/track/2zME1tNgLyHCJ29E2uSeJM) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Adidas & Pearls](https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN) | 3:29 | 2022-06-24 | 2024-05-01 |

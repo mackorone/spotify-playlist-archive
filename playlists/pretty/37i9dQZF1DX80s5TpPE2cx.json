@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 17396,
+  "num_followers": 17400,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "When It Blooms",
-        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 191952,
-      "name": "Kilimanjaro (with BEAM)",
-      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "Everything Pretty",
         "url": "https://open.spotify.com/album/5C0aXCJzr9tBP7iWvuWBGs"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 202648,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/4cobcXNVYowm5a8gdfCsiz"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -907,8 +907,8 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
+        "name": "Wuse II (feat. Odunsi)",
+        "url": "https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg"
       },
       "artists": [
         {
@@ -916,17 +916,13 @@
           "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         },
         {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Prey\u00e9",
-          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
         }
       ],
-      "duration_ms": 193249,
-      "name": "SPACE",
-      "url": "https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0"
+      "duration_ms": 269552,
+      "name": "Wuse II",
+      "url": "https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -1015,8 +1011,8 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Wuse II (feat. Odunsi)",
-        "url": "https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg"
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
       },
       "artists": [
         {
@@ -1024,13 +1020,17 @@
           "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         },
         {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Prey\u00e9",
+          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
         }
       ],
-      "duration_ms": 269552,
-      "name": "Wuse II",
-      "url": "https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1"
+      "duration_ms": 193249,
+      "name": "SPACE",
+      "url": "https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0"
     },
     {
       "added_at": "2025-06-20 07:45:33",

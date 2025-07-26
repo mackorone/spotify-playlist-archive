@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,297 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,360 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 29 | [Anda Borracho Pancho](https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [Anda Borracho Pancho](https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw) | 5:02 |
 | 30 | [Inhalando Amor](https://open.spotify.com/track/69hdWx8Zy66wkVrocafrrd) | [Hazel](https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i) | [Inhalando Amor](https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG) | 4:04 |
 | 31 | [Una Rola de Amor](https://open.spotify.com/track/4oc6fWlPQfoERkPs9TOZGj) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [En Guerra de Amor](https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe) | 3:44 |
-| 32 | [El Perdedor](https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg) | [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [La Ciudad](https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa) | 3:34 |
+| 32 | [Cristo Viejo](https://open.spotify.com/track/43IpgycykkiMC7Tm6Q6SS2) | [Fantasma De Canterville](https://open.spotify.com/artist/040rbCr9V95JeswXJeStGx) | [Cristo Viejo](https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy) | 5:23 |
 | 33 | [Ahora Que No Vives Conmigo](https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:08 |
-| 34 | [Cristo Viejo](https://open.spotify.com/track/43IpgycykkiMC7Tm6Q6SS2) | [Fantasma De Canterville](https://open.spotify.com/artist/040rbCr9V95JeswXJeStGx) | [Cristo Viejo](https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy) | 5:23 |
+| 34 | [El Perdedor](https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg) | [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [La Ciudad](https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa) | 3:34 |
 | 35 | [En Dos](https://open.spotify.com/track/4ZhN7nhbg91qqqfljUBTYf) | [Sur 16](https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq) | [15 Éxitos](https://open.spotify.com/album/5K7JaRLKjYiSr4zYl7ldBO) | 3:32 |
 | 36 | [Yo Quiero Ser](https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE) | [Perro Callejero](https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX) | [15 Rolitas de Amor, Vol\. 7](https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt) | 4:45 |
 | 37 | [Historia de un Minuto](https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Rock Sin Visa, Vol\. 2](https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL) | 3:07 |

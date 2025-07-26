@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,752 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,747 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 49 | [5am Paradise \(Acoustic\) \- Sunrise Version](https://open.spotify.com/track/1JS7SJxALtgTPIbf2OArnE) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [5am Paradise \(Acoustic\) \[Sunrise Version\]](https://open.spotify.com/album/4dquJ7BPyzZ0XiGH2eDVd4) | 3:23 |
 | 50 | [Feeling Fine](https://open.spotify.com/track/7nFzhJY6qquGuYp5SZkSMF) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Feeling Fine](https://open.spotify.com/album/1d4NX4I7UalL37vhDKNJKM) | 3:15 |
 | 51 | [Love Is an Open Road](https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [Love Is an Open Road](https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8) | 2:46 |
-| 52 | [Tell Me What You Dream About](https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Tell Me What You Dream About](https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo) | 3:17 |
-| 53 | [The Breach](https://open.spotify.com/track/5GDANCD4HBjsGmcwP83xnT) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach, A Vast Decade](https://open.spotify.com/album/4gpM9zqyGqFagyYbnm9OiH) | 4:17 |
+| 52 | [The Breach](https://open.spotify.com/track/5GDANCD4HBjsGmcwP83xnT) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach, A Vast Decade](https://open.spotify.com/album/4gpM9zqyGqFagyYbnm9OiH) | 4:17 |
+| 53 | [Tell Me What You Dream About](https://open.spotify.com/track/3iTbPkbT3qJhIErzGDgp8Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Tell Me What You Dream About](https://open.spotify.com/album/3882i7uBcZratKSUGsWRvo) | 3:17 |
 | 54 | [Green Valleys](https://open.spotify.com/track/5nxU2qr4jRVtd8IBEJf27E) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu) | 4:26 |
 | 55 | [Jackson \- Cover](https://open.spotify.com/track/3nvS2z9s0xf2xGMZJO0OaT) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi), [Ike Campbell](https://open.spotify.com/artist/3lj5OOeZrVaSN71dqJCXcX) | [Jackson \(Cover\)](https://open.spotify.com/album/28REKiqomkBstRutFWUkom) | 3:25 |
 | 56 | [Milk & Honey](https://open.spotify.com/track/0KCmXW5HH4pqNHRMHiAVou) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/1KUlIZ2aYZpircoQqXpqIg) | 3:52 |

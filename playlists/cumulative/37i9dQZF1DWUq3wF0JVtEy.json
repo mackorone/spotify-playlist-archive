@@ -4369,6 +4369,24 @@
     },
     {
       "album": {
+        "name": "Hardcore",
+        "url": "https://open.spotify.com/album/4SqFoofJnq03YWLgcz5YQS"
+      },
+      "artists": [
+        {
+          "name": "AVE",
+          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128291,
+      "name": "Hardcore",
+      "url": "https://open.spotify.com/track/0mi7aK49tdp8ES22clJWAB"
+    },
+    {
+      "album": {
         "name": "Hardcore Vibes",
         "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
       },
@@ -4728,7 +4746,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 185280,
       "name": "HOUSE PARTY",
       "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
@@ -6804,7 +6822,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 150447,
       "name": "Mind Awake, Body Asleep",
       "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
@@ -9648,6 +9666,28 @@
       "duration_ms": 121846,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/1Geetz5pLP3lLd7QdeZ00b"
+    },
+    {
+      "album": {
+        "name": "Smash The Disco",
+        "url": "https://open.spotify.com/album/2EYCno5OfWCya6X0zXX5SN"
+      },
+      "artists": [
+        {
+          "name": "REBRN",
+          "url": "https://open.spotify.com/artist/3GHKSLV8K79xY8Z6TASqqz"
+        },
+        {
+          "name": "Oliver Marshak",
+          "url": "https://open.spotify.com/artist/6lUFleltrcWzLWSkRnt3zB"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Smash The Disco",
+      "url": "https://open.spotify.com/track/2dkF1yfMyvfaRMhIpA9iLA"
     },
     {
       "album": {

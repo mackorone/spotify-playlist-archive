@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/cheetah/">Tyreek Hill</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,061 likes - 49 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,088 likes - 49 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 | 44 | [Lifetime \- 2021 Remaster](https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 5:29 |
 | 45 | [I Belong To You \(Every Time I See Your Face\)](https://open.spotify.com/track/1nP6feYWJVpbO41aezFtm2) | [Rome](https://open.spotify.com/artist/6KcJMeHZr0A6XHwAwlmfef) | [Rome](https://open.spotify.com/album/4ol8aChmHBMIL85LzG10ja) | 4:33 |
 | 46 | [If You](https://open.spotify.com/track/5DwP705ZZWaTQ8olnVtD0b) | [Silk](https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD) | [Tonight](https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk) | 5:37 |
-| 47 | [Lately](https://open.spotify.com/track/0XmTCQWHgf6dOXJeLjXrzr) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:26 |
-| 48 | [Fuckin' wit Me](https://open.spotify.com/track/3v10vlZlZPApvDz3kE4aNe) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Sex, Love & Pain II](https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D) | 4:02 |
+| 47 | [Fuckin' wit Me](https://open.spotify.com/track/3v10vlZlZPApvDz3kE4aNe) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Sex, Love & Pain II](https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D) | 4:02 |
+| 48 | [Lately](https://open.spotify.com/track/0XmTCQWHgf6dOXJeLjXrzr) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:26 |
 | 49 | [Butta Love](https://open.spotify.com/track/6fRLVZ4jKzuqyDPlIdbq9q) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:56 |
 
 Snapshot ID: `ZIsPQAAAAACwqR2Q9XPviDgspLXG9Qhs`

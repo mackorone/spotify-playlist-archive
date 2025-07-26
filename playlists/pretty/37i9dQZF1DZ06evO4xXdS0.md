@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 
 > This is Nina Simone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,369 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,393 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 25 | [Since I Fell for You](https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:50 |
 | 26 | [Black Is The Color Of My True Love's Hair \- Jaffa Remix](https://open.spotify.com/track/5ituU6SebgZBAkS0YnbVre) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Jaffa](https://open.spotify.com/artist/2KmAZfz1aJ4On70lLseFHt) | [Verve Remixed 2](https://open.spotify.com/album/0jZihpxJOMBTJ51wRN0Uje) | 4:57 |
 | 27 | [Work Song](https://open.spotify.com/track/628A54HsxBPfgJPShyD7gx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [High Priestess Of Soul](https://open.spotify.com/album/1M2ktinB3DcTbrVXD45jxn) | 3:03 |
-| 28 | [The Times They Are A\-Changin' \- Outtake](https://open.spotify.com/track/159F1pdX35fbRevVBbjTFw) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [A Single Woman \(Expanded\)](https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB) | 0:58 |
-| 29 | [Plain Gold Ring \(2013 \- Remaster\)](https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:48 |
-| 30 | [Do I Move You?](https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:44 |
+| 28 | [Plain Gold Ring \(2013 \- Remaster\)](https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:48 |
+| 29 | [Do I Move You?](https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:44 |
+| 30 | [The Times They Are A\-Changin' \- Outtake](https://open.spotify.com/track/159F1pdX35fbRevVBbjTFw) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [A Single Woman \(Expanded\)](https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB) | 0:58 |
 | 31 | [Trouble In Mind](https://open.spotify.com/track/1MBgXSmV94CZZT2dXyctBb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 2:40 |
-| 32 | [Mood Indigo](https://open.spotify.com/track/1BaAzMva4yf7cWeOGwp7H4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 2:26 |
-| 33 | [He Needs Me \(2013 \- Remaster\)](https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 2:29 |
+| 32 | [He Needs Me \(2013 \- Remaster\)](https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 2:29 |
+| 33 | [Mood Indigo](https://open.spotify.com/track/1BaAzMva4yf7cWeOGwp7H4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 2:26 |
 | 34 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
-| 35 | [Tomorrow Is My Turn](https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:48 |
-| 36 | [Backlash Blues](https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:28 |
-| 37 | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 4:17 |
+| 35 | [Backlash Blues](https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:28 |
+| 36 | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 4:17 |
+| 37 | [Tomorrow Is My Turn](https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:48 |
 | 38 | [My Way](https://open.spotify.com/track/2Yg4GGGKqGwoqM5OgdhpAj) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 5:14 |
 | 39 | [Lilac Wine](https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 4:13 |
 | 40 | [Nobody's Fault but Mine](https://open.spotify.com/track/5EIXKDfVw1y9gqRwOgtrK7) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 49 | [No Woman, No Cry \- Outtake](https://open.spotify.com/track/3SmTSujkbFtr7OKhHhheQi) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [A Single Woman \(Expanded\)](https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB) | 3:15 |
 | 50 | [Go to Hell](https://open.spotify.com/track/0xJIP7dF3yRrL2FUKQF4IO) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 2:48 |
 
-Snapshot ID: `aIAmAAAAAAC+eA6dVaAPsQc18fK4AodR`
+Snapshot ID: `aIF3gAAAAABQEm5MElrmzs/aXaKerRvE`

@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 342616,
+  "num_followers": 342621,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 160704,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Keep on Moving",
         "url": "https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 177187,
       "name": "Keep on Moving",
       "url": "https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 160704,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY"
     },
     {
       "added_at": "2025-02-14 16:04:15",

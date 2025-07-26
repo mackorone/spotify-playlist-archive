@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1485752,
+  "num_followers": 1486216,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Come What(ever) May [10th Anniversary Edition]",
         "url": "https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 243573,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/6FOpPA0a80RuBqqgDozvja"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Stone Sour",
-        "url": "https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Bother",
-      "url": "https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 262133,
       "name": "A Tout Le Monde - Remastered 2004",
       "url": "https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Stone Sour",
+        "url": "https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Bother",
+      "url": "https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -443,18 +443,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+        "name": "Ordinary Man (feat. Elton John)",
+        "url": "https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3"
       },
       "artists": [
         {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 207120,
-      "name": "Life Eternal",
-      "url": "https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh"
+      "duration_ms": 301730,
+      "name": "Ordinary Man (feat. Elton John)",
+      "url": "https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -475,22 +479,18 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Ordinary Man (feat. Elton John)",
-        "url": "https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3"
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 301730,
-      "name": "Ordinary Man (feat. Elton John)",
-      "url": "https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v"
+      "duration_ms": 207120,
+      "name": "Life Eternal",
+      "url": "https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Don't Cry (Original)",
-      "url": "https://open.spotify.com/track/0ZEhlT9v8CdOKu55zhYGv9"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Metallica",
         "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 388733,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Don't Cry (Original)",
+      "url": "https://open.spotify.com/track/0ZEhlT9v8CdOKu55zhYGv9"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Get A Grip (Reissue - Remaster)",
-        "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 308333,
-      "name": "Cryin'",
-      "url": "https://open.spotify.com/track/3Yls95V4qCzVfR20gr8cOW"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Keep The Faith (Remastered)",
         "url": "https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 394400,
       "name": "Bed Of Roses",
       "url": "https://open.spotify.com/track/5Ac8sOEk91RTzD06ViNzqf"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Get A Grip (Reissue - Remaster)",
+        "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 308333,
+      "name": "Cryin'",
+      "url": "https://open.spotify.com/track/3Yls95V4qCzVfR20gr8cOW"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Don't Know What You Got (Till It's Gone)",
-      "url": "https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Kiss of Death",
         "url": "https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "REISE, REISE",
-        "url": "https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4"
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
         }
       ],
-      "duration_ms": 271173,
-      "name": "OHNE DICH",
-      "url": "https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen"
+      "duration_ms": 354640,
+      "name": "Don't Know What You Got (Till It's Gone)",
+      "url": "https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "REISE, REISE",
+        "url": "https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 271173,
+      "name": "OHNE DICH",
+      "url": "https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/491aVcQHmKwGjVego5VI15"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Detonator",
-        "url": "https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq"
-      },
-      "artists": [
-        {
-          "name": "Ratt",
-          "url": "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Givin' Yourself Away",
-      "url": "https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Ritchie Blackmore's Rainbow (Remastered)",
         "url": "https://open.spotify.com/album/0RsJGRspEXnzwNMBAdrV3u"
       },
@@ -1579,22 +1563,6 @@
       "duration_ms": 282013,
       "name": "The Temple Of The King",
       "url": "https://open.spotify.com/track/6Z435tBPT5JamUR9dN7y8y"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Crazy World",
-        "url": "https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "Send Me An Angel",
-      "url": "https://open.spotify.com/track/4rBgm0zIGwwAhuUibPehy2"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1615,6 +1583,54 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Mass Slaughter",
+        "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
+      },
+      "artists": [
+        {
+          "name": "Slaughter",
+          "url": "https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Fly To The Angels",
+      "url": "https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Detonator",
+        "url": "https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq"
+      },
+      "artists": [
+        {
+          "name": "Ratt",
+          "url": "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Givin' Yourself Away",
+      "url": "https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Crazy World",
+        "url": "https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "Send Me An Angel",
+      "url": "https://open.spotify.com/track/4rBgm0zIGwwAhuUibPehy2"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Vault: Def Leppard Greatest Hits (1980\u20131995)",
         "url": "https://open.spotify.com/album/5TT3zudoEiGFg0uZ8KSZL1"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 257161,
       "name": "When Love And Hate Collide",
       "url": "https://open.spotify.com/track/1ailMHu2DGaPR8kDSJ0XAE"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Vol. 4 (2009 Remastered Version)",
-        "url": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 282493,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q"
     }
   ],
   "unique_name": "Heavy Ballads",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHKvhxCIS5.md) - [plain]
 
 > Our editor’s picks of the freshest music from Ireland in 2024\. Cover: KNEECAP
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,633 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,635 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

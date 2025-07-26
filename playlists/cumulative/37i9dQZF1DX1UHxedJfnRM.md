@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa
 
-165 songs - 11 hr 57 min
+166 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Homenaje a Selena](https://open.spotify.com/track/2DVlE8GYES8tJaETtKOAaw) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR), [Panamericana Music](https://open.spotify.com/artist/5k5ooueWxxmAMBRhb1sJLc), [Caliope](https://open.spotify.com/artist/1RTavctCCbZB10amIU3Xkl), [Brunella](https://open.spotify.com/artist/4x9iDqP59xKtLhj5UgFR8U) | [Homenaje a Selena](https://open.spotify.com/album/4bY2UikF58FUZ5BHe6NqLX) | 6:15 | 2022-05-13 |  |
 | [Hoy He Vuelto a Ver al Amor](https://open.spotify.com/track/23ZaC0z4gQ7mhAGTUSFWj0) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Y No Hay Más Na](https://open.spotify.com/album/3NfQpI1g7293zTjirDR73X) | 5:34 | 2022-05-13 |  |
 | [Hoy no me siento bien](https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Hoy no me siento bien](https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD) | 2:33 | 2025-01-24 |  |
-| [Hoy Que Te Vuelvo a Ver \- Versión Salsa](https://open.spotify.com/track/68ci2Ioh4qYJEoMalSb1Rv) | [Idéntico](https://open.spotify.com/artist/1rRFD7wAhD9VekIljwlLs1) | [Hoy Que Te Vuelvo a Ver \(Versión Salsa\)](https://open.spotify.com/album/4l2g8GJDkvB6PGTMXm3rhf) | 4:21 | 2022-05-13 |  |
+| [Hoy Que Te Vuelvo a Ver \- Versión Salsa](https://open.spotify.com/track/68ci2Ioh4qYJEoMalSb1Rv) | [Idéntico](https://open.spotify.com/artist/1rRFD7wAhD9VekIljwlLs1) | [Hoy Que Te Vuelvo a Ver \(Versión Salsa\)](https://open.spotify.com/album/4l2g8GJDkvB6PGTMXm3rhf) | 4:21 | 2022-05-13 | 2025-07-26 |
 | [Infiel](https://open.spotify.com/track/3kCxeBjJ81jJtWH52LeNvS) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [Infiel](https://open.spotify.com/album/2FKYbCNaZv18t27If5BkUE) | 4:57 | 2022-05-13 | 2023-02-04 |
 | [La Boda](https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 4:09 | 2024-05-24 |  |
 | [La calle me llama](https://open.spotify.com/track/780dIIMU2fJtBA8FC9YoEs) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [La calle me llama](https://open.spotify.com/album/4fH9ozp8nZJbSLrRl2mtpo) | 3:27 | 2024-12-13 | 2025-01-25 |
@@ -104,6 +104,7 @@
 | [Me Vas A Extrañar](https://open.spotify.com/track/0SVlCv4gOgWohAdBZMBu3v) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Me Vas A Extranar](https://open.spotify.com/album/5COSv7B9FrpiPMJamXFTmp) | 5:10 | 2022-05-13 |  |
 | [Me Vas a Extrañar](https://open.spotify.com/track/10OXEEbtNRaeiHeKHj25XB) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Me Vas a Extrañar](https://open.spotify.com/album/6KSnZY5Af92l4E1K5XjYL8) | 5:10 | 2022-07-15 | 2024-04-19 |
 | [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 | 2022-05-13 | 2023-03-04 |
+| [Misterio](https://open.spotify.com/track/5ANnot1kusksXvuHlmwYYT) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mixteip](https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk) | 3:48 | 2025-07-25 |  |
 | [MIX KAROL G: BICHOTA / SEJODIOTO / EL MAKINON](https://open.spotify.com/track/28BdtXblzpFirMnFIuMKFC) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [MIX KAROL G: BICHOTA / SEJODIOTO / EL MAKINON](https://open.spotify.com/album/3Bz9rTrpsFUF1OcALYiroo) | 5:37 | 2022-05-13 | 2023-02-04 |
 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 | 2022-05-13 |  |
 | [No Es Amor](https://open.spotify.com/track/126uD4iuwvOVE3ifkZKAZQ) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [No Es Amor](https://open.spotify.com/album/3QS22ZODgzWwuJoPboESgN) | 5:19 | 2023-11-24 | 2024-12-14 |

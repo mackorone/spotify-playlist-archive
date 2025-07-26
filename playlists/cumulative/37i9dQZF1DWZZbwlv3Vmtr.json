@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "a second chance",
+        "url": "https://open.spotify.com/album/4I83UWtTiNcDqVhoo0srKV"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109367,
+      "name": "a second chance",
+      "url": "https://open.spotify.com/track/5gyEE8Eaik6ujxqW4sRqqw"
+    },
+    {
+      "album": {
         "name": "A short break",
         "url": "https://open.spotify.com/album/2dARGp3nfUoyTl8JaNuq8E"
       },
@@ -594,7 +612,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 122112,
       "name": "all of that",
       "url": "https://open.spotify.com/track/2ctRPTyX78jlF3Q52AdjhZ"
@@ -768,6 +786,24 @@
       "duration_ms": 100253,
       "name": "are and be",
       "url": "https://open.spotify.com/track/16KKyq1VNR1QFYqX9lBX1a"
+    },
+    {
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/3ZZpzASMpDWcNRFizv5oUT"
+      },
+      "artists": [
+        {
+          "name": "Korey Wade",
+          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Arena",
+      "url": "https://open.spotify.com/track/4kvzTLQ4uDH5ZY62jkRfK1"
     },
     {
       "album": {
@@ -1004,7 +1040,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 127582,
       "name": "autumn shower",
       "url": "https://open.spotify.com/track/4yiIIKKdTC0mvONGjX3BW2"
@@ -1642,7 +1678,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 149177,
       "name": "Bonafide Bars",
       "url": "https://open.spotify.com/track/5PsHl5DtzhLij9jRwZXnlJ"
@@ -2968,7 +3004,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 135857,
       "name": "Cocoa",
       "url": "https://open.spotify.com/track/6Qrn5SUZPm50Ko3FJTkeT9"
@@ -5756,7 +5792,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 133953,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z"
@@ -6008,7 +6044,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 156000,
       "name": "Glowing Firefly Waltz",
       "url": "https://open.spotify.com/track/690nc3o39vROr09u2gpU6Q"
@@ -6620,7 +6656,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 129000,
       "name": "Harpiness",
       "url": "https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U"
@@ -7526,7 +7562,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 153076,
       "name": "In Spirit",
       "url": "https://open.spotify.com/track/69jvobVMX2CIHX3rKEN20t"
@@ -9804,7 +9840,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 126666,
       "name": "Melt",
       "url": "https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ"
@@ -9996,7 +10032,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 162000,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/2MFcMNpz6Et7kFYGAz6SSi"
@@ -10680,7 +10716,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 120375,
       "name": "Mysteries",
       "url": "https://open.spotify.com/track/2tpt0vstkDIemSBz5WlRhG"
@@ -10796,7 +10832,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 180000,
       "name": "Need Some Space",
       "url": "https://open.spotify.com/track/0TBWvdscZJCLXyOUGbun4p"
@@ -10944,7 +10980,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 120857,
       "name": "New Season",
       "url": "https://open.spotify.com/track/4KFkKyUl1er3ta67yoQHHz"
@@ -11400,7 +11436,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 131420,
       "name": "Oboe on Jupiter",
       "url": "https://open.spotify.com/track/23NfXr1s9xe0xzAquqGmq5"
@@ -12046,7 +12082,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 124411,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB"
@@ -12634,7 +12670,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Playing Games",
       "url": "https://open.spotify.com/track/146qfyDUejihj8VFaRoBEn"
@@ -12670,7 +12706,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 123870,
       "name": "please",
       "url": "https://open.spotify.com/track/2S7E7PyoXa3ApIQRLrQ7Qc"
@@ -13748,7 +13784,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 104594,
       "name": "Roadburn",
       "url": "https://open.spotify.com/track/0ml0Y7IL5qTJfpUryOtRNi"
@@ -13860,7 +13896,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 120905,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/4MVYu5v2s7tRPeOPrTPlxB"
@@ -13914,7 +13950,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 124590,
       "name": "rose quartz",
       "url": "https://open.spotify.com/track/6QCZUHBxTk7Fa05l0RFhMn"
@@ -14622,7 +14658,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 146299,
       "name": "Shine Again",
       "url": "https://open.spotify.com/track/7kqy1v6tydmrfwrnJLMuaa"
@@ -15978,7 +16014,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 137228,
       "name": "Stones",
       "url": "https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3"
@@ -16666,7 +16702,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 128248,
       "name": "Surfing Cats",
       "url": "https://open.spotify.com/track/3nhlmeGm7FdqFo3rVO7hS2"
@@ -17864,7 +17900,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 120588,
       "name": "Tranquil Twilight",
       "url": "https://open.spotify.com/track/22zMUlKVs4jOX5BBPrftUc"

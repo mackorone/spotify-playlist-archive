@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,187 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,251 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 34 | [Yes, I'm Ready](https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Yes I'm Ready](https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj) | 3:04 |
 | 35 | [Baby, I'm For Real](https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Baby, I'm For Real](https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn) | 3:21 |
 | 36 | [Didn't I \(Blow Your Mind This Time\)](https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 3:21 |
-| 37 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
-| 38 | [Computer Love](https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:42 |
+| 37 | [Computer Love](https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:42 |
+| 38 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
 | 39 | [Baby, I'm Yours](https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Baby, I'm Yours](https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN) | 2:28 |
 | 40 | [Don't Let No One Get You Down](https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 4:00 |
 | 41 | [I Want to Be Your Man](https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:09 |

@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-293 songs - 19 hr 7 min
+296 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Desert Rose \- Melodic Club Mix Radio Edit](https://open.spotify.com/track/7zZxHbiwBoHNB30MAf1YiU) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Vic Calderone](https://open.spotify.com/artist/7IpHuA8q4cFkywiEfXLCIx) | [Brand New Day \(Expanded Edition\)](https://open.spotify.com/album/2WnFt5YphOAgXMOEyrD0XS) | 4:45 | 2024-09-27 |  |
 | [Dirty Day \- Bitter Kiss / Remastered 2024](https://open.spotify.com/track/3sTp2O4tnaMl2yQEAXLMyH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Please](https://open.spotify.com/album/1jmFAkO4iGbznWncVkF99A) | 4:34 | 2024-05-23 |  |
 | [Dirty Paws](https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:38 | 2023-10-16 | 2024-05-24 |
+| [Do It Again \- Massano Remix](https://open.spotify.com/track/02f2n3usAnFXyRejWROsHs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Do It Again \(Massano Remix\)](https://open.spotify.com/album/2EDBQsqGzhECP0x0QX8Qin) | 3:20 | 2025-07-25 |  |
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2024-07-05 |  |
 | [Dog Days Are Over](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:12 | 2023-10-16 | 2024-05-24 |
 | [Dolly Shop Man](https://open.spotify.com/track/6B82z0cidwuqfTJuM4pYkw) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River \(Deluxe\)](https://open.spotify.com/album/3U7AwXppw5yAnsAWSkmgOZ) | 5:08 | 2024-08-16 |  |
@@ -110,6 +111,7 @@
 | [How Do You Keep The Music Playing? \- Bob Florence Arrangement \- 5/17/84](https://open.spotify.com/track/5vXfb0UVQxUou3HKzlpLnR) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [How Do You Keep The Music Playing? \(Bob Florence Arrangement \- 5/17/84\)](https://open.spotify.com/album/5ycDfRCnEIM1cHh6IU69PN) | 3:54 | 2024-09-06 |  |
 | [Hurt \(with Jelly Roll\)](https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hurt \(with Jelly Roll\)](https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3) | 2:36 | 2024-11-22 |  |
 | [I Ain't Goin' Out Like That \- Live](https://open.spotify.com/track/7GInRHp54ruQsiJM4pXAhJ) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [I Ain't Goin' Out Like That \(Live\)](https://open.spotify.com/album/1IsROFm3kuV58k9vtFFOB0) | 6:07 | 2025-04-11 |  |
+| [I Can't Be With You \- Live From Woodstock '94](https://open.spotify.com/track/2Tj9Il1Tm14WAyqeXEh0NB) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [I Can't Be With You / Zombie](https://open.spotify.com/album/7iCCgdnZEdN0fJE1pxQ7yv) | 3:12 | 2025-07-25 |  |
 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 | 2024-07-05 |  |
 | [I Gotta Feeling \- The Best Of The E.N.D\. Version](https://open.spotify.com/track/1eU4VxUQAcITRYEnkGlY2m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Boom Boom Beats: Kids Mix](https://open.spotify.com/album/5I3jxZBcD0iSfTsjBHM1MD) | 4:49 | 2025-04-18 |  |
 | [I Just Fall In Love Again](https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [New Kind Of Feeling](https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG) | 2:51 | 2025-04-04 |  |
@@ -194,6 +196,7 @@
 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:02 | 2024-05-23 |  |
 | [Rebel Yell](https://open.spotify.com/track/2HFJ24aoUuS9mvcfCt9yiw) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell \(Expanded Edition\)](https://open.spotify.com/album/7toLJZQWTgBbSFE07O2s9D) | 4:48 | 2024-05-23 |  |
 | [Regulate](https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 4:08 | 2024-06-07 |  |
+| [Relentless Love](https://open.spotify.com/track/0hzt5MB7hjMWDPkM5BLDLt) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Relentless Love](https://open.spotify.com/album/3c8dzx8Vhy0w4eLH8ns5Zj) | 4:03 | 2025-07-25 |  |
 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 | 2023-10-16 | 2024-05-24 |
 | [Rest Easy \(In My Love\)](https://open.spotify.com/track/0zgPMsAPO8JbD5jDQKglXw) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Rest Easy \(In My Love\)](https://open.spotify.com/album/6EAwIklBmHcymXHbRY7org) | 3:22 | 2025-06-20 |  |
 | [Rise Up Singing](https://open.spotify.com/track/3VZXbrdQnGkt9gUwosnKM0) | [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH) | [Rise Up Singing](https://open.spotify.com/album/6eNJoilR2M8wVoMDDQdoRm) | 3:02 | 2024-05-23 |  |

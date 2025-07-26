@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-202 songs - 9 hr 55 min
+203 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [This Is Where It Begins](https://open.spotify.com/track/0dT83xtuAW3wzwlUYmkfno) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [This Is Where It Begins](https://open.spotify.com/album/0LRLSCxOCNYc9KZAzTxjdN) | 2:26 | 2025-07-04 |  |
 | [This Time \(Never Be Alone Again\) \- Vion Konger Remix](https://open.spotify.com/track/7oGoYb8ptBSUPraeKpfsbG) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [This Time \(Never Be Alone Again\) \[Vion Konger Remix\]](https://open.spotify.com/album/1EQVyCfBAsYEq55IxKLbZD) | 2:39 | 2025-07-04 |  |
 | [Through The Dark](https://open.spotify.com/track/7BJJkburHcl8jD0HoKH6bf) | [9BLADE](https://open.spotify.com/artist/1NFcTe19CrpWk3TNUIBOd6) | [Through The Dark](https://open.spotify.com/album/1JjCrwn2K01vErL0JR8JVv) | 3:02 | 2025-07-04 |  |
+| [Thunderbolt \(Jaxx & Vega Remix\)](https://open.spotify.com/track/1XtnKmKyKisMPCCrM0T59C) | [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w) | [Thunderbolt \(Jaxx & Vega Remix\)](https://open.spotify.com/album/0KmqBPBuassPSQciUOWwAp) | 2:09 | 2025-07-25 |  |
 | [Together](https://open.spotify.com/track/3aloxFY8qg4LZbI42TKN3o) | [Bogar Uriel](https://open.spotify.com/artist/3jbFY4fmWJ53dHwGXRYCa4) | [Together](https://open.spotify.com/album/444EVwZDVvm49c7RYE6HYn) | 3:00 | 2025-07-04 |  |
 | [Tokyo To Rio](https://open.spotify.com/track/0vLFoHL7RfspOfDsVwe4Qt) | [Alpharock](https://open.spotify.com/artist/629Fs7UJp6tWqOYZi8t8ET), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Tokyo To Rio](https://open.spotify.com/album/0Lzo5yZdsEC87h94SjMgHJ) | 2:06 | 2025-07-04 |  |
 | [Too Late](https://open.spotify.com/track/2pkXM2kb7H2zquhHGq7dVH) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC), [Mike Ottoro](https://open.spotify.com/artist/4znNJBz0N0BFo7WcnIfC5w) | [Club Weapons vol.1](https://open.spotify.com/album/7z1fsDVS8tM5UQGxRh5Aqg) | 2:58 | 2025-07-04 |  |

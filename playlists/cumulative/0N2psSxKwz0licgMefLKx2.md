@@ -2,9 +2,9 @@
 
 ### [New Country Hits \(Country Life\)](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross
+> From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: James Barker Band
 
-359 songs - 19 hr 38 min
+362 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Matching Tattoos](https://open.spotify.com/track/6Q0oVfhe6qYiwv6VNHhEAd) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Matching Tattoos](https://open.spotify.com/album/1mlkMoZYsAX8tvNnodHDFC) | 3:00 | 2024-02-16 | 2024-03-30 |
 | [Memory Lane](https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw) | 2:52 | 2023-11-03 | 2023-11-11 |
 | [MESSED UP AS ME](https://open.spotify.com/track/4Znwf3U6xJsQrj0UveLpOx) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [MESSED UP AS ME](https://open.spotify.com/album/6U6AwUuoxscav9cG7yQ5n9) | 3:16 | 2024-03-01 |  |
+| [Miami \(feat\. Lil Wayne & Rick Ross\)](https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Miami](https://open.spotify.com/album/5aPR14AS7MRLz3fea04oKj) | 3:37 | 2025-07-25 |  |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-10-18 |  |
 | [Milwaukee](https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Milwaukee](https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V) | 2:59 | 2024-01-26 | 2024-09-21 |
 | [Mind Of A Country Boy](https://open.spotify.com/track/6W0hxzuDXmRU6hQmViRaGi) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Mind Of A Country Boy](https://open.spotify.com/album/7GIq22HBQ4mKjxE2PaE5Op) | 3:16 | 2024-06-14 | 2024-09-28 |
@@ -235,6 +236,7 @@
 | [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 | 2023-11-03 | 2025-05-10 |
 | [Old Fashioned Feeling](https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Old Fashioned Feeling](https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9) | 3:22 | 2024-05-24 | 2024-07-30 |
 | [One Bad Habit](https://open.spotify.com/track/4N0yUfSgo2lnpJzufrqAoY) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Poet’s Resumé](https://open.spotify.com/album/575dPLrl892d2TGGeZHDj8) | 3:08 | 2024-07-29 | 2025-04-12 |
+| [One Of Us](https://open.spotify.com/track/4gReEWsdCfxdRzd1GwRr7K) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [One Of Us](https://open.spotify.com/album/7k4OxnPKWsANIan8pfS6aK) | 2:57 | 2025-07-25 |  |
 | [One Thing At A Time](https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 3:26 | 2023-11-03 | 2024-01-27 |
 | [Out Of That Truck](https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Out Of That Truck](https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ) | 2:57 | 2024-01-12 | 2025-02-15 |
 | [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 | 2023-11-03 |  |
@@ -281,6 +283,7 @@
 | [Somethin' 'Bout A Woman](https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 3:30 | 2024-08-23 | 2024-12-07 |
 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 | 2024-12-06 |  |
 | [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:40 | 2024-03-01 | 2024-06-09 |
+| [Somewhere in a Small Town](https://open.spotify.com/track/0v8Xje4ZqPnYpECOzeMvjJ) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Somewhere in a Small Town](https://open.spotify.com/album/31PomNawADmQlyqqAGQhKM) | 3:06 | 2025-07-25 |  |
 | [Songs About Whiskey](https://open.spotify.com/track/7crxg59CxoOqSxhHC7I6LY) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 2:53 | 2024-04-19 | 2024-07-30 |
 | [Soul & My Sanity](https://open.spotify.com/track/67TxTJi4FO08ZVfXHt387f) | [Ryan Langdon](https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV) | [Soul & My Sanity](https://open.spotify.com/album/1J8qR59qyGvqtDO8QtI2Oy) | 2:33 | 2024-02-23 | 2024-04-06 |
 | [Sounds Like Something I'd Say \(Feat\. Parker McCollum\)](https://open.spotify.com/track/6jyLcUzl4HwCdtsTe0RiGl) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Sounds Like Something I'd Say \(Feat\. Parker McCollum\)](https://open.spotify.com/album/4cZTfhwa23rh3wtYhfGX78) | 3:20 | 2025-02-28 | 2025-04-05 |

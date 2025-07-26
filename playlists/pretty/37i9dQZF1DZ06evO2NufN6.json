@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 954228,
+  "num_followers": 954395,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAACHdntDMMfmG3sXHAqGjFhw",
+  "snapshot_id": "aIF3gAAAAADZpxalx52C7kWU52puCUrD",
   "tracks": [
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 159119,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/1sVJY4n3fJOcrSiTA8oAos"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
       },
@@ -807,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
-        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
       },
       "artists": [
         {
@@ -816,9 +832,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 159119,
-      "name": "Best Day Ever",
-      "url": "https://open.spotify.com/track/1sVJY4n3fJOcrSiTA8oAos"
+      "duration_ms": 278506,
+      "name": "100 Grandkids",
+      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
     },
     {
       "added_at": null,
@@ -851,22 +867,6 @@
       "duration_ms": 188065,
       "name": "The Mourning After",
       "url": "https://open.spotify.com/track/0xppJmfnjIQnMbMOez9bwT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 278506,
-      "name": "100 Grandkids",
-      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
     }
   ],
   "unique_name": "This Is Mac Miller",

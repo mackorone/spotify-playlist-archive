@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-237 songs - 12 hr 12 min
+239 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Forever](https://open.spotify.com/track/3zzrKCO0OA85eemnlQnQ7c) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Forever](https://open.spotify.com/album/0jrUPXjfWwHPD943Bwwm0o) | 2:49 | 2024-02-07 |  |
 | [gameboy](https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:46 | 2024-12-11 |  |
 | [girl with a problem](https://open.spotify.com/track/0x7eLddl509vjQ1tnrsLEh) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 2:51 | 2024-11-09 |  |
+| [Good For You](https://open.spotify.com/track/0isd3qAsRc0f4sOlsNn4cB) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:35 | 2025-07-25 |  |
 | [Good Graces](https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:05 | 2024-08-29 |  |
 | [Good to See You Again!](https://open.spotify.com/track/4Db7K5tN93veftHAi7yCeS) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 3:14 | 2024-02-07 |  |
 | [Graveyard](https://open.spotify.com/track/2ufmtcIFdFpuUYBPXK5f67) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:01 | 2024-02-07 |  |
@@ -178,6 +179,7 @@
 | [Open Wide](https://open.spotify.com/track/4QLfSJt10WMCsIHwOmbe1K) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 4:48 | 2025-02-26 |  |
 | [opposite](https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 2:48 | 2024-02-07 |  |
 | [Paradise](https://open.spotify.com/track/19sHbXsObFK88fuwExVoWT) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI) | [Paradise](https://open.spotify.com/album/2qIrswJEQtfCmgobWtsQ5X) | 2:25 | 2025-03-23 |  |
+| [Piece Of My Life](https://open.spotify.com/track/26saiJRNR7xPR0WpII0t56) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:53 | 2025-07-25 |  |
 | [pillar](https://open.spotify.com/track/5EF9fmmSr7uTvDDMqUWzgJ) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:01 | 2024-09-08 |  |
 | [Please Please Please](https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:06 | 2024-09-29 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-19 | 2024-09-30 |

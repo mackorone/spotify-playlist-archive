@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,060 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,083 likes - 49 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 14 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 |
 | 15 | [I'm Old Fashioned](https://open.spotify.com/track/2DZdof9VHreWvnCBAuhNr2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 5:03 |
 | 16 | [Everything Happens To Me](https://open.spotify.com/track/00jqmEUSISjkugkuFxGiTo) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Essential Standards \(eBooklet\)](https://open.spotify.com/album/6UEhnkt6B9hfACniByRiEm) | 5:04 |
-| 17 | [If You Could See Me Now \- Mono](https://open.spotify.com/track/2d1rjlkbvXPET5Rf4Ovl1r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 5:19 |
+| 17 | [It Never Entered My Mind \- Mono](https://open.spotify.com/track/20DLzdfrVKNJFsKQLj8eMh) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 4:42 |
 | 18 | [But Not For Me \- Vocal Version](https://open.spotify.com/track/3pfbQmD5xGH9Tcc7GqGfSL) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:04 |
 | 19 | [Born To Be Blue](https://open.spotify.com/track/5Z0HDixFz1mtvPOXLtCKU9) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 4:06 |
 | 20 | [Soultrane](https://open.spotify.com/track/6FAaA71foLB96CYdirZO3n) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Most Important Jazz Album Of 1964/65](https://open.spotify.com/album/06ymq9Pi6OEzgdoeRPfHzM) | 4:42 |
-| 21 | [It Never Entered My Mind \- Mono](https://open.spotify.com/track/20DLzdfrVKNJFsKQLj8eMh) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 4:42 |
+| 21 | [If You Could See Me Now \- Mono](https://open.spotify.com/track/2d1rjlkbvXPET5Rf4Ovl1r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 5:19 |
 | 22 | [It's Always You \- Vocal Version](https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:35 |
 | 23 | [You're My Thrill](https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:59 |
 | 24 | [You're Mine, You!](https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:18 |
@@ -49,14 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 39 | [Darn That Dream \- Live At The Tiffany Club, Los Angeles, CA., 1954](https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [West Coast Live](https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k) | 12:07 |
 | 40 | [Blue Bossa](https://open.spotify.com/track/2xIJC8c665FT6FWmmFETQm) | [Wolfgang Lackerschmid](https://open.spotify.com/artist/3DK2TT2zcwr9AbWTfOHwxS), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Ballads For Two](https://open.spotify.com/album/1wXiZcjOj0oUX4rJqUiOQl) | 3:47 |
 | 41 | [You And The Night And The Music](https://open.spotify.com/track/6XW2ye6BhEVoPhvmfjhPR2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Plays For Lovers](https://open.spotify.com/album/3jQuxFEqWFodjerF11Mq1y) | 4:07 |
-| 42 | [Time On My Hands \- Mono](https://open.spotify.com/track/7gCRsieaL44rHWyZz7Q5Nj) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 4:34 |
-| 43 | [It Could Happen To You](https://open.spotify.com/track/5QxoGg03WwYV3bbwgOAGwK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Essential Standards](https://open.spotify.com/album/0whq7qknr3srbyrfSwSj6L) | 2:52 |
-| 44 | [Ergo \- Remastered 2004](https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Ensemble \(Expanded Edition / Remastered\)](https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c) | 3:11 |
-| 45 | [Lady Bird](https://open.spotify.com/track/1mnd8k1NXdHuO4IBW54XaK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker In Milan](https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz) | 4:44 |
+| 42 | [It Could Happen To You](https://open.spotify.com/track/5QxoGg03WwYV3bbwgOAGwK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Essential Standards](https://open.spotify.com/album/0whq7qknr3srbyrfSwSj6L) | 2:52 |
+| 43 | [Time On My Hands \- Mono](https://open.spotify.com/track/7gCRsieaL44rHWyZz7Q5Nj) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 4:34 |
+| 44 | [Lady Bird](https://open.spotify.com/track/1mnd8k1NXdHuO4IBW54XaK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker In Milan](https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz) | 4:44 |
+| 45 | [Ergo \- Remastered 2004](https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Ensemble \(Expanded Edition / Remastered\)](https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c) | 3:11 |
 | 46 | [While My Lady Sleeps \(take 10\) \- Alternate Take](https://open.spotify.com/track/2ISbOB1Xu6F3YlyP5n6J9d) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 4:22 |
 | 47 | [Welcome Back](https://open.spotify.com/track/3Qs8OE0dIjAq4TQRnUWuEI) | [Wolfgang Lackerschmid](https://open.spotify.com/artist/3DK2TT2zcwr9AbWTfOHwxS), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Welcome Back](https://open.spotify.com/album/64oKnsbQfhkpmjACvSvKUM) | 3:52 |
 | 48 | [Polka Dots And Moonbeams](https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 7:53 |
 | 49 | [I Wish You Love](https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:12 |
-| 50 | [Don't Explain](https://open.spotify.com/track/5ZT1p3Elvxg6yu9qgWnH5r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:26 |
 
-Snapshot ID: `aIAmAAAAAABSK7WSpzs4rGYEJZTUNl+A`
+Snapshot ID: `aIF3gAAAAACr3MJpfT75mpL9iRrJz2Qy`

@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: HAIM
+> New and approved indie pop\. Cover: Shelly
 
-2,156 songs - 4 day 18 hr 10 min
+2,160 songs - 4 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-02-21 | 2025-05-17 |
 | [1 2 365 4 Me](https://open.spotify.com/track/6TtDPG6eFqDGooeyKYXaea) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80) | [Kennen's Cassettes](https://open.spotify.com/album/6ex0UfSwjQz35e3ksthUxW) | 2:54 | 2021-02-25 | 2022-04-14 |
 | [100 Degrees](https://open.spotify.com/track/3rfMbh0ZIJyPR9IjrW3Y0s) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [100 Degrees](https://open.spotify.com/album/1gXllHQq0TLUjpD6sSWOOl) | 3:22 | 2023-06-02 | 2023-06-17 |
+| [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-07-25 |  |
 | [123](https://open.spotify.com/track/6p7ipZgHVyhZZpplPvgW6V) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [123](https://open.spotify.com/album/3I58KIXmWpkeC4f5QW2IKy) | 3:59 | 2022-09-09 | 2022-10-08 |
 | [127 Hours](https://open.spotify.com/track/4KUfErz2aWbIODxQ6GNBV8) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [127 Hours](https://open.spotify.com/album/0PTjTUsGj0F6MrmQN3WLUw) | 2:26 | 2022-02-25 | 2022-06-08 |
 | [15 Minutes](https://open.spotify.com/track/4zGJ5yybuyVgXRt9yCxem1) | [Julian Lamadrid](https://open.spotify.com/artist/60rE8L4eGCSSaJCS1kqNKy) | [15 Minutes](https://open.spotify.com/album/7ewDoS5YHftJf70LZftQGV) | 2:59 | 2021-05-05 | 2022-04-16 |
@@ -503,7 +504,7 @@
 | [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-05-10 | 2024-08-29 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2022-06-17 | 2022-12-10 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-06-02 | 2022-07-28 |
-| [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 | 2025-02-28 |  |
+| [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 | 2025-02-28 | 2025-07-26 |
 | [Demise](https://open.spotify.com/track/1bmGxnZmkNLBwpOzbLW4lP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Demise](https://open.spotify.com/album/1zVQEvr8pNrCtpn0o2wo42) | 3:12 | 2023-07-28 | 2023-09-27 |
 | [Demons](https://open.spotify.com/track/08qsZgJlJnSbeAeLMtUHkn) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Demons](https://open.spotify.com/album/4UNIH2A9TMk030j12KQOIa) | 2:43 | 2020-10-16 | 2021-05-26 |
 | [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 | 2023-04-07 | 2024-05-07 |
@@ -598,6 +599,7 @@
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-08-27 | 2022-01-21 |
 | [Dumb Girl](https://open.spotify.com/track/1ncVpMTDUXN0kaJWncRg7t) | [LAYNE](https://open.spotify.com/artist/1fipysDjXSW7GaohKbEgbV) | [Dumb Girl](https://open.spotify.com/album/4Pv5X3rCv3ymnyIgKKwzmo) | 3:01 | 2021-05-13 | 2021-10-16 |
 | [Dusty](https://open.spotify.com/track/3YAbD6ZmkXerUDg7GY15zZ) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Dusty](https://open.spotify.com/album/7deK3zxoJuFhDhZAguSOvt) | 4:05 | 2025-04-04 | 2025-06-07 |
+| [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 | 2025-07-25 |  |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2024-04-05 | 2024-11-23 |
 | [Ease](https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Ease](https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm) | 2:17 | 2023-08-04 | 2024-03-02 |
 | [ease your mind](https://open.spotify.com/track/4VA9yqBTQjjAZL4fQhlK9M) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [ease your mind](https://open.spotify.com/album/4wYxQMGyGCQn4L9i9MjxCR) | 2:52 | 2020-10-20 | 2020-10-21 |
@@ -623,6 +625,7 @@
 | [Emilee](https://open.spotify.com/track/0iOEtxh9XIYfgxd2b1EHaH) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Emilee: Act I](https://open.spotify.com/album/3dzdsmQ1JI6V2nUF6hKbv8) | 1:30 | 2022-06-24 | 2022-08-06 |
 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/5DnmZd2ZVkWPL4QcZYJwfs) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Emotion feat\. Wild Nothing](https://open.spotify.com/album/2p6O1yfG7YGebBhfUBD3LH) | 4:05 | 2021-02-26 | 2021-05-26 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-15 |  |
+| [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-25 |  |
 | [End Of The World](https://open.spotify.com/track/08CQNIi20pWkYtp2Cd4t3o) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [End Of The World](https://open.spotify.com/album/7K6WpKqY0jElSM2DWvrixK) | 3:12 | 2022-01-28 | 2022-06-07 |
 | [Enemies](https://open.spotify.com/track/2Bimy7oqYf7EdOmkbx9gxU) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari](https://open.spotify.com/album/2cgw16MK8NwNARtKdCX8TY) | 3:22 | 2021-10-11 | 2021-11-28 |
 | [enknee1](https://open.spotify.com/track/69RiJ3z34tsKkRjeVSjdvL) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [enknee1](https://open.spotify.com/album/6JiMKfzT4R5xfT2yXZ1pci) | 3:44 | 2023-08-25 | 2023-09-30 |
@@ -630,6 +633,7 @@
 | [Enough](https://open.spotify.com/track/3wJYYJMdAAfMc2eKA4gxj6) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Enough](https://open.spotify.com/album/5qbW5namU5OjOws5zMfcKD) | 2:15 | 2020-10-15 | 2020-11-15 |
 | [Eraser](https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Eraser](https://open.spotify.com/album/38zJIoiflwVxYFpQX1II64) | 3:03 | 2023-04-07 | 2023-09-23 |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-12 | 2024-04-20 |
+| [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 | 2025-07-25 |  |
 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 | 2024-10-04 | 2025-04-02 |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-05 | 2024-11-23 |
 | [everest](https://open.spotify.com/track/375vzhCsYArHMzT4UG5FgJ) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [everest](https://open.spotify.com/album/46aPiWLHkwjsEHOnCyGoQ1) | 1:49 | 2024-03-08 | 2024-05-05 |
@@ -1395,7 +1399,7 @@
 | [Off My Mind](https://open.spotify.com/track/6Rn74LzUZrzsNSB46uF8ML) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Off My Mind](https://open.spotify.com/album/6QlxMd4KIm1o27F3IyXW5F) | 3:09 | 2020-10-16 | 2021-02-28 |
 | [Off My Mind](https://open.spotify.com/track/3X91uoqAVtHmqv1bvZbNog) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Off My Mind](https://open.spotify.com/album/0AA6bmA8doXjHKUKM1cv8k) | 3:33 | 2021-06-02 | 2022-07-29 |
 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 | 2022-06-17 | 2022-08-27 |
-| [Off The Rails](https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Off The Rails](https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw) | 1:47 | 2025-06-20 |  |
+| [Off The Rails](https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Off The Rails](https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw) | 1:47 | 2025-06-20 | 2025-07-26 |
 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 | 2022-10-16 | 2023-06-24 |
 | [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 | 2023-04-14 | 2023-06-24 |
 | [Oh shit…are we in love?](https://open.spotify.com/track/4syyKlhOWbsZUsZ4DwmJxH) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Oh shit…are we in love?](https://open.spotify.com/album/48w4LOmCFBERYFr7QkT4VA) | 2:35 | 2021-09-10 | 2022-04-16 |
@@ -1760,7 +1764,7 @@
 | [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 | 2025-03-21 |  |
 | [Southern Sky](https://open.spotify.com/track/7pTsZpxCcRdX4HP63AvsUT) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [Southern Sky](https://open.spotify.com/album/1rXG9LfEJFUdd3TPKFvClf) | 3:47 | 2024-12-13 | 2024-12-21 |
 | [Space Cadet](https://open.spotify.com/track/3jK7Phs5IsCWndQVGD4NZz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Space Cadet](https://open.spotify.com/album/14dX5gXAHZFHWmOlOmdxO9) | 4:24 | 2020-10-20 | 2020-10-21 |
-| [Special](https://open.spotify.com/track/7HWDQfrQvnAXp5Xk29xqh7) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Special](https://open.spotify.com/album/0XFMxuZD5kbRlBSP5UZI8h) | 3:14 | 2025-06-20 |  |
+| [Special](https://open.spotify.com/track/7HWDQfrQvnAXp5Xk29xqh7) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Special](https://open.spotify.com/album/0XFMxuZD5kbRlBSP5UZI8h) | 3:14 | 2025-06-20 | 2025-07-26 |
 | [spinnin](https://open.spotify.com/track/0yB9bFHPntWhj0iJoVFkDm) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [spinnin](https://open.spotify.com/album/0SL254Ra6O4r6VXzrIBTzW) | 2:11 | 2021-10-22 | 2022-04-16 |
 | [Spinning](https://open.spotify.com/track/0R6pHybIu4aJA6gJEJgRbc) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Spinning](https://open.spotify.com/album/6dKyD7dQTcNnSYSoedettQ) | 3:08 | 2021-05-10 | 2021-10-23 |
 | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii) | 2:52 | 2021-05-03 | 2021-10-14 |
@@ -1871,7 +1875,7 @@
 | [take it off](https://open.spotify.com/track/317sqVXjumPF2ucELiBVKE) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [take it off](https://open.spotify.com/album/1hvDZoqyROThc4D9BZnct4) | 3:07 | 2024-08-09 | 2024-08-24 |
 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-05-03 | 2021-05-08 |
 | [Take Me All The Way](https://open.spotify.com/track/1NEAm6UTITP4YfOkwUbGcO) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY) | [Take Me All The Way](https://open.spotify.com/album/6G3RTPbRId0MaaDF8L6yAF) | 2:51 | 2021-02-23 | 2021-02-28 |
-| [Take me back](https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Take me back](https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98) | 3:45 | 2025-05-30 |  |
+| [Take me back](https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Take me back](https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98) | 3:45 | 2025-05-30 | 2025-07-26 |
 | [Take Me to the River](https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Take Me to the River](https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V) | 4:24 | 2024-04-05 | 2025-02-22 |
 | [Take My Picture](https://open.spotify.com/track/6kYMoYJnbXVuiqVMCkL2Pe) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Bummer](https://open.spotify.com/album/6qQ2gWYEYmikgGm6qSBYmz) | 3:15 | 2022-10-28 | 2022-12-10 |
 | [Take Yourself Home](https://open.spotify.com/track/6YndZBGmLySgsVScckWkmO) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Take Yourself Home](https://open.spotify.com/album/0F9bpInUaHGru63OHqBuQ8) | 4:09 | 2021-02-06 | 2022-04-12 |

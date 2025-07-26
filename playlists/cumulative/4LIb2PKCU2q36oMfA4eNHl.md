@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-307 songs - 19 hr 42 min
+308 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Kintsugi](https://open.spotify.com/track/3HZdQS6zV60urA6XVKpUYW) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Kintsugi](https://open.spotify.com/album/66k1sZw4tEWuHnDUeNSGvk) | 3:31 | 2024-08-09 | 2025-01-14 |
 | [Kioku](https://open.spotify.com/track/6xGkHqnwZ0Gsbw6npaCD3s) | [Akitsugu Fukushima](https://open.spotify.com/artist/7prxMXbUZnwDhlaxGC5Bdb) | [Boy 1 EP](https://open.spotify.com/album/7uIBHzFLaUAdv6xkVTPLeT) | 3:48 | 2024-03-28 | 2024-06-04 |
 | [Kyoto \(京都\)](https://open.spotify.com/track/6ScA5iBXkvbu5i8grkh7rO) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 4:15 | 2024-06-03 | 2024-12-14 |
-| [Kyoto \(京都\)](https://open.spotify.com/track/6aqdxXatHzSPcMbUQT8PCu) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Kyoto \(京都\)](https://open.spotify.com/album/3SKOG6qFk6PS1x3gin9UGl) | 4:15 | 2025-01-13 |  |
+| [Kyoto \(京都\)](https://open.spotify.com/track/6aqdxXatHzSPcMbUQT8PCu) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Kyoto \(京都\)](https://open.spotify.com/album/3SKOG6qFk6PS1x3gin9UGl) | 4:15 | 2025-01-13 | 2025-07-26 |
 | [Kyoto \(京都\) \- Lycoriscoris Remix](https://open.spotify.com/track/3rNpzCkiH8H7kvL44T36D1) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Jōhatsu \(蒸発\) \(The Remixes\)](https://open.spotify.com/album/1iDvYexi7CTmtTSSI16vJs) | 3:50 | 2023-12-08 | 2024-01-27 |
 | [La luna \(Flica’s Moonlight Remix\)](https://open.spotify.com/track/0CgocE5K72fz4Ej7uEroti) | [D & the Compass](https://open.spotify.com/artist/3ilD695ywPm5CrM65QwoXF), [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [La luna \(Flica's Moonlight Remix\)](https://open.spotify.com/album/3jNccBInH9Dktpo4tvhumR) | 3:09 | 2024-01-19 | 2024-04-13 |
 | [Let It Burn](https://open.spotify.com/track/0DxInsKBRdvAJTTLgO57tE) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [A Song For You](https://open.spotify.com/artist/4P3LplvLge34bs0R6bQ7kP) | [Let It Burn](https://open.spotify.com/album/4MrtqISO50u3fvNmr7VHPJ) | 3:59 | 2024-03-01 | 2024-03-29 |
@@ -218,6 +218,7 @@
 | [Ogou \(Pran Ka Mwen\) \- Turtle Revisit](https://open.spotify.com/track/48R6sOFn31bOM199xIXWQv) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Ogou \(Pran Ka Mwen\) \[Turtle Revisit\]](https://open.spotify.com/album/7HbnyY0UkqOzyOpgrmcf9Q) | 4:16 | 2024-06-14 | 2024-11-23 |
 | [Ojai](https://open.spotify.com/track/25OzqeRhXTJahO5uiOfYtw) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Ojai](https://open.spotify.com/album/4hDuXbI7PTaDuJgIwszRyp) | 3:29 | 2025-01-13 | 2025-07-19 |
 | [Once...](https://open.spotify.com/track/6bYv31mEInRhLb7yPDkE2L) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 4:00 | 2023-12-08 |  |
+| [One](https://open.spotify.com/track/5WWAsENrvGXGb06IyToYA4) | [Planet Of Souls](https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [One](https://open.spotify.com/album/3MQVX7noO0RlYMxE53TxIj) | 3:32 | 2025-07-25 |  |
 | [Opals \[Strings\]](https://open.spotify.com/track/3sXfYyVPU8qUk6s0ptba63) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Opals \[Strings\]](https://open.spotify.com/album/0rQAG1x8En0pK6ibB57C5h) | 2:46 | 2024-09-06 |  |
 | [Outro](https://open.spotify.com/track/1KhqgEhefduhFEIwUwMxMT) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Into Clouds](https://open.spotify.com/album/1I14thp76CSHykNU5X96Si) | 3:07 | 2025-01-13 | 2025-05-10 |
 | [Painting Out \- Robyn Sherwell Revisit](https://open.spotify.com/track/42BJCTF3U5NU78lrEaNDx3) | [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Painting Out \(Robyn Sherwell Revisit\)](https://open.spotify.com/album/343TJWS9VH04cqFffmQgDs) | 4:50 | 2024-10-04 | 2025-05-17 |

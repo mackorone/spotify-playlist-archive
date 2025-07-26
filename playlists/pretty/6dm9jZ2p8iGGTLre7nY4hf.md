@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 
 > Break up songs, the best cure for a broken heart!
 
-[Filtr Norway](https://open.spotify.com/user/sonymusic) - 442,257 likes - 101 songs - 6 hr 2 min
+[Filtr Norway](https://open.spotify.com/user/sonymusic) - 442,250 likes - 103 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 | 99 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 |
 | 100 | [Siste farvel](https://open.spotify.com/track/45UXXykuHGkwKAGIctXfu7) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Siste farvel](https://open.spotify.com/album/5qy2NCz2kL0hBwDlLYftjS) | 2:56 |
 | 101 | [HVA HAR SKJEDD MED OSS TO](https://open.spotify.com/track/7hVUWnMNUl7KIRyvhlVOju) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH) | [HVA HAR SKJEDD MED OSS TO](https://open.spotify.com/album/74Ce2wpn1Lpr4qUMhQZnjA) | 2:22 |
+| 102 | [Next Life](https://open.spotify.com/track/15ioRljMDBXZUYkaZMIOgj) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Icarus](https://open.spotify.com/album/6dOw1Yt8emqoiDLOulwIHq) | 2:35 |
+| 103 | [be a bitch](https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [be a bitch](https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl) | 3:04 |
 
-Snapshot ID: `AAAHlOZCfs+PP2IX/Dn5OHfXcow1f1Lr`
+Snapshot ID: `AAAHlgdTRdrODE/LslSId2KUpQRjlnQG`

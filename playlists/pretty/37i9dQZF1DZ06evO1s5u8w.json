@@ -1,13 +1,29 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 196515,
+  "num_followers": 196539,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABJ2TO3iCIh4d/zACqF17dO",
+  "snapshot_id": "aIF3gAAAAABC+ig4sJbRBgpyHWKugqsU",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Songs About Buildings And Food (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcBZh5ae9ycAtIV2Kh6Ho"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 214669,
+      "name": "With Our Love (Alternate Version) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/7a7F0S02btsa6EieDhE9ug"
+    },
     {
       "added_at": null,
       "album": {
@@ -795,22 +811,6 @@
       "duration_ms": 158106,
       "name": "The Girl Wants to Be with the Girls - 2005 Remaster",
       "url": "https://open.spotify.com/track/3tAFhUlDu5rRmpKDsw0oCn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With Our Love (Alternate Version) [2025 Remaster]",
-        "url": "https://open.spotify.com/album/5O5IRcKyojuWyLdSnEeZM4"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 214669,
-      "name": "With Our Love (Alternate Version) - 2025 Remaster",
-      "url": "https://open.spotify.com/track/7cn8t9GtqgpMJp14YAbERF"
     }
   ],
   "unique_name": "This Is Talking Heads",

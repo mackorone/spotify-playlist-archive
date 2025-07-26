@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 
 > Nacimos para rodar en el asfalto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,349 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,570 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 62 | [Girl Money](https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Hot Wire](https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi) | 4:00 |
 | 63 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 |
 | 64 | [I Should Have Known It](https://open.spotify.com/track/7goONmj0ATR8usS7dWB41U) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I Should Have Known It](https://open.spotify.com/album/4SrJW0Gn1JJ6lH5J7fj5kO) | 3:56 |
-| 65 | [Regierung](https://open.spotify.com/track/0GKswYJLUzxxR3eHtOxYBj) | [Die Ärzte](https://open.spotify.com/artist/0cbL6CYnRqpAxf1evwUVQD) | [Ein Song namens Schunder](https://open.spotify.com/album/6xi6GXWv4DPrIWxAFFw00t) | 2:32 |
-| 66 | [Old Time Rock n\\' Roll](https://open.spotify.com/track/1MDgKH2MKCcWjV5UUrobHY) | [Sam Morrison and Turn The Page](https://open.spotify.com/artist/7csps3rrXHbv6Xnom2Ntjl) | [A Tribute to the Music of Bob Seger](https://open.spotify.com/album/7iptHw4NqVUSd4XnexhlTU) | 3:10 |
+| 65 | [Old Time Rock n\\' Roll](https://open.spotify.com/track/1MDgKH2MKCcWjV5UUrobHY) | [Sam Morrison and Turn The Page](https://open.spotify.com/artist/7csps3rrXHbv6Xnom2Ntjl) | [A Tribute to the Music of Bob Seger](https://open.spotify.com/album/7iptHw4NqVUSd4XnexhlTU) | 3:10 |
+| 66 | [Regierung](https://open.spotify.com/track/0GKswYJLUzxxR3eHtOxYBj) | [Die Ärzte](https://open.spotify.com/artist/0cbL6CYnRqpAxf1evwUVQD) | [Ein Song namens Schunder](https://open.spotify.com/album/6xi6GXWv4DPrIWxAFFw00t) | 2:32 |
 | 67 | [No More, No More](https://open.spotify.com/track/0dJGtR6vhnxkaWyg2FOuy5) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband \(Deluxe Edition\)](https://open.spotify.com/album/19oa2tIRvZg4dSUD8Dyt8t) | 5:38 |
 | 68 | [BANSHEE](https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC) | 3:34 |
 | 69 | [You're So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 |

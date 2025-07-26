@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,038 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,099 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 49 | [Dia De Ayer](https://open.spotify.com/track/2UmblzGZJ9L39cGBamLhgs) | [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Dia De Ayer](https://open.spotify.com/album/5CjN1hidT7zC2QhMy6gyfI) | 3:26 |
 | 50 | [Él Son](https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [¡Que Sentimiento!](https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo) | 6:06 |
 
-Snapshot ID: `aIAmAAAAAACZSQr1ztthpIAJoDXQugUz`
+Snapshot ID: `aIF3gAAAAACO/rLjeBIAXRMDVU5m5AQJ`

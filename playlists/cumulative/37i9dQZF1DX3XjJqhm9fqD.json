@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrating Haitian music. Cover: Francis Mercier",
+  "description": "Celebrating Haitian music. Cover: Na\u00efka",
   "name": "Haitian Heat",
   "tracks": [
     {
@@ -667,6 +667,28 @@
     },
     {
       "album": {
+        "name": "Ban Mwen Love",
+        "url": "https://open.spotify.com/album/6HExK0uNeuhH4iNWQWuxie"
+      },
+      "artists": [
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        },
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278213,
+      "name": "Ban Mwen Love",
+      "url": "https://open.spotify.com/track/1XbnEgnpIsAefXxNuiNH3X"
+    },
+    {
+      "album": {
         "name": "IDANTITE'N",
         "url": "https://open.spotify.com/album/7dxoacw7mdk3aT7CvQZXCC"
       },
@@ -906,6 +928,24 @@
       "duration_ms": 176363,
       "name": "Bizou",
       "url": "https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH"
+    },
+    {
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go"
     },
     {
       "album": {
@@ -1612,7 +1652,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 257677,
       "name": "Egyptian Sun",
       "url": "https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH"
@@ -2004,7 +2044,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 170550,
       "name": "Guava",
       "url": "https://open.spotify.com/track/1soIICX1Bwkc6pluVZoEkd"
@@ -2136,7 +2176,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 161652,
       "name": "Hustla",
       "url": "https://open.spotify.com/track/1UnZUwKsQsmwSdsvKm2QRm"
@@ -2929,6 +2969,32 @@
     },
     {
       "album": {
+        "name": "M'vle Avew",
+        "url": "https://open.spotify.com/album/20N68wsMYR24lT3nL2Jee6"
+      },
+      "artists": [
+        {
+          "name": "Sheilla GZ",
+          "url": "https://open.spotify.com/artist/11jvXj8FvD37sFi7UArJvW"
+        },
+        {
+          "name": "Fk Distribution Music",
+          "url": "https://open.spotify.com/artist/6NMH4IbF2iwYeELFHhDfrM"
+        },
+        {
+          "name": "Ayiti Urbans Music",
+          "url": "https://open.spotify.com/artist/5H2JbORjaPUmm6oFSSNDVo"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "M'vle Avew",
+      "url": "https://open.spotify.com/track/4CtVzck55WqvMphn4WL3jJ"
+    },
+    {
+      "album": {
         "name": "Rasanbleman (Red Moon)",
         "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
       },
@@ -3036,6 +3102,32 @@
       "duration_ms": 230647,
       "name": "Magic Gouyad #6",
       "url": "https://open.spotify.com/track/3hf1hsNVQoOV674dVguPYz"
+    },
+    {
+      "album": {
+        "name": "Magic In The Air",
+        "url": "https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Magic System",
+          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
+        },
+        {
+          "name": "Chawki",
+          "url": "https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167804,
+      "name": "Magic In The Air",
+      "url": "https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ"
     },
     {
       "album": {
@@ -4964,7 +5056,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 191612,
       "name": "Strangers (Do You Remember) [feat. Yas Cepeda]",
       "url": "https://open.spotify.com/track/5OcKFs8X1MDhK6IT3mMIbo"

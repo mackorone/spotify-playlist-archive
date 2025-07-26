@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Aminé
 
-1,306 songs - 2 day 13 hr 51 min
+1,307 songs - 2 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [D.U.M.B.](https://open.spotify.com/track/140hrhmwWxC5ZVmrSReMme) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [D.U.M.B.](https://open.spotify.com/album/7Fui9neMmG21wgc6fuUluc) | 2:35 | 2024-10-04 | 2024-10-12 |
 | [Da Da Da](https://open.spotify.com/track/7qyFEM7nFVuUPabD3sPz9b) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Da Da Da](https://open.spotify.com/album/56S0SvG7SrwylsI4e4AvVp) | 1:38 | 2024-09-27 | 2024-10-26 |
 | [Da Roc](https://open.spotify.com/track/1pB2jPltq63iRpN7wmRREN) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Showbiz!](https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs) | 1:20 | 2025-01-31 | 2025-02-08 |
+| [Daddy](https://open.spotify.com/track/0jdAgB8vt0ed8MYN7xnCep) | [Bodhi Bleu](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Daddy](https://open.spotify.com/album/2cC5JjuUqSW7eHSqnQf0Vx) | 2:35 | 2025-07-25 |  |
 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:47 | 2022-11-18 | 2023-06-24 |
 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story](https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg) | 3:47 | 2022-10-14 | 2022-12-02 |
 | [Dance Now \(with Kenny Mason\)](https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Dance Now \(with Kenny Mason\)](https://open.spotify.com/album/5eROy9EU4485zbdxulTQ8U) | 3:47 | 2022-08-12 | 2022-10-21 |

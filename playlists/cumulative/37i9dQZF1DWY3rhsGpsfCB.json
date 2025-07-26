@@ -3405,6 +3405,24 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
       },
@@ -3486,6 +3504,28 @@
       "duration_ms": 169708,
       "name": "Drink Water (feat. Jon Bellion and Fireboy DML)",
       "url": "https://open.spotify.com/track/5sLEmcvR8qwxE0nh0fqGr1"
+    },
+    {
+      "album": {
+        "name": "WWP",
+        "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177011,
+      "name": "DYNAMITE",
+      "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
     },
     {
       "album": {
@@ -4548,7 +4588,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 196426,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP"
@@ -5322,7 +5362,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 227368,
       "name": "HERicane",
       "url": "https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5"
@@ -5632,6 +5672,24 @@
       "duration_ms": 244412,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
+    },
+    {
+      "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "album": {
@@ -9600,7 +9658,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 189523,
       "name": "Nobody - Bloody Civilian Remix",
       "url": "https://open.spotify.com/track/7eecj1HXy8EbnkknaQiaRC"

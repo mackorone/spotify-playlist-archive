@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Soft Bait
 
-2,615 songs - 5 day 10 hr 33 min
+2,616 songs - 5 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -792,6 +792,7 @@
 | [Feel Something](https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [Feel Something](https://open.spotify.com/album/6PsHXh69M2FYNf9inMrra5) | 3:00 | 2022-05-20 | 2022-07-22 |
 | [Fell](https://open.spotify.com/track/574Hmd22b3ZGskyquHv5t8) | [Hillsboro](https://open.spotify.com/artist/6mQZnxZqes84WGzpVEJ7sP) | [Fell](https://open.spotify.com/album/3Gtya39puyhRvRlXPX3uUT) | 3:53 | 2024-07-04 | 2024-08-16 |
 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 | 2023-10-13 | 2023-12-15 |
+| [Fell So Hard, Felt So Right \- feat\. Story Of The Year](https://open.spotify.com/track/2u8zwyH0Kwgs43ZMI4ikQw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Fell So Hard, Felt So Right \(feat\. Story Of The Year\)](https://open.spotify.com/album/7n9UbsXl8JjbGhi1eStE3t) | 3:02 | 2025-07-24 |  |
 | [Felíz](https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Felíz](https://open.spotify.com/album/1AuXDucHakfrZb2EqrdfeL) | 2:47 | 2022-10-27 | 2023-02-17 |
 | [Femme Boi](https://open.spotify.com/track/0TNjyeIVTlqh8ut9ua7aUW) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Femme Boi](https://open.spotify.com/album/2vkUsynjITqWKLBhIX7MW9) | 3:01 | 2023-07-27 | 2023-09-22 |
 | [Feral \- Edit](https://open.spotify.com/track/6EBeLfNsP2JL3OoeTiwxuY) | [SCATTERED ASHES](https://open.spotify.com/artist/3dF9KsXUOgzNKS59c1eVIA) | [Feral](https://open.spotify.com/album/4zX7ZtYKhct6ZWrPseGfUM) | 3:31 | 2022-09-08 | 2022-10-21 |

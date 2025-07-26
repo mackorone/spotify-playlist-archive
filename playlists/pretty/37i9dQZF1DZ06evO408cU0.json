@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 61489,
+  "num_followers": 61497,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAAWPvGedELyxtrGKMMF77mD",
+  "snapshot_id": "aIF3gAAAAACZCbZiWZbmBaI3mQVn/rNO",
   "tracks": [
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "Porque As\u00ed Ten\u00eda Que Ser",
-      "url": "https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00edganme Tirando",
         "url": "https://open.spotify.com/album/61faNqNSGMoB925CzdoonK"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 118250,
       "name": "Ya La Hice",
       "url": "https://open.spotify.com/track/3bMkWUcAtAat7K4qr5lWC3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "Porque As\u00ed Ten\u00eda Que Ser",
+      "url": "https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Oh'laville
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,568 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,567 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

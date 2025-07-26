@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG">Albert Hype</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72 likes - 89 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 89 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 88 | [BALLIN'](https://open.spotify.com/track/3c6B6MZyACJ20C1VUdU8lU) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:17 |
 | 89 | [UWU](https://open.spotify.com/track/1cEhypJFllfBA5sGVZFtq3) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [UWU](https://open.spotify.com/album/2DmiIfiNVVEEoPp1gIU7jx) | 2:22 |
 
-Snapshot ID: `Ab3qpgAAAADq+26IXVPG8G4ddTF6GC57`
+Snapshot ID: `Ab3wHgAAAACB1tyzl40xb4ZRJxJJkKRk`

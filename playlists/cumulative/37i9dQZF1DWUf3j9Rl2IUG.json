@@ -512,7 +512,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 192028,
       "name": "Anytime (feat. Ayo Maff)",
       "url": "https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 182142,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
@@ -4313,6 +4313,28 @@
     },
     {
       "album": {
+        "name": "Girl On Fya",
+        "url": "https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7"
+      },
+      "artists": [
+        {
+          "name": "Ashidapo",
+          "url": "https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124354,
+      "name": "Girl on Fya",
+      "url": "https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo"
+    },
+    {
+      "album": {
         "name": "The Second Wave Deluxe",
         "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
       },
@@ -4864,6 +4886,24 @@
       "duration_ms": 227950,
       "name": "Holy Water (feat. Victony & Musa Keys)",
       "url": "https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP"
+    },
+    {
+      "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "album": {

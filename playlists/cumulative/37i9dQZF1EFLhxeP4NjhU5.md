@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-232 songs - 13 hr 17 min
+233 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Malas Intenciones](https://open.spotify.com/track/4FWhPJjc9FMRCCFc038uEz) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 2:56 | 2022-06-04 |  |
 | [Matricula](https://open.spotify.com/track/3qoJowHPbi2Kamj3MBxvul) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4) | [Matricula](https://open.spotify.com/album/0brb9CPoH9CKWHo6uthZIv) | 3:10 | 2024-06-06 |  |
 | [Me Dijeron](https://open.spotify.com/track/17UUYZ290omPaJY4wKeyHh) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:50 | 2022-06-04 |  |
+| [Me Grita](https://open.spotify.com/track/0Rn5qV6bpDflAhc16fpxkr) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI) | [Me Grita](https://open.spotify.com/album/2u7bagLM4VjgeZX7WJYrrX) | 3:52 | 2025-07-25 |  |
 | [Me Gusta](https://open.spotify.com/track/1N3rf6ZFzb8NPYeLCmgzj7) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:17 | 2022-06-04 |  |
 | [Me Gusta \- Remix](https://open.spotify.com/track/17G9G5tBsdzmKmoHIh00sX) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Me Gusta \(Remix\)](https://open.spotify.com/album/1D7lFbv4p8DjJVKOcHfX1r) | 3:17 | 2022-06-04 |  |
 | [ME VA KABRXXN](https://open.spotify.com/track/09pwpFDIkZ1FrvEHdmMg6F) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS) | [LOS MARCIANOS Vol.1: Dei V Version](https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a) | 4:16 | 2024-04-10 |  |

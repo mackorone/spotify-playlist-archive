@@ -1,28 +1,60 @@
 {
   "description": "Warm, inspirational pop, that's good at heart.  ",
-  "num_followers": 47083,
+  "num_followers": 47112,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHCMVAAAAADAIqkeD4CMyHRcmLjTOT51",
+  "snapshot_id": "aIMBaAAAAAD2GF80xqzo6P4lx0+jI62o",
   "tracks": [
     {
-      "added_at": "2025-06-27 04:00:26",
+      "added_at": "2025-07-25 04:00:40",
       "album": {
-        "name": "Survive",
-        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 225211,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
+      "duration_ms": 161052,
+      "name": "First Time On Earth",
+      "url": "https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8"
+    },
+    {
+      "added_at": "2024-10-11 13:41:50",
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170521,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
+    },
+    {
+      "added_at": "2025-07-25 04:00:40",
+      "album": {
+        "name": "ENOUGH.",
+        "url": "https://open.spotify.com/album/3W6u3zgrFAPb6kZ5hwMxUF"
+      },
+      "artists": [
+        {
+          "name": "SNACKTIME",
+          "url": "https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr"
+        }
+      ],
+      "duration_ms": 228808,
+      "name": "ENOUGH.",
+      "url": "https://open.spotify.com/track/5uvnq6j5kdofhXoPuuoIqF"
     },
     {
       "added_at": "2024-10-11 13:41:50",
@@ -39,6 +71,22 @@
       "duration_ms": 253342,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "added_at": "2024-10-11 13:41:50",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw"
+      },
+      "artists": [
+        {
+          "name": "Samantha Ebert",
+          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
     },
     {
       "added_at": "2025-07-11 04:00:19",
@@ -77,22 +125,6 @@
       "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
     },
     {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw"
-      },
-      "artists": [
-        {
-          "name": "Samantha Ebert",
-          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
-    },
-    {
       "added_at": "2025-06-06 04:00:09",
       "album": {
         "name": "Hard Fought Hallelujah (with Jelly Roll)",
@@ -111,26 +143,6 @@
       "duration_ms": 316002,
       "name": "Hard Fought Hallelujah (with Jelly Roll)",
       "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
-    },
-    {
-      "added_at": "2025-05-27 14:28:00",
-      "album": {
-        "name": "Bloodline (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 182008,
-      "name": "Bloodline (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
     },
     {
       "added_at": "2025-06-27 04:00:26",
@@ -183,6 +195,22 @@
       "duration_ms": 179244,
       "name": "The Morning",
       "url": "https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z"
+    },
+    {
+      "added_at": "2025-06-27 04:00:26",
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 225211,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
     },
     {
       "added_at": "2025-04-28 13:59:54",
@@ -281,22 +309,6 @@
       "url": "https://open.spotify.com/track/1KSaE7YB6ifUQpm03ovRJ4"
     },
     {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170521,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
-    },
-    {
       "added_at": "2025-02-07 05:00:27",
       "album": {
         "name": "Ordinary",
@@ -311,26 +323,6 @@
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
-    },
-    {
-      "added_at": "2025-02-21 05:00:16",
-      "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/3Uy5319iFlPvzKtUGCwUrQ"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "MonoNeon",
-          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
-        }
-      ],
-      "duration_ms": 221314,
-      "name": "Time To Make A Change (feat. MonoNeon)",
-      "url": "https://open.spotify.com/track/3Ln9vpfeUYCtb73kkF6Ldn"
     },
     {
       "added_at": "2025-03-28 04:00:37",

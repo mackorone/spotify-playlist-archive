@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,336 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,415 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 26 | [Stand Still](https://open.spotify.com/track/66H06L8hktjhduwRDWntDT) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 4:43 |
 | 27 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
 | 28 | [Neighbors Know My Name](https://open.spotify.com/track/5ol0jvC2yFKm3E1GcIgU2n) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Ready](https://open.spotify.com/album/1mSsccWmWvV5PWRGNdqjmZ) | 3:06 |
-| 29 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
-| 30 | [Risk It All \(feat\. Tory Lanez\)](https://open.spotify.com/track/7ncVTZ86MJQZK1FuW4hWLs) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [King of R&B](https://open.spotify.com/album/4OloUHZpVVLawhX0DpBSrW) | 3:26 |
+| 29 | [Risk It All \(feat\. Tory Lanez\)](https://open.spotify.com/track/7ncVTZ86MJQZK1FuW4hWLs) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [King of R&B](https://open.spotify.com/album/4OloUHZpVVLawhX0DpBSrW) | 3:26 |
+| 30 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
 | 31 | [Belong to You \(feat\. 6LACK\)](https://open.spotify.com/track/2I88NEWpKrAPZuapXNV5G6) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 3:05 |
 | 32 | [Sex You](https://open.spotify.com/track/4pJt6B16mFRkmHfXUYmmrK) | [Bando Jonez](https://open.spotify.com/artist/1EhnxoXhj5r5DJ6lIWrAQe) | [Sex You](https://open.spotify.com/album/79XLDV4AdHo8v3w0zrfg0n) | 3:32 |
 | 33 | [How Many Drinks? \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/2dDCkXBbVDI4YR21lrQRK6) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [How Many Drinks? \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/06ueBR3xyEH7vWPBx8ZCVa) | 4:30 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 51 | [Made Love First](https://open.spotify.com/track/21csDNj3WqMPYDzW996UHL) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Gossip Columns](https://open.spotify.com/album/4OmqJXPhD5FOqwdg5tBsnu) | 3:45 |
 | 52 | [Me & U \- US Version](https://open.spotify.com/track/1AajFWbXbqpomHwLb3vYC3) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Me & U](https://open.spotify.com/album/3H2gZ86J7G4xjMS79o6LUd) | 3:11 |
 | 53 | [Right Now](https://open.spotify.com/track/0b4FXtGKqER9amOifVngHm) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [Rough Drafts, Pt\. 1](https://open.spotify.com/album/2YM0TUs9WDl0abwVQ5xlYP) | 4:49 |
-| 54 | [Love Controversy, Pt\. 1](https://open.spotify.com/track/65vHeUg08NqpNjgp4J78Th) | [Loose Ends](https://open.spotify.com/artist/4q3lWHEW55hoLJNzZskFVo), [Sunay Suleyman](https://open.spotify.com/artist/5XOt8DizAeCLP92Y1l8BHp) | [Look How Long](https://open.spotify.com/album/0ObU1HpJzqahdHUy7qbN6F) | 3:29 |
-| 55 | [get me started \(feat\. syd\)](https://open.spotify.com/track/0jeCoIGrGhw8lnkd5YF0qB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 2:49 |
+| 54 | [get me started \(feat\. syd\)](https://open.spotify.com/track/0jeCoIGrGhw8lnkd5YF0qB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 2:49 |
+| 55 | [Love Controversy, Pt\. 1](https://open.spotify.com/track/65vHeUg08NqpNjgp4J78Th) | [Loose Ends](https://open.spotify.com/artist/4q3lWHEW55hoLJNzZskFVo), [Sunay Suleyman](https://open.spotify.com/artist/5XOt8DizAeCLP92Y1l8BHp) | [Look How Long](https://open.spotify.com/album/0ObU1HpJzqahdHUy7qbN6F) | 3:29 |
 | 56 | [Permission](https://open.spotify.com/track/5uu3UiPWFJaKbmj1iKsenH) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [Permission](https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa) | 4:41 |
 | 57 | [Freaky with You \(feat\. Jacquees\)](https://open.spotify.com/track/5zO5UXvI31FaxDDvSI9XPc) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Freaky with You \(feat\. Jacquees\)](https://open.spotify.com/album/6EPo6xCnOmESCbY7Cdf50u) | 3:12 |
 | 58 | [Lessons in Love](https://open.spotify.com/track/4JVdfd11wMY1yOXblCTskJ) | [TGT](https://open.spotify.com/artist/1lEXbUjKjHQ7uc9jFfEViJ) | [Three Kings](https://open.spotify.com/album/4q9nPVz5Nt6KEqtcxk6SI8) | 3:53 |

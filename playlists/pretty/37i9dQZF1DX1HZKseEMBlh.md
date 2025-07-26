@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HZKseEMBlh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/michaelraineyjr/">Michael Rainey Jr.</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 836 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 837 likes - 36 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

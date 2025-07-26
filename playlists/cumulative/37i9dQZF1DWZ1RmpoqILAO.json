@@ -2503,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/2sX4sczn1o3BQPcmCebyue"
+      },
+      "artists": [
+        {
+          "name": "Shallowater",
+          "url": "https://open.spotify.com/artist/3BV5N0bOmtkavYFUSHsfMQ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348093,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/4hJQ4YFyYRJ1dLDaPEyyKG"
+    },
+    {
+      "album": {
         "name": "The Hiding",
         "url": "https://open.spotify.com/album/2bVhjBuYON1SBpSieHpd2h"
       },

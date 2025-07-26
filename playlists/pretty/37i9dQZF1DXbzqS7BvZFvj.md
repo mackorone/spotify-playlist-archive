@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Tyler, The Creator
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,134 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,166 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 3 | [WYA \(feat\. Sexyy Red\)](https://open.spotify.com/track/3WLhxGa2HGPcXbmK3NYmm8) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [WYA \(feat\. Sexyy Red\)](https://open.spotify.com/album/1VdyHDwu9mPQrC7bViLABV) | 2:18 |
 | 4 | [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 |
 | 5 | [Professional](https://open.spotify.com/track/6vkHTGIAdDW7gTzliLM4ui) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Professional](https://open.spotify.com/album/3szFCrznF383ASda6GRzq2) | 2:57 |
-| 6 | [Big Bag](https://open.spotify.com/track/10dWn0syXPIp0TfdPFx4Lq) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Bag](https://open.spotify.com/album/4oInS7vZDjkBgONe5UyC7C) | 2:46 |
+| 6 | [Big Bag](https://open.spotify.com/track/10dWn0syXPIp0TfdPFx4Lq) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Bag](https://open.spotify.com/album/4oInS7vZDjkBgONe5UyC7C) | 2:45 |
 | 7 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
 | 8 | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/track/7LMIWqg2QKLqGYRExvPBTC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/album/0R7h1dcOEezYPOnjsVD10M) | 2:28 |
 | 9 | [Tree](https://open.spotify.com/track/6jwtD6xAveK9dZbnirE8sz) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Tree](https://open.spotify.com/album/3DormTgQ3qTX3T3JgJe0LH) | 4:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Miss Bashful, Ski Aggu, GDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,857 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,850 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 51 | [BLING BLING](https://open.spotify.com/track/5QfjKQjACPTsHUFryqh1Fu) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [nocashfromparents](https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ) | [BLING BLING](https://open.spotify.com/album/1VU8Yqh6lv2GDJcFxLptn8) | 2:27 |
 | 52 | [miss sunshine](https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [miss sunshine](https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc) | 3:23 |
 | 53 | [Draußen](https://open.spotify.com/track/4FaSVdUavXSTQCcwul3c6t) | [Sicko](https://open.spotify.com/artist/0QiFjnDDT6vUrKuh7OukgE), [FXNN](https://open.spotify.com/artist/1s69iKSamRoX4hu3iwIhnR), [prod.anno](https://open.spotify.com/artist/1SGLVfATshO6K1jRTGeOxz) | [Draußen](https://open.spotify.com/album/57QJqH1CM8q4L1Mo7BRKtY) | 1:38 |
-| 54 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
+| 54 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
 | 55 | [Teenage Dreams](https://open.spotify.com/track/3sdT8ObHgkkUw0CmnIRgl3) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Beeil dich wir werden erwachsen](https://open.spotify.com/album/52Up7wwwjeKoEM4vjz53k9) | 2:59 |
 | 56 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
 | 57 | [THE WEEKND](https://open.spotify.com/track/45xXCt59mw7GciEgw1dPZZ) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [THE WEEKND](https://open.spotify.com/album/725xVqpRszIJgFpKJDVwTl) | 2:17 |

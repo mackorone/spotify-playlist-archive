@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,556 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,572 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 20 | [Por hablarle de ti](https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:40 |
 | 21 | [Entre ella y yo](https://open.spotify.com/track/1zEmiAANU1MNkPDEbcFfXs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Extravíate](https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb) | 3:59 |
 | 22 | [Hasta Que Amanezca](https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 2:45 |
-| 23 | [Es Complicado](https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 3:03 |
-| 24 | [Soñé Que Te Perdía](https://open.spotify.com/track/0I85ztkPq0B9qgGdLWtGy3) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:43 |
+| 23 | [Soñé Que Te Perdía](https://open.spotify.com/track/0I85ztkPq0B9qgGdLWtGy3) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:43 |
+| 24 | [Es Complicado](https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 3:03 |
 | 25 | [Me Nace Del Corazón](https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Nace Del Corazón](https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr) | 2:44 |
 | 26 | [Ódiame](https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 2:53 |
 | 27 | [Yo Lo Extraño A Morir](https://open.spotify.com/track/2kqiZz3VORkKuO9n0om5fg) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 49 | [Dígale](https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Pasiones de Cabaret](https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq) | 3:58 |
 | 50 | [A Punto](https://open.spotify.com/track/0UWzYJhCoaOl0I7VtCAYBh) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mujeres De Manzanero](https://open.spotify.com/album/0KTBzdzNrXYhd3697Oh17R) | 2:58 |
 
-Snapshot ID: `aIAmAAAAAACuUUGXwZVXNQHAK2rBJGZo`
+Snapshot ID: `aIF3gAAAAAB7oM1IcJu4+TF9hhTnhTNd`

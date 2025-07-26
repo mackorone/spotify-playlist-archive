@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,076 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,088 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 49 | [GHOST](https://open.spotify.com/track/70whMGrt6rwbkPlXGNtTBw) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:20 |
 | 50 | [Tide Pen \(feat\. Jack Harlow\)](https://open.spotify.com/track/4Wh3znTCMTIKAZ2stlikRX) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Florida Jit](https://open.spotify.com/album/5z3ZfPgoJDN2y1QXbYg4zY) | 2:24 |
 
-Snapshot ID: `aIAmAAAAAACR/oKikLzdH5IMgEW/hU5D`
+Snapshot ID: `aIF3gAAAAABVL/Ui7JdoHeagaW+zOaMM`

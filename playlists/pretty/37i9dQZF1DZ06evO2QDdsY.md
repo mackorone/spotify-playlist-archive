@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,237 likes - 43 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,244 likes - 43 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,18 +15,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 5 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/4nNft158MTJ5fbbPt0tb2l) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:43 |
 | 6 | [Two Hearts](https://open.spotify.com/track/5oUk1qXeCE355VLhp5Q49E) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:53 |
 | 7 | [Endless Tree](https://open.spotify.com/track/4mYAxNUCvuUqAQj5Qh3Poq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 3:53 |
-| 8 | [Ordinary World](https://open.spotify.com/track/1om1YO2BUOfjL7yimgAnsJ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Ordinary World](https://open.spotify.com/album/327HasqiXSg84xOEbiNdLl) | 4:40 |
+| 8 | [Fade Into You](https://open.spotify.com/track/0zMkPeOXFjcDJymkJl5qZD) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:45 |
 | 9 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
 | 10 | [Long Lonely Road](https://open.spotify.com/track/4l0bi7g9dOp1L3QDBbCTjk) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:56 |
 | 11 | [Sweet Things Just for You](https://open.spotify.com/track/3Njnztq7RcqwQycbOzaI8i) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:37 |
-| 12 | [Fade Into You](https://open.spotify.com/track/0zMkPeOXFjcDJymkJl5qZD) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:45 |
-| 13 | [Pink Moon](https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 2:25 |
+| 12 | [Ordinary World](https://open.spotify.com/track/1om1YO2BUOfjL7yimgAnsJ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Ordinary World](https://open.spotify.com/album/327HasqiXSg84xOEbiNdLl) | 4:40 |
+| 13 | [Joy, Joy!](https://open.spotify.com/track/131TgvshhAH0pvULYEIbYb) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Joy, Joy!](https://open.spotify.com/album/6t1qkbhNBE3Nxt9yemCHrw) | 3:01 |
 | 14 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
-| 15 | [Inside Me](https://open.spotify.com/track/7nVjMtrSXHHbFuCyYkBedC) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:22 |
-| 16 | [Joy, Joy!](https://open.spotify.com/track/131TgvshhAH0pvULYEIbYb) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Joy, Joy!](https://open.spotify.com/album/6t1qkbhNBE3Nxt9yemCHrw) | 3:01 |
-| 17 | [Cosmic Dancer](https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cosmic Dancer](https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn) | 4:25 |
-| 18 | [Fallin'](https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fallin'](https://open.spotify.com/album/6HvXWUQl5qiLKo58HWhR1U) | 3:18 |
-| 19 | [All I Really Wanna Do](https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:43 |
+| 15 | [All I Really Wanna Do](https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:43 |
+| 16 | [Pink Moon](https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 2:25 |
+| 17 | [Fallin'](https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fallin'](https://open.spotify.com/album/6HvXWUQl5qiLKo58HWhR1U) | 3:18 |
+| 18 | [Cosmic Dancer](https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cosmic Dancer](https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn) | 4:25 |
+| 19 | [Inside Me](https://open.spotify.com/track/7nVjMtrSXHHbFuCyYkBedC) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:22 |
 | 20 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
 | 21 | [Slip Slide On By](https://open.spotify.com/track/3TEojRdSXcNyaDXZDqlr31) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 4:04 |
 | 22 | [Look At Miss Ohio](https://open.spotify.com/track/37PBWFvPnrdKaz9tiI24EI) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:25 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 42 | [Sure to Fall](https://open.spotify.com/track/13RQs1T5nEDGq5JVBFHJEo) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Red Hot: A Memphis Celebration of Sun Records](https://open.spotify.com/album/5i5GqRNs1ifV07HCQLQH6c) | 2:51 |
 | 43 | [The Hour](https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 3:49 |
 
-Snapshot ID: `aIAmAAAAAADUZ4S4xT4CvBqXfy3DFzkK`
+Snapshot ID: `aIF3gAAAAAC2+PTIIOBcSwYQzQoBBiCm`

@@ -6047,6 +6047,28 @@
     },
     {
       "album": {
+        "name": "Girl On Fya",
+        "url": "https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7"
+      },
+      "artists": [
+        {
+          "name": "Ashidapo",
+          "url": "https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124354,
+      "name": "Girl on Fya",
+      "url": "https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo"
+    },
+    {
+      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
@@ -9344,7 +9366,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 177718,
       "name": "Lion",
       "url": "https://open.spotify.com/track/2JnMEz1aD9m6bZAXUXFliU"

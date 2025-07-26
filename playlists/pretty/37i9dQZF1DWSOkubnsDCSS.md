@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 
 > Flow so good, it deserved a reload\.  Cover: namesbliss
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,251 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,258 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 60 | [ICE VS ICE](https://open.spotify.com/track/2Hcg8Jrx0EzUI80pxKnmZa) | [Lady Ice](https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44) | [ICE VS ICE](https://open.spotify.com/album/6XemLZ6kdvA4WY0DRc3QjM) | 1:22 |
 | 61 | [R.I.O.T.](https://open.spotify.com/track/12tPULrVovU3H4eO5wHAhz) | [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP), [Sukh Knight](https://open.spotify.com/artist/2NskCY8L26IYipQhRWousM) | [R.I.O.T.](https://open.spotify.com/album/0Ed8HgUbVjimSFgu0xuM6r) | 3:06 |
 | 62 | [Jenova](https://open.spotify.com/track/7sj716ZVpLv3YDCM3ULFsc) | [Just\-B](https://open.spotify.com/artist/6tQKpWqFbZTGXKCrdHJkTh) | [Just\-B](https://open.spotify.com/album/6wosb2TsbT4POqP17ll5R3) | 3:02 |
-| 63 | [Run Tings](https://open.spotify.com/track/318AWQRiTge3MzdejcatY1) | [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Logan From The OtherSide](https://open.spotify.com/album/79rN0G0CjbKjcKUBAIWhqL) | 3:16 |
+| 63 | [In My Corner](https://open.spotify.com/track/4JjFRMvjHhNe8Cb1LYWNBY) | [Bruza](https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx) | [We're All On TV](https://open.spotify.com/album/2tEJ1zWcGczSfkctYnD0SQ) | 3:42 |
 | 64 | [NOT ROLLING](https://open.spotify.com/track/7pS5sw0cQBn4Vzqf6HMbgK) | [Renz](https://open.spotify.com/artist/49sRUNycijZlYjXBVTW5MG), [CHAMBER45](https://open.spotify.com/artist/3LkfAichpP3CfyRQKCi01u) | [NOT ROLLING](https://open.spotify.com/album/6x879Qf99gjuaCYZtcY4Y0) | 2:31 |
-| 65 | [In My Corner](https://open.spotify.com/track/4JjFRMvjHhNe8Cb1LYWNBY) | [Bruza](https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx) | [We're All On TV](https://open.spotify.com/album/2tEJ1zWcGczSfkctYnD0SQ) | 3:42 |
-| 66 | [Originals \- Remix](https://open.spotify.com/track/0JtOuGDcKtMDbLhY35YkNS) | [J Man\_wv](https://open.spotify.com/artist/4x34KT3j3v5Bba5Kzxa8ZV), [Bally Singh](https://open.spotify.com/artist/4Q7ZLBnVyc1BVXKGSla8BP), [Breeza](https://open.spotify.com/artist/73FaWYpOl6tnBQFaoyLHAl), [T\-Man](https://open.spotify.com/artist/58z5uYMbYlXmAAviegPNYd), [Reepa](https://open.spotify.com/artist/7B4ola9b829ULfxCb1g1o0) | [Originals \(Remix\)](https://open.spotify.com/album/6zlAsJXtErwCrHqVbExP7D) | 3:06 |
-| 67 | [Blatant](https://open.spotify.com/track/316WD7WTcwz5xMOHiDvMjz) | [Loon](https://open.spotify.com/artist/2SBo0Em84Nau9MoRiVzsG9) | [Blatant](https://open.spotify.com/album/77Df02oUPAoDzaHOU6BSa1) | 2:51 |
-| 68 | [Back Alive](https://open.spotify.com/track/5tQN80tQm6D0FVrM68RbfI) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Back Alive](https://open.spotify.com/album/6gkjQkQDmW1YKjimEluNcm) | 2:13 |
+| 65 | [Run Tings](https://open.spotify.com/track/318AWQRiTge3MzdejcatY1) | [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Logan From The OtherSide](https://open.spotify.com/album/79rN0G0CjbKjcKUBAIWhqL) | 3:16 |
+| 66 | [Blatant](https://open.spotify.com/track/316WD7WTcwz5xMOHiDvMjz) | [Loon](https://open.spotify.com/artist/2SBo0Em84Nau9MoRiVzsG9) | [Blatant](https://open.spotify.com/album/77Df02oUPAoDzaHOU6BSa1) | 2:51 |
+| 67 | [Back Alive](https://open.spotify.com/track/5tQN80tQm6D0FVrM68RbfI) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Back Alive](https://open.spotify.com/album/6gkjQkQDmW1YKjimEluNcm) | 2:13 |
+| 68 | [Originals \- Remix](https://open.spotify.com/track/0JtOuGDcKtMDbLhY35YkNS) | [J Man\_wv](https://open.spotify.com/artist/4x34KT3j3v5Bba5Kzxa8ZV), [Bally Singh](https://open.spotify.com/artist/4Q7ZLBnVyc1BVXKGSla8BP), [Breeza](https://open.spotify.com/artist/73FaWYpOl6tnBQFaoyLHAl), [T\-Man](https://open.spotify.com/artist/58z5uYMbYlXmAAviegPNYd), [Reepa](https://open.spotify.com/artist/7B4ola9b829ULfxCb1g1o0) | [Originals \(Remix\)](https://open.spotify.com/album/6zlAsJXtErwCrHqVbExP7D) | 3:06 |
 | 69 | [Tough Times](https://open.spotify.com/track/0NkEkI7f2ZeMbRbf56NGgm) | [D Power Diesle](https://open.spotify.com/artist/2WR5eGIR0Lp7Pw1qxzUICR), [Kozzie](https://open.spotify.com/artist/4DEP2Gftmem88C3JN8be77), [Adam R](https://open.spotify.com/artist/3cidPvGC5K4XnnPueGAjjR) | [Tough Times](https://open.spotify.com/album/58N4lcbf1W73zLdHUk5bke) | 2:48 |
 | 70 | [Big Shaq](https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb) | [Shxdow](https://open.spotify.com/artist/53Fh7I0tinM6Ak1rH8lHY8), [+44](https://open.spotify.com/artist/24XhmjozLPqyHFtatU3uqo), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC) | [Blas4Me](https://open.spotify.com/album/5eiODld2WhZdYBvyT1iB6d) | 2:53 |
 

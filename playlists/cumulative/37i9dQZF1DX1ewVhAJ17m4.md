@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Good Charlotte
 
-513 songs - 1 day 1 hr 38 min
+515 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Don't Do Drugs](https://open.spotify.com/track/4FuUgNKassiGR75fk4MNM1) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [Don't Do Drugs](https://open.spotify.com/album/28GgPoqiQlxes9auHiRnyA) | 1:47 | 2021-12-20 | 2022-07-19 |
 | [Don't Fall In Love With Me](https://open.spotify.com/track/14U3GHjvw3Bk9HDeEBdrur) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Don't Fall In Love With Me](https://open.spotify.com/album/5IQldAUzw7BjWe6fcg163u) | 2:28 | 2022-02-14 | 2023-04-01 |
 | [Don't Let Me Get Too Low](https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Don't Let Me Get Too Low](https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af) | 2:38 | 2025-02-21 | 2025-05-23 |
-| [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 | 2025-02-21 |  |
+| [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 | 2025-02-21 | 2025-07-26 |
 | [Don't Try](https://open.spotify.com/track/2TePq5MmzqGyRfFPAL4CgS) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [40 oz\. to Fresno](https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3) | 1:40 | 2022-06-14 | 2022-08-19 |
 | [DON'T!](https://open.spotify.com/track/6oIW5g7RHZtok3cjF2nePu) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [DON'T!](https://open.spotify.com/album/0ybgOat40TvYvG3iLc2O20) | 2:38 | 2024-11-18 | 2025-05-16 |
 | [dont wanna die](https://open.spotify.com/track/1UtvJgyt2sviZ5J3EGyLWN) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [dont wanna die](https://open.spotify.com/album/5XJSnPoCHqeng4OvkeejrH) | 2:49 | 2022-06-14 | 2022-09-16 |
@@ -329,6 +329,7 @@
 | [One Zero Zero](https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [One Zero Zero](https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv) | 2:46 | 2025-05-15 | 2025-06-21 |
 | [Outta My Head](https://open.spotify.com/track/0Z2utuwUnQS9iiOwpStusu) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Outta My Head](https://open.spotify.com/album/36rJDHz5gcbCOEI123Yo9E) | 2:56 | 2021-12-20 | 2022-07-29 |
 | [Outta My Head](https://open.spotify.com/track/28RPEcjNNGKRdbTygQ7WoH) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 2:56 | 2022-07-18 | 2023-04-01 |
+| [oxygen.](https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8) | [Out in Front](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [oxygen.](https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9) | 2:48 | 2025-07-17 |  |
 | [Pacific Ocean](https://open.spotify.com/track/5ClDT1S61melj4Jq0rlQ5N) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Pacific Ocean](https://open.spotify.com/album/4mmTewRsbrBcDUrMI8tHO0) | 3:16 | 2024-06-14 | 2024-08-15 |
 | [Panic](https://open.spotify.com/track/0qwoBdMnysN7dDT6tK3fcE) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give \(B\-Sides\)](https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8) | 3:08 | 2021-12-22 | 2022-09-16 |
 | [Paper](https://open.spotify.com/track/0BR4eVpihSK7xCLuAXjI4Q) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Paper](https://open.spotify.com/album/07VfTAOGM8BUm47LGYGmJM) | 3:01 | 2021-12-20 | 2022-07-19 |
@@ -423,7 +424,7 @@
 | [Stick Season](https://open.spotify.com/track/7eBvIvbcUHJqra750YuQpg) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Stick Season](https://open.spotify.com/album/5lK5ePFyZ0EQo7RE38ENhm) | 3:20 | 2024-07-18 |  |
 | [Stickers of Brian](https://open.spotify.com/track/7M0A43aUdp5VDqUq39SJhV) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Stickers of Brian](https://open.spotify.com/album/1VIMKqBLNwr7MOJennpzwW) | 2:41 | 2024-03-22 |  |
 | [Stop Living & Don't Dream](https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Stop Living & Don't Dream](https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy) | 2:22 | 2023-03-31 | 2023-08-11 |
-| [Stop Talking](https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Stop Talking](https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR) | 3:20 | 2024-08-14 |  |
+| [Stop Talking](https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Stop Talking](https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR) | 3:20 | 2024-08-14 | 2025-07-26 |
 | [Strangers](https://open.spotify.com/track/27by2Pb8Ys2KmVVGkPAujq) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future \(Deluxe\)](https://open.spotify.com/album/3CSC52xCPslJCpjPFYg4fb) | 2:34 | 2023-10-19 | 2024-03-23 |
 | [Strangers](https://open.spotify.com/track/2SISsR0V9kNjOHU9sJa413) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Strangers](https://open.spotify.com/album/3vW6XXJIIfZZRd7TtNR5J1) | 2:34 | 2023-09-15 | 2023-11-19 |
 | [Stupefied](https://open.spotify.com/track/1Z9sCohQaZWYB8XzPMYMlp) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Stupefied](https://open.spotify.com/album/2uDfhC6awFXvovXquieyzG) | 2:52 | 2024-07-18 | 2024-08-15 |
@@ -464,6 +465,7 @@
 | [theonlytimehefeelsfine](https://open.spotify.com/track/42LgfNNmYrzwjpgMb6uha5) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [theonlytimehefeelsfine](https://open.spotify.com/album/7ieUL8QlkwJnqpnPqLF9G0) | 3:26 | 2022-08-18 | 2022-11-11 |
 | [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 | 2025-02-21 |  |
 | [THINK ABOUT ME](https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [THINK ABOUT ME](https://open.spotify.com/album/6zd8CVcujUr4FRzDlUUNwx) | 3:24 | 2021-12-20 | 2022-02-22 |
+| [third degree](https://open.spotify.com/track/2tAvRoEE2g5IukKQlHhdvm) | [davvn](https://open.spotify.com/artist/1QF0qdoDTPGn3h3zl3YIpT) | [third degree](https://open.spotify.com/album/21DyQCFJhDNPIzX4HB79kH) | 3:08 | 2025-07-17 |  |
 | [This Year](https://open.spotify.com/track/7qJidLLWcla3tTTpZmKuNQ) | [Sessions](https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J) | [This Year](https://open.spotify.com/album/6ZuCFVhMJy0CHa27KrZGfu) | 3:44 | 2023-09-15 | 2024-02-06 |
 | [Thorns](https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Thorns](https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC) | 2:56 | 2022-09-15 | 2023-05-19 |
 | [Those Were The Days](https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060) | [True North](https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155) | [Those Were The Days](https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U) | 2:23 | 2024-06-14 | 2025-04-09 |

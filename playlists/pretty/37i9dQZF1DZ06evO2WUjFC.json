@@ -1,33 +1,13 @@
 {
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
-  "num_followers": 955,
+  "num_followers": 956,
   "original_name": "This Is Danny Felix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAADwPGXx2BJd10hD4S/CgISo",
+  "snapshot_id": "aIF3gAAAAAC4fTTtUczs2mn+mut2SK9z",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "CONFLEIS",
-        "url": "https://open.spotify.com/album/7aS2h4Jbdpn6vVTafxRuu6"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Sahir Montoya",
-          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
-        }
-      ],
-      "duration_ms": 186795,
-      "name": "CONFLEIS",
-      "url": "https://open.spotify.com/track/3D4pTiY8LcdB5WWnTdKwhC"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 192960,
       "name": "LAS LOCAS",
       "url": "https://open.spotify.com/track/5hL5HGnYdu5jwhvphRZMpT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CONFLEIS",
+        "url": "https://open.spotify.com/album/7aS2h4Jbdpn6vVTafxRuu6"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        }
+      ],
+      "duration_ms": 186795,
+      "name": "CONFLEIS",
+      "url": "https://open.spotify.com/track/3D4pTiY8LcdB5WWnTdKwhC"
     },
     {
       "added_at": null,
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA CAPITAL",
-        "url": "https://open.spotify.com/album/2nGXA6aI0CcSX6e9curx7T"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 210256,
-      "name": "LA CAPITAL",
-      "url": "https://open.spotify.com/track/2NnxDhtPyWgASTDVp8MnnM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sue\u00f1os De La Calle (Vol. 1)",
         "url": "https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 183502,
       "name": "Sue\u00f1os De La Calle: La Del Proceso",
       "url": "https://open.spotify.com/track/7D3u7IOnBWocHCzcOtvTv4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA CAPITAL",
+        "url": "https://open.spotify.com/album/2nGXA6aI0CcSX6e9curx7T"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 210256,
+      "name": "LA CAPITAL",
+      "url": "https://open.spotify.com/track/2NnxDhtPyWgASTDVp8MnnM"
     },
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El 0-10",
-        "url": "https://open.spotify.com/album/7xKrS83b5Yy9JBvWlYo7aJ"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 162318,
-      "name": "El 0-10",
-      "url": "https://open.spotify.com/track/6NovnVrwsY1OVoOuXDj6VF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sue\u00f1os De La Calle (Vol. 1)",
         "url": "https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx"
       },
@@ -295,6 +275,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El 0-10",
+        "url": "https://open.spotify.com/album/7xKrS83b5Yy9JBvWlYo7aJ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 162318,
+      "name": "El 0-10",
+      "url": "https://open.spotify.com/track/6NovnVrwsY1OVoOuXDj6VF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CON LA COCHI [VOL II (EN VIVO)]",
         "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
       },
@@ -311,34 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con La Cochi (En Vivo)",
-        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
+        "name": "No Te Awuites Solo Son Unos Dop3kidz$",
+        "url": "https://open.spotify.com/album/4Mmh5kRGsbQPyRBC5B4GHH"
       },
       "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 145160,
-      "name": "Los Botones Azules - En Vivo",
-      "url": "https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 183530,
-      "name": "COMPA BLADI - En Vivo",
-      "url": "https://open.spotify.com/track/0TihV9VrLmGM8HlG0eXpno"
+      "duration_ms": 242061,
+      "name": "Culiacan Se Estremecia",
+      "url": "https://open.spotify.com/track/5e3qwCkgUwpxsw70k5N2Xt"
     },
     {
       "added_at": null,
@@ -371,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con La Cochi (En Vivo)",
+        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 145160,
+      "name": "Los Botones Azules - En Vivo",
+      "url": "https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CON LA COCHI [VOL II (EN VIVO)]",
         "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
       },
@@ -380,29 +384,25 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 185391,
-      "name": "Mami - En Vivo",
-      "url": "https://open.spotify.com/track/59Ck1Q48tcUw0yCeDbZio8"
+      "duration_ms": 132043,
+      "name": "El Lokeron - En Vivo",
+      "url": "https://open.spotify.com/track/7o3xGMAKUq5qIEZpv7eqlg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "No Te Awuites Solo Son Unos Dop3kidz$",
-        "url": "https://open.spotify.com/album/4Mmh5kRGsbQPyRBC5B4GHH"
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
       },
       "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 242061,
-      "name": "Culiacan Se Estremecia",
-      "url": "https://open.spotify.com/track/5e3qwCkgUwpxsw70k5N2Xt"
+      "duration_ms": 183530,
+      "name": "COMPA BLADI - En Vivo",
+      "url": "https://open.spotify.com/track/0TihV9VrLmGM8HlG0eXpno"
     },
     {
       "added_at": null,
@@ -456,25 +456,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 132043,
-      "name": "El Lokeron - En Vivo",
-      "url": "https://open.spotify.com/track/7o3xGMAKUq5qIEZpv7eqlg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y.T.L.S.V.",
-        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "LOS CHISMES",
-      "url": "https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8"
+      "duration_ms": 219449,
+      "name": "Morritas - En Vivo",
+      "url": "https://open.spotify.com/track/4FBCqhGaioQzi8MC8Z8IWa"
     },
     {
       "added_at": null,
@@ -499,6 +483,22 @@
       "duration_ms": 133309,
       "name": "Cupido Loco",
       "url": "https://open.spotify.com/track/4a1J8YDX879u2KNNvXT7HW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y.T.L.S.V.",
+        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "LOS CHISMES",
+      "url": "https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 219449,
-      "name": "Morritas - En Vivo",
-      "url": "https://open.spotify.com/track/4FBCqhGaioQzi8MC8Z8IWa"
+      "duration_ms": 185391,
+      "name": "Mami - En Vivo",
+      "url": "https://open.spotify.com/track/59Ck1Q48tcUw0yCeDbZio8"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 241583,
-      "name": "200 COPAS - En Vivo",
-      "url": "https://open.spotify.com/track/4XT2sT6AhEjI7O7dFsLWrH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con La Cochi (En Vivo)",
         "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
       },
@@ -639,6 +623,26 @@
       "duration_ms": 183106,
       "name": "Siempre Pendientes - En Vivo",
       "url": "https://open.spotify.com/track/2MO2sTiLH06FAcbUp9hlBg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Andares De Alfredo",
+        "url": "https://open.spotify.com/album/1qBgmwNHtokGyv7normIXi"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los Migueles De Miguel Montoya",
+          "url": "https://open.spotify.com/artist/5bNWEPILoKYKWkPbnTKHns"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Los Andares De Alfredo",
+      "url": "https://open.spotify.com/track/2PL2WfNavyQPrihZYO84B5"
     },
     {
       "added_at": null,
@@ -679,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Andares De Alfredo",
-        "url": "https://open.spotify.com/album/1qBgmwNHtokGyv7normIXi"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Los Migueles De Miguel Montoya",
-          "url": "https://open.spotify.com/artist/5bNWEPILoKYKWkPbnTKHns"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Los Andares De Alfredo",
-      "url": "https://open.spotify.com/track/2PL2WfNavyQPrihZYO84B5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con La Cochi (En Vivo)",
         "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
       },
@@ -711,22 +695,6 @@
       "duration_ms": 191466,
       "name": "PRC - En Vivo",
       "url": "https://open.spotify.com/track/56XItKFtHbwf6Eneqkd9oj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 294742,
-      "name": "El Lunar (Live)",
-      "url": "https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs"
     },
     {
       "added_at": null,
@@ -751,6 +719,38 @@
       "duration_ms": 182613,
       "name": "Las Coquette",
       "url": "https://open.spotify.com/track/5lSATBJW5sKxdtZoWEkOWl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live, Rancho Style",
+        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 294742,
+      "name": "El Lunar (Live)",
+      "url": "https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 241583,
+      "name": "200 COPAS - En Vivo",
+      "url": "https://open.spotify.com/track/4XT2sT6AhEjI7O7dFsLWrH"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TUMBADO STYLE",
+        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 97760,
+      "name": "INTRO TUMBADO",
+      "url": "https://open.spotify.com/track/4qHB4HsyhVZbJ3IJMH25ZM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EN VIVO DESDE EL VALLE",
         "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
       },
@@ -863,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUMBADO STYLE",
-        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
+        "name": "Tu Conciencia",
+        "url": "https://open.spotify.com/album/36nqP6gvOrWZBQJnOmapjq"
       },
       "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 97760,
-      "name": "INTRO TUMBADO",
-      "url": "https://open.spotify.com/track/4qHB4HsyhVZbJ3IJMH25ZM"
+      "duration_ms": 229000,
+      "name": "Tu Conciencia",
+      "url": "https://open.spotify.com/track/1XzuxgapAUAG410B5LuidA"
     },
     {
       "added_at": null,
@@ -904,13 +924,13 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         },
         {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+          "name": "Los Mas Sierre\u00f1os",
+          "url": "https://open.spotify.com/artist/5pRtqHfS2cUHCuywRcEXhK"
         }
       ],
-      "duration_ms": 207957,
-      "name": "EL AMOR NUNCA SE VENDE - En Vivo",
-      "url": "https://open.spotify.com/track/6oMnXRNH3jGNZTZhZZoJ5p"
+      "duration_ms": 245493,
+      "name": "POR UNA MUJER BONITA - En Vivo",
+      "url": "https://open.spotify.com/track/7o2EnXIUtVo8lVIDrKXLfd"
     },
     {
       "added_at": null,
@@ -927,26 +947,6 @@
       "duration_ms": 165520,
       "name": "AMG - En Vivo",
       "url": "https://open.spotify.com/track/0YlNa1FpjxrmtqnorgBVLY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Conciencia",
-        "url": "https://open.spotify.com/album/36nqP6gvOrWZBQJnOmapjq"
-      },
-      "artists": [
-        {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Tu Conciencia",
-      "url": "https://open.spotify.com/track/1XzuxgapAUAG410B5LuidA"
     },
     {
       "added_at": null,
@@ -975,22 +975,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+        "name": "TUMBADO STYLE",
+        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Los Mas Sierre\u00f1os",
-          "url": "https://open.spotify.com/artist/5pRtqHfS2cUHCuywRcEXhK"
         }
       ],
-      "duration_ms": 245493,
-      "name": "POR UNA MUJER BONITA - En Vivo",
-      "url": "https://open.spotify.com/track/7o2EnXIUtVo8lVIDrKXLfd"
+      "duration_ms": 141400,
+      "name": "DOCTOR DEL BARRIO",
+      "url": "https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo"
     }
   ],
   "unique_name": "This Is Danny Felix",

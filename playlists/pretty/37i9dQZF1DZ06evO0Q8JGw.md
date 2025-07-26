@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 
 > This is Pearl Jam\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,968 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,078 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 | 49 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 |
 | 50 | [Waiting For Stevie](https://open.spotify.com/track/7LMXRhf27EwcBQo2oLkcBa) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:41 |
 
-Snapshot ID: `aIAmAAAAAAAOZbN3uRYwTLf2HE0l7Spo`
+Snapshot ID: `aIF3gAAAAAAxGMYUdP9FxfTIVWWik+Bo`

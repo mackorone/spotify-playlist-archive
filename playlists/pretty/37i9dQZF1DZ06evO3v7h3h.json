@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46075,
+  "num_followers": 46074,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAAQ9mfEchlg3P4ttYKXCSrC",
+  "snapshot_id": "aIF3gAAAAAD3kaddau6egwqKNwGBi7zP",
   "tracks": [
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 255274,
+      "name": "T\u00e3o Real",
+      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Non Ducor Duco",
         "url": "https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 243400,
       "name": "Porque Eu Rimo",
       "url": "https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 255274,
-      "name": "T\u00e3o Real",
-      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
     },
     {
       "added_at": null,
@@ -1067,6 +1067,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Posf\u00e1cio",
+        "url": "https://open.spotify.com/album/1c46EPnRi9wrhdUUIJTgxT"
+      },
+      "artists": [
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/4eEZCRtFHFEiAuR2wdNVYX"
+        }
+      ],
+      "duration_ms": 262559,
+      "name": "Recorda\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/1alIVYE2bdhYwNalVu3htc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Azz Veizz",
         "url": "https://open.spotify.com/album/4sGPPuO7iZv7qXr7ace65g"
       },
@@ -1099,50 +1123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Posf\u00e1cio",
-        "url": "https://open.spotify.com/album/1c46EPnRi9wrhdUUIJTgxT"
-      },
-      "artists": [
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/4eEZCRtFHFEiAuR2wdNVYX"
-        }
-      ],
-      "duration_ms": 262559,
-      "name": "Recorda\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/1alIVYE2bdhYwNalVu3htc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Luiz Guima",
-          "url": "https://open.spotify.com/artist/4AyjqXHOB3D1eHD4mNtCjZ"
-        }
-      ],
-      "duration_ms": 282053,
-      "name": "Hora de Acordar",
-      "url": "https://open.spotify.com/track/4RBXdmsItgDjYh2dHprfhI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 238515,
       "name": "Confundindo S\u00e1bios",
       "url": "https://open.spotify.com/track/64VGENNsyTXX2KwSSzuQww"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Luiz Guima",
+          "url": "https://open.spotify.com/artist/4AyjqXHOB3D1eHD4mNtCjZ"
+        }
+      ],
+      "duration_ms": 282053,
+      "name": "Hora de Acordar",
+      "url": "https://open.spotify.com/track/4RBXdmsItgDjYh2dHprfhI"
     },
     {
       "added_at": null,

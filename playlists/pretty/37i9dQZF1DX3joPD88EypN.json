@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 54747,
+  "num_followers": 54773,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 411640,
+      "name": "Polska Of Despair (1)",
+      "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
         "name": "Last Spring",
         "url": "https://open.spotify.com/album/2o24AbDEYPoyFNSXxDZp36"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 205084,
       "name": "Margit Hjukse",
       "url": "https://open.spotify.com/track/6BdgqkDDeRvAAHJtDCc48W"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 411640,
-      "name": "Polska Of Despair (1)",
-      "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN"
+      },
+      "artists": [
+        {
+          "name": "Terje Rypdal",
+          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
         "name": "Oh, Jaco!",
         "url": "https://open.spotify.com/album/0i2i4vMnJ8hv5fJreuHWc5"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 360769,
       "name": "Oh, Jaco!",
       "url": "https://open.spotify.com/track/33FJyAQRTd8GKjku7DvYun"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN"
-      },
-      "artists": [
-        {
-          "name": "Terje Rypdal",
-          "url": "https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
-      },
-      "artists": [
-        {
-          "name": "Mette Henriette",
-          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
-        }
-      ],
-      "duration_ms": 71160,
-      "name": "Divining",
-      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "Cinematic",
         "url": "https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 487053,
       "name": "Cinematic",
       "url": "https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
+      },
+      "artists": [
+        {
+          "name": "Mette Henriette",
+          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
+        }
+      ],
+      "duration_ms": 71160,
+      "name": "Divining",
+      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1251,18 +1251,26 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Phantasmagoria or a Different Kind of Journey",
-        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
+        "name": "Snow Catches on Her Eyelashes",
+        "url": "https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec"
       },
       "artists": [
         {
           "name": "Eivind Aarset",
           "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        },
+        {
+          "name": "Hilde Norbakken",
+          "url": "https://open.spotify.com/artist/5HJCkhpDKHnbOWY7SQN6g0"
         }
       ],
-      "duration_ms": 417986,
-      "name": "Pearl Hunter",
-      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
+      "duration_ms": 183210,
+      "name": "Before the Wedding",
+      "url": "https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1295,6 +1303,62 @@
       "duration_ms": 200344,
       "name": "Slaraffenland",
       "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Scandinavian Standards",
+        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
+      },
+      "artists": [
+        {
+          "name": "Niels Lan Doky",
+          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
+        }
+      ],
+      "duration_ms": 306826,
+      "name": "The Lilly Flower - Liljankukka",
+      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
+      },
+      "artists": [
+        {
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+        },
+        {
+          "name": "Tommy Smith",
+          "url": "https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO"
+        },
+        {
+          "name": "Paolo Vinaccia",
+          "url": "https://open.spotify.com/artist/6KRqpgcx3IlzqHGiyrBHbJ"
+        }
+      ],
+      "duration_ms": 335320,
+      "name": "Rossetti",
+      "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Phantasmagoria or a Different Kind of Journey",
+        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
+      },
+      "artists": [
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        }
+      ],
+      "duration_ms": 417986,
+      "name": "Pearl Hunter",
+      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1347,70 +1411,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Snow Catches on Her Eyelashes",
-        "url": "https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec"
-      },
-      "artists": [
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        },
-        {
-          "name": "Jan Bang",
-          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
-        },
-        {
-          "name": "Hilde Norbakken",
-          "url": "https://open.spotify.com/artist/5HJCkhpDKHnbOWY7SQN6g0"
-        }
-      ],
-      "duration_ms": 183210,
-      "name": "Before the Wedding",
-      "url": "https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Scandinavian Standards",
-        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
-      },
-      "artists": [
-        {
-          "name": "Niels Lan Doky",
-          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
-        }
-      ],
-      "duration_ms": 306826,
-      "name": "The Lilly Flower - Liljankukka",
-      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
-      },
-      "artists": [
-        {
-          "name": "Arild Andersen",
-          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
-        },
-        {
-          "name": "Tommy Smith",
-          "url": "https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO"
-        },
-        {
-          "name": "Paolo Vinaccia",
-          "url": "https://open.spotify.com/artist/6KRqpgcx3IlzqHGiyrBHbJ"
-        }
-      ],
-      "duration_ms": 335320,
-      "name": "Rossetti",
-      "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "We Seem to Be Drifting Apart",
         "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
       },
@@ -1423,6 +1423,50 @@
       "duration_ms": 166920,
       "name": "Richter Sonntag",
       "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
+      },
+      "artists": [
+        {
+          "name": "Ketil Bj\u00f8rnstad",
+          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+        }
+      ],
+      "duration_ms": 367120,
+      "name": "Remembrance VI",
+      "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Adam",
+        "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        }
+      ],
+      "duration_ms": 498112,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1451,50 +1495,6 @@
       "duration_ms": 263137,
       "name": "Height of the Reeds in the Wetlands",
       "url": "https://open.spotify.com/track/5dHQT5wEWr0qMEqh998zGE"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Adam",
-        "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        }
-      ],
-      "duration_ms": 498112,
-      "name": "Adam",
-      "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
-      },
-      "artists": [
-        {
-          "name": "Ketil Bj\u00f8rnstad",
-          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        },
-        {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
-        }
-      ],
-      "duration_ms": 367120,
-      "name": "Remembrance VI",
-      "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
+        "name": "The Soundtrack of My Home",
+        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Jerve",
+          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
+        }
+      ],
+      "duration_ms": 240390,
+      "name": "Iben",
+      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
         "name": "Touch of Time",
         "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 526520,
       "name": "Redream",
       "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "The Soundtrack of My Home",
-        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Jerve",
-          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
-        }
-      ],
-      "duration_ms": 240390,
-      "name": "Iben",
-      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
+        "name": "The Night Is Dark (S\u00e5 m\u00f6rk \u00e4r natten i midvintertid)",
+        "url": "https://open.spotify.com/album/16zTmTftjL6ZZUnEMrMUs8"
+      },
+      "artists": [
+        {
+          "name": "Jacob Karlzon",
+          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
+        }
+      ],
+      "duration_ms": 122476,
+      "name": "The Night Is Dark (S\u00e5 m\u00f6rk \u00e4r natten i midvintertid)",
+      "url": "https://open.spotify.com/track/50p93UXPTkenZQ5pYUyftd"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
         "name": "Jan Garbarek: Works",
         "url": "https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX"
       },
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "The Night Is Dark (S\u00e5 m\u00f6rk \u00e4r natten i midvintertid)",
-        "url": "https://open.spotify.com/album/16zTmTftjL6ZZUnEMrMUs8"
-      },
-      "artists": [
-        {
-          "name": "Jacob Karlzon",
-          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
-        }
-      ],
-      "duration_ms": 122476,
-      "name": "The Night Is Dark (S\u00e5 m\u00f6rk \u00e4r natten i midvintertid)",
-      "url": "https://open.spotify.com/track/50p93UXPTkenZQ5pYUyftd"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "Asthma Breath",
         "url": "https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE"
       },
@@ -1715,26 +1715,6 @@
       "duration_ms": 196868,
       "name": "Asthma Breath",
       "url": "https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "P\u00e5 havets bunn",
-        "url": "https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        },
-        {
-          "name": "Erland Dahlen",
-          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
-        }
-      ],
-      "duration_ms": 212600,
-      "name": "P\u00e5 havets bunn",
-      "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1759,6 +1739,26 @@
       "duration_ms": 258161,
       "name": "Jeg gik mig ud en Sommerdag",
       "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "P\u00e5 havets bunn",
+        "url": "https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        },
+        {
+          "name": "Erland Dahlen",
+          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "P\u00e5 havets bunn",
+      "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Space Is the Place",
-        "url": "https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK"
-      },
-      "artists": [
-        {
-          "name": "Carsten Dahl, Arild Andersen, Jon Christensen",
-          "url": "https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV"
-        }
-      ],
-      "duration_ms": 241120,
-      "name": "Space Is the Place",
-      "url": "https://open.spotify.com/track/2Vp1EnHodm8cYQkn54aqKD"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 251964,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/2uu6m4hZRyQeCnY5UNh8yO"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Space Is the Place",
+        "url": "https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK"
+      },
+      "artists": [
+        {
+          "name": "Carsten Dahl, Arild Andersen, Jon Christensen",
+          "url": "https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV"
+        }
+      ],
+      "duration_ms": 241120,
+      "name": "Space Is the Place",
+      "url": "https://open.spotify.com/track/2Vp1EnHodm8cYQkn54aqKD"
     },
     {
       "added_at": "2025-03-07 09:20:11",

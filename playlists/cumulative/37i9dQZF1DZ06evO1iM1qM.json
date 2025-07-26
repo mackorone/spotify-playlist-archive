@@ -507,6 +507,36 @@
     },
     {
       "album": {
+        "name": "The Cats",
+        "url": "https://open.spotify.com/album/07rqlPalWaAvW5NEhtgVVE"
+      },
+      "artists": [
+        {
+          "name": "Idrees Sulieman",
+          "url": "https://open.spotify.com/artist/273EXbTI4AKNTHjpdLOhRQ"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        },
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357930,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/6UGFfLeNHnSDv6yQsMW2fg"
+    },
+    {
+      "album": {
         "name": "Settin' The Pace [RVG Edition]",
         "url": "https://open.spotify.com/album/1PVIyuR4lrmzXb8QbS8nEZ"
       },
@@ -702,7 +732,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 418246,
       "name": "Mr. P.C. - Mono",
       "url": "https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y"

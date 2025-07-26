@@ -4,7 +4,7 @@
 
 > This is Talking Heads\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 43 min
+68 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Wild Wild Life](https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [True Stories](https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO) | 3:39 | 2024-05-18 |  |
 | [Wild Wild Life \- 2005 Remaster](https://open.spotify.com/track/4u6rcmlhDDgS0YAo8ZMI4a) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [Jerry Harrison](https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy) | [True Stories](https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM) | 3:40 | 2025-01-29 | 2025-02-25 |
 | [With Our Love](https://open.spotify.com/track/2FiIUkT9U0JqPxnVp8ufVT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 3:31 | 2024-05-18 | 2025-07-25 |
-| [With Our Love \(Alternate Version\) \- 2025 Remaster](https://open.spotify.com/track/7cn8t9GtqgpMJp14YAbERF) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [With Our Love \(Alternate Version\) \[2025 Remaster\]](https://open.spotify.com/album/5O5IRcKyojuWyLdSnEeZM4) | 3:34 | 2025-07-25 |  |
+| [With Our Love \(Alternate Version\) \- 2025 Remaster](https://open.spotify.com/track/7a7F0S02btsa6EieDhE9ug) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings And Food \(Super Deluxe Edition\)](https://open.spotify.com/album/1zcBZh5ae9ycAtIV2Kh6Ho) | 3:34 | 2025-07-26 |  |
+| [With Our Love \(Alternate Version\) \- 2025 Remaster](https://open.spotify.com/track/7cn8t9GtqgpMJp14YAbERF) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [With Our Love \(Alternate Version\) \[2025 Remaster\]](https://open.spotify.com/album/5O5IRcKyojuWyLdSnEeZM4) | 3:34 | 2025-07-25 | 2025-07-26 |
 
 \*This playlist was first scraped on 2024-05-18. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1132941,
+  "num_followers": 1132596,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 183773,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 221546,
       "name": "I Knew I Could Fly",
       "url": "https://open.spotify.com/track/1tLDBychkP96pHT664rJIY"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr"
     },
     {
       "added_at": "2024-08-23 14:59:54",

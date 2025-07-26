@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/6X7zfN6ThW1cdicGT8oGHW"
+      },
+      "artists": [
+        {
+          "name": "Los Concorde",
+          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191184,
+      "name": "Balas Perdidas",
+      "url": "https://open.spotify.com/track/5nSYN6VjBU0vo9yrajSD0X"
+    },
+    {
+      "album": {
         "name": "+52 55 6461 7366",
         "url": "https://open.spotify.com/album/6aGlwLCVlWRtWJ9T1E7TtI"
       },
@@ -2346,7 +2364,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 170704,
       "name": "Coyoac\u00e1n",
       "url": "https://open.spotify.com/track/3JTiRLWjceTdMQS52ERUo2"
@@ -3142,6 +3160,24 @@
       "duration_ms": 181500,
       "name": "Dispara",
       "url": "https://open.spotify.com/track/1E7T1JJQStUgtSSSU2q7Yp"
+    },
+    {
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/71XKZ1ocN2L0THv31MJihU"
+      },
+      "artists": [
+        {
+          "name": "San Venus",
+          "url": "https://open.spotify.com/artist/0I1DNEdOBX3s6eL8UlaskZ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207652,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/40ObugIeVEbLJH8Ixgdr0V"
     },
     {
       "album": {
@@ -7635,6 +7671,28 @@
     },
     {
       "album": {
+        "name": "MOMENTO",
+        "url": "https://open.spotify.com/album/5coYkHMjR7MZY6FNh6yDaA"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Prayers",
+          "url": "https://open.spotify.com/artist/7a0G4CC3dZdKAAzVRnaRGu"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "MOMENTO",
+      "url": "https://open.spotify.com/track/0lKSSNUWk7baSbP5tbiqnd"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo D\u2019Lira",
         "url": "https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9"
       },
@@ -8234,7 +8292,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 198260,
       "name": "NO DIGAS QUE",
       "url": "https://open.spotify.com/track/2L8GtfMaVgvmeAMnsaobh0"
@@ -8350,7 +8408,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 135433,
       "name": "No Me Quiero Morir",
       "url": "https://open.spotify.com/track/4yzqsGLNuEriKgemEeMjEu"

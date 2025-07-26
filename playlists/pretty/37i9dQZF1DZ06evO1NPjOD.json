@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39186,
+  "num_followers": 39194,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAADjgf1PFfc7ggk9WgQEdvdE",
+  "snapshot_id": "aIF3gAAAAAAq60rL9Rozc61U6T4wSfyc",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 176308,
+      "name": "Take Yo Man",
+      "url": "https://open.spotify.com/track/5aOpKCKguEnViGOKZxZern"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caramel (feat. City Girls)",
         "url": "https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 232941,
       "name": "Caramel (feat. City Girls)",
       "url": "https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERIOD",
-        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 176308,
-      "name": "Take Yo Man",
-      "url": "https://open.spotify.com/track/5aOpKCKguEnViGOKZxZern"
     },
     {
       "added_at": null,
@@ -835,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Top Notch (feat. Fivio Foreign)",
-        "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
       },
       "artists": [
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
         }
       ],
-      "duration_ms": 169737,
-      "name": "Top Notch (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
+      "duration_ms": 119893,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI"
     },
     {
       "added_at": null,
@@ -879,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERIOD",
-        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 119893,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -919,6 +899,42 @@
       "duration_ms": 160013,
       "name": "Pastor (Quavo, City Girls feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4awve4McsKOqVuOpAbg6BF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Top Notch (feat. Fivio Foreign)",
+        "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 169737,
+      "name": "Top Notch (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "Period (We Live)",
+      "url": "https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS"
     },
     {
       "added_at": null,
@@ -955,22 +971,6 @@
       "duration_ms": 117806,
       "name": "I Need A Thug",
       "url": "https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERIOD",
-        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "Period (We Live)",
-      "url": "https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS"
     },
     {
       "added_at": null,

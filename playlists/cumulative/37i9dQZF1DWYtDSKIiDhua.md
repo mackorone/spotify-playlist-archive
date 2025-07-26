@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Daniel Caesar
 
-1,310 songs - 2 day 22 hr 6 min
+1,311 songs - 2 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1176,6 +1176,7 @@
 | [TREASURE](https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TREASURE](https://open.spotify.com/album/72lymuQG7fYSUNI2iTBtTh) | 3:11 | 2025-05-01 |  |
 | [Treasure](https://open.spotify.com/track/3dx3nDvoEOJNBDPp3a9qX2) | [Sabrina Soetomo](https://open.spotify.com/artist/3EveEev3WbVFqsjRDoeJAH) | [Treasure](https://open.spotify.com/album/4KyKNlMN009fmiilJm43yZ) | 3:43 | 2023-02-23 | 2024-01-05 |
 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-08-31 | 2023-09-15 |
+| [tripwire interlude](https://open.spotify.com/track/6FTlPHrVdDWNnw6I3QCO8w) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [tripwire interlude](https://open.spotify.com/album/69xcrmDuW84ifqwojp3STZ) | 1:17 | 2025-07-24 |  |
 | [Trust](https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Trust](https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS) | 2:45 | 2022-10-07 | 2022-10-29 |
 | [Trust Issues](https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Trust Issues](https://open.spotify.com/album/54xPUKxnexBttdrk44bz1o) | 3:18 | 2023-03-31 | 2023-07-14 |
 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 | 2022-10-13 | 2023-02-10 |

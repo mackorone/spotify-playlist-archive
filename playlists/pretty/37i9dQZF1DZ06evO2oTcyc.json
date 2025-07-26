@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 221421,
+  "num_followers": 221455,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAADibhh698Hkm/t7jFEoL67F",
+  "snapshot_id": "aIF3gAAAAAA21kPcYgWKi9khOL2VVXw0",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Love & War",
+      "url": "https://open.spotify.com/track/293mQGfVwgXIOdA1GpiwAt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 152000,
       "name": "Calling My Spirit",
       "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back For Everything",
-        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Love & War",
-      "url": "https://open.spotify.com/track/293mQGfVwgXIOdA1GpiwAt"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kutthroat Bill: Vol. 1",
-        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 166039,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7kZKCghLgg9t0vvugqPXDV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 168312,
       "name": "Day for Day",
       "url": "https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kutthroat Bill: Vol. 1",
+        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 166039,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7kZKCghLgg9t0vvugqPXDV"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
       "duration_ms": 130929,
       "name": "If I'm Lyin', I'm Flyin'",
       "url": "https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When I Was Dead",
-        "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 165765,
-      "name": "Lemme See",
-      "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
     },
     {
       "added_at": null,
@@ -915,6 +899,22 @@
       "duration_ms": 182350,
       "name": "Pumpkin Patch (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/7tbeI9WJEgAK7IRdaEV0V0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When I Was Dead",
+        "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 165765,
+      "name": "Lemme See",
+      "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
     },
     {
       "added_at": null,

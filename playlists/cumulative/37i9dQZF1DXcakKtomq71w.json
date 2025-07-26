@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 238048,
       "name": "Addis Ababa",
       "url": "https://open.spotify.com/track/24VMZIUGZ2chSxLgMsRYgC"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 355670,
       "name": "Apaga La Luz - Pablo Fierro Raw Mix",
       "url": "https://open.spotify.com/track/3idQMVxbbKUAyRiTnES2z7"
@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/1PJEjRyI5FCOqFf6QbWnlf"
+      },
+      "artists": [
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179016,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/31yljlcH1pEm4Dz85D1KGC"
+    },
+    {
+      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/0GRAvBOREScwdewiySp05v"
       },
@@ -1440,7 +1458,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 259075,
       "name": "Celona",
       "url": "https://open.spotify.com/track/2mCQo995qfavaLthM6oaLF"
@@ -2248,7 +2266,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 362134,
       "name": "El Mar (parece roto)",
       "url": "https://open.spotify.com/track/0ARduJZzHGefGVwvbmaWFe"
@@ -2467,6 +2485,54 @@
     },
     {
       "album": {
+        "name": "Enouwo Lagnon (Captain Planet Remix)",
+        "url": "https://open.spotify.com/album/6MYbth48LkOibQEHqSrqhq"
+      },
+      "artists": [
+        {
+          "name": "Dogo Du Togo",
+          "url": "https://open.spotify.com/artist/3CbpY8yMvMsY5Xm3nQWxsp"
+        },
+        {
+          "name": "The Alagaa Beat Band",
+          "url": "https://open.spotify.com/artist/1y68kycJgj0WuJYDWXfydm"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325000,
+      "name": "Enouwo Lagnon - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/6QvnriEykygBwOgz4iHGVN"
+    },
+    {
+      "album": {
+        "name": "Es Pa Ti",
+        "url": "https://open.spotify.com/album/06bXGVYRxzzjLZv0MrfIQN"
+      },
+      "artists": [
+        {
+          "name": "Brandon Markell Holmes",
+          "url": "https://open.spotify.com/artist/49hxY3aryuNE1UJpuJ0YJf"
+        },
+        {
+          "name": "Robert PM",
+          "url": "https://open.spotify.com/artist/2uOpXWYPeZHSYcjF89USyl"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Es Pa Ti",
+      "url": "https://open.spotify.com/track/3oeq8RVdaNcKiNqEJthznO"
+    },
+    {
+      "album": {
         "name": "R\u00e9ciprocit\u00e9",
         "url": "https://open.spotify.com/album/6AwGQlrNSc9q7WI20Ojb6i"
       },
@@ -2596,6 +2662,50 @@
       "duration_ms": 333671,
       "name": "Fascinado - Club Mix",
       "url": "https://open.spotify.com/track/5T9o7NARUUNthpFHKPdizQ"
+    },
+    {
+      "album": {
+        "name": "Faut Pas F\u00e2cher",
+        "url": "https://open.spotify.com/album/0iXngKfoH4fVxCLDuA7BYr"
+      },
+      "artists": [
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        },
+        {
+          "name": "Neyl",
+          "url": "https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD"
+        },
+        {
+          "name": "Lass",
+          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Faut Pas F\u00e2cher",
+      "url": "https://open.spotify.com/track/7IIdpOnUp1e5s56pvXPxZF"
+    },
+    {
+      "album": {
+        "name": "Feel The Tension",
+        "url": "https://open.spotify.com/album/592taR6v8qzdLbTt2ZbO6G"
+      },
+      "artists": [
+        {
+          "name": "Rydz",
+          "url": "https://open.spotify.com/artist/4WoYfeD73d5vx3UE0rsJnC"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243895,
+      "name": "Feel The Tension",
+      "url": "https://open.spotify.com/track/59SgafoN0xEdiOFg0sEL0m"
     },
     {
       "album": {
@@ -3026,7 +3136,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 303870,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5TdLN9ePkSx3md8s0tA7Xk"
@@ -3242,7 +3352,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 240960,
       "name": "I Remember You A Dancer",
       "url": "https://open.spotify.com/track/1elDxfWBV5ETXElujTfK2H"
@@ -3320,7 +3430,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 154634,
       "name": "Iag Bari (Yababa)",
       "url": "https://open.spotify.com/track/78lQ5KilDmoceHsxGkVEVj"
@@ -3609,6 +3719,24 @@
     },
     {
       "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/0KybYBbysZl32YL5ZI3sCG"
+      },
+      "artists": [
+        {
+          "name": "G.Zamora",
+          "url": "https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159568,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/0uvc2A9I0q8FSrTGvFIR5l"
+    },
+    {
+      "album": {
         "name": "La Puerta Del Cielo",
         "url": "https://open.spotify.com/album/0wOkepU3RvpAH2984IfPzL"
       },
@@ -3762,6 +3890,28 @@
       "duration_ms": 465625,
       "name": "Leila",
       "url": "https://open.spotify.com/track/1LW5BwY4nUGJdS0z4UcjuJ"
+    },
+    {
+      "album": {
+        "name": "Let go",
+        "url": "https://open.spotify.com/album/33YE50u6aE3m62oglFJV7o"
+      },
+      "artists": [
+        {
+          "name": "Fiona Kraft",
+          "url": "https://open.spotify.com/artist/6Gbq71ILuMLRVn0jwC6Glt"
+        },
+        {
+          "name": "LOV",
+          "url": "https://open.spotify.com/artist/6qmWTcuqdLwgCrMe3C3o98"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175294,
+      "name": "Let go - Radio edit",
+      "url": "https://open.spotify.com/track/2Yic1HdT0EYSrd5OhM7ISd"
     },
     {
       "album": {
@@ -4143,6 +4293,24 @@
     },
     {
       "album": {
+        "name": "Cha Cha Cha",
+        "url": "https://open.spotify.com/album/2wokVOwkdqx46jn4OmO5vE"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171635,
+      "name": "Mambo",
+      "url": "https://open.spotify.com/track/1GI6AQ99XlAyYiKnTSW3xA"
+    },
+    {
+      "album": {
         "name": "Mar\u00e9",
         "url": "https://open.spotify.com/album/07hb053gdOBrCFJi6G75M1"
       },
@@ -4434,7 +4602,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 251803,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
@@ -4460,6 +4628,28 @@
       "duration_ms": 339173,
       "name": "Mona Ki Ngi Xica - Pablo Fierro Remix",
       "url": "https://open.spotify.com/track/0eqFasz9SX1iE9IgyYONhc"
+    },
+    {
+      "album": {
+        "name": "Mood Swing (Sinego Remix)",
+        "url": "https://open.spotify.com/album/6LSJZ1zDqxWhVL3hDydSFB"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245901,
+      "name": "Mood Swing - Radio Edit",
+      "url": "https://open.spotify.com/track/76DwMrwpAY9El8AZXlWxyW"
     },
     {
       "album": {
@@ -4532,6 +4722,28 @@
       "duration_ms": 389469,
       "name": "Mr. Pablo",
       "url": "https://open.spotify.com/track/0QAmHEbmpblGCtce3GZ66j"
+    },
+    {
+      "album": {
+        "name": "Mucize",
+        "url": "https://open.spotify.com/album/6yghXN43tKMVUYU8rfahHE"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "B\u00e1kayan",
+          "url": "https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293553,
+      "name": "Mucize",
+      "url": "https://open.spotify.com/track/3jRwss1qngUzEMc2hkxWRm"
     },
     {
       "album": {
@@ -4638,7 +4850,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 345294,
       "name": "M\u00f4j - Nico Morano Remix",
       "url": "https://open.spotify.com/track/59mR69Ou2kElx9ZrzKWGXy"
@@ -6216,7 +6428,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 271707,
       "name": "Secreto de Amor - La Noche",
       "url": "https://open.spotify.com/track/7ocbSotFQVyDVTmoajnnYM"
@@ -6286,7 +6498,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 210888,
       "name": "She Asked Me To Dance",
       "url": "https://open.spotify.com/track/5QAxKBAZ6ohJ4eOUvBslCh"
@@ -6410,7 +6622,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 185147,
       "name": "Slod",
       "url": "https://open.spotify.com/track/5CdcO96WiIiy0SPY2QOXRG"
@@ -6674,6 +6886,24 @@
       "duration_ms": 169279,
       "name": "Strange",
       "url": "https://open.spotify.com/track/7KizU3C57WJHOO0w5MD6Jp"
+    },
+    {
+      "album": {
+        "name": "Strawberry Blonde",
+        "url": "https://open.spotify.com/album/2wsuBal9AIfmkAiso1WXgV"
+      },
+      "artists": [
+        {
+          "name": "AtalaiA",
+          "url": "https://open.spotify.com/artist/5zvjrmPacEVUc681gVjQeY"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362317,
+      "name": "Strawberry Blonde",
+      "url": "https://open.spotify.com/track/5h7Wani1E3UxTXLLfqbPsk"
     },
     {
       "album": {
@@ -7022,6 +7252,24 @@
       "duration_ms": 251671,
       "name": "The Veil",
       "url": "https://open.spotify.com/track/4sXNEwBs1f7scjkmwy5J0u"
+    },
+    {
+      "album": {
+        "name": "The Water Poem",
+        "url": "https://open.spotify.com/album/1ZE7Hor3KQyt9Fg4wGuMUr"
+      },
+      "artists": [
+        {
+          "name": "Laguna",
+          "url": "https://open.spotify.com/artist/1QE4donXdF3zWVjSXm9nd1"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328092,
+      "name": "The Water Poem",
+      "url": "https://open.spotify.com/track/67kehCvalQ8RqvJfYSM7RK"
     },
     {
       "album": {
@@ -7396,10 +7644,50 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 282413,
       "name": "Un Grande Nubarr\u00f3n Se Alza En El Cielo",
       "url": "https://open.spotify.com/track/0c20yZThohz40kA5Xzp6dD"
+    },
+    {
+      "album": {
+        "name": "Un Idiota (Te Perd\u00ed)",
+        "url": "https://open.spotify.com/album/2790I5a0CbIcGf9HBnJ6UF"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300487,
+      "name": "Un Idiota - Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/1oe42GaLCuxepZNDc6Hl27"
+    },
+    {
+      "album": {
+        "name": "Una Canci\u00f3n",
+        "url": "https://open.spotify.com/album/53IHNRRmnyEYK9zblJPuDL"
+      },
+      "artists": [
+        {
+          "name": "Marasi",
+          "url": "https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354000,
+      "name": "Una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/6FLoQEpz1VqJ5DxuMo6cGD"
     },
     {
       "album": {
@@ -7564,7 +7852,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 317417,
       "name": "Ventilate - (Monkey Safari Remix) [Mixed]",
       "url": "https://open.spotify.com/track/2avTWyjXPowntGEVhBZoNb"

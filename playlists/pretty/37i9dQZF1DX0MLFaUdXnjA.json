@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to the chillest pop.  Cover: Conan Gray",
-  "num_followers": 1840166,
+  "num_followers": 1840068,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHpqWQAAAADl7alWv757zctGFyvVKM0L",
+  "snapshot_id": "aIMBfAAAAACmokjvpo1tsmUH+Nxn7MD8",
   "tracks": [
     {
       "added_at": "2025-07-11 04:00:17",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
     },
     {
+      "added_at": "2025-07-18 04:00:21",
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 168056,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6vQnaQLxQf58F3LE0lw2mp"
+    },
+    {
       "added_at": "2025-05-30 04:00:31",
       "album": {
         "name": "Nice To Each Other",
@@ -41,20 +57,116 @@
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
     },
     {
-      "added_at": "2025-07-18 04:00:21",
+      "added_at": "2025-07-11 10:13:40",
       "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 168056,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6vQnaQLxQf58F3LE0lw2mp"
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2025-07-25 04:01:00",
+      "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/2lqelyZsVx9zEPCad5dFln"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 238913,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/1N1Phz8aYhJFGTFlHOX3Db"
+    },
+    {
+      "added_at": "2025-04-28 13:34:33",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Nobody New",
+      "url": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
+    },
+    {
+      "added_at": "2025-07-25 04:01:00",
+      "album": {
+        "name": "You Stole The Show",
+        "url": "https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 207190,
+      "name": "You Stole The Show",
+      "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
+    },
+    {
+      "added_at": "2025-05-30 04:00:31",
+      "album": {
+        "name": "weren't for the wind",
+        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "weren't for the wind",
+      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
+    },
+    {
+      "added_at": "2025-07-25 04:01:00",
+      "album": {
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/5oapmE6hovtOqcG4Niwh1T"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "duration_ms": 246413,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/26m3a6jjutoB86efXGO2dP"
+    },
+    {
+      "added_at": "2025-07-25 04:01:00",
+      "album": {
+        "name": "To Be Free",
+        "url": "https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 255155,
+      "name": "To Be Free",
+      "url": "https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa"
     },
     {
       "added_at": "2025-06-27 04:00:42",
@@ -89,6 +201,22 @@
       "url": "https://open.spotify.com/track/1ISuBnU4WRaIPStD2hktp4"
     },
     {
+      "added_at": "2025-07-25 04:01:00",
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go"
+    },
+    {
       "added_at": "2025-07-18 04:00:21",
       "album": {
         "name": "SWAG",
@@ -121,20 +249,40 @@
       "url": "https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee"
     },
     {
-      "added_at": "2025-05-30 04:00:31",
+      "added_at": "2025-07-25 04:01:00",
       "album": {
-        "name": "weren't for the wind",
-        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
+        "name": "Almost (w/ HONGJOONG of ATEEZ)",
+        "url": "https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp"
       },
       "artists": [
         {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        },
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 193666,
-      "name": "weren't for the wind",
-      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
+      "duration_ms": 196362,
+      "name": "Almost - w/ HONGJOONG of ATEEZ",
+      "url": "https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4"
+    },
+    {
+      "added_at": "2025-07-25 04:01:00",
+      "album": {
+        "name": "1-800-LOVECLUB",
+        "url": "https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83"
+      },
+      "artists": [
+        {
+          "name": "Willa Owen",
+          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "1-800-LOVECLUB",
+      "url": "https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh"
     },
     {
       "added_at": "2025-07-18 04:00:21",
@@ -177,6 +325,22 @@
       "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
     },
     {
+      "added_at": "2025-07-25 04:01:00",
+      "album": {
+        "name": "The Weight Of You (I\u2019m Glad You Died)",
+        "url": "https://open.spotify.com/album/3l4WqTUR6utuHk7jAP9dH0"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "duration_ms": 192291,
+      "name": "The Weight Of You (I\u2019m Glad You Died)",
+      "url": "https://open.spotify.com/track/1ljwXbzXjEB5Sfq6B5x4F7"
+    },
+    {
       "added_at": "2025-07-18 04:00:21",
       "album": {
         "name": "Sweetheart",
@@ -193,20 +357,20 @@
       "url": "https://open.spotify.com/track/5XSBmZKP9J3ZRdqwygm2ee"
     },
     {
-      "added_at": "2025-07-11 10:13:40",
+      "added_at": "2025-07-25 04:01:00",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+        "name": "surprise!",
+        "url": "https://open.spotify.com/album/44xJnasBEye8d4fOjeOtyX"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
         }
       ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+      "duration_ms": 169773,
+      "name": "surprise!",
+      "url": "https://open.spotify.com/track/0I6BQvM62vDau1xn76eJyD"
     },
     {
       "added_at": "2025-07-18 04:00:21",
@@ -309,20 +473,20 @@
       "url": "https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA"
     },
     {
-      "added_at": "2025-04-28 13:34:33",
+      "added_at": "2025-07-25 04:01:00",
       "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
+        "name": "Cool Girls",
+        "url": "https://open.spotify.com/album/4rNGK0Fq6NVtNoJfjee6Ri"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Nobody New",
-      "url": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
+      "duration_ms": 170851,
+      "name": "Cool Girls",
+      "url": "https://open.spotify.com/track/6LvDHNPuSSlVpr0gKHcau0"
     },
     {
       "added_at": "2025-03-18 21:44:08",
@@ -477,22 +641,6 @@
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
     },
     {
-      "added_at": "2025-07-11 04:00:17",
-      "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Lady Lady",
-      "url": "https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r"
-    },
-    {
       "added_at": "2025-07-04 04:00:26",
       "album": {
         "name": "Upon Arrival",
@@ -629,30 +777,6 @@
       "url": "https://open.spotify.com/track/2xLc8bA2qPjJ0lbC3VIVW0"
     },
     {
-      "added_at": "2025-06-06 04:00:19",
-      "album": {
-        "name": "The Little Mess You Made",
-        "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
-      },
-      "artists": [
-        {
-          "name": "The Favors",
-          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        },
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 201284,
-      "name": "The Little Mess You Made",
-      "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
-    },
-    {
       "added_at": "2025-07-04 04:00:26",
       "album": {
         "name": "Before & After You",
@@ -769,22 +893,6 @@
       "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
     },
     {
-      "added_at": "2025-06-27 04:00:42",
-      "album": {
-        "name": "The Story Of Her",
-        "url": "https://open.spotify.com/album/75tjOIu7H7oDADE9f2lPBi"
-      },
-      "artists": [
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 263921,
-      "name": "The Story Of Her",
-      "url": "https://open.spotify.com/track/0aQjrUVN7Cdp9cxWa6t5oy"
-    },
-    {
       "added_at": "2025-06-24 03:22:41",
       "album": {
         "name": "The Promise",
@@ -831,22 +939,6 @@
       "duration_ms": 203076,
       "name": "Beautiful As You",
       "url": "https://open.spotify.com/track/0P51oa45K7TjmI6aYefQ2U"
-    },
-    {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg"
     },
     {
       "added_at": "2025-06-20 04:00:37",
@@ -1013,22 +1105,6 @@
       "url": "https://open.spotify.com/track/2C6SKNtpOB6bUwfHCFIadx"
     },
     {
-      "added_at": "2025-05-30 04:00:31",
-      "album": {
-        "name": "would've been you",
-        "url": "https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 183586,
-      "name": "would've been you",
-      "url": "https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu"
-    },
-    {
       "added_at": "2025-06-20 04:00:37",
       "album": {
         "name": "Tattoo (selective memory)",
@@ -1159,22 +1235,6 @@
     {
       "added_at": "2025-06-06 04:00:19",
       "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Best For Me",
-      "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
-    },
-    {
-      "added_at": "2025-06-06 04:00:19",
-      "album": {
         "name": "cozy you (and other nice songs)",
         "url": "https://open.spotify.com/album/2ASSjCHJDdOzKIgDkLkcgQ"
       },
@@ -1235,22 +1295,6 @@
       "duration_ms": 223202,
       "name": "Blisters",
       "url": "https://open.spotify.com/track/1A7PqR5g8ohmDNiv9lW3Ca"
-    },
-    {
-      "added_at": "2025-05-02 04:00:37",
-      "album": {
-        "name": "Old Phone",
-        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Old Phone",
-      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
     },
     {
       "added_at": "2025-06-20 04:00:37",
@@ -1315,22 +1359,6 @@
       "duration_ms": 167538,
       "name": "I miss you, I\u2019m sorry",
       "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
-    },
-    {
-      "added_at": "2025-05-23 00:00:25",
-      "album": {
-        "name": "Trampoline",
-        "url": "https://open.spotify.com/album/3zydVUwHpv30kPKdJd4SfK"
-      },
-      "artists": [
-        {
-          "name": "Ruby Roberts",
-          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
-        }
-      ],
-      "duration_ms": 274455,
-      "name": "Trampoline",
-      "url": "https://open.spotify.com/track/1xMOdQOD7bDhkRHG04FHDX"
     },
     {
       "added_at": "2025-05-30 04:00:31",
@@ -1445,22 +1473,6 @@
       "url": "https://open.spotify.com/track/0YyQ5ejNk4P8nwwOyreKzk"
     },
     {
-      "added_at": "2025-02-28 05:00:34",
-      "album": {
-        "name": "Next Summer",
-        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "Next Summer",
-      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
-    },
-    {
       "added_at": "2025-05-16 04:00:11",
       "album": {
         "name": "Nothing Magic",
@@ -1491,22 +1503,6 @@
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
-    },
-    {
-      "added_at": "2025-01-03 05:00:26",
-      "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
       "added_at": "2025-04-04 04:00:24",

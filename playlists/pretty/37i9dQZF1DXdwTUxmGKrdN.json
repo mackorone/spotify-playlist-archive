@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 447252,
+  "num_followers": 447327,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Revolving Door",
-        "url": "https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cooling",
-          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
-        }
-      ],
-      "duration_ms": 347013,
-      "name": "Revolving Door",
-      "url": "https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "Rite of Passage",
         "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 226666,
       "name": "Golden",
       "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Revolving Door",
+        "url": "https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cooling",
+          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
+        }
+      ],
+      "duration_ms": 347013,
+      "name": "Revolving Door",
+      "url": "https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "My Song for You",
+      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
         "name": "Bob Baldwin Presents: Abbey Road and The Beatles",
         "url": "https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c"
       },
@@ -591,38 +607,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
-      },
-      "artists": [
-        {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "My Song for You",
-      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "Forecast",
-        "url": "https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0"
-      },
-      "artists": [
-        {
-          "name": "Jazz Funk Soul",
-          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
-        }
-      ],
-      "duration_ms": 343213,
-      "name": "Keep Holding On",
-      "url": "https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "Soulmate",
         "url": "https://open.spotify.com/album/3gPvkf0kcggPPcxqXKYmvd"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 245000,
       "name": "Swing City",
       "url": "https://open.spotify.com/track/5MsQwkEceGOA8v9nrc5BnK"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Forecast",
+        "url": "https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0"
+      },
+      "artists": [
+        {
+          "name": "Jazz Funk Soul",
+          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
+        }
+      ],
+      "duration_ms": 343213,
+      "name": "Keep Holding On",
+      "url": "https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -899,18 +899,18 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "G-Stream",
-        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
+        "name": "Let's Have a Good Time",
+        "url": "https://open.spotify.com/album/4RvJ6FiVXoeWyepFOLWlVv"
       },
       "artists": [
         {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+          "name": "Braxton Brothers",
+          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
         }
       ],
-      "duration_ms": 260265,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
+      "duration_ms": 233819,
+      "name": "Let's Have a Good Time",
+      "url": "https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -931,34 +931,18 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Let's Have a Good Time",
-        "url": "https://open.spotify.com/album/4RvJ6FiVXoeWyepFOLWlVv"
+        "name": "G-Stream",
+        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
       },
       "artists": [
         {
-          "name": "Braxton Brothers",
-          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
         }
       ],
-      "duration_ms": 233819,
-      "name": "Let's Have a Good Time",
-      "url": "https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "Tim Bowman",
-        "url": "https://open.spotify.com/album/5WzwDaBCkfloJvg5zgbwkh"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 302814,
-      "name": "10. Soul Dream",
-      "url": "https://open.spotify.com/track/3WBkCYUDJB6dwixiOP6kPD"
+      "duration_ms": 260265,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -975,6 +959,22 @@
       "duration_ms": 241480,
       "name": "Three Dee",
       "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Tim Bowman",
+        "url": "https://open.spotify.com/album/5WzwDaBCkfloJvg5zgbwkh"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 302814,
+      "name": "10. Soul Dream",
+      "url": "https://open.spotify.com/track/3WBkCYUDJB6dwixiOP6kPD"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Sean Hector",
+          "url": "https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "Spray Bay",
+      "url": "https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
         "name": "The Gift Psychobass2",
         "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 299626,
       "name": "The B Spot",
       "url": "https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Sean Hector",
-          "url": "https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "Spray Bay",
-      "url": "https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
+        "name": "Eye Contact",
+        "url": "https://open.spotify.com/album/1MUDLRtMxjsbAByQ8tNQTD"
+      },
+      "artists": [
+        {
+          "name": "Jay Beckenstein",
+          "url": "https://open.spotify.com/artist/6eA7CikksulcpTewVtS8Ok"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Eye Contact",
+      "url": "https://open.spotify.com/track/37bPydtyElNj0AERSVzGMM"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
         "name": "Adriatic Flow",
         "url": "https://open.spotify.com/album/3jP7ViVs8srQs8tcV2OCy5"
       },
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Eye Contact",
-        "url": "https://open.spotify.com/album/1MUDLRtMxjsbAByQ8tNQTD"
-      },
-      "artists": [
-        {
-          "name": "Jay Beckenstein",
-          "url": "https://open.spotify.com/artist/6eA7CikksulcpTewVtS8Ok"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Eye Contact",
-      "url": "https://open.spotify.com/track/37bPydtyElNj0AERSVzGMM"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "Stylin'",
         "url": "https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 247346,
       "name": "Stylin'",
       "url": "https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "Gypsy Soul",
-        "url": "https://open.spotify.com/album/0WyQBIWa6UGuBRhq3IsKld"
-      },
-      "artists": [
-        {
-          "name": "Althea Rene",
-          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
-        }
-      ],
-      "duration_ms": 222747,
-      "name": "Gypsy Soul",
-      "url": "https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1291,6 +1275,22 @@
       "duration_ms": 314312,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Gypsy Soul",
+        "url": "https://open.spotify.com/album/0WyQBIWa6UGuBRhq3IsKld"
+      },
+      "artists": [
+        {
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
+        }
+      ],
+      "duration_ms": 222747,
+      "name": "Gypsy Soul",
+      "url": "https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/7xjP0qV8h62UHwown45INg"
-      },
-      "artists": [
-        {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
-        }
-      ],
-      "duration_ms": 292253,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "Velvet Groove",
         "url": "https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Shine!",
-        "url": "https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY"
+        "name": "Release",
+        "url": "https://open.spotify.com/album/7xjP0qV8h62UHwown45INg"
       },
       "artists": [
         {
-          "name": "Ben Tankard",
-          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
         }
       ],
-      "duration_ms": 242013,
-      "name": "Soulfood Sunday",
-      "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
+      "duration_ms": 292253,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -1511,6 +1495,22 @@
       "duration_ms": 267913,
       "name": "Sippin the Yak",
       "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Shine!",
+        "url": "https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY"
+      },
+      "artists": [
+        {
+          "name": "Ben Tankard",
+          "url": "https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Soulfood Sunday",
+      "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2079,6 +2079,26 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
+        "name": "Lavish",
+        "url": "https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p"
+      },
+      "artists": [
+        {
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+        },
+        {
+          "name": "Jordan Love",
+          "url": "https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9"
+        }
+      ],
+      "duration_ms": 257410,
+      "name": "Lavish",
+      "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
         "name": "Take This Ride",
         "url": "https://open.spotify.com/album/5YVME781lbKgHkGiYdMOQc"
       },
@@ -2095,22 +2115,6 @@
       "duration_ms": 200693,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/51WHHNT2v0XYUAWoBGeMdx"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/1gEIjtUpPwXR0VtbNONThq"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Floating World",
-      "url": "https://open.spotify.com/track/0ZUeaIWcAtNikrncaYwjHl"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2147,22 +2151,18 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Lavish",
-        "url": "https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p"
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/1gEIjtUpPwXR0VtbNONThq"
       },
       "artists": [
         {
-          "name": "Alex Parchment",
-          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
-        },
-        {
-          "name": "Jordan Love",
-          "url": "https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9"
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9"
         }
       ],
-      "duration_ms": 257410,
-      "name": "Lavish",
-      "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
+      "duration_ms": 201866,
+      "name": "Floating World",
+      "url": "https://open.spotify.com/track/0ZUeaIWcAtNikrncaYwjHl"
     },
     {
       "added_at": "2025-03-03 14:06:45",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2025-03-03 14:06:45",
       "album": {
-        "name": "Smooth Operators: Great Smooth Jazz Moments",
-        "url": "https://open.spotify.com/album/0fRFvT84F2MtzqccEsplpv"
-      },
-      "artists": [
-        {
-          "name": "Brian Tarquin",
-          "url": "https://open.spotify.com/artist/2giMW0q2qh3k6ZIrFEsux2"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "Charlemagne",
-      "url": "https://open.spotify.com/track/7IoguPlcKyVkf9t0nUE5YV"
-    },
-    {
-      "added_at": "2025-03-03 14:06:45",
-      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/6KmbBezsEykMwmMmxgqRuY"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 263493,
       "name": "Just Dance (feat. Dave Koz)",
       "url": "https://open.spotify.com/track/5S6EHC45If9NSN5jIHVzP1"
+    },
+    {
+      "added_at": "2025-03-03 14:06:45",
+      "album": {
+        "name": "Smooth Operators: Great Smooth Jazz Moments",
+        "url": "https://open.spotify.com/album/0fRFvT84F2MtzqccEsplpv"
+      },
+      "artists": [
+        {
+          "name": "Brian Tarquin",
+          "url": "https://open.spotify.com/artist/2giMW0q2qh3k6ZIrFEsux2"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "Charlemagne",
+      "url": "https://open.spotify.com/track/7IoguPlcKyVkf9t0nUE5YV"
     },
     {
       "added_at": "2025-03-03 14:06:45",

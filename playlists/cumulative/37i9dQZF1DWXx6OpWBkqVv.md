@@ -2,9 +2,9 @@
 
 ### [Indiespensável](https://open.spotify.com/playlist/37i9dQZF1DWXx6OpWBkqVv)
 
-> Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Strokes
+> Você já dançou muito essas músicas num inferninho insalubre\. Foto: Tame Impala
 
-145 songs - 9 hr 16 min
+146 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2022-01-20 | 2024-04-19 |
 | [Dog Days Are Over](https://open.spotify.com/track/0SzzPmWCx2jmTBxxRxeHe0) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Happy Pop Hits](https://open.spotify.com/album/76wKct7lPoAwqWpsK0udJt) | 4:12 | 2022-01-20 | 2022-11-13 |
 | [Dog Days Are Over](https://open.spotify.com/track/15ya59dZ8yGeIfZARiYDjd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(International Version\)](https://open.spotify.com/album/2Zm1iyTqpaIKqCCisX28Uk) | 4:12 | 2021-10-15 |  |
-| [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 | 2021-10-15 |  |
+| [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-25 |  |
+| [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 | 2021-10-15 | 2025-07-26 |
 | [Fall To Pieces](https://open.spotify.com/track/1rdkG7R3dHS2RI4Akk00zq) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [WE WERE THE WEIRDOS](https://open.spotify.com/album/5X9W0UYcGJbdVLIhztzfuH) | 3:54 | 2022-01-20 | 2024-04-19 |
 | [Fall To Pieces](https://open.spotify.com/track/4NLYbeiw8uqRQaVM5QFBfp) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [WE WERE THE WEIRDOS](https://open.spotify.com/album/254VNPxGdFoHEWAkgdwtnV) | 3:54 | 2021-10-15 |  |
 | [Fall To Pieces](https://open.spotify.com/track/7wi0NVbwEcmWHhM8yycQCq) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [2010s Alternative Pop For Kids](https://open.spotify.com/album/0Owyh7g4X9qv9kBNB4KLye) | 3:54 | 2022-01-20 | 2022-11-13 |

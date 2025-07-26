@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Dënver
+> Todo el sonido indie de Chile\. Foto: Casandra Paz y Kurmi
 
-543 songs - 1 day 8 hr 31 min
+545 songs - 1 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Eufrasia en el Desierto \- Demo](https://open.spotify.com/track/5mB4NbIA9lWbCx8emXhzm2) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [Eufrasia en el Desierto \(Demo\)](https://open.spotify.com/album/2Ac9xJEoseepEa8eR8Zgul) | 3:32 | 2023-07-07 | 2023-08-19 |
 | [Extrañarte Bonito](https://open.spotify.com/track/7tkHJ1MHMlMDRnGq7Er60B) | [María Compás](https://open.spotify.com/artist/4eEVhR6Pn7VusF04jeYxXP) | [Extrañarte Bonito](https://open.spotify.com/album/2OYAuIpEgAYwopGIAtsBc2) | 3:12 | 2022-04-15 | 2022-07-29 |
 | [Fachada Continua](https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Fachada Continua](https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR) | 4:06 | 2022-07-22 | 2025-05-31 |
+| [FANTA](https://open.spotify.com/track/3sgfOzoBtvoMq92GwcfCox) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [FANTA](https://open.spotify.com/album/6Y28lIexXiz5KrPjwLLk0b) | 3:42 | 2025-07-25 |  |
 | [Fantasma Encantador](https://open.spotify.com/track/0ZDwUoCh4BBGMo6jEVFWTy) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Fantasma Encantador](https://open.spotify.com/album/2KSnj4HOx7bzl7IjxKQbyQ) | 4:13 | 2022-04-15 | 2022-08-27 |
 | [Fargo](https://open.spotify.com/track/7m2q127NIf7fIsBo6UyYjF) | [Frucola Frappé](https://open.spotify.com/artist/4ZLUNtFI5oNh5xiEew8X2v) | [Fargo](https://open.spotify.com/album/3YunrwATPNb4lg5pXA8tPF) | 2:56 | 2022-04-15 | 2023-01-28 |
 | [Fauna](https://open.spotify.com/track/5psoojvi7byUFe64ualJqY) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Fauna](https://open.spotify.com/album/55jrTHJvi8JRdVUZlInVIq) | 3:55 | 2022-04-15 | 2022-07-27 |
@@ -253,6 +254,7 @@
 | [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2022-12-16 | 2024-06-29 |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-04-15 | 2025-05-31 |
 | [Labios de Miel](https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks) | [Adri Stuven](https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn) | [Labios de Miel](https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0) | 2:20 | 2023-08-18 | 2024-08-31 |
+| [Las cosas van a salir bien](https://open.spotify.com/track/1i4fMZwOFD6vbkilo0AOyK) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Las cosas van a salir bien](https://open.spotify.com/album/6ra3Qy3YdVwooWD5zeqIzM) | 3:33 | 2025-07-25 |  |
 | [Las Piedras](https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las Piedras](https://open.spotify.com/album/0f502VlRJBXXIcu3q780yK) | 4:01 | 2022-11-11 | 2024-04-20 |
 | [Las Vueltas](https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Las Vueltas](https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW) | 3:50 | 2022-08-19 | 2023-04-09 |
 | [Latina](https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Sukubito](https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy) | [Latina](https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR) | 3:07 | 2023-08-04 | 2023-08-25 |

@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart.
 
-179 songs - 10 hr 0 min
+181 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Better Days](https://open.spotify.com/track/0lDODiEwlOVoueiogf1Wi0) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Better Days](https://open.spotify.com/album/2sFyxrmHQhW31IcVLVEwnv) | 3:00 | 2024-02-09 |  |
 | [Better Man](https://open.spotify.com/track/7i4YoswtDTbiLd6AWc0Ep0) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For? +](https://open.spotify.com/album/3uHzOYpGyy06LsIfBi4r9e) | 3:09 | 2023-09-15 |  |
 | [Better Place](https://open.spotify.com/track/3e1NZPkmRK1w4DujhS5j7G) | [Jonah Marais](https://open.spotify.com/artist/4h3Go7Vr34F8zzGvEFj9P8) | [Better Place](https://open.spotify.com/album/0feuFfcFRJpFFqx3lclxoi) | 3:11 | 2025-03-21 |  |
-| [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-05-27 |  |
+| [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-05-27 | 2025-07-26 |
 | [Brave](https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave](https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql) | 3:21 | 2023-01-04 | 2025-06-28 |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-01-04 | 2024-12-07 |
 | [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf) | 2:50 | 2023-01-28 | 2024-12-14 |
@@ -43,7 +43,9 @@
 | [Don't Give Up On Me](https://open.spotify.com/track/0fiijtFXDJ9MOVwgSaEQJ5) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naïve](https://open.spotify.com/album/4NkgzNCOzuki4FuWUOY28R) | 3:16 | 2023-09-29 | 2024-04-19 |
 | [Don't Give Up On Me \- \(From "Five Feet Apart"\)](https://open.spotify.com/track/5A3fPy30SN2wuzrahpcxvV) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 3:16 | 2023-01-04 |  |
 | [Dusty Bibles](https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Dusty Bibles](https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO) | 3:10 | 2025-06-20 |  |
+| [ENOUGH.](https://open.spotify.com/track/5uvnq6j5kdofhXoPuuoIqF) | [SNACKTIME](https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr) | [ENOUGH.](https://open.spotify.com/album/3W6u3zgrFAPb6kZ5hwMxUF) | 3:48 | 2025-07-25 |  |
 | [feel it now \(alive\)](https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [chapter of me](https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol) | 3:31 | 2023-04-30 | 2024-07-02 |
+| [First Time On Earth](https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:41 | 2025-07-25 |  |
 | [Flowers](https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Flowers](https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw) | 3:44 | 2024-09-20 |  |
 | [Follow Me](https://open.spotify.com/track/39BRQDkqjcezvjud5PqYgQ) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Follow Me](https://open.spotify.com/album/4NvCP1MvPsO8FFYmD7pQiV) | 2:36 | 2023-01-04 | 2023-04-09 |
 | [Footprints](https://open.spotify.com/track/7LNAzNyUgpZklrVCVwg70i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:13 | 2023-01-04 | 2025-03-01 |
@@ -160,7 +162,7 @@
 | [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 | 2023-05-12 | 2023-09-29 |
 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 | 2024-02-09 |  |
 | [This Life](https://open.spotify.com/track/2RufuE33URrDwlsX5frkNS) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [This Life](https://open.spotify.com/album/5qpWnisdd8hhGmgAa3p1Yy) | 3:02 | 2025-06-06 |  |
-| [Time To Make A Change \(feat\. MonoNeon\)](https://open.spotify.com/track/3Ln9vpfeUYCtb73kkF6Ldn) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [The Beginning](https://open.spotify.com/album/3Uy5319iFlPvzKtUGCwUrQ) | 3:41 | 2025-02-21 |  |
+| [Time To Make A Change \(feat\. MonoNeon\)](https://open.spotify.com/track/3Ln9vpfeUYCtb73kkF6Ldn) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [The Beginning](https://open.spotify.com/album/3Uy5319iFlPvzKtUGCwUrQ) | 3:41 | 2025-02-21 | 2025-07-26 |
 | [Try](https://open.spotify.com/track/6buXDkw3Gv4fQC1OZKUhnR) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Gypsy Heart](https://open.spotify.com/album/5nB5tR7ntrEpHbpCS7iHN9) | 3:44 | 2023-01-18 |  |
 | [Unsung Hero](https://open.spotify.com/track/6wKCMaczSlS2V3Vv7mSgNA) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Unsung Hero](https://open.spotify.com/album/0aX8EfgrGeSWvYN4XN2SOv) | 3:31 | 2023-01-04 | 2023-09-16 |
 | [Up](https://open.spotify.com/track/53Qec9qsCfbzcXUCiEkfq4) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Up](https://open.spotify.com/album/0xwpeyyjply5M7AHR2ksx3) | 2:57 | 2023-01-04 |  |

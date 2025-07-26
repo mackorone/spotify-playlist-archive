@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 
 > This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,348 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,366 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 31 | [Seu Amor](https://open.spotify.com/track/0MUqcBCI1UV1LezKrBh7dG) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Seu Amor](https://open.spotify.com/album/08J3DhJqaCRwIGeIZL7FBl) | 3:12 |
 | 32 | [Braços de Amor](https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Braços de Amor](https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig) | 5:32 |
 | 33 | [Processo](https://open.spotify.com/track/1YVzZ98wN0QQB19fP6M4Tq) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 4:25 |
-| 34 | [Tu És Tudo](https://open.spotify.com/track/674Ta2OaFPdY3dTJpTsZz6) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Léo Brandão](https://open.spotify.com/artist/4iES52Byxso34updxU3z1s) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 12:53 |
-| 35 | [Não Há o Que Temer](https://open.spotify.com/track/0OF4D4FGn9epxkXAJKFD86) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Não Há o Que Temer](https://open.spotify.com/album/7eTkm4rpXnIKxfbQXSIIoQ) | 4:12 |
+| 34 | [Não Há o Que Temer](https://open.spotify.com/track/0OF4D4FGn9epxkXAJKFD86) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Não Há o Que Temer](https://open.spotify.com/album/7eTkm4rpXnIKxfbQXSIIoQ) | 4:12 |
+| 35 | [Tu És Tudo](https://open.spotify.com/track/674Ta2OaFPdY3dTJpTsZz6) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Léo Brandão](https://open.spotify.com/artist/4iES52Byxso34updxU3z1s) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 12:53 |
 | 36 | [Minha Alma Te Ama \(Ao Vivo\)](https://open.spotify.com/track/10x8UTJcYEh4r7hLKj1Emi) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 5:54 |
 | 37 | [Em Troca](https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 4:36 |
 | 38 | [Tu És Santo](https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tu És Santo](https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 49 | [Bem Perto \- Ao Vivo](https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bem Perto \(Ao Vivo\)](https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq) | 7:06 |
 | 50 | [Nem um Segundo](https://open.spotify.com/track/24ysyfP1NMECUqR99vxIPz) | [Gabriel Pompeo](https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nem um Segundo](https://open.spotify.com/album/257FnV6wwMk9RJx9GTQ6te) | 5:49 |
 
-Snapshot ID: `aIAmAAAAAACDVpfpOLyrOAzbU5jgkRKS`
+Snapshot ID: `aIF3gAAAAABGJhB4pZOUAGGTbcHQp4wC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 
 > This is BNXN\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,691 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,726 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 17 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 |
 | 18 | [Romeo Must Die \(RMD\)](https://open.spotify.com/track/4EoYs4KY7oHQpJPTuxD7mU) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 |
 | 19 | [Set Up](https://open.spotify.com/track/7dTEOkCQWc8YuHjuaSolSX) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:04 |
-| 20 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 |
-| 21 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 |
+| 20 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 |
+| 21 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 |
 | 22 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 |
 | 23 | [Captain](https://open.spotify.com/track/51yPymXsGbEyh7InU6yRJP) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:21 |
 | 24 | [Regret \(feat\. 2Baba\)](https://open.spotify.com/track/4RkuFGsIae9AGdGnxIQTGx) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:14 |
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 38 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 |
 | 39 | [I Do](https://open.spotify.com/track/3pzAmz9wv1xkzxWWcDh0QR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sorry I'm Late](https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u) | 2:43 |
 | 40 | [Your Body \(feat\. Buju\)](https://open.spotify.com/track/4McaZmsBZNV4sa7DzNYDFD) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Horoscopes](https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF) | 2:10 |
-| 41 | [Modupe](https://open.spotify.com/track/36K05kVkROaAvURHCGJyYb) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:54 |
+| 41 | [Kenkele](https://open.spotify.com/track/0mb1o4mFhrcPHivtlVNCGD) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:34 |
 | 42 | [No Spoil My Steeze](https://open.spotify.com/track/7vT1tAmx5F8P2Fat7gqsZz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [No Spoil My Steeze](https://open.spotify.com/album/7keuk7sJUYxoVCDaZTeve6) | 3:31 |
 | 43 | [Come Alive](https://open.spotify.com/track/7j2XUgQz7PLCUPzUStwOJf) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 3:20 |
 | 44 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 |
-| 45 | [Kenkele](https://open.spotify.com/track/0mb1o4mFhrcPHivtlVNCGD) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:34 |
+| 45 | [Modupe](https://open.spotify.com/track/36K05kVkROaAvURHCGJyYb) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:54 |
 | 46 | [Hustle](https://open.spotify.com/track/1IcnpAY3JjK8b0dkpCZjdS) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [ATSG, Vol\. 1](https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn) | 3:09 |
 | 47 | [Love Made Me Do It](https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Love Made Me Do It](https://open.spotify.com/album/09afloJIDVkuukH5f0Puo2) | 3:16 |
 | 48 | [Party Monster](https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:55 |
 
-Snapshot ID: `aIAmAAAAAADqgFyJLu8Xl5a3baRUG30O`
+Snapshot ID: `aIF3gAAAAADvH2qGvxdDLxWJ27GlFFLN`

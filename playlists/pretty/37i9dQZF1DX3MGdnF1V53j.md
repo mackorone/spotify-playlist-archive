@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > Oualid on the cover of Habibi Gang Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,955 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,979 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 68 | [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 |
 | 69 | [Niks Persoonlijks](https://open.spotify.com/track/7bxFIHG0ULALzcupONGVWc) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Niks Persoonlijks](https://open.spotify.com/album/4Eyx66Hc6RfGpCw59BhbqH) | 2:42 |
 | 70 | [Vendetta](https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Vendetta](https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao) | 2:23 |
-| 71 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 |
+| 71 | [Moutou Bsem](https://open.spotify.com/track/4xyMI0k4zyWXN8oNui3Xhg) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Moutou Bsem](https://open.spotify.com/album/6anhHh6CZ2YqX3d9Sz11BA) | 2:30 |
 | 72 | [Arif Inou](https://open.spotify.com/track/6ycqSprB2ImMdNtnVuVj9N) | [Riffi](https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ) | [Misn Tchar](https://open.spotify.com/album/2eYtcDiTeXBoWJM4DdkCZV) | 2:26 |
 | 73 | [Salam](https://open.spotify.com/track/5CUJniXQzNd6p6fQgRP8FL) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Moha K](https://open.spotify.com/album/1AwiOYudehZhlwbAFDOflJ) | 2:21 |
-| 74 | [Moutou Bsem](https://open.spotify.com/track/4xyMI0k4zyWXN8oNui3Xhg) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Moutou Bsem](https://open.spotify.com/album/6anhHh6CZ2YqX3d9Sz11BA) | 2:30 |
+| 74 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 |
 | 75 | [Biba Lik](https://open.spotify.com/track/0xCCEI4yTTaaTI49eQjlc7) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Biba Lik](https://open.spotify.com/album/6rYWKDsT3UEg5dSRt2TeD4) | 2:06 |
 | 76 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 |
 | 77 | [Triq Salama](https://open.spotify.com/track/4Z9koEpZf88mBXSoeV5aPO) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Triq Salama](https://open.spotify.com/album/3Z1THnQmX5vP8riVMtjDSp) | 2:22 |
-| 78 | [Amour De Ma Vie \(Nmout 3liek\)](https://open.spotify.com/track/6ot0Ttc1m1nw5z4Tipggk9) | [Roukss](https://open.spotify.com/artist/4L3YwGjW2Hq8Ar7LWCno0o) | [Amour De Ma Vie \(Nmout 3liek\)](https://open.spotify.com/album/0TaXS9dzvNl05NN9XdGCxV) | 2:00 |
-| 79 | [Lik Ou Lia](https://open.spotify.com/track/2snEwuyP4QCZC5y97R67hb) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Lik Ou Lia](https://open.spotify.com/album/5hYp2FUgUepi7Ekm7NKfI5) | 2:18 |
+| 78 | [Lik Ou Lia](https://open.spotify.com/track/2snEwuyP4QCZC5y97R67hb) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Lik Ou Lia](https://open.spotify.com/album/5hYp2FUgUepi7Ekm7NKfI5) | 2:18 |
+| 79 | [Amour De Ma Vie \(Nmout 3liek\)](https://open.spotify.com/track/6ot0Ttc1m1nw5z4Tipggk9) | [Roukss](https://open.spotify.com/artist/4L3YwGjW2Hq8Ar7LWCno0o) | [Amour De Ma Vie \(Nmout 3liek\)](https://open.spotify.com/album/0TaXS9dzvNl05NN9XdGCxV) | 2:00 |
 | 80 | [Ma Beauté](https://open.spotify.com/track/5LUoVGfKb1eYwVvAIB1RxB) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Ma Beauté](https://open.spotify.com/album/20ADCU0OoQzdlPylKnGepx) | 3:01 |
 
 Snapshot ID: `aHBB5AAAAAApv2JUIAkQgDy3dzNeY6bH`

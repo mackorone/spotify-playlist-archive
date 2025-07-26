@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 333952,
+  "num_followers": 334039,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAB3wt3MM874vYMTaWkjYHNi",
+  "snapshot_id": "aIF3gAAAAAAPZ3qXnCcbEVGQvs2IQNzF",
   "tracks": [
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo De Amor",
-        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
+        "name": "Jugo A La Vida",
+        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 169440,
-      "name": "Mundo De Amor",
-      "url": "https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd"
+      "duration_ms": 224933,
+      "name": "La Chica Sexy",
+      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jugo A La Vida",
-        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
+        "name": "Mundo De Amor",
+        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 224933,
-      "name": "La Chica Sexy",
-      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
+      "duration_ms": 169440,
+      "name": "Mundo De Amor",
+      "url": "https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imperio",
-        "url": "https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 191613,
-      "name": "El Regreso Del Chapo",
-      "url": "https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Plat\u00f3nico",
         "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 197013,
       "name": "Desde Que Te Amo",
       "url": "https://open.spotify.com/track/51FDXDr71U8e9D7Umn9V6r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imperio",
+        "url": "https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 191613,
+      "name": "El Regreso Del Chapo",
+      "url": "https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 141871,
+      "name": "El Jefe X",
+      "url": "https://open.spotify.com/track/3Hz5spi5hUGARyqggjkz2L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Mas Buscados",
         "url": "https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh"
       },
@@ -787,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+        "name": "Corridos Time \u2013 Season Three \"Comandante En Jefe\"",
+        "url": "https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb"
       },
       "artists": [
         {
@@ -796,9 +812,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 141871,
-      "name": "El Jefe X",
-      "url": "https://open.spotify.com/track/3Hz5spi5hUGARyqggjkz2L"
+      "duration_ms": 173417,
+      "name": "La Captura III",
+      "url": "https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 216256,
       "name": "Me Gusta Vivir De Noche (En Vivo)",
       "url": "https://open.spotify.com/track/2tJGoNNJZ6Vi0wBwiFUPSG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Time \u2013 Season Three \"Comandante En Jefe\"",
-        "url": "https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 173417,
-      "name": "La Captura III",
-      "url": "https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD"
     },
     {
       "added_at": null,

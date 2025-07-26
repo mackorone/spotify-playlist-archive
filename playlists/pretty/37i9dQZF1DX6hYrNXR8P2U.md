@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > porque sí.<br/>📷 MARTTEIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,499 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,507 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PIZZA PARTY \(with Six Sex\)](https://open.spotify.com/track/6R3NX7RBEqt2552Wr0AeIj) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [ESPECTACULAR](https://open.spotify.com/album/60cgkcmF1mxBx2fiB0rz5U) | 2:40 |
+| 1 | [PIZZA PARTY](https://open.spotify.com/track/6R3NX7RBEqt2552Wr0AeIj) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [ESPECTACULAR](https://open.spotify.com/album/60cgkcmF1mxBx2fiB0rz5U) | 2:40 |
 | 2 | [alguien que yo no es](https://open.spotify.com/track/6bNKsd0yqRy9GNOBr8H3X5) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [alguien que yo no es](https://open.spotify.com/album/2mxwzclwG1xq9lh1dLjsFB) | 2:57 |
 | 3 | [quereme](https://open.spotify.com/track/4lUdpTa3Jnruu4oYlQnLrg) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [quereme](https://open.spotify.com/album/1ii4MjyB8C12pqjUIyhOkS) | 2:09 |
 | 4 | [yolo](https://open.spotify.com/track/0oOo4j4cdoi0C7B5LuThc6) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [mvrk](https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0) | [yolo](https://open.spotify.com/album/6V0jRhF296KF9Dve1HPFRO) | 4:02 |

@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Saweetie
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: BunnaB
 
-697 songs - 1 day 7 hr 15 min
+698 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 | 2025-01-24 | 2025-04-05 |
 | [Feelin’ Sexy](https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:01 | 2022-03-04 | 2022-07-23 |
 | [Fine Shit](https://open.spotify.com/track/5Bx56ljKGDDZ4CpjBO0CLJ) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Fine Shit](https://open.spotify.com/album/74rSU0L1zjIVR15DJ2HehY) | 2:41 | 2025-06-20 | 2025-07-12 |
+| [Fine Shyt](https://open.spotify.com/track/3vKwu0KC7H6c571CAOpjo3) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Fine Shyt](https://open.spotify.com/album/0c8jxGUF4gXdO0N2RXvY6I) | 2:40 | 2025-07-25 |  |
 | [First](https://open.spotify.com/track/3SEmYQXL6TYQ6keii5TUiN) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [First](https://open.spotify.com/album/2yVoj5oLa2LwoRQfYmhYpj) | 2:44 | 2024-12-20 | 2025-05-24 |
 | [First \(Remix\)](https://open.spotify.com/track/5bp8lzqdJpsU8PC5jTpD7G) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [First \(Remix\)](https://open.spotify.com/album/2K1Ab2BbAmce2hsw07w7Dk) | 2:44 | 2025-05-23 |  |
 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 | 2023-02-03 | 2023-04-22 |
@@ -265,7 +266,7 @@
 | [Gotsta Get Paid](https://open.spotify.com/track/05NtQ4hY7LiPApiQrA5P5c) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Gotsta Get Paid](https://open.spotify.com/album/0NKxUky8rIoZ2fTeXEIMku) | 3:30 | 2022-10-08 | 2023-01-28 |
 | [Gravity](https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Gravity](https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu) | 2:14 | 2022-04-15 | 2022-07-30 |
 | [Grip](https://open.spotify.com/track/1tHYeRTwPlHkKV3uOY0uSm) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 3:16 | 2023-11-17 | 2024-06-15 |
-| [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/album/2k7JIjZOh96oTcKAgK3rlp) | 2:52 | 2025-04-25 |  |
+| [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Gripper \(feat\. T\-Pain\)](https://open.spotify.com/album/2k7JIjZOh96oTcKAgK3rlp) | 2:52 | 2025-04-25 | 2025-07-26 |
 | [GTFO](https://open.spotify.com/track/61vp2Gh0Ggz9tWHqe8vEQQ) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [KUNTFETISH](https://open.spotify.com/artist/3g3F7yWVfcFrd0aO2VXTXW) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:40 | 2024-08-30 | 2024-09-28 |
 | [Gun](https://open.spotify.com/track/15sNe8FD178zMsVz6ug0AS) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:56 | 2023-09-22 | 2023-09-30 |
 | [GYAT](https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! \(Bonus\)](https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK) | 1:54 | 2024-08-02 | 2024-08-08 |

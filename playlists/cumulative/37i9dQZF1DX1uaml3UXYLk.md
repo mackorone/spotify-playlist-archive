@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-738 songs - 1 day 19 hr 29 min
+739 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Chapters](https://open.spotify.com/track/5AeCyaQbjvnCKenrCYoZiy) | [Mos Becka](https://open.spotify.com/artist/2OlHuqEXZbePEmtsVP9Xlk) | [Chapters](https://open.spotify.com/album/5vZslmR5nRPc4d7xCptO9M) | 2:33 | 2025-04-25 |  |
 | [Chasing the Now](https://open.spotify.com/track/63ypmPFNZJXv4SgTtsPdG3) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Chasing The Now](https://open.spotify.com/album/4RDnaZuk2ZBBZORVqVdrYT) | 2:27 | 2021-11-10 | 2022-04-06 |
 | [Cheerful Gecko](https://open.spotify.com/track/1Czt8WIBLWwHqRwxvUBnUS) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Cheerful Gecko](https://open.spotify.com/album/7KQccSlxHaRNIX9eJ1IZMP) | 2:24 | 2021-07-09 | 2021-08-25 |
-| [Cheers Mate](https://open.spotify.com/track/2p7HOQKGCmhqygolKziWKb) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [New Start](https://open.spotify.com/album/2UcZ7xUeS17aNKDVyORQrf) | 3:17 | 2022-10-28 |  |
+| [Cheers Mate](https://open.spotify.com/track/2p7HOQKGCmhqygolKziWKb) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [New Start](https://open.spotify.com/album/2UcZ7xUeS17aNKDVyORQrf) | 3:17 | 2022-10-28 | 2025-07-26 |
 | [Chihiro](https://open.spotify.com/track/092E6eXdo0UbGyDk0CjNTi) | [TOMATOSLICE](https://open.spotify.com/artist/6EqyBfmaGsykcIF15BCATj) | [Chihiro](https://open.spotify.com/album/3qlSKN4HP5Q3tV8Wlx2LID) | 5:10 | 2020-12-24 | 2023-04-29 |
 | [Chinook](https://open.spotify.com/track/0m3Ssbp73eDEtjIoPGqNis) | [Alfa State](https://open.spotify.com/artist/09XYEnqYotzkQdZIyltRtW), [Mystic District](https://open.spotify.com/artist/2PDVBt3lvTrglJpt2yYGaF) | [Chinook EP](https://open.spotify.com/album/4bhtTw2nU27UZEpxHH4RfG) | 7:26 | 2020-12-24 | 2021-01-15 |
 | [Chlorine](https://open.spotify.com/track/1B8IrVSNTA8KgHG8MJQaH1) | [Swank Doral](https://open.spotify.com/artist/1zgVVdHt2QiytBSufPLLaV) | [Chlorine](https://open.spotify.com/album/4SCPxSvn4cdrjeZSHSfnMY) | 2:59 | 2021-08-25 | 2024-12-07 |
@@ -152,6 +152,7 @@
 | [Dancing On The Ceiling](https://open.spotify.com/track/4i9EX3daDLV0qiWOROKCUJ) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [Dancing On The Ceiling](https://open.spotify.com/album/1t1lPrpOtT685DdfsWwIuz) | 3:51 | 2023-01-13 | 2023-12-02 |
 | [Dancing with Taylor](https://open.spotify.com/track/36PqpImKv4HV6ueNoR0o9s) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Dancing with Taylor](https://open.spotify.com/album/4bLhdFsywgLO3Hup4H4Qan) | 3:01 | 2023-10-12 |  |
 | [Dawncaller](https://open.spotify.com/track/68RwfkkJ1VFOr5g3Apeif7) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Raincaller](https://open.spotify.com/album/0ZHvIq9zoftFWPbBeRpgVc) | 4:04 | 2020-10-20\* | 2021-05-13 |
+| [Dayglow](https://open.spotify.com/track/4bes7ffMOJqS54hbUD8rKe) | [Alba Petersen](https://open.spotify.com/artist/7iAYNShn0GIFTAUqxabBWb) | [Dayglow](https://open.spotify.com/album/3hsi2iHQOSaYlrXii69cN0) | 2:31 | 2025-07-25 |  |
 | [Decaffeinate](https://open.spotify.com/track/1ymZ0HDx1YilCVx7knG9pA) | [Il Greco](https://open.spotify.com/artist/6akppwCmIdXMHpXWXzYTyp) | [Decaffeinate](https://open.spotify.com/album/7eH50RGuoYqhD45MCtxYQR) | 2:14 | 2024-09-02 | 2025-05-17 |
 | [Deep Forest](https://open.spotify.com/track/1wVd0OZYD1aUQfqwwJqf7U) | [TOMATOSLICE](https://open.spotify.com/artist/6EqyBfmaGsykcIF15BCATj) | [Deep Forest](https://open.spotify.com/album/0efSrTP5Bp6QsyZdUJV6rj) | 5:18 | 2020-12-24 | 2021-01-29 |
 | [Deep in a Dream](https://open.spotify.com/track/36Dn2xN9wrCfVSGu4NlJBu) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Don’t Stop](https://open.spotify.com/album/7sQFQyKIQL2CSrRCqqkszF) | 6:05 | 2021-05-13 | 2021-10-16 |
@@ -719,7 +720,7 @@
 | [Walking Over Me](https://open.spotify.com/track/7uYmG1Vxxr2FXcm78VwTBT) | [Zetbee](https://open.spotify.com/artist/7ju7u4UaASOSjl2Vm53ulN) | [Crossed Signals, Vol\. 11](https://open.spotify.com/album/3t6MUWKVa7P5AFtvzgpSeU) | 6:37 | 2021-01-29 | 2021-02-20 |
 | [Wanderer](https://open.spotify.com/track/094OMEwMng6XcwsSMFUKWi) | [Contrapad](https://open.spotify.com/artist/71Zfyo2kB4HlEexwmxQMv3) | [Wanderer](https://open.spotify.com/album/5859wmoAVfWKUfz6wtaVol) | 3:41 | 2021-03-25 | 2021-05-13 |
 | [Wasteland](https://open.spotify.com/track/2kAwg7vRS4UUWk22C8wSDW) | [Luminez](https://open.spotify.com/artist/2F4pWWLPG7lbACO3RUBjoQ) | [Wasteland](https://open.spotify.com/album/4E1xn71M3fVIG6vR0XARh5) | 2:51 | 2024-05-11 |  |
-| [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2021-11-10 |  |
+| [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2021-11-10 | 2025-07-26 |
 | [Waves](https://open.spotify.com/track/7xOeXABPteFfNMEkfEe1aM) | [Deep Sea Society](https://open.spotify.com/artist/3zpqPg4vtWY6cauB9Zhf0t) | [Waves](https://open.spotify.com/album/0CzWJtpffg6ZxlLXFts2SU) | 2:14 | 2022-10-07 |  |
 | [Waves](https://open.spotify.com/track/0Cwy4AdLBb64wlApgt8bJJ) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Waves](https://open.spotify.com/album/4bv7lRMyncfhmG9umIif8N) | 2:50 | 2022-10-14 | 2025-01-18 |
 | [Weighted](https://open.spotify.com/track/469uSkgXM3zccp9Oz9ykJo) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Weighted](https://open.spotify.com/album/6NIy3wI2JPiGxTfwTePCPp) | 6:57 | 2021-01-21 | 2021-06-23 |

@@ -1,29 +1,13 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 816491,
+  "num_followers": 816704,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAACy8ueZea7Add/ClxlwTASM",
+  "snapshot_id": "aIF3gAAAAAAvtFZMAevWCrp1YYuc1z5V",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/1jmda3z2yVf18leBFpEEDQ"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 211250,
-      "name": "Porque La Demora",
-      "url": "https://open.spotify.com/track/0Dau6menNiCeTqyqGSNgMt"
-    },
     {
       "added_at": null,
       "album": {
@@ -258,15 +242,11 @@
         {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
         }
       ],
-      "duration_ms": 219008,
-      "name": "Bellakita",
-      "url": "https://open.spotify.com/track/4tSrGUb119Qx4sAZBzfFgd"
+      "duration_ms": 211250,
+      "name": "Porque La Demora",
+      "url": "https://open.spotify.com/track/6Y9DeC4Z9R9scRPg7r11pl"
     },
     {
       "added_at": null,
@@ -338,11 +318,15 @@
         {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
         }
       ],
-      "duration_ms": 193625,
-      "name": "Dejala Brillar",
-      "url": "https://open.spotify.com/track/5mzvQrEwseEysuoLbNIn0t"
+      "duration_ms": 219008,
+      "name": "Bellakita",
+      "url": "https://open.spotify.com/track/4tSrGUb119Qx4sAZBzfFgd"
     },
     {
       "added_at": null,
@@ -410,15 +394,11 @@
         {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
         }
       ],
-      "duration_ms": 259613,
-      "name": "Comida del Espacio",
-      "url": "https://open.spotify.com/track/6tt6gB21asRxACQLt5qc4r"
+      "duration_ms": 193625,
+      "name": "Dejala Brillar",
+      "url": "https://open.spotify.com/track/5mzvQrEwseEysuoLbNIn0t"
     },
     {
       "added_at": null,
@@ -500,17 +480,13 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Ganggy",
-          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
         }
       ],
-      "duration_ms": 260751,
-      "name": "El Juez",
-      "url": "https://open.spotify.com/track/23QWj1JRJdtdBv1uyjN9Yx"
+      "duration_ms": 259613,
+      "name": "Comida del Espacio",
+      "url": "https://open.spotify.com/track/6tt6gB21asRxACQLt5qc4r"
     },
     {
       "added_at": null,
@@ -567,6 +543,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMG",
+        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 174942,
+      "name": "AMG",
+      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -603,30 +603,6 @@
       "duration_ms": 116455,
       "name": "Seca Tus Lagrimas",
       "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMG",
-        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 174942,
-      "name": "AMG",
-      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
     },
     {
       "added_at": null,
@@ -775,22 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gallos Y Caballos",
-        "url": "https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl"
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
       "artists": [
         {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 158543,
-      "name": "Gallos Y Caballos",
-      "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
+      "duration_ms": 150000,
+      "name": "Nataaoki",
+      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
     },
     {
       "added_at": null,
@@ -831,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gallos Y Caballos",
+        "url": "https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 158543,
+      "name": "Gallos Y Caballos",
+      "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Boss",
         "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
       },
@@ -847,26 +843,6 @@
       "duration_ms": 225212,
       "name": "El Boss",
       "url": "https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Nataaoki",
-      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
     },
     {
       "added_at": null,
@@ -955,6 +931,26 @@
       "duration_ms": 188000,
       "name": "LOU LOU",
       "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Me Importa",
+        "url": "https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 208541,
+      "name": "Que Me Importa",
+      "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
     }
   ],
   "unique_name": "This Is Natanael Cano",

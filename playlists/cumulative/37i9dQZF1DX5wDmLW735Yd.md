@@ -4,12 +4,12 @@
 
 > The world's biggest Drum 'n' Bass playlist! Cover: Friction
 
-968 songs - 2 day 9 hr 25 min
+969 songs - 2 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18 & Over](https://open.spotify.com/track/70AaGg3ZxPu5l59n1Wltcq) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/27l2BTUmETSHmFQwsZyzTa) | 3:38 | 2022-08-24 | 2022-09-02 |
-| [180](https://open.spotify.com/track/0UqsW3JHq6A3FZWM5CEqPW) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [BASSLOVE \- MORE BASS🔉MORE LOVE♥️](https://open.spotify.com/album/4KSvU2vXKsEz9cr37ifInS) | 2:36 | 2025-03-07 |  |
+| [180](https://open.spotify.com/track/0UqsW3JHq6A3FZWM5CEqPW) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [BASSLOVE \- MORE BASS🔉MORE LOVE♥️](https://open.spotify.com/album/4KSvU2vXKsEz9cr37ifInS) | 2:36 | 2025-03-07 | 2025-07-26 |
 | [20 Man Down \(feat\. MIST & IRAH\)](https://open.spotify.com/track/7HSeit0S7nIesXQxzSo4J0) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/7ulR92DBITX0dUtEudbxJQ) | 3:22 | 2023-12-27 | 2024-01-05 |
 | [2Drill](https://open.spotify.com/track/4RfQl2zZ3zEtti8kLIzyWo) | [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [2Drill](https://open.spotify.com/album/7bNWXBi54NVtGOq19S8TOM) | 3:29 | 2023-12-27 | 2024-01-05 |
 | [4 Me](https://open.spotify.com/track/26bL8XQSyFjdWUhwO9de8J) | [Harriet Jaxxon](https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu) | [Stop Me](https://open.spotify.com/album/2wDHaqeiIA86LISpFzcVpE) | 2:09 | 2025-07-24 |  |
@@ -950,6 +950,7 @@
 | [Where’s Your Head At \- 1991 Remix](https://open.spotify.com/track/3MX0TGUzniV9GiEVEcjNqB) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Where’s Your Head At \(1991 Remix\)](https://open.spotify.com/album/5vM3XAAZfBj2MBkkFvA0jm) | 3:36 | 2022-04-08 | 2022-07-29 |
 | [White Noise](https://open.spotify.com/track/5MsnXwlc53vv0ym7NPw5gh) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [White Noise](https://open.spotify.com/album/2oXZn3B3jk9U1KTINe6qQa) | 3:07 | 2023-04-27 | 2023-12-27 |
 | [Why](https://open.spotify.com/track/6gK1cexnehRletQSMQugpK) | [Scar](https://open.spotify.com/artist/3h1BGAVAPHZV1PYAOPOyDm) | [Why \- EP](https://open.spotify.com/album/2e7DdztVwRtocwwnfHf7aD) | 5:14 | 2022-04-08 | 2022-04-21 |
+| [Why Can't It Always Be Like This](https://open.spotify.com/track/3W1kgexqXUKZr38D5lkdN5) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Why Can't It Always Be Like This](https://open.spotify.com/album/1LM36Uz1olawfBTZvC78f0) | 3:02 | 2025-07-25 |  |
 | [Wicked](https://open.spotify.com/track/1z2R2oYSbfQQYW4CI4Fh1c) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Wicked](https://open.spotify.com/album/08d5NodqOXXHofa4dzkWK9) | 3:16 | 2023-05-26 | 2023-06-17 |
 | [Wicked & Bad](https://open.spotify.com/track/29Q5RgWKJFf2SvlKuMgqWV) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Wicked & Bad](https://open.spotify.com/album/4T5Q0KhJLcB7PwtQJCm2NT) | 2:45 | 2025-01-17 | 2025-06-14 |
 | [Wicked & Dark](https://open.spotify.com/track/75LJrHZSecCSZoRiQWIgzA) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Wicked & Dark](https://open.spotify.com/album/0M2y4miuIWfGsUnQ9prMdW) | 3:10 | 2024-11-15 | 2025-04-25 |

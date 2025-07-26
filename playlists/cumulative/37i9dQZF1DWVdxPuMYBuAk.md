@@ -228,6 +228,6 @@
 | [You're All I Need to Make It](https://open.spotify.com/track/1aAKe7L1OKsoXJHqy8uMwH) | [Johnson, Hawkins, Tatum & Durr](https://open.spotify.com/artist/3eobivfx0tOH94jFekNtaG) | [Eccentric Soul: The Capsoul Label](https://open.spotify.com/album/04D0mW6vcrkyirMVF7x1cy) | 3:18 | 2022-02-09 | 2023-05-19 |
 | [You're All I Need to Make It](https://open.spotify.com/track/2XbF6EvqVqMR8ImThZUHqy) | [Johnson, Hawkins, Tatum & Durr](https://open.spotify.com/artist/3eobivfx0tOH94jFekNtaG) | [Eccentric Soul: The Capsoul Label](https://open.spotify.com/album/0C5uwKeCiK6GJEEK5eUuwe) | 3:18 | 2022-02-09 | 2022-07-29 |
 | [You're Mine](https://open.spotify.com/track/59gDmRw6v2LJEv5Aa7t9MJ) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 4:13 | 2022-02-09 | 2023-05-19 |
-| [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 | 2022-02-09 |  |
+| [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 | 2022-02-09 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

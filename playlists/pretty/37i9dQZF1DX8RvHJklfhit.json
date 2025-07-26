@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 209208,
+  "num_followers": 209263,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR"
+      },
+      "artists": [
+        {
+          "name": "MKRNI",
+          "url": "https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Inercia",
+      "url": "https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "Uno Dos (feat. Jaden Smith)",
         "url": "https://open.spotify.com/album/4YlvH07cfWhWO5UB3r2pF1"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 170125,
       "name": "Uno Dos (feat. Jaden Smith)",
       "url": "https://open.spotify.com/track/4izDoelJ5qRHICeE8iHx07"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR"
-      },
-      "artists": [
-        {
-          "name": "MKRNI",
-          "url": "https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Inercia",
-      "url": "https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "El Big Blue",
-        "url": "https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4"
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
       },
       "artists": [
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 192880,
-      "name": "Mi Fiesta",
-      "url": "https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK"
+      "duration_ms": 258713,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
     }
   ],
   "unique_name": "Latin Indie Classics",

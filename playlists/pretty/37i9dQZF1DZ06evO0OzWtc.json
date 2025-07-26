@@ -1,45 +1,13 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2076,
+  "num_followers": 2078,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAAQlRYQtB0HBG1EVBF4uy4l",
+  "snapshot_id": "aIF3gAAAAAAW0PayOwQkeuk6pcDIzm+A",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Que Sepan",
-        "url": "https://open.spotify.com/album/709GhQq0Z1aKimTNKLkIs3"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        },
-        {
-          "name": "El Primo",
-          "url": "https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Pa Que Sepan",
-      "url": "https://open.spotify.com/track/5PQUxBt32csrfY9hTjUG1G"
-    },
     {
       "added_at": null,
       "album": {
@@ -135,6 +103,38 @@
       "duration_ms": 142802,
       "name": "EXCESO",
       "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Sepan",
+        "url": "https://open.spotify.com/album/709GhQq0Z1aKimTNKLkIs3"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "El Primo",
+          "url": "https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Pa Que Sepan",
+      "url": "https://open.spotify.com/track/5PQUxBt32csrfY9hTjUG1G"
     },
     {
       "added_at": null,
@@ -691,6 +691,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adiamantado",
+        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Adiamantado",
+      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Modo B\u00e9lico (feat. B.OG, Daizak, Chino El Gorila, Daniel Martinez & Jose Dolche)",
         "url": "https://open.spotify.com/album/1O3ptaojQeRH0YrSZm6R14"
       },
@@ -731,30 +755,6 @@
       "duration_ms": 259333,
       "name": "Modo B\u00e9lico (feat. B.OG, Daizak, Chino El Gorila, Daniel Martinez & Jose Dolche)",
       "url": "https://open.spotify.com/track/5DpXwDeOTcMyGE5GZBW9SG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adiamantado",
-        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
-      },
-      "artists": [
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Adiamantado",
-      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
     },
     {
       "added_at": null,

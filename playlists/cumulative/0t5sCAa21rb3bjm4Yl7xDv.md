@@ -4,7 +4,7 @@
 
 > pop is SO back, shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>.
 
-548 songs - 1 day 4 hr 56 min
+549 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-11-06 | 2023-11-25 |
 | [Dream Boy](https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Dream Boy](https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1) | 3:24 | 2023-11-06 | 2024-05-06 |
 | [Drink Water \(feat\. Jon Bellion and Fireboy DML\)](https://open.spotify.com/track/5sLEmcvR8qwxE0nh0fqGr1) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Drink Water](https://open.spotify.com/album/6RhREGKAQfzPO5lphsPBMG) | 2:49 | 2023-11-06 | 2023-11-25 |
+| [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 | 2025-07-25 |  |
 | [east side](https://open.spotify.com/track/2AqZLF7yk7Jf17Be1i6jcO) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [east side](https://open.spotify.com/album/0TqA7jHzMVftg6xeMa9ZZj) | 2:45 | 2023-11-24 | 2024-09-28 |
 | [El Camino High](https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Dream Girl](https://open.spotify.com/album/0rmWZhNtY9IK37Fwfl5vXt) | 3:47 | 2024-11-08 | 2025-05-24 |
 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 | 2023-11-06 | 2024-01-27 |

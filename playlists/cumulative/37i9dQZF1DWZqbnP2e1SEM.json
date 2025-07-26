@@ -1203,6 +1203,28 @@
     },
     {
       "album": {
+        "name": "Blackberries",
+        "url": "https://open.spotify.com/album/0wRizVFvSd8ASY1OSnnnID"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "Blackberries",
+      "url": "https://open.spotify.com/track/1QDpXIgR0U7ta48CwEYBeL"
+    },
+    {
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52"
       },
@@ -2470,6 +2492,28 @@
       "duration_ms": 216796,
       "name": "Ecstasy (Over & Over)",
       "url": "https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN"
+    },
+    {
+      "album": {
+        "name": "Edge of Desire",
+        "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134905,
+      "name": "Edge of Desire",
+      "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
     },
     {
       "album": {
@@ -8170,7 +8214,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 187640,
       "name": "Show Me Love (feat. Robin S)",
       "url": "https://open.spotify.com/track/55eFVWZ4lLq8kbJ0VwSfA4"
@@ -8368,7 +8412,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 131086,
       "name": "somebody else",
       "url": "https://open.spotify.com/track/6aInSNYXYd5fSDZN5zX6Tc"

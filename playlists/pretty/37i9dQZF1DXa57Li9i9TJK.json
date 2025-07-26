@@ -1,6 +1,6 @@
 {
   "description": "Potras, rancherxs y la \ud83e\uddc0 Yuridia y Majo Aguilar en portada ",
-  "num_followers": 25129,
+  "num_followers": 25164,
   "original_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
         "name": "La V\u00edctima",
         "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 156345,
       "name": "La V\u00edctima",
       "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -675,34 +675,18 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+        "name": "Es Para Ti",
+        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 165200,
-      "name": "De Compas",
-      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+      "duration_ms": 202266,
+      "name": "Ens\u00e9\u00f1ame A Olvidarte",
+      "url": "https://open.spotify.com/track/2Ku6P1U8QkOQcLEXTRxygX"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -723,6 +707,38 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "De Compas",
+      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
         "name": "Ojos Verdes",
         "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 142410,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
-        "name": "Es Para Ti",
-        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "Ens\u00e9\u00f1ame A Olvidarte",
-      "url": "https://open.spotify.com/track/2Ku6P1U8QkOQcLEXTRxygX"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "PERDIDO",
-        "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "PERDIDO",
-      "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
         "name": "No Fue Lo Que Hiciste",
         "url": "https://open.spotify.com/album/1V5GnWGLCnmsGVsWOzp0n3"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 242330,
       "name": "No Fue Lo Que Hiciste",
       "url": "https://open.spotify.com/track/31XQ01Q6ld5H4q7dje4VbF"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
+        "name": "PERDIDO",
+        "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "PERDIDO",
+      "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "Te Atrapar\u00e9 Bandido",
-        "url": "https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 179773,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/5YH0im36TvDjT5CN2VsHHK"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
         "name": "Locos De Amor",
         "url": "https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 206146,
       "name": "Dos Locos",
       "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
+        "name": "Te Atrapar\u00e9 Bandido",
+        "url": "https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 179773,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/5YH0im36TvDjT5CN2VsHHK"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "Amarte A La Antigua",
-        "url": "https://open.spotify.com/album/76v9bSTYDGwEu2X1nDxUhd"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Amarte A La Antigua",
-      "url": "https://open.spotify.com/track/7y4HLPy4f0TJpmX3rqDjHH"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
         "name": "Y Seguimos Con Duranguense",
         "url": "https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 215146,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/5iDUrvgLFYz6402MFCjoht"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
+        "name": "Amarte A La Antigua",
+        "url": "https://open.spotify.com/album/76v9bSTYDGwEu2X1nDxUhd"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Amarte A La Antigua",
+      "url": "https://open.spotify.com/track/7y4HLPy4f0TJpmX3rqDjHH"
     },
     {
       "added_at": "2025-07-18 06:00:08",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-07-18 06:00:08",
       "album": {
-        "name": "Encuentro Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk"
-      },
-      "artists": [
-        {
-          "name": "Abracadabra",
-          "url": "https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "En realidad",
-      "url": "https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9"
-    },
-    {
-      "added_at": "2025-07-18 06:00:08",
-      "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 161293,
       "name": "Y Me Besa",
       "url": "https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk"
+    },
+    {
+      "added_at": "2025-07-18 06:00:08",
+      "album": {
+        "name": "Encuentro Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk"
+      },
+      "artists": [
+        {
+          "name": "Abracadabra",
+          "url": "https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "En realidad",
+      "url": "https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9"
     },
     {
       "added_at": "2025-07-18 06:00:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403 likes - 25 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 405 likes - 25 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 11 | [One Hit Wonder](https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22) | 3:20 |
 | 12 | [poltergeist](https://open.spotify.com/track/7nVvznvTle4wZBg6fN0GQr) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 2:33 |
 | 13 | [Emotional Punching Bag](https://open.spotify.com/track/00mXO5pZSGrXQKyqkaI56b) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional punching bag](https://open.spotify.com/album/2h8fMB5OeSth65ZiJl4ixZ) | 2:56 |
-| 14 | [...but i'd miss you too much!](https://open.spotify.com/track/76T8rvbzcIj4vquvc8y9YI) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/3vQxQx8nuRYjqUsImHbDmZ) | 2:58 |
+| 14 | [...but i'd miss you too much!](https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz) | 2:58 |
 | 15 | [HRDCR](https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Oliver Price](https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg), [Thomas Greenwood](https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr) | [Pop Drama](https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5) | 3:40 |
 | 16 | [you fake your british accent](https://open.spotify.com/track/7BzOTBSCGMxwOQsrMPUC2W) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 3:08 |
 | 17 | [Cautiously Optimistic](https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD) | 2:25 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 24 | [cupids on cocaine](https://open.spotify.com/track/1a8I2Xf2oz9wUcYUJq5vxF) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:28 |
 | 25 | [Because of Me](https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 3:02 |
 
-Snapshot ID: `aIAmAAAAAABVL5+LLJkZwOKlDBOodmxs`
+Snapshot ID: `aIF3gAAAAADB7JSFGKZGol7gFSbFqIqE`

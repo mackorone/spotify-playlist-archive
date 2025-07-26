@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything : jim legxacy ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,657 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,665 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 |
 | 2 | [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 |
 | 3 | [3x](https://open.spotify.com/track/3cfQ8cCFhqekaqSsuhKXAj) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:40 |
-| 4 | [hairgrow](https://open.spotify.com/track/4nTEc1faMmppqH4VTKp99i) | [Clyde Crooks](https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm) | [hairgrow](https://open.spotify.com/album/7xANhiEuS5U9exd4f56uQk) | 4:43 |
-| 5 | [\_\_\_\_, close to you.](https://open.spotify.com/track/2Z4VqvPcyjpNpWUCZ75ddH) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7), [ultra caro](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [\_\_\_\_, close to you.](https://open.spotify.com/album/2fo5NIYUfdWFSNLbC6bJuA) | 2:43 |
-| 6 | [The Sofa](https://open.spotify.com/track/0GXtn7xnJlySfJJznk800I) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/2jKqk91xmXtQWlPrzI7r3w) | 4:26 |
-| 7 | [Fuck Me Eyes](https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Fuck Me Eyes](https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU) | 6:04 |
-| 8 | [dexters phone call](https://open.spotify.com/track/0RcPuojOmJBzkXv5hBdBNl) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:32 |
-| 9 | [not getting along](https://open.spotify.com/track/2yZnzMCyLWvHB9YMGwKcAp) | [ONUR](https://open.spotify.com/artist/0NQnxyOtffxLFIatMhCp35) | [not getting along](https://open.spotify.com/album/1AOP4J43V30HpyhsxF2gWf) | 2:19 |
-| 10 | [Got Something Good](https://open.spotify.com/track/4Z0COCJu249UEx0KEkzsoi) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [My First Album](https://open.spotify.com/album/0xhEFd2ho7aRNpFN8X1mlS) | 3:28 |
-| 11 | [Do Yourself A Favour](https://open.spotify.com/track/4MciVC2MmCsNofeQI6yrdX) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Do Yourself A Favour](https://open.spotify.com/album/2jcI7VzkSVbC9CVnPozQyU) | 3:07 |
-| 12 | [POOR CHOICES](https://open.spotify.com/track/5hLmbpWtuvhkzCosigqOHa) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [POOR CHOICES](https://open.spotify.com/album/7i6ANs380kdGplpLHBuxBE) | 3:24 |
+| 4 | [Rapture in Blue](https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Rapture in Blue](https://open.spotify.com/album/3YDpRt2ZLKsClfoRc4mFRC) | 4:13 |
+| 5 | [hairgrow](https://open.spotify.com/track/4nTEc1faMmppqH4VTKp99i) | [Clyde Crooks](https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm) | [hairgrow](https://open.spotify.com/album/7xANhiEuS5U9exd4f56uQk) | 4:43 |
+| 6 | [\_\_\_\_, close to you.](https://open.spotify.com/track/2Z4VqvPcyjpNpWUCZ75ddH) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7), [ultra caro](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [\_\_\_\_, close to you.](https://open.spotify.com/album/2fo5NIYUfdWFSNLbC6bJuA) | 2:43 |
+| 7 | [The Sofa](https://open.spotify.com/track/0GXtn7xnJlySfJJznk800I) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/2jKqk91xmXtQWlPrzI7r3w) | 4:26 |
+| 8 | [Fuck Me Eyes](https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Fuck Me Eyes](https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU) | 6:04 |
+| 9 | [dexters phone call](https://open.spotify.com/track/0RcPuojOmJBzkXv5hBdBNl) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:32 |
+| 10 | [not getting along](https://open.spotify.com/track/2yZnzMCyLWvHB9YMGwKcAp) | [ONUR](https://open.spotify.com/artist/0NQnxyOtffxLFIatMhCp35) | [not getting along](https://open.spotify.com/album/1AOP4J43V30HpyhsxF2gWf) | 2:19 |
+| 11 | [Got Something Good](https://open.spotify.com/track/4Z0COCJu249UEx0KEkzsoi) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [My First Album](https://open.spotify.com/album/0xhEFd2ho7aRNpFN8X1mlS) | 3:28 |
+| 12 | [Do Yourself A Favour](https://open.spotify.com/track/4MciVC2MmCsNofeQI6yrdX) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Do Yourself A Favour](https://open.spotify.com/album/2jcI7VzkSVbC9CVnPozQyU) | 3:07 |
 | 13 | [Tether](https://open.spotify.com/track/2bwSei08fWmBaxkf4vzhgh) | [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Tether / Drawing Flesh from Stone](https://open.spotify.com/album/1VxsHikxSf6sOntWeQ3yhD) | 3:52 |
 | 14 | [Ghost in the Shell](https://open.spotify.com/track/2a4mF1ECLXfgpBQekwQZW5) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Ghost in the Shell](https://open.spotify.com/album/3U8CkFalTx21l0qa73HcOV) | 4:13 |
 | 15 | [Odin St](https://open.spotify.com/track/6urr1jW4IyD8NTXWgijaCg) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Odin St](https://open.spotify.com/album/4Gt7D6btN5S8sBltKTR3n1) | 3:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 79 | [The Influencer](https://open.spotify.com/track/3RmfInL24wjZfWr6MNohKs) | [The Itch](https://open.spotify.com/artist/64Db5ZXKSHKOKC7h1brQck) | [The Influencer / Co\-Conspirator](https://open.spotify.com/album/5nSS7hJacv6S4qfz9TBlMJ) | 3:13 |
 | 80 | [swimming in pity](https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [swimming in pity](https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6) | 2:56 |
 
-Snapshot ID: `aIK7DAAAAADWDHG9J5YQrLmdLDSYMwsb`
+Snapshot ID: `aIORNAAAAABfVGx6SpzdtxYmZeJ56+yq`

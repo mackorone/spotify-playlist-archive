@@ -4,7 +4,7 @@
 
 > The latest of R&B in the UK\. Cover: Nolais
 
-486 songs - 1 day 1 hr 20 min
+487 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 | 2024-08-06 | 2025-04-25 |
 | [Automatic](https://open.spotify.com/track/1rQeZ0Tpmm78r2zfjunoiV) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Automatic](https://open.spotify.com/album/4WbNR7vcKMrVIfKCu1u9ao) | 3:23 | 2025-04-25 |  |
 | [Back n Forth](https://open.spotify.com/track/0pbBTuySY92aX82pNLcOxS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [A Penny For Your Thoughts](https://open.spotify.com/album/50zY5ri5A6vUw5fBfueZqa) | 2:50 | 2024-08-29 | 2024-09-21 |
-| [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-06-26 |  |
+| [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-06-26 | 2025-07-26 |
 | [backwards loving](https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [backwards loving](https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4) | 3:52 | 2025-03-21 | 2025-07-25 |
 | [BAD4U](https://open.spotify.com/track/5299KaEOLIQoPBO69jMRgN) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [BAD4U](https://open.spotify.com/album/4qHTcBrDRkp7X9gfypo0RX) | 3:37 | 2024-10-03 | 2024-12-19 |
 | [Bag Of You](https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Bag Of You](https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM) | 3:17 | 2023-05-15 | 2023-07-22 |
@@ -248,6 +248,7 @@
 | [Kaalam](https://open.spotify.com/track/2DGWtU9bU2D4yMuMaI2H3Y) | [Pritt](https://open.spotify.com/artist/5UBfs4W6ckxE7jCcqapRPn), [dilushselva](https://open.spotify.com/artist/0kmN7hZGqNtmFNgJz4YvKZ) | [Kaalam](https://open.spotify.com/album/2yo3EtFKQoQ3Gv1QpQxTfD) | 2:45 | 2023-05-18 | 2023-06-02 |
 | [Keep Hush](https://open.spotify.com/track/3WHUp951VtACvbxstaob8u) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Keep Hush](https://open.spotify.com/album/53HjIJz24S8OAfM2yOBmcq) | 2:50 | 2025-05-16 |  |
 | [keep it a hundred](https://open.spotify.com/track/4cHCZMMUSWFnEzHT5ij1T8) | [Mark Taiwo](https://open.spotify.com/artist/5fIZHbbeEMCrVXtxsDukW4) | [keep it a hundred](https://open.spotify.com/album/7aNOEKTTlDVIPCCZJGcMGi) | 3:51 | 2025-07-24 |  |
+| [Keeper](https://open.spotify.com/track/2gb8nz0dk0pYSEoR1NMeSm) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Keeper](https://open.spotify.com/album/16R8fQHebbHRtKAUWpEWp7) | 2:22 | 2025-07-25 |  |
 | [Kidding Around](https://open.spotify.com/track/2jXMazgXiudtvru8K90VFX) | [Isabel](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [Kidding Around](https://open.spotify.com/album/6QvohFoxvdYUbfuaC2WLsg) | 3:22 | 2025-07-24 |  |
 | [Kiki's Brown Eyes](https://open.spotify.com/track/3W0ZWcX8eAjE4kc42mgKjm) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:27 | 2025-07-24 |  |
 | [Killing Me](https://open.spotify.com/track/7B76OJ0ExVlSkDh1xelvRl) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Killing Me](https://open.spotify.com/album/0llJLK7uiCfzaEJrN38ftl) | 3:25 | 2022-07-17 | 2023-04-23 |

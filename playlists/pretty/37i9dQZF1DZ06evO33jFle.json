@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 507711,
+  "num_followers": 507834,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABDqNeDlCkqTOhD10Zixik7",
+  "snapshot_id": "aIF3gAAAAABqEN1Dkd0nKspghSVERa1r",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 179320,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jenni",
         "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 226950,
       "name": "Con \u00c9l",
       "url": "https://open.spotify.com/track/7aCLtSlkFRMiPycFEEhLFA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente la Mejor",
-        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Querida Socia",
-      "url": "https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Gran Se\u00f1ora (En Vivo)",
         "url": "https://open.spotify.com/album/10gxA0j90FN3wKfKOJWrqx"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 184026,
       "name": "\u00c9l - Banda",
       "url": "https://open.spotify.com/track/4SFqbs96DA1k3r86PuQuRT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Querida Socia",
+      "url": "https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq"
     },
     {
       "added_at": null,

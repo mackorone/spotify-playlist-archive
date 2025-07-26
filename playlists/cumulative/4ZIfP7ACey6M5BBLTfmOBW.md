@@ -4,7 +4,7 @@
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-686 songs - 1 day 8 hr 18 min
+687 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Revolve](https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Revolve](https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH) | 3:29 | 2024-10-13 | 2024-11-02 |
 | [Right Now](https://open.spotify.com/track/1rujAl2i7jyiS3gGmZN7L5) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Right Now](https://open.spotify.com/album/3NnceSjaPrxdNfXAE3TX8f) | 2:47 | 2024-11-08 | 2025-01-18 |
 | [Ring Ring](https://open.spotify.com/track/1mLrKUepZE0AI11JvOwWci) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Ring Ring](https://open.spotify.com/album/7HDaOyg3G7ltdxVPbQIkry) | 2:03 | 2024-05-21 | 2024-08-10 |
+| [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-07-25 |  |
 | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui) | 3:09 | 2025-03-14 |  |
 | [Risk Taker](https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Risk Taker](https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E) | 3:43 | 2024-05-24 | 2024-10-14 |
 | [Robbin](https://open.spotify.com/track/6Gqu6QOwMAnLsRc35YE9NH) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [The One Who Did](https://open.spotify.com/album/3htiSyFe02URVZKvHRRley) | 2:25 | 2025-01-10 | 2025-02-22 |

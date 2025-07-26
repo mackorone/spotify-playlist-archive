@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Sunmisola Agbebi and Ada Ehi
 
-5,811 songs - 17 day 15 hr 34 min
+5,812 songs - 17 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2822,6 +2822,7 @@
 | [Konse](https://open.spotify.com/track/5ZlLfuWfBZMiZIPPmAD2oW) | [Paul Payne837](https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp) | [Konse](https://open.spotify.com/album/4hQrrzNmi7d52JNUrdPcdn) | 3:20 | 2023-12-22 | 2024-01-05 |
 | [Koseni to Dabire](https://open.spotify.com/track/3gnVJePD5kbUGYESiiqx8e) | [Hephzy Jane](https://open.spotify.com/artist/7FA4vzqmhFGo84xfBbfaBi) | [Koseni to Dabire](https://open.spotify.com/album/0ez1R938Y6AF3yh4Q9n8pg) | 2:52 | 2025-06-13 | 2025-06-27 |
 | [Kosi \- Live](https://open.spotify.com/track/7D9UWAQcr3QkMT77nMWLM1) | [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [Kosi \- Live](https://open.spotify.com/album/3wjZwWWSknWwRs2ScMNjvx) | 7:16 | 2024-09-13 | 2024-09-27 |
+| [Kount Ur Blessings](https://open.spotify.com/track/0b0k27TpN4tU3yfc43uHJm) | [KarlaGod](https://open.spotify.com/artist/2QlFgME9RwrC4SToTWKAse) | [Kount Ur Blessings](https://open.spotify.com/album/1VuaD4rhuwn35s02W9zoOF) | 1:40 | 2025-07-25 |  |
 | [Kpuna](https://open.spotify.com/track/1bUtT5MzP8lVmyTP8U2V5e) | [Great Godwin](https://open.spotify.com/artist/32aRAuhgYPnJhfCOrw0ZCZ), [JEW Boys](https://open.spotify.com/artist/6NVC1nhI5v6L3gAyPKbnvm), [Awowo](https://open.spotify.com/artist/14GHsRTa13y77HXFFZt9q3) | [Kpuna](https://open.spotify.com/album/6MdQ8hp43x9FL55HQlnPB2) | 3:54 | 2024-03-15 | 2024-03-29 |
 | [Kukhon' Igama \(Live in Bryanston 2022\) \(feat\. Sibongiseni Ndlovu & Thembelihle Mthethwa\)](https://open.spotify.com/track/03ETrbJ4DCvi1Pos6OFOfj) | [The Fellowship](https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga), [Mthunzi Namba](https://open.spotify.com/artist/1MukIJ87BL0zO3LusoV8hv), [Sibongiseni Ndlovu](https://open.spotify.com/artist/794clGVKYY9cKv7IPlWnb6), [Thembelihle Mthethwa](https://open.spotify.com/artist/1AScIJ4Yly7SLBfpuIF6Gu) | [Kukhon' Igama \(Live in Bryanston 2022\) \(feat\. Sibongiseni Ndlovu & Thembelihle Mthethwa\)](https://open.spotify.com/album/0zUMdTHLXk0QQHTpjGsXWj) | 7:42 | 2024-03-29 | 2024-04-05 |
 | [Kukhona Amadlelo](https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H) | [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Kukhona Amadlelo](https://open.spotify.com/album/6HWuys9MfBcqWYlPU4aIV8) | 8:29 | 2024-03-29 | 2024-04-12 |

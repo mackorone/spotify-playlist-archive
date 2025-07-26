@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 648168,
+  "num_followers": 648216,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAACDnzbVc0TbrtleaMN7azxH",
+  "snapshot_id": "aIF3gAAAAAAP/KD1+HKPU8NasTIAkMDA",
   "tracks": [
     {
       "added_at": null,
@@ -483,38 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tracks II: The Lost Albums",
-        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 111213,
-      "name": "Seven Tears",
-      "url": "https://open.spotify.com/track/7w5aoPMBJK5oDJytMZNK2S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -531,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+        "name": "Tracks II: The Lost Albums",
+        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
       },
       "artists": [
         {
@@ -540,9 +508,25 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 245360,
-      "name": "Lonesome Day",
-      "url": "https://open.spotify.com/track/0R9q3imnid244T1ty47MGs"
+      "duration_ms": 82226,
+      "name": "Little Girl Like You",
+      "url": "https://open.spotify.com/track/28EWvSxtUKaTOzXjrc9Jwc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
     },
     {
       "added_at": null,
@@ -563,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 245360,
+      "name": "Lonesome Day",
+      "url": "https://open.spotify.com/track/0R9q3imnid244T1ty47MGs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tracks II: The Lost Albums",
         "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
       },
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 82226,
-      "name": "Little Girl Like You",
-      "url": "https://open.spotify.com/track/28EWvSxtUKaTOzXjrc9Jwc"
+      "duration_ms": 111213,
+      "name": "Seven Tears",
+      "url": "https://open.spotify.com/track/7w5aoPMBJK5oDJytMZNK2S"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 168466,
-      "name": "Johnny Bye Bye",
-      "url": "https://open.spotify.com/track/728HtlfF9etA4QJu4MzBbD"
+      "duration_ms": 231560,
+      "name": "Fugitives Dream",
+      "url": "https://open.spotify.com/track/5WCy47g2gI5mJmNLcNifid"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ghost Of Tom Joad",
-        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+        "name": "Sunday Love",
+        "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Youngstown",
-      "url": "https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA"
+      "duration_ms": 316373,
+      "name": "Sunday Love",
+      "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
     },
     {
       "added_at": null,
@@ -764,15 +764,15 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Fugitives Dream",
-      "url": "https://open.spotify.com/track/5WCy47g2gI5mJmNLcNifid"
+      "duration_ms": 168466,
+      "name": "Johnny Bye Bye",
+      "url": "https://open.spotify.com/track/728HtlfF9etA4QJu4MzBbD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Love",
-        "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
+        "name": "The Ghost Of Tom Joad",
+        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 316373,
-      "name": "Sunday Love",
-      "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
+      "duration_ms": 232533,
+      "name": "Youngstown",
+      "url": "https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA"
     },
     {
       "added_at": null,
@@ -803,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ghost Of Tom Joad",
-        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+        "name": "The List",
+        "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
       },
       "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 263466,
-      "name": "The Ghost of Tom Joad",
-      "url": "https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk"
+      "duration_ms": 186226,
+      "name": "Sea Of Heartbreak",
+      "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
     }
   ],
   "unique_name": "This Is Bruce Springsteen",

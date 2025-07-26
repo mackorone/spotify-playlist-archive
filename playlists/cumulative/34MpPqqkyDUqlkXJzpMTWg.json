@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "d\u00a3aler",
+        "url": "https://open.spotify.com/album/3dXiBODwl4T0kIQIzFTPMI"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160337,
+      "name": "d\u00a3aler",
+      "url": "https://open.spotify.com/track/7t4OevReiAuDGgntaUJFh6"
+    },
+    {
+      "album": {
         "name": "Eenzame Nacht",
         "url": "https://open.spotify.com/album/7lFEE4QYgFBzMuwbGbSljV"
       },

@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-576 songs - 1 day 0 hr 21 min
+579 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Lange Reise](https://open.spotify.com/track/47s7kyfVRgsnwgkK2sGQzM) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Wunder der Welt](https://open.spotify.com/album/0KpjPdNUuZ0k3CwzSde3Gg) | 2:36 | 2023-03-24 | 2023-06-23 |
 | [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-04-28 | 2023-06-16 |
 | [Late Lullaby](https://open.spotify.com/track/0QT6t8v1xhNpTS365TTefJ) | [Rhys Lowe](https://open.spotify.com/artist/2SOP55SS8fB8moOlHWLROC) | [Late Lullaby](https://open.spotify.com/album/6nlaNhLk5WlJfW3lPCQcKG) | 1:46 | 2022-12-16 | 2023-09-14 |
-| [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 |  |
+| [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 | 2025-07-26 |
 | [Leaving](https://open.spotify.com/track/4zhlwkxU3siDqjyTN9obCq) | [Lexie Baxter](https://open.spotify.com/artist/5kdRX0bJREG0oR4IkhhTrv) | [Leaving](https://open.spotify.com/album/78Ixx68Z6lBKYHUbhMjRFt) | 3:25 | 2022-06-17 | 2023-02-25 |
 | [Leaving Behind](https://open.spotify.com/track/3ieyL9VqZYHDSyeo6EyzkW) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Leaving Behind](https://open.spotify.com/album/5QPSLKJ2ZsmbldhsXvhDUT) | 2:20 | 2024-05-10 |  |
 | [Lifetime](https://open.spotify.com/track/6ZbYf49MLjiJYf7XnO2zuQ) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Lifetime](https://open.spotify.com/album/50whDFHjsEouf1WGJzEATj) | 1:41 | 2024-11-26 | 2025-04-03 |
@@ -282,6 +282,7 @@
 | [Lilac](https://open.spotify.com/track/2ZllgmJ44JB80Xr1KkI5xK) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Lilac](https://open.spotify.com/album/5P1QxSMeZzIAaxCl3xRtDs) | 3:27 | 2022-11-18 | 2023-09-08 |
 | [Lima](https://open.spotify.com/track/6qph8rFqnbC7bUOfbmkOYP) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Lima](https://open.spotify.com/album/2hvzHcFgaOuYrcNtj6Noks) | 3:02 | 2024-05-10 |  |
 | [Lingering Bloom](https://open.spotify.com/track/4ZAvg7HUOB3jH9e5niRKgQ) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Lingering Bloom](https://open.spotify.com/album/5uj7kIeWilrFDclzjtKMuR) | 1:44 | 2023-05-19 | 2023-09-14 |
+| [Liquid Shape](https://open.spotify.com/track/1rKq6PgmwaP4MUuba6mQWf) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Liquid Shape](https://open.spotify.com/album/1pPbPb97jO5XgxjneZZzsh) | 2:17 | 2025-07-25 |  |
 | [Live Forever](https://open.spotify.com/track/5FPdwD2bN2dhamXq48ahzk) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Live Forever](https://open.spotify.com/album/49dxWodL0FhB1Uzg9iUETV) | 2:43 | 2022-08-12 | 2023-09-08 |
 | [Long Walking Back Home](https://open.spotify.com/track/3rlhZSPaSjM9Xf3R8iInwG) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Long Walking Back Home](https://open.spotify.com/album/2uEL6m8Pq3u7m3HirU4NxX) | 3:08 | 2022-06-17 | 2023-05-20 |
 | [Longing for Light](https://open.spotify.com/track/45gfOKyt6rXK1jvHUYLAc0) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Longing for Light](https://open.spotify.com/album/5IGCr7YcKK9ttN3H0qeank) | 2:05 | 2023-02-24 | 2023-06-23 |
@@ -438,6 +439,7 @@
 | [Secret Letters For You](https://open.spotify.com/track/1dLCaGhrgqqcX4m9g5P4EZ) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Secret Letters For You](https://open.spotify.com/album/0LwkZsEqjcn7LA6PxVF5nq) | 2:33 | 2023-04-28 | 2023-06-23 |
 | [Secreto a gritos](https://open.spotify.com/track/4nfhvNVF4APrKYyakiVvbJ) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Secreto a gritos](https://open.spotify.com/album/1awQz7qa436GOIuQJUsdVt) | 3:05 | 2022-10-07 | 2024-01-12 |
 | [See me clearly](https://open.spotify.com/track/74B9UwoACQuEgPVtoQ51Qf) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [See me clearly](https://open.spotify.com/album/5DvQoBQHNBLaJZxVDf2aNY) | 1:52 | 2024-09-10 | 2025-04-03 |
+| [Segredos](https://open.spotify.com/track/1IViniOGSpkCykY4ta6474) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Segredos](https://open.spotify.com/album/6Q7WqOJoglySvCZEbahkuG) | 2:33 | 2025-07-25 |  |
 | [Senza Fine](https://open.spotify.com/track/2EGESNjQMOr0WPl9RCmtQo) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Senza Fine](https://open.spotify.com/album/2831RPrm9Yal2OCTmcNJ59) | 3:05 | 2022-10-07 | 2025-01-14 |
 | [Sequoia](https://open.spotify.com/track/461cC9CgeIx0ROdpaIkMtw) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Sequoia](https://open.spotify.com/album/1t5CbziFDuyPWv75q3tnCY) | 2:51 | 2022-06-17 | 2022-09-09 |
 | [Serenade of the Pines](https://open.spotify.com/track/4j5AE4ET1c63FQY28xGBkM) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [Serenade of the Pines](https://open.spotify.com/album/6AWJhJV5UVVbzHwW3S5L2j) | 2:43 | 2025-03-25 | 2025-06-17 |
@@ -470,6 +472,7 @@
 | [Stargazing](https://open.spotify.com/track/1mmbyz9ozdscOnBm2A8lY1) | [Thomas Eder](https://open.spotify.com/artist/2krrSbwXMkf0UncTYMR1qY) | [Stargazing](https://open.spotify.com/album/4iKix895yw4BjGUysZXtCU) | 2:42 | 2022-09-16 | 2025-03-12 |
 | [Steps ahead](https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Steps ahead](https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0) | 2:49 | 2024-04-19 |  |
 | [Still Waiting](https://open.spotify.com/track/2Ny8lpQv4F5sKHtRQglRVn) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Still Waiting](https://open.spotify.com/album/4t9Wak4mJNhpUCwa7VxMCX) | 2:05 | 2024-12-17 |  |
+| [Still Water](https://open.spotify.com/track/052dONkWpu7PHG8LwJYX6C) | [Jonathan Ness](https://open.spotify.com/artist/4yBmdLvoTJmmD4xEf3nKaH) | [Still Water](https://open.spotify.com/album/5x4sqkESCx3ynLu1n9MfJB) | 2:39 | 2025-07-25 |  |
 | [Stones](https://open.spotify.com/track/3YKRLvwTVd61lcgM1En09p) | [The Bare Bones](https://open.spotify.com/artist/2NKYLVOD0HH7O1anuALOBU) | [Stones](https://open.spotify.com/album/1ejYgT85tPxlEWBYn5jjpP) | 2:24 | 2022-06-17 | 2024-07-18 |
 | [Strange Encounter](https://open.spotify.com/track/0wy7FZ340c8LFHbbu07od2) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Strange Encounter](https://open.spotify.com/album/1gPHMceOELyRK5Sc7sbX4m) | 2:20 | 2023-03-24 | 2023-06-23 |
 | [Strawberry Dreams](https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Strawberry Dreams](https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp) | 2:35 | 2023-05-19 |  |
@@ -519,7 +522,7 @@
 | [Today Tomorrow Forever](https://open.spotify.com/track/72qwDpWA4CbHe3J00wT2zu) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Today Tomorrow Forever](https://open.spotify.com/album/57ormTTFRD4IzjobtB49RC) | 3:25 | 2022-10-14 | 2025-03-12 |
 | [Togetherness](https://open.spotify.com/track/40qwRulvebVhIKE8s68shj) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Togetherness](https://open.spotify.com/album/5S6D02A1tJNrUrtdmhEJgv) | 2:28 | 2024-04-19 |  |
 | [Too Gentle](https://open.spotify.com/track/3r5UkhK0ydSW0A4h6XRJ58) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Too Gentle](https://open.spotify.com/album/1CKO9HAhmY9vr5obHxWJkK) | 1:41 | 2022-06-17 | 2023-09-14 |
-| [Top of the World](https://open.spotify.com/track/64gFmyML3QwyxPG6hLO940) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Top of the World](https://open.spotify.com/album/7bOjp6cHx0RJQxxIrgVp2G) | 2:15 | 2024-11-26 |  |
+| [Top of the World](https://open.spotify.com/track/64gFmyML3QwyxPG6hLO940) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Top of the World](https://open.spotify.com/album/7bOjp6cHx0RJQxxIrgVp2G) | 2:15 | 2024-11-26 | 2025-07-26 |
 | [Toque Suave](https://open.spotify.com/track/1fGMb8mMRfE81obtzM8K8p) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Toque Suave](https://open.spotify.com/album/76YZGj9oQn2KWzRdcuS4Y9) | 2:34 | 2022-08-05 | 2024-04-05 |
 | [Tot Morgen](https://open.spotify.com/track/2W0sCLz5wGHBYLBKkN3kp2) | [Jeroen Willemsen](https://open.spotify.com/artist/0zfMuidAGSx94M7j1kxmlY) | [Tot Morgen](https://open.spotify.com/album/5HhOtrIeijnW3WQxdHS13A) | 1:53 | 2023-01-06 | 2023-09-14 |
 | [Tranquil Meadows](https://open.spotify.com/track/7dTpIquru8lsVAWllrWcDx) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Tranquil Meadows](https://open.spotify.com/album/4qPQaIIy186DJ1Z0mz84nY) | 2:08 | 2024-01-12 |  |

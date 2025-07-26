@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,553 likes - 46 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,579 likes - 46 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 32 | [Condor Ave](https://open.spotify.com/track/2lUejG76ZEmgY7PvzwxxTj) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:34 |
 | 33 | [Going Nowhere](https://open.spotify.com/track/3j7kIRldLpus5gJK21dhId) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 3:51 |
 | 34 | [Coming Up Roses](https://open.spotify.com/track/4plICMPtZHZt9TRlvvoupx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM) | 3:10 |
-| 35 | [The Last Hour](https://open.spotify.com/track/4w3lNFu4Vwkq2nW1mofie6) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From a Basement on the Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 3:27 |
+| 35 | [Pretty \(Ugly Before\)](https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From a Basement on the Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:45 |
 | 36 | [No Name \#2](https://open.spotify.com/track/3QAHvJbzjFne5mMLSEMmdV) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:34 |
 | 37 | [Pretty Mary K \- Other Version](https://open.spotify.com/track/5m80zPT09wNZd3MO7flmEv) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 3:24 |
 | 38 | [Satellite](https://open.spotify.com/track/3CIVlmcrOjfEE9RmTUnzx2) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM) | 2:25 |
-| 39 | [Pretty \(Ugly Before\)](https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From a Basement on the Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:45 |
+| 39 | [The Last Hour](https://open.spotify.com/track/4w3lNFu4Vwkq2nW1mofie6) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From a Basement on the Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 3:27 |
 | 40 | [Last Call](https://open.spotify.com/track/0f0zWocUiTXlNcV6s0Ulfp) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 4:38 |
 | 41 | [Thirteen](https://open.spotify.com/track/5iU2CYMavJ66Gg1XuzloLU) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:43 |
 | 42 | [The White Lady Loves You More](https://open.spotify.com/track/6qZOS137Ow5ehV9h3jvBsu) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM) | 2:24 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 45 | [Either/Or](https://open.spotify.com/track/2gEGEZKBFSPajolkBb3szK) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:27 |
 | 46 | [Untitled Guitar Finger Picking \- Demo](https://open.spotify.com/track/6BXLntndW03EEgAZr5NC3Z) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Heaven Adores You Soundtrack](https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M) | 1:24 |
 
-Snapshot ID: `aIAmAAAAAAAfU5UnpNBNNy3YawFFxrSD`
+Snapshot ID: `aIF3gAAAAAC7O7GLQDI0wRtLinobAxGO`

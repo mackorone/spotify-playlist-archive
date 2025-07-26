@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4663,
+  "num_followers": 4664,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAD8mSzcQl/gL4aU+rwtofH2",
+  "snapshot_id": "aIF3gAAAAAAq9X18GX3k5qB/nMLY2/Eq",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De nuevo en esto",
-        "url": "https://open.spotify.com/album/2JoL0e92xRfRw4nF3YVpqY"
+        "name": "Palabras del Alma",
+        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
       },
       "artists": [
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        },
-        {
-          "name": "Afromak",
-          "url": "https://open.spotify.com/artist/00QZMNWkHo1k4dFLQVpqHK"
         }
       ],
-      "duration_ms": 218794,
-      "name": "De nuevo en esto",
-      "url": "https://open.spotify.com/track/33iRwpRjqxK2vTSZ8zVx7m"
+      "duration_ms": 222506,
+      "name": "Nunca Es Tarde Pa' Empezar",
+      "url": "https://open.spotify.com/track/0rKTUWLac8ZmYYAsQqsxqX"
     },
     {
       "added_at": null,
@@ -791,6 +783,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "De nuevo en esto",
+        "url": "https://open.spotify.com/album/2JoL0e92xRfRw4nF3YVpqY"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        },
+        {
+          "name": "Afromak",
+          "url": "https://open.spotify.com/artist/00QZMNWkHo1k4dFLQVpqHK"
+        }
+      ],
+      "duration_ms": 218794,
+      "name": "De nuevo en esto",
+      "url": "https://open.spotify.com/track/33iRwpRjqxK2vTSZ8zVx7m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mestizo",
         "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
       },
@@ -807,24 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabras del Alma",
-        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Nunca Es Tarde Pa' Empezar",
-      "url": "https://open.spotify.com/track/0rKTUWLac8ZmYYAsQqsxqX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevivente",
-        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
+        "name": "Universos Mixtape",
+        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
       },
       "artists": [
         {
@@ -832,13 +832,13 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "Andrade A.K.A Doble A",
-          "url": "https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU"
+          "name": "Yoky Barrios",
+          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
         }
       ],
-      "duration_ms": 187226,
-      "name": "Mi Ciudad Es Fresca",
-      "url": "https://open.spotify.com/track/0rbrXJIMU4ucrLJLCdTXtX"
+      "duration_ms": 181120,
+      "name": "Mi Castigo",
+      "url": "https://open.spotify.com/track/6Q7DaTx7dadvxXY7UXpSL2"
     },
     {
       "added_at": null,
@@ -859,6 +859,26 @@
       "duration_ms": 184651,
       "name": "Ya fue",
       "url": "https://open.spotify.com/track/2DqDBdfLbgWOCcSPBQrEuR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobrevivente",
+        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Andrade A.K.A Doble A",
+          "url": "https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU"
+        }
+      ],
+      "duration_ms": 187226,
+      "name": "Mi Ciudad Es Fresca",
+      "url": "https://open.spotify.com/track/0rbrXJIMU4ucrLJLCdTXtX"
     },
     {
       "added_at": null,
@@ -895,26 +915,6 @@
       "duration_ms": 217511,
       "name": "So Sad",
       "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Universos Mixtape",
-        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Yoky Barrios",
-          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "Mi Castigo",
-      "url": "https://open.spotify.com/track/6Q7DaTx7dadvxXY7UXpSL2"
     },
     {
       "added_at": null,
@@ -1007,58 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universos Mixtape",
-        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 170527,
-      "name": "Otra Pa' Mi Cuenta",
-      "url": "https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mientras",
-        "url": "https://open.spotify.com/album/1IrZA69cG0rXC4F4bKB5su"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Gonzalo Genek",
-          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
-        }
-      ],
-      "duration_ms": 190540,
-      "name": "Mientras",
-      "url": "https://open.spotify.com/track/3gkOpQFQlmjwc7mCLau2qg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevivente",
-        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/14a2gSIuqP7ZIJIzRlYt1o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cypher Lado B",
         "url": "https://open.spotify.com/album/6EWQflQucPkygMGtzzeVce"
       },
@@ -1119,6 +1067,58 @@
       "duration_ms": 305015,
       "name": "Cypher Lado B",
       "url": "https://open.spotify.com/track/7cuwYmPLL3nHTYaLEKqfOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mientras",
+        "url": "https://open.spotify.com/album/1IrZA69cG0rXC4F4bKB5su"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        }
+      ],
+      "duration_ms": 190540,
+      "name": "Mientras",
+      "url": "https://open.spotify.com/track/3gkOpQFQlmjwc7mCLau2qg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobrevivente",
+        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/14a2gSIuqP7ZIJIzRlYt1o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universos Mixtape",
+        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 170527,
+      "name": "Otra Pa' Mi Cuenta",
+      "url": "https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv"
     }
   ],
   "unique_name": "This Is Ali Aka Mind",

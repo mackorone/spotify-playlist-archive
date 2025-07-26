@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,415 songs - 19 day 6 hr 34 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,418 songs - 19 day 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7423,5 +7423,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7413 | [Save Me, Save You](https://open.spotify.com/track/20yOiJHRQGirFYehRSIb6i) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [WJ PLEASE?](https://open.spotify.com/album/4r7YKwLYxQDH61GddP5l3j) | 3:44 |
 | 7414 | [Airplane Mode](https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a) | [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [Holo](https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC) | 2:44 |
 | 7415 | [このまま夢で feat\. AAAMYYY](https://open.spotify.com/track/7mYt61pj41CSwSiOovNzk0) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [NOTE](https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa) | 3:54 |
+| 7416 | [Ensalada \(feat\. Anderson .Paak\)](https://open.spotify.com/track/06ZX08uRQDK02emdw9mN28) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:46 |
+| 7417 | [Empanadas](https://open.spotify.com/track/60VOmWCHNsIIRZQ7zVezYB) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:08 |
+| 7418 | [God Is](https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:23 |
 
-Snapshot ID: `AAAHxaNEBY2j7j2tjREO7tNCQIgIl/sG`
+Snapshot ID: `AAAHyNKS2aCgcoqx0zdueeyKKwUYNCU0`

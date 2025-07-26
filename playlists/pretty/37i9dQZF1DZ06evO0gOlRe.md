@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,896 likes - 47 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,913 likes - 47 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 46 | [STOP & GO](https://open.spotify.com/track/2kpPludPmHagO06IiRChtM) | [MIME](https://open.spotify.com/artist/6DjZKTY9U7SpufUeVkoJMX), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [STOP & GO](https://open.spotify.com/album/6ON9VqtDtGwLn835DsGo1x) | 2:51 |
 | 47 | [Be Sad](https://open.spotify.com/track/6oEBTsbBsc5Z0ufXsrierq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 2:48 |
 
-Snapshot ID: `aIAmAAAAAAAGNgcQ/8e0/akna1bDwk86`
+Snapshot ID: `aIF3gAAAAACJ5lxpmDp7wiOWWbvwX73A`

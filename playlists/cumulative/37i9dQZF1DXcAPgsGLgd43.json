@@ -681,6 +681,32 @@
     },
     {
       "album": {
+        "name": "Ay Papi (Radio Edit)",
+        "url": "https://open.spotify.com/album/5kQbHR4ZrO9stxIBgldcH9"
+      },
+      "artists": [
+        {
+          "name": "Berin",
+          "url": "https://open.spotify.com/artist/55vo1zTUTU1TabwCCMMbfv"
+        },
+        {
+          "name": "Ale Drik",
+          "url": "https://open.spotify.com/artist/4p5b932u1anhBxhFmZhFtN"
+        },
+        {
+          "name": "ROA Trip",
+          "url": "https://open.spotify.com/artist/50bNpMlfosk7TNeB6xBc5g"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169451,
+      "name": "Ay Papi - Radio Edit",
+      "url": "https://open.spotify.com/track/2Vi8KLHhnVYQ7t4wqm7YVW"
+    },
+    {
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/56EvRHiuKxCqqOvH7MX9z2"
       },
@@ -5832,6 +5858,14 @@
         {
           "name": "Cumbiafrica",
           "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        },
+        {
+          "name": "MORENITA",
+          "url": "https://open.spotify.com/artist/4BRR1MOnfQFaBKEDhRkZ71"
         }
       ],
       "date_added": "2025-06-13",
@@ -5994,7 +6028,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 158387,
       "name": "No Sleep (No Me Dejan Dormir)",
       "url": "https://open.spotify.com/track/1JwMrp7fkOKHQRimzi8tuL"
@@ -6108,7 +6142,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 217500,
       "name": "OBSESION",
       "url": "https://open.spotify.com/track/2Xv7APjqwJ7wY5nr7DGyHH"
@@ -8712,7 +8746,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 191475,
       "name": "una noche con hugel",
       "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Voc\u00ea j\u00e1 dan\u00e7ou muito essas m\u00fasicas num inferninho insalubre. Foto: The Strokes",
+  "description": "Voc\u00ea j\u00e1 dan\u00e7ou muito essas m\u00fasicas num inferninho insalubre. Foto: Tame Impala",
   "name": "Indiespens\u00e1vel",
   "tracks": [
     {
@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "End Of Summer",
+        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
+    },
+    {
+      "album": {
         "name": "Kid A",
         "url": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 251426,
       "name": "Everything In Its Right Place",
       "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8"

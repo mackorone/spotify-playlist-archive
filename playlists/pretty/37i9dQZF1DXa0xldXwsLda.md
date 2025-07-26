@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Buen provecho!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,643 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,645 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 63 | [Boys Don't Cry](https://open.spotify.com/track/2orxzsGKBr5wI7W1bY6g1A) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Nineteeneighties](https://open.spotify.com/album/4TnqhYlH5FEJzjBdU96III) | 3:46 |
 | 64 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 |
 | 65 | [Pronto](https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Pronto](https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ) | 3:48 |
-| 66 | [Amor Papaya en Invierno](https://open.spotify.com/track/4TZ0kv6Elbb4cTsoNXxBZJ) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Amor Papaya](https://open.spotify.com/album/4SedZWefA0qnDU6mnDiXI6) | 3:25 |
-| 67 | [Epitafio](https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Epitafio](https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK) | 2:37 |
+| 66 | [Epitafio](https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Epitafio](https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK) | 2:37 |
+| 67 | [Amor Papaya en Invierno](https://open.spotify.com/track/4TZ0kv6Elbb4cTsoNXxBZJ) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Amor Papaya](https://open.spotify.com/album/4SedZWefA0qnDU6mnDiXI6) | 3:25 |
 | 68 | [Burbujas De Amor](https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Burbujas De Amor](https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq) | 4:03 |
 | 69 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 |
 | 70 | [me haces bien](https://open.spotify.com/track/4I31qeJXdtVgG7a7RIxPTj) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [MALOS Y BUENOS RECUERDOS](https://open.spotify.com/album/3rwYRSMbEuUiuxqDmgZUhJ) | 2:52 |
@@ -88,11 +88,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 78 | [En Las Olas](https://open.spotify.com/track/7wq9qUvUvQhv6kMQ13tyCX) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [En Las Olas](https://open.spotify.com/album/2wfE4uDiMSti5YCwfaZssj) | 3:22 |
 | 79 | [corazones negros](https://open.spotify.com/track/1gsq8t6jMgffTisrwMUcbW) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [corazones negros](https://open.spotify.com/album/1YWFCiS1oYNYTdVSqWxNjG) | 2:49 |
 | 80 | [Nada Me Falta \(Welcome To Tijuana\)](https://open.spotify.com/track/22tGC8xKORmlKcmpKHqdMA) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Nada Me Falta \(Welcome To Tijuana\)](https://open.spotify.com/album/1p4nM45VgvTK3XUc4u6YOO) | 3:01 |
-| 81 | [No Soy Yo](https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [No Soy Yo](https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09) | 3:13 |
-| 82 | [Es Por Ti](https://open.spotify.com/track/1fPBBcBon7d2EuOcye2rsT) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Es Por Ti](https://open.spotify.com/album/4OiWC358icDw3f18lxFYjT) | 3:13 |
+| 81 | [Es Por Ti](https://open.spotify.com/track/1fPBBcBon7d2EuOcye2rsT) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Es Por Ti](https://open.spotify.com/album/4OiWC358icDw3f18lxFYjT) | 3:13 |
+| 82 | [No Soy Yo](https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [No Soy Yo](https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09) | 3:13 |
 | 83 | [Juego de Amor](https://open.spotify.com/track/6xZ8P2C0gYWEy3EgkXVGuL) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Juego de Amor](https://open.spotify.com/album/34i7W2TuiUVTJoIsroG0Q9) | 3:57 |
-| 84 | [Eres Tú](https://open.spotify.com/track/2mCJpbOH8h7vwu2oJYFCjh) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Eres Tú](https://open.spotify.com/album/21fMKfrrSkfaUvvWu5wrJR) | 2:39 |
-| 85 | [Rayando El Sol](https://open.spotify.com/track/0eh9gAGvtaLI8cIzKsdCgn) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Rayando El Sol](https://open.spotify.com/album/7Hbcex3ZqA8hk0kcTq4PLe) | 3:59 |
+| 84 | [Rayando El Sol](https://open.spotify.com/track/0eh9gAGvtaLI8cIzKsdCgn) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Rayando El Sol](https://open.spotify.com/album/7Hbcex3ZqA8hk0kcTq4PLe) | 3:59 |
+| 85 | [Eres Tú](https://open.spotify.com/track/2mCJpbOH8h7vwu2oJYFCjh) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Eres Tú](https://open.spotify.com/album/21fMKfrrSkfaUvvWu5wrJR) | 2:39 |
 | 86 | [Si Ella Se Va](https://open.spotify.com/track/2GvFANHYc9Nckxu4OQHDOf) | [Jafú](https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ) | [Si Ella Se Va](https://open.spotify.com/album/6xKegFA0uFcks5W2dTWgrE) | 2:52 |
 | 87 | [Manuscrito en Invierno](https://open.spotify.com/track/1hIdE1y2rspPS6V31nxtUb) | [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Manuscrito en Invierno](https://open.spotify.com/album/0eat9QP15I071fjbI3aKn8) | 3:36 |
 | 88 | [Un Momento Solos](https://open.spotify.com/track/4zvqaIIlCDD2gNdbgvSZBC) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Un Momento Solos](https://open.spotify.com/album/2jh79l3cHLJ1lRoMCpFtSA) | 3:40 |

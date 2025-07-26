@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777530,
+  "num_followers": 777529,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABuO4fhc1RMqXkSHk1+J5j8",
+  "snapshot_id": "aIF3gAAAAABBTE4D/ltdlVZUwfy6OrNn",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "Say Amen (Saturday Night)",
-      "url": "https://open.spotify.com/track/76vMKwFtdDDCLcM6zXybjB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Weird to Live, Too Rare to Die!",
         "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 192053,
       "name": "Miss Jackson (feat. LOLO)",
       "url": "https://open.spotify.com/track/46Kcradxrva9Dny4lHU1b3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "Say Amen (Saturday Night)",
+      "url": "https://open.spotify.com/track/76vMKwFtdDDCLcM6zXybjB"
     },
     {
       "added_at": null,

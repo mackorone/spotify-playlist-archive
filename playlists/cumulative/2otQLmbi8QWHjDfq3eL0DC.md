@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-336 songs - 16 hr 20 min
+337 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,11 +14,12 @@
 | [21 Reasons](https://open.spotify.com/track/4cxMytE6WYxTrEc20EST9O) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 2:35 | 2023-11-03 | 2024-03-02 |
 | [405](https://open.spotify.com/track/0CRTi3RDk5Aqk3nkGbB97M) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi) | [405](https://open.spotify.com/album/2kyxaYdrzXy8jtAyLWjTPU) | 3:39 | 2024-05-31 | 2024-06-15 |
 | [4AM](https://open.spotify.com/track/3lvYcFY5GGuuKjVYQj7FD1) | [Sarah Story](https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt) | [4AM](https://open.spotify.com/album/3aKsVI5oxhjZH1d8vYkx6T) | 3:00 | 2024-07-12 | 2024-09-07 |
-| [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 | 2025-04-11 |  |
+| [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 | 2025-04-11 | 2025-07-26 |
 | [8 Days](https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [8 Days](https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD) | 2:10 | 2024-09-13 | 2024-12-07 |
 | [96 \(feat\. Shapes & Dada Jones\)](https://open.spotify.com/track/7dYnsb6ZIhKaxcrxgLnpHR) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw), [Dada Jones](https://open.spotify.com/artist/0cWFj6zZkVsQ4KzXRdgRtW) | [96 \(feat\. Shapes & Dada Jones\)](https://open.spotify.com/album/7hyrq5IHLwnjBLvo9ZV7Cx) | 2:30 | 2024-12-02 | 2024-12-07 |
 | [A Better World](https://open.spotify.com/track/7tCXmtYrYNFWMa7vyQfuAI) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [A Better World](https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr) | 2:52 | 2025-06-13 |  |
 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 | 2025-01-16 |  |
+| [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0) | 3:27 | 2025-07-25 |  |
 | [Addiction \(feat\. Jai Waetford\)](https://open.spotify.com/track/7qfvLOlyhDIYYCO1C3cacU) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Jai Waetford](https://open.spotify.com/artist/65eKzckWWGA123QUyi2Qo3) | [Addiction \(feat\. Jai Waetford\)](https://open.spotify.com/album/49N0fz7WkUXI0aLjI9XBOd) | 2:36 | 2025-06-20 |  |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-11-03 | 2025-03-08 |
 | [Afraid to Feel](https://open.spotify.com/track/51F9f054iavS6YHZOe57WE) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 2:57 | 2023-11-03 | 2023-11-25 |

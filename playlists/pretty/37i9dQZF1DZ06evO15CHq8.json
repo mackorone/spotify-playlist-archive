@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 653553,
+  "num_followers": 653669,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABZZBbspT2z6hTLXNdI+d73",
+  "snapshot_id": "aIF3gAAAAAAzHcUaNmo3nlIwsvIsG5JI",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 126850,
       "name": "Antarctica",
       "url": "https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I No Longer Fear the Razor Guarding My Heel",
-        "url": "https://open.spotify.com/album/5QvM8XR1GooXrA7TgIr6Ok"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 167679,
-      "name": "My Flaws Burn Through My Skin Like Demonic Flames from Hell",
-      "url": "https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ"
     },
     {
       "added_at": null,
@@ -71,6 +55,22 @@
       "duration_ms": 168489,
       "name": "...And to Those I Love, Thanks for Sticking Around",
       "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I No Longer Fear the Razor Guarding My Heel",
+        "url": "https://open.spotify.com/album/5QvM8XR1GooXrA7TgIr6Ok"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 167679,
+      "name": "My Flaws Burn Through My Skin Like Demonic Flames from Hell",
+      "url": "https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ"
     },
     {
       "added_at": null,
@@ -706,27 +706,15 @@
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 192168,
-      "name": "Diemonds",
-      "url": "https://open.spotify.com/track/4PYYfhYIP7TyzxeMU4xvp3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YUNGDEATHLILLIFE",
-        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
-      },
-      "artists": [
+        },
         {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
         }
       ],
-      "duration_ms": 133746,
-      "name": "LTE",
-      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
+      "duration_ms": 169319,
+      "name": "$outh $ide $uicide",
+      "url": "https://open.spotify.com/track/496GZe7MxLloHgUQTmY2Ch"
     },
     {
       "added_at": null,
@@ -743,6 +731,22 @@
       "duration_ms": 136997,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YUNGDEATHLILLIFE",
+        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "LTE",
+      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
     },
     {
       "added_at": null,
@@ -770,15 +774,11 @@
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Pouya",
-          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
         }
       ],
-      "duration_ms": 169319,
-      "name": "$outh $ide $uicide",
-      "url": "https://open.spotify.com/track/496GZe7MxLloHgUQTmY2Ch"
+      "duration_ms": 192168,
+      "name": "Diemonds",
+      "url": "https://open.spotify.com/track/4PYYfhYIP7TyzxeMU4xvp3"
     },
     {
       "added_at": null,

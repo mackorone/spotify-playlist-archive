@@ -4,7 +4,7 @@
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI?si=HUkkftvyRfOlI0i3TNRJNw">Chella</a>
 
-404 songs - 1 day 4 hr 11 min
+405 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [No Suffer \(3am in Jozi\)](https://open.spotify.com/track/4CHdozuiZ8q5ZjUqeYNjs8) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [No Suffer \(3am in Jozi\)](https://open.spotify.com/album/5M6D9F6tKvTroGFZBi6z1D) | 3:36 | 2024-02-08 | 2025-03-21 |
 | [Nobody \(Amapiano\)](https://open.spotify.com/track/7bwMgt5a2vGunZbqfQGYSN) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Nobody \(Amapiano\)](https://open.spotify.com/album/4p6H3XZEwl7qObMSQwhioa) | 3:50 | 2022-05-23 | 2022-11-03 |
 | [Nonchalant](https://open.spotify.com/track/3is44bB5PrO4fnnnJWtlBH) | [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn) | [Bas'tholile](https://open.spotify.com/album/2oss3QgSxdNikts0shvMMo) | 7:09 | 2025-06-19 | 2025-07-08 |
+| [Nyekeleni](https://open.spotify.com/track/2TUHbp1oYe349X8Bbs3Pi2) | [DJ Axeidental](https://open.spotify.com/artist/6BcVJBWTT5nAIynLLz4mrz), [YanoKinqz](https://open.spotify.com/artist/40xHdqb73QPZWUF69wgajt), [Rushleroii](https://open.spotify.com/artist/0XWIqV96Ge4K6joGJeTBzf) | [Nyekeleni](https://open.spotify.com/album/67Qu4iFux3MUA8PKJDenKA) | 7:16 | 2025-07-24 |  |
 | [Oblee \(Remix\)](https://open.spotify.com/track/3NbhGCx2XzyxwzL8YT8rCU) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u), [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [Oblee \(Remix\)](https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC) | 2:40 | 2025-03-20 |  |
 | [OCEAN \- GuiltyBeatz Remix](https://open.spotify.com/track/0R1LtMkJJxzE1cwKjwemkG) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [OCEAN \(GuiltyBeatz Remix\)](https://open.spotify.com/album/1jlNrH2DpKVDFGKUWtjoQz) | 4:06 | 2022-08-04 | 2022-11-11 |
 | [ODG \- Remix](https://open.spotify.com/track/3BqDMZ9MxSaoXe3zuVIKuR) | [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [ODG \(Remix\)](https://open.spotify.com/album/6vh28C9UkOKgW8K1KQ5Q2M) | 3:15 | 2022-08-11 | 2022-09-10 |

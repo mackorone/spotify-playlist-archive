@@ -4,7 +4,7 @@
 
 > Apaga a luz e deixa rolar.
 
-98 songs - 5 hr 17 min
+99 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Não Tenho Tempo](https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Não Tenho Tempo](https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP) | 2:05 | 2023-11-24 | 2024-10-08 |
 | [nós 2](https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Mais Que os Olhos Podem Ver](https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz) | 3:06 | 2023-06-16 |  |
 | [Paga pra Ver](https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw) | [Paga pra Ver](https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8) | 2:12 | 2024-03-08 |  |
+| [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 | 2025-07-25 |  |
 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 | 2023-06-16 |  |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-06-16 | 2024-09-06 |
 | [Perigo](https://open.spotify.com/track/4PfOoP8Ip7y5qYRMM9VtZK) | [Akin](https://open.spotify.com/artist/1rHhyIAiFS59m0cjtVzusv) | [Brisa](https://open.spotify.com/album/7zvPrl4QuI1pRVWKLlqAxm) | 3:09 | 2024-08-30 | 2024-12-27 |
@@ -80,7 +81,7 @@
 | [Sexflix](https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Sexflix](https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ) | 2:55 | 2023-06-16 |  |
 | [Singular](https://open.spotify.com/track/0yTMkAKfAHDSEh4CQhKU26) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Singular](https://open.spotify.com/album/3ffB44QD77vSxTGv95cTFG) | 4:27 | 2023-06-16 | 2024-04-19 |
 | [Sintomas de Prazer](https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:28 | 2023-06-16 |  |
-| [Slow Motion](https://open.spotify.com/track/3jbrQ70noEPkUyiYvZkOHe) | [Nêssa](https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr) | [Slow Motion](https://open.spotify.com/album/2R6pUKYNA3c2ph5dTkaa06) | 3:26 | 2024-03-08 |  |
+| [Slow Motion](https://open.spotify.com/track/3jbrQ70noEPkUyiYvZkOHe) | [Nêssa](https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr) | [Slow Motion](https://open.spotify.com/album/2R6pUKYNA3c2ph5dTkaa06) | 3:26 | 2024-03-08 | 2025-07-26 |
 | [Someway Somehow](https://open.spotify.com/track/480qefaDykyATTF4NGPtFb) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Someway Somehow](https://open.spotify.com/album/4GKSES7C3yzMLHiI1ETfSl) | 3:32 | 2023-06-16 | 2024-10-08 |
 | [STR!PP3R](https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [STR!PP3R](https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9) | 3:07 | 2023-09-29 | 2025-06-14 |
 | [São Paulo](https://open.spotify.com/track/0UVNwFoQioR960YIHd5f2D) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [São Paulo](https://open.spotify.com/album/1zfb69TVle95DrRItAr9vq) | 3:52 | 2023-06-16 |  |

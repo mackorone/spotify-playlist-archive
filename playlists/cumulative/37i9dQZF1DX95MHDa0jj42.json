@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 122666,
       "name": "Ajaccio",
       "url": "https://open.spotify.com/track/7rRrniiWIeC8B47oPZf3ha"
@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/2VeTuRKwofZwqUICBzSXBn"
+      },
+      "artists": [
+        {
+          "name": "Mike Beating",
+          "url": "https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3"
+        },
+        {
+          "name": "Paxkalito",
+          "url": "https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Amor de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/5HxmIBv8INF0vdLDHaih6t"
+    },
+    {
+      "album": {
         "name": "Amor vincit omnia",
         "url": "https://open.spotify.com/album/6hFEjkj2wUAPwSynAFLZTt"
       },
@@ -106,7 +128,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 138070,
       "name": "aqua de vida",
       "url": "https://open.spotify.com/track/0Ne1LywAyuBFOHyExJrCZF"
@@ -186,6 +208,24 @@
       "duration_ms": 136000,
       "name": "blue lagoon",
       "url": "https://open.spotify.com/track/3jKuxV5BdPLyMbG0cUPZl4"
+    },
+    {
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/1aZNeADqU573XXL0hD6IWk"
+      },
+      "artists": [
+        {
+          "name": "Otaam",
+          "url": "https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/7ejpvugQBZqQioroGLJGC2"
     },
     {
       "album": {
@@ -1223,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Sea Breeze",
+        "url": "https://open.spotify.com/album/6UZGrg85MPz4wbeegsrNM9"
+      },
+      "artists": [
+        {
+          "name": "muun lite",
+          "url": "https://open.spotify.com/artist/0JLWWTf1gMwZA4OOA9TM38"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sea Breeze",
+      "url": "https://open.spotify.com/track/0g4xca3uZFCN1bLqaIMr59"
+    },
+    {
+      "album": {
         "name": "Serenade",
         "url": "https://open.spotify.com/album/5crdRSF53XnioB0IJME6J5"
       },
@@ -1460,7 +1518,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 129882,
       "name": "Sunset Dreams",
       "url": "https://open.spotify.com/track/46CFqyiU1lUJ4IUJ5zskas"

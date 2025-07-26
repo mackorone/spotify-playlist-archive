@@ -2,7 +2,7 @@
 
 ### [boleritos](https://open.spotify.com/playlist/37i9dQZF1DX64myInc1vfu)
 
-> The new bolero era\. Los boleritos de hoy, just for you\. Cover: Daniel, Me Estás Matando
+> The new bolero era\. Los boleritos de hoy, just for you\. Cover: Escarlata
 
 154 songs - 8 hr 40 min
 

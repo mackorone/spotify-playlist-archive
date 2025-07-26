@@ -1,13 +1,29 @@
 {
-  "description": "Dark, hard hitting pop. Cover: DYLAN",
-  "num_followers": 425961,
+  "description": "Dark, hard hitting pop. Cover: Maggie Lindemann",
+  "num_followers": 426023,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHnICQAAAABeMp0ATz1PWu1LDqzykrKt",
+  "snapshot_id": "aIO7IwAAAABy59KjN+CXSekfhYRsKfJN",
   "tracks": [
+    {
+      "added_at": "2025-07-25 17:13:07",
+      "album": {
+        "name": "one of the ones",
+        "url": "https://open.spotify.com/album/23sMoAJPn8VC3DBBq6aZ9B"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 125909,
+      "name": "one of the ones",
+      "url": "https://open.spotify.com/track/1ZhIg3jw9SDUAwUCtGiPnk"
+    },
     {
       "added_at": "2025-07-18 04:00:23",
       "album": {
@@ -25,6 +41,38 @@
       "url": "https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV"
     },
     {
+      "added_at": "2025-07-25 04:19:12",
+      "album": {
+        "name": "the devil wears converse",
+        "url": "https://open.spotify.com/album/3xPGzASX9K4oqca20EJMjO"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 159234,
+      "name": "the devil wears converse",
+      "url": "https://open.spotify.com/track/1inJ5Hljjm0o90sqIMn1rl"
+    },
+    {
+      "added_at": "2025-07-25 04:19:12",
+      "album": {
+        "name": "I Love This!",
+        "url": "https://open.spotify.com/album/1kXssAuP3Kmlb164pqZjB6"
+      },
+      "artists": [
+        {
+          "name": "PUNCHBAG",
+          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
+        }
+      ],
+      "duration_ms": 170668,
+      "name": "I Love This!",
+      "url": "https://open.spotify.com/track/2vyB53UUSya8kQ8uChgZic"
+    },
+    {
       "added_at": "2025-07-11 04:00:21",
       "album": {
         "name": "CRACK!",
@@ -39,6 +87,22 @@
       "duration_ms": 222545,
       "name": "CRACK!",
       "url": "https://open.spotify.com/track/0mt50jzA5xVZXBfnX9X5kJ"
+    },
+    {
+      "added_at": "2025-07-25 17:13:07",
+      "album": {
+        "name": "Whispers in the Dark",
+        "url": "https://open.spotify.com/album/74MpVEEeFqjcmpKIxvTN5Q"
+      },
+      "artists": [
+        {
+          "name": "\u00c5ska",
+          "url": "https://open.spotify.com/artist/17EjA3N7j0S0MmVpD3ilad"
+        }
+      ],
+      "duration_ms": 154312,
+      "name": "Whispers in the Dark",
+      "url": "https://open.spotify.com/track/3PmkPGELTEHpUq2GKX0fNI"
     },
     {
       "added_at": "2025-07-18 04:00:23",
@@ -381,22 +445,6 @@
       "url": "https://open.spotify.com/track/0KxoMqgYkchnTZ0sRrlyqw"
     },
     {
-      "added_at": "2025-06-13 04:00:58",
-      "album": {
-        "name": "SLEEPING WITH KARMA",
-        "url": "https://open.spotify.com/album/0wb2E0nDn3qfxsgupyqqOx"
-      },
-      "artists": [
-        {
-          "name": "Ella Collier",
-          "url": "https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ"
-        }
-      ],
-      "duration_ms": 164610,
-      "name": "SLEEPING WITH KARMA",
-      "url": "https://open.spotify.com/track/3yJDEWDY4mj4fslXhVLcLx"
-    },
-    {
       "added_at": "2025-05-30 04:00:35",
       "album": {
         "name": "in my head",
@@ -525,22 +573,6 @@
       "url": "https://open.spotify.com/track/1oTN3bznxhDVCkD6uqPflK"
     },
     {
-      "added_at": "2025-06-06 04:00:31",
-      "album": {
-        "name": "Known Better",
-        "url": "https://open.spotify.com/album/0ZHK8D7PKdxw84sgkh3g4K"
-      },
-      "artists": [
-        {
-          "name": "Emi Grace",
-          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
-        }
-      ],
-      "duration_ms": 158382,
-      "name": "Known Better",
-      "url": "https://open.spotify.com/track/6ug40pJYvZ5jitCcNN4tOh"
-    },
-    {
       "added_at": "2025-05-09 04:00:12",
       "album": {
         "name": "out of order",
@@ -625,22 +657,6 @@
       "url": "https://open.spotify.com/track/3UKFn5oN9irp3q27BwnfCK"
     },
     {
-      "added_at": "2025-05-02 04:00:38",
-      "album": {
-        "name": "Boys",
-        "url": "https://open.spotify.com/album/3aUoM464DNR5Z6bjweulfC"
-      },
-      "artists": [
-        {
-          "name": "Just For Fun",
-          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
-        }
-      ],
-      "duration_ms": 130621,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/2PODSkB110NvZg50k2pj8a"
-    },
-    {
       "added_at": "2025-05-16 04:00:11",
       "album": {
         "name": "Like You",
@@ -703,22 +719,6 @@
       "duration_ms": 137960,
       "name": "It Wasn't Me",
       "url": "https://open.spotify.com/track/2Y8aKLQSTd5BCIMMmPzdPG"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "diamonds",
-        "url": "https://open.spotify.com/album/2LLT1hRwEkJW5bWY3ZXTpX"
-      },
-      "artists": [
-        {
-          "name": "Aziya",
-          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
-        }
-      ],
-      "duration_ms": 141877,
-      "name": "diamonds",
-      "url": "https://open.spotify.com/track/5tevqZie8vY6t1c5O1zt5h"
     },
     {
       "added_at": "2025-05-02 04:00:38",

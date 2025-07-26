@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: mark william lewis
 
-331 songs - 21 hr 39 min
+332 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Musica](https://open.spotify.com/track/1PcorHXcbsQu0II44fnwAZ) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Musica](https://open.spotify.com/album/4h30UXcT18pyZ5YMmT8kdY) | 5:49 | 2023-11-16 | 2025-03-01 |
 | [my chameleon](https://open.spotify.com/track/54S0wPdY65lYzkPnMxds5z) | [Hanna Leess](https://open.spotify.com/artist/2DpRhBdv7s27ADwX1B2lQp) | [innocent as a rose](https://open.spotify.com/album/2SDbN9YMteNXlKStdE88tR) | 2:37 | 2025-01-24 |  |
 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 | 2023-08-17 | 2024-10-26 |
+| [My Ideal](https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [My Ideal](https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4) | 4:43 | 2025-07-25 |  |
 | [Nautical \- Radio Edit](https://open.spotify.com/track/2fuEnEKYed6EpgWcMjVVqx) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9), [Novak Manojlovic](https://open.spotify.com/artist/3m2QbQV4vmNLDSCbQlBkJB) | [Nautical](https://open.spotify.com/album/74YCnRRhFUIFbGbRcN4xkY) | 3:17 | 2023-08-31 | 2023-12-13 |
 | [Never Fight The Way You Feel](https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Never Fight The Way You Feel](https://open.spotify.com/album/3zc7JOm4n76FkKzaNwV3qQ) | 2:43 | 2023-10-10 | 2025-03-01 |
 | [Never Fight The Way You Feel](https://open.spotify.com/track/4pZeOERX9UErM22y7nVjrL) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Domino](https://open.spotify.com/album/0YPLC3FyAYENuP3KhyLi2Q) | 2:43 | 2023-11-30 | 2024-04-19 |

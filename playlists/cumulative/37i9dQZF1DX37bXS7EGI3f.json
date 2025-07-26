@@ -3395,6 +3395,24 @@
     },
     {
       "album": {
+        "name": "Eternity (2025 Remaster)",
+        "url": "https://open.spotify.com/album/4DB7BKts42j2zGW4yBRTzU"
+      },
+      "artists": [
+        {
+          "name": "Kamelot",
+          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342093,
+      "name": "Eternity - 2025 Remaster",
+      "url": "https://open.spotify.com/track/7bqFVDJNQYZ0H8YOuijESK"
+    },
+    {
+      "album": {
         "name": "Event Horizon",
         "url": "https://open.spotify.com/album/42gPwQ8a9gO5C2pSQpXrPm"
       },
@@ -3810,7 +3828,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 206520,
       "name": "Fight the Tide",
       "url": "https://open.spotify.com/track/7x1BkDkUOi6qHeptyZBOaE"
@@ -8592,7 +8610,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 404200,
       "name": "Ruler Of Tamag",
       "url": "https://open.spotify.com/track/4V5raAqQ0Emn6JCrcEIW9p"
@@ -8654,7 +8672,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 292120,
       "name": "Run! (feat. Marko Hietala)",
       "url": "https://open.spotify.com/track/5vpn2RpYnBmNrsDmksRIJS"
@@ -9921,6 +9939,24 @@
     },
     {
       "album": {
+        "name": "The Duelist",
+        "url": "https://open.spotify.com/album/4OgDOuY3NUpKbG0YSYl2kv"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "The Duelist",
+      "url": "https://open.spotify.com/track/3iQLR1D3L0iremvqRF0HXE"
+    },
+    {
+      "album": {
         "name": "The Endless Shore",
         "url": "https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7"
       },
@@ -10662,7 +10698,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 251000,
       "name": "The Unkillable Soldier",
       "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"

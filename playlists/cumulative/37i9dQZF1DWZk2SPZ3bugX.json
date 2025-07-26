@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
       },
@@ -316,6 +334,32 @@
       "duration_ms": 253520,
       "name": "Am I Wrong (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/1UjyF6okUHhnVxaLV8ojsA"
+    },
+    {
+      "album": {
+        "name": "and it felt like..",
+        "url": "https://open.spotify.com/album/3aaaDyEV0juYcVqSV15zYS"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        },
+        {
+          "name": "Alex Hosking",
+          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129996,
+      "name": "and it felt like..",
+      "url": "https://open.spotify.com/track/4KOhgGKxWz9Cj8XvHDDR3W"
     },
     {
       "album": {
@@ -904,7 +948,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 205566,
       "name": "Citron",
       "url": "https://open.spotify.com/track/0S8xh81souCXhlkILDEkUk"
@@ -1666,7 +1710,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 210840,
       "name": "Get It At Home",
       "url": "https://open.spotify.com/track/1PgQKktANGj96jDspXkZCq"
@@ -4414,7 +4458,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
@@ -4530,6 +4574,32 @@
       "duration_ms": 147360,
       "name": "When It All Falls Down",
       "url": "https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF"
+    },
+    {
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/3CPw3JYkY19cnFIlHeJyuM"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Max Chapman",
+          "url": "https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5"
+        },
+        {
+          "name": "Mischief",
+          "url": "https://open.spotify.com/artist/7r8O7K6KGJwVaP0w7P20bX"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201496,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5"
     },
     {
       "album": {

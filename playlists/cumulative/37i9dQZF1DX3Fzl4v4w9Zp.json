@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "All Around Cowboy",
+        "url": "https://open.spotify.com/album/6MI2xRnfVU5AtzafAtF928"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177935,
+      "name": "All Around Cowboy",
+      "url": "https://open.spotify.com/track/4bgXtfU50hzMoPlA6kBl2S"
+    },
+    {
+      "album": {
         "name": "The Boy",
         "url": "https://open.spotify.com/album/1yTD8c5Vwp7lT2K7bJskOd"
       },
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 180223,
       "name": "Call Me (Whatever You Like)",
       "url": "https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu"
@@ -10689,6 +10707,28 @@
     },
     {
       "album": {
+        "name": "Reverend (feat. Billy Strings)",
+        "url": "https://open.spotify.com/album/2lMtrArg7d3Oed4h6j35WQ"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347050,
+      "name": "Reverend (feat. Billy Strings)",
+      "url": "https://open.spotify.com/track/0XxrvPXoMCePCYr0icUdJk"
+    },
+    {
+      "album": {
         "name": "Underground Forever",
         "url": "https://open.spotify.com/album/2EJv943X8gpKSdw82Hwhyb"
       },
@@ -11638,7 +11678,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 245676,
       "name": "Silver Rounds",
       "url": "https://open.spotify.com/track/2qthPhpNXqORtnMtnbR1ZU"
@@ -12415,6 +12455,24 @@
     },
     {
       "album": {
+        "name": "Grossly Aware",
+        "url": "https://open.spotify.com/album/1i8zIVZoRTC5GEM2ZG1UWE"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216826,
+      "name": "Strawberry, California",
+      "url": "https://open.spotify.com/track/0MSRg7rbB8d6k8SWWHKXam"
+    },
+    {
+      "album": {
         "name": "Streets of London",
         "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
       },
@@ -12502,7 +12560,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 222654,
       "name": "Sugar in the Tank",
       "url": "https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj"
@@ -13884,7 +13942,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 219400,
       "name": "Time Waited",
       "url": "https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR"

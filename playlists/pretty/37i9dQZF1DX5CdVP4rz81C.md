@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,399 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,316 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 25 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |
 | 26 | [Empty Bench](https://open.spotify.com/track/5FYoVG03kAIK0F8VuSKykk) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Empty Bench](https://open.spotify.com/album/3km5zzX8gjqQwNcc2E6LHk) | 3:06 |
 | 27 | [SAFE](https://open.spotify.com/track/0Bd3qt36q8Je7W6jGYYITL) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [SAFE](https://open.spotify.com/album/3RIdpPPRMQgqWTK0nk3sT4) | 2:59 |
-| 28 | [Pitfall](https://open.spotify.com/track/1P4amPdexM1Lw8JAPlycik) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [chandol](https://open.spotify.com/artist/6QxpOqXgNVgObidnodQ9yz) | [Burnout](https://open.spotify.com/album/3N6OVnOAKr9op19GcbxB4g) | 3:02 |
+| 28 | [Pitfall](https://open.spotify.com/track/1P4amPdexM1Lw8JAPlycik) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Burnout](https://open.spotify.com/album/3N6OVnOAKr9op19GcbxB4g) | 3:02 |
 | 29 | [baby boy](https://open.spotify.com/track/360jOKc4XDCz6bhHOmCf8h) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [baby boy](https://open.spotify.com/album/0K392evnokfHJ7g52wxTGb) | 2:35 |
 | 30 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 |
 | 31 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 |

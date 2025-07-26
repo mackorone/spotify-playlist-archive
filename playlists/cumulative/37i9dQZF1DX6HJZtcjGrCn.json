@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u2600\ufe0fO teu ver\u00e3o alternativo chegou\u2600\ufe0f. Foto: The Favors",
+  "description": "\u2600\ufe0fO teu ver\u00e3o alternativo chegou\u2600\ufe0f. Foto: Noiserv, Surma",
   "name": "Ver\u00e3o Indie",
   "tracks": [
+    {
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
     {
       "album": {
         "name": "20 . 08 . A fearless party between a kid and his own thoughts",
@@ -792,7 +810,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 245836,
       "name": "Boston",
       "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
@@ -922,7 +940,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 200373,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 322750,
       "name": "Desvio na Mealhada",
       "url": "https://open.spotify.com/track/5EEY17TWCAJs6T17MY7Dzy"
@@ -1573,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "d\u00a3aler",
+        "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "d\u00a3aler",
+      "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
+    },
+    {
+      "album": {
         "name": "Earthstar",
         "url": "https://open.spotify.com/album/2bxcJhoKxnmm8qiNtUCa75"
       },
@@ -1685,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "End Of Summer",
+        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
+    },
+    {
+      "album": {
         "name": "Era de ouro",
         "url": "https://open.spotify.com/album/1E6LFG3WuLbR667lgUgV2p"
       },
@@ -1776,6 +1830,24 @@
       "duration_ms": 206899,
       "name": "Eu Queria",
       "url": "https://open.spotify.com/track/4hy4c8EqVb2AYTWqKj9pim"
+    },
+    {
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296680,
+      "name": "EURO-COUNTRY",
+      "url": "https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0"
     },
     {
       "album": {
@@ -2142,6 +2214,24 @@
       "duration_ms": 311269,
       "name": "Henry, come on",
       "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
+    },
+    {
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144744,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
     },
     {
       "album": {
@@ -2895,6 +2985,24 @@
     },
     {
       "album": {
+        "name": "LITTLE BOY",
+        "url": "https://open.spotify.com/album/4PvIvGtOKaFKfn9z5GjFAK"
+      },
+      "artists": [
+        {
+          "name": "Raquel Martins",
+          "url": "https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197498,
+      "name": "LITTLE BOY",
+      "url": "https://open.spotify.com/track/6fjdGbQ2vRYOjKQlB5JeHT"
+    },
+    {
+      "album": {
         "name": "Living In A Haze (feat. The Beaches)",
         "url": "https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E"
       },
@@ -3312,7 +3420,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 222720,
       "name": "Mochila",
       "url": "https://open.spotify.com/track/5SPUcL8HQPcbG4H5hjzNxV"
@@ -3330,7 +3438,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 159197,
       "name": "Morangos",
       "url": "https://open.spotify.com/track/6NDbIreCL9WwFrFX7Gthwv"
@@ -4056,7 +4164,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 192000,
       "name": "priva",
       "url": "https://open.spotify.com/track/71N6nS5oKkG4wL39zU5JuD"

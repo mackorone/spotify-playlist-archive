@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "Pleasure",
+        "url": "https://open.spotify.com/album/0LbR39fJOYWdaJ7sHfcYtF"
+      },
+      "artists": [
+        {
+          "name": "JOLIN",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Fish Love",
+      "url": "https://open.spotify.com/track/2mchvAmESMEQzuVBB07qAe"
+    },
+    {
+      "album": {
         "name": "Penthouse3 (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/6POBGmlw3UvjwFrEm4T3U3"
       },

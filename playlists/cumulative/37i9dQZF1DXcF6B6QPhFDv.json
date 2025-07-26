@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "Rock never dies. Cover: YUNGBLUD",
+  "description": "Rock never dies. Cover: Petey USA",
   "name": "MARROW",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 224178,
       "name": "2am",
       "url": "https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK"
+    },
+    {
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA"
+      },
+      "artists": [
+        {
+          "name": "sleepazoid",
+          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250268,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/4luxOEfutsNhpklD0kox93"
     },
     {
       "album": {
@@ -924,7 +942,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 230733,
       "name": "Anxiety - Spotify Singles",
       "url": "https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw"
@@ -1790,6 +1808,24 @@
       "duration_ms": 207636,
       "name": "blindspot",
       "url": "https://open.spotify.com/track/0SqZvFpQbApABMTzwQ4rXh"
+    },
+    {
+      "album": {
+        "name": "Blink",
+        "url": "https://open.spotify.com/album/7fK3P2L247RG1b0dzTqS4i"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172583,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/1fbhrJRDXKc061kMZpaVMp"
     },
     {
       "album": {
@@ -3034,6 +3070,24 @@
       "duration_ms": 189493,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
+    },
+    {
+      "album": {
+        "name": "Dang",
+        "url": "https://open.spotify.com/album/2pahZPfd9RrI1zO8fY6qqv"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202596,
+      "name": "Dang",
+      "url": "https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd"
     },
     {
       "album": {
@@ -4402,7 +4456,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 235013,
       "name": "Event of a Fire",
       "url": "https://open.spotify.com/track/6XeNjkIGrphY3kzyU5RZJk"
@@ -4956,7 +5010,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 160687,
       "name": "Forgiving",
       "url": "https://open.spotify.com/track/4Suzf2e7cS5K1aj3tLiwGv"
@@ -5368,7 +5422,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 386181,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd"
@@ -5946,7 +6000,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 225426,
       "name": "Hands",
       "url": "https://open.spotify.com/track/5ZUlQwfPA1vKUsV70eiUyu"
@@ -7164,7 +7218,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 217249,
       "name": "I Want You (Fever)",
       "url": "https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz"
@@ -8614,7 +8668,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 403520,
       "name": "LOOK OUT FOR ME",
       "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
@@ -10025,6 +10079,24 @@
     },
     {
       "album": {
+        "name": "N.O.V.A",
+        "url": "https://open.spotify.com/album/4HBA9y6e5lpzONKwSfs487"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160960,
+      "name": "N.O.V.A",
+      "url": "https://open.spotify.com/track/7u2yyIyLLMGyAuFrAHRbm6"
+    },
+    {
+      "album": {
         "name": "Naive",
         "url": "https://open.spotify.com/album/1LgDzmVzpgFJatwtnS8ZAO"
       },
@@ -10324,7 +10396,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 287556,
       "name": "No Place Like Home",
       "url": "https://open.spotify.com/track/5Rh3MTZKrqxKVxJEAYntdm"
@@ -11046,7 +11118,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 198380,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/4yiiRbfHkqhCj0ChW62ASx"
@@ -13311,6 +13383,24 @@
     },
     {
       "album": {
+        "name": "Iron",
+        "url": "https://open.spotify.com/album/1I37eoXjALZ9dOLeYOgJdQ"
+      },
+      "artists": [
+        {
+          "name": "Post Animal",
+          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306007,
+      "name": "Setting Sun",
+      "url": "https://open.spotify.com/track/4bUHiFK6oq9Io4fAZPWSwW"
+    },
+    {
+      "album": {
         "name": "seventeen",
         "url": "https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY"
       },
@@ -14012,6 +14102,24 @@
       "duration_ms": 206276,
       "name": "So Called Life",
       "url": "https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53"
+    },
+    {
+      "album": {
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "So Far So Fake",
+      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
     },
     {
       "album": {
@@ -14738,7 +14846,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 231000,
       "name": "sundays",
       "url": "https://open.spotify.com/track/1Wvl7G2pzy53umhn3RC05u"
@@ -17076,7 +17184,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 181559,
       "name": "UNSCARRED",
       "url": "https://open.spotify.com/track/4NCCOQLzOJxor8Jv7nTEGx"
@@ -17112,7 +17220,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 225053,
       "name": "V.I.S.",
       "url": "https://open.spotify.com/track/2EUp86hKB1fsdr3Mf5y2dN"
@@ -18412,6 +18520,24 @@
       "duration_ms": 242662,
       "name": "YOUtopia",
       "url": "https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx"
+    },
+    {
+      "album": {
+        "name": "Vice City Magic",
+        "url": "https://open.spotify.com/album/4nYVLUVhQb9bD7l1QlYoFS"
+      },
+      "artists": [
+        {
+          "name": "Mustard Service",
+          "url": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131726,
+      "name": "Yucky's Song",
+      "url": "https://open.spotify.com/track/5cRJk8e9Y2qgIFPo0lE3dr"
     },
     {
       "album": {

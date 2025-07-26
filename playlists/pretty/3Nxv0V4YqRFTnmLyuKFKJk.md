@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 
 > CURATED BY COLE SWINDELL\-\- these are his country essentials! Keep checking back to see who will curate next! This is the best of country!
 
-[Topsify](https://open.spotify.com/user/topsify) - 59,691 likes - 53 songs - 2 hr 58 min
+[Topsify](https://open.spotify.com/user/topsify) - 59,688 likes - 53 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 | 52 | [All On Me](https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:44 |
 | 53 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 
-Snapshot ID: `AAAD7AWax9ecFhh9S0LLu1MVd+mHWBfV`
+Snapshot ID: `AAAD7tpvhuUTJ7ZG3rOMNwMSlrRR91Kp`

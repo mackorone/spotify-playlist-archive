@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb?si=tmVe5xSYSgyTvre5VSp3LA">Tame Impala</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,366 likes - 55 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,369 likes - 55 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

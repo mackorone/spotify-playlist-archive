@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,917 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,921 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Olavu](https://open.spotify.com/track/4SCFv88gmWoEpjylL8R8z6) | [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96), [Patrick Abraham](https://open.spotify.com/artist/7MOkNn8q8v8oSHFT9auvvF), [Pramod Aravind](https://open.spotify.com/artist/3vRzP9IPjO7EINczxzSUrH) | [Olavu](https://open.spotify.com/album/4Bc8zUz977bKMTUJWgXmh0) | 2:06 |
 | 2 | [Gaanji](https://open.spotify.com/track/0nTl1C6WCW2yv5P2G8eK87) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Gaanji](https://open.spotify.com/album/2GClnG0LY6hIqv3CmLMznO) | 2:27 |
-| 3 | [Om Namah Shivaaya](https://open.spotify.com/track/4qlGv5Tb5xBZeqlRfGYE0l) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Bhoom Shankara](https://open.spotify.com/album/3oZsVSF8hx8YnJCoH2CK5O) | 4:01 |
-| 4 | [Nanu Nanna Papu](https://open.spotify.com/track/3McYQVjsObXDi1LtlB1rN2) | [Karibasava Tadakal](https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro), [Venkatesh Marakamdinni](https://open.spotify.com/artist/7GQH3o4GA4CUn2mNZQK22C) | [Nanu Nanna Papu](https://open.spotify.com/album/6D0Na9HcJwiUYrxRNvqzd0) | 4:24 |
-| 5 | [Peace](https://open.spotify.com/track/2xHINJevzhsDPd8tK9ZUGq) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Peace](https://open.spotify.com/album/1iJm3uK3VUBqZeIyBB9kVd) | 3:38 |
-| 6 | [Yaakinga Ee Preethi](https://open.spotify.com/track/5hNOFPW05wDf0CXvxF9ZGt) | [Karibasava Tadakal](https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro) | [Yaakinga Ee Preethi](https://open.spotify.com/album/2aieTBJY4ZRunLhlHi671t) | 4:16 |
-| 7 | [Chill Madu Maga](https://open.spotify.com/track/7JncE2mHoMdPipbAVGTeXZ) | [Suprith Nayak Official](https://open.spotify.com/artist/03zw6bTAA8lSfj1wJR8PMn) | [Chill Madu Maga](https://open.spotify.com/album/4aHx6I6Kp3Y2U1788IxFQ8) | 3:00 |
-| 8 | [Dark Side](https://open.spotify.com/track/3WfZFECvaHHGgLiRjgj0ze) | [Sagar Gowda](https://open.spotify.com/artist/7gTnN6gHfJ4BqHA6yyz3U9) | [Dark Side](https://open.spotify.com/album/4QCGjjxgY4SjDNvmNJWK1D) | 3:20 |
-| 9 | [Pappi Kodabek Anisaithi](https://open.spotify.com/track/1a67KzJ30F9KW1Zxaljoxs) | [Shivu Bhergi](https://open.spotify.com/artist/41pdNa7aFPAwxchRhL4z8Z), [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Pappi Kodabek Anisaithi](https://open.spotify.com/album/51n3dJlCVjis0ESErlmLuQ) | 4:24 |
+| 3 | [Pappi Kodabek Anisaithi](https://open.spotify.com/track/1a67KzJ30F9KW1Zxaljoxs) | [Shivu Bhergi](https://open.spotify.com/artist/41pdNa7aFPAwxchRhL4z8Z), [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Pappi Kodabek Anisaithi](https://open.spotify.com/album/51n3dJlCVjis0ESErlmLuQ) | 4:24 |
+| 4 | [Om Namah Shivaaya](https://open.spotify.com/track/4qlGv5Tb5xBZeqlRfGYE0l) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Bhoom Shankara](https://open.spotify.com/album/3oZsVSF8hx8YnJCoH2CK5O) | 4:01 |
+| 5 | [Nanu Nanna Papu](https://open.spotify.com/track/3McYQVjsObXDi1LtlB1rN2) | [Karibasava Tadakal](https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro), [Venkatesh Marakamdinni](https://open.spotify.com/artist/7GQH3o4GA4CUn2mNZQK22C) | [Nanu Nanna Papu](https://open.spotify.com/album/6D0Na9HcJwiUYrxRNvqzd0) | 4:24 |
+| 6 | [Peace](https://open.spotify.com/track/2xHINJevzhsDPd8tK9ZUGq) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Peace](https://open.spotify.com/album/1iJm3uK3VUBqZeIyBB9kVd) | 3:38 |
+| 7 | [Yaakinga Ee Preethi](https://open.spotify.com/track/5hNOFPW05wDf0CXvxF9ZGt) | [Karibasava Tadakal](https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro) | [Yaakinga Ee Preethi](https://open.spotify.com/album/2aieTBJY4ZRunLhlHi671t) | 4:16 |
+| 8 | [Chill Madu Maga](https://open.spotify.com/track/7JncE2mHoMdPipbAVGTeXZ) | [Suprith Nayak Official](https://open.spotify.com/artist/03zw6bTAA8lSfj1wJR8PMn) | [Chill Madu Maga](https://open.spotify.com/album/4aHx6I6Kp3Y2U1788IxFQ8) | 3:00 |
+| 9 | [Dark Side](https://open.spotify.com/track/3WfZFECvaHHGgLiRjgj0ze) | [Sagar Gowda](https://open.spotify.com/artist/7gTnN6gHfJ4BqHA6yyz3U9) | [Dark Side](https://open.spotify.com/album/4QCGjjxgY4SjDNvmNJWK1D) | 3:20 |
 | 10 | [Nee Hoda Mele \(From "Matte Modalinda"\)](https://open.spotify.com/track/5chXs0qT8F2Wgcq34FtCkJ) | [V\. Harikrishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX), [Yogaraj Bhat](https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1), [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Nee Hoda Mele \(From "Matte Modalinda"\)](https://open.spotify.com/album/0VyZgb0GjDPw9r1PL8FUiE) | 5:03 |
 | 11 | [Hrudaya Rogi](https://open.spotify.com/track/4js3DpGwRybcniskdJG7H3) | [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96), [Rutvij Joshi](https://open.spotify.com/artist/1z2gTsj64IYMJv1HxKfsQi) | [Hrudaya Rogi](https://open.spotify.com/album/1Ra1UFUGlwyMz8PFnKms14) | 3:09 |
 | 12 | [Saak Maadu](https://open.spotify.com/track/3TXNSXjkKZOj01EVhXXeQy) | [Akhilesh Moti](https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq), [Abhishek Dev](https://open.spotify.com/artist/5njwb0Y5GdL3v2kYYUvgUZ) | [Chill Madale](https://open.spotify.com/album/3WyXOV68R92wp0GsqW36Bn) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [Mayavi \(Afrobeat Version\) \[From "Bhoomi 2024"\]](https://open.spotify.com/track/5PEoCLYUefE52UMOCVQI8j) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Vicky Sakleshpur](https://open.spotify.com/artist/2yMbXfTch6OjYV8U5KWOZ4) | [Mayavi \(Afrobeat Version\) \[From "Bhoomi 2024"\]](https://open.spotify.com/album/3UxggTNHDvkfMM3jCDEM9z) | 4:21 |
 | 75 | [Thelidhe Manasu](https://open.spotify.com/track/6IZBHryRA3Swnxwl1c6VdR) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Thelidhe Manasu](https://open.spotify.com/album/5ZDtV1XHgqYZwq3IkvR0Qs) | 2:05 |
 
-Snapshot ID: `aH93sgAAAACzMDEBXN3ep3g2ermC4t5Q`
+Snapshot ID: `aIMlkgAAAABIE+fKUDv3RBYqHGBgwSCO`

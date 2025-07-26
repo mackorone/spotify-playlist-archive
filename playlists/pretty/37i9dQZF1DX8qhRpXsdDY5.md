@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Beloved Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,791 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,782 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 24 | [Los Peces en el Río](https://open.spotify.com/track/2z90VCXCVOH5SbaoVSnkjf) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Navidad con Pandora](https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV) | 2:45 |
 | 25 | [Dios nos bendecirá](https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Mi Navidad \(Edición Especial En Español\)](https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN) | 3:15 |
 | 26 | [Feliz Año Nuevo, Feliz Navidad](https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:27 |
-| 27 | [24 de Diciembre](https://open.spotify.com/track/4exuqc3lTPEpkiKS8uPKpm) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Bailando](https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6) | 3:27 |
-| 28 | [Rodolfo el Reno](https://open.spotify.com/track/2CapttHWShlkLfzrjMNqW3) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Navidad](https://open.spotify.com/album/0tlvyGSyHvVL1lynTDROgO) | 2:56 |
+| 27 | [Rodolfo el Reno](https://open.spotify.com/track/2CapttHWShlkLfzrjMNqW3) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Navidad](https://open.spotify.com/album/0tlvyGSyHvVL1lynTDROgO) | 2:56 |
+| 28 | [24 de Diciembre](https://open.spotify.com/track/4exuqc3lTPEpkiKS8uPKpm) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Bailando](https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6) | 3:27 |
 | 29 | [Ya Se Ven las Bombillitas](https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:34 |
 | 30 | [Esta Navidad Mi Deseo Eres Tú \- Sinfónico](https://open.spotify.com/track/6pY7Gm2HvHDzNedY4YtF8b) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Diego Torres Sinfónico](https://open.spotify.com/album/49vYU4qT2wQXGJdhY8Bx97) | 2:51 |
 | 31 | [Dónde Está La Nieve En Navidad](https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Navidad](https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR) | 2:25 |
-| 32 | [Se Va Diciembre](https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs) | [José Alfredo Jimenez Con Mariachi Vargas De Tecalitlan](https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB) | [Nuestra Navidad](https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm) | 2:36 |
-| 33 | [All I Want For Christmas Is You](https://open.spotify.com/track/1NyPrCfqvms4t5yNGtu9Fy) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [All I Want For Christmas Is You](https://open.spotify.com/album/5y9dShHJfKeQthsVcCSvuE) | 3:37 |
+| 32 | [All I Want For Christmas Is You](https://open.spotify.com/track/1NyPrCfqvms4t5yNGtu9Fy) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [All I Want For Christmas Is You](https://open.spotify.com/album/5y9dShHJfKeQthsVcCSvuE) | 3:37 |
+| 33 | [Se Va Diciembre](https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs) | [José Alfredo Jimenez Con Mariachi Vargas De Tecalitlan](https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB) | [Nuestra Navidad](https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm) | 2:36 |
 | 34 | [Dime Niño ¿de Quien Eres?](https://open.spotify.com/track/0Mrgc3kVm21j2idMBEuDhy) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:32 |
 | 35 | [Cantares de Navidad](https://open.spotify.com/track/6aqXCQOtMuKbpdE5OdIsK9) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Asi Soy...](https://open.spotify.com/album/0kzj1twqOvvdZHc9VElEpR) | 5:04 |
 | 36 | [Nuestra Canción De Navidad](https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nuestra Navidad](https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG) | 3:36 |

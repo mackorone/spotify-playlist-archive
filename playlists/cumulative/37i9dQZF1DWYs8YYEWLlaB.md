@@ -4,7 +4,7 @@
 
 > viral, trend ve yükselenler\.  Kapak: BLOK3
 
-195 songs - 10 hr 7 min
+196 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Arıyo](https://open.spotify.com/track/0f5wEn5loiPLw2ItV8Qxoi) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Arıyo](https://open.spotify.com/album/48i9T2rTEgtK7K5j44Hq92) | 2:13 | 2025-04-14 | 2025-05-09 |
 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 | 2025-02-04 | 2025-07-01 |
 | [Açık Adres \- SAYGI1](https://open.spotify.com/track/0AwkJj5Pj7CKZe7sZo7tHv) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm), [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Açık Adres \(SAYGI1\)](https://open.spotify.com/album/4cHzv7AkgEi8lWAx9iKGCL) | 4:37 | 2024-12-12 | 2025-06-05 |
-| [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 | 2025-04-28 |  |
+| [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 | 2025-04-28 | 2025-07-26 |
 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 | 2025-07-08 |  |
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Aşkperest](https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp) | 4:40 | 2025-05-12 |  |
 | [Bahsetmem Lazım](https://open.spotify.com/track/0pRykJaHRomTCCGd89b5cX) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Güliz Ayla](https://open.spotify.com/album/4j6JrIJFSDO85NMTRXfzKm) | 3:18 | 2024-11-21 | 2025-02-03 |
@@ -193,6 +193,7 @@
 | [Zalim \(Ellerine Sağlık\) \- Remastered](https://open.spotify.com/track/6aEEq4m2qAuRKV8wr3Y40Y) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Ellerine Sağlık \(Remastered\)](https://open.spotify.com/album/1GtHpfgrBTLRG4JP2cZxPn) | 4:06 | 2024-10-10 | 2025-01-15 |
 | [Zamansızdık](https://open.spotify.com/track/7q2LhclL7UGS2yiL6QYRki) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Zamansızdık](https://open.spotify.com/album/6PI0ZfIq5UV3kLlpA5RkXE) | 2:49 | 2025-02-08 | 2025-02-19 |
 | [ZAR ZOR](https://open.spotify.com/track/3IcAfhBe6frmou4B6zC8M5) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [DANS](https://open.spotify.com/album/2IoW1Qu0zuMSgzUZyUUZYC) | 3:23 | 2024-07-02 | 2024-07-17 |
+| [Zindan](https://open.spotify.com/track/2WuyMog3qp7VKidUtwBfNk) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Zindan](https://open.spotify.com/album/0lhR4ra0NJ5b51r9jJxGV9) | 2:18 | 2025-07-24 |  |
 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 | 2025-02-17 |  |
 | [ÇÖZEMEZLER](https://open.spotify.com/track/300xFtOH49F80uB7BSAsEf) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TEMPO](https://open.spotify.com/album/1GftyXEspbaRxHj6lA2s1f) | 2:10 | 2024-10-02 | 2024-12-06 |
 | [Çözemezsin](https://open.spotify.com/track/1zMcj4YDWun0XN0BCzZc4P) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Çözemezsin](https://open.spotify.com/album/3hKqpJizdFWWLQKwDKpz8a) | 4:37 | 2025-05-01 | 2025-07-09 |

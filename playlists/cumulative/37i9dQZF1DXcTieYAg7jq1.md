@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: grentperez
 
-439 songs - 1 day 1 hr 5 min
+440 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 | 2021-12-03 | 2023-01-28 |
 | [Bad For Me](https://open.spotify.com/track/3bDuKFvJHwIUkFl8QtF2tb) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Bad For Me](https://open.spotify.com/album/42Uoa1QDJvCegKzkixsTlG) | 2:58 | 2023-03-31 | 2023-11-11 |
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2022-06-24 | 2023-02-16 |
-| [Be Alright](https://open.spotify.com/track/0bMVmNosAnBxQR33fHcqYM) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Be Alright](https://open.spotify.com/album/35GvFcCqZCZgrIOIoeGYlX) | 3:43 | 2025-03-07 |  |
+| [Be Alright](https://open.spotify.com/track/0bMVmNosAnBxQR33fHcqYM) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Be Alright](https://open.spotify.com/album/35GvFcCqZCZgrIOIoeGYlX) | 3:43 | 2025-03-07 | 2025-07-26 |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-04 | 2023-09-23 |
 | [Beautiful Stranger](https://open.spotify.com/track/2EDxQGcJlVi32jBCXzUZhL) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love \(Deluxe Edition\)](https://open.spotify.com/album/777K2ytcKbDsX0AZ2y8CBS) | 3:21 | 2022-08-26 | 2022-11-13 |
 | [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-26 | 2022-10-14 |
@@ -383,6 +383,7 @@
 | [Sunblind](https://open.spotify.com/track/1Kpt4G3LsCeKYLqTnRYBio) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/5tXJchExPrWfcj1JwoDeZy) | 4:13 | 2021-12-03 | 2022-09-03 |
 | [Supersonic](https://open.spotify.com/track/1TL8oEjxJqsB6nojBkBUgE) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Scary As Hell But I Love The Thrill](https://open.spotify.com/album/0RALiw4duBKgD7PXZBqzJd) | 2:55 | 2024-03-22 |  |
 | [Supply & Demand](https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:16 | 2021-12-03 | 2023-01-28 |
+| [Sushi and Coca\-Cola](https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sushi and Coca\-Cola](https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4) | 2:37 | 2025-07-25 |  |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-06-13 |  |
 | [Sweet \- Single Edit](https://open.spotify.com/track/7uYpvX8Gb7CUubdJcRt8E0) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [Sweet](https://open.spotify.com/album/0qDkNJ0azvJj9glUVIku8P) | 2:38 | 2022-07-22 | 2023-02-16 |
 | [Sweet Chamomile](https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S) | 3:28 | 2021-12-03 | 2022-10-01 |

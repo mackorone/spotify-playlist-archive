@@ -1,12 +1,12 @@
 {
   "description": "This is Thursday. The essential tracks, all in one playlist.",
-  "num_followers": 4972,
+  "num_followers": 4974,
   "original_name": "This Is Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAADsFAhjoS/1bpN5Ymh+6YYZ",
+  "snapshot_id": "aIF3gAAAAADFSiaa2VUGeX30hLkII+VW",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A City By The Light Divided",
-        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 281213,
-      "name": "The Other Side Of The Crash/Over And Out (Of Control)",
-      "url": "https://open.spotify.com/track/41fAJ4UTQemRnjRkJRstZk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Violent Waves",
         "url": "https://open.spotify.com/album/5y5C2nONFCsDjw4mB6Azm2"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 283746,
       "name": "The Lottery",
       "url": "https://open.spotify.com/track/6T3YSsiLwPrq9yVSKvmQSX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 281213,
+      "name": "The Other Side Of The Crash/Over And Out (Of Control)",
+      "url": "https://open.spotify.com/track/41fAJ4UTQemRnjRkJRstZk"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 266653,
-      "name": "Streaks in the Sky",
-      "url": "https://open.spotify.com/track/6gHLLRQFPezsdsDieIVbJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A City By The Light Divided",
         "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 318226,
       "name": "The Lovesong Writer",
       "url": "https://open.spotify.com/track/4P43WSRtAwXXEjGGPZoEVb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 242066,
+      "name": "Dying in New Brunswick",
+      "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "Dying in New Brunswick",
-      "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A City By The Light Divided",
         "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 215906,
       "name": "Telegraph Avenue Kiss",
       "url": "https://open.spotify.com/track/1WoMpFgv2rLgEFzKJqIvwH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 266653,
+      "name": "Streaks in the Sky",
+      "url": "https://open.spotify.com/track/6gHLLRQFPezsdsDieIVbJ5"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 250853,
+      "name": "Friends In The Armed Forces",
+      "url": "https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 276760,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/0FvQmcMVyGBBVjI81CvEbh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Common Existence (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "Love Has Led Us Astray",
-      "url": "https://open.spotify.com/track/5jA3QscamkgTWvlw44eIo4"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "Love Has Led Us Astray",
+      "url": "https://open.spotify.com/track/5jA3QscamkgTWvlw44eIo4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 223480,
       "name": "Ian Curtis",
       "url": "https://open.spotify.com/track/4fePHGj7DmOzuMRccSAgpO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Common Existence (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "As He Climbed The Dark Mountain",
-      "url": "https://open.spotify.com/track/0CraZjvIB4XJ87tC7N5Zcn"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 118440,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/530YND7Asd4qwUgcXXVQ8b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Common Existence (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 250853,
-      "name": "Friends In The Armed Forces",
-      "url": "https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 243760,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g"
+      "duration_ms": 181826,
+      "name": "As He Climbed The Dark Mountain",
+      "url": "https://open.spotify.com/track/0CraZjvIB4XJ87tC7N5Zcn"
     },
     {
       "added_at": null,

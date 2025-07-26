@@ -4,7 +4,7 @@
 
 > Best of  the female era! The biggest hits wrapped in one playlist, with Sabrina Carpenter, Gracie Abrams, Billie Eilish, Chappell Roan and more
 
-74 songs - 3 hr 59 min
+77 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,9 @@
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2025-07-17 |  |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-07-17 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2025-07-17 |  |
+| [Don’t Leave \(Kylie\)](https://open.spotify.com/track/3rZYXD5bAaKOpJvOyEqSJr) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don’t Leave \(Kylie\)](https://open.spotify.com/album/5pDOrPKuOlkwVwiYWaENFy) | 3:08 | 2025-07-25 |  |
 | [Dream Police](https://open.spotify.com/track/2zyodCmgNx5slEG5tOlXX2) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Dream Police](https://open.spotify.com/album/4tZDDiPikDegR9qbqagDBF) | 3:10 | 2025-07-17 |  |
+| [d£aler](https://open.spotify.com/track/7t4OevReiAuDGgntaUJFh6) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/3dXiBODwl4T0kIQIzFTPMI) | 2:40 | 2025-07-25 |  |
 | [Déjà Vu](https://open.spotify.com/track/1OkFX11LjOELGogZyTHVVa) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Déjà Vu](https://open.spotify.com/album/5HTYaaS1l5AN84J3MN42Oc) | 2:45 | 2025-07-17 |  |
 | [Echoes](https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Echoes](https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5) | 2:42 | 2025-07-17 |  |
 | [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 | 2025-07-17 |  |
@@ -75,6 +77,7 @@
 | [The Explorer](https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [The Explorer](https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9) | 2:54 | 2025-07-17 |  |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-07-17 |  |
 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-07-18 |  |
+| [Turn Me Up](https://open.spotify.com/track/60dQCCVc90CeM82Iajs4lR) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mabel \(Mixtape\)](https://open.spotify.com/album/3a1kn6l83mijd3b0akLE68) | 4:11 | 2025-07-25 |  |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-07-17 |  |
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-07-17 |  |
 | [Who Am I](https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z) | [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [Who Am I](https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6) | 2:25 | 2025-07-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Ew8a92fTdm.md) - [plain]
 
 > Peaceful music box tunes for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,683 likes - 92 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,691 likes - 92 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Ew8a92fTdm.md) - [plain]
 | 15 | [My Beautiful Angel](https://open.spotify.com/track/6Qn9XmS9eJuCUiSe18BDTO) | [Un Rose](https://open.spotify.com/artist/2L7wQxWHlSVom2T0r5h45G) | [My Beautiful Angel](https://open.spotify.com/album/1NtyYirkKFHiSZAdOKvIUO) | 1:26 |
 | 16 | [Morning Has Broken](https://open.spotify.com/track/7fMhjkHOyJdHqqCEsG8mkL) | [Månljus](https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk) | [Morning Has Broken](https://open.spotify.com/album/2m7QoHxjcDCKC09tXfSzoe) | 1:23 |
 | 17 | [Sleepy Stars](https://open.spotify.com/track/5wogcvcPDs2SJvn01HAaWE) | [Månljus](https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk) | [Sleepy Stars](https://open.spotify.com/album/5D3OJt2yyaKk9nMw9y8G3a) | 1:55 |
-| 18 | [Somewhere Over the Rainbow \(Music Box Version\)\)](https://open.spotify.com/track/42G0nbnDvwLZNsuH1tE2pk) | [Cradle Tunes](https://open.spotify.com/artist/2CCfcUJxsy91ipOvIHaut5) | [Somewhere Over the Rainbow \(Music Box Version\)\)](https://open.spotify.com/album/6LO8xiSQ1GOoEkh8PkbAMq) | 1:57 |
+| 18 | [Somewhere Over the Rainbow \(Music Box Version\)](https://open.spotify.com/track/42G0nbnDvwLZNsuH1tE2pk) | [Cradle Tunes](https://open.spotify.com/artist/2CCfcUJxsy91ipOvIHaut5) | [Somewhere Over the Rainbow \(Music Box Version\)](https://open.spotify.com/album/6LO8xiSQ1GOoEkh8PkbAMq) | 1:57 |
 | 19 | [My Happy Place](https://open.spotify.com/track/5pJ9LzRXDRRYx1RRmKWVzZ) | [Will Bloom](https://open.spotify.com/artist/74NdmPNAoPSXNvG3DhNL0e) | [My Happy Place](https://open.spotify.com/album/7xp97KqWYacOdiReb6Bnrr) | 1:07 |
 | 20 | [Itsy Bitsy Spider](https://open.spotify.com/track/5GmmttXZcF790b4rf0dbUa) | [Rick Flemm](https://open.spotify.com/artist/3Z7sI9OvtPJDAtjrZQKIAE) | [All Time Favorite Lullabies](https://open.spotify.com/album/0c6lcJKUnuBj8qtwZDgXpw) | 1:10 |
 | 21 | [Baby Emanuel](https://open.spotify.com/track/5ewAfM8qnH8xzGmBCkPbZ8) | [Maurice Marsipano](https://open.spotify.com/artist/3kYoyPRiKgh8gEqKxXOWSr) | [Baby Emanuel](https://open.spotify.com/album/7gpqdB7cKzPjSbv7qEE7mn) | 1:14 |

@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 33214,
+  "num_followers": 33210,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Encuentro",
-        "url": "https://open.spotify.com/album/0b4HCbP13kNcvrPT4Wokxz"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 197196,
-      "name": "Encuentro",
-      "url": "https://open.spotify.com/track/5IDm7K9atPMJRl51HiCbsE"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Jazz Bazar II (feat. Pat\u00e1n Vidal)",
         "url": "https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 198960,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Encuentro",
+        "url": "https://open.spotify.com/album/0b4HCbP13kNcvrPT4Wokxz"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 197196,
+      "name": "Encuentro",
+      "url": "https://open.spotify.com/track/5IDm7K9atPMJRl51HiCbsE"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -559,54 +559,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Danza",
-        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
-      },
-      "artists": [
-        {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
-        }
-      ],
-      "duration_ms": 280635,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 468087,
-      "name": "Sol La, Al Sol",
-      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 402265,
-      "name": "Primavera Porte\u00f1a",
-      "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Swing Summit",
         "url": "https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed"
       },
@@ -627,6 +579,54 @@
       "duration_ms": 273213,
       "name": "Swing Summit",
       "url": "https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 468087,
+      "name": "Sol La, Al Sol",
+      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Danza",
+        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+        }
+      ],
+      "duration_ms": 280635,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 402265,
+      "name": "Primavera Porte\u00f1a",
+      "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
+      },
+      "artists": [
+        {
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
+        }
+      ],
+      "duration_ms": 361280,
+      "name": "Viva Jujuy",
+      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Pettinato Plays Garc\u00eda",
         "url": "https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Viva Jujuy",
-        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
-      },
-      "artists": [
-        {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
-        }
-      ],
-      "duration_ms": 361280,
-      "name": "Viva Jujuy",
-      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Lua",
         "url": "https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 251376,
       "name": "Arenales Blues",
       "url": "https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
-        }
-      ],
-      "duration_ms": 365560,
-      "name": "So in Love",
-      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -755,18 +739,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
-        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
       },
       "artists": [
         {
-          "name": "Ramiro Flores",
-          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
         }
       ],
-      "duration_ms": 347200,
-      "name": "Ord\u00f3\u00f1ez y Ernestina (o el Banquito de Ord\u00f3\u00f1ez)",
-      "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
+      "duration_ms": 365560,
+      "name": "So in Love",
+      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -787,6 +771,22 @@
       "duration_ms": 216099,
       "name": "El Reino del Rev\u00e9s",
       "url": "https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
+        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Flores",
+          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
+        }
+      ],
+      "duration_ms": 347200,
+      "name": "Ord\u00f3\u00f1ez y Ernestina (o el Banquito de Ord\u00f3\u00f1ez)",
+      "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Polacos",
+        "url": "https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "Polacos",
+      "url": "https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Influencias",
         "url": "https://open.spotify.com/album/2Y4W9eQipZ4xcQ2uOIZImY"
       },
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Polacos",
-        "url": "https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "Polacos",
-      "url": "https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Bye Bye Blackbird",
         "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 188345,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Viva Jujuy",
-        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
-      },
-      "artists": [
-        {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
-        }
-      ],
-      "duration_ms": 403600,
-      "name": "Tour de Force",
-      "url": "https://open.spotify.com/track/2foU99quuAqqJTCn04P1cy"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Enero",
-        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
       },
       "artists": [
         {
-          "name": "Commodore",
-          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
         }
       ],
-      "duration_ms": 412693,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
+      "duration_ms": 403600,
+      "name": "Tour de Force",
+      "url": "https://open.spotify.com/track/2foU99quuAqqJTCn04P1cy"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1135,6 +1119,22 @@
       "duration_ms": 367797,
       "name": "En el fondo del mar",
       "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
+      },
+      "artists": [
+        {
+          "name": "Commodore",
+          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
+        }
+      ],
+      "duration_ms": 412693,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Mensajes Secretos",
-        "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
-      },
-      "artists": [
-        {
-          "name": "Marta Bellomo",
-          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
-        },
-        {
-          "name": "Alejandro Moro",
-          "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
-        }
-      ],
-      "duration_ms": 364056,
-      "name": "Desde El Corazon",
-      "url": "https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Apal\u00e1p!",
         "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 495746,
       "name": "Cabrera's Blues",
       "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Mensajes Secretos",
+        "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
+      },
+      "artists": [
+        {
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
+        },
+        {
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
+        }
+      ],
+      "duration_ms": 364056,
+      "name": "Desde El Corazon",
+      "url": "https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1315,46 +1315,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Here\u00b4s That Rainy Day",
-        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Musso",
-          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        }
-      ],
-      "duration_ms": 192615,
-      "name": "Here\u00b4s That Rainy Day",
-      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Mensajes Secretos",
-        "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
-      },
-      "artists": [
-        {
-          "name": "Marta Bellomo",
-          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
-        },
-        {
-          "name": "Alejandro Moro",
-          "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
-        }
-      ],
-      "duration_ms": 524134,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/79Wgtrmp428O3j5H4k4etr"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Afropuertas",
         "url": "https://open.spotify.com/album/5tb3c9O1yhD6wMzacCPwDp"
       },
@@ -1387,6 +1347,46 @@
       "duration_ms": 362066,
       "name": "Do\u00f1a Cha Cha",
       "url": "https://open.spotify.com/track/6Mee3B457bmUf93LIbhsNZ"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Here\u00b4s That Rainy Day",
+        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Musso",
+          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 192615,
+      "name": "Here\u00b4s That Rainy Day",
+      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Algo Bueno - Something Good",
+        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
+      },
+      "artists": [
+        {
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
+        },
+        {
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
+        }
+      ],
+      "duration_ms": 572278,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
     },
     {
       "added_at": "2025-04-14 14:58:34",

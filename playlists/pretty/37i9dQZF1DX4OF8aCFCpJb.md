@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,830 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,832 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 27 | [Pirret](https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG) | [Pirret](https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM) | 4:20 |
 | 28 | [Bulleribock](https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Bråda dagar](https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR) | 4:14 |
 | 29 | [Ego](https://open.spotify.com/track/3KBdJQEv9ktMkWyjKsAWdT) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Prodotto di Superti](https://open.spotify.com/artist/4NZcuPexOELumOX08RWXcy) | [Pusher](https://open.spotify.com/album/1GbeTUO3MXvLLDUCTjqS38) | 3:29 |
-| 30 | [Teaterapan](https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Teaterapan](https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr) | 3:02 |
+| 30 | [Attityd](https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Störst av allt är kärleken](https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9) | 3:14 |
 | 31 | [Vassaste kniven i lådan](https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L) | [RONGO](https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I) | 3:34 |
-| 32 | [Allting ordnar sig](https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR) | [Achee Flips](https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT), [Rob Bourne](https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC) | [Allting ordnar sig](https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf) | 3:17 |
-| 33 | [Så fakking fin](https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ) | [Robinholta](https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc) | [Så fakking fin](https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA) | 2:40 |
+| 32 | [Så fakking fin](https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ) | [Robinholta](https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc) | [Så fakking fin](https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA) | 2:40 |
+| 33 | [Allting ordnar sig](https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR) | [Achee Flips](https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT), [Rob Bourne](https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC) | [Allting ordnar sig](https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf) | 3:17 |
 | 34 | [Så nice](https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Så nice](https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y) | 2:49 |
-| 35 | [Attityd](https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Störst av allt är kärleken](https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9) | 3:14 |
+| 35 | [Teaterapan](https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Teaterapan](https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr) | 3:02 |
 | 36 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
 | 37 | [Leva](https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds) | [Issify](https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM) | [Leva](https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh) | 2:56 |
 | 38 | [Irie](https://open.spotify.com/track/3TCQqdI8dWb3oFjU7fAEh3) | [Silly Selection](https://open.spotify.com/artist/3zYX58iRRk6qxi5PnlKsSr) | [Irie](https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg) | 3:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,838 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,841 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 76 | [Moonwalking in Calabasas \(feat\. Blueface\) \- Remix](https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Moonwalking in Calabasas \(feat\. Blueface\) \[Remix\]](https://open.spotify.com/album/1z02WpEdAuImwfySk43owY) | 2:50 |
 | 77 | [UHLALA](https://open.spotify.com/track/1D7sdScaOxtmb0lInM90SN) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL) | 3:09 |
 | 78 | [Ma Chérie \(feat\. Capo Plaza\)](https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 2:39 |
-| 79 | [Mi Piace \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/5gCAQkBpp9HNKLB8unHgMj) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Untouchable](https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N) | 2:38 |
-| 80 | [fuck 3x](https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 2:41 |
+| 79 | [fuck 3x](https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 2:41 |
+| 80 | [Mi Piace \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/5gCAQkBpp9HNKLB8unHgMj) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Untouchable](https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N) | 2:38 |
 
 Snapshot ID: `Z1Lz3QAAAADzo9UWdq5r5zebvUmnGbWb`

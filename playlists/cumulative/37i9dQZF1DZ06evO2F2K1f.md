@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-166 songs - 7 hr 19 min
+167 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Gingerbread](https://open.spotify.com/track/4lIVwUYL7ZmTjXs8hUWiab) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:17 | 2022-05-29 |  |
 | [Girl at the Top \(A\)](https://open.spotify.com/track/4UYAoMvtpEch02JYlfXSEv) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 1:54 | 2023-07-12 | 2025-04-29 |
 | [Girl in a Sportscar](https://open.spotify.com/track/3YT4KUgun2us1WLg3f0T9z) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:42 | 2022-05-29 |  |
+| [Go Go Go](https://open.spotify.com/track/7poTfut76s12oSKwIXvpkN) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 1:17 | 2025-07-26 |  |
 | [Grange Hill](https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Seventies](https://open.spotify.com/album/6e9IDKC8TqlxvTFGJwFgHm) | 1:23 | 2022-05-29 | 2024-11-29 |
 | [Grit Band Reggae](https://open.spotify.com/track/5nrylaTPkYn3B5b5dtHuGz) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The All American Powerhouse](https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8) | 3:48 | 2022-11-26 | 2025-07-25 |
 | [Happy Bluebeat](https://open.spotify.com/track/6HLmkI6ncUQ4s6aHUyNWxJ) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 2:07 | 2023-12-29 | 2024-01-01 |
@@ -91,8 +92,8 @@
 | [Love Of Life](https://open.spotify.com/track/5OsBULLtMHBHyE2OEKQQK6) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [High Drama](https://open.spotify.com/album/6nVKvvfOnN3rB2lui1tMZr) | 3:10 | 2022-05-29 | 2022-06-17 |
 | [Man of Means](https://open.spotify.com/track/2NNhlH2iUgaZcPNpyIGfbe) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 3:13 | 2022-05-29 | 2025-07-11 |
 | [Man on the Move](https://open.spotify.com/track/40QHBWHk8P25QWIzZXjs1x) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 2:34 | 2022-05-29 | 2025-04-08 |
-| [Marrakech](https://open.spotify.com/track/5g8V7qpugfxt7rKyL7oEwB) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 4:24 | 2022-05-30 | 2025-07-20 |
-| [Meet the Family](https://open.spotify.com/track/3GZdcQO0QSSZGPzN7Gi8uB) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Sixties](https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7) | 1:37 | 2023-05-08 |  |
+| [Marrakech](https://open.spotify.com/track/5g8V7qpugfxt7rKyL7oEwB) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 4:24 | 2022-05-30 |  |
+| [Meet the Family](https://open.spotify.com/track/3GZdcQO0QSSZGPzN7Gi8uB) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Sixties](https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7) | 1:37 | 2023-05-08 | 2025-07-26 |
 | [Mermaid](https://open.spotify.com/track/4LcogSQgiNo6rtCG70emJj) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 3:56 | 2022-05-29 |  |
 | [Merry\-Go\-Round](https://open.spotify.com/track/3woqg0etSG2vp0p9rkrowv) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton BRE2: Children](https://open.spotify.com/album/3Sx668l5vVuMPMnf6hCPto) | 1:38 | 2025-05-08 | 2025-05-16 |
 | [Mile High Swinger \(A\)](https://open.spotify.com/track/2e3Hs6RDMXx09rAoXXlvnC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Synthesizer and Percussion](https://open.spotify.com/album/72CdZr0aEQ4sfkc4HPM310) | 2:57 | 2022-05-29 |  |
@@ -130,7 +131,7 @@
 | [Sand Yachting](https://open.spotify.com/track/63MuJGO2yjPZ583DolTJ7E) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Kpm 1000 Series \- Volume 2](https://open.spotify.com/album/4jJpvGq7HiXzNSNo7hm9lh) | 1:12 | 2023-07-14 | 2024-01-04 |
 | [Saturn Rings](https://open.spotify.com/track/77JPdHkaDLrXS1TrIieGnb) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton BRI6: Frontiers of Science](https://open.spotify.com/album/69yhwzUOl8NMtkS4GatWat) | 4:02 | 2024-11-27 |  |
 | [Scooter Girl](https://open.spotify.com/track/4bH1kAgbHVCtxhRFl98Q9L) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:41 | 2022-10-12 | 2025-07-06 |
-| [Senior Thump](https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 2:52 | 2022-05-29 |  |
+| [Senior Thump](https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 2:52 | 2022-05-29 | 2025-07-26 |
 | [Serengeti](https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 4:02 | 2022-05-29 | 2025-03-31 |
 | [Sheer Elegance](https://open.spotify.com/track/1grBclN9HxtPvCsPsQ69Dj) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 3:37 | 2022-05-30 | 2023-07-07 |
 | [Ski Bird \(B\)](https://open.spotify.com/track/2UOzXaRrDnrfSeHSGaPQTq) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [New Blood](https://open.spotify.com/album/2BmJtmwBwF6VMFqYq0A7vn) | 1:43 | 2025-05-07 | 2025-05-17 |

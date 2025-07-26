@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 
 > This is Vicente Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089,973 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,090,133 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 | 43 | [La Ley de la Vida](https://open.spotify.com/track/4mg9oUjQMGJryksOuzvnCr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:55 |
 | 44 | [El Moro de Cumpas](https://open.spotify.com/track/7y9mmxLvi8HnZVMdVgs1CS) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Amigo El Tordillo](https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES) | 3:33 |
 | 45 | [Cuando Yo Quería Ser Grande](https://open.spotify.com/track/29JpPo9ex5jVm85PGBd8mv) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:02 |
-| 46 | [El Arracadas](https://open.spotify.com/track/23RNaVmsNrlRAe42wR5NkB) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 3:06 |
-| 47 | [Bohemio de Afición](https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 3:26 |
+| 46 | [Bohemio de Afición](https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 3:26 |
+| 47 | [El Arracadas](https://open.spotify.com/track/23RNaVmsNrlRAe42wR5NkB) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 3:06 |
 | 48 | [Los Mandados](https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Pesar De Todo](https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso) | 2:58 |
 | 49 | [Escuché las Golondrinas](https://open.spotify.com/track/6kRaonmi8YMTCy8LpGfhOy) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 3:13 |
 | 50 | [De un Rancho a Otro](https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Un Rancho A Otro](https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb) | 2:20 |
 
-Snapshot ID: `aIAmAAAAAABe8qi3zLE4VF8JVDhRXkgs`
+Snapshot ID: `aIF3gAAAAAAnm/JR6aBjuth9gTyRKpny`

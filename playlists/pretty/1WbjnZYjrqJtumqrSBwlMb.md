@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,097 songs - 2 day 19 hr 17 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,111 songs - 2 day 20 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1105,5 +1105,19 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1095 | [Don't You Worry Baby \(feat\. Madison McFerrin\)](https://open.spotify.com/track/45mVT3DCE7AATXgESSdfee) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:58 |
 | 1096 | [I'll Take Care of You \(feat\. Yebba\)](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:20 |
 | 1097 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 |
+| 1098 | [NO QUESTIONS ASKED](https://open.spotify.com/track/1OzmA3aBR7QK94L2tReAeD) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 5:59 |
+| 1099 | [WAGING WAR](https://open.spotify.com/track/4AJWlmqzFwDuCWozzjxTjO) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 5:15 |
+| 1100 | [RUIN MY LIFE](https://open.spotify.com/track/7JzTTmvNedMzaYwijsJhxA) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 4:41 |
+| 1101 | [GODSTAINED](https://open.spotify.com/track/6phik4BkqTBtDodw8ZJJ5Q) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 3:25 |
+| 1102 | [AT A TIME LIKE THIS](https://open.spotify.com/track/7tJ8jCSe5XPIkRluGfZTu3) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 4:36 |
+| 1103 | [MONDAY](https://open.spotify.com/track/3a9Qmzy2dqZsa8QAggkioN) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 4:03 |
+| 1104 | [DANCING WITHOUT MOVING](https://open.spotify.com/track/1TGiB4KEDY8dlpXrIWQ2f1) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 3:19 |
+| 1105 | [THAT'S WHY](https://open.spotify.com/track/35CL23NpSaz8lM9CVvg8Oq) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 4:29 |
+| 1106 | [I DREAM ABOUT SINKING](https://open.spotify.com/track/1Pl6WfpPcicGFAlaQZoQcJ) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 3:54 |
+| 1107 | [NATURAL CAUSES](https://open.spotify.com/track/223cxDEAew5PyufKXOX8Hg) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 3:49 |
+| 1108 | [THUNDRRR](https://open.spotify.com/track/4xMXf0RP0AOdHHBpJ3b1F1) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 4:40 |
+| 1109 | [THE GREAT BAKUNAWA \(with Danny Brown\)](https://open.spotify.com/track/6h9dDQDCFspMTxHREwn2pu) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 5:40 |
+| 1110 | [FORGONE](https://open.spotify.com/track/50SUl5f6BMCWSV2JX1TAWh) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 7:54 |
+| 1111 | [CASPER \(with Maruja\)](https://open.spotify.com/track/40bqzt6BEkLetWWRWPl8kU) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 7:34 |
 
-Snapshot ID: `AAAJOjMJuQ1doVmh4nSdAqZJcCqlphkm`
+Snapshot ID: `AAAJO7G2urDntNzlArNz1+nAT9cAJFlw`

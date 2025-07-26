@@ -2,9 +2,9 @@
 
 ### [Folk Pop](https://open.spotify.com/playlist/37i9dQZF1DWXJyjYpHunCf)
 
-> The best of folk\-infused pop and singer\-songwriter\. Cover: Adam Klobi
+> The best of folk\-infused pop and singer\-songwriter\. Cover: Jonah Kagen
 
-518 songs - 1 day 5 hr 19 min
+520 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:37 | 2025-04-11 |  |
 | [Gloria](https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 3:36 | 2021-11-12 | 2024-07-13 |
 | [Go Back](https://open.spotify.com/track/424jGzlGTdcvsX2EIXeYXC) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Birds Say](https://open.spotify.com/album/4Y9Fzg4r73Eh3OdmZpUtwl) | 2:58 | 2021-11-12 | 2022-01-27 |
-| [God Needs The Devil](https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [God Needs The Devil](https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl) | 3:12 | 2024-05-03 |  |
+| [God Needs The Devil](https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [God Needs The Devil](https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl) | 3:12 | 2024-05-03 | 2025-07-26 |
 | [Gold](https://open.spotify.com/track/0wubDogxhtvRFPpuEyNmze) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:31 | 2021-11-12 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-23 |  |
 | [Golden Hour](https://open.spotify.com/track/28vZIcjA9gDI7BYZnwDzNm) | [Andrey Azizov](https://open.spotify.com/artist/2hGxtbozs9MLpSHE11XOOC), [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Golden Hour](https://open.spotify.com/album/01j4hEadyEaX40YCjQXvMR) | 2:49 | 2023-08-25 | 2023-09-02 |
@@ -288,6 +288,7 @@
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-11-12 | 2023-11-24 |
 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 | 2021-11-12 | 2024-08-24 |
 | [Little Bit Better](https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Little Bit Better](https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV) | 3:47 | 2024-02-23 | 2025-04-12 |
+| [Live & Let Go \(with DISPATCH\)](https://open.spotify.com/track/5bANCdXPTD9Lik5JGhYsAO) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [LOOK! I'm Alive](https://open.spotify.com/album/6kEeD6FBlXWEuWN2YFj4pU) | 4:03 | 2025-07-25 |  |
 | [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 | 2021-11-12 | 2024-04-19 |
 | [Long Dark Night](https://open.spotify.com/track/5VdRRwhBeLyO2CuAgUvqVY) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [The Process](https://open.spotify.com/album/2sJMzA3LuOW1u3UEKbF6J3) | 3:08 | 2024-05-10 | 2024-10-26 |
 | [Lose You Now](https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Lose You Now](https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG) | 3:18 | 2024-04-19 |  |
@@ -398,7 +399,7 @@
 | [Sip Your Wine \(with Sierra Ferrell\)](https://open.spotify.com/track/6KMqNxwO4kRwkz6jcK85ti) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:57 | 2025-05-23 |  |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-19 | 2024-08-31 |
 | [Sleepwalking \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/track/24BsZ8lMbzHz1C2QjuP6Pd) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Whispering Pines](https://open.spotify.com/album/5BlyT55fQ4Vj6ju1hSjRhb) | 2:56 | 2024-11-15 |  |
-| [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-03-22 |  |
+| [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-03-22 | 2025-07-26 |
 | [So Long, London](https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 4:22 | 2024-04-19 | 2024-05-18 |
 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-29 |  |
 | [Solo](https://open.spotify.com/track/0zcCGdrTZqUVfWOOgPYLLB) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 3:19 | 2024-03-29 | 2024-08-24 |
@@ -467,7 +468,7 @@
 | [trees talk](https://open.spotify.com/track/6IGuqCOKQseTMHjALbFS16) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [trees talk](https://open.spotify.com/album/3Yr0kMBATk0wU6jTb7mIGO) | 3:04 | 2024-02-23 | 2025-04-12 |
 | [Turn out fine](https://open.spotify.com/track/4gdDN4A202OO2u7UDhoMjM) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Turn out fine](https://open.spotify.com/album/4LPDuEPmWtMfOj8argxDrI) | 2:27 | 2023-10-27 | 2024-03-30 |
 | [Turned Into Missing You](https://open.spotify.com/track/74PUiV5qVX8Cbs1xeWNEND) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Turned Into Missing You](https://open.spotify.com/album/2US5Vh8gLLhmH4mTm9eadW) | 3:08 | 2024-02-23 | 2025-07-05 |
-| [Twenty Nothing](https://open.spotify.com/track/4RCxMeZjjirMp6sLWAiRxb) | [Frankie Bird](https://open.spotify.com/artist/4j8LfmADKGMGknwJOUFKYf) | [Twenty Nothing](https://open.spotify.com/album/1A39gFaDwwqZi2oNPTag3E) | 3:51 | 2024-06-07 |  |
+| [Twenty Nothing](https://open.spotify.com/track/4RCxMeZjjirMp6sLWAiRxb) | [Frankie Bird](https://open.spotify.com/artist/4j8LfmADKGMGknwJOUFKYf) | [Twenty Nothing](https://open.spotify.com/album/1A39gFaDwwqZi2oNPTag3E) | 3:51 | 2024-06-07 | 2025-07-26 |
 | [Undone](https://open.spotify.com/track/24hn3aFOHawfGzO4JWwx45) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Undone](https://open.spotify.com/album/6ML9ENZ5eDo0CYyZg32L7W) | 3:37 | 2022-03-12 | 2023-01-18 |
 | [Undone](https://open.spotify.com/track/5iMl1CDPOjElGiCgerN7kN) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 3:37 | 2022-10-14 | 2023-01-20 |
 | [Unsee](https://open.spotify.com/track/4s4Qxld7g6ydIcQ5Ir6MTf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [For all my eyes have seen](https://open.spotify.com/album/56zLXVP20MYSoP0UV90B9c) | 4:41 | 2024-06-14 |  |
@@ -518,6 +519,7 @@
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2021-11-12 | 2024-02-20 |
 | [Yellow Brick Road](https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Yellow Brick Road](https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K) | 2:32 | 2025-06-06 |  |
 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 | 2022-03-12 | 2024-01-19 |
+| [You Again](https://open.spotify.com/track/1Ki5PqMFMTKQfjB1uet9pG) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [You Again](https://open.spotify.com/album/2Chkb8Apocqiq73DnOC56m) | 3:14 | 2025-07-25 |  |
 | [You and Me On The Rock \(feat\. Lucius\)](https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:50 | 2021-11-12 | 2024-03-30 |
 | [You Are Enough](https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: I](https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh) | 3:00 | 2022-03-12 | 2024-03-30 |
 | [You Know the Way](https://open.spotify.com/track/5lrjZi5VNHqzr2UOBQvpka) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [You Know the Way](https://open.spotify.com/album/458HVOlPJ7mZY8T0XfBcI7) | 3:45 | 2022-02-21 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-559 songs - 1 day 12 hr 57 min
+560 songs - 1 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Know God, Know Peace \(No God, No Peace\)](https://open.spotify.com/track/74JjzBrsXKydhUCTST32VG) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kingzkid](https://open.spotify.com/artist/1diRu0YCEDsV4uvsw4IFHi) | [Know God, Know Peace \(No God, No Peace\)](https://open.spotify.com/album/6BTdEbP5OZl5N9iRmWnExn) | 2:27 | 2024-11-22 | 2025-03-14 |
 | [Know Jesus, Know Road \- Live](https://open.spotify.com/track/7ifOnQtBchzbIuA9DN8YLJ) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Know Jesus, Know Road \(Live\)](https://open.spotify.com/album/2DvdNBFHbRq772GynhQJj8) | 4:12 | 2025-05-16 |  |
 | [Know You More](https://open.spotify.com/track/1cb2KCLmAucfQD6d2hZmsQ) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j) | [Know You More](https://open.spotify.com/album/7uzRlprq4pWJekjD1dAZnt) | 2:04 | 2025-01-17 | 2025-02-28 |
+| [Kount Ur Blessings](https://open.spotify.com/track/0b0k27TpN4tU3yfc43uHJm) | [KarlaGod](https://open.spotify.com/artist/2QlFgME9RwrC4SToTWKAse) | [Kount Ur Blessings](https://open.spotify.com/album/1VuaD4rhuwn35s02W9zoOF) | 1:40 | 2025-07-25 |  |
 | [Kumama](https://open.spotify.com/track/0T1976UbQjxp4gp529DmQ7) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Kumama](https://open.spotify.com/album/0rE7B3Buwz2JCQjdPZWLXw) | 3:20 | 2025-03-07 | 2025-06-27 |
 | [LIFE RIDDIM](https://open.spotify.com/track/4iWu3eqrodxSqj7Ctvh5AG) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [LIFE RIDDIM](https://open.spotify.com/album/4FdZ26J1zTJ6gMhgLCeCiM) | 2:55 | 2024-11-08 | 2025-02-28 |
 | [Light Come \- Live](https://open.spotify.com/track/1A4XJqbjVomOLrN2pKt2gX) | [Isabella Melodies](https://open.spotify.com/artist/4MoAcSftH9uiQEfe8pA0tr) | [Light Come \(Live\)](https://open.spotify.com/album/7xHhTXpmEtwd68DpcNw9tA) | 3:30 | 2024-12-27 | 2025-03-14 |

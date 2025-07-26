@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 Estelares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,861 likes - 106 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,858 likes - 106 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

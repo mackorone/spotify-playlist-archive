@@ -4,7 +4,7 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Kutless
 
-247 songs - 15 hr 52 min
+248 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Become Everything I Hate](https://open.spotify.com/track/1xn3puc4CysCV0UqbLPDtb) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Crisis Of Faith](https://open.spotify.com/album/5taN41htP1WJeMAlFhj3IZ) | 3:49 | 2022-01-14 | 2024-11-02 |
 | [Become Everything I Hate](https://open.spotify.com/track/6k82huow6XVWBbKou7ywAC) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Become Everything I Hate](https://open.spotify.com/album/3sEulZ9VItDCWudH5yEZZx) | 3:49 | 2022-01-14 | 2022-10-30 |
 | [Before I Cave In](https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Before I Cave In](https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr) | 4:20 | 2021-05-28 |  |
+| [Bet My Life](https://open.spotify.com/track/7pvm23EK5fHFp0HrgoTwyf) | [The Joshua Band](https://open.spotify.com/artist/2X5zUsOK47HsaTDo553Vz0) | [Bet My Life](https://open.spotify.com/album/1LwMbKsrS6Tf9C4Bw311Jn) | 4:13 | 2025-07-25 |  |
 | [Black Honey](https://open.spotify.com/track/1A89Jia7SuA6179NKiq3Ud) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is to Be Nowhere](https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv) | 3:59 | 2023-08-04 | 2024-04-19 |
 | [Black Honey](https://open.spotify.com/track/4FX7dhugVxsKsyC4DgwJyM) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Black Honey](https://open.spotify.com/album/72NG7Su9csuE3s1T7YurnM) | 3:59 | 2023-08-04 | 2023-11-05 |
 | [Black Honey](https://open.spotify.com/track/5EYNb41E5pDliUhP4oMyRx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Black Honey](https://open.spotify.com/album/7tHrM5fGVhgkRzHWKoUp6j) | 3:59 | 2023-08-04 | 2023-11-06 |
@@ -210,7 +211,7 @@
 | [Surviving The Wasteland](https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Surviving The Wasteland](https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx) | 3:18 | 2023-02-17 | 2024-06-29 |
 | [Take It All Back](https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU) | 3:24 | 2024-11-01 |  |
 | [Tell Me](https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ) | [As We Ascend](https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1) | [Farewell to Midnight](https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH) | 3:34 | 2021-05-28 | 2025-05-01 |
-| [Territory \(Live\)](https://open.spotify.com/track/131WRsWLJNbTVkzTt4UYvH) | [NewSpring Worship](https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM), [Bridget Vogel](https://open.spotify.com/artist/49HMsq4DjUJjOX7NsSI72L) | [Territory \(Live\)](https://open.spotify.com/album/0Oad5xd6MTpOFtnGaMfT7N) | 3:35 | 2024-08-09 |  |
+| [Territory \(Live\)](https://open.spotify.com/track/131WRsWLJNbTVkzTt4UYvH) | [NewSpring Worship](https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM), [Bridget Vogel](https://open.spotify.com/artist/49HMsq4DjUJjOX7NsSI72L) | [Territory \(Live\)](https://open.spotify.com/album/0Oad5xd6MTpOFtnGaMfT7N) | 3:35 | 2024-08-09 | 2025-07-26 |
 | [The Antihero](https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [The Antihero](https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW) | 4:08 | 2022-01-14 | 2024-06-29 |
 | [The Cave](https://open.spotify.com/track/4rf3psGLD1Ol5sn7Z2VI9F) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [The Cave](https://open.spotify.com/album/4MDSWuaSkuJrIz6XE68q14) | 3:36 | 2023-07-28 |  |
 | [The Executioner](https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [The Executioner](https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT) | 4:07 | 2023-02-17 | 2024-06-29 |
@@ -250,7 +251,7 @@
 | [Win Build Send](https://open.spotify.com/track/16yLqDkD0GaBOWT8Vm9WFJ) | [The Rock Music](https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk), [Skyler Murray](https://open.spotify.com/artist/2GOIrJCT3ZzhSWeX6fxChI) | [Break Away the Stone](https://open.spotify.com/album/4KKycUXhpamAsV1eIMzWwz) | 4:02 | 2025-03-28 |  |
 | [Words of Fire](https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Words of Fire](https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H) | 4:11 | 2022-10-29 | 2024-06-29 |
 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 | 2024-06-28 | 2025-06-14 |
-| [You Are](https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [You Are](https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51) | 3:31 | 2022-01-14 |  |
+| [You Are](https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [You Are](https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51) | 3:31 | 2022-01-14 | 2025-07-26 |
 | [Your Cross Is Everything](https://open.spotify.com/track/0ze66t6iOmallLyPADgeZ3) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Your Cross Is Everything](https://open.spotify.com/album/6HWTO02Y2LAPsPQ8vuaVXR) | 3:55 | 2024-11-01 |  |
 | [Your Devil Is A Ghost](https://open.spotify.com/track/4zBVeBFp5MdOAFJPi2Tk31) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Rated R](https://open.spotify.com/album/1SFJF2gfT4zm3NXG2rImYM) | 3:11 | 2024-06-28 |  |
 | [Yours Again](https://open.spotify.com/track/57fh50SS5Igc0u6LuHuZHN) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [of Beauty and Rage](https://open.spotify.com/album/4Kn0DsnXrrWm4buuVNIyBJ) | 4:49 | 2021-05-28 | 2024-06-29 |

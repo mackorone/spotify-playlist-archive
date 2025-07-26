@@ -4,7 +4,7 @@
 
 > This is Eslabon Armado\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 45 min
+82 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 | 2022-06-01 |  |
 | [Sad Intro](https://open.spotify.com/track/6xBK4XP7u837CJWHsq5n8U) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 1:04 | 2025-03-16 | 2025-03-30 |
 | [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 | 2022-06-01 |  |
+| [SOY UN P\*ENDEJO](https://open.spotify.com/track/2kIIq27nnGnz12ucXWUFYZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Dame un Chanze](https://open.spotify.com/album/2wgHxzpgMrisLHnHbfbxrD) | 4:28 | 2025-07-26 |  |
 | [Tal Vez](https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:30 | 2022-06-01 |  |
 | [Te Encontré](https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Te Encontré](https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX) | 3:17 | 2022-06-01 |  |
 | [TE ODIO!](https://open.spotify.com/track/5dQwZJPmRoHziPCGmKyxvt) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:11 | 2025-03-16 |  |

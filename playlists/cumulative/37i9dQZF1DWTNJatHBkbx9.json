@@ -689,6 +689,28 @@
     },
     {
       "album": {
+        "name": "COCOA BUTTER",
+        "url": "https://open.spotify.com/album/4Ym4oaMx8JVvrJVSU3lqQ6"
+      },
+      "artists": [
+        {
+          "name": "Joeyturks",
+          "url": "https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL"
+        },
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "COCOA BUTTER",
+      "url": "https://open.spotify.com/track/6gcoMei7aEuvdVEN1TolOG"
+    },
+    {
+      "album": {
         "name": "Come Follow Me",
         "url": "https://open.spotify.com/album/4f3SmSUYbf384SthvKjjFf"
       },
@@ -914,7 +936,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 111000,
       "name": "Diamond in the Rough",
       "url": "https://open.spotify.com/track/1PDyQiivbuOGGTxwf6XL3G"

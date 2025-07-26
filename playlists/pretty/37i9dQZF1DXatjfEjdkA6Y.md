@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,132 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,134 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 30 | [Un banc, un arbre, une rue](https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n) | [Severine](https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH) | [Un banc, un arbre, une rue](https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg) | 3:01 |
 | 31 | [Ding\-A\-Dong \(English\) \- Remastered](https://open.spotify.com/track/2dZ5FvhW12NB8mQPhdBu7U) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Ding\-A\-Dong Winner Eurovision Festival 1975 \(Remastered\)](https://open.spotify.com/album/7rCzZoWFHzNRqvnYgZYoh0) | 2:27 |
 | 32 | [I See A Star](https://open.spotify.com/track/7qsXX1PCCCsGusfjU7gTFu) | [Mouth & MacNeal](https://open.spotify.com/artist/51RYnAHfrE4xnMomva5kFq) | [How Do You Do?](https://open.spotify.com/album/48yOqmMIGCwGJIKSeQxeVJ) | 2:56 |
-| 33 | [Nous les amoureux](https://open.spotify.com/track/35PWl4T8d2U3a5AboajXXw) | [Jean\-Claude Pascal](https://open.spotify.com/artist/42UBmNWaHgsHF305Q32lIy) | [nous les amoureux](https://open.spotify.com/album/5PiFvrgJCnWMc8jbc3dPrK) | 3:07 |
-| 34 | [Vita vidder](https://open.spotify.com/track/0xC2WfHIDroVb1FXHsyrLI) | [Family Four](https://open.spotify.com/artist/59G5sH1IBBPWNAIgOzfpGs) | [1971](https://open.spotify.com/album/7mLIJEPJI0tObeFsLuf0tI) | 3:11 |
+| 33 | [Vita vidder](https://open.spotify.com/track/0xC2WfHIDroVb1FXHsyrLI) | [Family Four](https://open.spotify.com/artist/59G5sH1IBBPWNAIgOzfpGs) | [1971](https://open.spotify.com/album/7mLIJEPJI0tObeFsLuf0tI) | 3:11 |
+| 34 | [Nous les amoureux](https://open.spotify.com/track/35PWl4T8d2U3a5AboajXXw) | [Jean\-Claude Pascal](https://open.spotify.com/artist/42UBmNWaHgsHF305Q32lIy) | [nous les amoureux](https://open.spotify.com/album/5PiFvrgJCnWMc8jbc3dPrK) | 3:07 |
 | 35 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
 | 36 | [Elle était si jolie](https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR) | [Alain Barrière](https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW) | [Pure..\. France](https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr) | 2:57 |
 | 37 | [Power to All Our Friends](https://open.spotify.com/track/4oJxJpFIGUHlX6limr6rH1) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [40 Golden Greats](https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz) | 3:03 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 53 | [Non ho l'età \- Remastered](https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk) | [Gigliola Cinquetti](https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh) | [Non ho l´eta \(Remastered\)](https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl) | 3:16 |
 | 54 | [Warum nur, warum](https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Udo Jürgens \- Die Erfolgsgeschichte](https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6) | 2:58 |
 | 55 | [Era](https://open.spotify.com/track/6rOWvMzDHtOUabr8TsDVrh) | [Dori Ghezzi](https://open.spotify.com/artist/28iEG9gvRrh6taxyKFmDnB), [Wess](https://open.spotify.com/artist/1pXnYmLbedhz708gdE8zhe) | [Wess & Dori Ghezzi](https://open.spotify.com/album/13I0wj6y9uifqp1jYk8htl) | 2:53 |
-| 56 | [Tipi\-tii](https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Marion Rung](https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL) | 2:12 |
-| 57 | [Tourada](https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV) | [Fernando Tordo](https://open.spotify.com/artist/4riCL3Xog9vm4kIeQICGJL), [Capicua](https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ) | [Duetos \- Diz\-me Com Quem Cantas](https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH) | 3:57 |
+| 56 | [Tourada](https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV) | [Fernando Tordo](https://open.spotify.com/artist/4riCL3Xog9vm4kIeQICGJL), [Capicua](https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ) | [Duetos \- Diz\-me Com Quem Cantas](https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH) | 3:57 |
+| 57 | [Tipi\-tii](https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Marion Rung](https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL) | 2:12 |
 | 58 | [La source](https://open.spotify.com/track/67fSydtPAw4ILzqie4tD54) | [Isabelle Aubret](https://open.spotify.com/artist/1YUyLxEVcC1mjIpFYu8vG5) | [C'est Beau La Vie](https://open.spotify.com/album/53bNaq6fM32w2tDlDY8iIA) | 3:08 |
 | 59 | [Amanece](https://open.spotify.com/track/1F2jjX4W3mLOMwhBQXZFic) | [Jaime Morey](https://open.spotify.com/artist/5NB0co82z0VMEGYMZgixWp) | [Jaime Morey: Todos Sus Exitos](https://open.spotify.com/album/2KnB4G2fl7pD9i3FIEGO5L) | 3:03 |
 | 60 | [Junger Tag](https://open.spotify.com/track/1MFZ9Qn3D2Mq7CGBM20T0q) | [Gitte Hænning](https://open.spotify.com/artist/61colh5ssNlVYwuzlQyB1u) | [Mega 50 \- Die 70er Jahre](https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls) | 3:20 |

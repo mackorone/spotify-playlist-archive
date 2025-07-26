@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-302 songs - 19 hr 31 min
+304 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Cyan Blue \- Live at Maida Vale](https://open.spotify.com/track/4aTJrGuRcMM6984U7FaoSr) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Charlotte Day Wilson: Live at Maida Vale](https://open.spotify.com/album/4TXlXRhHwlGmPAqO0G5RS9) | 2:54 | 2024-09-16 | 2024-10-26 |
 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 | 2025-07-10 |  |
 | [dangerous game](https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [dangerous game](https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj) | 3:50 | 2024-05-24 | 2024-07-19 |
-| [Dangerously In Love](https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 5:06 | 2022-04-22 |  |
+| [Dangerously In Love](https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 5:06 | 2022-04-22 | 2025-07-26 |
 | [DAUGHTER](https://open.spotify.com/track/0hWCzWl04zT7P6vMy63XCN) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:23 | 2024-03-29 | 2024-07-27 |
 | [DAYDREAM](https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:01 | 2023-02-08 | 2024-01-25 |
 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 | 2023-09-29 | 2025-07-17 |
@@ -124,7 +124,7 @@
 | [Hands](https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Hands](https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R) | 2:52 | 2025-02-28 | 2025-06-28 |
 | [Happy Survival \(feat\. Khruangbin\)](https://open.spotify.com/track/0Ck3kW2KiRLjMOGiKzW3la) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:23 | 2024-07-26 | 2025-03-04 |
 | [Have You Ever](https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:33 | 2023-06-09 | 2023-07-07 |
-| [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 | 2022-05-06 |  |
+| [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 | 2022-05-06 | 2025-07-26 |
 | [He's Mine](https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn) | [MoKenStef](https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim) | [Love Soul](https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m) | 4:13 | 2021-08-18 | 2023-05-04 |
 | [He's Mine](https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c) | [MoKenStef](https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj) | [azz izz](https://open.spotify.com/album/0wEvHIziY96Zo6hJKltqs9) | 4:14 | 2023-06-09 | 2024-04-19 |
 | [He's Mine](https://open.spotify.com/track/1ExtJxCq3aGNe0pOMapIDr) | [MoKenStef](https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj) | [azz izz](https://open.spotify.com/album/1d26vGpJ6aO9LX8VaOjM39) | 4:14 | 2023-05-04 | 2023-06-10 |
@@ -154,8 +154,10 @@
 | [JAI'S SONG \(FALLING\) \- PT\. 2](https://open.spotify.com/track/3GUkOkDKBh81Tv9bMOGtS3) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [JAI'S SONG \(FALLING\) \[PT\. 2\]](https://open.spotify.com/album/5E9g2J6iUYTtTrOlp8HWCw) | 3:10 | 2025-01-17 | 2025-02-16 |
 | [Jeans \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Jeans \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 | 2025-01-23 | 2025-05-02 |
 | [Jill Scott \(feat\. Jill Scott\)](https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:05 | 2022-04-22 | 2023-05-08 |
+| [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 | 2025-07-25 |  |
 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 | 2025-05-09 |  |
 | [Just Because](https://open.spotify.com/track/1SQNrrJNmUaqkOg3i7Q4Lb) | [Conya Doss](https://open.spotify.com/artist/67ONfRSpITV4rWHCQGSS3R) | [Just Because](https://open.spotify.com/album/4llnsu7PbYbDxLOw0oXd17) | 3:51 | 2021-08-18 | 2022-08-13 |
+| [Kanana](https://open.spotify.com/track/5KNbuqKLvnMkJpW29vcUgJ) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Kanana](https://open.spotify.com/album/1xCw5CbamxGX0iWfQxLZky) | 5:35 | 2025-07-25 |  |
 | [Keen](https://open.spotify.com/track/5FjgNCKyg3yYHHTMNQiMgl) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Keen](https://open.spotify.com/album/7Ej5UEFKXWLmQ6g5lYkpWL) | 3:57 | 2024-08-02 | 2024-10-05 |
 | [Keep Your Head Up](https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs) | [Keep Your Head Up](https://open.spotify.com/album/5iigwSrb7BkMa9Flopzkr8) | 2:43 | 2022-05-06 | 2023-02-28 |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 | 2022-10-12 | 2023-03-02 |

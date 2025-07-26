@@ -4,7 +4,7 @@
 
 > This is Stevie Nicks\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 50 min
+53 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Beautiful People Beautiful Problems \(feat\. Stevie Nicks\)](https://open.spotify.com/track/3O7p9Itz8PXUoAjD2vmuM6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:13 | 2025-03-08 |  |
 | [Bella Donna \- 2016 Remaster](https://open.spotify.com/track/67oVj9wKv1T0effsUcny7A) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:22 | 2025-03-08 |  |
 | [Blue Denim](https://open.spotify.com/track/1MjyiWINFr2W13nxxqtHQt) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Street Angel](https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS) | 4:23 | 2025-03-08 |  |
-| [Blue Lamp \- 2016 Remaster](https://open.spotify.com/track/1ai4kUdzv3xq4EVh6DNWEB) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 3:50 | 2025-03-08 |  |
+| [Blue Lamp \- 2016 Remaster](https://open.spotify.com/track/1ai4kUdzv3xq4EVh6DNWEB) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 3:50 | 2025-03-08 | 2025-07-26 |
+| [Crying in the Night \- 2025 Remaster](https://open.spotify.com/track/39EnwJiZJ9q3hqcnKaJwlB) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Crying in the Night \(2025 Remaster\)](https://open.spotify.com/album/33LW94s93xeDtCb00OT02P) | 2:59 | 2025-07-26 |  |
 | [Crystal](https://open.spotify.com/track/6wZaKZs7XsMzAOu9yp8dUN) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Practical Magic \(Music From The Motion Picture\)](https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw) | 5:57 | 2025-03-08 |  |
 | [Dreams \(with Deep Dish\)](https://open.spotify.com/track/6ztHD7TBXLxAaPxJ3sO8a4) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 4:39 | 2025-03-08 |  |
 | [Edge of Midnight \(Midnight Sky Remix\) \(feat\. Stevie Nicks\)](https://open.spotify.com/track/1Tip6R4swhC7E6hgILBjrE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:40 | 2025-03-08 |  |

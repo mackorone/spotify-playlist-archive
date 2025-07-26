@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with HI LO",
+  "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with Markus Schulz",
   "name": "Trance Mission",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 252301,
       "name": "1998 - Victor Ruiz Remix",
       "url": "https://open.spotify.com/track/3fnWgtjqolErwSW3XS0vy5"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 219428,
       "name": "Air Raid",
       "url": "https://open.spotify.com/track/7L1vISqga09TEfhGclgw5x"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 205714,
       "name": "Alcazar",
       "url": "https://open.spotify.com/track/2SUYjTg0xeWe8qYM4jx8x0"
@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 192142,
       "name": "Burned",
       "url": "https://open.spotify.com/track/04jpNjWoeNHfHoZAjhyU01"
@@ -7294,6 +7294,28 @@
       "duration_ms": 246956,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/6ZPnUBqOW5cPG4gYBSbfhl"
+    },
+    {
+      "album": {
+        "name": "Faultline",
+        "url": "https://open.spotify.com/album/624dOqHl09SJsjMWBj9T9f"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/7mTnfFkluYaLb3UpA9aWgG"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220821,
+      "name": "Faultline",
+      "url": "https://open.spotify.com/track/1ohbar8IexoLGkxFiwwqPT"
     },
     {
       "album": {
@@ -15246,7 +15268,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 306693,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/2xfL7Mx5AqbWP0YcwxlcI7"
@@ -16032,6 +16054,32 @@
     {
       "album": {
         "name": "Oxygen",
+        "url": "https://open.spotify.com/album/6c9IwkWbbNrZ77MLsGbMM9"
+      },
+      "artists": [
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172916,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/00sy6AoG8pNFxbdAWHhsrn"
+    },
+    {
+      "album": {
+        "name": "Oxygen",
         "url": "https://open.spotify.com/album/7jz6w6O4RsnvSQY4V5QsYe"
       },
       "artists": [
@@ -16116,6 +16164,32 @@
       "duration_ms": 211127,
       "name": "Pantheon",
       "url": "https://open.spotify.com/track/0BlAXvUWEmQhAZzHRE015V"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4OmLoF1baTfIw50x250ELm"
+      },
+      "artists": [
+        {
+          "name": "Ilan Bluestone",
+          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
+        },
+        {
+          "name": "ALPHA 9",
+          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
+        },
+        {
+          "name": "H.E.A.R.T.S.",
+          "url": "https://open.spotify.com/artist/2LVnO7HXk285e9qqVVhtcd"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260578,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0MD3uMPbhJiX4QTz0i9iqA"
     },
     {
       "album": {
@@ -16810,7 +16884,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 187285,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
@@ -20928,7 +21002,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 171428,
       "name": "Tank",
       "url": "https://open.spotify.com/track/7vSeQleyrbZXFUSilbGp4x"

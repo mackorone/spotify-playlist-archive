@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Hip Hop Tamizha
 
-263 songs - 14 hr 42 min
+265 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Lyrical Crime](https://open.spotify.com/track/1WnY7mnjjImeSb4FylOoN8) | [Slim KD](https://open.spotify.com/artist/09WwWdZUQKu1HHMfyYdLWI), [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [King Oficl](https://open.spotify.com/artist/1G08xWMiSkFYWQBGFhm3wX) | [Lyrical Crime](https://open.spotify.com/album/6428QRh1hrjWuna1MNpWc3) | 4:29 | 2021-12-01 | 2022-08-24 |
 | [Ma Carrotz](https://open.spotify.com/track/2HdXZ7g9XuSYMX5C9dguE4) | [Rabbit Mac](https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7) | [Ma Carrotz](https://open.spotify.com/album/0og1Tkn9vVjSpKPZ1pRVAf) | 4:00 | 2021-12-01 | 2022-08-24 |
 | [Maari Mazhaiyila Thavala](https://open.spotify.com/track/20Laa9YU8RVHZ9iGKMeM7w) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF) | [Maari Mazhaiyila Thavala](https://open.spotify.com/album/754TTixoJkmxR8F8zt0XTa) | 3:31 | 2022-08-25 | 2023-03-14 |
+| [Macchi Bacchi](https://open.spotify.com/track/3eiVDbptTnzMz8dYecBGN0) | [Cronyg](https://open.spotify.com/artist/0SaZoElbSiD33kEknjKbRQ), [Seize](https://open.spotify.com/artist/4gDclcEey95YZUezbMQo14), [Cymbol](https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w) | [Macchi Bacchi](https://open.spotify.com/album/0t8WM1aEqyCqfxLDj1oHLv) | 2:52 | 2025-07-25 |  |
 | [Malayahan](https://open.spotify.com/track/2Gowv6eWJEr3M3DPmWttP7) | [Prabath G.](https://open.spotify.com/artist/0AFm8YfBJDCBkKaQD7pkWd), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Malayahan](https://open.spotify.com/album/1ss31NIReeyCznDVA1NxWX) | 2:50 | 2023-02-16 | 2023-03-10 |
 | [Mami](https://open.spotify.com/track/2cjrn6oI6BAs3d1KqkpSxB) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Mami](https://open.spotify.com/album/7a4D0dQEbyuhfokz9cuvCI) | 2:58 | 2021-12-01 | 2022-06-09 |
 | [MIND](https://open.spotify.com/track/0v1BlMPyg0mgNtozCgwQcW) | [niimoo](https://open.spotify.com/artist/713HcQVV2a1TnyNp6GeIQy) | [MIND](https://open.spotify.com/album/1myNsa5siAFA1fTPkKhN2D) | 2:02 | 2024-10-18 | 2024-12-29 |
@@ -153,6 +154,7 @@
 | [OCB](https://open.spotify.com/track/6YkExZc1NrbT2nLnyhmqcc) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [SHIV PAUL](https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f) | [OCB](https://open.spotify.com/album/0hkZovevxAVmLj0zec6CE4) | 3:04 | 2024-03-29 |  |
 | [Ondiya](https://open.spotify.com/track/68QSyfoa5A4Az1sWykepn5) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Ondiya](https://open.spotify.com/album/2Qjr9KkndM8S2PKGs0xPpE) | 2:09 | 2023-08-31 |  |
 | [Onnu Illa Nooru](https://open.spotify.com/track/0o7aamlDHXOpOGXptI7201) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [Stony Psyko](https://open.spotify.com/artist/39cUrSwXh9awPD0itfevhV) | [Onnu Illa Nooru](https://open.spotify.com/album/1DJ0iILjsBDhhWjwGPvAGI) | 3:37 | 2022-11-24 | 2023-01-14 |
+| [Oolu](https://open.spotify.com/track/6b13p3nV4AfyhMoI5oEUMk) | [Siva G](https://open.spotify.com/artist/0yP11NiPRUSj7BRjdMwPKa) | [Oolu](https://open.spotify.com/album/37G24puVcHLR2Uc3Utsv5v) | 3:02 | 2025-07-25 |  |
 | [Oor Kelavi](https://open.spotify.com/track/7KHYxlYjBMTSvhbySy8drc) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [4AM](https://open.spotify.com/artist/1kxy6Aq2gkN6zJZvhVldk8), [RAM](https://open.spotify.com/artist/0m0GD5srjWW5q7Q64ysBwh) | [Oor Kelavi](https://open.spotify.com/album/5OXJa8reSznpqKfkSQEwSQ) | 3:18 | 2023-03-13 | 2023-06-09 |
 | [OORKELAVI](https://open.spotify.com/track/6aeXEQqyiIhSGv5K6ZnLZ4) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl), [4AM](https://open.spotify.com/artist/2jJeZRg79MbRMj1D3xga0p) | [OORKELAVI](https://open.spotify.com/album/7ue7fFSTzVgp0LACG09aBy) | 3:18 | 2023-03-13 | 2024-04-16 |
 | [OORO](https://open.spotify.com/track/0gJyRJTtghZEfOz9dJIcv2) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [OORO](https://open.spotify.com/album/1ZDtWTvDxsL2c6bPKSM6df) | 2:18 | 2024-04-15 | 2024-08-09 |

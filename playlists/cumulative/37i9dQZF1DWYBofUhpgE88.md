@@ -2,7 +2,7 @@
 
 ### [ADRENALINA](https://open.spotify.com/playlist/37i9dQZF1DWYBofUhpgE88)
 
-> Azzurre, siamo con voi 🇮🇹 💙
+> Grazie Azzurre 🇮🇹 💙
 
 378 songs - 19 hr 57 min
 

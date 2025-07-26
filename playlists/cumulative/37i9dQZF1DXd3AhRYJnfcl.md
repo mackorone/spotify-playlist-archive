@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف:  رامي صبري
 
-383 songs - 22 hr 21 min
+384 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 | 2022-04-13 | 2022-09-27 |
 | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/track/571hMdqSYlYZNa4i4Y0IpS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Boustan Magdy](https://open.spotify.com/artist/2hY97UqOlQK2wyIAXkx2Ep) | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/album/5wnmqhy2eKLnqEYqAHZ7O4) | 3:14 | 2023-04-07 | 2023-05-18 |
 | [Khamsa](https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Star](https://open.spotify.com/album/7knqeOrwUe1idz6IZoD2hJ) | 2:18 | 2022-09-26 | 2022-10-11 |
+| [Khatfoony](https://open.spotify.com/track/3ptVro4saZIK2M6J8fIoEg) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W), [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 4:17 | 2025-07-25 |  |
 | [Kol Elly Eshto](https://open.spotify.com/track/3PsPaxw4KgRJXAVWxnUu7q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Kol Elly Eshto](https://open.spotify.com/album/36RN9n5MnY8qHLv9gwzfu0) | 3:08 | 2024-06-13 | 2024-09-10 |
 | [Kolo Falso](https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Esaad Younis](https://open.spotify.com/artist/2VtjN9mCdwy6DBkms1ujiQ) | [Kolo Falso](https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF) | 2:58 | 2024-01-03 | 2024-09-10 |
 | [Konty 2olely](https://open.spotify.com/track/49odA1EtwSkPefTEeIwqBx) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Konty 2olely](https://open.spotify.com/album/7ko3njN5mraY8cgakYCmbf) | 2:48 | 2022-04-13 | 2023-01-20 |
@@ -204,7 +205,7 @@
 | [Seebk Enta](https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Seebk Enta](https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO) | 4:00 | 2023-05-30 | 2023-09-02 |
 | [Seneen](https://open.spotify.com/track/78aKU80XVAIVX9L0Xur3PC) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Seneen](https://open.spotify.com/album/762Ih6Q3P5rhDn99oSCEbe) | 3:23 | 2022-04-13 | 2022-06-08 |
 | [Setto Ana \(Maktoub Alya\)](https://open.spotify.com/track/1WwGDWDEdyUR5fKANFTxUY) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE), [Kareem Saleh](https://open.spotify.com/artist/4qe6Wv1Cjj0LyU0eWdde0Q) | [Setto Ana \(Maktoub Alya\)](https://open.spotify.com/album/6la9EzGFogBTcjm88alqTA) | 2:18 | 2022-04-13 | 2022-05-20 |
-| [Shaif Amar](https://open.spotify.com/track/6ppnpZodq0gL0s4VC8yA5s) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 2:29 | 2025-07-03 |  |
+| [Shaif Amar](https://open.spotify.com/track/6ppnpZodq0gL0s4VC8yA5s) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 2:29 | 2025-07-03 | 2025-07-26 |
 | [Shakly Ha3esh](https://open.spotify.com/track/2oWNiZYY8W5YEy2M9CPp2J) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Shakly Ha3esh](https://open.spotify.com/album/6KISR3mmosRXkxfSzVQxGz) | 3:42 | 2024-09-09 | 2024-10-03 |
 | [Shokran](https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shokran](https://open.spotify.com/album/572v0Jez74h9cMKAYPCIug) | 3:28 | 2022-04-13 | 2023-01-13 |
 | [Shyaf Nafsk](https://open.spotify.com/track/3a7QA108PHmYTGzaQvorSg) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Shyaf Nafsk](https://open.spotify.com/album/79KTwmLoafLHSbn37XOQKd) | 3:56 | 2024-09-09 |  |

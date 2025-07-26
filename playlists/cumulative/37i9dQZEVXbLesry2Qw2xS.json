@@ -3661,6 +3661,24 @@
     },
     {
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -8472,7 +8490,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 293183,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
@@ -10218,6 +10236,24 @@
       "duration_ms": 183475,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
+    },
+    {
+      "album": {
+        "name": "Dirty Deeds Done Dirt Cheap",
+        "url": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "Dirty Deeds Done Dirt Cheap",
+      "url": "https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT"
     },
     {
       "album": {
@@ -12802,7 +12838,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -12878,7 +12914,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 189553,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
@@ -17675,6 +17711,24 @@
     },
     {
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312293,
+      "name": "Hells Bells",
+      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
+    },
+    {
+      "album": {
         "name": "Henry, come on",
         "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
       },
@@ -17890,6 +17944,24 @@
       "duration_ms": 190074,
       "name": "HIGHJACK",
       "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
     },
     {
       "album": {
@@ -18710,7 +18782,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
@@ -20800,7 +20872,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 354213,
       "name": "Iron Man - 2009 Remaster",
       "url": "https://open.spotify.com/track/755bvJDSA3LNcNuFgBT9LK"
@@ -27382,7 +27454,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 251866,
       "name": "Mama, I'm Coming Home",
       "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
@@ -31952,7 +32024,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 443240,
       "name": "No More Tears",
       "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
@@ -32216,7 +32288,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -34606,10 +34678,28 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 167720,
       "name": "Paranoid - 2009 Remaster",
       "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
+    },
+    {
+      "album": {
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168405,
+      "name": "Paranoid - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
     },
     {
       "album": {
@@ -37973,6 +38063,24 @@
     },
     {
       "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261506,
+      "name": "Rock N Roll Train",
+      "url": "https://open.spotify.com/track/4feXJ5IC3avXsVW9WNFSag"
+    },
+    {
+      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
         "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
       },
@@ -37984,7 +38092,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -38002,7 +38110,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -40271,6 +40379,24 @@
     },
     {
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317426,
+      "name": "Shoot to Thrill",
+      "url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -40384,7 +40510,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -43901,6 +44027,24 @@
     },
     {
       "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
+    },
+    {
+      "album": {
         "name": "qqndqlt",
         "url": "https://open.spotify.com/album/3UNqy9umTAaBxUnUKsfH5b"
       },
@@ -46142,7 +46286,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-10",
+      "date_removed": null,
       "duration_ms": 292880,
       "name": "Thunderstruck",
       "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
@@ -51762,6 +51906,24 @@
       "duration_ms": 186173,
       "name": "You Right",
       "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "album": {

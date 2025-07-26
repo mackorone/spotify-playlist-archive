@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,849 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,851 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 13 | [Blue Burns Orange](https://open.spotify.com/track/5w2Y1wj3QU8jHNj3WLei02) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 3:19 |
 | 14 | [We Are So Last Year](https://open.spotify.com/track/6g8VLFKHQCbKi6l0XpLKdT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq) | 2:57 |
 | 15 | [Common Crook](https://open.spotify.com/track/3nHEKxGnv30F4uZkcUf97m) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:13 |
-| 16 | [Nervous Breakdown](https://open.spotify.com/track/2k30UkSJ7i2PXioaokC6Ki) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 2:51 |
+| 16 | [Constant Dread](https://open.spotify.com/track/3IyhY55cr7wlxkVgLl1HCT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Brendan Murphy](https://open.spotify.com/artist/7CbcN4VBt2aG1NzFlB8uJE), [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Rain Just Follows Me](https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG) | 2:52 |
 | 17 | [Silver Bullet](https://open.spotify.com/track/6VYRTVEG4y845mb4Bpatae) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:03 |
 | 18 | [Dead In The Water](https://open.spotify.com/track/1vvzn2ZqR7p31b5ohClWhO) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq) | 3:51 |
-| 19 | [Constant Dread](https://open.spotify.com/track/3IyhY55cr7wlxkVgLl1HCT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Brendan Murphy](https://open.spotify.com/artist/7CbcN4VBt2aG1NzFlB8uJE), [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Rain Just Follows Me](https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG) | 2:52 |
+| 19 | [Nervous Breakdown](https://open.spotify.com/track/2k30UkSJ7i2PXioaokC6Ki) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 2:51 |
 | 20 | [The Darkest Times](https://open.spotify.com/track/2ibiou9bHgZpv03Qe3Fjzh) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:40 |
 | 21 | [Wake Up Call](https://open.spotify.com/track/5wgomnotcyDrah2xWs5PYG) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:02 |
 | 22 | [Where Can I Stab Myself In The Ears](https://open.spotify.com/track/0WnaprahtIVTUWsgGc2hYK) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 49 | [The Business Of Paper Stars](https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:46 |
 | 50 | [Abandoned Driveways](https://open.spotify.com/track/0PBhQRL2CdOZhBgIL3dzqK) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 2:42 |
 
-Snapshot ID: `aIAmAAAAAADMJb+NCAYvu+N3MJQZVVg6`
+Snapshot ID: `aIF3gAAAAABztMIQL5tE8BCKqxbs58PP`

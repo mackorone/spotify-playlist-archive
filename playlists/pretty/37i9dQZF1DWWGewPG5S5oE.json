@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u4f50\u702c\u60a0\u8f14",
-  "num_followers": 45564,
+  "num_followers": 45579,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,26 @@
     {
       "added_at": "2025-07-22 15:00:14",
       "album": {
+        "name": "Exotic Rose",
+        "url": "https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf"
+      },
+      "artists": [
+        {
+          "name": "EXOTIC SKATES",
+          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
+        },
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        }
+      ],
+      "duration_ms": 290341,
+      "name": "Exotic Rose",
+      "url": "https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K"
+    },
+    {
+      "added_at": "2025-07-22 15:00:14",
+      "album": {
         "name": "Trionfi",
         "url": "https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ"
       },
@@ -315,26 +335,6 @@
     {
       "added_at": "2025-07-22 15:00:14",
       "album": {
-        "name": "Exotic Rose",
-        "url": "https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf"
-      },
-      "artists": [
-        {
-          "name": "EXOTIC SKATES",
-          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
-        },
-        {
-          "name": "MONKY",
-          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
-        }
-      ],
-      "duration_ms": 290341,
-      "name": "Exotic Rose",
-      "url": "https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K"
-    },
-    {
-      "added_at": "2025-07-22 15:00:14",
-      "album": {
         "name": "New World feat.ELAIZA",
         "url": "https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU"
       },
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-07-22 15:00:14",
       "album": {
-        "name": "CROSSING",
-        "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
-      },
-      "artists": [
-        {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
-        }
-      ],
-      "duration_ms": 270806,
-      "name": "Crossing",
-      "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
-    },
-    {
-      "added_at": "2025-07-22 15:00:14",
-      "album": {
         "name": "MORAL",
         "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 201842,
       "name": "MORAL",
       "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
+    },
+    {
+      "added_at": "2025-07-22 15:00:14",
+      "album": {
+        "name": "CROSSING",
+        "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 270806,
+      "name": "Crossing",
+      "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
     },
     {
       "added_at": "2025-07-22 15:00:14",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-07-22 15:00:14",
       "album": {
-        "name": "This Love",
-        "url": "https://open.spotify.com/album/0RCDCLcXJS9tVbOgqryJ0U"
-      },
-      "artists": [
-        {
-          "name": "\u6851\u539f\u3042\u3044",
-          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
-        }
-      ],
-      "duration_ms": 294733,
-      "name": "This Love",
-      "url": "https://open.spotify.com/track/0uE3xERre9NAXyAaKSKREg"
-    },
-    {
-      "added_at": "2025-07-22 15:00:14",
-      "album": {
         "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
         "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": "2025-07-22 15:00:14",
       "album": {
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/0RCDCLcXJS9tVbOgqryJ0U"
+      },
+      "artists": [
+        {
+          "name": "\u6851\u539f\u3042\u3044",
+          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
+        }
+      ],
+      "duration_ms": 294733,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/0uE3xERre9NAXyAaKSKREg"
+    },
+    {
+      "added_at": "2025-07-22 15:00:14",
+      "album": {
         "name": "EVERYDAY",
         "url": "https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 223820,
       "name": "Must Have Known",
       "url": "https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL"
-    },
-    {
-      "added_at": "2025-07-22 15:00:14",
-      "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/01CC55S8CrtTxLFradaMM5"
-      },
-      "artists": [
-        {
-          "name": "Tenors In Chaos",
-          "url": "https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT"
-        }
-      ],
-      "duration_ms": 394693,
-      "name": "Blue Train",
-      "url": "https://open.spotify.com/track/5udFjFeQRT0wufDjoVURvp"
     },
     {
       "added_at": "2025-07-22 15:00:14",
@@ -595,6 +579,22 @@
     {
       "added_at": "2025-07-22 15:00:14",
       "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/01CC55S8CrtTxLFradaMM5"
+      },
+      "artists": [
+        {
+          "name": "Tenors In Chaos",
+          "url": "https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT"
+        }
+      ],
+      "duration_ms": 394693,
+      "name": "Blue Train",
+      "url": "https://open.spotify.com/track/5udFjFeQRT0wufDjoVURvp"
+    },
+    {
+      "added_at": "2025-07-22 15:00:14",
+      "album": {
         "name": "Liquid Yellow Portraits",
         "url": "https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-07-22 15:00:14",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/4ftRVwpPcBhLoCCKLrCLLW"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 355973,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/5c9PKrxJgtVwDNRE9IOd5S"
-    },
-    {
-      "added_at": "2025-07-22 15:00:14",
-      "album": {
         "name": "Answer to Remember II",
         "url": "https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 221813,
       "name": "KIMOCHIS",
       "url": "https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy"
+    },
+    {
+      "added_at": "2025-07-22 15:00:14",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/4ftRVwpPcBhLoCCKLrCLLW"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 355973,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/5c9PKrxJgtVwDNRE9IOd5S"
     },
     {
       "added_at": "2025-07-22 15:00:14",
@@ -739,34 +739,18 @@
     {
       "added_at": "2025-07-22 15:00:14",
       "album": {
-        "name": "TAPES of ACES - Side B",
-        "url": "https://open.spotify.com/album/4GWw6OkGV9ma2g9tgXcICQ"
+        "name": "Night Flight",
+        "url": "https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J"
       },
       "artists": [
         {
-          "name": "4Aces",
-          "url": "https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL"
+          "name": "PYRAMID",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
         }
       ],
-      "duration_ms": 235392,
-      "name": "Hayai",
-      "url": "https://open.spotify.com/track/0r2do7LTucZoqeK7eKgiM1"
-    },
-    {
-      "added_at": "2025-07-22 15:00:14",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/6om4lQLFf1Thy5TXspNM86"
-      },
-      "artists": [
-        {
-          "name": "Blu-Swing",
-          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
-        }
-      ],
-      "duration_ms": 218673,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/78w7jU2Nn89QqLnXtDRj7o"
+      "duration_ms": 230057,
+      "name": "Night flight",
+      "url": "https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk"
     },
     {
       "added_at": "2025-07-22 15:00:14",
@@ -807,22 +791,34 @@
     {
       "added_at": "2025-07-22 15:00:14",
       "album": {
-        "name": "Dig Deep (feat. Jairo)",
-        "url": "https://open.spotify.com/album/4QWMRK9NfzqyYKXTkN2Z85"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/6om4lQLFf1Thy5TXspNM86"
       },
       "artists": [
         {
-          "name": "PYRAMID",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
-        },
-        {
-          "name": "Jairo",
-          "url": "https://open.spotify.com/artist/7Me7P1y6x4I5xkHkCEkfpM"
+          "name": "Blu-Swing",
+          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
         }
       ],
-      "duration_ms": 270326,
-      "name": "Dig Deep (feat.Jairo\uff09",
-      "url": "https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm"
+      "duration_ms": 218673,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/78w7jU2Nn89QqLnXtDRj7o"
+    },
+    {
+      "added_at": "2025-07-22 15:00:14",
+      "album": {
+        "name": "TAPES of ACES - Side B",
+        "url": "https://open.spotify.com/album/4GWw6OkGV9ma2g9tgXcICQ"
+      },
+      "artists": [
+        {
+          "name": "4Aces",
+          "url": "https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL"
+        }
+      ],
+      "duration_ms": 235392,
+      "name": "Hayai",
+      "url": "https://open.spotify.com/track/0r2do7LTucZoqeK7eKgiM1"
     },
     {
       "added_at": "2025-07-22 15:00:14",
@@ -839,6 +835,26 @@
       "duration_ms": 258183,
       "name": "Rhapsody in Summer",
       "url": "https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6"
+    },
+    {
+      "added_at": "2025-07-22 15:00:14",
+      "album": {
+        "name": "Dig Deep (feat. Jairo)",
+        "url": "https://open.spotify.com/album/4QWMRK9NfzqyYKXTkN2Z85"
+      },
+      "artists": [
+        {
+          "name": "PYRAMID",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        },
+        {
+          "name": "Jairo",
+          "url": "https://open.spotify.com/artist/7Me7P1y6x4I5xkHkCEkfpM"
+        }
+      ],
+      "duration_ms": 270326,
+      "name": "Dig Deep (feat.Jairo\uff09",
+      "url": "https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm"
     },
     {
       "added_at": "2025-07-22 15:00:14",
@@ -895,22 +911,6 @@
     {
       "added_at": "2025-07-22 15:00:14",
       "album": {
-        "name": "Night Flight",
-        "url": "https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J"
-      },
-      "artists": [
-        {
-          "name": "PYRAMID",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
-        }
-      ],
-      "duration_ms": 230057,
-      "name": "Night flight",
-      "url": "https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk"
-    },
-    {
-      "added_at": "2025-07-22 15:00:14",
-      "album": {
         "name": "Spark",
         "url": "https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj"
       },
@@ -927,18 +927,18 @@
     {
       "added_at": "2025-07-22 15:00:14",
       "album": {
-        "name": "Waterfilm",
-        "url": "https://open.spotify.com/album/0fur4DVWgZwn44dDy9ZpFs"
+        "name": "HAGAKURE",
+        "url": "https://open.spotify.com/album/2EQ9eVENJbi9FYY9VxTifC"
       },
       "artists": [
         {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
         }
       ],
-      "duration_ms": 257221,
-      "name": "Waterfilm",
-      "url": "https://open.spotify.com/track/76KVWgsaoamQvSAdcmahcH"
+      "duration_ms": 221494,
+      "name": "HAGAKURE",
+      "url": "https://open.spotify.com/track/1i7mphSVtYRYQq7udj2khv"
     }
   ],
   "unique_name": "Modern Jazz Japan",

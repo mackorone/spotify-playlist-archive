@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 5745,
+  "num_followers": 5752,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAAqj/05jaSo0Pcpt7hBsiJI",
+  "snapshot_id": "aIF3gAAAAACcf6INLtVjuSK21LPGBKd8",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica Tranquilo",
-        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 303946,
-      "name": "Tem Horas",
-      "url": "https://open.spotify.com/track/7uPDau0lf1w3fhXyDGNOHr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limite (Ao Vivo)",
         "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 278613,
       "name": "Limite (Ao Vivo)",
       "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 303946,
+      "name": "Tem Horas",
+      "url": "https://open.spotify.com/track/7uPDau0lf1w3fhXyDGNOHr"
     },
     {
       "added_at": null,
@@ -632,15 +632,15 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 294053,
-      "name": "Tudo que Deus Falou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4fjPQ2wFE3R3vYEXR0w4wd"
+      "duration_ms": 258880,
+      "name": "A Porta do meu Quarto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7j22XYPTYKpk7QPdG2fCLI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
-        "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
+        "name": "Vazio",
+        "url": "https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 241874,
-      "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
-      "url": "https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1"
+      "duration_ms": 309636,
+      "name": "Vazio",
+      "url": "https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE"
     },
     {
       "added_at": null,
@@ -696,15 +696,15 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 258880,
-      "name": "A Porta do meu Quarto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7j22XYPTYKpk7QPdG2fCLI"
+      "duration_ms": 294053,
+      "name": "Tudo que Deus Falou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4fjPQ2wFE3R3vYEXR0w4wd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Vazio",
-        "url": "https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR"
+        "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
+        "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
       },
       "artists": [
         {
@@ -712,29 +712,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 309636,
-      "name": "Vazio",
-      "url": "https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/4yfESzbAlSbUIicPQTw13W"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        },
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 280615,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/1zEVQacf6Kf8X79sJpvjcP"
+      "duration_ms": 241874,
+      "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
+      "url": "https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1"
     },
     {
       "added_at": null,
@@ -755,6 +735,26 @@
       "duration_ms": 280117,
       "name": "Grito Aflito",
       "url": "https://open.spotify.com/track/4eagNWRJ2IET4RsWa9mH9E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/4yfESzbAlSbUIicPQTw13W"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 280615,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/1zEVQacf6Kf8X79sJpvjcP"
     },
     {
       "added_at": null,

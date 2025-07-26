@@ -2,9 +2,9 @@
 
 ### [Chill Indie Music](https://open.spotify.com/playlist/1khS5Pll0YEduwuZdciEbe)
 
-> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Matt Berninger
+> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Mac DeMarco
 
-275 songs - 16 hr 40 min
+276 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-25 |  |
 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 | 2024-04-05 | 2025-03-22 |
 | [Hollowed Out](https://open.spotify.com/track/4Wjxj9Q4Hbh7ymt7XmleEs) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Hollowed Out](https://open.spotify.com/album/3ZBkAMm7iU777wAqkBzURy) | 2:50 | 2023-12-08 | 2024-05-11 |
+| [Holy](https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1) | 2:24 | 2025-07-25 |  |
 | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/track/7EpL9S3Daon2BfFKq07qT4) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/album/3ykcnJFA0aQeevb3oNfZGn) | 3:11 | 2024-06-07 | 2024-10-19 |
 | [Hotel](https://open.spotify.com/track/2LtCEKs68u3RpNh4wybCF8) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:17 | 2023-11-03 | 2024-07-27 |
 | [Houston](https://open.spotify.com/track/4d9O0gY7JmTXRHNmv4It66) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Houston](https://open.spotify.com/album/48adyhddPaE5YihkleCu7I) | 4:37 | 2024-09-27 | 2025-03-08 |

@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Tokyo Machine  \\m/
 
-513 songs - 1 day 4 hr 49 min
+514 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [All My Friends](https://open.spotify.com/track/2xZboesRRbMZPX7cS21YZs) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn), [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [All My Friends](https://open.spotify.com/album/1xOgb6OrNRhPZwK9mjrZz3) | 2:41 | 2021-12-10 | 2022-04-02 |
 | [All The Small Things](https://open.spotify.com/track/0acm2odfDKZzuRLrViBnTb) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [All The Small Things](https://open.spotify.com/album/6vpocQEtVoMkffazXMxWX7) | 1:51 | 2025-01-10 |  |
 | [All To You \(feat\. Micah Martin\)](https://open.spotify.com/track/4cQzvfSsPLcUxieNmesdzb) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [All To You \(feat\. Micah Martin\)](https://open.spotify.com/album/1GyqD7X9T1UxyiYGdhvqE8) | 3:09 | 2021-12-10 | 2023-08-23 |
-| [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 | 2022-04-22 |  |
+| [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 | 2022-04-22 | 2025-07-26 |
 | [Amnesia \(feat\. GASHI\)](https://open.spotify.com/track/1xvh5ujI8fogjmadcLmLBZ) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Amnesia \(feat\. GASHI\)](https://open.spotify.com/album/51BR8645FA5RjZus314Tpy) | 3:13 | 2021-12-10 | 2023-08-19 |
 | [And I](https://open.spotify.com/track/6yUY7waUwHiiso4JeBukur) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [DICHOTOMY](https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg) | 3:29 | 2022-04-29 | 2022-07-29 |
 | [Angst \- RMX by twocolors](https://open.spotify.com/track/1kqx2Z9AXjbUCbPkUVbIRM) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Angst](https://open.spotify.com/album/7shS9BkAsDD0jVjWnc7iQn) | 4:00 | 2022-08-26 | 2024-07-13 |
@@ -75,6 +75,7 @@
 | [By Your Side](https://open.spotify.com/track/06KgkNaJPuhFTkiwsLr0xX) | [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro), [PatFromLastYear](https://open.spotify.com/artist/0WqLTgwIxVGym0LlUwiHro) | [By Your Side](https://open.spotify.com/album/18dw5dQmUapO6Io1q20L98) | 3:15 | 2023-12-08 | 2024-03-23 |
 | [California](https://open.spotify.com/track/0o6V0Ij0wf7nZiTxPTiWgQ) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [California](https://open.spotify.com/album/1bwm2WcKV53zVrowa9TdPy) | 3:11 | 2022-10-14 | 2023-12-02 |
 | [Can't Slow Down](https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Can't Slow Down](https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY) | 3:50 | 2024-10-25 | 2025-02-01 |
+| [Cannibal](https://open.spotify.com/track/71ZLUITpAp9J4woBHXnTLa) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Cannibal](https://open.spotify.com/album/4sdOB0zTTdmqLyPs8tHXAJ) | 3:21 | 2025-07-25 |  |
 | [Cash Machine \(Remix\) \[feat\. Dillon Francis & grandson\]](https://open.spotify.com/track/6FqS20S6qXlbL3o2htqszT) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Cash Machine \(Remix\) \[feat\. Dillon Francis & grandson\]](https://open.spotify.com/album/69pshuUSWZvUCylSdkYrFh) | 2:50 | 2021-12-10 | 2023-07-01 |
 | [CATCH AND RELEASE](https://open.spotify.com/track/0xFDEEdNrcqK6OKPQGsyok) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [CATCH AND RELEASE](https://open.spotify.com/album/4jUocI6n5D4jEWx4GqYtpu) | 2:24 | 2025-07-18 |  |
 | [Chains](https://open.spotify.com/track/0AyAbIj2gia6WkxUEJuMJA) | [BlackCrow](https://open.spotify.com/artist/09SocXVt37o1QnASuD212P) | [Chains](https://open.spotify.com/album/6kqIUKCk95O9eurMhObszK) | 2:52 | 2025-01-17 |  |

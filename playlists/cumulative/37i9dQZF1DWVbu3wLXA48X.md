@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Tame Impala
 
-2,322 songs - 5 day 19 hr 28 min
+2,323 songs - 5 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,6 +463,7 @@
 | [Dancing In The Breeze Alone](https://open.spotify.com/track/4C8GsOcCM1oynQgIj5GNBf) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Dancing In The Breeze Alone](https://open.spotify.com/album/0WgP3hgxtqeacKwosCO1vU) | 4:27 | 2023-02-24 | 2023-04-09 |
 | [Dancing star](https://open.spotify.com/track/1ubYusrYTfwfw7sZnUcwAn) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Dancing star](https://open.spotify.com/album/1LKkLN3lZykJ53kc4skG21) | 3:01 | 2024-04-04 | 2024-05-18 |
 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 | 2021-12-16 | 2022-04-29 |
+| [DANCING WITHOUT MOVING](https://open.spotify.com/track/1TGiB4KEDY8dlpXrIWQ2f1) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 3:19 | 2025-07-24 |  |
 | [Dandelion](https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dandelion](https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD) | 2:43 | 2022-07-01 | 2022-08-27 |
 | [Dandelion](https://open.spotify.com/track/0tz35TsCwA94l9b1KvTWVq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Dandelion](https://open.spotify.com/album/4d9X64meCyPThkTj9dzjpI) | 3:22 | 2025-01-19 | 2025-03-14 |
 | [Dandelions](https://open.spotify.com/track/4trAC02hAH0E6u55iHok0u) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Dandelions](https://open.spotify.com/album/7yszWjQIIM4WrHH3MhgicV) | 3:16 | 2025-07-17 |  |

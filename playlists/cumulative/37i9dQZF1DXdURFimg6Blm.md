@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-618 songs - 1 day 6 hr 26 min
+619 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [Rumble](https://open.spotify.com/track/74fmYjFwt9CqEFAh8ybeBD) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:26 | 2023-02-24 | 2025-04-16 |
 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 | 2022-03-11 | 2023-03-07 |
 | [Run Free \(Countdown\)](https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Run Free \(Countdown\)](https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f) | 2:32 | 2023-11-10 | 2024-03-06 |
+| [Runaway \(U & I\)](https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Runaway \(U & I\)](https://open.spotify.com/album/4xrwP1XPbtzfBAahfstm0e) | 2:27 | 2025-07-25 |  |
 | [Runaway \(with Sigala and JP Cooper\)](https://open.spotify.com/track/6tS1Fm9z3UKuLSxrinY3pC) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Runaway \(with Sigala and JP Cooper\)](https://open.spotify.com/album/3ZdVOcrDeEyQt9UNPubYgo) | 2:48 | 2022-01-07 | 2022-06-11 |
 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 | 2025-02-21 |  |
 | [Safe With Me](https://open.spotify.com/track/1DkbynNilJKbe7V57omrK7) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Safe With Me](https://open.spotify.com/album/2UIzwfd7Fzclt3YbY5MxCf) | 2:29 | 2022-01-07 | 2022-03-12 |
@@ -508,7 +509,7 @@
 | [Sick of You](https://open.spotify.com/track/6uG3ujRyanBAl6j6Y3G0d3) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Sick of You](https://open.spotify.com/album/11Iet8ssCdGjrVH0WLv3Yi) | 3:02 | 2022-01-07 | 2022-04-16 |
 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 | 2024-04-19 | 2024-10-05 |
 | [Slow Burner](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 | 2025-07-01 |  |
-| [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Carolina Liar](https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi) | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im) | 3:12 | 2024-08-16 |  |
+| [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Carolina Liar](https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi) | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im) | 3:12 | 2024-08-16 | 2025-07-26 |
 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 | 2025-03-14 |  |
 | [So Good](https://open.spotify.com/track/4LajgncdHI6ZdhkoS16gjX) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [So Good](https://open.spotify.com/album/3YIhzVAZTUKLIFDr2WwnOz) | 3:40 | 2022-01-07 | 2022-04-16 |
 | [Somebody To Use](https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Somebody To Use](https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo) | 2:34 | 2022-01-07 | 2022-09-19 |

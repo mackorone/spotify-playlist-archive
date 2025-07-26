@@ -4,7 +4,7 @@
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-189 songs - 12 hr 21 min
+190 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,12 +118,12 @@
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE) | 5:18 | 2023-11-21 | 2023-12-10 |
 | [クズリ念](https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [虚仮の一念海馬に託す](https://open.spotify.com/album/6qnciuGKSc0nl1C5BHZwCr) | 3:55 | 2024-10-23 | 2025-01-16 |
 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 | 2024-03-05 | 2025-01-16 |
-| [サクラキミワタシ \- SAKURA KIMI WATASHI](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ \- SAKURA KIMI WATASHI](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 | 2024-01-09 | 2025-07-12 |
+| [サクラキミワタシ \- SAKURA KIMI WATASHI](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ \- SAKURA KIMI WATASHI](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 | 2024-01-09 |  |
 | [ジェラシー](https://open.spotify.com/track/1D8CQdoa0S86dLwbSXkHq9) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [ジェラシー](https://open.spotify.com/album/0XDavETO2DCvqnciTzdwMj) | 2:46 | 2024-07-31 | 2024-09-12 |
 | [ダーリン](https://open.spotify.com/track/62x4EMPyCFF2Ohv7qDjalp) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダーリン](https://open.spotify.com/album/0lohqaCPMY89Sh4tDLby9u) | 4:40 | 2025-01-29 |  |
 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2023-11-21 | 2024-01-10 |
 | [ドラマツルギー](https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [文化](https://open.spotify.com/album/1CwKQljJ7biZM8t01FiQ1d) | 3:58 | 2024-09-11 | 2025-01-12 |
-| [ナイトオンザプラネット](https://open.spotify.com/track/41GHAXwcqJcmP3Y1U4CoiJ) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [夜にしがみついて、朝で溶かして](https://open.spotify.com/album/2xXBLrS026lOtokTttSEm8) | 4:29 | 2024-03-05 |  |
+| [ナイトオンザプラネット](https://open.spotify.com/track/41GHAXwcqJcmP3Y1U4CoiJ) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [夜にしがみついて、朝で溶かして](https://open.spotify.com/album/2xXBLrS026lOtokTttSEm8) | 4:29 | 2024-03-05 | 2025-07-26 |
 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 | 2023-11-21 |  |
 | [ビリミリオン](https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ビリミリオン](https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu) | 3:46 | 2023-11-21 |  |
 | [ボーダーライン](https://open.spotify.com/track/6Tps57VrrrmBtwG4ybIJ7O) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [GENE](https://open.spotify.com/album/02YMpTWtl4ZYGwyDtDpSKl) | 4:01 | 2024-07-31 | 2024-09-12 |
@@ -146,9 +146,10 @@
 | [勿忘草](https://open.spotify.com/track/0vFl7o9VFxujQygSECMPgn) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [勿忘草](https://open.spotify.com/album/52WlvYfOEkiWBP1w85NDv8) | 4:12 | 2024-08-28 | 2024-09-12 |
 | [右手のネイル](https://open.spotify.com/track/1Sl2DHDcnQlLPq8Ko68bHW) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [右手のネイル](https://open.spotify.com/album/6kcHo9w5zCAJlr6wmEexd0) | 4:19 | 2023-12-12 | 2023-12-14 |
 | [向日葵](https://open.spotify.com/track/37EITaEG3UyWedRZrERoaK) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [向日葵](https://open.spotify.com/album/1DTVQMng1zrycLCDzxza0y) | 4:19 | 2024-03-05 | 2024-11-27 |
+| [図鑑](https://open.spotify.com/track/7kPvvkyojfKon0YxZtWzss) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [図鑑](https://open.spotify.com/album/43cFv2lcXn7r3ioo5gnuLY) | 4:01 | 2025-07-16 |  |
 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-11-21 |  |
 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 | 2025-01-29 |  |
-| [声命 \- Seimei](https://open.spotify.com/track/2dcQ1Z2RkZOcZ5XrHr1kF8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [声命 \- Seimei](https://open.spotify.com/album/6292rqCtVoA1zudIcunMEA) | 2:57 | 2025-05-28 |  |
+| [声命 \- Seimei](https://open.spotify.com/track/2dcQ1Z2RkZOcZ5XrHr1kF8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [声命 \- Seimei](https://open.spotify.com/album/6292rqCtVoA1zudIcunMEA) | 2:57 | 2025-05-28 | 2025-07-26 |
 | [夏実](https://open.spotify.com/track/0OxBVRzo5bJcZklm3gsWOZ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [夏実](https://open.spotify.com/album/2mFCIzPIZzbWUIz0KHfEn4) | 5:07 | 2024-09-25 | 2025-04-01 |
 | [大航海](https://open.spotify.com/track/60PhbyOBDd20JP3xPA9urs) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [大航海](https://open.spotify.com/album/4oN4vrtvrzf5C1kQYqa1gb) | 4:32 | 2024-01-09 | 2024-08-29 |
 | [天国](https://open.spotify.com/track/2eKEFanCoyAlSPc5XPSkrj) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [天国](https://open.spotify.com/album/4G8BinCuBHYrwGLjsBqKg3) | 5:23 | 2025-05-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: RinRin
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,704 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,767 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

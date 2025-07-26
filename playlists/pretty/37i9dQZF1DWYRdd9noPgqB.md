@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,491 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,495 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 2 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
 | 3 | [All There Is To Know](https://open.spotify.com/track/7q0NUpOU9j2DZFyHxTEaN4) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All There Is To Know](https://open.spotify.com/album/17bsFu3ODuF2kS5ux4ybYC) | 3:16 |
 | 4 | [La Notte](https://open.spotify.com/track/6yBKTcGR8HMXuIxDfRPTNZ) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [La Notte](https://open.spotify.com/album/3rbzqpdv5vxIa2URcR6bqR) | 4:51 |
-| 5 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
+| 5 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
 | 6 | [Nuits bleues](https://open.spotify.com/track/7kVEesbz7C9LuiY8P2GuCW) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3), [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [Nuits bleues](https://open.spotify.com/album/0kwjlPh5rxVb4EwvbZhy2H) | 2:42 |
 | 7 | [Stand Back For You](https://open.spotify.com/track/0QPAliTY1pzXMn4flw3t9t) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Stand Back For You](https://open.spotify.com/album/5LtepWAuEjgO0N9VHQA6iT) | 3:43 |
 | 8 | [Ipanema \(Cafuné\)](https://open.spotify.com/track/71lC5og1dZKT8gcl1WkMnc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [DIÁSPORA](https://open.spotify.com/album/3cbqI0ZeOCBcNeECWz0Iz8) | 3:33 |

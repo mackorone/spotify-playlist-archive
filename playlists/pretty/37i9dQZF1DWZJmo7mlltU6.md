@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Min Taka
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,535 likes - 102 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,533 likes - 102 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 67 | [Perfume \(feat\. oceanfromtheblue\)](https://open.spotify.com/track/1X55aNgEX0J7rNQ8e21dxF) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Perfume \(feat\. oceanfromtheblue\)](https://open.spotify.com/album/7snxSdifKDEkIUOCMvfklx) | 4:15 |
 | 68 | [Throw A Fit](https://open.spotify.com/track/3tazpHY9P91agm3vmKyzeG) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Throw A Fit](https://open.spotify.com/album/4XvaLxTkk1jSJjzCWIPEOm) | 3:43 |
 | 69 | [yo así](https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:04 |
-| 70 | [cartoon sex](https://open.spotify.com/track/0cdoHBZN43i8Hji84Lay6g) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/028aLcnQeNLytRE8lcFvpO) | 2:17 |
+| 70 | [cartoon sex](https://open.spotify.com/track/0cdoHBZN43i8Hji84Lay6g) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/028aLcnQeNLytRE8lcFvpO) | 2:17 |
 | 71 | [Clair\-obscur](https://open.spotify.com/track/2ygsVMFAHpxVIbNpssBpnT) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [Clair\-obscur](https://open.spotify.com/album/2LjMKk3L8nwesuU0TfaoeQ) | 3:30 |
 | 72 | [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 |
 | 73 | [Piece Of Cake](https://open.spotify.com/track/2bV5gCcpUl5HkRaQOz6pik) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [I Blow Out Big Candles](https://open.spotify.com/album/2KGxa1nak2X1o3l5bqYmCA) | 3:16 |

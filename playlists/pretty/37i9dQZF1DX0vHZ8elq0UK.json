@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 1059365,
+  "num_followers": 1059602,
   "original_name": "Energy Booster: Pop",
   "owner": {
     "name": "Spotify",
@@ -515,18 +515,18 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Warrior (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 211920,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk"
+      "duration_ms": 231124,
+      "name": "You Belong With Me (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -551,18 +551,18 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+        "name": "Warrior (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 231124,
-      "name": "You Belong With Me (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA"
+      "duration_ms": 211920,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -639,38 +639,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "California 37",
-        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -691,18 +659,34 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 231013,
-      "name": "Animals",
-      "url": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "California 37",
+        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -719,6 +703,22 @@
       "duration_ms": 219200,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Demi",
-        "url": "https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Heart Attack",
-      "url": "https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "7/27 (Deluxe)",
         "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 214480,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "Demi",
+        "url": "https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 202496,
-      "name": "She Looks So Perfect",
-      "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 207506,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 202496,
+      "name": "She Looks So Perfect",
+      "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Pieces Of A Dream",
-        "url": "https://open.spotify.com/album/5sLISkyWFgcOCxIooPYfT4"
+        "name": "Choose Your Fighter (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
       },
       "artists": [
         {
-          "name": "Anastacia",
-          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 245400,
-      "name": "I'm Outta Love - Radio Edit",
-      "url": "https://open.spotify.com/track/583xVl0Sbj93uU4ceixgU8"
+      "duration_ms": 137514,
+      "name": "Choose Your Fighter (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Choose Your Fighter (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
+        "name": "Pieces Of A Dream",
+        "url": "https://open.spotify.com/album/5sLISkyWFgcOCxIooPYfT4"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
         }
       ],
-      "duration_ms": 137514,
-      "name": "Choose Your Fighter (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
+      "duration_ms": 245400,
+      "name": "I'm Outta Love - Radio Edit",
+      "url": "https://open.spotify.com/track/583xVl0Sbj93uU4ceixgU8"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/7jRjPcWQMYGtD6gPBDZiAq"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Halcyon Days",
         "url": "https://open.spotify.com/album/2Dw4fYqDQnxsgoXDdMbqh3"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 231211,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2GgxS8bUT5G25QJTsfSv0R"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/7jRjPcWQMYGtD6gPBDZiAq"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76"
     },
     {
       "added_at": "2025-05-27 13:50:42",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "P fkn R. Esto llega al choliiiii. Cover: Pink Pablo & paopao",
+  "description": "P fkn R. Esto llega al choliiiii. Cover: De La Rose",
   "name": "Rompiendo: Puerto Rico",
   "tracks": [
     {
@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "5 Minutos",
+        "url": "https://open.spotify.com/album/4TMPVGCwtJ8UkIVRgyB1ke"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "5 Minutos",
+      "url": "https://open.spotify.com/track/0ZBwuwhe9VnrKQvK0xPV1W"
+    },
+    {
+      "album": {
         "name": "5'3",
         "url": "https://open.spotify.com/album/62hruJh6bCyTuQBGPZPfll"
       },
@@ -1203,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1D5nEbve1oBrIk8SMshLNo"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152052,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/5zhKQXm4DwC3hwqRaG90uT"
+    },
+    {
+      "album": {
         "name": "BUILT DIFFERENT",
         "url": "https://open.spotify.com/album/3dBX1zf5d8N5G4qPXnHnZf"
       },
@@ -1628,6 +1664,24 @@
       "duration_ms": 214666,
       "name": "Bajaera De Panties",
       "url": "https://open.spotify.com/track/5aJo19AM0aDfeAE70BjVXI"
+    },
+    {
+      "album": {
+        "name": "Bajale",
+        "url": "https://open.spotify.com/album/69yRRok40ow82MnaPccf3r"
+      },
+      "artists": [
+        {
+          "name": "Green Cookie",
+          "url": "https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Bajale",
+      "url": "https://open.spotify.com/track/56JUx2N07ZnPcNC8BkkPkl"
     },
     {
       "album": {
@@ -2475,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "Burlao",
+        "url": "https://open.spotify.com/album/0Tn0JgsDGSGRrl7FPb5xco"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185732,
+      "name": "Burlao",
+      "url": "https://open.spotify.com/track/1yDwfXVgcrQPipINBnkE97"
+    },
+    {
+      "album": {
         "name": "Bussy",
         "url": "https://open.spotify.com/album/4mdNKmcNzBGugeSvGyH8S0"
       },
@@ -3056,7 +3128,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 117695,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/1iHQiHEaiX9w28cnCRgdaN"
@@ -3936,7 +4008,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 166911,
       "name": "CUANDO VUELVO A VERTE",
       "url": "https://open.spotify.com/track/0Szad34dH8IBaZ8bTg3lrb"
@@ -5402,7 +5474,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 193598,
       "name": "En La Mia",
       "url": "https://open.spotify.com/track/65TgVmafBlSEZHC4BbzTp5"
@@ -5996,7 +6068,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 135978,
       "name": "Facecard",
       "url": "https://open.spotify.com/track/5Q4UuBc4zX6LgSGinXyjtJ"
@@ -6036,7 +6108,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 250105,
       "name": "Falsas Promesas",
       "url": "https://open.spotify.com/track/6Keo5IQL8ZiiIFrTa32BsB"
@@ -6270,10 +6342,28 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 259704,
       "name": "FISHULERIA - INTERLUDE N.02",
       "url": "https://open.spotify.com/track/0prcCfWVM1ajahwE6h5Gt1"
+    },
+    {
+      "album": {
+        "name": "FORMULA",
+        "url": "https://open.spotify.com/album/08E2xjg3wxBNiG53ca1q8b"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180821,
+      "name": "FORMULA",
+      "url": "https://open.spotify.com/track/1NX5Nx8MMpSOL2lyrJhunt"
     },
     {
       "album": {
@@ -7289,6 +7379,24 @@
     },
     {
       "album": {
+        "name": "HOY",
+        "url": "https://open.spotify.com/album/6iRO34gTBZuhrpW6GK4TUq"
+      },
+      "artists": [
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "HOY",
+      "url": "https://open.spotify.com/track/3qwXpdaV6esLMhQGnOJLs9"
+    },
+    {
+      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/7D5U8ZLQMIlkuO9quBHBzI"
       },
@@ -7352,6 +7460,28 @@
       "duration_ms": 173292,
       "name": "Hunnids",
       "url": "https://open.spotify.com/track/6ccheZDyfp4DNm71GMba9n"
+    },
+    {
+      "album": {
+        "name": "Ice$pice",
+        "url": "https://open.spotify.com/album/44BV7GYN8CxbnO0eR65sfO"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171231,
+      "name": "Ice$pice",
+      "url": "https://open.spotify.com/track/5yUZNc1OMZRw1JQGjPf9zI"
     },
     {
       "album": {
@@ -7652,7 +7782,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 163946,
       "name": "Jetski",
       "url": "https://open.spotify.com/track/0M4FCnAqtMJUDwPEiK3hqz"
@@ -8046,6 +8176,24 @@
       "duration_ms": 142986,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/0HMQerZ59M01ZlDGRsUuub"
+    },
+    {
+      "album": {
+        "name": "la de arca",
+        "url": "https://open.spotify.com/album/6SrlJq78kG6BQmUYdcq3Mu"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00ed",
+          "url": "https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149712,
+      "name": "la de arca",
+      "url": "https://open.spotify.com/track/4qIMKCnsasl6wE7aT6YZDi"
     },
     {
       "album": {
@@ -8450,6 +8598,28 @@
       "duration_ms": 185238,
       "name": "Ll\u00e9vame - Fux Beat Remix",
       "url": "https://open.spotify.com/track/5ZtcanoSNYduuyRLk0kUEW"
+    },
+    {
+      "album": {
+        "name": "Lo di por sentado",
+        "url": "https://open.spotify.com/album/4YfhjxHLxyFMbzqZ4U9RKe"
+      },
+      "artists": [
+        {
+          "name": "LOCKWARD",
+          "url": "https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y"
+        },
+        {
+          "name": "Sacro",
+          "url": "https://open.spotify.com/artist/3gy7JBS79nEvQ2jDORrBCx"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132003,
+      "name": "Lo di por sentado",
+      "url": "https://open.spotify.com/track/357C7frj471G4xuBozKJeP"
     },
     {
       "album": {
@@ -9122,7 +9292,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 228000,
       "name": "Marejada",
       "url": "https://open.spotify.com/track/4uXEdv1ZUHj3CSaqaLnTIC"
@@ -9782,6 +9952,24 @@
       "duration_ms": 163670,
       "name": "Mi Secreto",
       "url": "https://open.spotify.com/track/61XeFyfUU9EqGYBkl6sUhH"
+    },
+    {
+      "album": {
+        "name": "Mi Type",
+        "url": "https://open.spotify.com/album/2sINfrnBorvsmgBEMJrHiT"
+      },
+      "artists": [
+        {
+          "name": "Leebrian",
+          "url": "https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193636,
+      "name": "Mi Type",
+      "url": "https://open.spotify.com/track/0VY1bCOCFCNzoTnwfJjklC"
     },
     {
       "album": {
@@ -10598,7 +10786,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 161964,
       "name": "No Signal",
       "url": "https://open.spotify.com/track/6xHIG58E2FngeHZ2t33wg3"
@@ -10990,7 +11178,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 226560,
       "name": "OH WOW",
       "url": "https://open.spotify.com/track/2CVQ3jo9g4SfLv1jXburFL"
@@ -11008,7 +11196,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 198620,
       "name": "Ohtani",
       "url": "https://open.spotify.com/track/7MJVcGtxARJzYfU6CIttGa"
@@ -12480,7 +12668,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 235000,
       "name": "PURO",
       "url": "https://open.spotify.com/track/2FxnctqTWCrY5prGXjjFQH"
@@ -12520,6 +12708,36 @@
       "duration_ms": 135433,
       "name": "Que Hay",
       "url": "https://open.spotify.com/track/2TK4Oy3iu4AdCaD8HXqBQf"
+    },
+    {
+      "album": {
+        "name": "Que Rica",
+        "url": "https://open.spotify.com/album/0lG6zK9kPL7l1xoLGVkuPc"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        },
+        {
+          "name": "Rowma",
+          "url": "https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO"
+        },
+        {
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+        },
+        {
+          "name": "Jovaan",
+          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326124,
+      "name": "Que Rica",
+      "url": "https://open.spotify.com/track/2MHKZ2qFe1odtAQQmXIsCa"
     },
     {
       "album": {
@@ -13318,6 +13536,24 @@
       "duration_ms": 160723,
       "name": "Sabe Bien",
       "url": "https://open.spotify.com/track/36LDPQfypNqhflhok841qb"
+    },
+    {
+      "album": {
+        "name": "SADBOILOKO",
+        "url": "https://open.spotify.com/album/0PnEmm6CDipM5KRM6nuTxK"
+      },
+      "artists": [
+        {
+          "name": "VEI HABACHE",
+          "url": "https://open.spotify.com/artist/2sLkiZWy89QT6JzA3uP56Z"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "SADBOILOKO",
+      "url": "https://open.spotify.com/track/42NIMhhsXh3QGObwX1MZcN"
     },
     {
       "album": {
@@ -14575,6 +14811,28 @@
     },
     {
       "album": {
+        "name": "Sushi Roll",
+        "url": "https://open.spotify.com/album/3ECy6YTCsEfZPY8OLCbObh"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        },
+        {
+          "name": "AndrahPR",
+          "url": "https://open.spotify.com/artist/3ICR0LgQlwZ2F78lTexRYS"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214520,
+      "name": "Sushi Roll",
+      "url": "https://open.spotify.com/track/4ZoCM8s0rUhYcbKKaIZfhr"
+    },
+    {
+      "album": {
         "name": "P\u00e1nico",
         "url": "https://open.spotify.com/album/3DbhVw6p0iVdefGuSjXKdO"
       },
@@ -14870,6 +15128,24 @@
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "album": {
+        "name": "To' El D\u00eda",
+        "url": "https://open.spotify.com/album/2BcpDrxoMptep0SvixJE5O"
+      },
+      "artists": [
+        {
+          "name": "JEYYFF",
+          "url": "https://open.spotify.com/artist/6aH9igPZf8ShUGL3ITPQhA"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145509,
+      "name": "To' El D\u00eda",
+      "url": "https://open.spotify.com/track/1sI5ihG5iEVOCb5SNyN2BW"
     },
     {
       "album": {
@@ -15525,6 +15801,24 @@
     },
     {
       "album": {
+        "name": "TUMBAO",
+        "url": "https://open.spotify.com/album/2kjDXHbE7ztU2okqWtWQ7c"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166071,
+      "name": "TUMBAO",
+      "url": "https://open.spotify.com/track/5xKs7Penljlm4sfBeWe3NI"
+    },
+    {
+      "album": {
         "name": "Typing",
         "url": "https://open.spotify.com/album/4mQPCVJ1vgvQ6iyUdwBAFm"
       },
@@ -15986,7 +16280,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 200835,
       "name": "VELAS",
       "url": "https://open.spotify.com/track/6QX56URnx8yhGm0Fk7LCQV"
@@ -16776,7 +17070,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 107125,
       "name": "YZ (feat. Pressure 9X19 & Turbo)",
       "url": "https://open.spotify.com/track/6hLx3BOVp25Bx4bLFxlACG"
@@ -16844,7 +17138,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 516068,
       "name": "Zouzou Remix",
       "url": "https://open.spotify.com/track/4wMLX2WgMlO9508cvBmKcU"

@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Treaty Oak Revival",
-  "num_followers": 625938,
+  "num_followers": 626044,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -747,18 +747,18 @@
     {
       "added_at": "2025-07-18 04:00:11",
       "album": {
-        "name": "Like an Arrow",
-        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
       },
       "artists": [
         {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 247008,
-      "name": "Waiting for the Thunder",
-      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
+      "duration_ms": 193397,
+      "name": "WHYBMWL",
+      "url": "https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1"
     },
     {
       "added_at": "2025-07-18 04:00:11",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-07-18 04:00:11",
       "album": {
+        "name": "Like an Arrow",
+        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 247008,
+      "name": "Waiting for the Thunder",
+      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
+    },
+    {
+      "added_at": "2025-07-18 04:00:11",
+      "album": {
         "name": "Roads That Go Nowhere",
         "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 218860,
       "name": "Southern Rock",
       "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
-    },
-    {
-      "added_at": "2025-07-18 04:00:11",
-      "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 193397,
-      "name": "WHYBMWL",
-      "url": "https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1"
     },
     {
       "added_at": "2025-07-18 04:00:11",
@@ -1043,26 +1043,18 @@
     {
       "added_at": "2025-07-18 04:00:11",
       "album": {
-        "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
-        "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
+        "name": "AMERICAN MOTOR SPORTS",
+        "url": "https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
         }
       ],
-      "duration_ms": 155495,
-      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
-      "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
+      "duration_ms": 164552,
+      "name": "SPINNIN' YOU AROUND",
+      "url": "https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD"
     },
     {
       "added_at": "2025-07-18 04:00:11",
@@ -1087,18 +1079,26 @@
     {
       "added_at": "2025-07-18 04:00:11",
       "album": {
-        "name": "AMERICAN MOTOR SPORTS",
-        "url": "https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz"
+        "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+        "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
       "artists": [
         {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 164552,
-      "name": "SPINNIN' YOU AROUND",
-      "url": "https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD"
+      "duration_ms": 155495,
+      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+      "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
     },
     {
       "added_at": "2025-07-18 04:00:11",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-07-18 04:00:11",
       "album": {
-        "name": "Happy Never After",
-        "url": "https://open.spotify.com/album/2Jf7dwFtZjdrUL0RDnn8Y6"
-      },
-      "artists": [
-        {
-          "name": "Sterling Elza",
-          "url": "https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0"
-        }
-      ],
-      "duration_ms": 166985,
-      "name": "Happy Never After",
-      "url": "https://open.spotify.com/track/022yiRKZI9ZNJIV4bEA3fR"
-    },
-    {
-      "added_at": "2025-07-18 04:00:11",
-      "album": {
         "name": "Old News",
         "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 251498,
       "name": "All of These Years",
       "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
+    },
+    {
+      "added_at": "2025-07-18 04:00:11",
+      "album": {
+        "name": "Happy Never After",
+        "url": "https://open.spotify.com/album/2Jf7dwFtZjdrUL0RDnn8Y6"
+      },
+      "artists": [
+        {
+          "name": "Sterling Elza",
+          "url": "https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0"
+        }
+      ],
+      "duration_ms": 166985,
+      "name": "Happy Never After",
+      "url": "https://open.spotify.com/track/022yiRKZI9ZNJIV4bEA3fR"
     },
     {
       "added_at": "2025-07-18 04:00:11",

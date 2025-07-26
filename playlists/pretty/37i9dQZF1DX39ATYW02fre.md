@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,220 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,265 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 20 | [is this real love](https://open.spotify.com/track/2p3SjPcPdxZ9rYYzS6l6F0) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [is this real love](https://open.spotify.com/album/0kVBNM3IL2xyDCigklYFAF) | 2:46 |
 | 21 | [open this wall](https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 2:36 |
 | 22 | [Howling \- Âme Remix](https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Howling \(Âme Remix\)](https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5) | 8:05 |
-| 23 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 |
-| 24 | [Care 4 U](https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Care 4 U](https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl) | 3:50 |
+| 23 | [Care 4 U](https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Care 4 U](https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl) | 3:50 |
+| 24 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 |
 | 25 | [Yesterday](https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Yesterday](https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1) | 3:24 |
 | 26 | [With You](https://open.spotify.com/track/1G5APoTLndLof2DsggGPzz) | [Alex Baker](https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo), [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [With You](https://open.spotify.com/album/2ALEn1ILPaPj885QMF9C4O) | 3:42 |
 | 27 | [Blue](https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blue](https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5) | 3:37 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 46 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
 | 47 | [Lydia \(please make it better\)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 |
 | 48 | [Dreaming \(feat\. Bruno Major\)](https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 3:53 |
-| 49 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 |
-| 50 | [Flower](https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [AURIq](https://open.spotify.com/artist/35G9mRtwWK47IdT0hzApKI), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Flower](https://open.spotify.com/album/5LBSCKaOOCvMBWqu9iYcLV) | 2:30 |
+| 49 | [Flower](https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [AURIq](https://open.spotify.com/artist/35G9mRtwWK47IdT0hzApKI), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Flower](https://open.spotify.com/album/5LBSCKaOOCvMBWqu9iYcLV) | 2:30 |
+| 50 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 |
 
 Snapshot ID: `aGaqlQAAAADOVwHGcnqOHBB08lRNaMQ+`

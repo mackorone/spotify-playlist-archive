@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 
 > This is Sergio Vega "El Shaka"\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,788 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,842 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 | 24 | [Te Han Dicho de Mí](https://open.spotify.com/track/1TVVzbCHWduRZubpPxzDkz) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 3:05 |
 | 25 | [Mi Primer Amor](https://open.spotify.com/track/3Z9OK3CUYv9t5iQpweJhda) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Desde el Cielo](https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV) | 2:32 |
 | 26 | [Te Amo Más](https://open.spotify.com/track/0mUXqS2tc8wAH8tXGl96fM) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 2:46 |
-| 27 | [El Maestro](https://open.spotify.com/track/6eZ4prY9gxv8AAYVasW5FR) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 4:14 |
-| 28 | [Ni Se Te Ocurra \(Para Toda La Vida\)](https://open.spotify.com/track/5Ud3z2t76A54Z4Uhgryp2q) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359), [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Para Toda La Vida](https://open.spotify.com/album/5M1ekIVxWsYSU50Z40UMTc) | 3:32 |
+| 27 | [Ni Se Te Ocurra \(Para Toda La Vida\)](https://open.spotify.com/track/5Ud3z2t76A54Z4Uhgryp2q) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359), [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Para Toda La Vida](https://open.spotify.com/album/5M1ekIVxWsYSU50Z40UMTc) | 3:32 |
+| 28 | [El Maestro](https://open.spotify.com/track/6eZ4prY9gxv8AAYVasW5FR) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 4:14 |
 | 29 | [El Ayudante](https://open.spotify.com/track/0dI9WuHlpDdUGFXUFO8ww7) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Desde el Cielo](https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV) | 2:44 |
 | 30 | [Zapatos Nuevos](https://open.spotify.com/track/7BcdzFXBXCaHVmOmoUXCmo) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 3:01 |
-| 31 | [Ya No Me Preguntes](https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 2:48 |
-| 32 | [Esa Triste Guitarra](https://open.spotify.com/track/5DLkYGsCuWVoNKDCUBZInU) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [30 Anos](https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL) | 3:14 |
+| 31 | [Esa Triste Guitarra](https://open.spotify.com/track/5DLkYGsCuWVoNKDCUBZInU) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [30 Anos](https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL) | 3:14 |
+| 32 | [Ya No Me Preguntes](https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 2:48 |
 | 33 | [Muñequita \- Balada Version](https://open.spotify.com/track/2CHAuszySE0bVoNGhA3xD6) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Necesito Dueña](https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY) | 3:25 |
 | 34 | [Loco](https://open.spotify.com/track/2W5YzZvhA7SOsGAvk8e9Ke) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 4:04 |
-| 35 | [Me Gusta Tener de a Dos](https://open.spotify.com/track/3cT2AiNvR5CtkBCXqhbB5A) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 2:42 |
-| 36 | [Dos Botellas De Mezcal](https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Más Exitos Con El Shaka](https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO) | 2:51 |
+| 35 | [Dos Botellas De Mezcal](https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Más Exitos Con El Shaka](https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO) | 2:51 |
+| 36 | [Me Gusta Tener de a Dos](https://open.spotify.com/track/3cT2AiNvR5CtkBCXqhbB5A) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 2:42 |
 | 37 | [Un Mar De Penas](https://open.spotify.com/track/6k4dy9siLo45PEbLHvOAVN) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [30 Anos](https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL) | 2:23 |
 | 38 | [El Terrón](https://open.spotify.com/track/2VQ66m1O2NELSZ5d5a4aMQ) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 2:27 |
 | 39 | [El Licenciado](https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Serie Top Ten](https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 | 49 | [Las Parcelas de Mendoza](https://open.spotify.com/track/3HR093fTutGwn5EUWne3ZR) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Desde el Cielo](https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV) | 2:44 |
 | 50 | [Arcoiris](https://open.spotify.com/track/2turqKp8C1j8kSg6EKU6x5) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Plaza Nueva](https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7) | 3:38 |
 
-Snapshot ID: `aIAmAAAAAADsyGJo+05ev08fiWu7v49T`
+Snapshot ID: `aIF3gAAAAAB03MuE6//4BIgOiW+SGvch`

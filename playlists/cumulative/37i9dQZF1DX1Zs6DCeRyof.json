@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-13",
-  "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Cover: Bad Bunny",
+  "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Cover: Eladio Carrion & Omar Courtz",
   "name": "\u00c9xitos Puerto Rico",
   "tracks": [
     {
@@ -148,6 +148,24 @@
       "duration_ms": 179200,
       "name": "4AM EN IBIZA",
       "url": "https://open.spotify.com/track/3kpv89wsesBcSc6P7LpcDg"
+    },
+    {
+      "album": {
+        "name": "5 Minutos",
+        "url": "https://open.spotify.com/album/4TMPVGCwtJ8UkIVRgyB1ke"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "5 Minutos",
+      "url": "https://open.spotify.com/track/0ZBwuwhe9VnrKQvK0xPV1W"
     },
     {
       "album": {
@@ -4746,7 +4764,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 205465,
       "name": "M\u00d3NTATE BABY (feat. De La Rose)",
       "url": "https://open.spotify.com/track/2gbGzSyT6rbjILNwyA726A"
@@ -5848,6 +5866,28 @@
       "duration_ms": 238714,
       "name": "PRIMER D\u00cdA \ud83d\udc51 (feat. De La Ghetto, Maldy)",
       "url": "https://open.spotify.com/track/1b6eriQLU5XiT74Wfgsp1D"
+    },
+    {
+      "album": {
+        "name": "Primer Lugar",
+        "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "Primer Lugar",
+      "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
     },
     {
       "album": {
@@ -7832,7 +7872,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 200000,
       "name": "Vetements",
       "url": "https://open.spotify.com/track/7DACCN4AceR9hgiP9s99PC"

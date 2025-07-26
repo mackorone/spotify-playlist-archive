@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : Maud Elka
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,144 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,172 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 5 | [FOMO](https://open.spotify.com/track/7c5rStQVZfWDOQUOD7KfEo) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [TOUT BRÛLE SAUF MOI](https://open.spotify.com/album/2gvFuE72tJBglPdowmjeLW) | 2:00 |
 | 6 | [Poèmes](https://open.spotify.com/track/7Jvo8aI1DcFWhgXIAxeAZ4) | [FEEL](https://open.spotify.com/artist/7Et5is6sEj6d1naU26wy14), [Lafleyne](https://open.spotify.com/artist/2HtWjfmbuI9kqQqMfLkfvh) | [Poèmes](https://open.spotify.com/album/006YWiyZxthIwAdD6dT41f) | 2:57 |
 | 7 | [L'autre banc](https://open.spotify.com/track/5TYXR5pjwW7Wekp7Oz4hww) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [L'autre banc](https://open.spotify.com/album/2HOkQvn7726si97gcq1ONe) | 2:49 |
-| 8 | [J'suis comme ça](https://open.spotify.com/track/7xPeRwG5JhwJDlF3Plp3ZZ) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [J'suis comme ça](https://open.spotify.com/album/1wRcOky2eF5ukahMc4wHDN) | 2:44 |
+| 8 | [j'suis comme ça](https://open.spotify.com/track/7xPeRwG5JhwJDlF3Plp3ZZ) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [J'suis comme ça](https://open.spotify.com/album/1wRcOky2eF5ukahMc4wHDN) | 2:44 |
 | 9 | [Solo](https://open.spotify.com/track/0zGobzcqAdUjh0GWpXGbLm) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Solo](https://open.spotify.com/album/3quqai6VrVYJVLspnwcPfW) | 2:41 |
 | 10 | [Seuil](https://open.spotify.com/track/4y9MxsGtYASkUyIKGGtdEH) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Héroïne\(s\)](https://open.spotify.com/album/5UU5HGSORbZ4aCalD2uWhU) | 3:25 |
 | 11 | [ERROR 404](https://open.spotify.com/track/0q94cCOTrT8Wk9f9uEnPzS) | [Jeunesaint](https://open.spotify.com/artist/7cVhbi4q498qnpR64Cwr2y), [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Tes Yeux Suffisent](https://open.spotify.com/album/4AOG8LeUboNArK5BdLtixl) | 2:58 |

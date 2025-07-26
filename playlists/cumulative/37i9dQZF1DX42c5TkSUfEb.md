@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-403 songs - 1 day 0 hr 45 min
+404 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2022-11-25 | 2024-02-10 |
 | [Halloween](https://open.spotify.com/track/7AkPusgKsrTqbOcTTbRnFr) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:34 | 2024-02-08 | 2024-03-28 |
 | [Happy Birthday](https://open.spotify.com/track/5iBUS6fqRWhwqRXXfKu3tV) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Hers](https://open.spotify.com/album/0XPxK2qGH4BelboUUiVRvE) | 3:36 | 2025-05-15 |  |
+| [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-25 |  |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-01-27 | 2023-03-03 |
 | [Heartbreakdown](https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Heartbreakdown](https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY) | 4:14 | 2025-02-06 | 2025-07-11 |
 | [Heaven Thunder](https://open.spotify.com/track/2KFa0LSqxL20wZVeeNpVEr) | [Mina Tindle](https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Heaven Thunder](https://open.spotify.com/album/3GJsSofQBUF4fZMUIZgYnC) | 3:37 | 2025-07-03 |  |
@@ -181,7 +182,7 @@
 | [Imagining My Man](https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 5:51 | 2023-03-27 | 2024-04-19 |
 | [In a Manner of Speaking](https://open.spotify.com/track/3JaRjTNqNKiK8bWp3Dn7KB) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Nouvelle vague](https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY) | 3:58 | 2023-07-04 | 2024-04-19 |
 | [In a Manner of Speaking](https://open.spotify.com/track/4ygRdvjxDYngbgddCtXDjT) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Nouvelle vague](https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1) | 3:58 | 2022-11-25 | 2023-07-16 |
-| [Inland Ocean](https://open.spotify.com/track/0Y6S6q1YUKcr9kWCnIVXDG) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Inland Ocean](https://open.spotify.com/album/1gmOIMJ6gBk0IijoaQBFqC) | 4:54 | 2025-05-08 |  |
+| [Inland Ocean](https://open.spotify.com/track/0Y6S6q1YUKcr9kWCnIVXDG) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Inland Ocean](https://open.spotify.com/album/1gmOIMJ6gBk0IijoaQBFqC) | 4:54 | 2025-05-08 | 2025-07-26 |
 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 | 2025-06-20 |  |
 | [Invisible](https://open.spotify.com/track/4TNYkZIUEw1t5PwVg3M3Mv) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Invisible](https://open.spotify.com/album/4MY5Blpziq5SMoqSkBuApe) | 2:45 | 2025-02-06 | 2025-03-28 |
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-25 | 2024-10-05 |
@@ -292,7 +293,7 @@
 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 | 2023-01-27 | 2023-11-21 |
 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 | 2023-03-27 | 2023-05-13 |
 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-10-04 | 2024-12-10 |
-| [Radio](https://open.spotify.com/track/5qmAA3omMev40cie9rwL7p) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Radio](https://open.spotify.com/album/7kiFHLuH5FCfkmm2P53RA4) | 2:46 | 2025-07-03 |  |
+| [Radio](https://open.spotify.com/track/5qmAA3omMev40cie9rwL7p) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Radio](https://open.spotify.com/album/7kiFHLuH5FCfkmm2P53RA4) | 2:46 | 2025-07-03 | 2025-07-26 |
 | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q) | 3:06 | 2025-01-23 | 2025-01-31 |
 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2022-11-25 |  |
 | [Ricochet](https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/5sp2DSZbmZoy1FhjNbCAS2) | 3:18 | 2024-07-25 | 2024-09-21 |
@@ -410,6 +411,6 @@
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-01-30 |  |
 | [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 | 2022-11-25 | 2024-04-19 |
 | [à deux](https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [à deux](https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1) | 3:25 | 2025-07-03 |  |
-| [À quoi pensait\-elle](https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 3:24 | 2024-04-15 | 2025-07-18 |
+| [À quoi pensait\-elle](https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 3:24 | 2024-04-15 |  |
 
 \*This playlist was first scraped on 2022-12-28. Prior content cannot be recovered.

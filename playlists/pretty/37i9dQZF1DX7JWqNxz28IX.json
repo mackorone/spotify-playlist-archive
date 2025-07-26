@@ -1,6 +1,6 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47292,
+  "num_followers": 47296,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-07-14 09:36:05",
       "album": {
+        "name": "cloud love",
+        "url": "https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk"
+      },
+      "artists": [
+        {
+          "name": "Anzj",
+          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
+        }
+      ],
+      "duration_ms": 89832,
+      "name": "sto bene, a volte",
+      "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
+    },
+    {
+      "added_at": "2025-07-14 09:36:05",
+      "album": {
         "name": "Piano e Forte",
         "url": "https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 158400,
       "name": "Piano e Forte",
       "url": "https://open.spotify.com/track/74NKUib7jQciADIreMyNJZ"
-    },
-    {
-      "added_at": "2025-07-14 09:36:05",
-      "album": {
-        "name": "cloud love",
-        "url": "https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk"
-      },
-      "artists": [
-        {
-          "name": "Anzj",
-          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
-        }
-      ],
-      "duration_ms": 89832,
-      "name": "sto bene, a volte",
-      "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
     },
     {
       "added_at": "2025-07-14 09:36:05",
@@ -1303,54 +1303,6 @@
     {
       "added_at": "2025-07-14 09:36:05",
       "album": {
-        "name": "Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
-      },
-      "artists": [
-        {
-          "name": "\u00cbgo",
-          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Hasta la Muerte",
-      "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
-    },
-    {
-      "added_at": "2025-07-14 09:36:05",
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv"
-    },
-    {
-      "added_at": "2025-07-14 09:36:05",
-      "album": {
-        "name": "Sotto lo zero",
-        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 180278,
-      "name": "Sotto lo zero",
-      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
-    },
-    {
-      "added_at": "2025-07-14 09:36:05",
-      "album": {
         "name": "Sedato e Deluso",
         "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
       },
@@ -1387,6 +1339,54 @@
       "duration_ms": 144187,
       "name": "ALESSIA",
       "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
+    },
+    {
+      "added_at": "2025-07-14 09:36:05",
+      "album": {
+        "name": "Sotto lo zero",
+        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 180278,
+      "name": "Sotto lo zero",
+      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
+    },
+    {
+      "added_at": "2025-07-14 09:36:05",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv"
+    },
+    {
+      "added_at": "2025-07-14 09:36:05",
+      "album": {
+        "name": "Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
+      },
+      "artists": [
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Hasta la Muerte",
+      "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
     },
     {
       "added_at": "2025-07-14 09:36:05",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2025-07-14 09:36:05",
       "album": {
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
+    },
+    {
+      "added_at": "2025-07-14 09:36:05",
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
       },
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2025-07-14 09:36:05",
       "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
-      },
-      "artists": [
-        {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
-    },
-    {
-      "added_at": "2025-07-14 09:36:05",
-      "album": {
         "name": "Febbre a febbraio",
         "url": "https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd"
       },
@@ -1655,6 +1655,26 @@
       "duration_ms": 186916,
       "name": "Febbre a Febbraio (feat. Lil Kvneki)",
       "url": "https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y"
+    },
+    {
+      "added_at": "2025-07-14 09:36:05",
+      "album": {
+        "name": "Live.Survive.Die (LSD)",
+        "url": "https://open.spotify.com/album/2qnHfYuTAwnAIdKDqiyDlB"
+      },
+      "artists": [
+        {
+          "name": "azael",
+          "url": "https://open.spotify.com/artist/0ka5NilkDyElonlI22xaJk"
+        },
+        {
+          "name": "Thrilljard",
+          "url": "https://open.spotify.com/artist/1hU5tCFqrPp0suz17uIC2t"
+        }
+      ],
+      "duration_ms": 123461,
+      "name": "l'effetto finisce",
+      "url": "https://open.spotify.com/track/2RAEvL5pOV0l7G0wRrF3AI"
     },
     {
       "added_at": "2025-07-14 09:36:05",
@@ -1707,26 +1727,6 @@
       "duration_ms": 213818,
       "name": "Palude 4",
       "url": "https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1"
-    },
-    {
-      "added_at": "2025-07-14 09:36:05",
-      "album": {
-        "name": "Live.Survive.Die (LSD)",
-        "url": "https://open.spotify.com/album/2qnHfYuTAwnAIdKDqiyDlB"
-      },
-      "artists": [
-        {
-          "name": "azael",
-          "url": "https://open.spotify.com/artist/0ka5NilkDyElonlI22xaJk"
-        },
-        {
-          "name": "Thrilljard",
-          "url": "https://open.spotify.com/artist/1hU5tCFqrPp0suz17uIC2t"
-        }
-      ],
-      "duration_ms": 123461,
-      "name": "l'effetto finisce",
-      "url": "https://open.spotify.com/track/2RAEvL5pOV0l7G0wRrF3AI"
     }
   ],
   "unique_name": "rimedi per cuori spezzati",

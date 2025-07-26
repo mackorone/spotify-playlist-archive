@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Co\-curated this month by: <a href="spotify:artist:2cK7VkFt8I3C9hUfexNCIX"> Natania </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,032 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,037 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

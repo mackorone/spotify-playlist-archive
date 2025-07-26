@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 
 > This is Story Of The Year\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,092 likes - 40 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,097 likes - 40 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 | 28 | [A Part of Me](https://open.spotify.com/track/4tXuOhxMwPa2LlxxWf4OvL) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 4:01 |
 | 29 | [Holding On To You](https://open.spotify.com/track/4ZuRyACv6x2R1cWW93l7TA) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:43 |
 | 30 | [Our Time Is Now](https://open.spotify.com/track/24Y8cCGAmSsTwdBaHAvGKH) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:07 |
-| 31 | [The Black Swan](https://open.spotify.com/track/7q1pSEtLgDg7ZErzoNWTHS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:44 |
+| 31 | [We're Not Gonna Make It](https://open.spotify.com/track/4YhclXQSlBbgbyFV3uZ8sI) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 4:03 |
 | 32 | [How Can We Go On](https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 3:25 |
 | 33 | [The Dream Is Over](https://open.spotify.com/track/6wffAUccqKIcvdNiqgJzEA) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:52 |
 | 34 | [Sleep](https://open.spotify.com/track/6ReT8BEEr3ytDn0LFEifuk) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:12 |
-| 35 | [We're Not Gonna Make It](https://open.spotify.com/track/4YhclXQSlBbgbyFV3uZ8sI) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 4:03 |
+| 35 | [The Black Swan](https://open.spotify.com/track/7q1pSEtLgDg7ZErzoNWTHS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:44 |
 | 36 | [A Silent Murder](https://open.spotify.com/track/7DBCg0ZMoNYWesMM8atUdf) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A Silent Murder](https://open.spotify.com/album/7G2jy9v1Obr7Qv9TTTumcx) | 2:36 |
 | 37 | [Ten Years Down](https://open.spotify.com/track/3P43WpBHNxj5wMqSNWCp75) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:53 |
 | 38 | [Taste the Poison](https://open.spotify.com/track/6dVIydL35YwvTjDCT4738d) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 3:43 |
 | 39 | [Unheard Voice](https://open.spotify.com/track/5IqQr1AFSTL1WkDUT7Z0is) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Unheard Voice](https://open.spotify.com/album/3s6rlS2V8UiZJf3J4k5HkP) | 3:11 |
 | 40 | [The Children Sing](https://open.spotify.com/track/1aYT1emiHxA0x0c1SPmY7H) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 4:07 |
 
-Snapshot ID: `aIAmAAAAAAD9YfTsmah7Wu0wYBUfiJWu`
+Snapshot ID: `aIF3gAAAAAA2IdIAacN+ZfH/Is3LA64C`

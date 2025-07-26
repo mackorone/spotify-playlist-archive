@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > As heard on the FYP\.  Cover: Rema & Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,064 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,155 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 11 | [Che Che \(feat\. Asake\)](https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Che Che \(feat\. Asake\)](https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R) | 2:49 |
 | 12 | [Afa Kennedy](https://open.spotify.com/track/1cPjMTC13YffZgEKpGjTTK) | [Outsyd Eddie](https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8), [JNR ELDER](https://open.spotify.com/artist/0UmWf1Lbo9fIxboAMdBxnx), [Outsyd DJ](https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II) | [Afa Kennedy](https://open.spotify.com/album/5q2Cvu4srKnEaGchcNW6hx) | 2:36 |
 | 13 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
-| 14 | [Eze Abata](https://open.spotify.com/track/1aQZLDDr7jzMNbU4pzv92M) | [Amb\. Sis\. Chinyere Udoma](https://open.spotify.com/artist/4IWeky4mkNYQ8mdYq8rqp6) | [Eze Abata](https://open.spotify.com/album/6FzzVeo6Mz3MNTOMu5fy1a) | 8:16 |
-| 15 | [Day By Day \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5EYUc3dFDqstN3WU1EJlwV) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Day By Day \(feat\. Kizz Daniel\)](https://open.spotify.com/album/5H8hfur2fltstNkAyjGUEc) | 2:15 |
-| 16 | [Burn Me Up](https://open.spotify.com/track/5lg40x4Lsv0vOIHXW6tBrr) | [BOLA BMH](https://open.spotify.com/artist/497qEgixkGM0jhzjBqMerI), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Burn Me Up](https://open.spotify.com/album/4JTTeG2rxhr4Z1LEnmIi5j) | 2:56 |
-| 17 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
+| 14 | [Day By Day \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5EYUc3dFDqstN3WU1EJlwV) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Day By Day \(feat\. Kizz Daniel\)](https://open.spotify.com/album/5H8hfur2fltstNkAyjGUEc) | 2:15 |
+| 15 | [Burn Me Up](https://open.spotify.com/track/5lg40x4Lsv0vOIHXW6tBrr) | [BOLA BMH](https://open.spotify.com/artist/497qEgixkGM0jhzjBqMerI), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Burn Me Up](https://open.spotify.com/album/4JTTeG2rxhr4Z1LEnmIi5j) | 2:56 |
+| 16 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
+| 17 | [Girl on Fya](https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Girl On Fya](https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7) | 2:04 |
 | 18 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 |
 | 19 | [Ngishutheni](https://open.spotify.com/track/3JW9hNUjUN51X9jZyn2HVV) | [Goon Flavour](https://open.spotify.com/artist/5Uc6XVglgR7fb3Q5FSy0zW), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Ngishutheni](https://open.spotify.com/album/0Bh02aEI0DPVw0Jik91EkY) | 5:17 |
 | 20 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 49 | [Hallelujah \(I Don't Think About You\)](https://open.spotify.com/track/0vM4LQCV9TsBH8hvTWsow9) | [Kevin Olusola](https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I) | [Dawn of a Misfit](https://open.spotify.com/album/4yAcfYYfi03HIp0aG0MkSb) | 2:55 |
 | 50 | [Dami](https://open.spotify.com/track/41O1VPFyK0AdYgIHHpgs0t) | [SantyXmood](https://open.spotify.com/artist/6S09o2m8YjpF0BpwLlZmJn) | [Dami](https://open.spotify.com/album/5mfHEKgaMyShHeIkEYhAJ5) | 3:10 |
 
-Snapshot ID: `aHZEwwAAAAC6zw+O7d+QvRAIU5eQNUPS`
+Snapshot ID: `aIM4TwAAAADe0co1333NnYGdXPIl6107`

@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Nine Inch Nails.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Faetooth.
 
-1,046 songs - 2 day 17 hr 33 min
+1,052 songs - 2 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Cries of Domination](https://open.spotify.com/track/48pcLjb7fjc5v0kCEVs7GT) | [DON’T TRY](https://open.spotify.com/artist/0Tm5nFdsHOR6LFBDK7l5x9) | [Cries of Domination](https://open.spotify.com/album/6qxy0PZufi1mo7cFHzR4zn) | 3:04 | 2025-04-18 |  |
 | [Cronenberged \(feat\. Jonny Davy of Job for a Cowboy\)](https://open.spotify.com/track/3VSOcZD4E4XPj3hs34AFEt) | [Revocation](https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3), [Jonny Davy](https://open.spotify.com/artist/4GT998lcoHv6ELVhuOfLu4), [Job For A Cowboy](https://open.spotify.com/artist/5L3QTPofDwMPGlNnQkyHK1) | [Cronenberged \(feat\. Jonny Davy of Job for a Cowboy\)](https://open.spotify.com/album/5OB29coslfu9vHLs51kR69) | 3:29 | 2025-06-20 |  |
 | [Cross To Bear](https://open.spotify.com/track/0VughS6uwUoAmYAfpS2rZP) | [Aversed](https://open.spotify.com/artist/0NnC3YeMSgqiGQtfe5KEkF) | [Cross To Bear](https://open.spotify.com/album/6WVtZ4SyZS3PzfEQl7UNLx) | 4:04 | 2024-10-11 | 2025-04-11 |
+| [Crucify](https://open.spotify.com/track/6bUNY7lUlTazcpb9xKv0Se) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Crucify](https://open.spotify.com/album/1mPzNmdSbkbz4v1YzXjWni) | 3:00 | 2025-07-25 |  |
 | [Cruel Times](https://open.spotify.com/track/2l1qqW57mxUvinqe0mAPNI) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Cruel Times](https://open.spotify.com/album/6iLeMyFIHzfcOGtEWd5sKT) | 2:58 | 2025-02-21 |  |
 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 | 2025-02-28 |  |
 | [Curators of Brutality](https://open.spotify.com/track/6ttfR7aeF1dGy0FctJJG6C) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96) | [The Ruination of Imperialism](https://open.spotify.com/album/5Bx6D9n8RfILqYPzoopHh9) | 4:01 | 2022-06-03 | 2023-07-15 |
@@ -209,6 +210,7 @@
 | [Dark Spell](https://open.spotify.com/track/6s4g8Np7wMn8RNgdbIAUtO) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Dark Spell](https://open.spotify.com/album/3ERAyMnGHFgoV4bU8eSR7B) | 4:23 | 2024-04-26 | 2025-04-11 |
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-13 | 2024-02-03 |
 | [Dead Mother Moon](https://open.spotify.com/track/0Vwwp5jPByylqQ4AKYEnxR) | [Upon Stone](https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf) | [Dead Mother Moon](https://open.spotify.com/album/75tXcVejhOh6QgSauSn2a9) | 3:58 | 2023-11-10 | 2024-02-03 |
+| [deadwire](https://open.spotify.com/track/50Cj9AsKQ0PwlFHcV7cNo3) | [Bodyweb](https://open.spotify.com/artist/3huApecbypmvQJVccpEoxj) | [deadwire](https://open.spotify.com/album/2hkVA6jbYtIVRpah2CsPRp) | 4:34 | 2025-07-25 |  |
 | [Death Above Life](https://open.spotify.com/track/4UAEU0YaHW4o6Dh5irv9Dv) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Death Above Life](https://open.spotify.com/album/4wstmx3brleWK61hfO5y8P) | 5:29 | 2025-06-13 |  |
 | [Death Before Designer \(feat\. SosMula\)](https://open.spotify.com/track/3hqDihPfqmf5tpybblro6a) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [Death Before Designer \(feat\. SosMula\)](https://open.spotify.com/album/19nFdELhwOhpFp3FwR7Sfp) | 2:02 | 2023-06-09 | 2024-02-03 |
 | [Death Cantation](https://open.spotify.com/track/3pAHBYxCvJ5GjkeTahTYgc) | [Yatra](https://open.spotify.com/artist/5siBVlARqSszzBborgWF7j) | [Death Cantation](https://open.spotify.com/album/7r1GY0QUqDh3Glxg59iqRD) | 3:56 | 2022-04-29 | 2023-07-15 |
@@ -406,6 +408,7 @@
 | [Hide](https://open.spotify.com/track/6C2odc2qG42ZbCyNZNxGKi) | [Druids](https://open.spotify.com/artist/6oQRvz9JHOHWtryh47KdOH) | [Hide](https://open.spotify.com/album/2KgDvPXVoyzQZDbMe1BH9S) | 6:07 | 2022-05-06 | 2023-07-15 |
 | [Hide & Seek](https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Hide & Seek](https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM) | 3:04 | 2024-06-07 | 2025-04-11 |
 | [High Plains Drifter](https://open.spotify.com/track/4Eya9E3OOY9QCec2ssaG6T) | [Kirk Hammett](https://open.spotify.com/artist/2ePzbA0F0TD96Na0MEB2Cf) | [High Plains Drifter](https://open.spotify.com/album/26ZZ3Pr3U6OCzveywxauf2) | 4:45 | 2022-04-15 | 2023-07-15 |
+| [Hole](https://open.spotify.com/track/5BJTWI5ppMqnQldCPawycd) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Hole](https://open.spotify.com/album/6W6uSAwCv3tC5btB7kd4GN) | 6:01 | 2025-07-25 |  |
 | [Holier](https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [PERMANENT.RADIANT](https://open.spotify.com/album/0ed3rpztAl3N3swyRLwn0C) | 3:47 | 2022-12-09 | 2023-07-15 |
 | [Hollow Cry](https://open.spotify.com/track/1y7jsF2OeKTdZ1pDCk3ZNO) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Common Suffering](https://open.spotify.com/album/6FLys5u92lIaPZbFExnTOF) | 3:08 | 2023-09-29 | 2024-02-03 |
 | [Hologram](https://open.spotify.com/track/53rJNKpgW6d7G7EJENCffP) | [Venera](https://open.spotify.com/artist/7d7z7BjNTjkZdFN29WqfL2), [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb) | [Hologram](https://open.spotify.com/album/1LIuXxps9vPNKc4Pcws75I) | 3:32 | 2023-08-18 | 2024-02-03 |
@@ -460,6 +463,7 @@
 | [Intestinal Wrap](https://open.spotify.com/track/3qXfb5Wd4A6EqU7DgAtdXy) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Intestinal Wrap](https://open.spotify.com/album/420l4HT9cFaWz2zv2ymvv8) | 3:24 | 2023-03-24 | 2024-02-03 |
 | [Into the Earth](https://open.spotify.com/track/5XvkXB1vcquootiIcUOoTz) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Into the Earth](https://open.spotify.com/album/0PQMXfwJJUnLa3sPEDPbAL) | 5:12 | 2022-06-24 | 2023-07-15 |
 | [Into The Suffer](https://open.spotify.com/track/5UlTbTL3VLHmIaHipuXF0X) | [Melting](https://open.spotify.com/artist/278giTAVjr5a29IC3LOwRF) | [Into The Suffer](https://open.spotify.com/album/0REm2wCgnfI2FqZ24RBkMS) | 3:19 | 2025-03-14 |  |
+| [INVERTED SPEAR OF HEAVEN](https://open.spotify.com/track/1c5WFko3iRB0uCshh5YCjZ) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [SALVATION LAUGHS IN THE FACE OF A GRIEVING MOTHER](https://open.spotify.com/album/0dHQH04nSGugSUSQOHOUpF) | 3:14 | 2025-07-25 |  |
 | [Invisible Hand](https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Invisible Hand](https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz) | 3:54 | 2023-08-04 | 2024-02-03 |
 | [It Never Began](https://open.spotify.com/track/7pLmXXwjM18XrFEmfIwXLZ) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [It Never Began](https://open.spotify.com/album/3CxeN9kycWWPzlsUAFFG9Z) | 3:25 | 2022-09-16 | 2023-07-15 |
 | [It's All Over \(For You\)](https://open.spotify.com/track/33ybzOrdCkudB1fGloubQ8) | [Neon Nightmare](https://open.spotify.com/artist/0lMcJVE9KZzlfnomZIC7HF) | [Faded Dream](https://open.spotify.com/album/6Ab6OuwGKo4KazGhv7vmWR) | 5:38 | 2024-11-01 | 2025-04-11 |
@@ -519,6 +523,7 @@
 | [Made Me This Way](https://open.spotify.com/track/2QmqloB5RrJ9JXIOSxM2fL) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [Made Me This Way](https://open.spotify.com/album/4y5H1S6oL2W983ataQpdQi) | 3:30 | 2024-07-05 | 2025-04-11 |
 | [Magno Interitus](https://open.spotify.com/track/2eAer3KcjPluOhra1Qo6DS) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Joe Bad](https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp) | [Magno Interitus](https://open.spotify.com/album/3D9Uy89sXoOF9eXKFNxktl) | 3:27 | 2022-05-06 | 2023-07-15 |
 | [Magnolia](https://open.spotify.com/track/4NplbKZO0lLEZ3obzxWBpt) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Magnolia](https://open.spotify.com/album/0u2ZC6H4KaVg9PupIkKx7S) | 4:14 | 2025-01-31 |  |
+| [Make the Demons Obey](https://open.spotify.com/track/1SM5OO9sd6GFMhttoE4YR2) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Make the Demons Obey](https://open.spotify.com/album/6odSPFaxrMvlkkPmh2zDYo) | 2:51 | 2025-07-25 |  |
 | [Malignant Perfection](https://open.spotify.com/track/2NVntSbt0SCX7FZI6dmdQv) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Malignant Perfection](https://open.spotify.com/album/17QXH9X3v0VZBi3hTsSPZt) | 6:45 | 2024-10-25 | 2025-04-11 |
 | [Mammoth's Hand](https://open.spotify.com/track/3dWabzNLo8b802VG7cCV5M) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Mammoth's Hand](https://open.spotify.com/album/4ozt7Ns1luCzF5xheqkfA2) | 3:53 | 2024-08-09 | 2025-04-11 |
 | [Man Without Fear](https://open.spotify.com/track/6F5ludZs5W93BB4JBsGIPQ) | [bulletsbetweentongues](https://open.spotify.com/artist/0EWT2MtvWeCf1yvvLf2EeG) | [Man Without Fear](https://open.spotify.com/album/6ZAUIdWYngfvh3qLWXv1wy) | 3:34 | 2024-01-19 | 2025-04-11 |
@@ -1016,6 +1021,7 @@
 | [Whispers In The Echo Chamber](https://open.spotify.com/track/4HMwF6zCISI8IBHnBc2RYM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Whispers In The Echo Chamber](https://open.spotify.com/album/2TRxn7ybyHGOsTBxsqYoCJ) | 4:01 | 2023-10-27 | 2024-02-03 |
 | [Who Am I?](https://open.spotify.com/track/038fGCIlWDQgHlUw9OxHuN) | [Rotting Out](https://open.spotify.com/artist/7tjMOkm52H3Qiz3ty2tbNw) | [Who Am I?](https://open.spotify.com/album/4J87NYm51J7khqQSQTHoOh) | 2:37 | 2022-03-18 | 2023-07-15 |
 | [Why Can't You Behave](https://open.spotify.com/track/7lZO9PeYcZU3i24q1n92rc) | [See You Next Tuesday](https://open.spotify.com/artist/2j5thxS6vaOqDNEAh0SFEx) | [Why Can't You Behave](https://open.spotify.com/album/1KnefAiKV5RWaA5h9KE1tm) | 2:02 | 2023-01-13 | 2024-02-03 |
+| [Wick](https://open.spotify.com/track/3yMU4otI6sZZBNSq2TYdXf) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Wick](https://open.spotify.com/album/4oewdHvESs5w4EtvGG6Abx) | 3:09 | 2025-07-25 |  |
 | [Wide Open](https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wide Open](https://open.spotify.com/album/0B7QibJPKamPw36p7FY79u) | 5:17 | 2022-06-10 | 2023-07-15 |
 | [Widow Song](https://open.spotify.com/track/0hORSwaLJGHXArVtCCHTXj) | [Gost](https://open.spotify.com/artist/46HcJG62ky3Tj7yJpB2Qqg) | [Widow Song](https://open.spotify.com/album/2EmSQd3hktzO3MDe1c0ib5) | 4:19 | 2024-01-26 | 2025-04-11 |
 | [Wildfire](https://open.spotify.com/track/5lF73HA0eQYUBg8DyPESXJ) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Wildfire / Zagreus](https://open.spotify.com/album/3zQmZXV9xdk2AzJRQGVk2a) | 7:05 | 2023-01-13 | 2024-02-03 |

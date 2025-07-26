@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,606 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,664 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 59 | [Do It Yourself \- New Bossa Remix](https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo) | [Markko Mendes](https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [Do It Yourself \(New Bossa Remix\)](https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF) | 4:12 |
 | 60 | [Até Depois do Fim](https://open.spotify.com/track/2r8pQbeeV4JBluUo1mlvoo) | [Cleverson Luiz](https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd) | [Até Depois do Fim](https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr) | 3:30 |
 | 61 | [Exagero](https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Beba\-Me Ao Vivo](https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM) | 3:50 |
-| 62 | [Mercado das Flores](https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Mercado das Flores](https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup) | 3:10 |
-| 63 | [Samba Jazz, de Raiz](https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB) | [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Samba Jazz, de Raiz Cláudio Jorge 70](https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4) | 4:09 |
+| 62 | [Samba Jazz, de Raiz](https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB) | [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Samba Jazz, de Raiz Cláudio Jorge 70](https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4) | 4:09 |
+| 63 | [Mercado das Flores](https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Mercado das Flores](https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup) | 3:10 |
 | 64 | [Dia De Glória](https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Dia De Glória](https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH) | 4:02 |
 | 65 | [Jura](https://open.spotify.com/track/3Uet0zyQWzgLCRBNTKmBgU) | [Orlandivo](https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0) | [A Chave do Sucesso](https://open.spotify.com/album/3DvT2KqKuuP8BWqLUl6wF1) | 2:22 |
 | 66 | [Malandro \- Ao Vivo](https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Carioca da Gema \(Ao Vivo\)](https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5) | 4:16 |

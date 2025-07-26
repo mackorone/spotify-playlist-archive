@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La tierra del Rap de oro puro. Esau Ortiz en portada",
+  "description": "La tierra del Rap de oro puro. Victor Mendivil en portada",
   "name": "Hip-Hop MX 24k",
   "tracks": [
     {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 288000,
       "name": "Alzypher Vol. 1",
       "url": "https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH"
@@ -489,6 +489,28 @@
     },
     {
       "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Badguychapo",
+          "url": "https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232587,
+      "name": "Cholo",
+      "url": "https://open.spotify.com/track/1LU62m7g2VTJwp0OOUMjPl"
+    },
+    {
+      "album": {
         "name": "Click Clack",
         "url": "https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE"
       },
@@ -742,6 +764,24 @@
       "duration_ms": 193421,
       "name": "Desde Cero (feat. Santa Fe Klan)",
       "url": "https://open.spotify.com/track/56dwc4Rm7t00qpsQzefuVi"
+    },
+    {
+      "album": {
+        "name": "Donde est\u00e1s perra?",
+        "url": "https://open.spotify.com/album/37RgFMQ6RcoDO3FnWwrNfL"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194300,
+      "name": "Donde est\u00e1s perra?",
+      "url": "https://open.spotify.com/track/5BNR0LkD0uN4YxB3zU33qC"
     },
     {
       "album": {
@@ -1542,6 +1582,28 @@
       "duration_ms": 257142,
       "name": "Maldita Tentaci\u00f3n",
       "url": "https://open.spotify.com/track/3SC3Wfipjci9gEMFCZErgw"
+    },
+    {
+      "album": {
+        "name": "Tutankamon",
+        "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "Mano a Mano",
+      "url": "https://open.spotify.com/track/1VjnloX6zB43pXp7QehKvT"
     },
     {
       "album": {
@@ -2408,7 +2470,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 240037,
       "name": "Round 4 (feat. C-Kan)",
       "url": "https://open.spotify.com/track/1I6aiLIGgrx7uEqausJgx5"
@@ -3290,7 +3352,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 203546,
       "name": "Yo No Me Quiero Morir",
       "url": "https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI"

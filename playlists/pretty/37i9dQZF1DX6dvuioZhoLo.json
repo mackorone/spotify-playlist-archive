@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 314096,
+  "num_followers": 314100,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 189871,
+      "name": "Still Miss the Way",
+      "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Playing Old Games",
         "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 209880,
       "name": "Playing Old Games",
       "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 189871,
-      "name": "Still Miss the Way",
-      "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Finger on the Button",
-        "url": "https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r"
-      },
-      "artists": [
-        {
-          "name": "Blue Cactus",
-          "url": "https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n"
-        }
-      ],
-      "duration_ms": 224132,
-      "name": "Finger on the Button",
-      "url": "https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Magnolia Queen",
         "url": "https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 226784,
       "name": "Marriage Ain't the End of Being Lonely",
       "url": "https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Finger on the Button",
+        "url": "https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r"
+      },
+      "artists": [
+        {
+          "name": "Blue Cactus",
+          "url": "https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n"
+        }
+      ],
+      "duration_ms": 224132,
+      "name": "Finger on the Button",
+      "url": "https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Kindness of Strangers",
-        "url": "https://open.spotify.com/album/0YNskLt7opNVnpNjkh3oeQ"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Kindness of Strangers",
-      "url": "https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Dead Ringer",
         "url": "https://open.spotify.com/album/2BAv3kF9WZY4KasAvMVeHo"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Cool Cars - EP",
-        "url": "https://open.spotify.com/album/6EIsPf2RVWonLJzfSSUtV2"
+        "name": "Kindness of Strangers",
+        "url": "https://open.spotify.com/album/0YNskLt7opNVnpNjkh3oeQ"
       },
       "artists": [
         {
-          "name": "Kelsey Waters",
-          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
         }
       ],
-      "duration_ms": 237426,
-      "name": "Cool Cars",
-      "url": "https://open.spotify.com/track/7gr3VoP3mj1EturQLVIM6x"
+      "duration_ms": 210173,
+      "name": "Kindness of Strangers",
+      "url": "https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1511,6 +1495,22 @@
       "duration_ms": 214471,
       "name": "I'll Change",
       "url": "https://open.spotify.com/track/7duLGNkHcs1XUJ8o9lOhak"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Cool Cars - EP",
+        "url": "https://open.spotify.com/album/6EIsPf2RVWonLJzfSSUtV2"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Waters",
+          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Cool Cars",
+      "url": "https://open.spotify.com/track/7gr3VoP3mj1EturQLVIM6x"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/7Jn1h8E5aT96pdyrPxrLWi"
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 207938,
-      "name": "Take You Back (The Iron Hoof Cattle Call)",
-      "url": "https://open.spotify.com/track/4rt5TvPSn69Y50Dmzjt4qW"
+      "duration_ms": 188240,
+      "name": "Companion",
+      "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
     }
   ],
   "unique_name": "Vintage Vibes",

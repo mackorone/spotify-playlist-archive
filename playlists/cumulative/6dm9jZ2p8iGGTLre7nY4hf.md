@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-466 songs - 1 day 2 hr 19 min
+468 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [bad ones](https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:03 | 2023-09-15 | 2025-03-14 |
 | [Bad To Myself](https://open.spotify.com/track/4IkqDf14jiuW0B2aYqHgwo) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Bad To Myself](https://open.spotify.com/album/1a2UAm8bwt2Ec9l9QZgtVh) | 2:50 | 2023-09-15 | 2025-03-14 |
 | [Balcony](https://open.spotify.com/track/5WOPkUg4SpTao68o8b5NTM) | [Bernhoft](https://open.spotify.com/artist/7hJnLLfzUy0oDOtNZF8wUm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver gang vi møtes](https://open.spotify.com/album/0NDb3wNSEuId1YUovYTTIr) | 2:54 | 2023-09-15 | 2025-03-14 |
+| [be a bitch](https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [be a bitch](https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl) | 3:04 | 2025-07-25 |  |
 | [beat up car](https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [beat up car](https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu) | 3:34 | 2024-04-02 | 2025-03-14 |
 | [Before You Go](https://open.spotify.com/track/2Z8IDSvVsodUfZs3Zvm1yK) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [NOW That's What I Call Music! 105](https://open.spotify.com/album/72Pb59x7KkEf3r1LpNb1IW) | 3:35 | 2025-07-24 |  |
 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 | 2025-03-26 | 2025-07-25 |
@@ -283,6 +284,7 @@
 | [Never Felt So Alone](https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:40 | 2025-03-26 | 2025-07-25 |
 | [Never Let Me Down Again](https://open.spotify.com/track/2Tw463vi8DMqkr2EiLYfZM) | [Jessica Mazin](https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 3:29 | 2023-09-15 | 2025-03-14 |
 | [Never the 1](https://open.spotify.com/track/3CvfUOkWsfTr7ZIjl6D9Uk) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [20mg of Happiness](https://open.spotify.com/album/338Td52uBRdtXDqIZiOo6D) | 2:51 | 2023-09-15 | 2025-03-14 |
+| [Next Life](https://open.spotify.com/track/15ioRljMDBXZUYkaZMIOgj) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Icarus](https://open.spotify.com/album/6dOw1Yt8emqoiDLOulwIHq) | 2:35 | 2025-07-25 |  |
 | [No More "I Love You's"](https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 4:51 | 2023-09-15 | 2025-03-14 |
 | [Nobody Gets Me](https://open.spotify.com/track/0PNB53urpkoZ7XJ05d1eOz) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Nobody Gets Me](https://open.spotify.com/album/3JDKvnr04WNWqqLqGlP0pl) | 2:43 | 2025-06-06 |  |
 | [Nobody Gets Me](https://open.spotify.com/track/0impvergaW8CuQS2OcEWMu) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 3:00 | 2025-03-26 |  |

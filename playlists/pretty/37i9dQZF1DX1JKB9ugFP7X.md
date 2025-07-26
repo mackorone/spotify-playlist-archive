@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del electropop latino\. Foto: CAMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,596 likes - 110 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,591 likes - 110 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [POSEÍDA](https://open.spotify.com/track/4DTKzlDiEUIp2RdxJzP1kn) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POSEÍDA](https://open.spotify.com/album/7DlNqWmZwZEJf4iFYLv5rB) | 3:52 |
 | 2 | [Entropía](https://open.spotify.com/track/2CBG4JM0DIGZOBOHsVffYF) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Entropía](https://open.spotify.com/album/00JXQ6363PciiJnJhwf9gv) | 3:10 |
 | 3 | [Foto de una Coreografía](https://open.spotify.com/track/564vzA6xQlpij7c2s1cL0h) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Amigas](https://open.spotify.com/album/71IQYoBzYkQYAvvX5BqyA0) | 3:23 |
-| 4 | [PIZZA PARTY \(with Six Sex\)](https://open.spotify.com/track/6R3NX7RBEqt2552Wr0AeIj) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [ESPECTACULAR](https://open.spotify.com/album/60cgkcmF1mxBx2fiB0rz5U) | 2:40 |
+| 4 | [PIZZA PARTY](https://open.spotify.com/track/6R3NX7RBEqt2552Wr0AeIj) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [ESPECTACULAR](https://open.spotify.com/album/60cgkcmF1mxBx2fiB0rz5U) | 2:40 |
 | 5 | [FRIKI FRIKI](https://open.spotify.com/track/4K5rkuYVaInky94Qy2CWJr) | [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7) | [FRIKI FRIKI](https://open.spotify.com/album/0pdh2LkicARabft0VRzG3h) | 2:10 |
 | 6 | [La Casa del Amor Nocturno](https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9) | 5:01 |
 | 7 | [Bien Tu Mal](https://open.spotify.com/track/7DlKhwNQSHCguTGPfGF2m6) | [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo) | [Bien Tu Mal](https://open.spotify.com/album/3U3gR4mLrRJuO4E48qanFA) | 3:35 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 109 | [Antifaz](https://open.spotify.com/track/58sfWnDD2m6v9jj3Bfkrfx) | [Mike Amigorena](https://open.spotify.com/artist/5u3Tm9K02qnBGQ5QZjU2LA) | [El increíble cool](https://open.spotify.com/album/711mtlJlzuMoyMjU10JXpf) | 3:12 |
 | 110 | [Bórrame el Dolor ☆](https://open.spotify.com/track/4hv9p4wMWoBTDgdaWw6fmB) | [DANI RIDE](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6), [Supernova](https://open.spotify.com/artist/4hp1i0d15TWg1YN3lCUWgq) | [Bórrame el Dolor ☆](https://open.spotify.com/album/30eyu4C1vjBzJlMsJ5XBxW) | 3:43 |
 
-Snapshot ID: `aHl84QAAAAANKN/6bRb1VQsHijWdAH7Z`
+Snapshot ID: `aILzSwAAAADtnjOJL92a4UGRBWFenRIp`

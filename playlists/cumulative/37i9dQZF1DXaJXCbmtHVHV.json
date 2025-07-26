@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Top country hits you know and love! Cover: Riley Green",
+  "description": "Top country hits you know and love! Cover: Megan Moroney",
   "name": "Big Country",
   "tracks": [
     {
@@ -106,10 +106,28 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 233333,
       "name": "28",
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+    },
+    {
+      "album": {
+        "name": "3,2,1",
+        "url": "https://open.spotify.com/album/5IPdGQ46nrjHlnBLpU5oGQ"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "3,2,1",
+      "url": "https://open.spotify.com/track/2mxyToKuuc2JGhxBNlJzUh"
     },
     {
       "album": {
@@ -164,6 +182,24 @@
       "duration_ms": 211053,
       "name": "5 Leaf Clover",
       "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
+    },
+    {
+      "album": {
+        "name": "6 Months Later",
+        "url": "https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182868,
+      "name": "6 Months Later",
+      "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
     },
     {
       "album": {
@@ -698,7 +734,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
@@ -2364,7 +2400,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 201555,
       "name": "Fix What You Didn't Break",
       "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
@@ -6354,6 +6390,24 @@
       "duration_ms": 236055,
       "name": "Remember Him That Way",
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
+    },
+    {
+      "album": {
+        "name": "Streets of London",
+        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261601,
+      "name": "River Washed Hair",
+      "url": "https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf"
     },
     {
       "album": {

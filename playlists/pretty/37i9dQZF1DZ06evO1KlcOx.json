@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 7697,
+  "num_followers": 7702,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAACjqGKDyKbEc1cVSAm7+D3a",
+  "snapshot_id": "aIF3gAAAAAAVtYrBkLdlbEihUldRQyOw",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Died in His Boat",
-        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Cover the Long Way",
-      "url": "https://open.spotify.com/track/5NxOjQYObGO5cISU5jd8uu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold / Sick - Single",
         "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
       },
@@ -603,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
       "artists": [
         {
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 231125,
-      "name": "Unclean mind",
-      "url": "https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y"
+      "duration_ms": 245653,
+      "name": "Cover the Long Way",
+      "url": "https://open.spotify.com/track/5NxOjQYObGO5cISU5jd8uu"
     },
     {
       "added_at": null,
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Died in His Boat",
-        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
       "artists": [
         {
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 348226,
-      "name": "Difference (Voices)",
-      "url": "https://open.spotify.com/track/14FUKDzHnmJQc9leR0ripj"
+      "duration_ms": 231125,
+      "name": "Unclean mind",
+      "url": "https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y"
     },
     {
       "added_at": null,
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 317749,
-      "name": "Basement Mix",
-      "url": "https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd"
+      "duration_ms": 348226,
+      "name": "Difference (Voices)",
+      "url": "https://open.spotify.com/track/14FUKDzHnmJQc9leR0ripj"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 362253,
       "name": "It Feels Alright",
       "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 317749,
+      "name": "Basement Mix",
+      "url": "https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 119733,
-      "name": "Make Me Over",
-      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cover the Windows and the Walls",
         "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 281386,
       "name": "Heart Current",
       "url": "https://open.spotify.com/track/7kdGOznQ3wZO2lvFFtWxsf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 119733,
+      "name": "Make Me Over",
+      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 186946,
-      "name": "Little Boat/Bone Dance (Audrey)",
-      "url": "https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz"
+      "duration_ms": 322146,
+      "name": "Opened Space",
+      "url": "https://open.spotify.com/track/4qL78jNDOxMqRhjH5nKf1Z"
     }
   ],
   "unique_name": "This Is Grouper",

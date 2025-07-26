@@ -457,6 +457,32 @@
     },
     {
       "album": {
+        "name": "Ashna",
+        "url": "https://open.spotify.com/album/3AqFFDWxqHQTpXYktGeObV"
+      },
+      "artists": [
+        {
+          "name": "Zahoor",
+          "url": "https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        },
+        {
+          "name": "Shahmeer Raza Khan",
+          "url": "https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185561,
+      "name": "Ashna",
+      "url": "https://open.spotify.com/track/6STG64AUnwdk6zQuNyK2lC"
+    },
+    {
+      "album": {
         "name": "Baadal",
         "url": "https://open.spotify.com/album/6pV7SixHdbbMZiDhoV6fA8"
       },

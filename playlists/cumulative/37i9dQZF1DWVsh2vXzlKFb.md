@@ -4,7 +4,7 @@
 
 > Songs for the warm pavement, cracked windows, and falling in love with music in the sun.
 
-598 songs - 1 day 9 hr 28 min
+599 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Be Sweet](https://open.spotify.com/track/2X3J1zgsKEkTSYnjsUQlUZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Be Sweet](https://open.spotify.com/album/1gEdYwz5hkFchccCnPlVyu) | 3:15 | 2021-08-13 | 2022-07-29 |
 | [Beabadoobee](https://open.spotify.com/track/7pC2Lj7slyihjXZABlvZKV) | [Cole Bleu](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [Delete My Feelings](https://open.spotify.com/album/4Yc3MMtwaMHLQZPbXBtzAz) | 3:36 | 2022-07-14 | 2022-07-23 |
 | [Beaches](https://open.spotify.com/track/2h5reg3Cwkeh8JIoxNX9ID) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Beaches](https://open.spotify.com/album/0nXGm6KHzEnE0J06vAxQ3z) | 3:00 | 2021-08-13 | 2022-07-19 |
-| [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 | 2025-05-01 |  |
+| [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 | 2025-05-01 | 2025-07-26 |
 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 | 2023-05-25 | 2024-05-18 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-17 | 2025-05-02 |
 | [Birdy](https://open.spotify.com/track/5hBpxb5JtyfqLWOlIaZ9YY) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/77yXxEndm5eQyRQUQweAsY) | 4:33 | 2022-03-24 | 2022-04-29 |
@@ -169,6 +169,7 @@
 | [Electric Green Lambo](https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Electric Green Lambo](https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM) | 2:35 | 2025-02-27 | 2025-04-11 |
 | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR) | 3:33 | 2025-07-18 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-05-03 |  |
+| [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-25 |  |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-13 | 2024-05-18 |
 | [Everytime](https://open.spotify.com/track/7KvmxwYZ76UIauFy8jvRIT) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Oblivion!](https://open.spotify.com/album/6y9rLPYIzbyxEAOIV3nXxz) | 3:10 | 2022-04-01 | 2022-06-12 |
 | [Favourite](https://open.spotify.com/track/27w0RH5IDt6xU3B2j7QOuy) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 4:16 | 2025-06-02 |  |

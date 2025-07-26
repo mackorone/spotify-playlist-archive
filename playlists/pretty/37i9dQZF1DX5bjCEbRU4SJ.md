@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,092 likes - 70 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,120 likes - 70 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 27 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 |
 | 28 | [The Weight \- Remastered](https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Expanded Edition\)](https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk) | 4:38 |
 | 29 | [Walk on the Wild Side](https://open.spotify.com/track/0EFEkt29P7Icr7dO4vN6yk) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/3JKDzf9F11y9kjWnehKna1) | 4:13 |
-| 30 | [I Hope That I Don't Fall In Love With You](https://open.spotify.com/track/0oYo06FRCBtrE3kWrDcsDF) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time](https://open.spotify.com/album/4ENah6iWByAVrxQS7uiF87) | 3:54 |
-| 31 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
+| 30 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
+| 31 | [I Hope That I Don't Fall In Love With You](https://open.spotify.com/track/0oYo06FRCBtrE3kWrDcsDF) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time](https://open.spotify.com/album/4ENah6iWByAVrxQS7uiF87) | 3:54 |
 | 32 | [Postcards From Italy](https://open.spotify.com/track/2ThEm5QN5UrJzmpAAMaH1Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gulag Orkestar](https://open.spotify.com/album/3WNU7rbYexFHj9DPOZMdLR) | 4:17 |
 | 33 | [Eyes](https://open.spotify.com/track/7fArBkBSsaUF5mOcpTL56I) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/0ipi3dQXxde567orrSLq50) | 2:28 |
 | 34 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 43 | [Farewell Transmission](https://open.spotify.com/track/4fkAWGCbxNizyNwsHlrajH) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:22 |
 | 44 | [Your Song](https://open.spotify.com/track/55uHgEQV1BVtTbI72uEpOq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Golden Moments](https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR) | 4:03 |
 | 45 | [I Don't Know](https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v) | 4:59 |
-| 46 | [Pink Moon](https://open.spotify.com/track/1CbPLR6Xjo2nc0Pf13N0RS) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/6LoD5uGEynY4eqstWDFKhg) | 2:03 |
-| 47 | [I Don't Recall](https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw) | [Lavender Diamond](https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw) | [Incorruptible Heart](https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa) | 3:00 |
+| 46 | [I Don't Recall](https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw) | [Lavender Diamond](https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw) | [Incorruptible Heart](https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa) | 3:00 |
+| 47 | [Pink Moon](https://open.spotify.com/track/1CbPLR6Xjo2nc0Pf13N0RS) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/6LoD5uGEynY4eqstWDFKhg) | 2:03 |
 | 48 | [Coming Down](https://open.spotify.com/track/16bwzB6w9ev11KOZ1RNNKJ) | [Dum Dum Girls](https://open.spotify.com/artist/65ewrL6LvcNGMMRVlksNGS) | [Only in Dreams](https://open.spotify.com/album/6TEtRKzAhB3AQ5R0vnGTGz) | 6:30 |
 | 49 | [Gospel](https://open.spotify.com/track/4q8AGDL52LwEQMjq1k9d5F) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer \(Standard Version\)](https://open.spotify.com/album/3hvjTC9OSOrf6SFQmfqLNX) | 4:29 |
 | 50 | [Baby I'm Yours](https://open.spotify.com/track/6Dhk2ZvhPG8HCY3qFU5A2l) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/36gyE5ONEx9pKCMoQdcUI6) | 2:32 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 52 | [All My Days](https://open.spotify.com/track/6imKHLNom4xjEj2n3ZbKHr) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/39xSDFXhE1RmrqR6mF2bXU) | 4:57 |
 | 53 | [Dusty Trails](https://open.spotify.com/track/1J8XsaDbekfEP0vmyLcu7w) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief](https://open.spotify.com/album/14bgLAop7Lgpk2U4VuDFDl) | 4:24 |
 | 54 | [Something](https://open.spotify.com/track/1aoBqoZBJ2xuBoWnqV1XVt) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/4dRzxZm69k9s0nzKmKb8Gj) | 3:52 |
-| 55 | [Our Love](https://open.spotify.com/track/4ouHnqx22lzTZHr2hEt5aH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 3:52 |
-| 56 | [Blue Spotted Tail](https://open.spotify.com/track/2dFEB7VbBPZzhb2LqIBZbH) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/3l7iMXJ0jqFnIYZRyCUewC) | 3:05 |
+| 55 | [Blue Spotted Tail](https://open.spotify.com/track/2dFEB7VbBPZzhb2LqIBZbH) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/3l7iMXJ0jqFnIYZRyCUewC) | 3:05 |
+| 56 | [Our Love](https://open.spotify.com/track/4ouHnqx22lzTZHr2hEt5aH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 3:52 |
 | 57 | [Too Many Birds](https://open.spotify.com/track/3tH2AWcU1XTpV4BwirC819) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/2jalkvKIskN3GecqZAuqam) | 5:27 |
 | 58 | [Sunday Morning](https://open.spotify.com/track/3lX49Bqy21Y5HneUJ7p55G) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary \(Super Deluxe Edition\)](https://open.spotify.com/album/1gGjSTfser1MPfowGiuy9l) | 2:55 |
 | 59 | [Nancy From Now On](https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 3:54 |

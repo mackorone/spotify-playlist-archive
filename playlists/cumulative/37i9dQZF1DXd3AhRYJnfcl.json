@@ -2371,6 +2371,32 @@
     },
     {
       "album": {
+        "name": "Ebtadena",
+        "url": "https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        },
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W"
+        },
+        {
+          "name": "Jana Diab",
+          "url": "https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257479,
+      "name": "Khatfoony",
+      "url": "https://open.spotify.com/track/3ptVro4saZIK2M6J8fIoEg"
+    },
+    {
+      "album": {
         "name": "Kol Elly Eshto",
         "url": "https://open.spotify.com/album/36RN9n5MnY8qHLv9gwzfu0"
       },
@@ -3792,7 +3818,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 149616,
       "name": "Shaif Amar",
       "url": "https://open.spotify.com/track/6ppnpZodq0gL0s4VC8yA5s"

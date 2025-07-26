@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Martin Castillo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,618 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,656 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 82 | [Le Apodan El Fresa](https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Apodan El Fresa](https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG) | 3:14 |
 | 83 | [Mono Verde](https://open.spotify.com/track/52Z2MDhr07lZuvnR5X47WO) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mono Verde](https://open.spotify.com/album/7nRoaZeKMvG2qmIlKeiy5r) | 3:15 |
 | 84 | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/album/480oASOS6npWutZkW7zeNf) | 2:33 |
-| 85 | [El Muchacho de la Barba](https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [El Muchacho de la Barba](https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ) | 2:34 |
-| 86 | [Nos Gusto La Mafia "EXOTICÓN 2.0"](https://open.spotify.com/track/34ivsTSHJiSlnQ3ROqDLpg) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [Nos Gusto La Mafia "EXOTICÓN 2.0"](https://open.spotify.com/album/4V6dAxy3fxZSWnQsiLETSj) | 2:45 |
+| 85 | [Nos Gusto La Mafia "EXOTICÓN 2.0"](https://open.spotify.com/track/34ivsTSHJiSlnQ3ROqDLpg) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [Nos Gusto La Mafia "EXOTICÓN 2.0"](https://open.spotify.com/album/4V6dAxy3fxZSWnQsiLETSj) | 2:45 |
+| 86 | [El Muchacho de la Barba](https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [El Muchacho de la Barba](https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ) | 2:34 |
 | 87 | [DEFIENDO EL TERRE](https://open.spotify.com/track/150x3uhN0IOSohoxaj3auy) | [Máxima Ventaja](https://open.spotify.com/artist/5I8HriBeRyNsjTLSHsok0N), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [DEFIENDO EL TERRE](https://open.spotify.com/album/3dSuYPcIUIgUdUZsKZiDMh) | 2:30 |
 | 88 | [La Raza de Michoacán](https://open.spotify.com/track/2V5TwDefnxaxMxByDM2cG1) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [La Raza de Michoacán](https://open.spotify.com/album/6LV5hKxJFgPPdsxPnua7fN) | 2:35 |
 | 89 | [El Mago Merlín](https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Mago Merlín](https://open.spotify.com/album/2tkBG4kM8b2punqvupfFSm) | 2:41 |

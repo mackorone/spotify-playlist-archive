@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today featuring music from Margo Price & Jesse Welles",
+  "description": "The best in folk & acoustic today featuring music from Tyler Childers",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 182110,
       "name": "As Good As It Gets",
       "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
@@ -4616,7 +4616,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 266666,
       "name": "For Sale Sign (feat. Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng"
@@ -4782,7 +4782,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 305543,
       "name": "Gild the Lily",
       "url": "https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ"
@@ -5635,6 +5635,24 @@
     },
     {
       "album": {
+        "name": "Hotel TV",
+        "url": "https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277951,
+      "name": "Hotel TV",
+      "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
+    },
+    {
+      "album": {
         "name": "House Song",
         "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
       },
@@ -6454,7 +6472,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 212266,
       "name": "Inconsolable",
       "url": "https://open.spotify.com/track/2iF3DCqqC0tUzaqJp4EQ93"
@@ -9171,6 +9189,24 @@
     },
     {
       "album": {
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219503,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
+    },
+    {
+      "album": {
         "name": "Please Don't Go",
         "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
       },
@@ -9744,6 +9780,28 @@
       "duration_ms": 206146,
       "name": "Room On Your Shoulder",
       "url": "https://open.spotify.com/track/5T6ZMk67Sk3gimfuY73tDA"
+    },
+    {
+      "album": {
+        "name": "Run Right Into It",
+        "url": "https://open.spotify.com/album/6Tj1wkaeUCw5ZZlngTthyG"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        },
+        {
+          "name": "Land of Talk",
+          "url": "https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267688,
+      "name": "Run Right Into It",
+      "url": "https://open.spotify.com/track/55wXV7znDMz0w58jtOSWFa"
     },
     {
       "album": {
@@ -12224,6 +12282,24 @@
       "duration_ms": 193080,
       "name": "Tom Barrett",
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "album": {
+        "name": "Tongue Tied",
+        "url": "https://open.spotify.com/album/6qaa92H8qSXZXrJy5rXPNh"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146949,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/3xXpLxoBD0x5QglLcRrBto"
     },
     {
       "album": {

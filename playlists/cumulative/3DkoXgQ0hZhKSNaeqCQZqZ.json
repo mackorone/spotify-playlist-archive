@@ -3239,6 +3239,24 @@
     },
     {
       "album": {
+        "name": "junk",
+        "url": "https://open.spotify.com/album/0LDlUwMHU7FrhVpPFYAybu"
+      },
+      "artists": [
+        {
+          "name": "fauxx",
+          "url": "https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "junk",
+      "url": "https://open.spotify.com/track/0wHvcNpZpYHaBtGMBTwo0B"
+    },
+    {
+      "album": {
         "name": "Forgive Me Please",
         "url": "https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7"
       },

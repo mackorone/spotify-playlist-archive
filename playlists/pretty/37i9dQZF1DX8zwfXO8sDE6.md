@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,871 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,881 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 20 | [CLOSE YOUR EYES](https://open.spotify.com/track/5dwr3ShkKRoGoHBbZmyQu0) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [WE ARE JUST TAKING OFF](https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi) | 4:54 |
 | 21 | [LADY PINK PANTHER](https://open.spotify.com/track/2fbyESl5b0FVR6yCDsQGPe) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [LAGOON \(リマスター2017\)](https://open.spotify.com/album/33zr4KaPWAo7XtvinSInsf) | 2:55 |
 | 22 | [ボンボヤージ波止場](https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [モーニング](https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ) | 4:02 |
-| 23 | [夏の光に](https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr) | [Sumiko Yamagata](https://open.spotify.com/artist/4JG1gQtoe53W8X9W3OAk5C) | [サマー・シェイド](https://open.spotify.com/album/6FFjNNrnEQHDMkQtOG1Oyn) | 3:26 |
-| 24 | [シンプル・ラブ](https://open.spotify.com/track/75NJAsvUCSHjNYSw0qRT42) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE), [美乃家セントラルステイション](https://open.spotify.com/artist/6zuN0CN7nUe6I5dDXQQLD2) | [RAINBOW](https://open.spotify.com/album/465AMZHqKJo1GbIptNitEE) | 3:47 |
+| 23 | [シンプル・ラブ](https://open.spotify.com/track/75NJAsvUCSHjNYSw0qRT42) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE), [美乃家セントラルステイション](https://open.spotify.com/artist/6zuN0CN7nUe6I5dDXQQLD2) | [RAINBOW](https://open.spotify.com/album/465AMZHqKJo1GbIptNitEE) | 3:47 |
+| 24 | [夏の光に](https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr) | [Sumiko Yamagata](https://open.spotify.com/artist/4JG1gQtoe53W8X9W3OAk5C) | [サマー・シェイド](https://open.spotify.com/album/6FFjNNrnEQHDMkQtOG1Oyn) | 3:26 |
 | 25 | [ON THE SEASHORE](https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [WE ARE JUST TAKING OFF](https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi) | 6:11 |
 | 26 | [Summer Connection](https://open.spotify.com/track/4MghcTKk0rLdBuiEOuY77j) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [SUNSHOWER](https://open.spotify.com/album/1tirkouCp0ofWI1IADUvy2) | 4:30 |
 | 27 | [I SAY WHO](https://open.spotify.com/track/1Ehd4X1eWAm2IP43xqPV2x) | [惣領 智子](https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb) | [City Lights by the Moonlight](https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg) | 3:13 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 33 | [流星都市](https://open.spotify.com/track/5dcuJcdVq216AlN83S2c2b) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [ほうろう](https://open.spotify.com/album/569VdQ5J9BOq1tv5ahzf7R) | 3:56 |
 | 34 | [てぃーんず　ぶるーす](https://open.spotify.com/track/2yz2pO5xGSfOetZUX8y6u7) | [Shinji Harada](https://open.spotify.com/artist/5Lo7ke2VQqfAyNhWGBg2t1) | [Feel Happy 2007 ～Debut 30th Anniversary～](https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB) | 3:47 |
 | 35 | [ソバカスのある少女](https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx) | [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [キャラメル・ママ](https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG) | 3:29 |
-| 36 | [風になれるなら \- Single Version](https://open.spotify.com/track/6nk9e6hnN2pGJocWoWgE7f) | [Ginji Ito](https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY) | [デッドリイ・ドライブ \(40周年記念デラックス・エディション\)](https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ) | 3:36 |
-| 37 | [冥想](https://open.spotify.com/track/7zpGF0mHjjs7r0CUmT1yhm) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [SHADY（シェイディ）](https://open.spotify.com/album/5nmYJKydQYpjmgu1YCJkmn) | 4:08 |
-| 38 | [プールサイド](https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:54 |
+| 36 | [冥想](https://open.spotify.com/track/7zpGF0mHjjs7r0CUmT1yhm) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [SHADY（シェイディ）](https://open.spotify.com/album/5nmYJKydQYpjmgu1YCJkmn) | 4:08 |
+| 37 | [プールサイド](https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:54 |
+| 38 | [風になれるなら \- Single Version](https://open.spotify.com/track/6nk9e6hnN2pGJocWoWgE7f) | [Ginji Ito](https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY) | [デッドリイ・ドライブ \(40周年記念デラックス・エディション\)](https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ) | 3:36 |
 | 39 | [愛はエネルギー](https://open.spotify.com/track/6hAnvILgRZunqepVsTsadW) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [松原みき ベスト・コレクション](https://open.spotify.com/album/05h12dyMb1LnstCIRpl1Xf) | 3:38 |
 | 40 | [戻っておいで・私の時間](https://open.spotify.com/track/4D1keJOHZGqct7n3F8LA9G) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [BEGINNING](https://open.spotify.com/album/36BRn0ckMgu8ePVx2wnun8) | 3:29 |
-| 41 | [SHININ' YOU,SHININ' DAY](https://open.spotify.com/track/41GTw7r5nCPUSTf0F0O8xy) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [Char\[Remaster\]](https://open.spotify.com/album/0Z97HIdLQP7O5gecJXy9i2) | 5:55 |
-| 42 | [マイ・ピュア・レディ](https://open.spotify.com/track/3Aq7x3kFdJQJMFk22k16WF) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Amii \- versary \(東芝EMI編\)](https://open.spotify.com/album/3qdqOLfYO9ghyK6oeDntJg) | 3:17 |
-| 43 | [夜間飛行](https://open.spotify.com/track/0nJSH4TfCIFtIzVhpTAQ9T) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:29 |
+| 41 | [マイ・ピュア・レディ](https://open.spotify.com/track/3Aq7x3kFdJQJMFk22k16WF) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Amii \- versary \(東芝EMI編\)](https://open.spotify.com/album/3qdqOLfYO9ghyK6oeDntJg) | 3:17 |
+| 42 | [夜間飛行](https://open.spotify.com/track/0nJSH4TfCIFtIzVhpTAQ9T) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:29 |
+| 43 | [SHININ' YOU,SHININ' DAY](https://open.spotify.com/track/41GTw7r5nCPUSTf0F0O8xy) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [Char\[Remaster\]](https://open.spotify.com/album/0Z97HIdLQP7O5gecJXy9i2) | 5:55 |
 | 44 | [キッシング・フィッシュ \- 2017 リマスター](https://open.spotify.com/track/1z5DFbLuxGIyGZ475T2L7v) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Kissing Fish \(2017 リマスター\)](https://open.spotify.com/album/0lYuIvIxDgtshJa2CUjMTQ) | 4:39 |
 | 45 | [Gardenia](https://open.spotify.com/track/6mWffFIkSHEJaJNSSFlvMR) | [Kazuhiko Kato](https://open.spotify.com/artist/2lNBXVmLH56C2x0Nj4NSzC) | [ガーディニア](https://open.spotify.com/album/3DbzmSYvnSrbCwsdThZ9d9) | 4:29 |
 | 46 | [心のままに](https://open.spotify.com/track/5X0xhUWh5d1LltgEPnGl1I) | [朝比奈 マリア](https://open.spotify.com/artist/0Fo7zlHoM0WX4PP2GbipxM) | [MARIA](https://open.spotify.com/album/2TAs79aEFZQpGxYwpF7yAo) | 3:49 |
-| 47 | [ミスティー・レディー](https://open.spotify.com/track/1olfil66HveMe3Bt4iTW1J) | [Tatsuhiko Yamamoto](https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h) | [Memorial Rain](https://open.spotify.com/album/3HlqiB8wBWjxaqNDqZv9oW) | 4:24 |
-| 48 | [The Tokyo Taste](https://open.spotify.com/track/6AKFrXgaa6gAWZyg5g2hyH) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW), [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y), [Alex](https://open.spotify.com/artist/7A6cteuR1eQJ01f5P2ZDZI) | [sadistics](https://open.spotify.com/album/0hoyGdz4oLEHvtazzD0myg) | 3:42 |
-| 49 | [SUNDAY NIGHT TO MONDAY MORNING](https://open.spotify.com/track/7FyoAOAhwIXmqrxiROlTXZ) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [CharⅡ have a wine\[Remaster\]](https://open.spotify.com/album/4DnNmua2BWWpyTvSjklh9D) | 5:13 |
-| 50 | [この軽い感じが…](https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE) | [今井裕](https://open.spotify.com/artist/59WiVENvpz9lEcEZN5MzyF) | [A COOL EVENING](https://open.spotify.com/album/3KKRt1QoS69x2mTuuY24l3) | 6:07 |
+| 47 | [The Tokyo Taste](https://open.spotify.com/track/6AKFrXgaa6gAWZyg5g2hyH) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW), [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y), [Alex](https://open.spotify.com/artist/7A6cteuR1eQJ01f5P2ZDZI) | [sadistics](https://open.spotify.com/album/0hoyGdz4oLEHvtazzD0myg) | 3:42 |
+| 48 | [ミスティー・レディー](https://open.spotify.com/track/1olfil66HveMe3Bt4iTW1J) | [Tatsuhiko Yamamoto](https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h) | [Memorial Rain](https://open.spotify.com/album/3HlqiB8wBWjxaqNDqZv9oW) | 4:24 |
+| 49 | [この軽い感じが…](https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE) | [今井裕](https://open.spotify.com/artist/59WiVENvpz9lEcEZN5MzyF) | [A COOL EVENING](https://open.spotify.com/album/3KKRt1QoS69x2mTuuY24l3) | 6:07 |
+| 50 | [SUNDAY NIGHT TO MONDAY MORNING](https://open.spotify.com/track/7FyoAOAhwIXmqrxiROlTXZ) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [CharⅡ have a wine\[Remaster\]](https://open.spotify.com/album/4DnNmua2BWWpyTvSjklh9D) | 5:13 |
 
 Snapshot ID: `ZnzNLgAAAADbSVB6eWREr4gvpo30ok5q`

@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-140 songs - 4 hr 51 min
+141 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [ABC Animals](https://open.spotify.com/track/0uEfAB3x11vRbkzXnPfheA) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [ABC Kids Favourites](https://open.spotify.com/album/6oJlfg27ZPNomsw3bYKTQ0) | 3:02 | 2022-07-25 | 2022-11-13 |
 | [ABC Animals](https://open.spotify.com/track/3kjsci8HHMLnxb9tE4UYes) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [ABC Animals](https://open.spotify.com/album/2qqBNP16TbPUym2VTjJeop) | 3:06 | 2022-02-01 |  |
 | [ABC Animals](https://open.spotify.com/track/45qqH36Ghr1SvKbT7wxrBn) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [ABC Animals](https://open.spotify.com/album/0dTmSifdnozjzJwjJoTeVL) | 3:06 | 2022-07-25 | 2024-04-19 |
+| [ABC Dinosaur Song](https://open.spotify.com/track/3bFgs49EFuaGCtE54mDV6O) | [Lah\-Lah](https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm) | [ABC Dinosaur Song and more Kids Nursery Rhymes](https://open.spotify.com/album/7vxB5yTcepSBUND9cqcDRe) | 3:45 | 2025-07-25 |  |
 | [Alice the Camel](https://open.spotify.com/track/16fID3FglbDNkn425bPgJe) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [30 Favorite Animal Songs for Kids](https://open.spotify.com/album/7tAxYAW3his1LuF2sFFvI7) | 1:13 | 2022-02-01 |  |
 | [Alice the Camel](https://open.spotify.com/track/2dk2vm31RI9Z8VB2xfZagV) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [150 All Time Children's Favorites](https://open.spotify.com/album/2LNPciMcwVbgqHsP4FRj6v) | 1:13 | 2022-07-25 | 2023-11-05 |
 | [Alice the Camel](https://open.spotify.com/track/6N1hxicCMjYE4hUP7UETLz) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Animal Songs](https://open.spotify.com/album/4i4P9o5YtTM7ziiTBpHaW9) | 1:13 | 2022-07-25 | 2024-04-19 |

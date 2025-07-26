@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-452 songs - 1 day 0 hr 35 min
+453 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [be](https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:49 | 2021-12-06 | 2022-07-29 |
 | [Be with me](https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Beloved](https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu) | 4:37 | 2022-01-11 | 2022-04-12 |
 | [Beautiful Feeling](https://open.spotify.com/track/5qomEJP9XCFsuHbrMB2dwl) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Beautiful Feeling](https://open.spotify.com/album/0TMcM2jax77HR89yWm8PPi) | 3:28 | 2021-12-06 | 2022-07-20 |
+| [Beautiful Strangers](https://open.spotify.com/track/6IYvOX6K6tbBmj00JRU5Rw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: TOGETHER](https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG) | 2:18 | 2025-07-25 |  |
 | [Before the summer ends](https://open.spotify.com/track/6dNxDsapsJ1SR5UwNnMsBT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [KURO](https://open.spotify.com/artist/4Hw8Xf4xtbRExhhYgX95eE) | [Before the summer ends](https://open.spotify.com/album/4k4W1RwDMc4rQxixgQWlkR) | 2:51 | 2022-03-23 | 2022-04-14 |
 | [BEST FRIEND](https://open.spotify.com/track/5GB0hU37rKZNVsHMu7FOM9) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8) | 3:50 | 2021-12-06 | 2022-07-28 |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2024-03-27 | 2025-04-06 |
@@ -444,7 +445,7 @@
 | [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 | 2024-03-27 | 2024-05-03 |
 | [YES or YES](https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) | 3:57 | 2022-07-04 | 2024-03-28 |
 | [YES or YES](https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/38QQgShZFuEAJJw1A6hz3x) | 3:57 | 2021-12-28 | 2022-04-29 |
-| [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2024-03-27 |  |
+| [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2024-03-27 | 2025-07-26 |
 | [You make Me](https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:38 | 2021-12-06 | 2022-07-29 |
 | [You&I 인사](https://open.spotify.com/track/6AoISiNZ4ibepHHkBGHvNH) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [You&I 인사](https://open.spotify.com/album/23NbTefiEEVOUKekR8ocYT) | 3:41 | 2022-04-04 | 2022-04-09 |
 | [Your Light](https://open.spotify.com/track/0NJQUkvJT9PY8TMIRPq1oA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Your Light \(From The Original TV Show "Live On"\)](https://open.spotify.com/album/5xHrhwZ4ufLSUVXUcW05yX) | 3:37 | 2021-12-06 | 2022-07-22 |

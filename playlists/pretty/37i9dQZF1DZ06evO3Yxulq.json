@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAA88o0WXpTxsG2cMReP1Me/",
+  "snapshot_id": "aIF3gAAAAAD/SLKoa5+uCG9OBFyTu9gU",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adoraci\u00f3n Vol. 1",
-        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
+        "name": "Loco Amor (Spanish Version)",
+        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
       },
       "artists": [
-        {
-          "name": "Adoraci\u00f3n",
-          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
-        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 351542,
-      "name": "Yo Te Busco",
-      "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"
+      "duration_ms": 303373,
+      "name": "Loco Amor - Spanish Version",
+      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
     },
     {
       "added_at": null,
@@ -719,6 +715,26 @@
       "duration_ms": 362977,
       "name": "Eterno (Con Cuando los Santos Marchen Ya)",
       "url": "https://open.spotify.com/track/6Bg0B8U2GIiLVZhyYkrbPp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adoraci\u00f3n Vol. 1",
+        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n",
+          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 351542,
+      "name": "Yo Te Busco",
+      "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"
     },
     {
       "added_at": null,
@@ -743,38 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Amor (Spanish Version)",
-        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 303373,
-      "name": "Loco Amor - Spanish Version",
-      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 499411,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
       },
@@ -795,6 +779,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 499411,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambientes de Cuna",
+        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
+      },
+      "artists": [
+        {
+          "name": "Aliento Kids",
+          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 452354,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
@@ -807,22 +827,6 @@
       "duration_ms": 458993,
       "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
       "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Santo (Tu Nombre Es)",
-      "url": "https://open.spotify.com/track/1Bl1opDBNVOyvaBVU0GRWZ"
     },
     {
       "added_at": null,
@@ -847,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Santo (Tu Nombre Es)",
+      "url": "https://open.spotify.com/track/1Bl1opDBNVOyvaBVU0GRWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
         "url": "https://open.spotify.com/album/5nIs2o9PzMZlf6uJX8nEmY"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 271374,
       "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
       "url": "https://open.spotify.com/track/5lFE4oeLwvFhhGm3GhOn2g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambientes de Cuna",
-        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
-      },
-      "artists": [
-        {
-          "name": "Aliento Kids",
-          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 452354,
-      "name": "Como Dijiste",
-      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
     },
     {
       "added_at": null,

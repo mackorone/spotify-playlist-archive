@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 ### [Country Frequency](https://open.spotify.com/playlist/37i9dQZF1DWY1wwcap53LA)
 
-> Country music making waves\. Cover: Sacha
+> Country music making waves\. Cover: Ink
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,679 likes - 105 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,689 likes - 105 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [For What It’s Worth](https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:55 |
-| 2 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
-| 3 | [If I Wanted Wine](https://open.spotify.com/track/4cgwtyl8Ig2RxDTz0d0JyM) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 2:44 |
-| 4 | [Turquoise Cowboy](https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Turquoise Cowboy](https://open.spotify.com/album/1JMzzKhYbJcYNQ3VKC0lpw) | 3:16 |
+| 1 | [Turquoise Cowboy](https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Turquoise Cowboy](https://open.spotify.com/album/1JMzzKhYbJcYNQ3VKC0lpw) | 3:16 |
+| 2 | [For What It’s Worth](https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:55 |
+| 3 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
+| 4 | [If I Wanted Wine](https://open.spotify.com/track/4cgwtyl8Ig2RxDTz0d0JyM) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 2:44 |
 | 5 | [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 |
 | 6 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 |
 | 7 | [Man Of His Word](https://open.spotify.com/track/7Ea6jWtb0dC4rWySB39iqM) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Man Of His Word](https://open.spotify.com/album/3siwquvKbr45XEkLwMhuEi) | 4:02 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 104 | [Magnolia \(Acoustic\)](https://open.spotify.com/track/3x5jkS931VvNRg4tLIqzvL) | [Austin McNeill](https://open.spotify.com/artist/7mYDpUarg1iQgonYRRwpMR) | [Carolina](https://open.spotify.com/album/5PiWlfUUUYB8gMqAEZbrRC) | 2:56 |
 | 105 | [Gonna Be Alright](https://open.spotify.com/track/3Eo9aTE1gnvShpP21Vb7tu) | [Cowboy Troy](https://open.spotify.com/artist/3Rd3kr9QoBdHGjD1Hk0tkj) | [Gonna Be Alright](https://open.spotify.com/album/6jlXxGbWeMOMbSEU9TJ3K9) | 2:56 |
 
-Snapshot ID: `aHnU1AAAAAAMUEXbWMH9P/tEps7uPjo/`
+Snapshot ID: `aIMBcwAAAAB7mdRsURbGxApTSdprabxC`

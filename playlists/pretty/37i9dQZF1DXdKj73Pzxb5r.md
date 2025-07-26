@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Sourmilk
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,871 likes - 95 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,873 likes - 95 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

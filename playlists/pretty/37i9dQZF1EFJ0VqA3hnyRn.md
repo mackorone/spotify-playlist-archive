@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492 likes - 267 songs - 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 493 likes - 267 songs - 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,8 +220,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 210 | [Save My Soul](https://open.spotify.com/track/2r6DJtkGe7BumeqcEt0GKI) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 4:01 |
 | 211 | [Got No Shorty](https://open.spotify.com/track/4J9cHn7AatMiY45zpTTeif) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:21 |
 | 212 | [On & On](https://open.spotify.com/track/2QlEtOiNBjGnnLBvT7rq6N) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Emotionally Unavailable](https://open.spotify.com/album/0DU2vGl3iqTMSHHHd2l6eP) | 3:48 |
-| 213 | [Losin' It](https://open.spotify.com/track/5pWcgT7W9pJOh6viBmehTm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Losin' It](https://open.spotify.com/album/62vzwQLiTzoVPwpG6ShQxG) | 3:56 |
-| 214 | [Time Will Tell](https://open.spotify.com/track/5Wc1eKzbECfRnCIwNmPr5y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Time Will Tell](https://open.spotify.com/album/4hjnguQ5l9tn9tY0syzBmB) | 2:58 |
+| 213 | [Time Will Tell](https://open.spotify.com/track/5Wc1eKzbECfRnCIwNmPr5y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Time Will Tell](https://open.spotify.com/album/4hjnguQ5l9tn9tY0syzBmB) | 2:58 |
+| 214 | [Losin' It](https://open.spotify.com/track/5pWcgT7W9pJOh6viBmehTm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Losin' It](https://open.spotify.com/album/62vzwQLiTzoVPwpG6ShQxG) | 3:56 |
 | 215 | [Change](https://open.spotify.com/track/25wUMe5Y8edc6XHLFdHnJT) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:38 |
 | 216 | [TRAPPIN 4 A LIVIN](https://open.spotify.com/track/7IJaFyGv5V9FWsI8HBSzfH) | [Baby E](https://open.spotify.com/artist/3AhRH2q3GOnk8r1ZPHBnRM) | [TRAPPIN 4 A LIVIN](https://open.spotify.com/album/3DkRrvR3gqK3Ntq04aMcnI) | 2:55 |
 | 217 | [All Good](https://open.spotify.com/track/579ctiuYd1ZLAfM3X1UWyz) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:39 |
@@ -276,4 +276,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 266 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 267 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `Ab3qiAAAAABLMv/9u6UF13niXH/+3Vv9`
+Snapshot ID: `Ab3wAAAAAABQV3c+WMiCDy4ys9MqALwq`

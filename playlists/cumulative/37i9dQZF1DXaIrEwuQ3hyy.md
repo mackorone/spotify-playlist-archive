@@ -4,7 +4,7 @@
 
 > Klingt nach Sonne + Meer, egal wo du bist.
 
-260 songs - 14 hr 39 min
+261 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Again](https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Again](https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ) | 3:49 | 2024-04-19 |  |
 | [Airplanes](https://open.spotify.com/track/6Zp3kQqnDEd27R83EPaycz) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/3Zz9QEKwgbkjX7BKMNtimZ) | 2:37 | 2023-12-21 |  |
 | [All Again](https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Prolog I](https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v) | 4:18 | 2023-08-25 |  |
+| [All My Friends](https://open.spotify.com/track/4bDhE89Vq92CWTvwFb8zP8) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:20 | 2025-07-25 |  |
 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 | 2023-07-26 | 2023-09-16 |
 | [alle märchen sind gelogen](https://open.spotify.com/track/7qkjnUILqzn2GjkZfRcH7Z) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [alle märchen sind gelogen](https://open.spotify.com/album/6SL3jtI8KT2kgJeM46vrCD) | 2:45 | 2025-03-28 | 2025-06-18 |
 | [Always](https://open.spotify.com/track/5uHgKIUzqrpRt10p1crJma) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Always](https://open.spotify.com/album/1vBq4EJTv9SxqYJ01tCZDp) | 3:27 | 2023-07-26 | 2023-09-28 |
@@ -122,7 +123,7 @@
 | [Let Me Take You](https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Let Me Take You](https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ) | 3:09 | 2025-06-17 |  |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2024-03-01 | 2024-07-02 |
 | [letmego](https://open.spotify.com/track/5GPDuSp1iJUhzHKaLiW0Cp) | [Gina Livia](https://open.spotify.com/artist/2uLhOnddu0ZXcZ60SdZcdh), [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy) | [letmego](https://open.spotify.com/album/3GrBUgaBa8NkC5mqdXBY1A) | 3:20 | 2025-01-10 | 2025-05-23 |
-| [Like a Song](https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Like a Song](https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0) | 3:27 | 2024-11-14 |  |
+| [Like a Song](https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Like a Song](https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0) | 3:27 | 2024-11-14 | 2025-07-26 |
 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 | 2024-01-19 |  |
 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 | 2024-03-15 | 2025-03-29 |
 | [Livin Alright](https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Livin Alright](https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP) | 2:56 | 2025-04-21 |  |
@@ -207,7 +208,7 @@
 | [Song For You](https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:58 | 2023-07-26 | 2024-04-19 |
 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 | 2024-04-19 |  |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2023-07-26 | 2024-04-19 |
-| [spain](https://open.spotify.com/track/0ZVuWqJtiM8BJdqyEEta01) | [theja](https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag) | [spain](https://open.spotify.com/album/3PaV5GaBkDJ4bDVk0xI328) | 3:39 | 2024-11-14 | 2025-05-23 |
+| [spain](https://open.spotify.com/track/0ZVuWqJtiM8BJdqyEEta01) | [theja](https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag) | [spain](https://open.spotify.com/album/3PaV5GaBkDJ4bDVk0xI328) | 3:39 | 2024-11-14 |  |
 | [Stand up and Dance](https://open.spotify.com/track/5F7mbwOcTUFUmyXOWMpShx) | [Sweetlemon](https://open.spotify.com/artist/2KmjVKSwAKI5DfEaQzx76W) | [Stand up and Dance](https://open.spotify.com/album/507a77zJ1BTZZQJbVi4cbs) | 3:56 | 2024-04-19 | 2024-09-07 |
 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 | 2023-07-26 | 2024-11-10 |
 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 | 2024-02-09 | 2024-08-17 |
@@ -262,7 +263,7 @@
 | [Where Did You Go](https://open.spotify.com/track/6iliH53va0GQ9878e3S6Ca) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Where Did You Go](https://open.spotify.com/album/51yVLVMDhTmd9BMCzbgHL2) | 3:57 | 2024-04-19 | 2024-06-14 |
 | [Where the Heart Is \- Single Version](https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Where the Heart Is](https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG) | 3:37 | 2023-07-26 | 2024-02-10 |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2023-07-26 | 2024-04-19 |
-| [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-01-30 |  |
+| [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-01-30 | 2025-07-26 |
 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 | 2024-03-15 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-08-16 |  |
 | [wo bin ich](https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [wo bin ich](https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc) | 2:03 | 2024-10-07 |  |

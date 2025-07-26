@@ -1,13 +1,29 @@
 {
-  "description": "Pop music driving the current, every week.  Cover: Leigh-Anne",
-  "num_followers": 36479,
+  "description": "Pop music driving the current, every week.  Cover: 24kGoldn",
+  "num_followers": 36498,
   "original_name": "Pop Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHpJggAAAABhrPhz/7TGy4EW1sTGBKvZ",
+  "snapshot_id": "aIME3gAAAAC0AwAk6PCEAbyIIT/ff7By",
   "tracks": [
+    {
+      "added_at": "2025-07-25 04:15:26",
+      "album": {
+        "name": "Icarus",
+        "url": "https://open.spotify.com/album/6dOw1Yt8emqoiDLOulwIHq"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 155346,
+      "name": "Next Life",
+      "url": "https://open.spotify.com/track/15ioRljMDBXZUYkaZMIOgj"
+    },
     {
       "added_at": "2025-07-18 04:00:34",
       "album": {
@@ -25,6 +41,38 @@
       "url": "https://open.spotify.com/track/492y99GG1u1giNjvFC3WiR"
     },
     {
+      "added_at": "2025-07-25 04:15:26",
+      "album": {
+        "name": "Girlie-Pop!",
+        "url": "https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 123950,
+      "name": "Girlie-Pop!",
+      "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"
+    },
+    {
+      "added_at": "2025-07-25 04:15:26",
+      "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
+    },
+    {
       "added_at": "2025-07-18 04:00:34",
       "album": {
         "name": "Carat Cake",
@@ -39,6 +87,42 @@
       "duration_ms": 141646,
       "name": "Carat Cake",
       "url": "https://open.spotify.com/track/1lQUPc4TwyexiWSXDENSPb"
+    },
+    {
+      "added_at": "2025-07-25 04:15:26",
+      "album": {
+        "name": "ENOUGH.",
+        "url": "https://open.spotify.com/album/3W6u3zgrFAPb6kZ5hwMxUF"
+      },
+      "artists": [
+        {
+          "name": "SNACKTIME",
+          "url": "https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr"
+        }
+      ],
+      "duration_ms": 228808,
+      "name": "ENOUGH.",
+      "url": "https://open.spotify.com/track/5uvnq6j5kdofhXoPuuoIqF"
+    },
+    {
+      "added_at": "2025-07-25 04:15:26",
+      "album": {
+        "name": "WWP",
+        "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 177011,
+      "name": "DYNAMITE",
+      "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
     },
     {
       "added_at": "2025-07-11 04:00:18",
@@ -77,6 +161,42 @@
       "url": "https://open.spotify.com/track/24BkrXsHVZdmy7mcoRAqLk"
     },
     {
+      "added_at": "2025-07-25 04:15:26",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "added_at": "2025-07-25 04:15:26",
+      "album": {
+        "name": "Learn To Love (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/2S3BmpJnHH9YthFFyNmv3e"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 213456,
+      "name": "Learn To Love (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/5qQYndZ8HuHCbN0PZf4l3o"
+    },
+    {
       "added_at": "2025-07-11 04:00:18",
       "album": {
         "name": "Sweet Serotonin",
@@ -107,6 +227,30 @@
       "duration_ms": 170578,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1jjfb6Ne65MgkrT3jTJMLv"
+    },
+    {
+      "added_at": "2025-07-25 04:15:26",
+      "album": {
+        "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
+        "url": "https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 219968,
+      "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
+      "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
     },
     {
       "added_at": "2025-07-11 04:00:18",
@@ -707,142 +851,6 @@
       "duration_ms": 213030,
       "name": "ILYSMIH",
       "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
-    },
-    {
-      "added_at": "2025-05-27 13:22:14",
-      "album": {
-        "name": "mouse",
-        "url": "https://open.spotify.com/album/53LIIHadE5Ehu7kJzTIdCD"
-      },
-      "artists": [
-        {
-          "name": "Jewel Owusu",
-          "url": "https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "mouse",
-      "url": "https://open.spotify.com/track/1XoXWYxD64PmsnYXfEUzZ5"
-    },
-    {
-      "added_at": "2025-05-27 04:20:13",
-      "album": {
-        "name": "That\u2019s My Baby",
-        "url": "https://open.spotify.com/album/6DLGyKDjaWzC2vG4nXgDQX"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 213584,
-      "name": "That's My Baby",
-      "url": "https://open.spotify.com/track/1OvDmcFzppabpUGoXKVOhM"
-    },
-    {
-      "added_at": "2025-05-27 04:20:13",
-      "album": {
-        "name": "FROM FLORIDA'S FINEST",
-        "url": "https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "BITCHES BREW",
-      "url": "https://open.spotify.com/track/3mKMH0NA7Z3iHPmtqLyE9g"
-    },
-    {
-      "added_at": "2025-05-27 04:20:13",
-      "album": {
-        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 205270,
-      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
-      "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
-    },
-    {
-      "added_at": "2025-05-27 04:20:13",
-      "album": {
-        "name": "TaTaTa (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/1SRyHwbELEzf0SJTtF739b"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 150651,
-      "name": "TaTaTa (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2JkIrQmiFXvqYQHhnPiY5D"
-    },
-    {
-      "added_at": "2025-04-18 04:00:57",
-      "album": {
-        "name": "5ive",
-        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 189071,
-      "name": "Offa Me (feat. Victoria Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
-    },
-    {
-      "added_at": "2025-03-21 04:00:46",
-      "album": {
-        "name": "Still Bad",
-        "url": "https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 208585,
-      "name": "Still Bad",
-      "url": "https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W"
-    },
-    {
-      "added_at": "2025-04-08 16:44:12",
-      "album": {
-        "name": "Ecstasy",
-        "url": "https://open.spotify.com/album/3rSea0lGP2kHDrGt7jJGeb"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 239216,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/6gP8rtbgAweJelfHeGDCzC"
     }
   ],
   "unique_name": "Pop Frequency",

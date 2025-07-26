@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAAzrupoc1OpgH18w/fXSzEN",
+  "snapshot_id": "aIF3gAAAAACj60/jlH0L5hQbhwkZHBOn",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 229973,
-      "name": "I Always Get My Man",
-      "url": "https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking To Strangers",
         "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 234906,
       "name": "When A Woman's Had Enough",
       "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 229973,
+      "name": "I Always Get My Man",
+      "url": "https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tough Mother",
-        "url": "https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 254776,
-      "name": "Tough Mother",
-      "url": "https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking To Strangers",
         "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 210800,
       "name": "Should Have Come Home",
       "url": "https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tough Mother",
+        "url": "https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 254776,
+      "name": "Tough Mother",
+      "url": "https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "Isn't That So",
-      "url": "https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -655,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
       },
       "artists": [
         {
@@ -664,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 320560,
-      "name": "Turn The Heat Up",
-      "url": "https://open.spotify.com/track/4ifseIlgKYEk3Oyx1L30zV"
+      "duration_ms": 197920,
+      "name": "Isn't That So",
+      "url": "https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
       "duration_ms": 271313,
       "name": "Such A Pretty Flame",
       "url": "https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 320560,
+      "name": "Turn The Heat Up",
+      "url": "https://open.spotify.com/track/4ifseIlgKYEk3Oyx1L30zV"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Suspicion",
-      "url": "https://open.spotify.com/track/2nqQ4j7TSmvUELX2SvzXUl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blame It On Eve",
         "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Suspicion",
+      "url": "https://open.spotify.com/track/2nqQ4j7TSmvUELX2SvzXUl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Talking To Strangers",
         "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 279640,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/0opbokPzAGFGb950SHPzHq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 227343,
-      "name": "Give God The Blues",
-      "url": "https://open.spotify.com/track/5xUCFRjM0Z9TJt0s1ttakb"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 227343,
+      "name": "Give God The Blues",
+      "url": "https://open.spotify.com/track/5xUCFRjM0Z9TJt0s1ttakb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Talking To Strangers",
         "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 303640,
-      "name": "Steamy Windows",
-      "url": "https://open.spotify.com/track/6v9sxmWVfKN4xoNzatq9vf"
+      "duration_ms": 245173,
+      "name": "Outskirts Of Love",
+      "url": "https://open.spotify.com/track/7Kkr2utF6dANb5z8c3ztSK"
     }
   ],
   "unique_name": "This Is Shemekia Copeland",

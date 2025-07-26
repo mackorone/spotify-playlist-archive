@@ -4,7 +4,7 @@
 
 > The best new pop music from new, independent artists\.  Cover: Just For Fun\. Artwork by Paola Saliby
 
-4,125 songs - 8 day 17 hr 58 min
+4,128 songs - 8 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [\(not\) a love song](https://open.spotify.com/track/7uFFeZoWKKSBUixCDWkxmI) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [\(not\) a love song](https://open.spotify.com/album/1ScCNRdHvkfPOHDaQOIzka) | 2:53 | 2023-05-03 | 2023-07-20 |
 | [\*\*\* TOO BIG TO FAIL \*\*\*](https://open.spotify.com/track/2sEVdDz8JiHTsCMbGhRbGy) | [Ariel](https://open.spotify.com/artist/3N8mYq55TW5bjll52oIUl4) | [TOO BIG TO FAIL \(Act I\)](https://open.spotify.com/album/4zx5950oBZqxzKAGLVwvZy) | 2:57 | 2021-05-20 | 2021-06-18 |
 | [1 2 365 4 Me](https://open.spotify.com/track/6TtDPG6eFqDGooeyKYXaea) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80) | [Kennen's Cassettes](https://open.spotify.com/album/6ex0UfSwjQz35e3ksthUxW) | 2:54 | 2021-02-04 | 2021-03-06 |
+| [1\-800\-LOVECLUB](https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [1\-800\-LOVECLUB](https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83) | 3:28 | 2025-07-25 |  |
 | [1\-800\-miss\-ur\-guts](https://open.spotify.com/track/7mwt5PimLZUfWcpQr4KzfN) | [TRAMP STAMPS](https://open.spotify.com/artist/27dC1hPiY4d4MVVFyBSC9W) | [1\-800\-miss\-ur\-guts](https://open.spotify.com/album/3caAAT4CmHthRBgCNNrpsG) | 3:03 | 2021-03-11 | 2021-04-08 |
 | [1/17](https://open.spotify.com/track/5cwjNspmIDLehxMTfX2NIC) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [1/17](https://open.spotify.com/album/3WehGHIYOKvthEqIs8E8ID) | 4:12 | 2025-03-26 | 2025-06-19 |
 | [10/10](https://open.spotify.com/track/0A19MZxroYjdFfwF3xvShG) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [10/10](https://open.spotify.com/album/6XR7x0yo8BgOU5CdIUJPVX) | 2:52 | 2024-11-06 | 2024-12-05 |
@@ -1109,6 +1110,7 @@
 | [Enough](https://open.spotify.com/track/5C8Y0e4YnmWUcKwWFAHnZ6) | [Joe Avio](https://open.spotify.com/artist/3QegvPZ8QZhhJbNGaaZiXI) | [Whatever Will We Do](https://open.spotify.com/album/0OgwlrS2flxZ0hnmLKKgTh) | 3:50 | 2020-11-18 | 2020-12-08 |
 | [Enough](https://open.spotify.com/track/3wJYYJMdAAfMc2eKA4gxj6) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Enough](https://open.spotify.com/album/5qbW5namU5OjOws5zMfcKD) | 2:15 | 2020-10-22 | 2020-12-08 |
 | [Enough Of You](https://open.spotify.com/track/5tDNWaxVJc4z30zZm9OKD9) | [Anthony Ortiz](https://open.spotify.com/artist/7kiCkMJHLchcrQByu2yHDk) | [Enough of You](https://open.spotify.com/album/0erpe1onA2ORO2axFdzlW1) | 3:08 | 2022-09-14 | 2022-10-20 |
+| [ENOUGH.](https://open.spotify.com/track/5uvnq6j5kdofhXoPuuoIqF) | [SNACKTIME](https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr) | [ENOUGH.](https://open.spotify.com/album/3W6u3zgrFAPb6kZ5hwMxUF) | 3:48 | 2025-07-25 |  |
 | [Erase My Mind](https://open.spotify.com/track/5720SNCvTw7Ql4sa8a8AE6) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Hang the DJ](https://open.spotify.com/album/4lqM98HqVQpNaoCubZnQuf) | 2:54 | 2025-04-09 | 2025-05-29 |
 | [Escape](https://open.spotify.com/track/6WUjd7Rs52cnRFC8k4ERBs) | [Jess Meilman](https://open.spotify.com/artist/1kmlGybezNBp0fGM8PNBw9) | [Escape](https://open.spotify.com/album/55wZS60svlwUEN4t1yxaz7) | 2:44 | 2024-05-01 | 2024-07-04 |
 | [Eulogy](https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Eulogy](https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA) | 3:32 | 2024-04-03 | 2025-01-09 |
@@ -1772,6 +1774,7 @@
 | [I Hate Love](https://open.spotify.com/track/1lNpREl86qbYCmcf8KOxyq) | [Melody Federer](https://open.spotify.com/artist/1bPTsrS42w3Gfg2Rk5eZki) | [I Hate Love](https://open.spotify.com/album/2q5MJKuMeZ7CaJnZt0DCtx) | 3:06 | 2021-02-17 | 2021-05-20 |
 | [I Hate You](https://open.spotify.com/track/3lSX7qOBCPlUZYy7jFCWWh) | [Jack Fruit](https://open.spotify.com/artist/3PKBUs6yX8imvyQp0E8ePe) | [I Hate You](https://open.spotify.com/album/1qiWhr1OKYsBnPUK1ECE94) | 2:20 | 2021-04-01 | 2021-05-13 |
 | [I Haven't Seen You Since The Summer](https://open.spotify.com/track/3LQnvTX0E4cwig42VTbX3X) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [I Haven't Seen You Since The Summer](https://open.spotify.com/album/5adGcBqBz7d9z9mCU0ntAt) | 3:20 | 2023-06-28 | 2024-01-11 |
+| [i just want to dance](https://open.spotify.com/track/4ZBwVxikPVHDOIKp3CVqoX) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [i just want to dance](https://open.spotify.com/album/6bHBiU7eHs7ceY8lODmQpn) | 2:39 | 2025-07-25 |  |
 | [I Knew Not To \(Fall for You\)](https://open.spotify.com/track/32rxkYeHV5u1DU2i2ZKDhD) | [Halo Kitsch](https://open.spotify.com/artist/4kjYrogjc9CwlkeA6Sy9mH) | [I Knew Not To \(Fall for You\)](https://open.spotify.com/album/3FJiKVxXPa7hpXtJJmPo5u) | 3:44 | 2021-06-24 | 2021-08-20 |
 | [I Know What I Want](https://open.spotify.com/track/2QOyLOKfkSet2ez1pHdlMV) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [I Know What I Want](https://open.spotify.com/album/3ncQbttOb3C2oTDfgJ8Aea) | 2:35 | 2025-04-02 | 2025-05-22 |
 | [I Know What It Isn't](https://open.spotify.com/track/0AHmkzxAC070F548NHKAM0) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [I Know What It Isn't](https://open.spotify.com/album/0nv0PvvCZ2OrvlUWUxGaj8) | 3:03 | 2023-11-15 | 2023-11-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 
 > Theta waves: Your key to perfect sleep\. Science says so\. Try it!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,540 likes - 107 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,537 likes - 107 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 | 101 | [REM Sleep Pattern](https://open.spotify.com/track/6b2rL7l3aepJZ4ZlEjM2Rs) | [Thought Toys](https://open.spotify.com/artist/7AKojxVKGvXubSIlVIbMBG) | [Healing Sleep Music \- 101 Songs to Sleep Deeply All Through the Night, Adult and Baby Lullabies](https://open.spotify.com/album/5drFvkOMWKR7wXB4DAuBFl) | 6:16 |
 | 102 | [The Deepest Sleep](https://open.spotify.com/track/3Fo61cHvz9uQvGPzUppe2n) | [REM Sleep Inducing](https://open.spotify.com/artist/01ZfBC3GYyc7ST5g09CE6E) | [25 REM Sleep Frequencies: Delta Sleep Induction](https://open.spotify.com/album/54E6Uc3bkusuzKUpnkYJvd) | 4:14 |
 | 103 | [REM Sleep Frequencies](https://open.spotify.com/track/6TPRXLBh8iBxerSFqXRxvB) | [REM Sleep Inducing](https://open.spotify.com/artist/01ZfBC3GYyc7ST5g09CE6E) | [25 REM Sleep Frequencies: Delta Sleep Induction](https://open.spotify.com/album/54E6Uc3bkusuzKUpnkYJvd) | 5:32 |
-| 104 | [Pure Theta waves binaural beats relaxing sound atmospheres ambient music and chilling sound effects](https://open.spotify.com/track/0AiJ6kUC6VMLoLWHPSNAQU) | [Dr\. Head](https://open.spotify.com/artist/4EuUPZd7dd77wALPA6vaqm) | [Theta Waves \- Binaural Beats](https://open.spotify.com/album/2IVCkRwDrtVDVehzGDzwiN) | 10:00 |
+| 104 | [Pure Theta waves binaural beats relaxing sound atmospheres ambient music and chilling sound effects \- Binaural Beats](https://open.spotify.com/track/0AiJ6kUC6VMLoLWHPSNAQU) | [Dr\. Head](https://open.spotify.com/artist/4EuUPZd7dd77wALPA6vaqm) | [Theta Waves \- Binaural Beats](https://open.spotify.com/album/2IVCkRwDrtVDVehzGDzwiN) | 10:00 |
 | 105 | [Rem Sleep Plane Sounds to Relax \(White Noise\)](https://open.spotify.com/track/3qeudxZEPotUjwSQ9Qi2dn) | [SleepTherapy](https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv) | [Airplane, Train, Car, & Travel White Noise Sounds to Sleep, Relax, and De\-Stress](https://open.spotify.com/album/1U0Gv7OZhrqO3LzTUJZMvr) | 6:34 |
 | 106 | [7.8 Hz Drone](https://open.spotify.com/track/29dNoIQv0NwNfzsx4k5rsC) | [Brainwave Binaural Systems](https://open.spotify.com/artist/0wUzLDsBbnqu7Mqzg8fhWP) | [Superdrone Progressive Relaxation](https://open.spotify.com/album/0Pl4VLTPJRQbQj4DOd8UvU) | 1:00 |
 | 107 | [REM Sleep](https://open.spotify.com/track/4DRjPZnK5p3RvaJyVcwQfQ) | [Jardim Zen](https://open.spotify.com/artist/7chlUvSubjJ7objJy2ccCu), [Mathieu Age](https://open.spotify.com/artist/3Tpl85KNhzEMzSqoeajHY5), [Alice Greenwood](https://open.spotify.com/artist/4z0E6tp6hqbAUKz8UhoLkT) | [Fast Asleep 💤](https://open.spotify.com/album/4Q5ggnIAUrVAMNDKbirpsw) | 4:27 |

@@ -311,6 +311,22 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
+        "name": "A Complete Unknown (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
         "name": "The Last Showgirl (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 140484,
       "name": "Beautiful That Way - from The Last Showgirl Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "A Complete Unknown (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4"
-      },
-      "artists": [
-        {
-          "name": "Timoth\u00e9e Chalamet",
-          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF"
     },
     {
       "added_at": "2024-12-20 14:00:08",

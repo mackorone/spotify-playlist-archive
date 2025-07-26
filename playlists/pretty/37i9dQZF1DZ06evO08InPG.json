@@ -1,12 +1,12 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 61586,
+  "num_followers": 61598,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAADNtXf5aMsIW65TyPBC1Fq",
+  "snapshot_id": "aIF3gAAAAACwdhCApaC/+9zMAaPYR0M5",
   "tracks": [
     {
       "added_at": null,
@@ -215,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+        "name": "Cancer Culture",
+        "url": "https://open.spotify.com/album/1h4pyfLZgGi11i560BmZp0"
       },
       "artists": [
+        {
+          "name": "Decapitated",
+          "url": "https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc"
+        },
         {
           "name": "Machine Head",
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 258465,
-      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
-      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
+      "duration_ms": 289803,
+      "name": "Iconoclast",
+      "url": "https://open.spotify.com/track/2I0caLwd3Rc84Hr147WH6S"
     },
     {
       "added_at": null,
@@ -247,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cancer Culture",
-        "url": "https://open.spotify.com/album/1h4pyfLZgGi11i560BmZp0"
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
       "artists": [
-        {
-          "name": "Decapitated",
-          "url": "https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc"
-        },
         {
           "name": "Machine Head",
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 289803,
-      "name": "Iconoclast",
-      "url": "https://open.spotify.com/track/2I0caLwd3Rc84Hr147WH6S"
+      "duration_ms": 258465,
+      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
+      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 251000,
-      "name": "The Blood, the Sweat, the Tears",
-      "url": "https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV"
+      "duration_ms": 542586,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blackening",
-        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 542586,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS"
+      "duration_ms": 251000,
+      "name": "The Blood, the Sweat, the Tears",
+      "url": "https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV"
     },
     {
       "added_at": null,

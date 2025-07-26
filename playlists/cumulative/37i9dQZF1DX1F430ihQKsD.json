@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Valence",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Ariane Roy",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -210,6 +210,24 @@
       "duration_ms": 168228,
       "name": "[PNJ]",
       "url": "https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw"
+    },
+    {
+      "album": {
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/69GPPU341cZ0ZzOI6R1ape"
+      },
+      "artists": [
+        {
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160643,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/46ub00quUTby9VKlkcxtro"
     },
     {
       "album": {
@@ -698,7 +716,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 216201,
       "name": "Artificial Genuine",
       "url": "https://open.spotify.com/track/2dT9WvXLGizL5Oz4CsJLT9"
@@ -800,6 +818,24 @@
       "duration_ms": 213670,
       "name": "AT MINES",
       "url": "https://open.spotify.com/track/5JUCZa9TG7IPdyh5ZWeuZd"
+    },
+    {
+      "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/7BEY4krHDB0JNdY1157peL"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/0Zk0EvHy7k5U6iQyXwunC6"
     },
     {
       "album": {
@@ -9068,7 +9104,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 196128,
       "name": "R\u00eave le fun",
       "url": "https://open.spotify.com/track/2Vz21NV1mAx9dbIUJcUTEu"

@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Kris R., Hades66, Almighty
 
-131 songs - 7 hr 0 min
+132 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,12 +24,13 @@
 | [Bon Appétit](https://open.spotify.com/track/1QseGaBHU6q2KRPKEWEVrY) | [Reke](https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4) | [Una Sangre, Vol\. 3: Trapicheando](https://open.spotify.com/album/1ZSf5zV02X8P3Xbj9LcIm2) | 4:09 | 2021-10-15 | 2025-07-24 |
 | [Borsi](https://open.spotify.com/track/3oG3YqPb83iIkKXnz8hko6) | [Underaiki](https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo) | [Borsi](https://open.spotify.com/album/1TevNqBmHIyg9asJcAuYRX) | 1:33 | 2025-07-23 |  |
 | [Brincona](https://open.spotify.com/track/6Dq1T8lCvMStFAGkaiQ4KK) | [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg) | [Brincona](https://open.spotify.com/album/17oDuUNMqlorVDAbayQl28) | 2:56 | 2024-08-23 | 2025-07-24 |
+| [Bruz Wein](https://open.spotify.com/track/6R8x5GgwZtTfpZ4neKMzHR) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Mixteip](https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk) | 2:43 | 2025-07-25 |  |
 | [Bye](https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bye](https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI) | 2:37 | 2021-10-15 |  |
 | [Cariñitos Y Flores](https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Cariñitos Y Flores](https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd) | 2:39 | 2025-02-07 |  |
 | [Celebrando](https://open.spotify.com/track/28l5P6yBrjBMAvgFm1uiQ4) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Celebrando](https://open.spotify.com/album/3vM9T5faPuqqEbZJ0wYPN3) | 3:27 | 2021-10-15 |  |
 | [Cellphone](https://open.spotify.com/track/2pAuWlwPCIWNGtp3TrdoHT) | [Daga](https://open.spotify.com/artist/6qbdQTpYKGLSeoahWGTVPe), [Colavizza](https://open.spotify.com/artist/078mloHMPRQZhY0795u30V) | [Cellphone](https://open.spotify.com/album/03oFCkB5mzMncCPx0BJSn1) | 4:03 | 2021-10-15 | 2025-04-26 |
 | [Chamito Maraña](https://open.spotify.com/track/3a4dJXsZHfGe5cQd2WY2ir) | [Jack Russell](https://open.spotify.com/artist/1eYgSi9O2AX4sLhR06HKCz) | [Chamito Maraña](https://open.spotify.com/album/4vwrfO8tB0poe7NyjMjCp4) | 4:32 | 2021-10-15 |  |
-| [Champagne](https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Champagne](https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx) | 3:53 | 2021-10-15 |  |
+| [Champagne](https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Champagne](https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx) | 3:53 | 2021-10-15 | 2025-07-26 |
 | [Cielo Gris](https://open.spotify.com/track/2puW4HichjYC4BycWfw5Gg) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Goldo Funky](https://open.spotify.com/album/28TBy3fqYNUSp4CTzQSJJQ) | 3:17 | 2021-10-15 | 2022-04-09 |
 | [CIELO TRISTE](https://open.spotify.com/track/23cn2UTNnhgNJcfHnq4cZw) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [CIELO TRISTE](https://open.spotify.com/album/5ZB8XZmdI0N4tJkB7AvEuQ) | 2:37 | 2025-02-14 | 2025-07-24 |
 | [CODIGOS](https://open.spotify.com/track/6Xyzy69g8GP0uAaXsqGFGf) | [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2) | [CODIGOS](https://open.spotify.com/album/5RqfFRVr25qt9qAuXZXkV1) | 3:10 | 2021-10-15 | 2023-11-11 |

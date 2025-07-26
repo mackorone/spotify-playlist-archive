@@ -2,9 +2,9 @@
 
 ### [Hot Hits Ghana](https://open.spotify.com/playlist/37i9dQZF1DWSHg3zCMrBDf)
 
-> The hottest tracks in Ghana\. Cover: Black Sherif
+> The hottest tracks in Ghana\. Cover: Medikal
 
-386 songs - 19 hr 37 min
+387 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Bandana](https://open.spotify.com/track/2qWwuCVeMjF9mUT0S5Iqvl) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 2:58 | 2023-09-27 | 2023-12-08 |
 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 | 2022-07-14 | 2023-09-28 |
 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 | 2023-09-27 | 2024-05-03 |
-| [Be There Still](https://open.spotify.com/track/1FWqWaH781R6T32agyhpFQ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:15 | 2025-05-12 |  |
+| [Be There Still](https://open.spotify.com/track/1FWqWaH781R6T32agyhpFQ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:15 | 2025-05-12 | 2025-07-26 |
 | [Beautiful](https://open.spotify.com/track/4ccPHOzBCiCoBxilT5b00V) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Beautiful](https://open.spotify.com/album/3CkYnVyY3U8ALa3aBUtNST) | 3:07 | 2023-03-03 | 2023-03-25 |
 | [Behind the Scenes](https://open.spotify.com/track/26CXC5USNjWcsam70B416i) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Behind the Scenes](https://open.spotify.com/album/7aJ26nwOsFaLVBiZRjmGmV) | 4:03 | 2021-10-15 | 2023-01-17 |
 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 | 2023-05-26 | 2023-06-23 |
@@ -215,6 +215,7 @@
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-03-14 | 2025-07-18 |
 | [Makoma](https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Makoma](https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q) | 2:44 | 2024-07-19 | 2025-03-15 |
 | [Mansa Musa Money](https://open.spotify.com/track/4xGjWTkQdg7llPVSTdmF2F) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [MAALI](https://open.spotify.com/album/0or97sZavrGC1RtSGiLt6N) | 4:17 | 2023-03-30 | 2023-04-21 |
+| [Many Many Things](https://open.spotify.com/track/4uzKhhLD4m4ZgIOmUzXDBP) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Trustn God](https://open.spotify.com/album/7o3klRMAbNadUbQOIjnJlb) | 2:53 | 2025-07-25 |  |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-11-13 | 2024-07-19 |
 | [Messiah](https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Messiah](https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx) | 2:44 | 2025-01-21 |  |
 | [Midnight](https://open.spotify.com/track/43H88ZoZoU4jt9jIIjxe4b) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Midnight](https://open.spotify.com/album/4Ol9KKCihUw5uV7PTtStO9) | 2:10 | 2022-10-13 | 2023-09-28 |

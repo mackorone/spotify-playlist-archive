@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1624653,
+  "num_followers": 1624757,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAB9PQWRcTpoMNB2T8cgTaLh",
+  "snapshot_id": "aIF3gAAAAAB23b1+datuWF8sPVUbMl6N",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         },
         {
-          "name": "Kacy Hill",
-          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 339066,
-      "name": "90210 (feat. Kacy Hill)",
-      "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP"
+      "duration_ms": 229573,
+      "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
+      "url": "https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"
     },
     {
       "added_at": null,
@@ -395,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Kacy Hill",
+          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
+        }
+      ],
+      "duration_ms": 339066,
+      "name": "90210 (feat. Kacy Hill)",
+      "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Birds In The Trap Sing McKnight",
         "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
       },
@@ -427,30 +451,6 @@
       "duration_ms": 180666,
       "name": "Stuff (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6JvIjI8H3yxpigROd3Cv9N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
-      "url": "https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 169906,
+      "name": "TOP FLOOR (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4YhJ3a6kBPGJWX4Ek77sDd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 223173,
       "name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
       "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WUNNA",
-        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 169906,
-      "name": "TOP FLOOR (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4YhJ3a6kBPGJWX4Ek77sDd"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari Geisha,  MALIQ & D'Essentials, Sam Smith, Daniel Ceasar dan masih banyak lagi dari dalam dan mancanegara
 
-27,766 songs - 65 day 21 hr 34 min
+27,767 songs - 65 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4547,7 +4547,7 @@
 | [Cinta Segitiga](https://open.spotify.com/track/7qrfjZGUGyguzpgpOvoGLs) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom), [Misellia](https://open.spotify.com/artist/5IjwAAk3njAeiFY1InInsn) | [Cinta Segitiga](https://open.spotify.com/album/5WJ1E2T7SO7huQwUVnVlKJ) | 3:56 | 2020-10-16 | 2020-10-23 |
 | [Cinta Segitiga](https://open.spotify.com/track/3UzHRTB4tPdqLVh6pNSr9b) | [Mytha Lestari](https://open.spotify.com/artist/4qb81y9DFygggMTArjhQMn) | [Cinta Segitiga](https://open.spotify.com/album/7qITGsKG8K5ZkbGI7q1MZm) | 4:29 | 2022-09-29 | 2022-10-07 |
 | [Cinta Sejati](https://open.spotify.com/track/5Hr4r6S8DND2ef1BsUqsEU) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Cinta Sejati](https://open.spotify.com/album/0oc1EyhEHfUj79vJgxVDZu) | 3:43 | 2023-06-29 | 2023-07-07 |
-| [Cinta Sejati Takkan Mati](https://open.spotify.com/track/7dpp297nSdsTnLLKzyHzvz) | [Agus Subiyanto](https://open.spotify.com/artist/72dNzUqlWyBypqSlrDt4lR), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Cinta Sejati Takkan Mati](https://open.spotify.com/album/7KvyQagqJlR7mcagxOYHQy) | 4:35 | 2025-07-24 |  |
+| [Cinta Sejati Takkan Mati](https://open.spotify.com/track/7dpp297nSdsTnLLKzyHzvz) | [Agus Subiyanto](https://open.spotify.com/artist/72dNzUqlWyBypqSlrDt4lR), [Pasha](https://open.spotify.com/artist/0UO2FX8p9mbsDj1Q8fSIhv) | [Cinta Sejati Takkan Mati](https://open.spotify.com/album/7KvyQagqJlR7mcagxOYHQy) | 4:35 | 2025-07-24 |  |
 | [Cinta Selamanya](https://open.spotify.com/track/2hnnuDwJrAXPlJHjsz7Hbh) | [Ahmad Rifqi](https://open.spotify.com/artist/6qtbf5A1bnHy10GRwzWdc4) | [Cinta Selamanya](https://open.spotify.com/album/1APzC8YdDOhDdgzm0Joczt) | 3:41 | 2023-06-08 | 2023-06-16 |
 | [Cinta Selesai](https://open.spotify.com/track/6ypValAzwxFFuid9XZOp6y) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Cinta Selesai](https://open.spotify.com/album/1kUGfq9KDPOQkdUL1fuCU2) | 3:11 | 2020-12-04 | 2020-12-11 |
 | [Cinta Sendiri](https://open.spotify.com/track/4MzRLgq8pU3R3UUMK9QWcV) | [Cindy Gulla](https://open.spotify.com/artist/7o77JOGgAtqzaT4dXZcFrz) | [Cinta Sendiri](https://open.spotify.com/album/4w4OOdX85k6LGDatTirxUL) | 3:09 | 2022-06-02 | 2022-06-10 |
@@ -26828,6 +26828,7 @@
 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 | 2022-09-29 | 2022-10-07 |
 | [WOMAN](https://open.spotify.com/track/63yD1pa1Ux5Ug4tIi6ygdv) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [WOMAN](https://open.spotify.com/album/7eS3314VnVZQ3ZMNFCjZ92) | 2:44 | 2021-01-15 | 2021-01-23 |
 | [Woman](https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Woman](https://open.spotify.com/album/5xLroFHEvbfDUBqsiYgk5Z) | 4:29 | 2021-05-07 | 2021-05-14 |
+| [Woman’s Work](https://open.spotify.com/track/3QHdjJq3AyzK0mDqY0lxXJ) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Pleasure](https://open.spotify.com/album/0LbR39fJOYWdaJ7sHfcYtF) | 2:13 | 2025-07-24 |  |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-11 | 2024-07-19 |
 | [Women King](https://open.spotify.com/track/0lp7VYz0UZ0iVXeLRAaXxP) | [Yacko](https://open.spotify.com/artist/0UzB5HoYpXb7PtfrggXQqo) | [Women King](https://open.spotify.com/album/73z4B4WhRO323TjiXGU3Lt) | 2:51 | 2023-04-20 | 2023-04-28 |
 | [Won't Forget This Time ft\. John Martin](https://open.spotify.com/track/5q8Z8P353nbfsiXz4Jdho9) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Won't Forget This Time ft\. John Martin](https://open.spotify.com/album/1WzD4wAhcuqIFBMZSDVoH9) | 3:21 | 2023-08-03 | 2023-08-11 |

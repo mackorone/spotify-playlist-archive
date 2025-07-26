@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-327 songs - 16 hr 55 min
+328 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Make the Night a Little Longer](https://open.spotify.com/track/11XXkGv4pof3CTz6c3dmMx) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Baby It's You](https://open.spotify.com/album/1uCxbnVYLbYGToExqSqWw9) | 2:29 | 2023-12-30 |  |
 | [Mexican Divorce \- Single Version](https://open.spotify.com/track/11riJrU1R8Mx2okH11JRxd) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:35 | 2023-12-30 |  |
 | [Michael](https://open.spotify.com/track/5zDVmuTRgRBD1N0uYwTVQn) | [The Highwaymen](https://open.spotify.com/artist/42zQWH4QjEPz9xO4tJpgjZ) | [The Highwaymen](https://open.spotify.com/album/6ryogWsABhSoIfcWUIjPql) | 2:46 | 2023-12-30 | 2024-05-27 |
-| [Morning Sun](https://open.spotify.com/track/2uddedLRPsf3pdOvCtP4A6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 4:32 | 2023-12-30 |  |
+| [Morning Sun](https://open.spotify.com/track/2uddedLRPsf3pdOvCtP4A6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 4:32 | 2023-12-30 | 2025-07-26 |
+| [Morning Sun \- Mono](https://open.spotify.com/track/6bJ9jvOZJjMhy7Gv3MyKbN) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Come And Stay With Me: The UK 45s 1964\-1969](https://open.spotify.com/album/3poqeypm6c69muWwccyoz8) | 3:06 | 2025-07-25 |  |
 | [Move Lightly](https://open.spotify.com/track/28i8a4TY5EQbUWb8BwuR2a) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:57 | 2023-12-30 |  |
 | [Music](https://open.spotify.com/track/63dTQ8K3mJKJWUZi5sMNRV) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 3:49 | 2023-12-30 |  |
 | [My Blue Angel](https://open.spotify.com/track/7IaFyzPiM5uFavBxeOSNPo) | [Ray Peterson](https://open.spotify.com/artist/7BDI9Iqt24gl4RGdS6hWs9) | [Corrina, Corrina....It's Ray Peterson!](https://open.spotify.com/album/09KPR0Dh49C0a6MjYJYf8h) | 2:54 | 2023-12-30 |  |

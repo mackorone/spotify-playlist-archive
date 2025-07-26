@@ -1,6 +1,6 @@
 {
   "description": "\u00a1De vuelta a los 2000s con los mejores \u00e9xitos! Paulina Rubio & David Bisbal en portada.",
-  "num_followers": 117486,
+  "num_followers": 117849,
   "original_name": "Fiesta 2000era",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-06-07 16:24:56",
       "album": {
+        "name": "El Templo del Pop",
+        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "Don",
+      "url": "https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E"
+    },
+    {
+      "added_at": "2024-06-07 16:24:56",
+      "album": {
         "name": "Valio La Pena",
         "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 300160,
       "name": "Tu Amor Me Hace Bien - Salsa Version",
       "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
-    },
-    {
-      "added_at": "2024-06-07 16:24:56",
-      "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2024-06-07 16:24:56",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-06-07 16:24:56",
       "album": {
-        "name": "El Templo del Pop",
-        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
       "artists": [
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 183973,
-      "name": "Don",
-      "url": "https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E"
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2024-06-07 16:24:56",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-06-07 16:24:56",
       "album": {
-        "name": "Pa'l Mundo",
-        "url": "https://open.spotify.com/album/3TheioK614VC2aRMhfKS6h"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/0mHrQV5Tu8cjioNpNGG7N1"
-    },
-    {
-      "added_at": "2024-06-07 16:24:56",
-      "album": {
         "name": "Motel",
         "url": "https://open.spotify.com/album/71G82kgmI0r6RipUwPzgZp"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 220773,
       "name": "Dime Ven",
       "url": "https://open.spotify.com/track/1kcGgL73ptM5SwurvMZplk"
+    },
+    {
+      "added_at": "2024-06-07 16:24:56",
+      "album": {
+        "name": "Pa'l Mundo",
+        "url": "https://open.spotify.com/album/3TheioK614VC2aRMhfKS6h"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 172680,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/0mHrQV5Tu8cjioNpNGG7N1"
     },
     {
       "added_at": "2024-06-07 16:24:56",

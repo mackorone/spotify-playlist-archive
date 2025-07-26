@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "De la Calle a la Cima con Myke Towers.",
+  "description": "De la Calle a la Cima con Natanael Cano.",
   "name": "MANSI\u00d3N REGGAET\u00d3N",
   "tracks": [
     {
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 212413,
       "name": "BANDIDA",
       "url": "https://open.spotify.com/track/1vvWri6BpgA6Pqz6JixNFa"
@@ -4577,6 +4577,24 @@
     },
     {
       "album": {
+        "name": "Love And Sex",
+        "url": "https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203973,
+      "name": "Fronteo",
+      "url": "https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st"
+    },
+    {
+      "album": {
         "name": "Fuego Forestal",
         "url": "https://open.spotify.com/album/3RIn81bgJPiH4XmMlDUm0Q"
       },
@@ -7630,6 +7648,28 @@
       "duration_ms": 146250,
       "name": "MUJER FINA",
       "url": "https://open.spotify.com/track/3yLoXi85lSf04T3hL1EJI4"
+    },
+    {
+      "album": {
+        "name": "MU\u00d1ECOTA",
+        "url": "https://open.spotify.com/album/4anQADYMI44HzlZM98d7r2"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "MU\u00d1ECOTA",
+      "url": "https://open.spotify.com/track/0TQAhtR3faikBDjzFyis4f"
     },
     {
       "album": {
@@ -11418,7 +11458,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 321600,
       "name": "Te Colaboro - Remix",
       "url": "https://open.spotify.com/track/2KZE9HGmohrETJEFb2K5Ek"

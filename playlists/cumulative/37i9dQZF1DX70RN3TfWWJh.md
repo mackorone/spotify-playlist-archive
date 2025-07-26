@@ -4,7 +4,7 @@
 
 > Pop hits to keep your workout fresh
 
-603 songs - 1 day 6 hr 35 min
+604 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,7 +571,7 @@
 | [Wait No More](https://open.spotify.com/track/6JeHBrY4VPxckc2bQQVY0T) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Wait No More](https://open.spotify.com/album/0iNBhGKXc162Mpn2eaBnD7) | 2:44 | 2022-03-25 | 2022-04-20 |
 | [Walk Me Home](https://open.spotify.com/track/2N9bw4i7YitdN2LDDhMmpe) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) | 2:57 | 2022-03-25 | 2022-04-21 |
 | [Wasted](https://open.spotify.com/track/5Q2lulGI9ZQbwf18skmtqw) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [WAV3POP](https://open.spotify.com/artist/4xdLHkMBGSEsQq2VVftnWa) | [Wasted](https://open.spotify.com/album/3dg8q2ZoNMzTXVigUqkZql) | 3:03 | 2022-02-04 | 2022-07-28 |
-| [Water](https://open.spotify.com/track/0wYwXrgGrrU1idueX5A1wJ) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:20 | 2024-04-12 |  |
+| [Water](https://open.spotify.com/track/0wYwXrgGrrU1idueX5A1wJ) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:20 | 2024-04-12 | 2025-07-26 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-10-17 | 2024-04-13 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-03-08 |  |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-03-22 | 2024-04-13 |
@@ -599,6 +599,7 @@
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2021-12-17 | 2024-01-20 |
 | [You \(with Marshmello & Vance Joy\)](https://open.spotify.com/track/1GkHyypTFkUf0QQKwYoXH4) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [You \(with Marshmello & Vance Joy\)](https://open.spotify.com/album/3U75bXq9LhqZoaGoBCXikn) | 2:49 | 2021-12-17 | 2022-04-20 |
 | [you broke me first \- Luca Schreiner Remix](https://open.spotify.com/track/0kTIH2zbc1jvIHoCOCoNnr) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [you broke me first \(Luca Schreiner Remix\)](https://open.spotify.com/album/5QYeXQ4AewfkmtDBlsxDtA) | 3:12 | 2021-12-17 | 2022-04-22 |
+| [You Can't Stop This](https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:41 | 2025-07-25 |  |
 | [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 | 2021-12-17 | 2023-03-16 |
 | [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 | 2024-10-07 | 2025-01-11 |
 | [You Need To Calm Down](https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:51 | 2022-03-25 | 2023-03-11 |

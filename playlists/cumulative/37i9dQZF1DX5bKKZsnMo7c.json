@@ -155,6 +155,24 @@
     },
     {
       "album": {
+        "name": "A Can Of Worms",
+        "url": "https://open.spotify.com/album/0yfBTLhr4uZtrQccVhVEGg"
+      },
+      "artists": [
+        {
+          "name": "Madilyn Mei",
+          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "A Can Of Worms",
+      "url": "https://open.spotify.com/track/26SjJ9wLMF5fzvJQark2M5"
+    },
+    {
+      "album": {
         "name": "A TV Show Called Earth",
         "url": "https://open.spotify.com/album/6ISLeFSTZIVxxKrPY3DGq7"
       },
@@ -2362,7 +2380,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 202240,
       "name": "EDEN",
       "url": "https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd"
@@ -5625,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/2lqelyZsVx9zEPCad5dFln"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238913,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/1N1Phz8aYhJFGTFlHOX3Db"
+    },
+    {
+      "album": {
         "name": "Nobody Like U (From \"Turning Red\")",
         "url": "https://open.spotify.com/album/7uk4poI15EMWdMrMLnCIL2"
       },
@@ -6612,7 +6648,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 242017,
       "name": "Say No to This",
       "url": "https://open.spotify.com/track/3s9itRgJYcKhem01P17865"
@@ -7574,7 +7610,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 201938,
       "name": "The Challenge",
       "url": "https://open.spotify.com/track/2MfEPa673rIPzBUdwfqd0P"
@@ -8972,6 +9008,28 @@
       "duration_ms": 186020,
       "name": "You Killed The Music",
       "url": "https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy"
+    },
+    {
+      "album": {
+        "name": "You Will Be Okay",
+        "url": "https://open.spotify.com/album/45llw4hD8YVsJCxPsRqkV7"
+      },
+      "artists": [
+        {
+          "name": "Helluva Boss",
+          "url": "https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7"
+        },
+        {
+          "name": "Bryce Pinkham",
+          "url": "https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122223,
+      "name": "You Will Be Okay",
+      "url": "https://open.spotify.com/track/4SMfF40pPXUfLWfYEbjcFm"
     },
     {
       "album": {

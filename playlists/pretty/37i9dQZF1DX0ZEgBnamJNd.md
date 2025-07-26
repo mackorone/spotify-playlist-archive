@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 
 > Allerbeste songs uit de 60's\. Cover: Shocking Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,636 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,644 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 |
-| 2 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
-| 3 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 |
+| 2 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 |
+| 3 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 4 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 |
 | 5 | [Can't Take My Eyes off You](https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 3:23 |
 | 6 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 92 | [Lucy Lucy](https://open.spotify.com/track/1GxuFdqy4sypkNXMisSt6A) | [Amsterdam](https://open.spotify.com/artist/6TTSJIGLyzAX89uosF0Y6C) | [Golden Years Of Dutch Pop Music \- The Seventies Part 1](https://open.spotify.com/album/42oyZSne2OweDvqc6FbbXA) | 3:02 |
 | 93 | [Meester Prikkebeen \- Live In Paradiso](https://open.spotify.com/track/0uObHr02DToIyUOFtJ0xZF) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Een Hele Tour \(Live 1669\-1997\)](https://open.spotify.com/album/5OBrTvVskylOXnZfCdLQsI) | 4:02 |
 | 94 | [World Of Birds](https://open.spotify.com/track/79BmVIS5V8haqoLTZhufXO) | [Q65](https://open.spotify.com/artist/2gaNCDWEC4FeANd9uJKelZ) | [Revolution](https://open.spotify.com/album/5NFeMu0ww7GFLk1qGWM3NJ) | 3:28 |
-| 95 | [Hi Ho Silver Lining \- First Stereo Mix](https://open.spotify.com/track/5l4N58q1RuZlvz6rzhsnmT) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [60s Icons](https://open.spotify.com/album/0Pnr1Qcf2SzEcFz6RnFYMC) | 3:18 |
-| 96 | [If You Leave Me](https://open.spotify.com/track/7ctxraleUGNB0HdFCWoK5d) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/55BmSET4xNWy6V60sQ3Y4Y) | 2:15 |
+| 95 | [If You Leave Me](https://open.spotify.com/track/7ctxraleUGNB0HdFCWoK5d) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/55BmSET4xNWy6V60sQ3Y4Y) | 2:15 |
+| 96 | [Hi Ho Silver Lining \- First Stereo Mix](https://open.spotify.com/track/5l4N58q1RuZlvz6rzhsnmT) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [60s Icons](https://open.spotify.com/album/0Pnr1Qcf2SzEcFz6RnFYMC) | 3:18 |
 | 97 | [Keep On Trying](https://open.spotify.com/track/6VSXC6SvYdypAhGbjAADZa) | [The Outsiders](https://open.spotify.com/artist/0GNQIRU9f9Zf2aQqErkDYu) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/0yU3RDsvuuY2rtfmKUxDR8) | 2:58 |
 | 98 | [Back Home](https://open.spotify.com/track/1G0cjvfO783vTJbxs9U3h4) | [Cuby & The Blizzards](https://open.spotify.com/artist/1cxNemZ9o1ObvAbgq4WzvQ) | [Cuby \- Collected](https://open.spotify.com/album/1FX0zx769ckZgOnVssCY7W) | 4:34 |
 | 99 | [Golden Earrings](https://open.spotify.com/track/6Y2fPMHkSeMT3a7ojGIBE6) | [Frans Krassenburg](https://open.spotify.com/artist/29iQXirYC9nAv1M7ZOqcmb) | [Golden Years Of Dutch Pop Music \- The Sixties Part 2](https://open.spotify.com/album/6YX9hisdPCAHXQmF8vh0UW) | 1:59 |

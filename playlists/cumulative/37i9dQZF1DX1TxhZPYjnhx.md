@@ -4,7 +4,7 @@
 
 > Discover new favorites or tomorrow's hits today\. Cover: sombr
 
-835 songs - 1 day 20 hr 6 min
+836 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,6 +824,7 @@
 | [Will You Always Love Her?](https://open.spotify.com/track/6XImm5LCReikM3lxONc4AB) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Will You Always Love Her?](https://open.spotify.com/album/67KWEyvj2a6aM3FPn4KZh8) | 3:05 | 2025-03-20 | 2025-05-10 |
 | [without you](https://open.spotify.com/track/2OLV8r3uk30q6taFSWy6xE) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [without you](https://open.spotify.com/album/0Z4zqTEb5LG1fzEGRI7HMS) | 3:26 | 2024-08-07 | 2024-09-12 |
 | [Without You \(with HAYLA\)](https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Without You \(with HAYLA\)](https://open.spotify.com/album/41OLKYtwOINYu55eAMBdhk) | 4:23 | 2024-06-26 | 2024-07-18 |
+| [Woman’s Work](https://open.spotify.com/track/3QHdjJq3AyzK0mDqY0lxXJ) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Pleasure](https://open.spotify.com/album/0LbR39fJOYWdaJ7sHfcYtF) | 2:13 | 2025-07-24 |  |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-17 | 2024-09-12 |
 | [Worst Of Me](https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Worst Of Me](https://open.spotify.com/album/4W9y8UUM7suAX2a8eYIWsb) | 3:27 | 2025-04-10 | 2025-05-30 |
 | [X's](https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [X's](https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I) | 3:03 | 2024-07-17 | 2024-08-22 |

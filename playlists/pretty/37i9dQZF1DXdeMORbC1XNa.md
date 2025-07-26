@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,260 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,265 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 27 | [YAYO](https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:30 |
 | 28 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 |
 | 29 | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET) | 3:26 |
-| 30 | [Bundle By Bundle](https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Bundle By Bundle](https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK) | 2:56 |
-| 31 | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx) | 2:49 |
-| 32 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |
-| 33 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 |
+| 30 | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Choppa \(with Lil Baby & Rvssian\)](https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx) | 2:49 |
+| 31 | [Bundle By Bundle](https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Bundle By Bundle](https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK) | 2:56 |
+| 32 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 |
+| 33 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |
 | 34 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 |
 | 35 | [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 |
 | 36 | [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 |

@@ -4,7 +4,7 @@
 
 > sombr e tutte le migliori nuove uscite 🇮🇹 e 🌎!
 
-1,801 songs - 3 day 19 hr 55 min
+1,802 songs - 3 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1502,6 +1502,7 @@
 | [Succo d'ananas](https://open.spotify.com/track/0jo0BEkNflmZBNyHZ4J5tV) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Scarabocchi](https://open.spotify.com/album/4mVj0l7BupieXgxrXzTJ72) | 2:45 | 2025-04-10 | 2025-05-09 |
 | [SUELTA \(feat\. Omar Courtz\)](https://open.spotify.com/track/4bMvbL9C59KX4198rAxBEP) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LYKE MIIKE \(DELUXE\)](https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj) | 3:25 | 2025-02-07 | 2025-02-28 |
 | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/track/0dC9OuZL5Qh70N37wtwGHJ) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/album/1QTFFa1qM6luiHOk5ey5ue) | 3:04 | 2025-07-10 |  |
+| [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 | 2025-07-24 |  |
 | [Sugar Water Cyanide](https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Sugar Water Cyanide](https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm) | 2:54 | 2024-12-05 | 2025-01-10 |
 | [Sul più bello](https://open.spotify.com/track/0LPXTnvvNYBa3sIjdCytcz) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Sul più bello](https://open.spotify.com/album/3yo8OZxRy2L9CMyzCK8jmx) | 2:56 | 2024-07-18 | 2024-08-30 |
 | [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 | 2024-06-27 | 2024-07-19 |

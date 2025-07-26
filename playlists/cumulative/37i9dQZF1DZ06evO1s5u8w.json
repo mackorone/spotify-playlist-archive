@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "More Songs About Buildings And Food (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcBZh5ae9ycAtIV2Kh6Ho"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214669,
+      "name": "With Our Love (Alternate Version) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/7a7F0S02btsa6EieDhE9ug"
+    },
+    {
+      "album": {
         "name": "With Our Love (Alternate Version) [2025 Remaster]",
         "url": "https://open.spotify.com/album/5O5IRcKyojuWyLdSnEeZM4"
       },
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 214669,
       "name": "With Our Love (Alternate Version) - 2025 Remaster",
       "url": "https://open.spotify.com/track/7cn8t9GtqgpMJp14YAbERF"

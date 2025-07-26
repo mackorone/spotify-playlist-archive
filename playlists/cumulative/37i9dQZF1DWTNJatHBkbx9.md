@@ -4,7 +4,7 @@
 
 > From the alternative scene in Ghana\. Cover:Amaarae
 
-213 songs - 10 hr 33 min
+214 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Catch Me If U Can](https://open.spotify.com/track/2qVE04XUbgnn76GmUnz3Ix) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Catch Me If U Can](https://open.spotify.com/album/5GyQ7PbAdXKUOpMdd8bCBo) | 3:22 | 2025-07-04 |  |
 | [Childish Things](https://open.spotify.com/track/24LP0o1fyKcGphTmVAM1BX) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Childish Things](https://open.spotify.com/album/2Erd5FwOxshePLM7FbWujK) | 3:01 | 2024-07-12 |  |
 | [Children With Adult Problems](https://open.spotify.com/track/3rWSgIDcqcNEicqOc5WSNu) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Children Of The Sun \(Deluxe\)](https://open.spotify.com/album/5JOXrkfzFRN0y2sKoj3nPt) | 3:31 | 2024-05-10 | 2025-03-15 |
+| [COCOA BUTTER](https://open.spotify.com/track/6gcoMei7aEuvdVEN1TolOG) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [COCOA BUTTER](https://open.spotify.com/album/4Ym4oaMx8JVvrJVSU3lqQ6) | 2:42 | 2025-07-25 |  |
 | [Come Follow Me](https://open.spotify.com/track/56T8loOtxEaHfa6R6zkDO3) | [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH) | [Come Follow Me](https://open.spotify.com/album/4f3SmSUYbf384SthvKjjFf) | 5:42 | 2024-10-18 | 2025-01-18 |
 | [Comforter](https://open.spotify.com/track/55IEHJw75OMJpNIXQ9iiZe) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Kpanlogo](https://open.spotify.com/album/0u2Xpx6AJj4hSzPig3msZ7) | 3:37 | 2024-05-10 | 2024-11-23 |
 | [Connection](https://open.spotify.com/track/6WyvDxBdfoB4wNao2xLzcB) | [Jéermain](https://open.spotify.com/artist/6hLlNvIyGrv9VfHGJ6dJ08) | [Connection](https://open.spotify.com/album/1kpUWOZxlqylkCJZDRvro7) | 3:13 | 2024-05-10 | 2024-09-28 |
@@ -51,7 +52,7 @@
 | [DANCEFLOOR](https://open.spotify.com/track/29FTDiYTOyBuquMvjIpV61) | [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p) | [DANCEFLOOR](https://open.spotify.com/album/71tc1E3f355OauTwFs8AEK) | 2:40 | 2025-07-11 |  |
 | [Den Ntia](https://open.spotify.com/track/5BY8AEIgzfBrz8kF5617Et) | [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Odo Awaamu](https://open.spotify.com/album/4WaNXQQ2WOLMVtfkE7r7HM) | 2:28 | 2024-09-13 | 2024-11-08 |
 | [Dey Your Body](https://open.spotify.com/track/1el5WbAYDx8J7WDRuREUJn) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [Dey Your Body](https://open.spotify.com/album/6FO4InYtI5NJS7GWW9Ymke) | 3:18 | 2025-04-04 |  |
-| [Diamond in the Rough](https://open.spotify.com/track/1PDyQiivbuOGGTxwf6XL3G) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Diamond in the Rough](https://open.spotify.com/album/637gi1okCYO996xTyNDsMP) | 1:51 | 2025-06-20 |  |
+| [Diamond in the Rough](https://open.spotify.com/track/1PDyQiivbuOGGTxwf6XL3G) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Diamond in the Rough](https://open.spotify.com/album/637gi1okCYO996xTyNDsMP) | 1:51 | 2025-06-20 | 2025-07-26 |
 | [DiH](https://open.spotify.com/track/0jqTpSEBeasDrkNykprjwY) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [DiH](https://open.spotify.com/album/4GdkgZNWIKgGqOihh5r3TY) | 2:55 | 2025-02-14 | 2025-03-29 |
 | [Disco Died For You](https://open.spotify.com/track/4so4VxaOKJntIuVanu2Rg6) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS) | [Dance on the Moon](https://open.spotify.com/album/1fDHNMngJx3ckf30bkr5Wx) | 2:14 | 2024-07-12 | 2024-07-27 |
 | [Divine Feminine](https://open.spotify.com/track/1L07DzSHZutfFs0ikZZavO) | [Spc.GH.st](https://open.spotify.com/artist/4EpGPJu4qMimlNUcWbd58q), [Kaus D'Greatest](https://open.spotify.com/artist/49Hs1WEehcdagW17vQh2Y9) | [Divine Feminine](https://open.spotify.com/album/4pHKjFWDO0WQWF9mOeBISm) | 3:11 | 2024-05-10 | 2024-07-12 |

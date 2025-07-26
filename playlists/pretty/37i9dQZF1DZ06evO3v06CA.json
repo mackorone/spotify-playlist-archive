@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 202395,
+  "num_followers": 202408,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABbtBuy5IHtdSPrifIZnHJR",
+  "snapshot_id": "aIF3gAAAAADHpY3g3diF7oA3NxyA4VmU",
   "tracks": [
     {
       "added_at": null,
@@ -1127,6 +1127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 173001,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yesterday's Wine",
         "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 157053,
       "name": "Shotgun Willie",
       "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 173001,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
     },
     {
       "added_at": null,

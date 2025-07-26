@@ -7786,7 +7786,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 284906,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
@@ -15934,7 +15934,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 196837,
       "name": "Iha miten vaa",
       "url": "https://open.spotify.com/track/5CbkZJipjT198pDW8v3k2u"
@@ -16214,7 +16214,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 195197,
       "name": "ikilapsi",
       "url": "https://open.spotify.com/track/4Ip1CSS61Oh3EUpDWRvpB8"
@@ -34194,10 +34194,28 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 167720,
       "name": "Paranoid - 2009 Remaster",
       "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
+    },
+    {
+      "album": {
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168405,
+      "name": "Paranoid - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
     },
     {
       "album": {
@@ -52074,7 +52092,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 207080,
       "name": "Yks mun ongelmist (feat. Jore & Zpoppa)",
       "url": "https://open.spotify.com/track/7FsF80Hta5P4bSZ3HL6KRr"

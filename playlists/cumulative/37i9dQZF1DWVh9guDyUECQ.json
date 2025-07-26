@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Cardec Drums",
+  "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Manny Montes, Jinys & Guerrero De Cristo",
   "name": "Flow Cristiano",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 148181,
       "name": "01 FUEGO",
       "url": "https://open.spotify.com/track/0XVMNKaQZOpMfvBja8MGjM"
@@ -206,7 +206,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 126285,
       "name": "A Fuego",
       "url": "https://open.spotify.com/track/5bNxbCj2ieNLHlu66XpOHg"
@@ -368,7 +368,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 218733,
       "name": "Afrobocelli",
       "url": "https://open.spotify.com/track/3LEBmIOGQutE3mrGob7Ud3"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 208791,
       "name": "ALGORITMO",
       "url": "https://open.spotify.com/track/76XrMB2iE4Mgrixsb6JhGk"
@@ -787,6 +787,32 @@
     },
     {
       "album": {
+        "name": "Averly Morillo: \u00bfQuien Podr\u00e1? (Drill Remix)",
+        "url": "https://open.spotify.com/album/1yc7uLhaIgnvMwk9zoC9OI"
+      },
+      "artists": [
+        {
+          "name": "R13 Prod",
+          "url": "https://open.spotify.com/artist/363dPokVhObCLusnU9bKH8"
+        },
+        {
+          "name": "Averly Morillo",
+          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
+        },
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177360,
+      "name": "Averly Morillo: \u00bfQui\u00e9n Podr\u00e1? - Drill Remix",
+      "url": "https://open.spotify.com/track/7D6Yp0nSJpISjf7DVxhjtX"
+    },
+    {
+      "album": {
         "name": "Ayer",
         "url": "https://open.spotify.com/album/4U3siBpeHPq0ubWdSzSLOY"
       },
@@ -816,7 +842,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 196500,
       "name": "Ay\u00fadame Se\u00f1or",
       "url": "https://open.spotify.com/track/2GOrSH7HQJqyR01SIMsypf"
@@ -926,6 +952,28 @@
       "duration_ms": 161965,
       "name": "BEST NIGHT",
       "url": "https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j"
+    },
+    {
+      "album": {
+        "name": "BIG GOD",
+        "url": "https://open.spotify.com/album/4A1YXRtCDqZ3ZXrfmdnewk"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144661,
+      "name": "BIG GOD",
+      "url": "https://open.spotify.com/track/7vVvgh7OtySZqsFvDio9nW"
     },
     {
       "album": {
@@ -1187,6 +1235,42 @@
     },
     {
       "album": {
+        "name": "Click",
+        "url": "https://open.spotify.com/album/34MDWGvnyJr9551ibJDXVG"
+      },
+      "artists": [
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Click",
+      "url": "https://open.spotify.com/track/57stDZniQBmdzdAfpJ3eRo"
+    },
+    {
+      "album": {
+        "name": "Clutch",
+        "url": "https://open.spotify.com/album/1fEvT8OQmew6frgOWJF7jR"
+      },
+      "artists": [
+        {
+          "name": "Micky Medina",
+          "url": "https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/1AKjplLFqJOpaTBKVwFUB4"
+    },
+    {
+      "album": {
         "name": "Coherente",
         "url": "https://open.spotify.com/album/54kl14A4bgyz7Mzga9GZ1l"
       },
@@ -1318,6 +1402,24 @@
       "duration_ms": 341176,
       "name": "Como Siempre",
       "url": "https://open.spotify.com/track/7GJFGUpd6V1LkTrm9hgavK"
+    },
+    {
+      "album": {
+        "name": "COMO SPYRO",
+        "url": "https://open.spotify.com/album/6tKBQ99dbc03aVEOs2uOz5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "COMO SPYRO",
+      "url": "https://open.spotify.com/track/5DVchKlP8XAUqDrDvN3gZi"
     },
     {
       "album": {
@@ -1732,7 +1834,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 208421,
       "name": "DEM\u00c1S",
       "url": "https://open.spotify.com/track/5LGeMrJhcV2wGoENa0vdGP"
@@ -1776,7 +1878,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 173361,
       "name": "DESTINO",
       "url": "https://open.spotify.com/track/6ADJgydyQOgvgELPsmydQA"
@@ -2114,6 +2216,28 @@
       "duration_ms": 279759,
       "name": "El Cielo Llor\u00f3",
       "url": "https://open.spotify.com/track/12ptkCXWrpVK3B4nTDboxM"
+    },
+    {
+      "album": {
+        "name": "EL DE LA J",
+        "url": "https://open.spotify.com/album/6CEdzeq9EbQ3ot2EMkKgu1"
+      },
+      "artists": [
+        {
+          "name": "D Pastah",
+          "url": "https://open.spotify.com/artist/2A4WOUL7fi9SqkiU9B9dAk"
+        },
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205852,
+      "name": "EL DE LA J",
+      "url": "https://open.spotify.com/track/0A7BWKaCs23cXXFfyCE0l9"
     },
     {
       "album": {
@@ -2539,6 +2663,32 @@
     },
     {
       "album": {
+        "name": "Espiritu Santo (REMIX)",
+        "url": "https://open.spotify.com/album/39vsfu8EfKsWvBg8Xyk0Ye"
+      },
+      "artists": [
+        {
+          "name": "Tony Lisenko",
+          "url": "https://open.spotify.com/artist/0zt0xDb82GL49mUxFWyLtH"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Christian Ponce",
+          "url": "https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327941,
+      "name": "Espiritu Santo - REMIX",
+      "url": "https://open.spotify.com/track/53DD8oh3xOGV4MJpsHeGZj"
+    },
+    {
+      "album": {
         "name": "Esto Es para Ti",
         "url": "https://open.spotify.com/album/0iyJE8lY5dfEwArWxiYSGF"
       },
@@ -2565,6 +2715,28 @@
     },
     {
       "album": {
+        "name": "ESTOY CON CRISTO",
+        "url": "https://open.spotify.com/album/3YI9WS5XCsTCpXZIVSrMRP"
+      },
+      "artists": [
+        {
+          "name": "Israel Pacheco",
+          "url": "https://open.spotify.com/artist/0CpT6Y3Z1q9CHky4sqNIo6"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205158,
+      "name": "ESTOY CON CRISTO",
+      "url": "https://open.spotify.com/track/4BPmF7Z4oHvDUMR4NPk02U"
+    },
+    {
+      "album": {
         "name": "ETERNA",
         "url": "https://open.spotify.com/album/1rCtffXPBfGSzQ9EYpqAMU"
       },
@@ -2576,7 +2748,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 172000,
       "name": "ETERNA",
       "url": "https://open.spotify.com/track/7GxfGsrQ76ysCjC0NJvLZ2"
@@ -2942,7 +3114,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 209000,
       "name": "F\u00f3rmula 1",
       "url": "https://open.spotify.com/track/7d6nTbzPaYTY8ZoclH7lQ8"
@@ -3443,6 +3615,36 @@
     },
     {
       "album": {
+        "name": "HIJOS DE DIOS",
+        "url": "https://open.spotify.com/album/0GudmSRso9SiDKQS6Pzz33"
+      },
+      "artists": [
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Vianca \"The Grace\"",
+          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
+        },
+        {
+          "name": "Borrero",
+          "url": "https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190190,
+      "name": "HIJOS DE DIOS",
+      "url": "https://open.spotify.com/track/7lpJqPhyTW1Rde5Clo3Aig"
+    },
+    {
+      "album": {
         "name": "HIJOS DEL KING",
         "url": "https://open.spotify.com/album/5KjFL5afDuUfy4ET4JuN54"
       },
@@ -3502,6 +3704,28 @@
       "duration_ms": 201625,
       "name": "Hogar",
       "url": "https://open.spotify.com/track/24d1PUMgPVEoDyvJqjPKCk"
+    },
+    {
+      "album": {
+        "name": "Honestidad",
+        "url": "https://open.spotify.com/album/36gBZBhwd8WUf6gMox6Nrb"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00e1ctiko",
+          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
+        },
+        {
+          "name": "Lutek",
+          "url": "https://open.spotify.com/artist/62e4UXxMpqNGBJFfyP7xk4"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Honestidad",
+      "url": "https://open.spotify.com/track/1SfZqeVwQEEIsJVSaAB8v0"
     },
     {
       "album": {
@@ -4122,7 +4346,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 257980,
       "name": "La Gran Comisi\u00f3n",
       "url": "https://open.spotify.com/track/6olXBuD9i4v5AT9JSGevwW"
@@ -4605,6 +4829,32 @@
     },
     {
       "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/1adMCOb4aseM7hhxcVC1wQ"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        },
+        {
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+        },
+        {
+          "name": "Guerrero De Cristo",
+          "url": "https://open.spotify.com/artist/2wypTRX0z9NK3O39fyKp0H"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206959,
+      "name": "Locura",
+      "url": "https://open.spotify.com/track/5hHDsJhk22leT1ve97m70j"
+    },
+    {
+      "album": {
         "name": "La Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
       },
@@ -5045,6 +5295,44 @@
     },
     {
       "album": {
+        "name": "MexCypher Coahuila",
+        "url": "https://open.spotify.com/album/0GlhYgha4JhciGCPrNJ7aT"
+      },
+      "artists": [
+        {
+          "name": "La Tribu Santa",
+          "url": "https://open.spotify.com/artist/1puGaC5PaCY6qpJharKEMY"
+        },
+        {
+          "name": "Jony Oz Praus",
+          "url": "https://open.spotify.com/artist/7hxWpKQ67C5PEwxYTP8joj"
+        },
+        {
+          "name": "Edson One",
+          "url": "https://open.spotify.com/artist/3a3e5FpXGzkwc7X7xokMTY"
+        },
+        {
+          "name": "KAP-C",
+          "url": "https://open.spotify.com/artist/2zRDXis6WzEyHHBc2gKVSz"
+        },
+        {
+          "name": "Karlos Mancillas MX",
+          "url": "https://open.spotify.com/artist/0moJlRm0t21Jl2cZzMR3oJ"
+        },
+        {
+          "name": "Zuriel Garc\u00eda Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/1gAdmDpTlY58eylp5XWxqa"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248181,
+      "name": "MexCypher Coahuila",
+      "url": "https://open.spotify.com/track/1B0rmdjUiPrhmFTVKJDB2S"
+    },
+    {
+      "album": {
         "name": "Mi Bendici\u00f3n",
         "url": "https://open.spotify.com/album/0ugVKznG2FihXDOcBfY2yc"
       },
@@ -5470,7 +5758,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 200930,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/2R9gEY83plghuqlEVHedMa"
@@ -5602,6 +5890,28 @@
       "duration_ms": 177886,
       "name": "Nadie",
       "url": "https://open.spotify.com/track/0MueB2RTQgI8fnjma6aCMm"
+    },
+    {
+      "album": {
+        "name": "NADIE COMO DIOS",
+        "url": "https://open.spotify.com/album/1WqQ7Kg5Jlrp5mD2Um2S6r"
+      },
+      "artists": [
+        {
+          "name": "Don Ryvcko",
+          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
+        },
+        {
+          "name": "Jova",
+          "url": "https://open.spotify.com/artist/0UFai05vi1qMIK8xw6XSHv"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "NADIE COMO DIOS",
+      "url": "https://open.spotify.com/track/5pBYlzZbm716Qaul0tz3kH"
     },
     {
       "album": {
@@ -6113,6 +6423,40 @@
     },
     {
       "album": {
+        "name": "O N L Y G O D",
+        "url": "https://open.spotify.com/album/52bQkBTwgi7s2vctmGXVB7"
+      },
+      "artists": [
+        {
+          "name": "Jay Changer",
+          "url": "https://open.spotify.com/artist/7cXH8pSV3AYABFqSIB4AvX"
+        },
+        {
+          "name": "Joe Lee",
+          "url": "https://open.spotify.com/artist/6vNgiQRTbOJbe4MnQob1Wd"
+        },
+        {
+          "name": "Sseven",
+          "url": "https://open.spotify.com/artist/33IMnaNU9SaQ0iLQQkhsbw"
+        },
+        {
+          "name": "Vianca \"The Grace\"",
+          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
+        },
+        {
+          "name": "Jere",
+          "url": "https://open.spotify.com/artist/7EfoVv5dszq2vZNoVETZDd"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268503,
+      "name": "O N L Y G O D",
+      "url": "https://open.spotify.com/track/03XBK5XMwgPoAPRURgS4bW"
+    },
+    {
+      "album": {
         "name": "Obra Maestra",
         "url": "https://open.spotify.com/album/5LsxptN7j7Azl6On6bywAt"
       },
@@ -6186,7 +6530,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 161600,
       "name": "OKEY",
       "url": "https://open.spotify.com/track/4Zf4zwn0IJSTSiFHsGUC0C"
@@ -6608,6 +6952,24 @@
       "duration_ms": 201600,
       "name": "Paz",
       "url": "https://open.spotify.com/track/4AtzxpEuteSD6NkZ8ZfAde"
+    },
+    {
+      "album": {
+        "name": "Peleando Con Dios",
+        "url": "https://open.spotify.com/album/6oG9jh47qcGOvXMn0mZPLW"
+      },
+      "artists": [
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180731,
+      "name": "Peleando Con Dios",
+      "url": "https://open.spotify.com/track/091xFI4GRU5hnIWTzmj5wx"
     },
     {
       "album": {
@@ -7778,7 +8140,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 122500,
       "name": "SOBRENATURAL",
       "url": "https://open.spotify.com/track/16kXyXfqIjL3IkLm8hddcJ"
@@ -8489,6 +8851,40 @@
     },
     {
       "album": {
+        "name": "Traemos R.A.P.",
+        "url": "https://open.spotify.com/album/5Jb1WIWokO51Z63Ei2fWrJ"
+      },
+      "artists": [
+        {
+          "name": "La Cuarta Tribu",
+          "url": "https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7"
+        },
+        {
+          "name": "Apostoles del Rap",
+          "url": "https://open.spotify.com/artist/1Ba39MJi4SfaAj6IWMHoT6"
+        },
+        {
+          "name": "Se\u00f1or F",
+          "url": "https://open.spotify.com/artist/3YlLYod1JN05OO4VoXa0f5"
+        },
+        {
+          "name": "Kid Lion",
+          "url": "https://open.spotify.com/artist/5YXpfr2uMukrsJrLhQWRMq"
+        },
+        {
+          "name": "Dozer",
+          "url": "https://open.spotify.com/artist/4fTvbZBIfIc3aAKbZhm5ce"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262588,
+      "name": "Traemos R.A.P.",
+      "url": "https://open.spotify.com/track/2f1EjnXaWKzofiN5Cc9Lgo"
+    },
+    {
+      "album": {
         "name": "Tres Tazas",
         "url": "https://open.spotify.com/album/49ffcYz0L6JbDn3IkjD3kt"
       },
@@ -8746,7 +9142,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 168000,
       "name": "UH UH (Freestyle)",
       "url": "https://open.spotify.com/track/4CeCNd0EQZJI6Mr2nDg59m"
@@ -8812,7 +9208,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 185142,
       "name": "UNA LUZ",
       "url": "https://open.spotify.com/track/5E4AaDjmhtyitQ2eU4lmn9"
@@ -9378,7 +9774,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 195000,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/0YTKmA3BCZVTsKWXE2yuxG"

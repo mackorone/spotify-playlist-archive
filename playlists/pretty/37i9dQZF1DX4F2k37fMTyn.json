@@ -1,6 +1,6 @@
 {
   "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Tyla & Wizkid",
-  "num_followers": 38085,
+  "num_followers": 38093,
   "original_name": "Girl On Fire",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,30 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
+        "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
+        "url": "https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 219968,
+      "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
+      "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
+    },
+    {
+      "added_at": "2025-07-24 15:00:13",
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
@@ -543,18 +567,18 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 208829,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
       "added_at": "2025-07-24 15:00:13",
@@ -575,18 +599,18 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
     },
     {
       "added_at": "2025-07-24 15:00:13",
@@ -959,22 +983,6 @@
     {
       "added_at": "2025-07-24 15:00:13",
       "album": {
-        "name": "What Was That",
-        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 209286,
-      "name": "What Was That",
-      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
-    },
-    {
-      "added_at": "2025-07-24 15:00:13",
-      "album": {
         "name": "DIFFERENT",
         "url": "https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v"
       },
@@ -987,6 +995,22 @@
       "duration_ms": 141756,
       "name": "DIFFERENT",
       "url": "https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX"
+    },
+    {
+      "added_at": "2025-07-24 15:00:13",
+      "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "duration_ms": 164782,
+      "name": "ROSE",
+      "url": "https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0"
     }
   ],
   "unique_name": "Girl On Fire",

@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222986,
+      "name": "2000 EXCURSION",
+      "url": "https://open.spotify.com/track/6Gp3pYkydEOkl8EHHJxa9s"
+    },
+    {
+      "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
@@ -42,6 +68,24 @@
       "duration_ms": 278277,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212960,
+      "name": "405",
+      "url": "https://open.spotify.com/track/7gCautqfD7CCdrN33GrRd8"
     },
     {
       "album": {
@@ -99,6 +143,32 @@
     },
     {
       "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154066,
+      "name": "Ace Trumpets",
+      "url": "https://open.spotify.com/track/1JvQhXD5FxkK2GjHCyFmZa"
+    },
+    {
+      "album": {
         "name": "After All The Bars Are Closed",
         "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
       },
@@ -114,6 +184,24 @@
       "duration_ms": 191839,
       "name": "After All The Bars Are Closed",
       "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247546,
+      "name": "ALL I CAN TAKE",
+      "url": "https://open.spotify.com/track/72PVbRKkUimweUPV0nKAPs"
     },
     {
       "album": {
@@ -212,7 +300,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
@@ -288,7 +376,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 173064,
       "name": "Bar None",
       "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
@@ -324,7 +412,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 194120,
       "name": "Better Me For You (Brown Eyes)",
       "url": "https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ"
@@ -404,7 +492,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 178708,
       "name": "Bodies (with JID)",
       "url": "https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL"
@@ -451,6 +539,76 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193525,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/5cfsQZEFf1IpQr8F9vI9le"
+    },
+    {
+      "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243906,
+      "name": "Chains & Whips",
+      "url": "https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184789,
+      "name": "CHAMPAIN & VACAY",
+      "url": "https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh"
+    },
+    {
+      "album": {
         "name": "clich\u00e9",
         "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
       },
@@ -487,6 +645,46 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Lil B",
+          "url": "https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145133,
+      "name": "DADZ LOVE",
+      "url": "https://open.spotify.com/track/2qqylaMQ54zfveakMkDULI"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "album": {
         "name": "Dark Thoughts",
         "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
       },
@@ -498,7 +696,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
@@ -516,10 +714,32 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 235566,
       "name": "Dark Til Daylight",
       "url": "https://open.spotify.com/track/0DlaIUTa0Ng1hOM1wcFcZe"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "DEVOTION",
+      "url": "https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc"
     },
     {
       "album": {
@@ -563,6 +783,24 @@
     },
     {
       "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238249,
+      "name": "DUMBO",
+      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -592,7 +830,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -610,7 +848,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 197188,
       "name": "Eyes Are Closed",
       "url": "https://open.spotify.com/track/6Yjm10YPDiYGD3R3Qwoe13"
@@ -650,6 +888,24 @@
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "FIRST PLACE",
+      "url": "https://open.spotify.com/track/4ZZJ7S4Z1pEIvTUgN1oRzS"
     },
     {
       "album": {
@@ -738,7 +994,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 171000,
       "name": "FWU",
       "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
@@ -756,10 +1012,28 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84506,
+      "name": "GLORY VOICE MEMO",
+      "url": "https://open.spotify.com/track/7H6hs7WkNG48fS3agm63MR"
     },
     {
       "album": {
@@ -774,10 +1048,28 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 137316,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "GO BABY",
+      "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
     },
     {
       "album": {
@@ -950,7 +1242,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 135133,
       "name": "Home (feat. Shaboozey)",
       "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
@@ -1082,7 +1374,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 199060,
       "name": "I'm A Little Crazy",
       "url": "https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ"
@@ -1125,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "GOLDEN HOUR : Part.3 'In Your Fantasy Edition'",
+        "url": "https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192697,
+      "name": "In Your Fantasy",
+      "url": "https://open.spotify.com/track/3Z4BxvgOJ8KupcDIV3OV2f"
+    },
+    {
+      "album": {
         "name": "Restless Mind",
         "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
       },
@@ -1144,6 +1454,24 @@
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "album": {
@@ -1205,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170498,
+      "name": "KICK OUT",
+      "url": "https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7"
+    },
+    {
+      "album": {
         "name": "Killin' It Girl (feat. GloRilla)",
         "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
       },
@@ -1256,7 +1602,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 159522,
       "name": "LATINA FOREVA",
       "url": "https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA"
@@ -1357,6 +1703,32 @@
     },
     {
       "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156013,
+      "name": "M.T.B.T.T.F.",
+      "url": "https://open.spotify.com/track/3fZd2UtWZMntClCSnJ7PDY"
+    },
+    {
+      "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
       },
@@ -1408,7 +1780,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 212002,
       "name": "ME JALO",
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
@@ -1426,7 +1798,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
@@ -1498,7 +1870,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 176000,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
@@ -1516,7 +1888,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -1541,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
       },
@@ -1556,7 +1946,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 189557,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
@@ -1610,10 +2000,40 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 132380,
       "name": "OWA OWA",
       "url": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N"
+    },
+    {
+      "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258026,
+      "name": "P.O.V.",
+      "url": "https://open.spotify.com/track/0mwlZQjUxspUTpAzLwexw7"
     },
     {
       "album": {
@@ -1668,7 +2088,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 155917,
       "name": "peekaboo (feat. azchike)",
       "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de"
@@ -1733,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "Streets of London",
+        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261601,
+      "name": "River Washed Hair",
+      "url": "https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf"
+    },
+    {
+      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
       },
@@ -1781,6 +2219,28 @@
     },
     {
       "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193183,
+      "name": "SHYNE",
+      "url": "https://open.spotify.com/track/4lUAlhQOVzhitQKjxrHVny"
+    },
+    {
+      "album": {
         "name": "Single Again",
         "url": "https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P"
       },
@@ -1814,6 +2274,32 @@
       "duration_ms": 222479,
       "name": "Skoal, Chevy, and Browning",
       "url": "https://open.spotify.com/track/6DkEF9xEX09byLdJgSGGK2"
+    },
+    {
+      "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
     },
     {
       "album": {
@@ -1874,7 +2360,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 182767,
       "name": "SOMEBODY LOVES ME",
       "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
@@ -1928,7 +2414,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
@@ -1971,6 +2457,54 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150239,
+      "name": "SWAG",
+      "url": "https://open.spotify.com/track/3WQ5w7ruC3c861lHXF9Gs2"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185213,
+      "name": "SWEET SPOT",
+      "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -2005,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181192,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
+    },
+    {
+      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
@@ -2016,10 +2568,44 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "album": {
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Voices of Fire",
+          "url": "https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240520,
+      "name": "The Birds Don't Sing",
+      "url": "https://open.spotify.com/track/6L3i4jdNnk0a9kMT3qIqTG"
     },
     {
       "album": {
@@ -2034,10 +2620,28 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 202768,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108386,
+      "name": "THINGS YOU DO",
+      "url": "https://open.spotify.com/track/1j8TmNa6vaFAEAws43kP0Q"
     },
     {
       "album": {
@@ -2052,7 +2656,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 186973,
       "name": "This Heart",
       "url": "https://open.spotify.com/track/1KtQmheytoTI6kOM8yCowf"
@@ -2070,7 +2674,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 246141,
       "name": "Thought It Was Love",
       "url": "https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF"
@@ -2092,7 +2696,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 256000,
       "name": "Timeless (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -2117,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184573,
+      "name": "TOO LONG",
+      "url": "https://open.spotify.com/track/422PeUrBywndaCCxL6bDBj"
+    },
+    {
+      "album": {
         "name": "Touch Me Like a Gangster",
         "url": "https://open.spotify.com/album/5lOPOloxHL7wP2Dp5Wyk2D"
       },
@@ -2128,7 +2750,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 163930,
       "name": "Touch Me Like a Gangster",
       "url": "https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd"
@@ -2146,7 +2768,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 177994,
       "name": "TU SANCHO",
       "url": "https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ"
@@ -2204,7 +2826,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 124137,
       "name": "Typa",
       "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
@@ -2251,6 +2873,46 @@
     },
     {
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244013,
+      "name": "WALKING AWAY",
+      "url": "https://open.spotify.com/track/0LutvoC2HqCfnaRSjrhtzo"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195319,
+      "name": "WAY IT IS",
+      "url": "https://open.spotify.com/track/1r3uOHPoiIv89Xb6K9bDH4"
+    },
+    {
+      "album": {
         "name": "Greatest Rapper Alive",
         "url": "https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch"
       },
@@ -2262,7 +2924,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 140487,
       "name": "Went Legit",
       "url": "https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP"
@@ -2280,7 +2942,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 156083,
       "name": "WENT WEST",
       "url": "https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj"
@@ -2302,6 +2964,24 @@
       "duration_ms": 193666,
       "name": "weren't for the wind",
       "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
+    },
+    {
+      "album": {
+        "name": "What Did I Miss?",
+        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194324,
+      "name": "What Did I Miss?",
+      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
     },
     {
       "album": {
@@ -2372,10 +3052,36 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS"
+    },
+    {
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272941,
+      "name": "WHERE WAS YOU",
+      "url": "https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe"
     },
     {
       "album": {
@@ -2530,6 +3236,24 @@
       "duration_ms": 198082,
       "name": "YOUR WAY'S BETTER",
       "url": "https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
     }
   ],
   "url": "https://open.spotify.com/playlist/6UeSakyzhiEt4NB3UAd6NQ"

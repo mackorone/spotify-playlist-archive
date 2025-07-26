@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 
 > Pinches cumbiones bien locos para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,096 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,158 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 58 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 |
 | 59 | [Lo Haré por Ti](https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Lo Haré por Ti](https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6) | 3:48 |
 | 60 | [Soy Soltero](https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:37 |
-| 61 | [Tirate un paso](https://open.spotify.com/track/4Bb0zvyxchESHX1gNyAfWN) | [Los Wachiturros](https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo) | [Tirate un paso](https://open.spotify.com/album/5zoumKpJSJKb9efipfFxPm) | 3:04 |
-| 62 | [16 Toneladas \- Radio Edit](https://open.spotify.com/track/1PyKQCH6KRFw55dYeWXB80) | [APV Passion Vallenata](https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X) | [16 Toneladas \(Radio Edit\)](https://open.spotify.com/album/5A0kulglTtKewmTdqYYpAc) | 4:30 |
+| 61 | [16 Toneladas \- Radio Edit](https://open.spotify.com/track/1PyKQCH6KRFw55dYeWXB80) | [APV Passion Vallenata](https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X) | [16 Toneladas \(Radio Edit\)](https://open.spotify.com/album/5A0kulglTtKewmTdqYYpAc) | 4:30 |
+| 62 | [Tirate un paso](https://open.spotify.com/track/4Bb0zvyxchESHX1gNyAfWN) | [Los Wachiturros](https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo) | [Tirate un paso](https://open.spotify.com/album/5zoumKpJSJKb9efipfFxPm) | 3:04 |
 | 63 | [Nuestra Historia Termino](https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc), [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [Nuestra Historia Termino](https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf) | 3:54 |
 | 64 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
 | 65 | [No Puedo Olvidarte Cumbia Rosa](https://open.spotify.com/track/5LU3NW5RIL1k2OCXwGNTrd) | [Amantes del Futuro](https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0), [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [No Puedo Olvidarte Cumbia Rosa](https://open.spotify.com/album/5PV24BwsDo7SxdKpgJUn5n) | 4:45 |

@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 46896,
+  "num_followers": 46910,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -795,18 +795,18 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+        "name": "The New Standard",
+        "url": "https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 457186,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
+      "duration_ms": 484293,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -827,18 +827,34 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "The New Standard",
-        "url": "https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
         }
       ],
-      "duration_ms": 484293,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC"
+      "duration_ms": 457186,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "A Generation Ago Today",
+        "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Stompin' At The Savoy",
+      "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -859,22 +875,6 @@
       "duration_ms": 402533,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/41QzbYkCxCe5MgnK1SQdzi"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "A Generation Ago Today",
-        "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "Stompin' At The Savoy",
-      "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -997,22 +997,6 @@
       "url": "https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "An Image: Lee Konitz With Strings",
-        "url": "https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 319666,
-      "name": "Round Midnight",
-      "url": "https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "You Gotta Pay The Band",
@@ -1027,6 +1011,22 @@
       "duration_ms": 405226,
       "name": "Brother? Can You Spare A Dime?",
       "url": "https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "An Image: Lee Konitz With Strings",
+        "url": "https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 319666,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
-        "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        }
-      ],
-      "duration_ms": 373800,
-      "name": "Bashin'",
-      "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "The Betty Carter Album",
@@ -1331,6 +1315,22 @@
       "duration_ms": 237053,
       "name": "You're A Sweetheart",
       "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
+        "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        }
+      ],
+      "duration_ms": 373800,
+      "name": "Bashin'",
+      "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "The Audience With Betty Carter (Live)",
+        "url": "https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "I Could Write A Book - Live At Bradshaw's Great American Music Hall, San Francisco/1979",
+      "url": "https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "The Complete Verve Singles",
         "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 203653,
       "name": "I'll Close My Eyes",
       "url": "https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Audience With Betty Carter (Live)",
-        "url": "https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "I Could Write A Book - Live At Bradshaw's Great American Music Hall, San Francisco/1979",
-      "url": "https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC"
     },
     {
       "added_at": "2019-10-02 08:54:10",

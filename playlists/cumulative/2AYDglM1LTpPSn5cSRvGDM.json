@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/1COAoGRQqPCQIGZX9qCH3b"
+      },
+      "artists": [
+        {
+          "name": "ON_1",
+          "url": "https://open.spotify.com/artist/1yga9Ci8sD6gpO5Vf1AN86"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/2Kkx9JxUQqsUIjGtjO4hMP"
+    },
+    {
+      "album": {
         "name": "Memory",
         "url": "https://open.spotify.com/album/237JwE1vurV2zm9dzp32Dy"
       },
@@ -954,7 +972,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 230481,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/5OkOxSTNPwXtvWcWPU1vup"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 211500,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/4dDRvWUpJSKFNJColOJ6rZ"
@@ -1144,6 +1162,28 @@
       "duration_ms": 213029,
       "name": "Lonely Keys",
       "url": "https://open.spotify.com/track/5tjJBlyteIVYqJRj28GfSW"
+    },
+    {
+      "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/0sjiOcEYautpiNZjTtYt4o"
+      },
+      "artists": [
+        {
+          "name": "Dropbusterz",
+          "url": "https://open.spotify.com/artist/4rv8s8PHSHezu1eJnxLQbB"
+        },
+        {
+          "name": "Delayz",
+          "url": "https://open.spotify.com/artist/0gtmyc6bAV1XoQHwOHF7NX"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235078,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/56iS3PFiFfZHGV5FXYm2fq"
     },
     {
       "album": {
@@ -1509,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Persistence",
+        "url": "https://open.spotify.com/album/7oMOhtFYYV7ci02wZscfaC"
+      },
+      "artists": [
+        {
+          "name": "Helvetic Nerds",
+          "url": "https://open.spotify.com/artist/5vKOPKIOlbrbysX7KrsCXS"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191904,
+      "name": "Persistence",
+      "url": "https://open.spotify.com/track/4Lb2wyhJRGPYq7zpfcqc55"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/6D2UfaGb66nY5zRXB8ua8l"
       },
@@ -1728,7 +1786,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 235121,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/1jrco4S3SlnI8c1ocheBiv"
@@ -2050,7 +2108,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 181580,
       "name": "To Be Mine (feat. Peonie)",
       "url": "https://open.spotify.com/track/4PVTXDKfhaozQRtWT6c5PN"
@@ -2112,7 +2170,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 286252,
       "name": "Via Infinita - Marsh Remix",
       "url": "https://open.spotify.com/track/3UkQIp7rWtfxk10DJ3s5Mo"
@@ -2156,6 +2214,24 @@
       "duration_ms": 251428,
       "name": "When You See Me",
       "url": "https://open.spotify.com/track/62FqrjyjEdnrXdsaLuabip"
+    },
+    {
+      "album": {
+        "name": "Where The Chemistry At",
+        "url": "https://open.spotify.com/album/3vKtc0KR3tdQwixGgel2zo"
+      },
+      "artists": [
+        {
+          "name": "Deep Fiktion",
+          "url": "https://open.spotify.com/artist/03KjoCxp7LWEqTAV0EN1Le"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176969,
+      "name": "Where The Chemistry At",
+      "url": "https://open.spotify.com/track/4Hi9LFV10BwZwobdLzJUNa"
     },
     {
       "album": {
@@ -2204,6 +2280,28 @@
       "duration_ms": 196000,
       "name": "With You",
       "url": "https://open.spotify.com/track/4T32wWxm8QDE2GB34CJmUB"
+    },
+    {
+      "album": {
+        "name": "You Feel Like More",
+        "url": "https://open.spotify.com/album/2W1F1ZfyTRg75A4zdFBpho"
+      },
+      "artists": [
+        {
+          "name": "Ado Woodz",
+          "url": "https://open.spotify.com/artist/6HmOLbs4Os4OVB2iFEPVqt"
+        },
+        {
+          "name": "Hyper Eyes",
+          "url": "https://open.spotify.com/artist/3miMw6MEY57EaWv4Ezs192"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177637,
+      "name": "You Feel Like More",
+      "url": "https://open.spotify.com/track/6dJtBICpLz1gJXMiv4rDRk"
     }
   ],
   "url": "https://open.spotify.com/playlist/2AYDglM1LTpPSn5cSRvGDM"

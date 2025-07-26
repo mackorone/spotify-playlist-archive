@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,732 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,744 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 36 | [Fior di Latte](https://open.spotify.com/track/7rYI7SpOhyz5nVvp0w994V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR) | 4:03 |
 | 37 | [The Only One](https://open.spotify.com/track/3jGODTQ4xpSLp8zOby4H63) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:29 |
 | 38 | [Honeymoon](https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 5:00 |
-| 39 | [Heatwave](https://open.spotify.com/track/2W1ehC1GNSvUlWCKE5FSI5) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Heatwave](https://open.spotify.com/album/2fts6dbm4Wbd37s3YQSzXH) | 4:19 |
-| 40 | [\(You Can't Blame It On\) Anybody](https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 3:33 |
+| 39 | [\(You Can't Blame It On\) Anybody](https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 3:33 |
+| 40 | [Heatwave](https://open.spotify.com/track/2W1ehC1GNSvUlWCKE5FSI5) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Heatwave](https://open.spotify.com/album/2fts6dbm4Wbd37s3YQSzXH) | 4:19 |
 | 41 | [Identical](https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 5:02 |
 | 42 | [Rally](https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 3:16 |
 | 43 | [On Fire](https://open.spotify.com/track/6ayQqGsXx1jxDiEku4V9Gg) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 2:49 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 48 | [Victim of the Crime](https://open.spotify.com/track/2ThMLsmAtcKOmXaEgKdJ93) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 4:05 |
 | 49 | [Embuscade](https://open.spotify.com/track/4ryuJlslXmRBn2csXJ5kfk) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:56 |
 
-Snapshot ID: `aIAmAAAAAABnhe3P4ov25cSSY94nKAyk`
+Snapshot ID: `aIF3gAAAAACdqkIUmz5es2YF8KACsbsO`

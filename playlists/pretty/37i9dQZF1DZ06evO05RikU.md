@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,092 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,094 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 43 | [tqum \(feat\. Kim Petras\) \- Remix](https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [tqum \(feat\. Kim Petras\) \[Remix\]](https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS) | 2:29 |
 | 44 | [coRaZÓn fRíO](https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [coRaZÓn fRíO](https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn) | 3:24 |
 | 45 | [Solo Yo](https://open.spotify.com/track/2k713E1Dl1RX05s4BQ39Rg) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Solo Yo](https://open.spotify.com/album/6XSA5pD1TQwmQP1KP2Ke7Z) | 4:08 |
-| 46 | [Kids \(feat\. Sofia Reyes\)](https://open.spotify.com/track/28JJJAkCRwWH2pFI9SoA7L) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Good Life](https://open.spotify.com/album/4NwBGbGjwIYAFmL1fAQYHJ) | 2:51 |
-| 47 | [Amigos](https://open.spotify.com/track/3Aztz5WADJSB6G94A1Zi96) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:43 |
+| 46 | [Amigos](https://open.spotify.com/track/3Aztz5WADJSB6G94A1Zi96) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:43 |
+| 47 | [Kids \(feat\. Sofia Reyes\)](https://open.spotify.com/track/28JJJAkCRwWH2pFI9SoA7L) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Good Life](https://open.spotify.com/album/4NwBGbGjwIYAFmL1fAQYHJ) | 2:51 |
 | 48 | [Cuando Estás Tú](https://open.spotify.com/track/1qZK2nOljXMWpIdOXmandN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Cuando Estás Tú](https://open.spotify.com/album/3af2qc7bfSXU08ecwxQAFC) | 2:57 |
 | 49 | [A Tu Manera \[CORBATA\]](https://open.spotify.com/track/7ylkmI5exdKG5Myo7DuH2p) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [A Tu Manera \[CORBATA\]](https://open.spotify.com/album/0iGPhmdLQ1P3bZeTQmK3qB) | 2:54 |
 | 50 | [Never Let You Go \(feat\. Sofia Reyes\)](https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Never Let You Go \(feat\. Sofia Reyes\)](https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V) | 2:42 |
 
-Snapshot ID: `aIAmAAAAAABcbs0jGeyOTvLzUWkcOTkp`
+Snapshot ID: `aIF3gAAAAABVscGstAeK8LNkXzNf9VXb`

@@ -2463,6 +2463,32 @@
     },
     {
       "album": {
+        "name": "El Coraz\u00f3n No Perdona",
+        "url": "https://open.spotify.com/album/55Iw0VQa08ashyxD8U8VOY"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        },
+        {
+          "name": "DerekVinci",
+          "url": "https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu"
+        },
+        {
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196554,
+      "name": "El Coraz\u00f3n No Perdona",
+      "url": "https://open.spotify.com/track/3xeKYApzfxkhvoBJmCZGwa"
+    },
+    {
+      "album": {
         "name": "A World Tour",
         "url": "https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U"
       },
@@ -3098,7 +3124,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 191414,
       "name": "Falsos Recuerdos",
       "url": "https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY"
@@ -3422,12 +3448,12 @@
           "url": "https://open.spotify.com/artist/7EndqnY5tR0pzhbVFJr5Zy"
         },
         {
-          "name": "Laura Alcoba",
-          "url": "https://open.spotify.com/artist/4bPtZizzfakIoNwFpBAS87"
-        },
-        {
           "name": "DerekVinci",
           "url": "https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu"
+        },
+        {
+          "name": "Laura Alcoba",
+          "url": "https://open.spotify.com/artist/4bPtZizzfakIoNwFpBAS87"
         }
       ],
       "date_added": "2025-06-06",
@@ -5704,7 +5730,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 219625,
       "name": "Poniendo Fichas",
       "url": "https://open.spotify.com/track/5YCoBe7xqmh0yIinTyoitg"

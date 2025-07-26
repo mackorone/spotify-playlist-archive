@@ -8131,6 +8131,28 @@
     },
     {
       "album": {
+        "name": "Indifference",
+        "url": "https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Shintaro Sakamoto",
+          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "Indifference",
+      "url": "https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u"
+    },
+    {
+      "album": {
         "name": "Random Access Memories (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
       },
@@ -10018,7 +10040,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 185200,
       "name": "Maybe it Takes Time",
       "url": "https://open.spotify.com/track/08rCwumMxFDgtKAM8K0iwE"

@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 174910,
       "name": "1&Only",
       "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 214933,
       "name": "5 Years Time",
       "url": "https://open.spotify.com/track/1kfpqIo1zfPOaxm9n2eRfp"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 214933,
       "name": "5 Years Time",
       "url": "https://open.spotify.com/track/5f4zOct4mWD8iaIDMC2sDA"
@@ -13156,7 +13156,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 107777,
       "name": "Cant Go Broke - Remix",
       "url": "https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz"
@@ -21280,7 +21280,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 190266,
       "name": "Dusty Bibles",
       "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
@@ -54371,6 +54371,24 @@
     },
     {
       "album": {
+        "name": "Pikiran dan Perjalanan",
+        "url": "https://open.spotify.com/album/5dy5oRsWeCss5AvbWcJqr0"
+      },
+      "artists": [
+        {
+          "name": "Barasuara",
+          "url": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261379,
+      "name": "Pancarona",
+      "url": "https://open.spotify.com/track/49XXrWxrmBU34mNMpxsSfG"
+    },
+    {
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
       },
@@ -54774,6 +54792,24 @@
       "duration_ms": 198817,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP"
+    },
+    {
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167720,
+      "name": "Paranoid - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
     },
     {
       "album": {
@@ -58226,7 +58262,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
@@ -58248,7 +58284,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
@@ -77798,6 +77834,24 @@
       "duration_ms": 258319,
       "name": "Want Me",
       "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
+    },
+    {
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475000,
+      "name": "War Pigs - 2009 Remaster",
+      "url": "https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne"
     },
     {
       "album": {

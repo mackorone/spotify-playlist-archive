@@ -4,7 +4,7 @@
 
 > Chill, take a long walk and clear your mind\. Cover: Maya Amolo
 
-122 songs - 6 hr 59 min
+123 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ambia](https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Ambia](https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn) | 2:16 | 2022-11-11 | 2025-01-10 |
 | [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2024-05-23 |  |
 | [Asali](https://open.spotify.com/track/0RDjgKJuFxZVUk93ov59o6) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Love Language](https://open.spotify.com/album/1vF0nqkfedSTlQrXh0Feoa) | 3:03 | 2022-11-11 | 2025-01-10 |
+| [Athena, am I beautiful?](https://open.spotify.com/track/2brYh8EuopGb0C1NsJtOZt) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Speak to me](https://open.spotify.com/album/0dzjosZvWYTFaUAcv3d9nL) | 4:39 | 2025-07-25 |  |
 | [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 | 2024-08-16 |  |
 | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/track/5EMLJj0bq2bYeVW2UCd62D) | [Dorphanage](https://open.spotify.com/artist/0lLs1XSa8ZCeAkOz91UgnN), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/album/4VhCyAOTmopRYaiJpKpEM5) | 5:55 | 2022-11-11 | 2023-09-02 |
 | [Bright Outside](https://open.spotify.com/track/1zUdoJf7QiUx9fvCDzz4Qq) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Bright Outside](https://open.spotify.com/album/66dHkOodHx6Bnm566qPrwx) | 2:12 | 2022-11-11 | 2025-01-10 |
@@ -81,7 +82,7 @@
 | [Oceans](https://open.spotify.com/track/50eCGnJmjeJU1HfjmcdK2N) | [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Oceans](https://open.spotify.com/album/2xhSN6qB5HsKwWUFLUhMyI) | 3:15 | 2022-11-11 | 2024-08-17 |
 | [Oh! My Dear...](https://open.spotify.com/track/28HrRHjy9GDMcHjOzLMOVE) | [Wamugunda](https://open.spotify.com/artist/2Mj0SBavSxKCv3MMUfvBEP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Oh! My Dear...](https://open.spotify.com/album/6Is4wsIEwh0xT5FZ9aRnaI) | 6:39 | 2022-11-11 | 2024-01-12 |
 | [Outplayed](https://open.spotify.com/track/5ri8WSEiMS8zQR4YBpHXqu) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Christine Cuare](https://open.spotify.com/artist/3F8V2hgLg4jVkRlZ3BRsnt) | [Outplayed](https://open.spotify.com/album/660Pj8Kvn7QPrP19JFhUzk) | 3:12 | 2023-04-28 | 2024-02-02 |
-| [Panda Basi](https://open.spotify.com/track/4vI1Z6EL8bqA7YE1fKzRyp) | [Mvua](https://open.spotify.com/artist/6mK4gMeS7p1vS724AecSUO) | [Panda Basi](https://open.spotify.com/album/5yCp4CeBRujpxNTURyBCRO) | 2:47 | 2025-02-14 |  |
+| [Panda Basi](https://open.spotify.com/track/4vI1Z6EL8bqA7YE1fKzRyp) | [Mvua](https://open.spotify.com/artist/6mK4gMeS7p1vS724AecSUO) | [Panda Basi](https://open.spotify.com/album/5yCp4CeBRujpxNTURyBCRO) | 2:47 | 2025-02-14 | 2025-07-26 |
 | [Pete](https://open.spotify.com/track/2DDM0D8wOXNPxshFgtYIG1) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Pete](https://open.spotify.com/album/5D4ETjU3vwslf8b6HOLUWx) | 2:04 | 2024-02-01 |  |
 | [Phases](https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Phases](https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH) | 3:24 | 2024-05-23 | 2025-02-15 |
 | [Purple](https://open.spotify.com/track/2smULwfhqWK1ovV6SmzwVa) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI) | [Different Definitions of Love: Part 1](https://open.spotify.com/album/3xBNNkmdc2ioXJk8mfyZSS) | 3:23 | 2022-11-11 | 2024-04-20 |

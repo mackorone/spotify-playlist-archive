@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אסף אבידן
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,252 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,264 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 41 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
 | 42 | [DUMB \(AATM\) \- Live](https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [DUMB \(AATM\) \[Live\]](https://open.spotify.com/album/30i3NFMUCoBA42VYKT0woM) | 2:29 |
 | 43 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
-| 44 | [Home](https://open.spotify.com/track/5EkfwBUGWooi05NJeSIpyg) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Kapaim](https://open.spotify.com/album/6yvXRQJm8ls2asdTHEC28L) | 3:19 |
-| 45 | [ויהי אור](https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [Zulat Choir](https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7) | [ויהי אור](https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7) | 5:26 |
+| 44 | [ויהי אור](https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [Zulat Choir](https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7) | [ויהי אור](https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7) | 5:26 |
+| 45 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
 | 46 | [הדלת הפתוחה](https://open.spotify.com/track/6ZrFqIxeb5pGECv3Dgl8Rp) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [הדלת הפתוחה](https://open.spotify.com/album/73nXR3AC7KXy4kJae8zc4Y) | 2:41 |
-| 47 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
-| 48 | [Circumstance](https://open.spotify.com/track/64Kn9pjumP5bJd8WbZNm2E) | [Omri Smadar](https://open.spotify.com/artist/0qnD30FBRPes7ZFDvsEBAv), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [Circumstance](https://open.spotify.com/album/52Rh87m4PVnaW77cfHHXnD) | 3:48 |
+| 47 | [Home](https://open.spotify.com/track/5EkfwBUGWooi05NJeSIpyg) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Kapaim](https://open.spotify.com/album/6yvXRQJm8ls2asdTHEC28L) | 3:19 |
+| 48 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
 | 49 | [Black Eye](https://open.spotify.com/track/40jNQbXc3SxO2VVmgSsFlc) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Black Eye](https://open.spotify.com/album/295njq3mu85uparrz5upr0) | 2:25 |
-| 50 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
+| 50 | [Circumstance](https://open.spotify.com/track/64Kn9pjumP5bJd8WbZNm2E) | [Omri Smadar](https://open.spotify.com/artist/0qnD30FBRPes7ZFDvsEBAv), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [Circumstance](https://open.spotify.com/album/52Rh87m4PVnaW77cfHHXnD) | 3:48 |
 
 Snapshot ID: `aIKe6gAAAABYQ8TPtz62dsgguH2zxXub`

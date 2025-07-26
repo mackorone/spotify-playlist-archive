@@ -4,7 +4,7 @@
 
 > Voici les hits du moment\. Photo: Benson Boone
 
-524 songs - 1 day 3 hr 30 min
+525 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-09 | 2022-08-30 |
 | [Hotter Now](https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Hotter Now](https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh) | 3:01 | 2023-12-15 | 2024-11-30 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-10 | 2024-02-24 |
-| [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-07 |  |
+| [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-07 | 2025-07-26 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-23 | 2024-03-02 |
 | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD) | 2:37 | 2024-03-08 | 2024-05-25 |
 | [Hédoniste](https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hédoniste](https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3) | 3:19 | 2022-07-09 | 2022-12-10 |
@@ -377,6 +377,7 @@
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-06 | 2023-03-18 |
 | [People](https://open.spotify.com/track/7cbe94yjeFCvXZ0T7avjJS) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/1kP6tt24YPAb6MqTCzR2GG) | 3:04 | 2023-01-06 | 2023-01-13 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2022-07-09 | 2023-04-09 |
+| [Personne d'autre](https://open.spotify.com/track/3BmlEq3vpcEZG5jI7hOPFv) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ), [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc) | [Personne d'autre](https://open.spotify.com/album/2q9KkZFFuShphSTHgOVFWx) | 2:51 | 2025-07-25 |  |
 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 | 2024-01-05 | 2024-07-19 |
 | [Pink Pony Club](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 4:18 | 2025-02-14 | 2025-03-22 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-06-07 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHnG3QAAAAC4BGZbs+B1pS2zubyXaSTp",
+  "snapshot_id": "aIMBcwAAAAAVhLyPcht8nOP4OzAsQPvn",
   "tracks": [
     {
       "added_at": "2025-07-18 04:00:29",
@@ -27,6 +27,58 @@
       "duration_ms": 208000,
       "name": "Tennis Bracelet",
       "url": "https://open.spotify.com/track/0ZCmVf5BIgmWNj1vcqAjJo"
+    },
+    {
+      "added_at": "2025-07-25 04:00:51",
+      "album": {
+        "name": "for sale 2 own",
+        "url": "https://open.spotify.com/album/4bQY42D7Egu7z85iNg2pz3"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        },
+        {
+          "name": "Glitter Party",
+          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
+        }
+      ],
+      "duration_ms": 159169,
+      "name": "for sale 2 own",
+      "url": "https://open.spotify.com/track/2OgwHWIvzwoMANPqIrvYSS"
+    },
+    {
+      "added_at": "2025-07-25 04:00:51",
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2025-07-25 04:00:51",
+      "album": {
+        "name": "1-800-LOVECLUB",
+        "url": "https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83"
+      },
+      "artists": [
+        {
+          "name": "Willa Owen",
+          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "1-800-LOVECLUB",
+      "url": "https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh"
     },
     {
       "added_at": "2025-07-18 04:00:29",
@@ -159,22 +211,6 @@
       "duration_ms": 168813,
       "name": "optimist",
       "url": "https://open.spotify.com/track/6sSE5oFiUSPpijlIBxeF70"
-    },
-    {
-      "added_at": "2025-07-18 04:00:29",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "added_at": "2025-07-18 04:00:29",
@@ -1855,38 +1891,6 @@
       "duration_ms": 154669,
       "name": "About it",
       "url": "https://open.spotify.com/track/3RJM0q6tirO9nvlmlETUM7"
-    },
-    {
-      "added_at": "2025-07-18 04:00:29",
-      "album": {
-        "name": "to love in the 21st century: the epilogue",
-        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "july",
-      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
-    },
-    {
-      "added_at": "2025-07-18 04:00:29",
-      "album": {
-        "name": "Backseat",
-        "url": "https://open.spotify.com/album/5vByKX383Uixr7KVphjpns"
-      },
-      "artists": [
-        {
-          "name": "Olive B",
-          "url": "https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz"
-        }
-      ],
-      "duration_ms": 188824,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/4jnpDGtUTtloIQHq8TdbNW"
     },
     {
       "added_at": "2025-07-18 04:00:29",

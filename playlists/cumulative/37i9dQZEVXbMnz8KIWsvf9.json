@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 242181,
       "name": "9 \u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32",
       "url": "https://open.spotify.com/track/1RIcNj56JKuH0WB9AyNARB"
@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 271500,
       "name": "DAY ONE",
       "url": "https://open.spotify.com/track/5QxNmQBXpLPemzpDvsuiLM"
@@ -10284,7 +10284,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 225410,
       "name": "Proud",
       "url": "https://open.spotify.com/track/4jyfcb5s4H3hKl0CJXjYei"
@@ -12044,7 +12044,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
@@ -14181,6 +14181,24 @@
     },
     {
       "album": {
+        "name": "Victoria's Secret",
+        "url": "https://open.spotify.com/album/7JBb6bcmMzDErwyR6u5YJs"
+      },
+      "artists": [
+        {
+          "name": "DIAMOND MQT",
+          "url": "https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234606,
+      "name": "Victoria's Secret",
+      "url": "https://open.spotify.com/track/6fON5gco8TNy1di0oBUr1Y"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -15136,7 +15154,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 287000,
       "name": "\u0e01\u0e25\u0e31\u0e27\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e08\u0e30\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Fear)",
       "url": "https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA"
@@ -18760,7 +18778,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 257049,
       "name": "\u0e23\u0e31\u0e01\u0e2a\u0e25\u0e31\u0e01\u0e2d\u0e01",
       "url": "https://open.spotify.com/track/1YiOlK2XiivuLhmQnL1n7Q"
@@ -20610,7 +20628,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 239683,
       "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e27\u0e31\u0e19\u0e44\u0e2b\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
       "url": "https://open.spotify.com/track/0UlTAkFyXcBBs1HjtICAsD"
@@ -20700,7 +20718,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 267441,
       "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/35wMKn5IxX8DYnCuyIEdQq"
@@ -21344,7 +21362,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 205875,
       "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32 (Worth The Wait)",
       "url": "https://open.spotify.com/track/262eVzp5Uu1RfeGaV5qIwm"

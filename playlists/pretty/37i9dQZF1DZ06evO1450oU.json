@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAC9DFraPRaEYJhsm/gDy5e2",
+  "snapshot_id": "aIF3gAAAAAAqq99FAyfDVpo7Jxr4kztq",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Were There",
-        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
+        "name": "High Horse",
+        "url": "https://open.spotify.com/album/0O925AVmQdYEUyjd5M2Qfh"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 234073,
-      "name": "Highway Lights",
-      "url": "https://open.spotify.com/track/7A1oDHWG9S7rvhn3cD1LbY"
+      "duration_ms": 211812,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/6RMgjx8n8USSkiXjt0Mzfr"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Occult Box (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gBL6rEeGLUM1anvgGuisF"
+        "name": "If You Were There",
+        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 320320,
-      "name": "Destroy",
-      "url": "https://open.spotify.com/track/5GMsUTlHVuuKF08zW6zQ5g"
+      "duration_ms": 234073,
+      "name": "Highway Lights",
+      "url": "https://open.spotify.com/track/7A1oDHWG9S7rvhn3cD1LbY"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 211812,
-      "name": "High Horse",
-      "url": "https://open.spotify.com/track/4CyAFi6gxc7h3gpkdP86Rd"
+      "duration_ms": 193293,
+      "name": "Soul Jar",
+      "url": "https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Were There",
-        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
+        "name": "Occult Box (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gBL6rEeGLUM1anvgGuisF"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 266485,
-      "name": "Electricity Is Humming",
-      "url": "https://open.spotify.com/track/0wQqkrcURV92bVnc3rwhHq"
+      "duration_ms": 320320,
+      "name": "Destroy",
+      "url": "https://open.spotify.com/track/5GMsUTlHVuuKF08zW6zQ5g"
     },
     {
       "added_at": null,
@@ -212,25 +212,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 193293,
-      "name": "Soul Jar",
-      "url": "https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where Strangers Go",
-        "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Window Shade",
-      "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
+      "duration_ms": 175614,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe"
     },
     {
       "added_at": null,
@@ -251,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where Strangers Go",
+        "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Window Shade",
+      "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Out of the Sky",
         "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
       },
@@ -260,9 +260,25 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 175614,
-      "name": "INVU",
-      "url": "https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe"
+      "duration_ms": 228670,
+      "name": "Where is the Sun",
+      "url": "https://open.spotify.com/track/2uJPnVIAWKnkECOhS4wbH5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You Were There",
+        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 266485,
+      "name": "Electricity Is Humming",
+      "url": "https://open.spotify.com/track/0wQqkrcURV92bVnc3rwhHq"
     },
     {
       "added_at": null,

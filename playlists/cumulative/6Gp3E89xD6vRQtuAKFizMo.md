@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-475 songs - 22 hr 50 min
+477 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Feedback \- Honey & Badger Remix](https://open.spotify.com/track/16aYMEOC0WKIJBc7d3QVsY) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Autoerotique](https://open.spotify.com/artist/3SvCpwSeoWCcjfo8zjPZKB), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Feedback \(10 Year Anniversary Remixes\)](https://open.spotify.com/album/3O2qlWVfSPtoG9tM9nDpD6) | 2:15 | 2024-12-20 | 2025-04-27 |
 | [Feel \(Real Love\)](https://open.spotify.com/track/4PLv9pEMN70ZV3WJEgUsKI) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Feel \(Real Love\)](https://open.spotify.com/album/6hZzA8GiTJLtiN873lqUwt) | 2:41 | 2024-09-06 | 2025-04-27 |
 | [Feel It](https://open.spotify.com/track/3dGFEUTGK8gTQHrsmJrlrW) | [Shelco](https://open.spotify.com/artist/4PXoP4OdRB1Hzdr67DIHRD), [STRBLAST](https://open.spotify.com/artist/7waCeZR7phX8e6XMbijhiT) | [Feel It](https://open.spotify.com/album/17DTZRbt1LCoNMeHTWuKK9) | 2:17 | 2024-11-22 | 2025-04-27 |
+| [Feel The Love](https://open.spotify.com/track/2W0PYXRtAWzSldqzqo9Mut) | [Wurme](https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ), [Lost Vandal](https://open.spotify.com/artist/0HjAgCVuK3fjTZ3HJ38wh7) | [Feel The Love](https://open.spotify.com/album/4hW9qS1NG2xIUjg6Hvceb5) | 3:12 | 2025-07-25 |  |
 | [Feel The Sun \(feat\. Conor McLoughlin\)](https://open.spotify.com/track/1qrp1bnCoZR6Gh8B1CLvn0) | [Axel Knox](https://open.spotify.com/artist/5shjcniUWXXN8xRgMQCZOm), [Conor McLoughlin](https://open.spotify.com/artist/4RXraxMiBQjbq7hiy8F2aw) | [Feel The Sun \(feat\. Conor McLoughlin\)](https://open.spotify.com/album/3oDTaFDokKXBrEo3cMFSWv) | 2:26 | 2024-05-23 | 2025-04-27 |
 | [Feels Like](https://open.spotify.com/track/2dJC7TpwGn8b2ricS0nnZV) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Feels Like](https://open.spotify.com/album/0VH6K3eQTPE3sdFAbNnW65) | 3:26 | 2022-08-12 | 2022-12-10 |
 | [Fight \(Show Me Who You Are\)](https://open.spotify.com/track/64z1dWUjWiW0sRjsAhtNTD) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Fight \(Show Me Who You Are\)](https://open.spotify.com/album/1c6CkJzI9bVOH1RZyA9Snl) | 3:37 | 2023-11-22 | 2025-04-27 |
@@ -394,6 +395,7 @@
 | [Something 2 Believe In \(feat\. Bella Renee\)](https://open.spotify.com/track/0MKm4kyCdLHz1rzN2BJm5N) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Something 2 Believe In \(feat\. Bella Renee\)](https://open.spotify.com/album/5SkxH8h7JKulRmT9Rbj7Cx) | 3:14 | 2024-11-22 | 2025-04-27 |
 | [Something To Luv For \(with Advokid\)](https://open.spotify.com/track/5iq4IyI8oj7gHiRGxo8qLO) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Advokid](https://open.spotify.com/artist/3aO9yUQwH6uBCtV9c5kflf) | [Something To Luv For \(with Advokid\)](https://open.spotify.com/album/1Lm5PKdzBTNBwR2WxPmJnP) | 2:33 | 2023-05-19 | 2025-04-27 |
 | [Soul](https://open.spotify.com/track/6DCyeSglUl6dX2GcWF5frs) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Soul](https://open.spotify.com/album/3slTbKjs9faxtbTTVV3kwN) | 3:33 | 2024-10-25 | 2025-04-27 |
+| [Speakers Knockin’](https://open.spotify.com/track/4sCpGl1d1jIn5oEZtsKWKN) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Speakers Knockin'](https://open.spotify.com/album/5Zt0Im2ExfX1xYom9ileGK) | 2:18 | 2025-07-25 |  |
 | [Special](https://open.spotify.com/track/3vh0XSibnAhcCvF4JR6bEl) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Special](https://open.spotify.com/album/1Kt1WTwr9aBh3MRk2xXzaV) | 2:05 | 2024-06-14 | 2025-04-27 |
 | [Stars Don't Shine \(feat\. Global Dan\)](https://open.spotify.com/track/0Bz4zF649klc9hMb9xtj16) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [Stars Don't Shine \(feat\. Global Dan\)](https://open.spotify.com/album/4su0t3XDFmCCdQaQXd51no) | 3:41 | 2022-05-06 | 2022-08-03 |
 | [Step Back](https://open.spotify.com/track/0oHEiGSJjfLROTq55TEoFl) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Step Back](https://open.spotify.com/album/3raiGz0JFTWpnzvMgJtnC2) | 3:18 | 2022-07-29 | 2023-03-03 |

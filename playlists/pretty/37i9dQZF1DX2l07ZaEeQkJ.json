@@ -1,6 +1,6 @@
 {
   "description": "trakas hdsptm \ud83d\udc7f\ud83d\udc79\ud83c\udf7b\ud83c\udf7e\ud83e\udee1\ud83d\udcb8",
-  "num_followers": 168836,
+  "num_followers": 168882,
   "original_name": "traka",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
+        "name": "GOET",
+        "url": "https://open.spotify.com/album/3tbuO1Yqd3nkyGdVqqtAbF"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "GOET",
+      "url": "https://open.spotify.com/track/5CE77TLqLjOQ2qgAobzPds"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "GOET",
-        "url": "https://open.spotify.com/album/3tbuO1Yqd3nkyGdVqqtAbF"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "GOET",
-      "url": "https://open.spotify.com/track/5CE77TLqLjOQ2qgAobzPds"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
-        "name": "EL \u00daLTIMO BAILE",
-        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 145342,
-      "name": "REAL GANGSTA LOVE",
-      "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -531,22 +515,18 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "LOS CUADROS",
-        "url": "https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz"
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 160409,
-      "name": "LOS CUADROS",
-      "url": "https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W"
+      "duration_ms": 145342,
+      "name": "REAL GANGSTA LOVE",
+      "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -567,6 +547,26 @@
       "duration_ms": 234077,
       "name": "Mejores Jordans",
       "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "LOS CUADROS",
+        "url": "https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 160409,
+      "name": "LOS CUADROS",
+      "url": "https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/3leHvDNdXWXRhKoxRDBh97"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Mi Vida Mi Muerte",
-      "url": "https://open.spotify.com/track/6xcDsAPb70i1ZdxIFxItFV"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
         "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 187172,
       "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/3leHvDNdXWXRhKoxRDBh97"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Mi Vida Mi Muerte",
+      "url": "https://open.spotify.com/track/6xcDsAPb70i1ZdxIFxItFV"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
+        "name": "Lo Que Hay X Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 158545,
+      "name": "Lo Que Hay X Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
         "name": "QUEMA",
         "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 150618,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
-        "name": "Lo Que Hay X Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 158545,
-      "name": "Lo Que Hay X Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Coraz\u00f3n de Piedra",
-        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 193568,
-      "name": "Coraz\u00f3n de Piedra",
-      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "Ya No Estoy Dolido",
         "url": "https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 179600,
       "name": "Ya No Estoy Dolido",
       "url": "https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "Coraz\u00f3n de Piedra",
+        "url": "https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 193568,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "La Intenci\u00f3n",
-        "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 249464,
-      "name": "La Intenci\u00f3n",
-      "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "Pocos A\u00f1os Mil Errores",
         "url": "https://open.spotify.com/album/3Ss2agKWd4oBWEBcdKsZPe"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 198354,
       "name": "Pocos A\u00f1os Mil Errores",
       "url": "https://open.spotify.com/track/05eWLa61PMRibhFtIHsD0D"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "La Intenci\u00f3n",
+        "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 249464,
+      "name": "La Intenci\u00f3n",
+      "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
     },
     {
       "added_at": "2025-02-14 19:20:37",

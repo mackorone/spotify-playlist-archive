@@ -4528,7 +4528,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Chococono",
       "url": "https://open.spotify.com/track/1QOdcBUzfhDM1twaQRNIko"
@@ -6824,7 +6824,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 214120,
       "name": "Dile a Tu Amiga",
       "url": "https://open.spotify.com/track/3u2jlo9kygiIAq7SPVuw6S"
@@ -10202,7 +10202,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 165178,
       "name": "frente al mar",
       "url": "https://open.spotify.com/track/1i1n7hUzCDkXGFqIJSSzom"
@@ -22470,7 +22470,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 139534,
       "name": "REMEDIO",
       "url": "https://open.spotify.com/track/63zeT81t627KKfZsC920QN"
@@ -23460,7 +23460,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
@@ -27765,6 +27765,32 @@
     },
     {
       "album": {
+        "name": "Undercromo (W Sound 06)",
+        "url": "https://open.spotify.com/album/5pKV8Yy2mMT6yU5xjIodFw"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197260,
+      "name": "Undercromo - W Sound 06",
+      "url": "https://open.spotify.com/track/4G1DYPZP4vGWfY2ki1rvjP"
+    },
+    {
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -27850,7 +27876,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 207723,
       "name": "URUS BLUE",
       "url": "https://open.spotify.com/track/4sTnItbNUAcS5KDG6vTA5B"
@@ -28010,7 +28036,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 235336,
       "name": "VeLD\u00c1",
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"

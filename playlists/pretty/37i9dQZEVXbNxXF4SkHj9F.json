@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - South Korea.",
-  "num_followers": 144119,
+  "num_followers": 144196,
   "original_name": "Top 50 - South Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MBWoqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MBb30AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
@@ -129,7 +129,23 @@
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
+      "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 180353,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
+    },
+    {
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -169,23 +185,27 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
-        "name": "FAMOUS",
-        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
+        "name": "Winter Ahead (with PARK HYO SHIN)",
+        "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
       },
       "artists": [
         {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
         }
       ],
-      "duration_ms": 180353,
-      "name": "FAMOUS",
-      "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
+      "duration_ms": 234895,
+      "name": "Winter Ahead (with PARK HYO SHIN)",
+      "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -217,27 +237,7 @@
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
-      "album": {
-        "name": "Winter Ahead (with PARK HYO SHIN)",
-        "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        },
-        {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
-        }
-      ],
-      "duration_ms": 234895,
-      "name": "Winter Ahead (with PARK HYO SHIN)",
-      "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
-    },
-    {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
         "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "FAMOUS",
         "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "Dirty Work",
         "url": "https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4qtdab2DABnEokwupCl8lG"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "bomb",
         "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
@@ -345,7 +345,23 @@
       "url": "https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -377,23 +393,7 @@
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -457,23 +457,7 @@
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
-      "album": {
-        "name": "STYLE",
-        "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 209671,
-      "name": "STYLE",
-      "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
-    },
-    {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -489,23 +473,23 @@
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
-        "name": "WHO WE ARE",
-        "url": "https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz"
+        "name": "STYLE",
+        "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
       },
       "artists": [
         {
-          "name": "AHOF",
-          "url": "https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH"
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
         }
       ],
-      "duration_ms": 220013,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/4nKnOIDXFjRSMG4vkXDwzY"
+      "duration_ms": 209671,
+      "name": "STYLE",
+      "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -521,7 +505,7 @@
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "Whiplash - The 5th Mini Album",
         "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
@@ -537,7 +521,7 @@
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "OO-LI",
         "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
@@ -553,23 +537,7 @@
       "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
-      "album": {
-        "name": "IGNITION",
-        "url": "https://open.spotify.com/album/5jKxRZK8aNZpTKqBF3Qr4q"
-      },
-      "artists": [
-        {
-          "name": "NOWZ",
-          "url": "https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Problem Child",
-      "url": "https://open.spotify.com/track/2i47cFChkfqOd1zCfdsltH"
-    },
-    {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "Messy (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr"
@@ -589,55 +557,7 @@
       "url": "https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 144624,
-      "name": "Rebirth (Intro)",
-      "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
-    },
-    {
-      "added_at": "2025-07-24 15:25:46",
-      "album": {
-        "name": "\uc2dc\uc791\uc758 \uc544\uc774 \u30cf\u30b8\u30de\u30ea\u306e\u30b3 (Starting With You)",
-        "url": "https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO"
-      },
-      "artists": [
-        {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        }
-      ],
-      "duration_ms": 256626,
-      "name": "\uc2dc\uc791\uc758 \uc544\uc774 \u30cf\u30b8\u30de\u30ea\u306e\u30b3 (Starting With You)",
-      "url": "https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF"
-    },
-    {
-      "added_at": "2025-07-24 15:25:46",
-      "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 176126,
-      "name": "Nothing Without Your Love",
-      "url": "https://open.spotify.com/track/4H6s1mTZcjHAMU36ZF3Xoz"
-    },
-    {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -657,7 +577,23 @@
       "url": "https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
+      "album": {
+        "name": "Happy - :') (Remixes)",
+        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 151646,
+      "name": "Running Wild",
+      "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
+    },
+    {
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
@@ -677,23 +613,23 @@
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
-        "name": "Heavenly Ever After",
-        "url": "https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc"
+        "name": "\uc2dc\uc791\uc758 \uc544\uc774 \u30cf\u30b8\u30de\u30ea\u306e\u30b3 (Starting With You)",
+        "url": "https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO"
       },
       "artists": [
         {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
         }
       ],
-      "duration_ms": 295413,
-      "name": "Heavenly Ever After",
-      "url": "https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ"
+      "duration_ms": 256626,
+      "name": "\uc2dc\uc791\uc758 \uc544\uc774 \u30cf\u30b8\u30de\u30ea\u306e\u30b3 (Starting With You)",
+      "url": "https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -704,12 +640,44 @@
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 223301,
-      "name": "Closer Than This",
-      "url": "https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk"
+      "duration_ms": 144624,
+      "name": "Rebirth (Intro)",
+      "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
+      "album": {
+        "name": "WHO WE ARE",
+        "url": "https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz"
+      },
+      "artists": [
+        {
+          "name": "AHOF",
+          "url": "https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH"
+        }
+      ],
+      "duration_ms": 220013,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/4nKnOIDXFjRSMG4vkXDwzY"
+    },
+    {
+      "added_at": "2025-07-25 14:10:57",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 176126,
+      "name": "Nothing Without Your Love",
+      "url": "https://open.spotify.com/track/4H6s1mTZcjHAMU36ZF3Xoz"
+    },
+    {
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "The Chase",
         "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
@@ -725,39 +693,55 @@
       "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 206019,
-      "name": "Standing Next to You",
-      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+      "duration_ms": 223301,
+      "name": "Closer Than This",
+      "url": "https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
-        "name": "From Our 20's",
-        "url": "https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V"
+        "name": "IGNITION",
+        "url": "https://open.spotify.com/album/5jKxRZK8aNZpTKqBF3Qr4q"
       },
       "artists": [
         {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+          "name": "NOWZ",
+          "url": "https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg"
         }
       ],
-      "duration_ms": 185026,
-      "name": "LIKE YOU BETTER",
-      "url": "https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6"
+      "duration_ms": 180026,
+      "name": "Problem Child",
+      "url": "https://open.spotify.com/track/2i47cFChkfqOd1zCfdsltH"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
+      "album": {
+        "name": "Heavenly Ever After",
+        "url": "https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 295413,
+      "name": "Heavenly Ever After",
+      "url": "https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ"
+    },
+    {
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "THIS IS FOR (DELUXE)",
         "url": "https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U"
@@ -773,23 +757,23 @@
       "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
-        "name": "yours",
-        "url": "https://open.spotify.com/album/7mvY0s2fwo5aaRw4zCyCA6"
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
       "artists": [
         {
-          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
-          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
         }
       ],
-      "duration_ms": 165229,
-      "name": "yours",
-      "url": "https://open.spotify.com/track/7JQH2lBMZ10ztDnpoeq6Ki"
+      "duration_ms": 206019,
+      "name": "Standing Next to You",
+      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -809,7 +793,55 @@
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh"
+    },
+    {
+      "added_at": "2025-07-25 14:10:57",
+      "album": {
+        "name": "From Our 20's",
+        "url": "https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "LIKE YOU BETTER",
+      "url": "https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6"
+    },
+    {
+      "added_at": "2025-07-25 14:10:57",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 165809,
+      "name": "Rope It",
+      "url": "https://open.spotify.com/track/5566hAPt0WmMPr9Xn749L7"
+    },
+    {
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
@@ -829,39 +861,39 @@
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC"
+        "name": "yours",
+        "url": "https://open.spotify.com/album/7mvY0s2fwo5aaRw4zCyCA6"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
         }
       ],
-      "duration_ms": 178880,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh"
+      "duration_ms": 165229,
+      "name": "yours",
+      "url": "https://open.spotify.com/track/7JQH2lBMZ10ztDnpoeq6Ki"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
-        "name": "Happy - :') (Remixes)",
-        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+        "name": "THIS IS FOR",
+        "url": "https://open.spotify.com/album/02dUOPB3MtmV5fawzaZiq6"
       },
       "artists": [
         {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 151646,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
+      "duration_ms": 131097,
+      "name": "THIS IS FOR",
+      "url": "https://open.spotify.com/track/3598iBWrS4JhJqP5tHlpVK"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "FRI(END)S",
         "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
@@ -877,23 +909,23 @@
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
-        "name": "HANDS UP",
-        "url": "https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E"
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
       },
       "artists": [
         {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 192467,
-      "name": "HANDS UP",
-      "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
@@ -913,76 +945,36 @@
       "url": "https://open.spotify.com/track/4WrkJNGb4zUwARc0FD3iNf"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
       },
       "artists": [
         {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
         }
       ],
-      "duration_ms": 187026,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
+      "duration_ms": 188897,
+      "name": "With the Clouds",
+      "url": "https://open.spotify.com/track/5RdKO1lsHG9jhbG03LL7cv"
     },
     {
-      "added_at": "2025-07-24 15:25:46",
+      "added_at": "2025-07-25 14:10:57",
       "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
         }
       ],
-      "duration_ms": 160688,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
-    },
-    {
-      "added_at": "2025-07-24 15:25:46",
-      "album": {
-        "name": "\u00dcbermensch",
-        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        },
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
-        }
-      ],
-      "duration_ms": 211330,
-      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-      "url": "https://open.spotify.com/track/5doooVlMVRZztQbySqARMI"
-    },
-    {
-      "added_at": "2025-07-24 15:25:46",
-      "album": {
-        "name": "Grain of Sand",
-        "url": "https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 220309,
-      "name": "Grain of Sand",
-      "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
+      "duration_ms": 181575,
+      "name": "To Me, Today",
+      "url": "https://open.spotify.com/track/3f7rVNaBNocDLtPmnds9eE"
     }
   ],
   "unique_name": "Top 50 - South Korea",

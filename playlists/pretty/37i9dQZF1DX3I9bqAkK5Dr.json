@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Jagdish, Ayaan, Damini",
-  "num_followers": 40612,
+  "num_followers": 40627,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHUJdQAAAAACxZ+1WiO4RY70GV7Wrzby",
+  "snapshot_id": "aIPbrwAAAACjPF3JQj1pA1wq6SQ+3Sfz",
   "tracks": [
     {
       "added_at": "2025-06-26 14:17:50",
@@ -31,6 +31,38 @@
       "duration_ms": 186000,
       "name": "Neetho",
       "url": "https://open.spotify.com/track/2JWW2XxFTitx26C0YzaNEE"
+    },
+    {
+      "added_at": "2025-07-25 19:31:59",
+      "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/06eb1bRqGBcb7JIv19HwXX"
+      },
+      "artists": [
+        {
+          "name": "Dinker kalvala",
+          "url": "https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/24g39pI34BkYYcAvDx6SXW"
+    },
+    {
+      "added_at": "2025-07-25 19:31:59",
+      "album": {
+        "name": "Rampampam",
+        "url": "https://open.spotify.com/album/5YPZOufsOquGDt0J7JM6V8"
+      },
+      "artists": [
+        {
+          "name": "Arviz",
+          "url": "https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf"
+        }
+      ],
+      "duration_ms": 130933,
+      "name": "Rampampam",
+      "url": "https://open.spotify.com/track/7J89Jm5sDnNOd0g3IdyERU"
     },
     {
       "added_at": "2025-07-04 14:30:03",

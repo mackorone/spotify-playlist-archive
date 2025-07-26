@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 715827,
+  "num_followers": 716134,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAADoXEX3rfllq64GSm0GlYCF",
+  "snapshot_id": "aIF3gAAAAAAlTbGY2d8y9rvfFu6Pt04i",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOWER SHOPS (THE ALBUM)",
-        "url": "https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O"
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
       },
       "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 214405,
-      "name": "Flower Shops (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC"
+      "duration_ms": 293706,
+      "name": "Cover Me Up",
+      "url": "https://open.spotify.com/track/5AQNqdpl6SEV9rAHWy7U9w"
     },
     {
       "added_at": null,
@@ -399,18 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
+        "name": "FLOWER SHOPS (THE ALBUM)",
+        "url": "https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O"
       },
       "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 293706,
-      "name": "Cover Me Up",
-      "url": "https://open.spotify.com/track/5AQNqdpl6SEV9rAHWy7U9w"
+      "duration_ms": 214405,
+      "name": "Flower Shops (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC"
     },
     {
       "added_at": null,

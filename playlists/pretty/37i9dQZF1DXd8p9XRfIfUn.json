@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 79996,
+  "num_followers": 80004,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -267,30 +267,6 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "Reggaeto\u00f1erito",
-        "url": "https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "DJ Antena",
-          "url": "https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Dale Bogueto",
-      "url": "https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
         "name": "Vete Pal Carajo",
         "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
       },
@@ -311,6 +287,30 @@
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
+        "name": "Reggaeto\u00f1erito",
+        "url": "https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "DJ Antena",
+          "url": "https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Dale Bogueto",
+      "url": "https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "POPPER!",
-        "url": "https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 110141,
-      "name": "POPPER!",
-      "url": "https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
         "name": "ENTE VIRTUAL",
         "url": "https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 129229,
       "name": "ENTE VIRTUAL",
       "url": "https://open.spotify.com/track/3C03edn86LdGuAMO3bIDqr"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
+        "name": "POPPER!",
+        "url": "https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 110141,
+      "name": "POPPER!",
+      "url": "https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O"
     },
     {
       "added_at": "2025-02-07 06:00:17",

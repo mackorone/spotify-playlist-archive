@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Dept
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: YEW
 
-126 songs - 8 hr 47 min
+127 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [ทุกวันเหมือนเดิม](https://open.spotify.com/track/4zQNXqaOsprULnmPpJzthQ) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ทุกวันเหมือนเดิม](https://open.spotify.com/album/3u1yAY03tT0NgH6eXJX6NJ) | 4:03 | 2025-02-28 |  |
 | [ทุกสิ่ง \(Voodoo Potion\)](https://open.spotify.com/track/7FuNF6TO7xdrKdDSePTw0x) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ทุกสิ่ง \(Voodoo Potion\)](https://open.spotify.com/album/6alNIfAj10XFQskbGE8KgP) | 4:48 | 2024-06-27 | 2025-03-22 |
 | [นี่ฉันเองคนที่...](https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [นี่ฉันเองคนที่...](https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK) | 4:16 | 2024-09-20 |  |
+| [บทกวีสีฟ้า \(Bluebird\)](https://open.spotify.com/track/3l8N4HXUN9O0s6hLWYTrRm) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [บทกวีสีฟ้า \(Bluebird\)](https://open.spotify.com/album/4RYKPODUPCpvBFFnbIhCD6) | 3:37 | 2025-07-25 |  |
 | [บอกทีได้ไหม?](https://open.spotify.com/track/0hnEQh5IUjnXgT923C07qR) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [บอกทีได้ไหม?](https://open.spotify.com/album/4DBDoBVgZatuk4dcKeU4uq) | 3:58 | 2024-10-11 |  |
 | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 | 2024-07-05 | 2024-12-21 |
 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 | 2024-06-27 | 2025-05-02 |
@@ -125,7 +126,7 @@
 | [ในห้องเดิม \(Claustrophobia\)](https://open.spotify.com/track/55iW4BryMzudU98ySEhn1E) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ในห้องเดิม \(Claustrophobia\)](https://open.spotify.com/album/7hKiyBHI3KUPU1sbNCQT6H) | 4:08 | 2025-02-12 |  |
 | [ให้เธอรู้](https://open.spotify.com/track/3bxsNh46m1cicdfcNptwOY) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ให้เธอรู้](https://open.spotify.com/album/7spK5lX3p2nBLYmgyA5CyX) | 4:11 | 2024-06-27 | 2025-05-17 |
 | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/track/70pOmngGTSMHPjgIqVRFsI) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/album/6USjhvo2kxlFA9cyEBgw6m) | 4:44 | 2025-05-09 |  |
-| [ไม่ซับซ้อน](https://open.spotify.com/track/3rjuUVvemlYisi4ehnwNai) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen), [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [ไม่ซับซ้อน](https://open.spotify.com/album/5Gh9kDE3MM4FjGgnpNRkDy) | 3:45 | 2025-06-06 |  |
+| [ไม่ซับซ้อน](https://open.spotify.com/track/3rjuUVvemlYisi4ehnwNai) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen), [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [ไม่ซับซ้อน](https://open.spotify.com/album/5Gh9kDE3MM4FjGgnpNRkDy) | 3:45 | 2025-06-06 | 2025-07-26 |
 | [ไม่ต้องเกรงใจ \(Make Sure\)](https://open.spotify.com/track/03VOGaj0opd5oCVwg1NU30) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J) | [ไม่ต้องเกรงใจ \(Make Sure\)](https://open.spotify.com/album/3kr9AyWsyMVUnRnatvJQSt) | 3:36 | 2024-08-30 | 2024-09-21 |
 | [ไม่บอกก็รู้](https://open.spotify.com/track/5ie8e9PnYpJQtpW2JdgYVj) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ไม่บอกก็รู้](https://open.spotify.com/album/0LyTvjcxBAkZ4U3Sm9EwIX) | 4:27 | 2025-07-04 |  |
 | [ไม่เคยรู้](https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ไม่เคยรู้](https://open.spotify.com/album/0QYsMM0FeG6QryoPlf54io) | 5:02 | 2024-09-11 | 2025-06-14 |

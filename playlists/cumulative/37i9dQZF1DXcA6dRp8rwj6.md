@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Tyler, The Creator\)
 
-2,955 songs - 6 day 5 hr 9 min
+2,956 songs - 6 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Better Days \(feat\. JUMADIBA\)](https://open.spotify.com/track/0vBoj1HfKDyB4SGQJPPUEK) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [BALANCE](https://open.spotify.com/album/53TUP9i0S2t2gDRe9pCfYB) | 1:53 | 2024-09-06 | 2024-10-25 |
 | [BETTER OFF](https://open.spotify.com/track/4iCEgsiLhznxXLc0VjjruT) | [Reiklytokyo](https://open.spotify.com/artist/3CoxnqdIPx4y03sqIcXeFx) | [BETTER OFF](https://open.spotify.com/album/49lq6IVAiJd1aXd2zigg4L) | 2:13 | 2024-05-24 | 2024-06-28 |
 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-07-28 | 2023-09-08 |
-| [Big Bag](https://open.spotify.com/track/10dWn0syXPIp0TfdPFx4Lq) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Bag](https://open.spotify.com/album/4oInS7vZDjkBgONe5UyC7C) | 2:46 | 2025-06-27 |  |
+| [Big Bag](https://open.spotify.com/track/10dWn0syXPIp0TfdPFx4Lq) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Bag](https://open.spotify.com/album/4oInS7vZDjkBgONe5UyC7C) | 2:45 | 2025-06-27 |  |
 | [Big Body \(feat\. Lil Yachty\)](https://open.spotify.com/track/1sl6OyOIA17y8pVwgcX4dn) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [For Us](https://open.spotify.com/album/3qQkODMSwPDWNdDr9fLTjL) | 3:04 | 2025-01-24 | 2025-02-28 |
 | [Big Boi \(All Star Remix\)](https://open.spotify.com/track/6v6Sz8zjizL72erxXsyO00) | [Herbal Candy](https://open.spotify.com/artist/4iS9f9ZV9yAHQ9wUcPtFPi), [Ninjaboi](https://open.spotify.com/artist/4k8Lmq0mgPi7KcE97numIN), [Nakalness](https://open.spotify.com/artist/1loI0RIE3tosoU6YePYuUI), [ChronicalZ](https://open.spotify.com/artist/3OvM4PgW1240WvfbIi9hDh), [F.Rider](https://open.spotify.com/artist/0IAkxUc3IVgyrDLwB3BLkq), [Shelhiel](https://open.spotify.com/artist/1YiJh4CyYHF215ak2CmoaE) | [Big Boi \(All Star Remix\)](https://open.spotify.com/album/4pPNSJGQMmnOJVcPWslC73) | 5:20 | 2022-01-20 | 2022-02-25 |
 | [Big Burna](https://open.spotify.com/track/3cmPUqi8Dnv1a9MRjgMZGa) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Big Burna](https://open.spotify.com/album/2uG3PrRbukgoFFBCrOvVQJ) | 2:42 | 2022-11-17 | 2023-01-13 |
@@ -1627,6 +1627,7 @@
 | [Motion \(feat\. Chris Brown\)](https://open.spotify.com/track/3TV0uB4XI6vBoN7MjOhiAC) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Motion \(feat\. Chris Brown\)](https://open.spotify.com/album/7tpEGkrQn7roe8BPqSkt3u) | 2:27 | 2023-07-20 | 2023-09-01 |
 | [Motorola Era](https://open.spotify.com/track/1zJji00l6MIBJ8elu1a9zC) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Motorola Era](https://open.spotify.com/album/64fJWEf59MjKIvSHdZFhni) | 2:46 | 2022-01-20 | 2022-02-04 |
 | [Move](https://open.spotify.com/track/5FoSDKPB0QufTlGbOBye0F) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Move](https://open.spotify.com/album/1KaLxqjf1O9xnxS5Z3G1ga) | 3:16 | 2022-09-16 | 2022-10-28 |
+| [move on](https://open.spotify.com/track/1QoLLAZf0NXUnjqjaj2Tvo) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw) | [teletext](https://open.spotify.com/album/5gKjSaUrLiKsTjm079gZwD) | 4:06 | 2025-07-24 |  |
 | [Movin'](https://open.spotify.com/track/749oQRvdvg8BJNu3oUQIVp) | [Flowsik](https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq) | [Movin'](https://open.spotify.com/album/7fwAr1n2sKPcW9fiO3xFGE) | 2:53 | 2024-02-01 | 2024-03-01 |
 | [Moving Forward](https://open.spotify.com/track/4kO9Q1jUCLhuuWOQs3hBa3) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [January Never Dies](https://open.spotify.com/album/3KfVspuHZTMj8eg5wAH5t1) | 3:25 | 2023-10-19 | 2023-11-18 |
 | [Mozzarella](https://open.spotify.com/track/6LSyrl1b9cS5Mj4Eh7dRnX) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Mozzarella](https://open.spotify.com/album/5XS2sDLBks5lLsQlD4uEuq) | 2:50 | 2024-01-11 | 2024-02-23 |

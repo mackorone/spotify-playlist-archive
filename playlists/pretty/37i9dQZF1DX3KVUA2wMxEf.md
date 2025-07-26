@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,992 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,042 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sin Ti](https://open.spotify.com/track/47HsXFJ6I8tSwq24J5X5CQ) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Sin Ti](https://open.spotify.com/album/79LCISKDQIUmcjTNg0JTFl) | 4:47 |
-| 2 | [Tengo Tu Love](https://open.spotify.com/track/2hgzokI1dOZAxs5PUG0gBT) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Mucha Cosa Buena](https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH) | 3:51 |
+| 2 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 |
 | 3 | [Sentimiento Original](https://open.spotify.com/track/2dz5G8cubIlwFN6SJtj0rg) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 4:52 |
-| 4 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 |
+| 4 | [Tengo Tu Love](https://open.spotify.com/track/2hgzokI1dOZAxs5PUG0gBT) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Mucha Cosa Buena](https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH) | 3:51 |
 | 5 | [Ilegal](https://open.spotify.com/track/6chMn4cXB2AkcDMjcsVixg) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/2KRlM32gIN0saKVJdQfCtr) | 5:05 |
 | 6 | [Mi Balcon](https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 4:19 |
 | 7 | [Runaway](https://open.spotify.com/track/2lqFwTECuP5VNUvzzotxWo) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 3:25 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 19 | [International Love](https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:06 |
 | 20 | [Tu Presencia](https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:41 |
 | 21 | [Un Poquito De Ti \(feat\. Movimiento Original\)](https://open.spotify.com/track/3axbIOoM5lUXADunn5WVos) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Alma](https://open.spotify.com/album/5oX7WtRFG6PnzhIRgmlTY7) | 5:01 |
-| 22 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 |
-| 23 | [Señorita](https://open.spotify.com/track/7gbNeM27pOcRrXOjl49ZyN) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3) | [Pasajeros](https://open.spotify.com/album/7wPX6dyFYxKhSpszngQfhJ) | 4:20 |
+| 22 | [Señorita](https://open.spotify.com/track/7gbNeM27pOcRrXOjl49ZyN) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3) | [Pasajeros](https://open.spotify.com/album/7wPX6dyFYxKhSpszngQfhJ) | 4:20 |
+| 23 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 |
 | 24 | [Te Robaste Mi Corazón](https://open.spotify.com/track/5fzXA437Mj45Tl5NgXeeq7) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Forever Together !](https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht) | 4:03 |
 | 25 | [Tú](https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:56 |
 | 26 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 |

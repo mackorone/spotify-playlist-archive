@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,096 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,100 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 46 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 |
 | 47 | [Warning](https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA) | [Lasers Lasers Birmingham](https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI) | [Warning](https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm) | 3:27 |
 | 48 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
-| 49 | [Playing Old Games](https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Pete Lindberg](https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6) | [Playing Old Games](https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP) | 3:29 |
-| 50 | [Still Miss the Way](https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 3:09 |
+| 49 | [Still Miss the Way](https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 3:09 |
+| 50 | [Playing Old Games](https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Pete Lindberg](https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6) | [Playing Old Games](https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP) | 3:29 |
 | 51 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
 | 52 | [Diamond Joe](https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Field Recordings, Vol\. 1](https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM) | 2:36 |
 | 53 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 |
@@ -85,18 +85,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 75 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 |
 | 76 | [Femme Fatale](https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS) | [Skylar Gudasz](https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ) | [Cinema](https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w) | 4:46 |
 | 77 | [True Love's Face](https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [True Love's Face](https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK) | 3:20 |
-| 78 | [Finger on the Button](https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3) | [Blue Cactus](https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n) | [Finger on the Button](https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r) | 3:44 |
-| 79 | [Marriage Ain't the End of Being Lonely](https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Magnolia Queen](https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B) | 3:46 |
+| 78 | [Marriage Ain't the End of Being Lonely](https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Magnolia Queen](https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B) | 3:46 |
+| 79 | [Finger on the Button](https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3) | [Blue Cactus](https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n) | [Finger on the Button](https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r) | 3:44 |
 | 80 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Love All Night \(Work All Day\)](https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt) | 3:33 |
 | 81 | [Margo](https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [Margo](https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk) | 3:40 |
 | 82 | [Flat Top Guitar](https://open.spotify.com/track/5XMZFXDY5DQOSFLsW1ykDy) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Bright Shadow](https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO) | 2:50 |
 | 83 | [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 |
 | 84 | [You Don't Own Me](https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [You Don't Own Me](https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe) | 2:48 |
 | 85 | [Broken Wing](https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A) | [Evil](https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD) | [Broken Wing](https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr) | 4:35 |
-| 86 | [Kindness of Strangers](https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Kindness of Strangers](https://open.spotify.com/album/0YNskLt7opNVnpNjkh3oeQ) | 3:30 |
-| 87 | [Looking for Trouble](https://open.spotify.com/track/2xD4DFnrn91xLuy4M7Yxt0) | [The Whiskey Gentry](https://open.spotify.com/artist/2wqmq73FxLDJsM2TxIEiqi) | [Dead Ringer](https://open.spotify.com/album/2BAv3kF9WZY4KasAvMVeHo) | 4:10 |
-| 88 | [Cool Cars](https://open.spotify.com/track/7gr3VoP3mj1EturQLVIM6x) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Cool Cars \- EP](https://open.spotify.com/album/6EIsPf2RVWonLJzfSSUtV2) | 3:57 |
-| 89 | [I'll Change](https://open.spotify.com/track/7duLGNkHcs1XUJ8o9lOhak) | [Emily West](https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA), [Whiskey Wolves of the West](https://open.spotify.com/artist/301ao5Vcw38iIFuWiMG1Rj) | [Dear Diary](https://open.spotify.com/album/1IqSN6kpB4yS7kn4eHobRi) | 3:34 |
+| 86 | [Looking for Trouble](https://open.spotify.com/track/2xD4DFnrn91xLuy4M7Yxt0) | [The Whiskey Gentry](https://open.spotify.com/artist/2wqmq73FxLDJsM2TxIEiqi) | [Dead Ringer](https://open.spotify.com/album/2BAv3kF9WZY4KasAvMVeHo) | 4:10 |
+| 87 | [Kindness of Strangers](https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Kindness of Strangers](https://open.spotify.com/album/0YNskLt7opNVnpNjkh3oeQ) | 3:30 |
+| 88 | [I'll Change](https://open.spotify.com/track/7duLGNkHcs1XUJ8o9lOhak) | [Emily West](https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA), [Whiskey Wolves of the West](https://open.spotify.com/artist/301ao5Vcw38iIFuWiMG1Rj) | [Dear Diary](https://open.spotify.com/album/1IqSN6kpB4yS7kn4eHobRi) | 3:34 |
+| 89 | [Cool Cars](https://open.spotify.com/track/7gr3VoP3mj1EturQLVIM6x) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Cool Cars \- EP](https://open.spotify.com/album/6EIsPf2RVWonLJzfSSUtV2) | 3:57 |
 | 90 | [Hey Little Girl](https://open.spotify.com/track/3r1mIdzbGOv386Lcx2nlpM) | [Carli Brill](https://open.spotify.com/artist/7fQgEsmOh72bgCsQjE7ATD) | [Hey Little Girl](https://open.spotify.com/album/2SpV2E885ekUdWCuVMZA3O) | 3:13 |
 | 91 | [I Left My One Spot \(Back at the 5 Spot\)](https://open.spotify.com/track/2TLkwZyAWcKJI9LT0ZXVKx) | [Elijah Ocean](https://open.spotify.com/artist/0MulydXXWmaMh1GxLKXtrS) | [Blue Jeans & Barstools](https://open.spotify.com/album/2XamjjM47WBYSIt0ToYj8k) | 3:00 |
 | 92 | [May Your Kindness Remain](https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb) | 3:54 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 97 | [Half a Heart Keychain](https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Half a Heart Keychain](https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j) | 3:20 |
 | 98 | [Better Way](https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 4:15 |
 | 99 | [Drivin'](https://open.spotify.com/track/6VSkzQqDG7trbQfiU0JxDM) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Robert Ellis](https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt) | 2:46 |
-| 100 | [Take You Back \(The Iron Hoof Cattle Call\)](https://open.spotify.com/track/4rt5TvPSn69Y50Dmzjt4qW) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/7Jn1h8E5aT96pdyrPxrLWi) | 3:27 |
+| 100 | [Companion](https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:08 |
 
 Snapshot ID: `ZpCqQAAAAAAQhZrIhhE4mxH8CUlur4wT`

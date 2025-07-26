@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,206 likes - 99 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,209 likes - 99 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 36 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
 | 37 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 |
 | 38 | [Splash \(feat\. Jhené Aiko & Ty Dolla $ign\)](https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:54 |
-| 39 | [Thinking Less](https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Thinking Less](https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW) | 2:42 |
-| 40 | [Scene 1 \- A COLORS SHOW](https://open.spotify.com/track/10BWEQ0WDTc9JlG1kfNZI5) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Scene 1 \- A COLORS SHOW](https://open.spotify.com/album/0f39zUtqQNYunlzmj3yLmh) | 3:00 |
+| 39 | [Scene 1 \- A COLORS SHOW](https://open.spotify.com/track/10BWEQ0WDTc9JlG1kfNZI5) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Scene 1 \- A COLORS SHOW](https://open.spotify.com/album/0f39zUtqQNYunlzmj3yLmh) | 3:00 |
+| 40 | [Thinking Less](https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Thinking Less](https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW) | 2:42 |
 | 41 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 |
 | 42 | [Choosin'](https://open.spotify.com/track/6ixs1OVZpJ4gIPDdpzZqvn) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Choosin'](https://open.spotify.com/album/6bW3Tm54WdO1OdHtBKckdy) | 2:56 |
 | 43 | [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 64 | [Exposure](https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Exposure](https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7) | 3:44 |
 | 65 | [Inside Out – A COLORS SHOW](https://open.spotify.com/track/6hjiaLxYiZfQTn70mfasJ2) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Inside Out – A COLORS SHOW](https://open.spotify.com/album/6z6puxSN6gXkYqKKXUTPAh) | 3:52 |
 | 66 | [Make Luv 2 Me](https://open.spotify.com/track/6wSS1PXZcHbjIKHwQK6g1v) | [Zo!](https://open.spotify.com/artist/0XoDNlIZvfQP47lyLBVIsz), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [SunStorm](https://open.spotify.com/album/1ssu0v4LiGz7j3y2BUaj2j) | 10:35 |
-| 67 | [No Love Song](https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [No Love Song](https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct) | 3:59 |
-| 68 | [beat of a slow dance](https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [beat of a slow dance](https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d) | 3:54 |
+| 67 | [beat of a slow dance](https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [beat of a slow dance](https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d) | 3:54 |
+| 68 | [No Love Song](https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [No Love Song](https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct) | 3:59 |
 | 69 | [Come To My Room](https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [The Beauty Created](https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR) | 4:31 |
-| 70 | [Stay Here Tonight](https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Good Life](https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz) | 2:57 |
-| 71 | [Crash for a Couple](https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Little Men \(Deluxe\)](https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB) | 4:00 |
+| 70 | [Crash for a Couple](https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Little Men \(Deluxe\)](https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB) | 4:00 |
+| 71 | [Stay Here Tonight](https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Good Life](https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz) | 2:57 |
 | 72 | [Here I Am](https://open.spotify.com/track/1iNEjh4Lb3zLvUc7MRiZsG) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Gratitude](https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF) | 2:53 |
 | 73 | [Last Time](https://open.spotify.com/track/7AvJrRBbe7U4eis5ifjf78) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Starfruit](https://open.spotify.com/album/6BX8c95i5dRgynP9sIzy6K) | 2:41 |
 | 74 | [Stay Down](https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Most Wanted](https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H) | 3:28 |

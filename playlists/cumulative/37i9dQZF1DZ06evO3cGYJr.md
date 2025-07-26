@@ -4,12 +4,13 @@
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-111 songs - 5 hr 38 min
+112 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1DK](https://open.spotify.com/track/1NbIgGzU9Xjj8XlDbQtN8I) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ) | 3:00 | 2025-07-26 |  |
 | [1DK](https://open.spotify.com/track/57p3UI48zf91OWcJEyFPAn) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:00 | 2025-01-27 | 2025-06-07 |
-| [1DK](https://open.spotify.com/track/5slQ0xVsXGcQyEMvvZofpv) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [N0\_L4T3NCY: HALCYON PT\. IV](https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm) | 3:00 | 2025-03-30 |  |
+| [1DK](https://open.spotify.com/track/5slQ0xVsXGcQyEMvvZofpv) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [N0\_L4T3NCY: HALCYON PT\. IV](https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm) | 3:00 | 2025-03-30 | 2025-07-26 |
 | [1DK \(VIP\)](https://open.spotify.com/track/2k7vfrGY1qL9RBbqumtDfG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [1DK \(VIP\)](https://open.spotify.com/album/6GlPv4lRRz1puLwtRLmxXw) | 3:00 | 2025-07-15 | 2025-07-19 |
 | [1DK \- VIP](https://open.spotify.com/track/7yfSOtlbjbS2FYLu8oELVD) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [1DK \(VIP\)](https://open.spotify.com/album/7EpNxupjnO9Dl9kFF7PSm8) | 3:00 | 2024-12-14 | 2025-07-15 |
 | [A Finale](https://open.spotify.com/track/7CZ4Op8aFxBGwEFkcFmGor) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:32 | 2025-01-14 | 2025-06-16 |
@@ -38,7 +39,7 @@
 | [Daggers](https://open.spotify.com/track/1SYcBqrTEG51ZsGQsiQeOd) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 2:30 | 2025-03-26 | 2025-05-29 |
 | [Daggers](https://open.spotify.com/track/2eqtvTWMQ6W091bV7wGa3I) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 2:30 | 2025-06-13 | 2025-07-01 |
 | [Darkness \(Xaiyne's Interlude\) \- 2021 Version](https://open.spotify.com/track/6cLOt6zFnx40frQxekiDE8) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 1:17 | 2024-12-14 |  |
-| [Display](https://open.spotify.com/track/11AI9ADONUaBJRxDA9ZSfG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:54 | 2024-12-14 |  |
+| [Display](https://open.spotify.com/track/11AI9ADONUaBJRxDA9ZSfG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:54 | 2024-12-14 | 2025-07-26 |
 | [Display](https://open.spotify.com/track/3228LLy15Bq366gN7a47hx) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [POP!: HALCYON PT\. III](https://open.spotify.com/album/4tSUFyOFdccu73OdTCu9Q8) | 2:54 | 2025-01-23 | 2025-03-31 |
 | [DON'TTALKTOME](https://open.spotify.com/track/1YT0JOxLvBmlwoem61kQoO) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C) | 2:39 | 2025-06-22 |  |
 | [DON'TTALKTOME](https://open.spotify.com/track/5qUA3CrkLtlYqrHuhutanQ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 2:39 | 2024-12-14 | 2025-06-22 |

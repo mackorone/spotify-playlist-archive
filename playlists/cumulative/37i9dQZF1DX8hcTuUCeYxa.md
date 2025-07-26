@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: CMAT
 
-1,702 songs - 4 day 1 hr 53 min
+1,703 songs - 4 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,7 +510,7 @@
 | [Feel It](https://open.spotify.com/track/5UREB05Tkdf6Chs788Ivyc) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [SUNSHINE](https://open.spotify.com/album/0BTuqFbI1tn9Nrh03g8prs) | 3:04 | 2024-10-10 | 2024-11-01 |
 | [FEEL IT TOO](https://open.spotify.com/track/04TfhpV1a1I5HyBQ32fIC7) | [Dolphin Love](https://open.spotify.com/artist/4uT5ywK30prkNZbf4BlQVh) | [FEEL IT TOO](https://open.spotify.com/album/77Xw02nmaAgcbm3PbsOx1t) | 3:09 | 2024-11-07 | 2024-12-06 |
 | [feel like we used to](https://open.spotify.com/track/3UBNj3GZN0Wf3LjUrxQdH1) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [feel like we used to](https://open.spotify.com/album/1HbbsKtw9xMY90dE4C5yM5) | 2:56 | 2024-09-19 | 2024-10-18 |
-| [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 | 2025-07-24 |  |
+| [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 | 2025-07-24 |  |
 | [Feisty](https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Feisty](https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd) | 2:40 | 2025-05-01 | 2025-05-30 |
 | [Felicity](https://open.spotify.com/track/7jhYoHM7KXmVSVKTgSuuPH) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Felicity](https://open.spotify.com/album/3qzIT1RVYObfgrhC1YKyU0) | 3:40 | 2025-02-27 | 2025-03-14 |
 | [Felt Better Alive](https://open.spotify.com/track/0sPQgw8MafItfkGU4t0yWC) | [Peter Doherty](https://open.spotify.com/artist/0ikiOZC4SDG6OrgHLESydg) | [Felt Better Alive](https://open.spotify.com/album/34ULhXo8PXfw1JohoBRqBo) | 3:20 | 2025-01-16 | 2025-02-14 |
@@ -667,6 +667,7 @@
 | [Hold On](https://open.spotify.com/track/66MFqxlieF7Wh3nGS3Cpp3) | [Bonheur](https://open.spotify.com/artist/7sotWiVs7bcM5YHhlvulNL), [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [Sometimes It Hurts, But That's Okay](https://open.spotify.com/album/2D9mcCzueNgp9IivONBrUz) | 3:56 | 2024-10-17 | 2024-11-01 |
 | [Holding A Place For You](https://open.spotify.com/track/5RBcbeEAfqemHcENNDVwwq) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Holding A Place For You](https://open.spotify.com/album/1X9DP5aFvVmQBPBtq28XYS) | 3:39 | 2024-06-28 | 2024-07-05 |
 | [Hollywood](https://open.spotify.com/track/1jit8yRaXz50OZNINPxtym) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Hollywood b/w CD\-R](https://open.spotify.com/album/6o8LiEGxLTjMBt1PFxHp4U) | 3:05 | 2024-08-08 | 2024-08-23 |
+| [Holy](https://open.spotify.com/track/4nMOT4Bxu0PA7f5Ktawlab) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/1SMKefn3b1E7rIAhJIxEUV) | 2:24 | 2025-07-25 |  |
 | [Home](https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Home](https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR) | 2:11 | 2025-06-26 | 2025-07-25 |
 | [Home](https://open.spotify.com/track/651NGwLvO5GiIpx6v9HJE0) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Home](https://open.spotify.com/album/2I1lXDLSd7naOK0nbE1viy) | 2:27 | 2024-07-18 | 2024-08-09 |
 | [Home "La La La"](https://open.spotify.com/track/56ftzomXxvahAqZlFcBsaO) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Home "La La La"](https://open.spotify.com/album/1vfFaZBZz6lKMfeU6cMPDT) | 3:27 | 2025-07-17 |  |

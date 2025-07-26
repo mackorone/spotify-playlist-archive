@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,714 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,720 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 18 | [The Reasons of My Smiles](https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [Queen of Tears \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF) | 3:33 |
 | 19 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
 | 20 | [Tell Me It's Not a Dream](https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Queen of Tears \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6) | 3:55 |
-| 21 | [Grain of Sand](https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Grain of Sand](https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc) | 3:40 |
-| 22 | [How can I love the heartbreak, you're the one I love](https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SAILING](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) | 4:50 |
+| 21 | [How can I love the heartbreak, you're the one I love](https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SAILING](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) | 4:50 |
+| 22 | [Grain of Sand](https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Grain of Sand](https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc) | 3:40 |
 | 23 | [Hold Me Back](https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Queen of Tears \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE) | 3:52 |
 | 24 | [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 |
 | 25 | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO) | 4:16 |

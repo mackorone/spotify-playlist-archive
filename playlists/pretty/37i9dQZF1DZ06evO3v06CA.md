@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,395 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,408 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 38 | [Georgia On My Mind](https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 4:19 |
 | 39 | [Cruel World](https://open.spotify.com/track/166Dyvfibu4SOygA4vub85) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:28 |
 | 40 | [Mind Your Own Business](https://open.spotify.com/track/4raGevWiW8i1gactXulebp) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [A Country Boy Can Survive \(Box Set\)](https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm) | 2:28 |
-| 41 | [Me and Paul](https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Yesterday's Wine](https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf) | 3:48 |
-| 42 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
-| 43 | [Crazy](https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 2:53 |
+| 41 | [Crazy](https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 2:53 |
+| 42 | [Me and Paul](https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Yesterday's Wine](https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf) | 3:48 |
+| 43 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
 | 44 | [Heaven's Bad Day](https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Viva Tu](https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2) | 2:05 |
 | 45 | [Sinner](https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Sinner](https://open.spotify.com/album/0CJrzaavg6xQaIKolWD83H) | 3:31 |
 | 46 | [I Can Get off on You \- Remastered](https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 49 | [Desperados Waiting for a Train](https://open.spotify.com/track/1OQbJRt29UGZ5d8YGjWiDK) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman](https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU) | 4:36 |
 | 50 | [Oh What A Beautiful World \- feat\. Rodney Crowell](https://open.spotify.com/track/7ml1acXUTiwSm2WjtXYFbZ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Oh What A Beautiful World](https://open.spotify.com/album/7C2rtzfeP135vyNyzsmhfV) | 4:00 |
 
-Snapshot ID: `aIAmAAAAAABbtBuy5IHtdSPrifIZnHJR`
+Snapshot ID: `aIF3gAAAAADHpY3g3diF7oA3NxyA4VmU`

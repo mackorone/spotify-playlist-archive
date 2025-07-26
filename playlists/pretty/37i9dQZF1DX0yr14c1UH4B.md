@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > Songwriters and storytellers 📚 Cover: Billie Marten
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,066 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,078 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 16 | [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 |
 | 17 | [Don't Wanna Take It Slow](https://open.spotify.com/track/3p8oeg4lwleZwm0TygNK4A) | [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [I Didn't Think You'd Hear This](https://open.spotify.com/album/65Pj7sMtNINA7kWqzqbOpi) | 3:14 |
 | 18 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 |
-| 19 | [Crashing the Car](https://open.spotify.com/track/43G4zGBZEDdYZ6OayNoN4U) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Crashing the Car](https://open.spotify.com/album/5HkeugmUZmCfNPjVAdtm8P) | 3:50 |
+| 19 | [Crashing The Car](https://open.spotify.com/track/43G4zGBZEDdYZ6OayNoN4U) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Crashing The Car](https://open.spotify.com/album/5HkeugmUZmCfNPjVAdtm8P) | 3:50 |
 | 20 | [Your Villain](https://open.spotify.com/track/4wVC94cEh7rER1zuzFeOsx) | [Molly Millington](https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF) | [Your Villain](https://open.spotify.com/album/6tOuaYl7fi4PzgCq5ehTaJ) | 2:45 |
 | 21 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 |
 | 22 | [It Doesn't Do What It Did](https://open.spotify.com/track/3OVDijsAEZvNLoWBh6NBrS) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [Whale Songz Vol\. 1](https://open.spotify.com/album/5uS6j2mA7XoQegFgmLUhGZ) | 2:49 |

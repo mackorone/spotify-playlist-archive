@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Who's now and next in pop. Cover: Jessie Murph",
+  "description": "Who's now and next in pop. Cover: sombr",
   "name": "Pop Rising",
   "tracks": [
     {
@@ -168,6 +168,24 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "album": {
@@ -3730,7 +3748,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -5926,7 +5944,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 160111,
       "name": "BLISS",
       "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
@@ -13017,6 +13035,46 @@
     },
     {
       "album": {
+        "name": "WWP",
+        "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177011,
+      "name": "DYNAMITE",
+      "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
+    },
+    {
+      "album": {
+        "name": "d\u00a3aler",
+        "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "d\u00a3aler",
+      "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
+    },
+    {
+      "album": {
         "name": "Revelaci\u00f3n - EP",
         "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
       },
@@ -16867,6 +16925,24 @@
     },
     {
       "album": {
+        "name": "Girlie-Pop!",
+        "url": "https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123950,
+      "name": "Girlie-Pop!",
+      "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"
+    },
+    {
+      "album": {
         "name": "GIRLS",
         "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
       },
@@ -20357,6 +20433,24 @@
     },
     {
       "album": {
+        "name": "HOT GIRL PROBLEMS",
+        "url": "https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "HOT GIRL PROBLEMS",
+      "url": "https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh"
+    },
+    {
+      "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
       },
@@ -20680,7 +20774,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 137689,
       "name": "HOW DOES IT FEEL?",
       "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
@@ -32716,7 +32810,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 202412,
       "name": "Not Like That Anymore",
       "url": "https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1"
@@ -45449,6 +45543,24 @@
     },
     {
       "album": {
+        "name": "To Be Free",
+        "url": "https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255155,
+      "name": "To Be Free",
+      "url": "https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa"
+    },
+    {
+      "album": {
         "name": "Beautifully Ordinary",
         "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
       },
@@ -46482,7 +46594,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 198320,
       "name": "twilight zone",
       "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
@@ -48036,7 +48148,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 196931,
       "name": "we never dated",
       "url": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"

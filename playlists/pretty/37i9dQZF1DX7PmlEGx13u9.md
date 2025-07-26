@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7PmlEGx13u9.md) - [plain]
 
 > Certified R&B hits\. Cover: Lizzie Berchie
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,852 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,853 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7PmlEGx13u9.md) - [plain]
 | 39 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
 | 40 | [When It Comes To You](https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [When It Comes To You](https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi) | 2:48 |
 | 41 | [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 |
-| 42 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 |
-| 43 | [Out Of Luck \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/6t2QMkSZRKsg0PXUb3wV4c) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:58 |
+| 42 | [Out Of Luck \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/6t2QMkSZRKsg0PXUb3wV4c) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:58 |
+| 43 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 |
 | 44 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 |
-| 45 | [SINCERITY](https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [SINCERITY](https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ) | 2:47 |
-| 46 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 |
+| 45 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 |
+| 46 | [SINCERITY](https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [SINCERITY](https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ) | 2:47 |
 | 47 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 |
 | 48 | [back n forth](https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lagbaja](https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 |
 | 49 | [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 |

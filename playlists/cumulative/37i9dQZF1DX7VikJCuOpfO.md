@@ -2,7 +2,7 @@
 
 ### [Mariachi 2025](https://open.spotify.com/playlist/37i9dQZF1DX7VikJCuOpfO)
 
-> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Christian Nodal
+> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Leonardo Aguilar
 
 470 songs - 1 day 1 hr 27 min
 
@@ -455,7 +455,7 @@
 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 | 2023-01-06 |  |
 | [Voy a Pintar un Corazón \- Versión Mariachi](https://open.spotify.com/track/0atCb83uaB9dGUWYr51Drc) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Voy a Pintar un Corazón \(Versión Mariachi\)](https://open.spotify.com/album/4uZmHK8Y2MKE6F8s2oJ9OO) | 3:36 | 2022-06-01 | 2023-01-07 |
 | [X Perro](https://open.spotify.com/track/2xxSZ3aezlxcuvZ5vECDYZ) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [¿Quién + Como Yo?](https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded) | 2:24 | 2025-05-30 |  |
-| [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 | 2023-01-06 | 2025-07-12 |
+| [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 | 2023-01-06 |  |
 | [Y a Mí Qué Me Queda](https://open.spotify.com/track/7DbKvFmzPChglqFG4i0cGQ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario \(Deluxe Edition\)](https://open.spotify.com/album/1FlTGY7gHcjTtBbhCDY3hj) | 2:16 | 2022-05-13 | 2022-06-01 |
 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE) | 2:58 | 2022-05-13 | 2024-06-29 |
 | [Ya Es Suficiente](https://open.spotify.com/track/1XF09h15mtS3nvgDniNZN5) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Ya Es Suficiente](https://open.spotify.com/album/5Rd0mR4ErR1V7Seq9D3ELT) | 3:02 | 2023-01-06 | 2023-07-23 |
@@ -465,7 +465,7 @@
 | [Ya no me importa](https://open.spotify.com/track/71ATzRONbggfWE2KJ0L6XN) | [Sebas Estrada](https://open.spotify.com/artist/2zRwtBlZ7NdX5M1YeFVQnx) | [Ya no me importa](https://open.spotify.com/album/5EWW8ZwEEPJmREjOhqUHyf) | 2:54 | 2022-06-01 | 2023-01-07 |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-05-13 | 2023-01-07 |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/7CnmrsgrDklemSrdq8tuzL) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 3:05 | 2022-06-01 |  |
-| [Ya No Te Quiero Ver](https://open.spotify.com/track/4flsO9gS9np3r4rEPlYJey) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Ya No Te Quiero Ver](https://open.spotify.com/album/2rSSp50LCLH2ib1C01sQAS) | 3:06 | 2025-05-30 |  |
+| [Ya No Te Quiero Ver](https://open.spotify.com/track/4flsO9gS9np3r4rEPlYJey) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Ya No Te Quiero Ver](https://open.spotify.com/album/2rSSp50LCLH2ib1C01sQAS) | 3:06 | 2025-05-30 | 2025-07-26 |
 | [Ya No Vuelvas](https://open.spotify.com/track/5lqrDIEQy8YORSY8MoW37I) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 2:54 | 2023-05-19 | 2025-04-05 |
 | [Yo No Creo En Los Hombres](https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Yo No Creo En Los Hombres](https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9) | 3:35 | 2023-09-08 | 2025-04-15 |
 | [Yo Quiero Ser](https://open.spotify.com/track/7zXyVTdASO4dzlKkvA26uj) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Yo Quiero Ser](https://open.spotify.com/album/6IQASp9gvLbyMzzVB1FD9v) | 3:17 | 2023-01-06 | 2023-05-27 |

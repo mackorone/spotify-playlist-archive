@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,766 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,810 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 34 | [Los Pollitos Dicen](https://open.spotify.com/track/41yJCVpmgWB3SVVPF8WZRA) | [Kids Music Box](https://open.spotify.com/artist/0syRfepwQdWHmbxLiOqMbC) | [Los Pollitos Dicen](https://open.spotify.com/album/6mMAInUWQTrXwNQUTxtlgH) | 1:39 |
 | 35 | [Five Cool Cats](https://open.spotify.com/track/3OSqJ1Ut599zQdarfWez4j) | [Brian Waite Band](https://open.spotify.com/artist/0IssdwELpOUhnpISuAXXXB) | [Kidz S.T.E.M\. Songz](https://open.spotify.com/album/3nHt4nMlPuCzLFzrhq1Akg) | 5:06 |
 | 36 | [Animalitos](https://open.spotify.com/track/4QNh1CHTVaywsZFDN6iLSt) | [Ninaná](https://open.spotify.com/artist/4dAAAhQyqbw0QsuaM4aBSd) | [Animalitos](https://open.spotify.com/album/4Ecf2bOwqdmvo1DbEuv5n4) | 2:19 |
-| 37 | [Oso Azul](https://open.spotify.com/track/6YSFYrDmxaE54vxii1ignx) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 3:05 |
+| 37 | [Gato Astronauta](https://open.spotify.com/track/0pXuUFOxkbZjXrBCUWdAYH) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 2:01 |
 | 38 | [Pom pom gallinita](https://open.spotify.com/track/4kL7BS01ZXtIsWFdkClJVA) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [A cantar](https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em) | 1:04 |
 | 39 | [Lumi, luminosos \- De Morko y Mali](https://open.spotify.com/track/3G5TF0y9HIZL6BMlCJnAOU) | [Elenco de Morko y Mali](https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW) | [Morko y Mali \- Aventuras en la selva \(La música de la serie de Disney Junior\)](https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb) | 2:10 |
 | 40 | [El Coqui](https://open.spotify.com/track/7yufdKdMxeVRPf3S5rOdw1) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora The Explorer](https://open.spotify.com/album/6gAb45W5Izm6N63yc5LEVF) | 1:36 |
 | 41 | [Foxy Fakeout](https://open.spotify.com/track/1WM4SmNvIdUrQmmeKazKu7) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootropolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ei8Va8GUIXDNEPb2BEB8M) | 2:08 |
-| 42 | [Gato Astronauta](https://open.spotify.com/track/0pXuUFOxkbZjXrBCUWdAYH) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 2:01 |
+| 42 | [Oso Azul](https://open.spotify.com/track/6YSFYrDmxaE54vxii1ignx) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 3:05 |
 | 43 | [Piquito pajarito](https://open.spotify.com/track/14eG0RZsk1rp7dCOYkLbWK) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 0:49 |
 | 44 | [Soy el sapo Sopa \- De Morko y Mali](https://open.spotify.com/track/32W3VkQuANDHNor6y0OruF) | [Elenco de Morko y Mali](https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW) | [Morko y Mali \- Aventuras en la selva \(La música de la serie de Disney Junior\)](https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb) | 2:30 |
 | 45 | [Animal Jam](https://open.spotify.com/track/1FQMwZpGCFXkrt8GbrBVG6) | [Diego, Dora & Friends](https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V) | [Diego, Dora & Friends' Animal Jamboree](https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD) | 3:17 |

@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-298 songs - 18 hr 15 min
+299 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [It's Alright](https://open.spotify.com/track/5W0pznTarTi6cd5qSeYMnw) | [Gvllow](https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn), [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [HOUSE OF THE DEAD](https://open.spotify.com/album/01ZSRteMHjycJPUWOQGXth) | 1:55 | 2025-04-04 |  |
 | [It's In My Head](https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [It's In My Head](https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO) | 3:01 | 2023-09-14 |  |
 | [Ivo](https://open.spotify.com/track/7anJBerQqBKIbbKvLf9eAq) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:53 | 2023-08-31 | 2023-12-12 |
-| [Judas Effect](https://open.spotify.com/track/5ybk0RVtJLh63xcoMyLoTQ) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Lionheart](https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd) | 3:12 | 2020-12-21 |  |
+| [Judas Effect](https://open.spotify.com/track/5ybk0RVtJLh63xcoMyLoTQ) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Lionheart](https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd) | 3:12 | 2020-12-21 | 2025-07-26 |
 | [Kasvetli Kutlama](https://open.spotify.com/track/1JgTzrrrnh6neqTtvA3F5d) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Kasvetli Kutlama](https://open.spotify.com/album/1ykQIGMWeD6VbVs7fMjSIJ) | 5:06 | 2023-08-31 | 2025-05-17 |
 | [Killer](https://open.spotify.com/track/2AYS46aVNyzEG0nsWwr8y6) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:06 | 2023-05-05 |  |
 | [kisses \- Daniel Avery Remix](https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [kisses \(Daniel Avery Remix\) b/w kisses \- sky ii](https://open.spotify.com/album/59iYqAJNi4w4HZoB7jEVgD) | 3:31 | 2024-09-06 |  |
@@ -176,6 +176,7 @@
 | [Melancholy](https://open.spotify.com/track/1CKbOdC5szD5tR0VpMPNOk) | [Human Tetris](https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG) | [Memorabilia](https://open.spotify.com/album/7bTWcq02llIYtAF5PCFYfY) | 3:10 | 2020-12-21 | 2024-01-12 |
 | [Mirror Twin](https://open.spotify.com/track/45wU0gt5K1RGPGqfhP71Vx) | [Harsh Symmetry](https://open.spotify.com/artist/2iw3bPHWeP872IeCAk2JmR) | [Mirror Twin](https://open.spotify.com/album/7vp0nLwMqpXKYHaGcovydU) | 3:45 | 2023-08-31 | 2025-05-17 |
 | [mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [mitleerenhänden](https://open.spotify.com/album/2uUl09ieBEaFtKStbPrjmA) | 3:29 | 2021-09-24 | 2023-09-01 |
+| [MOMENTO](https://open.spotify.com/track/0lKSSNUWk7baSbP5tbiqnd) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Prayers](https://open.spotify.com/artist/7a0G4CC3dZdKAAzVRnaRGu) | [MOMENTO](https://open.spotify.com/album/5coYkHMjR7MZY6FNh6yDaA) | 2:50 | 2025-07-25 |  |
 | [Mora](https://open.spotify.com/track/2whPbdXij9laysK0mPT5Lc) | [Nürnberg](https://open.spotify.com/artist/2IkTGThCeQAPGMru4uXzs4) | [Mora](https://open.spotify.com/album/5ww9uPwQ5AL3jpGEPAgncm) | 3:15 | 2020-12-21 | 2023-02-10 |
 | [MOTHS](https://open.spotify.com/track/0Db4KSIdVa7Cfhn6qzIqpm) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/6IcHA6UVMYh3jZ9MatMAoW) | 1:20 | 2024-01-11 | 2024-03-11 |
 | [MOTHS](https://open.spotify.com/track/198k5g8F2FYnwYbhHV4rRB) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/7zWkTgmsawLX1XHAwbUZrW) | 1:20 | 2023-08-31 | 2023-12-02 |

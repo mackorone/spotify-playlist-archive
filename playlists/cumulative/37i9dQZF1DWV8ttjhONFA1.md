@@ -2,9 +2,9 @@
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: Minco
+> El nuevo sonido argentino lo encontrás acá\. Foto: un muerto mas
 
-386 songs - 21 hr 6 min
+392 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Desaparecer](https://open.spotify.com/track/6PDPcB56TilUyxwSzi1qIi) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Desaparecer](https://open.spotify.com/album/0YPzpvzXBQJFLv4SOM3Lqk) | 3:16 | 2024-03-15 | 2024-05-03 |
 | [Desesperada](https://open.spotify.com/track/6T4R0YI4KNnZiIRKexvAdD) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Desesperada](https://open.spotify.com/album/1g6DyyHl9LsMBv6VT7gFQM) | 4:34 | 2024-03-22 | 2024-10-12 |
 | [Desilusion](https://open.spotify.com/track/6keiESvqfHyAjVqpCkJ68J) | [Color Sirena](https://open.spotify.com/artist/4qLRfV3rrNJNBgIGHexhUk), [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7) | [Desilusion](https://open.spotify.com/album/5c8yJDE3R2PJQRPMcST1ft) | 3:26 | 2024-10-04 | 2024-11-30 |
+| [DESPERTADOR](https://open.spotify.com/track/5mB2NWhbLBeSsEakpTSvPW) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz), [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [DESPERTADOR](https://open.spotify.com/album/0klVA8MQgYE7L7qcEszORR) | 2:52 | 2025-07-25 |  |
 | [Despierta](https://open.spotify.com/track/1sY9fv75xuIMdK9jinCpPh) | [BADS](https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3) | [Desacelerando](https://open.spotify.com/album/40AcLHOL2z5SQz6EV0sHyB) | 2:48 | 2024-11-29 |  |
 | [Desprogramado](https://open.spotify.com/track/79v8NJzeW6pXkL6vWbIGY1) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Desprogramado](https://open.spotify.com/album/4NgiQKB70vqBCVe9TsWjWL) | 3:01 | 2024-05-10 | 2025-06-07 |
 | [Destruyo Mi Guitarra](https://open.spotify.com/track/5Dj8AXxfscyjkgO3M5jiJq) | [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Destruyo Mi Guitarra](https://open.spotify.com/album/3xVTNIz26kYKfuwjPMomn9) | 1:57 | 2024-10-11 |  |
@@ -121,6 +122,7 @@
 | [Día Especial](https://open.spotify.com/track/71UEdUX4HDUellHqmlQfKn) | [bistué](https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR), [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [Día Especial](https://open.spotify.com/album/769NNJgkByGNAMpogVfFCR) | 4:07 | 2023-12-15 | 2024-09-07 |
 | [Días de abril](https://open.spotify.com/track/0VcgCXrX8RmPepeAX8TIfF) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD) | [Días de abril](https://open.spotify.com/album/0D2WrVwPMuIhSRdwyGlmqV) | 3:29 | 2025-05-09 |  |
 | [EL APAGÓN](https://open.spotify.com/track/1xLIUx6fhZxWllAnu6vYM1) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [EL APAGÓN](https://open.spotify.com/album/5btAcC6nuoUTeBlkpLDFhn) | 3:48 | 2024-04-26 | 2024-08-03 |
+| [EL CAMINO](https://open.spotify.com/track/5Lm8Q25QGpp9dzNJe0NchJ) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [EL CAMINO](https://open.spotify.com/album/1CTxuaPhGmupwLBF2rhyfu) | 3:04 | 2025-07-25 |  |
 | [El Cielo](https://open.spotify.com/track/2byqdQCSM7RLq7J97BpD8B) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [El Cielo](https://open.spotify.com/album/4ItQlfDHnru0cP5zlfqtEn) | 4:19 | 2023-12-15 | 2024-07-19 |
 | [El Dato \- Vivo La Plata](https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7) | [Viva Elastico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [Vivo La Plata](https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA) | 3:36 | 2024-10-11 | 2024-11-30 |
 | [El Desastre](https://open.spotify.com/track/720C5RPAKsNi5GqKlwOYcL) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Del otro lado](https://open.spotify.com/album/34o49o7XS7KTEVc379Zz1y) | 3:03 | 2024-10-25 | 2025-01-25 |
@@ -153,6 +155,8 @@
 | [Extranjero](https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Los Años Futuros](https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc) | 3:07 | 2024-04-05 | 2024-10-05 |
 | [Extrañándote](https://open.spotify.com/track/3o4B9p50LP4eocV2DN9cRw) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [La Cura](https://open.spotify.com/album/5izhiFfPTXm6J1TwJAXT30) | 3:13 | 2024-07-12 | 2024-10-19 |
 | [Fabricante de Alegrías](https://open.spotify.com/track/16zlAwSS8hni66uHAEE8WN) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Marcelo López](https://open.spotify.com/artist/62vmUN3tpO93O4782Ac9um) | [Fabricante de Alegrías](https://open.spotify.com/album/1U2Tq2a9v2K44tmpri4H9a) | 2:16 | 2025-02-07 |  |
+| [Fan](https://open.spotify.com/track/7nEgmIahpsJgoTrDTIfS3q) | [Homogénica](https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt) | [Fan](https://open.spotify.com/album/2ImtZm3B4rmzFXp1hTatGW) | 4:00 | 2025-07-25 |  |
+| [Fantasma](https://open.spotify.com/track/5ky2inW5srGBriAAYjvCiY) | [Inbal Comedi](https://open.spotify.com/artist/3TXSj7UeT47TDTYwnr9RnV) | [Fantasma](https://open.spotify.com/album/6yxNIY4vpe4N6Ovgydn0ug) | 3:48 | 2025-07-25 |  |
 | [Festejemos](https://open.spotify.com/track/4toTjDlXShrN3iMrntu0QZ) | [Color Sirena](https://open.spotify.com/artist/4qLRfV3rrNJNBgIGHexhUk), [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [Festejemos](https://open.spotify.com/album/2BxTTdZC2ir2o3Nrg0tnSr) | 3:07 | 2024-08-02 | 2024-09-14 |
 | [Fin del día](https://open.spotify.com/track/1mhd6f0hYGv9hBaLcn3Iht) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Fin del día](https://open.spotify.com/album/30jaBEl7Srt9oatIiZ890j) | 4:37 | 2024-08-30 |  |
 | [flashié](https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [flashié](https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP) | 2:34 | 2024-03-08 | 2024-05-25 |
@@ -312,6 +316,7 @@
 | [Puede ser peor](https://open.spotify.com/track/3O7fmbOOeofj5iXQPErASA) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm) | [Puede ser peor](https://open.spotify.com/album/58KQNLUABzQT53eJo0eI9H) | 3:32 | 2024-08-30 | 2024-10-05 |
 | [QUE PASO](https://open.spotify.com/track/7CphBSzmtjPXdkhpdN7Ex8) | [El Dog](https://open.spotify.com/artist/0zZ9SfkYVZwhWf1Zik2rHU) | [QUE PASO](https://open.spotify.com/album/07J4Xvz3NjcyJ08yqWXqOj) | 3:03 | 2025-02-14 |  |
 | [Que Placer](https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Locomotora](https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf) | 3:05 | 2023-12-15 | 2024-04-06 |
+| [quereme](https://open.spotify.com/track/4lUdpTa3Jnruu4oYlQnLrg) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [quereme](https://open.spotify.com/album/1ii4MjyB8C12pqjUIyhOkS) | 2:09 | 2025-07-25 |  |
 | [Quereme Siempre](https://open.spotify.com/track/5eT8Why2mqdiI73Os1BLk9) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [Quereme Siempre](https://open.spotify.com/album/0n1LW0iPsFVtNd4DFkIuED) | 2:57 | 2023-12-15 | 2024-03-16 |
 | [Quieto](https://open.spotify.com/track/6L6GbSoWzfm0ZDZGsskkN5) | [Farol](https://open.spotify.com/artist/3kBISQeVHtMyOH3Va7UXqu), [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf), [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [Quieto](https://open.spotify.com/album/2dqfvBw8Vgw98JL6CpqS41) | 3:03 | 2024-10-25 |  |
 | [Resaca](https://open.spotify.com/track/1vgwKBxFV0KRoKlEq2fqkk) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Resaca](https://open.spotify.com/album/0kXhUyBXTjElgrkGStIVMr) | 3:22 | 2024-02-23 | 2024-04-27 |
@@ -357,6 +362,7 @@
 | [Todo el Universo](https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Todo el Universo](https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL) | 3:03 | 2023-12-15 | 2024-04-20 |
 | [TODO LO QUE TENGO](https://open.spotify.com/track/7g9MkDG1sBk9zazzGOaqXF) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [TODO LO QUE TENGO](https://open.spotify.com/album/2Xn78gLJkbchsxPqnMrMsd) | 3:30 | 2025-02-28 |  |
 | [Todo Lo Que Tengo](https://open.spotify.com/track/39TmRHLELR1MWDlXZAmhWN) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Todo Lo Que Tengo](https://open.spotify.com/album/6TXs9sjN6P6EMF7d5MNFbn) | 1:51 | 2024-01-05 | 2024-02-24 |
+| [Todo Tranca](https://open.spotify.com/track/68eLbVR4Kbso6paPjzepfU) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [Todo Tranca](https://open.spotify.com/album/2jorunFKQwMZ7CLOiYN8s1) | 2:41 | 2025-07-25 |  |
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-12-15 | 2024-09-21 |
 | [trance ZZZ](https://open.spotify.com/track/5rBfUmYhDghCAOlsd8YXl8) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [ZZZ](https://open.spotify.com/album/2eDzshsdAj7l1P77vYq2Ia) | 2:12 | 2024-05-10 | 2024-07-13 |
 | [TRON](https://open.spotify.com/track/2bUGKZBkgUnhSy3BOgsVSV) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [TRON](https://open.spotify.com/album/5s6bzBHKOA5tsFof560XlJ) | 2:25 | 2023-12-15 | 2024-08-03 |

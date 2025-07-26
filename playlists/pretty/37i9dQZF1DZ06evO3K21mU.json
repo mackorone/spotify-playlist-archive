@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 923349,
+  "num_followers": 923412,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAAkB5nutYSQhZPzP0tHKPo8",
+  "snapshot_id": "aIF3gAAAAAAxELcrcV9Iphll22+i1Bgh",
   "tracks": [
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "on the street (with J. Cole)",
-        "url": "https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 214701,
-      "name": "on the street (with J. Cole)",
-      "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 218210,
       "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
       "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "on the street (with J. Cole)",
+        "url": "https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 214701,
+      "name": "on the street (with J. Cole)",
+      "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 276093,
+      "name": "Rich Niggaz",
+      "url": "https://open.spotify.com/track/6lKCaafKm88sVfYz2u7S4B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Milky Way",
         "url": "https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 238053,
       "name": "Tribe (with J. Cole)",
       "url": "https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 276093,
-      "name": "Rich Niggaz",
-      "url": "https://open.spotify.com/track/6lKCaafKm88sVfYz2u7S4B"
     },
     {
       "added_at": null,

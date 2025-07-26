@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/6vG56hY9KDdspesQKq8iRc"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186591,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/4NFAsjGOjZ29JKvbCaA5mz"
+    },
+    {
+      "album": {
         "name": "6 en Mi Rollie",
         "url": "https://open.spotify.com/album/6wJfXfTluFA3XhFdshg8Cz"
       },
@@ -4744,6 +4762,24 @@
       "duration_ms": 195163,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf"
+    },
+    {
+      "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/3f59YESZOcAgpdMgMAWbLG"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163910,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/4BOg2ccj24y4HKF8tbR3Vj"
     },
     {
       "album": {
@@ -9538,7 +9574,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 146526,
       "name": "Entre Particulas",
       "url": "https://open.spotify.com/track/2dWf9VJ15GgFGwtMjxHnQi"
@@ -16841,6 +16877,28 @@
     },
     {
       "album": {
+        "name": "MU\u00d1ECOTA",
+        "url": "https://open.spotify.com/album/4anQADYMI44HzlZM98d7r2"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "MU\u00d1ECOTA",
+      "url": "https://open.spotify.com/track/0TQAhtR3faikBDjzFyis4f"
+    },
+    {
+      "album": {
         "name": "Mu\u00f1ekita (with El Alfa & JT)",
         "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
       },
@@ -20958,7 +21016,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 163750,
       "name": "POV: te re enamoraste mal",
       "url": "https://open.spotify.com/track/1J3S9Do9s5ZnwVfKr9FKp7"
@@ -23612,7 +23670,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 133772,
       "name": "Sola",
       "url": "https://open.spotify.com/track/6ypxZlBgfczJnNLWvx0ytg"

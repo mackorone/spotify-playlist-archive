@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAADVCMOXJL0wTRFW55FVKZcJ",
+  "snapshot_id": "aIF3gAAAAAAzSi8JeK5kRQtiYaCoE9xh",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good God",
-        "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
+        "name": "You Can Make It",
+        "url": "https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 271840,
-      "name": "You Stayed",
-      "url": "https://open.spotify.com/track/6d1rpwFNCoyeLoQr8D2g0Q"
+      "duration_ms": 391706,
+      "name": "You Can Make It",
+      "url": "https://open.spotify.com/track/0WShhXViWE3F5DPcrkgvV5"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good God",
+        "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 271840,
+      "name": "You Stayed",
+      "url": "https://open.spotify.com/track/6d1rpwFNCoyeLoQr8D2g0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live... In Chicago",
         "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 521600,
       "name": "Hold My Mule - Live",
       "url": "https://open.spotify.com/track/0JjsI172ped2hF5v27o28J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Can Make It",
-        "url": "https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 391706,
-      "name": "You Can Make It",
-      "url": "https://open.spotify.com/track/0WShhXViWE3F5DPcrkgvV5"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand Still",
-        "url": "https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 395973,
-      "name": "Just As I Am",
-      "url": "https://open.spotify.com/track/1lwJbzXrcJLaWdKDfePhEO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sailin'",
         "url": "https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 249733,
       "name": "Sailin' On the Sea of Your Love",
       "url": "https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand Still",
+        "url": "https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 395973,
+      "name": "Just As I Am",
+      "url": "https://open.spotify.com/track/1lwJbzXrcJLaWdKDfePhEO"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Remember Mama",
-        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 381933,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shirley Caesar Live .... He Will Come",
         "url": "https://open.spotify.com/album/4gFxfVqXsSFolfA5MHosnL"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 288800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6ia2r9iAhIZ0mmRH8Tgq5k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Remember Mama",
+        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 381933,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Remember Mama",
-        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 291586,
-      "name": "Jesus Is Everywhere",
-      "url": "https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR"
       },
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live... In Chicago",
-        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
+        "name": "I Remember Mama",
+        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 292706,
-      "name": "Peace In the Midst of the Storm - Live",
-      "url": "https://open.spotify.com/track/0f73golLehVjv0VfF3eUaI"
+      "duration_ms": 291586,
+      "name": "Jesus Is Everywhere",
+      "url": "https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD"
     },
     {
       "added_at": null,
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Remember Mama",
-        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
+        "name": "Live... In Chicago",
+        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 280066,
-      "name": "I Cannot Stop Praising Him",
-      "url": "https://open.spotify.com/track/0CKSOJQVkh2LXng6tOigLa"
+      "duration_ms": 292706,
+      "name": "Peace In the Midst of the Storm - Live",
+      "url": "https://open.spotify.com/track/0f73golLehVjv0VfF3eUaI"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
       "duration_ms": 354040,
       "name": "Good God",
       "url": "https://open.spotify.com/track/3G44iMDHusN8H9kcaXHXVS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Remember Mama",
+        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 280066,
+      "name": "I Cannot Stop Praising Him",
+      "url": "https://open.spotify.com/track/0CKSOJQVkh2LXng6tOigLa"
     },
     {
       "added_at": null,

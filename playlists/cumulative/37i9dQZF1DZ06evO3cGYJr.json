@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "HALCYON",
+        "url": "https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "1DK",
+      "url": "https://open.spotify.com/track/1NbIgGzU9Xjj8XlDbQtN8I"
+    },
+    {
+      "album": {
+        "name": "HALCYON",
         "url": "https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI"
       },
       "artists": [
@@ -34,7 +52,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 180000,
       "name": "1DK",
       "url": "https://open.spotify.com/track/5slQ0xVsXGcQyEMvvZofpv"
@@ -576,7 +594,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 174000,
       "name": "Display",
       "url": "https://open.spotify.com/track/11AI9ADONUaBJRxDA9ZSfG"

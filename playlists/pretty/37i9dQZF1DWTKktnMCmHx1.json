@@ -1,6 +1,6 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 93838,
+  "num_followers": 93841,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
+        "name": "23 6451",
+        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "fuck 3x",
+      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
         "name": "Untouchable",
         "url": "https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 158971,
       "name": "Mi Piace (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/5gCAQkBpp9HNKLB8unHgMj"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
-        "name": "23 6451",
-        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "fuck 3x",
-      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
     }
   ],
   "unique_name": "GOOD GAME",

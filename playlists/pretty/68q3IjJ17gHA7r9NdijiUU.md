@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 
 > Finally, the perfect road trip playlist is here\. Sing along to these classic hits, and discover new favorites! Classic Road Trip Songs \- Road Trip Singalong \- Throwback Drive \- Family Road Trip \- Driving Mix \- Classic Driving Mix \- Late Night Drives \- Songs to Sing in the Car \- POV: Holiday Road Trip \- Holiday Drive \- Vacation Road Trip
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 315,187 likes - 151 songs - 9 hr 50 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 315,177 likes - 150 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,6 +158,5 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 | 148 | [Girl, You'll Be A Woman Soon](https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [The Bang Years 1966\-1968 \(The 23 Original Mono Recordings\)](https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo) | 3:00 |
 | 149 | [Stuck On You](https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 3:12 |
 | 150 | [Somethin' Stupid](https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO) | 2:42 |
-| 151 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 
-Snapshot ID: `AAAIQ4S6YSG6W/eVTrlmWmAXw8KGjcru`
+Snapshot ID: `AAAIRm7NmzwqyL2BYNLgJT0KaghKjuLh`

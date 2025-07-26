@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 6 likes - 376 songs - 1 day 1 hr 31 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 6 likes - 377 songs - 1 day 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -384,5 +384,6 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 | 374 | [New Noise](https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 5:10 |
 | 375 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 |
 | 376 | [Rainbow in the Dark](https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 4:16 |
+| 377 | [Black Sabbath \- 2014 Remaster](https://open.spotify.com/track/0xIZPPBfLqQEAj1BLmGrNc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 6:18 |
 
-Snapshot ID: `AAABiFduJcl4D/ByGM1xzMK6qAlzIEEE`
+Snapshot ID: `AAABiTDNmLcF9T4aXu+5hl00i6B7yJ77`

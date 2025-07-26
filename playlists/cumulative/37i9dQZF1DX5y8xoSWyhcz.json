@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "1-800-LOVECLUB",
+        "url": "https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83"
+      },
+      "artists": [
+        {
+          "name": "Willa Owen",
+          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208211,
+      "name": "1-800-LOVECLUB",
+      "url": "https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh"
+    },
+    {
+      "album": {
         "name": "1001",
         "url": "https://open.spotify.com/album/7nqJMtyMIGyeGZk7XS0Plh"
       },
@@ -56,6 +74,24 @@
       "duration_ms": 135000,
       "name": "11:45 in Nolita",
       "url": "https://open.spotify.com/track/1CBZo2mVGLyk1QLp6ZDXEB"
+    },
+    {
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "album": {
@@ -1730,7 +1766,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 188824,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/4jnpDGtUTtloIQHq8TdbNW"
@@ -7313,6 +7349,28 @@
     },
     {
       "album": {
+        "name": "for sale 2 own",
+        "url": "https://open.spotify.com/album/4bQY42D7Egu7z85iNg2pz3"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        },
+        {
+          "name": "Glitter Party",
+          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159169,
+      "name": "for sale 2 own",
+      "url": "https://open.spotify.com/track/2OgwHWIvzwoMANPqIrvYSS"
+    },
+    {
+      "album": {
         "name": "For The Good",
         "url": "https://open.spotify.com/album/0RjCuHSyUalAewW06tJbCH"
       },
@@ -11876,7 +11934,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 165026,
       "name": "july",
       "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
@@ -22820,7 +22878,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"

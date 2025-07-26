@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-441 songs - 19 hr 32 min
+442 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Calma](https://open.spotify.com/track/4qWbRktWWHXHGJb1uhWq8m) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Calma](https://open.spotify.com/album/5US6Ejo1xkfRpR3YSnKEQr) | 2:01 | 2024-03-29 |  |
 | [Canopy](https://open.spotify.com/track/0jHu8QbSuwABUWnf1nQxFd) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Moriah Wolfe](https://open.spotify.com/artist/0CYYj8G2owqzuC8Ysa8u2t), [Luis Álvarez](https://open.spotify.com/artist/3zowTYcPBFKlG4Hi98bPpq) | [A Place To Call Home](https://open.spotify.com/album/1cMd7URSyipZLbHSxiXM5G) | 1:12 | 2022-10-14 | 2023-03-10 |
 | [Cape May](https://open.spotify.com/track/77e7g7IzJHpk5hnwUguZIv) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cape May](https://open.spotify.com/album/0R1tZfJSsUmM0LOYppmziV) | 2:42 | 2023-12-15 | 2025-05-14 |
+| [Care](https://open.spotify.com/track/1AvsaTVnMVzISPmFVEg71V) | [Jeremiah River](https://open.spotify.com/artist/1yZEsDnvySiKAOlBRaf96D) | [Care](https://open.spotify.com/album/7k1IuxipWPPsVmg7cSk4vs) | 2:23 | 2025-07-25 |  |
 | [Carroll Gardens](https://open.spotify.com/track/3dgAbsq1H5NqLJscYPxurR) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Carroll Gardens](https://open.spotify.com/album/6UTtrPhsCgjxjG24Zfn6jq) | 2:44 | 2023-08-11 |  |
 | [Cascading Gracefully](https://open.spotify.com/track/61rbHseoHJJ7xjcpA7hCoH) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Cascading Gracefully](https://open.spotify.com/album/41B8fiOkOnqSipjAzGlhqM) | 2:12 | 2023-05-26 | 2023-06-16 |
 | [Catamaran](https://open.spotify.com/track/5tyDBqmANuy4wFG40G4oQY) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Catamaran](https://open.spotify.com/album/0y3bSiAqFS3XaEDQUKbt8u) | 2:50 | 2025-03-05 |  |

@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 75 | [25 & Whyln](https://open.spotify.com/track/5odinvHa3W2Vb2iBX1f6am) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 11:18 |
 | 76 | [BLACK SHEEP OUTRO](https://open.spotify.com/track/0P6CMd1DCS3nRWeihcr6oW) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 3:56 |
 | 77 | [People Die Everyday](https://open.spotify.com/track/5ik4LwrrEvbmtxw7runtXW) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 2:45 |
-| 78 | [LowBatt](https://open.spotify.com/track/0mJlScE5wSE1LW2IrVmbMD) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Gravity](https://open.spotify.com/album/27QdjDHdl4pbV4vNF0S4T2) | 2:41 |
-| 79 | [Bang Bang](https://open.spotify.com/track/7FSmuGYYTevjhvkc7lH6cx) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv) | [True Story](https://open.spotify.com/album/6P9MmVepzwEvdFxYRdzTGF) | 2:19 |
+| 78 | [Bang Bang](https://open.spotify.com/track/7FSmuGYYTevjhvkc7lH6cx) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv) | [True Story](https://open.spotify.com/album/6P9MmVepzwEvdFxYRdzTGF) | 2:19 |
+| 79 | [LowBatt](https://open.spotify.com/track/0mJlScE5wSE1LW2IrVmbMD) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Gravity](https://open.spotify.com/album/27QdjDHdl4pbV4vNF0S4T2) | 2:41 |
 | 80 | [S.B.W](https://open.spotify.com/track/0ouqa582jNyX4B5Gvvjwh9) | [Chromazz](https://open.spotify.com/artist/3OhxI9yPQIh8L5uRPB1WG7) | [S.B.W](https://open.spotify.com/album/2qQkJlgbShVtQsbI9D03eS) | 2:57 |
 | 81 | [Sugar Mommy](https://open.spotify.com/track/0fuWxGIvZGIvp5yP61a3mw) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8) | [Sugar Mommy](https://open.spotify.com/album/6kcAxB2fgyeTfl8FP0usM5) | 2:50 |
 | 82 | [Realist / Outro](https://open.spotify.com/track/5ppW5OaqSE1IodXnBdEaLO) | [Hudson East](https://open.spotify.com/artist/0DwPrw4Zd15m2cdnpbwGKq) | [Eastway](https://open.spotify.com/album/1l54zzRXrwYV9e2WowPu0D) | 5:15 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 108 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 109 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `Ab3qfgAAAADayAwec3iyxP+HwvxTdZ6+`
+Snapshot ID: `Ab3wMgAAAAA10akk1RrvYvjvSbvnCx+y`

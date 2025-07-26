@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 dari 1000](https://open.spotify.com/track/73sNYWU4Qe1WEiUyMMNz6q) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [1 dari 1000](https://open.spotify.com/album/0xe2k3gc4rs7MAwqhiIdHT) | 3:54 | 2024-07-25 | 2025-02-14 |
-| [123456](https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [123456](https://open.spotify.com/album/23mJFFYLo7WPVPaHSrG4z3) | 3:24 | 2025-07-24 |  |
+| [123456 \(New Version\)](https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [123456 \(New Version\)](https://open.spotify.com/album/23mJFFYLo7WPVPaHSrG4z3) | 3:24 | 2025-07-24 |  |
 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-26 | 2024-02-09 |
 | [3..2..1](https://open.spotify.com/track/5HhDOVqVmGWGCcQRbsN21j) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [3..2..1](https://open.spotify.com/album/3O0PRgNKpvjVgCbGvaA4rg) | 3:23 | 2024-07-11 | 2024-10-25 |
 | [Abadi](https://open.spotify.com/track/6iXTMSSD6diBMzSS8JnVbm) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Abadi](https://open.spotify.com/album/3kxlPmmRHWpYYH2xZRoRuX) | 3:52 | 2024-09-19 | 2024-11-15 |

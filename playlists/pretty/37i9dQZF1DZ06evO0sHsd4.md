@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,824 likes - 43 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,848 likes - 43 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 29 | [Y Lo Busque](https://open.spotify.com/track/1Jhpx16lJWQM9p961qHSnc) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Y Lo Busque](https://open.spotify.com/album/1QJIg7QwIAxHMWR9mX22vr) | 3:45 |
 | 30 | [EPA](https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [EPA](https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq) | 2:57 |
 | 31 | [La Vida Real](https://open.spotify.com/track/4hgpatpyGT9sGCCjA1KxEa) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [El Juanpa](https://open.spotify.com/artist/6PqovqAlvMlboVJ9D2DTb8) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:51 |
-| 32 | [Nos Entendemos](https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Nos Entendemos](https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa) | 2:56 |
-| 33 | [Escuela 4 Letras](https://open.spotify.com/track/3CvGYnOdzYStHNggz95kuJ) | [Los Beltran](https://open.spotify.com/artist/03imNtJdmHHxdnimuoxNVX), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Los Tiempos Cambian](https://open.spotify.com/album/7L50E9jYNHmH7dfpVnrfQP) | 3:06 |
+| 32 | [Escuela 4 Letras](https://open.spotify.com/track/3CvGYnOdzYStHNggz95kuJ) | [Los Beltran](https://open.spotify.com/artist/03imNtJdmHHxdnimuoxNVX), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Los Tiempos Cambian](https://open.spotify.com/album/7L50E9jYNHmH7dfpVnrfQP) | 3:06 |
+| 33 | [Nos Entendemos](https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Nos Entendemos](https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa) | 2:56 |
 | 34 | [Hasta el Dia de Hoy](https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Hasta el Dia de Hoy](https://open.spotify.com/album/6GSeGmTye0w8QJ99CDy3oh) | 3:09 |
 | 35 | [Donde Estamos Hoy](https://open.spotify.com/track/4PmB3C9y4zsTuRgz91JUHD) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:42 |
 | 36 | [Te Amo \(Para Siempre\)](https://open.spotify.com/track/3NJuP6rist3msDCOSSo9jA) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Te Amo \(Para Siempre\)](https://open.spotify.com/album/4X7pki5YFOLI2CsIWpMlhE) | 3:47 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 42 | [Flow Criminal](https://open.spotify.com/track/2qH76OVzQR5AAexNHhrFEj) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:16 |
 | 43 | [Yo Si Vengo De Las Calles](https://open.spotify.com/track/2cyhNfHLJtCcrpQIXFcV52) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 3:18 |
 
-Snapshot ID: `aIAmAAAAAABz2hpFwZ8gh3Suoja1iDpB`
+Snapshot ID: `aIF3gAAAAAAeKYatYFefRW7ejCfHkJ5Z`

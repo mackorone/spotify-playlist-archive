@@ -4,7 +4,7 @@
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation.❤️ Featuring music from: Harry Styles, Bruno Mars, Beyoncé, SZA, Adele, H.E.R, Usher, Alicia Keys, Michael Jackson, John Mayer, John Legend, Rihanna, Ed Sheeran and more\. Chill vibes \| Romantic dinner 2025
 
-297 songs - 18 hr 31 min
+299 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,13 +111,14 @@
 | [Halfway](https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:17 | 2022-05-27 | 2024-10-05 |
 | [Halo](https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 4:21 | 2022-05-27 | 2025-02-14 |
 | [Halo](https://open.spotify.com/track/7HUEWHXBIUCzksO0swFqiA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/2DvHLN4ZpGTWCUD33GeVus) | 4:21 | 2025-01-30 |  |
+| [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-25 |  |
 | [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 | 2022-12-02 | 2024-10-05 |
 | [Heartbeat](https://open.spotify.com/track/3CP4TBBL8ZvTnHf0wPy7Pt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Deluxe\)](https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N) | 3:51 | 2025-03-14 | 2025-06-21 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2022-05-27 | 2024-10-05 |
 | [Helium](https://open.spotify.com/track/4S6fv0puLCsfYjyBTPDb9k) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 4:12 | 2025-05-13 |  |
 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 | 2025-06-02 |  |
 | [Hey](https://open.spotify.com/track/6XEQbfYGsJlrl5agnu5b1y) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Hey](https://open.spotify.com/album/4KC8c6iS6gLnXFZmQlpSEn) | 3:26 | 2025-02-14 |  |
-| [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 | 2025-05-23 |  |
+| [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 | 2025-05-23 | 2025-07-26 |
 | [Hold Me Now](https://open.spotify.com/track/7KG1uA3O9cqahhVt5atWnB) | [Johnny Logan](https://open.spotify.com/artist/27rXetqqGSi2spXzggwehc) | [The Best Of Johnny Logan](https://open.spotify.com/album/5GlpiY5o7gbgAJQrVnYduA) | 3:03 | 2022-05-27 | 2024-10-05 |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-05-27 |  |
 | [Hold On](https://open.spotify.com/track/19bvVIF88d0PkFp8PNqX3q) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Berry Street](https://open.spotify.com/album/73iqhOAp4BFEv6F4Hkp7uQ) | 3:51 | 2024-10-04 | 2025-01-31 |
@@ -200,6 +201,7 @@
 | [Motorbike](https://open.spotify.com/track/6W2trGwkUVR8mwGSH4Ftpf) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Motorbike](https://open.spotify.com/album/1E4NH1W98mv4PaD3tvf5B9) | 3:08 | 2022-05-27 | 2024-10-05 |
 | [My All](https://open.spotify.com/track/5CKh7fL3ta9OY8yLMp6IzR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly: 25th Anniversary Expanded Edition](https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379) | 3:50 | 2024-10-04 |  |
 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 | 2022-05-27 |  |
+| [My Girl](https://open.spotify.com/track/0szmDue1FCIpLC9SBs7fbU) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [My Girl](https://open.spotify.com/album/19dLWMBcqXwZy0Lv7nxRjb) | 2:57 | 2025-07-25 |  |
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 | 2024-10-04 |  |
 | [My Little Love](https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:29 | 2022-05-27 | 2023-01-26 |
 | [My Love \(feat\. T.I.\)](https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 4:36 | 2025-01-23 |  |
@@ -224,7 +226,7 @@
 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 | 2025-07-02 |  |
 | [PILLOWTALK](https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 | 2025-01-30 | 2025-06-06 |
 | [Pretty Boy](https://open.spotify.com/track/7IL8PSVwLOJxqYne6azxQv) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:54 | 2024-10-04 | 2025-03-29 |
-| [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 | 2025-05-16 |  |
+| [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 | 2025-05-16 | 2025-07-26 |
 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 | 2022-05-27 | 2024-10-05 |
 | [Rewind](https://open.spotify.com/track/5Po20XWC11YJ3TMLfHqMdB) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [EP6](https://open.spotify.com/album/6ZSh7q2E1I6tpESZA6j4nE) | 2:59 | 2022-05-27 | 2023-01-26 |
 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 | 2024-10-04 |  |

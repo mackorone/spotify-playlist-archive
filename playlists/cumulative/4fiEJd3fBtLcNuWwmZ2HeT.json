@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Ado's Utattemita Album",
+        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258372,
+      "name": "Aishite Aishite Aishite",
+      "url": "https://open.spotify.com/track/4gpvY7b9wHA9G1ZsMDu15b"
+    },
+    {
+      "album": {
         "name": "aishiteitanoni",
         "url": "https://open.spotify.com/album/4hDLuHOt6Mo98I2SVufLji"
       },

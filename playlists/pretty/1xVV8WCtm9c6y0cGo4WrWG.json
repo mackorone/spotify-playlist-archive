@@ -1,28 +1,32 @@
 {
   "description": "The newest and best Hip-Hop tracks, updated weekly! Cover: Drake",
-  "num_followers": 23197,
+  "num_followers": 23195,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAjieqnoAgcaUywR5JkUA8MlmM+Qxoh",
+  "snapshot_id": "AAAjj92zLyt8bDEaYA6Tdmfmfh4F/iok",
   "tracks": [
     {
-      "added_at": "2025-07-11 18:06:45",
+      "added_at": "2025-07-25 11:54:23",
       "album": {
-        "name": "What Did I Miss?",
-        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
+        "name": "Which One",
+        "url": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0"
       },
       "artists": [
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 194324,
-      "name": "What Did I Miss?",
-      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
+      "duration_ms": 169134,
+      "name": "Which One (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
     },
     {
       "added_at": "2025-07-11 18:06:45",
@@ -43,6 +47,50 @@
       "duration_ms": 178708,
       "name": "Bodies (with JID)",
       "url": "https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL"
+    },
+    {
+      "added_at": "2025-07-25 11:54:23",
+      "album": {
+        "name": "Alfredo 2",
+        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 226546,
+      "name": "Ensalada (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/06ZX08uRQDK02emdw9mN28"
+    },
+    {
+      "added_at": "2025-07-25 11:54:23",
+      "album": {
+        "name": "Monsoon Season",
+        "url": "https://open.spotify.com/album/0AVJyPXZnYYxrqwqhcTzfX"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Reckless (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/3LrAGrfCLRDhQoDxS5Nz3B"
     },
     {
       "added_at": "2025-07-11 18:06:45",
@@ -111,6 +159,38 @@
       "duration_ms": 137653,
       "name": "Trappa Rappa",
       "url": "https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK"
+    },
+    {
+      "added_at": "2025-07-11 18:06:45",
+      "album": {
+        "name": "What Did I Miss?",
+        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 194324,
+      "name": "What Did I Miss?",
+      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
+    },
+    {
+      "added_at": "2025-07-25 11:53:27",
+      "album": {
+        "name": "Professional",
+        "url": "https://open.spotify.com/album/3szFCrznF383ASda6GRzq2"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Professional",
+      "url": "https://open.spotify.com/track/6vkHTGIAdDW7gTzliLM4ui"
     },
     {
       "added_at": "2025-07-11 18:06:45",

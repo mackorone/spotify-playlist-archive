@@ -4,7 +4,7 @@
 
 > C'est parti pour une bonne journée.
 
-257 songs - 16 hr 4 min
+258 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Slow Cheetah](https://open.spotify.com/track/06wTEKL2rSrSaOjFtgG8fj) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 5:19 | 2023-10-12 | 2024-02-16 |
 | [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 | 2023-11-22 | 2025-04-16 |
 | [Slow Steps in the Snow](https://open.spotify.com/track/5OlRXnce75LJjS29TGnY3Z) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Slow Steps in the Snow](https://open.spotify.com/album/5Q5CFyu9wtBeBEErBLGbrg) | 3:33 | 2025-06-26 |  |
+| [Small Mercies](https://open.spotify.com/track/5dOIyahZY3ZmzoidvVbELF) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Horsepower For The Streets \(Deluxe Version\)](https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP) | 3:41 | 2025-07-24 |  |
 | [So Real](https://open.spotify.com/track/5s9biQ8jLtbUnE76sxDtQ8) | [Sage](https://open.spotify.com/artist/5dDQASlR9FyeP4VO0jw35F) | [Paint Myself](https://open.spotify.com/album/4BhK7NpYuRvOVfbDIxpDZp) | 2:57 | 2024-03-27 | 2024-09-18 |
 | [Soleil Soleil \(feat\. November Ultra\)](https://open.spotify.com/track/4U8Dv8rLUSkWPqAf94zhhx) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Les Royaumes Minuscules](https://open.spotify.com/album/3VGubAeKi1fg002fAta5rz) | 3:02 | 2024-10-04 | 2025-07-18 |
 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 | 2025-06-26 |  |
@@ -241,7 +242,7 @@
 | [toothache](https://open.spotify.com/track/6vca0aMELa1kc6mIs6w39c) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [toothache](https://open.spotify.com/album/3rjjYmNxsyWkmrDLEKtXF4) | 3:28 | 2025-04-15 |  |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2025-04-15 |  |
 | [Traffic Lights](https://open.spotify.com/track/2Ic3Obe9brvYs5e65Bl2Nc) | [Victor Solf](https://open.spotify.com/artist/5Y8g8xQA1pNHnnfFznkcqZ) | [Traffic Lights](https://open.spotify.com/album/7ydJal4g5NFBKfJGjpLoam) | 4:00 | 2024-03-27 | 2024-09-27 |
-| [Us](https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/0trDWegHEv7XseWBMfZapf) | 3:56 | 2025-07-17 |  |
+| [Us](https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/0trDWegHEv7XseWBMfZapf) | 3:56 | 2025-07-17 | 2025-07-26 |
 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 | 2024-09-17 | 2025-05-17 |
 | [Venice Bitch](https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 9:37 | 2023-03-18 | 2023-06-01 |
 | [Walk The Way](https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin'](https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O) | 3:11 | 2025-05-16 |  |

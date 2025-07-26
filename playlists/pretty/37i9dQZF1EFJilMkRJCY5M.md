@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 77 | [Getaway](https://open.spotify.com/track/4WXOMShFoM0V05dDSC5dkR) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Getaway](https://open.spotify.com/album/0hxe8OBCWXDjgCfTCUjm1p) | 3:27 |
 | 78 | [Lemonade](https://open.spotify.com/track/4LZAmygVtCeHBw7YYHGd9y) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Lemonade](https://open.spotify.com/album/4neiwFOPRfS89VoQ0BusHw) | 2:44 |
 | 79 | [LONELY PLACE](https://open.spotify.com/track/4aQ1hgPKHr74xqQUUwAour) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 5: DUMB / LONELY PLACE](https://open.spotify.com/album/63ygNpVZyoKuUoDMdzDDqb) | 1:03 |
-| 80 | [Too Good](https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 3:06 |
-| 81 | [If We Want To](https://open.spotify.com/track/7qgCPiaB0hffA8UVeJN0WM) | [Chevy Beaulieu](https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC) | [If We Want To](https://open.spotify.com/album/3DIBtAWlzmki8v1cDZf7QJ) | 3:13 |
+| 80 | [If We Want To](https://open.spotify.com/track/7qgCPiaB0hffA8UVeJN0WM) | [Chevy Beaulieu](https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC) | [If We Want To](https://open.spotify.com/album/3DIBtAWlzmki8v1cDZf7QJ) | 3:13 |
+| 81 | [Too Good](https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 3:06 |
 | 82 | [Better](https://open.spotify.com/track/10OTwttB9ioc2P7UlClFNg) | [Brenna Bone](https://open.spotify.com/artist/0L79xgZmjcUCraxgHJoTek) | [Better](https://open.spotify.com/album/0qmGuUwu9ql6avlCA1ShFV) | 3:24 |
 | 83 | [die 4 u](https://open.spotify.com/track/7k8IcQsuJAPtWI6QNCdSx3) | [Livy Jeanne](https://open.spotify.com/artist/0BBr2UBxbwwmG9yLEr8mR5) | [die 4 u](https://open.spotify.com/album/7Bw4ZLyMlGiihatI3VUQq9) | 2:53 |
 | 84 | [Come On Christmas](https://open.spotify.com/track/4SKbZvDaY6L9Hlkfuzt75z) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Christmas Vacation](https://open.spotify.com/album/5dxdPpuzoIhqd4GiYsiJ2O) | 2:31 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 108 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 109 | [Reflections](https://open.spotify.com/track/4YeFfOdjytE59hnkgZu6HD) | [Cuddi](https://open.spotify.com/artist/1Vtl959vfEKWOm1OE341HG), [Irai Ouree](https://open.spotify.com/artist/0xoj5su9ZgBkiBS8aHC6ko) | [Beware of the Stones](https://open.spotify.com/album/6LRpSRKnyjFtRg6usL4RYq) | 3:12 |
 
-Snapshot ID: `Ab3qdAAAAACEumwd879gXJzEAIYI6acl`
+Snapshot ID: `Ab3wAAAAAAB/t3f+Z176F9+d7NqE1T1X`

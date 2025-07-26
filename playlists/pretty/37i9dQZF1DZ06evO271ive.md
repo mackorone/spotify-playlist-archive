@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,350 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,366 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 9 | [Blue Strips \(feat\. Sexyy Red\) \- Remix](https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Blue Strips \(Remix\) \(feat\. Sexyy Red\)](https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so) | 2:13 |
 | 10 | [Looking For The Hoes \(Ain’t My Fault\)](https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:10 |
 | 11 | [ACTIN UP WITH SEXYY RED](https://open.spotify.com/track/0VTNaBTD8WWpz0cW3dRR0g) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [ACTIN UP WITH SEXYY RED](https://open.spotify.com/album/3MQUPgltYMpQ2hmVNZZdKv) | 2:15 |
-| 12 | [WHIM WHAMIEE \(feat\. Sexyy Red\) \[Remix\]](https://open.spotify.com/track/7pvrkNvlIQMY0hfGcdCr5m) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [WHIM WHAMIEE \(feat\. Sexyy Red\) \[Remix\]](https://open.spotify.com/album/1Du7xMoICzbJV9qYy1EUWB) | 2:27 |
-| 13 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 |
+| 12 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 |
+| 13 | [WHIM WHAMIEE \(feat\. Sexyy Red\) \[Remix\]](https://open.spotify.com/track/7pvrkNvlIQMY0hfGcdCr5m) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [WHIM WHAMIEE \(feat\. Sexyy Red\) \[Remix\]](https://open.spotify.com/album/1Du7xMoICzbJV9qYy1EUWB) | 2:27 |
 | 14 | [U My Everything \(feat\. Drake\)](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 |
 | 15 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 |
 | 16 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 49 | [Don't Trust Em](https://open.spotify.com/track/1eMTwnuRrFNYlVbIjCCkSq) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Don't Trust Em](https://open.spotify.com/album/5XcP3WvR8fGJKIVi1QzWwV) | 3:30 |
 | 50 | [Sexyy Love Money \(feat\. VonOff1700\)](https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:44 |
 
-Snapshot ID: `aIAmAAAAAABnsQcHZm6T1OsqAa8klUea`
+Snapshot ID: `aIF3gAAAAADqKp1e99+M5c7R3Crq8Brv`

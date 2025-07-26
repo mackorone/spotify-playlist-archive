@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Tyler, The Creator
 
-626 songs - 1 day 6 hr 31 min
+627 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,7 +523,7 @@
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 | 2023-12-07 | 2024-06-22 |
 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 | 2024-08-08 | 2024-11-08 |
 | [Swear to God \(feat\. Future\)](https://open.spotify.com/track/0N3A0tvQ3ppZerKA8Gsztp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Swear to God \(feat\. Future\)](https://open.spotify.com/album/5j8aNVtgdhzP7azN05Z9h5) | 3:00 | 2024-05-10 | 2024-06-22 |
-| [Sweep](https://open.spotify.com/track/34EsgviZnHlDUNlsJzkaxi) | [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv) | [Sweep](https://open.spotify.com/album/0dziVWndSPwPxofHx6fzNS) | 2:16 | 2025-05-08 |  |
+| [Sweep](https://open.spotify.com/track/34EsgviZnHlDUNlsJzkaxi) | [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv) | [Sweep](https://open.spotify.com/album/0dziVWndSPwPxofHx6fzNS) | 2:16 | 2025-05-08 | 2025-07-26 |
 | [SWEEP](https://open.spotify.com/track/1MF5nqFJTaS7xNVkte77TT) | [Khi'leb](https://open.spotify.com/artist/1KO82XcaphTWqMWAf6qXgy) | [SWEEP](https://open.spotify.com/album/1wNQzHC0JvBBooqXdUwuTn) | 3:04 | 2023-09-22 | 2023-10-20 |
 | [Swing My Way](https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Swing My Way](https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z) | 2:59 | 2025-01-16 | 2025-05-02 |
 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 | 2024-08-29 | 2024-11-29 |
@@ -613,6 +613,7 @@
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-03-07 | 2024-08-16 |
 | [whatsapp \(wassam\)](https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [whatsapp \(wassam\)](https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ) | 2:28 | 2024-05-04 | 2024-06-01 |
 | [Where Them Girls At](https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:11 | 2024-06-28 | 2024-08-02 |
+| [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/1LVRE2ZRLNGdjCFmOa9kJa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/1e9jeC1QsETxbuVLJh9Iad) | 2:49 | 2025-07-25 |  |
 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 | 2025-05-01 | 2025-05-23 |
 | [WHISKEY WHISKEY \(feat\. Morgan Wallen\)](https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:41 | 2024-06-14 | 2024-09-27 |
 | [WHO'S BACK?](https://open.spotify.com/track/2MpOA7dCkVgMtAFmMkAdyi) | [SkuX](https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv) | [Yknow How We Do](https://open.spotify.com/album/7JLfTaDM9ZR97On7H36ez6) | 2:04 | 2024-08-01 | 2024-09-27 |

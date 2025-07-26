@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 33869,
+  "num_followers": 33875,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAB0U4Hl4gBztNA0kog13uMl",
+  "snapshot_id": "aIF3gAAAAABBp5OQRLmbLECka/ylVXbA",
   "tracks": [
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 276560,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ"
+      "duration_ms": 257173,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/49aRzdu6ITEHbWbLQaXTzi"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies XX",
-        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 217520,
-      "name": "Tight Rope XX",
-      "url": "https://open.spotify.com/track/5d4O0OoDEloGKJvQlFeYOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delirium",
         "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Comalies XX",
+        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 217520,
+      "name": "Tight Rope XX",
+      "url": "https://open.spotify.com/track/5d4O0OoDEloGKJvQlFeYOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Anima (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
       },
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 257173,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/49aRzdu6ITEHbWbLQaXTzi"
+      "duration_ms": 276560,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies XX",
-        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Heaven's a Lie XX",
-      "url": "https://open.spotify.com/track/01nUJmvJIplZ7bes2IjqAo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dark Adrenaline",
         "url": "https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 183440,
       "name": "Upsidedown",
       "url": "https://open.spotify.com/track/0dA9TfUtgoVZTWiGUEXiIq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comalies XX",
+        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Heaven's a Lie XX",
+      "url": "https://open.spotify.com/track/01nUJmvJIplZ7bes2IjqAo"
     },
     {
       "added_at": null,

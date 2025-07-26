@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "From Toronto to Nashville - country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross",
+  "description": "From Toronto to Nashville - country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: James Barker Band",
   "name": "New Country Hits (Country Life)",
   "tracks": [
     {
@@ -3671,6 +3671,32 @@
     },
     {
       "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/5aPR14AS7MRLz3fea04oKj"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217631,
+      "name": "Miami (feat. Lil Wayne & Rick Ross)",
+      "url": "https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7"
+    },
+    {
+      "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
@@ -4268,6 +4294,24 @@
       "duration_ms": 188166,
       "name": "One Bad Habit",
       "url": "https://open.spotify.com/track/4N0yUfSgo2lnpJzufrqAoY"
+    },
+    {
+      "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/7k4OxnPKWsANIan8pfS6aK"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177565,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/4gReEWsdCfxdRzd1GwRr7K"
     },
     {
       "album": {
@@ -5160,6 +5204,24 @@
       "duration_ms": 220691,
       "name": "Somewhere Between",
       "url": "https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2"
+    },
+    {
+      "album": {
+        "name": "Somewhere in a Small Town",
+        "url": "https://open.spotify.com/album/31PomNawADmQlyqqAGQhKM"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186318,
+      "name": "Somewhere in a Small Town",
+      "url": "https://open.spotify.com/track/0v8Xje4ZqPnYpECOzeMvjJ"
     },
     {
       "album": {

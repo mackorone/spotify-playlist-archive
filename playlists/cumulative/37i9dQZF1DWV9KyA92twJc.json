@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05e8\u05d5\u05df \u05d7\u05d9\u05d5\u05df ",
+  "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05d0\u05e7\u05d5 \u05d5\u05d0\u05e0\u05d4 \u05d6\u05e7 ",
   "name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -328,6 +328,24 @@
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "album": {
@@ -881,6 +899,24 @@
     },
     {
       "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "album": {
         "name": "LLYLM",
         "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
       },
@@ -964,7 +1000,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -2089,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "WATCH THE NEWS",
+        "url": "https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166996,
+      "name": "WATCH THE NEWS",
+      "url": "https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -2313,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05dc\u05d9\u05e1",
+        "url": "https://open.spotify.com/album/0RnvCGmGjKhn1ya43HKC9V"
+      },
+      "artists": [
+        {
+          "name": "\u05d0\u05d5\u05d3\u05d9\u05d4",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u05d0\u05dc\u05d9\u05e1",
+      "url": "https://open.spotify.com/track/1bow5OcK19mmexxgIYQlJu"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05dd \u05d6\u05d4 \u05d6\u05d4 \u2013 \u05d6\u05d4 \u05d6\u05d4",
         "url": "https://open.spotify.com/album/78VNDC9zHvBXKi8Nqz7jrE"
       },
@@ -2346,6 +2418,32 @@
       "duration_ms": 165000,
       "name": "\u05d0\u05e0\u05d9",
       "url": "https://open.spotify.com/track/2YPOqzIqc18ETU6AnQ4yIS"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05e0\u05e8\u05d2\u05d9\u05d4 \u05d0\u05d1\u05dc \u05e2\u05dd \u05d0\u05e0\u05d4 \u05d6\u05e7 \u05d1\u05e7\u05d8\u05e2 \u05e9\u05dc \u05e8\u05de\u05d9\u05e7\u05e1",
+        "url": "https://open.spotify.com/album/2HYuOfc5ys8OqmEdUqlqvy"
+      },
+      "artists": [
+        {
+          "name": "ECHO",
+          "url": "https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW"
+        },
+        {
+          "name": "Anna Zak",
+          "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
+        },
+        {
+          "name": "Shachar Zysman",
+          "url": "https://open.spotify.com/artist/1RIc6VDTRRoN9YeA2j2nCs"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154029,
+      "name": "\u05d0\u05e0\u05e8\u05d2\u05d9\u05d4 \u05d0\u05d1\u05dc \u05e2\u05dd \u05d0\u05e0\u05d4 \u05d6\u05e7 \u05d1\u05e7\u05d8\u05e2 \u05e9\u05dc \u05e8\u05de\u05d9\u05e7\u05e1",
+      "url": "https://open.spotify.com/track/1nOaHCBIZuzZj4hEpCIYOq"
     },
     {
       "album": {
@@ -2734,7 +2832,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 196548,
       "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r"
@@ -2756,7 +2854,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 287141,
       "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1 & \u05de\u05d9\u05dd \u05e9\u05e7\u05d5\u05e4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/44GSjYhBxuuKx0ikN5Dmag"
@@ -3120,7 +3218,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 165642,
       "name": "\u05de\u05d4 \u05d6\u05d4 \u05de\u05e9\u05e0\u05d4 \u05d1\u05db\u05dc\u05dc",
       "url": "https://open.spotify.com/track/3lJoMUaYVTe8nMky0vjGGx"
@@ -3346,7 +3444,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 355483,
       "name": "\u05e2\u05d5\u05dc\u05dd \u05de\u05e9\u05d5\u05d2\u05e2",
       "url": "https://open.spotify.com/track/4JmmjsGmOED0sn0Le3r84u"
@@ -3448,7 +3546,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 169000,
       "name": "\u05e4\u05d7\u05d3 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7"
@@ -3602,6 +3700,24 @@
       "duration_ms": 189000,
       "name": "\u05e8\u05d0\u05d9\u05ea\u05d9 \u05e2\u05d5\u05dc\u05dd",
       "url": "https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC"
+    },
+    {
+      "album": {
+        "name": "\u05e8\u05d0\u05e9 \u05d4\u05de\u05de\u05e9\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/7cyRJlBeNv6sUo8i6V1tV2"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163522,
+      "name": "\u05e8\u05d0\u05e9 \u05d4\u05de\u05de\u05e9\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/64X7IM9ZENFkjZDOVGnxCh"
     },
     {
       "album": {
@@ -3797,6 +3913,24 @@
     },
     {
       "album": {
+        "name": "\u05ea\u05d2\u05d9\u05d3 \u05dc\u05d9 \u05d0\u05ea\u05d4 (Tagid Li Ata)",
+        "url": "https://open.spotify.com/album/5a6CtZFjJi4jS7IJgeMtWV"
+      },
+      "artists": [
+        {
+          "name": "Idan Raichel",
+          "url": "https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180739,
+      "name": "\u05ea\u05d2\u05d9\u05d3 \u05dc\u05d9 \u05d0\u05ea\u05d4 (Tagid Li Ata)",
+      "url": "https://open.spotify.com/track/11hpzrOje8yC9IckrqIo3m"
+    },
+    {
+      "album": {
         "name": "\u05ea\u05d9\u05e7 \u05e7\u05d8\u05df",
         "url": "https://open.spotify.com/album/2eKft1fH1UqbnKrhWyuk4f"
       },
@@ -3812,7 +3946,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 173913,
       "name": "\u05ea\u05d9\u05e7 \u05e7\u05d8\u05df",
       "url": "https://open.spotify.com/track/3mCCFs2hdDM2mObzARzxOg"

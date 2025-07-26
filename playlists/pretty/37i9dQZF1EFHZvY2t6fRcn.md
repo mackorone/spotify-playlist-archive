@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 495 likes - 139 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 497 likes - 139 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 37 | [Therapy](https://open.spotify.com/track/0Nw0Z2VXKuiFSikzWvgqR6) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Therapy](https://open.spotify.com/album/472JU7mEYpwNTNTdqyYVFU) | 3:27 |
 | 38 | [Pasado \(feat\. Cali Y El Dandee\)](https://open.spotify.com/track/0Csxl0xjWL376E9L78Up4j) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Pasado \(feat\. Cali Y El Dandee\)](https://open.spotify.com/album/4QvmvksCfpmZPo95QOS6tF) | 2:22 |
 | 39 | [Feed The Beast](https://open.spotify.com/track/3qfovimS6NXaSKxskfkGX5) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:30 |
-| 40 | [Real Love](https://open.spotify.com/track/6vuwpMl38xfscWpoxquFiW) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Real Love](https://open.spotify.com/album/1eW90EbtZZZV3LHHy0NJUW) | 3:47 |
-| 41 | [ALL OVER AGAIN](https://open.spotify.com/track/3LpbHOkTRZ0ls06L0xKdpH) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO](https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp) | 2:07 |
+| 40 | [ALL OVER AGAIN](https://open.spotify.com/track/3LpbHOkTRZ0ls06L0xKdpH) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO](https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp) | 2:07 |
+| 41 | [Real Love](https://open.spotify.com/track/6vuwpMl38xfscWpoxquFiW) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Real Love](https://open.spotify.com/album/1eW90EbtZZZV3LHHy0NJUW) | 3:47 |
 | 42 | [Always Love](https://open.spotify.com/track/0Yt6dZi9jhnaCmzoJddPnt) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [In Between](https://open.spotify.com/album/0rfdzpUAMNtYie0qZCg8XA) | 3:20 |
 | 43 | [If We Were Made Of Water](https://open.spotify.com/track/2jWiqKyZKkcChQpwwmQH8k) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:24 |
 | 44 | [Nothing Here](https://open.spotify.com/track/2u8W9YjnCuR7tgaefRDYx7) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Journey](https://open.spotify.com/album/4vTfrB4P9R7ozSk7H2jdLI) | 2:37 |
 | 45 | [Hawaiian Mazes](https://open.spotify.com/track/6IwqOnORFD7Jssoyor6Ngf) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 4:03 |
 | 46 | [Slow Cooker](https://open.spotify.com/track/4hVk7SMLCJ72CEfycSBvWT) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:22 |
 | 47 | [Remember Us \(feat\. Rapsody\)](https://open.spotify.com/track/3vS7px4CSV1I8hP5MXEdk8) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:51 |
-| 48 | [Don't Wreck My Holiday \(feat\. Kelli\-Leigh\)](https://open.spotify.com/track/7zynoUKo9XjcsBXZzfyq9w) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Don't Wreck My Holiday \(feat\. Kelli\-Leigh\)](https://open.spotify.com/album/4TzNJNykVE1YmFHFgPmthN) | 2:53 |
-| 49 | [EGO](https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [EGO](https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc) | 2:29 |
+| 48 | [EGO](https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [EGO](https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc) | 2:29 |
+| 49 | [Don't Wreck My Holiday \(feat\. Kelli\-Leigh\)](https://open.spotify.com/track/7zynoUKo9XjcsBXZzfyq9w) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Don't Wreck My Holiday \(feat\. Kelli\-Leigh\)](https://open.spotify.com/album/4TzNJNykVE1YmFHFgPmthN) | 2:53 |
 | 50 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 |
 | 51 | [Grey Area](https://open.spotify.com/track/5b1DQvXpubrUx0xeOB4f6n) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Grey Area](https://open.spotify.com/album/7zwvGqcqwKaUaYXjAWTwN4) | 2:48 |
 | 52 | [Midnight Dreams](https://open.spotify.com/track/6xKUJ0HwdyEIeiuwM3sfQ1) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:12 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 110 | [PWR RNGR ft\. Mick Jenkins](https://open.spotify.com/track/6QOlPC9Mwf6SEjq5LHD9Y4) | [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [PWR RNGR ft\. Mick Jenkins](https://open.spotify.com/album/7uOvw6gOJyngV3LoPynY4p) | 3:36 |
 | 111 | [Old You](https://open.spotify.com/track/7fsRcbZrbqOJ3yZTYHpJLy) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I) | [Another\. Not Me\. I'm Done.](https://open.spotify.com/album/3ogWyHgX9kpiL03Vpdp0k7) | 3:11 |
 | 112 | [Girls Don’t Cheat](https://open.spotify.com/track/3YH35thx08eWvn6u6rWnvN) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Girls Don't Cheat](https://open.spotify.com/album/0gYqVCe2CIZ7S6IqBNU1MH) | 2:38 |
-| 113 | [Stretch](https://open.spotify.com/track/5bnOO8GMfgoErXsomIOJ8f) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 3:07 |
-| 114 | [10 Out Of 10](https://open.spotify.com/track/2IxVErKRy50bYQXL4a1LyC) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [10 Out Of 10](https://open.spotify.com/album/0u5mUL1chXUVV0TErlIfUi) | 3:05 |
+| 113 | [10 Out Of 10](https://open.spotify.com/track/2IxVErKRy50bYQXL4a1LyC) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [10 Out Of 10](https://open.spotify.com/album/0u5mUL1chXUVV0TErlIfUi) | 3:05 |
+| 114 | [Stretch](https://open.spotify.com/track/5bnOO8GMfgoErXsomIOJ8f) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 3:07 |
 | 115 | [Whatever You Say](https://open.spotify.com/track/3HJAwbCG7vMR6xA7qK2Mg6) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don’t look at the moon \(Deluxe\)](https://open.spotify.com/album/0pg20nefkrcmXHQRIEkTkI) | 3:16 |
 | 116 | [Cliche](https://open.spotify.com/track/02Htc0atYU7iMGnKkIXh0f) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [i hate you, Don't Leave Me](https://open.spotify.com/album/3RP0foR47mZ1epRWFlL68Z) | 3:15 |
 | 117 | [Come Get Me Out](https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don't look at the moon...](https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6) | 3:22 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 138 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 139 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `Ab3qpgAAAAAZFqTxMIVe6qEXQxfD+kEf`
+Snapshot ID: `Ab3wKAAAAAAp93iKaiG8V4jtlX75qVrA`

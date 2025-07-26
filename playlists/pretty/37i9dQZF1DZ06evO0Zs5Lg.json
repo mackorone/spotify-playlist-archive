@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 21071,
+  "num_followers": 21087,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAADOMCUvrUK4GYfqDvwhTNtR",
+  "snapshot_id": "aIF3gAAAAACAKtHi5f/Cwgf07+Y9HNDR",
   "tracks": [
     {
       "added_at": null,
@@ -183,18 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powderhorn Suites",
-        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
+        "name": "OH SHIT!!!",
+        "url": "https://open.spotify.com/album/5BQFPnz90fOR5PcWOZIQ1G"
       },
       "artists": [
+        {
+          "name": "SonReal",
+          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
+        },
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 155146,
-      "name": "Dead Man Shuffle",
-      "url": "https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F"
+      "duration_ms": 185907,
+      "name": "OH SHIT!!!",
+      "url": "https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl"
     },
     {
       "added_at": null,
@@ -219,22 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "OH SHIT!!!",
-        "url": "https://open.spotify.com/album/5BQFPnz90fOR5PcWOZIQ1G"
+        "name": "Powderhorn Suites",
+        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
       },
       "artists": [
-        {
-          "name": "SonReal",
-          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
-        },
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 185907,
-      "name": "OH SHIT!!!",
-      "url": "https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl"
+      "duration_ms": 155146,
+      "name": "Dead Man Shuffle",
+      "url": "https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "King Gampo",
-        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 205426,
-      "name": "The Season",
-      "url": "https://open.spotify.com/track/5zvPlnOXaOoknahmh69RiI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zoo",
         "url": "https://open.spotify.com/album/3xgyaF318Csc2nu1xPjjlC"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 173068,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/6GQXk4Du3qkiswJ6hUoGiW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King Gampo",
+        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 205426,
+      "name": "The Season",
+      "url": "https://open.spotify.com/track/5zvPlnOXaOoknahmh69RiI"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Standout",
-      "url": "https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Scary Monsters (feat. Prof)",
         "url": "https://open.spotify.com/album/6bpPZjVaWmmodTGbu9adra"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 148078,
       "name": "Super Scary Monsters (feat. Prof)",
       "url": "https://open.spotify.com/track/1IbqDQZm5jTt7wE6VcoPKC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Standout",
+      "url": "https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN"
     },
     {
       "added_at": null,

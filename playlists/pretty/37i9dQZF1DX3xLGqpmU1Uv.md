@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México! Alberto Vázquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,159 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,218 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,17 +42,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 32 | [Ruedas](https://open.spotify.com/track/2JyS7QHdJL7QkDJzXCcr1E) | [Fabricio](https://open.spotify.com/artist/1PUb6iCJrg0Vs5GBTw2Dkn) | [Multiplicación](https://open.spotify.com/album/30bcacyGVg5sIxPhNDWEM9) | 2:02 |
 | 33 | [Boogie Twist](https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG) | [Los Jet Twisters](https://open.spotify.com/artist/6XUuzErwNvJpr5jlSEtCdS) | [Twist](https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a) | 2:15 |
 | 34 | [Yo No Fui](https://open.spotify.com/track/6DHJHTkZ0kveYy5L41Us7Y) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Corazón Loco](https://open.spotify.com/album/08XD8IgAqvepttmUV4B1FE) | 1:53 |
-| 35 | [La Niña Bu \(Ring Dang Doo\)](https://open.spotify.com/track/2ctgZALPuTO2TkF5BVm0vS) | [Los Matematicos](https://open.spotify.com/artist/0nMp0OZyUyffgjioO9a4MK) | [Go\-Go en Rojo](https://open.spotify.com/album/5j8NJSGyjLcejTwyCN9d1P) | 2:22 |
-| 36 | [El Relojito](https://open.spotify.com/track/5UNHoCA1Dq0M8cMAd5k3Bx) | [Hermanas Navarro](https://open.spotify.com/artist/6zF0GiajmfWSejD6nmZ16o) | [Enlaces Hermanas Navarro y Andy Russell](https://open.spotify.com/album/18IOQIjI0rPJhnZcIStz8D) | 2:17 |
+| 35 | [El Relojito](https://open.spotify.com/track/5UNHoCA1Dq0M8cMAd5k3Bx) | [Hermanas Navarro](https://open.spotify.com/artist/6zF0GiajmfWSejD6nmZ16o) | [Enlaces Hermanas Navarro y Andy Russell](https://open.spotify.com/album/18IOQIjI0rPJhnZcIStz8D) | 2:17 |
+| 36 | [La Niña Bu \(Ring Dang Doo\)](https://open.spotify.com/track/2ctgZALPuTO2TkF5BVm0vS) | [Los Matematicos](https://open.spotify.com/artist/0nMp0OZyUyffgjioO9a4MK) | [Go\-Go en Rojo](https://open.spotify.com/album/5j8NJSGyjLcejTwyCN9d1P) | 2:22 |
 | 37 | [Twist para Mr\. Antony](https://open.spotify.com/track/4h7EghGuBHrnhWyzIFBnZj) | [Tony's Twist Team](https://open.spotify.com/artist/17iTxUwaNzaenRncjHmNPR) | [Los Originales](https://open.spotify.com/album/11NFoS5dchhn7DIYrEuZTT) | 2:17 |
 | 38 | [Si me quieres](https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4) | [Los Digers](https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV) | [Los Originales](https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy) | 2:45 |
 | 39 | [Fiebre](https://open.spotify.com/track/23MPu8Zp0HPhSVtNSTixMc) | [Los Camisas Negras](https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:47 |
 | 40 | [Brebaje De Amor](https://open.spotify.com/track/4BGyvgaKgPahrgRNHmBCrM) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:18 |
 | 41 | [Juego De Amor](https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:19 |
 | 42 | [Leyenda Mexicana](https://open.spotify.com/track/68YJoKueqWtsL5co2VCRjN) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 1:57 |
-| 43 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
-| 44 | [La Perla](https://open.spotify.com/track/3fcpAFDPHKsr8ZuayXWTLm) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Exitos De: Los Juniors y Su Cantante Arturo](https://open.spotify.com/album/1MD6zyg3BVVPLSOGvRq3cI) | 2:59 |
-| 45 | [Tema Del Elefantito](https://open.spotify.com/track/58sFSHe9jClg9giSmlG1rH) | [Gustavo Pimentel](https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 1:51 |
+| 43 | [La Perla](https://open.spotify.com/track/3fcpAFDPHKsr8ZuayXWTLm) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Exitos De: Los Juniors y Su Cantante Arturo](https://open.spotify.com/album/1MD6zyg3BVVPLSOGvRq3cI) | 2:59 |
+| 44 | [Tema Del Elefantito](https://open.spotify.com/track/58sFSHe9jClg9giSmlG1rH) | [Gustavo Pimentel](https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 1:51 |
+| 45 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
 | 46 | [Tumbaloflesicodelicomicoso](https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:46 |
 | 47 | [Hava Naguila](https://open.spotify.com/track/1Bup946FiEFhuxFmj2Y5xE) | [Los Aragon](https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:06 |
 | 48 | [Jerusalén](https://open.spotify.com/track/17yn43ogchDhAbdWkWJwSU) | [Beto Diaz](https://open.spotify.com/artist/0LBeJSgLxquJHj9Q976YRB) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:40 |

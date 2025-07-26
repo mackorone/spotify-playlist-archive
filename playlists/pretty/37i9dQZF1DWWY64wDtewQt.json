@@ -1,33 +1,13 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 10396278,
+  "num_followers": 10401593,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHpdXwAAAABjeqYOcWZz73VmGBEanpVH",
+  "snapshot_id": "aIPQ7AAAAACaSyNF3HgD6EHtGZu5h1uH",
   "tracks": [
-    {
-      "added_at": "2025-05-14 19:31:19",
-      "album": {
-        "name": "LUNA BALA",
-        "url": "https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz"
-      },
-      "artists": [
-        {
-          "name": "Yb Wasg'ood",
-          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
-        },
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 124110,
-      "name": "LUNA BALA - Slowed",
-      "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
-    },
     {
       "added_at": "2025-05-30 16:13:27",
       "album": {
@@ -51,6 +31,26 @@
       "duration_ms": 75461,
       "name": "DIA DEL\u00cdCIA",
       "url": "https://open.spotify.com/track/5WCC5w7bTsAOv1g1W1fU7A"
+    },
+    {
+      "added_at": "2025-05-14 19:31:19",
+      "album": {
+        "name": "LUNA BALA",
+        "url": "https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz"
+      },
+      "artists": [
+        {
+          "name": "Yb Wasg'ood",
+          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
+        },
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 124110,
+      "name": "LUNA BALA - Slowed",
+      "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
     },
     {
       "added_at": "2025-05-02 15:58:53",
@@ -77,36 +77,28 @@
       "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
     },
     {
-      "added_at": "2025-04-02 03:12:09",
+      "added_at": "2025-07-25 18:46:04",
       "album": {
-        "name": "MONTAGEM TOMADA",
-        "url": "https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF"
+        "name": "MONTAGEM XONADA",
+        "url": "https://open.spotify.com/album/3JsABNfp6sTjgcawWxzmj7"
       },
       "artists": [
         {
           "name": "MXZI",
           "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        }
-      ],
-      "duration_ms": 71392,
-      "name": "MONTAGEM TOMADA",
-      "url": "https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW"
-    },
-    {
-      "added_at": "2025-02-28 15:27:21",
-      "album": {
-        "name": "PASSO BEM SOLTO",
-        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
-      },
-      "artists": [
+        },
         {
-          "name": "ATLXS",
-          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        },
+        {
+          "name": "DJ Javi26",
+          "url": "https://open.spotify.com/artist/0JGZRsRtFTQ0ZVBq9b2ZEj"
         }
       ],
-      "duration_ms": 116072,
-      "name": "PASSO BEM SOLTO - Slowed",
-      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
+      "duration_ms": 75682,
+      "name": "MONTAGEM XONADA",
+      "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
     },
     {
       "added_at": "2025-04-25 14:06:35",
@@ -131,6 +123,22 @@
       "duration_ms": 103727,
       "name": "MONTAGEM BAIL\u00c3O",
       "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
+    },
+    {
+      "added_at": "2025-02-28 15:27:21",
+      "album": {
+        "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        }
+      ],
+      "duration_ms": 116072,
+      "name": "PASSO BEM SOLTO - Slowed",
+      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
     },
     {
       "added_at": "2025-02-28 15:27:21",
@@ -193,30 +201,6 @@
       "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
     },
     {
-      "added_at": "2025-03-21 14:02:34",
-      "album": {
-        "name": "MONTAGEM LADRAO",
-        "url": "https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO"
-      },
-      "artists": [
-        {
-          "name": "ATLXS",
-          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
-        },
-        {
-          "name": "MXZI",
-          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
-        },
-        {
-          "name": "Itamar Mc",
-          "url": "https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ"
-        }
-      ],
-      "duration_ms": 75240,
-      "name": "MONTAGEM LADRAO",
-      "url": "https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI"
-    },
-    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "SPOOKY",
@@ -269,24 +253,24 @@
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
-      "added_at": "2024-11-15 15:00:00",
+      "added_at": "2025-07-14 17:03:16",
       "album": {
-        "name": "BAD PARENTING FUNK",
-        "url": "https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b"
+        "name": "MENTE M\u00c1",
+        "url": "https://open.spotify.com/album/4ZopuwBxqYKDYkKh61tNqv"
       },
       "artists": [
         {
-          "name": "DJ CEREJASS",
-          "url": "https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt"
+          "name": "Nakama",
+          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
         },
         {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+          "name": "Mc Staff",
+          "url": "https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx"
         }
       ],
-      "duration_ms": 87834,
-      "name": "BAD PARENTING FUNK",
-      "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
+      "duration_ms": 75302,
+      "name": "MENTE M\u00c1",
+      "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
     },
     {
       "added_at": "2025-02-28 15:27:21",
@@ -345,6 +329,26 @@
       "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
     },
     {
+      "added_at": "2024-11-15 15:00:00",
+      "album": {
+        "name": "BAD PARENTING FUNK",
+        "url": "https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b"
+      },
+      "artists": [
+        {
+          "name": "DJ CEREJASS",
+          "url": "https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt"
+        },
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        }
+      ],
+      "duration_ms": 87834,
+      "name": "BAD PARENTING FUNK",
+      "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
+    },
+    {
       "added_at": "2024-05-31 14:41:55",
       "album": {
         "name": "Slide da Treme Mel\u00f3dica v2",
@@ -385,20 +389,40 @@
       "url": "https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1"
     },
     {
-      "added_at": "2024-05-17 14:03:55",
+      "added_at": "2025-07-25 18:46:04",
       "album": {
-        "name": "Eu Sento Gabu!",
-        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
+        "name": "FUNK SIGILO",
+        "url": "https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i"
       },
       "artists": [
         {
-          "name": "PXLWYSE",
-          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
+          "name": "h6itam",
+          "url": "https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf"
         }
       ],
-      "duration_ms": 83754,
-      "name": "Eu Sento Gabu!",
-      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
+      "duration_ms": 138116,
+      "name": "FUNK SIGILO - ULTRA SLOWED",
+      "url": "https://open.spotify.com/track/4kyDzE3UwJLoT3iImSh9Tj"
+    },
+    {
+      "added_at": "2025-05-16 22:14:25",
+      "album": {
+        "name": "FINA LANA",
+        "url": "https://open.spotify.com/album/35y8hd86FLFvT9qmRYwSGE"
+      },
+      "artists": [
+        {
+          "name": "6YNTHMANE",
+          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+        },
+        {
+          "name": "LXGHTXNG",
+          "url": "https://open.spotify.com/artist/3BWWoXb370tH2ElySp6rgm"
+        }
+      ],
+      "duration_ms": 77206,
+      "name": "FINA LANA",
+      "url": "https://open.spotify.com/track/4qv2RLROjDDmnVTeVHVmpy"
     },
     {
       "added_at": "2024-02-09 15:25:18",
@@ -437,24 +461,20 @@
       "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
-      "added_at": "2025-05-16 22:14:25",
+      "added_at": "2024-05-17 14:03:55",
       "album": {
-        "name": "FINA LANA",
-        "url": "https://open.spotify.com/album/35y8hd86FLFvT9qmRYwSGE"
+        "name": "Eu Sento Gabu!",
+        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
       },
       "artists": [
         {
-          "name": "6YNTHMANE",
-          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
-        },
-        {
-          "name": "LXGHTXNG",
-          "url": "https://open.spotify.com/artist/3BWWoXb370tH2ElySp6rgm"
+          "name": "PXLWYSE",
+          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
         }
       ],
-      "duration_ms": 77206,
-      "name": "FINA LANA",
-      "url": "https://open.spotify.com/track/4qv2RLROjDDmnVTeVHVmpy"
+      "duration_ms": 83754,
+      "name": "Eu Sento Gabu!",
+      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -489,6 +509,30 @@
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
+      "added_at": "2025-07-25 18:46:04",
+      "album": {
+        "name": "CANTO DE LUNA",
+        "url": "https://open.spotify.com/album/4KfNJxpu5wfMuGktR9l9LB"
+      },
+      "artists": [
+        {
+          "name": "h6itam",
+          "url": "https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf"
+        },
+        {
+          "name": "DYSMANE",
+          "url": "https://open.spotify.com/artist/1pFLuMBwabtFITLNJlEZ9z"
+        },
+        {
+          "name": "ICEDMANE",
+          "url": "https://open.spotify.com/artist/4cM6xcafBAbS9bOa8kAjRj"
+        }
+      ],
+      "duration_ms": 109333,
+      "name": "CANTO DE LUNA - SUPER SLOWED",
+      "url": "https://open.spotify.com/track/0Bb3JNNt7wi7PnsAyOD7v6"
+    },
+    {
       "added_at": "2025-02-28 15:27:21",
       "album": {
         "name": "BOUNCE FUNK",
@@ -521,6 +565,22 @@
       "url": "https://open.spotify.com/track/3Vn1b7EolQzTqoJCCEnS3Q"
     },
     {
+      "added_at": "2025-04-02 03:12:09",
+      "album": {
+        "name": "MONTAGEM TOMADA",
+        "url": "https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF"
+      },
+      "artists": [
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        }
+      ],
+      "duration_ms": 71392,
+      "name": "MONTAGEM TOMADA",
+      "url": "https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW"
+    },
+    {
       "added_at": "2025-03-21 14:02:34",
       "album": {
         "name": "SPACE!",
@@ -535,26 +595,6 @@
       "duration_ms": 109848,
       "name": "SPACE! - Super Slowed",
       "url": "https://open.spotify.com/track/38dHd7r4mSSVhRvVulD1na"
-    },
-    {
-      "added_at": "2025-07-14 17:03:16",
-      "album": {
-        "name": "MENTE M\u00c1",
-        "url": "https://open.spotify.com/album/4ZopuwBxqYKDYkKh61tNqv"
-      },
-      "artists": [
-        {
-          "name": "Nakama",
-          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
-        },
-        {
-          "name": "Mc Staff",
-          "url": "https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx"
-        }
-      ],
-      "duration_ms": 75302,
-      "name": "MENTE M\u00c1",
-      "url": "https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE"
     },
     {
       "added_at": "2025-07-14 17:03:16",
@@ -869,32 +909,24 @@
       "url": "https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY"
     },
     {
-      "added_at": "2025-04-11 16:25:48",
+      "added_at": "2025-07-25 18:46:04",
       "album": {
-        "name": "ESPA\u00c7O LIMINAL",
-        "url": "https://open.spotify.com/album/0toWBzELaOEmaPWfreu7Te"
+        "name": "CLIMA LINDO",
+        "url": "https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH"
       },
       "artists": [
         {
-          "name": "NXGHT!",
-          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+          "name": "GXMZ",
+          "url": "https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02"
         },
         {
-          "name": "Scythermane",
-          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
-        },
-        {
-          "name": "MC Caja",
-          "url": "https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY"
-        },
-        {
-          "name": "KGJ",
-          "url": "https://open.spotify.com/artist/23zmS2d4hkOtvBlJ6T5dqM"
+          "name": "Repsaj",
+          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
         }
       ],
-      "duration_ms": 115824,
-      "name": "ESPA\u00c7O LIMINAL",
-      "url": "https://open.spotify.com/track/1lZgzc4Ns8bO67s0IRoGHg"
+      "duration_ms": 81995,
+      "name": "CLIMA LINDO - SLOWED",
+      "url": "https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp"
     },
     {
       "added_at": "2025-02-07 17:17:30",
@@ -1011,6 +1043,34 @@
       "duration_ms": 104013,
       "name": "BAIXO",
       "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
+    },
+    {
+      "added_at": "2025-04-11 16:25:48",
+      "album": {
+        "name": "ESPA\u00c7O LIMINAL",
+        "url": "https://open.spotify.com/album/0toWBzELaOEmaPWfreu7Te"
+      },
+      "artists": [
+        {
+          "name": "NXGHT!",
+          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+        },
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        },
+        {
+          "name": "MC Caja",
+          "url": "https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY"
+        },
+        {
+          "name": "KGJ",
+          "url": "https://open.spotify.com/artist/23zmS2d4hkOtvBlJ6T5dqM"
+        }
+      ],
+      "duration_ms": 115824,
+      "name": "ESPA\u00c7O LIMINAL",
+      "url": "https://open.spotify.com/track/1lZgzc4Ns8bO67s0IRoGHg"
     },
     {
       "added_at": "2023-06-02 17:32:35",
@@ -1273,26 +1333,6 @@
       "url": "https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq"
     },
     {
-      "added_at": "2022-12-30 05:01:00",
-      "album": {
-        "name": "GHOST!",
-        "url": "https://open.spotify.com/album/0qyg64j2PFVSfTgsE0VRe3"
-      },
-      "artists": [
-        {
-          "name": "phonk.me",
-          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
-        },
-        {
-          "name": "KIIXSHI",
-          "url": "https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh"
-        }
-      ],
-      "duration_ms": 231704,
-      "name": "GHOST!",
-      "url": "https://open.spotify.com/track/4uLe9sk4nymENqN4RHbFIQ"
-    },
-    {
       "added_at": "2024-07-19 16:15:00",
       "album": {
         "name": "Cuando se te moja la tarea 2",
@@ -1367,50 +1407,6 @@
       "duration_ms": 199450,
       "name": "AVANGARD - Slowed",
       "url": "https://open.spotify.com/track/36KN8cwJgQmIOYaUS0Lvvu"
-    },
-    {
-      "added_at": "2025-05-02 15:58:53",
-      "album": {
-        "name": "MONTAGEM INFERNO SURREAL",
-        "url": "https://open.spotify.com/album/0TF5UCNZFaaWoQYjzRsPwR"
-      },
-      "artists": [
-        {
-          "name": "-Prey",
-          "url": "https://open.spotify.com/artist/3uA4unR7LBOcqjpbOeCs0Y"
-        },
-        {
-          "name": "DJ TOXIC",
-          "url": "https://open.spotify.com/artist/7tahfRWL7TIWnBHHUv5igK"
-        },
-        {
-          "name": "DJ JHG",
-          "url": "https://open.spotify.com/artist/7KXaxDKIzsh5geZCJGhDZl"
-        },
-        {
-          "name": "MC RP VK",
-          "url": "https://open.spotify.com/artist/2JrpgVMFW3Hpe1CwLaAORl"
-        }
-      ],
-      "duration_ms": 76870,
-      "name": "MONTAGEM INFERNO SURREAL - Slowed",
-      "url": "https://open.spotify.com/track/4XsBFDjNRNBxMBf87YsV6Z"
-    },
-    {
-      "added_at": "2022-10-14 08:20:18",
-      "album": {
-        "name": "GigaChad Theme (Phonk House Version)",
-        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
-      },
-      "artists": [
-        {
-          "name": "g3ox_em",
-          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
-        }
-      ],
-      "duration_ms": 146274,
-      "name": "GigaChad Theme - Phonk House Version",
-      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
     },
     {
       "added_at": "2024-03-15 15:37:23",

@@ -4,7 +4,7 @@
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: Myke Towers
 
-188 songs - 9 hr 34 min
+189 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 | 2023-07-21 | 2024-08-17 |
 | [La Ruta](https://open.spotify.com/track/7sDPVFMYuoq9UPLrM1I7Ct) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Ruta](https://open.spotify.com/album/5lgRpUbqo5VRODoEiQeNCW) | 2:41 | 2025-07-18 |  |
 | [La Tormenta](https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Servando](https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS) | [La Tormenta](https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w) | 2:26 | 2023-09-29 | 2024-06-22 |
-| [Lady Mi Amor](https://open.spotify.com/track/30Xh83fw03PZ2Wfm36H4EZ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:27 | 2023-07-21 |  |
+| [Lady Mi Amor](https://open.spotify.com/track/30Xh83fw03PZ2Wfm36H4EZ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:27 | 2023-07-21 | 2025-07-26 |
 | [LEJOS DEL CIELO](https://open.spotify.com/track/39qtjJ454r2fgyXaenq8Wv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LEJOS DEL CIELO](https://open.spotify.com/album/4144E5wmhkJZJX4UR3Hw5M) | 3:28 | 2023-07-21 |  |
 | [Lento](https://open.spotify.com/track/1UT81mWIvNdng0hb2qvHlL) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Lento](https://open.spotify.com/album/6kxkdZth2jAn69eCMbjpL2) | 2:55 | 2023-07-21 | 2023-09-30 |
 | [Lloras \- Remix](https://open.spotify.com/track/4nRtWZQI8xiNEN6hVlgZCE) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas), [Lenny Tavarez](https://open.spotify.com/artist/5RnYOfWvm7UjbSnTdOYHZC), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Lloras \(Remix\)](https://open.spotify.com/album/3hBdLhYZl9JsWOjXRhFGsj) | 4:52 | 2023-12-22 | 2024-04-19 |
@@ -133,6 +133,7 @@
 | [NX TX SIENTAS SOLX](https://open.spotify.com/track/4OmSsqo4Hi9LCIh9Z4gKKq) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:59 | 2023-09-29 | 2024-12-13 |
 | [NX TX SIENTAS SOLX](https://open.spotify.com/track/0xzNdNJSQnHfRLYRdVhERp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:01 | 2023-10-06 | 2024-04-19 |
 | [OHNANA](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [OHNANA](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-06-19 |  |
+| [Ojalá](https://open.spotify.com/track/04hcwA2QczjJkiEFoaK6qC) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ojalá](https://open.spotify.com/album/71t5su830WyBTzVLZQxOb5) | 3:00 | 2025-07-25 |  |
 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2023-07-21 | 2024-12-17 |
 | [orióN](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [orióN](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-06-28 |  |
 | [Pa Que Baile](https://open.spotify.com/track/0qBBbKXDG1cncdx3L5ytJx) | [Los Dioses Del Ritmo](https://open.spotify.com/artist/3SB8QuuxVULg4nFHoWJ5vj) | [Pa Que Baile](https://open.spotify.com/album/5zwWZet8pyk3vCynttCRQd) | 2:43 | 2025-06-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040 likes - 187 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042 likes - 187 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 58 | [Worst Day](https://open.spotify.com/track/2cqpniiN33wLMzSuxaIRah) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:47 |
 | 59 | [Tattoo](https://open.spotify.com/track/1mxiMQWvsjMQKV0V7EAj3x) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:26 |
 | 60 | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0) | 2:50 |
-| 61 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
-| 62 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
+| 61 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
+| 62 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
 | 63 | [No Good](https://open.spotify.com/track/7j2jFc1LlQLNPRwbjrgXuv) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [No Good](https://open.spotify.com/album/4roqYaI40M8uIbDJd69ZHj) | 3:11 |
 | 64 | [Better](https://open.spotify.com/track/1uANN3gRrtjSUd4qegchpK) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/3fshReYna7OJ7cl3Rn8h2W) | 2:25 |
 | 65 | [Overnight](https://open.spotify.com/track/3mVQUlrhWN5Z1i1HUhU8ZH) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:37 |
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 119 | [The Other Side](https://open.spotify.com/track/1fWTLLBR90ZdAgklPTTPRr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:45 |
 | 120 | [Super Over](https://open.spotify.com/track/1H1aXt2S07OeZ0wDJo3KMz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
 | 121 | [Summer](https://open.spotify.com/track/6s5i9piq629tK2Sfb9duiL) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Summer](https://open.spotify.com/album/04MBUojWMVW7DIYsgNcxzk) | 2:54 |
-| 122 | [Kill My Heart \(feat\. Parson James & Qveen Herby\)](https://open.spotify.com/track/5yHb2LWlU9XeoUxRhKYKvM) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [There Will Be Tears](https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w) | 3:13 |
-| 123 | [Wir werden eins](https://open.spotify.com/track/3OFX3q0dbE9VnfoZ6Yll7W) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Rausch \(Deluxe\)](https://open.spotify.com/album/0TvURtXBkEyIElRHFcgJS3) | 3:17 |
-| 124 | [SEESAW](https://open.spotify.com/track/21Ou57aSTKECHs3zedyFLd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 3:30 |
+| 122 | [SEESAW](https://open.spotify.com/track/21Ou57aSTKECHs3zedyFLd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 3:30 |
+| 123 | [Kill My Heart \(feat\. Parson James & Qveen Herby\)](https://open.spotify.com/track/5yHb2LWlU9XeoUxRhKYKvM) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [There Will Be Tears](https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w) | 3:13 |
+| 124 | [Wir werden eins](https://open.spotify.com/track/3OFX3q0dbE9VnfoZ6Yll7W) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Rausch \(Deluxe\)](https://open.spotify.com/album/0TvURtXBkEyIElRHFcgJS3) | 3:17 |
 | 125 | [Whisper](https://open.spotify.com/track/5AH5usocKPmrUFmZkdPvcH) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/57YwDLyNeobBmbVfcOhLx4) | 3:06 |
 | 126 | [Angels In The Snow](https://open.spotify.com/track/5LJ9zB2g4qftILTNZeeDgA) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:52 |
 | 127 | [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 186 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 187 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 
-Snapshot ID: `Ab3qdAAAAAAo9527Me8lLvvlhbCwlhxX`
+Snapshot ID: `Ab3wMgAAAADgW8ssJLyEKseQPVD0IGZH`

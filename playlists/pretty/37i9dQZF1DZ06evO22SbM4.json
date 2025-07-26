@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 41380,
+  "num_followers": 41420,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAC3u8Z+TXq3MCm5SNDJR/vR",
+  "snapshot_id": "aIF3gAAAAACvPjVbhRK1GnsjgiXeREM0",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comin' In Cold",
-        "url": "https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Comin' In Cold",
-      "url": "https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ashes",
         "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 183815,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comin' In Cold",
+        "url": "https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Comin' In Cold",
+      "url": "https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM"
     },
     {
       "added_at": null,

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. El Malilla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,484 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,483 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gatito](https://open.spotify.com/track/5dYEvAwG9X2P7f7qvplVzE) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Gatito](https://open.spotify.com/album/3uu5Dvy6FsgoZJBzzwECO8) | 2:58 |
 | 2 | [Triple Lavada](https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk) | [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [Triple Lavada](https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P) | 2:45 |
-| 3 | [Pa Sus Chiklez y Su Cumbiaton](https://open.spotify.com/track/1EquwXlm8ruGbtVxcRmtoZ) | [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx), [Naxssy](https://open.spotify.com/artist/7I3EenS7fbjXWsY7JTamHm) | [Pa Sus Chiklez y Su Cumbiaton](https://open.spotify.com/album/2Mx9iH9veWhHLosmlRQSgJ) | 2:11 |
+| 3 | [Pa Sus Chiklez y Su Cumbiaton](https://open.spotify.com/track/1EquwXlm8ruGbtVxcRmtoZ) | [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx), [Naxssy](https://open.spotify.com/artist/5QK4nBwWaaFq7Ux7Wpv6ee) | [Pa Sus Chiklez y Su Cumbiaton](https://open.spotify.com/album/2Mx9iH9veWhHLosmlRQSgJ) | 2:11 |
 | 4 | [DOS DÍAS](https://open.spotify.com/track/5lKFO0PrOC9jmOlPEdjHsL) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:33 |
 | 5 | [Condena](https://open.spotify.com/track/5mcTu7oniVfT5pWA0aDld0) | [Ice Keed](https://open.spotify.com/artist/6xy0AOa2J2Rw3iel1cj0Rz), [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg), [Cool Kids](https://open.spotify.com/artist/5RFqLdpN2yvT7YbjrAv6TV) | [Condena](https://open.spotify.com/album/6727I6VwvHuWfHM5cT6UBl) | 2:56 |
 | 6 | [El Mayor de los Ranas](https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [El Mayor de los Ranas](https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h) | 2:52 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 72 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
 | 73 | [La Cagué](https://open.spotify.com/track/2HcRbiUHQZ8NSvYhUgRfC9) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6) | [La Cagué](https://open.spotify.com/album/74gVdaDvYpQF91s7e8eIAN) | 4:00 |
 | 74 | [Lunetas](https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Lunetas](https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93) | 2:56 |
-| 75 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
-| 76 | [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 |
+| 75 | [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 |
+| 76 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
 | 77 | [GPI](https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [GPI](https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9) | 2:34 |
 | 78 | [La Caravana](https://open.spotify.com/track/3v5V1Ro9eUq141arz1ODow) | [Bandi2](https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [La Caravana](https://open.spotify.com/album/0i9rS0UsC865Lk7kF2u9Bk) | 2:23 |
 | 79 | [La Despedida](https://open.spotify.com/track/192yg3gYKtLi5eXlJcsSS8) | [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py) | [La Despedida](https://open.spotify.com/album/1o82wmTMEaupi5ZpcgkRVB) | 2:28 |

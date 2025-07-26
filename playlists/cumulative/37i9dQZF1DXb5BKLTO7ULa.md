@@ -4,7 +4,7 @@
 
 > Nieuwe muziek: Lola Young, Sebastian Ingrosso & Celine Dion,  Emma Heesters en meer
 
-11,967 songs - 26 day 1 hr 3 min
+11,968 songs - 26 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1223,7 +1223,7 @@
 | [Bid Voor Mij](https://open.spotify.com/track/3SuHVNuiRSnOgAcB3837iE) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [Bid Voor Mij](https://open.spotify.com/album/5HvJOXXEIx0lcYGxuXPLvk) | 2:38 | 2024-01-25 | 2024-02-02 |
 | [Bidden In De Moshpit](https://open.spotify.com/track/0vV4dhunlGBFmQfkz1QGDB) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Bidden In De Moshpit](https://open.spotify.com/album/4JtRnHZ4Kk3DEYsUPNXEQx) | 3:07 | 2025-06-19 | 2025-06-27 |
 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-07-27 | 2023-08-04 |
-| [Big Bag](https://open.spotify.com/track/10dWn0syXPIp0TfdPFx4Lq) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Bag](https://open.spotify.com/album/4oInS7vZDjkBgONe5UyC7C) | 2:46 | 2025-07-24 |  |
+| [Big Bag](https://open.spotify.com/track/10dWn0syXPIp0TfdPFx4Lq) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Bag](https://open.spotify.com/album/4oInS7vZDjkBgONe5UyC7C) | 2:45 | 2025-07-24 |  |
 | [Big Blue Eyes](https://open.spotify.com/track/3sU69W64XtcXYeAjdA7WU7) | [Handsome Poets](https://open.spotify.com/artist/35QzzTbrIC5pc3BgxyVGS5) | [Take a Deep Breath](https://open.spotify.com/album/6q4dMRRdeiuKFZw07J1nG7) | 3:06 | 2023-11-09 | 2023-11-17 |
 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 | 2025-05-22 | 2025-05-30 |
 | [Big Darg Status](https://open.spotify.com/track/3aLVnsEispbrAcfRP7E4dm) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Big Darg Status](https://open.spotify.com/album/3izPvhkNFQslKrM2sglZh8) | 2:39 | 2025-07-03 | 2025-07-11 |
@@ -3403,7 +3403,7 @@
 | [Feel It For You](https://open.spotify.com/track/76vnxLIS70EvlISthDydnE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Feel It For You](https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F) | 3:31 | 2025-03-13 | 2025-03-21 |
 | [feel it now \(alive\)](https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [chapter of me](https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol) | 3:31 | 2023-04-20 | 2023-04-28 |
 | [feel like home](https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [feel like home](https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O) | 2:40 | 2024-09-12 | 2024-09-20 |
-| [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 | 2025-07-24 |  |
+| [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 | 2025-07-24 |  |
 | [Feel Sexy](https://open.spotify.com/track/3KStyOGA94pAUAU21SlMkv) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Feel Sexy](https://open.spotify.com/album/0rcLVZazJy9uRdx5AAjL25) | 3:26 | 2025-02-13 | 2025-02-21 |
 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 | 2025-06-26 | 2025-07-04 |
 | [Feel The Bass](https://open.spotify.com/track/0NtVfFAVWsyIRHTc7PlXbf) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Feel The Bass](https://open.spotify.com/album/0UFfEXUULwApuLxD5an0gl) | 2:38 | 2025-07-24 |  |
@@ -9678,6 +9678,7 @@
 | [Sugar](https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sugar](https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2) | 4:53 | 2024-05-09 | 2024-05-17 |
 | [Sugar Man](https://open.spotify.com/track/0fxPI5BMCQYo0nPV7ysef4) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Sugar Man](https://open.spotify.com/album/2EzBNH4CaSRJRL8fUjovip) | 3:29 | 2023-12-01 | 2023-12-09 |
 | [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-02 | 2023-03-10 |
+| [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 | 2025-07-24 |  |
 | [Sugar, baby](https://open.spotify.com/track/2nYeH89Z9pwZ7JWvCqGqY5) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [autonomy](https://open.spotify.com/album/3zLlgUFz1YkI392D4pW3aE) | 2:36 | 2025-07-03 | 2025-07-11 |
 | [Sugarcane](https://open.spotify.com/track/7HO6KFxfuc6vD6NwbW8n06) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci) | [Sugarcane](https://open.spotify.com/album/3XpIAt1aqDLpVvf7ys0FlQ) | 2:24 | 2025-01-09 | 2025-01-17 |
 | [Sugarcoat](https://open.spotify.com/track/15JA8Cex1Q10LgJ31llVdR) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book III](https://open.spotify.com/album/02ClJ7AJWANCqGNJ42urXa) | 2:00 | 2025-03-06 | 2025-03-14 |

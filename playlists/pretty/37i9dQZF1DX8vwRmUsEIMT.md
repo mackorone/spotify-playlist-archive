@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,993 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,633 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 24 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 |
 | 25 | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/track/493FTCCY5sMAlb10ICFAtJ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/album/0moJ5HyyeYr64SH8o17Hvf) | 2:39 |
 | 26 | [Out Out](https://open.spotify.com/track/6w0Hwp8B3HNmzhKiMzeWOf) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Out Out](https://open.spotify.com/album/30GZcYVobsvomiqsckwrmP) | 2:41 |
-| 27 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx) | 3:15 |
+| 27 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx) | 3:15 |
 | 28 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 |
 | 29 | [Turn Me Up](https://open.spotify.com/track/2WIykpFBlqQ0m7EfAKoev1) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mabel \(Mixtape\)](https://open.spotify.com/album/1ldMaOBeKQNU3cpGCsN6hq) | 4:11 |
 | 30 | [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 |

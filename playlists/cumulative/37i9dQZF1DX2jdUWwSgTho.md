@@ -4,7 +4,7 @@
 
 > Les hits préférés des enfants \(et de leurs parents\).
 
-112 songs - 6 hr 9 min
+113 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ceux qu'on était](https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD) | 2:54 | 2024-04-23 | 2025-06-28 |
 | [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 | 2024-03-04 | 2024-04-19 |
 | [Chandelier](https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:36 | 2024-04-03 |  |
+| [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 | 2025-07-25 |  |
 | [CIEL](https://open.spotify.com/track/78FNSZkI1968KTtyf2s315) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CIEL](https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL) | 3:06 | 2025-07-22 |  |
 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 | 2023-07-27 | 2025-02-15 |
 | [Clic clic pan pan](https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3) | [Yanns](https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR) | [Pays des merveilles](https://open.spotify.com/album/7B1NFmx9uu3VbOvGBAiUCe) | 2:43 | 2023-07-27 |  |
@@ -103,7 +104,7 @@
 | [Ramenez la coupe à la maison](https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Marchand de sable](https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b) | 3:55 | 2023-07-27 |  |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2023-07-27 | 2024-03-05 |
 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 | 2023-12-08 | 2023-12-18 |
-| [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-27 |  |
+| [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-27 | 2025-07-26 |
 | [Sapés comme jamais \(feat\. Niska\) \- Pilule bleue](https://open.spotify.com/track/0CJ31BEjjl1tPIj0CKi9kH) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:26 | 2024-01-02 |  |
 | [Shake It Off](https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:39 | 2024-04-03 |  |
 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 | 2023-07-27 | 2024-04-19 |

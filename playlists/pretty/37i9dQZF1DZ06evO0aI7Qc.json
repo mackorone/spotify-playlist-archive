@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 371873,
+  "num_followers": 371953,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAALnqTmBFxDvU1n3Qed//kB",
+  "snapshot_id": "aIF3gAAAAAC40lBo1x04p+3cZJqAstOD",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Buho",
+        "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 176703,
+      "name": "El Buho",
+      "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya Fue",
         "url": "https://open.spotify.com/album/73bfayCFQWsMsU2Y9IsU1S"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 194805,
       "name": "Ya Fue",
       "url": "https://open.spotify.com/track/5ZTPaP0AYqHhf8txyfGb2i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Buho",
-        "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 176703,
-      "name": "El Buho",
-      "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "PAJUELAZO",
-      "url": "https://open.spotify.com/track/708Xn7MHNQZo3nMErlgXKI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Bestia",
         "url": "https://open.spotify.com/album/1MVzuXnt954MHjpUhvsjqS"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 186368,
       "name": "La Bestia",
       "url": "https://open.spotify.com/track/59BnHrWc6ZBIscPQSBnuYn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "PAJUELAZO",
+      "url": "https://open.spotify.com/track/708Xn7MHNQZo3nMErlgXKI"
     },
     {
       "added_at": null,
@@ -967,6 +967,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hay de Dos",
+        "url": "https://open.spotify.com/album/2FrO1LxSHglrW7opD6c1ZX"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Alex Torres",
+          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+        }
+      ],
+      "duration_ms": 131413,
+      "name": "Hay de Dos",
+      "url": "https://open.spotify.com/track/1YZhKkEd9rpMdkgF9uGUoz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rico o Muerto, Vol. 1",
         "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 143333,
       "name": "Fino Con Los Valentino",
       "url": "https://open.spotify.com/track/02Rk5y9SH6OtMgl3Etln3q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hay de Dos",
-        "url": "https://open.spotify.com/album/2FrO1LxSHglrW7opD6c1ZX"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Alex Torres",
-          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
-        }
-      ],
-      "duration_ms": 131413,
-      "name": "Hay de Dos",
-      "url": "https://open.spotify.com/track/1YZhKkEd9rpMdkgF9uGUoz"
     },
     {
       "added_at": null,

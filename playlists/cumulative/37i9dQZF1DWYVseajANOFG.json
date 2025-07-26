@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Boza",
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Mau y Ricky, Boza",
   "name": "Flow Panam\u00e1",
   "tracks": [
     {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 160800,
       "name": "0 suerte",
       "url": "https://open.spotify.com/track/3tiPEa3uyXW2Zfq7pLnSwz"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 231937,
       "name": "CALI KUSH",
       "url": "https://open.spotify.com/track/2bhxXOWTLSMUuioX48CeJ3"
@@ -3093,6 +3093,24 @@
     },
     {
       "album": {
+        "name": "En Lancha (West Coast)",
+        "url": "https://open.spotify.com/album/5kXzR6qg5sqEwmTtvAqgEz"
+      },
+      "artists": [
+        {
+          "name": "Italian Somali",
+          "url": "https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141066,
+      "name": "En Lancha (West Coast)",
+      "url": "https://open.spotify.com/track/25TS6q4stxPGOuXcbT2bEe"
+    },
+    {
+      "album": {
         "name": "En Una Cama Ajena",
         "url": "https://open.spotify.com/album/7GzdlCtHdM2TfTJLqwL0OQ"
       },
@@ -4258,7 +4276,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 164210,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/4Bmya48FFv8huMm8rQ4Brg"
@@ -5898,7 +5916,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 340035,
       "name": "Mary Jane",
       "url": "https://open.spotify.com/track/1DFqOdjpuMlMCOmaxwGCSY"
@@ -9081,6 +9099,36 @@
     },
     {
       "album": {
+        "name": "REGUERO",
+        "url": "https://open.spotify.com/album/4HYSPkVTYEd7yyv2z9RJk8"
+      },
+      "artists": [
+        {
+          "name": "T.O.T",
+          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
+        },
+        {
+          "name": "Bin$ho",
+          "url": "https://open.spotify.com/artist/0b0ghBgG9mQtHd9iWBKStQ"
+        },
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300004,
+      "name": "REGUERO",
+      "url": "https://open.spotify.com/track/4UjwhWOle5hwhy3aiISZhe"
+    },
+    {
+      "album": {
         "name": "Relaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
       },
@@ -9927,6 +9975,32 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/0vxpsatXEN2b5vv1E8w8Cj"
+      },
+      "artists": [
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        },
+        {
+          "name": "Pty Audio",
+          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
+        },
+        {
+          "name": "Hitz Records",
+          "url": "https://open.spotify.com/artist/2tzFf5NMseGZzV40aiVQp6"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192765,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/5h0etanOf04eYzlMX4I60c"
+    },
+    {
+      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/0CyP950kEm900Gpbjozmak"
       },
@@ -9968,7 +10042,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 217021,
       "name": "Soltera - Remix",
       "url": "https://open.spotify.com/track/7aA8XiaBP29W3fNQOBGrk1"
@@ -10350,7 +10424,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 289624,
       "name": "TEK",
       "url": "https://open.spotify.com/track/7bkGJ5EGPf4x6MAnzG7TaA"
@@ -10368,7 +10442,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 180640,
       "name": "Temple",
       "url": "https://open.spotify.com/track/6Qqo9UEYNbfRBLzzJ7S9Nx"
@@ -10526,7 +10600,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 187402,
       "name": "TITI",
       "url": "https://open.spotify.com/track/4dmK0F5E0jVMUPgY5tMkI3"
@@ -11633,6 +11707,28 @@
     },
     {
       "album": {
+        "name": "voltaje",
+        "url": "https://open.spotify.com/album/3fuDLusWAKkcWK9AkyvOt0"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "voltaje",
+      "url": "https://open.spotify.com/track/7jNIfTV83ZxdldW1cY8PXc"
+    },
+    {
+      "album": {
         "name": "WA WA WA",
         "url": "https://open.spotify.com/album/06jVBOxaxfaeRe8kvYBHmT"
       },
@@ -11956,7 +12052,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 153900,
       "name": "Yo Te Llamo",
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"

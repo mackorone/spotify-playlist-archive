@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 302776,
+  "num_followers": 302793,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAB7uZvIGHPDv3D2lcQdk+hT",
+  "snapshot_id": "aIF3gAAAAAC9RBQkvco+dIV3pfVP86dO",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "Otaku Hot Girl",
-      "url": "https://open.spotify.com/track/6saYisCUAZXc505blie9kZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Positions (Deluxe)",
         "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 182437,
       "name": "34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",
       "url": "https://open.spotify.com/track/2sQH02O2HBCPJCztBrCWNa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "Otaku Hot Girl",
+      "url": "https://open.spotify.com/track/6saYisCUAZXc505blie9kZ"
     },
     {
       "added_at": null,
@@ -518,11 +518,15 @@
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
         }
       ],
-      "duration_ms": 154732,
-      "name": "BOA",
-      "url": "https://open.spotify.com/track/0FPCqTZoiZpEs324IJFFpQ"
+      "duration_ms": 206461,
+      "name": "B.A.S. (feat. Kyle Richh)",
+      "url": "https://open.spotify.com/track/3pR7ZToCrzeNkfEf6n2rVR"
     },
     {
       "added_at": null,
@@ -594,15 +598,11 @@
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Kyle Richh",
-          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
         }
       ],
-      "duration_ms": 206461,
-      "name": "B.A.S. (feat. Kyle Richh)",
-      "url": "https://open.spotify.com/track/3pR7ZToCrzeNkfEf6n2rVR"
+      "duration_ms": 154732,
+      "name": "BOA",
+      "url": "https://open.spotify.com/track/0FPCqTZoiZpEs324IJFFpQ"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tina Snow",
-        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 196281,
-      "name": "Hot Girl",
-      "url": "https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rich Slave",
         "url": "https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 211213,
       "name": "RNB (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tina Snow",
+        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 196281,
+      "name": "Hot Girl",
+      "url": "https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k"
     }
   ],
   "unique_name": "This Is Megan Thee Stallion",

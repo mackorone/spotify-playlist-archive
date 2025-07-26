@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGCh33lYU9t.md) - [plain]
 
 > It's Christmaaaaas....so here are some festive crackers\. Cover: Wham!
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,876 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,856 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGCh33lYU9t.md) - [plain]
 | 62 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 |
 | 63 | [Walking in the Air](https://open.spotify.com/track/1CIWyhjA0BPzl7BltBa5VG) | [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn) | [Christmas Songs Xmas Tunes Festive Favourites](https://open.spotify.com/album/6oSAtGbM0LE7jCc6ISVSi3) | 3:26 |
 | 64 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 |
-| 65 | [Silent Night](https://open.spotify.com/track/2JwJqDEqC5IPl5bN3klNHD) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Swinging On A Star](https://open.spotify.com/album/64daTHvMlxupBzyGKJyb7g) | 2:36 |
+| 65 | [Silent Night](https://open.spotify.com/track/2JwJqDEqC5IPl5bN3klNHD) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) | [Swinging On A Star](https://open.spotify.com/album/64daTHvMlxupBzyGKJyb7g) | 2:36 |
 | 66 | [Here Comes Santa Claus](https://open.spotify.com/track/0BZADNTotC07pQ6PFGRLGS) | [Bob B\. Soxx & The Blue Jeans](https://open.spotify.com/artist/2ry5nwK1VNmh5zMZpmOAyc) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:03 |
 | 67 | [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 |
 | 68 | [Dominick the Donkey \(The Italian Christmas Donkey\) \[with Joe Reisman's Orchestra and Chorus\]](https://open.spotify.com/track/4EjOn21ToBHzjVnd6rqSyr) | [Lou Monte](https://open.spotify.com/artist/7dbKeVkihtOifdiu7f3rUg), [Joe Reisman's Orchestra and Chorus](https://open.spotify.com/artist/2qkfMoOIz3BqLD91C1B09a) | [Fairytale of New York](https://open.spotify.com/album/1gknqNegsva4cyjTlrXDps) | 2:30 |

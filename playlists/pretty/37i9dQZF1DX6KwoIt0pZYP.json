@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 252010,
+  "num_followers": 252046,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-07-11 07:40:56",
       "album": {
+        "name": "Snacks & Wine",
+        "url": "https://open.spotify.com/album/67bKkiZdLSR4w0wJA3EsHI"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "duration_ms": 210543,
+      "name": "Snacks & Wine",
+      "url": "https://open.spotify.com/track/5YZR3UQJQ8OLWYjhieJ6hn"
+    },
+    {
+      "added_at": "2025-07-11 07:40:56",
+      "album": {
         "name": "B.A.D.",
         "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 170078,
       "name": "B.A.D.",
       "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
-    },
-    {
-      "added_at": "2025-07-11 07:40:56",
-      "album": {
-        "name": "Snacks & Wine",
-        "url": "https://open.spotify.com/album/67bKkiZdLSR4w0wJA3EsHI"
-      },
-      "artists": [
-        {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
-        }
-      ],
-      "duration_ms": 210543,
-      "name": "Snacks & Wine",
-      "url": "https://open.spotify.com/track/5YZR3UQJQ8OLWYjhieJ6hn"
     },
     {
       "added_at": "2025-07-11 07:40:56",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-07-11 07:40:56",
       "album": {
-        "name": "butterflies",
-        "url": "https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv"
-      },
-      "artists": [
-        {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        }
-      ],
-      "duration_ms": 212790,
-      "name": "butterflies",
-      "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
-    },
-    {
-      "added_at": "2025-07-11 07:40:56",
-      "album": {
         "name": "W.H.U.T (Wanna Hold U Tight)",
         "url": "https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 174000,
       "name": "W.H.U.T",
       "url": "https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L"
+    },
+    {
+      "added_at": "2025-07-11 07:40:56",
+      "album": {
+        "name": "butterflies",
+        "url": "https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 212790,
+      "name": "butterflies",
+      "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
     },
     {
       "added_at": "2025-07-11 07:40:56",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2025-07-11 07:40:56",
       "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/5fFCRUivqEhsNPd5A2rcVG"
+        "name": "life update",
+        "url": "https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
         }
       ],
-      "duration_ms": 156221,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/6H2PoOGLifwRBm9TmkHriB"
+      "duration_ms": 245647,
+      "name": "hey, i'm tired",
+      "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
     },
     {
       "added_at": "2025-07-11 07:40:56",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2025-07-11 07:40:56",
       "album": {
-        "name": "life update",
-        "url": "https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf"
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/5fFCRUivqEhsNPd5A2rcVG"
       },
       "artists": [
         {
-          "name": "Arash Buana",
-          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 245647,
-      "name": "hey, i'm tired",
-      "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
+      "duration_ms": 156221,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/6H2PoOGLifwRBm9TmkHriB"
     },
     {
       "added_at": "2025-07-11 07:40:56",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-07-11 07:40:56",
       "album": {
-        "name": "buttons",
-        "url": "https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 127342,
-      "name": "buttons",
-      "url": "https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa"
-    },
-    {
-      "added_at": "2025-07-11 07:40:56",
-      "album": {
         "name": "MAKING MY WAY",
         "url": "https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 258006,
       "name": "MAKING MY WAY",
       "url": "https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ"
+    },
+    {
+      "added_at": "2025-07-11 07:40:56",
+      "album": {
+        "name": "buttons",
+        "url": "https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 127342,
+      "name": "buttons",
+      "url": "https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa"
     },
     {
       "added_at": "2025-07-11 07:40:56",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2025-07-11 07:40:56",
       "album": {
-        "name": "Steal The Show",
-        "url": "https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        },
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Steal The Show",
-      "url": "https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u"
-    },
-    {
-      "added_at": "2025-07-11 07:40:56",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 130097,
       "name": "Home",
       "url": "https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7"
+    },
+    {
+      "added_at": "2025-07-11 07:40:56",
+      "album": {
+        "name": "Steal The Show",
+        "url": "https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        },
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Steal The Show",
+      "url": "https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u"
     },
     {
       "added_at": "2025-07-11 07:40:56",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2025-07-11 07:40:56",
       "album": {
-        "name": "T-Shirt",
-        "url": "https://open.spotify.com/album/1kbEZayBxfy0oGAKO16K7Z"
+        "name": "Space Shuttle No.8",
+        "url": "https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y"
       },
       "artists": [
         {
-          "name": "sunkis",
-          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
         }
       ],
-      "duration_ms": 129084,
-      "name": "T-Shirt",
-      "url": "https://open.spotify.com/track/0wjxF29m74k2qwi6wVGVDC"
+      "duration_ms": 204555,
+      "name": "Almost over you",
+      "url": "https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB"
     },
     {
       "added_at": "2025-07-11 07:40:56",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2025-07-11 07:40:56",
       "album": {
-        "name": "Space Shuttle No.8",
-        "url": "https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y"
+        "name": "T-Shirt",
+        "url": "https://open.spotify.com/album/1kbEZayBxfy0oGAKO16K7Z"
       },
       "artists": [
         {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
         }
       ],
-      "duration_ms": 204555,
-      "name": "Almost over you",
-      "url": "https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB"
+      "duration_ms": 129084,
+      "name": "T-Shirt",
+      "url": "https://open.spotify.com/track/0wjxF29m74k2qwi6wVGVDC"
     }
   ],
   "unique_name": "tapioca",

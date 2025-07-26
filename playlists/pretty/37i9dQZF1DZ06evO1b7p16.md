@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,722 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,725 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 32 | [Swing](https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:26 |
 | 33 | [Amphetamine Smiles](https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:05 |
 | 34 | [Stood A Chance](https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:39 |
-| 35 | [The Ballad Of Sal Villanueva](https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Victory Style, Vol\. 5](https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k) | 3:52 |
+| 35 | [Suburban Home / I Like Food](https://open.spotify.com/track/6taKcHeZ9SU9QgZy1oMXOi) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tony Hawk's American Wasteland Soundtrack](https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5) | 1:56 |
 | 36 | [New Again](https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:33 |
 | 37 | [Lightbringer](https://open.spotify.com/track/4tXjfYEBt6TFR9uw6Dsxpq) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 2:48 |
-| 38 | [Suburban Home / I Like Food](https://open.spotify.com/track/6taKcHeZ9SU9QgZy1oMXOi) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tony Hawk's American Wasteland Soundtrack](https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5) | 1:56 |
+| 38 | [The Ballad Of Sal Villanueva](https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Victory Style, Vol\. 5](https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k) | 3:52 |
 | 39 | [Beat Up Car](https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:11 |
 | 40 | [Summer, Man](https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:51 |
 | 41 | [Quit Trying](https://open.spotify.com/track/4DOorspFqyW01uFqi0x5Ti) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 49 | [Just Us Two](https://open.spotify.com/track/7xcI1Zektgesyth4OXLW0H) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Just Us Two](https://open.spotify.com/album/2SM7pq8HGnx7xPuMyb8mck) | 3:48 |
 | 50 | [Your Own Disaster \- Live From Orensanz, New York, NY / 2010](https://open.spotify.com/track/1aggSZloUOTB3Y6vGMD8GS) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Live From Orensanz](https://open.spotify.com/album/586wLbc8nvAWQXVcAAwib4) | 4:56 |
 
-Snapshot ID: `aIAmAAAAAACF4h7aWJgWo+xBo3G6BWV/`
+Snapshot ID: `aIF3gAAAAABavhkje4CbqhYB0b2BEdRd`

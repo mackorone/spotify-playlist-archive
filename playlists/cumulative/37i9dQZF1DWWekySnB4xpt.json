@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 262736,
       "name": "EN SOLEDAD (feat. ADSO, Akapellah)",
       "url": "https://open.spotify.com/track/7cSJCBT0AOLMAmgXaauUE0"
@@ -1994,7 +1994,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 197586,
       "name": "Mi Cuarto",
       "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
@@ -2432,6 +2432,32 @@
       "duration_ms": 234453,
       "name": "pesimista",
       "url": "https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk"
+    },
+    {
+      "album": {
+        "name": "Ponme En Tu Boca",
+        "url": "https://open.spotify.com/album/6L21tGHxPx7Ms95U4BxBda"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184877,
+      "name": "Ponme En Tu Boca",
+      "url": "https://open.spotify.com/track/705z0RDjwU07P5dLUdrOpu"
     },
     {
       "album": {
@@ -3342,6 +3368,24 @@
       "duration_ms": 147598,
       "name": "Volare",
       "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
+    },
+    {
+      "album": {
+        "name": "Wapa",
+        "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159776,
+      "name": "Wapa",
+      "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
     },
     {
       "album": {

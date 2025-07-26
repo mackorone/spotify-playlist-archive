@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > maximum damage 🎀⛓️‍💥 aespa on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,035 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,968 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 12 | [KNIFE](https://open.spotify.com/track/2AnyzmrKLXR61ObSp2LXrT) | [LARA](https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ) | [KNIFE](https://open.spotify.com/album/5mYTLQWP7xxn0Ddi2zSt1q) | 2:48 |
 | 13 | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/track/0dC9OuZL5Qh70N37wtwGHJ) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/album/1QTFFa1qM6luiHOk5ey5ue) | 3:04 |
 | 14 | [ROCKNROLL](https://open.spotify.com/track/0g2TDHDWIra0CatRXtUvd3) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [ROCKNROLL](https://open.spotify.com/album/6YZrNliHSuIg4tbI1vc27j) | 2:29 |
-| 15 | [Cherish \(Luxe remix\)](https://open.spotify.com/track/2ffwPlNItRwA0j8ZkVlKBx) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Luxe](https://open.spotify.com/artist/6RSz0D4hY1AYUpA3aGBbxe) | [Gramarye: Glistening Edition](https://open.spotify.com/album/2t7hTlgyZp61HeZgbPiWKt) | 3:09 |
+| 15 | [Cherish \(LUXE remix\)](https://open.spotify.com/track/2ffwPlNItRwA0j8ZkVlKBx) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [LUXE](https://open.spotify.com/artist/4Hholv5F2ei5wt2sRUne7S) | [Gramarye: Glistening Edition](https://open.spotify.com/album/2t7hTlgyZp61HeZgbPiWKt) | 3:09 |
 | 16 | [The Shiver](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [The Shiver](https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB) | 2:47 |
 | 17 | [Endless Summer](https://open.spotify.com/track/0tYkJhzRjysaafLThaz5Jt) | [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Endless Summer](https://open.spotify.com/album/3tOyZuJEzfYv6Wd4p1ZCxP) | 2:52 |
 | 18 | [Wanna Play](https://open.spotify.com/track/4gdWFUGosyJpTIpnnwU901) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Wanna Play](https://open.spotify.com/album/1c2bb7hltrw7luhWlyM0Tk) | 2:52 |

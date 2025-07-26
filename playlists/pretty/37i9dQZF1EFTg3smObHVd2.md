@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 81 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 |
 | 82 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 
-Snapshot ID: `Ab3qpgAAAAC9XDE+n8Dh+xOvyqe0ath3`
+Snapshot ID: `Ab3wMgAAAAAfPAtUHXtaotnQWycvR6dd`

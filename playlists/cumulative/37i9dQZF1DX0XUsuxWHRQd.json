@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Travis Scott and Tyler, The Creator.",
+  "description": "New music from Tyler, The Creator, Drake and Offset.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 289426,
       "name": "1995",
       "url": "https://open.spotify.com/track/0Qopdd7xJyhNd3tcvZEAgG"
@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 221758,
       "name": "Active",
       "url": "https://open.spotify.com/track/1VrODX54oswn1CrX9mf8jX"
@@ -4991,6 +4991,28 @@
     },
     {
       "album": {
+        "name": "Big Bag",
+        "url": "https://open.spotify.com/album/4oInS7vZDjkBgONe5UyC7C"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Big Bag",
+      "url": "https://open.spotify.com/track/10dWn0syXPIp0TfdPFx4Lq"
+    },
+    {
+      "album": {
         "name": "Big Big Money",
         "url": "https://open.spotify.com/album/5IY4dOaBwHZB69gg0BlTDt"
       },
@@ -7443,6 +7465,32 @@
     },
     {
       "album": {
+        "name": "By Myself (feat. Dj E Money & G6reddot)",
+        "url": "https://open.spotify.com/album/2z6owfrCNbOou2vZCjtzbJ"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Dj E Money",
+          "url": "https://open.spotify.com/artist/5vLXLmhOx2FLRo0ZwAd1Ue"
+        },
+        {
+          "name": "G6reddot",
+          "url": "https://open.spotify.com/artist/4KN1fLTWx19e2jmVpotGmq"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237223,
+      "name": "By Myself (feat. Dj E Money & G6reddot)",
+      "url": "https://open.spotify.com/track/3ktptX2yF9kOTairLxOPWj"
+    },
+    {
+      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/2RrZgDND03MLu6pRJdTkz5"
       },
@@ -7693,6 +7741,24 @@
     },
     {
       "album": {
+        "name": "Calm 3",
+        "url": "https://open.spotify.com/album/09foLjIsNzSc06T2bIWhEr"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110386,
+      "name": "Calm 3",
+      "url": "https://open.spotify.com/track/7KtysXZ01Msd5W0k1BtLQl"
+    },
+    {
+      "album": {
         "name": "Camelot",
         "url": "https://open.spotify.com/album/5tdGgaiW18D6bjHFLhtblL"
       },
@@ -7932,6 +7998,24 @@
       "duration_ms": 209106,
       "name": "Candy Shop",
       "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
+    },
+    {
+      "album": {
+        "name": "Cant Go Broke (Remix)",
+        "url": "https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107777,
+      "name": "Cant Go Broke - Remix",
+      "url": "https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz"
     },
     {
       "album": {
@@ -11476,7 +11560,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 222124,
       "name": "Don't Tap That Glass / Tweakin'",
       "url": "https://open.spotify.com/track/5DRS7YEe1bwGJLDGviT3CD"
@@ -12484,6 +12568,32 @@
       "duration_ms": 158727,
       "name": "Enough (Miami)",
       "url": "https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc"
+    },
+    {
+      "album": {
+        "name": "Alfredo 2",
+        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226546,
+      "name": "Ensalada (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/06ZX08uRQDK02emdw9mN28"
     },
     {
       "album": {
@@ -17142,7 +17252,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 190373,
       "name": "GOOD CREDIT (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
@@ -27426,7 +27536,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 180063,
       "name": "Mo Chicken (feat. French Montana)",
       "url": "https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn"
@@ -28422,6 +28532,24 @@
       "duration_ms": 235632,
       "name": "My Nigga",
       "url": "https://open.spotify.com/track/19OHDib8Jrqi3o2nm5lzdA"
+    },
+    {
+      "album": {
+        "name": "MASA",
+        "url": "https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "My Shit",
+      "url": "https://open.spotify.com/track/0cIR5HOhF72vI0lHLpjsDV"
     },
     {
       "album": {
@@ -29948,7 +30076,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 155754,
       "name": "No Sweat",
       "url": "https://open.spotify.com/track/0K0jgfFssBL0Q5IcFMrsSz"
@@ -34267,6 +34395,24 @@
     },
     {
       "album": {
+        "name": "Professional",
+        "url": "https://open.spotify.com/album/3szFCrznF383ASda6GRzq2"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Professional",
+      "url": "https://open.spotify.com/track/6vkHTGIAdDW7gTzliLM4ui"
+    },
+    {
+      "album": {
         "name": "Project Walls (feat. YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/0516F8Xh0qRlX1TaiIABzR"
       },
@@ -36715,6 +36861,32 @@
     },
     {
       "album": {
+        "name": "ROCKIN",
+        "url": "https://open.spotify.com/album/44CG52mqjcKpzJL8L4yXkB"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129722,
+      "name": "ROCKIN",
+      "url": "https://open.spotify.com/track/6m5cyVx8qLqu69MFiBVnMI"
+    },
+    {
+      "album": {
         "name": "BLAME IT ON BABY",
         "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
       },
@@ -38652,7 +38824,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 225185,
       "name": "Shot Callin",
       "url": "https://open.spotify.com/track/4rFqRV4UCQubpw348acBq3"
@@ -46168,7 +46340,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 137653,
       "name": "Trappa Rappa",
       "url": "https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK"
@@ -49577,6 +49749,28 @@
     },
     {
       "album": {
+        "name": "Which One",
+        "url": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169134,
+      "name": "Which One (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
+    },
+    {
+      "album": {
         "name": "A Demon In 6lue",
         "url": "https://open.spotify.com/album/40zMiWd6ctIydNFnPgqdM3"
       },
@@ -50264,7 +50458,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 133877,
       "name": "Woke Up",
       "url": "https://open.spotify.com/track/3Pu6ami9THr2rDArjZ0Oqg"

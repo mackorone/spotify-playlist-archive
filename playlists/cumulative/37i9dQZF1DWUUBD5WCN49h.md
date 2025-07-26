@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Nezsa
 
-1,337 songs - 2 day 16 hr 11 min
+1,338 songs - 2 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -853,7 +853,7 @@
 | [Ogologo](https://open.spotify.com/track/6qmFmnzZb0SkKoqO2p4oHg) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [BIRDS OF A FEATHER \(B.O.A.F\)](https://open.spotify.com/album/5npAPJDHjIVCoTypP4TP7G) | 2:16 | 2025-05-16 |  |
 | [OH OH](https://open.spotify.com/track/3IKNLvjbfXmr9xaZQmBqPz) | [Gillian Baci](https://open.spotify.com/artist/2wVzSBbiE5VqVrfD2h4IWc) | [OH OH](https://open.spotify.com/album/4qa907HswR0PYRpclwrzs5) | 3:23 | 2023-02-03 | 2023-02-11 |
 | [Oha](https://open.spotify.com/track/2PZlJEj06ZZZAe13OdHM22) | [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa) | [Crave](https://open.spotify.com/album/15OKHri5NUgFB11KpzmfW3) | 3:12 | 2022-06-30 | 2022-11-04 |
-| [OLAOLUWA](https://open.spotify.com/track/6o6Vu8iObyQW0wzC7LjqcK) | [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [Blue Roses & Red Violets](https://open.spotify.com/album/1G5lsx75BjEYVffrMyOHJn) | 2:45 | 2025-05-09 |  |
+| [OLAOLUWA](https://open.spotify.com/track/6o6Vu8iObyQW0wzC7LjqcK) | [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [Blue Roses & Red Violets](https://open.spotify.com/album/1G5lsx75BjEYVffrMyOHJn) | 2:45 | 2025-05-09 | 2025-07-26 |
 | [Old](https://open.spotify.com/track/5NqUNHSCMW7ikeHXGFVIbN) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Old](https://open.spotify.com/album/7m8teznwhjVGEHlHQPhBGW) | 4:11 | 2023-09-20 | 2023-12-08 |
 | [Old Love](https://open.spotify.com/track/2Iuesyg6djj7hFSAHqJetN) | [KiKi Celine](https://open.spotify.com/artist/6GycTxlHdz7GvNJrl9JyWs) | [Old Love](https://open.spotify.com/album/5wfMhYYwZXVEwK6hdvZGH7) | 2:21 | 2024-06-21 | 2024-10-01 |
 | [Old Wineskins](https://open.spotify.com/track/3MzoX3cSxKxrxarYOt6IJL) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Old Wineskins](https://open.spotify.com/album/1wHbVtTz7SLQi50QI4stdV) | 3:44 | 2022-10-21 | 2023-04-01 |
@@ -1265,6 +1265,7 @@
 | [Wake Up](https://open.spotify.com/track/2bN81WIjJ3Ox6aCydlIJJZ) | [Nelly Baradi](https://open.spotify.com/artist/77bRctbyJcjkQcyEa5wrQr) | [Wake Up](https://open.spotify.com/album/760OVyG2m1dsXYEP6KFflR) | 2:34 | 2025-06-27 | 2025-07-11 |
 | [Walking Away](https://open.spotify.com/track/4CEqsSBbZ0IQVGGvBMn4BN) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY), [Josh Yau](https://open.spotify.com/artist/4KDt1OdgiC9fZQb1ql0uIT) | [Walking Away](https://open.spotify.com/album/6IPHBP1F6s1lYqEkWWBZlW) | 2:45 | 2023-03-17 | 2023-03-31 |
 | [Walking Away](https://open.spotify.com/track/13KyvwN7nd8c9aqfgsh9co) | [UC Dray](https://open.spotify.com/artist/3bPlJjaqKSgvpka6JbumuP), [Lupo](https://open.spotify.com/artist/22HWq5tUvVLTUORQLxlXMf), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Bad Boy Still](https://open.spotify.com/album/0LQusxf0LY9ntzYm8xMEH3) | 3:12 | 2023-02-10 | 2023-02-24 |
+| [Wanna Know](https://open.spotify.com/track/6TruibK99GUHTxy1M6tO5m) | [Efue](https://open.spotify.com/artist/1ADatv0IywY3a3HW6Wy43x) | [Wanna Know](https://open.spotify.com/album/0gVOFZNHbMarinUgZrXIs9) | 2:14 | 2025-07-25 |  |
 | [WANTIN](https://open.spotify.com/track/2b0tfCCk14nTJalrL2FMuf) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [BayO](https://open.spotify.com/artist/5uJ2BDSYKsha939F2iA2UE) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 2:13 | 2024-10-04 | 2024-11-22 |
 | [Warfront](https://open.spotify.com/track/1Cs3EK3wOXl1NAhHgDO1GL) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Warfront](https://open.spotify.com/album/3ma7Fote7RBthotc40gklt) | 3:12 | 2023-12-15 | 2024-01-05 |
 | [Warfront](https://open.spotify.com/track/5v6yUcApqhGDCv7G7QNbQY) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Warfront](https://open.spotify.com/album/4WNNKdQQ9AqLJacXu1kFQk) | 3:12 | 2023-11-24 | 2023-12-16 |

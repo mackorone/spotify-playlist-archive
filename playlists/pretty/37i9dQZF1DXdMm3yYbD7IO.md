@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,469 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,984 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 65 | [Crush \(Dance Mix\)](https://open.spotify.com/track/39D7jfatdB8iX42ZCJmILT) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Crush](https://open.spotify.com/album/4043DNu4jVlMNetxtdh68B) | 3:18 |
 | 66 | [U Got 2 Let The Music \- Brescia Edit](https://open.spotify.com/track/7dIa8yS7HIPKkBvOmERSZ7) | [Cappella](https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg) | [Best Of Cappella](https://open.spotify.com/album/5WnAHnV4xlvxZXEDOtISxX) | 3:38 |
 | 67 | [Feel It \- Radio Version](https://open.spotify.com/track/3tfVgoh2zXTq0rpPcm3Vvy) | [The Tamperer](https://open.spotify.com/artist/1hK5unnJvXQcBMO25YxOFZ), [Get Far](https://open.spotify.com/artist/0woPP4aoXH17kAKggWIYzA), [Alex Farolfi](https://open.spotify.com/artist/4FVWo02JNAzbxhp5FIXQLe), [Maya](https://open.spotify.com/artist/5wexzX1W2zWN2fZ1iXhxSl) | [Feel It](https://open.spotify.com/album/4aLuGBoXT0PEo7KIYq1Ew3) | 2:58 |
-| 68 | [Too Blind to See It](https://open.spotify.com/track/4SmiFk4zGbPVf0vvoSDvuG) | [Kym Sims](https://open.spotify.com/artist/40PLSl99xXqAQsCQQPmfyM) | [Too Blind To See It](https://open.spotify.com/album/0smpJHEIRat9aBllmrRqO3) | 3:31 |
-| 69 | [\(You Drive Me\) Crazy \[The Stop Remix!\]](https://open.spotify.com/track/5G4w4RECwnPdUjz0L0xmNi) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Singles Collection](https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn) | 3:17 |
+| 68 | [\(You Drive Me\) Crazy \[The Stop Remix!\]](https://open.spotify.com/track/5G4w4RECwnPdUjz0L0xmNi) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Singles Collection](https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn) | 3:17 |
+| 69 | [Too Blind to See It](https://open.spotify.com/track/4SmiFk4zGbPVf0vvoSDvuG) | [Kym Sims](https://open.spotify.com/artist/40PLSl99xXqAQsCQQPmfyM) | [Too Blind To See It](https://open.spotify.com/album/0smpJHEIRat9aBllmrRqO3) | 3:31 |
 | 70 | [Boom Boom Boom \(Radio Version\)](https://open.spotify.com/track/3zg4stPJlbNSBPA8HJzLZA) | [The Outhere Brothers](https://open.spotify.com/artist/4eb7QPyORtTxhMiLBo3YWK) | [Boom Boom Boom](https://open.spotify.com/album/09KqsXmFtmMiRi885CPxOq) | 3:21 |
 | 71 | [Please Don't Go \(Radio Cut\)](https://open.spotify.com/track/0w7XcNz84saf5p1nigc22t) | [K.W.S.](https://open.spotify.com/artist/188XxH8QLu4w8GW7cxSJe9) | [Please Don't Go](https://open.spotify.com/album/2iExuSxQaFAmuyRVrnLyAy) | 3:45 |
 | 72 | [Uh La La La \- Almighty's Radio Edit](https://open.spotify.com/track/3JNUWpyJj2rgw25W11J08V) | [Alexia](https://open.spotify.com/artist/09ao6AC5gW8AxRBUVkqWIB), [12 Almighty](https://open.spotify.com/artist/6lI87i3blMBsIBgGFFcxky) | [Uh La La La \(Original Remixes\)](https://open.spotify.com/album/7lkd0IRqHwAc8V2xmiHQVn) | 3:41 |

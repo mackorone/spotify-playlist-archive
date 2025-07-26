@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The best voices in R&B\. Cover: Kokoroko
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,241 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,281 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx) | 3:15 |
+| 1 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx) | 3:15 |
 | 2 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |
 | 3 | [brozone](https://open.spotify.com/track/1l2XbDb3BAIiWnpD92At4P) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [brozone](https://open.spotify.com/album/6sANlSveTjg4CWNoFlbCB2) | 2:29 |
 | 4 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 79 | [In The Dark](https://open.spotify.com/track/2WU9ZkipOL1ab28yG7zJYI) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [In The Dark](https://open.spotify.com/album/1nac5LSQaJ0qo8OzvEnozY) | 2:26 |
 | 80 | [Shoulda Woulda Coulda](https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:46 |
 
-Snapshot ID: `aIK7DgAAAACmZOxeI5CM0HrT/+GM1xip`
+Snapshot ID: `aIO9wgAAAAAKQ05e1GvDK6h3B/62gQYa`

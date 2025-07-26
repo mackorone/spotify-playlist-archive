@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,066 songs - 2 day 14 hr 57 min
+1,067 songs - 2 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Butterfly](https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Butterfly](https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw) | 3:09 | 2025-03-11 | 2025-04-14 |
 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 | 2024-06-04 | 2024-07-03 |
 | [Call It \(feat\. Eddie Chacon\)](https://open.spotify.com/track/2Dw6yvvZEStwyr5xPnudaJ) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Call It \(feat\. Eddie Chacon\)](https://open.spotify.com/album/1TMSyOYQglfAuZqzL3B3JQ) | 4:00 | 2024-05-08 | 2024-06-05 |
-| [Call It Off](https://open.spotify.com/track/0CVfsusVjjnR7CfDAlp25o) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Call It Off](https://open.spotify.com/album/5eLFx3qaedNQ1VOYdQZf7V) | 3:36 | 2025-04-30 |  |
+| [Call It Off](https://open.spotify.com/track/0CVfsusVjjnR7CfDAlp25o) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Call It Off](https://open.spotify.com/album/5eLFx3qaedNQ1VOYdQZf7V) | 3:36 | 2025-04-30 | 2025-07-26 |
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2022-12-06 | 2022-12-21 |
 | [Can't Get Over You](https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y5](https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB) | 3:36 | 2022-11-10 | 2022-12-19 |
 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2023-01-26 | 2023-02-15 |
@@ -207,6 +207,7 @@
 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-07-27 | 2024-02-23 |
 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 | 2023-09-14 | 2024-04-19 |
 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-05-25 | 2023-09-15 |
+| [Dominoes](https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Dominoes](https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd) | 2:59 | 2025-07-23 |  |
 | [Don't Stop the Beat](https://open.spotify.com/track/1syWFA2x8MpsOzG5jHupPa) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Don't Stop the Beat](https://open.spotify.com/album/6zbqyfVcKKb4piUQWlocx1) | 2:43 | 2025-02-12 | 2025-02-21 |
 | [Dong, Nan, Xi, Bei](https://open.spotify.com/track/3YdY8kv4ShsMrDfYKXE8v7) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Lonely Ghost](https://open.spotify.com/album/07TLVVuZNzC2N9jn9Ltv6x) | 4:09 | 2024-12-17 | 2025-01-08 |
 | [Double Fantasy \(with Future\) \- Radio Edit](https://open.spotify.com/track/0vuiKizDyUXdIge9npkEKn) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 3:55 | 2023-04-20 | 2024-02-22 |

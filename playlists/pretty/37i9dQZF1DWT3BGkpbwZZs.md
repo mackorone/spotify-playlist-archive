@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3BGkpbwZZs.md) - [plain]
 
 > Everyone hungers for something\. Listen to the music from and inspired by The Hunger Games and Ballad of Songbirds and Snakes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,102 likes - 64 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,175 likes - 64 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3BGkpbwZZs.md) - [plain]
 | 19 | [Safe & Sound \- from The Hunger Games Soundtrack](https://open.spotify.com/track/0z9UVN8VBHJ9HdfYsOuuNf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Hunger Games: Songs From District 12 And Beyond](https://open.spotify.com/album/45nqVXRAW0xv0wpU9JljPN) | 4:00 |
 | 20 | [Elastic Heart \- From "The Hunger Games: Catching Fire" Soundtrack](https://open.spotify.com/track/2JHG14oKGHQN0jPdyWHcxg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 4:17 |
 | 21 | [Yellow Flicker Beat](https://open.spotify.com/track/5PQ17j37k1X7ZCIKqWQgbw) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 3:54 |
-| 22 | [The Hanging Tree](https://open.spotify.com/track/2xZcIWtthkTPsywtS6emSN) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Jennifer Lawrence](https://open.spotify.com/artist/3oCIYpmkFw8KGWwMNPKgXh) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 3:38 |
+| 22 | [The Hanging Tree \- From "The Hunger Games: Mockingjay" Soundtraclk](https://open.spotify.com/track/2xZcIWtthkTPsywtS6emSN) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Jennifer Lawrence](https://open.spotify.com/artist/3oCIYpmkFw8KGWwMNPKgXh) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 3:38 |
 | 23 | [Atlas \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/5qVV3IVh4Ir5t9SXJHkq1e) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 3:56 |
 | 24 | [All My Love](https://open.spotify.com/track/1hfaeLP0VoQ9Cb6y401NGh) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 3:32 |
 | 25 | [Dead Air](https://open.spotify.com/track/5maON0RcedoTuJR3fa6rD3) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56bAWM3HFElgEjdnraBqvQ) | 3:14 |

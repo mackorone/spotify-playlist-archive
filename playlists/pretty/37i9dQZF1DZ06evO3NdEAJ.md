@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 
 > This is La Fiera de Ojinaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,112 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,119 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 23 | [Infinito](https://open.spotify.com/track/7pFVbw3r0q4NEQ3RtpdG0A) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Infinito](https://open.spotify.com/album/7J6dh2qFQuRPYinWwVj2Q9) | 2:51 |
 | 24 | [A Decir Verdad](https://open.spotify.com/track/6YYroAXcnuMR0PqfRkFTch) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [En Otro Canal](https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90) | 3:48 |
 | 25 | [No Quiero Compartir](https://open.spotify.com/track/7fzMXmWm7vONX6aRq7M1jI) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Quiero Compartir](https://open.spotify.com/album/3D9xpDoODtzajKTq6oqV6k) | 2:45 |
-| 26 | [Bailando](https://open.spotify.com/track/7u9sBmRyQrKdewaT4YxHtm) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Bailando](https://open.spotify.com/album/69uof5JlfcjKcxNewJVI9P) | 3:23 |
-| 27 | [Nuestro Secreto Será](https://open.spotify.com/track/6LC5B96OY8bi4RjYB72wSv) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos, Vol\. 2](https://open.spotify.com/album/7EesU3azH6jPG5osiPex59) | 2:31 |
+| 26 | [Nuestro Secreto Será](https://open.spotify.com/track/6LC5B96OY8bi4RjYB72wSv) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos, Vol\. 2](https://open.spotify.com/album/7EesU3azH6jPG5osiPex59) | 2:31 |
+| 27 | [Bailando](https://open.spotify.com/track/7u9sBmRyQrKdewaT4YxHtm) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Bailando](https://open.spotify.com/album/69uof5JlfcjKcxNewJVI9P) | 3:23 |
 | 28 | [Cuando Te Amé](https://open.spotify.com/track/6alHQAMsFdfVqKn7eO8nYF) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Cuando Te Amé](https://open.spotify.com/album/2b6qnwUwY9qjrss0YucU1O) | 4:02 |
 | 29 | [Te Sale Bien](https://open.spotify.com/track/1AOuMm9EJB0S8FviogQcpQ) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Te Sale Bien](https://open.spotify.com/album/1vm2Uy33Mrv1WNpWxQ0xLv) | 2:47 |
 | 30 | [Lo Dejaría Todo](https://open.spotify.com/track/2HgLertx97aKmtkVfNymvU) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [En Otro Canal](https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90) | 3:47 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 42 | [La Novena Maravilla](https://open.spotify.com/track/2FCD94ziDenugcxQ3ROu3e) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Novena Maravilla](https://open.spotify.com/album/6Tfu5rYl1kXCKtTdEKstfO) | 2:46 |
 | 43 | [No Sé Tú](https://open.spotify.com/track/6N271rSS177egQnJBDkq4F) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Sé Tú](https://open.spotify.com/album/5TzoaMI27c1GGdfuvjShWt) | 2:38 |
 | 44 | [Si Aún Pudieras Venir](https://open.spotify.com/track/4GYDxV6VEjQVrHBCSUlduV) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Si Aún Pudieras Venir](https://open.spotify.com/album/5e45yQZEaw6OeJyd9bjcf4) | 2:42 |
-| 45 | [Si Llegan a Enterarse](https://open.spotify.com/track/235uSINaGqneZry2vVXtx0) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7.2](https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB) | 2:40 |
-| 46 | [Si Nos Tenemos](https://open.spotify.com/track/7rTiu4B2mEDq8zFKne2VSG) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Si Nos Tenemos](https://open.spotify.com/album/3rIk3R4uEJPbp4G03m3gJh) | 2:23 |
+| 45 | [Si Nos Tenemos](https://open.spotify.com/track/7rTiu4B2mEDq8zFKne2VSG) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Si Nos Tenemos](https://open.spotify.com/album/3rIk3R4uEJPbp4G03m3gJh) | 2:23 |
+| 46 | [Si Llegan a Enterarse](https://open.spotify.com/track/235uSINaGqneZry2vVXtx0) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7.2](https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB) | 2:40 |
 | 47 | [Como una Fiera](https://open.spotify.com/track/0rFI3guWwBbbiO5BfYnHh6) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Como una Fiera](https://open.spotify.com/album/3y6ZgAAV5YwdyMuFOwpCJf) | 2:47 |
 | 48 | [Olvidarte ¿Cómo?](https://open.spotify.com/track/6qoLoLaw4zC48XERFdTBgN) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Retro & Hits](https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj) | 3:27 |
 | 49 | [Dile](https://open.spotify.com/track/0qnpUfpIedBqtJSx6lR0Bh) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Dile](https://open.spotify.com/album/5n32MK19ShFwMXMuZaCdv3) | 2:53 |
 | 50 | [Corazón Jodido \- Tololoche](https://open.spotify.com/track/3YSLJpFeItsvgaPGMCwcPG) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Directo Al Corazón](https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF) | 2:58 |
 
-Snapshot ID: `aIAmAAAAAAB3Wp4X0oz5C+4HYSsGG2Fv`
+Snapshot ID: `aIF3gAAAAAA/MOG18YSe11elvP6xiKsS`

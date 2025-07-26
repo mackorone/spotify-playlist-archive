@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,599 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,619 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 9 | [Spastik](https://open.spotify.com/track/553HOkDZQktOEBKvxTBPS1) | [Plastikman](https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Recycled Plastik](https://open.spotify.com/album/4AFkZfFvIGYxNc28b2FKpy) | 9:15 |
 | 10 | [Big Fun \(Remastered\)](https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Big Fun \(Remastered\)](https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr) | 3:18 |
 | 11 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 |
-| 12 | [Into The Dark](https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk) | [The Saunderson Brothers](https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR) | [Into The Dark](https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX) | 3:41 |
-| 13 | [Track Ten](https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh) | [Back To Basics \(Part 1\)](https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf) | 6:01 |
+| 12 | [Track Ten](https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh) | [Back To Basics \(Part 1\)](https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf) | 6:01 |
+| 13 | [Into The Dark](https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk) | [The Saunderson Brothers](https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR) | [Into The Dark](https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX) | 3:41 |
 | 14 | [Frisk](https://open.spotify.com/track/4dB7bla8wMutu4Yq8stA7y) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Frisk](https://open.spotify.com/album/5VEY7dg6GBsee7YSRNBkDb) | 3:11 |
 | 15 | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB) | 3:18 |
 | 16 | [No Ufo's \- Vocal](https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [No Ufo's \(Original Version\)](https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg) | 4:18 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 40 | [Black Water \- Full Strings Vocal Mix](https://open.spotify.com/track/4GGjMkxZiV3Z7KqxcIMZJQ) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH), [Ann Saunderson](https://open.spotify.com/artist/7IItD0N1A3unbTmcIzsCEK) | [Space Ibiza 2014 \(25th Anniversary\) \[Unmixed DJ Version\]](https://open.spotify.com/album/6Un9KGv9hSJYnxKSxl2Txf) | 8:38 |
 | 41 | [Strings Of Life](https://open.spotify.com/track/7DXfJX286N3ZBURaq8D9mc) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator](https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY) | 6:02 |
 | 42 | [Right There](https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Right There / Holy Ghost](https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX) | 2:57 |
-| 43 | [A Wonderful Life \- Version](https://open.spotify.com/track/5yXoaywtrfHi1dcoSn69CV) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Album Formerly Known As ...](https://open.spotify.com/album/6BP19StMYNWhcV0bv9zAZr) | 6:55 |
+| 43 | [Lightyears](https://open.spotify.com/track/3MbMCoPu0hE0nZZMspr26k) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/0SvoaQ0WhkPJNGjXQT7zOk) | 6:07 |
 | 44 | [Telekinesis](https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [The Art of Music](https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm) | 5:20 |
-| 45 | [Andreaen Sand Dunes](https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptunes Lair](https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz) | 6:16 |
-| 46 | [Lightyears](https://open.spotify.com/track/3MbMCoPu0hE0nZZMspr26k) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/0SvoaQ0WhkPJNGjXQT7zOk) | 6:07 |
+| 45 | [A Wonderful Life \- Version](https://open.spotify.com/track/5yXoaywtrfHi1dcoSn69CV) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Album Formerly Known As ...](https://open.spotify.com/album/6BP19StMYNWhcV0bv9zAZr) | 6:55 |
+| 46 | [Andreaen Sand Dunes](https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptunes Lair](https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz) | 6:16 |
 | 47 | [The Curse Breaker](https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [The Curse Breaker / What You Need](https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6) | 3:39 |
 | 48 | [Elements](https://open.spotify.com/track/4aZXoNpqXVZ8tAyoaLNrPh) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/505rV6smETxuNFTgRphph7) | 6:51 |
 | 49 | [Make Me Laugh](https://open.spotify.com/track/4Xq068QQqtTiuPpiGVfsyA) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Sounds](https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V) | 4:33 |
-| 50 | [Desire](https://open.spotify.com/track/0oe3RsEJZRr7XeofKjgvTq) | [69](https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg) | [Legendary Adventures Of A Filter King](https://open.spotify.com/album/6oZag0We7gLZWfWTn6gVW6) | 6:27 |
+| 50 | [Riod](https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp) | 9:14 |
 
 Snapshot ID: `Z5ef8wAAAAC4ZGeunR9EJoO7waDP+8u4`

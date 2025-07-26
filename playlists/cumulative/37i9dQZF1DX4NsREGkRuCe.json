@@ -2179,6 +2179,28 @@
     },
     {
       "album": {
+        "name": "BADMAN GANGSTA",
+        "url": "https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143575,
+      "name": "BADMAN GANGSTA",
+      "url": "https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG"
+    },
+    {
+      "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
@@ -4523,6 +4545,24 @@
     },
     {
       "album": {
+        "name": "Dead Flowers",
+        "url": "https://open.spotify.com/album/5UnD4luhw0cDGhPvQabsnJ"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181681,
+      "name": "Dead Flowers",
+      "url": "https://open.spotify.com/track/3GWRi1nidQuwXcoP3zB7u9"
+    },
+    {
+      "album": {
         "name": "Deadly (feat. Victony)",
         "url": "https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL"
       },
@@ -6856,7 +6896,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 148672,
       "name": "FOR YOU",
       "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
@@ -7396,7 +7436,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 172035,
       "name": "Gimme Your Love",
       "url": "https://open.spotify.com/track/7EzWkg2eZjwXwHEEhVcnxJ"
@@ -8516,6 +8556,24 @@
       "duration_ms": 164745,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
+    },
+    {
+      "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "album": {
@@ -11234,6 +11292,24 @@
       "duration_ms": 213710,
       "name": "Lowkey!",
       "url": "https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y"
+    },
+    {
+      "album": {
+        "name": "Loyal",
+        "url": "https://open.spotify.com/album/4gYliBmMW5PvtrRbOn5Ish"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160134,
+      "name": "Loyal",
+      "url": "https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA"
     },
     {
       "album": {
@@ -14391,6 +14467,32 @@
     },
     {
       "album": {
+        "name": "One Condition",
+        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234977,
+      "name": "One Condition",
+      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
+    },
+    {
+      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/2es5R7Gz861GtXSChRu6JG"
       },
@@ -15698,7 +15800,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 152347,
       "name": "Powerbank",
       "url": "https://open.spotify.com/track/2jqOvtJYWZbu2YaUdDYAXj"
@@ -18090,7 +18192,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 156226,
       "name": "Taxi Driver",
       "url": "https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj"
@@ -18134,7 +18236,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 156135,
       "name": "Tenner",
       "url": "https://open.spotify.com/track/2XQIhPALkOY06FrmirfYIg"

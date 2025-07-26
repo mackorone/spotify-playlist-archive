@@ -2,13 +2,14 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Whitney Whitney
+> Discover the next wave of talent writing their own songs\. Cover: Willa Owen
 
-904 songs - 2 day 0 hr 24 min
+906 songs - 2 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/track/2xNA8H73R4vlxqpRnM8Kyg) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/album/2WjkgxbJKQtAudi52NGEqw) | 2:39 | 2023-12-08 | 2023-12-30 |
+| [1\-800\-LOVECLUB](https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [1\-800\-LOVECLUB](https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83) | 3:28 | 2025-07-25 |  |
 | [100 sq ft](https://open.spotify.com/track/6joM1SZtTJjWFGw0iE9gvz) | [Isabella Kensington](https://open.spotify.com/artist/4Ffrd2faZZlkN2LTyPIPxb) | [not in a dollhouse anymore](https://open.spotify.com/album/099A2jIEqmy2Mv5H7ZVxOl) | 3:12 | 2024-09-27 | 2025-03-08 |
 | [15%](https://open.spotify.com/track/0Ocv0K4bzPBnG5CxvXAA8m) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [15%](https://open.spotify.com/album/6UQlMFX1JWcBNBJvEZxYnL) | 3:28 | 2024-10-11 | 2024-12-07 |
 | [17](https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [17](https://open.spotify.com/album/5rs7aEqIPHIfOCTznBzmFM) | 4:45 | 2023-01-13 | 2023-04-01 |
@@ -107,7 +108,7 @@
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-08-13 |
 | [blonde](https://open.spotify.com/track/2yRUkIXdgVvyXmd2oInA1n) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [blonde](https://open.spotify.com/album/3avpX068ebxCGzHCPUuTFk) | 2:52 | 2025-05-30 |  |
 | [Bloodline](https://open.spotify.com/track/2nOYVXe2AVBLWDjMJPur3O) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Me And My Past](https://open.spotify.com/album/6PGKiegqtNByX3zPzgsBeG) | 3:01 | 2023-11-10 | 2024-02-10 |
-| [Bluebird](https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Bluebird](https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb) | 3:31 | 2025-03-07 |  |
+| [Bluebird](https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Bluebird](https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb) | 3:31 | 2025-03-07 | 2025-07-26 |
 | [Bluebird](https://open.spotify.com/track/3UZQKylw0fLvlEqP18M99A) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Waves](https://open.spotify.com/album/36H0aED0yPq0gvQxdg6G99) | 2:45 | 2022-01-14 | 2022-02-12 |
 | [Book of Memories](https://open.spotify.com/track/5DR6USTGyxwdUKAiULZGYs) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Catching Rabbits](https://open.spotify.com/album/2OZngTNbmegPhnUPITvkTy) | 2:58 | 2023-04-07 | 2023-10-01 |
 | [boring](https://open.spotify.com/track/6SSC7khdu8qXT1PRQrNpmT) | [kate gill](https://open.spotify.com/artist/33xEE8UWA6WNNAev0Ctn6Y) | [boring](https://open.spotify.com/album/2BKfJ6r1T6uVHHlHgN80X2) | 3:40 | 2023-06-16 | 2023-11-11 |
@@ -256,7 +257,7 @@
 | [Face](https://open.spotify.com/track/4adUFO0GaeoZfdhdtj9RNZ) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [Face](https://open.spotify.com/album/3zzOvx0cCLS6z2M2iKj57F) | 3:22 | 2022-01-14 | 2022-04-02 |
 | [Fake Love](https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Fake Love](https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT) | 2:28 | 2023-05-26 | 2023-07-22 |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-05-13 | 2022-10-08 |
-| [Fallin'](https://open.spotify.com/track/0xaeSigcojEopeeoP92OZ2) | [Todd Lewis Kramer](https://open.spotify.com/artist/1gzDIi8maUpe3aJ2XTZFIJ) | [Fallin'](https://open.spotify.com/album/6rVk1sezvdieHChgqTZ8Ix) | 3:20 | 2025-05-09 |  |
+| [Fallin'](https://open.spotify.com/track/0xaeSigcojEopeeoP92OZ2) | [Todd Lewis Kramer](https://open.spotify.com/artist/1gzDIi8maUpe3aJ2XTZFIJ) | [Fallin'](https://open.spotify.com/album/6rVk1sezvdieHChgqTZ8Ix) | 3:20 | 2025-05-09 | 2025-07-26 |
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-02-04 | 2022-06-23 |
 | [father](https://open.spotify.com/track/0S9u6EZQ1EAHz7IkQbxm9z) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [neophyte](https://open.spotify.com/album/2QTz9vN3LF7H4PX4XkmVJh) | 2:57 | 2025-03-28 |  |
 | [Favorite Color](https://open.spotify.com/track/6YiNvXwlNsyCkGv5IDNcon) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Favorite Color](https://open.spotify.com/album/034vrNtnZQYiIvnM9xcJbn) | 3:04 | 2023-11-10 | 2023-12-14 |
@@ -285,7 +286,7 @@
 | [Fucked Up Together](https://open.spotify.com/track/3ol5hkZ8PSLXW2fVfxsgP7) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Fucked Up Together](https://open.spotify.com/album/5lhKFQ0Jn0Zfc5VciiiP61) | 3:59 | 2022-01-14 | 2022-03-12 |
 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 | 2023-03-31 | 2023-07-08 |
 | [Funeral](https://open.spotify.com/track/4BvRbNPdT7ORpX8h70FrFo) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Funeral](https://open.spotify.com/album/2FXHQdFvhYwP62nBazYaAq) | 3:31 | 2022-08-26 | 2022-12-24 |
-| [Future Emma](https://open.spotify.com/track/2v8pOMgEEvFjAFSJXBRwhQ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Future Emma](https://open.spotify.com/album/6fCdybjQTL2stzYvev2hPk) | 4:19 | 2025-04-11 |  |
+| [Future Emma](https://open.spotify.com/track/2v8pOMgEEvFjAFSJXBRwhQ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Future Emma](https://open.spotify.com/album/6fCdybjQTL2stzYvev2hPk) | 4:19 | 2025-04-11 | 2025-07-26 |
 | [Gasoline](https://open.spotify.com/track/7BoVhTeOg7m2sfQb9g6FXe) | [Syd Franklin](https://open.spotify.com/artist/0FVBV0tOAo6AWz8ecbKjY7) | [Gasoline](https://open.spotify.com/album/6nXYRmtCw2OgR0ZgVo7G0y) | 3:11 | 2024-08-09 | 2025-01-04 |
 | [Gatekeeper](https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Gatekeeper](https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB) | 3:26 | 2023-02-03 | 2023-05-20 |
 | [generations in the making](https://open.spotify.com/track/5uLNEjToaNlAGaN2qvbjdQ) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [if i'm honest for once](https://open.spotify.com/album/1KO7Ww4aCb59EumfKV2BhM) | 4:17 | 2025-02-28 | 2025-05-31 |
@@ -542,6 +543,7 @@
 | [Meant To Be](https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9) | 2:43 | 2022-01-14 | 2022-02-26 |
 | [Megan’s Song](https://open.spotify.com/track/71eVKx9MDUBpGChmV98Hiu) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Megan’s Song](https://open.spotify.com/album/6ZP7zOFmqA5NyjKLd2mhR2) | 3:10 | 2022-08-19 | 2022-12-24 |
 | [Memories](https://open.spotify.com/track/6SrYWzq2Fn0ReOmhE3lqh4) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Memories](https://open.spotify.com/album/7udQ2xdosB3zUkdNGaG4m8) | 2:33 | 2024-09-20 | 2025-01-18 |
+| [Memories](https://open.spotify.com/track/2GXkfq4zMW42QbwATAIeiJ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Memories](https://open.spotify.com/album/0xjqoGk8yDHR6Nn0c2VLqa) | 3:15 | 2025-07-25 |  |
 | [Memory Lane](https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Memory Lane](https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk) | 2:34 | 2022-01-14 | 2022-05-07 |
 | [MERRY GO ROUND](https://open.spotify.com/track/6wSEfFQzF3Ye9ztpyx8694) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [AND ALL I LOVED, I LOVED ALONE](https://open.spotify.com/album/5HlkWTlZidWmEkSAJkm2Aq) | 2:10 | 2023-12-08 | 2024-01-27 |
 | [Mess](https://open.spotify.com/track/1502aGzxNUgwcv2r1rG91S) | [Alaina Ray](https://open.spotify.com/artist/2hcq1PIq9XzXVmrab7mfXr) | [Mess](https://open.spotify.com/album/0WtLqYqc87OEDZ7kFJXjJu) | 2:15 | 2022-12-09 | 2022-12-24 |

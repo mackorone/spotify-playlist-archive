@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/064PXW3a66042BjmZEu3Rv.md) - [plain]
 
 > De beste nieuwe Nederlandse muziek vind je hier! Met o.a\. Zoë Tauran &amp; Frenna \(cover\), Noano, Kensington en meer
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 7,847 likes - 65 songs - 3 hr 6 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 7,848 likes - 65 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/064PXW3a66042BjmZEu3Rv.md) - [plain]
 | 64 | [Nooit Meer Spijt](https://open.spotify.com/track/2h6HTbs5OeIyxsUa6kUeAL) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 2:27 |
 | 65 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 |
 
-Snapshot ID: `AAAbTHmE4zC2uX4WKk6sJ4u/uvIZ1/BY`
+Snapshot ID: `AAAbTrHJXKZaKJZ9KoVEJ+r7wlWlNjap`

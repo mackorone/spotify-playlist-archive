@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 손이지유\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,519 songs - 4 day 2 hr 31 min
+1,520 songs - 4 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,7 +439,7 @@
 | [He's next to you, instead of me](https://open.spotify.com/track/1vMxDpmSBRHhh0eRCLxQcQ) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [He's next to you, instead of me](https://open.spotify.com/album/0blCdfQUSARuYDtwzHUxqP) | 2:52 | 2022-02-17 | 2022-07-06 |
 | [Heart](https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Heart](https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP) | 4:17 | 2023-09-14 | 2025-01-12 |
 | [Heartaches](https://open.spotify.com/track/2d9uQGGLlhop1glQFrqrdZ) | [Baek Yeseul](https://open.spotify.com/artist/7GE4KJsseSG0G1848UQpro) | [Heartaches](https://open.spotify.com/album/7vhxzNYCbSnKqK1ElEt4mh) | 3:54 | 2023-02-24 | 2023-06-23 |
-| [Heartbreaking love](https://open.spotify.com/track/2AX64pmFmbdFYZ5C9i44U9) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Heartbreaking love](https://open.spotify.com/album/0dLrFEAxKItdHaCJFh0Rb1) | 3:24 | 2025-04-22 |  |
+| [Heartbreaking love](https://open.spotify.com/track/2AX64pmFmbdFYZ5C9i44U9) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Heartbreaking love](https://open.spotify.com/album/0dLrFEAxKItdHaCJFh0Rb1) | 3:24 | 2025-04-22 | 2025-07-26 |
 | [Heaven](https://open.spotify.com/track/4Ohe61evYAILzlyhSjd7Eq) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Heaven](https://open.spotify.com/album/5PD7BUIpjw9LeGqdNItRug) | 3:43 | 2023-05-15 | 2023-10-20 |
 | [Heavenly Ever After](https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Heavenly Ever After](https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc) | 4:55 | 2025-04-15 |  |
 | [Heavenly fate](https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Heavenly fate \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/6R3XGAZh7OzZBQiN8Ucbkq) | 4:31 | 2024-03-27 |  |
@@ -778,6 +778,7 @@
 | [Love Stealer](https://open.spotify.com/track/3QkpeXIN5VmuEhDvjieufR) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [KIIRI](https://open.spotify.com/artist/1wMLcvjlqV86dKKDe6IhfQ) | [IRON FAMILY, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AvRIjH6ax50gaC4GRHANv) | 3:09 | 2024-11-20 | 2025-05-10 |
 | [Love Story](https://open.spotify.com/track/1W1MrDI5YVuKb9pgCYH3iE) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:23 | 2022-01-25 | 2022-04-09 |
 | [Love Things](https://open.spotify.com/track/0XIy3jZASGk60aT8i8Ri2g) | [HYOJIN](https://open.spotify.com/artist/2ZSycsw08uAqPhM7j37Slg) | [Love Things](https://open.spotify.com/album/5BMWCz8yepMfdYuAWU9Yrz) | 3:57 | 2023-02-14 | 2023-04-27 |
+| [Love used to be](https://open.spotify.com/track/11Eq2x9rPXo43edwf3UyHS) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2xJZOBir2b23lqpNRX2eSA) | 3:45 | 2025-07-25 |  |
 | [Love War](https://open.spotify.com/track/3ZLH3WCaGQ2mvynea5a29s) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Love War](https://open.spotify.com/album/59DdpwFqZnqs1Bz4bgKxW7) | 4:00 | 2023-07-20 | 2023-10-17 |
 | [Love will find a way](https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv) | 3:43 | 2025-06-09 |  |
 | [Love Without Pain](https://open.spotify.com/track/114JstNdrTd5rsVce9lrpQ) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Call It Love, Part 4 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/1bRYXvLc2G48EXhCxwxfyp) | 3:38 | 2023-03-27 | 2023-08-25 |

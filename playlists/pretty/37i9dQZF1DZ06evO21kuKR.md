@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,090 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,103 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 40 | [Word 4 Word](https://open.spotify.com/track/1z8QbRI9w0F4ny1ipjZv3N) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 3:25 |
 | 41 | [Pistol By Da Bed](https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 1:59 |
 | 42 | [Tampering With Evidence](https://open.spotify.com/track/7sVryAf2sqT0I9fBbp0LJB) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fed Baby’s](https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY) | 2:14 |
-| 43 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 |
-| 44 | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv) | 2:53 |
+| 43 | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv) | 2:53 |
+| 44 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 |
 | 45 | [Hard For The Next \(with Future\)](https://open.spotify.com/track/4ELmykSaWrdjQS5iADqHxS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:46 |
 | 46 | [DRUNK OFF U \(feat\. Chris Brown\)](https://open.spotify.com/track/1EA7RoWxVBZUHXl2tNtAwQ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 3:16 |
 | 47 | [Batman \(with Lil Wayne feat\. Moneybagg Yo\) \- Remix](https://open.spotify.com/track/0elEjBWGVXPnMcDkHuUQlW) | [LPB Poody](https://open.spotify.com/artist/0wHeZY93Ede0g1jXaWsiFS), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I'm The One](https://open.spotify.com/album/7p4hzEV95XFXAvZh7kJo25) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 49 | [DO YO SHIT](https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:43 |
 | 50 | [TRYNA MAKE SURE](https://open.spotify.com/track/1su0sROPqYGSrq9YVm7mxl) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:46 |
 
-Snapshot ID: `aIAmAAAAAAD5CfgRPDGmxIqmHWf1fZnC`
+Snapshot ID: `aIF3gAAAAABOXNSzUOPAhugDSA0txXR3`

@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 379521,
+  "num_followers": 379635,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Stay Close",
+        "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
+      },
+      "artists": [
+        {
+          "name": "Austin Sebek",
+          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
+        }
+      ],
+      "duration_ms": 194716,
+      "name": "Stay Close",
+      "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
         "url": "https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 244213,
       "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
       "url": "https://open.spotify.com/track/6DMNym6nYxh5VuymM6kGyW"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Stay Close",
-        "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
-      },
-      "artists": [
-        {
-          "name": "Austin Sebek",
-          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
-        }
-      ],
-      "duration_ms": 194716,
-      "name": "Stay Close",
-      "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "God of the Breakthrough (Live)",
-        "url": "https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza"
-      },
-      "artists": [
-        {
-          "name": "Milestone Worship",
-          "url": "https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo"
-        }
-      ],
-      "duration_ms": 353478,
-      "name": "God of the Breakthrough (Live)",
-      "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "\u2020 (just the cross)",
         "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 398333,
       "name": "\u2020 (just the cross) - Live",
       "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "God of the Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza"
+      },
+      "artists": [
+        {
+          "name": "Milestone Worship",
+          "url": "https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo"
+        }
+      ],
+      "duration_ms": 353478,
+      "name": "God of the Breakthrough (Live)",
+      "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Teach Us That One Song",
-        "url": "https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 354223,
-      "name": "Teach Us That One Song",
-      "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Kingdoms",
         "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 207135,
       "name": "Rest",
       "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Teach Us That One Song",
+        "url": "https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 354223,
+      "name": "Teach Us That One Song",
+      "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Better Plan",
+        "url": "https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i"
+      },
+      "artists": [
+        {
+          "name": "eightFour",
+          "url": "https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs"
+        },
+        {
+          "name": "Calah Mikal",
+          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
+        }
+      ],
+      "duration_ms": 238152,
+      "name": "Better Plan",
+      "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "I See It Now",
         "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 337760,
       "name": "You Never Break a Promise",
       "url": "https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Better Plan",
-        "url": "https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i"
-      },
-      "artists": [
-        {
-          "name": "eightFour",
-          "url": "https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs"
-        },
-        {
-          "name": "Calah Mikal",
-          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
-        }
-      ],
-      "duration_ms": 238152,
-      "name": "Better Plan",
-      "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Stained Glass",
-        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 317509,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Before You",
         "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 261886,
       "name": "Before You",
       "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Stained Glass",
+        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
+      },
+      "artists": [
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 317509,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
     },
     {
       "added_at": "2024-08-03 00:38:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,084 likes - 36 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,094 likes - 36 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 14 | [Rough Hands](https://open.spotify.com/track/1qWWnRhkr50brRpXpThodc) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1707YW8weHIje0KhkNogkg) | 5:30 |
 | 15 | [Side Walk When She Walks](https://open.spotify.com/track/0ZQtCXF4oA6vz4W7A9iDT0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:22 |
 | 16 | [Waterwings \(And Other Poolside Fashion Faux Pas\)](https://open.spotify.com/track/4Hcv9D5PkjFUvJqDme4CeB) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 2:38 |
-| 17 | [The Northern](https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:28 |
+| 17 | [Familiar Drugs](https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Familiar Drugs](https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B) | 4:18 |
 | 18 | [We Are The End](https://open.spotify.com/track/7jyDg46GaJQ89rChvQWlc7) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1707YW8weHIje0KhkNogkg) | 3:44 |
 | 19 | [Hey, It's Your Funeral Mama](https://open.spotify.com/track/0isd7xJL3Oh1Cw9RraixQL) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:22 |
 | 20 | [Counterparts and Number Them](https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 2:19 |
-| 21 | [Familiar Drugs](https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Familiar Drugs](https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B) | 4:18 |
+| 21 | [The Northern](https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:28 |
 | 22 | [We Are the Sound](https://open.spotify.com/track/522Ujz4WQ0i2YjQk1eWOch) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:40 |
 | 23 | [Happiness by the Kilowatt](https://open.spotify.com/track/1WkBlSjsAy200erfndrRU5) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 5:11 |
 | 24 | [Little Girls Pointing and Laughing](https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 4:52 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 35 | [The Dead Heart](https://open.spotify.com/track/1LRUSV7dc7sfeLKQx0szKJ) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Aussie Tour 7inch](https://open.spotify.com/album/63StEaSHnTVqtGy6dwBqnB) | 4:40 |
 | 36 | [Dark Night of the Soul](https://open.spotify.com/track/0S6bcfQHDPZPRcU4EV3jxk) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 6:02 |
 
-Snapshot ID: `aIAmAAAAAAA0Kewq6cmqDhHQ2BccghjQ`
+Snapshot ID: `aIF3gAAAAAB7/PFM83r8F5lFyC+s0ysq`

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2 Pair",
+        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151534,
+      "name": "2 Pair",
+      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
+    },
+    {
+      "album": {
         "name": "35's",
         "url": "https://open.spotify.com/album/0aQPvZHQLSNQhDhYvfnw0a"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 174721,
       "name": "35\u2019s",
       "url": "https://open.spotify.com/track/4B0nJLbPzVxWt7o99SiGrO"
@@ -41,6 +59,28 @@
     },
     {
       "album": {
+        "name": "All My Exes",
+        "url": "https://open.spotify.com/album/6zGfim0ztjuT7qnXXXEDcW"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173367,
+      "name": "All My Exes (feat. Chase Matthew)",
+      "url": "https://open.spotify.com/track/0cjJKsmTPUZeZY5A9IyXca"
+    },
+    {
+      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
       },
@@ -59,6 +99,28 @@
     },
     {
       "album": {
+        "name": "All The Way (feat. Bailey Zimmerman)",
+        "url": "https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "All The Way (feat. Bailey Zimmerman)",
+      "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
+    },
+    {
+      "album": {
         "name": "Blacked Out",
         "url": "https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6"
       },
@@ -70,7 +132,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 208240,
       "name": "Blacked Out",
       "url": "https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc"
@@ -118,6 +180,24 @@
       "duration_ms": 185600,
       "name": "Broadway Girls (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd"
+    },
+    {
+      "album": {
+        "name": "What Not To",
+        "url": "https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139173,
+      "name": "Brunette",
+      "url": "https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i"
     },
     {
       "album": {
@@ -201,6 +281,28 @@
     },
     {
       "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "Cowgirls (feat. ERNEST)",
+      "url": "https://open.spotify.com/track/7fveJ3pk1eSfxBdVkzdXZ0"
+    },
+    {
+      "album": {
         "name": "Crazy Angels",
         "url": "https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU"
       },
@@ -237,6 +339,24 @@
     },
     {
       "album": {
+        "name": "DEVIL YOU KNOW",
+        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192693,
+      "name": "DEVIL YOU KNOW",
+      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+    },
+    {
+      "album": {
         "name": "Dirt Road (Remix) (feat. BRELAND)",
         "url": "https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo"
       },
@@ -259,6 +379,24 @@
     },
     {
       "album": {
+        "name": "Jackson Dean",
+        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187957,
+      "name": "Don't Come Lookin'",
+      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
+    },
+    {
+      "album": {
         "name": "Greenbroke",
         "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
       },
@@ -270,7 +408,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 187957,
       "name": "Don't Come Lookin'",
       "url": "https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt"
@@ -368,7 +506,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 192466,
       "name": "Fire up the Night (feat. HARDY)",
       "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
@@ -528,7 +666,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 152939,
       "name": "Hold Our Own",
       "url": "https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd"
@@ -546,7 +684,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 196281,
       "name": "Home Team",
       "url": "https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc"
@@ -604,6 +742,24 @@
       "duration_ms": 210772,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+    },
+    {
+      "album": {
+        "name": "I'm The Problem",
+        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177811,
+      "name": "I'm The Problem",
+      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
     },
     {
       "album": {
@@ -744,7 +900,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 217706,
       "name": "Martha Divine",
       "url": "https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS"
@@ -762,10 +918,76 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 179878,
       "name": "Match For My Memory",
       "url": "https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo"
+    },
+    {
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
+    },
+    {
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/03xHAanKM1Tt39480qsiOw"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217631,
+      "name": "Miami (feat. Lil Wayne & Rick Ross)",
+      "url": "https://open.spotify.com/track/1j6a5zJGhyBlrvqsszBEeF"
+    },
+    {
+      "album": {
+        "name": "Miles On It",
+        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168355,
+      "name": "Miles On It",
+      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
       "album": {
@@ -784,6 +1006,24 @@
       "duration_ms": 192840,
       "name": "Miss Me More",
       "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+    },
+    {
+      "album": {
+        "name": "Mr. Predictable",
+        "url": "https://open.spotify.com/album/22v4TOSJFegBKWAWg3BtKv"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201133,
+      "name": "Mr. Predictable",
+      "url": "https://open.spotify.com/track/4fpf5WsrRHR38hMgqGbqhG"
     },
     {
       "album": {
@@ -841,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "OIL MONEY",
+        "url": "https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "OIL MONEY",
+      "url": "https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm"
+    },
+    {
+      "album": {
         "name": "People Talk",
         "url": "https://open.spotify.com/album/6cCWwahb1OUojXvaOVm9F4"
       },
@@ -870,10 +1128,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 225613,
       "name": "Poor Everybody Else",
       "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
+    },
+    {
+      "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158634,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj"
     },
     {
       "album": {
@@ -910,7 +1186,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 150861,
       "name": "Ride It Hard",
       "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
@@ -932,7 +1208,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 179866,
       "name": "Rolex\u00ae On A Redneck",
       "url": "https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T"
@@ -950,7 +1226,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 310306,
       "name": "Single For The Summer",
       "url": "https://open.spotify.com/track/4nrtux8xl5lYegU8II5rAQ"
@@ -968,7 +1244,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 202912,
       "name": "SOLD OUT",
       "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
@@ -1008,7 +1284,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 228706,
       "name": "Stick That In Your Country Song",
       "url": "https://open.spotify.com/track/5lH14PEjAXYuMTz0Dd4L1D"
@@ -1092,7 +1368,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 184040,
       "name": "The Fighter",
       "url": "https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL"
@@ -1150,7 +1426,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 163120,
       "name": "Trailer Trashed",
       "url": "https://open.spotify.com/track/3QOOiLL3pqzxEyCpT6FEoE"
@@ -1251,6 +1527,28 @@
     },
     {
       "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184517,
+      "name": "What I Want (feat. Tate McRae)",
+      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
+    },
+    {
+      "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
@@ -1284,6 +1582,24 @@
       "duration_ms": 183789,
       "name": "Whiskey On You",
       "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
+    },
+    {
+      "album": {
+        "name": "WHISKEY WHISKEY",
+        "url": "https://open.spotify.com/album/05hS7HUrkdEIoJxdRXNrj1"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139760,
+      "name": "WHISKEY WHISKEY",
+      "url": "https://open.spotify.com/track/0PY70NiuO5yDhn9FjdtPvr"
     },
     {
       "album": {
@@ -1346,7 +1662,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 175229,
       "name": "YOU'RE DRUNK, GO HOME",
       "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
@@ -1382,7 +1698,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 157290,
       "name": "Your Momma Still Does",
       "url": "https://open.spotify.com/track/4lC2VHtTze7OouvfKwPpDa"

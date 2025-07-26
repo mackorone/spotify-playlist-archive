@@ -4,7 +4,7 @@
 
 > Sommer, Sonne, Seewetter! ☀️
 
-255 songs - 12 hr 22 min
+256 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Muero](https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Muero](https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc) | 3:00 | 2023-08-18 | 2023-09-09 |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-04-09 | 2025-07-10 |
 | [Mädchen auf dem Pferd](https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Octavian](https://open.spotify.com/artist/0rKRcoCpKA2jLHuIXXn80i), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp) | [Mädchen auf dem Pferd](https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz) | 2:37 | 2023-08-23 | 2024-07-23 |
-| [nachts wach](https://open.spotify.com/track/642xaZzR3qtJZiN0jQfhm4) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [nachts wach](https://open.spotify.com/album/1btad5Vd6vMvoFHQT6IbfH) | 2:42 | 2025-06-02 |  |
+| [nachts wach](https://open.spotify.com/track/642xaZzR3qtJZiN0jQfhm4) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [nachts wach](https://open.spotify.com/album/1btad5Vd6vMvoFHQT6IbfH) | 2:42 | 2025-06-02 | 2025-07-26 |
 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 | 2023-07-26 | 2023-08-19 |
 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-07-09 |  |
 | [No Heroes](https://open.spotify.com/track/2K7vmv62BpMRIySly2w4nO) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9), [ANY](https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L) | [No Heroes](https://open.spotify.com/album/5d6t6Chkt2KDFkfrcjA9Qu) | 2:01 | 2024-07-09 | 2025-03-27 |
@@ -212,6 +212,7 @@
 | [Simple Life](https://open.spotify.com/track/3AxfLI7PFjoe2voK0bmXjD) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Simple Life](https://open.spotify.com/album/7wwURNGmjYqXm1XRA4aIRf) | 2:33 | 2024-04-09 | 2025-07-10 |
 | [Slow Low](https://open.spotify.com/track/4MQXkF0FjdlqEHy73IZfoO) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Slow Low](https://open.spotify.com/album/7sjRFU0NZtRbPwAPDlvu8x) | 3:04 | 2023-07-26 | 2024-03-13 |
 | [So Good](https://open.spotify.com/track/2XTSjtPIN0PzfJEfdceNaN) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [So Good](https://open.spotify.com/album/6GfhI8EKNPVEfplLMaINV5) | 2:24 | 2024-06-14 | 2025-06-03 |
+| [Soleil Bleu](https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH) | [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Soleil Bleu](https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA) | 4:06 | 2025-07-25 |  |
 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 | 2024-07-01 | 2025-06-03 |
 | [Somewhere in Between](https://open.spotify.com/track/28Md4QAt1UceyovDOLe1GG) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp) | 2:36 | 2023-08-18 | 2024-04-10 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-06-14 | 2025-06-03 |

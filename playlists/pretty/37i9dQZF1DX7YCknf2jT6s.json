@@ -1,13 +1,33 @@
 {
-  "description": "New jazz for open minds. Cover: Kokoroko",
-  "num_followers": 951176,
+  "description": "New jazz for open minds. Cover: Braxton Cook",
+  "num_followers": 951170,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHnGygAAAACF5rR2wyYurUzNwHM6Dvea",
+  "snapshot_id": "aINjQAAAAAA9TXj3DmLz41PAWrxZk+Rr",
   "tracks": [
+    {
+      "added_at": "2025-07-25 10:58:08",
+      "album": {
+        "name": "Josh's Tune",
+        "url": "https://open.spotify.com/album/3hkBepv9YfYCyuRTEEzXjt"
+      },
+      "artists": [
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "name": "Joshua Crumbly",
+          "url": "https://open.spotify.com/artist/4SSEcx8fIWKSSYSmvHJSC4"
+        }
+      ],
+      "duration_ms": 234829,
+      "name": "Josh\u2019s Tune",
+      "url": "https://open.spotify.com/track/190iJqbTyMlJOOZoTcSkg5"
+    },
     {
       "added_at": "2025-07-14 00:04:48",
       "album": {
@@ -2003,22 +2023,6 @@
       "duration_ms": 243040,
       "name": "Flyways",
       "url": "https://open.spotify.com/track/77zmFpzsaQPTOhS87FM0sy"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Office Party Music",
-        "url": "https://open.spotify.com/album/55KuwnjdlmkjUDM1adx1pZ"
-      },
-      "artists": [
-        {
-          "name": "Walter Smith III",
-          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
-        }
-      ],
-      "duration_ms": 369253,
-      "name": "Misanthrope's Hymn",
-      "url": "https://open.spotify.com/track/53CgYJu6NYV0lBP9AbezO4"
     }
   ],
   "unique_name": "State of Jazz",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6?si=gD4aiSLdQxONDTYraTL03A">  محمود الليثي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,059 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,092 likes - 49 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 42 | [الحريفة \- متبصليش وامشي يا ليفه](https://open.spotify.com/track/3ZRh88QpuxE7hHigevRl0e) | [Amr Salama](https://open.spotify.com/artist/4GcegYRULZV2bEkSgl01Wk), [عدوية شعبان عبدالرحيم](https://open.spotify.com/artist/3WGUpjRhDaXJpmhCRpIMkX) | [الحريفة \(متبصليش وامشي يا ليفه\)](https://open.spotify.com/album/61N7qhss8Xpqk9jgnvOeqe) | 4:21 |
 | 43 | [El 3aw](https://open.spotify.com/track/08lGn5TyiCCtmAgIOC6uW4) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [El 3aw](https://open.spotify.com/album/22mwdk588qhZDQv29y4Wf0) | 4:49 |
 | 44 | [Hagaraan Ala Al Shesha](https://open.spotify.com/track/7mjrovxCbFPlnkJ1aDhtu9) | [Hoba](https://open.spotify.com/artist/3jaVJ8ApcZRzvvKdPhunie) | [Hoba](https://open.spotify.com/album/1b3UdyXzPsjVa93nujVvB8) | 5:25 |
-| 45 | [اه يا دنيا](https://open.spotify.com/track/0THQA9oPhOoXuBFJKAJtGi) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [اه يا دنيا \- ارت تمبلت الالبوم الاول](https://open.spotify.com/album/3tNNn4fKSt7Zvv7wWFusil) | 4:37 |
-| 46 | [جربت الحب مره](https://open.spotify.com/track/6dXpfC0mxL1ytHsy5t32Jv) | [شفيقة](https://open.spotify.com/artist/4B38iUsesz8XZlqtq5ZXa4) | [زعلانا منك](https://open.spotify.com/album/1H1mvMlGLkxtIIGT80v07Q) | 10:22 |
-| 47 | [واحد بس](https://open.spotify.com/track/0BNmhMgicJEEbWXOi3JAES) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [واحد بس](https://open.spotify.com/album/2M4E9lvrpNSfmCgfVNpOC3) | 3:09 |
-| 48 | [Eah El Asatokk Dah](https://open.spotify.com/track/2GTN5gWSRGsgAG6S54BS1f) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX) | [Eah El Asatokk Dah](https://open.spotify.com/album/0ICEaufS2EPabQYvAhLsG1) | 5:05 |
-| 49 | [Ketab Hayaty](https://open.spotify.com/track/4SlWoiEKOBzolCg2CP2Alx) | [Hassan El Asmar](https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax) | [Mesh Hasebak](https://open.spotify.com/album/5VZqJeaS9npyDjJrGdkPnV) | 5:48 |
-| 50 | [ناس رخاص](https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu) | [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [ناس رخاص](https://open.spotify.com/album/3i1LShxG8qpiWas7pAuya0) | 5:13 |
+| 45 | [جربت الحب مره](https://open.spotify.com/track/6dXpfC0mxL1ytHsy5t32Jv) | [شفيقة](https://open.spotify.com/artist/4B38iUsesz8XZlqtq5ZXa4) | [زعلانا منك](https://open.spotify.com/album/1H1mvMlGLkxtIIGT80v07Q) | 10:22 |
+| 46 | [واحد بس](https://open.spotify.com/track/0BNmhMgicJEEbWXOi3JAES) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [واحد بس](https://open.spotify.com/album/2M4E9lvrpNSfmCgfVNpOC3) | 3:09 |
+| 47 | [Eah El Asatokk Dah](https://open.spotify.com/track/2GTN5gWSRGsgAG6S54BS1f) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX) | [Eah El Asatokk Dah](https://open.spotify.com/album/0ICEaufS2EPabQYvAhLsG1) | 5:05 |
+| 48 | [Ketab Hayaty](https://open.spotify.com/track/4SlWoiEKOBzolCg2CP2Alx) | [Hassan El Asmar](https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax) | [Mesh Hasebak](https://open.spotify.com/album/5VZqJeaS9npyDjJrGdkPnV) | 5:48 |
+| 49 | [ناس رخاص](https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu) | [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [ناس رخاص](https://open.spotify.com/album/3i1LShxG8qpiWas7pAuya0) | 5:13 |
 
-Snapshot ID: `aF2yPQAAAAC7x7YXIu/QrFSQ8N3qw0Sc`
+Snapshot ID: `aINN2gAAAABuH0LlUewgwRhQKT0QOF/x`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,597 likes - 76 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,650 likes - 76 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

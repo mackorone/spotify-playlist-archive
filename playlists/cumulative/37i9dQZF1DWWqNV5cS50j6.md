@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Sam Austins
 
-1,841 songs - 3 day 16 hr 32 min
+1,844 songs - 3 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Cherry Pie](https://open.spotify.com/track/3vFL0o1MS6WW0KWGusOIwr) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [Cherry Pie](https://open.spotify.com/album/03AS1bEWhA46PWdpT3EFxt) | 2:36 | 2022-02-11 | 2022-03-01 |
 | [Chess & Checkers](https://open.spotify.com/track/7I1L8djBxdsQGtybPXSeMZ) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Chess & Checkers](https://open.spotify.com/album/7tf1B0szpLaftMECpvPYWh) | 2:29 | 2021-08-04 | 2022-04-15 |
 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 | 2024-12-11 | 2025-03-01 |
+| [chicken shop date](https://open.spotify.com/track/1VphQQ238vWd0vsrDdmlxo) | [WHATMORE](https://open.spotify.com/artist/2y4kS2ljmS41pNDNA01P2Q) | [chicken shop date](https://open.spotify.com/album/0zEQT79URMgzOJLjXWj7GY) | 2:03 | 2025-07-25 |  |
 | [Chip Away](https://open.spotify.com/track/41FG0ltB7fBq2gS4eoFeKC) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Chip Away](https://open.spotify.com/album/12dH9kAi6vDxeCrMSHiqgW) | 2:10 | 2024-06-28 |  |
 | [CHOICE COWBOY](https://open.spotify.com/track/7BjbkbWJrPfRp0Z4NUvYhp) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE), [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [AMERICAN GURL](https://open.spotify.com/album/5LXmSrGzPSEmTEu3OIsotT) | 2:53 | 2022-04-09 | 2022-07-19 |
 | [chosen](https://open.spotify.com/track/0rT7hDCDu6euX1kkWT0JdV) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [chosen](https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z) | 2:49 | 2022-06-17 | 2022-12-01 |
@@ -437,6 +438,7 @@
 | [dog days](https://open.spotify.com/track/0NHix4a0k9WVZNZtPMgkQ1) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [dog days](https://open.spotify.com/album/5tsuLmnmDMo4rhrRZQIXFn) | 2:56 | 2022-04-21 | 2022-07-09 |
 | [Doja Cat](https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Doja Cat](https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol) | 2:40 | 2022-10-04 | 2023-03-18 |
 | [Don't Ask, Don't Tell \(feat\. redveil, Sam Truth & Glen the Saiyan\)](https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa), [Glen the Saiyan](https://open.spotify.com/artist/7vHpwq0fPbCFXXEfZ0O135), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Impostor Syndrome](https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6) | 4:57 | 2022-10-04 | 2023-01-28 |
+| [don't be stupid](https://open.spotify.com/track/39xZLjFOjWVk54cD7ewiPi) | [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL), [Af1shawty](https://open.spotify.com/artist/6oL8lWoevFyLz9PAFTT4yc) | [Don't Be Stupid](https://open.spotify.com/album/5tQMrObufBXxp3lqV99kj3) | 3:19 | 2025-07-25 |  |
 | [don't leave](https://open.spotify.com/track/7rVJxAAj8zEHOOGg3t4T0Q) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [don't leave](https://open.spotify.com/album/3JUkRAqaZemIi1SE3dF1xy) | 2:24 | 2021-08-12 | 2021-10-12 |
 | [Don't Like U](https://open.spotify.com/track/15GwtGQXPJYqGzpiSGygsz) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Don't Like U](https://open.spotify.com/album/50n8xyx0eXZskyFyv9syTa) | 2:32 | 2022-03-11 | 2022-06-25 |
 | [Don't Make Me Go Wrong](https://open.spotify.com/track/2zIDLsduXFSguKxHgzuq0A) | [Moritz](https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ) | [Don't Make Me Go Wrong](https://open.spotify.com/album/3kSyH8xI2iecmqWLrUQN3T) | 3:19 | 2023-05-12 | 2023-07-01 |
@@ -451,6 +453,7 @@
 | [Down For It](https://open.spotify.com/track/2x93RFNdEs1JtWoHsDQqTj) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Down For It](https://open.spotify.com/album/0C83wme433FLhE95M4JbvG) | 3:15 | 2021-02-27 | 2021-10-14 |
 | [Down the Bottle](https://open.spotify.com/track/0azW93j6ED7Da83IDAtDDn) | [Christian Blue](https://open.spotify.com/artist/1X1R5azJYxs6wdFzEOBoI3) | [Down the Bottle](https://open.spotify.com/album/3P2pczdAyjLZ4vuM1ljaNV) | 2:45 | 2022-06-17 | 2022-08-06 |
 | [Downtime](https://open.spotify.com/track/3S3ZRqYDVvGLQ3jc8EG4iC) | [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [Downtime](https://open.spotify.com/album/1S0kpyuMCbDMHb7BGL2HL6) | 2:37 | 2020-12-10 | 2021-06-16 |
+| [Draft Day](https://open.spotify.com/track/2CISFQdcY4liOBuuylk3dz) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Draft Day](https://open.spotify.com/album/7sEv7xiGmzEGUCymVbDfgW) | 3:57 | 2025-07-25 |  |
 | [dreamin'](https://open.spotify.com/track/4PlzJVdaRYC9Fg2AqlOxer) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [dreamin'](https://open.spotify.com/album/4OVHuaHyH9KpFwgbJTdSS1) | 3:27 | 2020-10-13\* | 2021-05-29 |
 | [DREAMS I SEE](https://open.spotify.com/track/4mamncqmgsPaWkBaemFijf) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [DREAMS I SEE](https://open.spotify.com/album/4v4448kFqcuBFv6uhUW6as) | 2:19 | 2024-07-12 | 2024-10-05 |
 | [Dressed For A Funeral](https://open.spotify.com/track/0iHZE9wKvvOXeKRkfbpjMQ) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj) | [Dressed For A Funeral](https://open.spotify.com/album/6x47JaUUbqIjrxqd2eCd3r) | 2:24 | 2023-05-12 | 2023-05-20 |

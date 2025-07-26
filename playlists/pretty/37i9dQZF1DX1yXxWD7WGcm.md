@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Fanny J
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,807 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,859 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 28 | [Fanm'fo](https://open.spotify.com/track/2VQi8333iX31StITeo81vD) | [Jeux De Dames](https://open.spotify.com/artist/1cUPVOhOVa6At8e7soKGGK) | [Têtes D'affiche Zouk Souvenirs](https://open.spotify.com/album/7sdSaNo7dRwaacLk97gfNY) | 4:30 |
 | 29 | [Ma vie sans toi](https://open.spotify.com/track/3vrjFilXfC0P53dOO15GIC) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Mes couleurs](https://open.spotify.com/album/7LE9C4LvYfBU6imab1TcMa) | 4:03 |
 | 30 | [Si Tu Veux De Moi](https://open.spotify.com/track/5J9z4IRglYvOll81jBjGje) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [African Bohemian](https://open.spotify.com/album/7zClNRNTGr4SShXmsgxda1) | 3:59 |
-| 31 | [Temps Pour Temps \- Feat\. Talina](https://open.spotify.com/track/0G2KG5asdnEMBWbPHqPqmU) | [Soumia](https://open.spotify.com/artist/4jX3jrknvMTP5QeGLwzUrW) | [Still In Love](https://open.spotify.com/album/7BWSmRnWAaMUiZeYBH6zh1) | 4:39 |
+| 31 | [Temps pour temps \(feat\. Talina\)](https://open.spotify.com/track/0G2KG5asdnEMBWbPHqPqmU) | [Soumia](https://open.spotify.com/artist/4jX3jrknvMTP5QeGLwzUrW) | [Still in love](https://open.spotify.com/album/7BWSmRnWAaMUiZeYBH6zh1) | 4:39 |
 | 32 | [Kolé Séré](https://open.spotify.com/track/01CrPv9jX9sUMd4fmSMIWp) | [Jocelyne Beroard](https://open.spotify.com/artist/5YZXvHrAg6BE549FF4x6jB) | [Siwo](https://open.spotify.com/album/1rAvDlrzslwA4SEffA2rYv) | 4:43 |
 | 33 | [Simplement](https://open.spotify.com/track/2iM4L4kVzYo9spCkvuNJ0k) | [Milca](https://open.spotify.com/artist/5YE3riVoIML4fFnfqJzK3L) | [Simplement \(2020 Remastered Version\)](https://open.spotify.com/album/3q12MlWGq7YrXUnJK4YN33) | 4:35 |
 | 34 | [Vini](https://open.spotify.com/track/5ClSFh5wvocS8bypi9nWNa) | [Nichols](https://open.spotify.com/artist/6rvJUax9W8BrBC6nL6Rl8W), [Marysa](https://open.spotify.com/artist/15g2YTZ5MPzw6mG5JMzMc5) | [Hot !](https://open.spotify.com/album/2c1DbufXlLIeakSnCjFD1I) | 3:48 |

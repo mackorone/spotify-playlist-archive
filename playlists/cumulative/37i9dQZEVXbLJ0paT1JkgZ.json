@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "ALAMBRE P\u00faA",
+        "url": "https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146017,
+      "name": "ALAMBRE P\u00faA",
+      "url": "https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG"
+    },
+    {
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -850,7 +868,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 169263,
       "name": "Ay Mamasita",
       "url": "https://open.spotify.com/track/2xPdYKH4tKDThf6p6sqLtD"
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 210648,
       "name": "Braile",
       "url": "https://open.spotify.com/track/1jsUOG2qFVgLUP7DTUjtjR"
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 151442,
       "name": "Conmigo Se Escapa",
       "url": "https://open.spotify.com/track/7cY0AqrTZRFMCPy2DRrShi"
@@ -3164,7 +3182,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 203506,
       "name": "Fronteo",
       "url": "https://open.spotify.com/track/0AXKoQuC2NQ8S2QRF0Gu02"
@@ -3182,7 +3200,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 203973,
       "name": "Fronteo",
       "url": "https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st"
@@ -4026,7 +4044,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 296460,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/465lkwZP4ZXzWqZq4kOhgW"
@@ -7326,10 +7344,32 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
+    },
+    {
+      "album": {
+        "name": "ISLAND BOYZ",
+        "url": "https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218305,
+      "name": "SOLEAO",
+      "url": "https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"
     },
     {
       "album": {
@@ -7514,10 +7554,40 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 239575,
       "name": "Somos Diferentes (Remix)",
       "url": "https://open.spotify.com/track/7EihgD8mhS9IeT93uvcYtL"
+    },
+    {
+      "album": {
+        "name": "Somos Diferentes",
+        "url": "https://open.spotify.com/album/5JBMg2fnHJSkROuL14hs4J"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239575,
+      "name": "Somos Diferentes (Remix)",
+      "url": "https://open.spotify.com/track/6Ne8CMowcnP2t9WeL9pai9"
     },
     {
       "album": {
@@ -7796,6 +7866,24 @@
       "duration_ms": 176129,
       "name": "Te Quer\u00eda Ver",
       "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
+    },
+    {
+      "album": {
+        "name": "ISLAND BOYZ",
+        "url": "https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211101,
+      "name": "TENGO CELOS",
+      "url": "https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq"
     },
     {
       "album": {

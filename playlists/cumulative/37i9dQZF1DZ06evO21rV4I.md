@@ -4,7 +4,7 @@
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-136 songs - 7 hr 43 min
+137 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Jaiye Jaiye](https://open.spotify.com/track/2vXJl10Kiu3IqMo8moFBFK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 4:06 | 2022-06-23 | 2022-10-13 |
 | [Jam \(feat\. Wizkid\)](https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [SoundMan Vol\. 1](https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY) | 3:18 | 2024-08-03 |  |
 | [Joro](https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Joro](https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh) | 4:22 | 2021-12-28 |  |
-| [Kai!](https://open.spotify.com/track/0UKX2OlSnobdX77f0Y1jok) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kai!](https://open.spotify.com/album/2Pp0uBbh3uo5EAkyGYrRru) | 2:55 | 2025-05-07 |  |
+| [Kai!](https://open.spotify.com/track/0UKX2OlSnobdX77f0Y1jok) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kai!](https://open.spotify.com/album/2Pp0uBbh3uo5EAkyGYrRru) | 2:55 | 2025-05-07 | 2025-07-26 |
+| [Kai!](https://open.spotify.com/track/0C3zMmE4yo1qBq6MGfkwX0) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:57 | 2025-07-26 |  |
 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 | 2021-12-28 |  |
 | [Karamo](https://open.spotify.com/track/4H4l7wkB7UcEMFvfIbGsuq) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:41 | 2024-11-25 | 2025-02-02 |
 | [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 | 2024-11-17 | 2024-12-15 |

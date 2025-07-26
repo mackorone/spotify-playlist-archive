@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,226 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,263 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 44 | [SIGNED, SOBER YOU](https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:28 |
 | 45 | [Fire up the Night \(feat\. HARDY\)](https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:12 |
 | 46 | [SIX FEET UNDER \(Caleigh’s Song\)](https://open.spotify.com/track/7d97WagcXzbZBibBk5NmcY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:11 |
-| 47 | [Beer With My Buddies \(feat\. HARDY, Josh Thompson & Travis Denning\)](https://open.spotify.com/track/0Hqzm7rSNkjNed9a0xRFUc) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [Josh Thompson](https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj) | 3:09 |
+| 47 | [Redneck Tendencies \(HARDY feat\. Trace Adkins, Joe Diffie\)](https://open.spotify.com/track/0AumwgFsruoFRZMxF1Z4Qv) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 2:52 |
 | 48 | [WHERE TO FIND ME](https://open.spotify.com/track/6PpqjWu7fTzXZIeRt4gEOH) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:54 |
-| 49 | [Redneck Tendencies \(HARDY feat\. Trace Adkins, Joe Diffie\)](https://open.spotify.com/track/0AumwgFsruoFRZMxF1Z4Qv) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 2:52 |
-| 50 | [Hillbilly Deluxe \(with HARDY\)](https://open.spotify.com/track/2fdHmGsLOn6krkpCw5diIC) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:28 |
+| 49 | [Hillbilly Deluxe \(with HARDY\)](https://open.spotify.com/track/2fdHmGsLOn6krkpCw5diIC) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:28 |
+| 50 | [Beer With My Buddies \(feat\. HARDY, Josh Thompson & Travis Denning\)](https://open.spotify.com/track/0Hqzm7rSNkjNed9a0xRFUc) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [Josh Thompson](https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj) | 3:09 |
 
-Snapshot ID: `aIAmAAAAAABt6Vn7JW8shDHsjF5SoQpC`
+Snapshot ID: `aIF3gAAAAAAJ81oYUtAmivBw+drT0mBk`

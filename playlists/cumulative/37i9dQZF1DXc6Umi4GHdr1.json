@@ -1003,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/7k1IuxipWPPsVmg7cSk4vs"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah River",
+          "url": "https://open.spotify.com/artist/1yZEsDnvySiKAOlBRaf96D"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/1AvsaTVnMVzISPmFVEg71V"
+    },
+    {
+      "album": {
         "name": "Carroll Gardens",
         "url": "https://open.spotify.com/album/6UTtrPhsCgjxjG24Zfn6jq"
       },

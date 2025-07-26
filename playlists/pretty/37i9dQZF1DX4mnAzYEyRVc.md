@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Sublime
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,954 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,982 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 60 | [Mala Vida](https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Frecuencia Extrema](https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA) | 3:18 |
 | 61 | [Grüße ins Neandertal](https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Grüße ins Neandertal](https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup) | 1:46 |
 | 62 | [Cuando Salga El Sol](https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [En La Tormenta](https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6) | 3:01 |
-| 63 | [Balkan Boys](https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF) | [Dubioza kolektiv](https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY) | [Balkan Boys](https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0) | 2:04 |
-| 64 | [Honey](https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Bersinar](https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn) | 3:45 |
+| 63 | [Honey](https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Bersinar](https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn) | 3:45 |
+| 64 | [Balkan Boys](https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF) | [Dubioza kolektiv](https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY) | [Balkan Boys](https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0) | 2:04 |
 | 65 | [El Ultimo Ska](https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:55 |
 | 66 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
 | 67 | [Leven Het Groots](https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc), [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Leven Het Groots](https://open.spotify.com/album/2a0OmGXhmN3U0GN8BKP6by) | 2:31 |
@@ -93,13 +93,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 83 | [Quién devuelve el tiempo?](https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Quién Devuelve El Tiempo?](https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer) | 3:30 |
 | 84 | [トイトイ \- feat.ムロツヨシ](https://open.spotify.com/track/6Q1fVjB5d2zI4r6nWGorFZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ムロツヨシ](https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr) | [トイトイ \(feat.ムロツヨシ\)](https://open.spotify.com/album/1DfHJUAqMbM18p48ymnyUA) | 3:44 |
 | 85 | [Juice](https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K) | [Sublime Reggae Kings](https://open.spotify.com/artist/0IdWDHqu9vAilcEhb3Q0tN), [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7) | [Juice](https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp) | 2:59 |
-| 86 | [Money Money Money](https://open.spotify.com/track/2Pm7eVq4Q5Soeksf7bMkae) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Oddities](https://open.spotify.com/album/1wFH2BLGpj5JKadDOvrwIu) | 3:22 |
-| 87 | [In 80 Tagen um die Welt \- Birthday Rerecordings '24](https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW) | [Broilers](https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J) | [Jolly Good Fellas \- Best of Broilers 1994\-2024](https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv) | 3:22 |
-| 88 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
+| 86 | [In 80 Tagen um die Welt \- Birthday Rerecordings '24](https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW) | [Broilers](https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J) | [Jolly Good Fellas \- Best of Broilers 1994\-2024](https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv) | 3:22 |
+| 87 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
+| 88 | [Money Money Money](https://open.spotify.com/track/2Pm7eVq4Q5Soeksf7bMkae) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Oddities](https://open.spotify.com/album/1wFH2BLGpj5JKadDOvrwIu) | 3:22 |
 | 89 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 |
 | 90 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
-| 91 | [Summer Disease](https://open.spotify.com/track/46oLm0kJKk5KtNpMxfjVRh) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Summer Disease](https://open.spotify.com/album/31yE7CRqw1tN12Shn6zhxi) | 3:17 |
-| 92 | [Devil With a Microphone](https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Random Hand](https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC) | 3:12 |
+| 91 | [Devil With a Microphone](https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Random Hand](https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC) | 3:12 |
+| 92 | [Summer Disease](https://open.spotify.com/track/46oLm0kJKk5KtNpMxfjVRh) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Summer Disease](https://open.spotify.com/album/31yE7CRqw1tN12Shn6zhxi) | 3:17 |
 | 93 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
 | 94 | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF) | [Raztlan](https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE), [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO) | 3:33 |
 | 95 | [Tengo Miedo](https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Estacional](https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt) | 3:17 |

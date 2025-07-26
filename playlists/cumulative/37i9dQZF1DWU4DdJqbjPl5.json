@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Sweet R&B straight out of Africa. Cover: Odeal ",
+  "description": "Sweet R&B straight out of Africa. Cover: Fireboy DML ",
   "name": "Tantalizers",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 180000,
       "name": "Afraid, Pt. 2 - feat. Xenia Manasseh",
       "url": "https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV"
@@ -2035,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
       },
@@ -2050,6 +2068,28 @@
       "duration_ms": 186382,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
+    },
+    {
+      "album": {
+        "name": "WWP",
+        "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177011,
+      "name": "DYNAMITE",
+      "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
     },
     {
       "album": {
@@ -3146,7 +3186,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 122232,
       "name": "GOING",
       "url": "https://open.spotify.com/track/3K40ExNdW7OLgTsDKAtJaC"
@@ -3608,6 +3648,24 @@
       "duration_ms": 195000,
       "name": "hopes & dreams",
       "url": "https://open.spotify.com/track/50zGHqJ5vAkF74KPOIrUrT"
+    },
+    {
+      "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "album": {
@@ -7854,7 +7912,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 219199,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/3fDUVymijOJEa0cchGb9sb"

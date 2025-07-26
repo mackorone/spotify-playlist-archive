@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: PLUTO
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,437 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,307 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 36 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 |
 | 37 | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4) | 3:12 |
 | 38 | [Ranchero](https://open.spotify.com/track/2JQlJ8NMAsc64NpK40I7FK) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Ranchero](https://open.spotify.com/album/6YuTYAphtTtx15HsessRq4) | 2:55 |
-| 39 | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S) | 3:23 |
-| 40 | [Courtesy Of A Rich Nigga](https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Courtesy Of A Rich Nigga](https://open.spotify.com/album/52CR1FGtrOvY7OU71bHqSB) | 3:17 |
+| 39 | [Courtesy Of A Rich Nigga](https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Courtesy Of A Rich Nigga](https://open.spotify.com/album/52CR1FGtrOvY7OU71bHqSB) | 3:17 |
+| 40 | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S) | 3:23 |
 | 41 | [Kash Kommandments](https://open.spotify.com/track/1C4eLUSXUnj6bi8xjShYaH) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Kash Kommandments](https://open.spotify.com/album/3Jl8CMpyyGtUPAoT0XPplY) | 3:29 |
 | 42 | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap) | 2:53 |
 | 43 | [GOOCHIE MAYNE](https://open.spotify.com/track/0kF9DF1tV4Qcpdg7ysoY76) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP) | [TAKE 25](https://open.spotify.com/album/0iOw2e2c1oygrCL2sKVCsp) | 2:41 |

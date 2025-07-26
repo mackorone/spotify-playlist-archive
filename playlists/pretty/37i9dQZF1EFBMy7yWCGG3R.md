@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,163 likes - 259 songs - 14 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,164 likes - 259 songs - 14 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,8 +183,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 173 | [On Mine \(feat\. Noah Cyrus\)](https://open.spotify.com/track/0tSwKGbmvKrL0C7ckwIA9B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:36 |
 | 174 | [Better](https://open.spotify.com/track/26AyBuEQkAAaQYnDrzneF2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 3:09 |
 | 175 | [The Kind Of Lover I Am](https://open.spotify.com/track/7jFnNIYbnBeC229ESa8ck0) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:09 |
-| 176 | [Fucked Up, Kinda](https://open.spotify.com/track/3i8JuT3Ffr45hfi239ypOQ) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 2:33 |
-| 177 | [Stained](https://open.spotify.com/track/7xVjKU6399E5F3b68C0Mk2) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [I Said I Love You First...](https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX) | 3:29 |
+| 176 | [Stained](https://open.spotify.com/track/7xVjKU6399E5F3b68C0Mk2) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [I Said I Love You First...](https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX) | 3:29 |
+| 177 | [Fucked Up, Kinda](https://open.spotify.com/track/3i8JuT3Ffr45hfi239ypOQ) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 2:33 |
 | 178 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/4kRlL390PfYKVAirO1ZUhZ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:08 |
 | 179 | [Moderación \(Con Camilo\)](https://open.spotify.com/track/1f4wG3VUMdZRkckhaZZ2x5) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:19 |
 | 180 | [Priest](https://open.spotify.com/track/6VAlmgM31jc1K7SZrmECRS) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:13 |
@@ -244,8 +244,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 234 | [Just For You](https://open.spotify.com/track/275DvW2FJITkWUdTHeuAup) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:06 |
 | 235 | [Waterslide](https://open.spotify.com/track/4SeShDomhZSFIfvGdHBXHq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:05 |
 | 236 | [Rocket Ship](https://open.spotify.com/track/7Kk83KSdI044UbqrtYmQII) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:08 |
-| 237 | [Bad For You](https://open.spotify.com/track/1TrISIcOILgHb48a4VOb89) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [The Running Wild EP](https://open.spotify.com/album/4TK7X7cCvg1OQmP3XNjdlZ) | 3:16 |
-| 238 | [spelling bee](https://open.spotify.com/track/3bAfnBQ6xfpCznOyxoeCXG) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [he's still just not that into you!](https://open.spotify.com/album/7kFo0ZTLAPAhZQ8gIIBQru) | 3:04 |
+| 237 | [spelling bee](https://open.spotify.com/track/33OStqVx8yvu6egc2WBt6F) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [he's still just not that into you!](https://open.spotify.com/album/1AFQW8SO3gppdkZC8XPxP8) | 3:04 |
+| 238 | [Bad For You](https://open.spotify.com/track/1TrISIcOILgHb48a4VOb89) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [The Running Wild EP](https://open.spotify.com/album/4TK7X7cCvg1OQmP3XNjdlZ) | 3:16 |
 | 239 | [Hands](https://open.spotify.com/track/2vDV1IiMZeFHMnVpxarTYy) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Waves](https://open.spotify.com/album/1mH4ntQRUk1akxx6WNST8q) | 3:54 |
 | 240 | [WITHOUT YOU](https://open.spotify.com/track/7aLUbVBpLgsj4QW4fchL47) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [PRINCESS CATGIRL](https://open.spotify.com/album/5DFEo8Nh5N6BYScoCDKvkh) | 3:24 |
 | 241 | [Hate You](https://open.spotify.com/track/6Xj1PG0pINzvrlxQSLNX9d) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Yesterday Was Forever](https://open.spotify.com/album/4ryc4MvHAAJvTuc8wfTC7H) | 3:23 |
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 258 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
 | 259 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `Ab3qfgAAAABHZ7OeDRAeGKlP5FfttQY6`
+Snapshot ID: `Ab3wCgAAAAAzHNZg4vBna8r/CPxnW2N/`

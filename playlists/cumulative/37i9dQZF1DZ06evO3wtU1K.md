@@ -4,7 +4,7 @@
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-108 songs - 10 hr 15 min
+109 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Break Every Chain \- Live](https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 8:18 | 2022-09-14 |  |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/7AR9lcmp2YH1eYhpSHB2Pz) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Bridge Over Troubled Water](https://open.spotify.com/album/0nvkheyJnQtb60m9bFjgkQ) | 5:48 | 2023-11-10 | 2023-12-14 |
 | [Burdens Down \- Live](https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 4:22 | 2022-10-10 |  |
+| [Church](https://open.spotify.com/track/4FQXeaugZnVS5XfIwBLJ7T) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 4:02 | 2025-07-26 |  |
 | [Confidence \- Live](https://open.spotify.com/track/5J0TvJIdYrybgk6SINgieR) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:14 | 2022-09-14 | 2024-07-12 |
 | [Do It Anyway](https://open.spotify.com/track/2rF5K9wMGwaiwsTwVjDrDq) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Do It Anyway](https://open.spotify.com/album/6ovFuEIhGBZQS30IinCMNx) | 2:57 | 2024-05-12 |  |
 | [Dove's Eyes](https://open.spotify.com/track/4f8lj0jCAZER8viV2tBOUj) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 4:09 | 2023-02-05 | 2024-07-19 |
@@ -41,7 +42,7 @@
 | [He Is Lord \- Live](https://open.spotify.com/track/6IBwHO3idGE5V01APsbpUB) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Intercession \(Live\)](https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62) | 3:36 | 2022-09-14 | 2022-10-09 |
 | [Heart Of Worship \- Live/Remastered](https://open.spotify.com/track/6fsiAydZosjrpbRlFmIOCP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Smile \(Live\)](https://open.spotify.com/album/6isLvIzyH6R6ptQcrrAPjI) | 7:53 | 2022-09-16 | 2022-09-19 |
 | [Heaven \- Live](https://open.spotify.com/track/1WySz0JXkimGVBJw1DYwMS) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Purpose Worship](https://open.spotify.com/artist/6H7rRqK9JkWBGHB2W8WTCH) | [Believe \(Live\)](https://open.spotify.com/album/2BdsKcBcGGjDzw80RCBaW4) | 11:19 | 2024-05-12 | 2024-05-19 |
-| [Help](https://open.spotify.com/track/4IH3fJUWdjBjN8kluvRxfL) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [House Of David \(Music Inspired By The Prime Video Original Series\) \[Season One\]](https://open.spotify.com/album/0xV5LfRixOiXlDYOvny1GI) | 3:18 | 2025-03-16 |  |
+| [Help](https://open.spotify.com/track/4IH3fJUWdjBjN8kluvRxfL) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [House Of David \(Music Inspired By The Prime Video Original Series\) \[Season One\]](https://open.spotify.com/album/0xV5LfRixOiXlDYOvny1GI) | 3:18 | 2025-03-16 | 2025-07-26 |
 | [Here](https://open.spotify.com/track/7enQOizrAIlq1Lu9SSmaPi) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit\. \(Deluxe\)](https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG) | 3:51 | 2023-04-20 |  |
 | [Holy \- Live](https://open.spotify.com/track/6cHiq2eEeSV5OdJG3B7OO0) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 5:58 | 2022-10-09 | 2022-10-13 |
 | [Holy Water \- Church Sessions](https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Holy Water \(Church Sessions\)](https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC) | 7:44 | 2022-09-14 |  |

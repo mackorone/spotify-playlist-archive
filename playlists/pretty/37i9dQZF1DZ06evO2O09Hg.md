@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 
 > This is Juice WRLD\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,648,396 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,648,452 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 13 | [Let Me Know \(I Wonder Why Freestyle\)](https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Let Me Know \(I Wonder Why Freestyle\)](https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2) | 3:35 |
 | 14 | [Robbery](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:00 |
 | 15 | [Ransom \(with Juice WRLD\) \- Remix](https://open.spotify.com/track/2WsuSYJNXGKXVYkHPnq2yp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:51 |
-| 16 | [whoa \(mind in awe\) \- Remix](https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [whoa \(mind in awe\) \[Remix\]](https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59) | 3:16 |
-| 17 | [Armed And Dangerous](https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:49 |
+| 16 | [Armed And Dangerous](https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:49 |
+| 17 | [whoa \(mind in awe\) \- Remix](https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [whoa \(mind in awe\) \[Remix\]](https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59) | 3:16 |
 | 18 | [Stay High](https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 2:48 |
 | 19 | [Hate Me](https://open.spotify.com/track/15og0pCEcTFWEXOFKdcJlU) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Brightest Blue](https://open.spotify.com/album/44va7sFuK8IGzrj0BIX8kK) | 3:08 |
 | 20 | [Empty](https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:08 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 43 | [Already Dead](https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:51 |
 | 44 | [GO \(feat\. Juice WRLD\)](https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 3:01 |
 | 45 | [PTSD](https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:52 |
-| 46 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 |
+| 46 | [Fine China](https://open.spotify.com/track/5274I4mUMnYczyeXkGDWZN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Future & Juice WRLD Present..\. WRLD ON DRUGS](https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY) | 2:21 |
 | 47 | [From My Window](https://open.spotify.com/track/4HDQt6Lepj3HpxypbG30Hz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:07 |
-| 48 | [Fine China](https://open.spotify.com/track/5274I4mUMnYczyeXkGDWZN) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Future & Juice WRLD Present..\. WRLD ON DRUGS](https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY) | 2:21 |
+| 48 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 |
 | 49 | [Blastoff \(feat\. Juice WRLD\)](https://open.spotify.com/track/2EL58P9iKGM5L2sO203i5y) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:54 |
 | 50 | [Adore You](https://open.spotify.com/track/38VkGQ4Sumz99xja6TCs7z) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 2:47 |
 
-Snapshot ID: `aIAmAAAAAAAW4BAhIMqhNIE4hHbeDu/C`
+Snapshot ID: `aIF3gAAAAAD2rFC4H/+nUqOkE7ZbcXKq`

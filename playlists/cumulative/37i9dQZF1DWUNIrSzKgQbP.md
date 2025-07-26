@@ -4,7 +4,7 @@
 
 > Sweet songs for sunny days.
 
-781 songs - 2 day 0 hr 58 min
+782 songs - 2 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Hey, Coyote](https://open.spotify.com/track/0A6EA2DzjNqaoRghXFKGzK) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Let A Little Light In](https://open.spotify.com/album/4KF4JcMVA5WbW02qPTIHp6) | 3:35 | 2021-12-20 | 2022-03-22 |
 | [High and Dry](https://open.spotify.com/track/3sNRm2oodzFRdNjSAer1jo) | [Mattias Tell](https://open.spotify.com/artist/4ED8OpMu5pxWULUB3MpWj5) | [High and Dry](https://open.spotify.com/album/13aAHCgpUyaK7OyuckY2HT) | 2:33 | 2025-05-23 |  |
 | [Ho Hey](https://open.spotify.com/track/0DwClY2t9YAWHBROMIgrXb) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/2MTEiVNgRgIvVIrJAqHNBu) | 2:43 | 2024-08-28 | 2024-12-18 |
+| [Hoagy's Place](https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hoagy's Place](https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP) | 3:05 | 2025-07-25 |  |
 | [Hold My Name](https://open.spotify.com/track/4HMzLKeycLwJuJba2IAOeP) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [We Fall In](https://open.spotify.com/album/6RrqOFuUJkq9CyPZn803Yu) | 3:34 | 2023-08-30 | 2024-12-18 |
 | [Hold Your Head Up High](https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Hold Your Head Up High](https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J) | 3:37 | 2022-03-21 | 2022-06-08 |
 | [Holocene](https://open.spotify.com/track/05lBuZWQ2OhQuzoCSIkvUF) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/7pTARJYCVO49nFXB1Mo5re) | 5:36 | 2021-12-20 | 2022-03-22 |

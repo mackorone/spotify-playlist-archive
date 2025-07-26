@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,569 likes - 39 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,620 likes - 39 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 | 5 | [Next Thing You Know](https://open.spotify.com/track/39OclE5hZematADrdfaWvE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:55 |
 | 6 | [Singles You Up](https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:02 |
 | 7 | [Almost Maybes](https://open.spotify.com/track/1BVzLiBS3MWmXzqcxBFJDt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:59 |
-| 8 | [Know You Like That](https://open.spotify.com/track/2zNRgMzYj5VlfxNDZK7RGO) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Know You Like That](https://open.spotify.com/album/4xgNgsr0mwtN1YraSZMGjl) | 2:56 |
+| 8 | [Ain't A Bad Life](https://open.spotify.com/track/0tKsXVJc0aqLQ2NYOIOTPt) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [About A Woman \(& A Good Ol' Boy\)](https://open.spotify.com/album/7vWt3Oe027TmVOxBBVKrIC) | 3:07 |
 | 9 | [Tucson Too Late](https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:52 |
 | 10 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 |
-| 11 | [Jesus Wouldn't Do](https://open.spotify.com/track/4yy06NXG2rBCOvcyMHAYux) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jesus Wouldn't Do](https://open.spotify.com/album/23yzPzQnYJs50BrBeoInz2) | 3:03 |
-| 12 | [Ain't A Bad Life](https://open.spotify.com/track/0tKsXVJc0aqLQ2NYOIOTPt) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [About A Woman \(& A Good Ol' Boy\)](https://open.spotify.com/album/7vWt3Oe027TmVOxBBVKrIC) | 3:07 |
-| 13 | [Learn The Hard Way](https://open.spotify.com/track/3xB2R2tf0T2TXaB4AWoPjT) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/5FjaXd6Hjfzta2vJiPB7ra) | 2:48 |
+| 11 | [Know You Like That](https://open.spotify.com/track/2zNRgMzYj5VlfxNDZK7RGO) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Know You Like That](https://open.spotify.com/album/4xgNgsr0mwtN1YraSZMGjl) | 2:56 |
+| 12 | [Jesus Wouldn't Do](https://open.spotify.com/track/4yy06NXG2rBCOvcyMHAYux) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jesus Wouldn't Do](https://open.spotify.com/album/23yzPzQnYJs50BrBeoInz2) | 3:03 |
+| 13 | [Lose You](https://open.spotify.com/track/6t9p9BwdZMCgXeAlkfA0RP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 3:23 |
 | 14 | [Take It From Me](https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:54 |
-| 15 | [Lose You](https://open.spotify.com/track/6t9p9BwdZMCgXeAlkfA0RP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 3:23 |
+| 15 | [Learn The Hard Way](https://open.spotify.com/track/3xB2R2tf0T2TXaB4AWoPjT) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/5FjaXd6Hjfzta2vJiPB7ra) | 2:48 |
 | 16 | [A Little Lime](https://open.spotify.com/track/3vfBA0Q342toaXalxwPvOo) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 2:39 |
 | 17 | [In Case You Missed It](https://open.spotify.com/track/38CBst5T62W2HvGfCIG0YZ) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [In Case You Missed It](https://open.spotify.com/album/2c0ukSFnvvlpxZGsSEaln1) | 2:45 |
 | 18 | [Banks](https://open.spotify.com/track/3ye6QIIvOq5doDr0HRgWUC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Among Friends](https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT) | 3:41 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 | 38 | [Trouble Town](https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Trouble Town](https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF) | 3:04 |
 | 39 | [The Ride \(feat\. Jordan Davis\)](https://open.spotify.com/track/1WeXDyy9jM3bX5ZdN0IvFV) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 3:27 |
 
-Snapshot ID: `aIAmAAAAAACfL0p+ro6VunNzuIOct0EK`
+Snapshot ID: `aIF3gAAAAADaWi3W10HwtJ60wRcpGThm`

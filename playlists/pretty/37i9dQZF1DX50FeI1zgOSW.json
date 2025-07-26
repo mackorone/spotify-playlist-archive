@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Keethan",
-  "num_followers": 15452,
+  "num_followers": 15454,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIIyHwAAAAACGMSNdSaiijDtZeh8m2Jf",
+  "snapshot_id": "aIM0jgAAAADnheduRuMKF9Ud33lbmO4c",
   "tracks": [
     {
       "added_at": "2025-06-30 11:07:31",
@@ -91,6 +91,26 @@
       "duration_ms": 173172,
       "name": "Naattu Nadappu",
       "url": "https://open.spotify.com/track/7tv63NI1EXDBE2ZWc9jwNO"
+    },
+    {
+      "added_at": "2025-07-25 06:54:20",
+      "album": {
+        "name": "Synth katcheri",
+        "url": "https://open.spotify.com/album/3lxDGemO8bMYWYnrgirTU0"
+      },
+      "artists": [
+        {
+          "name": "Sooriya soe",
+          "url": "https://open.spotify.com/artist/1hiwCXRLlIP0qJiTlCv50l"
+        },
+        {
+          "name": "Nancy Jestilla",
+          "url": "https://open.spotify.com/artist/4AngghzFgYDO1L5wYGwSDv"
+        }
+      ],
+      "duration_ms": 194379,
+      "name": "Synth katcheri",
+      "url": "https://open.spotify.com/track/0V1UThUx2qSNtsXmaI3Nps"
     },
     {
       "added_at": "2025-07-24 13:16:15",
@@ -995,42 +1015,6 @@
       "duration_ms": 188000,
       "name": "MAPPU",
       "url": "https://open.spotify.com/track/6WCNGFUbzx8oSNSZZBSU0S"
-    },
-    {
-      "added_at": "2025-05-02 04:59:05",
-      "album": {
-        "name": "Meendum Meendum Ketka Thondrum ll",
-        "url": "https://open.spotify.com/album/6ONMNND7qPgMY9r0wBx8Ch"
-      },
-      "artists": [
-        {
-          "name": "Thor Nishanlee",
-          "url": "https://open.spotify.com/artist/6ziC9k1ZB81rXU9EbDRJLi"
-        },
-        {
-          "name": "Priyanka NK",
-          "url": "https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "Meendum Meendum Ketka Thondrum ll",
-      "url": "https://open.spotify.com/track/4j8ljxGUPz2CYJAbfoTvPu"
-    },
-    {
-      "added_at": "2025-05-16 03:34:51",
-      "album": {
-        "name": "Uyire",
-        "url": "https://open.spotify.com/album/0GtxzQS97xos4PGzlLVzG9"
-      },
-      "artists": [
-        {
-          "name": "Suginthan Janathan",
-          "url": "https://open.spotify.com/artist/2Y7jk1nAWikvbDncgAEQsq"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Uyire",
-      "url": "https://open.spotify.com/track/4NECvEaHKVULjEqLXU8dgQ"
     }
   ],
   "unique_name": "RADAR Tamil",

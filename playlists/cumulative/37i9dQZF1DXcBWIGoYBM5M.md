@@ -2,9 +2,9 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: Justin Bieber
+> The hottest 50\. Cover: Tyler, The Creator
 
-1,269 songs - 2 day 19 hr 59 min
+1,270 songs - 2 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1211,7 +1211,7 @@
 | [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Wellerman \(Sea Shanty / 220 KID x Billen Ted Remix\)](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 | 2021-02-19 | 2021-04-10 |
 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2020-01-17 | 2020-03-27 |
 | [What Am I](https://open.spotify.com/track/1HimGOB6BjOaCQYMIF1xtU) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [What Am I](https://open.spotify.com/album/6IEEEv0mmFYPjhATWKYZRE) | 3:04 | 2019-10-04 | 2019-11-15 |
-| [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 | 2025-07-11 |  |
+| [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 | 2025-07-11 | 2025-07-26 |
 | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh) | 3:40 | 2019-05-26\* | 2019-06-15 |
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 | 2025-05-16 |  |
 | [What If I Told You That I Love You](https://open.spotify.com/track/3cqPu20DGTGUoZtbJH2Dmi) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/5pxH5JnBRw3Dc7CCxESMWM) | 3:13 | 2020-01-26 | 2020-05-08 |
@@ -1231,6 +1231,7 @@
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-09-11 | 2022-09-17 |
 | [Where Did You Go?](https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go?](https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA) | 2:57 | 2022-05-13 | 2022-07-16 |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-20 | 2023-09-26 |
+| [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 | 2025-07-25 |  |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-19 | 2025-01-25 |
 | [Who Needs Love](https://open.spotify.com/track/0X1VSToxgqA7HgjaaSmIKO) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Who Needs Love](https://open.spotify.com/album/6ayA69JRJzCvDGeZir7Ysr) | 2:38 | 2019-11-27 | 2019-12-20 |
 | [Whoopty](https://open.spotify.com/track/1RSzyxqtIO4yX3EyiV4zT5) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Whoopty](https://open.spotify.com/album/3ammnTkzxZhKONeV75MJ8A) | 2:03 | 2020-11-20 | 2021-04-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 
 > 90년대 모두의 마음을 사로 잡았던 추억의 록 발라드를 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,045 likes - 75 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,074 likes - 75 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: kinji00, lb66
 
-828 songs - 1 day 18 hr 1 min
+829 songs - 1 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,7 +478,7 @@
 | [Marathon](https://open.spotify.com/track/2hM2oSiYb7d0xlZqYFtA8R) | [Jam](https://open.spotify.com/artist/4m4tKG9uHphPln2GikPfYN) | [Bettta](https://open.spotify.com/album/5Uh9kzQjSmeA2kUt94usNK) | 3:02 | 2023-11-03 | 2023-11-13 |
 | [Marrakech](https://open.spotify.com/track/3Imu0WHSlEWiv4fZngTD2l) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9) | [Marrakech](https://open.spotify.com/album/7b4wIbfPAoDOXsBLYEzki2) | 3:31 | 2022-01-21 | 2022-04-29 |
 | [Matusalem](https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:42 | 2022-06-10 | 2023-11-13 |
-| [MAUVAIS](https://open.spotify.com/track/1gjVIjkmSNosvlTCBbzZOY) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [MAUVAIS](https://open.spotify.com/album/6RFOqZ6irOKhWOeKdnMLyl) | 3:25 | 2025-06-06 |  |
+| [MAUVAIS](https://open.spotify.com/track/1gjVIjkmSNosvlTCBbzZOY) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [MAUVAIS](https://open.spotify.com/album/6RFOqZ6irOKhWOeKdnMLyl) | 3:25 | 2025-06-06 | 2025-07-26 |
 | [Mauvais Ressentiment](https://open.spotify.com/track/7Gqxw0JjHdPW6crGmFMIlA) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [Mauvais Ressentiment](https://open.spotify.com/album/2i2QBPdBMAGlBuvCdzfp5e) | 2:57 | 2023-08-18 | 2024-04-27 |
 | [Mauvais rêve](https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mauvais rêve](https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv) | 2:50 | 2023-09-29 | 2024-03-16 |
 | [Mauvais rêve](https://open.spotify.com/track/6u2UQSSpp6fO3LubYW3ef6) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:50 | 2024-04-19 | 2025-03-01 |
@@ -658,6 +658,7 @@
 | [RETOUR AU LOBBY](https://open.spotify.com/track/6wphE7f85VGxehdQcbA7RX) | [Shotto Guapo](https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC), [JoDolo](https://open.spotify.com/artist/67QptzHOolted3fphXuAQi), [Young Dreadz](https://open.spotify.com/artist/5quv0obEMCLFKtkgfmax74) | [RETOUR AU LOBBY](https://open.spotify.com/album/3AP8iAmtqTj9fCeBMwTRaV) | 3:16 | 2024-03-29 | 2025-03-29 |
 | [Retour de flamme](https://open.spotify.com/track/2FBGeh8LBjI1YVbUSF1WKk) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Retour de flamme](https://open.spotify.com/album/1aw0j3ZQb1R4tx2WS7zCGA) | 2:40 | 2023-07-07 | 2023-08-26 |
 | [REUSTA](https://open.spotify.com/track/2sEbTjUFs8UhXY0FyWwGKp) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [REUSTA](https://open.spotify.com/album/6RXv5dRkfhCUMjamwZFlZQ) | 2:58 | 2023-11-12 | 2024-03-09 |
+| [Richard Mille](https://open.spotify.com/track/7k0FkT8koNC2xXUu38HwZF) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Richard Mille](https://open.spotify.com/album/5lVnGjulnzUm7zpeHhq8Qv) | 2:45 | 2025-07-25 |  |
 | [Ride Or Die \- Reprise](https://open.spotify.com/track/7iYygd04ltJSykEUFrU9HL) | [SHAH FRANK](https://open.spotify.com/artist/4NetfCwJqpbsV7dSihbDD5), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Ride Or Die \(Reprise\)](https://open.spotify.com/album/5qlhltp3zO7yhzdEFO1Rh0) | 3:03 | 2022-02-25 | 2022-06-25 |
 | [Rien de Gratuit](https://open.spotify.com/track/15ADBflaWuW4SjL6iDhIdS) | [Mango Flow](https://open.spotify.com/artist/31GJoOOSo8GvnOqT5Wyn9w), [Möre Beats](https://open.spotify.com/artist/5DVyNUkITuc6f16kpEivmg), [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg) | [Rien de Gratuit](https://open.spotify.com/album/5cxFUUtscaXNxkugoZGycO) | 3:34 | 2022-01-28 | 2022-02-19 |
 | [Rien de moins](https://open.spotify.com/track/2qO3vIBPP5OBsOm67dG9W0) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 2:54 | 2022-05-20 | 2022-06-18 |

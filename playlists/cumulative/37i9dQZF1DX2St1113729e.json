@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "call me now",
+        "url": "https://open.spotify.com/album/1XKRwo2WHCKxDiGnfhuGQH"
+      },
+      "artists": [
+        {
+          "name": "fuchi",
+          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110020,
+      "name": "call me now",
+      "url": "https://open.spotify.com/track/6eAEQupC5dVnvOE84Z8mfH"
+    },
+    {
+      "album": {
         "name": "calor",
         "url": "https://open.spotify.com/album/4PuypUW1r4TapAjLftMuUd"
       },

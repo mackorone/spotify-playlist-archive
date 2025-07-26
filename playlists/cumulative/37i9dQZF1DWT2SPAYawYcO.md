@@ -4,7 +4,7 @@
 
 > Brand new music from Tame Impala, Tyler, The Creator, Lithe, Don Toliver, sombr, Folk Bitch Trio + more
 
-9,593 songs - 21 day 16 hr 41 min
+9,595 songs - 21 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7877,6 +7877,7 @@
 | [Sugar Daddy's Lament](https://open.spotify.com/track/6k8RnRl6NQw4om4st5k85t) | [Salmon Brothers](https://open.spotify.com/artist/6zeqwDJhQASIUrDhmBWVN0) | [More To Love](https://open.spotify.com/album/4VCrGBQdAFg8Hn96OFmoML) | 4:13 | 2024-08-15 | 2024-08-23 |
 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 | 2024-12-12 | 2024-12-20 |
 | [Sugar Like That](https://open.spotify.com/track/2GZga87kUDmNkFtOq49sEr) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Sugar Like That](https://open.spotify.com/album/6NOHZlMBXG95ldNB72ORJx) | 3:13 | 2023-11-09 | 2023-11-17 |
+| [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 | 2025-07-25 |  |
 | [Sugar, baby](https://open.spotify.com/track/2nYeH89Z9pwZ7JWvCqGqY5) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [autonomy](https://open.spotify.com/album/3zLlgUFz1YkI392D4pW3aE) | 2:36 | 2025-07-03 | 2025-07-11 |
 | [Sugarcat](https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Sugarcat](https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP) | 2:54 | 2025-03-27 | 2025-04-04 |
 | [Suit Of Blue](https://open.spotify.com/track/76g5SD45yHjayKyX5yr13L) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [You'll Never Know Me Sober](https://open.spotify.com/album/1U8qsvZObGgMMWCKSX3Ch4) | 3:06 | 2023-09-07 | 2023-09-15 |
@@ -9252,6 +9253,7 @@
 | [Wherever You Are](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Wherever You Are](https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK) | 3:27 | 2024-06-06 | 2024-06-14 |
 | [Wherever You Are](https://open.spotify.com/track/3BCFoto6dd5e5001q5YhqJ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Wherever You Are](https://open.spotify.com/album/1HgEAeacUjkt2NlLgOiSm9) | 4:10 | 2025-06-12 | 2025-06-20 |
 | [where’s my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where’s my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 | 2023-11-16 | 2023-11-24 |
+| [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/1LVRE2ZRLNGdjCFmOa9kJa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/1e9jeC1QsETxbuVLJh9Iad) | 2:49 | 2025-07-25 |  |
 | [Whip It Up](https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Whip It Up](https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw) | 2:10 | 2023-10-26 | 2023-11-03 |
 | [Whiplash](https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU) | 3:03 | 2024-10-24 | 2024-11-01 |
 | [Whiplash](https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Whiplash](https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3) | 3:46 | 2024-11-21 | 2024-11-29 |

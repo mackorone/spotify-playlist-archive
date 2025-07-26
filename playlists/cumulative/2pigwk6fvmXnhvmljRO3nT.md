@@ -4,7 +4,7 @@
 
 > 
 
-7,480 songs - 19 day 10 hr 2 min
+7,483 songs - 19 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1670,6 +1670,7 @@
 | [Embrace The Martian](https://open.spotify.com/track/0ZRYBBiutc28k4GLEIa6sD) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [A Kid Named Cudi](https://open.spotify.com/album/2blXZboio9DF8VC39LmUag) | 3:35 | 2025-01-03 |  |
 | [Emotionally Scarred](https://open.spotify.com/track/7ge7BHazYbVKi8qyZUX1Bm) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:17 | 2025-01-03 |  |
 | [Emotionless](https://open.spotify.com/track/5Psnhdkyanjpgc2P8A5TSM) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 5:02 | 2025-02-07 |  |
+| [Empanadas](https://open.spotify.com/track/60VOmWCHNsIIRZQ7zVezYB) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:08 | 2025-07-25 |  |
 | [Empire Ants \(feat\. Little Dragon\)](https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 4:43 | 2025-02-03 |  |
 | [Empire State Of Mind](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:36 | 2025-01-03 |  |
 | [Encore](https://open.spotify.com/track/1GzNGrxi4NIOKu0Z4npUss) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:10 | 2025-01-03 |  |
@@ -1691,6 +1692,7 @@
 | [Englishman In New York](https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 4:27 | 2025-01-15 |  |
 | [Enjoy the Silence](https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Phil Legg](https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ) | [Violator \| The 12" Singles](https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT) | 4:17 | 2025-01-03 |  |
 | [Enjoy Yourself \(feat\. Karol G\)](https://open.spotify.com/track/3NWrHCwvyII4fTx05PN3IO) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:17 | 2025-01-15 |  |
+| [Ensalada \(feat\. Anderson .Paak\)](https://open.spotify.com/track/06ZX08uRQDK02emdw9mN28) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:46 | 2025-07-25 |  |
 | [Enter Galactic \(Love Connection Part I\)](https://open.spotify.com/track/0ujsBQIHVikzdQOekiu5gS) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon: The End Of Day \(Deluxe\)](https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3) | 4:20 | 2025-01-03 |  |
 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 | 2025-01-04 |  |
 | [Enterlude](https://open.spotify.com/track/4pTvgNra8siMoIT8u3epTr) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 0:49 | 2025-01-03 |  |
@@ -2178,6 +2180,7 @@
 | [Go With the Flow](https://open.spotify.com/track/3pUcJxFI2wjhqmNGNIvunD) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 3:36 | 2025-01-04 |  |
 | [GO!](https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:44 | 2024-12-14 |  |
 | [God Help Me](https://open.spotify.com/track/2WENGOCeE22o5G9tfvAw8K) | [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [Gods Father](https://open.spotify.com/album/2pWiCJOBqxq4jtmuvdQG4J) | 4:23 | 2025-01-03 |  |
+| [God Is](https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:23 | 2025-07-25 |  |
 | [God Is Fair, Sexy Nasty \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6hzbRKhJHo6cfCHSnNaDS8) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:20 | 2025-01-04 |  |
 | [God Is Perfect](https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo](https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N) | 3:59 | 2025-01-03 |  |
 | [God knows...](https://open.spotify.com/track/71ccYxWvQJ66ebPUZScJzn) | [涼宮ハルヒ \(CV.平野 綾\)](https://open.spotify.com/artist/4eWMhmDkvSkgeHo0D2RT31) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 4:38 | 2025-06-11 |  |

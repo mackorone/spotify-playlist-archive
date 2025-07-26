@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Dept
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: YEW
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,779 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,775 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [อุบัติเหตุ](https://open.spotify.com/track/73CrYgDl37fnFNXp9IJmyX) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [อุบัติเหตุ](https://open.spotify.com/album/4KLqKuzE6d3mKq9I7ZJH2i) | 4:00 |
-| 2 | [ฉันจะไปหาเธอ \(Head in the Clouds\)](https://open.spotify.com/track/4QwGxSTyjtkZlzZmTqJH5U) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [ฉันจะไปหาเธอ \(Head in the Clouds\)](https://open.spotify.com/album/0tMYTIQIbNZrdC5BMQ4fbJ) | 4:45 |
-| 3 | [เหมือนโลกจะพัง \(Just Realized\)](https://open.spotify.com/track/6nGCZQxuPyeLLMZLt9oIr0) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [เหมือนโลกจะพัง \(Just Realized\)](https://open.spotify.com/album/4WuZYQx6xvRxwvhlNqroZl) | 4:03 |
-| 4 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
-| 5 | [ไม่เหมาะกับความรัก](https://open.spotify.com/track/4IfjuDIWgjVS0jqJhaZIHj) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F), [Poom CORNBOI](https://open.spotify.com/artist/1AeB0FZ4btE562QhDFstGw) | [ไม่เหมาะกับความรัก](https://open.spotify.com/album/2vZRlWfVKlurE2JTBoYGRW) | 5:09 |
-| 6 | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/album/4iwWf24XP5mfvnhsnSjxsI) | 5:23 |
-| 7 | [จะร้องเพลงนี้ให้ใครฟัง](https://open.spotify.com/track/5SwraSnI0F2BW8XtdE5bKQ) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [จะร้องเพลงนี้ให้ใครฟัง](https://open.spotify.com/album/3S6B35zp1iUJbaaGgCl52f) | 3:53 |
-| 8 | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/track/0lQPdxfV1So2QbRrOLz0ft) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/album/6kn51Xi2Pj3KlyikjPn4A2) | 3:51 |
-| 9 | [ไม่บอกก็รู้](https://open.spotify.com/track/5ie8e9PnYpJQtpW2JdgYVj) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ไม่บอกก็รู้](https://open.spotify.com/album/0LyTvjcxBAkZ4U3Sm9EwIX) | 4:27 |
-| 10 | [เรื่องสั้น 132 คำ](https://open.spotify.com/track/5OrTG5EgXSpLU4BszezWWA) | [Greasy Cafe'](https://open.spotify.com/artist/5VR2NQf3Y8Hmh8iHS6bXYx) | [เรื่องสั้น 132 คำ](https://open.spotify.com/album/2uKrgqQ4eL86ZaACEutyyu) | 3:58 |
-| 11 | [ใครสักคน \( SOMEBODY's ME \)](https://open.spotify.com/track/6hhiComLULoPZkEnFPI6Tf) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [MAI ME](https://open.spotify.com/album/44K6O0hh0sy64tJsVX9AN3) | 3:58 |
-| 12 | [นี่ฉันเองคนที่...](https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [นี่ฉันเองคนที่...](https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK) | 4:16 |
-| 13 | [ครั้งสุดท้ายที่เจอ \(always\)](https://open.spotify.com/track/3uM1GjMnHoddJlAjzxYen6) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [ครั้งสุดท้ายที่เจอ \(always\)](https://open.spotify.com/album/797ImuNxI4iaXgtxjErEr1) | 3:46 |
-| 14 | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/track/70pOmngGTSMHPjgIqVRFsI) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/album/6USjhvo2kxlFA9cyEBgw6m) | 4:44 |
-| 15 | [ฝังร่างข้างๆกัน](https://open.spotify.com/track/2ozaRIqgJ3P0F0IDUeCGx2) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฝังร่างข้างๆกัน](https://open.spotify.com/album/7dx5MW8O3RAfPNMln79BYd) | 5:13 |
-| 16 | [ขอโทษที่](https://open.spotify.com/track/2QYSZIbv7zNnqoJtP4maig) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ขอโทษที่](https://open.spotify.com/album/0txy8irs9JN1y1UcQNnC1w) | 4:12 |
-| 17 | [ไม่ซับซ้อน](https://open.spotify.com/track/3rjuUVvemlYisi4ehnwNai) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen), [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [ไม่ซับซ้อน](https://open.spotify.com/album/5Gh9kDE3MM4FjGgnpNRkDy) | 3:45 |
+| 1 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
+| 2 | [ไม่เหมาะกับความรัก](https://open.spotify.com/track/4IfjuDIWgjVS0jqJhaZIHj) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F), [Poom CORNBOI](https://open.spotify.com/artist/1AeB0FZ4btE562QhDFstGw) | [ไม่เหมาะกับความรัก](https://open.spotify.com/album/2vZRlWfVKlurE2JTBoYGRW) | 5:09 |
+| 3 | [บทกวีสีฟ้า \(Bluebird\)](https://open.spotify.com/track/3l8N4HXUN9O0s6hLWYTrRm) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [บทกวีสีฟ้า \(Bluebird\)](https://open.spotify.com/album/4RYKPODUPCpvBFFnbIhCD6) | 3:37 |
+| 4 | [อุบัติเหตุ](https://open.spotify.com/track/73CrYgDl37fnFNXp9IJmyX) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [อุบัติเหตุ](https://open.spotify.com/album/4KLqKuzE6d3mKq9I7ZJH2i) | 4:00 |
+| 5 | [ฉันจะไปหาเธอ \(Head in the Clouds\)](https://open.spotify.com/track/4QwGxSTyjtkZlzZmTqJH5U) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [ฉันจะไปหาเธอ \(Head in the Clouds\)](https://open.spotify.com/album/0tMYTIQIbNZrdC5BMQ4fbJ) | 4:45 |
+| 6 | [เหมือนโลกจะพัง \(Just Realized\)](https://open.spotify.com/track/6nGCZQxuPyeLLMZLt9oIr0) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [เหมือนโลกจะพัง \(Just Realized\)](https://open.spotify.com/album/4WuZYQx6xvRxwvhlNqroZl) | 4:03 |
+| 7 | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/album/4iwWf24XP5mfvnhsnSjxsI) | 5:23 |
+| 8 | [จะร้องเพลงนี้ให้ใครฟัง](https://open.spotify.com/track/5SwraSnI0F2BW8XtdE5bKQ) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [จะร้องเพลงนี้ให้ใครฟัง](https://open.spotify.com/album/3S6B35zp1iUJbaaGgCl52f) | 3:53 |
+| 9 | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/track/0lQPdxfV1So2QbRrOLz0ft) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/album/6kn51Xi2Pj3KlyikjPn4A2) | 3:51 |
+| 10 | [ไม่บอกก็รู้](https://open.spotify.com/track/5ie8e9PnYpJQtpW2JdgYVj) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ไม่บอกก็รู้](https://open.spotify.com/album/0LyTvjcxBAkZ4U3Sm9EwIX) | 4:27 |
+| 11 | [เรื่องสั้น 132 คำ](https://open.spotify.com/track/5OrTG5EgXSpLU4BszezWWA) | [Greasy Cafe'](https://open.spotify.com/artist/5VR2NQf3Y8Hmh8iHS6bXYx) | [เรื่องสั้น 132 คำ](https://open.spotify.com/album/2uKrgqQ4eL86ZaACEutyyu) | 3:58 |
+| 12 | [ใครสักคน \( SOMEBODY's ME \)](https://open.spotify.com/track/6hhiComLULoPZkEnFPI6Tf) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [MAI ME](https://open.spotify.com/album/44K6O0hh0sy64tJsVX9AN3) | 3:58 |
+| 13 | [นี่ฉันเองคนที่...](https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [นี่ฉันเองคนที่...](https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK) | 4:16 |
+| 14 | [ครั้งสุดท้ายที่เจอ \(always\)](https://open.spotify.com/track/3uM1GjMnHoddJlAjzxYen6) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [ครั้งสุดท้ายที่เจอ \(always\)](https://open.spotify.com/album/797ImuNxI4iaXgtxjErEr1) | 3:46 |
+| 15 | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/track/70pOmngGTSMHPjgIqVRFsI) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/album/6USjhvo2kxlFA9cyEBgw6m) | 4:44 |
+| 16 | [ฝังร่างข้างๆกัน](https://open.spotify.com/track/2ozaRIqgJ3P0F0IDUeCGx2) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฝังร่างข้างๆกัน](https://open.spotify.com/album/7dx5MW8O3RAfPNMln79BYd) | 5:13 |
+| 17 | [ขอโทษที่](https://open.spotify.com/track/2QYSZIbv7zNnqoJtP4maig) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ขอโทษที่](https://open.spotify.com/album/0txy8irs9JN1y1UcQNnC1w) | 4:12 |
 | 18 | [มอง=กอด](https://open.spotify.com/track/7yKGkOde6ogB4MjpNVDajp) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [มอง=กอด](https://open.spotify.com/album/5S868uu0jbeLlwQinp6Ecs) | 4:01 |
 | 19 | [คงต้องบอก \(Limerence\)](https://open.spotify.com/track/3a0uZhavweSCeVfkFhSD6J) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [คงต้องบอก \(Limerence\)](https://open.spotify.com/album/0icb6F6O6WZEF0ABzde9SY) | 4:12 |
 | 20 | [ลมร้อน \(Blow Away\)](https://open.spotify.com/track/0gMdJ0kK9vnG1ZL6AYe8SF) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [ลมร้อน \(Blow Away\)](https://open.spotify.com/album/23KgslqlvgoquZW8f7MNfc) | 5:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 49 | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/track/3cvnQ06TvhaROQrObb4Cai) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/album/5xjy0OQeE3AhKyov5snKIM) | 4:39 |
 | 50 | [ดาวเคราะห์](https://open.spotify.com/track/6Sk7GuEpr3NYxVsMmRYHZM) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ดาวเคราะห์](https://open.spotify.com/album/1kLrFPixDXY499py8uQryD) | 4:00 |
 
-Snapshot ID: `aHn3UwAAAABNtDNQtp6oiNbiX37l6VjJ`
+Snapshot ID: `aINj/gAAAAAOkKlBm7t4wHTTgNDaibsg`

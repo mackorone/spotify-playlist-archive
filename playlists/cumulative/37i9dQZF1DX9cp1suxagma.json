@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Natalia Natalia",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Valentina Rico",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -508,7 +508,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 220720,
       "name": "Bailar Contigo",
       "url": "https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 237080,
       "name": "Invencible",
       "url": "https://open.spotify.com/track/7JnFZ24rWPKVxFZd1xw6dm"
@@ -2315,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "Llamada",
+        "url": "https://open.spotify.com/album/73sOoQbDORrAbgNjtU6h4F"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lizarazo",
+          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145373,
+      "name": "Llamada",
+      "url": "https://open.spotify.com/track/4hPaJPc5kH10oVGkEMFmX4"
+    },
+    {
+      "album": {
         "name": "Llamada Perdida",
         "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
       },
@@ -2468,6 +2486,24 @@
       "duration_ms": 214000,
       "name": "Los Domingos",
       "url": "https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu"
+    },
+    {
+      "album": {
+        "name": "Lun\u00e1tica",
+        "url": "https://open.spotify.com/album/6ZTH865EudN0PxlcjXCNAm"
+      },
+      "artists": [
+        {
+          "name": "Jules",
+          "url": "https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190195,
+      "name": "Lun\u00e1tica",
+      "url": "https://open.spotify.com/track/5Oo8vxfhgLZglkEWps4KMl"
     },
     {
       "album": {
@@ -2892,6 +2928,24 @@
       "duration_ms": 235026,
       "name": "Milagros",
       "url": "https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V"
+    },
+    {
+      "album": {
+        "name": "Florida Sunset",
+        "url": "https://open.spotify.com/album/14CyDZl2awxUUatkW5u1ii"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189936,
+      "name": "Montego Bay",
+      "url": "https://open.spotify.com/track/6E6HfkDjVPWz0WennU8YME"
     },
     {
       "album": {
@@ -4442,7 +4496,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 219157,
       "name": "Te doy las gracias",
       "url": "https://open.spotify.com/track/60ftxYw9vpJsw2texcOguV"

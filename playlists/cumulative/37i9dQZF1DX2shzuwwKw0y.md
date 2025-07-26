@@ -2,9 +2,9 @@
 
 ### [Corridos Perrones](https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y)
 
-> Del rancho a la ciudad, las historias que pocos se atreven a contar\. LOS DOS DE TAMAULIPAS en portada.
+> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Edgardo Nuñez y Luis R Conriquez en portada.
 
-531 songs - 1 day 2 hr 53 min
+532 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Continental](https://open.spotify.com/track/1QtiYtQqGXBl6yypWy58C9) | [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [Continental](https://open.spotify.com/album/6a4AJUo04LBnm2XkZZ5PQt) | 3:09 | 2024-04-12 | 2024-05-11 |
 | [Corleone](https://open.spotify.com/track/7m4eDXrp2QXWFc9kxb6Xdo) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:47 | 2023-08-04 | 2023-12-23 |
 | [Corrido De Juanito](https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 4:21 | 2022-02-21 | 2023-04-15 |
-| [Corrido de Juanito](https://open.spotify.com/track/1TigPsAPsNicZJ0gZN0HHZ) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Corrido de Juanito](https://open.spotify.com/album/5AMofuYya5fCXnRgobZDRp) | 4:50 | 2025-07-11 |  |
+| [Corrido de Juanito](https://open.spotify.com/track/1TigPsAPsNicZJ0gZN0HHZ) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Corrido de Juanito](https://open.spotify.com/album/5AMofuYya5fCXnRgobZDRp) | 4:50 | 2025-07-11 | 2025-07-26 |
 | [Corrientes No](https://open.spotify.com/track/4HDWUDp6LGnreA7tph3uq3) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Corrientes No](https://open.spotify.com/album/3OHVAhmgTucHLSXmwhYtRk) | 4:31 | 2025-07-18 |  |
 | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1) | 3:12 | 2023-02-17 | 2023-04-15 |
 | [Creció La Cuenta](https://open.spotify.com/track/5Fg4huU4W2ByloZXYfaJD4) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Creció La Cuenta](https://open.spotify.com/album/2KK6p9x9C1XbwDrQQXdSZh) | 3:33 | 2023-04-07 | 2023-06-10 |
@@ -478,6 +478,7 @@
 | [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 | 2024-05-24 | 2024-08-31 |
 | [Skin de Bandida](https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Skin de Bandida](https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw) | 2:56 | 2023-11-03 | 2024-11-16 |
 | [Smith \(with Junior H & Fuerza Regida\)](https://open.spotify.com/track/7B97c1nFupBOAm2VkehisZ) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Smith \(with Junior H & Fuerza Regida\)](https://open.spotify.com/album/5aEITSyO4myoBATpXIEdmi) | 3:28 | 2024-11-08 |  |
+| [Son 4 Rifando](https://open.spotify.com/track/6k16Wgr53yjWjOvigK2eP2) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Son 4 Rifando](https://open.spotify.com/album/0lfEm5fZhzsktOWiFwfuZh) | 2:19 | 2025-07-25 |  |
 | [Sorry Pa’ Los Gabachos](https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:18 | 2023-12-01 | 2024-01-13 |
 | [Soy Buen Amigo](https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soy Buen Amigo](https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v) | 2:33 | 2022-02-21 | 2023-05-27 |
 | [Soy El Ratón](https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Soy El Ratón](https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz) | 3:42 | 2022-02-21 | 2023-07-01 |

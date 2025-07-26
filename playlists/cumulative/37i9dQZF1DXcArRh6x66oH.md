@@ -4,7 +4,7 @@
 
 > roots run deep
 
-396 songs - 23 hr 41 min
+401 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Aint Gotta Dollar](https://open.spotify.com/track/2USW8uFqLToqFKSVXDOEN8) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Aint Gotta Dollar](https://open.spotify.com/album/6e9ii4qzptMYO7BdbybG2p) | 2:04 | 2023-08-14 | 2023-12-09 |
 | [Albuquerque](https://open.spotify.com/track/3gkLQWgABigJvtmdA2hJfj) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Albuquerque](https://open.spotify.com/album/5x86pNR8YiqkNXhwkeusNb) | 3:09 | 2023-04-28 | 2023-08-21 |
 | [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 | 2023-08-04 |  |
+| [All Around Cowboy](https://open.spotify.com/track/4bgXtfU50hzMoPlA6kBl2S) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [All Around Cowboy](https://open.spotify.com/album/6MI2xRnfVU5AtzafAtF928) | 2:57 | 2025-07-25 |  |
 | [All My Love](https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:11 | 2023-05-22 |  |
 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 | 2023-02-24 |  |
 | [Allergy Season](https://open.spotify.com/track/7iABcQjrZuN8bZaQyYLJcf) | [Levi Turner](https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6) | [Allergy Season](https://open.spotify.com/album/4Mz9ZrzR4jm3wwsbIXArvp) | 3:33 | 2023-06-23 | 2023-12-09 |
@@ -75,6 +76,7 @@
 | [Cowpoke](https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t) | 3:12 | 2023-08-25 | 2024-04-19 |
 | [Cowpoke](https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI) | 3:12 | 2023-02-24 | 2024-05-25 |
 | [Cry Of The Wolves](https://open.spotify.com/track/3MYbVlYRwYfm57adWtfhSY) | [Chad Jenks](https://open.spotify.com/artist/1m2b2N60MX3fGo9mJ3nKf4) | [Cry Of The Wolves](https://open.spotify.com/album/4PJirZt51JJa71EpOHe0bt) | 3:54 | 2024-01-31 |  |
+| [Damn Good Taste in Whiskey](https://open.spotify.com/track/0faTtq6Ns4srJ1m1yb0EaN) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Damn Good Taste in Whiskey](https://open.spotify.com/album/7tWxnF5wnDCMjJksACHgIz) | 2:55 | 2025-07-25 |  |
 | [Damn Near Normal](https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Damn Near Normal](https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7) | 3:44 | 2024-03-29 |  |
 | [Dancing in the Sky](https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Dancing in the Sky](https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9) | 3:06 | 2023-06-02 | 2024-08-29 |
 | [Dancing in the Sky](https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:06 | 2023-10-14 | 2024-04-19 |
@@ -102,6 +104,7 @@
 | [Dusty Bibles](https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Dusty Bibles](https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO) | 3:10 | 2025-07-04 |  |
 | [Eastern Kentucky](https://open.spotify.com/track/3KHv9f9K6pZRSv61z4SaRu) | [Davisson Brothers Band](https://open.spotify.com/artist/6RpyMVMX7C09kLgABdwJ1d) | [Eastern Kentucky](https://open.spotify.com/album/4fbqrkjymL0LAtCAFxq7Wd) | 3:34 | 2023-03-24 | 2023-05-02 |
 | [Eastern Kentucky](https://open.spotify.com/track/6IT6bUPDd0wbTrGTDs4Xke) | [Davisson Brothers Band](https://open.spotify.com/artist/6RpyMVMX7C09kLgABdwJ1d) | [Home Is Where The Heart Is](https://open.spotify.com/album/5I5o18dU689s743rNR356A) | 3:34 | 2023-04-28 | 2023-07-28 |
+| [Eatin' Big Time](https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 4:45 | 2025-07-25 |  |
 | [Eveline](https://open.spotify.com/track/6wgCah9IU4VP9zqqMSVxk7) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [farmland](https://open.spotify.com/album/7HD3bbzKRfWsKX5KvaQTe4) | 3:50 | 2023-02-24 | 2024-08-29 |
 | [Even Jesus Got The Blues](https://open.spotify.com/track/3O6pwu8y1SGJudoAiLouGy) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Even Jesus Got The Blues](https://open.spotify.com/album/54V2QD9hvipUq4629FNm36) | 3:31 | 2023-04-14 | 2023-07-01 |
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2023-03-27 |  |
@@ -165,6 +168,7 @@
 | [Honky Tonk Hell](https://open.spotify.com/track/6zBCsjkZd6SLDX32I8ZzrF) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Honky Tonk Hell](https://open.spotify.com/album/7A07KizyQlXTvwFY0Nj0XF) | 3:53 | 2023-02-24 | 2023-04-15 |
 | [Horses](https://open.spotify.com/track/3Wrbf7Ecb7wDL5nS7L9HL0) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Horses](https://open.spotify.com/album/1Eh2GN0KEBgCrMCDaTcAfQ) | 3:38 | 2023-03-24 | 2023-05-13 |
 | [Horses Are Faster](https://open.spotify.com/track/3Jtn0oLAGr0KFA5J8CaT4C) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Ian Munsick \- EP](https://open.spotify.com/album/4SlHhLorpkGrQWiXLxhlLB) | 4:07 | 2023-02-24 | 2023-12-09 |
+| [House Again](https://open.spotify.com/track/16MeIVoFWTq2E0r6DwIek5) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [House Again](https://open.spotify.com/album/4LP7dD3panB9oryXnMBqJW) | 3:23 | 2025-07-25 |  |
 | [Hurricane](https://open.spotify.com/track/3A0AYh7WkYsatq8JU3IdJt) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Hurricane](https://open.spotify.com/album/58gOlBZH1HhW3D3ryZV8KO) | 4:09 | 2024-01-18 |  |
 | [I Am Appalachia](https://open.spotify.com/track/6qmRm8Fq9SvOMT0Ekr06V5) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [I Am Appalachia](https://open.spotify.com/album/63626Q1PaEAugYbB4xAIDn) | 2:40 | 2023-04-07 | 2023-05-13 |
 | [I Can Lie \(The Truth Is\)](https://open.spotify.com/track/5qqIccBZC1LfSGPU04Px26) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [I Can Lie \(The Truth Is\)](https://open.spotify.com/album/6QwfWouiQcSPcnh8t6GYvF) | 3:30 | 2023-06-22 | 2023-12-09 |
@@ -377,6 +381,7 @@
 | [Wherever I Go](https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Wherever I Go](https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q) | 4:11 | 2024-12-06 |  |
 | [Whiskey Bent \(feat\. Jelly Roll\)](https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:16 | 2023-11-10 | 2023-12-09 |
 | [Whistle](https://open.spotify.com/track/0aIxPI7pEWcvSWI50mtxmJ) | [Kindred Valley](https://open.spotify.com/artist/7jc85d1zr5kt3aBXYJ0OZy) | [Whistle](https://open.spotify.com/album/7I3ERKusiTnWLtrMUySKTb) | 3:38 | 2023-09-22 | 2023-12-09 |
+| [White On The Ground](https://open.spotify.com/track/0AqIBucHKfKaqYKN5zMNy4) | [The Kruse Brothers](https://open.spotify.com/artist/3R58gxx259GoGeRrenhest) | [White On The Ground](https://open.spotify.com/album/1mTiiZlvSN9j7SMmedKZMs) | 3:52 | 2025-07-25 |  |
 | [White River](https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [White River](https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG) | 3:33 | 2023-02-24 |  |
 | [Why](https://open.spotify.com/track/40oF62UXziCZaX3S3UtGuZ) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb) | 3:17 | 2023-02-24 |  |
 | [Why](https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR) | 3:17 | 2023-05-22 | 2024-04-19 |

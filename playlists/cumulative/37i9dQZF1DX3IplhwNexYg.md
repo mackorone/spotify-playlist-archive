@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Nilüfer Yanya
 
-750 songs - 1 day 18 hr 33 min
+754 songs - 1 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Blu Shirt Boy](https://open.spotify.com/track/7bAT6eo8VuSTPKA52CxPTJ) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Blu Shirt Boy](https://open.spotify.com/album/0wIdXaa8pAUQh5H0DBVmXK) | 3:43 | 2022-09-08 | 2022-10-13 |
 | [Blue](https://open.spotify.com/track/2Jtv7FYvZFQkz7GLJCIbTh) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Blue](https://open.spotify.com/album/34PFa8obv2n5a5s1zEGnus) | 3:00 | 2021-03-09 | 2022-01-17 |
 | [Blueheart](https://open.spotify.com/track/2tYefVtZYM82eB4pdFtxmR) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [Blueheart](https://open.spotify.com/album/0p6qEOTGGbdANAL2Galia5) | 2:49 | 2021-03-09 | 2022-01-17 |
+| [Body](https://open.spotify.com/track/3wqXKqPgBMBeyHNN3x1x47) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Body](https://open.spotify.com/album/1LNYkv0KQrGTOqBJkwiEH7) | 4:13 | 2025-07-25 |  |
 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 | 2023-01-13 | 2024-07-13 |
 | [Born In Early May](https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Together We Are One, You and I](https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3) | 5:12 | 2024-06-14 | 2025-07-05 |
 | [Boyfriend](https://open.spotify.com/track/0ty4GQLhjq2lDzV8GpCNCT) | [Hot Freaks](https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9) | [Boyfriend](https://open.spotify.com/album/4JyXpLldphcUiQG9IjLFfs) | 3:22 | 2023-07-13 | 2023-09-10 |
@@ -114,7 +115,7 @@
 | [Bug](https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:02 | 2024-12-06 |  |
 | [Bugs](https://open.spotify.com/track/40UBd76lFOA4A9LIj92D8M) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bugs](https://open.spotify.com/album/69uHXZDySbtOqJTlM3J0pr) | 3:57 | 2025-05-01 | 2025-06-16 |
 | [Building 650](https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Building 650](https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK) | 3:51 | 2025-01-17 | 2025-04-17 |
-| [Burn](https://open.spotify.com/track/0mihCpyBVzu79KXizfhtg5) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Burn](https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0) | 3:57 | 2025-05-01 |  |
+| [Burn](https://open.spotify.com/track/0mihCpyBVzu79KXizfhtg5) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Burn](https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0) | 3:57 | 2025-05-01 | 2025-07-26 |
 | [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 | 2024-07-12 | 2025-07-05 |
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-10 | 2025-03-28 |
 | [Can't Do Anything](https://open.spotify.com/track/0XhYsNRgZkCDmvdKS5pd5k) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Can't Do Anything](https://open.spotify.com/album/64S1U9gVicwqHcggv5oZJx) | 2:44 | 2023-07-21 | 2023-08-20 |
@@ -161,7 +162,7 @@
 | [Cut My Hair](https://open.spotify.com/track/0vhDL4PlraJhlfGYtYFaB6) | [Lande Hekt](https://open.spotify.com/artist/3RU6wsoh0bm0gZFHJiYRmq) | [Cut My Hair](https://open.spotify.com/album/3K6BzyGqvZCujtg6nIMS3F) | 3:01 | 2022-09-22 | 2022-09-26 |
 | [Cut the Cord](https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [A Fistful of Peaches](https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea) | 3:32 | 2023-03-17 | 2023-05-21 |
 | [Cutthroat](https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/6C4fHqAWoZdy7A4o07euoP) | 3:14 | 2025-06-06 |  |
-| [Dad's 4Runner](https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Marietta](https://open.spotify.com/album/4fUn2vlTjbsJ4SGdTaQYYh) | 2:27 | 2024-12-06 |  |
+| [Dad's 4Runner](https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Marietta](https://open.spotify.com/album/4fUn2vlTjbsJ4SGdTaQYYh) | 2:27 | 2024-12-06 | 2025-07-26 |
 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 | 2022-09-22 | 2025-03-28 |
 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2022-01-17 | 2022-08-19 |
 | [Dancing Shoes](https://open.spotify.com/track/4qw8WbxYmjOUzKl0Oe8Ccr) | [Andy Goodwin](https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB) | [Dancing Shoes](https://open.spotify.com/album/36RBvUCtqxCicTxGnOqD2X) | 2:23 | 2024-03-15 | 2024-05-14 |
@@ -421,7 +422,7 @@
 | [Lunar Eclipse](https://open.spotify.com/track/7ysZK0xlf1jIWMkiVJoGLB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:56 | 2024-02-16 | 2024-04-19 |
 | [Lux](https://open.spotify.com/track/3OBlUMdio4gMywyU63AhT9) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Lux](https://open.spotify.com/album/1VCH62Yg84u6WevIg7oEiK) | 1:39 | 2021-03-09 | 2022-02-04 |
 | [M](https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [M](https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ) | 3:51 | 2024-08-09 | 2024-12-06 |
-| [Mac’s Omelette](https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Mac's Omelette](https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU) | 3:58 | 2025-03-27 |  |
+| [Mac’s Omelette](https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Mac's Omelette](https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU) | 3:58 | 2025-03-27 | 2025-07-26 |
 | [Make It Right](https://open.spotify.com/track/3bGQc58jpE4J9xlqavrTPb) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 2:33 | 2022-02-28 | 2022-08-19 |
 | [Make You Proud](https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Make You Proud](https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj) | 3:27 | 2023-11-10 | 2024-06-04 |
 | [Making the Most of It](https://open.spotify.com/track/728EWD7qN8QAwkG17bHkjW) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Havasu](https://open.spotify.com/album/6Uxjn5Rskks7mUFhWp7UPV) | 3:57 | 2022-01-24 | 2022-08-19 |
@@ -527,6 +528,7 @@
 | [Rabbit Hole](https://open.spotify.com/track/3KX5GDVzAly6OoH24OMKwU) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Rabbit Hole](https://open.spotify.com/album/3ZxC9jh02Nrvpo49frhUMR) | 4:28 | 2022-01-24 | 2022-03-11 |
 | [Rag](https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Rag](https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH) | 2:22 | 2024-04-12 | 2024-08-24 |
 | [Rain](https://open.spotify.com/track/24FhBx2qcPxB6RAjF16Urq) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Rain](https://open.spotify.com/album/5wBGd8H3iD1gNQGmpfNLUp) | 3:16 | 2024-08-09 | 2025-07-05 |
+| [Rat Poison](https://open.spotify.com/track/7js4zPznt5EgzF4u7b5eUi) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Rat Poison](https://open.spotify.com/album/6NTtLeAmUbIMN4y4lleSHR) | 3:33 | 2025-07-25 |  |
 | [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 | 2023-08-11 | 2024-05-17 |
 | [Read Receipts](https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [At Least I'm Free](https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP) | 3:36 | 2022-08-18 | 2023-01-14 |
 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 | 2024-08-09 | 2024-12-06 |
@@ -550,6 +552,7 @@
 | [Save me now](https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Save me now](https://open.spotify.com/album/7GaqxJpgadYFnuUFpqBPr6) | 3:01 | 2025-06-06 |  |
 | [Say It](https://open.spotify.com/track/6gvLsy6dkUJyPqBDhzEgtc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Banshee](https://open.spotify.com/album/5KKwrFNlCb3XcjGxnxdA8Y) | 3:14 | 2022-08-18 | 2022-09-30 |
 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 | 2022-09-23 | 2023-07-17 |
+| [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 | 2025-07-25 |  |
 | [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 | 2022-10-21 | 2023-08-18 |
 | [Seconds](https://open.spotify.com/track/1tObJybm96JPKfR56vTh7m) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Seconds](https://open.spotify.com/album/5lNnIDwtLluGqbDmgD62Nn) | 3:07 | 2023-05-18 | 2023-07-28 |
 | [Security](https://open.spotify.com/track/1IyNQIczrOabSeU3HEJNwT) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Security](https://open.spotify.com/album/7BbLKYoBNvPRnHnFQq1Fkt) | 3:47 | 2021-07-30 | 2022-07-29 |
@@ -691,7 +694,7 @@
 | [Tiny Screens](https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Tiny Screens](https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p) | 2:58 | 2024-10-03 | 2025-05-02 |
 | [To All The Ones That I Love](https://open.spotify.com/track/6Z3Ank38DbdeCtlpcvZfQH) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [To All The Ones That I Love](https://open.spotify.com/album/7lsQd2eIoDJI6NVLsbIgBc) | 3:54 | 2025-05-20 | 2025-07-05 |
 | [Tonight, Tonight](https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tonight, Tonight](https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m) | 4:21 | 2024-08-23 |  |
-| [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 | 2024-12-06 |  |
+| [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 | 2024-12-06 | 2025-07-26 |
 | [Toro](https://open.spotify.com/track/3Lj2PcKAkTXYiSVSeT7UA7) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Toro](https://open.spotify.com/album/72wu0Ve29nMO5iuUBIDywH) | 3:38 | 2021-03-09 | 2022-01-17 |
 | [Total euphoria](https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Total euphoria](https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv) | 4:30 | 2025-03-27 |  |
 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 | 2023-01-20 | 2025-02-21 |
@@ -741,6 +744,7 @@
 | [Wiggy](https://open.spotify.com/track/6rydH51WZy57dxUBdHyUU1) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Wiggy](https://open.spotify.com/album/7I2nm8uXW9PjIW4EICNb22) | 3:35 | 2023-01-20 | 2023-04-20 |
 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-04-01 | 2022-09-23 |
 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-10 | 2022-08-18 |
+| [Willow](https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [Willow](https://open.spotify.com/album/34H26omESs9CrxasleR1Cy) | 2:35 | 2025-07-25 |  |
 | [Win](https://open.spotify.com/track/0Z2d1Wv9VaHFxNxdgdKeBE) | [Nasty Cherry](https://open.spotify.com/artist/3a4OHGZwsqHc3eRChiDkS9) | [Win](https://open.spotify.com/album/3riT2ROhv1aQ7zZYut5cmQ) | 2:44 | 2021-03-09 | 2022-01-17 |
 | [Wind in My Sail](https://open.spotify.com/track/6qzKy0MR6hR7tjcw0a66Ct) | [\*repeat repeat](https://open.spotify.com/artist/0PEqo7RkX5wkaYwlT6hINn) | [Wind in My Sail](https://open.spotify.com/album/1thTc5DAfIg41RtmnFYyzf) | 3:05 | 2021-03-09 | 2022-01-17 |
 | [Windows](https://open.spotify.com/track/0mt0tRbBHOoWDFH60iFFH1) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Windows](https://open.spotify.com/album/7h5CI5YCFigjxUV6ISsQlD) | 4:09 | 2025-01-17 | 2025-03-31 |

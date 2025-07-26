@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 ### [boleritos](https://open.spotify.com/playlist/37i9dQZF1DX64myInc1vfu)
 
-> The new bolero era\. Los boleritos de hoy, just for you\. Cover: Daniel, Me Estás Matando
+> The new bolero era\. Los boleritos de hoy, just for you\. Cover: Escarlata
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,411 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,444 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Beso](https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:31 |
-| 2 | [La Distancia](https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 |
+| 1 | [Ilegal](https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Ilegal](https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3) | 3:04 |
+| 2 | [Beso](https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:31 |
 | 3 | [Yo Nunca Te Mentí](https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [COMO ARRUINARTE LA VIDA \(con una herida prohibida\)](https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc) | 3:16 |
 | 4 | [Aguas Profundas](https://open.spotify.com/track/7y2SsIoi8zDEyVKpILMDDF) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Aguas Profundas](https://open.spotify.com/album/6lEETSBzriWlaWz6sB8sfo) | 3:15 |
-| 5 | [Ilegal](https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Ilegal](https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3) | 3:04 |
+| 5 | [La Distancia](https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 |
 | 6 | [Soledad y el Mar \(feat\. Los Macorinos\)](https://open.spotify.com/track/1Xtz05nIgJiEYdncfd1w8h) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 3:34 |
 | 7 | [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 |
 | 8 | [Y SI SOMOS NOVIOS???](https://open.spotify.com/track/3IGNEoTp4uV1HtcvdfxrSL) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [Y SI SOMOS NOVIOS???](https://open.spotify.com/album/5qKUVvVIRgD3CBa2L0x0Go) | 2:33 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 21 | [Me Rehúso](https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Me Rehúso](https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR) | 4:21 |
 | 22 | [Un Ratito](https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Medianoche](https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL) | 3:00 |
 | 23 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
-| 24 | [Somos Novios](https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:00 |
-| 25 | [¿A Qué Te Sabe el Café?](https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Conversaciones Ajenas en un Café](https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9) | 3:31 |
+| 24 | [¿A Qué Te Sabe el Café?](https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Conversaciones Ajenas en un Café](https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9) | 3:31 |
+| 25 | [Somos Novios](https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:00 |
 | 26 | [Somos Algo](https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Somos Algo](https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k) | 3:54 |
 | 27 | [Dos Gardenias](https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Dos Gardenias](https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS) | 3:01 |
 | 28 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 32 | [Déjame Conocerte](https://open.spotify.com/track/15ruMfVVmUmseegU8b1VUU) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Déjame Conocerte](https://open.spotify.com/album/64jzkUox8C2chUZAxUerD2) | 3:37 |
 | 33 | [Bonito](https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 4:00 |
 | 34 | [Odio Gitano](https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Juntos Otra Vez](https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr) | 2:37 |
-| 35 | [Un Amor Que Se Termina](https://open.spotify.com/track/6XHYHcPiGFicC1zpTUscVm) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Un Amor Que Se Termina](https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI) | 2:36 |
-| 36 | [Me Vas a Hacer Falta](https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 4:00 |
+| 35 | [Me Vas a Hacer Falta](https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 4:00 |
+| 36 | [Un Amor Que Se Termina](https://open.spotify.com/track/6XHYHcPiGFicC1zpTUscVm) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Un Amor Que Se Termina](https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI) | 2:36 |
 | 37 | [Si por Mi Fuera](https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Si por Mi Fuera](https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv) | 3:32 |
 | 38 | [Frio](https://open.spotify.com/track/0Upd1dGnqg5TtrFb8urWTb) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Frio](https://open.spotify.com/album/1gbBR68zEJvzpArT7UhsPh) | 2:35 |
 | 39 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 64 | [Jaque Mate](https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1) | [Fer Soberón](https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U) | [Jaque Mate](https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ) | 3:06 |
 | 65 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |
 
-Snapshot ID: `aHCMVAAAAACTwLkGRudE/8KyfH5SyghM`
+Snapshot ID: `aIMBegAAAACa3zmivBxrXkqo0Les8W8A`

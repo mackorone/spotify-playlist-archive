@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-70 songs - 4 hr 1 min
+71 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Greatest Love Story Never Told](https://open.spotify.com/track/4FAs3OblD5UR4gKdpwcprV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:07 | 2024-02-18 |  |
 | [Hear Me \(feat\. Ink\)](https://open.spotify.com/track/7sFWuqjE6nFlKQxVVWcXUq) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [From Dark to Light](https://open.spotify.com/album/1Dp8DJTwLzqxscHc6nHrio) | 2:58 | 2022-05-25 |  |
 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 | 2022-05-25 |  |
+| [Hoedown](https://open.spotify.com/track/0TBz8UMrTueMeRCzZfbkwA) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Hoedown](https://open.spotify.com/album/3TRJXcC6rlzBYzK9lvVkvH) | 2:59 | 2025-07-25 |  |
 | [Hummingbird](https://open.spotify.com/track/1L5YOGPAhIoSoj93pEYnXF) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 2:45 | 2024-02-18 | 2024-04-03 |
 | [Hummingbird](https://open.spotify.com/track/7xl8Bg3rcjYsF31NUGbrQA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now \(Deluxe\)](https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg) | 2:45 | 2024-04-02 |  |
 | [Intro](https://open.spotify.com/track/6yh4lwuuYxx22fWsqilHzY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [From Dark to Light](https://open.spotify.com/album/1Dp8DJTwLzqxscHc6nHrio) | 1:32 | 2022-05-25 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05e1\u05e3 \u05d0\u05d1\u05d9\u05d3\u05df",
-  "num_followers": 32252,
+  "num_followers": 32264,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-07-24 21:00:26",
       "album": {
-        "name": "Kapaim",
-        "url": "https://open.spotify.com/album/6yvXRQJm8ls2asdTHEC28L"
-      },
-      "artists": [
-        {
-          "name": "Ouzo Bazooka",
-          "url": "https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5EkfwBUGWooi05NJeSIpyg"
-    },
-    {
-      "added_at": "2025-07-24 21:00:26",
-      "album": {
         "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
         "url": "https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7"
       },
@@ -819,22 +803,6 @@
       "duration_ms": 326979,
       "name": "\u05d5\u05d9\u05d4\u05d9 \u05d0\u05d5\u05e8",
       "url": "https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk"
-    },
-    {
-      "added_at": "2025-07-24 21:00:26",
-      "album": {
-        "name": "\u05d4\u05d3\u05dc\u05ea \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4",
-        "url": "https://open.spotify.com/album/73nXR3AC7KXy4kJae8zc4Y"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "\u05d4\u05d3\u05dc\u05ea \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4",
-      "url": "https://open.spotify.com/track/6ZrFqIxeb5pGECv3Dgl8Rp"
     },
     {
       "added_at": "2025-07-24 21:00:26",
@@ -863,22 +831,50 @@
     {
       "added_at": "2025-07-24 21:00:26",
       "album": {
-        "name": "Circumstance",
-        "url": "https://open.spotify.com/album/52Rh87m4PVnaW77cfHHXnD"
+        "name": "\u05d4\u05d3\u05dc\u05ea \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4",
+        "url": "https://open.spotify.com/album/73nXR3AC7KXy4kJae8zc4Y"
       },
       "artists": [
         {
-          "name": "Omri Smadar",
-          "url": "https://open.spotify.com/artist/0qnD30FBRPes7ZFDvsEBAv"
-        },
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Circumstance",
-      "url": "https://open.spotify.com/track/64Kn9pjumP5bJd8WbZNm2E"
+      "duration_ms": 161000,
+      "name": "\u05d4\u05d3\u05dc\u05ea \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4",
+      "url": "https://open.spotify.com/track/6ZrFqIxeb5pGECv3Dgl8Rp"
+    },
+    {
+      "added_at": "2025-07-24 21:00:26",
+      "album": {
+        "name": "Kapaim",
+        "url": "https://open.spotify.com/album/6yvXRQJm8ls2asdTHEC28L"
+      },
+      "artists": [
+        {
+          "name": "Ouzo Bazooka",
+          "url": "https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5EkfwBUGWooi05NJeSIpyg"
+    },
+    {
+      "added_at": "2025-07-24 21:00:26",
+      "album": {
+        "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        }
+      ],
+      "duration_ms": 180224,
+      "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
     },
     {
       "added_at": "2025-07-24 21:00:26",
@@ -899,18 +895,22 @@
     {
       "added_at": "2025-07-24 21:00:26",
       "album": {
-        "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
+        "name": "Circumstance",
+        "url": "https://open.spotify.com/album/52Rh87m4PVnaW77cfHHXnD"
       },
       "artists": [
         {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+          "name": "Omri Smadar",
+          "url": "https://open.spotify.com/artist/0qnD30FBRPes7ZFDvsEBAv"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
         }
       ],
-      "duration_ms": 180224,
-      "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
+      "duration_ms": 228000,
+      "name": "Circumstance",
+      "url": "https://open.spotify.com/track/64Kn9pjumP5bJd8WbZNm2E"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

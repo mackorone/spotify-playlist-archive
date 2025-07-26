@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest tracks in the United States. Cover: Ravyn Lenae",
+  "description": "The hottest tracks in the United States. Cover: Alex Warren",
   "name": "Hot Hits USA",
   "tracks": [
     {
@@ -424,7 +424,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
@@ -1062,6 +1062,24 @@
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+    },
+    {
+      "album": {
+        "name": "Back in the Saddle",
+        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212962,
+      "name": "Back in the Saddle",
+      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
     },
     {
       "album": {
@@ -8171,6 +8189,28 @@
     },
     {
       "album": {
+        "name": "Madeline (feat. Gabriella Rose)",
+        "url": "https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145146,
+      "name": "Madeline (feat. Gabriella Rose)",
+      "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
+    },
+    {
+      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -10922,7 +10962,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 261601,
       "name": "River Washed Hair",
       "url": "https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf"
@@ -14138,7 +14178,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 194324,
       "name": "What Did I Miss?",
       "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
@@ -14370,6 +14410,28 @@
       "duration_ms": 191711,
       "name": "Where Them Girls At",
       "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
+    },
+    {
+      "album": {
+        "name": "Which One",
+        "url": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169134,
+      "name": "Which One (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
     },
     {
       "album": {

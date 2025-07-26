@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Tyler, The Creator, OneRepublic, Nej, and more.
 
-18,625 songs - 38 day 14 hr 15 min
+18,626 songs - 38 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1954,7 +1954,7 @@
 | [BIG](https://open.spotify.com/track/0D0QJ9HY5JlSe393FkGqt1) | [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [BIG](https://open.spotify.com/album/0kDRJrXH7O6PBOB9XdzxTa) | 2:44 | 2024-08-22 | 2024-08-30 |
 | [Big 14 \(feat\. Offset & Moneybagg Yo\)](https://open.spotify.com/track/7rQ84WsT2Wcnrz5gTmbGmw) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Big 14 \(feat\. Offset & Moneybagg Yo\)](https://open.spotify.com/album/4QjFj3RCLsh7x7mwdaaEfO) | 4:07 | 2022-08-05 | 2022-08-12 |
 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-07-27 | 2023-08-04 |
-| [Big Bag](https://open.spotify.com/track/10dWn0syXPIp0TfdPFx4Lq) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Bag](https://open.spotify.com/album/4oInS7vZDjkBgONe5UyC7C) | 2:46 | 2025-07-24 |  |
+| [Big Bag](https://open.spotify.com/track/10dWn0syXPIp0TfdPFx4Lq) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Bag](https://open.spotify.com/album/4oInS7vZDjkBgONe5UyC7C) | 2:45 | 2025-07-24 |  |
 | [Big Body \(feat\. Lil Yachty\)](https://open.spotify.com/track/1sl6OyOIA17y8pVwgcX4dn) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [For Us](https://open.spotify.com/album/3qQkODMSwPDWNdDr9fLTjL) | 3:04 | 2025-01-23 | 2025-01-31 |
 | [Big Boy](https://open.spotify.com/track/3lviRnxqGTGtOZu90fvqgw) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Big Boy](https://open.spotify.com/album/6YRiKZgNzHLq23shJOCIqR) | 2:46 | 2025-07-24 |  |
 | [BIG BOY MAYBACH](https://open.spotify.com/track/4UdJXVKmKAukXTYXaZU2hp) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [BIG BOY MAYBACH](https://open.spotify.com/album/5qgarwVspF0Zd43gg1BO2l) | 2:31 | 2024-05-23 | 2024-06-01 |
@@ -10804,7 +10804,7 @@
 | [Mirror](https://open.spotify.com/track/4GrfHweLpo4HeBrWDjvYTw) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Mirror](https://open.spotify.com/album/0yAcPumt8FhHVkK8IXX9Ks) | 2:24 | 2023-06-29 | 2023-07-07 |
 | [Mirror On The Wall](https://open.spotify.com/track/4KqP6HG7ehdCvAbsFCUOsr) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Mirror On The Wall](https://open.spotify.com/album/7sWVqaB937DjZEJ4R8anr4) | 2:46 | 2022-11-24 | 2022-12-02 |
 | [mirth](https://open.spotify.com/track/5JltOt34MitpFFBgychVx8) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [mirth](https://open.spotify.com/album/0X29qea6v2TqLeLeq2q5jj) | 3:08 | 2025-05-15 | 2025-05-23 |
-| [MIS \(feat\. Summer Cem\)](https://open.spotify.com/track/6iSsqzSHwpsodKySR6mLdd) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [ENSAR ABI](https://open.spotify.com/album/0XiFQ3BOhGIdfqAqC4YCzX) | 2:15 | 2025-07-24 |  |
+| [MIS \(feat\. Summer Cem\)](https://open.spotify.com/track/6iSsqzSHwpsodKySR6mLdd) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [ENSAR ABI](https://open.spotify.com/album/0XiFQ3BOhGIdfqAqC4YCzX) | 2:15 | 2025-07-24 |  |
 | [Mis Dihei](https://open.spotify.com/track/43reIBwPeJaIZg9x5pPxG7) | [Dabu Fantastic](https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24) | [Mis Dihei](https://open.spotify.com/album/0zq7qDmkL245o4lJpS7cWb) | 3:02 | 2024-05-02 | 2024-05-10 |
 | [Mis Herz seit](https://open.spotify.com/track/3piWUMwfJXzs74ohcXhR1d) | [EKR](https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL) | [Blaus Bluet](https://open.spotify.com/album/4YvjKOIhwlUbFxcTH8FZQV) | 3:39 | 2024-05-30 | 2024-06-07 |
 | [MISFIT](https://open.spotify.com/track/06D5zVYb8elwt1N22WH4RC) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [Blutmond \- EP](https://open.spotify.com/album/7y3vjtZLi7O1EmZgMhAkng) | 3:12 | 2022-11-10 | 2022-11-18 |
@@ -15389,6 +15389,7 @@
 | [Sugar \(feat\. Soaky Siren\)](https://open.spotify.com/track/6OHQzBYaXeF6FVu8gxLMkE) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Sugar \(feat\. Soaky Siren\)](https://open.spotify.com/album/5r4LmZOSMh4xN8tjg3WzkO) | 2:24 | 2023-02-16 | 2023-02-24 |
 | [Sugar Berry](https://open.spotify.com/track/3p4hQkGQZmN4cibC6XVw2v) | [MY PARADE](https://open.spotify.com/artist/4odBqe9WOqpaQWwokqQyyt) | [Sugar Berry](https://open.spotify.com/album/2ZlZ0vt32fctRdL1IwzXTP) | 3:05 | 2024-08-22 | 2024-08-30 |
 | [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-02 | 2023-03-10 |
+| [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 | 2025-07-24 |  |
 | [SUGARCOAT](https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:30 | 2024-11-14 | 2024-11-22 |
 | [Suitable](https://open.spotify.com/track/6SvHJZNQfAZiFcZmuFGa6v) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Suitable](https://open.spotify.com/album/1jN5or6nocHJEg2sHYf67n) | 3:04 | 2023-03-09 | 2023-03-18 |
 | [Sulfur](https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Sulfur](https://open.spotify.com/album/3bC6nllU11wU2jTw7vmQcS) | 3:26 | 2024-12-12 | 2024-12-20 |

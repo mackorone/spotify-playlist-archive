@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 164840,
       "name": "Ain't No Money To Me",
       "url": "https://open.spotify.com/track/0dkUmCcsXnKflxBVSMl8vf"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 111453,
       "name": "Always There (When I Need Her)",
       "url": "https://open.spotify.com/track/7F0Z2aHCxiPktCa7qXdHbX"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 165302,
       "name": "AYN",
       "url": "https://open.spotify.com/track/2tQkTPj8kXXXZ9cAAAh3aP"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 83095,
       "name": "Berleezy",
       "url": "https://open.spotify.com/track/7nrbrBaxgmg384sjxzHfSd"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 308297,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/0pTmH1pcEnoP2DJpYDWYEL"
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 305266,
       "name": "Don't F**k Wit Us",
       "url": "https://open.spotify.com/track/7lLVbMrxd8lRogUlKv4IZ8"
@@ -3966,7 +3966,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 190432,
       "name": "Garley (Move)",
       "url": "https://open.spotify.com/track/55MqIZHmox9UsPVEaMN9mZ"
@@ -4266,7 +4266,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 161906,
       "name": "Grace",
       "url": "https://open.spotify.com/track/1Lbk2D1067QeJL0Vxg3LxX"
@@ -5784,7 +5784,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 130847,
       "name": "Kiss the Sky",
       "url": "https://open.spotify.com/track/6yYi2D80jEZqi6fREhxMc5"
@@ -7065,6 +7065,24 @@
     },
     {
       "album": {
+        "name": "Vivisector",
+        "url": "https://open.spotify.com/album/5Fxq0xuYFNobrOsGKgeuWQ"
+      },
+      "artists": [
+        {
+          "name": "Lomai",
+          "url": "https://open.spotify.com/artist/5RyIojHby5m6cKHbXE4KmP"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181760,
+      "name": "Millions",
+      "url": "https://open.spotify.com/track/6LihVoav3OJRjjHLpJXZPg"
+    },
+    {
+      "album": {
         "name": "MISSING YOU",
         "url": "https://open.spotify.com/album/5BDWdhO0JsMQbALVs88oYV"
       },
@@ -8040,7 +8058,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 209303,
       "name": "On them",
       "url": "https://open.spotify.com/track/11v4njemAXDVcqBIMdPJld"
@@ -8344,7 +8362,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 123324,
       "name": "Petty Bitch",
       "url": "https://open.spotify.com/track/582qfeOvXJgMXqf4FxzPn6"
@@ -9738,7 +9756,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 163440,
       "name": "Stand On Ten",
       "url": "https://open.spotify.com/track/0e5rBnURTB3PTEJGvXw0zn"
@@ -10133,6 +10151,24 @@
     },
     {
       "album": {
+        "name": "Take Flight",
+        "url": "https://open.spotify.com/album/5iKEv7fFBU3zbpj3tjUX4f"
+      },
+      "artists": [
+        {
+          "name": "Lil Von FrmDaSix",
+          "url": "https://open.spotify.com/artist/4SXX4f7PPTsr1HuGaeKDrt"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170161,
+      "name": "Take Flight",
+      "url": "https://open.spotify.com/track/7J6cvXbqyl51I77IIv1fcM"
+    },
+    {
+      "album": {
         "name": "Talkin",
         "url": "https://open.spotify.com/album/1SZPxFovVzO5iM4xculdOn"
       },
@@ -10278,7 +10314,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 116114,
       "name": "Tell Em Yo Name",
       "url": "https://open.spotify.com/track/03IIpGBJgs9aXoJxqAHAHZ"
@@ -10350,7 +10386,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 127805,
       "name": "That Bounce",
       "url": "https://open.spotify.com/track/6DbwJL2yVPRJ0xNqch4th9"
@@ -10688,7 +10724,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 222669,
       "name": "Thought Slave",
       "url": "https://open.spotify.com/track/0Sg6ygrEd3wsuZ2kRwhLej"
@@ -11776,6 +11812,24 @@
       "duration_ms": 122758,
       "name": "When We Together",
       "url": "https://open.spotify.com/track/07xzfXmOSpup7r7ou5sxTO"
+    },
+    {
+      "album": {
+        "name": "Whip Hard",
+        "url": "https://open.spotify.com/album/4aL9FafZPG0kqy0fFFgLo7"
+      },
+      "artists": [
+        {
+          "name": "Y.L.E",
+          "url": "https://open.spotify.com/artist/6EEgOCpbXMZm5msyxqzwLh"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225824,
+      "name": "Whip Hard",
+      "url": "https://open.spotify.com/track/7xTAIkcBGrbyI2KY56l7Jg"
     },
     {
       "album": {

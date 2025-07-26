@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat  🔁  Samurai Jay in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,249 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,316 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

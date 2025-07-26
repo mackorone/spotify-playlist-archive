@@ -4,14 +4,15 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-176 songs - 11 hr 53 min
+177 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1+1](https://open.spotify.com/track/5faImH2zpFQUn30yWNsbi1) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Rayhan Maditra](https://open.spotify.com/artist/2HYwIpyNXvSyC71IigLtgm) | [1+1](https://open.spotify.com/album/5JSl6xmvvbkANHFAoopYAG) | 4:08 | 2023-02-03 | 2024-09-10 |
 | [1000 Tahun Lamanya](https://open.spotify.com/track/2x9UGhofPBZdeam4uZCUID) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Pongki Barata Meets The Stars](https://open.spotify.com/album/38D2z2TJ00G6qViXbvslpy) | 3:52 | 2023-02-03 |  |
 | [11 Januari](https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Peace, Love And Respect](https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I) | 3:32 | 2023-02-03 |  |
-| [123456](https://open.spotify.com/track/2CFpkbOfYe23ZoMfufNKVB) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [1 Hari Yang Cerah](https://open.spotify.com/album/3BSay8BCZZFWaLlSIqt4D2) | 3:39 | 2025-06-19 |  |
+| [123456](https://open.spotify.com/track/2CFpkbOfYe23ZoMfufNKVB) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [1 Hari Yang Cerah](https://open.spotify.com/album/3BSay8BCZZFWaLlSIqt4D2) | 3:39 | 2025-06-19 | 2025-07-26 |
+| [123456 \(New Version\)](https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [123456 \(New Version\)](https://open.spotify.com/album/23mJFFYLo7WPVPaHSrG4z3) | 3:24 | 2025-07-25 |  |
 | [17 Juni](https://open.spotify.com/track/44QEmMQci4T5rbKcGHxhzK) | [Pascal Meliala](https://open.spotify.com/artist/1oChqfTEO3APBVjUaFI1DY), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq), [Cecilia Morinta](https://open.spotify.com/artist/5BtNjjzw9yWPKtfh02cS3S) | [17 Juni](https://open.spotify.com/album/2sEqsb4bAdKvOQJbrmzsqM) | 5:32 | 2024-09-09 | 2025-04-15 |
 | [247](https://open.spotify.com/track/5oZXijgplVhPkNAvOq9GRS) | [Alsa](https://open.spotify.com/artist/79ZuAKAPvlGaPMRXR8KwPU) | [247](https://open.spotify.com/album/0nBsEBAArDn91nyTtiKdRG) | 3:17 | 2024-12-03 | 2024-12-10 |
 | [Adu Rayu](https://open.spotify.com/track/0mOLyv1GL4sIuzVR1I92Fb) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Adu Rayu](https://open.spotify.com/album/7MQvEjN92cqRdNUCMOKCPA) | 3:27 | 2023-05-03 |  |

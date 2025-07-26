@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 29838,
+  "num_followers": 29841,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAB6MZpXZPS3jDslVGjXcphY",
+  "snapshot_id": "aIF3gAAAAADFlsjWxuIMpYfk2SMV807m",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strike Up The Band",
-        "url": "https://open.spotify.com/album/1o6Iyj8lMmPtiaR6XFsjq6"
+        "name": "Mileage",
+        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
       },
       "artists": [
         {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
         },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 339213,
-      "name": "Strike Up The Band (feat. Larkin Poe)",
-      "url": "https://open.spotify.com/track/510rMwLDrh18RtY92EEyUH"
+      "duration_ms": 159306,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW"
     },
     {
       "added_at": null,
@@ -227,22 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mileage",
-        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
+        "name": "Strike Up The Band",
+        "url": "https://open.spotify.com/album/1o6Iyj8lMmPtiaR6XFsjq6"
       },
       "artists": [
         {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
         },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 159306,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW"
+      "duration_ms": 339213,
+      "name": "Strike Up The Band (feat. Larkin Poe)",
+      "url": "https://open.spotify.com/track/510rMwLDrh18RtY92EEyUH"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        },
-        {
-          "name": "Tyler Bryant",
-          "url": "https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Back Down South (feat. Tyler Bryant)",
-      "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Co-Starring",
         "url": "https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET"
       },
@@ -739,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        },
+        {
+          "name": "Tyler Bryant",
+          "url": "https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Back Down South (feat. Tyler Bryant)",
+      "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 171256,
       "name": "Blue Ridge Mountains",
       "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rainy Day Sessions EP",
         "url": "https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 233066,
       "name": "Baby Blue Eyes (feat. Larkin Poe) - Rainy Day Sessions",
       "url": "https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "Crown of Fire",
+      "url": "https://open.spotify.com/track/3KVficEsEWertaGcY4r5ij"
     },
     {
       "added_at": null,
@@ -851,22 +867,6 @@
       "duration_ms": 164340,
       "name": "God Moves On The Water",
       "url": "https://open.spotify.com/track/56w5xZcUip6M2Racahglwl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kin",
-        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 190306,
-      "name": "Crown of Fire",
-      "url": "https://open.spotify.com/track/3KVficEsEWertaGcY4r5ij"
     },
     {
       "added_at": null,

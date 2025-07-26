@@ -4,7 +4,7 @@
 
 > The hottest and recent Ghana party starters\. Cover:Samini
 
-525 songs - 1 day 3 hr 12 min
+526 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Man Down](https://open.spotify.com/track/5ueJRYPP0DVeTsBmUAlZlk) | [Ahkan](https://open.spotify.com/artist/5KMfDX3ykXbSVQoCRdcIuT) | [Man Down](https://open.spotify.com/album/0M7Q84WZQSbgYhjDgBpa32) | 3:16 | 2023-04-27 | 2023-05-05 |
 | [Man Down](https://open.spotify.com/track/7dj3apq5IE5P4jCkMKRdZS) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Man Down](https://open.spotify.com/album/4e9P24WR2Efz4WS4yozl9S) | 3:21 | 2024-09-20 | 2024-10-26 |
 | [Manka](https://open.spotify.com/track/3vCZAfWLfPll4tyYZNvsWj) | [Sister Deborah](https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [Manka](https://open.spotify.com/album/6oHSJtjOeISB87tm9Ft3xZ) | 2:38 | 2024-10-18 | 2024-10-26 |
+| [Many Many Things](https://open.spotify.com/track/4uzKhhLD4m4ZgIOmUzXDBP) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Trustn God](https://open.spotify.com/album/7o3klRMAbNadUbQOIjnJlb) | 2:53 | 2025-07-25 |  |
 | [Mapuka](https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Mapuka](https://open.spotify.com/album/0FF6Wtr4hqAWcUKyWto24h) | 3:18 | 2023-09-14 | 2025-01-22 |
 | [Maradona](https://open.spotify.com/track/6J2Xc1SgiPbF3UgS4Qfguv) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Maradona](https://open.spotify.com/album/0DklTPJBpPqQaAUP6ZXmhR) | 3:14 | 2023-10-20 | 2023-11-10 |
 | [Masesa](https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Masesa](https://open.spotify.com/album/3F2RjwQ9FAkP8gs6eGos0S) | 2:52 | 2023-10-06 | 2025-02-21 |

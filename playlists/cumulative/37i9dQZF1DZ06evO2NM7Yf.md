@@ -4,11 +4,12 @@
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-40 songs - 1 hr 54 min
+41 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [...but i'd miss you too much!](https://open.spotify.com/track/76T8rvbzcIj4vquvc8y9YI) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/3vQxQx8nuRYjqUsImHbDmZ) | 2:58 | 2024-04-15 |  |
+| [...but i'd miss you too much!](https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz) | 2:58 | 2025-07-26 |  |
+| [...but i'd miss you too much!](https://open.spotify.com/track/76T8rvbzcIj4vquvc8y9YI) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/3vQxQx8nuRYjqUsImHbDmZ) | 2:58 | 2024-04-15 | 2025-07-26 |
 | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/track/2xNA8H73R4vlxqpRnM8Kyg) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/album/2WjkgxbJKQtAudi52NGEqw) | 2:39 | 2024-01-10 | 2024-04-15 |
 | [All the Things You'd Ruin](https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv) | 2:46 | 2025-02-08 |  |
 | [All the Things You'd Ruin \(Sad Girl Version\)](https://open.spotify.com/track/1DCbAm69IGPADwg1OCwgX8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin \(Sad Girl Version\)](https://open.spotify.com/album/1wntTNCxnhr8FeMr6i52jx) | 2:59 | 2024-01-10 | 2025-02-08 |

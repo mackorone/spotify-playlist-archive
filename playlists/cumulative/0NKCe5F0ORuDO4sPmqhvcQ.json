@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Bikini",
+        "url": "https://open.spotify.com/album/2SgvSyaCqdi5w8pGbJOfME"
+      },
+      "artists": [
+        {
+          "name": "Juicy Romance",
+          "url": "https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159706,
+      "name": "Bikini",
+      "url": "https://open.spotify.com/track/31CzWV6WdEgqsdYqO7d7Ik"
+    },
+    {
+      "album": {
         "name": "BILLIE EILISH.",
         "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
       },

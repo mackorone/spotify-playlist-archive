@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the 70s. Cover: Meat Loaf",
-  "num_followers": 3128006,
+  "num_followers": 3128164,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 355303,
+      "name": "Iron Man - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 355303,
-      "name": "Iron Man - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Jailbreak (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 295386,
-      "name": "Black Dog - Remaster",
-      "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 283360,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 295386,
+      "name": "Black Dog - Remaster",
+      "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "London Calling - Remastered",
-      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 147493,
-      "name": "Who'll Stop The Rain",
-      "url": "https://open.spotify.com/track/3Bh6uInhcVBVvLraGZdkKD"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Billion Dollar Babies (Deluxe Reissue)",
         "url": "https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 187893,
       "name": "No More Mr. Nice Guy",
       "url": "https://open.spotify.com/track/5D2eCwqbHcqOnfHOCM6TnV"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 147493,
+      "name": "Who'll Stop The Rain",
+      "url": "https://open.spotify.com/track/3Bh6uInhcVBVvLraGZdkKD"
     },
     {
       "added_at": "2024-06-26 01:48:20",

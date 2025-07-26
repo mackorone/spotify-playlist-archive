@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,312 likes - 75 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,821 likes - 75 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 16 | [Hoje Ta Maior Lazer](https://open.spotify.com/track/0b9USuJSmKL6Y26L9BOAEf) | [DJ T10](https://open.spotify.com/artist/2Sf2ErwTx3Syvz5PQusX6J), [MC MN](https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp) | [Hoje Ta Maior Lazer](https://open.spotify.com/album/1LyFLFkZivZNmG5TDkmj8v) | 1:45 |
 | 17 | [Rebolando](https://open.spotify.com/track/17xyLNjsAkAbMRzZl8eOJX) | [Kew](https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50) | [Rebolando](https://open.spotify.com/album/289saTjwe7KWkj0InLRX9t) | 1:46 |
 | 18 | [BROTA THM TAPES](https://open.spotify.com/track/5Z8jwajQxNj3SNt3NxOQip) | [Thom](https://open.spotify.com/artist/3eLdEEgwYabHkzVUxllbF4), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [BROTA THM TAPES](https://open.spotify.com/album/2KPyIyufIhKwkezxWNWt0Q) | 1:58 |
-| 19 | [Na Quadrilha Só Tem Pitbull](https://open.spotify.com/track/2Fekq8Xtmm6XqzNzWMmTNO) | [MC BLACK DA PENHA](https://open.spotify.com/artist/1t2B2bRVOsLdt5eNHIV7ZF), [Dj Gs da Reta velha](https://open.spotify.com/artist/4zj1YRH4FBpjTJWdVDOJZw), [DJ Claudinho Mpc](https://open.spotify.com/artist/6SNpQsEXMAOQz9eRIzw2W2), [Dj Lopes do Md](https://open.spotify.com/artist/7GxaDyRRvTof2FhgQvhFnv) | [Na Quadrilha Só Tem Pitbull](https://open.spotify.com/album/7g3Y7pCncM1j6qjsmWrxDy) | 2:02 |
+| 19 | [Na Quadrilha Só Tem Pitbull](https://open.spotify.com/track/2Fekq8Xtmm6XqzNzWMmTNO) | [MC BLACK DA PENHA](https://open.spotify.com/artist/1t2B2bRVOsLdt5eNHIV7ZF), [Dj Gs da Reta velha](https://open.spotify.com/artist/4zj1YRH4FBpjTJWdVDOJZw), [DJ Claudinho Mpc](https://open.spotify.com/artist/6SNpQsEXMAOQz9eRIzw2W2), [Dj Lopes do Md](https://open.spotify.com/artist/7GxaDyRRvTof2FhgQvhFnv), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z) | [Na Quadrilha Só Tem Pitbull](https://open.spotify.com/album/7g3Y7pCncM1j6qjsmWrxDy) | 2:02 |
 | 20 | [Mandela Envolvente](https://open.spotify.com/track/6Nk7GoFb9i5yx0gHeZnDKV) | [DjNk7 O Ninja](https://open.spotify.com/artist/1DJBjJXRDEqYrOEjLe7y6p), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw), [FreesTyle Sounds](https://open.spotify.com/artist/2220tqsEJ1MrEmNhf7q3MI) | [Mandela Envolvente](https://open.spotify.com/album/4Oltr2zvQ7mntG7YBcCIL6) | 2:02 |
 | 21 | [Foda Se To Nem Ai](https://open.spotify.com/track/1K8RFkW9yvvxHIbwTgRVic) | [Mc Leticia](https://open.spotify.com/artist/6kretSbJirP4KR6p8zMu8x), [dj rkj](https://open.spotify.com/artist/5C8Bfgs4G9tQCQtfvAj74g), [MC Gedai](https://open.spotify.com/artist/2lQhWQaSLJiJrhIcf7ncf0) | [Foda Se To Nem Ai](https://open.spotify.com/album/3i99wJZ4iWtvCtOotUTFtD) | 2:04 |
 | 22 | [Montagem Bandido](https://open.spotify.com/track/5s9JKS0P0exKgwLe4yCjAK) | [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz), [Itamar Mc](https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ) | [Montagem Bandido](https://open.spotify.com/album/6uB5gLHk5SnUN9oDP0ADBy) | 1:26 |

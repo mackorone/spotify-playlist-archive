@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 10CM\) \(핫한 국내 록 음악을 만나보세요!\)
 
-997 songs - 2 day 12 hr 53 min
+998 songs - 2 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,7 +593,7 @@
 | [Now \(Feat\. THAMA\)](https://open.spotify.com/track/3VAD6IG91tzUaSlPeei63M) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:55 | 2022-04-22 | 2022-07-27 |
 | [Now or Never](https://open.spotify.com/track/1mYOaI1QRsxA1c0ZHEx4jD) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd) | [A N E W](https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP) | 3:45 | 2024-11-06 | 2024-12-19 |
 | [Now, love](https://open.spotify.com/track/6TuabkccWNyU5aFBYB9kPT) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd) | [﻿Cinderella at 2AM OST Part 7](https://open.spotify.com/album/5h0ANL1dEmueSADLxmbGPJ) | 3:35 | 2024-11-06 | 2024-12-03 |
-| [O](https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [WRLD](https://open.spotify.com/album/3TCF95qK3XaMBjmEuXwQHQ) | 4:42 | 2025-05-30 | 2025-07-24 |
+| [O](https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [WRLD](https://open.spotify.com/album/3TCF95qK3XaMBjmEuXwQHQ) | 4:42 | 2025-05-30 |  |
 | [O2](https://open.spotify.com/track/3gE6fZuOsBCOoIWONBtd2T) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:48 | 2022-04-22 | 2022-07-23 |
 | [OCEAN](https://open.spotify.com/track/76HdYXlpceoc0N2P6E4oGW) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [OCEAN](https://open.spotify.com/album/4rOhOYOy9Arjaula5XaBlg) | 4:38 | 2022-05-11 | 2022-07-07 |
 | [OffCourse](https://open.spotify.com/track/3gwtdR9M1DpKn6Ejsfax5L) | [RecordTheVoiceMessage](https://open.spotify.com/artist/6ZEZZTSdUA8x7CrFEdWKkS) | [OffCourse](https://open.spotify.com/album/10oASQp25ZGiM1Ad1V1oxU) | 3:45 | 2025-03-06 | 2025-03-18 |
@@ -653,7 +653,7 @@
 | [pueblo](https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR) | 3:48 | 2023-04-05 | 2023-11-04 |
 | [pueblo](https://open.spotify.com/track/1U3LiGbnLaImLILPwefIRN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/2l2tymGSreBsAXvHywpTU1) | 3:48 | 2023-11-15 | 2024-03-22 |
 | [pueblo](https://open.spotify.com/track/2DxmlA2heg85pwLrdLp7Zy) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/3K2thE83a9qRwgBsW0NEqV) | 3:48 | 2022-04-21 | 2022-07-29 |
-| [Pump Up The Volume!](https://open.spotify.com/track/34DtDWmIUacoop6Md298vE) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Pump Up The Volume!](https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm) | 2:59 | 2024-08-22 |  |
+| [Pump Up The Volume!](https://open.spotify.com/track/34DtDWmIUacoop6Md298vE) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Pump Up The Volume!](https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm) | 2:59 | 2024-08-22 | 2025-07-26 |
 | [Q](https://open.spotify.com/track/4R7w9EfMu20WHq1ZZ1kSlB) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [3/4](https://open.spotify.com/album/6ObXqxOsLFfzQ5mLCeOEM0) | 3:30 | 2022-04-22 | 2022-07-22 |
 | [QUEEN](https://open.spotify.com/track/5qA0Ks0QbF95BLz5QegTQR) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [QUEEN](https://open.spotify.com/album/5WUYatYzBqFfWBdTlaCvYs) | 3:38 | 2023-09-27 | 2024-01-09 |
 | [Radio Drive](https://open.spotify.com/track/0YWNfk3ONygowyOOTvlueu) | [9 and the Numbers](https://open.spotify.com/artist/3GtxaQXCwJZaoV9lmKofs0) | [Radio Drive](https://open.spotify.com/album/7K1yB4bLLhwIyjWYheXdY4) | 3:06 | 2024-05-08 | 2024-05-10 |
@@ -801,6 +801,7 @@
 | [Sunburn](https://open.spotify.com/track/0bu7PlYH1oG9HNDFqKuj7x) | [WhiteUsedSocks](https://open.spotify.com/artist/6DOPRiywZshVyewhu0XTbY) | [Sunburn](https://open.spotify.com/album/4NopJoIie2kGycobjMxg1u) | 3:59 | 2024-04-09 | 2024-05-10 |
 | [Sunday7](https://open.spotify.com/track/2pQo1klRNseUPq4p4YU6Yj) | [Lee jinwoo](https://open.spotify.com/artist/4j0FFUQqt7izUZfogx2fvU) | [Sunday7](https://open.spotify.com/album/3iZ7mgY7G1R13ExcI5ykHb) | 3:15 | 2022-04-22 | 2022-04-29 |
 | [Sunﬁsh](https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 7th Album 'GROWTH THEORY'](https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm) | 3:38 | 2024-09-02 | 2024-10-25 |
+| [SURF \(The Winning Try : Original Television Soundtrack\)](https://open.spotify.com/track/2czPfQZ5JCwUOBJERa5ljZ) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [The Winning Try OST Part.1](https://open.spotify.com/album/4ylHOz4UUwVwDnJRi7GiaA) | 3:16 | 2025-07-25 |  |
 | [surf.](https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [surf.](https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv) | 3:45 | 2023-07-07 | 2023-11-16 |
 | [surf.](https://open.spotify.com/track/6fhtB9Qf8vkJLPL88WMylY) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [surf.](https://open.spotify.com/album/0ZbnD6CJpKcj0m4Zde5XFm) | 3:45 | 2022-04-21 | 2022-07-26 |
 | [SURREAL \- Alternative Rock Mix](https://open.spotify.com/track/7MzEUfY3N6Uw8umnwMkaq0) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:37 | 2022-05-11 | 2022-05-18 |
@@ -863,7 +864,7 @@
 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2022-07-22 |  |
 | [TOMBOY](https://open.spotify.com/track/6DywghQdi3HQwC8eZkEkfa) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/0P77m9Pm6OWT3gNogzFGJr) | 4:01 | 2022-04-22 | 2022-07-29 |
 | [Tomorrow, Today](https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN) | 3:55 | 2022-04-21 | 2023-08-07 |
-| [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2022-04-22 |  |
+| [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2022-04-22 | 2025-07-26 |
 | [Transfigure \(Feat\. Kim Doyeong\)](https://open.spotify.com/track/3Id3wHPoxdiS4BmrYQfe34) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Kim Doyeong](https://open.spotify.com/artist/6oyiogQiavwFCvd3YG6BSS) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 3:31 | 2023-07-12 | 2023-07-29 |
 | [Tremolo](https://open.spotify.com/track/1TndoyXL6C0Mio69RAQLhR) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [Tremolo](https://open.spotify.com/album/7g0jhiGnJvAMBQ6vRQFAPp) | 4:54 | 2022-07-22 | 2022-07-24 |
 | [TROUBLE MAKER](https://open.spotify.com/track/05p6Ez6LMSZm6Quhb0QhLj) | [901DCOLA](https://open.spotify.com/artist/0OvaIuuU6DY7SRh0Gq9MUv) | [TROUBLE MAKER](https://open.spotify.com/album/53gExAk44UuhdZLKIc3q7l) | 3:30 | 2022-05-11 | 2022-07-02 |

@@ -4,11 +4,11 @@
 
 > A new shade of Country\. Cover: Charley Crockett
 
-634 songs - 1 day 14 hr 38 min
+636 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$10 Cowboy](https://open.spotify.com/track/0wkAesjWf52ubUT4ZK8VN0) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/0wuHhJqV63y0KGQ2nNod2S) | 3:35 | 2024-01-26 |  |
+| [$10 Cowboy](https://open.spotify.com/track/0wkAesjWf52ubUT4ZK8VN0) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/0wuHhJqV63y0KGQ2nNod2S) | 3:35 | 2024-01-26 | 2025-07-26 |
 | [\(Remember Me\) I'm the One Who Loves You](https://open.spotify.com/track/4DSG3Jl9MHt7EQRR9louzF) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [\(Remember Me\) I'm the One Who Loves You](https://open.spotify.com/album/6mSs7MCOo0rv9f25WMfFnn) | 3:00 | 2022-07-08 | 2022-07-30 |
 | [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 | 2022-06-17 | 2023-02-25 |
 | [12th of June](https://open.spotify.com/track/0TUcn0qBz7kS0VtPyKviPm) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [12th of June](https://open.spotify.com/album/5szOii0PaRjMwUqV1VJpfH) | 4:54 | 2022-04-01 | 2022-08-06 |
@@ -35,6 +35,7 @@
 | [Ain't Proud](https://open.spotify.com/track/6ykRYSG0m2iuoArpjDpJrT) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Ain't Proud](https://open.spotify.com/album/2BMZC0Al0UlwdvvtwYSptW) | 3:26 | 2023-05-05 | 2023-12-09 |
 | [Alcohallelujah](https://open.spotify.com/track/0K6dmuthM56bETaZY10pbk) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Alcohallelujah](https://open.spotify.com/album/0BfroDedjttVda68iUY5ia) | 3:33 | 2023-05-12 | 2023-09-30 |
 | [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 | 2023-08-04 |  |
+| [All Around Cowboy](https://open.spotify.com/track/4bgXtfU50hzMoPlA6kBl2S) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [All Around Cowboy](https://open.spotify.com/album/6MI2xRnfVU5AtzafAtF928) | 2:57 | 2025-07-25 |  |
 | [All I Needed](https://open.spotify.com/track/15TlVyJLpMysa7g9FSS0No) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [All I Needed](https://open.spotify.com/album/0tfD1g8c7W0tun48L9ZK7U) | 2:59 | 2022-04-15 | 2022-06-11 |
 | [All I Needed](https://open.spotify.com/track/2VUNlM2B9OqF1A4R7mqCrB) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Chicamacomico](https://open.spotify.com/album/4oOoEXroTRo6DePYVOrl5B) | 2:59 | 2022-06-10 | 2023-04-15 |
 | [All I See Is You](https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Geronimo](https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz) | 4:17 | 2021-12-17 | 2022-08-13 |
@@ -177,6 +178,7 @@
 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 | 2021-12-17 | 2022-10-29 |
 | [Dust](https://open.spotify.com/track/4ts0um3KEZwZNPkz7LAGq9) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Dust](https://open.spotify.com/album/2Moofgyr48OoFCZ00KqPyy) | 5:02 | 2022-02-25 | 2023-02-25 |
 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2022-07-15 | 2024-09-07 |
+| [Eatin' Big Time](https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 4:45 | 2025-07-25 |  |
 | [El Dorado](https://open.spotify.com/track/4qL1jujA2oQ2REmXOIonGb) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [El Dorado](https://open.spotify.com/album/01pat6dFkOovUam3FEHaaV) | 4:23 | 2023-04-28 | 2023-08-10 |
 | [El Dorado](https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [City of Gold](https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK) | 4:23 | 2023-08-04 | 2023-08-19 |
 | [El Paso](https://open.spotify.com/track/20UUqgUjpiEZWKW0wujOVP) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [El Paso](https://open.spotify.com/album/5MKHbKywea52kWXdbB78PD) | 3:21 | 2022-05-06 | 2022-07-02 |
@@ -226,7 +228,7 @@
 | [Gloryland](https://open.spotify.com/track/20oWelhclb7W9stxy1Yzcs) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Gloryland](https://open.spotify.com/album/2UllrCRpe59ore8RCzcVD7) | 4:12 | 2022-04-08 | 2022-06-18 |
 | [God Bless This Mess \- Reimagined \(feat\. Lucius\)](https://open.spotify.com/track/6ijs7vHEclMnJ6DSAioVpV) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Honestly \(Deluxe\)](https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY) | 3:55 | 2022-09-23 | 2023-03-04 |
 | [Goin' To The Country](https://open.spotify.com/track/62byhMVVOIRtvVewSRkBle) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started \(Deluxe\)](https://open.spotify.com/album/4rEIEoPMRiqb6OW224VBhb) | 3:11 | 2022-04-22 | 2022-05-28 |
-| [Going Home \- Live](https://open.spotify.com/track/0IFwRqhkQZdKpUW1uvOaDO) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Going Home \(Live\)](https://open.spotify.com/album/69BlZSkkD9n0sIV1Z0ISWg) | 4:02 | 2024-04-19 |  |
+| [Going Home \- Live](https://open.spotify.com/track/0IFwRqhkQZdKpUW1uvOaDO) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Going Home \(Live\)](https://open.spotify.com/album/69BlZSkkD9n0sIV1Z0ISWg) | 4:02 | 2024-04-19 | 2025-07-26 |
 | [Going to Water](https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Thus Spoke the Fool](https://open.spotify.com/album/4K8fgkZb2es57x2enGQa9n) | 3:04 | 2024-08-16 |  |
 | [Going Where the Lonely Go](https://open.spotify.com/track/1obqA76qNSGEnN4kTafsQw) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof \(Deluxe Edition\)](https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN) | 4:10 | 2021-12-17 | 2022-03-18 |
 | [Gold](https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gold](https://open.spotify.com/album/2NLp3E2m7Z9JnoLR6eOJYI) | 2:47 | 2022-07-29 | 2023-08-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Kae Tempest
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,184 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,182 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 9 | [Passenger Princess \(feat\. Smino\)](https://open.spotify.com/track/4XXARhW0U9SKGQJcnYIDAC) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Passenger Princess / Adam](https://open.spotify.com/album/6eszObM49D1h61rbPxS7po) | 2:27 |
 | 10 | [IT'S UP](https://open.spotify.com/track/3ZTg8yL0YzvVLB1fyvvZhp) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [misfit.](https://open.spotify.com/album/4DMku5uHZbI91xDhHU4PIG) | 2:15 |
 | 11 | [On With The Show](https://open.spotify.com/track/7eCGf54RZlK7XjxfhbIsgr) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [On With The Show](https://open.spotify.com/album/35KxRfr6lCxdoMiXsjQR6D) | 2:27 |
-| 12 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
-| 13 | [BAD BITCHES](https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 3:45 |
+| 12 | [BAD BITCHES](https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 3:45 |
+| 13 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
 | 14 | [Wasteman](https://open.spotify.com/track/2KEjyn86eHFkWVVjaCUZk9) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Wasteman](https://open.spotify.com/album/2xJKS127RMqv3KpKeiW6Do) | 2:25 |
 | 15 | [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 |
 | 16 | [Chameleon](https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Chameleon](https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY) | 2:26 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 53 | [Miss Independent](https://open.spotify.com/track/60wRcrZ9ik7RQK9qk2DhKR) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Miss Independent](https://open.spotify.com/album/2sd3mb5KsqYDA8sML6e93P) | 2:06 |
 | 54 | [U GOTTA \(feat\. Pharrell\)](https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 3:00 |
 | 55 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 |
-| 56 | [19](https://open.spotify.com/track/7uCtddSloI5jRSUWUdbEyY) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8) | [19](https://open.spotify.com/album/5bQoKnUIUOkARXThz4uRAK) | 3:25 |
-| 57 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
+| 56 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
+| 57 | [19](https://open.spotify.com/track/7uCtddSloI5jRSUWUdbEyY) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8) | [19](https://open.spotify.com/album/5bQoKnUIUOkARXThz4uRAK) | 3:25 |
 | 58 | [Fit ID](https://open.spotify.com/track/6ltJlPf02pYXiuZPHscjiD) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Fit ID](https://open.spotify.com/album/60hjjGjN5mNNVsnZEfDdmt) | 2:38 |
 | 59 | [ROSTER](https://open.spotify.com/track/6FnezcbAmX7tOMF4hSi71K) | [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o), [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [\#\#MOTIONMUZIK](https://open.spotify.com/album/31poFvXB8ciLoUulSDsbgM) | 2:14 |
 | 60 | [Take Me Down](https://open.spotify.com/track/4kNM7KttOXiMykZbYJasQo) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Take Me Down](https://open.spotify.com/album/4FgapaNLNfZNgmLi56UYib) | 2:06 |

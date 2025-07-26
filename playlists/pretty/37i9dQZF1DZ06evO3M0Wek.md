@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 
 > This is Halestorm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,947 likes - 49 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,988 likes - 49 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 | 48 | [Straight Through the Heart](https://open.spotify.com/track/13sFHP8az3xl5fIchnLr03) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Ronnie James Dio \- This Is Your Life](https://open.spotify.com/album/76DxuvfdC3lmCDLFf6rSWw) | 3:58 |
 | 49 | [Mine](https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mine](https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG) | 4:19 |
 
-Snapshot ID: `aIAmAAAAAAC7wDSeeCb7NscGAhq4FUzN`
+Snapshot ID: `aIF3gAAAAAA/n4ut6MKSGLgkF0uC8YdJ`

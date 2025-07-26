@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover \- Hanumankind & Fred again..
 
-313 songs - 16 hr 54 min
+314 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Jaadugar](https://open.spotify.com/track/3uCmVdJNi3Ci4bidF0mdHb) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 3:12 | 2023-04-19 | 2023-07-22 |
 | [Jaadugar](https://open.spotify.com/track/4ujToRFWb3C8tdPkmVPwu2) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:12 | 2023-07-17 | 2023-12-06 |
 | [Jagga Jatt \(From "Only Love Gets Reply"\)](https://open.spotify.com/track/6zh80VZXzcYm72Wgh6HjWO) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Jagga Jatt \(From "Only Love Gets Reply"\)](https://open.spotify.com/album/4v5lDXsOuEQpT9pxY3J13m) | 3:45 | 2024-05-31 | 2024-07-06 |
-| [Jatt Nahi Dekhya](https://open.spotify.com/track/68WyNOcOccRnKe5EuLjf5i) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj) | [Jatt Nahi Dekhya](https://open.spotify.com/album/3ZILKKdWV01qFymHbZnT6m) | 2:27 | 2025-07-04 |  |
+| [Jatt Nahi Dekhya](https://open.spotify.com/track/68WyNOcOccRnKe5EuLjf5i) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj) | [Jatt Nahi Dekhya](https://open.spotify.com/album/3ZILKKdWV01qFymHbZnT6m) | 2:27 | 2025-07-04 | 2025-07-26 |
 | [Jeelo Jeelo](https://open.spotify.com/track/1ESGLmUnjmCQm17B6meNcr) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Jeelo Jeelo](https://open.spotify.com/album/2VyHMIzG8NH8sCszrfgqoR) | 3:21 | 2025-04-18 | 2025-05-10 |
 | [Joban](https://open.spotify.com/track/3KIoFBlUz8Crp42QCkuWIp) | [RESTIVE](https://open.spotify.com/artist/1L4TtjgJFhKLo9fFeY7IfD), [Mcc\-e Mac](https://open.spotify.com/artist/1UsFxA8CuiST0EY1BpNGrx), [Ahmed SupTo](https://open.spotify.com/artist/2RgbPLR1cNK0ijkY12ZE23) | [Hiphoper Bori \- EP](https://open.spotify.com/album/5ilmEFAoHmE9qCPWD0TVPs) | 3:31 | 2025-06-20 | 2025-06-28 |
 | [Joota Japani](https://open.spotify.com/track/7lzPCtx5j2JRFhbsGpbzQ7) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Shankar Jaikishan](https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc) | [Joota Japani](https://open.spotify.com/album/1GCClFFYn65g9WH1XXUWDK) | 2:35 | 2024-01-18 | 2024-04-19 |
@@ -245,6 +245,7 @@
 | [Rap Ka Mausam](https://open.spotify.com/track/46gjSGy1qoGyK7sjv1wbkZ) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Rap Ka Mausam](https://open.spotify.com/album/5K2yY9Zv5uNBFk7aSNANSA) | 2:30 | 2023-03-27 | 2023-09-02 |
 | [RAP\-TA](https://open.spotify.com/track/3yrAv4sjiBGRnkCxkXxH5d) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 3:37 | 2024-11-15 | 2025-01-11 |
 | [Ready To Die](https://open.spotify.com/track/1Orns3vFhjrIEqlVHP8lfN) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [MTV Hustle 03 Represent Episode 11](https://open.spotify.com/album/5qypSGvDCEWvWwPIN0VsnG) | 4:06 | 2023-12-05 | 2024-01-03 |
+| [Reckless \(feat\. Denzel Curry\)](https://open.spotify.com/track/3LrAGrfCLRDhQoDxS5Nz3B) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Monsoon Season](https://open.spotify.com/album/0AVJyPXZnYYxrqwqhcTzfX) | 2:32 | 2025-07-25 |  |
 | [RED](https://open.spotify.com/track/7zrjicr33yF4WpDAdbvebQ) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Hisab](https://open.spotify.com/artist/5hUQdeBxFRCATjJnUo5Jdx) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 5:03 | 2024-12-20 | 2025-03-08 |
 | [Regions](https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:46 | 2025-04-04 | 2025-06-07 |
 | [Rehmani Keeda](https://open.spotify.com/track/5RdA6XCTDxeaVjqfLvdGft) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Rehmani Keeda](https://open.spotify.com/album/5aiBVHmATeVbdAtOhvlaPw) | 4:05 | 2023-03-27 | 2023-05-12 |

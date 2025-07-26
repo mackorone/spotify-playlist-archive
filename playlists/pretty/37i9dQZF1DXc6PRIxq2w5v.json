@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: 2metro",
-  "num_followers": 182964,
+  "num_followers": 182981,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
+        "name": "Rio De \u00c1guas Vivas",
+        "url": "https://open.spotify.com/album/74Yrv4ZAKbA9nnEV9NUqYr"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 183321,
+      "name": "Rio De \u00c1guas Vivas",
+      "url": "https://open.spotify.com/track/4491TFcmd9GgJNz0Jnlqhx"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
         "name": "Quebrantado (Remix)",
         "url": "https://open.spotify.com/album/20mQsfaFBgXfGYsa6eC5aP"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 228888,
       "name": "Quebrantado - Remix",
       "url": "https://open.spotify.com/track/7zBbWxmYCttrkijpVwDbKN"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
-        "name": "Rio De \u00c1guas Vivas",
-        "url": "https://open.spotify.com/album/74Yrv4ZAKbA9nnEV9NUqYr"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 183321,
-      "name": "Rio De \u00c1guas Vivas",
-      "url": "https://open.spotify.com/track/4491TFcmd9GgJNz0Jnlqhx"
     },
     {
       "added_at": "2025-07-19 03:29:14",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
-        "name": "Bem Maior",
-        "url": "https://open.spotify.com/album/69G7Ll7wXqEXFg37kbDQ0Y"
-      },
-      "artists": [
-        {
-          "name": "Deus&Marco",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Bem Maior",
-      "url": "https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
         "name": "Aben\u00e7oado",
         "url": "https://open.spotify.com/album/3i4SxN0dS82ygV96GOzLws"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 134050,
       "name": "\u00c9 Real",
       "url": "https://open.spotify.com/track/0KSpycOZu0knusLrTTEKsF"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
+        "name": "Bem Maior",
+        "url": "https://open.spotify.com/album/69G7Ll7wXqEXFg37kbDQ0Y"
+      },
+      "artists": [
+        {
+          "name": "Deus&Marco",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Bem Maior",
+      "url": "https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw"
     },
     {
       "added_at": "2025-07-19 03:29:14",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
-        "name": "Boas Novas",
-        "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        }
-      ],
-      "duration_ms": 126077,
-      "name": "Boas Novas",
-      "url": "https://open.spotify.com/track/7HFJFzYJIBTYoT9oyhtplR"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
         "name": "O Apocalipse \u00c9 Real",
         "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 155084,
       "name": "O Apocalipse \u00c9 Real",
       "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
+        "name": "Boas Novas",
+        "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 126077,
+      "name": "Boas Novas",
+      "url": "https://open.spotify.com/track/7HFJFzYJIBTYoT9oyhtplR"
     },
     {
       "added_at": "2025-07-19 03:29:14",
@@ -923,6 +923,22 @@
       "duration_ms": 142622,
       "name": "DNA",
       "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
+        "name": "10 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/34SELZRIapiK7UDknRNQ7g"
+      },
+      "artists": [
+        {
+          "name": "Insanou",
+          "url": "https://open.spotify.com/artist/44zmnvHV1E3qfpJzzjcLR3"
+        }
+      ],
+      "duration_ms": 205034,
+      "name": "Renascer - Ao Vivo",
+      "url": "https://open.spotify.com/track/4T8UuyTE5SDpgPUne661zq"
     },
     {
       "added_at": "2025-07-19 03:29:14",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
-        "name": "Virando a Mesa",
-        "url": "https://open.spotify.com/album/3E6Q7ZiXB4ePizpzrDD9Xe"
-      },
-      "artists": [
-        {
-          "name": "JRG",
-          "url": "https://open.spotify.com/artist/7t2zE1KqB8wblkI2E5Cl5E"
-        }
-      ],
-      "duration_ms": 168221,
-      "name": "Virando a Mesa",
-      "url": "https://open.spotify.com/track/4Q7oPUaeKlqDwB41yvbpqh"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
         "name": "Te Agrade\u00e7o",
         "url": "https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ"
       },
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
+        "name": "Virando a Mesa",
+        "url": "https://open.spotify.com/album/3E6Q7ZiXB4ePizpzrDD9Xe"
+      },
+      "artists": [
+        {
+          "name": "JRG",
+          "url": "https://open.spotify.com/artist/7t2zE1KqB8wblkI2E5Cl5E"
+        }
+      ],
+      "duration_ms": 168221,
+      "name": "Virando a Mesa",
+      "url": "https://open.spotify.com/track/4Q7oPUaeKlqDwB41yvbpqh"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
         "name": "Firme",
         "url": "https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 156937,
       "name": "Firme",
       "url": "https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
-        "name": "10 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/34SELZRIapiK7UDknRNQ7g"
-      },
-      "artists": [
-        {
-          "name": "Insanou",
-          "url": "https://open.spotify.com/artist/44zmnvHV1E3qfpJzzjcLR3"
-        }
-      ],
-      "duration_ms": 205034,
-      "name": "Renascer - Ao Vivo",
-      "url": "https://open.spotify.com/track/4T8UuyTE5SDpgPUne661zq"
     },
     {
       "added_at": "2025-07-19 03:29:14",
@@ -1243,6 +1243,34 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
+        "name": "Encontrei em Voc\u00ea",
+        "url": "https://open.spotify.com/album/636J2mxV7b6w1HzsiW0BIo"
+      },
+      "artists": [
+        {
+          "name": "Lucena",
+          "url": "https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V"
+        },
+        {
+          "name": "LLC Flame",
+          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
+        },
+        {
+          "name": "O Peter",
+          "url": "https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 172123,
+      "name": "Encontrei em Voc\u00ea",
+      "url": "https://open.spotify.com/track/5l9BoXPTWOv5O9L9gqRyqI"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
         "name": "Quero Voltar",
         "url": "https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4"
       },
@@ -1339,54 +1367,6 @@
     {
       "added_at": "2025-07-19 03:29:14",
       "album": {
-        "name": "Tua Face",
-        "url": "https://open.spotify.com/album/3sqmKDQb0yj4mtLTS11fyR"
-      },
-      "artists": [
-        {
-          "name": "Duardin",
-          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Tua Face",
-      "url": "https://open.spotify.com/track/2algWOqywvUnC0vK19JM9R"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
-        "name": "Encontrei em Voc\u00ea",
-        "url": "https://open.spotify.com/album/636J2mxV7b6w1HzsiW0BIo"
-      },
-      "artists": [
-        {
-          "name": "Lucena",
-          "url": "https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V"
-        },
-        {
-          "name": "LLC Flame",
-          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
-        },
-        {
-          "name": "O Peter",
-          "url": "https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 172123,
-      "name": "Encontrei em Voc\u00ea",
-      "url": "https://open.spotify.com/track/5l9BoXPTWOv5O9L9gqRyqI"
-    },
-    {
-      "added_at": "2025-07-19 03:29:14",
-      "album": {
         "name": "Dias de Luta",
         "url": "https://open.spotify.com/album/4fvDcNHgCQ2kqaSIVfWf5D"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 206612,
       "name": "Dias de Luta",
       "url": "https://open.spotify.com/track/46nKQd1hydiLqHRJ6eb6qS"
+    },
+    {
+      "added_at": "2025-07-19 03:29:14",
+      "album": {
+        "name": "Tua Face",
+        "url": "https://open.spotify.com/album/3sqmKDQb0yj4mtLTS11fyR"
+      },
+      "artists": [
+        {
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Tua Face",
+      "url": "https://open.spotify.com/track/2algWOqywvUnC0vK19JM9R"
     },
     {
       "added_at": "2025-07-19 03:29:14",

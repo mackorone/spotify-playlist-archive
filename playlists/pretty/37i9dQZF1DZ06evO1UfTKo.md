@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 
 > This is Los Tigres Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,800 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,893 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 35 | [José Pérez León](https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Pacto De Sangre](https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn) | 3:53 |
 | 36 | [¿En Dónde Estabas?](https://open.spotify.com/track/4yZQMrO8OJ8oj9HZqUZ3QN) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 2:56 |
 | 37 | [Como Aceite Y Como El Agua](https://open.spotify.com/track/13WH6BpofgaFuK0dpuJQcI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [El Ejemplo](https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB) | 3:27 |
-| 38 | [Los Dos Plebes](https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:30 |
+| 38 | [Agua Salada](https://open.spotify.com/track/3X5whob19D1tXZlpHGFLFt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:26 |
 | 39 | [Lágrimas \(Lágrimas Del Corazón\)](https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia De Familia](https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV) | 4:00 |
 | 40 | [La Bala](https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Realidades](https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411) | 3:17 |
 | 41 | [Le Compré La Muerte A Mi Hijo](https://open.spotify.com/track/246ZcQ4VJJI3i2WNfzpQEp) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Historias Que Contar](https://open.spotify.com/album/6oLY9WsQmRAMfA4ru3ganP) | 3:25 |
-| 42 | [Agua Salada](https://open.spotify.com/track/3X5whob19D1tXZlpHGFLFt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:26 |
+| 42 | [Los Dos Plebes](https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:30 |
 | 43 | [Carrera Contra La Muerte](https://open.spotify.com/track/1dmY2QhXlWuRsgQq19f23e) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Carrera Contra La Muerte](https://open.spotify.com/album/3HuwrordHAx7aZdCWPDVa9) | 3:00 |
 | 44 | [La Sorpresa](https://open.spotify.com/track/62zUcRutyHb0msaCz5p9Ao) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Directo Al Corazon](https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN) | 3:36 |
 | 45 | [Cuando Se Llega A Viejo](https://open.spotify.com/track/5Gzbh6jt9wJci4mhaAC7zi) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Incansables](https://open.spotify.com/album/6V9J3vERD2KrRZmWQ1dHAS) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 49 | [Fallaste Corazón](https://open.spotify.com/track/4p3nrgcepfwyOJwg2shRcE) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 3:44 |
 | 50 | [Tu Cárcel](https://open.spotify.com/track/0WkrZsdHp8vkYvYzaytgNF) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Desde El Azteca \(En Vivo\)](https://open.spotify.com/album/1HxDN8Ws2vMplMUiYu6Kxb) | 3:38 |
 
-Snapshot ID: `aIAmAAAAAABl63asDuyATsSpVjxVmTU+`
+Snapshot ID: `aIF3gAAAAAAAH3qoi3mNPA5hvDnnl6xK`

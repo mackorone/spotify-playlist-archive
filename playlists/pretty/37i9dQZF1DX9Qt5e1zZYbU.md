@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Qt5e1zZYbU.md) - [plain]
 
 > These are the songs that have shaped <a href="spotify:artist:5ObBtv5VunwwhQaXXnUrsM">KennyHoopla's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,930 likes - 31 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,934 likes - 31 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 
 > This is St\. Vincent\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,948 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,965 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 25 | [Candy Darling](https://open.spotify.com/track/0aQQxOqgeD9Yk4BhxIhNzz) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 1:55 |
 | 26 | [Cheerleader](https://open.spotify.com/track/4SUVGUZp37ZCEJKkrqfwgd) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 3:28 |
 | 27 | [Birth In Reverse](https://open.spotify.com/track/3v47tb6hvbeb3dVOgYZUfP) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 3:15 |
-| 28 | [Tour Bus](https://open.spotify.com/track/4KB1r2SFtOEK221pPJclKN) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Nowhere Inn](https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d) | 0:35 |
-| 29 | [The Melting Of The Sun](https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 4:17 |
+| 28 | [Laughing with a Mouth of Blood](https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 3:01 |
+| 29 | [Somebody Like Me](https://open.spotify.com/track/4AL1LM9QhlfRE7vwVsRbta) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:53 |
 | 30 | [Dilettante](https://open.spotify.com/track/2V0Na3gPSckTReRoU0gQCp) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 4:03 |
 | 31 | [I Should Watch TV](https://open.spotify.com/track/73x5UqtgSk3nOzdK4KMAtL) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:08 |
-| 32 | [Laughing with a Mouth of Blood](https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 3:01 |
-| 33 | [Somebody Like Me](https://open.spotify.com/track/4AL1LM9QhlfRE7vwVsRbta) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:53 |
+| 32 | [Tour Bus](https://open.spotify.com/track/4KB1r2SFtOEK221pPJclKN) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Nowhere Inn](https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d) | 0:35 |
+| 33 | [The Melting Of The Sun](https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 4:17 |
 | 34 | [Surgeon](https://open.spotify.com/track/7HwB14f2cAVqbvIZNQS4oK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 4:25 |
 | 35 | [Teenage Talk](https://open.spotify.com/track/0iKsBFbuFNA9eSGvhuncCJ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Teenage Talk](https://open.spotify.com/album/3HG6Nf0745fsytgWLptMXw) | 4:08 |
 | 36 | [Prince Johnny](https://open.spotify.com/track/201StFQq0nodCrsX5ysC30) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 49 | [Hombre Roto](https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Todos Nacen Gritando](https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O) | 3:21 |
 | 50 | [Huey Newton](https://open.spotify.com/track/6P5QvqGHXCksVTqMSVgEWV) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 4:37 |
 
-Snapshot ID: `aIAmAAAAAAD4qpAM+AKPVbrST6FcXnO9`
+Snapshot ID: `aIF3gAAAAAAT70lelL8Xbx/Cn9UO4ZYn`

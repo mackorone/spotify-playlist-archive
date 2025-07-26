@@ -4,7 +4,7 @@
 
 > Proper Chels.
 
-816 songs - 2 day 2 hr 33 min
+817 songs - 2 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Ghana Freestyle](https://open.spotify.com/track/4OPJ4DpWB5dBSy89AThX2H) | [SRT Gwalla](https://open.spotify.com/artist/78thSZQFZJsZqi6Lr5WgIc) | [Ghana Freestyle](https://open.spotify.com/album/4LFJNEph1fYHSczpmT5R9k) | 2:26 | 2024-07-01 | 2024-08-01 |
 | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo) | 3:04 | 2024-01-12 | 2024-02-02 |
 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 | 2025-07-14 |  |
+| [Girl on Fya](https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Girl On Fya](https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7) | 2:04 | 2025-07-25 |  |
 | [Giza \(feat\. Seyi Vibez\)](https://open.spotify.com/track/1JqxgXNhqWpFss7nZzlwOz) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:59 | 2024-02-02 | 2024-02-04 |
 | [Glock In My Lap](https://open.spotify.com/track/6pcywuOeGGWeOQzdUyti6k) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:13 | 2024-02-23 | 2024-06-11 |
 | [Go Bokke](https://open.spotify.com/track/4LEcbd1Lv1MLl5KGqDlRLE) | [Buddy Long](https://open.spotify.com/artist/276PyQYKPBD03oLY6Coox9), [Baby Boi](https://open.spotify.com/artist/3GNwgGvdiPUaFW8YTsV2qV), [Thembi Mona](https://open.spotify.com/artist/3Nwjw7vLX4cButAEtqIhnZ), [PlayNevig](https://open.spotify.com/artist/74fbKfDoBpM8R7xy0l8NAM), [DJ SNEJA](https://open.spotify.com/artist/2fUmQBDeQstKIyrfLjj4Xt) | [Go Bokke](https://open.spotify.com/album/2lJ7NeeNzbD4B9yBcDqBBx) | 4:39 | 2023-09-09 | 2023-11-19 |
@@ -436,7 +437,7 @@
 | [Like Ice Spice](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 | 2023-07-28 | 2023-09-08 |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-06-10 | 2024-10-08 |
 | [Like Wot!](https://open.spotify.com/track/7tgwlEKwHn6zUMjpHfPO7O) | [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO) | [Like Wot!](https://open.spotify.com/album/4jGbD9dTX6rUenByebbGf9) | 2:31 | 2024-07-08 | 2024-08-01 |
-| [Lion](https://open.spotify.com/track/2JnMEz1aD9m6bZAXUXFliU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:57 | 2025-07-14 |  |
+| [Lion](https://open.spotify.com/track/2JnMEz1aD9m6bZAXUXFliU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:57 | 2025-07-14 | 2025-07-26 |
 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 | 2023-09-07 | 2023-11-19 |
 | [Loaded](https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Loaded](https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g) | 2:35 | 2024-02-07 | 2024-02-24 |
 | [LOADING](https://open.spotify.com/track/2Gv2frQWk4QdSWRjPd9ToA) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS) | [LOADING](https://open.spotify.com/album/4rQtDOVUhtZdZL3AEi5xAF) | 2:50 | 2022-03-27 | 2022-11-29 |

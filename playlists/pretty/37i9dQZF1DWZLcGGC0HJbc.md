@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > sad girl summer 2025 in full swing\. Curated by néomí \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,778 likes - 91 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,757 likes - 91 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 76 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
 | 77 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 |
 | 78 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
-| 79 | [Sober](https://open.spotify.com/track/3WKFCNvNqQNlyqrjGdZGRe) | [Norah Hendriks](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Every Single Thing](https://open.spotify.com/album/38DNTfhFTj6PYFzLrZiRX5) | 3:42 |
+| 79 | [Sober](https://open.spotify.com/track/3WKFCNvNqQNlyqrjGdZGRe) | [Norah Hendriks](https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC) | [Every Single Thing](https://open.spotify.com/album/38DNTfhFTj6PYFzLrZiRX5) | 3:42 |
 | 80 | [Babooshka](https://open.spotify.com/track/53Mz9H5UvWMQUXHZnaZYKQ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever](https://open.spotify.com/album/4MYtX4Kta7FL4NVUE0FYws) | 3:29 |
 | 81 | [Cactus Tree](https://open.spotify.com/track/0TUPxOcJc4R3PbWo8QwC3m) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Song to a Seagull](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) | 4:38 |
 | 82 | [I Don't Wanna](https://open.spotify.com/track/0rt5jpP3FPHUmmrthlUsL6) | [Romy Liz Rose](https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS) | [I Don't Wanna](https://open.spotify.com/album/6sDEM9Y2n39EFkqhjtCESe) | 4:46 |

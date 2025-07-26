@@ -4,12 +4,13 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Jagdish, Ayaan, Damini
 
-377 songs - 22 hr 35 min
+379 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aakaasam](https://open.spotify.com/track/10ZSudErSocxMp7vplKDHp) | [Ajay Arasada](https://open.spotify.com/artist/4uJkqUa1l145CT0TqV3i5E) | [Aakaasam](https://open.spotify.com/album/1Nj15xkoyHOvNGcaBL6wb0) | 2:19 | 2023-05-25 | 2023-08-11 |
 | [Aata Gaani Aata](https://open.spotify.com/track/6mN6G6IetQns6xMtkxznVZ) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [Aata Gaani Aata](https://open.spotify.com/album/3zuzsB3BkRQRUrzvPHdSR2) | 2:42 | 2024-02-19 | 2024-08-03 |
+| [Adore](https://open.spotify.com/track/24g39pI34BkYYcAvDx6SXW) | [Dinker kalvala](https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM) | [Adore](https://open.spotify.com/album/06eb1bRqGBcb7JIv19HwXX) | 3:24 | 2025-07-25 |  |
 | [Adugaduguna Neetho Rana](https://open.spotify.com/track/21jacqxMqPfeoV59jySKz3) | [Shravan Goud Writes](https://open.spotify.com/artist/3kQsf3T9PJ698IGsPWWZGn) | [Adugaduguna Neetho Rana](https://open.spotify.com/album/2X9I5QqN8aykPDYOKkfA6f) | 3:45 | 2022-07-20 | 2023-05-30 |
 | [Adugu Adugu](https://open.spotify.com/track/09LRs4WvTtYN4GHlpIqX6z) | [Hari Prasad S](https://open.spotify.com/artist/70FMFT9gNlxFAWYHSVbVdK), [K\. Naga Himaja](https://open.spotify.com/artist/1nOBsOUX0CDS22XNEgzxUA) | [Adugu Adugu](https://open.spotify.com/album/0w49ZF6qJwzBuyw9FcCrAY) | 2:57 | 2023-05-26 | 2024-11-05 |
 | [Alai Balai](https://open.spotify.com/track/6FrKmVd9tp2vygYXxcvHjV) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Alai Balai](https://open.spotify.com/album/1sdhNmeEMpP95ZuespP4VO) | 3:14 | 2022-07-18 | 2024-02-03 |
@@ -302,6 +303,7 @@
 | [Radhe Krishna Radhe](https://open.spotify.com/track/3gPcdtrU3nubU5QKdR54k8) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Radhe Krishna Radhe](https://open.spotify.com/album/0wb1P6iFh9Yf7LX90vmAM7) | 5:08 | 2024-11-11 | 2025-01-21 |
 | [Ramaya](https://open.spotify.com/track/1gACI6AAvdUSgfBJ4IattI) | [Vijay Bhaskar L.](https://open.spotify.com/artist/1rglCx3pLWu1PjPAEwzXMb), [Saurav Mishra](https://open.spotify.com/artist/6wsMHexQk4I53uIXIb5QOx), [Chahat Kakkar](https://open.spotify.com/artist/7vPrkJCMTYLVCfgEhrOSGO) | [Ramaya](https://open.spotify.com/album/51ZV12M5Rwx88kZPCksKEs) | 3:35 | 2023-08-05 | 2024-04-19 |
 | [Ramaya](https://open.spotify.com/track/6N7vDEn2IwTeWCDsgwxNOt) | [Vijay Bhaskar L.](https://open.spotify.com/artist/1rglCx3pLWu1PjPAEwzXMb), [Saurav Mishra](https://open.spotify.com/artist/6wsMHexQk4I53uIXIb5QOx), [Chahat Kakkar](https://open.spotify.com/artist/7vPrkJCMTYLVCfgEhrOSGO) | [Ramaya](https://open.spotify.com/album/0ThcLdv1zgkPsPf0VYVemw) | 3:35 | 2023-08-05 | 2025-01-08 |
+| [Rampampam](https://open.spotify.com/track/7J89Jm5sDnNOd0g3IdyERU) | [Arviz](https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf) | [Rampampam](https://open.spotify.com/album/5YPZOufsOquGDt0J7JM6V8) | 2:10 | 2025-07-25 |  |
 | [Ready Go](https://open.spotify.com/track/5QmSQ0e0BdUquiGNYqDzg7) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Agastya Raag](https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I) | [Ready Go](https://open.spotify.com/album/28CSQfrblfjehPQWLVPwwq) | 2:49 | 2024-12-13 | 2025-01-30 |
 | [SA NI SA GA MA](https://open.spotify.com/track/1s371qM1lEeyGneuZcD0EG) | [MaaHaa](https://open.spotify.com/artist/2nON7IMoqVBIWONZabqWBC), [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [SA NI SA GA MA](https://open.spotify.com/album/4ciUgN97ydTzxfyWkYDEib) | 2:23 | 2024-07-31 | 2024-09-12 |
 | [Saagave Manasa](https://open.spotify.com/track/59sZ0SlnVdZGHR6psqE8HW) | [Indosoul by Karthick Iyer](https://open.spotify.com/artist/04czw5AgY218VUkgCtwRv9), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB), [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP) | [Saagave Manasa](https://open.spotify.com/album/4X1Mxr9lLfdiRyFEo4GIKw) | 4:27 | 2023-07-24 | 2025-04-05 |

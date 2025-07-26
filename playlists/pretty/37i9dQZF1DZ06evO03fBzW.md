@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03fBzW.md) - [plain]
 
 > This is No Doubt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,251 likes - 48 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,268 likes - 48 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03fBzW.md) - [plain]
 | 12 | [Simple Kind Of Life](https://open.spotify.com/track/3CY7wjLc1CaAIrp9buEWhG) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Return Of Saturn](https://open.spotify.com/album/6O35YawqZFdtOhL9smKmh7) | 4:16 |
 | 13 | [Sunday Morning](https://open.spotify.com/track/6yCjhDzcVIfxvTjBKhhn7P) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:33 |
 | 14 | [Running](https://open.spotify.com/track/3GsbGZHKjSk4PLr3HXfcoo) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 4:00 |
-| 15 | [Settle Down](https://open.spotify.com/track/2l8GVqxJbVOBfYNSkwn5xA) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove](https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K) | 6:00 |
+| 15 | [What Is Wrong & What Is Right \(feat\. Adrian Young of No Doubt\)](https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD) | [T.I.M.](https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC), [John Hayes](https://open.spotify.com/artist/26RcNeLhz7MLjnfIBdVuiB), [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF), [Mother's Finest](https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H) | [What Is Wrong & What Is Right](https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me) | 2:59 |
 | 16 | [New](https://open.spotify.com/track/0IKGay6QHzB1A0P00h60Gg) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Return Of Saturn](https://open.spotify.com/album/6O35YawqZFdtOhL9smKmh7) | 4:26 |
 | 17 | [Excuse Me Mr.](https://open.spotify.com/track/7E7UH5jsEw1vhiM01EQ5gL) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:05 |
 | 18 | [Just A Girl \- Radio 1 Live Acoustic Version \[Bonus Track\]](https://open.spotify.com/track/3YMIOpiRrQwLpHfeERdgem) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 3:34 |
-| 19 | [What Is Wrong & What Is Right \(feat\. Adrian Young of No Doubt\)](https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD) | [T.I.M.](https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC), [John Hayes](https://open.spotify.com/artist/26RcNeLhz7MLjnfIBdVuiB), [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF), [Mother's Finest](https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H) | [What Is Wrong & What Is Right](https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me) | 2:59 |
+| 19 | [Settle Down](https://open.spotify.com/track/2l8GVqxJbVOBfYNSkwn5xA) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove](https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K) | 6:00 |
 | 20 | [Artificial Sweetener](https://open.spotify.com/track/04h8XEp9JDbOxTBzm91jR3) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Return Of Saturn](https://open.spotify.com/album/6O35YawqZFdtOhL9smKmh7) | 3:54 |
 | 21 | [Different People](https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:35 |
 | 22 | [Making Out](https://open.spotify.com/track/0Iv3OXSyQKioUwgs8YxJow) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 4:14 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03fBzW.md) - [plain]
 | 47 | [Sailin' On](https://open.spotify.com/track/3J3gmwEpUnCcTEBjxmMLeO) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:35 |
 | 48 | [Under Construction](https://open.spotify.com/track/5LRkVOL0t8G8hLcNhBcJ0t) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:12 |
 
-Snapshot ID: `aIAmAAAAAADQI8UXfRIadNnjNdkBA05x`
+Snapshot ID: `aIF3gAAAAADYM2UMGwKiqa7ps1OnwXEb`

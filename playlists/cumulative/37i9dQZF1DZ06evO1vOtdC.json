@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/2YxzQz0dgcUu6RmR2zc9jD"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147195,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/4GfscdpaWdBjSovc3UNoas"
+    },
+    {
+      "album": {
         "name": "Booty",
         "url": "https://open.spotify.com/album/5afRtOFscJUQq7nCbHR5Rn"
       },
@@ -674,7 +692,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 331293,
       "name": "Escap\u00e9monos - Salsa Version",
       "url": "https://open.spotify.com/track/4oGs2MK6C35jMJhaT151yg"

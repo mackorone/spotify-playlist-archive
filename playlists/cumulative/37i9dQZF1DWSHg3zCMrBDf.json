@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest tracks in Ghana. Cover: Black Sherif",
+  "description": "The hottest tracks in Ghana. Cover: Medikal",
   "name": "Hot Hits Ghana",
   "tracks": [
     {
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 195789,
       "name": "Be There Still",
       "url": "https://open.spotify.com/track/1FWqWaH781R6T32agyhpFQ"
@@ -4264,6 +4264,28 @@
       "duration_ms": 257854,
       "name": "Mansa Musa Money",
       "url": "https://open.spotify.com/track/4xGjWTkQdg7llPVSTdmF2F"
+    },
+    {
+      "album": {
+        "name": "Trustn God",
+        "url": "https://open.spotify.com/album/7o3klRMAbNadUbQOIjnJlb"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173397,
+      "name": "Many Many Things",
+      "url": "https://open.spotify.com/track/4uzKhhLD4m4ZgIOmUzXDBP"
     },
     {
       "album": {

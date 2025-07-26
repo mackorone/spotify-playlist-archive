@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-531 songs - 1 day 20 hr 26 min
+533 songs - 1 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Alabaster](https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig) | [Remember Rainbow Bridge](https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy) | 3:59 | 2022-04-01 | 2024-09-07 |
 | [Alap On Benares](https://open.spotify.com/track/3WpvOcNbqABE7vExODuITD) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw), [Lion's Drums](https://open.spotify.com/artist/2Jl6DsGmwz7jFS7TiyOwBu) | [La Batterie](https://open.spotify.com/album/3djwoCHWzGnsGNVyUuMpf5) | 6:00 | 2022-01-14 | 2025-01-10 |
 | [Album 3](https://open.spotify.com/track/7wpKTYDOT1goHKXXHT6fi7) | [Mokira](https://open.spotify.com/artist/3rdStJL3GPEj3S5y8zyvn7) | [Album](https://open.spotify.com/album/0QgxbUQVAa5UN55VCDxdaa) | 4:44 | 2022-07-01 | 2023-08-12 |
+| [Alit](https://open.spotify.com/track/5HH5qZJtgtzNn8Xzu6JZwL) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Niilas](https://open.spotify.com/artist/1qAHgylFxv2gU6bXAQEM2P) | [TAKKUUK \(Original Soundtrack\)](https://open.spotify.com/album/60g26elZ1WbA4abG7HvLo7) | 3:16 | 2025-07-25 |  |
 | [All the Mornings in the World](https://open.spotify.com/track/2wcSdJ641eGA6ruzjIKwM2) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [Icons](https://open.spotify.com/album/0Pw8GjF2XNrDNM3uIeV8QB) | 6:41 | 2021-12-26 | 2023-02-03 |
 | [All the Mornings in the World](https://open.spotify.com/track/67S6sKois8qE4nQ5nBPLM2) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [Icons](https://open.spotify.com/album/6uAP7KQU1Q3KQoB1eW3fHl) | 6:41 | 2023-01-20 | 2023-08-12 |
 | [All Things Burn](https://open.spotify.com/track/1RC35S8rOlc4cMAhC8IOVQ) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/0a48X39VME2QhWVEASztpm) | 5:41 | 2021-12-26 | 2023-06-28 |
@@ -169,7 +170,7 @@
 | [Dragon Bridge](https://open.spotify.com/track/0wWCZ69qJ5sY2Cc5X9xNOi) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Dragon Bridge](https://open.spotify.com/album/5ULcrCdfbtnV8XPeW2TpYX) | 3:45 | 2025-04-11 | 2025-05-10 |
 | [Dream World](https://open.spotify.com/track/4HwvMpiBQtLdmPDEskAp2P) | [Mayk'l](https://open.spotify.com/artist/3zIB464sWOBFwqHeppzfkt) | [Ambitsound](https://open.spotify.com/album/7nXqROD0bpRtgbeewrfj8D) | 3:07 | 2022-03-04 | 2022-07-29 |
 | [Dreamers \(Part I\)](https://open.spotify.com/track/3DoZjFecPlSwoIzLJIXJbx) | [Interstellar Funk](https://open.spotify.com/artist/33DoW58zhBjyyeCdscBybf) | [Into The Echo](https://open.spotify.com/album/32yrYlubZsd1wNvU7pWA5f) | 7:01 | 2022-04-01 | 2025-01-10 |
-| [Drive West On Sunset \- Ambient](https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Being There \(Ambient\)](https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR) | 5:03 | 2023-03-10 |  |
+| [Drive West On Sunset \- Ambient](https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Being There \(Ambient\)](https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR) | 5:03 | 2023-03-10 | 2025-07-26 |
 | [EA9633](https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32) | [Miyu Hosoi](https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T) | [EA9633](https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB) | 3:12 | 2022-04-01 | 2025-01-25 |
 | [Eagle 12'](https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj) | [Jeune Oji](https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ) | [Eagle 12'](https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i) | 2:20 | 2025-02-07 |  |
 | [Earthship](https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce) | [LAV](https://open.spotify.com/artist/2D9ZJ7EUNklTsO4UfJSfcW), [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [Earth and Beyond](https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR) | 9:56 | 2022-01-28 | 2025-01-18 |
@@ -252,7 +253,7 @@
 | [I, you](https://open.spotify.com/track/7xznVSBGvlqEbxMPFAoEZY) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Piedras 2](https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL) | 3:45 | 2025-01-09 |  |
 | [IIII](https://open.spotify.com/track/6sQMUhXSySbtxriNX84G09) | [Asa Tone](https://open.spotify.com/artist/1imJsIALBLCwyxSgmT2gks) | [Live at New Forms](https://open.spotify.com/album/55fNImtunpd7BTXRxGeUOe) | 3:18 | 2021-12-26 | 2023-08-03 |
 | [Ikata \- 1](https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:04 | 2023-01-28 |  |
-| [In the Distance](https://open.spotify.com/track/0CUp66lnTBhJmSvK89a6Qy) | [CLU](https://open.spotify.com/artist/0ubU1ioWAppgdsl2BHu95f), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [In the Distance](https://open.spotify.com/album/5lvnFvmNIqUCK8DnNwKB4K) | 4:35 | 2025-05-12 |  |
+| [In the Distance](https://open.spotify.com/track/0CUp66lnTBhJmSvK89a6Qy) | [CLU](https://open.spotify.com/artist/0ubU1ioWAppgdsl2BHu95f), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [In the Distance](https://open.spotify.com/album/5lvnFvmNIqUCK8DnNwKB4K) | 4:35 | 2025-05-12 | 2025-07-26 |
 | [In Time](https://open.spotify.com/track/4kW70csQpDODpJHf6h7V7P) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [In Time](https://open.spotify.com/album/5ORhEyIhj3zvUSpzwkLf9V) | 9:40 | 2025-03-21 |  |
 | [Indonesia Print](https://open.spotify.com/track/1PFlwfPkQwoYjP7ygQS0pQ) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Quinto Relatório Anual](https://open.spotify.com/album/7fN8Gsp8KEnnU0JpAEL7PF) | 3:37 | 2023-03-10 | 2023-08-12 |
 | [Indonesia Print](https://open.spotify.com/track/5pRYAk9jj0KhEnFY38s3WL) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Quinto Relatório Anual](https://open.spotify.com/album/4IGXJbxhGZz6Qf8ksTrjrd) | 3:37 | 2021-12-26 | 2023-03-09 |
@@ -426,6 +427,7 @@
 | [Solstice](https://open.spotify.com/track/2A2KhiDjc7NXsqhuMyKXp9) | [SVLBRD](https://open.spotify.com/artist/40SVMdCuPtqI6suYOG3Qk0) | [Solstice](https://open.spotify.com/album/5In0aQDAEJHdrI4oxgzdtX) | 8:00 | 2021-12-26 | 2023-06-30 |
 | [Somebody \- Mixed](https://open.spotify.com/track/1sW1re8MIUHwxtYAiDICaK) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj) | [Somebody \(Mixed\)](https://open.spotify.com/album/4kY0vJC1JGRDIwSsIjZey9) | 3:22 | 2025-03-29 |  |
 | [Sony 7IV](https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fighting Modernism EP](https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ) | 3:51 | 2022-05-06 | 2025-03-20 |
+| [Spider Ballad](https://open.spotify.com/track/6AfXAFKkqmp6EsJWxHXihQ) | [Kieran Hebden](https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Spider Ballad](https://open.spotify.com/album/4ZqtS7gozAe9gcsau9HmMw) | 7:35 | 2025-07-25 |  |
 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 | 2022-04-01 | 2025-02-08 |
 | [Stapler](https://open.spotify.com/track/54ZttkOfyEW4JVZblFopLt) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Stapler](https://open.spotify.com/album/2lvi6nRKSPfzIVlRw5fyb3) | 3:41 | 2021-12-26 | 2022-01-25 |
 | [Steam Machine](https://open.spotify.com/track/3wMa3Zt1aK9uynJBMVIIWo) | [Smoke Point](https://open.spotify.com/artist/43QzahjuqHEMX4s0vRtTlE) | [Smoke Point](https://open.spotify.com/album/6uVf3kSn0dpX0hH9DGf6iu) | 8:07 | 2022-11-22 | 2023-07-31 |

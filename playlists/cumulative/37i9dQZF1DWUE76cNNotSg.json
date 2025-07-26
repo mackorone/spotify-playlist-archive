@@ -347,6 +347,28 @@
     },
     {
       "album": {
+        "name": "ALL A DREAM",
+        "url": "https://open.spotify.com/album/74KdRoeeg3bq5GvgiOkA6E"
+      },
+      "artists": [
+        {
+          "name": "LOVE LANGUAGE",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
+        },
+        {
+          "name": "LISP",
+          "url": "https://open.spotify.com/artist/6xA7T8KlOWbWzuOfsZZDYN"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221053,
+      "name": "ALL A DREAM",
+      "url": "https://open.spotify.com/track/16VJYVgNHwZOwgB0ZppmI2"
+    },
+    {
+      "album": {
         "name": "All for You",
         "url": "https://open.spotify.com/album/7Ckd5Akndk0AC2HAhbQgdT"
       },
@@ -424,6 +446,24 @@
       "duration_ms": 200500,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/2xqI4s8TsrOhhGoWZYoDS2"
+    },
+    {
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4bDhE89Vq92CWTvwFb8zP8"
     },
     {
       "album": {
@@ -1752,6 +1792,24 @@
       "duration_ms": 168245,
       "name": "Chika (scared)",
       "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
+    },
+    {
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231737,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q"
     },
     {
       "album": {
@@ -5830,7 +5888,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 238546,
       "name": "Lost in Life - Roosevelt Remix",
       "url": "https://open.spotify.com/track/3f4baxfV0dQPAiXXOCqM9O"
@@ -6210,6 +6268,28 @@
       "duration_ms": 408800,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3QEYYJTIEd6Tv0HCrgHvri"
+    },
+    {
+      "album": {
+        "name": "Back on the Floor",
+        "url": "https://open.spotify.com/album/422wyUBWorTg7TuAjzDmFA"
+      },
+      "artists": [
+        {
+          "name": "Phantoms",
+          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202913,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/3a9GL4vO0HnWHosQAvYava"
     },
     {
       "album": {
@@ -6706,7 +6786,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 213000,
       "name": "Monday, Monday",
       "url": "https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj"
@@ -9728,7 +9808,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 260000,
       "name": "Swim",
       "url": "https://open.spotify.com/track/0OEv3Mpw7qkunUIengDJU3"
@@ -11810,7 +11890,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 213545,
       "name": "Yours & Mine",
       "url": "https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF"

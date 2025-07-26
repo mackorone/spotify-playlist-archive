@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-344 songs - 20 hr 23 min
+346 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [I'm Dat Chick](https://open.spotify.com/track/7aE7msshKq32k65mRR1PyN) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Here I Am \(Deluxe Version\)](https://open.spotify.com/album/6bC54Ww0MIXovvpLWlXrWa) | 4:03 | 2023-10-18 |  |
 | [I'm Going In](https://open.spotify.com/track/4oPMOQQ8LZoXOZY8nGwxuA) | [Dot Marv](https://open.spotify.com/artist/0vPWyPwfdWmbQqp8JJGRA8) | [I'm Going In](https://open.spotify.com/album/5Zi8Bgvj15VXqnthpopwCG) | 2:43 | 2023-10-18 |  |
 | [I'm Good](https://open.spotify.com/track/51qTGQ8Q78yPUeLpMjzTlt) | [Remey Williams](https://open.spotify.com/artist/5PjEH2MNklNpDLPVtUvH0i) | [I'm Good](https://open.spotify.com/album/5tGXcEWPhiNyBEBwIyUOsv) | 3:18 | 2023-10-18 |  |
+| [I'M NOT GOD](https://open.spotify.com/track/4FbC0chQSs9Tnwu7nPK4x7) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1), [Keisha Renee](https://open.spotify.com/artist/3UG1w00aJyvqbJkZwgbwFA), [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK), [Sage Nwigwe](https://open.spotify.com/artist/3qm4zbEVasOXRdiqZ7sLqF) | [HOOD HYMNS](https://open.spotify.com/album/57JNHxlXjfkddcn7QWfnNA) | 4:47 | 2025-07-25 |  |
 | [Immediately](https://open.spotify.com/track/3a4fkgat6iicV0hKMlYtm9) | [Gloss Gang](https://open.spotify.com/artist/0gBJWzWMMq16XagURM3LXR) | [Immediately](https://open.spotify.com/album/4EKfF4hrCVLeELx7f0b14x) | 3:18 | 2023-10-18 |  |
 | [In Front of My Friends](https://open.spotify.com/track/74n43w1KnN9M81JC3taRph) | [Mickey Shiloh](https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC) | [20nineteen](https://open.spotify.com/album/7yvedwY9CMmTHty29A6gMP) | 3:05 | 2023-10-18 |  |
 | [IN THE AIR](https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 2:16 | 2023-10-18 |  |
@@ -283,6 +284,7 @@
 | [Steady](https://open.spotify.com/track/3BeFRdkwGF5KjB0SI5qKSU) | [Tamae](https://open.spotify.com/artist/6W32hq7OVgrNXNCEU4RgfD), [Lyric Le'son](https://open.spotify.com/artist/3RfyPYLcpVW3LovpJ3pxse) | [Steady](https://open.spotify.com/album/4FJ0WjAMEznKQW2TFO2a8M) | 2:05 | 2024-05-31 |  |
 | [Sticky](https://open.spotify.com/track/1Jyp5ZUSZzVllelHa8HREd) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Crush EP](https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i) | 3:16 | 2023-10-18 |  |
 | [Sue Me \(feat\. Kelly Price\)](https://open.spotify.com/track/2M7EGqJAGamRP148OREsxW) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 3:50 | 2023-10-18 |  |
+| [SUGAR COATED](https://open.spotify.com/track/4Q6QtOY4Al9mATYRL5pI75) | [Tamae](https://open.spotify.com/artist/6W32hq7OVgrNXNCEU4RgfD), [Lyric Le'son](https://open.spotify.com/artist/3RfyPYLcpVW3LovpJ3pxse) | [SUGAR COATED](https://open.spotify.com/album/5iVZGuy5tqcwXGtkg618Hu) | 2:52 | 2025-07-25 |  |
 | [Suit Up](https://open.spotify.com/track/1fbjiYfSwwmKVRt4L6PHCT) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7), [Duanta](https://open.spotify.com/artist/5FtiIbrnPFQIeEgaQmNtMa) | [This Was Never Home](https://open.spotify.com/album/42jX7wYlsvvInZ08y6tvkG) | 4:46 | 2023-10-18 |  |
 | [Summer Camp](https://open.spotify.com/track/6Z3LUDVji7EmSyPCyUazhi) | [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [Summer Camp](https://open.spotify.com/album/6c6hz80UAdFUHq4y6krwz6) | 3:41 | 2023-10-18 |  |
 | [Sunday Candy](https://open.spotify.com/track/6fTdcGsjxlAD9PSkoPaLMX) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 3:46 | 2023-10-18 |  |

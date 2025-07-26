@@ -2219,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "American Recordings",
+        "url": "https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123301,
+      "name": "Chicago Flood",
+      "url": "https://open.spotify.com/track/0rMXSI71nsDlBDkKbCUd4d"
+    },
+    {
+      "album": {
         "name": "Cigarette (Acoustic)",
         "url": "https://open.spotify.com/album/6B0nmuREkryDtcDS0jFdPx"
       },
@@ -11814,7 +11832,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 230917,
       "name": "Swollen (feat. Julia Gargano)",
       "url": "https://open.spotify.com/track/1XZG6gPL5pKw7MLRXCK1yX"

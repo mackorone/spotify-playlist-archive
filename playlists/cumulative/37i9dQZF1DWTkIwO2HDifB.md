@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: Dj Caio Vieira, MC Meno K, MC Rodrigo do CN
+> Os funks mais 🔑 do Brasil / Foto: tariisx
 
 369 songs - 21 hr 52 min
 

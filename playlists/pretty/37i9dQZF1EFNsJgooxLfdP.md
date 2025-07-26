@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,323 likes - 81 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,324 likes - 81 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 52 | [Sin City](https://open.spotify.com/track/3BkPFyejx6Qf4otNHMvxap) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Malik Yusef](https://open.spotify.com/artist/2hikCywT7dcTj6gt3jmsbD) | [Kanye West Presents Good Music Cruel Summer](https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn) | 4:28 |
 | 53 | [How Does It Make You Feel](https://open.spotify.com/track/7ptEC3PSdXZ8530GoESqm3) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:36 |
 | 54 | [Yo Te Amo A Ti](https://open.spotify.com/track/578QxCzsWlrHJrXaZGOpwY) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD) | [TINI \(Martina Stoessel\) \[Deluxe Edition\]](https://open.spotify.com/album/2pFtQ4nD1Dq1ESF4w7wk3Q) | 3:39 |
-| 55 | [Kill \(feat\. Ty Dolla $ign & Victoria Monet\)](https://open.spotify.com/track/2w4DP2LlOb7vmnzy2eflE4) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [DROGAS Light](https://open.spotify.com/album/5URLytQmeXTIT7B4U1Tynd) | 7:10 |
-| 56 | [Cadillac \(A Pimp's Anthem\)](https://open.spotify.com/track/7JcdUjXpo22ggCrvsGHkCj) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:02 |
+| 55 | [Cadillac \(A Pimp's Anthem\)](https://open.spotify.com/track/7JcdUjXpo22ggCrvsGHkCj) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:02 |
+| 56 | [Kill \(feat\. Ty Dolla $ign & Victoria Monet\)](https://open.spotify.com/track/2w4DP2LlOb7vmnzy2eflE4) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [DROGAS Light](https://open.spotify.com/album/5URLytQmeXTIT7B4U1Tynd) | 7:10 |
 | 57 | [Do You Like It](https://open.spotify.com/track/5vk4PI0V98SKhD6zMjIQLC) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 3:35 |
 | 58 | [Stop \(Askin' Me 4Shyt\)](https://open.spotify.com/track/3ZrfIcsDKTBZzCwlE59yiS) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:51 |
 | 59 | [New Love](https://open.spotify.com/track/1KARZZIAZxCCiUpLD7Wv4D) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 3:31 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 80 | [Backyard](https://open.spotify.com/track/1d94OrOOV6cog20FnChbg2) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies \- Act 1](https://open.spotify.com/album/4w4O6rZqTzxz8yW2dIEnAA) | 3:36 |
 | 81 | [For The Thrill \(feat\. B.o.B\)](https://open.spotify.com/track/0JnVZIgTuBJvA7ZGKpnX4C) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Nightmares & Lullabies \- Act 1](https://open.spotify.com/album/4w4O6rZqTzxz8yW2dIEnAA) | 3:22 |
 
-Snapshot ID: `Ab3qpgAAAAAacSG2Ojo2iV8gSaqEoNMb`
+Snapshot ID: `Ab3wHgAAAAA6ABTtfenCXEcwt3JIkVEY`

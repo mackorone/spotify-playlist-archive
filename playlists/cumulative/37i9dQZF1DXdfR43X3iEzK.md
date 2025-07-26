@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything : jim legxacy ✨
 
-427 songs - 22 hr 51 min
+428 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [People like u](https://open.spotify.com/track/5UWZtOdYHckp4YC0po4Rtd) | [Rian Brazil](https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH) | [People like u](https://open.spotify.com/album/37Tk22eL2uJ6Iwj4zljgyu) | 2:24 | 2025-03-07 | 2025-04-18 |
 | [Perfect Celebrity](https://open.spotify.com/track/0Tqn5Th0wk55eLdga96vZM) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:49 | 2025-03-07 | 2025-04-04 |
 | [Phuckups \(Hold Me\)](https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [FLUX](https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9) | 2:05 | 2025-07-10 |  |
-| [POOR CHOICES](https://open.spotify.com/track/5hLmbpWtuvhkzCosigqOHa) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [POOR CHOICES](https://open.spotify.com/album/7i6ANs380kdGplpLHBuxBE) | 3:24 | 2025-07-24 |  |
+| [POOR CHOICES](https://open.spotify.com/track/5hLmbpWtuvhkzCosigqOHa) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [POOR CHOICES](https://open.spotify.com/album/7i6ANs380kdGplpLHBuxBE) | 3:24 | 2025-07-24 | 2025-07-26 |
 | [POP GIRL](https://open.spotify.com/track/1diiLBOnInnwZjMnRyKWQT) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [POP GIRL](https://open.spotify.com/album/794FeYrpWfWp4eDcWHuu5d) | 2:34 | 2025-03-21 | 2025-04-04 |
 | [Pop Out](https://open.spotify.com/track/4tJP37H4IBwmajRzyzLiNc) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Pop Out](https://open.spotify.com/album/30MkCiLrhvOpfSMaVuZIqn) | 2:29 | 2025-03-14 | 2025-03-28 |
 | [Proxy](https://open.spotify.com/track/70JzVGak6ZZGClLFEMeh87) | [Hollis Howard](https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq) | [Proxy](https://open.spotify.com/album/3DUUIv7LeKAnVyk3HG95AJ) | 2:24 | 2025-04-24 | 2025-06-27 |
@@ -327,6 +327,7 @@
 | [Ra Ra Oh!](https://open.spotify.com/track/42Wt1HFkcaspbWuRzp8D6W) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Ra Ra Oh!](https://open.spotify.com/album/0RigzX9V2jsubJLtR12Fff) | 2:23 | 2025-07-24 |  |
 | [RACER](https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk) | 2:40 | 2025-03-07 | 2025-04-04 |
 | [Rain](https://open.spotify.com/track/5ji0TlbJHbHkbNrr6hoi0n) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Rain](https://open.spotify.com/album/43e8cs35ILaJjlDtj8H44z) | 4:20 | 2025-04-10 | 2025-07-11 |
+| [Rapture in Blue](https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Rapture in Blue](https://open.spotify.com/album/3YDpRt2ZLKsClfoRc4mFRC) | 4:13 | 2025-07-25 |  |
 | [Realms](https://open.spotify.com/track/15hQ5ucr3mYzCQkOFFRX6v) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Realms](https://open.spotify.com/album/2CiBWk8uhrrFEeSqTWxglu) | 2:50 | 2024-08-08 | 2024-10-13 |
 | [Reckless Child](https://open.spotify.com/track/1y093zNa1pQUw8SDBstgXc) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Reckless Child](https://open.spotify.com/album/3hgRlpLt7y31c0KFUE4xcX) | 2:54 | 2024-06-07 | 2025-03-08 |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-06-07 | 2025-03-08 |

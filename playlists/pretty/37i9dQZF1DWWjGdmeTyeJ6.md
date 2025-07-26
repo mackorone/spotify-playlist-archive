@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels\. Cover: Storm Henshaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,225,551 likes - 225 songs - 12 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,643 likes - 225 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

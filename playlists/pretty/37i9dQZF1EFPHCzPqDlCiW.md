@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 83 | [Everburn](https://open.spotify.com/track/3Ny8IsnTGd2cJd8P6X9xKl) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 3:18 |
 | 84 | [DILF](https://open.spotify.com/track/2Q8Ky0A9wVrjIiQIcUfYz4) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Why Can’t I Have Two? \(2468\) / DILF](https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5) | 2:19 |
 | 85 | [Ruins](https://open.spotify.com/track/4jfB2EGWbtWzDoM696Ch6u) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Ruins](https://open.spotify.com/album/13xj625T4hyjosgTEZBRLH) | 2:40 |
-| 86 | [Back To You](https://open.spotify.com/track/2tyuENyThWUw9kQ4TZpgsK) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6ThORuBvLXZAHyvjThpiR7) | 3:03 |
-| 87 | [How Love Works](https://open.spotify.com/track/2meA2ysWGWZtpkD7uLYnHu) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [How Love Works](https://open.spotify.com/album/5LZtErW9Uxo4cUSA11ZFHk) | 3:13 |
+| 86 | [How Love Works](https://open.spotify.com/track/2meA2ysWGWZtpkD7uLYnHu) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [How Love Works](https://open.spotify.com/album/5LZtErW9Uxo4cUSA11ZFHk) | 3:13 |
+| 87 | [Back To You](https://open.spotify.com/track/2tyuENyThWUw9kQ4TZpgsK) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6ThORuBvLXZAHyvjThpiR7) | 3:03 |
 | 88 | [Kingdom](https://open.spotify.com/track/45ElBVDOkxxAdSQlB8sN0T) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:28 |
 | 89 | [Ready To Love](https://open.spotify.com/track/1ykuWEU6xlSoR6EtjKH7WW) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Let's Say For Instance](https://open.spotify.com/album/5Z6szusddxn6ySgFMzd837) | 3:06 |
 | 90 | [Halo](https://open.spotify.com/track/7p6WxyR20rMHGj4wLeeaRJ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Boxes EP](https://open.spotify.com/album/0aGzGgL9df7M8YQS9rcBjJ) | 3:02 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 148 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 149 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `Ab3qiAAAAADgPmdbCmRb1u3YonzQhWrG`
+Snapshot ID: `Ab3wPAAAAACHV9XBdOkELK8r/htVrU9/`

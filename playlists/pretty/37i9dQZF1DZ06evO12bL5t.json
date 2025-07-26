@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 136796,
+  "num_followers": 136797,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABt0gaPnfXFmsuMZqwfGdN7",
+  "snapshot_id": "aIF3gAAAAABpAzP46zNArZbwI/26UCHN",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Los Que Conocen El Rollo",
+        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 213102,
+      "name": "Soy El Jefe",
+      "url": "https://open.spotify.com/track/6KzMQ0dcR1OqJ1EziYDQuh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reyes Magos",
         "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 128000,
       "name": "Reyes Magos",
       "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Los Que Conocen El Rollo",
-        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 213102,
-      "name": "Soy El Jefe",
-      "url": "https://open.spotify.com/track/6KzMQ0dcR1OqJ1EziYDQuh"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HP Everything",
-        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 169629,
-      "name": "Ric Flair",
-      "url": "https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Los Que Conocen El Rollo",
         "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 186118,
       "name": "Chequen Los Datos",
       "url": "https://open.spotify.com/track/1a8oMeKTxUGKuYyQz2rT5u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HP Everything",
+        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 169629,
+      "name": "Ric Flair",
+      "url": "https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Los Que Conocen El Rollo",
+        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Elevando Rango",
+      "url": "https://open.spotify.com/track/52DOAxLyM09nzSJlq0x1iy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Line Up",
         "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 188481,
       "name": "Vara Alta",
       "url": "https://open.spotify.com/track/6IPni1a6mvyZrG1JR7Au22"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Los Que Conocen El Rollo",
-        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Elevando Rango",
-      "url": "https://open.spotify.com/track/52DOAxLyM09nzSJlq0x1iy"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Tirano (feat. Herencia de Patrones)",
-        "url": "https://open.spotify.com/album/1OnAqmwh0crkBjOSAciiqN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Triple L",
-          "url": "https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 186147,
-      "name": "Amor Tirano",
-      "url": "https://open.spotify.com/track/0kY8D97WMfNycCMt73Pxb0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HP Everything",
         "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 222819,
       "name": "Coraz\u00f3n Cromado",
       "url": "https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Tirano (feat. Herencia de Patrones)",
+        "url": "https://open.spotify.com/album/1OnAqmwh0crkBjOSAciiqN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Triple L",
+          "url": "https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 186147,
+      "name": "Amor Tirano",
+      "url": "https://open.spotify.com/track/0kY8D97WMfNycCMt73Pxb0"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 268527,
+      "name": "Fabi",
+      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 268527,
-      "name": "Fabi",
-      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorry For The Wait",
         "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 223606,
       "name": "Its Over",
       "url": "https://open.spotify.com/track/36H3mjns9xZJAYOwj5qsM9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HP Everything",
+        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "El Saco",
+      "url": "https://open.spotify.com/track/7EWvUP83AuQh717BkOfGVS"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
       "duration_ms": 219562,
       "name": "Donde Andaban",
       "url": "https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HP Everything",
-        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "El Saco",
-      "url": "https://open.spotify.com/track/7EWvUP83AuQh717BkOfGVS"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HP Everything",
+        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 180256,
+      "name": "Gelatti",
+      "url": "https://open.spotify.com/track/1R1Qreuyg0MzfrHvShfCby"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorry For The Wait 2",
         "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
       },
@@ -863,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HP Everything",
-        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
       },
       "artists": [
         {
@@ -872,9 +888,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 180256,
-      "name": "Gelatti",
-      "url": "https://open.spotify.com/track/1R1Qreuyg0MzfrHvShfCby"
+      "duration_ms": 207898,
+      "name": "Con la Bola",
+      "url": "https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh"
     },
     {
       "added_at": null,
@@ -899,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
       },
       "artists": [
         {
@@ -908,29 +924,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 207898,
-      "name": "Con la Bola",
-      "url": "https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marilyn Monroe",
-        "url": "https://open.spotify.com/album/5193xqKwr38y0IYSePpzLg"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "Grupo MM",
-          "url": "https://open.spotify.com/artist/6B8hu42GbDNo6uvQfxPJJY"
-        }
-      ],
-      "duration_ms": 193969,
-      "name": "Marilyn Monroe",
-      "url": "https://open.spotify.com/track/0DVmXQv4zcdh0rW2QLi8SC"
+      "duration_ms": 161998,
+      "name": "Pasajes De La Vida",
+      "url": "https://open.spotify.com/track/3Z5upGPXmrFYWmDsTvw5Yv"
     }
   ],
   "unique_name": "This Is Herencia de Patrones",

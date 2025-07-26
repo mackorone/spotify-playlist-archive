@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: MAX & JAY (ENHYPEN))",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: Bradley Simpson & HONGJOONG of ATEEZ)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -306,6 +306,28 @@
       "duration_ms": 197763,
       "name": "All Night (feat. Saweetie)",
       "url": "https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa"
+    },
+    {
+      "album": {
+        "name": "Almost (w/ HONGJOONG of ATEEZ)",
+        "url": "https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        },
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196362,
+      "name": "Almost - w/ HONGJOONG of ATEEZ",
+      "url": "https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4"
     },
     {
       "album": {
@@ -3428,7 +3450,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 176881,
       "name": "Pivot (Feat. Armani White)",
       "url": "https://open.spotify.com/track/54ltqcipQbEqZz3IhnzyB8"

@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 17552,
+  "num_followers": 17583,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABLU3nurZDp4O+xYSgMW3Lb",
+  "snapshot_id": "aIF3gAAAAACfBYVhQpHp5PrEnIBt0/p2",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "C\u00f3mo Te Olvido",
+      "url": "https://open.spotify.com/track/6apNNvYFcXv7pzVcTFKqpI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luna Azul",
         "url": "https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "C\u00f3mo Te Olvido",
-      "url": "https://open.spotify.com/track/6apNNvYFcXv7pzVcTFKqpI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico Mi Amor",
         "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 281560,
       "name": "Cucurrucuc\u00fa Paloma",
       "url": "https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "Se Solicita",
+      "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
     },
     {
       "added_at": null,
@@ -399,22 +415,6 @@
       "duration_ms": 225520,
       "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
       "url": "https://open.spotify.com/track/4qkhHNpS8k5U5Oq2rFoRbB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "Se Solicita",
-      "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Herencia, Mi Sangre",
-        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Gaviota Traidora",
-      "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 180320,
       "name": "Cuando Hablo De Ti",
       "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Gaviota Traidora",
+      "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Beso a Medias",
         "url": "https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 233091,
       "name": "Un Beso a Medias",
       "url": "https://open.spotify.com/track/4uxoOEL8pPgCIQrkjq3INi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e9xico Mi Amor",
-        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piel Azteca",
-        "url": "https://open.spotify.com/album/0zQpkq8x29yyopEtA5ownZ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 115537,
-      "name": "Piel Azteca",
-      "url": "https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Herencia, Mi Sangre",
         "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
       },
@@ -763,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Buena Ranchera",
-        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
+        "name": "Piel Azteca",
+        "url": "https://open.spotify.com/album/0zQpkq8x29yyopEtA5ownZ"
       },
       "artists": [
         {
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 203813,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
+      "duration_ms": 115537,
+      "name": "Piel Azteca",
+      "url": "https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 191546,
       "name": "Tik Tik Tik",
       "url": "https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Buena Ranchera",
+        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1hsPg6bG6BBj5czbuF34sT"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "No Pidas Perd\u00f3n",
-      "url": "https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 191280,
       "name": "Me Vas A Llorar",
       "url": "https://open.spotify.com/track/29y7MHn1HK7OymbBJCshTN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1hsPg6bG6BBj5czbuF34sT"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "No Pidas Perd\u00f3n",
+      "url": "https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt"
     },
     {
       "added_at": null,

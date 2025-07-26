@@ -4,7 +4,7 @@
 
 > 女性ポップアイコンを一つのプレイリストに。cover: Tyla & Wizkid
 
-652 songs - 1 day 9 hr 32 min
+653 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,7 @@
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-16 | 2023-07-13 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-27 |  |
 | [ROMEO](https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ROMEO](https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh) | 3:10 | 2025-02-06 | 2025-02-21 |
-| [ROSE](https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE) | 2:44 | 2025-04-04 | 2025-07-25 |
+| [ROSE](https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE) | 2:44 | 2025-04-04 |  |
 | [Run](https://open.spotify.com/track/3jKaAVlYp6i36bH9kCH7S6) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/53nChQOJuMLPOBDWdnDWRd) | 4:08 | 2024-03-14 | 2024-04-19 |
 | [Run](https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV) | 4:08 | 2024-04-11 | 2024-04-27 |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2023-12-07 | 2025-07-04 |
@@ -519,6 +519,7 @@
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-05 | 2025-03-28 |
 | [Stronger \- feat\. Awich](https://open.spotify.com/track/3aaLvqtuf3w5FSsGFrADKG) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Stronger \(feat\. Awich\) / 花・魁 \(feat\. Medusa, E.V.P & IFE\)](https://open.spotify.com/album/2zirO6cI7itEqbL8a0eOvS) | 3:50 | 2025-03-13 | 2025-03-21 |
 | [Strongly Worded Letter](https://open.spotify.com/track/5BBHMxzR3vMZNlXDEpbIT8) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Strongly Worded Letter](https://open.spotify.com/album/0iJCgwJtJgoToVKta9NXk9) | 2:18 | 2023-07-20 | 2023-07-28 |
+| [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 | 2025-07-24 |  |
 | [Suite Life \(Familiar\) \- Bonus Track](https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 2:34 | 2023-07-06 | 2023-10-27 |
 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 | 2025-03-13 | 2025-04-25 |
 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 | 2023-09-28 | 2024-02-09 |
@@ -615,7 +616,7 @@
 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2024-10-31 | 2025-01-15 |
 | [Wet Hair](https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Wet Hair](https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK) | 3:07 | 2025-07-24 |  |
 | [Wet, Hot American Dream](https://open.spotify.com/track/3kTYwlSBqZZ1a5sLCS3SBZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Wet, Hot American Dream](https://open.spotify.com/album/3w9VCOXvlHiznf8AibKbap) | 2:56 | 2025-07-03 |  |
-| [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-25 |  |
+| [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-25 | 2025-07-26 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-18 |  |
 | [When He's Not There \(feat\. Lucky Daye\)](https://open.spotify.com/track/0uYBQGchK3LIkNpxnrA6k7) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 4:28 | 2024-08-29 | 2024-11-01 |
 | [When We Were Young \(The Logical Song\)](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [When We Were Young \(The Logical Song\)](https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY) | 2:27 | 2023-11-09 | 2024-04-05 |

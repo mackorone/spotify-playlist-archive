@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 59 | [take 7](https://open.spotify.com/track/558aM4OwF8sZPqiJ5NULtR) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 1:53 |
 | 60 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 
-Snapshot ID: `Ab3qpgAAAAC6NrDN1Seqpl3Iw8PK8wLS`
+Snapshot ID: `Ab3wMgAAAAB8R8vzUzTFM835HhTd2JMR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHM4kX49UKs.md) - [plain]
 
 > The best indie rock/pop/hip hop/dance/r&b of the 2010s\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,590 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,591 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHM4kX49UKs.md) - [plain]
 | 59 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/5zOnoB8FdZudDcPX4O8WqF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/2gUSWVHCOerKhJHZRwhVtN) | 3:38 |
 | 60 | [Motion Sickness](https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 3:49 |
 | 61 | [Hey Moon](https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq) | [John Maus](https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u) | [We Must Become the Pitiless Censors of Ourselves](https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof) | 4:08 |
-| 62 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
+| 62 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
 | 63 | [Every Time the Sun Comes Up](https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 4:22 |
 | 64 | [Open Eye Signal](https://open.spotify.com/track/6wMTeVootJ8RdCLNOZy5Km) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35) | 7:48 |
 | 65 | [Kaputt](https://open.spotify.com/track/56dIfld2EW00CPbB3zA6GE) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Kaputt](https://open.spotify.com/album/4WtvNVR7QeHUZGtHth9zND) | 6:17 |

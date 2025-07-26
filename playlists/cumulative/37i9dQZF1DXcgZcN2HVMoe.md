@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-784 songs - 1 day 22 hr 59 min
+785 songs - 1 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Chasing Dreams](https://open.spotify.com/track/3cTsh9sZdHHV6Syjcwg8VW) | [Dekleyn](https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI) | [Chasing Dreams](https://open.spotify.com/album/1z1vP6EpqNYSaDWHBQfiLN) | 4:17 | 2022-01-24 | 2025-05-21 |
 | [Cheap Date](https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Starfire](https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB) | 3:10 | 2021-12-17 |  |
 | [Chew On My Heart \- Piano & Voice](https://open.spotify.com/track/4VyOYqqy4sXCKsdx1mBDBc) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chew On My Heart \(Piano & Voice\)](https://open.spotify.com/album/3rZWc6tU0jEtwtrT3o2NvQ) | 3:41 | 2021-12-17 | 2022-06-15 |
+| [Chicago Flood](https://open.spotify.com/track/0rMXSI71nsDlBDkKbCUd4d) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [American Recordings](https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE) | 2:03 | 2025-06-06 |  |
 | [Cigarette \- Acoustic](https://open.spotify.com/track/45nYpQ2IXQQEVP5npi01wO) | [Julian Lamadrid](https://open.spotify.com/artist/60rE8L4eGCSSaJCS1kqNKy) | [Cigarette \(Acoustic\)](https://open.spotify.com/album/6B0nmuREkryDtcDS0jFdPx) | 3:22 | 2022-01-24 | 2022-04-02 |
 | [Climb On Your Tears \(feat\. Aoife O'Donovan\)](https://open.spotify.com/track/0AQK1WPoRCTtgW5dHpKKdn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Climb On Your Tears \(feat\. Aoife O'Donovan\)](https://open.spotify.com/album/6hFKaZKTX3xGT62fnj3Ikn) | 6:04 | 2021-12-17 | 2022-07-28 |
 | [Close Behind](https://open.spotify.com/track/3TtKAlue2cQRqx1MMnxrba) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:33 | 2021-12-17 |  |
@@ -649,7 +650,7 @@
 | [Sweetest Heart](https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Sweetest Heart](https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL) | 3:16 | 2025-03-21 |  |
 | [Sweetest Thing](https://open.spotify.com/track/3SiRNvjdZGx9TGqabi2ywu) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [1000 Years](https://open.spotify.com/album/4uDA2LKlvyDvYdr3xp40ny) | 3:38 | 2023-10-06 | 2024-04-19 |
 | [Sweetest Thing](https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [Sweetest Thing](https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy) | 3:38 | 2022-01-24 | 2024-02-08 |
-| [Swollen \(feat\. Julia Gargano\)](https://open.spotify.com/track/1XZG6gPL5pKw7MLRXCK1yX) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE), [Julia Gargano](https://open.spotify.com/artist/54IqzX9ecr68nJoastw0Nz) | [Swollen \(feat\. Julia Gargano\)](https://open.spotify.com/album/2FCf6fQqRvQt4L0CZOcAYq) | 3:50 | 2022-01-24 |  |
+| [Swollen \(feat\. Julia Gargano\)](https://open.spotify.com/track/1XZG6gPL5pKw7MLRXCK1yX) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE), [Julia Gargano](https://open.spotify.com/artist/54IqzX9ecr68nJoastw0Nz) | [Swollen \(feat\. Julia Gargano\)](https://open.spotify.com/album/2FCf6fQqRvQt4L0CZOcAYq) | 3:50 | 2022-01-24 | 2025-07-26 |
 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2022-07-22 | 2024-04-19 |
 | [Sword from the Stone](https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted \(Deluxe\)](https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ) | 3:21 | 2021-12-17 | 2024-07-17 |
 | [Take It Slow \- Organic Edit](https://open.spotify.com/track/1GrGjdBj3VeSm2deNGE6Pm) | [Michael Lane](https://open.spotify.com/artist/6UUPmOaF0syyjXaWHB68xK) | [Take It Slow \(Organic Edit\)](https://open.spotify.com/album/7DH3Z415tH4x2UYXJfd4C0) | 4:51 | 2021-12-17 | 2022-07-11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 114687,
+  "num_followers": 114696,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAA9Rak89Rpny5eV4v6u9Yvo",
+  "snapshot_id": "aIF3gAAAAACMKVDrdzCxl8WkbBNir/3s",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 171989,
-      "name": "El Bolas",
-      "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Ley del Mayo",
         "url": "https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH"
       },
@@ -579,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jalando La Bandona (En Vivo)",
-        "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Los Populares Del Llano",
-          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
         }
       ],
-      "duration_ms": 129500,
-      "name": "Levantando Polvadera (En vivo)",
-      "url": "https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W"
+      "duration_ms": 171989,
+      "name": "El Bolas",
+      "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
     },
     {
       "added_at": null,
@@ -615,6 +595,26 @@
       "duration_ms": 142341,
       "name": "El Amor No Es Para Todos",
       "url": "https://open.spotify.com/track/3oazxJTMSqk0KCupesUq7B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jalando La Bandona (En Vivo)",
+        "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "Levantando Polvadera (En vivo)",
+      "url": "https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W"
     },
     {
       "added_at": null,

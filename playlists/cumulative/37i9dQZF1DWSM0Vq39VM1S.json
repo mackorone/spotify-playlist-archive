@@ -3485,6 +3485,24 @@
     },
     {
       "album": {
+        "name": "Horsepower For The Streets (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Jeremiah",
+          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Small Mercies",
+      "url": "https://open.spotify.com/track/5dOIyahZY3ZmzoidvVbELF"
+    },
+    {
+      "album": {
         "name": "Paint Myself",
         "url": "https://open.spotify.com/album/4BhK7NpYuRvOVfbDIxpDZp"
       },
@@ -4370,7 +4388,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 236346,
       "name": "Us",
       "url": "https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy"

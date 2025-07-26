@@ -4,7 +4,7 @@
 
 > All of it
 
-893 songs - 2 day 7 hr 42 min
+895 songs - 2 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [If I Am With You](https://open.spotify.com/track/3kTia7ayynt7DvMq1y77jC) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:26 | 2025-06-02 |  |
 | [If I Can Stop One Heart From Breaking](https://open.spotify.com/track/48fqIDIQDD1ARyTrlSb8wW) | [Chewie Melodies](https://open.spotify.com/artist/2dbjQX4XbIMrb5kayolqSZ), [Pealeaf](https://open.spotify.com/artist/0KA6hGOfI1cXBiRikEXwoa) | [Honkai Star Rail: Penacony](https://open.spotify.com/album/2lbER8OJmLZ9b2gh4Gh47t) | 3:17 | 2025-06-02 |  |
 | [If I Can Stop One Heart From Breaking](https://open.spotify.com/track/7f3GFn9aFk8yKrrSQ8VnTp) | [Robin](https://open.spotify.com/artist/55NononxYKjAdaLpphQ4JD), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [INSIDE](https://open.spotify.com/album/0max2UoPzegnhjwv1yhyEC) | 3:22 | 2025-06-02 |  |
+| [If It Makes You Happy](https://open.spotify.com/track/6k7H7hhHyg3DmWdF2fDptt) | [Michael Cera Palin](https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP) | [I Don't Know How to Explain It](https://open.spotify.com/album/5pb1eVxY5jezcB8BCTphdR) | 4:08 | 2025-07-25 |  |
 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 | 2025-07-18 |  |
 | [ILMB](https://open.spotify.com/track/3nr3oHUp1yTHnjgarY8KX0) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 | 2025-07-13 |  |
 | [ILoveUIHateU](https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:15 | 2025-06-02 |  |
@@ -430,6 +431,7 @@
 | [La leçon particulière \- Bande originale du film "La leçon particulière"](https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn), [Christian Gaubert](https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT) | [Mayerling](https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz) | 1:45 | 2025-06-02 |  |
 | [La vaguelette](https://open.spotify.com/track/2BaGvcAlSSQE8zNLXM4VGv) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [Cécilia Cara](https://open.spotify.com/artist/1GpbDtwYoMdcPzd3dnEGxV) | [Genshin Impact \- La vaguelette \(Original Game Soundtrack\)](https://open.spotify.com/album/0qZVILCnti9c6ux3QkVOFa) | 2:29 | 2025-06-02 |  |
 | [Lady Maria of the Astral Clocktower](https://open.spotify.com/track/531u77yKDtTLgciPyunLaR) | [SIEサウンドチーム](https://open.spotify.com/artist/1rpLsPOuk84fe64uy1A8jR) | [Bloodborne the Old Hunters Original Soundtrack](https://open.spotify.com/album/6XSHziwWFxrUiO7oEmBya1) | 4:46 | 2025-06-02 |  |
+| [Laughing Makes It Worse](https://open.spotify.com/track/5oj9NfYzMyFiAN7jd8rHuU) | [Michael Cera Palin](https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP) | [Growing Pains](https://open.spotify.com/album/7txlwaJTwA0wL9WfQPTTzM) | 5:10 | 2025-07-25 |  |
 | [Lavender and Velvet](https://open.spotify.com/track/47zm2CR6vfWK9iRBJvAnGT) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Lavender and Velvet](https://open.spotify.com/album/0kdjLSEykbBKlSSarC7Kw1) | 3:48 | 2025-06-02 |  |
 | [Lavender Buds](https://open.spotify.com/track/7gMsgre9fYLEzbVAoj5WSH) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Metal Fingers Presents: Special Herbs, The Box Set Vol\. 0 \- 9](https://open.spotify.com/album/3QiZaIVgSMuznmUNLPMG8t) | 2:13 | 2025-06-02 |  |
 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 | 2025-06-02 |  |

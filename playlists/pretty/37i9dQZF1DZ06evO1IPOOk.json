@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1889842,
+  "num_followers": 1890115,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABUScE5sHgiQJFzwgIaLFTr",
+  "snapshot_id": "aIF3gAAAAACV9D8a6pUaCbe7e7y7Kk1u",
   "tracks": [
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Hair Down",
+      "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 190053,
       "name": "BACKD00R (feat. Kendrick Lamar & Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chasing Summer",
-        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Hair Down",
-      "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1989 (Taylor's Version) [Deluxe]",
-        "url": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
-      "url": "https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 210226,
       "name": "The Greatest (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1989 (Taylor's Version) [Deluxe]",
+        "url": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
+      "url": "https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9"
     }
   ],
   "unique_name": "This Is Kendrick Lamar",

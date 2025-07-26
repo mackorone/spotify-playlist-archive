@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,604 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,605 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 2 | [Cherry Blossom Ending](https://open.spotify.com/track/0a3Zd8Bjs8WvnrRfYQQVAL) | [Busker Busker](https://open.spotify.com/artist/6jgrgDBt1SbtNbc25sLaTH) | [Busker Busker 1st](https://open.spotify.com/album/6LAT2B00Gtb37s46APExJO) | 4:20 |
 | 3 | [To Reach You](https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [To Reach You](https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P) | 2:38 |
 | 4 | [A Shining Day](https://open.spotify.com/track/7K5uJR4gWSUuC6fjiuQfCr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Shining Day](https://open.spotify.com/album/3KXP1SNW4ZHn9LNy4hyBBF) | 2:58 |
-| 5 | [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 |
-| 6 | [Galaxy](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
+| 5 | [Galaxy](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
+| 6 | [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 |
 | 7 | [봄이 좋냐?? What The Spring??](https://open.spotify.com/track/5gkB40BDQE1CvtXpF6fcPm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [봄이 좋냐?? What The Spring??](https://open.spotify.com/album/0u4WFVJDJh5dbNYgOgbABY) | 3:25 |
 | 8 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 |
 | 9 | [Spring Is Coming](https://open.spotify.com/track/6vynzyxPosrpgoggNVZ5au) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [DEAR : X](https://open.spotify.com/album/03YiXxgdowSpg8M7ED3AfG) | 3:15 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 61 | [Spring Song \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/0gmBVi8J2Sk18uaNFBtOel) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Spring Song \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/album/3VWzNc9gziv2j5bKauli4q) | 3:05 |
 | 62 | [Whenever](https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Whenever](https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V) | 3:20 |
 | 63 | [spring days](https://open.spotify.com/track/0OVk9RkmgYHmCimocRmtcq) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [our, spring days](https://open.spotify.com/album/5WOSmhpNQrH9uey5jSTtgt) | 3:08 |
-| 64 | [Is this love? \(with YOUN TOVEN\)](https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [YOUN TOVEN](https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr) | [Is this love?](https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K) | 3:03 |
-| 65 | [Bygones at night](https://open.spotify.com/track/6WvGNtdslqyHl8rYTxCyPk) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Bygones at night](https://open.spotify.com/album/4sFVw84S0iMunYWJrcMUQA) | 3:55 |
+| 64 | [Bygones at night](https://open.spotify.com/track/6WvGNtdslqyHl8rYTxCyPk) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Bygones at night](https://open.spotify.com/album/4sFVw84S0iMunYWJrcMUQA) | 3:55 |
+| 65 | [Is this love? \(with YOUN TOVEN\)](https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [YOUN TOVEN](https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr) | [Is this love?](https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K) | 3:03 |
 | 66 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 |
 | 67 | [Love is You](https://open.spotify.com/track/1wtmCl6XTMaJVQmHpVI4Gu) | [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Love is You](https://open.spotify.com/album/208XzKaQPMlzkOimZbCG9E) | 2:41 |
-| 68 | [The Season Of You](https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:59 |
-| 69 | [Spring illusion](https://open.spotify.com/track/23AfR0HzE468s6NcPqSGQn) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Spring illusion](https://open.spotify.com/album/0IsKfvMDp1i8iOa0LzZS68) | 3:03 |
+| 68 | [Spring illusion](https://open.spotify.com/track/23AfR0HzE468s6NcPqSGQn) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Spring illusion](https://open.spotify.com/album/0IsKfvMDp1i8iOa0LzZS68) | 3:03 |
+| 69 | [The Season Of You](https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:59 |
 | 70 | [SSOOK DDOONG \(feat\. CHOI YOOJUNG\)](https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb) | [BOOKKU DDOONG](https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw), [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [SSOOK DDOONG \(feat\. CHOI YOOJUNG\)](https://open.spotify.com/album/31T5angQfNXokneuSdQq56) | 2:47 |
 | 71 | [If I \(with Yun DDanDDan\)](https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [If I \(with Yun DDanDDan\)](https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y) | 3:49 |
 | 72 | [Coffee](https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 3:42 |

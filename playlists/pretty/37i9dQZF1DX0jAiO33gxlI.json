@@ -1,15 +1,51 @@
 {
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: RT Mallone",
-  "num_followers": 224418,
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: JOCA",
+  "num_followers": 224593,
   "original_name": "Presen\u00e7a Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHm4ywAAAABG7sCoIbVzl8OB2HpXPX+o",
+  "snapshot_id": "aILzSAAAAABzRh37wo1aVBEdUg5eHywf",
   "tracks": [
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
+      "album": {
+        "name": "CORTAVENTO",
+        "url": "https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF"
+      },
+      "artists": [
+        {
+          "name": "JOCA",
+          "url": "https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT"
+        },
+        {
+          "name": "Jef Rodriguez",
+          "url": "https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo"
+        },
+        {
+          "name": "Luciane Dom",
+          "url": "https://open.spotify.com/artist/6VixI1Abe7e3mV3ScdQmg1"
+        },
+        {
+          "name": "Marcelo de Lamare",
+          "url": "https://open.spotify.com/artist/5HSTeVObdf6RyoInM3EUzM"
+        },
+        {
+          "name": "C-AFROBRASIL",
+          "url": "https://open.spotify.com/artist/3iXFPpErmAcOgnrS9vrrQx"
+        },
+        {
+          "name": "Reurbana",
+          "url": "https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev"
+        }
+      ],
+      "duration_ms": 230580,
+      "name": "AYE O",
+      "url": "https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2"
+    },
+    {
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Magenta",
         "url": "https://open.spotify.com/album/0CxhG3o0AxxKkWnnINZ4qL"
@@ -29,7 +65,7 @@
       "url": "https://open.spotify.com/track/5Nu64eWpCdr6tCmiX9kL1U"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Tabuleiro",
         "url": "https://open.spotify.com/album/5fsc0QNfdX5N9IekiBy4nA"
@@ -49,7 +85,31 @@
       "url": "https://open.spotify.com/track/4gMG4Sc8K8Dq6U5umsp0Zr"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
+      "album": {
+        "name": "Beatriz",
+        "url": "https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup"
+      },
+      "artists": [
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        },
+        {
+          "name": "Leborato",
+          "url": "https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 247980,
+      "name": "Beatriz",
+      "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
+    },
+    {
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Nume - Ep\u00edlogo",
         "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
@@ -61,7 +121,7 @@
         },
         {
           "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+          "url": "https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW"
         },
         {
           "name": "Sain",
@@ -77,7 +137,7 @@
       "url": "https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Cypher Viela Vol. 04",
         "url": "https://open.spotify.com/album/0TD48b6ZPSH8PLYj0AYJkN"
@@ -145,55 +205,7 @@
       "url": "https://open.spotify.com/track/4mkCU7zQZnv3qW0prpRvcZ"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
-      "album": {
-        "name": "Beatriz",
-        "url": "https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup"
-      },
-      "artists": [
-        {
-          "name": "2ZDinizz",
-          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
-        },
-        {
-          "name": "Leborato",
-          "url": "https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 247980,
-      "name": "Beatriz",
-      "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
-    },
-    {
-      "added_at": "2025-07-18 03:00:27",
-      "album": {
-        "name": "CAOS",
-        "url": "https://open.spotify.com/album/2bfsvFjrYB3nOY0PLTjiRh"
-      },
-      "artists": [
-        {
-          "name": "Rare Gnxt",
-          "url": "https://open.spotify.com/artist/4tgnPZ24Ycd88zOfdGTLVR"
-        },
-        {
-          "name": "Mvzza",
-          "url": "https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf"
-        },
-        {
-          "name": "yung vegan",
-          "url": "https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "CAOS",
-      "url": "https://open.spotify.com/track/0cSeQ0GNsZkcyx9tN4bhlT"
-    },
-    {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/6mSGXrTsXeTyJ0EPVcTrSQ"
@@ -213,7 +225,7 @@
       "url": "https://open.spotify.com/track/2CYAKdrrkzfLo91buNtOUg"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "MT STRESS",
         "url": "https://open.spotify.com/album/43mrERZYQfAKJCLS0Y6Rvt"
@@ -233,7 +245,7 @@
       "url": "https://open.spotify.com/track/4RTsgnCy6Ooj418UTxLO7M"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "bumbum",
         "url": "https://open.spotify.com/album/5mUpyRy9NxWCseD55l0dXR"
@@ -261,7 +273,7 @@
       "url": "https://open.spotify.com/track/3eDUyh00ahBwG9UQb7d20R"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Segunda Chance",
         "url": "https://open.spotify.com/album/0uDDj3QQ7ziTjKTzwW5kuc"
@@ -285,7 +297,7 @@
       "url": "https://open.spotify.com/track/4pMuVA8t24Gnbu95a11thE"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Nume - Ep\u00edlogo",
         "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
@@ -309,7 +321,7 @@
       "url": "https://open.spotify.com/track/6qnNkLzQo9IfTlkJ8Fe18L"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "O Tempo Passou",
         "url": "https://open.spotify.com/album/6kWAFtLo7Oe5KsRW6prGSd"
@@ -337,7 +349,7 @@
       "url": "https://open.spotify.com/track/5kpJpH0yI1ORxB1y9JlwoL"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Inocente",
         "url": "https://open.spotify.com/album/639jfml906TALa1JUO7fD9"
@@ -353,7 +365,7 @@
       "url": "https://open.spotify.com/track/5Fv7Nxrq0JKyCLq5qnjAv8"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "KARAVANA",
         "url": "https://open.spotify.com/album/1QarWNaXUycLyAGM0kZvhS"
@@ -369,7 +381,7 @@
       "url": "https://open.spotify.com/track/6s02DPRlAkmDIqRWDNb780"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Fique Rico ou Morra Tentando",
         "url": "https://open.spotify.com/album/65AQZPLNlKmOxpKCmskJEx"
@@ -389,7 +401,7 @@
       "url": "https://open.spotify.com/track/2cP1wTvafMPXLVlLpImpkm"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Como C\u00ea Consegue?",
         "url": "https://open.spotify.com/album/1A30IeNDDgjyXMCm4pqz8Q"
@@ -409,7 +421,7 @@
       "url": "https://open.spotify.com/track/1rXKifiSYvwmA0ZOacNemE"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "1%",
         "url": "https://open.spotify.com/album/6BuOFiMYMoRLmU88P5K0cf"
@@ -429,7 +441,7 @@
       "url": "https://open.spotify.com/track/25qfkiAp2ZrTJ3EuKeC0tZ"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Experi\u00eancia",
         "url": "https://open.spotify.com/album/16ccY5kLhQiO7TsWPl3Gq8"
@@ -445,7 +457,7 @@
       "url": "https://open.spotify.com/track/2insVRGjZplS4DbcVdCFE6"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Filho Pr\u00f3digo",
         "url": "https://open.spotify.com/album/01CsnOi81XA5BiLxEtwE9R"
@@ -465,7 +477,7 @@
       "url": "https://open.spotify.com/track/7hA5YGYS0tml6CFc8jv6vn"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "FRAGMENTADO",
         "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
@@ -489,7 +501,7 @@
       "url": "https://open.spotify.com/track/4TF3V6LQIDTdvx9gVZSMZw"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Subversiva",
         "url": "https://open.spotify.com/album/0rCHPBTLyjjhaQktBysqFp"
@@ -513,7 +525,7 @@
       "url": "https://open.spotify.com/track/5fZNWp1WG34spCEuGTc3F0"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "At\u00e9 A \u00daltima Rima",
         "url": "https://open.spotify.com/album/0q7BnzgfpF9TiaYAN01K3E"
@@ -537,7 +549,7 @@
       "url": "https://open.spotify.com/track/3hgdjjUE7JKyo7o7xOyX9q"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Aruanda",
         "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
@@ -561,7 +573,7 @@
       "url": "https://open.spotify.com/track/6PDNMJ0X2e35RJqEsHbycF"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Eu Venci o Mundo",
         "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
@@ -581,7 +593,7 @@
       "url": "https://open.spotify.com/track/298ionVvjnAHlD0IqYVYfC"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Quem t\u00e1 de olho sabe",
         "url": "https://open.spotify.com/album/3VbFyEaAQGVthA6zBBdng7"
@@ -601,7 +613,7 @@
       "url": "https://open.spotify.com/track/1xE80pgXzTylPRgq2ZIzWx"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "As Ruas Sabem",
         "url": "https://open.spotify.com/album/5G8ynaMWlmRXq9cqwYVGZ4"
@@ -621,7 +633,7 @@
       "url": "https://open.spotify.com/track/1DKv50EYnNL35ishbxdG08"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Perfil #115 - Antagonista",
         "url": "https://open.spotify.com/album/4yjusPpFPyzJ0lqCyCBIj0"
@@ -645,7 +657,7 @@
       "url": "https://open.spotify.com/track/4J5ImUBRBJvhKpWRjNPmfP"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "At\u00e9 A \u00daltima Rima",
         "url": "https://open.spotify.com/album/0q7BnzgfpF9TiaYAN01K3E"
@@ -669,7 +681,7 @@
       "url": "https://open.spotify.com/track/6CloyUaUDsg2gOp51hT9ao"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Na Altura do Leme",
         "url": "https://open.spotify.com/album/0qvPkeVclBTLAou1u8AODx"
@@ -689,7 +701,7 @@
       "url": "https://open.spotify.com/track/2N6H6SQHevzX7Z6mUoxX45"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Esta\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/59AGk9WNR7CPORlW7X9OjB"
@@ -713,7 +725,7 @@
       "url": "https://open.spotify.com/track/4hNPRV0tzfZoKPnvhFio40"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Nos Tornamos Estranhos",
         "url": "https://open.spotify.com/album/5hegLclkT2Nt4zt5I3dWSx"
@@ -741,7 +753,7 @@
       "url": "https://open.spotify.com/track/5AENWVhhcLH7NtaLb3llNj"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "O BOM MALANDRO",
         "url": "https://open.spotify.com/album/25Q7xh5nWCnSqzmg9iCW8q"
@@ -769,7 +781,7 @@
       "url": "https://open.spotify.com/track/6SOcB6njTxX3LyhAWmL2IK"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Conselhos",
         "url": "https://open.spotify.com/album/6T4RCs20a3ljgaAeBcH2nA"
@@ -793,7 +805,7 @@
       "url": "https://open.spotify.com/track/2SLRtzIfhVhtvzLspQ9Xzj"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "CARO Vapor II - qual a forma de pagamento ?",
         "url": "https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ"
@@ -809,7 +821,7 @@
       "url": "https://open.spotify.com/track/094GGI5rNCfXO8TmWBVE58"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/3jGBkZE4D2zbTYeWSny4RI"
@@ -833,7 +845,7 @@
       "url": "https://open.spotify.com/track/7Lum2Q2VG0Paq9adSxNTSi"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Minissaia",
         "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
@@ -861,7 +873,7 @@
       "url": "https://open.spotify.com/track/0D0GflJErwCQiH3P3kQ8I5"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/2aMzKZC8Uf4fwBMb4aRc8S"
@@ -885,7 +897,7 @@
       "url": "https://open.spotify.com/track/2g9wQ8vRvkBJ4DSZyQnibc"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Papel de Parede",
         "url": "https://open.spotify.com/album/6QIOkiXTwXxuTmwwE8ryBB"
@@ -909,7 +921,7 @@
       "url": "https://open.spotify.com/track/5cxRsPiltsPPuD1TWeKvIM"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Trabalho Profundo",
         "url": "https://open.spotify.com/album/720UYLgB1a0WHGwGktPpNF"
@@ -933,7 +945,7 @@
       "url": "https://open.spotify.com/track/7qnOZa8XTSEpNIYfOui9Od"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Flor de Maio",
         "url": "https://open.spotify.com/album/18jhTVeRNyNOTkM1YeOYZt"
@@ -961,7 +973,7 @@
       "url": "https://open.spotify.com/track/33wlhom1u9DpjP28vbjj1u"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "FRAGMENTADO",
         "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
@@ -981,7 +993,7 @@
       "url": "https://open.spotify.com/track/48prukdF0AI4Q7AMOzkxnQ"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Quadro",
         "url": "https://open.spotify.com/album/71DLGrqX4oQzLPc477xyJh"
@@ -997,7 +1009,7 @@
       "url": "https://open.spotify.com/track/5DITVmMdKSgfBDAJYopO7t"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "FRAGMENTADO",
         "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
@@ -1025,7 +1037,7 @@
       "url": "https://open.spotify.com/track/7bPTMDWD7XMJY6VYQKwDd8"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "DOIS Quebrada Inteligente",
         "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
@@ -1049,7 +1061,7 @@
       "url": "https://open.spotify.com/track/0sdoMuL7ZIHl6Apq2WUhzJ"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Entreato",
         "url": "https://open.spotify.com/album/7nCCjXlUUL2m1KVxTQ1AeN"
@@ -1081,7 +1093,7 @@
       "url": "https://open.spotify.com/track/1r5cctDlvf8n0oN2fMbllQ"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "KM2",
         "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
@@ -1101,7 +1113,7 @@
       "url": "https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "KM2",
         "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
@@ -1125,7 +1137,7 @@
       "url": "https://open.spotify.com/track/0RIbrYxa06ta7MAlYCIGrI"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "O Sil\u00eancio Que Grita",
         "url": "https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO"
@@ -1145,7 +1157,7 @@
       "url": "https://open.spotify.com/track/1gAbgL7hZs8QQhh3MbpiOQ"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Depois do Depois (RMX)",
         "url": "https://open.spotify.com/album/1c2F2ZdWqMsUs83e6M45Pa"
@@ -1173,7 +1185,7 @@
       "url": "https://open.spotify.com/track/7jd1NNRTjnE2iaz5TWKZpQ"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "O Sil\u00eancio Que Grita",
         "url": "https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO"
@@ -1189,7 +1201,7 @@
       "url": "https://open.spotify.com/track/2Wjiy1i90VSDOMvcBb6xuD"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Dinheiro",
         "url": "https://open.spotify.com/album/0d6h65qdwZYVDlhaBvYzBV"
@@ -1221,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3vWpbyVS74IcOPH54L24b0"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Fragmentos de Amor",
         "url": "https://open.spotify.com/album/2nubiusFdYhBiTETBLikHh"
@@ -1249,7 +1261,7 @@
       "url": "https://open.spotify.com/track/72YndtlfHyl5Z5NE2qikkU"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "ASSALTOS E BATIDAS",
         "url": "https://open.spotify.com/album/5ZCEu4tVlxt0PR0J4NJ0Ex"
@@ -1273,7 +1285,7 @@
       "url": "https://open.spotify.com/track/5rmZvDdnuxDUq2OPoDN2sA"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Amar D\u00f3i, Vol. 2",
         "url": "https://open.spotify.com/album/3o60qhnZubInLfU8HHGgcY"
@@ -1289,7 +1301,7 @@
       "url": "https://open.spotify.com/track/6WQu3S1TRFsCFXHKgVrD1a"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Voos Internacionais, Vol. 1",
         "url": "https://open.spotify.com/album/3eip3ngQ3QRXbYsSdB0nNv"
@@ -1317,7 +1329,7 @@
       "url": "https://open.spotify.com/track/15Nl42HI0UHKmh5U7v2mfB"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "hist\u00f3rias de kebrada para pessoas malcriadas",
         "url": "https://open.spotify.com/album/0ZwvFgHfUMm9ABLpoP6Hrx"
@@ -1333,7 +1345,7 @@
       "url": "https://open.spotify.com/track/7K2oVsqRnKdK7qABPu1HcA"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "O cen\u00e1rio queima",
         "url": "https://open.spotify.com/album/1Dyx7adiAd8pvgO2zDB2PK"
@@ -1353,7 +1365,7 @@
       "url": "https://open.spotify.com/track/74clqErgwlROeox3O4fDwz"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Di\u00e1rio De Um Underground",
         "url": "https://open.spotify.com/album/6NCMJN5U7b2zm3uwPv8S2s"
@@ -1373,7 +1385,7 @@
       "url": "https://open.spotify.com/track/5UvOzm8jz0WXFkezWCCTF4"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Tiro sem Rosto",
         "url": "https://open.spotify.com/album/1TIdHsbqIt3yTmYEsmOdRz"
@@ -1393,7 +1405,7 @@
       "url": "https://open.spotify.com/track/7kDeuX7dpDW5wKF1VE16g5"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Jogo Sujo",
         "url": "https://open.spotify.com/album/5Eu95tFuJGfBLvqA9XnGR0"
@@ -1417,7 +1429,7 @@
       "url": "https://open.spotify.com/track/3G5pPfJCDm5Nrzc7StHjrj"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "FRAGMENTADO",
         "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
@@ -1437,7 +1449,7 @@
       "url": "https://open.spotify.com/track/0gXPalg35be7z7TONlqJl0"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "O Barulhento Sil\u00eancio da Resili\u00eancia",
         "url": "https://open.spotify.com/album/37WnFwASKKZmgNU6acBXKH"
@@ -1461,7 +1473,7 @@
       "url": "https://open.spotify.com/track/38Uo0ES52YMhLYRmJlhURv"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Drive Slow",
         "url": "https://open.spotify.com/album/4ZkYOm4XXMJvhc1ouMkEXx"
@@ -1485,7 +1497,7 @@
       "url": "https://open.spotify.com/track/7FJsOGDaIDO59ptmSlFrox"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Aquelas Notas",
         "url": "https://open.spotify.com/album/6IIX6Jbma40wOEOg1POXO3"
@@ -1501,7 +1513,7 @@
       "url": "https://open.spotify.com/track/6zhgG9YRvONeiEZG5DxTJ1"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Open Mic Brasil #1 - Cobran\u00e7a",
         "url": "https://open.spotify.com/album/25WrtfQC51X9gFe6rlKAkL"
@@ -1525,7 +1537,7 @@
       "url": "https://open.spotify.com/track/4bVgknyp7FmYJBtyrlDWCT"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Antene-se",
         "url": "https://open.spotify.com/album/36oE9kWZIpvleT2B9Q22Mv"
@@ -1545,7 +1557,7 @@
       "url": "https://open.spotify.com/track/7o7j9NRn2m3qBIuLkQ8vDz"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Instrumento de Paz (Remix)",
         "url": "https://open.spotify.com/album/0Tf5Y3WNK6CbUylSCBvavH"
@@ -1569,7 +1581,7 @@
       "url": "https://open.spotify.com/track/2MACkKX5EE0GUp82VQd91p"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Nada Novo Sob o Sol",
         "url": "https://open.spotify.com/album/0dRCf48ay4IzJCRTPuzMRT"
@@ -1589,7 +1601,7 @@
       "url": "https://open.spotify.com/track/4BZetzpKhBHNSWIy1tGdLV"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Espelho",
         "url": "https://open.spotify.com/album/5qjLgRxaQRY8VR5QB3soLR"
@@ -1609,7 +1621,7 @@
       "url": "https://open.spotify.com/track/4gMSR5jjqJR2ShN5zaamIQ"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "No Cais, Pt. 2",
         "url": "https://open.spotify.com/album/4v6epim36lXU2WcKIESFYg"
@@ -1629,7 +1641,7 @@
       "url": "https://open.spotify.com/track/67E2SsRClw94caRkxBkhf8"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Afrokalipse - O Retorno",
         "url": "https://open.spotify.com/album/3hC4QSS7J6RGJ6pmBDfOfR"
@@ -1653,7 +1665,7 @@
       "url": "https://open.spotify.com/track/1sUkwtpFnyysZJtug1F00m"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "hist\u00f3rias de kebrada para pessoas malcriadas",
         "url": "https://open.spotify.com/album/0ZwvFgHfUMm9ABLpoP6Hrx"
@@ -1673,7 +1685,7 @@
       "url": "https://open.spotify.com/track/647grRFeuOEhLBlKgYyN3O"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Fleezus On The Radar Freestyle",
         "url": "https://open.spotify.com/album/4AfPkEvsL1gJKsohr8ciGi"
@@ -1697,7 +1709,7 @@
       "url": "https://open.spotify.com/track/1d0AkcqsyjeAebZjjOKvTy"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Voos Internacionais, Vol. 2",
         "url": "https://open.spotify.com/album/7gzZ5z8Nd66LrjXu71Z3Bj"
@@ -1725,7 +1737,7 @@
       "url": "https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "ASSALTOS E BATIDAS",
         "url": "https://open.spotify.com/album/5ZCEu4tVlxt0PR0J4NJ0Ex"
@@ -1749,7 +1761,7 @@
       "url": "https://open.spotify.com/track/1U2Qs78upU9VjYRjJBmmM0"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "hist\u00f3rias de kebrada para pessoas malcriadas",
         "url": "https://open.spotify.com/album/0ZwvFgHfUMm9ABLpoP6Hrx"
@@ -1765,7 +1777,7 @@
       "url": "https://open.spotify.com/track/6hFlqsqUiZhODLiEmKcgag"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "O Legado de Pryor",
         "url": "https://open.spotify.com/album/6leeLmMxlbzgNp2sUlvI78"
@@ -1785,7 +1797,7 @@
       "url": "https://open.spotify.com/track/0bl65hTxI5naKhEMKsGA5Z"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "MERC\u00daRIO EM C\u00c2NCER",
         "url": "https://open.spotify.com/album/5APa6S6BAhmFTy7fP2lZGp"
@@ -1805,7 +1817,7 @@
       "url": "https://open.spotify.com/track/4lhWuWc0vE38yKUVEqLEwt"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "2 Pesos, V\u00e1rias Medidas Remix",
         "url": "https://open.spotify.com/album/7EziNjt5vZwb5WRBfTe3Vx"
@@ -1829,7 +1841,7 @@
       "url": "https://open.spotify.com/track/5aKzfoUoWfp5WAMioQCXm1"
     },
     {
-      "added_at": "2025-07-18 03:00:27",
+      "added_at": "2025-07-25 03:00:24",
       "album": {
         "name": "Perfil #111 - Death Note",
         "url": "https://open.spotify.com/album/6mD06ZVgoct7pEB7gCIxsK"

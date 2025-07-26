@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Kick it with some of the hottest bars from Uganda +256",
+  "description": "Kick it with some of the hottest bars from Uganda +256. Cover: The Mith",
   "name": "256 Bars",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 207725,
       "name": "Ballin Boo",
       "url": "https://open.spotify.com/track/0FP3ZHQcDKf2FHZtAGMoEq"
@@ -488,6 +488,36 @@
       "duration_ms": 209562,
       "name": "City Ya Babwongo",
       "url": "https://open.spotify.com/track/1MzDCy9CyhRKPpclnwqRXx"
+    },
+    {
+      "album": {
+        "name": "The Ugandan, Vol. 2 (Bali-Okwabwe)",
+        "url": "https://open.spotify.com/album/0VlyUWWftAv0HvzZO1GnnE"
+      },
+      "artists": [
+        {
+          "name": "The Mith",
+          "url": "https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf"
+        },
+        {
+          "name": "Navio",
+          "url": "https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ"
+        },
+        {
+          "name": "Big Tril",
+          "url": "https://open.spotify.com/artist/3VY9mDRZ1p3OMWAaAsH4bG"
+        },
+        {
+          "name": "Dagg Mizzo",
+          "url": "https://open.spotify.com/artist/0GMFz3B6MYqCGZDxTEhkwo"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Coast 2 Coast",
+      "url": "https://open.spotify.com/track/6MH9rBE66YoTaE438WG1vc"
     },
     {
       "album": {
@@ -846,7 +876,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 227526,
       "name": "Ego",
       "url": "https://open.spotify.com/track/2QHwHoWDSLHGEyIbuVnruw"
@@ -2516,7 +2546,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 260571,
       "name": "Queen's Cry",
       "url": "https://open.spotify.com/track/1t6tMvl0H9SpcLfcMKLnzb"
@@ -2926,7 +2956,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 194571,
       "name": "The Best In Me",
       "url": "https://open.spotify.com/track/7mtgz4bjHoDPutsSnMXAEf"
@@ -2990,7 +3020,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 217872,
       "name": "The Light",
       "url": "https://open.spotify.com/track/19cwYaC0NLUA7B3Q3LvQS7"
@@ -3108,7 +3138,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 140513,
       "name": "Trap House",
       "url": "https://open.spotify.com/track/43zm30JtK99xSDIGGnGnXU"

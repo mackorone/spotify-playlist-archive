@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Valence
+> La scène musicale montréalaise au premier plan\. Photo: Ariane Roy
 
-607 songs - 1 day 10 hr 39 min
+609 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [5AM](https://open.spotify.com/track/3riOdbVB5Ma1SrhKjBt7bl) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Across The Room](https://open.spotify.com/album/5xD3AZ3zsBzhXFCcEmULkD) | 3:26 | 2023-02-26 | 2024-03-23 |
 | [<3 <\~je\~> 3>](https://open.spotify.com/track/79g50LUtLlZSQ4RtF4lwAF) | [La Bronze](https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK), [Wake Island](https://open.spotify.com/artist/0FXZWBe4MYnB5ArTU9RnXE) | [<3 <\~je\~> 3>](https://open.spotify.com/album/5MgEhsYvAMIOwnMssvVECb) | 3:03 | 2023-05-19 | 2024-08-03 |
 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 | 2022-07-15 | 2023-09-16 |
+| [Abigail](https://open.spotify.com/track/46ub00quUTby9VKlkcxtro) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Abigail](https://open.spotify.com/album/69GPPU341cZ0ZzOI6R1ape) | 2:40 | 2025-07-25 |  |
 | [Actress](https://open.spotify.com/track/0jhruq62eOzLG3tH2haDVh) | [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq) | [Desire Days](https://open.spotify.com/album/5icDh0mJkNBgAC89IlGZg2) | 4:46 | 2025-06-23 |  |
 | [Addiction](https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Comme dans un penthouse](https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR) | 3:29 | 2023-09-22 | 2025-03-22 |
 | [Addictive/Predictive](https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Addictive/Predictive](https://open.spotify.com/album/2WY7da8tmSlMTrZt0nYdUF) | 3:58 | 2022-03-25 | 2022-11-26 |
@@ -43,12 +44,13 @@
 | [Another Stone](https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:10 | 2025-05-23 |  |
 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 | 2023-10-27 | 2024-05-04 |
 | [Ari](https://open.spotify.com/track/6pE3yQ8dBQNDOdUs7dMnsa) | [Édouard Tremblay\-Grenier](https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X) | [Ari](https://open.spotify.com/album/6oW6cEZMm901BlM7CznAtI) | 2:26 | 2025-04-11 |  |
-| [Artificial Genuine](https://open.spotify.com/track/2dT9WvXLGizL5Oz4CsJLT9) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Surfacing](https://open.spotify.com/album/2ER1TDjFLnhzAk0zKqVl5p) | 3:36 | 2024-04-05 |  |
+| [Artificial Genuine](https://open.spotify.com/track/2dT9WvXLGizL5Oz4CsJLT9) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Surfacing](https://open.spotify.com/album/2ER1TDjFLnhzAk0zKqVl5p) | 3:36 | 2024-04-05 | 2025-07-26 |
 | [Arène](https://open.spotify.com/track/2XM74PW22MJ6vEGruNXHjD) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Arène](https://open.spotify.com/album/3isZboZjEieVd3j5DqYNQp) | 3:05 | 2024-04-26 | 2024-10-12 |
 | [Arène](https://open.spotify.com/track/5AgWg6qG7Q0tEPpoHfyUFJ) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Déjà](https://open.spotify.com/album/0ImCalqqaJI0rh6XiAfDOf) | 3:05 | 2024-12-04 | 2025-01-14 |
 | [Astray](https://open.spotify.com/track/0dDuTVzcx3YK9m9035G1rF) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 3:53 | 2023-09-22 | 2024-08-31 |
 | [Astray](https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Astray](https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz) | 3:53 | 2023-08-18 | 2023-09-23 |
 | [AT MINES](https://open.spotify.com/track/5JUCZa9TG7IPdyh5ZWeuZd) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [The Sky Is Recording Me: 100 Years Later, Vol\. 1](https://open.spotify.com/album/1dsPdpA7z3yi6po3NVLqNu) | 3:33 | 2024-09-06 |  |
+| [Avalanche](https://open.spotify.com/track/0Zk0EvHy7k5U6iQyXwunC6) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Avalanche](https://open.spotify.com/album/7BEY4krHDB0JNdY1157peL) | 3:33 | 2025-07-25 |  |
 | [Avant de redescendre](https://open.spotify.com/track/4UNQK6kvnSFYakfM66LBTI) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x), [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Avant de redescendre](https://open.spotify.com/album/7aZwJYADPJHtGypapaMn63) | 4:00 | 2024-03-08 | 2024-08-17 |
 | [Avant Elle](https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:20 | 2023-09-29 | 2025-03-22 |
 | [Avant Elle](https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Avant Elle](https://open.spotify.com/album/37HLuNvMsD3ibgohJHropW) | 3:20 | 2023-05-05 | 2023-09-30 |
@@ -486,7 +488,7 @@
 | [Rouge Blanc](https://open.spotify.com/track/3lgz1irr7pyERou6uA1g4i) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Rouge Blanc](https://open.spotify.com/album/6bfCe5L8ncyo5vbGat4o3Z) | 3:19 | 2025-03-21 |  |
 | [RRSP/Grosse pièce](https://open.spotify.com/track/2MuxgalGMFkfg0rDVAyfxO) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Un homme et son piano](https://open.spotify.com/album/7mKgZN8UNAQEzhRQ2KQxcl) | 4:15 | 2022-04-01 | 2022-09-24 |
 | [Rue Dandurand \(feat\. Le Couleur\) \[Radio Edit\]](https://open.spotify.com/track/0dzcCp79Af8Zy63Jcc4KVb) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Rue Dandurand \(feat\. Le Couleur\) \[Radio Edit\]](https://open.spotify.com/album/3dj2qkPCAea8t4lX51L0cU) | 2:35 | 2024-04-19 | 2024-09-07 |
-| [Rêve le fun](https://open.spotify.com/track/2Vz21NV1mAx9dbIUJcUTEu) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Rêve le fun](https://open.spotify.com/album/5C7d50ode6n6laOBx2w775) | 3:16 | 2024-03-29 |  |
+| [Rêve le fun](https://open.spotify.com/track/2Vz21NV1mAx9dbIUJcUTEu) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Rêve le fun](https://open.spotify.com/album/5C7d50ode6n6laOBx2w775) | 3:16 | 2024-03-29 | 2025-07-26 |
 | [S'a switch](https://open.spotify.com/track/3ZFdU8R1Mpt06aWwrol9Rz) | [Irène](https://open.spotify.com/artist/5nK5s5oK58IWpRwWcoogYS) | [S'a switch](https://open.spotify.com/album/7FXdzvwPoL4duEEvJrnBfh) | 4:20 | 2024-07-26 | 2024-08-24 |
 | [S'il n'est pas à mes côtés ce matin, j'irai au champ quand même](https://open.spotify.com/track/5iiufGJxYKT9GDDXdpLu4G) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [S'il n'est pas à mes côtés ce matin, j'irai au champ quand même](https://open.spotify.com/album/4C4O4ksW4gBjVMqk08yNym) | 4:50 | 2022-03-25 | 2023-02-04 |
 | [SABOTAGE](https://open.spotify.com/track/0EhNBdXyImhnYWKpgXvIVc) | [Oliver Forest](https://open.spotify.com/artist/0suucqqvdSvSNRyfvzEBe7) | [SABOTAGE](https://open.spotify.com/album/4NrrsDtH1VJSeoQsakvKkQ) | 2:50 | 2024-05-17 |  |

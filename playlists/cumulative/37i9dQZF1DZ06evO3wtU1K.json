@@ -173,6 +173,28 @@
     },
     {
       "album": {
+        "name": "TASHA",
+        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2025-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242333,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/4FQXeaugZnVS5XfIwBLJ7T"
+    },
+    {
+      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -662,7 +684,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 198932,
       "name": "Help",
       "url": "https://open.spotify.com/track/4IH3fJUWdjBjN8kluvRxfL"

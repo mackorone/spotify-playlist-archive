@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Luciano Pereyra",
+  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Un Verano y Olivia Wald",
   "name": "Esto es Pop",
   "tracks": [
     {
@@ -696,7 +696,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 193246,
       "name": "A\u00f1os Luz",
       "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
@@ -950,6 +950,24 @@
       "duration_ms": 202967,
       "name": "CALENT\u00d3N",
       "url": "https://open.spotify.com/track/5dtNrI6WMGCTBbK8499242"
+    },
+    {
+      "album": {
+        "name": "Callej\u00f3n de las baladas",
+        "url": "https://open.spotify.com/album/5CI2nC3nSEcQGun2tl46GV"
+      },
+      "artists": [
+        {
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156728,
+      "name": "Callej\u00f3n de las baladas",
+      "url": "https://open.spotify.com/track/023BIHVBBkeDf4uO26fs3j"
     },
     {
       "album": {
@@ -1452,6 +1470,28 @@
       "duration_ms": 302597,
       "name": "Despacio Que Hay Prisa",
       "url": "https://open.spotify.com/track/1aSY7vLVCmles61P034Gpm"
+    },
+    {
+      "album": {
+        "name": "Despu\u00e9s De Querer",
+        "url": "https://open.spotify.com/album/52alQLRP5iKEELYns0haCG"
+      },
+      "artists": [
+        {
+          "name": "Un Verano",
+          "url": "https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN"
+        },
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184891,
+      "name": "Despu\u00e9s De Querer",
+      "url": "https://open.spotify.com/track/3GRhGOYsbuetsLTJBuS74m"
     },
     {
       "album": {
@@ -2704,7 +2744,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 152117,
       "name": "JURO QUE ME DOLIO",
       "url": "https://open.spotify.com/track/79m3yH0VRc0dSrqg8lXot3"
@@ -4644,7 +4684,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 209274,
       "name": "No Te Enamores De M\u00ed",
       "url": "https://open.spotify.com/track/7MiY7xDFio33qx7GGALlMH"
@@ -6564,7 +6604,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 169500,
       "name": "Tu nombre",
       "url": "https://open.spotify.com/track/70Rx77BiD11V36of4bycUD"

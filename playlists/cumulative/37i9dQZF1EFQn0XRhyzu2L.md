@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-608 songs - 1 day 9 hr 31 min
+609 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,8 +331,9 @@
 | [Matches](https://open.spotify.com/track/5x0ON9RTinvk06U7SwLXjW) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 2:52 | 2025-07-08 |  |
 | [Me & The Rhythm](https://open.spotify.com/track/4a32Q7bRtWDGSEMbyWKIlj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:33 | 2024-02-27 |  |
 | [Me Without You](https://open.spotify.com/track/02XUnEfZexXh9bj66FeK4Y) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:33 | 2024-02-27 |  |
+| [Mean Girls](https://open.spotify.com/track/5AspWMn9KWy9VxeIhZnRcu) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/7zDBcYSeMAVESJXnVJnzM4) | 3:36 | 2025-07-25 |  |
 | [Mean Girls](https://open.spotify.com/track/5u9BcWGR5e1VlXPU0SY8OT) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 3:36 | 2025-06-30 | 2025-07-10 |
-| [Mean Girls](https://open.spotify.com/track/6oDFDGaAayXd8HXmynsgPv) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 3:36 | 2025-07-10 |  |
+| [Mean Girls](https://open.spotify.com/track/6oDFDGaAayXd8HXmynsgPv) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 3:36 | 2025-07-10 | 2025-07-26 |
 | [Meet You There](https://open.spotify.com/track/4YYmvuwndD3YNfi43M7EC5) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:10 | 2024-02-27 |  |
 | [Melon Cake](https://open.spotify.com/track/1qWjN1wINoiSJJqEXjiD0h) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:32 | 2024-02-27 |  |
 | [Merely Players \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/3Vrn7I9q2Lz7VvQNIzmuQ2) | [Ari Notartomaso](https://open.spotify.com/artist/3kpcOPO2xmHh1ClcFXnd5o), [Niamh Wilson](https://open.spotify.com/artist/06B6LBieVFwAXZW6Tj7Lca), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:43 | 2024-02-27 | 2025-06-28 |

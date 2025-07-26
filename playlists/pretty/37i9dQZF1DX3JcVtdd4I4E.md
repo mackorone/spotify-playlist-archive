@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,635 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,636 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 18 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
 | 19 | [Wild Geese, Wild Love](https://open.spotify.com/track/7wNUuMw0R3gtYBpxaoGb64) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Your Hand Forever Checking On My Fever](https://open.spotify.com/album/3NEBgveq4crE0VXBZVw4Q9) | 5:23 |
 | 20 | [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 |
-| 21 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
-| 22 | [Pretty Boy](https://open.spotify.com/track/557jdZsn0FAltJXgenminf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pretty Boy](https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5) | 3:51 |
+| 21 | [Pretty Boy](https://open.spotify.com/track/557jdZsn0FAltJXgenminf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pretty Boy](https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5) | 3:51 |
+| 22 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
 | 23 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 |
 | 24 | [Picking Up](https://open.spotify.com/track/6tNIRsPksF7AO6dzE2zjlP) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Romeo](https://open.spotify.com/album/4JILgQ2bXqNFc0QvIGb0LR) | 3:19 |
 | 25 | [Venus](https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:27 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 51 | [No Room For Love](https://open.spotify.com/track/3Xz5IqnHEeyJ9xnMJwXtla) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [No Room For Love](https://open.spotify.com/album/75Vumdz8ONJyJX3LGXHpf8) | 2:57 |
 | 52 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |
 | 53 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
-| 54 | [Always Hurts](https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Always Hurts](https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR) | 3:17 |
-| 55 | [Drive With Our Eyes Closed](https://open.spotify.com/track/7LSJBkFyVA0XxQR9xAYWfy) | [Bye Bye Brenda](https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0) | [Landmarks](https://open.spotify.com/album/2eQeTTJ8jwC4QgOoKGiLFp) | 3:55 |
+| 54 | [Drive With Our Eyes Closed](https://open.spotify.com/track/7LSJBkFyVA0XxQR9xAYWfy) | [Bye Bye Brenda](https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0) | [Landmarks](https://open.spotify.com/album/2eQeTTJ8jwC4QgOoKGiLFp) | 3:55 |
+| 55 | [Always Hurts](https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Always Hurts](https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR) | 3:17 |
 | 56 | [Test It](https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 2:46 |
 | 57 | [Pluto \- Bonus Track](https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Home](https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn) | 2:51 |
 | 58 | [Starvation \- ANNA Remix](https://open.spotify.com/track/7racFB8xJL7gZYMEKi1bPH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Starvation \(ANNA Remix\)](https://open.spotify.com/album/1tUjq2hEU8AXZRGaFQk7pr) | 3:33 |

@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: YMA
 
-787 songs - 1 day 20 hr 41 min
+789 songs - 1 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Colors](https://open.spotify.com/track/7o8znc6DQLM2HVm0X0aEck) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Colors](https://open.spotify.com/album/1n6hMhTl4PqPn5tTfQGQ86) | 3:39 | 2023-01-20 | 2023-04-29 |
 | [Como Me Dói](https://open.spotify.com/track/5AZc8v8x5svqEnsOQYY9kY) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [Clube Dezenove](https://open.spotify.com/artist/719qMl6Gpbyr3h56RZ7RQT) | [Como Me Dói](https://open.spotify.com/album/3g7BficCAod2FcfAyLCXVF) | 2:36 | 2023-10-13 | 2023-12-02 |
 | [Como Vai Você?](https://open.spotify.com/track/0jZGKkbAt7bTKEdmUkH0o6) | [Gabriel Campos](https://open.spotify.com/artist/3jBbW1WUmpJF8lwJm3rQxb) | [Como Vai Você?](https://open.spotify.com/album/57I1bIi2uAeUylTILpAJkJ) | 3:28 | 2023-02-03 | 2023-03-03 |
+| [Confissão](https://open.spotify.com/track/2rIve8Bzo7b0x5u2CahwPJ) | [Paira](https://open.spotify.com/artist/5zp72qFQJre0AGm5eIdFVW) | [Confissão](https://open.spotify.com/album/2ETWgGs7LWfgC24JOI3jDV) | 3:35 | 2025-07-25 |  |
 | [Consciente](https://open.spotify.com/track/44DfRvxTdq4taWVWeuuRjI) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Consciente](https://open.spotify.com/album/5uapryf0liDLNKnjjGycQD) | 2:57 | 2024-12-20 |  |
 | [Contramão](https://open.spotify.com/track/0lnmNrF8OlP3c4yyA5nDfn) | [Papôla](https://open.spotify.com/artist/75QtFEkddr2y6u35NZtG7I) | [Contramão](https://open.spotify.com/album/2lNbjxSBRCWxolD5x5eVqa) | 4:45 | 2025-01-17 | 2025-07-05 |
 | [Contramão](https://open.spotify.com/track/1CO9fTr4r9C9mFd8pMJh4W) | [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Plutão Já Foi Planeta](https://open.spotify.com/album/74Y9K1oIR6alco7bScWIYx) | 3:29 | 2023-09-01 | 2024-03-02 |
@@ -314,7 +315,7 @@
 | [Hasta Luego](https://open.spotify.com/track/3YYCBFMcYz5gHMq0de9BQY) | [A Olívia](https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg) | [Hasta Luego](https://open.spotify.com/album/4BTdDxiDn0ERcQJYQPLaMw) | 3:10 | 2024-12-06 |  |
 | [hear a whisper](https://open.spotify.com/track/75N1A9TxOLXYvhhXNSKbzT) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [hear a whisper](https://open.spotify.com/album/15j8jK2UEtKBxzbT0TQmfz) | 3:39 | 2025-02-21 |  |
 | [Hiperdrama](https://open.spotify.com/track/05ydEpbmq9hREtvEa06vWd) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Hiperdrama](https://open.spotify.com/album/1c6vK2tA3ysL1eVrp26viF) | 3:48 | 2024-09-27 | 2024-10-26 |
-| [História para Caçadores](https://open.spotify.com/track/5uEStAxDjasbVbNyP3wGRM) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [História para Caçadores](https://open.spotify.com/album/5Q3HgZYcBHvwDc7DECFghz) | 1:19 | 2024-12-20 |  |
+| [História para Caçadores](https://open.spotify.com/track/5uEStAxDjasbVbNyP3wGRM) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [História para Caçadores](https://open.spotify.com/album/5Q3HgZYcBHvwDc7DECFghz) | 1:19 | 2024-12-20 | 2025-07-26 |
 | [Hit](https://open.spotify.com/track/1WFwgI3X9MUsNwv5LVEJi4) | [Ian Medeiros](https://open.spotify.com/artist/6NTsJGOS7l7yWJh5IOSn94) | [Varanda](https://open.spotify.com/album/16vCNvwG9Rj4dC8N8rRokI) | 2:56 | 2022-01-14 | 2022-02-12 |
 | [Hoje é Seu Dia](https://open.spotify.com/track/0UyfXjzCrwQuQZc5U90AKJ) | [Joe Silhueta](https://open.spotify.com/artist/11fmKZ9ffAhZeKK0CBGrd4) | [Sobre saltos y outras quedas](https://open.spotify.com/album/3LxRfT1WmtXlD5Q2R4nu8r) | 3:49 | 2022-07-15 | 2022-08-06 |
 | [holy motors](https://open.spotify.com/track/4qw9MqCDQ4SuP5JyVg32kX) | [brvnks](https://open.spotify.com/artist/3aiMnxQVc0OvFr5vv8g5VW) | [holy motors](https://open.spotify.com/album/1v8B6f6uLDx78zpSS5KzGg) | 3:15 | 2022-02-18 | 2023-01-21 |
@@ -350,7 +351,7 @@
 | [juízo](https://open.spotify.com/track/4Yru56EsGo8cnuXERFPW2B) | [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [juízo](https://open.spotify.com/album/3moMNbPUID8PJRDJnVYYjZ) | 2:51 | 2023-08-18 | 2024-03-30 |
 | [Já Chegou ao Fim](https://open.spotify.com/track/2ShUPRqDDS3yWwiYH60fxU) | [Sérgio Sacra](https://open.spotify.com/artist/3NxtY4W1T0rci50byVVIPw) | [Duvide dos Astros](https://open.spotify.com/album/1oMFpAddDdZsY02OnNu4yN) | 3:14 | 2024-09-13 |  |
 | [Já Sei Bem](https://open.spotify.com/track/3kDmLxXVt51zY3tIBT23Hj) | [Maré Tardia](https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i) | [Já Sei Bem](https://open.spotify.com/album/0CAMmC8eKr3mSJ7bgnrAVj) | 2:06 | 2025-01-17 | 2025-07-12 |
-| [Lado a Lado](https://open.spotify.com/track/1S1BCou6QaSG5aYOgKxhsy) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt), [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Lado a Lado](https://open.spotify.com/album/6zK1tzUF2M2QmwZUcu8wf6) | 3:08 | 2025-03-14 |  |
+| [Lado a Lado](https://open.spotify.com/track/1S1BCou6QaSG5aYOgKxhsy) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt), [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Lado a Lado](https://open.spotify.com/album/6zK1tzUF2M2QmwZUcu8wf6) | 3:08 | 2025-03-14 | 2025-07-26 |
 | [Latada](https://open.spotify.com/track/3moZu44G3SRQipBcorIDsd) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Latada / Na Bad](https://open.spotify.com/album/5YL2vkCw7HJZvyvi1ADxow) | 4:47 | 2022-05-13 | 2022-07-23 |
 | [lave sua boca \(suja\) quando for falar de mim](https://open.spotify.com/track/2B6FmouvT6DchQ9F66K8Fs) | [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf) | [lave sua boca \(suja\) quando for falar de mim](https://open.spotify.com/album/0TBOkEVfhlnfQRK99DlpcT) | 2:56 | 2024-06-07 | 2024-07-13 |
 | [Lazy Dayz](https://open.spotify.com/track/0tQPk5aD0j9DfieEKVPGV5) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Lazy Dayz](https://open.spotify.com/album/2PLGOYtVU8FrlkylKvzCPt) | 4:59 | 2022-04-15 | 2022-07-09 |
@@ -476,6 +477,7 @@
 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 | 2022-07-08 | 2023-08-19 |
 | [Não Leve a Mal](https://open.spotify.com/track/0XKoKz5CJDrn6IeMUOS6t1) | [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb) | [Não Leve a Mal](https://open.spotify.com/album/6i1hGNWpDAvAEsQ7l0ftjD) | 3:50 | 2024-06-07 | 2025-01-25 |
 | [não mudo por ninguém](https://open.spotify.com/track/1fXTWjQEdNx0z8Yx383fDw) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [fantasia de um amor perfeito](https://open.spotify.com/album/2szRuIFgI3PccmXm2jmDCt) | 2:50 | 2023-05-12 | 2023-07-08 |
+| [Não pense](https://open.spotify.com/track/0NjqpVIPCSNvzobWScfi8r) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Não pense](https://open.spotify.com/album/5fS3KNM1kDF5j1QU3uh4ug) | 2:55 | 2025-07-25 |  |
 | [não posso ficar \(pra sempre\)](https://open.spotify.com/track/4xPYZzsyMbNTJISnGNRLnQ) | [camilobers](https://open.spotify.com/artist/7LY9xAlnzpYcuXNvmFQuXO), [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [não posso ficar \(pra sempre\)](https://open.spotify.com/album/3xaJvamcwjwwE51yIzVIRh) | 3:19 | 2022-12-16 | 2023-01-04 |
 | [Não Saio](https://open.spotify.com/track/5qasQTEYxcYe3GwZI3oWFv) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Não Saio](https://open.spotify.com/album/6DPb16RRvFWZiPR9e3xScw) | 2:23 | 2023-07-28 | 2024-03-02 |
 | [Não Se Mate](https://open.spotify.com/track/0PwmZFmoTNI7kr84TnPTnD) | [Pullovers](https://open.spotify.com/artist/1ZsvMFESteQsWl6wx4GXqE) | [Não Se Mate](https://open.spotify.com/album/4JXWdznL0zmj6G63Qcc0Hf) | 2:47 | 2023-07-21 | 2023-09-02 |

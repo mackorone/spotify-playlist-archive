@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Marko Glass
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,458 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,483 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 26 | [IBIZA](https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [HE$OYAM](https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2) | 3:03 |
 | 27 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 |
 | 28 | [Corina](https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Corina](https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi) | 3:41 |
-| 29 | [Anxius](https://open.spotify.com/track/0yQDfUIZTZDofXxCTIf8Gq) | [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [Silent Strike](https://open.spotify.com/artist/7wogO6QhOf6U31t2EHmAiS), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Deliric X Silent Strike III](https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch) | 3:00 |
+| 29 | [Birkin Baby](https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc) | [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Birkin Baby](https://open.spotify.com/artist/4zZ1uGFeKX0qXeiVvkcbxB) | [Birkin Baby](https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH) | 3:14 |
 | 30 | [Ofiter la pamant](https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Ofiter la pamant](https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl) | 2:12 |
 | 31 | [PESTE TOT](https://open.spotify.com/track/2akD1C98hzYuUnqslTor11) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PESTE TOT](https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd) | 2:26 |
-| 32 | [Birkin Baby](https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc) | [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Birkin Baby](https://open.spotify.com/artist/4zZ1uGFeKX0qXeiVvkcbxB) | [Birkin Baby](https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH) | 3:14 |
+| 32 | [Anxius](https://open.spotify.com/track/0yQDfUIZTZDofXxCTIf8Gq) | [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [Silent Strike](https://open.spotify.com/artist/7wogO6QhOf6U31t2EHmAiS), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Deliric X Silent Strike III](https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch) | 3:00 |
 | 33 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 |
 | 34 | [TUREAZ\-O](https://open.spotify.com/track/49TQJahxC2nOwzMuHeoMyo) | [AOUR](https://open.spotify.com/artist/2LjVvlBSYQOf4XY8hD5uRB), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [TUREAZ\-O](https://open.spotify.com/album/3dk71qXYTDWB1Jjr8lfIPq) | 3:06 |
 | 35 | [X6 V2](https://open.spotify.com/track/6hrkmWVqgogA0ySohfzCUv) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [X6 V2](https://open.spotify.com/album/5hJXqN5HEht3cPoKpHvged) | 2:29 |

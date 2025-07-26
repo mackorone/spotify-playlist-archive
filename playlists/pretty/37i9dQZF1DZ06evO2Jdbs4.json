@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 29865,
+  "num_followers": 29866,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAADD97qyd6DfaXn5eXrt2s/R",
+  "snapshot_id": "aIF3gAAAAAD8u7I0irkzX6ipuj7YvK4o",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Pensando en Ti",
-        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/5X4XT9GZFvPgpQGx7hjzJX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buen Pez",
         "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 178920,
       "name": "Separarnos",
       "url": "https://open.spotify.com/track/5A4j5H2BchA1SqYOvQ8I4I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siempre Pensando en Ti",
+        "url": "https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/5X4XT9GZFvPgpQGx7hjzJX"
     },
     {
       "added_at": null,

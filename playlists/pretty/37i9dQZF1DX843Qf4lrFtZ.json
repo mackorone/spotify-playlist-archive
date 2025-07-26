@@ -1,6 +1,6 @@
 {
   "description": "that\u2019s how it's supposed to be. living young, wild and free!!!!!",
-  "num_followers": 2668575,
+  "num_followers": 2668336,
   "original_name": "young, wild & free",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
+        "name": "uh oh",
+        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 169721,
+      "name": "uh oh",
+      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
-        "name": "uh oh",
-        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 169721,
-      "name": "uh oh",
-      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/7jRjPcWQMYGtD6gPBDZiAq"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 153626,
       "name": "2step",
       "url": "https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/7jRjPcWQMYGtD6gPBDZiAq"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -1871,18 +1871,22 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P"
+        "name": "WITHOUT YOU (with Miley Cyrus)",
+        "url": "https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 172597,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE"
+      "duration_ms": 161384,
+      "name": "WITHOUT YOU (with Miley Cyrus)",
+      "url": "https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g"
     }
   ],
   "unique_name": "young, wild & free",

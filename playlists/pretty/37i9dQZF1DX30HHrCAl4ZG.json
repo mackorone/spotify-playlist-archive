@@ -1,13 +1,29 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Rainbow Kitten Surprise",
-  "num_followers": 824307,
+  "description": "Explore all things indie rock right now. Featuring music from Wet Leg",
+  "num_followers": 824221,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHnG1AAAAAD7MyMfMhSvFB0m+WswkYNK",
+  "snapshot_id": "aIMBdAAAAABl9FW0wpQnwvnwy/yo0W0J",
   "tracks": [
+    {
+      "added_at": "2025-07-11 04:00:22",
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
     {
       "added_at": "2025-07-18 04:00:20",
       "album": {
@@ -25,6 +41,70 @@
       "url": "https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd"
     },
     {
+      "added_at": "2025-07-25 04:00:52",
+      "album": {
+        "name": "Iron",
+        "url": "https://open.spotify.com/album/1I37eoXjALZ9dOLeYOgJdQ"
+      },
+      "artists": [
+        {
+          "name": "Post Animal",
+          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+        }
+      ],
+      "duration_ms": 306007,
+      "name": "Setting Sun",
+      "url": "https://open.spotify.com/track/4bUHiFK6oq9Io4fAZPWSwW"
+    },
+    {
+      "added_at": "2025-07-25 04:00:52",
+      "album": {
+        "name": "Pick Up That Knife",
+        "url": "https://open.spotify.com/album/1s702unXFRlxgzQ5uZfAp0"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 261164,
+      "name": "Pick Up That Knife",
+      "url": "https://open.spotify.com/track/5ZcOoawIU0JU1se1prra62"
+    },
+    {
+      "added_at": "2025-07-25 04:00:52",
+      "album": {
+        "name": "What Do We Ever Really Know?",
+        "url": "https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "What Do We Ever Really Know?",
+      "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
+    },
+    {
+      "added_at": "2025-07-25 04:00:52",
+      "album": {
+        "name": "say something",
+        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 144544,
+      "name": "say something",
+      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
+    },
+    {
       "added_at": "2025-07-11 04:00:22",
       "album": {
         "name": "Taxes",
@@ -39,6 +119,38 @@
       "duration_ms": 197661,
       "name": "Taxes",
       "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
+    },
+    {
+      "added_at": "2025-07-25 04:00:52",
+      "album": {
+        "name": "Cross My Heart and Hope to Die",
+        "url": "https://open.spotify.com/album/46Y78DdMPxI4Vt0LAW2RnO"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "Cross My Heart and Hope to Die",
+      "url": "https://open.spotify.com/track/6bBv0aGohueaTw6KaLVWUD"
+    },
+    {
+      "added_at": "2025-07-25 04:00:52",
+      "album": {
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/2uZThExDEyJehRp7JnQwB5"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/66h3Yhag0c7N40tVcnHI9o"
     },
     {
       "added_at": "2025-07-11 04:00:22",
@@ -77,22 +189,6 @@
       "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
     },
     {
-      "added_at": "2025-07-11 04:00:22",
-      "album": {
-        "name": "moisturizer",
-        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 204475,
-      "name": "mangetout",
-      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
-    },
-    {
       "added_at": "2025-07-18 04:00:20",
       "album": {
         "name": "The Cosmic Selector Vol. 1",
@@ -123,6 +219,26 @@
       "duration_ms": 172786,
       "name": "Oranges",
       "url": "https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ"
+    },
+    {
+      "added_at": "2025-07-25 04:00:52",
+      "album": {
+        "name": "Classic Love (ep)",
+        "url": "https://open.spotify.com/album/6AKsAJOKcpD8khaDacJv7j"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        },
+        {
+          "name": "Luke Roberts",
+          "url": "https://open.spotify.com/artist/6wAZyC0IbyHiQ7yJrI15zb"
+        }
+      ],
+      "duration_ms": 363024,
+      "name": "hit of the highlife",
+      "url": "https://open.spotify.com/track/0M9kAFtdEmi5WjKXiAtjdL"
     },
     {
       "added_at": "2025-07-18 04:00:20",
@@ -157,6 +273,22 @@
       "url": "https://open.spotify.com/track/5Eif8jXrg8NtFe8Wufw9A6"
     },
     {
+      "added_at": "2025-07-04 04:00:28",
+      "album": {
+        "name": "Bloom Baby Bloom",
+        "url": "https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "Bloom Baby Bloom",
+      "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
+    },
+    {
       "added_at": "2025-07-18 04:00:20",
       "album": {
         "name": "Vice City Magic",
@@ -175,18 +307,18 @@
     {
       "added_at": "2025-07-04 04:00:28",
       "album": {
-        "name": "Backseat",
-        "url": "https://open.spotify.com/album/6gz8kYsgYsH46YpWsZtGTa"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
       },
       "artists": [
         {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 383400,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/60jhw0sIOSTjVmb9SkuA4s"
+      "duration_ms": 256066,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/27w0RH5IDt6xU3B2j7QOuy"
     },
     {
       "added_at": "2025-07-04 04:00:28",
@@ -203,22 +335,6 @@
       "duration_ms": 185533,
       "name": "Right Back",
       "url": "https://open.spotify.com/track/00g9FpnPpWq9D6pSlazJy3"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 256066,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/27w0RH5IDt6xU3B2j7QOuy"
     },
     {
       "added_at": "2025-07-18 04:00:20",
@@ -415,6 +531,22 @@
     {
       "added_at": "2025-07-04 04:00:28",
       "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/6gz8kYsgYsH46YpWsZtGTa"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 383400,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/60jhw0sIOSTjVmb9SkuA4s"
+    },
+    {
+      "added_at": "2025-07-04 04:00:28",
+      "album": {
         "name": "Raspberry Moon",
         "url": "https://open.spotify.com/album/3MVdeSmUl32TTzLy6dFFtZ"
       },
@@ -459,22 +591,6 @@
       "duration_ms": 193182,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Bloom Baby Bloom",
-        "url": "https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 227586,
-      "name": "Bloom Baby Bloom",
-      "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
     },
     {
       "added_at": "2025-07-04 04:00:28",
@@ -1387,70 +1503,6 @@
     {
       "added_at": "2025-07-04 04:00:28",
       "album": {
-        "name": "Better Than You",
-        "url": "https://open.spotify.com/album/10GfV0oGYFqys7uuvAhoEA"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 173880,
-      "name": "Better Than You",
-      "url": "https://open.spotify.com/track/4sMCKzFh4IWLiYiSLiR9lq"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Lucius",
-        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Final Days",
-      "url": "https://open.spotify.com/track/74ue3r7ClSh6QRWqcPJdGl"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "For Melancholy Brunettes (& sad women)",
-        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "Picture Window",
-      "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "The Pit",
-        "url": "https://open.spotify.com/album/6lZE2y3A9UxhWIrlNd0pkX"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 194387,
-      "name": "Lights Fall",
-      "url": "https://open.spotify.com/track/1W8cWE4mphc5mmCqaRhACZ"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
         "name": "Tyrants",
         "url": "https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW"
       },
@@ -1703,54 +1755,6 @@
       "duration_ms": 129371,
       "name": "Lunch",
       "url": "https://open.spotify.com/track/62R3oYh4gzAkBmEDN3qquI"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Chamomile",
-        "url": "https://open.spotify.com/album/7IaqMaOXdasnfxYEAghgFn"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        }
-      ],
-      "duration_ms": 220826,
-      "name": "Chamomile",
-      "url": "https://open.spotify.com/track/5xaiU9nNP58J5tmFvsRXf2"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Jennifer's Body",
-        "url": "https://open.spotify.com/album/1mOHFGk4ujYJT06VRxWfvL"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Jennifer's Body",
-      "url": "https://open.spotify.com/track/64R0m9KpCEmQxumJU3ZlCj"
-    },
-    {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "Tomatoes/Bullshit",
-        "url": "https://open.spotify.com/album/19RCDxuDIPoxhQWF9qQmEX"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 150840,
-      "name": "Tomatoes",
-      "url": "https://open.spotify.com/track/418mJEfJMD9uspXtjFy0Kf"
     },
     {
       "added_at": "2025-07-04 04:00:28",

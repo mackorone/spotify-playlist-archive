@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,573 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,585 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 46 | [Leyla & Mecnun](https://open.spotify.com/track/6npz2LNhco8qYAloW7lTMS) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg), [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Leyla & Mecnun](https://open.spotify.com/album/0qYuZyddQa4XOlroSkxkLc) | 3:02 |
 | 47 | [Yosun \- Aytaç Kart Remix](https://open.spotify.com/track/0UVorGN8jZe7RMgTq6RzXJ) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI), [Aytaç Kart](https://open.spotify.com/artist/2xLZvc0cMLbHKWeENrDH7E) | [Yosun \(Aytaç Kart Remix\)](https://open.spotify.com/album/742LXpIVetALHQnkHi1G31) | 3:38 |
 | 48 | [Sarmaşık](https://open.spotify.com/track/0dHrMOcScWdo0MUbRkXlRN) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Sarmaşık](https://open.spotify.com/album/74BgSM2izWU4m4sOk1Q3UY) | 4:05 |
-| 49 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 |
-| 50 | [Dalga](https://open.spotify.com/track/6uGpoWUxH4heqObDAMr4gU) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 2:56 |
+| 49 | [Dalga](https://open.spotify.com/track/6uGpoWUxH4heqObDAMr4gU) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 2:56 |
+| 50 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 |
 
 Snapshot ID: `aHArcQAAAACzfURw1Mm3YxFI8JM4azlI`

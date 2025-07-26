@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-882 songs - 1 day 14 hr 3 min
+883 songs - 1 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Cappadocia](https://open.spotify.com/track/26CxjkvrjCPMDX9wVMt7U0) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [Cappadocia](https://open.spotify.com/album/7GA7yXEMzZOC7Th3RFYaAD) | 2:08 | 2023-04-21 | 2025-03-11 |
 | [Capulet](https://open.spotify.com/track/71cwIqUl6Zuqxdms9Bkwg2) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Capulet](https://open.spotify.com/album/7I2zx3Yc5sAx2qAblV1Mlh) | 2:04 | 2023-01-13 | 2025-05-14 |
 | [Carcassonne](https://open.spotify.com/track/3qDeU6b8Fopj9VJ11SIEH2) | [Ludwig Van Bergen](https://open.spotify.com/artist/2hnIX2H6zuWej61nQDuSaj) | [Carcassonne](https://open.spotify.com/album/41TT6I8Nv5rknmR0o0LYul) | 2:58 | 2021-12-08 | 2022-04-06 |
+| [Care](https://open.spotify.com/track/1AvsaTVnMVzISPmFVEg71V) | [Jeremiah River](https://open.spotify.com/artist/1yZEsDnvySiKAOlBRaf96D) | [Care](https://open.spotify.com/album/7k1IuxipWPPsVmg7cSk4vs) | 2:23 | 2025-07-25 |  |
 | [Caricia](https://open.spotify.com/track/53fIluEA1o43sxC3H5740i) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Caricia](https://open.spotify.com/album/3I2pgNuXuCXKrl1xxUjYQ2) | 2:32 | 2021-12-08 | 2022-05-11 |
 | [Cariño](https://open.spotify.com/track/29LzwygJfEJtzgZlyWPQmB) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Saudades](https://open.spotify.com/album/1G6203TrVhpBAOqjDOlZc6) | 3:07 | 2021-12-08 | 2022-05-11 |
 | [Carmen](https://open.spotify.com/track/7rQjEa1Vn8WDcfxc1Vt08s) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Carmen](https://open.spotify.com/album/5lTAEn3yYDwQogpKLv1Zhr) | 2:53 | 2024-05-24 |  |

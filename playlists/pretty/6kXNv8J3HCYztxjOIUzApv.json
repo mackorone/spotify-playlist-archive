@@ -1,13 +1,45 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 61691,
+  "num_followers": 61690,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "AAAIwjv3EMaO3a0PahcB+7vsc811rHAD",
+  "snapshot_id": "AAAIxbAvKcI6NI1nJ3DD/thNTYrIZ96h",
   "tracks": [
+    {
+      "added_at": "2025-07-25 14:52:54",
+      "album": {
+        "name": "New Disease",
+        "url": "https://open.spotify.com/album/23L4tjuxXU9eTZ1Zs1VZDf"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 193329,
+      "name": "New Disease",
+      "url": "https://open.spotify.com/track/17mzKJARvVNR7eDyPqBpIG"
+    },
+    {
+      "added_at": "2025-07-25 14:53:01",
+      "album": {
+        "name": "The Duelist",
+        "url": "https://open.spotify.com/album/4OgDOuY3NUpKbG0YSYl2kv"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "The Duelist",
+      "url": "https://open.spotify.com/track/3iQLR1D3L0iremvqRF0HXE"
+    },
     {
       "added_at": "2025-07-18 08:08:49",
       "album": {

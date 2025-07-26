@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "They got next and now. Cover: <a href=\"spotify:artist:7IrBqZo6diq3hV3GpUhrs2\">Jim Legxacy</a> ",
+  "description": "They got next and now. Cover: <a href=\"spotify:artist:2BPwxhCvvcb8xDl8GWIjbh\">Odeal</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -428,7 +428,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 118440,
       "name": "285 (feat. Monaleo)",
       "url": "https://open.spotify.com/track/6twVbeb9EzKRWqU6lGM0zU"
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 146823,
       "name": "Arike - Remix",
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 109709,
       "name": "belt",
       "url": "https://open.spotify.com/track/6gMmzbBGeM7HKMZWNByrIl"
@@ -3506,6 +3506,24 @@
       "duration_ms": 213615,
       "name": "Broadway",
       "url": "https://open.spotify.com/track/3vZmKHwmyQOMaIyjMo3q1l"
+    },
+    {
+      "album": {
+        "name": "Broken Barbies",
+        "url": "https://open.spotify.com/album/404SZ5N0p2kS6E6JT90dUx"
+      },
+      "artists": [
+        {
+          "name": "iAMLYRIC",
+          "url": "https://open.spotify.com/artist/57tjtvBR1dB7aZQPKmV1Y5"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169591,
+      "name": "Broken Barbies",
+      "url": "https://open.spotify.com/track/6U0BBjRQG2uyoFjDmXSS2n"
     },
     {
       "album": {
@@ -5890,7 +5908,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 181729,
       "name": "Decisions",
       "url": "https://open.spotify.com/track/478xhrRXUu6AUxWyxIHeVB"
@@ -6568,6 +6586,28 @@
       "duration_ms": 155254,
       "name": "Durango Hellcat",
       "url": "https://open.spotify.com/track/6CZzUzw6t1f5zkHLefPSRR"
+    },
+    {
+      "album": {
+        "name": "DYNAMITE",
+        "url": "https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177011,
+      "name": "DYNAMITE",
+      "url": "https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ"
     },
     {
       "album": {
@@ -9566,7 +9606,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 196451,
       "name": "Head in a Jar",
       "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
@@ -11034,7 +11074,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 164206,
       "name": "IS IT",
       "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
@@ -12730,7 +12770,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 199515,
       "name": "Love You Now",
       "url": "https://open.spotify.com/track/1oXb4YCP9CZJKZ9mWpKZGB"
@@ -16707,6 +16747,32 @@
     },
     {
       "album": {
+        "name": "we owe you an explanation",
+        "url": "https://open.spotify.com/album/0tGQmsJGYRXLXTEVyWZgM1"
+      },
+      "artists": [
+        {
+          "name": "PARTYOF2",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        },
+        {
+          "name": "Jadagrace",
+          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
+        },
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "poser",
+      "url": "https://open.spotify.com/track/13nMWX9yA13HoDvnQgmgSn"
+    },
+    {
+      "album": {
         "name": "Post Nut Clarity",
         "url": "https://open.spotify.com/album/5E4FRTJyliNAWkPX84mA5f"
       },
@@ -17180,7 +17246,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 142809,
       "name": "Pucci (feat. Zeddy Will)",
       "url": "https://open.spotify.com/track/0R8PunCMerQPUwBxzD2sUs"
@@ -17790,6 +17856,28 @@
       "duration_ms": 230984,
       "name": "RIDIN 4 U",
       "url": "https://open.spotify.com/track/4YrCMmKendEc0HTGmTQR84"
+    },
+    {
+      "album": {
+        "name": "Riley N Lamilton (Lunch Break Freestyle)",
+        "url": "https://open.spotify.com/album/17o2BffeZ5neJvgWDmvs9Y"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145124,
+      "name": "Riley N Lamilton (Lunch Break Freestyle)",
+      "url": "https://open.spotify.com/track/26j5KruhbUBKNb7uN2Pyd3"
     },
     {
       "album": {
@@ -19788,7 +19876,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 136845,
       "name": "sos",
       "url": "https://open.spotify.com/track/43foJgvtRmkaSm4g5Jax4w"
@@ -23910,7 +23998,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 127058,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/12uSBGnjyndDbEVPnIYbjn"
@@ -23990,6 +24078,28 @@
       "duration_ms": 137666,
       "name": "WTHELLY",
       "url": "https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD"
+    },
+    {
+      "album": {
+        "name": "WYA (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/1VdyHDwu9mPQrC7bViLABV"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138828,
+      "name": "WYA (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3WLhxGa2HGPcXbmK3NYmm8"
     },
     {
       "album": {

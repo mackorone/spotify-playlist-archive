@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-324 songs - 16 hr 44 min
+325 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Hypotheticals](https://open.spotify.com/track/265UFcu8iT1YW1XycceacD) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hypotheticals](https://open.spotify.com/album/6YBKs199i76JqiEk2yAk9W) | 4:02 | 2025-02-20 | 2025-03-08 |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-04-22 |  |
 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 | 2024-06-27 | 2025-03-28 |
+| [I Can’t Lose](https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Can't Lose](https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ) | 3:03 | 2025-07-24 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-27 | 2025-03-28 |
 | [I Hate That It's True](https://open.spotify.com/track/6H4stZ1AHlYnKl9iii1bvF) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [I Hate That It's True](https://open.spotify.com/album/4Bx9UDgMFGH2hyqm9Gia4P) | 2:41 | 2025-04-10 |  |
 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 | 2025-02-20 |  |
@@ -240,7 +241,7 @@
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-06-27 | 2024-07-17 |
 | [River Meg I To](https://open.spotify.com/track/5Iagbt0kAPlStMFjJFp0SX) | [Kløverr](https://open.spotify.com/artist/5qkTrW1lkAENJMZ0QlNUSx) | [River Meg I To](https://open.spotify.com/album/5bLs6IdAii8ZSUKBXLy7Lf) | 2:34 | 2025-04-22 | 2025-05-23 |
 | [Rollercoaster](https://open.spotify.com/track/4QxtzmKiq03CbuoHDjZFPL) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Rollercoaster](https://open.spotify.com/album/2S4DjbcLrA37I229RnZXbP) | 3:06 | 2025-02-13 | 2025-02-21 |
-| [Romeo](https://open.spotify.com/track/3YvFXuk2IuWW32zeOTV3Q9) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Romeo](https://open.spotify.com/album/257PqwE2yKKYxbLvqIkT3Y) | 3:04 | 2025-07-10 |  |
+| [Romeo](https://open.spotify.com/track/3YvFXuk2IuWW32zeOTV3Q9) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Romeo](https://open.spotify.com/album/257PqwE2yKKYxbLvqIkT3Y) | 3:04 | 2025-07-10 | 2025-07-26 |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2024-06-27 | 2024-11-02 |
 | [Running in a Dream](https://open.spotify.com/track/7on8Z2p8B13G7Kwo6KaK6u) | [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [Running in a Dream](https://open.spotify.com/album/2R1y7fLlvszFjlRCRoovfO) | 4:22 | 2025-02-20 | 2025-04-23 |
 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 | 2025-01-16 | 2025-04-04 |

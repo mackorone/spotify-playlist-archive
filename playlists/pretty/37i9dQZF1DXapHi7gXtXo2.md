@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,689 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,703 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 21 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 |
 | 22 | [María](https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:49 |
 | 23 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 |
-| 24 | [PELÍCULA](https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PELÍCULA](https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L) | 3:13 |
-| 25 | [Ya Me Hiciste Mal \- Remix](https://open.spotify.com/track/3VUOdXoxnuOPiDm80AsuZR) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Ya Me Hiciste Mal \(Remix\)](https://open.spotify.com/album/4z11zYLcNsJZip4UeN9amB) | 3:19 |
+| 24 | [Ya Me Hiciste Mal \- Remix](https://open.spotify.com/track/3VUOdXoxnuOPiDm80AsuZR) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Ya Me Hiciste Mal \(Remix\)](https://open.spotify.com/album/4z11zYLcNsJZip4UeN9amB) | 3:19 |
+| 25 | [PELÍCULA](https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PELÍCULA](https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L) | 3:13 |
 | 26 | [EME](https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd), [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [EME](https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T) | 3:11 |
 | 27 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
 | 28 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 55 | [Quiero Verte](https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Quiero Verte](https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW) | 3:45 |
 | 56 | [La Declaración](https://open.spotify.com/track/0iTBcOPQPO2K49vnmZYZe6) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pura Casualidad](https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a) | 4:37 |
 | 57 | [Primer Recreo](https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Primer Recreo](https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor) | 3:55 |
-| 58 | [Ana María](https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [TÁ](https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03) | 2:20 |
-| 59 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
+| 58 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
+| 59 | [Ana María](https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [TÁ](https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03) | 2:20 |
 | 60 | [Quiero Que Me Llames](https://open.spotify.com/track/0iSKxxyKD0Qig0xXMNLDfF) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Quiero Que Me Llames \- Single](https://open.spotify.com/album/4v6mDMydcXb3vp69Jw6yta) | 4:17 |
 | 61 | [CURSI](https://open.spotify.com/track/0r5ELTxAzJ0JtfVTYSqrBK) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [CURSI](https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd) | 3:01 |
 | 62 | [Duele](https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Duele](https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5) | 3:27 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 87 | [Goma](https://open.spotify.com/track/6ADV5jQv9nflcA5t4DIlwY) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Goma](https://open.spotify.com/album/0z6pXUmnSyaaZHKYt9SMkC) | 2:29 |
 | 88 | [Cursi](https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Cursi](https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M) | 3:13 |
 | 89 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Cómo Te Extraño Mi Amor](https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9) | 3:07 |
-| 90 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
-| 91 | [Brillas en la Pista](https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Dos Cordilleras](https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA) | 2:44 |
-| 92 | [yen3](https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [yen3](https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy) | 3:06 |
+| 90 | [Brillas en la Pista](https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Dos Cordilleras](https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA) | 2:44 |
+| 91 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
+| 92 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 |
 | 93 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 |
-| 94 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 |
+| 94 | [yen3](https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [yen3](https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy) | 3:06 |
 | 95 | [El Club](https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Club](https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh) | 2:39 |
-| 96 | [Nos queda bien](https://open.spotify.com/track/2qe70LBa0sShHTwkHEevaM) | [Pasado Verde](https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k) | [La Expedición](https://open.spotify.com/album/4bltAfVxPXIDLJ3nFlEEud) | 3:32 |
+| 96 | [Tiempo](https://open.spotify.com/track/6NOrzjlq99joQdEySY7Dtt) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:03 |
 | 97 | [La Burbuja](https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [La Burbuja](https://open.spotify.com/album/3ZLG0zv8u8nKtHOoMpy0yW) | 3:50 |
 | 98 | [Por qué te quiero tanto?](https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Por qué te quiero tanto?](https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih) | 3:50 |
-| 99 | [Tiempo](https://open.spotify.com/track/6NOrzjlq99joQdEySY7Dtt) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:03 |
+| 99 | [Nos queda bien](https://open.spotify.com/track/2qe70LBa0sShHTwkHEevaM) | [Pasado Verde](https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k) | [La Expedición](https://open.spotify.com/album/4bltAfVxPXIDLJ3nFlEEud) | 3:32 |
 | 100 | [Seremos Idiotas](https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Seremos Idiotas](https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I) | 3:17 |
 
 Snapshot ID: `ZuzlMAAAAACTPZGXTl0///zphbg9o64J`

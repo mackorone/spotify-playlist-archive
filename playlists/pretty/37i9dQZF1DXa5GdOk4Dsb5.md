@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,673 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,740 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 44 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/7rayH7w0DFOWTZ9LZaKL3G) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:35 |
 | 45 | [Como Si Nada](https://open.spotify.com/track/6fxct5RZKGNgRMcXULezMW) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:09 |
 | 46 | [Ni Parientes Somos](https://open.spotify.com/track/1aGGmppBvTHztso2ENKqwh) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Las Grandes Norteñas De Los Idolos Del Pueblo](https://open.spotify.com/album/7MLCcIOXHAC9HsgOWWEmvL) | 2:37 |
-| 47 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 |
-| 48 | [Bendecida](https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Bendecida](https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0) | 3:10 |
+| 47 | [Bendecida](https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Bendecida](https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0) | 3:10 |
+| 48 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 |
 | 49 | [Voy a Conquistarte](https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Voy a Conquistarte](https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ) | 2:55 |
 | 50 | [Alma Enamorada](https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:55 |
 | 51 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 68 | [Borrachera](https://open.spotify.com/track/2KVKplB0WPQhg27jhTpS3T) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Borrachera](https://open.spotify.com/album/3aIAwEKpL6WOcw6MTQPIlG) | 2:31 |
 | 69 | [Desarmada \- Spotify Singles](https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Desarmada \- Spotify Singles](https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih) | 2:31 |
 | 70 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 |
-| 71 | [Mejor Ni Me La Nombren](https://open.spotify.com/track/7y3TuUYfFzF7PgdSz3FplN) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mejor Ni Me La Nombren](https://open.spotify.com/album/5Q7i8xatCEmGh7wX81r4bw) | 3:30 |
-| 72 | [Veinte Años](https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au) | [Romulo Caicedo](https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF) | [Grandes Éxitos](https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL) | 3:01 |
+| 71 | [Veinte Años](https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au) | [Romulo Caicedo](https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF) | [Grandes Éxitos](https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL) | 3:01 |
+| 72 | [Mejor Ni Me La Nombren](https://open.spotify.com/track/7y3TuUYfFzF7PgdSz3FplN) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mejor Ni Me La Nombren](https://open.spotify.com/album/5Q7i8xatCEmGh7wX81r4bw) | 3:30 |
 | 73 | [10 PM \- Popular](https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [10 PM \(Popular\)](https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR) | 3:33 |
 | 74 | [2 O 3 Botellas](https://open.spotify.com/track/346bfJqsooK4mXr2SLT3t3) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [2 O 3 Botellas](https://open.spotify.com/album/2kk1iU5HnwFoA80NZUPDe7) | 2:53 |
 | 75 | [No Copio de Nada](https://open.spotify.com/track/7GUU8AOCa3lTVSNlLlsVW0) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv), [King Daga](https://open.spotify.com/artist/1F1Ldin7CSAXrPvhZnEJn3), [JHONA](https://open.spotify.com/artist/4iF9IJDzc3ikrG2OiJfrwT) | [No Copio de Nada](https://open.spotify.com/album/6i0OPQJveV0dkMlOb3jQWF) | 2:47 |

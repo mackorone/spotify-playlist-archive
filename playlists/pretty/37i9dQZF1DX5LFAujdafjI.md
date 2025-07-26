@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > 2025 line up is here! For your pre\-games, afters, spurts of manic cleaning, and everything in between\.  Curated by the <a href="https://portolamusicfestival.com/">Portola Festival</a> Department of Science and Research.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,143 likes - 84 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,195 likes - 84 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 | 63 | [Armed & Dangerous](https://open.spotify.com/track/4qJzVJ3QzvYq6PrahkUlAI) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Armed & Dangerous](https://open.spotify.com/album/5DmUFrxehvHSJbs2owHONM) | 3:54 |
 | 64 | [lift off!](https://open.spotify.com/track/2TbjVYIbgIh7jBAkSTCnaC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [TRUE MAGIC](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM) | 3:34 |
 | 65 | [The Thief in Marrakesh](https://open.spotify.com/track/3PLlvksV9NfmoGiZXEqunJ) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [The Thief in Marrakesh Got Caught in Amsterdam Trying to Escape](https://open.spotify.com/album/6KPqcRfnkR0LKCSSquGzu0) | 3:00 |
-| 66 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
+| 66 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
 | 67 | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/track/01GbG6dxVvdvV5XuzRvgC5) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:11 |
 | 68 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 |
 | 69 | [Ecstasy \(Over & Over\)](https://open.spotify.com/track/6TKakjwd4AnZlLxeSP2keU) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [One Of A Kind](https://open.spotify.com/album/0pY2gvt6qxMXNuH074J7Yy) | 3:36 |

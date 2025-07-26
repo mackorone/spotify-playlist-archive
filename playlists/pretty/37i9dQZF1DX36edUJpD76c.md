@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 
 > Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Luciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,976,758 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,976,778 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 | 25 | [LOVE & DRAMA](https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [LOVE & DRAMA](https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR) | 2:30 |
 | 26 | [Wir sind Stars](https://open.spotify.com/track/4cTEuDTBN5rE5D88y0mQHl) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Wir sind Stars](https://open.spotify.com/album/3wy0zUVAsK4PfipnHuibUJ) | 3:14 |
 | 27 | [Kichta Walk](https://open.spotify.com/track/5RXP4YWkiOfmOPAk4MofWz) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Kichta Walk](https://open.spotify.com/album/3KXJ9hNm7ze8X8eLgHfgpx) | 2:56 |
-| 28 | [MIS \(feat\. Summer Cem\)](https://open.spotify.com/track/6iSsqzSHwpsodKySR6mLdd) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [ENSAR ABI](https://open.spotify.com/album/0XiFQ3BOhGIdfqAqC4YCzX) | 2:15 |
+| 28 | [MIS \(feat\. Summer Cem\)](https://open.spotify.com/track/6iSsqzSHwpsodKySR6mLdd) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [ENSAR ABI](https://open.spotify.com/album/0XiFQ3BOhGIdfqAqC4YCzX) | 2:15 |
 | 29 | [XOX](https://open.spotify.com/track/2TqYWeFkqhvBOlVe5EMQsv) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [XOX](https://open.spotify.com/album/6bCHzS9M7jbFXRnKfQscdg) | 2:30 |
 | 30 | [Love all night](https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Love all night](https://open.spotify.com/album/2U8inedtU0YX3Von3qAsiU) | 2:49 |
 | 31 | [Roulette](https://open.spotify.com/track/6PieJIdEWkf1GUoZTJWx1b) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Roulette](https://open.spotify.com/album/539SeSEFXI4DToEbUY6XxL) | 2:21 |

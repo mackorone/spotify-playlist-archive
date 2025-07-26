@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists! Cover: Vic Lucas \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,676 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,695 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,61 @@
 {
-  "description": "The home of Canadian country music. Cover: Josh Ross",
-  "num_followers": 81441,
+  "description": "The home of Canadian country music. Cover: Sully Burrows",
+  "num_followers": 81444,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aHnHAgAAAADglnUv0vpGfZ1dbTg55oDu",
+  "snapshot_id": "aIMBnwAAAABbSxHoDDdmgYvIVDUcn70B",
   "tracks": [
+    {
+      "added_at": "2025-07-25 04:01:35",
+      "album": {
+        "name": "Somewhere in a Small Town",
+        "url": "https://open.spotify.com/album/31PomNawADmQlyqqAGQhKM"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "duration_ms": 186318,
+      "name": "Somewhere in a Small Town",
+      "url": "https://open.spotify.com/track/0v8Xje4ZqPnYpECOzeMvjJ"
+    },
+    {
+      "added_at": "2025-07-25 04:01:35",
+      "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/7k4OxnPKWsANIan8pfS6aK"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 177565,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/4gReEWsdCfxdRzd1GwRr7K"
+    },
+    {
+      "added_at": "2025-07-25 04:01:35",
+      "album": {
+        "name": "Canaries in a Coal Mine",
+        "url": "https://open.spotify.com/album/33UCr0zXoaacNfDUcznxxX"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 217229,
+      "name": "Canaries in a Coal Mine",
+      "url": "https://open.spotify.com/track/4JFPamq2IExOgg7mZV6XRs"
+    },
     {
       "added_at": "2025-07-18 04:01:06",
       "album": {
@@ -41,100 +89,36 @@
       "url": "https://open.spotify.com/track/14i984cKjuw6x5ubdfaHIu"
     },
     {
-      "added_at": "2025-07-18 04:01:06",
+      "added_at": "2025-07-25 04:01:35",
       "album": {
-        "name": "Nothing To Do",
-        "url": "https://open.spotify.com/album/03qJ0llRuCFBEPCt5NQR50"
+        "name": "Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/2q2g41S5R5uFqEEjksoi0Z"
       },
       "artists": [
         {
-          "name": "Emmett Jerome",
-          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
         }
       ],
-      "duration_ms": 254360,
-      "name": "Nothing To Do",
-      "url": "https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr"
+      "duration_ms": 175689,
+      "name": "Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/3ztr9qPi0vPYaUcPXGAIRo"
     },
     {
-      "added_at": "2025-07-04 04:00:20",
+      "added_at": "2025-07-25 04:01:35",
       "album": {
-        "name": "Somebody I Know",
-        "url": "https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e"
+        "name": "Savannah Jade",
+        "url": "https://open.spotify.com/album/2Cy6k22AtHoub3zviQDNfc"
       },
       "artists": [
         {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+          "name": "Savannah Jade",
+          "url": "https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5"
         }
       ],
-      "duration_ms": 180633,
-      "name": "Somebody I Know",
-      "url": "https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv"
-    },
-    {
-      "added_at": "2025-07-18 04:01:06",
-      "album": {
-        "name": "Bibles In Hotel Rooms",
-        "url": "https://open.spotify.com/album/1fgVHSiwqDiUXIBYjYDy0m"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hyatt",
-          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Bibles In Hotel Rooms",
-      "url": "https://open.spotify.com/track/5v3mD9mHWUY56yPDm0hHNt"
-    },
-    {
-      "added_at": "2025-07-18 04:01:06",
-      "album": {
-        "name": "Heaven Right Now",
-        "url": "https://open.spotify.com/album/5zxi3qghB0VCENuJs5V8MU"
-      },
-      "artists": [
-        {
-          "name": "Taylor-Rae",
-          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
-        }
-      ],
-      "duration_ms": 227247,
-      "name": "Heaven Right Now",
-      "url": "https://open.spotify.com/track/2oe0nsIEr0UgV3L6SbZr5r"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Options",
-        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 169331,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Drink Around",
-        "url": "https://open.spotify.com/album/283gVczi9bFI73NZxn4z3k"
-      },
-      "artists": [
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        }
-      ],
-      "duration_ms": 148031,
-      "name": "Drink Around",
-      "url": "https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv"
+      "duration_ms": 174193,
+      "name": "I Don't Have Exes",
+      "url": "https://open.spotify.com/track/79Oix3agGOG2N0CZtE6mvx"
     },
     {
       "added_at": "2025-07-11 04:01:06",
@@ -153,20 +137,116 @@
       "url": "https://open.spotify.com/track/5IKPVFGPc3HWsdiKpue6zi"
     },
     {
-      "added_at": "2025-07-18 04:01:06",
+      "added_at": "2025-07-04 04:00:20",
       "album": {
-        "name": "What Love Can Do II",
-        "url": "https://open.spotify.com/album/6yzBEVrnXpGEGjArmKCS5I"
+        "name": "Drink Around",
+        "url": "https://open.spotify.com/album/283gVczi9bFI73NZxn4z3k"
       },
       "artists": [
         {
-          "name": "Sadie Campbell",
-          "url": "https://open.spotify.com/artist/69n5uIWAAoEmNiT7Xm7Mxm"
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
         }
       ],
-      "duration_ms": 203000,
-      "name": "What Love Can Do II",
-      "url": "https://open.spotify.com/track/00xBvJUrnDh4qsPOyHKG96"
+      "duration_ms": 148031,
+      "name": "Drink Around",
+      "url": "https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv"
+    },
+    {
+      "added_at": "2025-07-25 04:01:35",
+      "album": {
+        "name": "Let Alone My Heart",
+        "url": "https://open.spotify.com/album/3QTJp5JSOmv5XaH2D6l6py"
+      },
+      "artists": [
+        {
+          "name": "Raquel Cole",
+          "url": "https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF"
+        }
+      ],
+      "duration_ms": 212285,
+      "name": "Let Alone My Heart",
+      "url": "https://open.spotify.com/track/0BX4zCgauWau1bH0ii4FDU"
+    },
+    {
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 169331,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
+    },
+    {
+      "added_at": "2025-07-25 04:01:35",
+      "album": {
+        "name": "What I'd Do",
+        "url": "https://open.spotify.com/album/6k3cKlORv57jROKyYVdjIC"
+      },
+      "artists": [
+        {
+          "name": "Zayne Zemoroz",
+          "url": "https://open.spotify.com/artist/5n4oKb1NvxrdaaTXihMsVp"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "What I'd Do",
+      "url": "https://open.spotify.com/track/6BZX3wKoIP9pBLkSuXrzC5"
+    },
+    {
+      "added_at": "2025-07-18 04:01:06",
+      "album": {
+        "name": "Bibles In Hotel Rooms",
+        "url": "https://open.spotify.com/album/1fgVHSiwqDiUXIBYjYDy0m"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Bibles In Hotel Rooms",
+      "url": "https://open.spotify.com/track/5v3mD9mHWUY56yPDm0hHNt"
+    },
+    {
+      "added_at": "2025-07-25 04:01:35",
+      "album": {
+        "name": "Like I've Never Been Loved Before",
+        "url": "https://open.spotify.com/album/24oxR677UprLnU1VwRkLUg"
+      },
+      "artists": [
+        {
+          "name": "Chris Goodwin Band",
+          "url": "https://open.spotify.com/artist/2gcXFS9OxYS0Fq4yqzXinD"
+        }
+      ],
+      "duration_ms": 217253,
+      "name": "Like I've Never Been Loved Before",
+      "url": "https://open.spotify.com/track/3sFmswCWEcyG08M1lFSODo"
+    },
+    {
+      "added_at": "2025-07-25 04:01:35",
+      "album": {
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/6guPwgnZ19ptO2SiFEP51S"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "Long Drive Home",
+      "url": "https://open.spotify.com/track/6IKqdmzdQQMZH33uOUSaUK"
     },
     {
       "added_at": "2025-07-18 04:01:06",
@@ -187,6 +267,134 @@
       "duration_ms": 202137,
       "name": "Fight With You",
       "url": "https://open.spotify.com/track/6hdvMIbkpxWN6owrVTdEEY"
+    },
+    {
+      "added_at": "2025-07-25 04:01:35",
+      "album": {
+        "name": "Soul On Fire",
+        "url": "https://open.spotify.com/album/6vnYC2sK3qabnbnuJSks3D"
+      },
+      "artists": [
+        {
+          "name": "Vicki Brittle",
+          "url": "https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ"
+        }
+      ],
+      "duration_ms": 213963,
+      "name": "Soul On Fire",
+      "url": "https://open.spotify.com/track/1rBQ5dHO5VskrUmmibWzMS"
+    },
+    {
+      "added_at": "2025-07-25 04:01:35",
+      "album": {
+        "name": "Watering Can",
+        "url": "https://open.spotify.com/album/7F03z8IsqGuxqlDTWMeQbD"
+      },
+      "artists": [
+        {
+          "name": "Emma Kade",
+          "url": "https://open.spotify.com/artist/1ZP71cqO4xor5i3gqhuRHx"
+        }
+      ],
+      "duration_ms": 220312,
+      "name": "Watering Can",
+      "url": "https://open.spotify.com/track/393hB4ScPfNydBTqXUtpoH"
+    },
+    {
+      "added_at": "2025-07-18 04:01:06",
+      "album": {
+        "name": "Nothing To Do",
+        "url": "https://open.spotify.com/album/03qJ0llRuCFBEPCt5NQR50"
+      },
+      "artists": [
+        {
+          "name": "Emmett Jerome",
+          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "Nothing To Do",
+      "url": "https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr"
+    },
+    {
+      "added_at": "2025-07-25 04:01:35",
+      "album": {
+        "name": "Don't Get You A Man",
+        "url": "https://open.spotify.com/album/575magAMGziuTFBefWPFrz"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/7buSpDfGpMZwpTs45IT9uo"
+        }
+      ],
+      "duration_ms": 180637,
+      "name": "Don't Get You A Man",
+      "url": "https://open.spotify.com/track/4F6po6MQ6FqFAOAXwCOw8Q"
+    },
+    {
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
+        "name": "Somebody I Know",
+        "url": "https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 180633,
+      "name": "Somebody I Know",
+      "url": "https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv"
+    },
+    {
+      "added_at": "2025-07-25 04:01:35",
+      "album": {
+        "name": "I Like What I Hear",
+        "url": "https://open.spotify.com/album/2ZnGxC8C2u1zoBcEfNH53t"
+      },
+      "artists": [
+        {
+          "name": "Chris Labelle",
+          "url": "https://open.spotify.com/artist/2gODSRZYGlEFhWNTfG5KJL"
+        }
+      ],
+      "duration_ms": 175792,
+      "name": "I Like What I Hear",
+      "url": "https://open.spotify.com/track/3wA1QGlAfVMXrEgoAUFJu1"
+    },
+    {
+      "added_at": "2025-07-18 04:01:06",
+      "album": {
+        "name": "Heaven Right Now",
+        "url": "https://open.spotify.com/album/5zxi3qghB0VCENuJs5V8MU"
+      },
+      "artists": [
+        {
+          "name": "Taylor-Rae",
+          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
+        }
+      ],
+      "duration_ms": 227247,
+      "name": "Heaven Right Now",
+      "url": "https://open.spotify.com/track/2oe0nsIEr0UgV3L6SbZr5r"
+    },
+    {
+      "added_at": "2025-07-18 04:01:06",
+      "album": {
+        "name": "What Love Can Do II",
+        "url": "https://open.spotify.com/album/6yzBEVrnXpGEGjArmKCS5I"
+      },
+      "artists": [
+        {
+          "name": "Sadie Campbell",
+          "url": "https://open.spotify.com/artist/69n5uIWAAoEmNiT7Xm7Mxm"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "What Love Can Do II",
+      "url": "https://open.spotify.com/track/00xBvJUrnDh4qsPOyHKG96"
     },
     {
       "added_at": "2025-07-18 04:01:06",

@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> the best new metalcore\. where brutality and technicality collide\. Cover: Fit For A King
+> the best new metalcore\. where brutality and technicality collide\. Cover: Silent Planet
 
-1,281 songs - 3 day 6 hr 33 min
+1,284 songs - 3 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [Drag Me Out](https://open.spotify.com/track/10ATQv1vPZbCK1PnIBUwer) | [Archers](https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire) | [Drag Me Out](https://open.spotify.com/album/50uzHOpVXSvmiXGX4Fe7vs) | 3:21 | 2024-04-18 | 2024-09-21 |
 | [DRAG ME UNDER](https://open.spotify.com/track/1UO0CiVigVTt3PFAKzlKfw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [DRAG ME UNDER](https://open.spotify.com/album/2bWO0rTh0rdTJRuO3E5xpe) | 3:31 | 2024-08-25 |  |
 | [Drag Me Under](https://open.spotify.com/track/2CwBf7BQoztOsPNUszOOv8) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Drag Me Under](https://open.spotify.com/album/05KgX2I0e6LKvBWlUmRW0H) | 3:45 | 2023-02-10 | 2024-01-13 |
-| [Dragged Through Glass](https://open.spotify.com/track/6JDNppd5JDF7UNwVRpuPE7) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Dragged Through Glass](https://open.spotify.com/album/3UuqCrn6qLccmSbYEeTkdU) | 3:03 | 2025-04-25 |  |
+| [Dragged Through Glass](https://open.spotify.com/track/6JDNppd5JDF7UNwVRpuPE7) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Dragged Through Glass](https://open.spotify.com/album/3UuqCrn6qLccmSbYEeTkdU) | 3:03 | 2025-04-25 | 2025-07-26 |
 | [Drawn, Conned & Deceived](https://open.spotify.com/track/6vIOOhYiLRUBorAMnAsBso) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [Drawn, Conned & Deceived](https://open.spotify.com/album/20rWl9qSSJy31dvRXwAtWH) | 3:10 | 2025-01-17 | 2025-06-29 |
 | [Dreaming Desecration](https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Absolvere](https://open.spotify.com/album/2nDh1tZjYv2W63a27pSqRx) | 3:41 | 2022-07-13 | 2022-07-22 |
 | [Dreamlike](https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dreamlike](https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW) | 3:28 | 2023-05-05 | 2024-10-19 |
@@ -481,7 +481,7 @@
 | [From Ruin..\. We Rise](https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [From Ruin..\. We Rise](https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW) | 4:50 | 2022-07-13 | 2022-07-23 |
 | [From The Fire In You](https://open.spotify.com/track/4cBfIHOrhKupWbM6IkKtB5) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Manifestations](https://open.spotify.com/album/0XKUF6rTRS5UX6KC5G90HV) | 3:33 | 2022-04-08 | 2022-07-23 |
 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 | 2022-07-08 | 2023-07-15 |
-| [Frozen](https://open.spotify.com/track/1XWE7bFAbRcAqTEcTz2rlK) | [Bridges Ablaze](https://open.spotify.com/artist/2EkFmKsioTTvC9ShnwJwHP) | [Frozen](https://open.spotify.com/album/3H27ivNS86qnGDOloA2YUY) | 3:49 | 2025-05-16 |  |
+| [Frozen](https://open.spotify.com/track/1XWE7bFAbRcAqTEcTz2rlK) | [Bridges Ablaze](https://open.spotify.com/artist/2EkFmKsioTTvC9ShnwJwHP) | [Frozen](https://open.spotify.com/album/3H27ivNS86qnGDOloA2YUY) | 3:49 | 2025-05-16 | 2025-07-26 |
 | [Frvst](https://open.spotify.com/track/1jjjjubZ6PMuoJexEy82DA) | [Consvmer](https://open.spotify.com/artist/1kJPCB066I6xZNqadwZx9C), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Frvst](https://open.spotify.com/album/73fgc0bIk0N7jumKsQVwYY) | 4:21 | 2024-07-12 | 2025-04-26 |
 | [Fuckboi \(feat\. Conquer Divide\)](https://open.spotify.com/track/5TcdxibMGG4QVSW4H2ELpO) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Fuckboi \(feat\. Conquer Divide\)](https://open.spotify.com/album/1pVy6lUUdpYfD2b88KYf6l) | 2:44 | 2022-07-08 | 2023-01-06 |
 | [Fuckin' Up](https://open.spotify.com/track/774PuvXYcdfGrw9mFrl27q) | [Jynx](https://open.spotify.com/artist/3nthcaxiFmmeqZun308NSM) | [Fuckin' Up](https://open.spotify.com/album/0Z8QwHGTJRzNvIaiVnsmLe) | 3:00 | 2022-05-13 | 2022-08-20 |
@@ -606,7 +606,7 @@
 | [In The Void](https://open.spotify.com/track/2OanznSyGiNf4hHoNUETh3) | [My Favourite Nemesis](https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM) | [In The Void](https://open.spotify.com/album/4Y47Q5AwzYWSqHiE9TwEsQ) | 3:09 | 2022-06-17 | 2022-07-29 |
 | [In Your Head](https://open.spotify.com/track/5xp2T1ghPN6uNOfeoqD0uY) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Life Is Pain](https://open.spotify.com/album/16L3AoU7WMBz2rvS9kzIvV) | 3:33 | 2021-12-17 | 2022-07-23 |
 | [INCOMPLETE](https://open.spotify.com/track/5qmYsAjOo7AVWcVSvQm8Wh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [INCOMPLETE](https://open.spotify.com/album/7oN3hZbZ7xPkMbB4MC8vac) | 3:35 | 2025-03-31 |  |
-| [INCOMPLETE](https://open.spotify.com/track/0ampO6lT0n4BBgmj0Eo59M) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [INCOMPLETE](https://open.spotify.com/album/1fsqADA6Qc1d6AFYPjqPF0) | 3:42 | 2025-03-31 |  |
+| [INCOMPLETE](https://open.spotify.com/track/0ampO6lT0n4BBgmj0Eo59M) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [INCOMPLETE](https://open.spotify.com/album/1fsqADA6Qc1d6AFYPjqPF0) | 3:42 | 2025-03-31 | 2025-07-26 |
 | [Infection](https://open.spotify.com/track/3uvVPu3tNJsAdH2ZzwflRz) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Infection](https://open.spotify.com/album/7InvQ576KlW8grvtisNTGF) | 2:47 | 2024-09-20 | 2025-01-18 |
 | [Inhumane](https://open.spotify.com/track/36K5KSqFJOCN9YLmSTkXrG) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Inhumane](https://open.spotify.com/album/19g3sBJ1wP4MsOasNoXbca) | 3:59 | 2023-05-26 | 2023-08-05 |
 | [Inner Sanctum](https://open.spotify.com/track/3LEIp7OkTqbGS6WBeivfv3) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Inner Sanctum](https://open.spotify.com/album/7xrJWJieuZYcqyW4vvtM2L) | 3:49 | 2025-03-31 |  |
@@ -682,6 +682,7 @@
 | [Lonewolf](https://open.spotify.com/track/3xLyoznRCxpiHesDvFuruO) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Stefan](https://open.spotify.com/artist/20Xs7JytmAIAtnNQ4Cqe0J) | [Lonewolf](https://open.spotify.com/album/3tJkL5SWXHgmqyRcXhPR3n) | 3:11 | 2022-01-28 | 2022-05-06 |
 | [Longclaw](https://open.spotify.com/track/3XuLpFMzHRM3VlAegGMEuF) | [Earth Eater](https://open.spotify.com/artist/36b8PsQoJcT9z27xg4v2GD) | [Longclaw](https://open.spotify.com/album/2ZwgzTFBGdgKTHclCs9uVs) | 5:20 | 2022-07-13 | 2022-07-15 |
 | [look at me](https://open.spotify.com/track/6fcTTzNTvP7S4aLT3GaVBN) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [look at me](https://open.spotify.com/album/29rEnJyGy4yKMr0pJkhker) | 1:30 | 2024-06-04 | 2024-08-31 |
+| [Lose Control](https://open.spotify.com/track/4stlvMMftU1rkS5onjmB38) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Lose Control](https://open.spotify.com/album/0V5YauW5H7qqrlJuRqgLIN) | 3:35 | 2025-07-25 |  |
 | [Losing Control](https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Divided](https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY) | 3:28 | 2022-11-18 | 2023-05-27 |
 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 | 2021-12-17 | 2022-11-20 |
 | [Losing You](https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Losing You](https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb) | 3:18 | 2022-05-27 | 2023-02-18 |
@@ -886,6 +887,7 @@
 | [Quiet Place](https://open.spotify.com/track/16wpegfQ1aspAFanGa5PsY) | [Vanna](https://open.spotify.com/artist/7cXUCar1BPOeMI2qza9oa1) | [Quiet Place](https://open.spotify.com/album/0OnjogVixHqvs6Fmw736Dr) | 3:25 | 2025-03-14 | 2025-05-10 |
 | [Rage](https://open.spotify.com/track/013gFBH6Qqs79Zbj7WOdsu) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Rage](https://open.spotify.com/album/1ywnN4cbTEzEidQxfKAFTN) | 3:36 | 2022-07-13 | 2022-07-23 |
 | [Rage](https://open.spotify.com/track/5fKQoFnP46hSNH2xD6hlDL) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/2UaM4rE9GCvkjbdrDyqxwu) | 3:54 | 2022-07-13 | 2022-07-23 |
+| [RAIN](https://open.spotify.com/track/7jvtwjcmvwRvRizkgIJdqA) | [HEAVENSGATE](https://open.spotify.com/artist/5xxpBuljNlb95kr6fcf6hj) | [RAIN](https://open.spotify.com/album/14dDeoUMafE62Z3S8mquFM) | 2:57 | 2025-07-25 |  |
 | [Rain Down](https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Rain Down](https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc) | 4:07 | 2022-07-08 | 2022-12-17 |
 | [Rainbow Veins](https://open.spotify.com/track/7cjlfruK9Oqw7k5wAZGO72) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Rainbow Veins](https://open.spotify.com/album/7moGhJvy4szDPEEgvgffGj) | 4:58 | 2021-12-17 | 2022-01-08 |
 | [RAINBOWS](https://open.spotify.com/track/5PRPMGAiQXEQL5frHaJneT) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/3vUzV2wdNrDubtH2gG7rb5) | 4:22 | 2024-04-12 |  |
@@ -1261,6 +1263,7 @@
 | [White Rabbit](https://open.spotify.com/track/48gotqEngeagErLW3C1FUs) | [Saving Vice](https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b) | [White Rabbit](https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci) | 3:50 | 2022-05-13 | 2022-10-05 |
 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 | 2022-07-01 | 2022-12-17 |
 | [Who's fault?](https://open.spotify.com/track/24ScjFWnIcKFU47ye9qN87) | [DEXCORE](https://open.spotify.com/artist/5M8Z8Dlx2uLSH88WgxLlG4) | [\-18\-](https://open.spotify.com/album/4njBljf92NKv5NBIh6xA9s) | 4:35 | 2022-01-21 | 2022-04-09 |
+| [Wick](https://open.spotify.com/track/3yMU4otI6sZZBNSq2TYdXf) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Wick](https://open.spotify.com/album/4oewdHvESs5w4EtvGG6Abx) | 3:09 | 2025-07-25 |  |
 | [Wide Awake](https://open.spotify.com/track/3Link655QbLbSLj8iunFG7) | [Archers](https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire) | [Wide Awake](https://open.spotify.com/album/5M54uawIq9qyn5ZZ3TPScG) | 2:39 | 2025-05-16 |  |
 | [Wide Open](https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wide Open](https://open.spotify.com/album/0B7QibJPKamPw36p7FY79u) | 5:17 | 2022-07-13 | 2022-07-23 |
 | [Wilderness](https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y) | [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Wilderness](https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj) | 3:22 | 2024-07-12 | 2024-08-26 |

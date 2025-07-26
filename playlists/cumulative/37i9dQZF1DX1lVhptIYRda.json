@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Dylan Gossett",
+  "description": "Today's top country hits. Cover: Luke Combs",
   "name": "Hot Country",
   "tracks": [
     {
@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 158333,
       "name": "3,2,1",
       "url": "https://open.spotify.com/track/2mxyToKuuc2JGhxBNlJzUh"
@@ -1132,6 +1132,24 @@
       "duration_ms": 208405,
       "name": "Bachelorettes on Broadway",
       "url": "https://open.spotify.com/track/277YJPrwcN4a1W3xaP06T0"
+    },
+    {
+      "album": {
+        "name": "Back in the Saddle",
+        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212962,
+      "name": "Back in the Saddle",
+      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
     },
     {
       "album": {
@@ -9553,6 +9571,28 @@
     },
     {
       "album": {
+        "name": "Madeline (feat. Gabriella Rose)",
+        "url": "https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145146,
+      "name": "Madeline (feat. Gabriella Rose)",
+      "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
+    },
+    {
+      "album": {
         "name": "Make It Look Easy",
         "url": "https://open.spotify.com/album/1ylXu63fdiBSoVrdnx6YXE"
       },
@@ -11353,6 +11393,24 @@
     },
     {
       "album": {
+        "name": "Oneida",
+        "url": "https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278213,
+      "name": "Oneida",
+      "url": "https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x"
+    },
+    {
+      "album": {
         "name": "Other Girl",
         "url": "https://open.spotify.com/album/7um6zTS2EhW6iSIiDJ9gt1"
       },
@@ -12188,7 +12246,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 261601,
       "name": "River Washed Hair",
       "url": "https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf"
@@ -16764,7 +16822,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 220157,
       "name": "You Had To Be There (feat. Kenny Chesney)",
       "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"

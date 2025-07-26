@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAAaxIkUap8IMyLf2UuwwqLO",
+  "snapshot_id": "aIF3gAAAAABv3z2Q0pkx4ZFETO4Bc3yB",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hustle & Flow",
-        "url": "https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5"
+        "name": "Bien Horniado",
+        "url": "https://open.spotify.com/album/4DVC0WC5r18Ewj54X9FX3R"
       },
       "artists": [
         {
-          "name": "Rozay",
-          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
+          "name": "Big Los",
+          "url": "https://open.spotify.com/artist/1FHtqDcXHlMd3icr4Gb5De"
         },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Jandres",
+          "url": "https://open.spotify.com/artist/1dm56ndSieUS8r21629uvt"
         }
       ],
-      "duration_ms": 144014,
-      "name": "Tonta (feat. Bo Bundy)",
-      "url": "https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8"
+      "duration_ms": 192186,
+      "name": "Bien Horniado",
+      "url": "https://open.spotify.com/track/6S2sOrNF7Ur33z5gznLeck"
     },
     {
       "added_at": null,
@@ -343,26 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Horniado",
-        "url": "https://open.spotify.com/album/4DVC0WC5r18Ewj54X9FX3R"
+        "name": "Hustle & Flow",
+        "url": "https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5"
       },
       "artists": [
         {
-          "name": "Big Los",
-          "url": "https://open.spotify.com/artist/1FHtqDcXHlMd3icr4Gb5De"
+          "name": "Rozay",
+          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
         },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Jandres",
-          "url": "https://open.spotify.com/artist/1dm56ndSieUS8r21629uvt"
         }
       ],
-      "duration_ms": 192186,
-      "name": "Bien Horniado",
-      "url": "https://open.spotify.com/track/6S2sOrNF7Ur33z5gznLeck"
+      "duration_ms": 144014,
+      "name": "Tonta (feat. Bo Bundy)",
+      "url": "https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Shrt Lyfe",
-          "url": "https://open.spotify.com/artist/4gO0CVUzBlzhSRPwxajfbF"
-        }
-      ],
-      "duration_ms": 105629,
-      "name": "El Drogadito",
-      "url": "https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 107000,
       "name": "Mexicanos",
       "url": "https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Shrt Lyfe",
+          "url": "https://open.spotify.com/artist/4gO0CVUzBlzhSRPwxajfbF"
+        }
+      ],
+      "duration_ms": 105629,
+      "name": "El Drogadito",
+      "url": "https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FTNSWL",
-        "url": "https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "FTNSWL",
-      "url": "https://open.spotify.com/track/7aaqN7RCQRKUxEcdCaSD2B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alpaca Hearts",
         "url": "https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt"
       },
@@ -607,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuerno De Chivo",
-        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
+        "name": "FTNSWL",
+        "url": "https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO"
       },
       "artists": [
-        {
-          "name": "Young Tapz",
-          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
-        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 155376,
-      "name": "Cuerno De Chivo",
-      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
+      "duration_ms": 171428,
+      "name": "FTNSWL",
+      "url": "https://open.spotify.com/track/7aaqN7RCQRKUxEcdCaSD2B"
     },
     {
       "added_at": null,
@@ -647,6 +627,26 @@
       "duration_ms": 160000,
       "name": "Big Chains",
       "url": "https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuerno De Chivo",
+        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
+      },
+      "artists": [
+        {
+          "name": "Young Tapz",
+          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 155376,
+      "name": "Cuerno De Chivo",
+      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nino de Oro",
-        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 256161,
-      "name": "Slumped Freestyle",
-      "url": "https://open.spotify.com/track/14JQQGwSxxhznG0OMfzNb0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Devu\u00e9lveme a Mi Chica",
-        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
       },
       "artists": [
         {
@@ -736,9 +720,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 188764,
-      "name": "Devu\u00e9lveme a Mi Chica",
-      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
+      "duration_ms": 256161,
+      "name": "Slumped Freestyle",
+      "url": "https://open.spotify.com/track/14JQQGwSxxhznG0OMfzNb0"
     },
     {
       "added_at": null,
@@ -763,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+        "name": "Devu\u00e9lveme a Mi Chica",
+        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
       },
       "artists": [
         {
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 30459,
-      "name": "BBS Interlude",
-      "url": "https://open.spotify.com/track/0pMnRhEsxfhbF8fuSEGAOQ"
+      "duration_ms": 188764,
+      "name": "Devu\u00e9lveme a Mi Chica",
+      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
     },
     {
       "added_at": null,
@@ -799,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "RESERVADO",
-        "url": "https://open.spotify.com/album/0Mz8FhQzjW1H3rjmVjKBWh"
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },
       "artists": [
-        {
-          "name": "JR Reyes",
-          "url": "https://open.spotify.com/artist/7h7UDjLtEniodFyDaoUFJN"
-        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 151071,
-      "name": "RESERVADO",
-      "url": "https://open.spotify.com/track/4xmrsmRxtk81NCD4vNT2rX"
+      "duration_ms": 30459,
+      "name": "BBS Interlude",
+      "url": "https://open.spotify.com/track/0pMnRhEsxfhbF8fuSEGAOQ"
     },
     {
       "added_at": null,
@@ -839,26 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL RODEO",
-        "url": "https://open.spotify.com/album/3L5vvWez1vD04YbEjRc2Hf"
+        "name": "RESERVADO",
+        "url": "https://open.spotify.com/album/0Mz8FhQzjW1H3rjmVjKBWh"
       },
       "artists": [
         {
-          "name": "Rap Geekz",
-          "url": "https://open.spotify.com/artist/2nYa8KsU3Q5McB7ptTR26O"
-        },
-        {
-          "name": "Gringo the MC",
-          "url": "https://open.spotify.com/artist/2GKgk9xsRvwl1ZgDGBH2Dh"
+          "name": "JR Reyes",
+          "url": "https://open.spotify.com/artist/7h7UDjLtEniodFyDaoUFJN"
         },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 226528,
-      "name": "EL RODEO",
-      "url": "https://open.spotify.com/track/13WpF1APbK3c4swe9ifY58"
+      "duration_ms": 151071,
+      "name": "RESERVADO",
+      "url": "https://open.spotify.com/track/4xmrsmRxtk81NCD4vNT2rX"
     },
     {
       "added_at": null,
@@ -879,6 +855,30 @@
       "duration_ms": 142415,
       "name": "25 Lighters",
       "url": "https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL RODEO",
+        "url": "https://open.spotify.com/album/3L5vvWez1vD04YbEjRc2Hf"
+      },
+      "artists": [
+        {
+          "name": "Rap Geekz",
+          "url": "https://open.spotify.com/artist/2nYa8KsU3Q5McB7ptTR26O"
+        },
+        {
+          "name": "Gringo the MC",
+          "url": "https://open.spotify.com/artist/2GKgk9xsRvwl1ZgDGBH2Dh"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 226528,
+      "name": "EL RODEO",
+      "url": "https://open.spotify.com/track/13WpF1APbK3c4swe9ifY58"
     },
     {
       "added_at": null,

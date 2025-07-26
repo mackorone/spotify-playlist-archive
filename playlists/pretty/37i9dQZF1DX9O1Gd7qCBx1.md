@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,224 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,230 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 76 | [Ay Mexicanita](https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX) | [Banda de los Muertos](https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g) | [Banda de los Muertos](https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1) | 3:07 |
 | 77 | [El Funeral De Tacho](https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:14 |
 | 78 | [Dulce Muerte](https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Dulce Muerte](https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA) | 3:32 |
-| 79 | [Refalosa del Adiós \(Refalosa\) \[Chile\]](https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [Cantando Con la Muerte](https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06) | 2:36 |
-| 80 | [Morir en Paz](https://open.spotify.com/track/2R5tHhHmGxhbrvOpoDluqr) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo) | [Ahora](https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs) | 6:34 |
+| 79 | [Morir en Paz](https://open.spotify.com/track/2R5tHhHmGxhbrvOpoDluqr) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo) | [Ahora](https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs) | 6:34 |
+| 80 | [Refalosa del Adiós \(Refalosa\) \[Chile\]](https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [Cantando Con la Muerte](https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06) | 2:36 |
 | 81 | [Décimas a La Muerte](https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:58 |
 | 82 | [Tristísimo Panteón](https://open.spotify.com/track/6hd02N0fmG5pFYm5LukkT9) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:50 |
 | 83 | [La Reyna Del Inframundo](https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT) | 3:10 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 87 | [Para Cuando Muera](https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:13 |
 | 88 | [El Corrido de Miguel Rivera \- En Vivo](https://open.spotify.com/track/5hX714XFVzo8n6pUtIovFc) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Especial de Día de Muertos \(En Vivo\)](https://open.spotify.com/album/7rMipwOaDCAanINiqam8M8) | 3:39 |
 | 89 | [La huesuda](https://open.spotify.com/track/45Qh9HP3UPOhrkoFNPyKvM) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [La huesuda](https://open.spotify.com/album/1EURs2L4xEKmMtnEvBPjS9) | 3:37 |
-| 90 | [Que Me Importa Morir](https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f) | [Wilbert Pere y Mariachi Tanampa](https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n) | [Día de los Muertos: El Mariachi](https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB) | 3:21 |
-| 91 | [Morir Soñando](https://open.spotify.com/track/63dcYPuE3PEauC0t480FKn) | [Mariachi Nuevo Tecalitlán](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Dia de los Muertos \(Con Mariachi\)](https://open.spotify.com/album/2jhrvg3VaRCvGwEvhLLsmw) | 3:40 |
+| 90 | [Morir Soñando](https://open.spotify.com/track/63dcYPuE3PEauC0t480FKn) | [Mariachi Nuevo Tecalitlán](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Dia de los Muertos \(Con Mariachi\)](https://open.spotify.com/album/2jhrvg3VaRCvGwEvhLLsmw) | 3:40 |
+| 91 | [Que Me Importa Morir](https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f) | [Wilbert Pere y Mariachi Tanampa](https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n) | [Día de los Muertos: El Mariachi](https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB) | 3:21 |
 | 92 | [Los Esqueletos](https://open.spotify.com/track/2evbt2sweKafw1Xx6tUVq6) | [Espanto](https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ) | [Tres Canciones Nuevas](https://open.spotify.com/album/1t3hGZtxBBXWmWGCuFM6QH) | 3:04 |
 | 93 | [Décimas a la Calaca](https://open.spotify.com/track/66q3eL0U5UM3TK8rAwRoh1) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo), [Orquesta Sinfónica del Instituto Politécnico Nacional](https://open.spotify.com/artist/5N2IZwiKhnhblhOdER1hjP) | [De Jolgorios y Velorios](https://open.spotify.com/album/68iNCGhPq5hSPdfa6UMEHO) | 2:38 |
 | 94 | [La Catrína Pobre](https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD) | [Trio Armonia Huasteca](https://open.spotify.com/artist/4jyDN8IXegV9Hn6RNVcejK), [Las Rancheritas](https://open.spotify.com/artist/0JrvKuMSrLHPKvWd4bM5YJ) | [Contestadas Y Rancheras](https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t) | 2:18 |

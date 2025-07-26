@@ -2614,7 +2614,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 302210,
       "name": "Places",
       "url": "https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz"
@@ -3716,6 +3716,24 @@
       "duration_ms": 368000,
       "name": "U",
       "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
+    },
+    {
+      "album": {
+        "name": "Vital Loop",
+        "url": "https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236659,
+      "name": "Vital Loop",
+      "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"
     },
     {
       "album": {

@@ -3597,6 +3597,24 @@
     },
     {
       "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283500,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh"
+    },
+    {
+      "album": {
         "name": "Nautical",
         "url": "https://open.spotify.com/album/74YCnRRhFUIFbGbRcN4xkY"
       },

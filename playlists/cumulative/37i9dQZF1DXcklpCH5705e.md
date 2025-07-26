@@ -4,7 +4,7 @@
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: JOLIN
 
-223 songs - 14 hr 35 min
+224 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Falling](https://open.spotify.com/track/42YkFuZwQnlvxjvsGjNy0X) | [Kim Jong Wan](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Jirisan \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0oGqo4x9KW38VsW65vwzIc) | 4:00 | 2022-03-10 | 2022-07-29 |
 | [Falling](https://open.spotify.com/track/2ZT0lkRQIl0SX3v5S8NpoS) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Jirisan \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/6d5Kzy3fo9Mk5iA7eZ4tGl) | 4:00 | 2022-03-10 | 2023-02-03 |
 | [Falling](https://open.spotify.com/track/2oXZqAKyrShrHl9Pn1qMsr) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Jirisan \(Original Television Soundtrack\) Special](https://open.spotify.com/album/4UjeHAcgsNVYlA62bJxboY) | 4:00 | 2022-03-10 | 2022-11-13 |
+| [Fish Love](https://open.spotify.com/track/2mchvAmESMEQzuVBB07qAe) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Pleasure](https://open.spotify.com/album/0LbR39fJOYWdaJ7sHfcYtF) | 3:10 | 2025-07-24 |  |
 | [Good Bye](https://open.spotify.com/track/0kESNlEmvbHP9rzV3pbvCP) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Penthouse3 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6POBGmlw3UvjwFrEm4T3U3) | 3:41 | 2022-03-10 | 2022-07-29 |
 | [Good Bye](https://open.spotify.com/track/4zcInwwZ1CeaMYxXNvpUKa) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Penthouse3 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0fUXrcrlOrGxVQGWuI4pUi) | 3:41 | 2022-03-10 | 2023-02-03 |
 | [Greatest Strength](https://open.spotify.com/track/0qLRYyADLptZlBy1WAW1lG) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ), [Toft Willingham](https://open.spotify.com/artist/4cxcb1EnVZwWbGHy2kJNfr), [Chez](https://open.spotify.com/artist/3QPkiE4U7jN0j6oAy1QJLo), [Jessica Gelinas](https://open.spotify.com/artist/25f1T8ftal0wbUsAYgP8ng) | [JUJUTSU KAISEN 0 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU) | 3:12 | 2022-03-10 | 2023-02-03 |

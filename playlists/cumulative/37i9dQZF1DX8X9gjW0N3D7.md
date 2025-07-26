@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: Cœur De Pirate
 
-171 songs - 9 hr 12 min
+172 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Balle Courbe](https://open.spotify.com/track/0HBQUemZHQZdW3npRpKREc) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Balle Courbe](https://open.spotify.com/album/3lIkAxv5KylJhSBoPXk5Dq) | 3:05 | 2024-06-28 | 2025-01-18 |
 | [Ballon\-sonde](https://open.spotify.com/track/1jYGkYSvLe066L9eb4yz6X) | [JF Pauzé](https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d) | [Ballon\-sonde](https://open.spotify.com/album/5u1Db0wkJP7bOyKcdq71Ft) | 2:58 | 2025-06-20 |  |
 | [Beaux](https://open.spotify.com/track/0VskpD8acEn3VPp0dGOBoa) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [L'écho des perles](https://open.spotify.com/album/0P2xHJhtnbVC90itxc3XDN) | 3:11 | 2024-06-28 | 2025-06-14 |
-| [Besoin de bras](https://open.spotify.com/track/4VJxp5oheMQcURrcbWLKAA) | [Émile Proulx\-Cloutier](https://open.spotify.com/artist/2tcdf8FUEBD6SEiJgaVeAT) | [Ma main au feu \- ACTE I](https://open.spotify.com/album/5WY0VNlI4MDKXHskwjKR1q) | 5:07 | 2024-06-28 |  |
+| [Besoin de bras](https://open.spotify.com/track/4VJxp5oheMQcURrcbWLKAA) | [Émile Proulx\-Cloutier](https://open.spotify.com/artist/2tcdf8FUEBD6SEiJgaVeAT) | [Ma main au feu \- ACTE I](https://open.spotify.com/album/5WY0VNlI4MDKXHskwjKR1q) | 5:07 | 2024-06-28 | 2025-07-26 |
 | [Brille autant \- Deluxe](https://open.spotify.com/track/4DrahTpOqqMUGFA9EaPoLB) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Album bleu \(Deluxe\)](https://open.spotify.com/album/7iwEMAFJfPV69HC3bo4KNc) | 2:32 | 2025-05-16 |  |
 | [Béatrice](https://open.spotify.com/track/5w4TBVGa5PM9dWV9Xm7l8W) | [Major\-Moran](https://open.spotify.com/artist/1G9UzmqlFkUfFF7Fa4rVPh) | [Béatrice](https://open.spotify.com/album/3idJJWSIWD8dLHD4JpoGPQ) | 2:59 | 2025-01-17 | 2025-05-17 |
 | [C'est comme ça](https://open.spotify.com/track/3rDAYokpKb7ImopqqFP41N) | [Fuso](https://open.spotify.com/artist/3LYl9B0Gfmz00OwCTKCkCh), [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Leela](https://open.spotify.com/album/7yLXm3F5E50rIqAiqsRKZi) | 2:37 | 2024-06-28 | 2024-07-27 |
@@ -125,6 +125,7 @@
 | [Notre p'tit refrain](https://open.spotify.com/track/3IETeJZYbBCT9NIXuIBJ14) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Notre p'tit refrain](https://open.spotify.com/album/4QuHgOVVO7FMFTMnfDtoUw) | 3:29 | 2024-06-28 | 2024-11-16 |
 | [Néant ordinaire](https://open.spotify.com/track/23yrNim8H5GfXo8O1cSUiv) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Néant ordinaire](https://open.spotify.com/album/6nkpqHZt6rX5hQLUUWWcpg) | 3:17 | 2025-06-20 |  |
 | [Névrose \(Radio Edit\)](https://open.spotify.com/track/2DJwnSFTpk2H59G0ahMgWb) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Névrose \(Radio Edit\)](https://open.spotify.com/album/6B2N4pA6JHfbwpAArzxjje) | 2:50 | 2024-08-23 |  |
+| [On Part en Vacances](https://open.spotify.com/track/2ddgnPyk9wA4kOV5vuSQ8t) | [le.Panda](https://open.spotify.com/artist/2sObweidtH0abGLq6BXqkn) | [On Part en Vacances](https://open.spotify.com/album/0SbnyJhzHmt63cZgjXUV2J) | 4:34 | 2025-07-25 |  |
 | [On va\-tu prendre une marche?](https://open.spotify.com/track/1aV7wsrT4v13cRtL5lgOuf) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [On va\-tu prendre une marche?](https://open.spotify.com/album/2vd6ICtPmTK6UO4lgyF8hX) | 3:06 | 2024-06-28 | 2024-09-28 |
 | [Où on dansait autrefois](https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [L'amour](https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5) | 2:55 | 2025-03-14 |  |
 | [Paradis](https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Paradis](https://open.spotify.com/album/6d4EHgbuvkVNNEHWLKPf8w) | 2:47 | 2024-06-28 | 2024-08-10 |

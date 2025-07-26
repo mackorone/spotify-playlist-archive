@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,746 likes - 95 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,756 likes - 95 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

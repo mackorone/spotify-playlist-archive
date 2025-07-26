@@ -4,7 +4,7 @@
 
 > Ease into your day with these beautiful chill songs – Relaxing Morning Music , Relaxing, Chill Music, Lazy Sunday, Cozy morning, Soft morning tunes, Weekend vibes, Sunday brunch playlist, Slow coffee music, Laid\-back, sounds, Morning acoustic
 
-175 songs - 9 hr 56 min
+178 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Call Me Yours](https://open.spotify.com/track/7vW4SEiME2IOmd1FS3cZU2) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Call Me Yours](https://open.spotify.com/album/63fIbYtez5jLa6yxmwkiH8) | 2:09 | 2025-07-18 |  |
 | [Can We Do This Over](https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Can We Do This Over](https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT) | 3:28 | 2025-07-18 |  |
 | [Carmen](https://open.spotify.com/track/2Len4tBitFcIf0sAp2zBOT) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Carmen](https://open.spotify.com/album/2X9F4vOl0e6K7qGyLqZoz2) | 3:02 | 2025-07-18 |  |
-| [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 | 2025-07-18 |  |
+| [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 | 2025-07-18 | 2025-07-26 |
 | [Castaways](https://open.spotify.com/track/7EBqxux19yIqmyNjfnQTE1) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/69ELYNXvyNZhpCX2Rt3lKa) | 2:44 | 2025-07-18 |  |
 | [Cherry Flavoured](https://open.spotify.com/track/40iocOzytrqaRn5RbGPDNp) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:28 | 2025-07-18 |  |
 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:20 | 2025-07-18 |  |
@@ -64,6 +64,7 @@
 | [Gorgeous](https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Gorgeous](https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF) | 3:05 | 2025-07-18 |  |
 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/25FpYk2r43jMp2Rn1orAFp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 3:12 | 2025-07-18 |  |
 | [Hairdresser](https://open.spotify.com/track/3ACuAlEUbOaRICryHUPoSL) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Hairdresser](https://open.spotify.com/album/45x0oOtcheQTInFbozCoWE) | 3:27 | 2025-07-18 |  |
+| [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-25 |  |
 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 | 2025-07-18 |  |
 | [Heartbeat](https://open.spotify.com/track/3CP4TBBL8ZvTnHf0wPy7Pt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Deluxe\)](https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N) | 3:51 | 2025-07-18 |  |
 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 | 2025-07-18 |  |
@@ -73,7 +74,7 @@
 | [HERicane](https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [HERicane](https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1) | 3:47 | 2025-07-18 |  |
 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 | 2025-07-18 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 | 2025-07-18 |  |
-| [High \- Acoustic](https://open.spotify.com/track/4UeocJu8WARqFFkuLEdvXa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High \(Acoustic\)](https://open.spotify.com/album/3KH3NMGd1bUD1aKWAEQxeL) | 2:33 | 2025-07-18 |  |
+| [High \- Acoustic](https://open.spotify.com/track/4UeocJu8WARqFFkuLEdvXa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High \(Acoustic\)](https://open.spotify.com/album/3KH3NMGd1bUD1aKWAEQxeL) | 2:33 | 2025-07-18 | 2025-07-26 |
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-07-18 |  |
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2025-07-18 |  |
 | [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 | 2025-07-18 |  |
@@ -165,6 +166,7 @@
 | [The Hardest Part](https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:56 | 2025-07-18 |  |
 | [The Sofa](https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE) | 4:26 | 2025-07-18 |  |
 | [Time To Make A Change \(feat\. MonoNeon\)](https://open.spotify.com/track/3Ln9vpfeUYCtb73kkF6Ldn) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [The Beginning](https://open.spotify.com/album/3Uy5319iFlPvzKtUGCwUrQ) | 3:41 | 2025-07-18 |  |
+| [To Be Free](https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Be Free](https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb) | 4:15 | 2025-07-25 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:21 | 2025-07-18 |  |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-07-18 |  |
 | [twin](https://open.spotify.com/track/5DIZg9QqSdzgHmkZ2k2F1a) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:28 | 2025-07-18 |  |
@@ -176,11 +178,12 @@
 | [Weight](https://open.spotify.com/track/3li8bYr29vc2Md6QvKrmra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Weight](https://open.spotify.com/album/378aYaLsxI1Dk1bb4RhbH6) | 3:11 | 2025-07-18 |  |
 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2025-07-18 |  |
 | [What Do You Believe In?](https://open.spotify.com/track/7ESokqsg1i0OeVOdw77DzE) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In? \(Deluxe\)](https://open.spotify.com/album/5nzie0fo3tXZtq5D5Sd7KM) | 3:10 | 2025-07-18 |  |
+| [WHAT NOW](https://open.spotify.com/track/2y2iIa8DnNyGDt7BxxQddA) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [SOMEWHERE NEW / WHAT NOW](https://open.spotify.com/album/0R3aQGOUkFvyxvn2X5cpxt) | 2:40 | 2025-07-25 |  |
 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2025-07-18 |  |
 | [Who’s Making You Feel It](https://open.spotify.com/track/3fogOLGOLBcvpDD5e0ukPa) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Who’s Making You Feel It](https://open.spotify.com/album/5aZnyZi7nvqMtZSkMYMlR6) | 3:36 | 2025-07-18 |  |
 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 | 2025-07-18 |  |
 | [You](https://open.spotify.com/track/3LNRi4UytUnez6T0hFb4x3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 2:59 | 2025-07-18 |  |
-| [you were there for me](https://open.spotify.com/track/2jBt7c8o1dDuyIIgepcNsz) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:15 | 2025-07-18 |  |
+| [you were there for me](https://open.spotify.com/track/2jBt7c8o1dDuyIIgepcNsz) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:15 | 2025-07-18 | 2025-07-26 |
 | [Young Dumb & Broke](https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:22 | 2025-07-18 |  |
 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 | 2025-07-18 |  |
 

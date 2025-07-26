@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for the 67th GRAMMY Awards.",
-  "num_followers": 151523,
+  "num_followers": 151506,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 227032,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
         "name": "att.",
         "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 201935,
       "name": "offline",
       "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 227032,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -999,26 +999,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 219628,
-      "name": "MMS",
-      "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "Hyperdrama",
         "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 219628,
+      "name": "MMS",
+      "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Saviors",
-        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 186270,
-      "name": "The American Dream Is Killing Me",
-      "url": "https://open.spotify.com/track/0yq78eXBvWVgkqojBe46SX"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "Djesse Vol. 4",
         "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 250200,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/275XKjLmQFuZnxTvvtJ6VZ"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 186270,
+      "name": "The American Dream Is Killing Me",
+      "url": "https://open.spotify.com/track/0yq78eXBvWVgkqojBe46SX"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Telos",
-        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 127380,
-      "name": "Lucky (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/6DtU5J0xK0Law03cXT6ar5"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "Cellar Door",
         "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 226735,
       "name": "Angry",
       "url": "https://open.spotify.com/track/5op6kdhlMQ4L0KH30GCZ5T"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Telos",
+        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 127380,
+      "name": "Lucky (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/6DtU5J0xK0Law03cXT6ar5"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "All Born Screaming",
-        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 226578,
-      "name": "Flea",
-      "url": "https://open.spotify.com/track/6TryolYM0MBzNTxGrlfcqt"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "Break Mine EP",
         "url": "https://open.spotify.com/album/4aIwPQUD8tZxiojFNQfAxK"
       },
@@ -1903,18 +1887,18 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Crown of Horns",
-        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
+        "name": "All Born Screaming",
+        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
       },
       "artists": [
         {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 345760,
-      "name": "Crown of Horns",
-      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
+      "duration_ms": 226578,
+      "name": "Flea",
+      "url": "https://open.spotify.com/track/6TryolYM0MBzNTxGrlfcqt"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -1931,6 +1915,22 @@
       "duration_ms": 243263,
       "name": "Loved",
       "url": "https://open.spotify.com/track/2rIDrqcliMqD8AydNA4Tmc"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Crown of Horns",
+        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 345760,
+      "name": "Crown of Horns",
+      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
     },
     {
       "added_at": "2025-02-03 18:19:52",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "Diamante",
-      "url": "https://open.spotify.com/track/5eRN0FLIkrRDbpOBZtH6bi"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/1BwLUBMJ0Ol72WtHU41vkO"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 301166,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/7tT3kZyaweAcc7pf7uhd2m"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/5eRN0FLIkrRDbpOBZtH6bi"
     },
     {
       "added_at": "2025-02-03 18:19:52",

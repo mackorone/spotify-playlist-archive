@@ -4,7 +4,7 @@
 
 > Delicate digital expressions of the heart.
 
-215 songs - 15 hr 57 min
+216 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 | 2022-02-03 | 2025-05-01 |
 | [Permanence \- Original Mix](https://open.spotify.com/track/7HdEAYOe2uJoWRQAxN3Uyv) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/2nXj7FISsnrz03cLqJv3SF) | 3:49 | 2024-01-19 | 2024-04-19 |
 | [Places](https://open.spotify.com/track/3RN6IMCkcJr44Xm7tdWWaK) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Bad Vibes](https://open.spotify.com/album/5KRR8tyAUT6bcMOsCfM2Lh) | 5:02 | 2022-02-03 | 2024-04-19 |
-| [Places](https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Bad Vibes](https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn) | 5:02 | 2022-02-03 |  |
+| [Places](https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Bad Vibes](https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn) | 5:02 | 2022-02-03 | 2025-07-26 |
 | [Play The Ghost](https://open.spotify.com/track/0nL2bTth1UVQHWDDumMm3f) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Play The Ghost](https://open.spotify.com/album/5k7zYeNXukePTst4h0shET) | 5:01 | 2022-02-03 | 2022-07-29 |
 | [Play The Ghost](https://open.spotify.com/track/0xtJvcniZ7aQmKFOikkh84) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Cantus, Descant](https://open.spotify.com/album/2b5zGG5gFQgy0QhWyR9ehQ) | 5:01 | 2022-02-03 | 2023-03-31 |
 | [Poison Tree](https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:16 | 2022-02-03 | 2024-04-19 |
@@ -205,6 +205,7 @@
 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 | 2022-02-03 |  |
 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 | 2022-02-03 |  |
 | [U](https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:08 | 2022-02-03 |  |
+| [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 | 2025-07-25 |  |
 | [Walking Flames](https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 4:10 | 2022-02-03 |  |
 | [Water Music](https://open.spotify.com/track/0khyOpw2EeYetwTCoJAzs8) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Ultraviolet](https://open.spotify.com/album/37pu0bzxfd75BoBq6jKa7U) | 6:29 | 2022-02-03 | 2023-09-03 |
 | [Water Music](https://open.spotify.com/track/6PN8bVP6kjAW6UwqileVWR) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Ultraviolet](https://open.spotify.com/album/0dfCsSXhtcdAyW7ODD4Aeu) | 6:29 | 2022-02-03 | 2024-12-04 |

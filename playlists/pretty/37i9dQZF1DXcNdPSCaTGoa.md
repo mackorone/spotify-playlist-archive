@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Southern African gems across the decades\. Cover: <a href="https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ?si=hjrsvkP8TLO9Cs\-gba5VNQ">Oliver Mtukudzi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,223 likes - 60 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,284 likes - 60 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 53 | [Magesh](https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 4:29 |
 | 54 | [Zandisile](https://open.spotify.com/track/3RZevm4NTP6UFNpdR5JWzq) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Zandisile](https://open.spotify.com/album/1Zg3W11SiHfbzQVFiWgTBB) | 6:02 |
 | 55 | [Khona](https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2) | [Evo Mix](https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc) | 4:55 |
-| 56 | [Wozobona](https://open.spotify.com/track/5dIOKpPN20BHKd56jOVsoN) | [Pro Kid](https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli) | [Heads and Tales](https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6) | 4:10 |
+| 56 | [Wozobona](https://open.spotify.com/track/5dIOKpPN20BHKd56jOVsoN) | [Pro Kid](https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli), [Hoodlum](https://open.spotify.com/artist/1jN8jSEK1ODKCfjviN7Hxp) | [Heads and Tales](https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6) | 4:10 |
 | 57 | [Doc Shebeleza](https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Tsholofelo \(Platinum Edition\)](https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc) | 3:51 |
 | 58 | [Scatterlings Of Africa](https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn) | [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Rain Man: Original Motion Picture Soundtrack](https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi) | 4:05 |
 | 59 | [Ndiredi](https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Grand Masters](https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj) | 4:56 |

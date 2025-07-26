@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Minz
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,003 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,052 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 15 | [Life](https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Life](https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb) | 2:47 |
 | 16 | [My Amigo](https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [My Amigo](https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj) | 2:40 |
 | 17 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 |
-| 18 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 |
+| 18 | [Malaika](https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mugisho](https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw) | [Malaika](https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN) | 2:33 |
 | 19 | [PITY THIS BOY \(with Victony\)](https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [PITY THIS BOY](https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk) | 2:45 |
-| 20 | [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 |
-| 21 | [Malaika](https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mugisho](https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw) | [Malaika](https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN) | 2:33 |
+| 20 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 |
+| 21 | [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 |
 | 22 | [Giveaway](https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:00 |
 | 23 | [No Sign of Weakness](https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:55 |
 | 24 | [No Less](https://open.spotify.com/track/32wGNSA3W124qObuGWW2i6) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [The Feast](https://open.spotify.com/album/0mfWmn7nIuZuJHVsaZ8An9) | 3:10 |

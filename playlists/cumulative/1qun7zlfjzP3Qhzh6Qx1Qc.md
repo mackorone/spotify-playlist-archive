@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-440 songs - 1 day 0 hr 28 min
+444 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Asking for a Friend](https://open.spotify.com/track/0lIvPn66NoM8GKvhlBOj5B) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [Asking for a Friend](https://open.spotify.com/album/2rQI4GLHSjBOOj1lm7Fnjn) | 3:28 | 2025-05-02 | 2025-06-28 |
 | [Avalon](https://open.spotify.com/track/4a3coKHqS9oX5ooTZHVUm6) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Avalon](https://open.spotify.com/album/4ahlOf4Dz3n8FsmdXxb1GG) | 2:51 | 2024-08-02 | 2024-09-14 |
 | [Back Full of Feathers](https://open.spotify.com/track/5tNzvQLEHlMvoVVwA7iaYN) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Back Full of Feathers](https://open.spotify.com/album/1N6QKdaWlnynncy9EAyzFg) | 3:21 | 2025-01-24 | 2025-03-22 |
+| [Back in the Saddle](https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Back in the Saddle](https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ) | 3:32 | 2025-07-25 |  |
 | [Back On It](https://open.spotify.com/track/3RXiastymst1QaU2PGNraV) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Back On It](https://open.spotify.com/album/738HTiFYL5zNqSHxSqMlWt) | 2:38 | 2025-05-30 | 2025-07-05 |
 | [Back On It \(feat\. 501Bryze\)](https://open.spotify.com/track/22v5EYRGP3pZOZ1oRLKUde) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP), [501Bryze](https://open.spotify.com/artist/0C07HpMBzSy9NWj98eod3R) | [Back On It](https://open.spotify.com/album/2m607542qu1J3gWkzUmDV2) | 2:54 | 2025-06-27 |  |
 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 | 2024-10-13 | 2025-04-22 |
@@ -46,6 +47,7 @@
 | [Bad Habits](https://open.spotify.com/track/0zzA7A6btrf9ah4bdpuiqr) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Bad Habits](https://open.spotify.com/album/5jWs2Me9Jf6pQtMKh379hF) | 3:14 | 2025-06-20 |  |
 | [Ball Player](https://open.spotify.com/track/6v6QOz47JmG6jVGllISB0Y) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Ball Player](https://open.spotify.com/album/6MeynN7mUu0CKayfD825x8) | 2:49 | 2024-08-16 | 2025-01-18 |
 | [Bat Outta Hell \- With a Boat on the Back](https://open.spotify.com/track/1lAMQ8VFcCUhnd8VtL2G9p) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Bat Outta Hell \(With a Boat on the Back\)](https://open.spotify.com/album/6cQR5LHCrdFmjkxuUkrtQT) | 3:37 | 2024-03-15 | 2024-06-15 |
+| [be a bitch](https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [be a bitch](https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl) | 3:04 | 2025-07-25 |  |
 | [bed no breakfast](https://open.spotify.com/track/2dNRnuMiLjicWMbmSkKF4n) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [bed no breakfast](https://open.spotify.com/album/50eGJe89pUdqFiNcl3V36B) | 2:26 | 2025-04-21 |  |
 | [Best of My 20's \(feat\. Trousdale\)](https://open.spotify.com/track/0PltwVYmskJyHAfehhhfHB) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq), [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 2:56 | 2024-10-13 | 2025-01-25 |
 | [better be tough](https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:06 | 2024-08-02 | 2024-11-02 |
@@ -133,6 +135,7 @@
 | [East Coast](https://open.spotify.com/track/4aFt8GeOqyZ2OtGwBsHY4x) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [East Coast](https://open.spotify.com/album/2ox0IEYLKRdPGNw1gPkW97) | 3:17 | 2025-03-14 | 2025-05-31 |
 | [EASY ON ME](https://open.spotify.com/track/3Z9znuwSxbmnexupwI8T36) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [EASY ON ME](https://open.spotify.com/album/2XsrTQH7HejG6s8Y72DrXL) | 2:19 | 2025-06-20 |  |
 | [Easy to Leave](https://open.spotify.com/track/6bSonRFd1fXIUN8YDbdgqj) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Easy to Leave](https://open.spotify.com/album/3v1UhdUB9jhV6KLPeZ6X23) | 3:18 | 2025-07-11 |  |
+| [Eatin' Big Time](https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 4:45 | 2025-07-25 |  |
 | [End of Time](https://open.spotify.com/track/3QNELTJE1rx5TwDFOel2rr) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [End of Time](https://open.spotify.com/album/3cz09fVEDtdj90y4UUVa7s) | 3:01 | 2025-06-27 |  |
 | [Ends of the Earth](https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Ends of the Earth](https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ) | 4:29 | 2024-10-25 | 2025-02-01 |
 | [Envoye à maison](https://open.spotify.com/track/4tdi1TJ4MWfIOGe1fhJAW2) | [Kaïn](https://open.spotify.com/artist/1KMHmX2PgvEl1nFzFmEdcZ) | [Envoye à maison](https://open.spotify.com/album/6JYhdMA4Vo9oYomRyNzHvW) | 3:28 | 2025-05-23 | 2025-07-05 |
@@ -261,6 +264,7 @@
 | [Me Most Nights](https://open.spotify.com/track/4BvaS7w9Cu0Psc8VGwXFDh) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Me Most Nights](https://open.spotify.com/album/1GO6f9KNUrqQKufeKGS0qc) | 2:39 | 2025-04-04 | 2025-06-28 |
 | [Meant to Be Friends](https://open.spotify.com/track/1WwxUd7O771ekVCBnAUrt3) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [..\. And What Was Left Behind](https://open.spotify.com/album/1hI9VULoMlRbwNSQ2Yhf4z) | 3:03 | 2025-04-11 | 2025-06-21 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-03 | 2025-02-22 |
+| [Miss You Man](https://open.spotify.com/track/5LTVOVj96FP3GOYJyjbbQz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Miss You Man](https://open.spotify.com/album/7F291iQJw9GS7fN6dz8MNc) | 3:24 | 2025-07-25 |  |
 | [Missin' Tonight](https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Missin' Tonight](https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP) | 2:50 | 2024-09-20 | 2024-10-26 |
 | [MORE THAN YESTERDAY](https://open.spotify.com/track/6RfBL5sRFnPvwJ8dFCyxK0) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [MORE THAN YESTERDAY](https://open.spotify.com/album/5h7dyfVVfgIiKFZk99aTPW) | 3:15 | 2025-05-09 | 2025-07-12 |
 | [Moth to a Flame](https://open.spotify.com/track/2QVur9XmWWwivQntbUwvVT) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Moth to a Flame](https://open.spotify.com/album/3k89ZbjGkJJbm5hnCqx5B3) | 3:52 | 2024-06-21 | 2024-08-17 |

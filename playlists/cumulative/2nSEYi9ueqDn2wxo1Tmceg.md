@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Hot Chip</a>
 
-1,440 songs - 4 day 1 hr 55 min
+1,442 songs - 4 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 | 2025-06-23 |  |
 | [Dawn](https://open.spotify.com/track/6uc0M6efmcbQ3bfLON729b) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Night](https://open.spotify.com/album/6HyYMwVYkef8Yjb02Kjmuh) | 3:56 | 2022-06-08 | 2022-07-14 |
 | [Dawn in the Adan \- live at Milton Court, London, 2022](https://open.spotify.com/track/6opCAf3NTAozLeYnz5psUr) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs), [12 Ensemble](https://open.spotify.com/artist/2em3FOAFG3NssO0tWItWuj) | [Ichiko Aoba with 12 Ensemble \(Live at Milton Court\)](https://open.spotify.com/album/1SidH7S63wfa5po9dN76Zz) | 6:00 | 2023-04-19 | 2023-05-18 |
+| [Daytona](https://open.spotify.com/track/6HBObMmgy2AqWWFenhO5hQ) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Double Life](https://open.spotify.com/album/7o0wr8KDp8DRX7scKNB04Z) | 3:25 | 2025-07-25 |  |
 | [Death and the Lady](https://open.spotify.com/track/4EaK0pFWTCIgdpY5JObxPp) | [Landless](https://open.spotify.com/artist/0JTmD0zEsAkXkpQcJOuKjD) | [Death and the Lady](https://open.spotify.com/album/3yI1n33Vr05wh6gU22BD6M) | 4:43 | 2024-06-05 | 2024-07-04 |
 | [death drive freestyle](https://open.spotify.com/track/25xboCi9e1Qq24fSLRr5sO) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk) | [death drive freestyle](https://open.spotify.com/album/4y3BL2sHzjFperyYcD1Qa9) | 1:08 | 2022-11-16 | 2023-01-12 |
 | [Death Lurking \(feat\. Izzy Da Fonseca\)](https://open.spotify.com/track/5lcEVADWz6YKvpGJfrQfba) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9), [Izzy Da Fonseca](https://open.spotify.com/artist/2D4pCpP1hPhNUuw4jdgLwt) | [Hex Dealer](https://open.spotify.com/album/3L5va7www3TF2QYjPGTrQl) | 3:50 | 2024-05-29 | 2024-06-27 |
@@ -925,6 +926,7 @@
 | [Offscreen](https://open.spotify.com/track/5D6kR4q7RGKh0mw07NGE4t) | [СОЮЗ](https://open.spotify.com/artist/0UirLOZvkWWLoWe93BEFjK) | [Force of the Wind](https://open.spotify.com/album/7E3tOdJ60r6wJsE2AQQobE) | 3:28 | 2023-03-01 | 2023-04-13 |
 | [OGO](https://open.spotify.com/track/2Q1VAgngFlOUJs2ddabVZL) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [OGO](https://open.spotify.com/album/49Q4hUEvJ1DSssouhOGsKV) | 2:47 | 2022-11-16 | 2023-01-12 |
 | [Oh France](https://open.spotify.com/track/4EwVCBiXHzunO6vZrM7xEX) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice](https://open.spotify.com/album/1fJajwWIysMm9TqWzFcHwq) | 5:40 | 2024-05-15 | 2024-06-27 |
+| [Oh Light, Oh Light](https://open.spotify.com/track/0UURbEqpXDw3VR05gDmAP4) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw), [Johanna Söderberg](https://open.spotify.com/artist/5rdooMl2nQgTmhpklY2PVL) | [Oh Light, Oh Light](https://open.spotify.com/album/1ICixlJTDPGLWXLMCymGM5) | 3:18 | 2025-07-25 |  |
 | [Oh My Actual Days](https://open.spotify.com/track/7dAmlZ3JJrNvrie5NUzHIB) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Oh My Actual Days](https://open.spotify.com/album/3kpJEJjX2aTMIcWvelLM38) | 3:47 | 2025-01-29 | 2025-03-06 |
 | [Ojalá](https://open.spotify.com/track/3hBjjpjZE1e8xwccLhwlpY) | [Bryan Senti](https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR), [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx), [Noah Hoffeld](https://open.spotify.com/artist/1SHHVoLzMa265vahYHbzm7) | [Ojalá](https://open.spotify.com/album/0CyUPFFNq7xvYvbD5NsfD5) | 3:39 | 2024-02-29 | 2024-04-11 |
 | [Old Friend](https://open.spotify.com/track/3Z3nvwzhzPmY9stjgGoFgk) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [The Window Is The Dream](https://open.spotify.com/album/3EnBXhKmxcca2l2YfMfVZr) | 2:25 | 2023-04-26 | 2023-06-01 |

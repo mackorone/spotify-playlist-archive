@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Have A Baby (With Me)",
+        "url": "https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225874,
+      "name": "Have A Baby (With Me)",
+      "url": "https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d"
       },
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 240123,
       "name": "Hey Ma",
       "url": "https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged"
@@ -3621,6 +3639,24 @@
     },
     {
       "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/19dLWMBcqXwZy0Lv7nxRjb"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177245,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/0szmDue1FCIpLC9SBs7fbU"
+    },
+    {
+      "album": {
         "name": "Let's Talk About Love",
         "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
       },
@@ -4080,7 +4116,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 171873,
       "name": "RATHER BE",
       "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"

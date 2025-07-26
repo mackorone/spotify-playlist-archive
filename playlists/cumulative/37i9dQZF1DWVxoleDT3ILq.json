@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Todo el sonido indie de Chile. Foto: D\u00ebnver",
+  "description": "Todo el sonido indie de Chile. Foto: Casandra Paz y Kurmi",
   "name": "Indie Chile",
   "tracks": [
     {
@@ -3511,6 +3511,28 @@
     },
     {
       "album": {
+        "name": "FANTA",
+        "url": "https://open.spotify.com/album/6Y28lIexXiz5KrPjwLLk0b"
+      },
+      "artists": [
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        },
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222250,
+      "name": "FANTA",
+      "url": "https://open.spotify.com/track/3sgfOzoBtvoMq92GwcfCox"
+    },
+    {
+      "album": {
         "name": "Fantasma Encantador",
         "url": "https://open.spotify.com/album/2KSnj4HOx7bzl7IjxKQbyQ"
       },
@@ -4760,6 +4782,28 @@
       "duration_ms": 140649,
       "name": "Labios de Miel",
       "url": "https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks"
+    },
+    {
+      "album": {
+        "name": "Las cosas van a salir bien",
+        "url": "https://open.spotify.com/album/6ra3Qy3YdVwooWD5zeqIzM"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        },
+        {
+          "name": "Kurmi",
+          "url": "https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213136,
+      "name": "Las cosas van a salir bien",
+      "url": "https://open.spotify.com/track/1i4fMZwOFD6vbkilo0AOyK"
     },
     {
       "album": {

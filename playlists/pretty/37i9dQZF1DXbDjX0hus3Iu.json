@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 526402,
+  "num_followers": 526482,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Rossington Collins Band",
+        "url": "https://open.spotify.com/album/5x7R9IRVTa2Yb1IT14vNoH"
+      },
+      "artists": [
+        {
+          "name": "Rossington Collins Band",
+          "url": "https://open.spotify.com/artist/22vadBKWnw6sLJPML2MdKi"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Don't Misunderstand Me",
+      "url": "https://open.spotify.com/track/7uODrkf1XnlIGMyUSCLbLU"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "Feats Don't Fail Me Now",
         "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 201826,
       "name": "Third Rate Romance - Remastered",
       "url": "https://open.spotify.com/track/1oRvLqwJowH9JU0uO1iVzA"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of The Rossington Collins Band",
-        "url": "https://open.spotify.com/album/5x7R9IRVTa2Yb1IT14vNoH"
-      },
-      "artists": [
-        {
-          "name": "Rossington Collins Band",
-          "url": "https://open.spotify.com/artist/22vadBKWnw6sLJPML2MdKi"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Don't Misunderstand Me",
-      "url": "https://open.spotify.com/track/7uODrkf1XnlIGMyUSCLbLU"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Feats Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Oh, Atlanta",
-      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Molly Hatchet",
         "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 376666,
       "name": "Gator Country",
       "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Feats Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Oh, Atlanta",
+      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Molly Hatchet",
-        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
-      },
-      "artists": [
-        {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Bounty Hunter",
-      "url": "https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "High On The Hog",
         "url": "https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 161506,
       "name": "Jim Dandy",
       "url": "https://open.spotify.com/track/0JFEn4sPozptBShOuqMQVs"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Molly Hatchet",
+        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
+      },
+      "artists": [
+        {
+          "name": "Molly Hatchet",
+          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Bounty Hunter",
+      "url": "https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Tenth",
-        "url": "https://open.spotify.com/album/37m7nAtaIffnaWayNiUoCW"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
-        }
-      ],
-      "duration_ms": 232013,
-      "name": "See You One More Time",
-      "url": "https://open.spotify.com/track/0RyXzD324olLudPBJWvmSf"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Platinum & Gold Collection",
         "url": "https://open.spotify.com/album/6Lx6Uk2ToDnKo5T3BhIT9v"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 346933,
       "name": "(Ghost) Riders In The Sky",
       "url": "https://open.spotify.com/track/5Y8gFnBzwcMEWa2vmmUABR"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Tenth",
+        "url": "https://open.spotify.com/album/37m7nAtaIffnaWayNiUoCW"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "duration_ms": 232013,
+      "name": "See You One More Time",
+      "url": "https://open.spotify.com/track/0RyXzD324olLudPBJWvmSf"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "The Marshall Tucker Band",
-        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
-        }
-      ],
-      "duration_ms": 365093,
-      "name": "Can't You See",
-      "url": "https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Pattern Disruptive",
         "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 245600,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "The Marshall Tucker Band",
+        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "duration_ms": 365093,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Dark Side of the Mule (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "Bad Little Doggie",
-      "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Brothers And Sisters (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1n9rbMLUmrXBBBJffS7pDj"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 288160,
       "name": "Ramblin' Man",
       "url": "https://open.spotify.com/track/2Q7LpkYrS0PBpoq3iCqypa"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Dark Side of the Mule (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "Bad Little Doggie",
+      "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Shake Hands With Shorty",
-        "url": "https://open.spotify.com/album/2QoQtXjJhpQ5thjzBptKHq"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        }
-      ],
-      "duration_ms": 248960,
-      "name": "Shake 'Em On Down",
-      "url": "https://open.spotify.com/track/0c89AX1OJlQM22def9hr0n"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Idlewild South (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/37oy7Ti9xfebvoe7KPEGIw"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 180066,
       "name": "Midnight Rider",
       "url": "https://open.spotify.com/track/1hUe1XOcM5iXaWG6NRtLzG"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Shake Hands With Shorty",
+        "url": "https://open.spotify.com/album/2QoQtXjJhpQ5thjzBptKHq"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "duration_ms": 248960,
+      "name": "Shake 'Em On Down",
+      "url": "https://open.spotify.com/track/0c89AX1OJlQM22def9hr0n"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "The Deep End Vol. 1",
-        "url": "https://open.spotify.com/album/3E5cQw3IpyFqCM4VeFnOXR"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 467800,
-      "name": "Soulshine",
-      "url": "https://open.spotify.com/track/1oHdIbwsw3jJvrIKvZdB2e"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Eat A Peach (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yvCI9bSiajFEvrYTgzmpe"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 309386,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/7uhGHDIJCKP5mbC0WidMAS"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "The Deep End Vol. 1",
+        "url": "https://open.spotify.com/album/3E5cQw3IpyFqCM4VeFnOXR"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 467800,
+      "name": "Soulshine",
+      "url": "https://open.spotify.com/track/1oHdIbwsw3jJvrIKvZdB2e"
     },
     {
       "added_at": "2025-06-20 04:06:02",

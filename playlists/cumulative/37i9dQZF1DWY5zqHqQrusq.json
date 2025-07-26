@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "Speak to me",
+        "url": "https://open.spotify.com/album/0dzjosZvWYTFaUAcv3d9nL"
+      },
+      "artists": [
+        {
+          "name": "Clark Keeng",
+          "url": "https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279020,
+      "name": "Athena, am I beautiful?",
+      "url": "https://open.spotify.com/track/2brYh8EuopGb0C1NsJtOZt"
+    },
+    {
+      "album": {
         "name": "Bad Side",
         "url": "https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE"
       },
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 167129,
       "name": "Panda Basi",
       "url": "https://open.spotify.com/track/4vI1Z6EL8bqA7YE1fKzRyp"

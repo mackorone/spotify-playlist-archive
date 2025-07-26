@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-416 songs - 21 hr 0 min
+417 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Heartbeat](https://open.spotify.com/track/39TcT0lUnag46B6eukkLlM) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Heartbeat](https://open.spotify.com/album/1aWLROPBF29zW8hahI43J0) | 2:59 | 2023-07-20 | 2023-08-05 |
 | [Heartbeat \- BLK RSE Remix](https://open.spotify.com/track/1f3XYvmKK8Qc9APKlJ15zC) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [Heartbeat \(BLK RSE Remix\)](https://open.spotify.com/album/5K78j7QvCOzOyTu6hqWQTw) | 3:01 | 2023-08-02 | 2023-11-11 |
 | [Heartstrings](https://open.spotify.com/track/3YiAx5kB9KBJhDLgD620U3) | [Severman](https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u), [Arvenius](https://open.spotify.com/artist/0SuO4XuTPgJigDrvnsaOQq), [Bernard Yagee](https://open.spotify.com/artist/0Bjov8cf7WRRVnjDHhn6VE) | [For The Love Of Progressive EP 2.0](https://open.spotify.com/album/4XaWowqTcNMXCUn98Txb3T) | 3:21 | 2024-09-12 |  |
+| [Heaven](https://open.spotify.com/track/10NwNlbw9tcRNHwqWwFMLA) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Monk Mafia](https://open.spotify.com/artist/4oLiwEMNDQrI7niwHY9XYr), [Nia Mousai](https://open.spotify.com/artist/3GDG9ILV7AcsN9IuyIbU9W) | [Heaven](https://open.spotify.com/album/4rWwM5Oi7A8jBT7pOAZX3L) | 2:08 | 2025-07-25 |  |
 | [Heaven Is Right Here](https://open.spotify.com/track/1wVLauapU9IaAwtYhLdQOk) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Heaven Is Right Here](https://open.spotify.com/album/6LIjyJdJbcW3lplplwjb1G) | 3:32 | 2024-10-24 |  |
 | [Hello](https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Hello](https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh) | 2:21 | 2023-07-06 |  |
 | [Here And Now](https://open.spotify.com/track/6bCaAFSdevhK1Hw2ya6Cdz) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [Joffrey Lorquet](https://open.spotify.com/artist/2Qb0DQVMfYEGI2kUO9EvKR), [MiteX](https://open.spotify.com/artist/6HOEVqW2JrpV56Slza9BXq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Here And Now EP](https://open.spotify.com/album/00gWoK8sxHKCRqTwiKEogM) | 3:11 | 2023-07-11 | 2024-06-22 |

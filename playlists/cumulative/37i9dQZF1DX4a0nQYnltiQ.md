@@ -4,7 +4,7 @@
 
 > The \#1 Destination for the best melodies in the world\. Cover: Leigh\-Anne
 
-84 songs - 4 hr 13 min
+85 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Slow It Down \(with Cruza & Isaiah Falls\)](https://open.spotify.com/track/2zrtl35xYyKQSLWNWyl8VU) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Slow It Down \(with Cruza & Isaiah Falls\)](https://open.spotify.com/album/4vDSpaEoRZpIvN1ncerQCJ) | 2:26 | 2025-07-10 |  |
 | [So Lucky](https://open.spotify.com/track/3DAJjuBdlhH7APSVY9bN8Z) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [So Lucky](https://open.spotify.com/album/3tqvPTqGoqyU2N17xMEP2V) | 2:23 | 2025-07-10 |  |
 | [Storytime](https://open.spotify.com/track/0x6LQtNgrtznyaDJ5bPBrp) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Storytime](https://open.spotify.com/album/1MoX3r1GbmjH4VWZg1ERrX) | 2:37 | 2025-07-10 |  |
+| [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 | 2025-07-24 |  |
 | [Sun Don't Leave Me](https://open.spotify.com/track/7jwTfYyL6YFp0IUMUoHx5m) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Sun Don't Leave Me](https://open.spotify.com/album/0ETZgZqH23NT9Y8tstL8B8) | 3:26 | 2025-07-10 |  |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-07-10 |  |
 | [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 | 2025-07-10 |  |

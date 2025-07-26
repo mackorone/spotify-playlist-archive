@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 152271,
+  "num_followers": 152392,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABmUN4cBhjM5fk+2C8Cs7JS",
+  "snapshot_id": "aIF3gAAAAADxysovafW4wGzLtfmY3gFv",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ye",
-        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
       "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 271386,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
+      "duration_ms": 265373,
+      "name": "N o C h i l l",
+      "url": "https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK"
     },
     {
       "added_at": null,
@@ -171,18 +167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+        "name": "ye",
+        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
       },
       "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 265373,
-      "name": "N o C h i l l",
-      "url": "https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK"
+      "duration_ms": 271386,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
     },
     {
       "added_at": null,

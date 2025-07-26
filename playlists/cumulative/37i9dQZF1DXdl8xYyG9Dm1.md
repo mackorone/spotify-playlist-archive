@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover: Cassper Nyovest
 
-365 songs - 18 hr 54 min
+366 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [BAD GUY](https://open.spotify.com/track/6wuIh8EH2MYLI5su3FZ935) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [DEADLINES: FREE P2](https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir) | 1:32 | 2022-10-21 | 2023-05-12 |
 | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi) | 2:53 | 2023-11-10 | 2025-03-15 |
 | [Baddie](https://open.spotify.com/track/2gyKR6S4UM4coba0u9bp9W) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [Toxic Traits](https://open.spotify.com/album/1dv7btvdKE0RMQS8gzH9UY) | 2:01 | 2025-03-14 | 2025-03-22 |
+| [BADMAN GANGSTA](https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BADMAN GANGSTA](https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01) | 2:23 | 2025-07-25 |  |
 | [Ball Till We Fall](https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ball Till We Fall](https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx) | 2:23 | 2021-10-14 | 2023-11-18 |
 | [Balling](https://open.spotify.com/track/6Uy0HWtCberVnkKRKzWWmj) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt) | [Balling](https://open.spotify.com/album/2FqS1rete3J3Viej1Du06g) | 2:46 | 2024-05-17 | 2024-08-09 |
 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 | 2022-06-09 | 2024-07-27 |
@@ -250,7 +251,7 @@
 | [Olufunmi \(The Missing Recipe\)](https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Olufunmi \(The Missing Recipe\)](https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q) | 3:12 | 2025-05-26 |  |
 | [On My Own](https://open.spotify.com/track/4zcfiDFbvmL9ci2QaFmUcL) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c), [Suffix](https://open.spotify.com/artist/7vnxU9gFgrVnQ9BBxHw60s), [Meek](https://open.spotify.com/artist/5byyBDHX1qHmRwHldi9pRp) | [On My Own](https://open.spotify.com/album/2mNVGKIBlzM8gDwj7BMR9c) | 2:33 | 2023-12-08 | 2024-05-10 |
 | [ONE TIME](https://open.spotify.com/track/7uloC7Sgo5KNFKrgRepyhJ) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [P2 : THE BIG HEARTED BAD GUY](https://open.spotify.com/album/5VRS9HeUxDmGRnmkfHPmp1) | 3:04 | 2023-11-10 | 2024-05-09 |
-| [One Time](https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Confuse The Enemy \(Reloaded\)](https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz) | 2:30 | 2024-11-22 |  |
+| [One Time](https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Confuse The Enemy \(Reloaded\)](https://open.spotify.com/album/6tIHqwTZdARVmStiqy16oz) | 2:30 | 2024-11-22 | 2025-07-26 |
 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 | 2023-12-08 |  |
 | [Ox](https://open.spotify.com/track/4ZudOHw5GMiugumo4VgCQv) | [Gabe 'Nandez](https://open.spotify.com/artist/7dD9zcdQrFX9LypKkK5LVW) | [Ox](https://open.spotify.com/album/7fRda1dXtIniKmUYXbuTOJ) | 2:38 | 2021-10-14 | 2022-03-17 |
 | [Pardon My Arrogance](https://open.spotify.com/track/5lSqaq9zJN90ut2JOoddUW) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [K1NG](https://open.spotify.com/artist/4VHLPOtj6jnjbe9kIxFHA9) | [Pardon My Arrogance](https://open.spotify.com/album/2690tz6XKjQtcF1WjNNDJW) | 1:58 | 2022-09-23 | 2022-10-29 |

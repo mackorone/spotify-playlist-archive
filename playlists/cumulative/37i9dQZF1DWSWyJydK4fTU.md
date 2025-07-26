@@ -4,7 +4,7 @@
 
 > Für einen tollen Start in den Tag\. Oder einfach so.
 
-228 songs - 11 hr 30 min
+230 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 | 2025-04-14 |  |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-27 | 2025-03-26 |
 | [Can I Call You Mine?](https://open.spotify.com/track/0dSlqWyLamB7A445b9DieS) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Can I Call You Mine?](https://open.spotify.com/album/2HtTg1vgbqdPWnukjCtii1) | 2:35 | 2024-06-20 | 2024-08-03 |
+| [Caroline](https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Caroline](https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8) | 3:22 | 2025-07-25 |  |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-07-10 | 2025-02-08 |
 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:20 | 2025-04-14 | 2025-04-26 |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-06-04 |  |
@@ -59,7 +60,7 @@
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-30 | 2025-06-05 |
 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 | 2025-02-19 | 2025-03-15 |
 | [Don't Matter](https://open.spotify.com/track/5K2YU3ENuytMsx9bfJOFrw) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Vertigo](https://open.spotify.com/album/7qbKTfezFBs265qBgpGleg) | 3:20 | 2024-12-31 | 2025-04-26 |
-| [Don't Stop The Car](https://open.spotify.com/track/46koOb6QAnc4PCsKJ1h4RD) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [C'est La Vie, Baby!](https://open.spotify.com/album/2ncl4h8FXHnpnbMrvGwA2x) | 3:14 | 2024-10-17 |  |
+| [Don't Stop The Car](https://open.spotify.com/track/46koOb6QAnc4PCsKJ1h4RD) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [C'est La Vie, Baby!](https://open.spotify.com/album/2ncl4h8FXHnpnbMrvGwA2x) | 3:14 | 2024-10-17 | 2025-07-26 |
 | [Down To My Bones](https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Down To My Bones](https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD) | 3:21 | 2024-11-27 | 2025-06-21 |
 | [Driving To Nowhere](https://open.spotify.com/track/7bI0nfpRuGN5BUW23Auw26) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Driving To Nowhere](https://open.spotify.com/album/3ElAgzbgtbzweDHr2snige) | 3:05 | 2024-06-20 | 2024-07-11 |
 | [Du hältst mich wach](https://open.spotify.com/track/75OEPCpx2UCkSWNAmmDsFx) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Du hältst mich wach](https://open.spotify.com/album/7wS7nGiW7h72rqubI37MZV) | 2:15 | 2024-06-20 | 2024-08-31 |
@@ -69,6 +70,7 @@
 | [ENDLICH EGAL](https://open.spotify.com/track/6FC4KbCKeKPZbdjEpJtNex) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [ENDLICH EGAL](https://open.spotify.com/album/2xadm1GleIfA1Q8Pt1WcT4) | 2:42 | 2024-07-10 | 2024-08-20 |
 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 | 2024-08-07 | 2024-10-04 |
 | [erste/letzte](https://open.spotify.com/track/4XHAU1QcCIj4GyPAlCsjs0) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [erste/letzte](https://open.spotify.com/album/11IioagwjEgh3hUGuNl3te) | 2:39 | 2024-07-22 | 2024-11-28 |
+| [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-25 |  |
 | [Family Line](https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 3:36 | 2024-12-18 | 2025-02-21 |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2025-04-02 |  |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-08-02 | 2024-11-28 |
@@ -159,7 +161,7 @@
 | [Nur ein Wort](https://open.spotify.com/track/6qA3oTgV2MQrehl3wQLlO5) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Nur ein Wort](https://open.spotify.com/album/73kEVUOSZ0Z8CiMCO4unLt) | 2:22 | 2024-08-30 | 2024-09-14 |
 | [Nur So Gesagt](https://open.spotify.com/track/0IVUn9eHyWrOCu12lFg6lS) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Nur So Gesagt](https://open.spotify.com/album/5qTKp9p1KtU248GTQg4uvk) | 2:04 | 2024-08-07 | 2024-09-14 |
 | [Old Friend](https://open.spotify.com/track/63NQJKiTf57EOHazzq0Oif) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [La symphonie des éclairs \(Le dernier des voyages\)](https://open.spotify.com/album/4nXalwXLXOcfyQMw0WOZBW) | 2:37 | 2024-11-09 | 2025-07-19 |
-| [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-07-10 |  |
+| [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-07-10 | 2025-07-26 |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-06-20 |  |
 | [Only One I Need](https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Only One I Need](https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz) | 2:26 | 2024-07-10 | 2024-08-20 |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-19 |  |

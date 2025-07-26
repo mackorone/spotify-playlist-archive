@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 
 > All the <a href="spotify:genre:edm\_dance">big ones</a> with Disco Lines & Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,382,635 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,382,573 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 | 6 | [It Feels So Good](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [It Feels So Good](https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO) | 2:40 |
 | 7 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 8 | [The Less I Know The Better](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [The Less I Know The Better](https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk) | 2:56 |
-| 9 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
-| 10 | [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 |
+| 9 | [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 |
+| 10 | [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 |
 | 11 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 |
 | 12 | [Stephanie \- HNTR Remix](https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Stephanie \(HNTR Remix\)](https://open.spotify.com/album/36ugkxRl0vThlv2ytPo1ZD) | 2:25 |
 | 13 | [Wait So Long](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 | 59 | [Without You \(with HAYLA\)](https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Without You \(with HAYLA\)](https://open.spotify.com/album/41OLKYtwOINYu55eAMBdhk) | 4:23 |
 | 60 | [Neverender](https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Neverender](https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u) | 4:26 |
 
-Snapshot ID: `aHnGygAAAAAMhEK/w1Pl80fG+QqTyoPi`
+Snapshot ID: `aIMBZwAAAAA00SBA2swIuPzdTApjJXka`

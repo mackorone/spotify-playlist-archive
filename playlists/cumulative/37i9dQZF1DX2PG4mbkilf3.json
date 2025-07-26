@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada. Elevate your aura with Luna Elle from Mississauga, ON.",
+  "description": "This is R&B in Canada. Elevate your aura with Daniel Caesar from Scarborough, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -458,7 +458,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 145508,
       "name": "6:25",
       "url": "https://open.spotify.com/track/4adHUlpHedj2PKkj9IkF3T"
@@ -3266,7 +3266,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 188120,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0TJDXaB0yYkfJogxqa7ilA"
@@ -8797,6 +8797,24 @@
     },
     {
       "album": {
+        "name": "GREEN",
+        "url": "https://open.spotify.com/album/13z8FEyoJajfXIymHHtmpw"
+      },
+      "artists": [
+        {
+          "name": "Matt Storm",
+          "url": "https://open.spotify.com/artist/5dWiBOsD2jLvYWUSR9XdaZ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175152,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/1BPKOJgvQwn07b0FJEnaRq"
+    },
+    {
+      "album": {
         "name": "Green Line",
         "url": "https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6"
       },
@@ -9134,6 +9152,24 @@
       "duration_ms": 153600,
       "name": "Hate Me Less",
       "url": "https://open.spotify.com/track/3AMKbaH2FrFN05YrkNdptz"
+    },
+    {
+      "album": {
+        "name": "Have A Baby (With Me)",
+        "url": "https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225874,
+      "name": "Have A Baby (With Me)",
+      "url": "https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc"
     },
     {
       "album": {
@@ -11508,7 +11544,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 215639,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/6UhygfLQaavhREE9Ia5FCD"
@@ -15731,6 +15767,42 @@
     },
     {
       "album": {
+        "name": "No Reminding",
+        "url": "https://open.spotify.com/album/6FDqeyCmNqw0otcJ2r2VQp"
+      },
+      "artists": [
+        {
+          "name": "nezsa",
+          "url": "https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "No Reminding",
+      "url": "https://open.spotify.com/track/0vWY2y9Ns6JFA18ttQQdcA"
+    },
+    {
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/6ugYEDq5i6W3heSERDouv6"
+      },
+      "artists": [
+        {
+          "name": "RIZ",
+          "url": "https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162542,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/0y2bHWIl5EONeBI8baM3Kx"
+    },
+    {
+      "album": {
         "name": "Nobody Else",
         "url": "https://open.spotify.com/album/5Tbjjt4hfM9ofdZzTDMSuV"
       },
@@ -18722,7 +18794,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 216293,
       "name": "Reasons To Stay",
       "url": "https://open.spotify.com/track/1wcjZRnXu86UIWh0tPY5xd"
@@ -18950,7 +19022,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 156728,
       "name": "rendezvous",
       "url": "https://open.spotify.com/track/5qNHV389z0Ug7oYGl8k7yf"
@@ -19334,6 +19406,24 @@
       "duration_ms": 155513,
       "name": "Rose",
       "url": "https://open.spotify.com/track/0Pfhf6a94kjWWyGjwlfwP1"
+    },
+    {
+      "album": {
+        "name": "exposure therapy",
+        "url": "https://open.spotify.com/album/31Hu44eyB0OTcWvlGsk9Kx"
+      },
+      "artists": [
+        {
+          "name": "CUBE",
+          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231943,
+      "name": "rose",
+      "url": "https://open.spotify.com/track/7xVmnJW240NPDhkuc7zU3N"
     },
     {
       "album": {
@@ -21182,7 +21272,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 195518,
       "name": "Something Over Nothing",
       "url": "https://open.spotify.com/track/7jWbNFfemzCd2icPYnNZEP"
@@ -22594,7 +22684,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 162793,
       "name": "Take It",
       "url": "https://open.spotify.com/track/4pOeOr2YjGfr4TrlgCoyEW"
@@ -25367,6 +25457,28 @@
     },
     {
       "album": {
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/4pK1DG5LV1eyNF1omVyJYu"
+      },
+      "artists": [
+        {
+          "name": "Ashton Mills",
+          "url": "https://open.spotify.com/artist/2CEZHYuMxZymBWHPFzL0nZ"
+        },
+        {
+          "name": "Majo",
+          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "WALLS",
+      "url": "https://open.spotify.com/track/3XAmB89gjjJn66OuY3ZwqC"
+    },
+    {
+      "album": {
         "name": "War",
         "url": "https://open.spotify.com/album/1a6jnrigkX93IusTWIClLa"
       },
@@ -26254,6 +26366,24 @@
       "duration_ms": 143355,
       "name": "WITH ME",
       "url": "https://open.spotify.com/track/7eCAmXqtRYrRhyu3WbsdZo"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0NBPG70Tssz1nbQQkCSK3F"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2WXeML2aZLwSY96bSnnOrA"
     },
     {
       "album": {

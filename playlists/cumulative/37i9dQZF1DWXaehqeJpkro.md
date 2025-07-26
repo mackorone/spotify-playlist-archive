@@ -4,7 +4,7 @@
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: IU\)
 
-335 songs - 21 hr 53 min
+337 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 | 2022-02-17 |  |
 | [Slow Heartbeat \(feat\. Ja Mezz\)](https://open.spotify.com/track/3dDSzDCa39eiDRLMyl3xoE) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi) | [Slow Heartbeat \(feat\. Ja Mezz\)](https://open.spotify.com/album/3hG55Ai7IYlLfHmFpVRXcN) | 2:25 | 2022-02-17 | 2024-11-30 |
 | [So long](https://open.spotify.com/track/4HCKhlRABrYBQGQmpABgCn) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hotel Del Luna OST](https://open.spotify.com/album/6jOiKCuuIzOVBBQjLaaWKV) | 3:45 | 2022-02-17 |  |
+| [Soda Pop](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:30 | 2025-07-25 |  |
 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 | 2022-02-17 |  |
 | [SOLO](https://open.spotify.com/track/2XIaetAZTyR7oQfHh8DZ2B) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/68GNh1ZjfSewE8uBCH3UnR) | 2:49 | 2021-03-11 | 2022-02-18 |
 | [Square's dream](https://open.spotify.com/track/6tmlmf1h3v9mIJqPAlCbzY) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 3](https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY) | 3:21 | 2025-07-04 |  |
@@ -311,6 +312,7 @@
 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 | 2022-02-17 |  |
 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2022-02-17 |  |
 | [비밀번호 486](https://open.spotify.com/track/0GtnPY1LePGHquWzIEiqMj) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [고백하기 좋은 날](https://open.spotify.com/album/79AMjDleF4FaqfI3a28XdV) | 3:48 | 2023-02-16 |  |
+| [비행기](https://open.spotify.com/track/3GcTcXCJLVdy7iYhSKPGUp) | [Turtles](https://open.spotify.com/artist/7HtP6hIBf2xk5L5vqWqj22) | [거북이 사요!!](https://open.spotify.com/album/2gsiYXrDQwyhG0LY83qgdg) | 3:32 | 2025-07-25 |  |
 | [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The NuTs](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 | 2025-06-30 |  |
 | [사랑이란 멜로는 없어](https://open.spotify.com/track/0CGovscVJUxLASfj6KnVwO) | [Jeon Sang Geun](https://open.spotify.com/artist/6MfFHNKaZ7lAQsm52eLNvJ) | [사랑이란 멜로는 없어](https://open.spotify.com/album/2S4OdUnpgE2uf3rAz614v5) | 4:35 | 2022-02-23 | 2024-04-19 |
 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 | 2022-02-17 |  |

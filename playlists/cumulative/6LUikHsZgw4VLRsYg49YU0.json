@@ -2106,7 +2106,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 289720,
       "name": "more than words",
       "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 177731,
       "name": "odd:I",
       "url": "https://open.spotify.com/track/1MnJPiY2LT0noxGco8UsRC"
@@ -3262,7 +3262,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 238986,
       "name": "SPECIALZ",
       "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
@@ -3760,7 +3760,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 265629,
       "name": "Undead Murder Farce",
       "url": "https://open.spotify.com/track/4n3tx3Ur7Yf5504K0Iog9W"
@@ -4126,7 +4126,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 206986,
       "name": "\u304d\u3068\u304d\u3068 - \u56db\u672c\u8db3\u306e\u8e0a\u308a - \u300c\u304a\u304a\u304b\u307f\u3053\u3069\u3082\u306e\u96e8\u3068\u96ea\u300d\u3088\u308a",
       "url": "https://open.spotify.com/track/6wIVbWJHu7vwlYXgjnRFt5"
@@ -4610,7 +4610,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 273437,
       "name": "\u5730\u7403\u5100 - Spinning Globe",
       "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
@@ -4672,6 +4672,24 @@
       "duration_ms": 241156,
       "name": "\u5922\u5e7b",
       "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
+        "url": "https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170306,
+      "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
+      "url": "https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni"
     },
     {
       "album": {
@@ -4870,6 +4888,24 @@
       "duration_ms": 188300,
       "name": "\u6b21\u56de\u4e88\u544a",
       "url": "https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs"
+    },
+    {
+      "album": {
+        "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
+        "url": "https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383361,
+      "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
+      "url": "https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL"
     },
     {
       "album": {

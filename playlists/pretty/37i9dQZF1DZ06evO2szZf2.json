@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAB72x50+SRim4Lxb/2XLQYO",
+  "snapshot_id": "aIF3gAAAAACcwg++FqtY1Z7Pq1O8/Up3",
   "tracks": [
     {
       "added_at": null,
@@ -827,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bota A Lingui\u00e7a Pra Fora",
+        "url": "https://open.spotify.com/album/0E1qFjJ8zCYYgE4lYELJBd"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Gouveia",
+          "url": "https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem"
+        }
+      ],
+      "duration_ms": 95999,
+      "name": "Bota A Lingui\u00e7a Pra Fora",
+      "url": "https://open.spotify.com/track/5esDSPo55maKLjTDWiv3tO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -855,22 +875,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bota A Lingui\u00e7a Pra Fora",
-        "url": "https://open.spotify.com/album/0E1qFjJ8zCYYgE4lYELJBd"
+        "name": "GR6 Convoca #01 (Relacionamentos)",
+        "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
       "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "DJ Gouveia",
-          "url": "https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem"
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "MC Rodolfinho",
+          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "DJ 900",
+          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
         }
       ],
-      "duration_ms": 95999,
-      "name": "Bota A Lingui\u00e7a Pra Fora",
-      "url": "https://open.spotify.com/track/5esDSPo55maKLjTDWiv3tO"
+      "duration_ms": 472615,
+      "name": "GR6 Convoca #01 (Relacionamentos)",
+      "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
     },
     {
       "added_at": null,
@@ -935,58 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GR6 Convoca #01 (Relacionamentos)",
-        "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "MC Marks",
-          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "MC Rodolfinho",
-          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
-        },
-        {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        },
-        {
-          "name": "DJ 900",
-          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
-        }
-      ],
-      "duration_ms": 472615,
-      "name": "GR6 Convoca #01 (Relacionamentos)",
-      "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Se T\u00e1 Maravilhosa",
         "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
       },
@@ -1003,34 +1003,6 @@
       "duration_ms": 210520,
       "name": "Como Se T\u00e1 Maravilhosa",
       "url": "https://open.spotify.com/track/0eLCuW89pb6I3BC0NMGHFW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J\u00e1 Fui o Amor da sua Vida",
-        "url": "https://open.spotify.com/album/7iSuTXWW52Brxz2jBNlHdR"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "MC Levin",
-          "url": "https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY"
-        },
-        {
-          "name": "DJ Game Beat",
-          "url": "https://open.spotify.com/artist/4HKGfDTu7UZBgSsAgCaUCi"
-        },
-        {
-          "name": "Ritmo Dos Fluxos",
-          "url": "https://open.spotify.com/artist/1fIRsnPkqS51CQsnsKC4Cx"
-        }
-      ],
-      "duration_ms": 125567,
-      "name": "J\u00e1 Fui o Amor da sua Vida",
-      "url": "https://open.spotify.com/track/4dAT5YcOnoFkaFLOIQA2eM"
     },
     {
       "added_at": null,
@@ -1059,6 +1031,34 @@
       "duration_ms": 138900,
       "name": "Catucad\u00e3o",
       "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J\u00e1 Fui o Amor da sua Vida",
+        "url": "https://open.spotify.com/album/7iSuTXWW52Brxz2jBNlHdR"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Levin",
+          "url": "https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY"
+        },
+        {
+          "name": "DJ Game Beat",
+          "url": "https://open.spotify.com/artist/4HKGfDTu7UZBgSsAgCaUCi"
+        },
+        {
+          "name": "Ritmo Dos Fluxos",
+          "url": "https://open.spotify.com/artist/1fIRsnPkqS51CQsnsKC4Cx"
+        }
+      ],
+      "duration_ms": 125567,
+      "name": "J\u00e1 Fui o Amor da sua Vida",
+      "url": "https://open.spotify.com/track/4dAT5YcOnoFkaFLOIQA2eM"
     },
     {
       "added_at": null,
@@ -1215,6 +1215,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ele Tem Dinheiro",
+        "url": "https://open.spotify.com/album/2nzM2VQjF2KjrnHtxfRDf8"
+      },
+      "artists": [
+        {
+          "name": "Filtr Urban",
+          "url": "https://open.spotify.com/artist/4pC2jRKo6FAINrav1ck3FQ"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 118079,
+      "name": "Ele Tem Dinheiro",
+      "url": "https://open.spotify.com/track/6dGrKgJPvDnPrnMiEqTz5t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piseiro Tiktok 2.0 #Viral",
         "url": "https://open.spotify.com/album/3UC2qKHaqpM0Hq5Q6UvM86"
       },
@@ -1259,30 +1283,6 @@
       "duration_ms": 144000,
       "name": "Rol\u00ea Play - Eletrofunk",
       "url": "https://open.spotify.com/track/2ny0JBN2Q4AK0LxoDZWC6p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ele Tem Dinheiro",
-        "url": "https://open.spotify.com/album/2nzM2VQjF2KjrnHtxfRDf8"
-      },
-      "artists": [
-        {
-          "name": "Filtr Urban",
-          "url": "https://open.spotify.com/artist/4pC2jRKo6FAINrav1ck3FQ"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 118079,
-      "name": "Ele Tem Dinheiro",
-      "url": "https://open.spotify.com/track/6dGrKgJPvDnPrnMiEqTz5t"
     },
     {
       "added_at": null,
@@ -1343,30 +1343,6 @@
       "duration_ms": 133100,
       "name": "Vuco Vuco",
       "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Cara do Abacaxi Classic",
-        "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
-      },
-      "artists": [
-        {
-          "name": "Patrick DJ",
-          "url": "https://open.spotify.com/artist/3GqXVw652gT1gSj8B3P27Y"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Empurra Empurra",
-      "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
     },
     {
       "added_at": null,
@@ -1443,6 +1419,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+      },
+      "artists": [
+        {
+          "name": "Dj Ray Lais",
+          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 155145,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Cara do Abacaxi Classic",
+        "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
+      },
+      "artists": [
+        {
+          "name": "Patrick DJ",
+          "url": "https://open.spotify.com/artist/3GqXVw652gT1gSj8B3P27Y"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mochila nas Costas / Empurra Empurra",
         "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
       },
@@ -1463,26 +1483,6 @@
       "duration_ms": 241777,
       "name": "Mochila nas Costas / Empurra Empurra",
       "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
-      },
-      "artists": [
-        {
-          "name": "Dj Ray Lais",
-          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 155145,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
     },
     {
       "added_at": null,
@@ -1535,30 +1535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrocha da Treta",
-        "url": "https://open.spotify.com/album/2dddrN2lOTk8UJR42WhUdQ"
+        "name": "Rickweek",
+        "url": "https://open.spotify.com/album/3hWqmz0ezKfNe2pVW3eoNf"
       },
       "artists": [
         {
-          "name": "Nen\u00ea DJ",
-          "url": "https://open.spotify.com/artist/7aYfvqdPOA5AGSXi10b982"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Magrinho",
-          "url": "https://open.spotify.com/artist/7tTInKzPELyaWbm4ciVSEB"
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],
-      "duration_ms": 144013,
-      "name": "Arrocha da Treta",
-      "url": "https://open.spotify.com/track/6BN7IIhBaALS4Nw6XkYfJL"
+      "duration_ms": 126511,
+      "name": "Vagabunda do Caralho",
+      "url": "https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc"
     }
   ],
   "unique_name": "This Is Mc Dricka",

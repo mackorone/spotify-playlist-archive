@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-676 songs - 1 day 14 hr 1 min
+677 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Better Now](https://open.spotify.com/track/4qd6nttH7VO67H42wbmdhh) | [Thorne](https://open.spotify.com/artist/2v3NVhIerh7ksVRXbG9MOT) | [Better Now](https://open.spotify.com/album/5BYdygO5E12koFAocSZQvQ) | 3:08 | 2024-04-12 | 2024-08-07 |
 | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/album/5RFAAqoNmmhMebhjlFEsF4) | 3:25 | 2022-02-04 | 2022-02-16 |
 | [Better This Way \- VIP](https://open.spotify.com/track/7GkqktN7HGruSw9n0MMO9G) | [Taylor Kade](https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF), [Fixion](https://open.spotify.com/artist/2UbGoX9NIkzDmvTCj1xioH) | [Better This Way \(Remixes\)](https://open.spotify.com/album/7g92R4IN5F3IXMeg3oCYtW) | 3:53 | 2025-07-02 |  |
+| [Bikini](https://open.spotify.com/track/31CzWV6WdEgqsdYqO7d7Ik) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Bikini](https://open.spotify.com/album/2SgvSyaCqdi5w8pGbJOfME) | 2:39 | 2025-07-25 |  |
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-09-17 | 2023-01-20 |
 | [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-15 | 2022-03-10 |
 | [bitbybit](https://open.spotify.com/track/38iLG7Onussu2QuehUiK1Y) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [leo](https://open.spotify.com/album/2HCJZS3ePjIeJIY4yxI7Hy) | 5:11 | 2023-12-15 | 2024-03-23 |

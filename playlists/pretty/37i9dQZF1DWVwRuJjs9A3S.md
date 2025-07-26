@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: mimi bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,567 likes - 131 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,575 likes - 131 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 18 | [When the Lavender Blooms](https://open.spotify.com/track/6o5q8AfVvepf91QadXRsXu) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [When the Lavender Blooms](https://open.spotify.com/album/3N5fQyXfKJPpQvHm3mG4pw) | 3:36 |
 | 19 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 |
 | 20 | [The Jamie Oliver Petrol Station](https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [The Jamie Oliver Petrol Station](https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM) | 5:23 |
-| 21 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
+| 21 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
 | 22 | [Someone Else](https://open.spotify.com/track/40chr05A8qJGEOrTSGi2qL) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Someone Else](https://open.spotify.com/album/1eRQmS5J3hTsgnHsqFYRER) | 3:19 |
 | 23 | [Don't know why](https://open.spotify.com/track/7eteH0lFTshZkvc1rsSafQ) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Don't know why](https://open.spotify.com/album/2glDzsRZrRLZmSR2TKVoWD) | 2:36 |
 | 24 | [Vast](https://open.spotify.com/track/058fmS1zZ70ZxLpJFxL5Hn) | [Funny Weather](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Vast](https://open.spotify.com/album/7fuNzDO6LiZqrkkyNGSNHs) | 3:23 |

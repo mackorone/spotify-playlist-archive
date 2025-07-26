@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4gRwUQrqr8.md) - [plain]
 
 > Enjoy the SEVENTEEN fan meeting LIVE SET including the voices of them on stage! \(세븐틴의 무대 멘트와 목소리가 포함된 팬미팅 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,712 likes - 21 songs - 48 min 13 sec
+[Spotify](https://open.spotify.com/user/spotify) - 36,730 likes - 21 songs - 48 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

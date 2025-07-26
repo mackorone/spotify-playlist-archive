@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: mgk
 
-1,642 songs - 3 day 22 hr 38 min
+1,643 songs - 3 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,7 +490,7 @@
 | [Explode!](https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Grief Chapter](https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU) | 2:31 | 2024-02-15 | 2025-01-19 |
 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 | 2023-03-23 | 2023-05-19 |
 | [Eyes](https://open.spotify.com/track/416L17hcREztXb0qE0lvIe) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Eyes](https://open.spotify.com/album/0yy9OW008MzYLOxNBvQbjE) | 3:32 | 2023-06-22 | 2023-07-07 |
-| [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-04-04 |  |
+| [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-04-04 | 2025-07-26 |
 | [Eyes Closed \(feat\. J Balvin\)](https://open.spotify.com/track/78EfhCsgEi8cEJXib3BFqL) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Eyes Closed \(feat\. J Balvin\)](https://open.spotify.com/album/1kbKNVSyGgtiM8RQo1ngRB) | 3:20 | 2024-05-02 | 2024-08-14 |
 | [Eyes Open \(Taylor's Version\)](https://open.spotify.com/track/2NIBaWXdjaTDmytjjwbEfP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Eyes Open \(Taylor's Version\)](https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3) | 4:03 | 2023-03-16 | 2024-04-27 |
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-04-27 | 2024-02-09 |
@@ -780,6 +780,7 @@
 | [keys make noise](https://open.spotify.com/track/3XNVBgEgIxoipF0XL1BDwF) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [keys make noise](https://open.spotify.com/album/1wdoMIFW30LYYqzuFSKqEP) | 2:20 | 2023-08-10 | 2023-08-18 |
 | [Kill The Lights](https://open.spotify.com/track/4dlPsqaKyDAejnHoc1fPCK) | [The Requiem](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [Kill The Lights](https://open.spotify.com/album/6M78DoFWSX4UYlfXf5n7B0) | 3:00 | 2024-01-04 | 2024-01-12 |
 | [kill without the k.](https://open.spotify.com/track/4VCmobNt8wZ29jqArqdlAn) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [kill without the k.](https://open.spotify.com/album/3MfiqHVyJkXWL6YCI7Alhd) | 3:41 | 2024-01-25 | 2024-02-16 |
+| [Killing Fields](https://open.spotify.com/track/2TaoUoqmerQ8jxjsQguVdX) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Killing Fields](https://open.spotify.com/album/0bitrBOkeCj6Zzy7yl2Ijx) | 3:45 | 2025-07-24 |  |
 | [Kinky](https://open.spotify.com/track/2kIDECuRDbagrRqLOY3Mnm) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [1](https://open.spotify.com/album/76OFhgPO6W6WMwm6KlKX0Y) | 2:14 | 2024-10-17 | 2024-10-29 |
 | [Kiss Me Again](https://open.spotify.com/track/7E0j46ZvV0w2Mj5FGEwdxt) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Kiss Me Again](https://open.spotify.com/album/3sAcuIZ9JjTzniRMsQoanz) | 2:55 | 2024-09-26 | 2024-11-22 |
 | [KiSS OF DEATH](https://open.spotify.com/track/1rnNzNbx6Upu7PNXTVgCDE) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7BoulOzl9ZKbDG1wc1ZyP3) | 3:52 | 2023-09-07 | 2023-09-09 |

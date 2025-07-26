@@ -4,7 +4,7 @@
 
 > Porque el barrio es el barrio y eso nadie lo va a cambiar 😎💃🏾🕺🏾
 
-243 songs - 14 hr 24 min
+244 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Sangoloteadito](https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR) | 3:00 | 2024-03-01 | 2025-04-30 |
 | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/track/0x9hoejskPyskIfWc0P3uW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/album/0RkWV2GJE6IL6u2ceoiyhx) | 3:22 | 2024-10-04 |  |
 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 | 2023-02-23 |  |
-| [Sopa De Caracol](https://open.spotify.com/track/5jBMSbo3AZzsen4gCOKxKB) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Sopa De Caracol](https://open.spotify.com/album/02y6LIwA03oT4gQ9YM8wC1) | 4:49 | 2024-03-01 |  |
+| [Sopa De Caracol](https://open.spotify.com/track/5jBMSbo3AZzsen4gCOKxKB) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Sopa De Caracol](https://open.spotify.com/album/02y6LIwA03oT4gQ9YM8wC1) | 4:49 | 2024-03-01 | 2025-07-26 |
 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 | 2023-02-23 | 2024-04-19 |
 | [Spanish Girl](https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB) | [Zona Rika](https://open.spotify.com/artist/7pa9Vnkxw228A6QHsj3uGV) | [Pa' Gozar \- Zona Rika](https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va) | 3:55 | 2023-11-10 |  |
 | [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 | 2023-02-23 | 2023-11-11 |
@@ -223,6 +223,7 @@
 | [Tiki](https://open.spotify.com/track/5U8rQGmRb9ps9nxHbSsyVy) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Gitana](https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [Tiki](https://open.spotify.com/album/1R6aVf9jEtdjtnKSlGiIOd) | 3:09 | 2023-11-10 | 2024-03-02 |
 | [Tirando Flow Sesh \#11](https://open.spotify.com/track/7C6eIDPQQftKLrf4ojWORt) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8) | [Tirando Flow Sesh \#11](https://open.spotify.com/album/1gXMqRDlkeBJ4SOUVWPUM5) | 3:32 | 2023-11-10 | 2024-03-02 |
 | [Tirando Flow Sesh \#11 \(feat\. El Bogueto & Ritorukai\)](https://open.spotify.com/track/77IPE0PA44eThYC41I3Dzh) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8) | [Tirando Flow Sesh \#11 \(feat\. El Bogueto & Ritorukai\)](https://open.spotify.com/album/4qYgFOOlhq4gi2nipKRCMb) | 3:32 | 2023-11-10 | 2023-11-16 |
+| [Todo Me Gusta De Ti](https://open.spotify.com/track/2E1os5dJ46vZVUUe6w6zps) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Cumbias Sonideras Románticas](https://open.spotify.com/album/61IQo4cJUzKvAJn0PiMrdG) | 4:05 | 2024-10-04 |  |
 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 | 2023-02-23 | 2024-04-19 |
 | [Tonta](https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [25 Exitos Vol\. 1 \(USA\)](https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ) | 3:10 | 2023-02-23 | 2024-04-19 |
 | [Tonta](https://open.spotify.com/track/46MuirMMSyr2aqbCdnPyBh) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Serie Fiesta](https://open.spotify.com/album/3DshPsOHjY7OQa1PFRrtKq) | 3:10 | 2024-03-01 |  |

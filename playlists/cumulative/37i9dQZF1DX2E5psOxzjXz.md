@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Amna Riaz
 
-377 songs - 20 hr 52 min
+378 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [anay wala kal/ghubaray](https://open.spotify.com/track/5oLXoUvHMQ7CQw5kUbPOSu) | [Rutaba Yaqub](https://open.spotify.com/artist/1jA3YcX1zKWTaWL7wp3PqI) | [anay wala kal/ghubaray](https://open.spotify.com/album/31lIz2jbV3iZJBs1YxnDyI) | 3:41 | 2022-03-12 | 2022-03-16 |
 | [Andhere Mein](https://open.spotify.com/track/134oyq7shwFhszVjvhN8XY) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Andhere Mein](https://open.spotify.com/album/2HtdxEULBFqcHLKGTnMjZJ) | 3:54 | 2021-12-06 | 2023-04-09 |
 | [Anjani Waja](https://open.spotify.com/track/4mP0j0Lg4SKGUgrFNGvGTQ) | [HASHAM](https://open.spotify.com/artist/3b2KqMPwMeN8zchJ9CljtG) | [Anjani Waja](https://open.spotify.com/album/6MGoq918TPAjWdSGTedPYV) | 2:07 | 2021-12-06 | 2024-08-17 |
+| [Ashna](https://open.spotify.com/track/6STG64AUnwdk6zQuNyK2lC) | [Zahoor](https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Ashna](https://open.spotify.com/album/3AqFFDWxqHQTpXYktGeObV) | 3:05 | 2025-07-24 |  |
 | [Baadal](https://open.spotify.com/track/76z5E8tOiy1U6JfJJxfEzC) | [Misbah](https://open.spotify.com/artist/4LtxguJsqxkfipYXPqz7Vq), [Sameen Qasim](https://open.spotify.com/artist/1TuZ9m2yr7qMmiovlOVS9O) | [Baadal](https://open.spotify.com/album/6pV7SixHdbbMZiDhoV6fA8) | 4:58 | 2021-12-06 | 2023-02-13 |
 | [Baarish](https://open.spotify.com/track/3BlqNZ5Yq9pwuf047YgGwB) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu) | [Singles](https://open.spotify.com/album/64osvBWt6Mk8l1NECygF2d) | 3:58 | 2022-09-26 | 2023-04-09 |
 | [Baarish](https://open.spotify.com/track/4hQshoxfKBJlGeYTqnv3U2) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu) | [Singles](https://open.spotify.com/album/1JtpXFR4FHt5L93LNv0F1Z) | 3:58 | 2021-12-06 | 2022-10-01 |

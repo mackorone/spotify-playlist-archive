@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Kokoroko
 
-304 songs - 18 hr 15 min
+305 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Living Water](https://open.spotify.com/track/4o0PuOz0SpXuZXQCiwJz2j) | [Liz Brasher](https://open.spotify.com/artist/4IkjxZEL41t30RVaxrnoab) | [Painted Image](https://open.spotify.com/album/7hpHTYklBroOzIjIwXs4CI) | 2:59 | 2021-10-01 | 2025-06-02 |
 | [Look It Here](https://open.spotify.com/track/1uGFKt1GEUeuST97c2jBD4) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 3:03 | 2022-06-01 | 2024-04-19 |
 | [Look It Here](https://open.spotify.com/track/6Xhqj29KSYBJSnlh7ZwXi2) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/2UCyiayMoJOwBilPLQPQvK) | 3:03 | 2021-10-01 | 2022-07-28 |
-| [Lost on the Young](https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU) | [Balto](https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx) | [Strangers](https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh) | 3:13 | 2024-03-01 |  |
+| [Lost on the Young](https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU) | [Balto](https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx) | [Strangers](https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh) | 3:13 | 2024-03-01 | 2025-07-26 |
 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/2oGbA0fQXjaD8cyYkyIWj2) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire](https://open.spotify.com/album/3YkPGNQ0ATRPcigTb74F5A) | 3:33 | 2021-10-01 | 2022-07-29 |
 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:33 | 2022-06-01 | 2024-04-19 |
 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 | 2023-09-08 |  |
@@ -260,6 +260,7 @@
 | [Sugaree](https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED), [Friends](https://open.spotify.com/artist/0R2qhaNYSKYhYKeRMYwrpN) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 4:59 | 2022-06-01 | 2024-04-19 |
 | [Summer Sun](https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9) | [Ruen Brothers](https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go) | [All My Shades Of Blue](https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ) | 3:21 | 2021-10-01 |  |
 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 | 2021-10-01 |  |
+| [Sushi and Coca\-Cola](https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sushi and Coca\-Cola](https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4) | 2:37 | 2025-07-25 |  |
 | [Sweet Little Rainbows](https://open.spotify.com/track/3gOSDkunPRtxksTi0Gxq81) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Mystery](https://open.spotify.com/album/7f0UvHSC6XjlmO1HMR5iId) | 3:43 | 2025-01-14 |  |
 | [Swing That Thing](https://open.spotify.com/track/5oBGZryzl7e2wtNth9IHe0) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Everlasting Arms](https://open.spotify.com/album/3J5rlCW6Yo7yvRkAnZx9AQ) | 3:17 | 2023-09-15 | 2024-04-17 |
 | [Take My Heart](https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg) | 4:18 | 2024-03-01 |  |

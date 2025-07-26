@@ -627,6 +627,28 @@
     },
     {
       "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "EL NENE",
+      "url": "https://open.spotify.com/track/5erXVUirf9qivKY5sJOanE"
+    },
+    {
+      "album": {
         "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
         "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
       },
@@ -1066,7 +1088,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 144018,
       "name": "Linda",
       "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"

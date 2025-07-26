@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment. Cover: Chella",
-  "num_followers": 681636,
+  "num_followers": 681603,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIK7CwAAAADndy+Wri/FffJVGj9xWE5z",
+  "snapshot_id": "aIN/FgAAAACJX8phcIpgyPcVTeRIZSuc",
   "tracks": [
     {
       "added_at": "2025-07-24 23:00:27",
@@ -435,6 +435,26 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
+        "name": "101",
+        "url": "https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        }
+      ],
+      "duration_ms": 194510,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
         "name": "Melrose Place",
         "url": "https://open.spotify.com/album/0FAFFUdI9WV0PypgJLMkYP"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 151348,
       "name": "Menina de Vermelho",
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
-        "name": "101",
-        "url": "https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        },
-        {
-          "name": "Ramoon",
-          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
-        }
-      ],
-      "duration_ms": 194510,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f"
     },
     {
       "added_at": "2025-07-24 23:00:27",

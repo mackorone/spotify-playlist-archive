@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1090647,
+  "num_followers": 1091005,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-07-18 06:00:10",
       "album": {
-        "name": "SAYONARA",
-        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 131853,
-      "name": "GATITAS SANDUNGUERAS - VOL.1",
-      "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
-    },
-    {
-      "added_at": "2025-07-18 06:00:10",
-      "album": {
         "name": "Mami T\u00fa",
         "url": "https://open.spotify.com/album/3POL8ItQV6sUjrGBLbONMa"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 163750,
       "name": "Mami T\u00fa",
       "url": "https://open.spotify.com/track/4jhDnHwl6llj46pzUuaON3"
+    },
+    {
+      "added_at": "2025-07-18 06:00:10",
+      "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "GATITAS SANDUNGUERAS - VOL.1",
+      "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
     },
     {
       "added_at": "2025-07-18 06:00:10",
@@ -1195,42 +1195,6 @@
     {
       "added_at": "2025-07-18 06:00:10",
       "album": {
-        "name": "El Androide",
-        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "Singapur",
-      "url": "https://open.spotify.com/track/5q7icrT1Wn8PHaePIjYYyg"
-    },
-    {
-      "added_at": "2025-07-18 06:00:10",
-      "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
-    },
-    {
-      "added_at": "2025-07-18 06:00:10",
-      "album": {
         "name": "Desnudate - Remix",
         "url": "https://open.spotify.com/album/53ncI589RsW51zBpgL8iMk"
       },
@@ -1255,6 +1219,42 @@
       "duration_ms": 243999,
       "name": "Desnudate - Remix",
       "url": "https://open.spotify.com/track/1kQhwc7ZTVJ9fKk1ECl4dL"
+    },
+    {
+      "added_at": "2025-07-18 06:00:10",
+      "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "added_at": "2025-07-18 06:00:10",
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "Singapur",
+      "url": "https://open.spotify.com/track/5q7icrT1Wn8PHaePIjYYyg"
     },
     {
       "added_at": "2025-07-18 06:00:10",
@@ -2003,6 +2003,26 @@
     {
       "added_at": "2025-07-18 06:00:10",
       "album": {
+        "name": "L-Gante: RKT SESSIONS #1",
+        "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
+      },
+      "artists": [
+        {
+          "name": "Papu DJ",
+          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 181928,
+      "name": "L-Gante: RKT SESSIONS #1",
+      "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
+    },
+    {
+      "added_at": "2025-07-18 06:00:10",
+      "album": {
         "name": "TOA",
         "url": "https://open.spotify.com/album/339pENtTr43vsQGyGZC0qC"
       },
@@ -2043,26 +2063,6 @@
       "duration_ms": 157000,
       "name": "UN TRIO",
       "url": "https://open.spotify.com/track/6i6PpqE9lA5eMYTJX57ZhD"
-    },
-    {
-      "added_at": "2025-07-18 06:00:10",
-      "album": {
-        "name": "L-Gante: RKT SESSIONS #1",
-        "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
-      },
-      "artists": [
-        {
-          "name": "Papu DJ",
-          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 181928,
-      "name": "L-Gante: RKT SESSIONS #1",
-      "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
     },
     {
       "added_at": "2025-07-18 06:00:10",

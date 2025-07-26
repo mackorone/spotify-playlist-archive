@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-270 songs - 16 hr 24 min
+271 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Brain Freeze](https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Brain Freeze](https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3) | 2:02 | 2023-05-11 |  |
 | [Burn Dem Bridges](https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Burn Dem Bridges](https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4) | 2:55 | 2022-12-01 |  |
 | [Burn It \- RONA\. Ware Rework](https://open.spotify.com/track/3neOJy2yv6175WoUgK1clY) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Burn It \(Reworked\)](https://open.spotify.com/album/5DR2QPx2Kyg0VJD3iweeJu) | 4:24 | 2025-04-01 | 2025-05-04 |
+| [Butterfly Wings \- Franc Moody Remix](https://open.spotify.com/track/5iOOpXSpuKOcvrVMi28AIr) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Butterfly Wings \(Franc Moody Remix\)](https://open.spotify.com/album/6Oo3cX5rOtUITuwQbjz4Wz) | 3:32 | 2025-06-03 |  |
 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 | 2022-12-01 |  |
 | [Careless Whisper](https://open.spotify.com/track/7xIO7GPKco0eG3kxpQpDku) | [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf) | [Careless Whisper](https://open.spotify.com/album/0mfeqXYenUaDj6jJYHxOOR) | 2:42 | 2022-12-01 | 2023-01-13 |
 | [Chalk 1.3.3 \[2017 Export Wav\]](https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 3:32 | 2023-05-04 | 2023-08-15 |
@@ -258,7 +259,7 @@
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/1rySZnvbDyYKuNcbToWoDK) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6qPjJY1vQCBKCzDJxQuvhJ) | 3:26 | 2025-02-05 | 2025-05-07 |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 | 2022-12-01 | 2023-07-11 |
 | [Turn Up The Sunshine \- PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/3wR5OccDugBm5Od2NYcMaO) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Turn Up The Sunshine \(PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/0TJtS7EZReyGKsyXn08eOc) | 3:40 | 2022-12-01 |  |
-| [Under The Milky Way \- Leo Portela Remix](https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB) | [Anakelly](https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9), [Leo Portela](https://open.spotify.com/artist/40sTBkcCMNcveOK4XprOYk) | [The Remixes](https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig) | 2:53 | 2024-02-01 |  |
+| [Under The Milky Way \- Leo Portela Remix](https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB) | [Anakelly](https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9), [Leo Portela](https://open.spotify.com/artist/40sTBkcCMNcveOK4XprOYk) | [The Remixes](https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig) | 2:53 | 2024-02-01 | 2025-07-26 |
 | [Undo U](https://open.spotify.com/track/4zaKOfQhWKkq9xhEvuevXU) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U](https://open.spotify.com/album/7Cr1Y5N2iMW4qKpiXH462f) | 2:02 | 2023-10-05 | 2023-11-10 |
 | [undrcut](https://open.spotify.com/track/1Q6aZrlfWlLCNs7BMDLhej) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [undrcut](https://open.spotify.com/album/1tiiz9aRA7aRkDMc5NJ0WR) | 4:02 | 2024-01-25 | 2024-08-23 |
 | [Vigil](https://open.spotify.com/track/24KgQu8B7JCyoIcMeF1xan) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x) | [Vigil](https://open.spotify.com/album/4gOJ1TNUxWRxjtBOAMnI3M) | 4:35 | 2022-12-01 | 2023-04-14 |

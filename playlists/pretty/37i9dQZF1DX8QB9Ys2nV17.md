@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,392 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,461 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rollin' On](https://open.spotify.com/track/4PrEiwUcs8jMOAk1b5BueL) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 5:08 |
 | 2 | [Train](https://open.spotify.com/track/2OSgMSxdu1OgPWZmjSICtt) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Train](https://open.spotify.com/album/30441czI78xULystFpO9p5) | 3:52 |
-| 3 | [Blues Is My Best Friend](https://open.spotify.com/track/7mojGTeQExwHDVLPAecQVJ) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Real Gone](https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6) | 3:39 |
-| 4 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 |
+| 3 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 |
+| 4 | [Blues Is My Best Friend](https://open.spotify.com/track/7mojGTeQExwHDVLPAecQVJ) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Real Gone](https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6) | 3:39 |
 | 5 | [Party at Red's](https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp) | [Fiona Boyes](https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE) | [Voodoo in the Shadows](https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK) | 4:15 |
 | 6 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
 | 7 | [Fire](https://open.spotify.com/track/70VSFe3tTnCLpue9StG69U) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fire](https://open.spotify.com/album/2RisnGnqdl2KmkWlskYfdt) | 3:48 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 40 | [She Just Wants To Dance](https://open.spotify.com/track/32jhfaxUgrYIAvhrYElR8R) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Bitter Sweet Blues](https://open.spotify.com/album/053qUnFHyBEyu3HrRq2xRY) | 4:52 |
 | 41 | [Mother](https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y) | 2:56 |
 | 42 | [Ghost](https://open.spotify.com/track/4P8pay7zYJUbVhtbWFaxEW) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Ghost](https://open.spotify.com/album/7z5F3gDwpJ74b4lHSrJ9FX) | 3:30 |
-| 43 | [Sweet Feeling](https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Sweet Feeling](https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr) | 5:34 |
-| 44 | [You Ain't My Dog No More](https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq) | [Eliza Neals](https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb) | [10,000 Feet Below](https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5) | 4:24 |
+| 43 | [You Ain't My Dog No More](https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq) | [Eliza Neals](https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb) | [10,000 Feet Below](https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5) | 4:24 |
+| 44 | [Sweet Feeling](https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Sweet Feeling](https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr) | 5:34 |
 | 45 | [You Hurt Me](https://open.spotify.com/track/4a1J0H20gJsVq1BFOTuoaD) | [Lindsay Beaver](https://open.spotify.com/artist/0335mjeyPINgxiLdjrkpqJ) | [Tough As Love](https://open.spotify.com/album/0a00SdLsbIRcPV2FdVCd0Z) | 3:43 |
 | 46 | [Blood Red Blues](https://open.spotify.com/track/6tUaoQubP95G9YseowN2Fc) | [Cee Cee James](https://open.spotify.com/artist/6Y21yqal00z7As840atRpD) | [Blood Red Blues](https://open.spotify.com/album/6AmwjavjuaLjqA9II7pLDO) | 3:54 |
 | 47 | [Tough Mother](https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Tough Mother](https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI) | 4:14 |

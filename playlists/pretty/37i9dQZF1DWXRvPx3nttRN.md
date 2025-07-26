@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,322 likes - 122 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,417 likes - 122 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 77 | [What Do You Mean? \- Acoustic Version](https://open.spotify.com/track/2c0aj0IXetVDJlrJgrGXMp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Acoustic](https://open.spotify.com/album/2HtIVpVinW3mkZcwIEkIad) | 3:25 |
 | 78 | [Mercy \- Acoustic Guitar](https://open.spotify.com/track/6pLsagdkevsusFingUqAqG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Acoustic Love](https://open.spotify.com/album/7MdcFleRPbWdTw7DvNuPGi) | 3:41 |
 | 79 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
-| 80 | [Let Her Go](https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights](https://open.spotify.com/album/2sRnJq6dfXdqhIflBk0ve1) | 4:12 |
-| 81 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 |
+| 80 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 |
+| 81 | [Let Her Go](https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights](https://open.spotify.com/album/2sRnJq6dfXdqhIflBk0ve1) | 4:12 |
 | 82 | [The Night We Met](https://open.spotify.com/track/6mORGLOz79w6VsCRLWYYuK) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/1SUC3BzNqa5Kna2bZAsAK8) | 3:28 |
 | 83 | [Heartbeats](https://open.spotify.com/track/11X4Gw3T4hoktVruLgTnm1) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/7M6XGBvDi3smtRuPUkrqsG) | 2:40 |
 | 84 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 |
@@ -98,11 +98,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 88 | [Stay Alive](https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2) | 4:26 |
 | 89 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/3JH3oqHNVUYFVr1JyVlRsC) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/64GHlpPoKzuFlUL2mtkEcX) | 4:02 |
 | 90 | [Cherry On Top](https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Cherry On Top](https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm) | 4:14 |
-| 91 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 |
-| 92 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6) | 3:31 |
-| 93 | [Set Fire To The Rain](https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU) | 3:53 |
+| 91 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6) | 3:31 |
+| 92 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 |
+| 93 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 |
 | 94 | [There's Nothing Holdin' Me Back \- Acoustic](https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back \(Acoustic\)](https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3) | 3:21 |
-| 95 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 |
+| 95 | [Set Fire To The Rain](https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU) | 3:53 |
 | 96 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7hmcaSpHioj7SGfOU565WI) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song \(Guitar Acoustic\)](https://open.spotify.com/album/5jnRfyqVu1M8ATrJ0hOrVD) | 3:32 |
 | 97 | [When We Were Young](https://open.spotify.com/track/4oUAJMuXoDI5oITTy1PAoP) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [When We Were Young](https://open.spotify.com/album/5rwoah6E0H9NocnYwdDkuX) | 3:03 |
 | 98 | [Wake Me Up \- Acoustic](https://open.spotify.com/track/2QfNZWOVYeycSM2bmrpm9W) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Wake Me Up](https://open.spotify.com/album/0SjMEy7ulz2ygRziPJl7v0) | 3:45 |

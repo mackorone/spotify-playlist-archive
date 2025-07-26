@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김푸름 \(KIM PUREUM\)\) \(Celebrating 10 years of Fresh Finds! Meet the emerging talents of Korea!\)
 
-1,582 songs - 3 day 16 hr 55 min
+1,584 songs - 3 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Girl, River \(feat\. Tamiz\)](https://open.spotify.com/track/1mVOSArJrcBS0ruOaHVMqK) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE), [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f) | [Girl, River \(feat\. Tamiz\)](https://open.spotify.com/album/4mUhnVHvEaTwu3yVfX7ede) | 3:19 | 2022-06-20 | 2022-08-13 |
 | [Give me more than your body Ft\. Griffy](https://open.spotify.com/track/2CVK4i4QqyuJrbwqlHoCAt) | [OV](https://open.spotify.com/artist/4KcgbqjaXrAyWnwFoVdhmA), [Griffy](https://open.spotify.com/artist/5MilSw46kL5Z2pUS5p0kSP) | [Another Me Vol.1](https://open.spotify.com/album/1ZNWku0lzCwMEHu7WBbQtT) | 3:19 | 2021-12-02 | 2022-01-11 |
 | [Glass](https://open.spotify.com/track/6BDq5XtSslhP4at0eQwgOu) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [Glass](https://open.spotify.com/album/4rbNo5Zm3TLpKKZ4CawxLJ) | 3:56 | 2023-02-15 | 2023-05-02 |
+| [glow](https://open.spotify.com/track/5mZo3Q91x343f30VaNGN5q) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [glow](https://open.spotify.com/album/4lVFscTohMpTPU2DLT0gyo) | 2:58 | 2025-07-25 |  |
 | [Go Away](https://open.spotify.com/track/5BF8bYGk9vA2QB45a3dIUj) | [Lili](https://open.spotify.com/artist/6vznwYm2rxcm031Fc4WVuq) | [Go Away](https://open.spotify.com/album/27xdsCEB2SykoL0p7phq0e) | 3:08 | 2022-01-27 | 2022-03-03 |
 | [Go Shawty](https://open.spotify.com/track/36fVXXNMx2avfZUEf9YC6G) | [Wooks](https://open.spotify.com/artist/3l7GFDLQsdvNzHcLqTIXbt), [XAMXON](https://open.spotify.com/artist/1CKX7eEySRVxQXNKddMaU9) | [Go Shawty](https://open.spotify.com/album/0stGAEg1H3hTI8MvhiTC5s) | 2:41 | 2024-07-03 | 2024-09-20 |
 | [Go To The Light](https://open.spotify.com/track/3PWknKF0KRJfz27eiuHI7M) | [igloo](https://open.spotify.com/artist/1LTGw0CwMeBuXjNnxInNFV) | [Go To The Light](https://open.spotify.com/album/2uBt6N88BlT1ZakWoWNCIj) | 3:51 | 2022-02-23 | 2022-03-18 |
@@ -601,7 +602,7 @@
 | [How’s your weather \(feat\. WILRO\)](https://open.spotify.com/track/46LPpV2pIj7XughkHsx3ws) | [Sean.K](https://open.spotify.com/artist/37BFwc5MqodHMtm68RhYQv), [WILRO](https://open.spotify.com/artist/0n2Pt2CZP9z8xx0vzRg4OV) | [How’s your weather](https://open.spotify.com/album/2AdBZWzddMXDNnxegQmfaH) | 3:53 | 2022-06-18 | 2022-07-15 |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-02 | 2023-01-12 |
 | [Hunting](https://open.spotify.com/track/6d6YI0cNTUjq0ojDurXKjD) | [HwA](https://open.spotify.com/artist/0K4py26mnJcM40LhIy5g8q) | [Hunting](https://open.spotify.com/album/7KHSdoq1Z6g462JkEGyJIg) | 3:00 | 2025-06-19 |  |
-| [Hurt](https://open.spotify.com/track/0fqFpVkTs8dY5SZMmyY9Bh) | [SRA](https://open.spotify.com/artist/6ajLYP0hhsrxlmJQWqDruk) | [Hurt](https://open.spotify.com/album/1Ip0Q63pL9yWhLTLbyqKw6) | 3:19 | 2025-04-22 |  |
+| [Hurt](https://open.spotify.com/track/0fqFpVkTs8dY5SZMmyY9Bh) | [SRA](https://open.spotify.com/artist/6ajLYP0hhsrxlmJQWqDruk) | [Hurt](https://open.spotify.com/album/1Ip0Q63pL9yWhLTLbyqKw6) | 3:19 | 2025-04-22 | 2025-07-26 |
 | [HUSH](https://open.spotify.com/track/6Of6IZabcu8f9UnAocPqxl) | [Lee Dahye](https://open.spotify.com/artist/7gc8zw3BiCRjq9PNgingF5) | [HUSH](https://open.spotify.com/album/7kYyb4HSoOXrXIyjDtNNk4) | 3:12 | 2024-04-03 | 2024-08-02 |
 | [i](https://open.spotify.com/track/6TgZn4L1lPFBDSSBYUENOH) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [i](https://open.spotify.com/album/4Isqr04kGZjdCo3rMiouQf) | 3:01 | 2023-06-01 | 2023-09-21 |
 | [i \(feat\. Swings\)](https://open.spotify.com/track/09bshPEQMZUnUWvuMwvXwK) | [Lean Lean](https://open.spotify.com/artist/6IprxsitojRXQLHOLyizzb), [스윙스\(Swings\)](https://open.spotify.com/artist/1FypwMT3hrRR7uxLHpgGuU) | [SUNSHINE](https://open.spotify.com/album/5MgqA59cpZMyowGSHHvatc) | 3:56 | 2022-06-09 | 2022-06-19 |
@@ -609,7 +610,7 @@
 | [I AM](https://open.spotify.com/track/4wDxHQfnbEnByvhbFwSwyI) | [Maka\`Maka](https://open.spotify.com/artist/3xuHnufu1QYfi9k0xzLkF8) | [I AM](https://open.spotify.com/album/0t5iMpdJTyNQHXU5I5Wu4j) | 3:17 | 2022-09-29 | 2022-12-01 |
 | [I am curious how you are \(Feat.noovv\)](https://open.spotify.com/track/5anRSnvjepo576mqyfIO7f) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Noovv](https://open.spotify.com/artist/3ksWmDlBeF6Dnn3u36TUrT) | [I am curious how you are](https://open.spotify.com/album/3s2raAlIF2SIKjsKTlhonq) | 2:55 | 2022-09-29 | 2022-12-01 |
 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 | 2022-06-09 | 2022-07-05 |
-| [I Can't Lie](https://open.spotify.com/track/3P77RtWC2S8Fa87UHyXBFn) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [I Can't Lie](https://open.spotify.com/album/173kXFQprdIhDkFiZjgsFc) | 3:25 | 2025-06-26 |  |
+| [I Can't Lie](https://open.spotify.com/track/3P77RtWC2S8Fa87UHyXBFn) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [I Can't Lie](https://open.spotify.com/album/173kXFQprdIhDkFiZjgsFc) | 3:25 | 2025-06-26 | 2025-07-26 |
 | [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 | 2022-09-05 | 2022-11-08 |
 | [I Can\`t breathe without you](https://open.spotify.com/track/0tK3wMT20mo7TFb6Y2XHJb) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I Can\`t breathe without you](https://open.spotify.com/album/2fq2eebcACZX2YgvU5m08u) | 3:52 | 2024-09-02 | 2025-02-04 |
 | [I Can’t](https://open.spotify.com/track/5sD4TaEmZ4f2aTisvp79UL) | [Lee Solomon](https://open.spotify.com/artist/19TGRcpB8BnHI6Mq9c1sfa) | [I Can’t \(Re:WIND 4MEN Vol.1\)](https://open.spotify.com/album/4WsD1bQCmv86McQfVLwd3P) | 3:49 | 2022-09-05 | 2022-11-08 |
@@ -888,6 +889,7 @@
 | [Morning](https://open.spotify.com/track/62gf2fft5H9FM4H5s4fPLJ) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Morning](https://open.spotify.com/album/2IXgInYjof7yiyDS5BxBDc) | 3:26 | 2025-05-02 | 2025-07-23 |
 | [Morning Coffee](https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI) | [Odett](https://open.spotify.com/artist/093wAdPoQ0xBtB5Drjqd63) | [Morning Coffee](https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz) | 3:15 | 2023-05-01 | 2023-07-27 |
 | [MOTEL CALIFORNIA](https://open.spotify.com/track/4ptwR85sZUJghuTezDReht) | [mOOn](https://open.spotify.com/artist/6buvvKH2iRe1lunqlpOJpc), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [DR.RED](https://open.spotify.com/artist/3xCduQwGgxBE5p1Vg07hc3) | [MOTEL CALIFORNIA](https://open.spotify.com/album/5R7HKqj5L8c7Ot7BlGA4GU) | 3:38 | 2022-07-04 | 2022-09-06 |
+| [Movie](https://open.spotify.com/track/2i9YP5Olads9g9bEE6Gxm0) | [heeju](https://open.spotify.com/artist/7K57siwKn5EnZAGr6dD9Ct) | [Movie](https://open.spotify.com/album/5f3UPSNId36pblBYOBQVu0) | 2:46 | 2025-07-25 |  |
 | [movie](https://open.spotify.com/track/0gNQjJJgXvAG9ZgNaQdNCN) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [movie](https://open.spotify.com/album/36OnG0nTb9bw3QBQuylYPn) | 3:49 | 2024-03-08 | 2024-07-04 |
 | [Mr\. FOSHO \(feat\. OXYNOVA, Polodared & KHAN\)](https://open.spotify.com/track/2QAb4EOQoy8QshiTBAaCH2) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [KHAN](https://open.spotify.com/artist/2dixWDh9f2COEfikojSd39) | [Mr\. FOSHO](https://open.spotify.com/album/6Ccz99yuUi2KVQHB6zsUSn) | 3:13 | 2022-06-09 | 2022-06-19 |
 | [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 | 2023-01-11 | 2023-02-09 |

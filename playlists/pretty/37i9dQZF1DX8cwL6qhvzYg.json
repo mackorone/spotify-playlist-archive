@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 420934,
+  "num_followers": 421051,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZwBRTgAAAACBB8zYTteo3omLz/gtifnO",
   "tracks": [
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "GOET",
+        "url": "https://open.spotify.com/album/3tbuO1Yqd3nkyGdVqqtAbF"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "GOET",
+      "url": "https://open.spotify.com/track/5CE77TLqLjOQ2qgAobzPds"
+    },
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "GOET",
-        "url": "https://open.spotify.com/album/3tbuO1Yqd3nkyGdVqqtAbF"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "GOET",
-      "url": "https://open.spotify.com/track/5CE77TLqLjOQ2qgAobzPds"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 266015,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 259239,
       "name": "Oye Mujer",
       "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cumbia Nova",
+          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
+        }
+      ],
+      "duration_ms": 253884,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
         "name": "Amor a Primera Vista",
         "url": "https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 220941,
       "name": "Amor a Primera Vista",
       "url": "https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cumbia Nova",
-          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
-        }
-      ],
-      "duration_ms": 253884,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Reci\u00e9n Soltera",
-        "url": "https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 183856,
-      "name": "Reci\u00e9n Soltera",
-      "url": "https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Pa' Gozar - Zona Rika",
         "url": "https://open.spotify.com/album/2yAW7Bam9f29xcsxVTg1va"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 235821,
       "name": "Spanish Girl",
       "url": "https://open.spotify.com/track/00C0QqlR0vBK05aE1KSRNB"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Reci\u00e9n Soltera",
+        "url": "https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 183856,
+      "name": "Reci\u00e9n Soltera",
+      "url": "https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "30 Exitos Inolvidables",
-        "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
-        }
-      ],
-      "duration_ms": 146013,
-      "name": "El Colesterol",
-      "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Lujos y Secretos",
         "url": "https://open.spotify.com/album/3cbhqcAnhdzrBYjrehJ3Hx"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Soy El Aventurero",
-        "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
+        "name": "30 Exitos Inolvidables",
+        "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
       },
       "artists": [
         {
-          "name": "Los Felinos",
-          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
         }
       ],
-      "duration_ms": 186247,
-      "name": "Yo Quiero Quebrarte",
-      "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
+      "duration_ms": 146013,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1263,6 +1247,22 @@
       "duration_ms": 162800,
       "name": "Al gato y al rat\u00f3n",
       "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Soy El Aventurero",
+        "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
+      },
+      "artists": [
+        {
+          "name": "Los Felinos",
+          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
+        }
+      ],
+      "duration_ms": 186247,
+      "name": "Yo Quiero Quebrarte",
+      "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Que lo baile bien",
-        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "25 Bandazos de Machos (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 188693,
       "name": "La culebra",
       "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Que lo baile bien",
+        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -2011,6 +2011,30 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
+        "name": "B de Bellako",
+        "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "B de Bellako",
+      "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
         "name": "Y Si Se Quiere Ir",
         "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
       },
@@ -2039,30 +2063,6 @@
       "duration_ms": 271766,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "B de Bellako",
-        "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "B de Bellako",
-      "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "No Se Va",
-        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Puro Tejano Gold",
         "url": "https://open.spotify.com/album/7IWL9rNxAZfi7DC4RfPSB2"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 222373,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/4jeAwDjr8nIj8EK6pVRbW9"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -2195,18 +2195,18 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Sopa De Caracol",
-        "url": "https://open.spotify.com/album/02y6LIwA03oT4gQ9YM8wC1"
+        "name": "Cumbias Sonideras Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/61IQo4cJUzKvAJn0PiMrdG"
       },
       "artists": [
         {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
         }
       ],
-      "duration_ms": 289149,
-      "name": "Sopa De Caracol",
-      "url": "https://open.spotify.com/track/5jBMSbo3AZzsen4gCOKxKB"
+      "duration_ms": 245800,
+      "name": "Todo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/2E1os5dJ46vZVUUe6w6zps"
     }
   ],
   "unique_name": "Fiesta de Barrio",

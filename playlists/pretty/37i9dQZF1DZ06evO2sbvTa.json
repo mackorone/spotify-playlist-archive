@@ -1,12 +1,12 @@
 {
   "description": "This is Young Scooter. The essential tracks, all in one playlist.",
-  "num_followers": 4456,
+  "num_followers": 4455,
   "original_name": "This Is Young Scooter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABUEhB2p8J2UM87Ah1S0gY4",
+  "snapshot_id": "aIF3gAAAAADWjmeT/rllosvLLP2w43SY",
   "tracks": [
     {
       "added_at": null,
@@ -367,42 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 176901,
-      "name": "Come Eat Wit Us",
-      "url": "https://open.spotify.com/track/7loTO2VOr9KxJRL7cJPkw4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jugg King",
-        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/0OTGBE7VJnIAXvgYw7E1t4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Columbia Remix",
         "url": "https://open.spotify.com/album/1pk75KjlNX0OPNslAAoGZQ"
       },
@@ -423,6 +387,42 @@
       "duration_ms": 310733,
       "name": "Columbia Remix (Dirty)",
       "url": "https://open.spotify.com/track/7in3GxNPphXDq1Mcm586el"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jugg King",
+        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0OTGBE7VJnIAXvgYw7E1t4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 176901,
+      "name": "Come Eat Wit Us",
+      "url": "https://open.spotify.com/track/7loTO2VOr9KxJRL7cJPkw4"
     },
     {
       "added_at": null,
@@ -595,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wish Me Well 2",
+        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Bloodshed",
+      "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "High Class Street Music 3: Trappin' out a Mansion",
         "url": "https://open.spotify.com/album/11qFqK39bAL6MRegFESHPB"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 192000,
       "name": "Number Game",
       "url": "https://open.spotify.com/track/4mmmxpXJVKKEJxDr0umiOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wish Me Well 2",
-        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
-      },
-      "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Bloodshed",
-      "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
     },
     {
       "added_at": null,
@@ -839,30 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Vl Deck",
-          "url": "https://open.spotify.com/artist/52qUXaQE08gum6TfK6zyT1"
-        }
-      ],
-      "duration_ms": 250965,
-      "name": "Bread Crumbs (feat. Young Thug & Vl Deck)",
-      "url": "https://open.spotify.com/track/757H5Tyiq1KGm3gzMvbidd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Astronaut Status",
         "url": "https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA"
       },
@@ -887,18 +863,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "80's Baby",
-        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
       "artists": [
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Vl Deck",
+          "url": "https://open.spotify.com/artist/52qUXaQE08gum6TfK6zyT1"
         }
       ],
-      "duration_ms": 187063,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm"
+      "duration_ms": 250965,
+      "name": "Bread Crumbs (feat. Young Thug & Vl Deck)",
+      "url": "https://open.spotify.com/track/757H5Tyiq1KGm3gzMvbidd"
     },
     {
       "added_at": null,
@@ -915,6 +899,22 @@
       "duration_ms": 197244,
       "name": "Trap It Out",
       "url": "https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "80's Baby",
+        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 187063,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm"
     },
     {
       "added_at": null,
@@ -959,30 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 267867,
-      "name": "Both Sides (feat. Future & Young Thug)",
-      "url": "https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Streetz Krazy",
         "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
@@ -1015,6 +991,30 @@
       "duration_ms": 175361,
       "name": "Grind Dont Stop",
       "url": "https://open.spotify.com/track/41QEAMvVuZNabhwvICttLn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 267867,
+      "name": "Both Sides (feat. Future & Young Thug)",
+      "url": "https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k"
     },
     {
       "added_at": null,

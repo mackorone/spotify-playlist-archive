@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > El futuro está acá 📸 MARTTEIN.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,753 likes - 37 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,749 likes - 37 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PIZZA PARTY \(with Six Sex\)](https://open.spotify.com/track/6R3NX7RBEqt2552Wr0AeIj) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [ESPECTACULAR](https://open.spotify.com/album/60cgkcmF1mxBx2fiB0rz5U) | 2:40 |
+| 1 | [PIZZA PARTY](https://open.spotify.com/track/6R3NX7RBEqt2552Wr0AeIj) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [ESPECTACULAR](https://open.spotify.com/album/60cgkcmF1mxBx2fiB0rz5U) | 2:40 |
 | 2 | [RABIA DEL CORAZÓN](https://open.spotify.com/track/3g2XcCoWk2oYM3moTFFQoc) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BAR SCORPIOS](https://open.spotify.com/album/6Rtfa37o0kuhuso3RwimZQ) | 3:54 |
 | 3 | [QUÉ IMPORTA](https://open.spotify.com/track/5nzoLQgpSa9bwXFva3FhHE) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48) | [QUÉ IMPORTA](https://open.spotify.com/album/4WnL44xFHw4GOnm7mDlZP7) | 2:51 |
 | 4 | [un tiro](https://open.spotify.com/track/2XwuYSEl8sYgTWPmsBtAJP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:34 |

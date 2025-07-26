@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 160437,
+  "num_followers": 160461,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAACyxwD8KDhhF0dbvfid2qZ5",
+  "snapshot_id": "aIF3gAAAAAAzjxb/Zvp4qLy1MpNZQZpE",
   "tracks": [
     {
       "added_at": null,
@@ -575,30 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAVHOUSE",
-        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Song House",
-          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
-        },
-        {
-          "name": "Mara Justine",
-          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Stand Still",
-      "url": "https://open.spotify.com/track/0Wa2ws6YA9IWWLPbyF1jRF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -627,6 +603,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAVHOUSE",
+        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
+        },
+        {
+          "name": "Mara Justine",
+          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/0Wa2ws6YA9IWWLPbyF1jRF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -647,30 +647,6 @@
       "duration_ms": 542193,
       "name": "Man of Your Word (feat. KJ Scriven)",
       "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lonely Dirt Road (feat. Maverick City Music and Nick Day)",
-        "url": "https://open.spotify.com/album/2c6G5kgUjQO93Q7WbMbCmP"
-      },
-      "artists": [
-        {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
-        }
-      ],
-      "duration_ms": 251886,
-      "name": "Lonely Dirt Road",
-      "url": "https://open.spotify.com/track/6d0g54JbUGZvRBGMh4cmmJ"
     },
     {
       "added_at": null,
@@ -699,6 +675,30 @@
       "duration_ms": 457548,
       "name": "Used To This (feat. Naomi Raine & Brandon Lake)",
       "url": "https://open.spotify.com/track/1d7RCdfczxJNVSgXL4Gkil"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lonely Dirt Road (feat. Maverick City Music and Nick Day)",
+        "url": "https://open.spotify.com/album/2c6G5kgUjQO93Q7WbMbCmP"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        }
+      ],
+      "duration_ms": 251886,
+      "name": "Lonely Dirt Road",
+      "url": "https://open.spotify.com/track/6d0g54JbUGZvRBGMh4cmmJ"
     },
     {
       "added_at": null,
@@ -1115,26 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
-        }
-      ],
-      "duration_ms": 432294,
-      "name": "Such an Awesome God (feat. Maryanne J. George)",
-      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jireh (Lofi Remix)",
         "url": "https://open.spotify.com/album/6F3TM2ui3W5f8SGltEHkol"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 158896,
       "name": "Jireh - Lofi Remix",
       "url": "https://open.spotify.com/track/17ShT3cqakwxD14w8nLJm0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "duration_ms": 432294,
+      "name": "Such an Awesome God (feat. Maryanne J. George)",
+      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
     },
     {
       "added_at": null,
@@ -1199,30 +1199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 449446,
-      "name": "Thank You (feat. Steffany Gretzinger & Chandler Moore)",
-      "url": "https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fridayy",
         "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
       },
@@ -1243,6 +1219,30 @@
       "duration_ms": 231161,
       "name": "Came Too Far (feat. Maverick City Music & My Mom)",
       "url": "https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 449446,
+      "name": "Thank You (feat. Steffany Gretzinger & Chandler Moore)",
+      "url": "https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V"
     },
     {
       "added_at": null,

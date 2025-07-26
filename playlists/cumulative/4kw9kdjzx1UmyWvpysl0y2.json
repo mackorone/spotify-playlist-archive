@@ -6940,7 +6940,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 183428,
       "name": "Follow",
       "url": "https://open.spotify.com/track/6C6Ixhekm3a9jSjpPM3U97"
@@ -16794,7 +16794,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 192000,
       "name": "Snakebite",
       "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
@@ -17446,6 +17446,28 @@
       "duration_ms": 231500,
       "name": "stay",
       "url": "https://open.spotify.com/track/4F25Cp06qeW8WfgNBugAqv"
+    },
+    {
+      "album": {
+        "name": "Stay Focused",
+        "url": "https://open.spotify.com/album/52TpkDuLJnr60jik1BSeOb"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227716,
+      "name": "Stay Focused",
+      "url": "https://open.spotify.com/track/4XJflZeNOUAIhm09BSEsJu"
     },
     {
       "album": {

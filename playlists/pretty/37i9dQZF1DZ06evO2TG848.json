@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 23099,
+  "num_followers": 23098,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAADDxryaxTQwFthduRxfpnR/",
+  "snapshot_id": "aIF3gAAAAAAtxCsDlYHM1kJReqHvr+Dm",
   "tracks": [
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
-      },
-      "artists": [
-        {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
-        },
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 374243,
-      "name": "Ecstasy (feat. Gustavo Santaolalla)",
-      "url": "https://open.spotify.com/track/4siJiqVmN1sO5bZDDQSawE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Motorcycle Diaries with additional Music",
         "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 91893,
       "name": "Chichina",
       "url": "https://open.spotify.com/track/2LvMK31iQVKDoRZ9QeHHvW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 374243,
+      "name": "Ecstasy (feat. Gustavo Santaolalla)",
+      "url": "https://open.spotify.com/track/4siJiqVmN1sO5bZDDQSawE"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 174586,
-      "name": "Cordon de Plata",
-      "url": "https://open.spotify.com/track/2PGqbsSYbNYhfqEOtiH4k7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
         "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
@@ -663,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
       },
       "artists": [
         {
@@ -672,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 120554,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/0DEW6NlEqz5hiJ9Wxf8u2G"
+      "duration_ms": 174586,
+      "name": "Cordon de Plata",
+      "url": "https://open.spotify.com/track/2PGqbsSYbNYhfqEOtiH4k7"
     },
     {
       "added_at": null,
@@ -711,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
       },
       "artists": [
         {
@@ -720,9 +704,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 100933,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne"
+      "duration_ms": 120554,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/0DEW6NlEqz5hiJ9Wxf8u2G"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 42197,
       "name": "Forsaken",
       "url": "https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 100933,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 108425,
+      "name": "Resolve",
+      "url": "https://open.spotify.com/track/1WxUcACrb7ZM2UcIRRYNFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Motorcycle Diaries with additional Music",
         "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
       },
@@ -815,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
       },
       "artists": [
         {
@@ -824,25 +840,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 108425,
-      "name": "Resolve",
-      "url": "https://open.spotify.com/track/1WxUcACrb7ZM2UcIRRYNFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 180306,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp"
+      "duration_ms": 116240,
+      "name": "Brokeback Mountain 2",
+      "url": "https://open.spotify.com/track/5kgQk3nXmgrd0UeC7440ac"
     },
     {
       "added_at": null,
@@ -863,6 +863,26 @@
       "duration_ms": 152834,
       "name": "Little Sadie (feat. Gustavo Santaolalla)",
       "url": "https://open.spotify.com/track/7aQQcbDXJMpvL0koPH5cW5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "duration_ms": 86757,
+      "name": "Bravery",
+      "url": "https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl"
     },
     {
       "added_at": null,
@@ -899,42 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Juan Luqui",
-          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
-        }
-      ],
-      "duration_ms": 86757,
-      "name": "Bravery",
-      "url": "https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 116240,
-      "name": "Brokeback Mountain 2",
-      "url": "https://open.spotify.com/track/5kgQk3nXmgrd0UeC7440ac"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nueve",
         "url": "https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 300809,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/52IViXynTZLAIvnrr8XLYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 180306,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp"
     },
     {
       "added_at": null,

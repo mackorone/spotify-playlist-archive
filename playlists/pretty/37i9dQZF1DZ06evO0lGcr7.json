@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 47329,
+  "num_followers": 47324,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABcnfzS7DMuVcaI/hJMbooG",
+  "snapshot_id": "aIF3gAAAAADrSYtFWlTRaMJjA7GIu6WZ",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BUFFET",
-        "url": "https://open.spotify.com/album/2rcWSO4RL6mtSA6kGjz6hV"
+        "name": "rising",
+        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
       },
       "artists": [
-        {
-          "name": "LLusion",
-          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
-        },
         {
           "name": "mxmtoon",
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 110011,
-      "name": "walk but in a garden (feat. mxmtoon)",
-      "url": "https://open.spotify.com/track/5pqYKSkxyjVU0f3k0tLppv"
+      "duration_ms": 158600,
+      "name": "coming of age",
+      "url": "https://open.spotify.com/track/44J3plqT5zMSpaa6bkGfhZ"
     },
     {
       "added_at": null,
@@ -331,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "rising",
-        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
+        "name": "BUFFET",
+        "url": "https://open.spotify.com/album/2rcWSO4RL6mtSA6kGjz6hV"
       },
       "artists": [
+        {
+          "name": "LLusion",
+          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
+        },
         {
           "name": "mxmtoon",
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 158600,
-      "name": "coming of age",
-      "url": "https://open.spotify.com/track/44J3plqT5zMSpaa6bkGfhZ"
+      "duration_ms": 110011,
+      "name": "walk but in a garden (feat. mxmtoon)",
+      "url": "https://open.spotify.com/track/5pqYKSkxyjVU0f3k0tLppv"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
       "duration_ms": 196440,
       "name": "bon iver",
       "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rising",
+        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 139386,
+      "name": "frown",
+      "url": "https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "rising",
-        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 139386,
-      "name": "frown",
-      "url": "https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "please don't",
         "url": "https://open.spotify.com/album/0FML2Vg1z5EvafxbbY1PVR"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "liminal space",
-        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 224082,
-      "name": "just a little",
-      "url": "https://open.spotify.com/track/79nTjYPEirzCDbSrMF6Qk7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "true colors (from Life is Strange)",
         "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 144440,
       "name": "blister in the sun",
       "url": "https://open.spotify.com/track/0gb3mgIlYlG3KcZZLMaVow"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "liminal space",
+        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 224082,
+      "name": "just a little",
+      "url": "https://open.spotify.com/track/79nTjYPEirzCDbSrMF6Qk7"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "liminal space",
-        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 128879,
-      "name": "elevator",
-      "url": "https://open.spotify.com/track/1TkpDBOASLm2yj7ZEuSmgk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "dusk",
         "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
       },
@@ -543,6 +527,38 @@
       "duration_ms": 208333,
       "name": "ok on your own",
       "url": "https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "liminal space",
+        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 128879,
+      "name": "elevator",
+      "url": "https://open.spotify.com/track/1TkpDBOASLm2yj7ZEuSmgk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "dawn",
+        "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "used to you",
+      "url": "https://open.spotify.com/track/3UsxVebZkPE4TUvon8IHiS"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dawn",
-        "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "used to you",
-      "url": "https://open.spotify.com/track/3UsxVebZkPE4TUvon8IHiS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "rising (the deluxe)",
         "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "unspoken words",
-      "url": "https://open.spotify.com/track/2YhVxS6lDjg58b8pN80gxT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "true colors (from Life is Strange)",
         "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 209013,
       "name": "in the darkness",
       "url": "https://open.spotify.com/track/4wU7ZkSkK3nMJpzZBRxtv9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "unspoken words",
+      "url": "https://open.spotify.com/track/2YhVxS6lDjg58b8pN80gxT"
     },
     {
       "added_at": null,

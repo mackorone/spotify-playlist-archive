@@ -4,7 +4,7 @@
 
 > 
 
-2,404 songs - 5 day 5 hr 55 min
+2,405 songs - 5 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,6 +656,7 @@
 | [Eternal Madness](https://open.spotify.com/track/6qEgl7ZnfWZlUVkhgGE1ad) | [X\-Cursion](https://open.spotify.com/artist/4ihqnGOCry0RFLnGuP6Wcz) | [Eternal Madness](https://open.spotify.com/album/1nns7WvJkangNAG0kvSt6U) | 3:13 | 2025-01-18 |  |
 | [ETERNAL PULSE \(Shutdown Festival 2025 Anthem\)](https://open.spotify.com/track/4nt8HI5svxO0VWW1bmQX1H) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe) | [ETERNAL PULSE \(Shutdown Festival 2025 Anthem\)](https://open.spotify.com/album/6USnRE39YRpkaWDqM6Grnd) | 3:20 | 2025-07-22 |  |
 | [ETERNITY](https://open.spotify.com/track/0BoBmAYPTM8jbQ8OkERuHU) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [ETERNITY](https://open.spotify.com/album/7jvsHlV2dNJ5d8U1IeMehT) | 3:35 | 2023-03-21 |  |
+| [Ethernal](https://open.spotify.com/track/0P7av9fRY7Iwl3BKJSnO31) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY), [Frostekk](https://open.spotify.com/artist/0h1vtuWWEpIieTiyBMh5kK) | [Ethernal](https://open.spotify.com/album/2B21I57wSz9px2gKsiMgoR) | 2:38 | 2025-07-25 |  |
 | [Ett Glas Till](https://open.spotify.com/track/2NHCEvEBgLaqvJZPIMLzVd) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [Ett Glas Till](https://open.spotify.com/album/2p6cKEGO4bvXQValiwG340) | 2:32 | 2023-05-01 |  |
 | [Euphoria](https://open.spotify.com/track/1MZQzrlsp8Lg4Zo8fBdJJ9) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [Stef Classens](https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac) | [Euphoria](https://open.spotify.com/album/49tzGjcmL5kKOTJWloKggq) | 4:00 | 2022-09-21 |  |
 | [Euphoria \- USAO Remix](https://open.spotify.com/track/77traWPdROKyizilXKcNGx) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [PIKASONIC](https://open.spotify.com/artist/2hfoi6OmVRrLmZG1huaD1e), [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Tsugumi Nagahara](https://open.spotify.com/artist/4PHMx8hAZxAxbHgepKb62S) | [Euphoria \(feat\. Tsugumi Nagahara\) \[USAO Remix\]](https://open.spotify.com/album/5ZVmNadr0iN12qSsLcjp2v) | 3:33 | 2022-11-29 |  |

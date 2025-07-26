@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,856 likes - 160 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,855 likes - 160 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

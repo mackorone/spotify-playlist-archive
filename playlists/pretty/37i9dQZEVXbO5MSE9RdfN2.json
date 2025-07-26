@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Australia.",
-  "num_followers": 68973,
+  "num_followers": 68977,
   "original_name": "Viral 50 - Australia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MBWoqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MBb30AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "Soft Machine",
         "url": "https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "Make Me Feel",
         "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -77,7 +77,55 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "Rumi",
+          "url": "https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup"
+        },
+        {
+          "name": "Jinu",
+          "url": "https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "Andrew Choi",
+          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "duration_ms": 187963,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -117,55 +165,23 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+        "name": "Vol. 4",
+        "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
       },
       "artists": [
         {
-          "name": "Rumi",
-          "url": "https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup"
-        },
-        {
-          "name": "Jinu",
-          "url": "https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "Andrew Choi",
-          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 187963,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
+      "duration_ms": 284666,
+      "name": "Changes - 2009 Remaster",
+      "url": "https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Mama, I'm Coming Home",
-      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -225,23 +241,27 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
-        "name": "Vol. 4",
-        "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
+        "name": "Lita",
+        "url": "https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk"
       },
       "artists": [
         {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+          "name": "Lita Ford",
+          "url": "https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 284666,
-      "name": "Changes - 2009 Remaster",
-      "url": "https://open.spotify.com/track/2wNEcJHnFxoKZIrxjxF5jL"
+      "duration_ms": 283133,
+      "name": "Close My Eyes Forever",
+      "url": "https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
@@ -265,7 +285,7 @@
       "url": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "tell you straight (Speed Garage)",
         "url": "https://open.spotify.com/album/7k9LXSIhJe0FDIPZJh1VGn"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -373,7 +393,39 @@
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "Mania",
+        "url": "https://open.spotify.com/album/25hU0zGZcELPgAG62sh3EO"
+      },
+      "artists": [
+        {
+          "name": "armani west",
+          "url": "https://open.spotify.com/artist/7xLpLOGgLLFUaHpZhu94z6"
+        }
+      ],
+      "duration_ms": 81948,
+      "name": "Piano Tiles",
+      "url": "https://open.spotify.com/track/3PrdNqPXE2VMSOiXO0seeO"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 443240,
+      "name": "No More Tears",
+      "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "GET NAKED",
         "url": "https://open.spotify.com/album/17aMf9YdX5Pdyt0RyfU3Jh"
@@ -389,75 +441,39 @@
       "url": "https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
       },
       "artists": [
         {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 236160,
-      "name": "So Far So Fake",
-      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
+      "duration_ms": 475000,
+      "name": "War Pigs - 2009 Remaster",
+      "url": "https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
-        "name": "Lita",
-        "url": "https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk"
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
       },
       "artists": [
-        {
-          "name": "Lita Ford",
-          "url": "https://open.spotify.com/artist/77tBvvyd6SD4Y9Um1xcbxP"
-        },
         {
           "name": "Ozzy Osbourne",
           "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 283133,
-      "name": "Close My Eyes Forever",
-      "url": "https://open.spotify.com/track/43thLwzSasUUZEYjYPeJh3"
+      "duration_ms": 293183,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "Young Black & Rich",
-        "url": "https://open.spotify.com/album/4So2lxknlUUwSVMaPuU1XV"
-      },
-      "artists": [
-        {
-          "name": "Melly Mike",
-          "url": "https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "Young Black & Rich",
-      "url": "https://open.spotify.com/track/2QWin1zM9hxG9zsApuIvso"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 121089,
-      "name": "poster boy",
-      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "Saiyaara (From \"Saiyaara\")",
         "url": "https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk"
@@ -485,39 +501,75 @@
       "url": "https://open.spotify.com/track/1D35BJlymlh6OLD75WupSF"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
       },
       "artists": [
         {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         }
       ],
-      "duration_ms": 475000,
-      "name": "War Pigs - 2009 Remaster",
-      "url": "https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne"
+      "duration_ms": 236160,
+      "name": "So Far So Fake",
+      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+        "name": "Young Black & Rich",
+        "url": "https://open.spotify.com/album/4So2lxknlUUwSVMaPuU1XV"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Melly Mike",
+          "url": "https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M"
         }
       ],
-      "duration_ms": 443240,
-      "name": "No More Tears",
-      "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
+      "duration_ms": 155040,
+      "name": "Young Black & Rich",
+      "url": "https://open.spotify.com/track/2QWin1zM9hxG9zsApuIvso"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 121089,
+      "name": "poster boy",
+      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "u notice me",
+        "url": "https://open.spotify.com/album/7Jhc6dkRJ5Rwy1EDDUzaQy"
+      },
+      "artists": [
+        {
+          "name": "4K",
+          "url": "https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP"
+        },
+        {
+          "name": "Olivia Rose",
+          "url": "https://open.spotify.com/artist/0TiRArM5MxSef6ntzpRWoK"
+        }
+      ],
+      "duration_ms": 179657,
+      "name": "u notice me",
+      "url": "https://open.spotify.com/track/0jl5CfgJPdRmfXLewEBDSs"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -549,123 +601,7 @@
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "u notice me",
-        "url": "https://open.spotify.com/album/7Jhc6dkRJ5Rwy1EDDUzaQy"
-      },
-      "artists": [
-        {
-          "name": "4K",
-          "url": "https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP"
-        },
-        {
-          "name": "Olivia Rose",
-          "url": "https://open.spotify.com/artist/0TiRArM5MxSef6ntzpRWoK"
-        }
-      ],
-      "duration_ms": 179657,
-      "name": "u notice me",
-      "url": "https://open.spotify.com/track/0jl5CfgJPdRmfXLewEBDSs"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "Dusty Bibles",
-        "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
-      },
-      "artists": [
-        {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Dusty Bibles",
-      "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 293183,
-      "name": "Crazy Train",
-      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "Cant Go Broke (Remix)",
-        "url": "https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg"
-      },
-      "artists": [
-        {
-          "name": "ZEDDY WILL",
-          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
-        }
-      ],
-      "duration_ms": 107777,
-      "name": "Cant Go Broke - Remix",
-      "url": "https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "The Crucible of Life (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1MMfQUP4clMkIwzXmIefTk"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 191357,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/0OTWo2VieF1YTC8OHrV0fF"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
-        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
-      },
-      "artists": [
-        {
-          "name": "\u652c\u4f6cSKAI ISYOURGOD",
-          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
-        }
-      ],
-      "duration_ms": 173037,
-      "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
-      "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "The Glen (Levi Heron Edit)",
-        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
-      },
-      "artists": [
-        {
-          "name": "Levi Heron",
-          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
-        }
-      ],
-      "duration_ms": 173056,
-      "name": "The Glen - Levi Heron Edit",
-      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
@@ -681,23 +617,7 @@
       "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "Peaceful, The World Lays Me Down",
-        "url": "https://open.spotify.com/album/2Ugw5XIyyp0cKLMsgUaOh4"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "5 Years Time",
-      "url": "https://open.spotify.com/track/12je8giC2S9smUHJ81tpiL"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
@@ -713,7 +633,183 @@
       "url": "https://open.spotify.com/track/4zgHtuasZkiZu1caZwxF5P"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "Dusty Bibles",
+        "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Dusty Bibles",
+      "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "Cant Go Broke (Remix)",
+        "url": "https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "duration_ms": 107777,
+      "name": "Cant Go Broke - Remix",
+      "url": "https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "The Crucible of Life (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MMfQUP4clMkIwzXmIefTk"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 191357,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/0OTWo2VieF1YTC8OHrV0fF"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "Ozzmosis (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5m8Fj0thHTE4CBGJTdF6s9"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 370426,
+      "name": "See You on the Other Side",
+      "url": "https://open.spotify.com/track/1Hs2MG2LBJaSPk7X0fzmfk"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
+      },
+      "artists": [
+        {
+          "name": "\u652c\u4f6cSKAI ISYOURGOD",
+          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
+        }
+      ],
+      "duration_ms": 173037,
+      "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+      "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 302647,
+      "name": "Mr. Crowley",
+      "url": "https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "The Glen (Levi Heron Edit)",
+        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
+      },
+      "artists": [
+        {
+          "name": "Levi Heron",
+          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
+        }
+      ],
+      "duration_ms": 173056,
+      "name": "The Glen - Levi Heron Edit",
+      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "Master of Reality",
+        "url": "https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 302933,
+      "name": "Sweet Leaf (2009 Remaster)",
+      "url": "https://open.spotify.com/track/1bJ5FuncHc6wyDHBvJ0xF6"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "Best Of British: 00s",
+        "url": "https://open.spotify.com/album/5qWdr8JbCCxv8gM9V7NCUk"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "5 Years Time",
+      "url": "https://open.spotify.com/track/1kfpqIo1zfPOaxm9n2eRfp"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 180353,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "Wish I Never Met You",
         "url": "https://open.spotify.com/album/7EGL1m2OIbyqXyjhgXuKYB"
@@ -733,107 +829,7 @@
       "url": "https://open.spotify.com/track/4UFTokmSVgzVRxaF5yVUhN"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 302647,
-      "name": "Mr. Crowley",
-      "url": "https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "FAMOUS",
-        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 180353,
-      "name": "FAMOUS",
-      "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "Nice To Each Other",
-        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Nice To Each Other",
-      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "king. // 2003.",
-        "url": "https://open.spotify.com/album/4mKCI3hxtuVhAC3Psz7FCg"
-      },
-      "artists": [
-        {
-          "name": "db.",
-          "url": "https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "king.",
-      "url": "https://open.spotify.com/track/7BnSItJuZ4tSoM8yt6SL77"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
-        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
-      },
-      "artists": [
-        {
-          "name": "\u652c\u4f6cSKAI ISYOURGOD",
-          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
-        },
-        {
-          "name": "AR\u5218\u592b\u9633",
-          "url": "https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45"
-        }
-      ],
-      "duration_ms": 211677,
-      "name": "\u5927\u5c55\u9d3b\u5716(Blueprint Supreme)",
-      "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "THIS IS FOR (DELUXE)",
         "url": "https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U"
@@ -849,7 +845,23 @@
       "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 354213,
+      "name": "Iron Man - 2009 Remaster",
+      "url": "https://open.spotify.com/track/755bvJDSA3LNcNuFgBT9LK"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
       "album": {
         "name": "Dame Un Grrr",
         "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
@@ -869,118 +881,42 @@
       "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
-        "name": "Rein Me In (with Olivia Dean)",
-        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
       },
       "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
         {
           "name": "Olivia Dean",
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 339410,
-      "name": "Rein Me In (with Olivia Dean)",
-      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
-        "name": "YUP AND I DO",
-        "url": "https://open.spotify.com/album/7CgGavuS1DSvYXIbeqrq71"
+        "name": "king. // 2003.",
+        "url": "https://open.spotify.com/album/4mKCI3hxtuVhAC3Psz7FCg"
       },
       "artists": [
         {
-          "name": "ZEDDY WILL",
-          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+          "name": "db.",
+          "url": "https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW"
         }
       ],
-      "duration_ms": 126799,
-      "name": "YUP AND I DO",
-      "url": "https://open.spotify.com/track/6cA7DVYZYEYFKop72MRRRB"
+      "duration_ms": 213333,
+      "name": "king.",
+      "url": "https://open.spotify.com/track/7BnSItJuZ4tSoM8yt6SL77"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
-        "name": "Shelly 2",
-        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 228692,
-      "name": "Cross Your Mind",
-      "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "Love, Maybe (A Business Proposal OST Special Track)",
-        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Love, Maybe",
-      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "Sahiba",
-        "url": "https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
-        }
-      ],
-      "duration_ms": 190098,
-      "name": "Sahiba",
-      "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "Let God Sort Em Out",
-        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
-      },
-      "artists": [
-        {
-          "name": "Clipse",
-          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "Malice",
-          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
-        }
-      ],
-      "duration_ms": 154066,
-      "name": "Ace Trumpets",
-      "url": "https://open.spotify.com/track/1JvQhXD5FxkK2GjHCyFmZa"
-    },
-    {
-      "added_at": "2025-07-24 15:44:04",
-      "album": {
-        "name": "Master of Reality",
-        "url": "https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9"
+        "name": "Black Sabbath",
+        "url": "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ"
       },
       "artists": [
         {
@@ -988,25 +924,77 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 302933,
-      "name": "Sweet Leaf (2009 Remaster)",
-      "url": "https://open.spotify.com/track/1bJ5FuncHc6wyDHBvJ0xF6"
+      "duration_ms": 366173,
+      "name": "N.I.B. - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3XclwoQxz4p6Dl7VUf90KW"
     },
     {
-      "added_at": "2025-07-24 15:44:04",
+      "added_at": "2025-07-25 16:11:00",
       "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 166773,
-      "name": "Strategy (from the Netflix film KPop Demon Hunters)",
-      "url": "https://open.spotify.com/track/22fSzde77hjB052Vo155LF"
+      "duration_ms": 373866,
+      "name": "Fairies Wear Boots - 2009 Remaster",
+      "url": "https://open.spotify.com/track/0p9dEwFFw14hWTvS9v5NLU"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "Black Sabbath",
+        "url": "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 380400,
+      "name": "Black Sabbath - 2009 Remaster",
+      "url": "https://open.spotify.com/track/6KmJMlyPp0rPR7LloToCaF"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
+      },
+      "artists": [
+        {
+          "name": "\u652c\u4f6cSKAI ISYOURGOD",
+          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
+        },
+        {
+          "name": "AR\u5218\u592b\u9633",
+          "url": "https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45"
+        }
+      ],
+      "duration_ms": 211677,
+      "name": "\u5927\u5c55\u9d3b\u5716(Blueprint Supreme)",
+      "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"
+    },
+    {
+      "added_at": "2025-07-25 16:11:00",
+      "album": {
+        "name": "Black Sabbath",
+        "url": "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 262493,
+      "name": "The Wizard - 2009 Remaster",
+      "url": "https://open.spotify.com/track/02VKxjok07ypt3oFlGRjmH"
     }
   ],
   "unique_name": "Viral 50 - Australia",

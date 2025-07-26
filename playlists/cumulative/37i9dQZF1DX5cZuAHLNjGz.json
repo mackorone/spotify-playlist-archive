@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 172800,
       "name": "Buckle Up",
       "url": "https://open.spotify.com/track/54AudvSPbqmll6GcLKjBlY"
@@ -3468,7 +3468,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 140789,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6YMF2h9YZVkQs6V6nVLdW3"
@@ -6922,7 +6922,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 152624,
       "name": "O Shera - Teer Te Taj (Film Version) - From \"Kesari Chapter 2\"",
       "url": "https://open.spotify.com/track/0bEGXuQwXNF61JDXP47h9i"
@@ -7294,6 +7294,32 @@
       "duration_ms": 219335,
       "name": "Pagol",
       "url": "https://open.spotify.com/track/7MpfARGQRFqZxHEWLBjDkx"
+    },
+    {
+      "album": {
+        "name": "TWO OF A KIND",
+        "url": "https://open.spotify.com/album/0AkoL1MsHxEnTwan8AtLdm"
+      },
+      "artists": [
+        {
+          "name": "Amrinder Gill",
+          "url": "https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh"
+        },
+        {
+          "name": "Armaan Gill",
+          "url": "https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j"
+        },
+        {
+          "name": "Arnaaz Gill",
+          "url": "https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277315,
+      "name": "PAIGAAM",
+      "url": "https://open.spotify.com/track/55Po4BWmTreag2TAKG77wt"
     },
     {
       "album": {
@@ -9749,6 +9775,28 @@
     },
     {
       "album": {
+        "name": "Thodi Si Daaru",
+        "url": "https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180248,
+      "name": "Thodi Si Daaru",
+      "url": "https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj"
+    },
+    {
+      "album": {
         "name": "Those Eyes",
         "url": "https://open.spotify.com/album/58slHJ1c34IyRzAX6PKnLE"
       },
@@ -9828,6 +9876,24 @@
       "duration_ms": 236800,
       "name": "Todh",
       "url": "https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/3OGIYfY2ujyyMkt3eYy6JL"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169202,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/2A6LwwRAfCfLc8RNTqSnUu"
     },
     {
       "album": {

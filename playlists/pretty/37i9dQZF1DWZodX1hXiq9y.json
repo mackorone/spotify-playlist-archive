@@ -1,6 +1,6 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 129656,
+  "num_followers": 129692,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/6Ieo4Lrku0sQ63Pd9G8j3L"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/2xm9ihELo6xwrRKrBbPql9"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Blue Train",
         "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 643127,
       "name": "Blue Train",
       "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/6Ieo4Lrku0sQ63Pd9G8j3L"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/2xm9ihELo6xwrRKrBbPql9"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Presenting The Gerry Mulligan Sextet",
-        "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 323373,
-      "name": "Everything Happens To Me",
-      "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Fuchsia Swing Song",
         "url": "https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 372306,
       "name": "Beatrice",
       "url": "https://open.spotify.com/track/3s5v1r9kSE0mbLUu3mAagm"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Presenting The Gerry Mulligan Sextet",
+        "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
+        }
+      ],
+      "duration_ms": 323373,
+      "name": "Everything Happens To Me",
+      "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Now!",
-        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 381346,
-      "name": "Lester Leaps In",
-      "url": "https://open.spotify.com/track/6xtHD6E7iIyRCopIsTzW0U"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Speak No Evil (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 354066,
       "name": "Fee-Fi-Fo-Fum - Remastered1998/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6lgkhf5XLGA2wvgFeTy2cq"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Now!",
+        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 381346,
+      "name": "Lester Leaps In",
+      "url": "https://open.spotify.com/track/6xtHD6E7iIyRCopIsTzW0U"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Page One",
-        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 361773,
-      "name": "Recorda Me",
-      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Jackie's Bag",
         "url": "https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 545346,
       "name": "Blues Inn",
       "url": "https://open.spotify.com/track/7Kwi4xmgY4qQwOhBe0zsbh"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Page One",
+        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 361773,
+      "name": "Recorda Me",
+      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -771,22 +771,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Blowing In From Chicago",
-        "url": "https://open.spotify.com/album/3vkVhAKhudQjsjLchc8RU6"
+        "name": "Giant Steps (2020 Remaster)",
+        "url": "https://open.spotify.com/album/6NkgPYCMAzttRIKDpuJrFp"
       },
       "artists": [
         {
-          "name": "Clifford Jordan",
-          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
-        },
-        {
-          "name": "John Gilmore",
-          "url": "https://open.spotify.com/artist/7tuGW5xsy120kDp5I1KNhf"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 356746,
-      "name": "Bo-Till - Rudy Van Gelder 24Bit Mastering",
-      "url": "https://open.spotify.com/track/1VXvuU6StB2FGbiqixiwN5"
+      "duration_ms": 287843,
+      "name": "Giant Steps - 2020 Remaster",
+      "url": "https://open.spotify.com/track/69KzcVxzsz1KvLzaxMMobe"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -807,18 +803,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Giant Steps (2020 Remaster)",
-        "url": "https://open.spotify.com/album/6NkgPYCMAzttRIKDpuJrFp"
+        "name": "Blowing In From Chicago",
+        "url": "https://open.spotify.com/album/3vkVhAKhudQjsjLchc8RU6"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Clifford Jordan",
+          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
+        },
+        {
+          "name": "John Gilmore",
+          "url": "https://open.spotify.com/artist/7tuGW5xsy120kDp5I1KNhf"
         }
       ],
-      "duration_ms": 287843,
-      "name": "Giant Steps - 2020 Remaster",
-      "url": "https://open.spotify.com/track/69KzcVxzsz1KvLzaxMMobe"
+      "duration_ms": 356746,
+      "name": "Bo-Till - Rudy Van Gelder 24Bit Mastering",
+      "url": "https://open.spotify.com/track/1VXvuU6StB2FGbiqixiwN5"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -871,8 +871,8 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Go! (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+        "name": "One Flight Up (Remastered 2015)",
+        "url": "https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 393746,
-      "name": "Cheese Cake - Rudy Van Gelder Edition / Remastered 1999",
-      "url": "https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb"
+      "duration_ms": 451407,
+      "name": "Darn That Dream - Remastered 2015",
+      "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "Opus De Funk",
-      "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Used To Be Duke",
         "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
@@ -951,8 +935,24 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "One Flight Up (Remastered 2015)",
-        "url": "https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8"
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "Opus De Funk",
+      "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 451407,
-      "name": "Darn That Dream - Remastered 2015",
-      "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
+      "duration_ms": 393746,
+      "name": "Cheese Cake - Rudy Van Gelder Edition / Remastered 1999",
+      "url": "https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -983,34 +983,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Magnificent Charlie Parker",
-        "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
         }
       ],
-      "duration_ms": 162805,
-      "name": "Au Privave - Take 3 Master",
-      "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 355546,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+      "duration_ms": 309253,
+      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 355546,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Our Man In Paris (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
       },
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+        "name": "The Magnificent Charlie Parker",
+        "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
       },
       "artists": [
         {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         }
       ],
-      "duration_ms": 309253,
-      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
+      "duration_ms": 162805,
+      "name": "Au Privave - Take 3 Master",
+      "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
-        "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Confirmation",
-      "url": "https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 256133,
       "name": "Quintessence - Remastered",
       "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
+        "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "Confirmation",
+      "url": "https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Jeru",
         "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 340173,
       "name": "You've Come Home",
       "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Third Season",
-        "url": "https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 414360,
-      "name": "Don't Cry, Just Sigh",
-      "url": "https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "We Free Kings",
         "url": "https://open.spotify.com/album/4ayNl8wrfXJXABMk0L4eRW"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 280573,
       "name": "A Sack Full Of Soul",
       "url": "https://open.spotify.com/track/0J35LZeovLDsokAl3oiu35"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Third Season",
+        "url": "https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 414360,
+      "name": "Don't Cry, Just Sigh",
+      "url": "https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Sirens",
-        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 504266,
-      "name": "Kalypso",
-      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Rollin' With Leo (Rudy Van Gelder Edition/2009 Remaster)",
         "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 270960,
       "name": "Jumpin' Leo - Rudy Van Gelder Edition/2009 Remaster",
       "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Sirens",
+        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 504266,
+      "name": "Kalypso",
+      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1955,6 +1955,30 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Where Are You?",
+        "url": "https://open.spotify.com/album/5UIu8Ra41XV49VoscOnMjT"
+      },
+      "artists": [
+        {
+          "name": "Mark Turner",
+          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
+        },
+        {
+          "name": "Kevin Hays",
+          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
+        },
+        {
+          "name": "Marc Miralta",
+          "url": "https://open.spotify.com/artist/5k9fBcpEq6FWQH87BSLIpy"
+        }
+      ],
+      "duration_ms": 315520,
+      "name": "Nigeria",
+      "url": "https://open.spotify.com/track/0p9mkM9GtASH9tF73Qo5H3"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "On This Night",
         "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
       },
@@ -2011,30 +2035,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Where Are You?",
-        "url": "https://open.spotify.com/album/5UIu8Ra41XV49VoscOnMjT"
-      },
-      "artists": [
-        {
-          "name": "Mark Turner",
-          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
-        },
-        {
-          "name": "Kevin Hays",
-          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
-        },
-        {
-          "name": "Marc Miralta",
-          "url": "https://open.spotify.com/artist/5k9fBcpEq6FWQH87BSLIpy"
-        }
-      ],
-      "duration_ms": 315520,
-      "name": "Nigeria",
-      "url": "https://open.spotify.com/track/0p9mkM9GtASH9tF73Qo5H3"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Contemporary Jazz",
         "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
       },
@@ -2079,22 +2079,6 @@
       "duration_ms": 223960,
       "name": "A Side Order of Hijiki",
       "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Escaping Shadows",
-        "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
-      },
-      "artists": [
-        {
-          "name": "Benny Reid",
-          "url": "https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "New Days",
-      "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2151,6 +2135,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Escaping Shadows",
+        "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
+      },
+      "artists": [
+        {
+          "name": "Benny Reid",
+          "url": "https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "New Days",
+      "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Warm Woods",
         "url": "https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba"
       },
@@ -2163,22 +2163,6 @@
       "duration_ms": 187893,
       "name": "Blues In Pig Alley",
       "url": "https://open.spotify.com/track/63FHjEdLJDR1VStrTg9LmY"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
-        "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
-      },
-      "artists": [
-        {
-          "name": "Roland Kirk Quartet",
-          "url": "https://open.spotify.com/artist/0SCzoP5VlkILozXUjaf3Gk"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2227,6 +2211,22 @@
       "duration_ms": 799425,
       "name": "The Last Train",
       "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
+        "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
+      },
+      "artists": [
+        {
+          "name": "Roland Kirk Quartet",
+          "url": "https://open.spotify.com/artist/0SCzoP5VlkILozXUjaf3Gk"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
     },
     {
       "added_at": "2024-07-17 12:24:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,569 likes - 75 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,574 likes - 75 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 23 | [Evening Solace](https://open.spotify.com/track/01jSVjoqH6QpjYTMGQhJx2) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Evening Solace](https://open.spotify.com/album/0vxPTagdaH4znrF1p0jNWX) | 7:03 |
 | 24 | [Pugli](https://open.spotify.com/track/6bbaDHnK68EBKSQ3r7zFKZ) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Mtargashti](https://open.spotify.com/album/1LSHwRDQnJlDG4YRLStcQN) | 3:15 |
 | 25 | [Pahadi Dhun](https://open.spotify.com/track/6y6Cx6ZDFA9qerhxbdzMO4) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Pandit Ronu Majumdar: Master of the Indian Bansuri](https://open.spotify.com/album/4fCwRhix5LmrCTnfGhQSyg) | 8:40 |
-| 26 | [Viloma](https://open.spotify.com/track/4az3kWGP1I7Jp8kyrP6H39) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Bamboo Flute Music for Pranayama](https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN) | 4:41 |
-| 27 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 |
-| 28 | [Shri Krishna Govind Hare Murari \- Lofi Flute Instrumental](https://open.spotify.com/track/0TsRFgrwobN4mLuUN0NUfR) | [Flutewala](https://open.spotify.com/artist/4dV1PSWzfh8IgXQgJLrXnH), [Shriram Sampath](https://open.spotify.com/artist/5fwYdPdoS5guRhZ1X0wXQb) | [Shri Krishna Govind Hare Murari \(Lofi Flute Instrumental\)](https://open.spotify.com/album/5RYqFx1NvvDg6FfTO91esu) | 6:44 |
+| 26 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 |
+| 27 | [Viloma](https://open.spotify.com/track/4az3kWGP1I7Jp8kyrP6H39) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Bamboo Flute Music for Pranayama](https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN) | 4:41 |
+| 28 | [Krishna Bansuri](https://open.spotify.com/track/4rFZgG0MTumGJBadcF66G6) | [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U), [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV) | [Krishna Bansuri](https://open.spotify.com/album/1rA8kzZkghg5OI4AzwCQ4j) | 1:31 |
 | 29 | [Noble Courtship](https://open.spotify.com/track/1V8W6vKHeGDPRfrZwfqDDA) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Noble Courtship](https://open.spotify.com/album/335EBUdXTN0I03fNwNldDB) | 3:19 |
-| 30 | [Krishna Bansuri](https://open.spotify.com/track/4rFZgG0MTumGJBadcF66G6) | [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U), [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV) | [Krishna Bansuri](https://open.spotify.com/album/1rA8kzZkghg5OI4AzwCQ4j) | 1:31 |
+| 30 | [Shri Krishna Govind Hare Murari \- Lofi Flute Instrumental](https://open.spotify.com/track/0TsRFgrwobN4mLuUN0NUfR) | [Flutewala](https://open.spotify.com/artist/4dV1PSWzfh8IgXQgJLrXnH), [Shriram Sampath](https://open.spotify.com/artist/5fwYdPdoS5guRhZ1X0wXQb) | [Shri Krishna Govind Hare Murari \(Lofi Flute Instrumental\)](https://open.spotify.com/album/5RYqFx1NvvDg6FfTO91esu) | 6:44 |
 | 31 | [Rag Jainjhoti \- Alap & Gat in Teental](https://open.spotify.com/track/06b1A7Hm76A8v2wirNWdEN) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Abhijit Banerjee](https://open.spotify.com/artist/25meY1P3KyepIBDfWuEmz4) | [Lady Astride the Tiger](https://open.spotify.com/album/60L5IrIJBtz9G6OoVkuqNV) | 9:08 |
 | 32 | [Taaja Shaanti](https://open.spotify.com/track/1ilZEo94ZDPvU7Yj1tocRO) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 4:22 |
 | 33 | [Raga Navel](https://open.spotify.com/track/64PFSlID3y1Pm3gqM6RUiG) | [Harsh Marwah](https://open.spotify.com/artist/1OTNhpMTizcJQibzfrT5tV) | [Raga Rasa](https://open.spotify.com/album/4bVOOvwB7z5RiGrdRSAwyG) | 5:00 |

@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Karen Lizarazo",
-  "num_followers": 102312,
+  "num_followers": 102352,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-05-30 05:03:05",
       "album": {
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+      },
+      "artists": [
+        {
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+        }
+      ],
+      "duration_ms": 285546,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
+    },
+    {
+      "added_at": "2025-05-30 05:03:05",
+      "album": {
         "name": "Vivo Pensando En Ti (feat. Maluma)",
         "url": "https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 232306,
       "name": "Vivo Pensando En Ti (feat. Maluma)",
       "url": "https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774"
-    },
-    {
-      "added_at": "2025-05-30 05:03:05",
-      "album": {
-        "name": "La-33",
-        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
-      },
-      "artists": [
-        {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
-        }
-      ],
-      "duration_ms": 285546,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
     },
     {
       "added_at": "2025-05-30 05:03:05",

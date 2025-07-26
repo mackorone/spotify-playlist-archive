@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-276 songs - 22 hr 4 min
+277 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Rare Happiness](https://open.spotify.com/track/4CfkxZ4w0qCNuSA0hMJPeH) | [Hunee](https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy) | [Hunch Music](https://open.spotify.com/album/3HELUMHz9zL4T3BnwrXiR1) | 5:51 | 2022-03-25 | 2022-04-21 |
 | [Raw Cuts](https://open.spotify.com/track/4EREliOTaWHIrM7H1y9j0o) | [Dave Dashur](https://open.spotify.com/artist/2nXLmBDkeyD6aHCtdh8MHn) | [Raw Cuts](https://open.spotify.com/album/1L1vKtDOo3quuArwtcVDst) | 4:24 | 2023-06-09 | 2023-07-15 |
 | [Remember](https://open.spotify.com/track/1TwttAopOacjIhnuePJm3s) | [SI\-FI](https://open.spotify.com/artist/2IZuUOaBZX6lMmbRK1GLcv) | [Remember](https://open.spotify.com/album/5nfXfGq3r2FklAjuT34QIQ) | 4:36 | 2025-05-30 |  |
-| [Restless](https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0) | [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Restless](https://open.spotify.com/album/0k7JEia5VMjsgAMTSsvH61) | 3:34 | 2021-12-17 |  |
+| [Restless](https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0) | [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Restless](https://open.spotify.com/album/0k7JEia5VMjsgAMTSsvH61) | 3:34 | 2021-12-17 | 2025-07-26 |
 | [Right Now](https://open.spotify.com/track/5xc5zqywjr1aesPBSkBdSB) | [Waajeed](https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT) | [Right Now](https://open.spotify.com/album/3YOjw88VPz6SqnwMEnir3o) | 6:18 | 2022-12-29 | 2023-01-06 |
 | [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 | 2024-07-12 |  |
 | [Ritz Carlton](https://open.spotify.com/track/7GP2xyXJLkZGXDhq4Va5F6) | [goodmood](https://open.spotify.com/artist/5MlLVktIQ7bcBcFQqA8YjU) | [times](https://open.spotify.com/album/2jUolbaKUge2fiyUbBvHz6) | 5:12 | 2022-08-12 | 2022-10-14 |
@@ -266,6 +266,7 @@
 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 3:50 | 2022-03-31 | 2023-12-30 |
 | [Trust](https://open.spotify.com/track/2daNvdn5MQlKcSRxPZMoDO) | [Odette](https://open.spotify.com/artist/7mKPKcRmTkm2yODrmr7K1s) | [Trust](https://open.spotify.com/album/1QX4p4lYrM4wusVqxQWsjq) | 6:59 | 2021-12-17 | 2022-05-08 |
 | [Turbo Island](https://open.spotify.com/track/47z1w3BV1vqFCyiHOGYNtN) | [Gene On Earth](https://open.spotify.com/artist/0nFTxvt33kxliqqvTXT2Hj) | [Local Fuzz](https://open.spotify.com/album/3ya6agzdtz0ohx4QWNw7Ku) | 7:32 | 2023-07-07 | 2023-07-15 |
+| [U Will Change My Mind](https://open.spotify.com/track/7nKci17fhYfBbkhQBZy4KE) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [U Will Change My Mind](https://open.spotify.com/album/1jv5dzYHOkS3QniizFCaeV) | 3:54 | 2025-07-25 |  |
 | [Ultra](https://open.spotify.com/track/2H3d9MtmDpR4EYh2DlPC3F) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa), [Frag Maddin](https://open.spotify.com/artist/2DdlbTRvIhQMBO6iHHBZHO) | [My Name Is the Two, Some People Call Me the Funk](https://open.spotify.com/album/1cyVOcnCIvdQjTc2oLPy6Z) | 4:09 | 2023-01-27 | 2023-02-04 |
 | [Undergrowth](https://open.spotify.com/track/6FNAdNwaknBVkg4u7CSMTp) | [Kappa Mountain](https://open.spotify.com/artist/3dExis8rqyN3OsHSKuHU53), [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe), [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Undergrowth](https://open.spotify.com/album/2orPEElJwKWjmr4DPEhdjB) | 2:53 | 2021-12-17 | 2022-05-22 |
 | [Useful](https://open.spotify.com/track/2UXPd6q6LN9oYSagng8tR5) | [Damian Rausch](https://open.spotify.com/artist/4canJqeqGUKVyHKOpaDiol) | [Useful](https://open.spotify.com/album/7EfwWRHKY93vqZGp3UsZJ9) | 5:23 | 2022-03-25 | 2022-04-20 |

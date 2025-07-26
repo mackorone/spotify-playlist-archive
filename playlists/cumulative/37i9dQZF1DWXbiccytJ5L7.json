@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "AMMO",
+        "url": "https://open.spotify.com/album/0DD1qBCTZ3lQN9iazepwsd"
+      },
+      "artists": [
+        {
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165219,
+      "name": "AMMO",
+      "url": "https://open.spotify.com/track/3HcvySOzqlp9isQrORubip"
+    },
+    {
+      "album": {
         "name": "Ammunition",
         "url": "https://open.spotify.com/album/5lTeytt3nJN1hz8bZAiegJ"
       },
@@ -228,6 +246,24 @@
       "duration_ms": 207629,
       "name": "Backyard Lullaby",
       "url": "https://open.spotify.com/track/3A1DKJEl8D6tRmr4Fnssz0"
+    },
+    {
+      "album": {
+        "name": "Bad News",
+        "url": "https://open.spotify.com/album/5iFkNX4tSqWn8LRs51NZ04"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182499,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/775nRaKeB3L1hWgrSGM4O8"
     },
     {
       "album": {
@@ -636,7 +672,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 164410,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/06ZVdd9hNVlNv9fAd5NUok"
@@ -1472,7 +1508,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 149105,
       "name": "Hillbilly Boys",
       "url": "https://open.spotify.com/track/3YnIYa9Z8qwM0GILQ3ugHg"
@@ -2078,6 +2114,32 @@
       "duration_ms": 218728,
       "name": "Mean to Me",
       "url": "https://open.spotify.com/track/1KWlTxF4TufdT8ZwYSycFB"
+    },
+    {
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/03xHAanKM1Tt39480qsiOw"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217631,
+      "name": "Miami (feat. Lil Wayne & Rick Ross)",
+      "url": "https://open.spotify.com/track/1j6a5zJGhyBlrvqsszBEeF"
     },
     {
       "album": {
@@ -3120,7 +3182,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 237720,
       "name": "Unlive (with Yelawolf)",
       "url": "https://open.spotify.com/track/5vBFnLvfjXLdcY8Df6PHj4"

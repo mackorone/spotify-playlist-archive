@@ -4,7 +4,7 @@
 
 > Classic Disney songs reimagined by your favorite popular artists.
 
-147 songs - 7 hr 49 min
+148 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Can You Feel the Love Tonight?](https://open.spotify.com/track/51AAdoEEsQ4oJrtyBOIi1r) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [In the Key of Disney](https://open.spotify.com/album/2Xgc5F1OMlpdHjrz3xUlHF) | 3:39 | 2025-06-13 |  |
 | [Can You Picture That? \- From "The Muppets Mayhem"](https://open.spotify.com/track/4UzujGAgPblZR5QXeRbglm) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [Can You Picture That? \(From "The Muppets Mayhem"\)](https://open.spotify.com/album/7tv3aDTrKRtBgopqCg56Aj) | 2:46 | 2025-05-21 |  |
 | [Cantina Band](https://open.spotify.com/track/69EcXnxVVPb6Uz0Py7Wvcu) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Cantina Band](https://open.spotify.com/album/3cHajBszGLiZRY2kmaAoXo) | 2:20 | 2025-05-21 |  |
+| [Chip 'n Dale's Rescue Rangers](https://open.spotify.com/track/63oE2iXrHfnh2t21F1EgVz) | [Disney Fun in the Sun Beach Bash \- Cast](https://open.spotify.com/artist/2dMvd6usIlbt2JxRGLnCMu) | [Fun in the Sun Beach Bash \(From "Disney Cruise Line"/Disney Lookout Cay at Lighthouse Point\)](https://open.spotify.com/album/4draKLbPuZWqqebzC2oflu) | 2:24 | 2025-07-25 |  |
 | [Ciclo Sin Fin](https://open.spotify.com/track/4a4fF3m8tsDlnFy5KWWsvM) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [El Rey León \(Banda Sonora Original en Español\)](https://open.spotify.com/album/2Z2emaEPoi5Kjro2EbKpGV) | 3:17 | 2025-05-21 |  |
 | [Circle Of Life](https://open.spotify.com/track/7rA8OcQI1CHqJMOKNjFdtG) | [BYU Vocal Point](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) | [Circle Of Life](https://open.spotify.com/album/1Sklt4eUxYWpl6ZEE3kicq) | 3:33 | 2025-05-21 |  |
 | [Circle of Life](https://open.spotify.com/track/0zGWWGo8xpJobHw9oQ6LCi) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [The Disney Reggae Club](https://open.spotify.com/album/4TwY0yW17Tqf4qNcr6tVSg) | 3:44 | 2025-05-21 |  |

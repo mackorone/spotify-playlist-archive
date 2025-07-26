@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 48569,
+  "num_followers": 48620,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAACfL0p+ro6VunNzuIOct0EK",
+  "snapshot_id": "aIF3gAAAAADaWi3W10HwtJ60wRcpGThm",
   "tracks": [
     {
       "added_at": null,
@@ -127,18 +127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Know You Like That",
-        "url": "https://open.spotify.com/album/4xgNgsr0mwtN1YraSZMGjl"
+        "name": "About A Woman (& A Good Ol' Boy)",
+        "url": "https://open.spotify.com/album/7vWt3Oe027TmVOxBBVKrIC"
       },
       "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 176450,
-      "name": "Know You Like That",
-      "url": "https://open.spotify.com/track/2zNRgMzYj5VlfxNDZK7RGO"
+      "duration_ms": 187917,
+      "name": "Ain't A Bad Life",
+      "url": "https://open.spotify.com/track/0tKsXVJc0aqLQ2NYOIOTPt"
     },
     {
       "added_at": null,
@@ -175,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Know You Like That",
+        "url": "https://open.spotify.com/album/4xgNgsr0mwtN1YraSZMGjl"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 176450,
+      "name": "Know You Like That",
+      "url": "https://open.spotify.com/track/2zNRgMzYj5VlfxNDZK7RGO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus Wouldn't Do",
         "url": "https://open.spotify.com/album/23yzPzQnYJs50BrBeoInz2"
       },
@@ -191,28 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "About A Woman (& A Good Ol' Boy)",
-        "url": "https://open.spotify.com/album/7vWt3Oe027TmVOxBBVKrIC"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 187917,
-      "name": "Ain't A Bad Life",
-      "url": "https://open.spotify.com/track/0tKsXVJc0aqLQ2NYOIOTPt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Learn The Hard Way",
-        "url": "https://open.spotify.com/album/5FjaXd6Hjfzta2vJiPB7ra"
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 168680,
-      "name": "Learn The Hard Way",
-      "url": "https://open.spotify.com/track/3xB2R2tf0T2TXaB4AWoPjT"
+      "duration_ms": 203293,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/6t9p9BwdZMCgXeAlkfA0RP"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
+        "name": "Learn The Hard Way",
+        "url": "https://open.spotify.com/album/5FjaXd6Hjfzta2vJiPB7ra"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 203293,
-      "name": "Lose You",
-      "url": "https://open.spotify.com/track/6t9p9BwdZMCgXeAlkfA0RP"
+      "duration_ms": 168680,
+      "name": "Learn The Hard Way",
+      "url": "https://open.spotify.com/track/3xB2R2tf0T2TXaB4AWoPjT"
     },
     {
       "added_at": null,

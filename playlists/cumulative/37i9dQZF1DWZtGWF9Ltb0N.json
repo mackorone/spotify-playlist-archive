@@ -378,7 +378,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 153800,
       "name": "ALL DAY, ALL NIGHT",
       "url": "https://open.spotify.com/track/7oniDV1HpNk4CkiRVxNi8J"
@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 261134,
       "name": "Connected Illusions",
       "url": "https://open.spotify.com/track/6hsklmT7gmue5XjeALOCYD"
@@ -11869,6 +11869,24 @@
     },
     {
       "album": {
+        "name": "Section",
+        "url": "https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT"
+      },
+      "artists": [
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Section",
+      "url": "https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6"
+    },
+    {
+      "album": {
         "name": "Seething Eyes",
         "url": "https://open.spotify.com/album/1DLHwMmGwxEaIHTVm7vfIx"
       },
@@ -12226,6 +12244,24 @@
       "duration_ms": 226285,
       "name": "Shifter VIP",
       "url": "https://open.spotify.com/track/0zD8Z5tdwFQrwSXOZdUEPO"
+    },
+    {
+      "album": {
+        "name": "Show Dem",
+        "url": "https://open.spotify.com/album/29uPLOZDeIMSS8fpRsZA34"
+      },
+      "artists": [
+        {
+          "name": "Nik Fury",
+          "url": "https://open.spotify.com/artist/1k9J6Pg2KhNdKd3AIBhFxJ"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335571,
+      "name": "Show Dem",
+      "url": "https://open.spotify.com/track/4gtt56BVdqpqsORlP3v1w8"
     },
     {
       "album": {

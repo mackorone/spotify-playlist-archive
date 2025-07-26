@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 
 > This is Post Malone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,776,695 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,776,861 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 32 | [Wrapped Around Your Finger](https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:13 |
 | 33 | [Homemade Dynamite \(Feat\. Khalid, Post Malone & SZA\) \- REMIX](https://open.spotify.com/track/7rdUtXasA973gmrr2Xxh3E) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Homemade Dynamite \(Feat\. Khalid, Post Malone & SZA\) \[REMIX\]](https://open.spotify.com/album/7kXQ0AvaykUJMxR0gRfr4d) | 3:34 |
 | 34 | [Die For Me \(feat\. Future & Halsey\)](https://open.spotify.com/track/2C6WXnmZ66tHhHlnvwePiK) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 4:05 |
-| 35 | [Waiting For Never](https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache \(Deluxe\)](https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so) | 3:16 |
-| 36 | [Deja Vu](https://open.spotify.com/track/0H8XeaJunhvpBdBFIYi6Sh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:54 |
-| 37 | [Jackie Chan](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Jackie Chan](https://open.spotify.com/album/0vRcQquqBlFvnezWldWfmt) | 3:35 |
-| 38 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 |
+| 35 | [Deja Vu](https://open.spotify.com/track/0H8XeaJunhvpBdBFIYi6Sh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:54 |
+| 36 | [Waiting For Never](https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache \(Deluxe\)](https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so) | 3:16 |
+| 37 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 |
+| 38 | [Jackie Chan](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Jackie Chan](https://open.spotify.com/album/0vRcQquqBlFvnezWldWfmt) | 3:35 |
 | 39 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 |
 | 40 | [Hey Mercedes](https://open.spotify.com/track/1uukncdtRehiZS3SMHOxYZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [F\-1 Trillion: Long Bed](https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A) | 3:22 |
 | 41 | [92 Explorer](https://open.spotify.com/track/1D2L6MefbXon28PzIk9I3r) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 49 | [Ain’t How It Ends](https://open.spotify.com/track/4ApqBh1Xnrpwx6EbhoUPgq) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [F\-1 Trillion: Long Bed](https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A) | 3:21 |
 | 50 | [Wolves \(feat\. Post Malone\)](https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 |
 
-Snapshot ID: `aIAmAAAAAAB/wBsXVYDjGXaH3lnyFiFS`
+Snapshot ID: `aIF3gAAAAACPs+Jqpcb5/SYHq6teaXfA`

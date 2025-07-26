@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,427,502 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,427,487 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 16 | [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 |
 | 17 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 |
 | 18 | [Latch](https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [Latch](https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU) | 3:17 |
-| 19 | [All I Want](https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE) | [Rosebud Nash](https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE) | [All I Want](https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS) | 3:18 |
-| 20 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 |
+| 19 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 |
+| 20 | [All I Want](https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE) | [Rosebud Nash](https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE) | [All I Want](https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS) | 3:18 |
 | 21 | [Lift Me Up](https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Lift Me Up](https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ) | 2:49 |
 | 22 | [When I Get There](https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [When I Get There](https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m) | 3:53 |
 | 23 | [what if](https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [what if](https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq) | 3:21 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 38 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
 | 39 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 |
 | 40 | [I Feel It Coming](https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb) | [Alice Nordstrom](https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3) | [I Feel It Coming](https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f) | 2:46 |
-| 41 | [Here With Me](https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE) | [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Here With Me](https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm) | 3:26 |
+| 41 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
 | 42 | [Fireflies](https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [Fireflies](https://open.spotify.com/album/6W5cgtJFbeWa8EsAC0y7Nl) | 3:40 |
-| 43 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
+| 43 | [Here With Me](https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE) | [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Here With Me](https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm) | 3:26 |
 | 44 | [Make You Feel My Love](https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I) | [Morgan St\. Douglas](https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT) | [Make You Feel My Love](https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L) | 3:09 |
 | 45 | [Here I Go Again \- Acoustic](https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Here I Go Again \- Acoustic EP](https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3) | 4:12 |
 | 46 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Don't You \(Forget About Me\)](https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb) | 2:55 |

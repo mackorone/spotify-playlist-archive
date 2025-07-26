@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 125 | [Ambroxyde](https://open.spotify.com/track/5Jj9nsX0EuynTtg7100XOB) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:57 |
 | 126 | [Not Asking For Much](https://open.spotify.com/track/5rqVZtMRNUJt5drXwXMVxv) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [FK IT](https://open.spotify.com/album/7naXZDFuKYmQtJrmRdJFc7) | 3:35 |
 | 127 | [Late](https://open.spotify.com/track/5HdUkEux2rUBknvnaAZdCO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:57 |
-| 128 | [Dancing](https://open.spotify.com/track/2GaMidZlf2kO3L1ZvORSP5) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Dancing](https://open.spotify.com/album/6ztdw1jAN5UZjj8RPioBIq) | 2:41 |
-| 129 | [High on You](https://open.spotify.com/track/3A2n4QNrHMiwUlonQcpwFp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:51 |
+| 128 | [High on You](https://open.spotify.com/track/3A2n4QNrHMiwUlonQcpwFp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:51 |
+| 129 | [Dancing](https://open.spotify.com/track/2GaMidZlf2kO3L1ZvORSP5) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Dancing](https://open.spotify.com/album/6ztdw1jAN5UZjj8RPioBIq) | 2:41 |
 | 130 | [Twelvemonth](https://open.spotify.com/track/06Szv3oSZ2KINnzvjM2lCd) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 2:08 |
 | 131 | [In My Head](https://open.spotify.com/track/6UQy3o1wtZP4LUBhG1dCFQ) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [In My Head](https://open.spotify.com/album/4cgbsjwhZDUJPSMQsUX0EP) | 3:51 |
 | 132 | [Black Shoes](https://open.spotify.com/track/51rMSVVM8ouSttSLL9UVsW) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:14 |
@@ -177,10 +177,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 167 | [I Want You](https://open.spotify.com/track/1j3AbAkEy194UQFoW8Bigh) | [Rose Paradise](https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv) | [I Want You](https://open.spotify.com/album/14QtxU4a0xbhJLhlRgoo2V) | 2:36 |
 | 168 | [Haiku](https://open.spotify.com/track/1l7KcIjZ5z43LUOSr3VPQ7) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:44 |
 | 169 | [Blue](https://open.spotify.com/track/7IZCKhsBUkQ4lmBJzQOJSa) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 4:01 |
-| 170 | [Quiet](https://open.spotify.com/track/4ojR83QBW57NgmFnCgR9gT) | [Wales](https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ) | [Quiet](https://open.spotify.com/album/2A1wpSpxxMBo1VNWRB4eeN) | 3:58 |
-| 171 | [Like a Dream](https://open.spotify.com/track/0pmq1cjqHDBT87pJabXhq1) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Like a Dream](https://open.spotify.com/album/4P7xlrlQlV7Urlf3yZLoOt) | 3:32 |
-| 172 | [Hell of a Life](https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:15 |
-| 173 | [Shoes in a Glasshouse](https://open.spotify.com/track/46iD05N1ZmG3putXiUPrBg) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:52 |
+| 170 | [Shoes in a Glasshouse](https://open.spotify.com/track/46iD05N1ZmG3putXiUPrBg) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:52 |
+| 171 | [Quiet](https://open.spotify.com/track/4ojR83QBW57NgmFnCgR9gT) | [Wales](https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ) | [Quiet](https://open.spotify.com/album/2A1wpSpxxMBo1VNWRB4eeN) | 3:58 |
+| 172 | [Like a Dream](https://open.spotify.com/track/0pmq1cjqHDBT87pJabXhq1) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Like a Dream](https://open.spotify.com/album/4P7xlrlQlV7Urlf3yZLoOt) | 3:32 |
+| 173 | [Hell of a Life](https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:15 |
 | 174 | [What You Want](https://open.spotify.com/track/6oAPRV8xNp5i8VT8kfahWL) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 4:07 |
 | 175 | [Emmy](https://open.spotify.com/track/0mKpPlBFQEydSThgi2ar10) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:19 |
 | 176 | [Backseat](https://open.spotify.com/track/5Kcd6Da7qph8vcnNyBYZ3f) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Crush](https://open.spotify.com/album/7tAcbMEaIxArJI00HCNWgs) | 3:46 |
@@ -260,4 +260,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 250 | [Water Lily](https://open.spotify.com/track/635tpDIpccjgHnOmd80WfP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:45 |
 | 251 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `Ab3qkgAAAADeM4cB6xN/xZKq/wuHb5+t`
+Snapshot ID: `Ab3wKAAAAABiwTWXkEw6CAsMMp0WFfWK`

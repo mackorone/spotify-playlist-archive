@@ -4,7 +4,7 @@
 
 > for the baddies.
 
-143 songs - 8 hr 34 min
+145 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Bitches Brew](https://open.spotify.com/track/32GLsaZGtVQ4OUaqmVsF9I) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [††† \(Crosses\)](https://open.spotify.com/album/3OFwgpivi60ZjfNmnPm2kf) | 3:28 | 2023-09-20 | 2025-01-28 |
 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 | 2023-10-13 |  |
 | [Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Blood on the Sheets](https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i) | 3:49 | 2023-11-17 |  |
-| [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 | 2023-09-20 |  |
+| [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 | 2023-09-20 | 2025-07-26 |
 | [Blvd\. Nights](https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 3:08 | 2023-09-20 |  |
 | [BROWN NOISE](https://open.spotify.com/track/6J9FRTVeIX9D1GgM6K0wr9) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [NOISE T.V](https://open.spotify.com/album/3TxlPPVEkL4vlOcmpEJWLS) | 2:52 | 2023-09-20 | 2023-10-21 |
 | [Change \(In the House of Flies\)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:59 | 2023-09-20 |  |
@@ -36,6 +36,7 @@
 | [Cold & Distant](https://open.spotify.com/track/039LjnW10JKYN3kfEo4wZ0) | [Hangman's Chair](https://open.spotify.com/artist/3jmqk617nnjalSiZUCaaBi) | [A Loner](https://open.spotify.com/album/0cVHeZCI9YO7zovnvacfhy) | 5:09 | 2023-09-20 | 2024-04-03 |
 | [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 3:47 | 2023-09-20 |  |
 | [Crawling Into You](https://open.spotify.com/track/2EVVaTiZFIXwkV74McpZy5) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Promo 2019](https://open.spotify.com/album/6DKO5xmgzhet0tQD8zXMZ5) | 3:23 | 2023-09-20 |  |
+| [Creature In The Black Night](https://open.spotify.com/track/4kMBP4BSFB0vNYQDVGiJq6) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Creature In The Black Night](https://open.spotify.com/album/2YWEecYJkLwMbNOG1o4cap) | 3:48 | 2025-07-25 |  |
 | [Custer](https://open.spotify.com/track/3GiJq4AQK7324mfIQbpiTf) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:14 | 2023-09-20 | 2024-09-11 |
 | [deprecating](https://open.spotify.com/track/0S3hKgCbYTWPOesdVM4bg7) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [deprecating](https://open.spotify.com/album/0zV1xLH1fwzi1ESG8tf6qt) | 2:06 | 2023-10-13 | 2024-01-13 |
 | [devotion](https://open.spotify.com/track/35YHXeL0Q5Ew5wWrDsylx3) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [devotion](https://open.spotify.com/album/3QH5py8IQGQqSxNRomdUIB) | 3:29 | 2025-02-14 |  |
@@ -65,7 +66,7 @@
 | [I Feel Everything](https://open.spotify.com/track/2VruwjihpGLyBmLuEqE7i2) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [I Feel Everything](https://open.spotify.com/album/2ocVKzxMyOPFzVRLl7b15B) | 2:55 | 2025-05-23 |  |
 | [I Loathe You](https://open.spotify.com/track/0iRuCaKWwSfbTF3OzI7q4t) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Romance & Pandemonium](https://open.spotify.com/album/02DSsQxdITiLHR6CFxmaUm) | 2:51 | 2025-01-27 | 2025-03-08 |
 | [I Shift](https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo) | [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [I Shift](https://open.spotify.com/album/49Jl8jC6BGOLuw0FoyXY0c) | 3:10 | 2024-11-05 | 2025-05-09 |
-| [i want the light to swallow me whole](https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [i want the light to swallow me whole](https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3) | 3:38 | 2025-03-07 |  |
+| [i want the light to swallow me whole](https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [i want the light to swallow me whole](https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3) | 3:38 | 2025-03-07 | 2025-07-26 |
 | [I'd stay forever](https://open.spotify.com/track/2ClFwxCrSbg472DuKbCpej) | [whither](https://open.spotify.com/artist/1j5n8v8YxdS8FrMjauRn8j) | [I'd stay forever](https://open.spotify.com/album/5IBRxPg2yrTf0BtuJrZ0Aa) | 4:31 | 2024-08-13 |  |
 | [In Your Way](https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Here at All](https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU) | 3:54 | 2023-09-20 | 2024-01-24 |
 | [Is It Really You?](https://open.spotify.com/track/4OmlsAT8r4q9vPFBvfYgyZ) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [I Let It in and It Took Everything](https://open.spotify.com/album/6nUUV3haj8ug8okTmOyIU2) | 4:47 | 2023-09-20 | 2024-06-01 |
@@ -95,6 +96,7 @@
 | [Oscillator](https://open.spotify.com/track/6KXAhYI4uJ7q2jzMvA02Wl) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Oscillator](https://open.spotify.com/album/4T7ufJRwjYShYW2jhf22qW) | 4:00 | 2024-08-13 | 2025-04-01 |
 | [Out Of Control](https://open.spotify.com/track/6gwJm7LgsaHdd3CWi4K8e8) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR) | 3:37 | 2023-09-20 | 2024-02-16 |
 | [Outside](https://open.spotify.com/track/5w4XPMyvehdEJdtU4ZU67B) | [breakk.away](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Outside](https://open.spotify.com/album/4oYsIUSuJY9ZPTE1WfVdnY) | 3:25 | 2023-12-22 | 2025-01-28 |
+| [Outside](https://open.spotify.com/track/6D46UmiP97e9nxssD4r7tN) | [breakk.away](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Outside](https://open.spotify.com/album/11Hbhd3ShzY3uhNjOaxMUP) | 3:25 | 2025-07-25 |  |
 | [Overflow](https://open.spotify.com/track/7diOv6wm3ngF7Vt6ubK0Sf) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:31 | 2024-11-15 |  |
 | [PANIC!](https://open.spotify.com/track/2E47UXRAUrmHV7NKU4XKzV) | [Nerv](https://open.spotify.com/artist/1SPkKp6zKlXjB6oiWZI04b) | [LOST](https://open.spotify.com/album/74q93gj0Tn3JDBrElrjuNN) | 3:15 | 2025-05-09 |  |
 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 | 2023-09-20 |  |

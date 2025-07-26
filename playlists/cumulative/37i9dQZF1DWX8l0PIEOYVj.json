@@ -551,6 +551,28 @@
     },
     {
       "album": {
+        "name": "All I've Got Left",
+        "url": "https://open.spotify.com/album/2lxnQs7LzKpiZGWSheYOLz"
+      },
+      "artists": [
+        {
+          "name": "AZ\u00cbE",
+          "url": "https://open.spotify.com/artist/2yECmCVXrG3VBfqawyeOaL"
+        },
+        {
+          "name": "Otto Palmborg",
+          "url": "https://open.spotify.com/artist/1YQWn973MCGK5yzVeukVtc"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "All I've Got Left",
+      "url": "https://open.spotify.com/track/0w29Zl1YSGnzDP12c58Cnk"
+    },
+    {
+      "album": {
         "name": "All That Really Matters",
         "url": "https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q"
       },
@@ -4359,6 +4381,36 @@
     },
     {
       "album": {
+        "name": "Escape (feat. Lilly Ahlberg)",
+        "url": "https://open.spotify.com/album/7v7d7AEWvKt5RMXg94MknR"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "Escape (feat. Lilly Ahlberg)",
+      "url": "https://open.spotify.com/track/1oDlQ0JGgXfXTWWrtmdOku"
+    },
+    {
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/1UulTnkVbwdExEF0oeGzz6"
       },
@@ -7226,7 +7278,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 235714,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/0EkUz1zkIuFeEUbyT1lLNe"
@@ -12790,7 +12842,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 219200,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/1hZ0phqPlhuC2isK7luDO4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,954 likes - 56 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,962 likes - 56 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 26 | [Desperate](https://open.spotify.com/track/2el4Mzv6ctmCk0pTco3xTz) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Desperate](https://open.spotify.com/album/7kEXgIpRnqcymycPTgCQS9) | 3:30 |
 | 27 | [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 |
 | 28 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
-| 29 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 |
-| 30 | [Troubled Water](https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Getting By](https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO) | 2:45 |
+| 29 | [Troubled Water](https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Getting By](https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO) | 2:45 |
+| 30 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 |
 | 31 | [Expiration Dating](https://open.spotify.com/track/4RY8NabvRv6Y95x96asZbr) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Expiration Dating](https://open.spotify.com/album/6FFDFr43db7FFvrpOT6xAg) | 3:00 |
 | 32 | [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 |
 | 33 | [Rattlesnake Preacher](https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Rattlesnake Preacher](https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj) | 3:55 |
-| 34 | [Snakeskin](https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Snakeskin](https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr) | 2:43 |
-| 35 | [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 |
+| 34 | [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 |
+| 35 | [Snakeskin](https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Snakeskin](https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr) | 2:43 |
 | 36 | [Dancehall](https://open.spotify.com/track/3XcM7tSvGt8lHtmUkLibWU) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Dancehall](https://open.spotify.com/album/6ejhPZLlGjXOxUEu1GN9tm) | 2:42 |
 | 37 | [Chemical Reaction](https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Chemical Reaction](https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC) | 3:18 |
 | 38 | [hot shit](https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:55 |
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 45 | [George F\*\*\*\*\*\* Strait](https://open.spotify.com/track/59GPNeu7MDHoAL7eZpqM2l) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [George F\*\*\*\*\*\* Strait](https://open.spotify.com/album/5PzOrHKY9PIZ0FjR4lLglH) | 3:09 |
 | 46 | [Heartthrob](https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Heartthrob](https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP) | 3:13 |
 | 47 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
-| 48 | [Believer](https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 6:02 |
-| 49 | [White Limousine](https://open.spotify.com/track/1Jb4Vy5d4iYSr2PWDxvzOo) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5Fkt6qIaLBxCz2MLrjVduc) | 4:07 |
+| 48 | [White Limousine](https://open.spotify.com/track/1Jb4Vy5d4iYSr2PWDxvzOo) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5Fkt6qIaLBxCz2MLrjVduc) | 4:07 |
+| 49 | [Believer](https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 6:02 |
 | 50 | [I Won't Sleep](https://open.spotify.com/track/0mi2jX9EjiMcG0lRqV2gPB) | [XANDRA](https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [I Won't Sleep](https://open.spotify.com/album/2Cv3X0S014FgbbBahaEQLh) | 2:15 |
 | 51 | [I'm in Love](https://open.spotify.com/track/5VdQP3CLYQrTOb9YZipDqC) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Planting by the Signs](https://open.spotify.com/album/38zMhd9RDzHVfklw3BKM7t) | 3:42 |
 | 52 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 |
 | 53 | [Girls Just Wanna Be Famous](https://open.spotify.com/track/6K57TO1Y8uSQWNYdOXmSRE) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Girls Just Wanna Be Famous](https://open.spotify.com/album/3dTj9QX5l2YQl1qbyxnnZt) | 2:41 |
-| 54 | [The Whole Thing](https://open.spotify.com/track/1UStVtpPmVF5Yyw63NAcR1) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Whole Thing](https://open.spotify.com/album/5ugYpwPXM2kDB5tpAi7F5n) | 3:51 |
-| 55 | [Hole In A Frame](https://open.spotify.com/track/0yhZkGZwcvcnUCfJ6MulaT) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bloodless](https://open.spotify.com/album/37mwvUCrctINwVYeayXa7h) | 3:03 |
+| 54 | [Hole In A Frame](https://open.spotify.com/track/0yhZkGZwcvcnUCfJ6MulaT) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bloodless](https://open.spotify.com/album/37mwvUCrctINwVYeayXa7h) | 3:03 |
+| 55 | [The Whole Thing](https://open.spotify.com/track/1UStVtpPmVF5Yyw63NAcR1) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Whole Thing](https://open.spotify.com/album/5ugYpwPXM2kDB5tpAi7F5n) | 3:51 |
 | 56 | [sofocón](https://open.spotify.com/track/53Ox636iTlznBrMT3FH8Jd) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [sofocón](https://open.spotify.com/album/03scjA6OFm6LUFQQa8dOOy) | 2:26 |
 
 Snapshot ID: `aGNdTgAAAABOJjm0fDEAxxBzfU4X+U5n`

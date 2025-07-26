@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,044 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,296 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 16 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 |
 | 17 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 |
 | 18 | [Serenity](https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Serenity](https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn) | 2:49 |
-| 19 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 |
+| 19 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 |
 | 20 | [No Division \(feat\. XSALT\)](https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [XSALT](https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC) | [No Division](https://open.spotify.com/album/6pSk6j1v5FrWh74Rygv367) | 6:06 |
-| 21 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 |
+| 21 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 |
 | 22 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 |
 | 23 | [When I Push \- Edit](https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [When I Push \(Edit\)](https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy) | 3:33 |
 | 24 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 27 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
 | 28 | [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 |
 | 29 | [Nero](https://open.spotify.com/track/5YPnP3rDlN6ZZuBFm4qLKw) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [HARD POP VOL\. 2](https://open.spotify.com/album/2RqdAgUm2Z7cMNxMjkirFP) | 5:39 |
-| 30 | [Kernkraft 400](https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D), [Ken](https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI) | [Kernkraft 400](https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT) | 2:06 |
+| 30 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
 | 31 | [The Realm](https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [The Realm](https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO) | 5:58 |
-| 32 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
+| 32 | [Kernkraft 400](https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D), [Ken](https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI) | [Kernkraft 400](https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT) | 2:06 |
 | 33 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 |
 | 34 | [Darkness](https://open.spotify.com/track/78CcHDIIw093COMGylrkXj) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Darkness](https://open.spotify.com/album/3zygknadb7Wu6t24FEa79g) | 3:42 |
 | 35 | [YKSI](https://open.spotify.com/track/7nsd1DNX2HrZQEDPdTSMQg) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [YKSI](https://open.spotify.com/album/4YEzU9BML2f64xUlFfJEfD) | 3:53 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 39 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
 | 40 | [Planet XX \- Extended Mix](https://open.spotify.com/track/2t8dxuo4kz49lIXW6NJ3Ss) | [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Planet XX](https://open.spotify.com/album/7CWg0oYwESxCpnDxhkQbx7) | 5:38 |
 | 41 | [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 |
-| 42 | [No Fear](https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [No Fear](https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz) | 4:12 |
-| 43 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 |
+| 42 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 |
+| 43 | [No Fear](https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [No Fear](https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz) | 4:12 |
 | 44 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
 | 45 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 |
-| 46 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 |
-| 47 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 |
+| 46 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 |
+| 47 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 |
 | 48 | [ENERGY](https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [THIS IS NOT AN ALBUM](https://open.spotify.com/album/6MdQHR6deZ4QIzEdnWOCJt) | 6:17 |
 | 49 | [Salty](https://open.spotify.com/track/5bxebyE7bBCb6D4ICh9nNe) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Salty](https://open.spotify.com/album/6iWlgl3SAgJMd1DiR3QLWR) | 3:01 |
 | 50 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 |
 
-Snapshot ID: `aHnGzAAAAAB2JaItgDsXDrcjkwdeHpuU`
+Snapshot ID: `aIMBbwAAAAAcBnezyPAY3068ourm1GOB`

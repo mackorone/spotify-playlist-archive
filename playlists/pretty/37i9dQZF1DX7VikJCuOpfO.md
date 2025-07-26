@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 ### [Mariachi 2025](https://open.spotify.com/playlist/37i9dQZF1DX7VikJCuOpfO)
 
-> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Christian Nodal
+> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Leonardo Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,377 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,389 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 13 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 |
 | 14 | [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 |
 | 15 | [Caballero](https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:49 |
-| 16 | [Quién De Los Dos Será](https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 3:33 |
-| 17 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
+| 16 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
+| 17 | [Quién De Los Dos Será](https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 3:33 |
 | 18 | [Amé](https://open.spotify.com/track/0Ld2aKtIASbu5EFl3rRcIp) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Amé](https://open.spotify.com/album/1zwhYXkqsGpFHTFoCA5dmY) | 3:26 |
 | 19 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ) | 3:47 |
 | 20 | [Poco](https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Poco](https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC) | 3:45 |
-| 21 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
-| 22 | [Así Fue](https://open.spotify.com/track/4APtMcMgEWjzUeBz8gA1qk) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Así Fue](https://open.spotify.com/album/53hagbhSdOxZhGeNky20bS) | 4:22 |
+| 21 | [Así Fue](https://open.spotify.com/track/4APtMcMgEWjzUeBz8gA1qk) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Así Fue](https://open.spotify.com/album/53hagbhSdOxZhGeNky20bS) | 4:22 |
+| 22 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
 | 23 | [Dime Cómo Quieres](https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [AYAYAY! \(Súper Deluxe\)](https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw) | 2:51 |
 | 24 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 |
 | 25 | [La Siguiente](https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [La Siguiente](https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH) | 3:22 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 57 | [Bailar Contigo \(feat\. Mariachi Sol De Mexico De Jose Hernandez\)](https://open.spotify.com/track/4qkhHNpS8k5U5Oq2rFoRbB) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Bailar Contigo \(feat\. Mariachi Sol De Mexico De Jose Hernandez\)](https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV) | 3:45 |
 | 58 | [Me Nace Del Corazón](https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Nace Del Corazón](https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr) | 2:44 |
 | 59 | [Hasta Que Me Duermo](https://open.spotify.com/track/4i8PN9NYspouYFlIqsskk3) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Hasta Que Me Duermo](https://open.spotify.com/album/1mLcet0qvEtwU5QnGpROrx) | 3:14 |
-| 60 | [Anestesia](https://open.spotify.com/track/3ABiH8zbUCb4xpfi6eRdHQ) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [Anestesia](https://open.spotify.com/album/3mpQo65pohg46mRAd50PWh) | 2:40 |
-| 61 | [Bonita](https://open.spotify.com/track/2XntX9F4ABFZOoSJHJsiuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Bonita](https://open.spotify.com/album/4fp66cjYLUX7kdKCB7oCFN) | 2:49 |
+| 60 | [Bonita](https://open.spotify.com/track/2XntX9F4ABFZOoSJHJsiuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Bonita](https://open.spotify.com/album/4fp66cjYLUX7kdKCB7oCFN) | 2:49 |
+| 61 | [Anestesia](https://open.spotify.com/track/3ABiH8zbUCb4xpfi6eRdHQ) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [Anestesia](https://open.spotify.com/album/3mpQo65pohg46mRAd50PWh) | 2:40 |
 | 62 | [Fuiste Mía](https://open.spotify.com/track/2NiABj6NgG9T9p7Yzckd7D) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 2:08 |
 | 63 | [Lo Que No Sirve, Estorba](https://open.spotify.com/track/5kDmZruM2jWU1A8A0o1EmN) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Lo Que No Sirve, Estorba](https://open.spotify.com/album/0I9nIeCH2dJVy8gEthtJ2t) | 2:36 |
 | 64 | [Tequila Mariachi](https://open.spotify.com/track/1M2iTJ1l3OIjA5X4S65BGk) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Tequila Mariachi](https://open.spotify.com/album/7Bhvqlx38CGFUvxIfz5iOw) | 3:36 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 97 | [La Desconocida](https://open.spotify.com/track/44AoC1ryjyINEwLbtr5Zr4) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Nadie Me Escribe La Vida](https://open.spotify.com/album/100q2avXshpAXbj9djyoaz) | 2:54 |
 | 98 | [Duele Estar Vivo](https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Valió La Pena Con Mariachi](https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW) | 3:46 |
 | 99 | [Lo que no fue no será](https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Lo que no fue no será](https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH) | 3:37 |
-| 100 | [Ya No Te Quiero Ver](https://open.spotify.com/track/4flsO9gS9np3r4rEPlYJey) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Ya No Te Quiero Ver](https://open.spotify.com/album/2rSSp50LCLH2ib1C01sQAS) | 3:06 |
+| 100 | [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 |
 
-Snapshot ID: `aHCohQAAAABK+gedSfEE1lkNIZyG9JcI`
+Snapshot ID: `aIMfBgAAAAAgB2Vqxqk3aP3y61IEJM2h`

@@ -4,7 +4,7 @@
 
 > sexy afrobeats
 
-153 songs - 7 hr 41 min
+154 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Divine Intervention](https://open.spotify.com/track/3wFzFIZFNn0gxYkfdOybqY) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/2qXvUtcDzC8UycI1ccMWFw) | 2:58 | 2024-02-09 | 2024-04-05 |
 | [Divine Intervention](https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/6wlhvzUV68XeLk6fMirGqQ) | 2:58 | 2024-02-09 | 2024-02-22 |
 | [Doing U Better](https://open.spotify.com/track/7trZEJ00tghFf93kvkyb7S) | [Tangaza](https://open.spotify.com/artist/2ud6k0Vv2jiXXg78RuPmaS), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Doing U Better](https://open.spotify.com/album/3OM6ultAF9mWPZZ5QC5Wdh) | 2:51 | 2024-02-09 | 2025-03-22 |
+| [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 | 2025-07-25 |  |
 | [Down](https://open.spotify.com/track/2nYGKBTVBTyEU319Oo7lJr) | [Pariah](https://open.spotify.com/artist/23nc1fZrp58KsnzSL9rae4) | [The Tower](https://open.spotify.com/album/1k1wO0MdpT7QdfwP4brWck) | 3:42 | 2024-02-09 | 2024-06-01 |
 | [Early Momo](https://open.spotify.com/track/3q9OiLZVS3Om7uI6cBfaOZ) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Early Momo](https://open.spotify.com/album/0MeNdDh80OeWXNrRFA9QEs) | 3:13 | 2024-02-09 | 2024-03-08 |
 | [ecstasy \(feat\. Seun Kuti\)](https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 | 2024-08-30 | 2024-11-22 |

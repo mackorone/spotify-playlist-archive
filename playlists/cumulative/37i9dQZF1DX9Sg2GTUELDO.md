@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: moon tang
 
-530 songs - 1 day 7 hr 39 min
+531 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [但你要甜](https://open.spotify.com/track/2uHvcjcc8QaOeNPeKb1dVd) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [但你要甜](https://open.spotify.com/album/5p3PUeyemFoyZnYyCttYPx) | 4:08 | 2025-06-19 |  |
 | [低調\(bossa nova\)](https://open.spotify.com/track/00eXc2sJq8632QUBKruhSv) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [低調\(bossa nova\)](https://open.spotify.com/album/7oXpZU3qrTmdLSXycMKmml) | 2:54 | 2024-06-27 |  |
 | [作賤](https://open.spotify.com/track/55jgSPkET7IS8KORroxhXy) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [作賤](https://open.spotify.com/album/2SBJ4J3u7IWe308Ah4KVVi) | 3:22 | 2024-10-31 |  |
+| [你唔明㗎喇](https://open.spotify.com/track/4flF0ssmCCKu4RvnoibmrA) | [XiX](https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU) | [你唔明㗎喇](https://open.spotify.com/album/7hhPDEKxwFv0SyBQRzI0sj) | 2:55 | 2025-07-24 |  |
 | [你在4點14分上線](https://open.spotify.com/track/5znnQrA4snArqOGSODOcYH) | [Yohee又熙](https://open.spotify.com/artist/3vF1H9QKCNIXvIDnRDiCke) | [你在4點14分上線](https://open.spotify.com/album/6Xg7sqa8hhaXGu0F6x0KmA) | 3:41 | 2025-05-22 |  |
 | [你在我不遠處](https://open.spotify.com/track/4Ly4kSvsSLR2oThi5DGJaW) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [你在我不遠處](https://open.spotify.com/album/3yKf5hHj8NGN54Buiv5mNv) | 3:01 | 2025-02-27 |  |
 | [你好嗎](https://open.spotify.com/track/78UjgHNRiFFjL9pgxic57h) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [你好嗎](https://open.spotify.com/album/1Ztu4bYqjnhm53sjM70cCI) | 5:33 | 2024-06-27 |  |

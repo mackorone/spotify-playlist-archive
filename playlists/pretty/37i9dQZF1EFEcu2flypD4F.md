@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,279 likes - 338 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,280 likes - 338 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,8 +204,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 194 | [Brightest Morning Star](https://open.spotify.com/track/7MXf5oS9bilbC70ii9YWbf) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 2:59 |
 | 195 | [Beautiful Calm Driving](https://open.spotify.com/track/3vn3tYZAJ3h95G9JSsKJv9) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 5:02 |
 | 196 | [Big Girl Little Girl](https://open.spotify.com/track/4W2t7IWugHayILQdV3FLun) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 4:18 |
-| 197 | [You're Mine](https://open.spotify.com/track/3wfiYtFeCtlijiqmTIlBFQ) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:38 |
-| 198 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
+| 197 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
+| 198 | [You're Mine](https://open.spotify.com/track/3wfiYtFeCtlijiqmTIlBFQ) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:38 |
 | 199 | [Diamond Eyes \(feat\. Sia\)](https://open.spotify.com/track/2yJgLxRS3qzh8MwPogWG7d) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Diamond Eyes \(feat\. Sia\)](https://open.spotify.com/album/1Wz4TaOdgu0xzFcn4itx7M) | 3:43 |
 | 200 | [I Am Me](https://open.spotify.com/track/3DV7noSx1US7DCWIlF2OC6) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [I Am Me](https://open.spotify.com/album/7Bgtodjks7aKmZHI91xwUg) | 4:08 |
 | 201 | [I Am](https://open.spotify.com/track/3kCNhgO03URvgUqVtv2z8C) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 3:52 |
@@ -247,8 +247,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 237 | [If I Can't Have You](https://open.spotify.com/track/1GSOHVVSVoR0oWrNxKj2pX) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/4tHTOAOfnaxjdLZud0rS5o) | 3:22 |
 | 238 | [Butterflies](https://open.spotify.com/track/48Cf7df74BjUz9rWJXXwXb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 3:22 |
 | 239 | [Waiting To Die](https://open.spotify.com/track/7dMeeGi3mjL5YAIiUWgEvu) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/4tHTOAOfnaxjdLZud0rS5o) | 3:40 |
-| 240 | [Chaos](https://open.spotify.com/track/0KAAMcIYH5D9JwVLXcTQmb) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Don’t Explain](https://open.spotify.com/album/2yZlo1UzbQDfiokZooVfaF) | 4:05 |
-| 241 | [Diamants](https://open.spotify.com/track/77xStTWFuM5tOKhiQUJ9O3) | [MPL](https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9) | [LU7](https://open.spotify.com/album/6w7AuDYL8h9XHjZTSp3rPR) | 4:22 |
+| 240 | [Diamants](https://open.spotify.com/track/77xStTWFuM5tOKhiQUJ9O3) | [MPL](https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9) | [LU7](https://open.spotify.com/album/6w7AuDYL8h9XHjZTSp3rPR) | 4:22 |
+| 241 | [Chaos](https://open.spotify.com/track/0KAAMcIYH5D9JwVLXcTQmb) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Don’t Explain](https://open.spotify.com/album/2yZlo1UzbQDfiokZooVfaF) | 4:05 |
 | 242 | [Unite](https://open.spotify.com/track/7dx1maQh7mN7PHRTnZNFI9) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Alive \(Deluxe Edition\)](https://open.spotify.com/album/7duJuFUm0IlZW4ppyWSXu5) | 3:51 |
 | 243 | [Get over U](https://open.spotify.com/track/5HvN5wQFNTNxlNBgeaPGbf) | [Neon Hitch](https://open.spotify.com/artist/2TnJ7VOpGzjtKUn0ObpEYe) | [Get Over U](https://open.spotify.com/album/1vleMZIYYhBSXyAWPUeSIX) | 3:24 |
 | 244 | [Champion \(feat\. Tierra Whack, Kaliii & Jimmy Jolliff\)](https://open.spotify.com/track/6LqftaVN35FQ60QmuDm1x9) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Jimmy Jolliff](https://open.spotify.com/artist/7uzmxsPUTv4bfNtrLhr5jk) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:40 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 337 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 338 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `Ab3qfgAAAABgDcJ76jp8sBVzi3AicOj5`
+Snapshot ID: `Ab3wCgAAAAC+uoSS9ZkzVbACAPGGrfPm`

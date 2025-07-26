@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,400 likes - 100 songs - 5 hr 40 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,399 likes - 111 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,16 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 98 | [Minnie Says \(Would You Be My\) \(with tg.blk\)](https://open.spotify.com/track/3oLcbmHfpsUxHcpaLwBsYy) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Minnie Says \(Would You Be My\) \(with tg.blk\)](https://open.spotify.com/album/28E9lTlZ94wh4LoHa40BAg) | 3:25 |
 | 99 | [laundry day](https://open.spotify.com/track/1dtINGPPyYYVhtwpSAjodV) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [laundry day](https://open.spotify.com/album/3osKZabjMYt3IESd67l0Zr) | 2:48 |
 | 100 | [Girl's Girl](https://open.spotify.com/track/5Aaq6ejj1FdHKfo9hsbmQ9) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Girl's Girl](https://open.spotify.com/album/3xFxqLDL7Lt1ULImXE2Nx9) | 4:35 |
+| 101 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 |
+| 102 | [This is Me Warning Ya](https://open.spotify.com/track/00zqv0awhTzLWyupoFQrS8) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [The Lash](https://open.spotify.com/album/7mBaKpscHALbrA2gJz3alo) | 2:53 |
+| 103 | [Memories](https://open.spotify.com/track/2GXkfq4zMW42QbwATAIeiJ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Memories](https://open.spotify.com/album/0xjqoGk8yDHR6Nn0c2VLqa) | 3:15 |
+| 104 | [my secret](https://open.spotify.com/track/26SfhJogAvHRd3sLsPLSmB) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [paper doll](https://open.spotify.com/album/7CNnOxea4XOxw2RGBlYz6s) | 3:49 |
+| 105 | [What If](https://open.spotify.com/track/3ymjm6EZfPBLDSiCMSFh2y) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 1](https://open.spotify.com/album/5BQYyqKLuKy2NxgdDt6HKD) | 3:15 |
+| 106 | [easy](https://open.spotify.com/track/12kvkByLJthKaIhk819aNA) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [easy](https://open.spotify.com/album/6dvFbVMwwqmnCeeU7VrGvr) | 2:20 |
+| 107 | [WHEN I GO](https://open.spotify.com/track/5cfLg7gY79VSGnJKDOO0Zi) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [WHEN I GO](https://open.spotify.com/album/0qivAWPVFSOgfoMlHv5QKo) | 4:15 |
+| 108 | [luv](https://open.spotify.com/track/7Bn6EAYJQFtTyYVkykElNL) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [luv](https://open.spotify.com/album/7K5GVWoYwpF4ryczOwUbMv) | 3:36 |
+| 109 | [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 |
+| 110 | [Live & Let Go \(with DISPATCH\)](https://open.spotify.com/track/5bANCdXPTD9Lik5JGhYsAO) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [LOOK! I'm Alive](https://open.spotify.com/album/6kEeD6FBlXWEuWN2YFj4pU) | 4:03 |
+| 111 | [Setting Sun](https://open.spotify.com/track/4bUHiFK6oq9Io4fAZPWSwW) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [Iron](https://open.spotify.com/album/1I37eoXjALZ9dOLeYOgJdQ) | 5:06 |
 
-Snapshot ID: `AAAkwd4eM0EJ/GKoChzcnZTOfYLJtAzD`
+Snapshot ID: `AAAkzNLKqfGVKpXkut6Y1mdWicbMqxX7`

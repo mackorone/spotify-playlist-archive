@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 144030,
+  "num_followers": 144031,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
-        "name": "A.M",
-        "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
-      },
-      "artists": [
-        {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
-        }
-      ],
-      "duration_ms": 209849,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
-    },
-    {
-      "added_at": "2025-06-03 14:00:19",
-      "album": {
         "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
         "url": "https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 183663,
       "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
       "url": "https://open.spotify.com/track/7JdHEhOa7CXs8oEBnMtnjh"
+    },
+    {
+      "added_at": "2025-06-03 14:00:19",
+      "album": {
+        "name": "A.M",
+        "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
+      },
+      "artists": [
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "duration_ms": 209849,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
     },
     {
       "added_at": "2025-06-03 14:00:19",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
+    },
+    {
+      "added_at": "2025-06-03 14:00:19",
+      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/1iiXBkAFITzUQhBiuYqWQh"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/78CrWTmzkDNQodFtV6kJIa"
-    },
-    {
-      "added_at": "2025-06-03 14:00:19",
-      "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
     },
     {
       "added_at": "2025-06-03 14:00:19",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/26zYyUQZWrSkWggGmnqZ5f"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 266977,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/7u7EEK1938YLwisU38x8j8"
-    },
-    {
-      "added_at": "2025-06-03 14:00:19",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/6jOOQDwkPl8o55CdYYzlWB"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 278840,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2qMS5qYe10o9EmEM7i5k9f"
+    },
+    {
+      "added_at": "2025-06-03 14:00:19",
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/26zYyUQZWrSkWggGmnqZ5f"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 266977,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/7u7EEK1938YLwisU38x8j8"
     },
     {
       "added_at": "2025-06-03 14:00:19",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
-        "name": "Cowgirl",
-        "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
-      },
-      "artists": [
-        {
-          "name": "Hnygrl",
-          "url": "https://open.spotify.com/artist/62sLcRLz3ZDWMLJaZcsfE5"
-        },
-        {
-          "name": "Vrdnyn",
-          "url": "https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y"
-        }
-      ],
-      "duration_ms": 145741,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
-    },
-    {
-      "added_at": "2025-06-03 14:00:19",
-      "album": {
         "name": "Turn Up The Sunshine (PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack)",
         "url": "https://open.spotify.com/album/0TJtS7EZReyGKsyXn08eOc"
       },
@@ -1683,22 +1663,6 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/0TmsFeOuj0db0Mi4plBxB2"
-      },
-      "artists": [
-        {
-          "name": "Harry Hayes",
-          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
-        }
-      ],
-      "duration_ms": 150117,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/73hu23f3N0BQkwQ4Kp5aiq"
-    },
-    {
-      "added_at": "2025-06-03 14:00:19",
-      "album": {
         "name": "Everything In Its Right Place",
         "url": "https://open.spotify.com/album/0qpueDQNULFJYh1eQJYKhH"
       },
@@ -1719,6 +1683,42 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/0TmsFeOuj0db0Mi4plBxB2"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "duration_ms": 150117,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/73hu23f3N0BQkwQ4Kp5aiq"
+    },
+    {
+      "added_at": "2025-06-03 14:00:19",
+      "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
+      },
+      "artists": [
+        {
+          "name": "Hnygrl",
+          "url": "https://open.spotify.com/artist/62sLcRLz3ZDWMLJaZcsfE5"
+        },
+        {
+          "name": "Vrdnyn",
+          "url": "https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y"
+        }
+      ],
+      "duration_ms": 145741,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
+    },
+    {
+      "added_at": "2025-06-03 14:00:19",
+      "album": {
         "name": "Brain Freeze",
         "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
       },
@@ -1731,22 +1731,6 @@
       "duration_ms": 122094,
       "name": "Brain Freeze",
       "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
-    },
-    {
-      "added_at": "2025-06-03 14:00:19",
-      "album": {
-        "name": "In The Sweetness of You",
-        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "21",
-      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
     },
     {
       "added_at": "2025-06-03 14:00:19",
@@ -1767,6 +1751,22 @@
       "duration_ms": 215172,
       "name": "Beggin' You",
       "url": "https://open.spotify.com/track/110XNKlluGKyNDKlBle2XD"
+    },
+    {
+      "added_at": "2025-06-03 14:00:19",
+      "album": {
+        "name": "In The Sweetness of You",
+        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 233253,
+      "name": "21",
+      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
     },
     {
       "added_at": "2025-06-03 14:00:19",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2025-06-03 14:00:19",
       "album": {
+        "name": "Butterfly Wings (Franc Moody Remix)",
+        "url": "https://open.spotify.com/album/6Oo3cX5rOtUITuwQbjz4Wz"
+      },
+      "artists": [
+        {
+          "name": "FELIVAND",
+          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Butterfly Wings - Franc Moody Remix",
+      "url": "https://open.spotify.com/track/5iOOpXSpuKOcvrVMi28AIr"
+    },
+    {
+      "added_at": "2025-06-03 14:00:19",
+      "album": {
         "name": "TOMMY",
         "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 212521,
       "name": "TOMMY",
       "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
-    },
-    {
-      "added_at": "2025-06-03 14:00:19",
-      "album": {
-        "name": "The Remixes",
-        "url": "https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig"
-      },
-      "artists": [
-        {
-          "name": "Anakelly",
-          "url": "https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9"
-        },
-        {
-          "name": "Leo Portela",
-          "url": "https://open.spotify.com/artist/40sTBkcCMNcveOK4XprOYk"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Under The Milky Way - Leo Portela Remix",
-      "url": "https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB"
     }
   ],
   "unique_name": "Sunday Sessions",

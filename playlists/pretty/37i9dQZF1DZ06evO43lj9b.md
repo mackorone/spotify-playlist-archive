@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,319 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,324 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 36 | [For Real](https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 3:50 |
 | 37 | [Shadows of The East](https://open.spotify.com/track/5lZKoCghq9BWOU2i0qX7wk) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 3:39 |
 | 38 | [Sunshine \- Demo](https://open.spotify.com/track/3MD8QD5aVUjE7DsE5eBg7t) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 5:00 |
-| 39 | [The Boogie Back](https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Change Up The Groove](https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M) | 4:40 |
-| 40 | [Gravity \- Instrumental](https://open.spotify.com/track/0dCbGiiBc3Cf1QVtWgcdqE) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Instrumentals JID009](https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09) | 3:26 |
+| 39 | [Gravity \- Instrumental](https://open.spotify.com/track/0dCbGiiBc3Cf1QVtWgcdqE) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Instrumentals JID009](https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09) | 3:26 |
+| 40 | [The Boogie Back](https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Change Up The Groove](https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M) | 4:40 |
 | 41 | [Sunflowers](https://open.spotify.com/track/7ihSVr02gw15lcxPgpWClk) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 3:01 |
 | 42 | [What You Won't Do For Love](https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [No Stranger To Love](https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5) | 5:50 |
 | 43 | [In Time](https://open.spotify.com/track/6MXfEaPHJQEig5Saz4ew8I) | [Richard Earnshaw](https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra), [Erik Dillard](https://open.spotify.com/artist/1Zepv2yyM4iZMjIKoMmvnH), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In Time](https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E) | 8:43 |
 | 44 | [Escape \- From The "Coffy" Soundtrack](https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:18 |
-| 45 | [Day Dreaming](https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:34 |
+| 45 | [Ain't No Sunshine](https://open.spotify.com/track/3K4oV3E9NVN4NZBVnWBPRI) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 6:20 |
 | 46 | [Slip n' Slide](https://open.spotify.com/track/2sHB1OW8jMGQm6dwCa7OvL) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Might Be Surprised \(Expanded Edition\)](https://open.spotify.com/album/20uA7TJUzufXZrYiZArpE6) | 4:29 |
 | 47 | [Green and Gold](https://open.spotify.com/track/4Y2c8eFEjpo5Su3PYFSZaQ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity: Unreleased Recordings 1976 \- 1981](https://open.spotify.com/album/77xEWHwI4WAWyBszBTOQpU) | 4:52 |
 | 48 | [Poo Poo La La](https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In The Dark \(Expanded Edition\)](https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF) | 6:30 |
-| 49 | [Ain't No Sunshine](https://open.spotify.com/track/3K4oV3E9NVN4NZBVnWBPRI) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 6:20 |
+| 49 | [Day Dreaming](https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:34 |
 | 50 | [2000 Black](https://open.spotify.com/track/23IyKrW90Ocw0lrGofQ4l3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 5:21 |
 
-Snapshot ID: `aIAmAAAAAACqkw0j5bcXNVmQKgGcpjhz`
+Snapshot ID: `aIF3gAAAAABEGynNwGYPgXQdz9X6oWWE`

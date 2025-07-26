@@ -2,9 +2,9 @@
 
 ### [WOR K  OUT](https://open.spotify.com/playlist/37i9dQZF1DX3ZeFHRhhi7Y)
 
-> Workout to K\-Pop? Count me in! \(Cover: JEON SOMI\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
+> Workout to K\-Pop? Count me in! \(Cover: 이민혁\(HUTA\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-589 songs - 1 day 7 hr 30 min
+590 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [BOM BI DI BOM](https://open.spotify.com/track/5EnOA6tQsyPY7PCdS4A7O1) | [LUNARSOLAR](https://open.spotify.com/artist/64XtE3KrOhSYaS3dX04kI1) | [SOLAR : rise](https://open.spotify.com/album/45gnAAEGm2lmq8DPhoZfum) | 3:15 | 2022-01-05 | 2022-07-01 |
 | [Boom Boom Bass](https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 2:32 | 2024-07-25 | 2024-11-27 |
 | [BOOMERANG](https://open.spotify.com/track/0fAFOeAxAL5K8rZlLUMXQH) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [0+1=1 \(I PROMISE YOU\)](https://open.spotify.com/album/7ouvefHVfZlmsmynARuCoe) | 3:03 | 2022-03-22 | 2022-04-11 |
+| [Bora](https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [HOOK](https://open.spotify.com/album/2sro0GXELrNHRYkvju3mVE) | 2:15 | 2025-07-25 |  |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-04-30 |  |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2022-07-19 | 2024-04-19 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:49 | 2021-12-20 | 2022-07-29 |
@@ -185,7 +186,7 @@
 | [FIRST](https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Last Melody](https://open.spotify.com/album/4ZDUTnUO9CDFmwdCUCQ6dG) | 3:32 | 2021-12-20 | 2022-08-19 |
 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-22 | 2022-08-19 |
 | [Fly Up](https://open.spotify.com/track/4rRDmXBKB2X2Jnb8yLzAKZ) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/4YqJnxf3dYKhosGRrfoQQo) | 2:58 | 2025-05-27 | 2025-06-03 |
-| [FOREVER](https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B) | 3:32 | 2024-07-25 |  |
+| [FOREVER](https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B) | 3:32 | 2024-07-25 | 2025-07-26 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-12 | 2024-06-14 |
 | [Forever Yours](https://open.spotify.com/track/62txZsfsfNPkLDnnzZGRpu) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Forever Yours](https://open.spotify.com/album/7p9kyHQzs6rVOdlhhSaL06) | 3:29 | 2022-02-14 | 2022-05-23 |
 | [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-25 | 2023-02-06 |
@@ -388,7 +389,7 @@
 | [Pass me through](https://open.spotify.com/track/4sRHML9bBuDqNG0ws0Dthu) | [ClaD](https://open.spotify.com/artist/1wcpuACr4nnlIO4EXptG6t) | [Pass me through](https://open.spotify.com/album/0y3vTHgjW5DXY6S4GD3Wui) | 3:23 | 2021-12-20 | 2022-07-16 |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2023-11-03 |  |
 | [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 | 2022-06-10 | 2022-08-19 |
-| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2025-04-18 |
+| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 |  |
 | [Pirate](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Return of The Girl](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) | 3:30 | 2021-12-20 | 2023-01-17 |
 | [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 | 2022-03-22 | 2022-04-16 |
 | [Pivot \(Feat\. Armani White\)](https://open.spotify.com/track/54ltqcipQbEqZz3IhnzyB8) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Pivot \(Feat\. Armani White\)](https://open.spotify.com/album/1ycCc4K1haLD4RX3ZcgmLi) | 2:56 | 2024-11-21 | 2024-12-11 |
@@ -456,7 +457,7 @@
 | [SHOT CLOCK](https://open.spotify.com/track/35J5q8vdObi345b8NKm1CX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:29 | 2022-03-22 | 2022-04-13 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
 | [Side Effect \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/4bEQRIAxd6pRg4t32yzdge) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 2:56 | 2022-01-18 | 2022-07-23 |
-| [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 | 2025-04-30 |  |
+| [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 | 2025-04-30 | 2025-07-26 |
 | [Siren](https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Siren](https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO) | 2:27 | 2024-04-05 | 2024-06-26 |
 | [Siren](https://open.spotify.com/track/2EK48RuuE8HHMDzD2rEDqL) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/7KU9xZLinCIIHBDmeQbeDp) | 3:19 | 2022-03-22 | 2022-04-16 |
 | [Smart](https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Smart \(Remixes\)](https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh) | 2:46 | 2025-04-11 |  |

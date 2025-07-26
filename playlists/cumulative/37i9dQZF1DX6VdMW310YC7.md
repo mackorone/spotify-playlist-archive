@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,795 songs - 5 day 2 hr 16 min
+1,797 songs - 5 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,7 +540,7 @@
 | [Floating](https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Visage 5 \(Floating\)](https://open.spotify.com/album/7epHm3vYUTyuIjMj0HuU02) | 4:53 | 2022-08-05 | 2022-12-29 |
 | [Floodlights](https://open.spotify.com/track/25MUejD4yKny9H6Ho5CGE0) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Floodlights](https://open.spotify.com/album/2KKX05cLL1m0blKSrFKE5m) | 3:36 | 2024-07-02 | 2024-11-22 |
 | [Floral Decor](https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Floral Decor](https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX) | 4:08 | 2020-10-24 | 2022-07-29 |
-| [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 | 2024-03-29 |  |
+| [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 | 2024-03-29 | 2025-07-26 |
 | [Flutter \(Feat\. Madi\)](https://open.spotify.com/track/7FiQUNyXClHIoKoy2ct96M) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Madi](https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0) | [Flutter \(Feat\. Madi\)](https://open.spotify.com/album/762gMNCRrjyHEVuyUSQh4M) | 2:58 | 2020-05-22 | 2020-07-03 |
 | [Fly Away](https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX) | [Fly Away](https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB) | 2:38 | 2020-03-17 | 2020-10-10 |
 | [Flyby Vfr](https://open.spotify.com/track/4G3G1y9JmUsv4we3v7YapO) | [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [Compro](https://open.spotify.com/album/3yXIkSJWpudtgF0TZuB16U) | 5:28 | 2020-05-18 | 2020-10-09 |
@@ -876,7 +876,7 @@
 | [Lac de Soi](https://open.spotify.com/track/4CDThn846W8Jp8Xqznv5B8) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Lac de Soi](https://open.spotify.com/album/59FbwgMdBY4gC50lCcKThZ) | 4:59 | 2020-10-13 | 2021-01-11 |
 | [Lake Arrowhead \- Radio Mix](https://open.spotify.com/track/5vB9br9McVS3HWZd9LhWD8) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Lake Arrowhead EP](https://open.spotify.com/album/06WIiFArmoAHBCdFfQpz56) | 3:35 | 2020-05-18 | 2020-07-03 |
 | [Last Kiss](https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Glorious](https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL) | 2:45 | 2020-05-18 | 2021-12-21 |
-| [Last Train](https://open.spotify.com/track/1A6bEfaRMXp63TnVQ9srp1) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Last Train](https://open.spotify.com/album/2P3RrEtVEbAKZGpWDSpwx2) | 3:20 | 2025-05-30 |  |
+| [Last Train](https://open.spotify.com/track/1A6bEfaRMXp63TnVQ9srp1) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Last Train](https://open.spotify.com/album/2P3RrEtVEbAKZGpWDSpwx2) | 3:20 | 2025-05-30 | 2025-07-26 |
 | [Late Delivery](https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Late Delivery](https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552) | 3:22 | 2021-03-14 | 2022-07-28 |
 | [Late Night](https://open.spotify.com/track/5Nu5Uyoauauy9LFePYL1Z3) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 3:48 | 2020-02-29\* | 2020-03-16 |
 | [Late Thinking](https://open.spotify.com/track/6swtIhcGLoHgQmVcvpeMOL) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Late Thinking](https://open.spotify.com/album/5n3P9cGAzvyjl9pkml45MP) | 3:25 | 2020-10-23 | 2020-11-03 |
@@ -1364,6 +1364,7 @@
 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 | 2023-02-17 | 2024-03-23 |
 | [See You In Dreams](https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [See You In Dreams](https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz) | 4:31 | 2024-06-21 | 2025-06-20 |
 | [Seeker](https://open.spotify.com/track/6weYVdQPXtbS7CjdCdBgZs) | [Dual Manner](https://open.spotify.com/artist/5PwyPUA68oTVythcReHzXy) | [Seeker](https://open.spotify.com/album/4keAjNKZJURwQIgMIkzthP) | 4:57 | 2020-07-18 | 2020-10-09 |
+| [Self Control](https://open.spotify.com/track/1vfBfRJaHRFVRRYMoJNg7N) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lilly](https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb) | [Self Control](https://open.spotify.com/album/03xh8sZqJDe50mUiEqk7Ni) | 2:52 | 2025-07-25 |  |
 | [self\-love](https://open.spotify.com/track/20Qufms0u6e9mHprf81SzX) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/0OVyWmEdWlSrG2EcbkXjt4) | 2:23 | 2021-03-10 | 2021-06-19 |
 | [Senses of Comfort](https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Senses of Comfort](https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6) | 3:11 | 2025-07-11 |  |
 | [Sentir](https://open.spotify.com/track/5xb2vxUeGJ7Yeclvfaq1O8) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Temporary Love](https://open.spotify.com/album/3CqVFoJ77PdxzkiXxm8gjG) | 2:20 | 2021-11-12 | 2022-12-29 |
@@ -1528,6 +1529,7 @@
 | [Sweet Release](https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Sweet Release](https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO) | 3:46 | 2024-11-29 |  |
 | [Sweettalk my Heart \- Jeremy Olander Remix](https://open.spotify.com/track/3XPiumgtBwJskmYXIq2mS6) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Sweettalk my Heart \(Jeremy Olander Remix\)](https://open.spotify.com/album/0ePWnEpFXnRM4Fwy0Bjkvr) | 7:38 | 2020-02-29\* | 2020-03-16 |
 | [Swim](https://open.spotify.com/track/7GhZOVHHIMUWzLotMJUprl) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [SWIM](https://open.spotify.com/album/5hSqPbILJB2dTobKBIH7cX) | 4:39 | 2020-03-20 | 2022-04-21 |
+| [Swimming In The Dark](https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Swimming In The Dark](https://open.spotify.com/album/0hHiinOoKYHG3k3Ifn4rxw) | 3:56 | 2025-07-25 |  |
 | [Syria \- Original](https://open.spotify.com/track/3rkge8kur9i26zpByFKvBu) | [Unders](https://open.spotify.com/artist/58wDbO29TUyzGTz7gZqOue) | [Syria](https://open.spotify.com/album/63QglWXaVZfTcFOKvgIi54) | 8:03 | 2020-05-23 | 2020-07-03 |
 | [Tack](https://open.spotify.com/track/6tychoyxfxwMzKh997Diq6) | [Metno](https://open.spotify.com/artist/0pBhRrXwzL1aWYXIJYm4NO) | [Tack](https://open.spotify.com/album/2bkVSBlBhklld7YgLrHq0H) | 4:24 | 2020-05-20 | 2020-08-06 |
 | [Take](https://open.spotify.com/track/1w5y06ufX6ji1rkNUI0Gd4) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Take](https://open.spotify.com/album/0TATPYRp07mP5s8qhlYBBn) | 3:16 | 2020-05-18 | 2020-07-03 |

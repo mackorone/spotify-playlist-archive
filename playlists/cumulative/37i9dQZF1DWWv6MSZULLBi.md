@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Georgia Harmer
 
-1,232 songs - 3 day 2 hr 16 min
+1,233 songs - 3 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,6 +606,7 @@
 | [lagunas](https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [lagunas](https://open.spotify.com/album/1pCNxr8UOeAaWuJ67ZFsfx) | 3:39 | 2023-12-22 | 2024-04-06 |
 | [last woman on earth](https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:19 | 2024-08-30 | 2024-11-16 |
 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 | 2023-07-07 | 2023-12-16 |
+| [Lay Your Head on Me](https://open.spotify.com/track/2y8zw6ulvnyDxLZv6adJCY) | [Somewhere In Between](https://open.spotify.com/artist/6ilkFAfRoOmI4ESHfmdrCA) | [Lay Your Head on Me](https://open.spotify.com/album/1hgMBq5qbb81MsziCGm1VH) | 3:35 | 2025-07-24 |  |
 | [Lazy River](https://open.spotify.com/track/48BvKO5IOnwr8EDzKQNcIU) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Lazy River](https://open.spotify.com/album/5JvVAYl9FDztt3pFlFl1iT) | 3:54 | 2023-02-10 | 2023-07-08 |
 | [Leave When You Go](https://open.spotify.com/track/0SXeE6kClNXeYd4o5blyZZ) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Big Hurt Boy](https://open.spotify.com/album/7h0oaV6ce42bamO6hkywcz) | 3:30 | 2022-05-13 | 2022-06-25 |
 | [Leave You Lonely](https://open.spotify.com/track/4rMaibSlgAUHJD9myTJrKD) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Leave You Lonely](https://open.spotify.com/album/19bm8NFFMHcj3QaqBfq9Es) | 4:24 | 2022-08-19 | 2022-09-24 |

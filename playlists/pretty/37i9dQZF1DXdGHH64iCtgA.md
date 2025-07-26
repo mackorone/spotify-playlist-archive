@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,865 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,878 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 48 | [Return to Oz](https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic](https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8) | 7:12 |
 | 49 | [Famous Monsters](https://open.spotify.com/track/0K5tCOHMG1GN4HsBTOljKm) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Famous Monsters](https://open.spotify.com/album/2TMoP7QgyGeRuortBdbOuQ) | 6:37 |
 | 50 | [Paris to Milan](https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Paris to Milan](https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U) | 1:52 |
-| 51 | [Sharevari](https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b) | [Aidan Noell](https://open.spotify.com/artist/7oAY9XKP6pjl3hIjvuoRCm), [Nancy Whang](https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B) | [Sharevari](https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l) | 5:51 |
-| 52 | [Romance Noire](https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8) | [Double Mixte](https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR) | [Romance Noire](https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD) | 5:12 |
-| 53 | [Beograd \- Edit](https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Thirst](https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y) | 3:36 |
-| 54 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
+| 51 | [Romance Noire](https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8) | [Double Mixte](https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR) | [Romance Noire](https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD) | 5:12 |
+| 52 | [Sharevari](https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b) | [Aidan Noell](https://open.spotify.com/artist/7oAY9XKP6pjl3hIjvuoRCm), [Nancy Whang](https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B) | [Sharevari](https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l) | 5:51 |
+| 53 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
+| 54 | [Beograd \- Edit](https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Thirst](https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y) | 3:36 |
 | 55 | [Helix \- Gesaffelstein Vision Remix](https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Helix](https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH) | 4:36 |
 | 56 | [Silhouettes \(I, II, III\)](https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 10:42 |
 | 57 | [So Right](https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Working Class Woman](https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh) | 5:06 |
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 80 | [Time Stands Still](https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Time Warps](https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE) | 16:37 |
 | 81 | [Orvnge](https://open.spotify.com/track/0rG5nqOJMU8uEqq4RGC7oN) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Orvnge](https://open.spotify.com/album/2gC6Mski1UzwVTwdbUAQPU) | 4:22 |
 | 82 | [Eat The Runway](https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [Eat The Runway](https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0) | 3:08 |
-| 83 | [Never Sleep](https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT) | [Gabber Eleganza](https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd) | [Never Sleep \#1](https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom) | 4:53 |
-| 84 | [1 Bump](https://open.spotify.com/track/0qw6U1nveUfBG6wggthDt8) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [1 Bump](https://open.spotify.com/album/7FPkZoWVcrTs8fN48C3ayy) | 3:13 |
-| 85 | [Fierce](https://open.spotify.com/track/6xbSap2nySRGj1XEptt4Tn) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE) | [Late Night Specialist](https://open.spotify.com/album/0kNtppJqchGWOfKTF1qEQJ) | 6:02 |
-| 86 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 |
+| 83 | [1 Bump](https://open.spotify.com/track/0qw6U1nveUfBG6wggthDt8) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [1 Bump](https://open.spotify.com/album/7FPkZoWVcrTs8fN48C3ayy) | 3:13 |
+| 84 | [Never Sleep](https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT) | [Gabber Eleganza](https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd) | [Never Sleep \#1](https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom) | 4:53 |
+| 85 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 |
+| 86 | [Fierce](https://open.spotify.com/track/6xbSap2nySRGj1XEptt4Tn) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE) | [Late Night Specialist](https://open.spotify.com/album/0kNtppJqchGWOfKTF1qEQJ) | 6:02 |
 | 87 | [Satisfaction](https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [TWINSOUL](https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9) | 3:35 |
 | 88 | [Prada Spring / Summer 2019 Women’s Campaign: Double Exposure \(Belle\)](https://open.spotify.com/track/6oHfHOnAFfDNb0qP5gQkDv) | [Frédéric Sanchez](https://open.spotify.com/artist/16rTkguiJ27TAk55LwpCv9) | [Prada Spring / Summer 2019 Women’s Campaign: Double Exposure \(Belle\)](https://open.spotify.com/album/4OnAzwcid2wtjw5Tah9Ae2) | 1:22 |
 | 89 | [E](https://open.spotify.com/track/21wXCpWHhImzz4KYHxQ71q) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [E](https://open.spotify.com/album/1t624lyAzfA49IztYeL8WA) | 4:12 |

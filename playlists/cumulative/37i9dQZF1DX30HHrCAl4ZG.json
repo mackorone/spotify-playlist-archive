@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Rainbow Kitten Surprise",
+  "description": "Explore all things indie rock right now. Featuring music from Wet Leg",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -3516,7 +3516,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 173880,
       "name": "Better Than You",
       "url": "https://open.spotify.com/track/4sMCKzFh4IWLiYiSLiR9lq"
@@ -6184,7 +6184,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 220826,
       "name": "Chamomile",
       "url": "https://open.spotify.com/track/5xaiU9nNP58J5tmFvsRXf2"
@@ -7608,6 +7608,24 @@
       "duration_ms": 379400,
       "name": "Crispy Skin",
       "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
+    },
+    {
+      "album": {
+        "name": "Cross My Heart and Hope to Die",
+        "url": "https://open.spotify.com/album/46Y78DdMPxI4Vt0LAW2RnO"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194480,
+      "name": "Cross My Heart and Hope to Die",
+      "url": "https://open.spotify.com/track/6bBv0aGohueaTw6KaLVWUD"
     },
     {
       "album": {
@@ -11654,7 +11672,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 282293,
       "name": "Final Days",
       "url": "https://open.spotify.com/track/74ue3r7ClSh6QRWqcPJdGl"
@@ -14255,6 +14273,24 @@
     },
     {
       "album": {
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/2uZThExDEyJehRp7JnQwB5"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188133,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/66h3Yhag0c7N40tVcnHI9o"
+    },
+    {
+      "album": {
         "name": "The Hard Quartet",
         "url": "https://open.spotify.com/album/7tCKr50KVtUpGHGlWMhBsR"
       },
@@ -14418,6 +14454,28 @@
       "duration_ms": 211855,
       "name": "Highlands",
       "url": "https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6"
+    },
+    {
+      "album": {
+        "name": "Classic Love (ep)",
+        "url": "https://open.spotify.com/album/6AKsAJOKcpD8khaDacJv7j"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        },
+        {
+          "name": "Luke Roberts",
+          "url": "https://open.spotify.com/artist/6wAZyC0IbyHiQ7yJrI15zb"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363024,
+      "name": "hit of the highlife",
+      "url": "https://open.spotify.com/track/0M9kAFtdEmi5WjKXiAtjdL"
     },
     {
       "album": {
@@ -17330,7 +17388,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 152571,
       "name": "Jennifer's Body",
       "url": "https://open.spotify.com/track/64R0m9KpCEmQxumJU3ZlCj"
@@ -18734,7 +18792,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 194387,
       "name": "Lights Fall",
       "url": "https://open.spotify.com/track/1W8cWE4mphc5mmCqaRhACZ"
@@ -24283,6 +24341,24 @@
     },
     {
       "album": {
+        "name": "Pick Up That Knife",
+        "url": "https://open.spotify.com/album/1s702unXFRlxgzQ5uZfAp0"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261164,
+      "name": "Pick Up That Knife",
+      "url": "https://open.spotify.com/track/5ZcOoawIU0JU1se1prra62"
+    },
+    {
+      "album": {
         "name": "For Melancholy Brunettes (& sad women)",
         "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
       },
@@ -24294,7 +24370,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 178213,
       "name": "Picture Window",
       "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
@@ -26567,6 +26643,24 @@
     },
     {
       "album": {
+        "name": "say something",
+        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144544,
+      "name": "say something",
+      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
+    },
+    {
+      "album": {
         "name": "Say You Will",
         "url": "https://open.spotify.com/album/53BvCzNQgSZyQyhkai2Zdy"
       },
@@ -26828,6 +26922,24 @@
       "duration_ms": 130043,
       "name": "Seth Cohen",
       "url": "https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV"
+    },
+    {
+      "album": {
+        "name": "Iron",
+        "url": "https://open.spotify.com/album/1I37eoXjALZ9dOLeYOgJdQ"
+      },
+      "artists": [
+        {
+          "name": "Post Animal",
+          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306007,
+      "name": "Setting Sun",
+      "url": "https://open.spotify.com/track/4bUHiFK6oq9Io4fAZPWSwW"
     },
     {
       "album": {
@@ -32244,7 +32356,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 150840,
       "name": "Tomatoes",
       "url": "https://open.spotify.com/track/418mJEfJMD9uspXtjFy0Kf"
@@ -34302,6 +34414,24 @@
       "duration_ms": 247893,
       "name": "What Do We Do Now?",
       "url": "https://open.spotify.com/track/06HgiR8nOgQaXuQQdGQbS9"
+    },
+    {
+      "album": {
+        "name": "What Do We Ever Really Know?",
+        "url": "https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "What Do We Ever Really Know?",
+      "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,989 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,011 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 26 | [Nothing's in Vain](https://open.spotify.com/track/0xnM5pDBgHR1D76VZ6H0No) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:48 |
 | 27 | [Somnus](https://open.spotify.com/track/6wTVlrLR2qyEAbEuyoS7b2) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 2:29 |
 | 28 | [Enemy Attack](https://open.spotify.com/track/7oQxntBpX9Fh6kO8njQpke) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:41 |
-| 29 | [Servants of the Mountain](https://open.spotify.com/track/0d3mX4cZEucXC2TNYtGpix) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 4:42 |
-| 30 | [Oblivion](https://open.spotify.com/track/11fITg5u1NddciKuiIXEst) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [Before the Fall: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/49PRWA2vUs2zT6jlq8RC4Q) | 7:59 |
+| 29 | [Oblivion](https://open.spotify.com/track/11fITg5u1NddciKuiIXEst) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [Before the Fall: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/49PRWA2vUs2zT6jlq8RC4Q) | 7:59 |
+| 30 | [Servants of the Mountain](https://open.spotify.com/track/0d3mX4cZEucXC2TNYtGpix) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 4:42 |
 | 31 | [Once more Dance?](https://open.spotify.com/track/0bWkl7zJp2CLvE7BSPb71x) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:45 |
 | 32 | [APOCALYPSIS NOCTIS](https://open.spotify.com/track/21Bvy2KqGLO0f3QVgvruru) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 4:14 |
 | 33 | [Run !!](https://open.spotify.com/track/1jcYcW06CNvqtWoZrd8LdV) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:40 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 59 | [Melodies of Life \(The Layers of Harmony\)](https://open.spotify.com/track/3hEv7v0JaBnd2ozqUmjwct) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 3:21 |
 | 60 | [Starting Over](https://open.spotify.com/track/2v7T65sRJlhytPQSqrnQ6L) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:21 |
 | 61 | [Worlds Collide](https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r) | [David Whitaker](https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:22 |
-| 62 | [New Bodhum](https://open.spotify.com/track/0i7fBwgtVxfYsWtEIro1Wz) | [ORIGA](https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:39 |
-| 63 | [The Last Hunter](https://open.spotify.com/track/6YzCZVtNNSvy4o53RIMVj6) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:38 |
+| 62 | [The Last Hunter](https://open.spotify.com/track/6YzCZVtNNSvy4o53RIMVj6) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:38 |
+| 63 | [New Bodhum](https://open.spotify.com/track/0i7fBwgtVxfYsWtEIro1Wz) | [ORIGA](https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:39 |
 | 64 | [Shield of the King \- Theme of EPISODE GLADIOLUS](https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:16 |
 | 65 | [Yeul's Theme](https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 6:45 |
 | 66 | [Trisection](https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 2:37 |

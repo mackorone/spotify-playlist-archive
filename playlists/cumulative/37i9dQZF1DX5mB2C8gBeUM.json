@@ -789,6 +789,24 @@
     },
     {
       "album": {
+        "name": "BAD NIGHT (KARMA)",
+        "url": "https://open.spotify.com/album/6bJOE6tYcQMuLZOnd18bJa"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161626,
+      "name": "BAD NIGHT - KARMA",
+      "url": "https://open.spotify.com/track/6Zg5qaK9R5b3bVOsCcC0nt"
+    },
+    {
+      "album": {
         "name": "Bad Posture",
         "url": "https://open.spotify.com/album/2uA638e2EeOviOr7ZZ15Zi"
       },
@@ -3154,7 +3172,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 186961,
       "name": "First Rodeo",
       "url": "https://open.spotify.com/track/2I75JDeFu2xQ1FaSU4otFO"
@@ -4750,7 +4768,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 168117,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk"
@@ -6036,6 +6054,32 @@
       "duration_ms": 192000,
       "name": "Me, Myself, and Wine",
       "url": "https://open.spotify.com/track/7eAtibYWYUJWgIcYA4Rke2"
+    },
+    {
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/03xHAanKM1Tt39480qsiOw"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217631,
+      "name": "Miami (feat. Lil Wayne & Rick Ross)",
+      "url": "https://open.spotify.com/track/1j6a5zJGhyBlrvqsszBEeF"
     },
     {
       "album": {

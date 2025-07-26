@@ -5827,6 +5827,24 @@
     },
     {
       "album": {
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/2cC5JjuUqSW7eHSqnQf0Vx"
+      },
+      "artists": [
+        {
+          "name": "Bodhi Bleu",
+          "url": "https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155915,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/0jdAgB8vt0ed8MYN7xnCep"
+    },
+    {
+      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },

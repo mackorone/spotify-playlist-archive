@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Panda, Ícaro e Gilmar
+> O melhor do sertanejo em uma só playlist! Foto: Clayton & Romário
 
 326 songs - 15 hr 17 min
 

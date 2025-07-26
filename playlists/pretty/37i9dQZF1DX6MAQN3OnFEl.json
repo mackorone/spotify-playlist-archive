@@ -1,6 +1,6 @@
 {
   "description": "On October 3rd he asked me what day it was",
-  "num_followers": 553292,
+  "num_followers": 553653,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 214440,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Dirty Little Secret",
+      "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
         "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Dirty Little Secret",
-      "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
+        "name": "J.Lo",
+        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Love Don't Cost a Thing",
+      "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 298853,
       "name": "Dirrty (feat. Redman)",
       "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
-        "name": "J.Lo",
-        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "Love Don't Cost a Thing",
-      "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Whoa, Nelly!",
-        "url": "https://open.spotify.com/album/23pjCUj0AFDWNgh9uto3yR"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "I'm Like A Bird",
-      "url": "https://open.spotify.com/track/4sUoWHVnJl8z3t4zdqf6xB"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Celebrity",
         "url": "https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 238426,
       "name": "Pop",
       "url": "https://open.spotify.com/track/0Jc8qF1mUPo1A96HE9QxZz"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Whoa, Nelly!",
+        "url": "https://open.spotify.com/album/23pjCUj0AFDWNgh9uto3yR"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "I'm Like A Bird",
+      "url": "https://open.spotify.com/track/4sUoWHVnJl8z3t4zdqf6xB"
     },
     {
       "added_at": "2024-07-12 21:13:59",

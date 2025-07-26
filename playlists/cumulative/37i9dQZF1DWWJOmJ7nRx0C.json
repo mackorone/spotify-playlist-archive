@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Black Veil Brides",
+  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Three Days Grace",
   "name": "VOLUME",
   "tracks": [
     {
@@ -5322,6 +5322,24 @@
       "duration_ms": 186319,
       "name": "Crows",
       "url": "https://open.spotify.com/track/3LUuYmLk8kDRjN6CmCKFME"
+    },
+    {
+      "album": {
+        "name": "Crucify",
+        "url": "https://open.spotify.com/album/1mPzNmdSbkbz4v1YzXjWni"
+      },
+      "artists": [
+        {
+          "name": "Holy Wars",
+          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Crucify",
+      "url": "https://open.spotify.com/track/6bUNY7lUlTazcpb9xKv0Se"
     },
     {
       "album": {
@@ -12981,6 +12999,24 @@
     },
     {
       "album": {
+        "name": "Kill Me Fast",
+        "url": "https://open.spotify.com/album/4E6FXPPGQhdtBEHRyky87y"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Kill Me Fast",
+      "url": "https://open.spotify.com/track/7C7riddHoIPSCW8rhwFSYc"
+    },
+    {
+      "album": {
         "name": "Kill Or Be Killed",
         "url": "https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX"
       },
@@ -16269,6 +16305,24 @@
     },
     {
       "album": {
+        "name": "New Disease",
+        "url": "https://open.spotify.com/album/23L4tjuxXU9eTZ1Zs1VZDf"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193329,
+      "name": "New Disease",
+      "url": "https://open.spotify.com/track/17mzKJARvVNR7eDyPqBpIG"
+    },
+    {
+      "album": {
         "name": "New Era",
         "url": "https://open.spotify.com/album/3NnxQ5HSHpZGl0MCyVEwFA"
       },
@@ -17612,7 +17666,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 187862,
       "name": "Overdose - feat. Blindside",
       "url": "https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ"
@@ -18766,7 +18820,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 194493,
       "name": "Puppets Can\u2019t Control You",
       "url": "https://open.spotify.com/track/1J5xY3cpHnTnfPTkUnktwI"
@@ -25010,7 +25064,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 194653,
       "name": "TOMBSTONE TOWN (feat. Slash)",
       "url": "https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi"

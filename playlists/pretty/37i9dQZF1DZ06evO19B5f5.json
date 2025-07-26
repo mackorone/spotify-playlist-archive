@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAADHOY1kSv/QUbmC3RtX/INj",
+  "snapshot_id": "aIF3gAAAAACoffQrQemCf3acbJyGVsIJ",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad People",
+        "url": "https://open.spotify.com/album/49zAhCFGgaSPWJJHUvzNec"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 196660,
+      "name": "Bad People",
+      "url": "https://open.spotify.com/track/2CMA6mhqGhVSn6EQ1StxOa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ghost World",
         "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 201653,
       "name": "Tobacco In My Sheets",
       "url": "https://open.spotify.com/track/4p6IFaIofYYRHrJlLq8MyY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "Lovers Or Liars",
-      "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad People",
-        "url": "https://open.spotify.com/album/49zAhCFGgaSPWJJHUvzNec"
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 196660,
-      "name": "Bad People",
-      "url": "https://open.spotify.com/track/2CMA6mhqGhVSn6EQ1StxOa"
+      "duration_ms": 234173,
+      "name": "Lovers Or Liars",
+      "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 246888,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/1MNevc3dOPDPRZ3SinWfje"
+      "duration_ms": 258598,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 202848,
-      "name": "Suddenly Strangers",
-      "url": "https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ"
+      "duration_ms": 246888,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/1MNevc3dOPDPRZ3SinWfje"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,900 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,915 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,16 +27,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 17 | [幾乎是愛情](https://open.spotify.com/track/2dbWZvUkVW7ahyIO7UYUxs) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [Almost 幾乎是愛情](https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O) | 4:13 |
 | 18 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:44 |
 | 19 | [想自由](https://open.spotify.com/track/2fLoz0Qd1sgcHVkrBAzAHn) | [王安宇](https://open.spotify.com/artist/75CDjVdcyafrJRwNITgluf) | [想自由](https://open.spotify.com/album/0ThGbiZgtDmXPARkCXMTBV) | 4:28 |
-| 20 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
-| 21 | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/track/1jwwyhTZw5QRFnCCmCdhT5) | [任素汐](https://open.spotify.com/artist/16rAFXQVz2WBpTH9uc1LA8) | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/album/28AEcP8tdN1A6PILfT1r3j) | 3:55 |
+| 20 | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/track/1jwwyhTZw5QRFnCCmCdhT5) | [任素汐](https://open.spotify.com/artist/16rAFXQVz2WBpTH9uc1LA8) | [亲爱的你啊（电视剧《无尽的尽头》主题曲）](https://open.spotify.com/album/28AEcP8tdN1A6PILfT1r3j) | 3:55 |
+| 21 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
 | 22 | [空拍 \(Pause ll\)](https://open.spotify.com/track/18Wo0xpaHdT0p5ay6mnJjs) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [空拍 / 米蟲 \(Pause ll / Bugtato\)](https://open.spotify.com/album/49PataWKutkBZV6zzjMmy3) | 4:26 |
-| 23 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
-| 24 | [想和你說說話](https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [愛的對白](https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV) | 3:05 |
+| 23 | [想和你說說話](https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [愛的對白](https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV) | 3:05 |
+| 24 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
 | 25 | [左邊的人](https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [左邊的人](https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq) | 3:36 |
 | 26 | [在加納共和國離婚 \- Acoustic Version](https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚 \(Acoustic Version\)](https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH) | 3:56 |
 | 27 | [決定不想你](https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D) | 4:01 |
-| 28 | [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 |
-| 29 | [未來的昨天](https://open.spotify.com/track/4jyTcsOeWdD6U0oKdtP2S3) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [未來的昨天](https://open.spotify.com/album/038yDT1NquW3Cqg8X0Zllb) | 3:46 |
+| 28 | [未來的昨天](https://open.spotify.com/track/4jyTcsOeWdD6U0oKdtP2S3) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [未來的昨天](https://open.spotify.com/album/038yDT1NquW3Cqg8X0Zllb) | 3:46 |
+| 29 | [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 |
 | 30 | [禱文 \- OT：言不由衷](https://open.spotify.com/track/1rmOhrRj8cFpb7KEDqtdVc) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [我偷的故事](https://open.spotify.com/album/0OGS09WUGC1WubJhoSAUYJ) | 3:09 |
 | 31 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 |
 | 32 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 43 | [年輪說](https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [冊葉一：一與一](https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG) | 4:55 |
 | 44 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
 | 45 | [等待你那天](https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [等待你那天](https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw) | 4:00 |
-| 46 | [答案是你 \(戲劇《靈魂約定》主題曲\)](https://open.spotify.com/track/4JzSTAQH9SlSAYaTXv9xfB) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [答案是你](https://open.spotify.com/album/3nxIxsZVH1LsUVLknPkKN0) | 2:41 |
-| 47 | [青空未來](https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [青空未來](https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR) | 4:15 |
+| 46 | [青空未來](https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [青空未來](https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR) | 4:15 |
+| 47 | [答案是你 \(戲劇《靈魂約定》主題曲\)](https://open.spotify.com/track/4JzSTAQH9SlSAYaTXv9xfB) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [答案是你](https://open.spotify.com/album/3nxIxsZVH1LsUVLknPkKN0) | 2:41 |
 | 48 | [空城記](https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [CHIN UP!](https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3) | 3:09 |
 | 49 | [如果我還剩一件事情可以做](https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [重拾\_快樂](https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm) | 4:09 |
 | 50 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |

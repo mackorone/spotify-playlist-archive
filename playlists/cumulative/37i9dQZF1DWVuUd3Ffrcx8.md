@@ -4,7 +4,7 @@
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: <br/>Sam Smith\)
 
-586 songs - 1 day 7 hr 42 min
+587 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-01-23 | 2025-03-05 |
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-18 | 2024-09-06 |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-25 | 2024-10-11 |
-| [Hachikō](https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hachikō](https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR) | 4:30 | 2025-06-12 |  |
+| [Hachikō](https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hachikō](https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR) | 4:30 | 2025-06-12 | 2025-07-26 |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-06-28 | 2024-07-12 |
 | [Hand That Feeds \- From the Film Ballerina](https://open.spotify.com/track/0svd9Ojc1lK8tmp7bRwO7N) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Hand That Feeds \(From the Film Ballerina\)](https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg) | 3:06 | 2025-05-08 | 2025-06-20 |
 | [Hannah Montana \(with NLE Choppa & DaBaby\)](https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:17 | 2024-12-26 | 2025-02-14 |
@@ -565,6 +565,7 @@
 | [Whenever](https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Whenever](https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx) | 2:45 | 2025-04-30 | 2025-05-30 |
 | [Where Did You Go? \- Bonus Track](https://open.spotify.com/track/6vLs1SrgbJkCclbn1Hqhyd) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:02 | 2025-05-29 | 2025-07-11 |
 | [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 | 2024-12-19 | 2025-02-14 |
+| [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 | 2025-07-25 |  |
 | [White Wine & Adderall](https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [White Wine & Adderall](https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK) | 2:58 | 2025-07-10 |  |
 | [WHITNEY](https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WHITNEY](https://open.spotify.com/album/36M4NAbKJBDPIJbzWcJHDw) | 2:44 | 2024-09-19 | 2024-11-29 |
 | [Who Knew Dancing Was A Sin](https://open.spotify.com/track/09qCrdsapK16DbhzFBzvMA) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Who Knew Dancing Was A Sin](https://open.spotify.com/album/2agANvTRbWcM7wzBgaSRFA) | 3:14 | 2025-05-22 | 2025-07-03 |

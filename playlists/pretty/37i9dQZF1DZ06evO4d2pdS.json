@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABJfxyvSxySuW/UJeKGcj4F",
+  "snapshot_id": "aIF3gAAAAADDSskc12YcWOmLO70nTH+1",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Distractions",
-        "url": "https://open.spotify.com/album/2joAdhMvatZfWwfOSzzxLe"
-      },
-      "artists": [
-        {
-          "name": "Trapboy Freddy",
-          "url": "https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 105359,
-      "name": "Buss It Open (feat. Lakeyah)",
-      "url": "https://open.spotify.com/track/0Ps4MNq0PYDasTbmF3Uorq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raw Btch",
         "url": "https://open.spotify.com/album/3Fb4B4fjf7MuePkflCsZ1a"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 161705,
       "name": "Raw Btch",
       "url": "https://open.spotify.com/track/38KjYLWUWylehWT4KKdadU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Distractions",
+        "url": "https://open.spotify.com/album/2joAdhMvatZfWwfOSzzxLe"
+      },
+      "artists": [
+        {
+          "name": "Trapboy Freddy",
+          "url": "https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 105359,
+      "name": "Buss It Open (feat. Lakeyah)",
+      "url": "https://open.spotify.com/track/0Ps4MNq0PYDasTbmF3Uorq"
     },
     {
       "added_at": null,
@@ -227,6 +227,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 141512,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7nOkNaXqygqopH34aDBmUl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bitch Duh feat. BIA (Remix)",
         "url": "https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 172235,
       "name": "Bitch Duh feat. BIA (Remix)",
       "url": "https://open.spotify.com/track/5CPF2Jw41O6f1DV0jQc6vp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 141512,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/7nOkNaXqygqopH34aDBmUl"
     },
     {
       "added_at": null,
@@ -315,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure (Pt. 2)",
-        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Maneuver (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Due Time",
         "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 154230,
       "name": "Poppin",
       "url": "https://open.spotify.com/track/2ALg7dHbjG6S2HrlRN8n6R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Maneuver (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure (Pt. 2)",
-        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 113450,
-      "name": "I Look Good",
-      "url": "https://open.spotify.com/track/1qk4oqAEOI0cN8D1J9ato9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Due Time",
         "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 152094,
       "name": "Young and Ratchet",
       "url": "https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 113450,
+      "name": "I Look Good",
+      "url": "https://open.spotify.com/track/1qk4oqAEOI0cN8D1J9ato9"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure (Pt. 2)",
-        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Layton Greene",
-          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
-        }
-      ],
-      "duration_ms": 166730,
-      "name": "Brand New (feat. Layton Green)",
-      "url": "https://open.spotify.com/track/6PBAfbHMqlHWOKon7Uyqdc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Due Time",
         "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
       },
@@ -499,22 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "310degrees",
-        "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
       },
       "artists": [
         {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
         }
       ],
-      "duration_ms": 124903,
-      "name": "look easy",
-      "url": "https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV"
+      "duration_ms": 166730,
+      "name": "Brand New (feat. Layton Green)",
+      "url": "https://open.spotify.com/track/6PBAfbHMqlHWOKon7Uyqdc"
     },
     {
       "added_at": null,
@@ -539,26 +519,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ"
+        "name": "310degrees",
+        "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
       },
       "artists": [
         {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 124903,
+      "name": "look easy",
+      "url": "https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Ratchet",
+        "url": "https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp"
+      },
+      "artists": [
+        {
+          "name": "Tae The Don",
+          "url": "https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5"
         },
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         },
         {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
         }
       ],
-      "duration_ms": 217731,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2"
+      "duration_ms": 141030,
+      "name": "Get Ratchet",
+      "url": "https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u"
     },
     {
       "added_at": null,
@@ -583,6 +583,30 @@
       "duration_ms": 149938,
       "name": "313-414 (feat. Tee Grizzley)",
       "url": "https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        }
+      ],
+      "duration_ms": 217731,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2"
     },
     {
       "added_at": null,
@@ -615,30 +639,6 @@
       "duration_ms": 165517,
       "name": "WANT EM HOOD",
       "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Ratchet",
-        "url": "https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp"
-      },
-      "artists": [
-        {
-          "name": "Tae The Don",
-          "url": "https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Kash Doll",
-          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
-        }
-      ],
-      "duration_ms": 141030,
-      "name": "Get Ratchet",
-      "url": "https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Hesitation",
-        "url": "https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 133903,
-      "name": "No Hesitation",
-      "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Not Me It's You (Deluxe)",
         "url": "https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 161684,
       "name": "Rich Bitch (feat. Lakeyah & Coi Leray)",
       "url": "https://open.spotify.com/track/0KIxQnTtdBtQmLA3oXzFEB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Hesitation",
+        "url": "https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 133903,
+      "name": "No Hesitation",
+      "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95891,
+  "num_followers": 95896,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAAC7wP2vVI82Hyj06je1PLH+",
+  "snapshot_id": "aIF3gAAAAACRpzUrf+iyDvXiF2YLw04O",
   "tracks": [
     {
       "added_at": null,
@@ -479,30 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip Season 3 (Deluxe)",
-        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 219816,
-      "name": "Car Sick (feat. NAV & Metro Boomin)",
-      "url": "https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NAV",
         "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
@@ -547,18 +523,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE (DELUXE)",
-        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
+        "name": "Drip Season 3 (Deluxe)",
+        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
       },
       "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 138413,
-      "name": "LIFT SERVICE",
-      "url": "https://open.spotify.com/track/0LMKihVCUC6ZipHLX1HIb1"
+      "duration_ms": 219816,
+      "name": "Car Sick (feat. NAV & Metro Boomin)",
+      "url": "https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am"
     },
     {
       "added_at": null,
@@ -583,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+        "name": "OMW2 REXDALE (DELUXE)",
+        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
       },
       "artists": [
         {
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 145121,
-      "name": "Friends & Family",
-      "url": "https://open.spotify.com/track/1U6Qqq2JQzOWoHYqtG7pYO"
+      "duration_ms": 138413,
+      "name": "LIFT SERVICE",
+      "url": "https://open.spotify.com/track/0LMKihVCUC6ZipHLX1HIb1"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
       "duration_ms": 169786,
       "name": "Hit",
       "url": "https://open.spotify.com/track/0gHcxtyWQT0HrlGxaxP1KT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 145121,
+      "name": "Friends & Family",
+      "url": "https://open.spotify.com/track/1U6Qqq2JQzOWoHYqtG7pYO"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "ABOUT YOU (with NAV)",
-      "url": "https://open.spotify.com/track/098a0ODkRj8IUbEGVZMsyN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 188117,
       "name": "Codeine (feat. Gunna)",
       "url": "https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "ABOUT YOU (with NAV)",
+      "url": "https://open.spotify.com/track/098a0ODkRj8IUbEGVZMsyN"
     },
     {
       "added_at": null,

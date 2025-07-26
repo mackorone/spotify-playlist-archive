@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Zimmer90
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,128 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,136 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
+| 1 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
 | 2 | [Cool Car, Stupid Decisions](https://open.spotify.com/track/30eU5auguA6zk7jJX9YiyA) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Cool Car, Stupid Decisions](https://open.spotify.com/album/0tS8Cweosvwi84h2NMzKg0) | 2:12 |
 | 3 | [Sun Is Gone](https://open.spotify.com/track/5hUEi4BzzroXKvvkIScbaw) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Sun Is Gone](https://open.spotify.com/album/0vWqpUqVXx9mSCwbNq2TlB) | 1:36 |
 | 4 | [35](https://open.spotify.com/track/1ZFuZQo00dMlO9TD6oXAMi) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [35](https://open.spotify.com/album/7u4hqIxjAhGbRE2LuFKH9C) | 3:18 |

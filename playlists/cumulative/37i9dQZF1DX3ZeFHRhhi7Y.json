@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Workout to K-Pop? Count me in! (Cover: JEON SOMI) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Workout to K-Pop? Count me in! (Cover: \uc774\ubbfc\ud601(HUTA)) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "WOR K  OUT",
   "tracks": [
     {
@@ -1308,6 +1308,24 @@
       "duration_ms": 183475,
       "name": "BOOMERANG",
       "url": "https://open.spotify.com/track/0fAFOeAxAL5K8rZlLUMXQH"
+    },
+    {
+      "album": {
+        "name": "HOOK",
+        "url": "https://open.spotify.com/album/2sro0GXELrNHRYkvju3mVE"
+      },
+      "artists": [
+        {
+          "name": "LEE MINHYUK (HUTA)",
+          "url": "https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Bora",
+      "url": "https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v"
     },
     {
       "album": {
@@ -3378,7 +3396,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
@@ -7204,7 +7222,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
@@ -8492,7 +8510,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 166612,
       "name": "SIGN",
       "url": "https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX"

@@ -4,7 +4,7 @@
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-157 songs - 9 hr 56 min
+158 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Al Decir Adiós](https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Al Decir Adiós](https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9) | 3:48 | 2021-10-08 |  |
 | [Al Soñarte](https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Los Del Portezuelo](https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47) | 3:23 | 2022-07-15 | 2024-04-19 |
 | [Al Soñarte](https://open.spotify.com/track/68PxuWmNJwzHbyic110KB2) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Los del Portezuelo](https://open.spotify.com/album/4i8hRtGYy0U3gbrBT9twWN) | 3:23 | 2021-10-08 | 2022-07-29 |
+| [Alma Corazón y Vida \(En Vivo Gran Rex\)](https://open.spotify.com/track/7mNvQYCG27W6yABkf8sXSx) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Alma Corazón y Vida \(En Vivo Gran Rex\)](https://open.spotify.com/album/6uqphcvDVAsf3YUhgcsLEL) | 2:43 | 2025-07-25 |  |
 | [Amarte Sin Piedad](https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Amarte Sin Piedad](https://open.spotify.com/album/62i9o08soByC7ONFYj67IB) | 3:31 | 2021-10-08 |  |
 | [Amor de Papel](https://open.spotify.com/track/3vfumP2by7vcgQsEdWEurh) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos \(Sesiones 2020\)](https://open.spotify.com/album/3mrsqUgypqoCX1xyZzlJFk) | 2:13 | 2021-10-08 | 2022-07-29 |
 | [Amor Salvaje](https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [20 Grandes Exitos](https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p) | 3:15 | 2021-10-08 | 2025-06-16 |
@@ -21,7 +22,7 @@
 | [Anaranjado \- Mas Allá De La Ternura](https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk) | [Los Changos](https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71) | [Mas Alla De La Ternura](https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc) | 4:12 | 2021-10-08 |  |
 | [Angélica](https://open.spotify.com/track/22MtFu7CYyj0pPjEFHOSgG) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Ven por Mi \(Sesiones 2020\)](https://open.spotify.com/album/1hGf9vvJOi3ULdTSTRcPpW) | 3:29 | 2021-10-08 | 2022-07-29 |
 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 | 2021-10-08 |  |
-| [Antes De Ti](https://open.spotify.com/track/4lCExNr3B8tP17auPWB9Le) | [Los Santiagueños del Río](https://open.spotify.com/artist/6r9uNliQhXN4hiabQVvwi2) | [Antes De Ti](https://open.spotify.com/album/2T3j2ziSjbAwlpryq8awBV) | 4:23 | 2021-10-08 |  |
+| [Antes De Ti](https://open.spotify.com/track/4lCExNr3B8tP17auPWB9Le) | [Los Santiagueños del Río](https://open.spotify.com/artist/6r9uNliQhXN4hiabQVvwi2) | [Antes De Ti](https://open.spotify.com/album/2T3j2ziSjbAwlpryq8awBV) | 4:23 | 2021-10-08 | 2025-07-26 |
 | [Asuntos Pendientes](https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Asuntos Pendientes](https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC) | 2:50 | 2021-10-08 |  |
 | [Ausencia](https://open.spotify.com/track/2RNfWFgY8Zd2ipPGtKAtPv) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos \(Sesiones 2020\)](https://open.spotify.com/album/3mrsqUgypqoCX1xyZzlJFk) | 3:14 | 2021-10-08 | 2022-07-29 |
 | [Aventura](https://open.spotify.com/track/01yql5Z187oXNK51jhbPJZ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/6mh57IdIEVmRX7YWnG83pO) | 3:29 | 2021-10-08 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Molly Tuttle",
+  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Greensky Bluegrass",
   "name": "New Grass",
   "tracks": [
     {
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 177000,
       "name": "Down That Road",
       "url": "https://open.spotify.com/track/6ify2JHgNQN7Q9kszGhDD2"
@@ -3499,6 +3499,28 @@
     },
     {
       "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/4BmEcTpBH2j6XNP3r7LXrS"
+      },
+      "artists": [
+        {
+          "name": "Unspoken Tradition",
+          "url": "https://open.spotify.com/artist/1ffmxtCun2OgtqJlvlanQv"
+        },
+        {
+          "name": "Danny Paisley",
+          "url": "https://open.spotify.com/artist/3Pp575HZ7OzFO8xZZtB4Vi"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "I'll Break Out Again Tonight",
+      "url": "https://open.spotify.com/track/4lLDWBlDgQNnfA0HVrFLAI"
+    },
+    {
+      "album": {
         "name": "Junk Drawer",
         "url": "https://open.spotify.com/album/2PM6aDxBiqUTRecj0LrEjc"
       },
@@ -4801,6 +4823,24 @@
     },
     {
       "album": {
+        "name": "Moonshine Man",
+        "url": "https://open.spotify.com/album/40PrZEp8wPtRPMBA7HkbyW"
+      },
+      "artists": [
+        {
+          "name": "The Jack Wharff Band",
+          "url": "https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217689,
+      "name": "Moonshine Man",
+      "url": "https://open.spotify.com/track/3Se7jGLPFkfaXsSSCdgAKx"
+    },
+    {
+      "album": {
         "name": "Retro Man...More And More (Expanded Edition)",
         "url": "https://open.spotify.com/album/0fFUj5lwW43jOpl2IVP9GZ"
       },
@@ -5999,6 +6039,28 @@
     },
     {
       "album": {
+        "name": "Reverend (feat. Billy Strings)",
+        "url": "https://open.spotify.com/album/2lMtrArg7d3Oed4h6j35WQ"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347050,
+      "name": "Reverend (feat. Billy Strings)",
+      "url": "https://open.spotify.com/track/0XxrvPXoMCePCYr0icUdJk"
+    },
+    {
+      "album": {
         "name": "Clayton Nile Young Live AF Session (Live AF Version)",
         "url": "https://open.spotify.com/album/5oOt5kqd9waKLHbnJKQmZT"
       },
@@ -6805,6 +6867,24 @@
     },
     {
       "album": {
+        "name": "Grossly Aware",
+        "url": "https://open.spotify.com/album/1i8zIVZoRTC5GEM2ZG1UWE"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216826,
+      "name": "Strawberry, California",
+      "url": "https://open.spotify.com/track/0MSRg7rbB8d6k8SWWHKXam"
+    },
+    {
+      "album": {
         "name": "Wanderers Like Me",
         "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
       },
@@ -7478,7 +7558,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 430240,
       "name": "Tombstone Territory",
       "url": "https://open.spotify.com/track/2XEqVIiZMQG89nW31cKECP"
@@ -8076,7 +8156,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 181988,
       "name": "Where the Road Goes",
       "url": "https://open.spotify.com/track/4Slx9h6g9FM7UI88x7NwTH"

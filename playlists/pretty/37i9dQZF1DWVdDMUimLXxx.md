@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > Add dramatic flair to your strategy game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,977 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,010 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 68 | [Refined Enlightenment](https://open.spotify.com/track/2ulSScFSvKVwIBJJrKcNA2) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [To All the Glory](https://open.spotify.com/album/59IuJfXNv7h6Np4JVKUYWM) | 2:23 |
 | 69 | [Il Confine Del Dolore \- feat: Ensemble Cordes De La Mer](https://open.spotify.com/track/307JdSdFWDM2u0H5JoIixw) | [Nora Maddox](https://open.spotify.com/artist/5yZabwuaVYo86cGVx0BzUX) | [Il Confine Del Dolore](https://open.spotify.com/album/1zTtByo8f2pVkZPhVvapWk) | 1:58 |
 | 70 | [Sky](https://open.spotify.com/track/5ZwrQKuPqHFFrtrZlSt6NT) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Trace](https://open.spotify.com/album/6Vfof63wDXpmWEVW12Ag80) | 3:36 |
-| 71 | [Bonnie at Morn \- Amy's](https://open.spotify.com/track/7AOd1tPuzk4OixBPGJFp9k) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Jackie Moran](https://open.spotify.com/artist/7n7z1ZyAvXU0Hzy5Afawri), [Ensemble Galilei](https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6) | [From Whence We Came](https://open.spotify.com/album/21XKiwC8lWeMl58vLKf8NP) | 6:49 |
+| 71 | [Bonnie at Morn / Amy's](https://open.spotify.com/track/7AOd1tPuzk4OixBPGJFp9k) | [Ensemble Galilei](https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6) | [From Whence We Came](https://open.spotify.com/album/21XKiwC8lWeMl58vLKf8NP) | 6:49 |
 | 72 | [The Great Unknown](https://open.spotify.com/track/4nY7xJxAsbgalPsOiWBonK) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Where Heroes Come to Die](https://open.spotify.com/album/6oWPtpkD348BpY3ZTxWOzp) | 3:59 |
 | 73 | [Flight](https://open.spotify.com/track/6x5tRBmT3426qhiOepUDOB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/4dgeskwXtoICOIJuPqXBAt) | 2:16 |
 | 74 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |

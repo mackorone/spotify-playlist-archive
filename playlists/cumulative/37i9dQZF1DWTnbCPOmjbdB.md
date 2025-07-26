@@ -4,7 +4,7 @@
 
 > Najlepsze polskie piosenki na czasie\. Cover: Smolasty
 
-564 songs - 1 day 3 hr 29 min
+565 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@
 | [Piosenka o końcu świata](https://open.spotify.com/track/6EG5wyQNe9IQcA1r9G25Qc) | [Julia Żugaj](https://open.spotify.com/artist/77ie7EUxZYh8rjBIUC76S1), [Andrzej Piaseczny](https://open.spotify.com/artist/3sYr49vFJ6BPZnV5Ky1PLH) | [Piosenka o końcu świata](https://open.spotify.com/album/0oFozx6ah9PWXZHQl826Er) | 2:32 | 2024-11-14 | 2025-01-10 |
 | [piosenka o smutnych ludziach](https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [o smutnych ludziach](https://open.spotify.com/album/5UMxjPRWqpHWjceBhznKop) | 2:37 | 2025-06-26 | 2025-07-04 |
 | [Piękne Dni](https://open.spotify.com/track/6TD7XH6NlMiEw3s04frCRo) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Piękne Dni](https://open.spotify.com/album/4TqMQlaBY1JDYjWxFEvXG8) | 3:11 | 2025-04-24 | 2025-05-16 |
-| [Pięknie płyniesz](https://open.spotify.com/track/5XIAnKNsdUim7GQsekL3uE) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Pięknie płyniesz](https://open.spotify.com/album/0iEMCrSBx1BRicEu19MVc5) | 3:12 | 2025-01-09 |  |
+| [Pięknie płyniesz](https://open.spotify.com/track/5XIAnKNsdUim7GQsekL3uE) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Pięknie płyniesz](https://open.spotify.com/album/0iEMCrSBx1BRicEu19MVc5) | 3:12 | 2025-01-09 | 2025-07-26 |
 | [Plan matrymonialny](https://open.spotify.com/track/6aCVuAwaV53wOsEunmdKpr) | [Uku.stycznie](https://open.spotify.com/artist/48VnaUqWYBYehjA2Hbzbae), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Plan matrymonialny](https://open.spotify.com/album/2CWTjUufNTVoIWsafsLaEw) | 3:10 | 2025-03-27 | 2025-04-18 |
 | [Plaża i randka?!](https://open.spotify.com/track/6avEd5txXNYYoTGU87b9YJ) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [Plaża i randka?!](https://open.spotify.com/album/2anfCazuuvEQzpMpotJrX6) | 2:16 | 2024-10-03 | 2025-01-17 |
 | [Plaża, plaża](https://open.spotify.com/track/4NNztQQgx2byNE8F0gkK5g) | [Pan Savyan](https://open.spotify.com/artist/4Bkz15h2Rj6fphdjxB7GaT) | [Plaża, plaża](https://open.spotify.com/album/4jRCIsGjSDw8rxvY99iBpE) | 2:29 | 2025-07-03 | 2025-07-11 |
@@ -504,6 +504,7 @@
 | [We Girls](https://open.spotify.com/track/0JlQ9LybFRSU96B1wESXLI) | [Natalia Nykiel](https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj) | [Atom](https://open.spotify.com/album/73miKBOEh8sIZw5FoxjzmK) | 2:05 | 2024-09-05 | 2024-09-20 |
 | [WESOŁE PIOSENKI](https://open.spotify.com/track/61BuI5N0MWUdjjD28Ly4SL) | [Jan\-Rapowanie](https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp), [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [GROTESKA](https://open.spotify.com/album/6F7itXykUJKRptW4JovfLX) | 2:41 | 2025-03-27 | 2025-05-02 |
 | [Wiatr](https://open.spotify.com/track/3KWWFT878MW91P22IealNu) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Wiatr](https://open.spotify.com/album/2iZW07HMNtT7rg0DXmWpnH) | 2:48 | 2024-10-24 | 2025-06-06 |
+| [WIATR](https://open.spotify.com/track/3n1N8s6iKQGLmCN6a9es2B) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH), [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM) | [WIATR](https://open.spotify.com/album/39r7rzpy6S2nwoqicpuzsS) | 3:07 | 2025-07-25 |  |
 | [Wielka Miłość \(Radio\)](https://open.spotify.com/track/3BQ8A8xYqCpNaQK38QfXiC) | [DJ Adamus](https://open.spotify.com/artist/0Db5Yl5ZBHvcqbH3KfCZAt), [Kayomee](https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL) | [Wielka Miłość \(Radio\)](https://open.spotify.com/album/7eXv9ZWeOzcAG4DHh6iy8E) | 2:45 | 2024-08-22 | 2024-10-18 |
 | [Wielka woda](https://open.spotify.com/track/1FPnHkCZaHLMSqc9tPXyud) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Wielka woda](https://open.spotify.com/album/1cQL0LZjS2YZdJiRhbe6Iq) | 4:28 | 2024-12-05 | 2025-02-28 |
 | [wiem w którą stronę](https://open.spotify.com/track/3zOihk0uHXXxv6R0WBRjqh) | [Julianna Olańska](https://open.spotify.com/artist/6I42Tne1nzUZLsu3CCz4fp), [Sir Mich](https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP) | [wiem w którą stronę](https://open.spotify.com/album/0HNiTCuKXlMTKQHLwfMv98) | 3:15 | 2025-02-27 | 2025-03-07 |

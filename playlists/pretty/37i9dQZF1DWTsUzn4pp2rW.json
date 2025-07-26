@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 179333,
+  "num_followers": 179420,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -451,26 +451,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/32hzZm0bpsYCmhhcH24hLX"
-      },
-      "artists": [
-        {
-          "name": "Cindy Zhang",
-          "url": "https://open.spotify.com/artist/7jcxdl5JqHWfuq00QC6egz"
-        },
-        {
-          "name": "Josh Berkeley",
-          "url": "https://open.spotify.com/artist/7MpeVbVrg6arHele8tcgSl"
-        }
-      ],
-      "duration_ms": 192854,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/1bPnJ6Xq4Usc9rwCPzNTUP"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/3MtC15aQbBa9UAeNwHNEMJ"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 278239,
       "name": "By the Time I Get to Phoenix",
       "url": "https://open.spotify.com/track/4Ul1vikPHeg19Lqmw6Xbwz"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/32hzZm0bpsYCmhhcH24hLX"
+      },
+      "artists": [
+        {
+          "name": "Cindy Zhang",
+          "url": "https://open.spotify.com/artist/7jcxdl5JqHWfuq00QC6egz"
+        },
+        {
+          "name": "Josh Berkeley",
+          "url": "https://open.spotify.com/artist/7MpeVbVrg6arHele8tcgSl"
+        }
+      ],
+      "duration_ms": 192854,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/1bPnJ6Xq4Usc9rwCPzNTUP"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Melodic Canvas",
-        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
-      },
-      "artists": [
-        {
-          "name": "Robin Mckelle",
-          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
-        }
-      ],
-      "duration_ms": 207396,
-      "name": "Do You Believe",
-      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Luxury and Waste",
         "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 233384,
       "name": "Be That Someone",
       "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Melodic Canvas",
+        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
+      },
+      "artists": [
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "duration_ms": 207396,
+      "name": "Do You Believe",
+      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Day by Day",
-        "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
-      },
-      "artists": [
-        {
-          "name": "Francesca Castro",
-          "url": "https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf"
-        }
-      ],
-      "duration_ms": 394997,
-      "name": "Cup of Tea",
-      "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Sugilite",
         "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 278961,
       "name": "Sugilite",
       "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Day by Day",
+        "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
+      },
+      "artists": [
+        {
+          "name": "Francesca Castro",
+          "url": "https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf"
+        }
+      ],
+      "duration_ms": 394997,
+      "name": "Cup of Tea",
+      "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "All For One",
-        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
-      },
-      "artists": [
-        {
-          "name": "Jamison Ross",
-          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
-        }
-      ],
-      "duration_ms": 320640,
-      "name": "Don't Go To Strangers",
-      "url": "https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Featuring EP",
         "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 176543,
       "name": "I'd Run to the Moon",
       "url": "https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "All For One",
+        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
+      },
+      "artists": [
+        {
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Don't Go To Strangers",
+      "url": "https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om"
     },
     {
       "added_at": "2025-05-18 18:29:44",

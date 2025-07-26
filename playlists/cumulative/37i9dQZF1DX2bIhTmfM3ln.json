@@ -3949,6 +3949,24 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "album": {
         "name": "Double",
         "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
       },
@@ -4668,7 +4686,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 190588,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/4einxxnYgyAqINv83N6OJf"
@@ -7354,6 +7372,24 @@
       "duration_ms": 138374,
       "name": "Jo",
       "url": "https://open.spotify.com/track/1IPiMWs3g5UezRGUUwiXWz"
+    },
+    {
+      "album": {
+        "name": "Joanna",
+        "url": "https://open.spotify.com/album/4jx7OVgEkhlCi1RNYbB3dz"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "Joanna",
+      "url": "https://open.spotify.com/track/5wdi9qkuMENGOx4Ko1brQ2"
     },
     {
       "album": {
@@ -14636,7 +14672,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 196000,
       "name": "Talk",
       "url": "https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da"

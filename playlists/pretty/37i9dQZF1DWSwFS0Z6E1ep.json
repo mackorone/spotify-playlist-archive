@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 287154,
+  "num_followers": 287272,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "I've Got a Woman",
-      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 136026,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "I've Got a Woman",
+      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Very Best Of Little Richard",
-        "url": "https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 128280,
-      "name": "Long Tall Sally",
-      "url": "https://open.spotify.com/track/1q7njNe2QfE0xbZMtTOT2m"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
         "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc"
+        "name": "The Very Best Of Little Richard",
+        "url": "https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu"
       },
       "artists": [
         {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh"
+      "duration_ms": 128280,
+      "name": "Long Tall Sally",
+      "url": "https://open.spotify.com/track/1q7njNe2QfE0xbZMtTOT2m"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "The Rhythm and The Blues- Sun Records",
         "url": "https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR"
       },
@@ -1671,22 +1671,6 @@
       "duration_ms": 188673,
       "name": "The Hucklebuck",
       "url": "https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "The Essential Little Richard (Remastered)",
-        "url": "https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockabilly",
-        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
+        "name": "The Essential Little Richard (Remastered)",
+        "url": "https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0"
       },
       "artists": [
         {
-          "name": "Eddie Bush",
-          "url": "https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 112561,
-      "name": "Baby I Don't Care",
-      "url": "https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO"
+      "duration_ms": 142400,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1735,6 +1719,22 @@
       "duration_ms": 141666,
       "name": "Charlie Brown",
       "url": "https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rockabilly",
+        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bush",
+          "url": "https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo"
+        }
+      ],
+      "duration_ms": 112561,
+      "name": "Baby I Don't Care",
+      "url": "https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ray Charles & Friends",
-        "url": "https://open.spotify.com/album/2LxEZ1siN0PWYPz4Y4FlQv"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 386560,
-      "name": "What'd I Say",
-      "url": "https://open.spotify.com/track/21WrPeWVmWWBAx0dXYck9L"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "75 at 75",
         "url": "https://open.spotify.com/album/4tlAPVPMmE4rhnkctUdCeG"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 141813,
       "name": "Move It - 2002 Remaster",
       "url": "https://open.spotify.com/track/4vDEkER6ToECKrxiPzE2Tp"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ray Charles & Friends",
+        "url": "https://open.spotify.com/album/2LxEZ1siN0PWYPz4Y4FlQv"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 386560,
+      "name": "What'd I Say",
+      "url": "https://open.spotify.com/track/21WrPeWVmWWBAx0dXYck9L"
     },
     {
       "added_at": "2022-06-07 05:25:13",

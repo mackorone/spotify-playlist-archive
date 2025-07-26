@@ -1,6 +1,6 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 575059,
+  "num_followers": 575070,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-02-10 10:54:18",
       "album": {
+        "name": "Fresh Roses",
+        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Fresh Roses",
+      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
+    },
+    {
+      "added_at": "2025-02-10 10:54:18",
+      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
-    },
-    {
-      "added_at": "2025-02-10 10:54:18",
-      "album": {
-        "name": "Fresh Roses",
-        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Fresh Roses",
-      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
     },
     {
       "added_at": "2025-02-10 10:54:18",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-02-10 10:54:18",
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 293453,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
-    },
-    {
-      "added_at": "2025-02-10 10:54:18",
-      "album": {
         "name": "Emily",
         "url": "https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 201657,
       "name": "Emily",
       "url": "https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL"
+    },
+    {
+      "added_at": "2025-02-10 10:54:18",
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 293453,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
     },
     {
       "added_at": "2025-02-10 10:54:18",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-02-10 10:54:18",
       "album": {
-        "name": "Use Somebody (Acoustic Version)",
-        "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
-      },
-      "artists": [
-        {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
-        }
-      ],
-      "duration_ms": 186660,
-      "name": "Use Somebody - Acoustic Version",
-      "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
-    },
-    {
-      "added_at": "2025-02-10 10:54:18",
-      "album": {
         "name": "Can I Be Him (Acoustic Live Version)",
         "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 305160,
       "name": "Can I Be Him - Acoustic Live Version",
       "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
+    },
+    {
+      "added_at": "2025-02-10 10:54:18",
+      "album": {
+        "name": "Use Somebody (Acoustic Version)",
+        "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
+      },
+      "artists": [
+        {
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
+        }
+      ],
+      "duration_ms": 186660,
+      "name": "Use Somebody - Acoustic Version",
+      "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
     },
     {
       "added_at": "2025-02-10 10:54:18",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-02-10 10:54:18",
       "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
-    },
-    {
-      "added_at": "2025-02-10 10:54:18",
-      "album": {
         "name": "I'm the One (Acoustic)",
         "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 233488,
       "name": "I'm the One - Acoustic",
       "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
+    },
+    {
+      "added_at": "2025-02-10 10:54:18",
+      "album": {
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
     },
     {
       "added_at": "2025-02-10 10:54:18",

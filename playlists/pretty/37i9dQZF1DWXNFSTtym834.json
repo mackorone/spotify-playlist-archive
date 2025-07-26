@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1317296,
+  "num_followers": 1317649,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
+        "name": "Black Rain (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 239826,
+      "name": "I Don't Wanna Stop",
+      "url": "https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
         "name": "Avenged Sevenfold",
         "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 308826,
       "name": "I Don't Wanna Be Me",
       "url": "https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
-        "name": "Black Rain (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 239826,
-      "name": "I Don't Wanna Stop",
-      "url": "https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 311813,
-      "name": "Bat Country",
-      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Life Starts Now",
         "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Take A Look In The Mirror",
-        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
       "artists": [
         {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 197906,
-      "name": "Y'all Want a Single",
-      "url": "https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9"
+      "duration_ms": 311813,
+      "name": "Bat Country",
+      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -459,6 +443,22 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 197906,
+      "name": "Y'all Want a Single",
+      "url": "https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
         "name": "White Pony",
         "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Waking The Fallen",
-        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Unholy Confessions",
-      "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Reise, Reise",
         "url": "https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 226760,
       "name": "Amerika",
       "url": "https://open.spotify.com/track/1a8JpAL3vbAdXYrEABvOtb"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Unholy Confessions",
+      "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Through The Eyes",
-        "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
-      },
-      "artists": [
-        {
-          "name": "Flaw",
-          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "Get Up Again",
-      "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Confession [Special Edition]",
         "url": "https://open.spotify.com/album/24xOhyTbtUHw0NTWemb1md"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Soundtrack to Your Escape (The Quiet Place Version)",
-        "url": "https://open.spotify.com/album/62MmtzoCMy82PoeKb6TIVf"
+        "name": "Through The Eyes",
+        "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
       },
       "artists": [
         {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+          "name": "Flaw",
+          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
         }
       ],
-      "duration_ms": 225026,
-      "name": "The Quiet Place",
-      "url": "https://open.spotify.com/track/2gUrjc9fWHZytKm6FtBY7E"
+      "duration_ms": 176600,
+      "name": "Get Up Again",
+      "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1511,6 +1495,22 @@
       "duration_ms": 219933,
       "name": "The Way You Like It",
       "url": "https://open.spotify.com/track/6adhpSbrhat9S0WEVjf4HP"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Soundtrack to Your Escape (The Quiet Place Version)",
+        "url": "https://open.spotify.com/album/62MmtzoCMy82PoeKb6TIVf"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "The Quiet Place",
+      "url": "https://open.spotify.com/track/2gUrjc9fWHZytKm6FtBY7E"
     },
     {
       "added_at": "2024-06-13 12:59:15",

@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 51262,
+  "num_followers": 51273,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aIAmAAAAAABDpR7gy0DDo4F6fTF2riF1",
+  "snapshot_id": "aIF3gAAAAAA37IdickkpMJboKSKX0kUr",
   "tracks": [
     {
       "added_at": null,
@@ -348,13 +348,17 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+          "name": "Jo\u00e3o Gilberto Quintet",
+          "url": "https://open.spotify.com/artist/3UmzVSTun6O0Qtn0wacusX"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 248013,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4"
+      "duration_ms": 327280,
+      "name": "O Grande Amor",
+      "url": "https://open.spotify.com/track/5GjCLHeNC77C0IbTkOU3tI"
     },
     {
       "added_at": null,
@@ -428,17 +432,13 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Jo\u00e3o Gilberto Quintet",
-          "url": "https://open.spotify.com/artist/3UmzVSTun6O0Qtn0wacusX"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 327280,
-      "name": "O Grande Amor",
-      "url": "https://open.spotify.com/track/5GjCLHeNC77C0IbTkOU3tI"
+      "duration_ms": 248013,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+        "name": "Getz Meets Mulligan In Hi-Fi",
+        "url": "https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX"
       },
       "artists": [
         {
@@ -604,13 +604,13 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 220493,
-      "name": "E Luxo So",
-      "url": "https://open.spotify.com/track/0J27dNCeCg9yEG9qJpEMFq"
+      "duration_ms": 389640,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/0qZItwF1HNXBno45TrdBSS"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Getz Meets Mulligan In Hi-Fi",
-        "url": "https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX"
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
       "artists": [
         {
@@ -644,13 +644,13 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
         }
       ],
-      "duration_ms": 389640,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/0qZItwF1HNXBno45TrdBSS"
+      "duration_ms": 220493,
+      "name": "E Luxo So",
+      "url": "https://open.spotify.com/track/0J27dNCeCg9yEG9qJpEMFq"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Getz Meets Mulligan In Hi-Fi",
         "url": "https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 346160,
       "name": "Ballad",
       "url": "https://open.spotify.com/track/4CAbhcY8lUNbzYCWufMn7s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz Plays (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Rain",
         "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 429026,
       "name": "Sweet Rain",
       "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stan Getz Plays (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/6UYhs851X9P9wUGagL2k32"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 163640,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/671ldGME9jjEANX5bvCSFn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stan Getz With Cal Tjader",
         "url": "https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/6UYhs851X9P9wUGagL2k32"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 163640,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/671ldGME9jjEANX5bvCSFn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz Plays",
         "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Serenade In Blue",
-      "url": "https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Jazz #14",
         "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Serenade In Blue",
+      "url": "https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88"
     },
     {
       "added_at": null,

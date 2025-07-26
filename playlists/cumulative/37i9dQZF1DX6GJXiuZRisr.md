@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-605 songs - 1 day 17 hr 55 min
+606 songs - 1 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Is This Trance?](https://open.spotify.com/track/3xml45o5PxJw6Xlp8sfPIC) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Is This Trance?](https://open.spotify.com/album/0YcN5yn9v3g0SDoGQj9jkr) | 4:49 | 2021-05-07 | 2022-05-17 |
 | [IT MIGHT BE THE DRUGS](https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [IT MIGHT BE THE DRUGS](https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V) | 3:39 | 2024-05-31 |  |
 | [It's Ours](https://open.spotify.com/track/19Oh5hnq89a94Upp66mOoy) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [It's Ours](https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8) | 8:03 | 2022-10-14 | 2023-07-22 |
-| [It’s All On You](https://open.spotify.com/track/4sIhQEpt5PiU4o1am2aRcg) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [It's All On You](https://open.spotify.com/album/3A15exUZPtqAqRLbwFOBPe) | 3:43 | 2025-03-21 |  |
+| [It’s All On You](https://open.spotify.com/track/4sIhQEpt5PiU4o1am2aRcg) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [It's All On You](https://open.spotify.com/album/3A15exUZPtqAqRLbwFOBPe) | 3:43 | 2025-03-21 | 2025-07-26 |
 | [I’ll Be There](https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [I’ll Be There](https://open.spotify.com/album/23Dz0Ch87tRnPu8VCe8O3W) | 3:11 | 2024-10-25 | 2025-05-31 |
 | [JOI \- Part II](https://open.spotify.com/track/6Fp3dJOpkDtIUhKDu3Ha8M) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [JOI \(Part II\)](https://open.spotify.com/album/25Tb0K01fQPTvh0ipkN9ea) | 3:59 | 2024-07-02 | 2025-05-31 |
 | [Julieta](https://open.spotify.com/track/2lLcfRJK6pNyn1WvDkyUtu) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [Julieta](https://open.spotify.com/album/2ASQaFqPgGc7WNU4m4hfmx) | 4:19 | 2021-07-02 | 2022-04-18 |
@@ -311,6 +311,7 @@
 | [Losing Control](https://open.spotify.com/track/4mfA9cs3xfdNv315e8PPqD) | [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt) | [Losing Control](https://open.spotify.com/album/0l2UYOy36Y0sbfS5GXrlpd) | 2:55 | 2024-10-04 | 2025-02-18 |
 | [Losing Control \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Losing Control \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF) | 3:29 | 2023-07-14 |  |
 | [Losing Game](https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Enter](https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk) | 4:00 | 2024-04-12 | 2024-08-22 |
+| [Lost](https://open.spotify.com/track/3fDv3H85PgOOg65JZZP6ki) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Lost](https://open.spotify.com/album/62zfpf6wMu4nMyPqPAO0L6) | 3:45 | 2025-07-25 |  |
 | [Lost at Sea](https://open.spotify.com/track/6DUiSnyXWYiNXSsRe6FJPc) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul / Lost at Sea](https://open.spotify.com/album/39S4MhNoCznHiI7csqfu7j) | 4:42 | 2022-06-10 | 2022-07-23 |
 | [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 | 2021-05-18 | 2022-10-05 |
 | [Lost In Space](https://open.spotify.com/track/3IJRNwpqZU7uJhQ5qFvy5D) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Lost In Space](https://open.spotify.com/album/3XmOP8oV0J57PrPYAOm63G) | 7:31 | 2023-05-05 | 2024-05-01 |

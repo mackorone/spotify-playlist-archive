@@ -1253,6 +1253,24 @@
     },
     {
       "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205884,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ"
+    },
+    {
+      "album": {
         "name": "Peito Aberto",
         "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
       },
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-07-26",
       "duration_ms": 206608,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/3jbrQ70noEPkUyiYvZkOHe"

@@ -2,9 +2,9 @@
 
 ### [Soulful Day](https://open.spotify.com/playlist/37i9dQZF1DWYgsiQBNyGuA)
 
-> Soul to brighten up your day\. Cover: Kokoroko
+> Soul to brighten up your day\. Cover:  bLAck pARty
 
-236 songs - 15 hr 11 min
+238 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Apollo](https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:43 | 2022-01-05 |  |
 | [Are U Still](https://open.spotify.com/track/6LOgCq1V3zLzNrqV2azE2q) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Are U Still](https://open.spotify.com/album/1DuUEqsNu7nHsTmc6cfoeR) | 3:50 | 2025-02-21 |  |
 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 | 2022-01-05 |  |
+| [AVALANCHE](https://open.spotify.com/track/2mOIjRSeiRRNVBv8PpoYUC) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 2:30 | 2025-07-25 |  |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2024-03-08 | 2024-08-31 |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2023-02-17 | 2024-04-19 |
 | [Bedroom Bully](https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Beautiful Pain](https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk) | 5:11 | 2024-08-30 | 2025-06-18 |
@@ -129,7 +130,7 @@
 | [Love In The Middle \- Live](https://open.spotify.com/track/1gzmQd8rqhwGIUfKHIy8VZ) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Love In The Middle \(Live\)](https://open.spotify.com/album/5CA0i6WtoC4Qzk8qndKxWF) | 4:23 | 2025-06-27 |  |
 | [Love You All My Lifetime](https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:44 | 2022-01-05 | 2025-04-22 |
 | [Love's Not](https://open.spotify.com/track/5thLuoJ0PZHCjYzJypfpg4) | [Conya Doss](https://open.spotify.com/artist/67ONfRSpITV4rWHCQGSS3R) | [Seven: VII](https://open.spotify.com/album/5cbo0UmIkURONNZIbObXbu) | 4:33 | 2022-01-05 | 2024-09-28 |
-| [Make It Hot \(feat\. Eryn Allen Kane\) \- from "The Pickup"](https://open.spotify.com/track/6xbbXuX8196SAinbEZ3ESn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Make It Hot \(feat\. Eryn Allen Kane\) \[from "The Pickup"\]](https://open.spotify.com/album/7bTreLtLjeZyMt1gePo4y4) | 4:19 | 2025-07-11 |  |
+| [Make It Hot \(feat\. Eryn Allen Kane\) \- from "The Pickup"](https://open.spotify.com/track/6xbbXuX8196SAinbEZ3ESn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Make It Hot \(feat\. Eryn Allen Kane\) \[from "The Pickup"\]](https://open.spotify.com/album/7bTreLtLjeZyMt1gePo4y4) | 4:19 | 2025-07-11 | 2025-07-26 |
 | [MAKING A WAY](https://open.spotify.com/track/2YkphfHUaCLKAltzRqBtsS) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Crown](https://open.spotify.com/album/64a2yWLGIWj9MlHIcaav9e) | 3:32 | 2025-04-25 |  |
 | [Man Of The Universe](https://open.spotify.com/track/1FqOGWc280BYbpRwLiPn4P) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 4:09 | 2022-01-05 |  |
 | [Man of the Universe](https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:09 | 2022-01-05 | 2024-04-19 |
@@ -213,6 +214,7 @@
 | [Sun Go Down](https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Lazy Days](https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5) | 3:42 | 2022-01-05 | 2023-08-16 |
 | [Sunny Days](https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Bags & Suitcases](https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm) | 3:29 | 2022-01-05 | 2024-09-13 |
 | [Sunshine](https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:22 | 2025-04-05 |  |
+| [Sweet](https://open.spotify.com/track/6ZGu4JWeLDCNCiyMeG6P82) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [The Last Dance](https://open.spotify.com/album/0HZ1eDVIhC5oTxinKoTFlQ) | 3:29 | 2025-07-25 |  |
 | [Sweet Little Rainbows](https://open.spotify.com/track/3gOSDkunPRtxksTi0Gxq81) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Mystery](https://open.spotify.com/album/7f0UvHSC6XjlmO1HMR5iId) | 3:43 | 2025-01-24 | 2025-07-19 |
 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 | 2025-04-21 |  |
 | [T.H.](https://open.spotify.com/track/7Cj2Buxud8yjgRCdRW6VUs) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 4:46 | 2025-04-21 |  |
@@ -243,6 +245,6 @@
 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 | 2022-01-05 | 2024-04-19 |
 | [You Are The Best Thing](https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip in the Grain](https://open.spotify.com/album/65nO4vwWKTVaCIUD3vE7nj) | 3:51 | 2022-01-05 |  |
 | [You Are the Best Thing](https://open.spotify.com/track/5qJW9AClJQwt1vDWHg1PrH) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Loving You](https://open.spotify.com/album/3iupXYQtertEICrj8oG8ER) | 3:51 | 2022-01-05 | 2022-11-14 |
-| [You're Gonna Win](https://open.spotify.com/track/3r58Tf6QrGtIPNTHMhk2Dd) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [You're Gonna Win](https://open.spotify.com/album/5rw7HWiDUbhtItRD1aNOdP) | 4:55 | 2025-06-27 |  |
+| [You're Gonna Win](https://open.spotify.com/track/3r58Tf6QrGtIPNTHMhk2Dd) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [You're Gonna Win](https://open.spotify.com/album/5rw7HWiDUbhtItRD1aNOdP) | 4:55 | 2025-06-27 | 2025-07-26 |
 
 \*This playlist was first scraped on 2022-06-08. Prior content cannot be recovered.

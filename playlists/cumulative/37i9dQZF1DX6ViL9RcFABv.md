@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop! Foto: Aragão, Mariana Pereira
 
-290 songs - 15 hr 22 min
+291 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Amar Pela Metade](https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Amar Pela Metade / Aimer À Moitié](https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu) | 3:06 | 2024-09-19 |  |
 | [AMAR\-TE \- A COLORS SHOW](https://open.spotify.com/track/3LintSc7Y6RlQAsJT9aJPc) | [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN) | [AMAR\-TE \- A COLORS SHOW](https://open.spotify.com/album/0hRkh7InnZ2mgmqylauavI) | 3:40 | 2024-11-01 | 2024-11-15 |
 | [Amigos Coloridos](https://open.spotify.com/track/4A006qfhftf2y12JKLyxoK) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Amigos Coloridos](https://open.spotify.com/album/67hN41imzmwzYlQuI2FN05) | 3:44 | 2024-07-11 |  |
+| [Amor](https://open.spotify.com/track/5C8UWDYFCKFK6sDPmcJQHm) | [JOSH](https://open.spotify.com/artist/4U4egOotuNLKqlARiAfYne) | [Amor](https://open.spotify.com/album/3lZKqd1Z1r8vg3PqtNvaTm) | 3:19 | 2025-07-25 |  |
 | [Amor de Agosto](https://open.spotify.com/track/6wVVIGFQdgQkYYEaYcGC2M) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm) | [Amor de Agosto](https://open.spotify.com/album/43OLhOCAzmBiNuoNS856NS) | 2:49 | 2025-07-17 |  |
 | [Amor de Ferro](https://open.spotify.com/track/7LET87zmdD3hHXmijQwR9r) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [Pedro Abrunhosa](https://open.spotify.com/artist/4wkGlEHElrIAnV8tBWDdAR) | [Amor de Ferro](https://open.spotify.com/album/41VTRpC4jsaDttVJqZaAzm) | 3:34 | 2024-06-27 | 2025-02-07 |
 | [Amor De Ganga](https://open.spotify.com/track/2y5mEYDDPoQCgz55sP3eUz) | [Miguel Luz](https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm) | [Amor De Ganga](https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT) | 3:26 | 2024-10-24 | 2025-03-14 |
@@ -46,7 +47,7 @@
 | [Bomba Relógio](https://open.spotify.com/track/5mPot1dZmoXeQc7yZlnPgC) | [Miguel Luz](https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm) | [Bomba Relógio](https://open.spotify.com/album/31j3YBSov23a9xUrQEi0K3) | 3:20 | 2024-11-29 | 2025-03-21 |
 | [Brutos Diamantes](https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Brutos Diamantes](https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan) | 2:56 | 2024-06-27 | 2025-02-07 |
 | [Bênção](https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Bênção](https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0) | 3:25 | 2024-06-27 | 2024-12-20 |
-| [Calma](https://open.spotify.com/track/4uF885xlMT33EbgQuvBrHE) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Calma](https://open.spotify.com/album/4xtQf74DoNv8pyV2IDGagM) | 2:09 | 2025-05-22 |  |
+| [Calma](https://open.spotify.com/track/4uF885xlMT33EbgQuvBrHE) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Calma](https://open.spotify.com/album/4xtQf74DoNv8pyV2IDGagM) | 2:09 | 2025-05-22 | 2025-07-26 |
 | [Calon](https://open.spotify.com/track/5mfl7jos9buH5dIJOu74KE) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Calon](https://open.spotify.com/album/6OJnSZuPrZvT4ntnbpFIbP) | 2:28 | 2024-06-27 | 2025-03-07 |
 | [Capicuas](https://open.spotify.com/track/5TsxV8O9Xgg8OFceg4aQqu) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [Capicuas](https://open.spotify.com/album/61ilOfzmq0FfizugStjxDm) | 2:38 | 2024-10-10 | 2025-03-28 |
 | [Cara a Cara](https://open.spotify.com/track/2Ik0mM3HtmmFJNBQU6iutp) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [Cara a Cara](https://open.spotify.com/album/6S3P0rv3UuWsWwRLwHs0SM) | 2:59 | 2024-09-26 | 2024-10-11 |

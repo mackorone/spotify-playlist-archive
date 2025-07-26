@@ -48146,19 +48146,19 @@
           "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
         },
         {
-          "name": "Gigi D'Alessio",
-          "url": "https://open.spotify.com/artist/4eSMsVzRJHhN1aq0IvZcyn"
-        },
-        {
           "name": "LDO",
           "url": "https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z"
+        },
+        {
+          "name": "Gigi D'Alessio",
+          "url": "https://open.spotify.com/artist/4eSMsVzRJHhN1aq0IvZcyn"
         }
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 198864,
-      "name": "IL CODICE DELL'ANIMA",
+      "name": "IL CODICE DELL'ANIMA (feat. Gigi D'Alessio)",
       "url": "https://open.spotify.com/track/065RiTLLFsEMEIxjFPGGTe"
     },
     {
@@ -98329,6 +98329,32 @@
     },
     {
       "album": {
+        "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
+        "url": "https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219968,
+      "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
+      "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
+    },
+    {
+      "album": {
         "name": "Sugar Water Cyanide",
         "url": "https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm"
       },
@@ -112638,6 +112664,28 @@
       "duration_ms": 250000,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/3BCFoto6dd5e5001q5YhqJ"
+    },
+    {
+      "album": {
+        "name": "Which One",
+        "url": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2025-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169134,
+      "name": "Which One (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 55162,
+  "num_followers": 55175,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
+        "name": "Schumann, R.: Intermezzi, Op. 4 / Impromptus, Op. 5 / 3 Romances, Op. 28",
+        "url": "https://open.spotify.com/album/62L7PgeT8my5HEifsNReiv"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "D\u00e9nes V\u00e1rjon",
+          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Albumbl\u00e4tter, Op. 124: No. 16, Schlummerlied",
+      "url": "https://open.spotify.com/track/17FwKTEUj0kSWjCjdhU4sE"
+    },
+    {
+      "added_at": "2025-07-04 11:08:09",
+      "album": {
         "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
         "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
       },
@@ -347,34 +367,6 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
-        "name": "Besser ohne Worte",
-        "url": "https://open.spotify.com/album/4AAbCsOBu1MXyE1d8VXQc4"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "duo tuba & harfe",
-          "url": "https://open.spotify.com/artist/1GNzzWtAC8PwUERRL8Ldkv"
-        },
-        {
-          "name": "Andreas Martin Hofmeir",
-          "url": "https://open.spotify.com/artist/7fPSTBoGnZDdi3uSsMZtLW"
-        },
-        {
-          "name": "Andreas Mildner",
-          "url": "https://open.spotify.com/artist/5zTimQ8WAG2hGhQqWtoDVv"
-        }
-      ],
-      "duration_ms": 97003,
-      "name": "Loreley, Op. 53 No. 2 (Arr. A. Mildner & A. Martin for Harp & Tuba)",
-      "url": "https://open.spotify.com/track/2P2A2quqdVt99XQxTfyUWa"
-    },
-    {
-      "added_at": "2025-07-04 11:08:09",
-      "album": {
         "name": "Schumann: Humoreske, Op. 20 / Fantasia In C, Op. 17",
         "url": "https://open.spotify.com/album/3udA4oqeaONjqWRcudxaCo"
       },
@@ -391,6 +383,26 @@
       "duration_ms": 1579000,
       "name": "Humoreske, op. 20",
       "url": "https://open.spotify.com/track/59vvQ1vzVLkGZ8CsaaaJDi"
+    },
+    {
+      "added_at": "2025-07-04 11:08:09",
+      "album": {
+        "name": "Schumann: Piano Works",
+        "url": "https://open.spotify.com/album/2ndIhvARtfbePKnG2ilv57"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Vladimir Horowitz",
+          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+        }
+      ],
+      "duration_ms": 439213,
+      "name": "Concerto Without Orchestra, Op. 14 (Grand Sonata No. 3 in F Minor): III. Quasi variazioni. Andantino de Clara Wieck",
+      "url": "https://open.spotify.com/track/2IAnU53rak76TpGpA515Xl"
     },
     {
       "added_at": "2025-07-04 11:08:09",
@@ -419,8 +431,8 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
-        "name": "Schumann: Piano Works",
-        "url": "https://open.spotify.com/album/2ndIhvARtfbePKnG2ilv57"
+        "name": "Besser ohne Worte",
+        "url": "https://open.spotify.com/album/4AAbCsOBu1MXyE1d8VXQc4"
       },
       "artists": [
         {
@@ -428,13 +440,41 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Vladimir Horowitz",
-          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+          "name": "duo tuba & harfe",
+          "url": "https://open.spotify.com/artist/1GNzzWtAC8PwUERRL8Ldkv"
+        },
+        {
+          "name": "Andreas Martin Hofmeir",
+          "url": "https://open.spotify.com/artist/7fPSTBoGnZDdi3uSsMZtLW"
+        },
+        {
+          "name": "Andreas Mildner",
+          "url": "https://open.spotify.com/artist/5zTimQ8WAG2hGhQqWtoDVv"
         }
       ],
-      "duration_ms": 439213,
-      "name": "Concerto Without Orchestra, Op. 14 (Grand Sonata No. 3 in F Minor): III. Quasi variazioni. Andantino de Clara Wieck",
-      "url": "https://open.spotify.com/track/2IAnU53rak76TpGpA515Xl"
+      "duration_ms": 97003,
+      "name": "Loreley, Op. 53 No. 2 (Arr. A. Mildner & A. Martin for Harp & Tuba)",
+      "url": "https://open.spotify.com/track/2P2A2quqdVt99XQxTfyUWa"
+    },
+    {
+      "added_at": "2025-07-04 11:08:09",
+      "album": {
+        "name": "Schumann - Jan\u00e1\u010dek - Berg",
+        "url": "https://open.spotify.com/album/4exYsowx0ys0TtAh6R7DwQ"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Davidsb\u00fcndlert\u00e4nze, Op. 6: XVII. Wie aus der Ferne",
+      "url": "https://open.spotify.com/track/74hhrFJWIKOa5xkpNU2dJX"
     },
     {
       "added_at": "2025-07-04 11:08:09",
@@ -467,26 +507,6 @@
       "duration_ms": 112520,
       "name": "Das Paradies und die Peri, Op. 50, Erster Teil: No. 8 Weh, weh, er fehlte das Ziel",
       "url": "https://open.spotify.com/track/690XpbTwwfD1pd6tw8rUGJ"
-    },
-    {
-      "added_at": "2025-07-04 11:08:09",
-      "album": {
-        "name": "Schumann - Jan\u00e1\u010dek - Berg",
-        "url": "https://open.spotify.com/album/4exYsowx0ys0TtAh6R7DwQ"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Davidsb\u00fcndlert\u00e4nze, Op. 6: XVII. Wie aus der Ferne",
-      "url": "https://open.spotify.com/track/74hhrFJWIKOa5xkpNU2dJX"
     },
     {
       "added_at": "2025-07-04 11:08:09",
@@ -539,30 +559,6 @@
     {
       "added_at": "2025-07-04 11:08:09",
       "album": {
-        "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
-        "url": "https://open.spotify.com/album/6jttl9oqX32A5kVSRkBT1C"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Andrew Wan",
-          "url": "https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF"
-        },
-        {
-          "name": "Charles Richard-Hamelin",
-          "url": "https://open.spotify.com/artist/50mnKnOEmIVxdz2mNoNOa5"
-        }
-      ],
-      "duration_ms": 484560,
-      "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
-      "url": "https://open.spotify.com/track/6FvHLsIsj4HI5eaX7dZvxm"
-    },
-    {
-      "added_at": "2025-07-04 11:08:09",
-      "album": {
         "name": "Schumann: Myrthen",
         "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
       },
@@ -583,6 +579,30 @@
       "duration_ms": 139000,
       "name": "Myrthen, Op. 25: No. 1, Widmung",
       "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
+    },
+    {
+      "added_at": "2025-07-04 11:08:09",
+      "album": {
+        "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
+        "url": "https://open.spotify.com/album/6jttl9oqX32A5kVSRkBT1C"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Andrew Wan",
+          "url": "https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF"
+        },
+        {
+          "name": "Charles Richard-Hamelin",
+          "url": "https://open.spotify.com/artist/50mnKnOEmIVxdz2mNoNOa5"
+        }
+      ],
+      "duration_ms": 484560,
+      "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
+      "url": "https://open.spotify.com/track/6FvHLsIsj4HI5eaX7dZvxm"
     },
     {
       "added_at": "2025-07-04 11:08:09",
@@ -1219,26 +1239,6 @@
       "duration_ms": 105000,
       "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo",
       "url": "https://open.spotify.com/track/5W5tY94PSsrQYe2tU4R9xA"
-    },
-    {
-      "added_at": "2025-07-04 11:08:09",
-      "album": {
-        "name": "Schumann, R.: Intermezzi, Op. 4 / Impromptus, Op. 5 / 3 Romances, Op. 28",
-        "url": "https://open.spotify.com/album/62L7PgeT8my5HEifsNReiv"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "D\u00e9nes V\u00e1rjon",
-          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Albumbl\u00e4tter, Op. 124: No. 16, Schlummerlied",
-      "url": "https://open.spotify.com/track/17FwKTEUj0kSWjCjdhU4sE"
     },
     {
       "added_at": "2025-07-04 11:08:09",

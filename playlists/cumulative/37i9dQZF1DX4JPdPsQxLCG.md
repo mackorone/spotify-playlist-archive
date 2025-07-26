@@ -4,12 +4,12 @@
 
 > Epic tunes for the open road.
 
-480 songs - 1 day 6 hr 34 min
+481 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11: 11](https://open.spotify.com/track/44knIcu8J6lhqM1elwRggd) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [High Noon](https://open.spotify.com/album/5eQZPL2dLics2x2ux0OBuF) | 3:40 | 2022-09-10 | 2022-09-15 |
-| [4Runner](https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 3:49 | 2024-04-19 |  |
+| [4Runner](https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 3:49 | 2024-04-19 | 2025-07-26 |
 | [5 Days in May \- 2012 Remaster](https://open.spotify.com/track/5AIcpQ7JFM3DZju7bPqb8t) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 7:14 | 2022-05-02 | 2023-10-14 |
 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 | 2024-05-31 |  |
 | [99 Nights](https://open.spotify.com/track/1Bypyv9ERflkpxne0dZMBW) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/4bpKVnI4OEz0Akg57pTPIk) | 2:56 | 2023-06-23 | 2023-08-28 |
@@ -337,6 +337,7 @@
 | [S.O.S\. \(Sawed Off Shotgun\)](https://open.spotify.com/track/3NyovXfcpc8PDWWKH7xEDs) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Young Beauties and Fools](https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE) | 3:15 | 2023-05-18 | 2023-08-05 |
 | [Sandpaper \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:36 | 2024-07-05 |  |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2024-04-19 |  |
+| [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 | 2025-07-24 |  |
 | [Seasons in the Sun](https://open.spotify.com/track/6AhUX0ObPgTnS5GGFrRidN) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:25 | 2022-09-13 | 2022-11-13 |
 | [Seasons in the Sun](https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Seasons In The Sun \(Expanded Edition\)](https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J) | 3:28 | 2022-05-02 | 2024-04-19 |
 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 | 2024-04-19 |  |

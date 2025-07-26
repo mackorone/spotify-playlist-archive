@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-432 songs - 23 hr 19 min
+433 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Ecstasy Of Soul](https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Ecstasy Of Soul](https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8) | 3:58 | 2023-02-24 |  |
 | [Emergence](https://open.spotify.com/track/5NM99r8sRxJ1vbVlAopATe) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [LLLLNNNN](https://open.spotify.com/artist/5EnVoD5aCLkfAkZR6hFrSR) | [Emergence](https://open.spotify.com/album/1ZdDg0Y5tTFYMGlGMN0VJd) | 2:56 | 2022-01-07 | 2022-07-21 |
 | [Eternity](https://open.spotify.com/track/1apKTl69lh4dXHcUOZer8l) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Eternity](https://open.spotify.com/album/3zUXUyx9kx2Pp7ANoLtzxV) | 3:01 | 2021-11-19 | 2022-01-08 |
-| [F.Y.U.](https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [F.Y.U.](https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q) | 2:41 | 2023-12-15 |  |
+| [F.Y.U.](https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [F.Y.U.](https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q) | 2:41 | 2023-12-15 | 2025-07-26 |
 | [Faded](https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI) | [Zannen](https://open.spotify.com/artist/2Dtb2Ccia5ZI5BSPuOctuC), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Faded](https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod) | 2:56 | 2022-01-07 | 2022-08-03 |
 | [Falling](https://open.spotify.com/track/7nc4yn0oktMNoRV1vaG1de) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Falling](https://open.spotify.com/album/5P9Te9AL9l7qphGAXne9rt) | 3:31 | 2021-11-19 | 2022-01-08 |
 | [Falling \(Alexandar Smash Remix\)](https://open.spotify.com/track/3zJTXgtzn4mr9YYanvSGfp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Alexandar Smash](https://open.spotify.com/artist/2eheBZ3uhxzH8eBRvV0xtv) | [Falling \(Alexandar Smash Remix\)](https://open.spotify.com/album/0jbULvSiNGAHkiTrtoVZTR) | 3:26 | 2022-01-07 | 2022-08-17 |
@@ -329,6 +329,7 @@
 | [SAVE U NOW](https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [WRATH OF THE WICKED](https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb) | 3:39 | 2023-09-22 | 2024-01-06 |
 | [Save You \(feat\. Megan Stokes\) \- Kompany Remix](https://open.spotify.com/track/2ll5WUzszERWz9M11Mc6ij) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Megan Stokes](https://open.spotify.com/artist/5ZjllHNxBDJvMsJCzbPFEX), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Save You \(feat\. Megan Stokes\) \[Remixes\]](https://open.spotify.com/album/3eiIeSHsUUURB7ihCn7gJt) | 3:36 | 2021-11-19 | 2022-01-08 |
 | [SCUMBAG](https://open.spotify.com/track/033oLyTtjiWPmHadxRcBm9) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/4zzDlOcgTKHR7QiA1I6VHv) | 3:06 | 2022-06-17 | 2022-06-28 |
+| [Section](https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Section](https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT) | 2:54 | 2025-07-25 |  |
 | [Seduce / Destroy](https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Seduce / Destroy](https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv) | 3:02 | 2022-03-11 | 2023-04-29 |
 | [SEE YOU DROP](https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SEE YOU DROP](https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz) | 2:37 | 2024-03-01 |  |
 | [Seizure](https://open.spotify.com/track/5wqPpv0nROPAMg7h7R0wA8) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Seizure](https://open.spotify.com/album/4OFTlIf1lE1QToK9Ckrzla) | 2:51 | 2022-07-08 | 2023-03-18 |

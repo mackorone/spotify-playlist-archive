@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 118 | [My My](https://open.spotify.com/track/473Gdc2FyRRR0Zq1nUDmEE) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [The Valley](https://open.spotify.com/album/5pXMD5ZtWugzcLXl6uBTrq) | 3:02 |
 | 119 | [hot shit](https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:55 |
 | 120 | [Art Of Letting Go \(feat\. James Gillespie\)](https://open.spotify.com/track/4dt4MyGRdBmpAukq0r5GuX) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Discovery](https://open.spotify.com/album/1PpVHHdTAnWPTWg2v6ERZH) | 3:22 |
-| 121 | [Bebe](https://open.spotify.com/track/4cbbcvNAEwB1Mh6fvpFW0O) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Bebe](https://open.spotify.com/album/6VarZmpkqYXFYsO1NcWJX3) | 2:16 |
-| 122 | [Dumb \(Good Ol' Time\)](https://open.spotify.com/track/6Vv1swjSxWPCDmvoMglwlJ) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Dumb \(Good Ol' Time\)](https://open.spotify.com/album/4HP3WVJsQNAHDtZEOPzWBW) | 1:55 |
+| 121 | [Dumb \(Good Ol' Time\)](https://open.spotify.com/track/6Vv1swjSxWPCDmvoMglwlJ) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Dumb \(Good Ol' Time\)](https://open.spotify.com/album/4HP3WVJsQNAHDtZEOPzWBW) | 1:55 |
+| 122 | [Bebe](https://open.spotify.com/track/4cbbcvNAEwB1Mh6fvpFW0O) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Bebe](https://open.spotify.com/album/6VarZmpkqYXFYsO1NcWJX3) | 2:16 |
 | 123 | [OH MY!](https://open.spotify.com/track/6vX0pfXyDgG34SofgP93Hp) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:31 |
 | 124 | [High School](https://open.spotify.com/track/3aWmJVDmjKtmSCLLjUwJ7r) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [High School](https://open.spotify.com/album/7KhHLIouEPya0k5PGv5gBh) | 2:34 |
 | 125 | [Turn It Up Slow](https://open.spotify.com/track/4XXErZuhTruaAy5FTa6tYM) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 4:23 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 166 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 | 167 | [indica](https://open.spotify.com/track/3fvn8a0X0yOdXSi25fYPME) | [jesse](https://open.spotify.com/artist/6BtIpll353jdO2Zv8YPVsT) | [kat](https://open.spotify.com/album/3SR1oVf3c8rqN74VyzI400) | 1:49 |
 
-Snapshot ID: `Ab3qagAAAACgEQ5CvhSxiAGwEJUbNEFO`
+Snapshot ID: `Ab3wAAAAAADU1JaQG1BjsRHfxFWHcPYm`

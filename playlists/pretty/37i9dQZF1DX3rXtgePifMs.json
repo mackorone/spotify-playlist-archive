@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 118398,
+  "num_followers": 118404,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 265213,
+      "name": "LONELY",
+      "url": "https://open.spotify.com/track/7r9DWgmElZrjI0G8erYKRr"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Heavier",
         "url": "https://open.spotify.com/album/2f7U1Mz1SxgAr88KdCRT1a"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 257799,
       "name": "Heavier",
       "url": "https://open.spotify.com/track/5KPYMz7DUZc6ZdcxNgfL18"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 265213,
-      "name": "LONELY",
-      "url": "https://open.spotify.com/track/7r9DWgmElZrjI0G8erYKRr"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Passport Bros (with J. Cole)",
-        "url": "https://open.spotify.com/album/2iajSKu8NgMAWhNNXDaIGz"
-      },
-      "artists": [
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 164551,
-      "name": "Passport Bros (with J. Cole)",
-      "url": "https://open.spotify.com/track/5EAxubrBUiiNnbx6ygl8cI"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "098RADIO vol.1 Hosted by Awich",
         "url": "https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 289846,
       "name": "RASEN in OKINAWA",
       "url": "https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Passport Bros (with J. Cole)",
+        "url": "https://open.spotify.com/album/2iajSKu8NgMAWhNNXDaIGz"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 164551,
+      "name": "Passport Bros (with J. Cole)",
+      "url": "https://open.spotify.com/track/5EAxubrBUiiNnbx6ygl8cI"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1407,30 +1407,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Haunt My Mind (Machinedrum Remix)",
-        "url": "https://open.spotify.com/album/28qqCQqnNzVnAsfXOsuaDU"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Tudor",
-          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
-        },
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        }
-      ],
-      "duration_ms": 205140,
-      "name": "Haunt My Mind - Machinedrum Remix",
-      "url": "https://open.spotify.com/track/3TXrfDuEZxTaXLG8236DyQ"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Luv 4 Rent",
         "url": "https://open.spotify.com/album/1gIhUSOKHS9WoUCZeBR8Ao"
       },
@@ -1451,6 +1427,30 @@
       "duration_ms": 268667,
       "name": "Pro Freak (with Doechii, Fatman Scoop)",
       "url": "https://open.spotify.com/track/2pDUb0DE5L5soxdQfyzDDc"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Haunt My Mind (Machinedrum Remix)",
+        "url": "https://open.spotify.com/album/28qqCQqnNzVnAsfXOsuaDU"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Tudor",
+          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+        },
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        }
+      ],
+      "duration_ms": 205140,
+      "name": "Haunt My Mind - Machinedrum Remix",
+      "url": "https://open.spotify.com/track/3TXrfDuEZxTaXLG8236DyQ"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "EAZI",
+        "url": "https://open.spotify.com/album/27KRRLn4woQNwuJ8GCweNM"
+      },
+      "artists": [
+        {
+          "name": "Young Eman",
+          "url": "https://open.spotify.com/artist/5ChhhneeWudlENWJcstXzL"
+        }
+      ],
+      "duration_ms": 150474,
+      "name": "EAZI",
+      "url": "https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Tings My Way",
         "url": "https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 124878,
       "name": "Tings My Way",
       "url": "https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "EAZI",
-        "url": "https://open.spotify.com/album/27KRRLn4woQNwuJ8GCweNM"
-      },
-      "artists": [
-        {
-          "name": "Young Eman",
-          "url": "https://open.spotify.com/artist/5ChhhneeWudlENWJcstXzL"
-        }
-      ],
-      "duration_ms": 150474,
-      "name": "EAZI",
-      "url": "https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 285898,
-      "name": "Follow the Cyborg",
-      "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "MMM",
         "url": "https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 144928,
       "name": "MMM",
       "url": "https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 285898,
+      "name": "Follow the Cyborg",
+      "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
     },
     {
       "added_at": "2023-11-20 15:00:00",

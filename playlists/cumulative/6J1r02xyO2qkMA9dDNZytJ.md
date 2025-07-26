@@ -4,7 +4,7 @@
 
 > All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-79 songs - 4 hr 1 min
+82 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [All 4 Love \(feat\. Tasty Lopez\)](https://open.spotify.com/track/3DYR8VRICT8dQ2w3VoawI2) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m), [Tasty Lopez](https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0) | [All 4 Love \(feat\. Tasty Lopez\)](https://open.spotify.com/album/42jduxKfZu2KvXjyTVnSZO) | 3:25 | 2025-03-28 |  |
 | [Bassline Pumpin'](https://open.spotify.com/track/0AbwwCB5uchDxutbdwK7eO) | [WILES \(UK\)](https://open.spotify.com/artist/73nDnisORrZLl5Ju8JoQDG), [LOCKR](https://open.spotify.com/artist/6reUviHHOYZNZasLTp3tLs) | [Bassline Pumpin'](https://open.spotify.com/album/6iMTrSOeLUqaWI83joyj2Z) | 2:19 | 2025-05-23 |  |
 | [BATTERY OPERATED](https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [BATTERY OPERATED](https://open.spotify.com/album/3e2A87CYUkCLsEtpDZXE8v) | 2:07 | 2025-04-25 |  |
+| [Body Move](https://open.spotify.com/track/58ral7Fw9tcXR2Y8zFxcM0) | [Sophia Guerrero](https://open.spotify.com/artist/2vr2Zel4lL47VOq86RCEHi), [May Marnie](https://open.spotify.com/artist/04XLxFtwdoKFKGPMpyvqbf) | [Body Move](https://open.spotify.com/album/5s8QRKX9HB8BYO8FyEuS7r) | 3:20 | 2025-07-25 |  |
 | [Bodywork](https://open.spotify.com/track/3orDlpqHEiWmlbwX4vKxDg) | [KEFFI](https://open.spotify.com/artist/06x3YBkBTZLOZN4C2I6MlY) | [Bodywork](https://open.spotify.com/album/6TK9BH0MHYfkS6ZLxqvZAO) | 3:22 | 2025-06-27 |  |
 | [Casablanca \(PRX003\)](https://open.spotify.com/track/4Gv7YLqaBz55e9vtrsJsrA) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Casablanca \(PRX003\)](https://open.spotify.com/album/1G35maESkpGKInECEfA8KC) | 2:36 | 2025-04-25 |  |
 | [Caught Up In Your Love](https://open.spotify.com/track/0DqoMb5k3NMkl0c8HwB6GP) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Caught Up In Your Love](https://open.spotify.com/album/0yWqznzr2sfi11ZcNgm8Tx) | 3:07 | 2025-05-02 |  |
@@ -20,6 +21,7 @@
 | [D.A.N.C.E \- From F1® The Movie](https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [D.A.N.C.E \(From F1® The Movie\)](https://open.spotify.com/album/2AgQHiCnhTpiOwZ29rrZ6v) | 3:15 | 2025-06-27 |  |
 | [Dance To The Music](https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance To The Music](https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq) | 2:38 | 2025-03-28 |  |
 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 | 2025-07-08 |  |
+| [Draw The Line](https://open.spotify.com/track/3fy0xjYq6I0gU5E7M0XN1Q) | [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Draw The Line](https://open.spotify.com/album/7vW81eN7oTdk0b0LQUhNZJ) | 2:40 | 2025-07-25 |  |
 | [Excuse Me DJ](https://open.spotify.com/track/0ZJ4FfyO0a6trvIWefs2pz) | [Killfake](https://open.spotify.com/artist/5iQ5zOYomcR6F3gYon6GNW) | [Excuse Me DJ](https://open.spotify.com/album/6lllvWIPrR4TtTN3b04Npw) | 2:57 | 2025-05-30 |  |
 | [Feels Much Better](https://open.spotify.com/track/7wlZEUi72q9rpeST5bY8Zg) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Karretero](https://open.spotify.com/artist/6X4uyE91lE67Fh0f1Jj10o) | [Feels Much Better](https://open.spotify.com/album/5pFqgnu0TiRsmPLhsxv94v) | 2:59 | 2025-07-11 |  |
 | [Fired Up](https://open.spotify.com/track/2SceqwFV8GQ0UbYJiYRBKk) | [Deltech](https://open.spotify.com/artist/7zEG9zFPbxYG9rNhj3SJ5Y) | [Work That EP](https://open.spotify.com/album/6qj1d07MCLKihvBxLAnvUt) | 3:30 | 2025-06-20 |  |
@@ -50,6 +52,7 @@
 | [Let Me Feel](https://open.spotify.com/track/67OYTTGt7XnmRuSuGX75WV) | [Camila Jun](https://open.spotify.com/artist/1uL84YsTyxOmCPJSKYigme) | [Let Me Feel](https://open.spotify.com/album/5PCSStVCcabKH9rWMUGz9I) | 2:34 | 2025-06-20 |  |
 | [Let's Go All The Way](https://open.spotify.com/track/5FssdxeCVStnb6qoIqpu58) | [Soul Avengerz](https://open.spotify.com/artist/4Cx3Xgb8hVRlOlvjLNpUnS), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [Let's Go All The Way](https://open.spotify.com/album/6Lgtf6BU2DolsdZaRwqMl2) | 3:13 | 2025-07-11 |  |
 | [Lick](https://open.spotify.com/track/3yyU8dmNxJnBPAFa4oQdCo) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Lick](https://open.spotify.com/album/1ZTLn5TqaYR2TBvg2CkGKO) | 2:48 | 2025-04-18 |  |
+| [Life Plan](https://open.spotify.com/track/75wVo6aRNAvxCoJ57EJyd4) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Life Plan](https://open.spotify.com/album/588n4tJqzwXaGsVojnBiYM) | 2:58 | 2025-07-25 |  |
 | [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 | 2025-05-23 |  |
 | [Like That](https://open.spotify.com/track/2BuV5iXq2xn04ze6c4T533) | [Fish56Octagon](https://open.spotify.com/artist/46Ro78dkP2X0XUKmiovwL3) | [Like That](https://open.spotify.com/album/3UNsAUmWIpLdPycnCiBK6u) | 3:01 | 2025-05-02 |  |
 | [Lipstick](https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK) | [Alaia & Gallo](https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25) | [Lipstick](https://open.spotify.com/album/6f7dpXKC3gqsF0R02qKxhb) | 3:01 | 2025-06-27 |  |

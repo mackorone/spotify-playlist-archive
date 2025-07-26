@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105455,
+  "num_followers": 105469,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-07-24 22:00:45",
       "album": {
+        "name": "IS IT",
+        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 164206,
+      "name": "IS IT",
+      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
+    },
+    {
+      "added_at": "2025-07-24 22:00:45",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2025-07-24 22:00:45",
       "album": {
-        "name": "IS IT",
-        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 164206,
-      "name": "IS IT",
-      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
-    },
-    {
-      "added_at": "2025-07-24 22:00:45",
-      "album": {
         "name": "Something Beautiful",
         "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-07-24 22:00:45",
       "album": {
-        "name": "Holy Blindfold",
-        "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Holy Blindfold",
-      "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
-    },
-    {
-      "added_at": "2025-07-24 22:00:45",
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "added_at": "2025-07-24 22:00:45",
+      "album": {
+        "name": "Holy Blindfold",
+        "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Holy Blindfold",
+      "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
     },
     {
       "added_at": "2025-07-24 22:00:45",
@@ -763,8 +763,8 @@
     {
       "added_at": "2025-07-24 22:00:45",
       "album": {
-        "name": "God Went Crazy",
-        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
+        "name": "I've Tried Everything But Therapy (Complete Edition)",
+        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
       },
       "artists": [
         {
@@ -772,9 +772,25 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 183034,
-      "name": "God Went Crazy",
-      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
+      "duration_ms": 190124,
+      "name": "Need You More",
+      "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
+    },
+    {
+      "added_at": "2025-07-24 22:00:45",
+      "album": {
+        "name": "Fuck Me Eyes",
+        "url": "https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 364800,
+      "name": "Fuck Me Eyes",
+      "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
     },
     {
       "added_at": "2025-07-24 22:00:45",
@@ -799,22 +815,6 @@
       "duration_ms": 215555,
       "name": "Save My Love (with Ellie Goulding & AVAION)",
       "url": "https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5"
-    },
-    {
-      "added_at": "2025-07-24 22:00:45",
-      "album": {
-        "name": "Fuck Me Eyes",
-        "url": "https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 364800,
-      "name": "Fuck Me Eyes",
-      "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
     },
     {
       "added_at": "2025-07-24 22:00:45",
@@ -851,8 +851,8 @@
     {
       "added_at": "2025-07-24 22:00:45",
       "album": {
-        "name": "I've Tried Everything But Therapy (Complete Edition)",
-        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
+        "name": "God Went Crazy",
+        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
       },
       "artists": [
         {
@@ -860,9 +860,25 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 190124,
-      "name": "Need You More",
-      "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
+      "duration_ms": 183034,
+      "name": "God Went Crazy",
+      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
+    },
+    {
+      "added_at": "2025-07-24 22:00:45",
+      "album": {
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "1965",
+      "url": "https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h"
     },
     {
       "added_at": "2025-07-24 22:00:45",
@@ -903,34 +919,34 @@
     {
       "added_at": "2025-07-24 22:00:45",
       "album": {
-        "name": "Sex Hysteria",
-        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
       },
       "artists": [
         {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 168247,
-      "name": "1965",
-      "url": "https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h"
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
       "added_at": "2025-07-24 22:00:45",
       "album": {
-        "name": "Man Of The Year",
-        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+        "name": "Why Is She Still Here?",
+        "url": "https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
         }
       ],
-      "duration_ms": 180433,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+      "duration_ms": 150255,
+      "name": "Why Is She Still Here?",
+      "url": "https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8"
     },
     {
       "added_at": "2025-07-24 22:00:45",
@@ -951,18 +967,18 @@
     {
       "added_at": "2025-07-24 22:00:45",
       "album": {
-        "name": "moisturizer",
-        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 204475,
-      "name": "mangetout",
-      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
     },
     {
       "added_at": "2025-07-24 22:00:45",
@@ -979,22 +995,6 @@
       "duration_ms": 176923,
       "name": "Wet, Hot American Dream",
       "url": "https://open.spotify.com/track/3kTYwlSBqZZ1a5sLCS3SBZ"
-    },
-    {
-      "added_at": "2025-07-24 22:00:45",
-      "album": {
-        "name": "Why Is She Still Here?",
-        "url": "https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 150255,
-      "name": "Why Is She Still Here?",
-      "url": "https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8"
     },
     {
       "added_at": "2025-07-24 22:00:45",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-07-24 22:00:45",
       "album": {
-        "name": "En dr\u00f8m om et menneske",
-        "url": "https://open.spotify.com/album/5etPPW2saTnIg66emll6tp"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "En dr\u00f8m om et menneske",
-      "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
-    },
-    {
-      "added_at": "2025-07-24 22:00:45",
-      "album": {
         "name": "The Mood",
         "url": "https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 172081,
       "name": "The Mood",
       "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
+    },
+    {
+      "added_at": "2025-07-24 22:00:45",
+      "album": {
+        "name": "En dr\u00f8m om et menneske",
+        "url": "https://open.spotify.com/album/5etPPW2saTnIg66emll6tp"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "En dr\u00f8m om et menneske",
+      "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
     },
     {
       "added_at": "2025-07-24 22:00:45",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-07-24 22:00:45",
       "album": {
+        "name": "F1 The Album (Cinematic Edition)",
+        "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 154617,
+      "name": "All At Once",
+      "url": "https://open.spotify.com/track/3Jd3aTezMFWeuDcUkANdQQ"
+    },
+    {
+      "added_at": "2025-07-24 22:00:45",
+      "album": {
         "name": "A Better World",
         "url": "https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr"
       },
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2025-07-24 22:00:45",
       "album": {
-        "name": "F1 The Album (Cinematic Edition)",
-        "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 154617,
-      "name": "All At Once",
-      "url": "https://open.spotify.com/track/3Jd3aTezMFWeuDcUkANdQQ"
-    },
-    {
-      "added_at": "2025-07-24 22:00:45",
-      "album": {
         "name": "Combust",
         "url": "https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 138161,
       "name": "Combust",
       "url": "https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP"
-    },
-    {
-      "added_at": "2025-07-24 22:00:45",
-      "album": {
-        "name": "10 ud af 10",
-        "url": "https://open.spotify.com/album/16LdEi4c4yKZiNxjpIEi3p"
-      },
-      "artists": [
-        {
-          "name": "Berg",
-          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
-        }
-      ],
-      "duration_ms": 150705,
-      "name": "10 ud af 10",
-      "url": "https://open.spotify.com/track/6kqqErlEe7aIrUZztf5skM"
     },
     {
       "added_at": "2025-07-24 22:00:45",
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2025-07-24 22:00:45",
       "album": {
+        "name": "10 ud af 10",
+        "url": "https://open.spotify.com/album/16LdEi4c4yKZiNxjpIEi3p"
+      },
+      "artists": [
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        }
+      ],
+      "duration_ms": 150705,
+      "name": "10 ud af 10",
+      "url": "https://open.spotify.com/track/6kqqErlEe7aIrUZztf5skM"
+    },
+    {
+      "added_at": "2025-07-24 22:00:45",
+      "album": {
         "name": "Sweet Serotonin",
         "url": "https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK"
       },
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2025-07-24 22:00:45",
       "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 231737,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q"
+    },
+    {
+      "added_at": "2025-07-24 22:00:45",
+      "album": {
         "name": "davina mccall",
         "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 227794,
       "name": "davina mccall",
       "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
-    },
-    {
-      "added_at": "2025-07-24 22:00:45",
-      "album": {
-        "name": "ALL IN",
-        "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 136096,
-      "name": "ALL IN",
-      "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
     }
   ],
   "unique_name": "De nye",

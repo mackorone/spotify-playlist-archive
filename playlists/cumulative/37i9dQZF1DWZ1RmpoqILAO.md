@@ -4,7 +4,7 @@
 
 > clocking in for elderberry wine summer 🍇
 
-299 songs - 19 hr 15 min
+300 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Henry](https://open.spotify.com/track/0OZsvq808YGXkOyKMTgZH2) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [For Young Hearts](https://open.spotify.com/album/4ls7LePd8KDEwAVEVyoLvH) | 3:47 | 2024-04-14 | 2024-06-08 |
 | [Henry](https://open.spotify.com/track/64mnJp1lv1xuahULNJnqsV) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [For Young Hearts](https://open.spotify.com/album/3rwKopMatoXfhbLvlTLE6p) | 3:47 | 2023-05-19 | 2024-04-19 |
 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 | 2024-09-27 |  |
+| [Highway](https://open.spotify.com/track/4hJQ4YFyYRJ1dLDaPEyyKG) | [Shallowater](https://open.spotify.com/artist/3BV5N0bOmtkavYFUSHsfMQ) | [Highway](https://open.spotify.com/album/2sX4sczn1o3BQPcmCebyue) | 5:48 | 2025-07-25 |  |
 | [Hold Steady](https://open.spotify.com/track/4feJkKbKSeuVVquVUWZXSi) | [Kacey Johansing](https://open.spotify.com/artist/5V1yrA8FrMhKkl4rCu6flc) | [The Hiding](https://open.spotify.com/album/2bVhjBuYON1SBpSieHpd2h) | 3:13 | 2023-02-23 | 2025-06-28 |
 | [How to Rent a Room](https://open.spotify.com/track/43DMGGEnfzZGr7k0j1CtQs) | [Silver Jews](https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z) | [The Natural Bridge](https://open.spotify.com/album/53s93tksSeBis2gL50AQPJ) | 3:02 | 2024-11-15 |  |
 | [Hunter](https://open.spotify.com/track/1fRRvjB2eKyWJAOuinZ5NZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/5f2StDzDcdxE0JR6K7YiDT) | 3:48 | 2023-04-28 | 2023-06-12 |

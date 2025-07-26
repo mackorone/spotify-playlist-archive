@@ -2,9 +2,9 @@
 
 ### [Youth Service](https://open.spotify.com/playlist/37i9dQZF1DX2VXwwgu0PzV)
 
-> Music for when you've got your Jesus on and your swag up \. <br/>Cover: Sal Ly
+> Music for when you've got your Jesus on and your swag up \. <br/>Cover: Nina Shezz
 
-1,180 songs - 2 day 15 hr 57 min
+1,181 songs - 2 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,6 +605,7 @@
 | [KINGDOM](https://open.spotify.com/track/2GHhKyfvRJqKzlaih4tsPx) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [KINGDOM](https://open.spotify.com/album/20PNz1RIBfLjNb62dIhfA0) | 1:36 | 2025-04-04 | 2025-06-20 |
 | [Kingdom Business](https://open.spotify.com/track/0eRXjkHgPK8nfgSz1W6On8) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [ST\-Saint](https://open.spotify.com/artist/1Ibt48HCzHnDbkZYstwnTw), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [Kingdom Business](https://open.spotify.com/album/7slHnMjanj0tMxf0jVcQbr) | 3:30 | 2023-12-01 | 2024-01-26 |
 | [Know You More](https://open.spotify.com/track/1cb2KCLmAucfQD6d2hZmsQ) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j) | [Know You More](https://open.spotify.com/album/7uzRlprq4pWJekjD1dAZnt) | 2:04 | 2025-01-10 | 2025-03-07 |
+| [Kount Ur Blessings](https://open.spotify.com/track/0b0k27TpN4tU3yfc43uHJm) | [KarlaGod](https://open.spotify.com/artist/2QlFgME9RwrC4SToTWKAse) | [Kount Ur Blessings](https://open.spotify.com/album/1VuaD4rhuwn35s02W9zoOF) | 1:40 | 2025-07-25 |  |
 | [Kpeme](https://open.spotify.com/track/7A2nBqZ1wxJX49n0TYrwtq) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ThisIsPrinx](https://open.spotify.com/album/5pqNbCEWRERViZjzrJS76h) | 2:31 | 2023-02-02 | 2023-05-26 |
 | [Kumama](https://open.spotify.com/track/0T1976UbQjxp4gp529DmQ7) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Kumama](https://open.spotify.com/album/0rE7B3Buwz2JCQjdPZWLXw) | 3:20 | 2025-03-07 | 2025-05-02 |
 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 | 2023-08-11 |  |
